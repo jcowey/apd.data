@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1998" xml:id="Grohmann_APEL_236" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 236</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_236</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169728</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ثيد<supplied reason="lost" cert="high">ر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> ÷ ببنوته الأشموني ـــــــــــــــ 
+<lb n="4"/>  ÷ ÷÷÷ ÷÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" extent="1" unit="character" /> ÷ مونه بن أ<gap reason="illegible" precision="low" extent="3"/>وه ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> ÷<gap reason="illegible" extent="1" unit="character" />÷ <gap reason="illegible" extent="1" unit="character" /> ÷ <unclear reason="undefined" cert="high">÷</unclear> ÷÷ <unclear reason="undefined" cert="high">÷</unclear> 
+<lb n="7"/>  ثيدر ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷ عيسى بن سري <del rend="erasure" status="unremarkable">÷÷</del> 
+<lb n="9"/>  ÷÷ ÷÷÷ <supplied reason="lost" cert="high">÷</supplied><unclear reason="undefined" cert="high">÷</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷ زكري الشّمّاس من أبو قلتـ<supplied reason="lost" cert="high">ـه</supplied> ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">÷</supplied>÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> ÷ مقاره أخــ<supplied reason="lost" cert="high">ــ</supplied>ـوه <del rend="erasure" status="unremarkable">÷÷</del> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> ÷<unclear reason="undefined" cert="high">÷</unclear> ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> الشّمّاس صاحب الـعمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـرر ÷ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> ÷<gap reason="illegible" extent="1" unit="character" />÷<unclear reason="undefined" cert="high">÷</unclear>÷ ÷÷<gap reason="illegible" extent="1" unit="character" />÷ إسحق <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـــا <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** 
+ <lb n="2"/>ṯiyudur *** 
+ <lb n="3"/>*** * 2 babnūtahu ăl ʾušmūniyyu *** 
+ <lb n="4"/>1/2 1/2+1/4+1/6 1/2+1/3+1/12 1/12 *** 
+ <lb n="5"/>* 4 mūnahu bnu ʾa***wh 1/48+1/48 *** 
+ <lb n="6"/>*** * 1/2+*+1/6 1 * 1 1/8+1/48 1/4 *** 
+ <lb n="7"/>ṯiyuduru 1/2+1/3+1/8 *** 
+ <lb n="8"/>*** 1/6+1/48 ʿīsà bnu sariyya 1/6+1/8 
+ <lb n="9"/>1/3+1/4 1/6+1/8+1/4 1/12 *** 
+ <lb n="10"/>*** 1/2+1/8 zikrī ăš šammāsu min ʾabū qultaha 1/12 *** 
+ <lb n="11"/>*** 1/4+1/3 1/8+2/3 *** 
+ <lb n="12"/>*** 1/4 maqārahu ʾaḫū hu 1/2 *** *** 
+ <lb n="13"/>*** 1/6+1/8 1/8 *** 
+ <lb n="14"/>*** **** **** ăš šammāsu ṣāḥibu ăl ʿm*rr 1/3 *** *** 
+ <lb n="15"/>*** 1/8+*+1/6+1/2+1/3 1/3+1/8+*+1/2 ʾisḥāqu *** ** *** 
+ <lb n="16"/>*** *** ***ʾ **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Theodo[r] ......
+			<lb n="3"/>
+		] 2 [.] Papnûte, originating from Ašmûn
+			<lb n="4"/>
+		] 1/2  1/2+1/4+1/6 carat  1/2+1/3+1/12  1/12 [
+			<lb n="5"/>
+		] 4 [.] Mône, son of A[...]ûh 1/48+1/48 [.] [
+			<lb n="6"/>
+		] [.] carat 1/2[+..]+1/6 carat 1 [.] 1 1/8+1/48 1/4 [
+			<lb n="7"/>
+		Theodor 1/2+1/3+1/8 [
+			<lb n="8"/>
+		] 1/6+1/48 ʿÎsâ b. Sarî〚1/6+1/8〛
+			<lb n="9"/>
+		1/3+1/4 carat 1/6+1/8+1/4 carat 1/12 [
+			<lb n="10"/>
+		] 1/2+1/8 Zikrî, the deacon, from Abû Qolt[e] 1/12 [
+			<lb n="11"/>
+		] ... 1/4+1/3 carat 1/8+2/3 carat [
+			<lb n="12"/>
+		] 1/4 Maqâre, his brother 〚1/2〛[.] [
+			<lb n="13"/>
+		] 1/6+1/8  1/8 [
+			<lb n="14"/>
+		] ......[.]..., the deacon, headman of al-......... 1/3...  [
+			<lb n="15"/>
+		] .. [..] 1/8, 1/2+1/3+1/6 carat, 1/2+[.]+1/8+1/3 carat, Isḥâq [..]..[..] [
+			<lb n="16"/>
+</ab></div>
+</body>
+</text>
+</TEI>

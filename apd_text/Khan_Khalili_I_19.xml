@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1495" xml:id="Khan_Khalili_I_19" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 19 (= P.Khalili II 68 verso = P.DiemKhalili 5)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_19</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169271</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  لأبي محمّد <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  رحمه 
+ <lb n="3 = Diem 1"/>  بسم اللّه الرّحمن ا<supplied reason="lost" cert="high">لرّحيم</supplied> 
+ <lb n="4 = Diem 2"/>  حفظـك اللّه وـأبقـ<supplied reason="lost" cert="high">ـاـك</supplied> 
+ <lb n="5 = Diem 3"/>  وأمتعـ<supplied reason="lost" cert="high">ـنـ</supplied>ـي بك 
+ <lb n="6 = Diem 4"/>  فارقتنا <app type="BL"><lem resp="APD">إذن </lem><rdg resp="Diem">إدريس</rdg></app> <app type="BL"><lem resp="omitted by Diem, tāʾ with a horizontal stroke above">تمين </lem><rdg resp="APD">ø</rdg></app> على أن <app type="BL"><lem resp="APD">تصلــ<supplied reason="lost" cert="high">ـنـ</supplied>ـي </lem><rdg resp="Diem">يصلني</rdg></app> 
+ <lb n="7 = Diem 5"/>  الجمعة ونخرج إلى منزل 
+ <lb n="8 = Diem 6"/>  <app type="BL"><lem resp="APD">نافع </lem><rdg resp="APD">يافع</rdg></app> لنفرغ ممّا بينـنا 
+ <lb n="9 = Diem 7"/>  وبينه <app type="BL"><lem resp="APD">وقد </lem><rdg resp="Diem÷ qāf reconstructed">وقال</rdg></app> <app type="BL"><lem resp="APD">أتاني </lem><rdg resp="Diem">نأتي</rdg></app> <app type="BL"><lem resp="APD">أبو </lem><rdg resp="Diem">لأبي</rdg></app> هرون 
+ <lb n="10 = Diem 8"/>  بما أحب أن نشتري منكم <app type="BL"><lem resp="APD">ويطبعه </lem><rdg resp="Diem">ويظيفه</rdg></app> 
+ <lb n="11 = Diem 9"/>  ويضعه عنّي حتّى <app type="BL"><lem resp="APD">تسلّم </lem><rdg resp="Diem">نسلّم</rdg></app> لك 
+ <lb n="12 = Diem 10"/>  الغلّة فإن لم <app type="BL"><lem resp="APD">نسلّم </lem><rdg resp="Diem">نسلّم</rdg></app> لك الغلّة 
+ <lb n="13 = Diem 11"/>  رددت المال إلى أبي هرون وأرجوا 
+ <lb n="14 = Diem 12"/>  أن <app type="BL"><lem resp="APD">يسلّم </lem><rdg resp="Diem">يسلّم</rdg></app> لنا الغلّة وزيادة 
+ <lb n="15 = Diem 13"/>  <app type="BL"><lem resp="APD">وأنا </lem><rdg resp="Diem">وأمّا</rdg></app> سهل فقد <app type="BL"><lem resp="APD">سهّل </lem><rdg resp="Diem">سهل</rdg></app> علينا 
+ <lb n="16 = Diem 14"/>  ولا <app type="BL"><lem resp="APD">جزى </lem><rdg resp="Diem">جزى</rdg></app> <app type="BL"><lem resp="APD">أدركني </lem><rdg resp="Diem">إدريس</rdg></app> خيرا 
+ <lb n="17 = Diem 15"/>  وقد أحببت أمتعني اللّه <app type="BL"><lem resp="APD">ان </lem><rdg resp="Diem; omitted by scribe">بك</rdg></app> پصلپى <app type="BL"><lem resp="APD">الحمعه </lem><rdg resp="Diem÷ yāʾ erased and replaced by ʾalif">تصلنا</rdg></app> 
+ <lb n="18 = Diem 16"/>  عند <app type="BL"><lem resp="APD">زقاق </lem><rdg resp="Diem">زقاق</rdg></app> <app type="BL"><lem resp="APD">التّلا </lem><rdg resp="Diem">بلاط</rdg></app> <app type="BL"><lem resp="omitted by Diem">صلني </lem><rdg resp="APD">ø</rdg></app> بالدّننير ونلتقي ثم نخرج إلى 
+ <lb n="19 = Diem 17"/>  منزل <app type="BL"><lem resp="APD">نافع </lem><rdg resp="APD">يافع</rdg></app> وأرجوا <app type="BL"><lem resp="APD">يكفيك </lem><rdg resp="Diem">يثيبك</rdg></app> اللّه 
+ <lb n="20 = Diem 18"/>  <app type="BL"><lem resp="APD">بقيامك </lem><rdg resp="Diem">بعنائك</rdg></app> لنا <app type="BL"><lem resp="APD">الجنّة </lem><rdg resp="Diem">الجنّة</rdg></app> <app type="BL"><lem resp="APD">نعمل </lem><rdg resp="Diem">معما</rdg></app> <app type="BL"><lem resp="APD">بحباك </lem><rdg resp="Diem">يجب</rdg></app> 
+ <lb n="21 = Diem 19"/>  علينا <app type="BL"><lem resp="APD">إليكم </lem><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD">وپروح </lem><rdg resp="Diem">الشّكر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>المال </lem><rdg resp="Diem">ونروح</rdg></app> 
+ <lb n="22 = Diem 20"/>  معك 
+ <lb n="margin 1 = Diem 21"/>  حفظك اللّه وأبقاك ودافع عنك وأعلم رأيك في ذلك 
+ <lb n="margin 2 = Diem 22"/>  حتّى <app type="BL"><lem resp="APD">نعتمد </lem><rdg resp="Diem">نعمل</rdg></app> عليه إن شا اللّه <app type="BL"><lem resp="APD">واصغى </lem><rdg resp="Diem">واصبر</rdg></app> <app type="BL"><lem resp="APD">بعينك </lem><rdg resp="Diem">نفسك</rdg></app> حفظك اللّه على حاجتنا 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>li ʾabī muḥammad:in *** 
+ <lb n="2"/>raḥima hu 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+ <lb n="5"/>wa ʾamtaʿa nī bi ka 
+ <lb n="6"/>fāraqta nā ʾiḏan ʾidrīsa tāmīn ø ʿalà ʾan taṣila yaṣila nī 
+ <lb n="7"/>ăl ǧumʿaẗa wa naḫruǧa ʾilà manzili 
+ <lb n="8"/>nāfiʿ:in yāfiʿ:in li nafruġa mimmā bayna nā 
+ <lb n="9"/>wa bayna hu wa qad qāla ʾatā naʾtī nī ø ø li ʾabū ʾabī hārūna 
+ <lb n="10"/>bi mā ʾaḥabba ʾuḥibbu ʾan naštariya min kum wa yaṭbaʿa yuẓīfa hu 
+ <lb n="11"/>wa yaḍaʿa hu ʿann ī ḥattà nusallima tusallama la ka 
+ <lb n="12"/>ăl ġallaẗa ġallaẗu fa ʾin lam nusallim tusallam la ka ăl ġallaẗa ġallaẗu 
+ <lb n="13"/>radadtu ăl māla ʾilà ʾabī harūna wa ʾarǧū 
+ <lb n="14"/>ʾan tusallima yusallima la nā ăl ġallaẗa wa ziyādaẗ:an 
+ <lb n="15"/>wa ʾanā ʾammā sahl:un fa qad sahhala sahula ʿalay nā 
+ <lb n="16"/>wa lā ǧazà ḫazà ʾadraka ʾidrīsa nī ø ḫayr:an 
+ <lb n="17"/>wa qad ʾaḥbabtu ʾamtaʿa nī ăl lāhu ø bi ø ka ʾan taṣila nī nā ăl ǧumʿaẗa 
+ <lb n="18"/>ʿinda rifāqi zuqāqi ăt balāṭa talāʾi ṣil ø nī ø bi ăd danānīri wa naltaqī ṯumma naḫruǧu ʾilà 
+ <lb n="19"/>manzili nāfiʿ:in yāfiʿ:in wa ʾarǧū yakfī yuṯību ka ăl lāhu 
+ <lb n="20"/>bi qiyāmi ʿanāʾi ka la nā ăl ǧannaẗa ḥibaẗa naʿmalu maʿamā ø bi yaǧibu ḥibāʾi ø ka ø ø la ø ka 
+ <lb n="21"/>ʿalay nā ʾilay mina kum ø ăš ø šukri wa narūḥu tarūḥa wa ăl mālu 
+ <lb n="22"/>maʿa ka 
+ <lb n="23"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa dāfaʿa ʿan ka wa ʾaʿlim raʾya ka fī ḏālika 
+ <lb n="24"/>ḥattà naʿtamida naʿmala ʿalay hi ʾin šāʾa ăl lāhu wa ĭṣġà ĭṣbir bi ø ʿayni nafsa ka ḥafiẓa ka ăl lāhu ʿalà ḥāǧati nā 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  To ʾAbū Muḥammad [   ]
+		 <lb n="2"/>
+ 	  (God) have mercy upon him.
+		 <lb n="3"/>
+ 	  Im Namen Gottes, des Barmherzigen und [Gnädigen] !
+ 	  In the name of God the merciful and [compassionate].
+		 <lb n="4"/>
+ 	  Gott beschütze und erhalte Dich
+ 	  May God protect you and preserve [you]
+		 <lb n="5"/>
+ 	  and give me joy through you.
+ 	  Und gebe mir durch Dich Freude!
+		 <lb n="6"/>
+ 	  Ich bin mit idrīs so verblieben, daß er
+ 	  You left us, therefore, with the assurance that you would come to me
+		 <lb n="7"/>
+ 	  am Freitag zu mir kommt und wir zum Haus
+ 	  on Friday and we would go out to the dwelling
+		 <lb n="8"/>
+ 	  of Nāfiʿ so that we may finish the business between him and us.
+ 	  von Nāfiʿ gehen, um unser Geschäft mit ihm abzuschließen.
+		 <lb n="9"/>
+ 	  ʾAbū Hārūn has come to me
+ 	  Er (Nāfiʿ) hat gesagt: &#034;Ich werde Abū Hārūn (dem Adressaten) vortragen,
+		 <lb n="10"/>
+ 	  was ich von Euch kaufen möchte, und er soll es hinzufügen (?)
+ 	  with what he wants us to buy from you and (wants to) stamp
+		 <lb n="11"/>
+ 	  and remit from me until the produce is delivered to you.
+ 	  und mir die Bazahlung erlassen, bis ich Dir
+		 <lb n="12"/>
+ 	  das Getreide liefere. Sollte ich Dir das Getreide nicht liefern, erstatte ich
+ 	  If the produce is not delivered to you
+		 <lb n="13"/>
+ 	  Abū Hārūn das Geld zurück.&#034; Ich hoffe doch,
+ 	  I shall return the money to ʾAbū Hārūn. I hope
+		 <lb n="14"/>
+ 	  daß er uns das Getreide und eine Draufgabe liefert!
+ 	  you will deliver the produce to us and extra.
+		 <lb n="15"/>
+ 	  I am well-off for (God) has made me comfortable
+ 	  Was Sahl betrifft, so hat er sich uns gegenüber allzu bequem verhalten
+		 <lb n="16"/>
+ 	  and not disgraced me - may He cause me to obtain good.
+ 	  und Idrīs (dessen Freundlichkeit) nicht mit Gutem vergolten.
+		 <lb n="17"/>
+ 	  Ich möchte nun gern - Gott gebe mir &lt;durch dich&gt; Freude - daß Du {mir} uns am Freitag
+ 	  I should like you - may God grant me the fulfillment of my wish - to come to me on Friday
+		 <lb n="18"/>
+ 	  at the home of our companions. Bring me the money. We shall meet then go out to
+ 	  bei der Balāṭ-Gasse die Dinare bringst, wir uns (also) treffen und 〚anschließend〛 anschließend zum
+		 <lb n="19"/>
+ 	  Haus von Nāfiʿ gehen. So hoffe ich denn, daß Gott
+ 	  the house of Nāfiʿ. I hope that God will aid you
+		 <lb n="20"/>
+ 	  Dir deine Mühe, die Du mit uns hast, mit dem Paradies vergilt, ganz abgesehen von
+ 	  in your undertaking for us of this favour so that we may do you the favour
+		 <lb n="21"/>
+ 	  dem Dank, den wir Dir unbedingt schulden! Wenn wir hingehen, wirst Du das Geld also
+ 	  which we would (therefore) owe you. Go then with
+		 <lb n="22"/>
+ 	  dabeihaben.
+ 	  the money.
+		 <lb n="23"/>
+ 	  Gott beschütze, erhalte und verteidige Dich! Teile mir Deine diesbezügliche Entscheidung mit,
+ 	  May God protect you, preserve you and defend you. Let me know your view about this
+		 <lb n="24"/>
+ 	  damit ich dementsprechend verfahre, so Gott will. Und über dich - Gott beschütze Dich - in Geduld bei unserem Anliegen.
+ 	  so that we may act upon it, God willing. Show concern for our needs, may God protect you.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

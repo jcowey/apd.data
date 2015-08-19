@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2588" xml:id="Herzfeld_Samarra_4" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.HerzfeldSamarra 4</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Herzfeld_Samarra_4</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>ـڤون صاحب الثّغر 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> رباط أيّد اللّه الأمير 
+ <lb n="4"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ڤروا </lem><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>ڤدوا</rdg></app> أصحاب 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/>ون حدود دهستان 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> صاحب الرّباط ـ<unclear reason="undefined" cert="high">ويعلمهم</unclear> 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/>ح خمسة أشهر من السّنة 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> سكك فيها دواب 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** ***ūna ṣāḥiba ăṯ ṯaġri 
+ <lb n="3"/>*** ribāṭ ʾayyada ăl lāhu ăl ʾamīra 
+ <lb n="4"/>***Frū ***Fdū ʾaṣḥāba 
+ <lb n="5"/>***ūna ḥudūda dahistāna 
+ <lb n="6"/>*** ṣāḥib ăr ribāṭi wa yaʿlamu hum 
+ <lb n="7"/>***ḥ ḫamsaẗ ʾašhur:in mina ăs sanaẗi 
+ <lb n="8"/>*** sikak fī hā dawābb:un 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="2"/>
+ 	  sie ... en den Herrn des Grenzlandes
+		 <lb n="3"/>
+ 	  ein ribāṭ, Allah unterstütze den Amīr
+		 <lb n="4"/>
+ 	  sie ...en die Herren
+		 <lb n="5"/>
+ 	  sie en. die Grenzen von Dahistān
+		 <lb n="6"/>
+ 	  der Herr des Ribāt und er? benachrichtigte sie?
+		 <lb n="7"/>
+ 	  den ... von 5 Monaten des Jahres
+		 <lb n="8"/>
+ 	  Stationen in denen Reittiere sind
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1585" xml:id="Diem_Berl_II_72" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 72</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_72</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169343</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">لأبـ</supplied>ـي <unclear reason="undefined" cert="high">عـ</unclear>ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  سلم عليك فإنّي أحمد إليـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّـ</supplied>ـذي لا إله إلّا هـ<supplied reason="lost" cert="high">ـو</supplied> 
+<lb n="3"/>  أ<supplied reason="lost" cert="high">مّـ</supplied>ـا بعد حـ<supplied reason="lost" cert="high">ـفـ</supplied>ـظك ا<supplied reason="lost" cert="high">للّـ</supplied>ـه و<supplied reason="lost" cert="high">عـ</supplied>ـافيك <gap reason="illegible" extent="2" unit="character" />ـا<gap reason="illegible" extent="1" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـله </lem><rdg resp="APD">الله </rdg><rdg resp="APD">فضله</rdg></app> وأمتع بك 
+<lb n="4"/>  وأطال بـ<supplied reason="lost" cert="high">ـقـ</supplied>ـاك وأمـ<supplied reason="lost" cert="high">ـتع</supplied> بك صـ<supplied reason="lost" cert="high">ـا</supplied>لحا 
+<lb n="5"/>  كتبت <supplied reason="lost" cert="high">إ</supplied>لـ<supplied reason="lost" cert="high">ـيـ</supplied>ـك أطـ<supplied reason="lost" cert="high">ـا</supplied>ل <supplied reason="lost" cert="high">اللّـ</supplied>ـه <supplied reason="lost" cert="high">بقـ</supplied>ـاك وأنا ومن قبلنا على ما تحب 
+<lb n="6"/>  واللّـ<supplied reason="lost" cert="high">ـه</supplied> محمو<supplied reason="lost" cert="high">د</supplied> <supplied reason="lost" cert="high">أسـ</supplied>ـلـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">تمـ</supplied>ـا<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">ذ</supplied>لك علـ<supplied reason="lost" cert="high">ـيـ</supplied>ـنا وعليك 
+<lb n="7"/>  بإحسـ<supplied reason="lost" cert="high">ـان</supplied> <supplied reason="lost" cert="high">ومـ</supplied>ـا أدري ما <supplied reason="lost" cert="high">كان</supplied> منـ<supplied reason="lost" cert="high">ـعـ</supplied>ـك <supplied reason="lost" cert="high">مـ</supplied>ـن الكتاب إلينا 
+<lb n="8"/>  بخبرك وحالك و<supplied reason="lost" cert="high">مـ</supplied>ـا <app type="BL"><lem resp="APD">يكون </lem><rdg resp="APD">تكون</rdg></app> لك من حاجة <supplied reason="lost" cert="high">فـ</supplied>ـآت فيها 
+<lb n="9"/>  بـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا أنت أهلـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">إن</supplied> شـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> وقـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـنت كتبت إليك 
+<lb n="10"/>  كثير فلم يأتني <supplied reason="lost" cert="high">منك</supplied> جواب <supplied reason="lost" cert="high">كتا</supplied>ب <supplied reason="lost" cert="high">إليـ</supplied>ـك فإذا جاك كـ<supplied reason="lost" cert="high">ـتـ</supplied>ـا<supplied reason="lost" cert="high">بي</supplied> 
+<lb n="11"/>  <supplied reason="lost" cert="high">فـ</supplied>ـلا <supplied reason="lost" cert="high">تدع</supplied> حـ<supplied reason="lost" cert="high">ـفظك</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه أن تـ<supplied reason="lost" cert="high">ـكتب</supplied> إلي موا<supplied reason="lost" cert="high">صـ</supplied>ـلـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">بيني</supplied> <supplied reason="lost" cert="high">وبينك </supplied>
+<lb n="right margin"/>  <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> لك <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>li ʾabī ʿ*** *** *** min *** *** 
+ <lb n="2"/>salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="3"/>ʾammā baʿdu ḥafiẓa ka ăl lāhu wa ʿāfā ka **ʾ* ****lh ăl faḍl ø lāhu hu wa ʾamtaʿa bi ka 
+ <lb n="4"/>wa ʾaṭāla baqāʾa ka wa ʾamtaʿa bi ka ṣāliḥ:an 
+ <lb n="5"/>katabtu ʾilay ka ʾaṭāla ăl lāhu baqāʾa ka wa ʾanā wa man qibala nā ʿalà mā tuḥibbu 
+ <lb n="6"/>wa ăl lāhu maḥmūd:un ʾasalu hu tamāma ḏālika ʿalay nā wa ʿalay ka 
+ <lb n="7"/>bi ʾiḥsān:in wa mā ʾadrī mā kāna manaʿa ka mina ăl kitābi ʾilay nā 
+ <lb n="8"/>bi ḫabari ka wa ḥāli ka wa mā takūnu yakūnu la ka min ḥāǧaẗ:in fa ʾāti fī hā 
+ <lb n="9"/>bi mā ʾanta ʾahlu hu ʾin šāʾa ăl lāhu wa qad kuntu katabtu ʾilay ka 
+ <lb n="10"/>kaṯīr fa lam yaʾti nī min ka ǧawābu kitāb:in ʾilay ka fa ʾiḏā ǧāʾa ka kitāb ī 
+ <lb n="11"/>fa lā tadaʿ ḥafiẓa ka ăl lāhu ʾan taktuba ʾilay ya muwāṣalaẗ:an bayn ī wa bayna ka 
+ <lb n="12"/>******* *** ***** *** lk ***** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[An ʾAb]ū (?)[- - - vo]n [- - -.]
+			<lb n="2"/>
+		Friede sei auf Dir, denn ich lobe [Dir] gegenüber [Gott], außer dem es keinen Gott gibt.
+			<lb n="3"/>
+		Aber danach - Gott schütze Dich, erhalte Dich gesund - - -, gebe (noch lange) Freude an Dir,
+			<lb n="4"/>
+		lasse Dich lange leben und gebe dadurch, daß Du gesund bleibst, (noch) lange Freude an Dir:
+			<lb n="5"/>
+		Ich schreibe Dir - Gott lasse Dich lange leben -, während es mir und den Meinigen so (gut) geht, wie Du es nur wünschen kannst;
+			<lb n="6"/>
+		Gott sei gelobt! Ich bitte [ihn], er möge dies uns und Dir [in vo]ll[em Maße]
+			<lb n="7"/>
+		wohlwollend schenken. Ich weiß (wirklich) nicht, was Dich daran gehindert hat, uns mitzuteilen,
+			<lb n="8"/>
+		welche Neuigkeiten es bei Dir gibt, wie es Dir geht, und welche Anliegen Du hast, so daß ich in Hinblick auf sie
+			<lb n="9"/>
+		das Dir Gebührende hätte durchführen können, so Gott will. Ich habe Dir bereits
+			<lb n="10"/>
+		mehrmals geschrieben, ohne daß ich [von Dir] Antwort auf einen Brief erhalten hätte. Wenn Dich also (dieser) mein Brief erreicht,
+			<lb n="11"/>
+		[dann unterlasse es] nicht - Gott sch[ütze Dich] -, mir [zu schreiben], (dies), um die Verb[indung zwischen uns] aufrechtzuerhalten [
+</ab></div>
+</body>
+</text>
+</TEI>

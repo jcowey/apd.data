@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="848" xml:id="Guo_Quseir_14_re" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 14 recto</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_14_re</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113625</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الشّيخ الأجل الموقّر السّعيد المولا نجيب أطال اللّه بقاه وأدام عزّه ونعماه ومن حسن 
+<lb n="2"/>  التّوفيق لا أخلاه ولا أعدمني إيّاه وسوا ذاك يا مولاي ساعت وصول الشّيخ حاتم 
+<lb n="3"/>  <app type="BL"><lem resp="APD">يعلّمهو </lem><rdg resp="APD">يعلّمه </rdg><rdg resp="APD">يعلّمهم </rdg><rdg resp="APD">معلّمهم </rdg><rdg resp="“Friedman, Qusayr p. 405; AK”">سلّمهو</rdg></app> <supplied reason="omitted" cert="high">ا</supplied>للّه تعالي تسلّم له <app type="BL"><lem resp="APD">المرتبين </lem><rdg resp="APD">المرينتين </rdg><rdg resp="“Friedman, Qusayr p. 405; AK”">المرپپپپن</rdg></app> <app type="BL"><lem resp="“Guo; Friedman, Qusayr p. 405”">للزّيت </lem><rdg resp="“Friedman, Qusayr p. 405; AK”">الزّيت</rdg></app> الّذي مكتوب عليهم 
+<lb n="4"/>  سابق بن إياس البدري وتسيّر لي رقعة بأنّه تسلّمهم 
+<lb n="5"/>  وتسلّم لي علي الشّيخ أبو مفرّج ذاك <gap reason="illegible" extent="2" unit="character" /> وقد ذكرت لنا أن الشّيخ 
+<lb n="6"/>  إسماعيل خادم الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> عليه السّلام أنّه قد قطيت حوايجه وهو 
+<lb n="7"/>  طالع البر يصل <gap reason="illegible" precision="low" extent="3"/> إنشا اللّه تعالى فلا أعدمك اللّه العدل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăš šayḫu ăl ʾaǧallu ăl muwaqqaru ăs saʿīdu ăl mawlā naǧību ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa naʿmāʾa hu wa manna ḥusna 
+ <lb n="2"/>ăt tawfīqi lā ʾaḫlā hu wa lā ʾaʿdama nī ʾiyyā hu wa siwā ḏāka yā mawlā ya sāʿata wuṣūli ăš šayḫi ḥātim:in 
+ <lb n="3"/>yuʿallimu muʿallimu sallama huwa hu humu hū ăl lāhu taʿālà tusallim la hu ăl marīnatayni murattabayni li ø ăz z zayti ăllaḏī maktūb:un ʿalay him 
+ <lb n="4"/>sābiqu bnu ʾiyāsa ăl badriyyu wa tusayyir l ī ruqʿaẗ:an bi ʾanna hu tasallama hum 
+ <lb n="5"/>wa tusallim l ī ʿalà ăš šayḫi ʾabū mufarriǧ:in ḏāka ** wa qad ḏakarta la nā ʾanna ăš šayḫa 
+ <lb n="6"/>ʾismāʿīla ḫādima ăl *** ʿalay hi ăs salāmu ʾanna hu qad qaṭayta ḥawāyiǧa hu wa huwa 
+ <lb n="7"/>ṭāliʿ:uni ăl barra yaṣilu *** ʾin šāʾa ăl lāhu taʿālà fa lā ʾaʿdama ka ăl lāhu ăl ʿadla ʿadlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[To] the most noble, revered, and auspicious shaykh, the master Najīb - may God prolong his life, make his strength and wealth everlasting. May God never fail him
+			<lb n="2"/>
+		... Upon the arrival of Shaykh Ḥātim
+		with regard to his good fortune in success, and never deprive me from his [company]! - and so forth. O my master, upon the arrival of Shaykh Ḥātim -
+			<lb n="3"/>
+		..., give him the dues (al-murattabayn) for oil, which are for (maktūb ʿalayhim)
+		may God Almighty enlighten him! - give him the murattabayn-dues of oil, which are for
+		... the two marīnas for/of oil on which is written
+			<lb n="4"/>
+		Sābiq ibn Iyās al-Badrī. Send me a receipt, stating that he has received it.
+		Sābiq ibn Iyās. Send me a receipt (ruqʿa), stating that he (i.e., Ḥātim) has received it.
+			<lb n="5"/>
+		My regards to Shaykh Abū Mufarrij. [...] You have mentioned to us that [as regards] Shaykh
+			<lb n="6"/>
+		Ismaʿīl, the servant of [...] - peace be upon him! -, you have fulfilled all his needs
+			<lb n="7"/>
+		since his landing at the shore, and that he is coming to [...], God willing! May God never deprive you from His justice!
+</ab></div>
+</body>
+</text>
+</TEI>

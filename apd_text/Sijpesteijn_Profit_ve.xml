@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="424" xml:id="Sijpesteijn_Profit_ve" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.SijpesteijnProfit verso</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Sijpesteijn_Profit_ve</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106619</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/><supplied reason="lost" cert="high">  هذ</supplied>ا كتاب لأبي النّجم بدر الكبير مولى الأمير أطال اللّه بقا الأمير وأخلد عزّه كتبه له أبو حنين بن عبد الـ<supplied reason="lost" cert="high">ـنّاصر</supplied> 
+ <lb n="3"/><supplied reason="lost" cert="high">  وإسمعيل</supplied> بن عبد اللّه جمپعا <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سكّا</supplied>ن الضّيعة <supplied reason="omitted" cert="high">المـ</supplied>ـعروفة بسفط إرشين ومزارعها إنّا سألنا القسم بن العبّاس 
+ <lb n="4"/>  السّيفي عاملك أعزّك اللّه على هذه الضّيعة لهذه السّنة وطلبنا إليه أن يضمّنّا وجه بعضا من بعض بوجه وماله 
+ <lb n="5"/><supplied reason="lost" cert="high">  و</supplied>ما يجب على كل واحد منّا من العمارة لسنة ثمان وثمانين ومائتين قضا له ضمانا صحيحا لازما لنا وواجـ<supplied reason="lost" cert="high">ـبا</supplied> 
+ <lb n="6"/><supplied reason="lost" cert="high">  علينا</supplied> في ذمّتنا ومالنا وكل واحد منّا كفيل ضامن عن صاحبه بأمر صاحبه حيّنا بذلك عن ميّتنا وملـ<supplied reason="lost" cert="high">ـيّنا</supplied> 
+ <lb n="7"/>  عن معدمنا وشاهدنا عن غائبنا شهد على إقرار أبو حنين بن عبد النّاصر وإسمعيل بن عبد <supplied reason="omitted" cert="high">اللّه</supplied> 
+ <lb n="8"/>  بجميع ما في هذا الكتاب بعد أن قرئ عليهما فعرفوا وأقرّوا بفهمه وبـمعرفة ما فيه حرفا حرفا 
+ <lb n="9"/>  في صحّة عقولهم وأبدانهم وجواز أمورهم طائعين طالبين راغبين غير مكرهين ولا مجبرين وذلك في شهر 
+ <lb n="10"/>  رمضان سنة ثمان وثمنين ومائتين 
+ <lb n="11"/>  شهد أحمد بن إسمعيل على إقرار أبو حنين وإسمعيل بن عبد اللّه بما يسمّى في هذا الكتاب وكتب بخطّه 
+ <lb n="12"/>  شهد هرون بن يحيى على إقرار أبو حنين وإسمعيل بن عبد اللّه بجميع ما في هذا الكتاب وكتب بخطّه 
+ <lb n="13"/>  شهد حميدي بن إبراهيم التّمّار على إقرار أبو <sic n="superfluous">ا</sic>حنين وإسمعيل بن عبد اللّه بجميع ما في هذا الكتاب وكتب بخطّه لا إله إلّا اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un li ʾabī ăn naǧmi badr:ini ăl kabīri mawlà ăl ʾamīri ʾaṭāla ăl lāhu baqāʾa ăl ʾamīri wa ʾaḫlada ʿizza hu kataba hu la hu ʾabū ḥunayni bnu ʿabdi ăn nāṣiri 
+ <lb n="3"/>wa ʾismāʿīlu bnu ʿabdi ăl lāhi ǧamʿ:an min sukkāni ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi safṭi ʾiršīna wa mazāriʿi hā ʾin nā saʾalnā ăl qāsima bna ăl ʿabbāsi 
+ <lb n="4"/>ăs sayfiyya ʿāmila ka ʾaʿazza ka ăl lāhu ʿalà hāḏihi ăḍ ḍayʿaẗi li hāḏihi ăs sanaẗi wa ṭalabnā ʾilay hi ʾan yuḍammin nā waǧ hu baʿḍ:an min baʿḍ:in bi waǧh:in wa māli hi 
+ <lb n="5"/>wa mā yaǧibu ʿalà kulli wāḥid:in min nā mina ăl ʿimāraẗi li sanaẗi ṯamān:in wa ṯamānīna wa miʾatayni qaḍā la hu ḍamān:an ṣaḥīḥ:an lāzim:an la nā wa wāǧib:an 
+ <lb n="6"/>ʿalay nā fī ḏimmati nā wa māli nā wa kullu wāḥid:in min nā kafīl:un ḍāmin:un ʿan ṣāḥibi hi bi ʾamri ṣāḥibi hi ḥayyu nā bi ḏālika ʿan mayyiti nā wa maliyyu nā 
+ <lb n="7"/>ʿan muʿdimi nā wa šāhidu nā ʿan ġāʾibi nā šuhida ʿalà ʾiqrāri ʾabū ḥunayni bni ʿabdi ăn nāṣiri wa ʾismāʿīla bni ʿabdi ăl lāhi 
+ <lb n="8"/>bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay himā fa ʿarafū wa ʾaqarrū bi fahmi hi wa bi maʿrifaẗi mā fī hi ḥarf:an ḥarf:an 
+ <lb n="9"/>fī ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him ṭāʾiʿīna ṭālibīna rāġibīna ġayra mukrahīna wa lā muǧbarīna wa ḏālika fī šahri 
+ <lb n="10"/>ramaḍāna sanaẗa ṯamān:in wa ṯamānīna wa miʾatayni 
+ <lb n="11"/>šahida ʾaḥmadu bnu ʾismāʿīla ʿalà ʾiqrāri ʾabū ḥunayn:in wa ʾismāʿīla bni ʿabdi ăl lāhi bi mā yusammà fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="12"/>šahida harūnu bnu yaḥyà ʿalà ʾiqrāri ʾabū ḥunayn:in wa ʾismāʿīla bni ʿabdi ăl lāhi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="13"/>šahida ḥamīdiyyu ḥumaydiyyu bnu ʾibrāhīma ăt tammāru ʿalà ʾiqrāri ʾabū ḥunayn:in wa ʾismāʿīla bni ʿabdi ăl lāhi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi lā ʾilāha ʾillā ăl lāhu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="2"/>
+ 	  This document is for Abū al-Najm Badr al-Kabīr freedman (mawlā) of the amīr, may God prolong the life of the amīr and may He perpetuate his honour. For him wrote it Abū Ḥunayn ibn ʿAbd al-[Nāṣir
+		 <lb n="3"/>
+ 	  and Ismāʿīl] ibn ʿAbdallāh both [from the inhabit]ants of the estate known as Safṭ Irshīn and its fields. We asked al-Qāsim ibn al-ʿAbbās
+		 <lb n="4"/>
+ 	  al-Sayfī, your agent, may God honour you over this estate (ḍayʿa) for this year and we requested that he accept our guarantee of appearance the one for the other for his being present and his payment
+		 <lb n="5"/>
+ 	  and] what is due on each one of us of the assessment for the year 288. He passed a judgement in favour of it as a valid guarantee, binding on us and obliga[tory
+		 <lb n="6"/>
+ 	  to us] in our debt and on our property and each one of us is a guarantor guaranteeing for his partner at his partner’s request, the one of us who is alive in that for the one of us who is dead and the one of us who is sol[vent]
+		 <lb n="7"/>
+ 	  for the one of us who has no money and the one of us who is present for the one of us who is absent. It was witnessed, the acknowledgement of Abū Ḥunayn ibn ʿAbd al-Nāṣir and Ismāʿīl ibn ʿAbd &lt;Allāh&gt;
+		 <lb n="8"/>
+ 	  to everything that is in this document after it was read to both of them and they knew and acknowledged understanding it and knowledge of what is in it letter by letter
+		 <lb n="9"/>
+ 	  and they were in a state of sound mind and body, being legally capable of conducting their affairs, acting voluntarily, out of free will, willingly, without being forced, or against their will. And this took place in the month
+		 <lb n="10"/>
+ 	  Ramaḍān of the year 288.
+		 <lb n="11"/>
+ 	  Aḥmad ibn Ismāʿīl witnessed the acknowledgement of Abū Ḥunayn ibn ʿAbd al-Nāṣir and Ismāʿīl ibn ʿAbdallāh to what is mentioned in this document and he wrote in his handwriting.
+		 <lb n="12"/>
+ 	  Hārūn ibn Yaḥyā witnessed the acknowledgement of Abū Ḥunayn and Ismāʿīl ibn ʿAbdallāh to everything that is in this document and he wrote in his handwriting.
+		 <lb n="13"/>
+ 	  Ḥumaydī ibn Ibrāhīm the date dealer witnessed the acknowledgement of Abū Ḥunayn and Ismāʿīl ibn ʿAbdallāh to everything that is in this document and he wrote in his handwriting. There is no god but God
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

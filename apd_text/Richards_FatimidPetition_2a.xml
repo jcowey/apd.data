@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2381" xml:id="Richards_FatimidPetition_2a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RichardsFatimidPetition 2a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Richards_FatimidPetition_2a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="10" unit="character" /> متولّي الحرب المذكور بحمل 
+<lb n="2"/>  رافعيها فيما سألوه على ما جرت به عادتهم 
+<lb n="3"/>  وأن يكون نزوله بحيث مستقر من تقدّم من الولاة 
+<lb n="4"/>  ولا يمكّن العربان ولا غيرهم من التّعرّض إلى دياراتهم 
+<lb n="5"/>  وموضع صلواتهم ورعاية ما يخصّهم 
+<lb n="6"/>  وحفظهم وصونهم ومنع من يتطرّق إليهم بأذيّة 
+<lb n="7"/>  وأن يعتمد ذلك كافّة الولاة والمتصرّفين و<gap reason="illegible" extent="8" unit="character" /> 
+<lb n="8"/>  وأن يقر بأيديهم بعد العمل به 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>********** mutawallī ăl ḥarbi ăl maḏkūr bi ḥamli 
+ <lb n="2"/>rāfiʿī hā fī mā saʾalū hu ʿalà mā ǧarat bi hi ʿādatu hum 
+ <lb n="3"/>wa ʾan yakūna nuzūlu hu bi ḥayṯu mustaqarru man taqaddama mina ăl wulāẗi 
+ <lb n="4"/>wa lā yumakkina ăl ʿurbāna wa lā ġayra hum mina ăt taʿarruḍi ʾilà diyārāti him 
+ <lb n="5"/>wa mawḍiʿi ṣalawāti him wa riʿāyaẗi mā yaḫuṣṣu hum 
+ <lb n="6"/>wa ḥifẓi him wa ṣawni him wa manʿi man yataṭarraqu ʾilay him bi ʾaḏiyyaẗ:in 
+ <lb n="7"/>wa ʾan yaʿtamida ḏālika kāffaẗu ăl wulāẗi wa ăl mutaṣarrifīna wa ******** 
+ <lb n="8"/>wa ʾan yaqirra bi ʾaydī him baʿda ăl ʿamali bi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The aforementioned military governor [is ordered] to treat
+			<lb n="2"/>
+		the petitioners in the matter of their request according to what has been customary for them in the past
+			<lb n="3"/>
+		and that his residence should be where former governors have established themselves
+			<lb n="4"/>
+		and that he should not allow the Bedouins or others to interfere with their [the monks&#039; buildings]
+			<lb n="5"/>
+		or their place of worship and he should respect their property,
+			<lb n="6"/>
+		protect and guard them and prevent any who would bring harm to them
+			<lb n="7"/>
+		and [it is ordered] that all governors, officials and ...... should obey this
+			<lb n="8"/>
+		and that it [this document] should remain in their hands after it has been acted upon.
+</ab></div>
+</body>
+</text>
+</TEI>

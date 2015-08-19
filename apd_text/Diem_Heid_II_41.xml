@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1426" xml:id="Diem_Heid_II_41" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 41</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_41</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169214</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  عبدها يقبّل يديها الكرام اللّه 
+<lb n="3"/>  بفضله لا يخليني من تفضّلها ولا 
+<lb n="4"/>  من افتقادها ولا يوحش منها ولا يخلي 
+<lb n="5"/>  وما عرّفتني كيف كان تغليق باقي 
+<lb n="6"/>  الأرباع وكم صح مال الجريدة 
+<lb n="7"/>  <del rend="erasure" status="unremarkable">ڤما</del> <del rend="erasure" status="unremarkable">علمپى</del> فما علمي كل ثمر أصبح من ريعنا 
+<lb n="8"/>  ومضت أمس حضرنها إلى مصر 
+<lb n="9"/>  وما قالت للفقيه أبي المنصور 
+<lb n="10"/>  يجيب الخمسة دنانير الوديعة 
+<lb n="11"/>  الّتي أرسلهم معه مكبّر لنا أقبّل 
+<lb n="12"/>  يديها وتخص من عبدها بالسلام 
+<lb n="13"/>  <supplied reason="lost" cert="high">الحمد</supplied> <supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">وحده</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وصلّى</supplied> </lem><rdg resp="APD">وصلوته</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">اللّه</supplied> </lem><rdg resp="APD">ø</rdg></app> على سيّدنا محمّد وآله <supplied reason="lost" cert="high">وسلّم</supplied> 
+<lb n="14 right margin"/>  وإبرهيم يعرّفك كيف أنا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿabdu hā yuqabbilu yaday hā ăl kirāma ăl lāhu 
+ <lb n="3"/>bi faḍli hi lā yuḫlī nī min tafaḍḍuli hā wa lā 
+ <lb n="4"/>mina ĭftiqādi hā wa lā yūḥiš min hā wa lā yuḫlī 
+ <lb n="5"/>wa mā ʿarrafat nī kayfa kāna taġlīqu bāqī 
+ <lb n="6"/>ăl ʾarbāʿi wa kam ṣuḥḥu māli ăl ǧarīdaẗi 
+ <lb n="7"/>fa mā ʿilm ī kullu ṯamar:in ʾaṣbaḥa min rayʿi nā 
+ <lb n="8"/>wa maḍat ʾamsi ḥaḍratu hā ʾilà miṣra 
+ <lb n="9"/>wa mā qālat li l faqīhi ʾabī ăl manṣūri 
+ <lb n="10"/>yaǧību ăl ḫamsaẗa danānīra ăl wadīʿaẗa 
+ <lb n="11"/>ăllatī ʾarsala hum maʿa hu mukabbir:un la nā ʾuqabbilu 
+ <lb n="12"/>yaday hā wa tuḫaṣṣu min ʿabdi hā bi ăs salāmi 
+ <lb n="13"/>ăl ḥamdu li l lāhi waḥda hu wa wa ṣallà ṣalawātu ø hu ăl ø lāhu ø ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa sallama 
+ <lb n="14"/>wa ʾibrāhīmu yuʿarrifu ka kayfa ʾanā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Ihr (sc. der Exzellenz) Sklave küßt Ihre edlen Hände - Gott
+			<lb n="3"/>
+		lasse mich in seiner Gnade nicht Ihres Wohlwollens und
+			<lb n="4"/>
+		Ihrer Aufmerksamkeit entbehren und lasse Ihrer nicht verlustig gehen und entbehren!
+			<lb n="5"/>
+		Ihre Exzellenz hat mir nicht mitgeteilt, wie der Ausgleich des
+			<lb n="6"/>
+		bei den Immobilien bestehenden Saldos erfolgt ist, und wie hoch der sich aus dem Register ergebende Betrag effektiv ist.
+			<lb n="7"/>
+		Denn ich weiß nicht (?) jeden Ertrag, der in unseren Gesamtertrag (sc. aus den Immobilien) geflossen ist.
+			<lb n="8"/>
+		Außerdem ist ihre Exzellenz gestern nach Kairo abgereist,
+			<lb n="9"/>
+		ohne dem Faqīh Abū l-Manṣūr zu sagen,
+			<lb n="10"/>
+		er solle die fünf Dinare Deposit bringen,
+			<lb n="11"/>
+		welche durch ihn einer unserer Mukabbirs gesandt hat. Ich küsse
+			<lb n="12"/>
+		Ihrer Exzellenz Hände, und sie sei von Ihrem Sklaven ganz besonders gegrüßt.
+			<lb n="13"/>
+		[Preis sei Gott allein! Gott segne] unseren Herrn Muḥammad und seine Familie [und spende (ihnen) Heil!]
+			<lb n="14"/>
+		Ibrāhīm wird Dir mitteilen, wie es mir geht.
+</ab></div>
+</body>
+</text>
+</TEI>

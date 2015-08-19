@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2221" xml:id="Alarcon_Abenaboo" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AlarconAbenaboo</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Alarcon_Abenaboo</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الحمد للّه وحدهو قبل الكلم 
+<lb n="2"/>  اسّلم الكرمُو عَل من أكرمَهو الكرمو سيّديا وحببى <app type="BL"><lem resp="not found on plate">وَعَزَ </lem><rdg resp="Alarcon erroneously ‫ وَعَزَ‬ , but see translation and plate">وَعَزَز </rdg><rdg resp="LS, cf. plate and translation">من</rdg></app> اپپر عنذيا ذُن هِرْنندُو وني نعلم حرمتكم 
+<lb n="3"/>  إكّنْ أنْتَ تَقْدَرْ تِجِي عنديا تِجِيْ عند أخَكم وَحَبِبَكْ وَتِجِي مُطمَن وَكل مَيجكم فملي 
+<lb n="4"/>  وذِيمَّتي وَكِنْ أنْتَ تِرِيد تَتْرَطَلْ فذي المبرَك مِينْ سُلْحْ كُلّْ مَتعْمَلْ تَعْمَلُو مَعِي ونِيْ 
+<lb n="5"/>  نَعْمَل مَعَكْ كُلّْ مَتِرِيدْ بِحَقّْ وَبِلَ غَدَرْ وَذَهَرْلِي مِينْ الحَبَقِي يِنَّ آشْمَكِنْ يعْمَلْ 
+<lb n="6"/>  مَعْلَمْنِ وَلَطْلَعْنِي عَلَ حَقّْ وَذَهَرْلِيْ يِنَّ آشمَ طلَبْ طَلَبْ لِرُحُو ولِنِسُو ولَسْحَبُو وبَعْ ارَّعي 
+<lb n="7"/>  وَدِيبَ أنِيْ نِعَرَف حرمَتَكْ بهَذَ اشَّيّْ وحُرْمَتكْ اعْمَل الّذي يَذْهَرْ لكمْ وَعْمَلْ مَيُسْلِحْ بَنَّسَارَ 
+<lb n="8"/>  وبِينَ وَعَسِيْ يفذِي اللّه خيرَ بَيْنِينَ وَتكُنْ حُرْمَتكمْ اسَّـبَبْ فهَذَ اشَّيّْ وَحْمَلْنِ فِفَذَلكمْ يِلَّ آشْ 
+<lb n="9"/>  كن مَعِي مَنْ يَكْتُبْلِي يلَّ كنكُنْ كَتَبْتِلَكمْ أكْثَرْ وَسّلمو عَليْكمم وَرَحْمَتُو اللّه وَبَرَكتو اللّه 
+<lb n="10"/>  كتِيبْ الكتبْ يوم الثّلِيث فشَهْرْ وُلْيُو فعم ٦٤ 
+<lb n="11"/>  <gap reason="illegible" extent="1" unit="character" /> ملي عبد اللّه <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi waḥda hū qabla ăl kalimi 
+ <lb n="2"/>ăs salāmu ăl karimū ʿala man ʾakrama hū ăl karimū sayyidi yā wa ḥabib ī ʾBBr wa man ʿazaz ʿind iyā ḏun hirnandū wa nī niʿalam ḥurmata kum yinna 
+ <lb n="3"/>ʾikkin ʾanta taqdar tiǧī ʿindi yā tiǧī ʿinda ʾaḫa kum wa ḥabib ak wa tiǧī muṭman wa kullu ma yiǧi kum fi mil ī 
+ <lb n="4"/>wa ḏīmmat ī wa kin ʾanta tirīdu tatraṭal fi ḏī ăl mubaraki mīn sulḥ kull ma taʿmal taʿmal ū maʿ ī wa nī 
+ <lb n="5"/>naʿmal maʿa k kull ma tirīd bi ḥaqq wa bi la ġadar wa ḏahar l ī mīn ăl ḥabaqiyyi yinna ʾāš ma kin yaʿmal 
+ <lb n="6"/>ma ʿlam ni wa la ṭlaʿ nī ʿala ḥaqq wa ḏahar l ī yinna ʾāš ma ṭalab ṭalab li ruḥ ū wa li nis ū wa la sḥab ū wa baʿ ăr raʿī 
+ <lb n="7"/>wa dība ʾanī niʿarafu ḥurmat ak bi hāḏa ăš šayy wa ḥurmat ak ĭʿmal ăllaḏī yaḏhar la kum wa ʿmal ma yusliḥ ba n nasāra 
+ <lb n="8"/>wa bī na wa ʿasī yufḏī ăl lāhu ḫayra baynī na wa takun ḥurmatu kum ăs sabab fi hāḏa ăš šayy wa ḥmal ni fi faḏali kum yilla ʾāš 
+ <lb n="9"/>kin maʿ ī man yaktub l ī yilla ka nkun katabti la kum ʾakṯar wa s salāmū ʿalay kumm wa raḥmatū ăl lāhi wa barakatū ăl lāhi 
+ <lb n="10"/>kutīb ăl kitib yawma ăṯ ṯalīṯi fi šahr wulyū fi ʿami 64 
+ <lb n="11"/>* mula ʿabdi ăl lāhi * 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Las alabanzas sean a Dios sólo antes de lo que quiero decir.
+			<lb n="2"/>
+		Salvación honrada al que honró al que da la honra Señor y amigo mío, el que yo más estimo, don Hernando de Barradas: Hago saber a vuestra honrada persona que
+			<lb n="3"/>
+		si quisiéredes venir a veros conmigo, vernéis a vuestro propio hermano y amigo muy seguramente, y lo que de mal os viniere será sobre mi hacienda
+			<lb n="4"/>
+		y fe; y si quisiéredes tratar destas benditas paces, lo que tratáredes tratarlo héis conmigo, y haré
+			<lb n="5"/>
+		yo todo lo que vos quisiéredes con verdad y sin traición. Paréceme que el Habaquí, de todo lo que hacía
+			<lb n="6"/>
+		ninguna parte me daba, antes encubría de mí la verdad, porque todo lo que pidió la aplicaba para sí y para sus parientes y amigos. [sentence omitted]
+			<lb n="7"/>
+		Esto hago saber a vuestra honrada persona, y conforme a ello podrá hacer lo que le pareciere, y lo que viere que estará bien a los cristianos
+			<lb n="8"/>
+		y a nosotros; y Dios permita este bien entre nosotros, y que vuestra honrada persona sea causa dello. Y perdonadme, que
+			<lb n="9"/>
+		por no haber tenido quien me escribiese no he escrito antes de ahora. La salvación sea con nosotros y la misericordia de Dios y su bendición.
+			<lb n="10"/>
+		escriviose esta carta el dia del martes del mes de Julio año de novecientos y sesenta y quatro
+		Que fue escrita día martes. [text omitted]
+</ab></div>
+</body>
+</text>
+</TEI>

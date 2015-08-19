@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1719" xml:id="Prag_550" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 55</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_550</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169466</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ر<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  في تلا<supplied reason="lost" cert="high">ليس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  وأثواب ا<supplied reason="lost" cert="high">لـ</supplied>ـخمـ<supplied reason="lost" cert="high">ـ</supplied>ـار فابـ<supplied reason="lost" cert="high">ـعث</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  إنّك أمرته لا يدفع الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="5"/>  أمرني أدفع إليكم ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ستّة أذرع وهذا ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ليعلمك كم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  من <supplied reason="lost" cert="high">ا</supplied>لقطع حتّا يجتمع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  منها وإن رأيت أبقاك <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ثوبه تجّار قلنديون پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  محكم العمل وأعلـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  حسبت كانت تكتب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  محپلها ا<gap reason="illegible" extent="2" unit="character" />پ السّاڤـ<supplied reason="lost" cert="high">ـپـ</supplied>ـه <unclear reason="undefined" cert="high">و</unclear><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  الـ<supplied reason="lost" cert="high">ـجـ</supplied>ـواب برأيك إ<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <supplied reason="lost" cert="high">حـ</supplied>ـفظك اللّه <supplied reason="lost" cert="high">وأبقاك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>r*** 
+ <lb n="2"/>fī talālīsa *** 
+ <lb n="3"/>wa ʾaṯwāb ăl ḫimāri fa ĭbʿaṯ *** 
+ <lb n="4"/>ʾinna ka ʾamarta hu lā yadfaʿ ăl **** 
+ <lb n="5"/>ʾamara nī ʾadfaʿa ʾilay kum ʾ*** 
+ <lb n="6"/>sittaẗ ʾaḏruʿ:in wa hāḏā ʾ*** 
+ <lb n="7"/>ăl *** li yuʿlima ka kam *** 
+ <lb n="8"/>mina ăl qiṭaʿi ḥattā yaǧtamiʿa *** 
+ <lb n="9"/>min hā wa ʾin raʾayta ʾabqā ka ăl lāhu *** 
+ <lb n="10"/>ṯawb hu tuǧǧār qalandiyūna *** 
+ <lb n="11"/>muḥkam ăl ʿamali wa ʾaʿlim *** 
+ <lb n="12"/>ḥasabta kānat taktubu *** 
+ <lb n="13"/>mḥBlhʾ ʾ**B ăs sʾFBh w*** 
+ <lb n="14"/>ăl ǧawāb bi raʾyi ka ʾin šāʾa ăl lāhu *** 
+ <lb n="15"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		in Sä[cken ...]
+			<lb n="3"/>
+		und die Schleierstoffe. So schi[ck ...]
+			<lb n="4"/>
+		Wahrlich, Du hast ihm aufgetragen, nicht zu geben... [...]
+			<lb n="5"/>
+		er hat mich beauftragt, Euch zu geben... [...]
+			<lb n="6"/>
+		sechs Ellen, und dies... [...]
+			<lb n="7"/>
+		....[...], um Dir mitzuteilen, wie viel [...]
+			<lb n="8"/>
+		an Stücken, bis daß sich [...] davon angesammelt hat [...]
+			<lb n="9"/>
+		und wenn es Dir gut dünkt - [Gott] lasse Dich lange leben [...]
+			<lb n="10"/>
+		sein Gewand den Kaufleuten von Qalandiyūn ... [...]
+			<lb n="11"/>
+		gut gearbeitet, und lass [...] wissen [...]
+			<lb n="12"/>
+		Du berechnest, sie pflegte zu schreiben [...]
+			<lb n="13"/>
+			<lb n="14"/>
+		die [An]twort mit Deiner Meinung, s[o Gott will! ...]
+			<lb n="15"/>
+		Gott behüte Dich [und lasse Dich lange leben. ...]
+</ab></div>
+</body>
+</text>
+</TEI>

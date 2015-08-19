@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1541" xml:id="Diem_Berl_II_50" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 50</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_50</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169312</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  عافاك اللّه وإيّانا من النّار <supplied reason="lost" cert="high">بـ</supplied>ـرحمته بلغني كتابك فقرأته وفهمت ما ذكرت فيه ونعـ<supplied reason="lost" cert="high">ـمـ</supplied>ـت به 
+ <lb n="3"/>  فالحمد للّه على سلامة وقد بلغتني λθ مع جميل وحبسته عنك <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">وأمّا</supplied> <supplied reason="lost" cert="high">عددها</supplied> 
+ <lb n="4"/>  ڤڤد صح ويوم كتبت إليك هذ<supplied reason="omitted" cert="high">ا</supplied> الكتاب قد ربطنا κγ كرطا<supplied reason="lost" cert="high">س</supplied> <supplied reason="lost" cert="high">وأمّا</supplied> <supplied reason="lost" cert="high">وزنها</supplied> 
+ <lb n="5"/>  فوجدنا قد نقصنا أربعين رطلا وذلك لأن الميزان صغير لذلك فإ<supplied reason="lost" cert="high">نّ</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="6"/>  ولا بد ممّا ينقص الكتّان كما قد عرفت إنّما هو أرطال فإذا <supplied reason="lost" cert="high">جاك</supplied> <supplied reason="lost" cert="high">كتابي</supplied> 
+ <lb n="7"/>  هذا <supplied reason="lost" cert="high">فـ</supplied>ـا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">و</supplied>تنصف ر<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿāfā ka ăl lāhu wa ʾiyyā nā mina ăn nāri bi raḥmati hi balaġa nī kitābu ka fa qaraʾtu hu wa fahimtu mā ḏakarta fī hi wa naʿimtu bi hi 
+ <lb n="3"/>fa ăl ḥamdu li l lāhi ʿalà salāmaẗ:in wa qad balaġat nī ‪39 maʿa ǧamīl:in wa ḥabastu hu ʿan ka ** ** wa ʾammā ʿadadu hā 
+ <lb n="4"/>fa qad ṣaḥḥa wa yawma katabtu ʾilay ka hāḏā ăl kitāba qad rabaṭnā ‪23 kirṭās wa ʾammā waznu hā 
+ <lb n="5"/>fa waǧadnā qad naqaṣa nā ʾarbaʿīna raṭl:an wa ḏālika liʾanna ăl mīzāna ṣaġīr:un li ḏālika fa ʾinna **** 
+ <lb n="6"/>wa lā budda mimmā yanquṣu ăl kattānu ka mā qad ʿarafta ʾinnamā huwa ʾarṭāl:un fa ʾiḏā ǧāʾa ka kitāb ī 
+ <lb n="7"/>hāḏā fa ʾ*** *** **** wa tunṣifu r*** *** **** **** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Gnädigen!
+		 <lb n="2"/>
+ 	  Gott bewahre Dich und uns in seiner Barmherzigkeit vor dem Höllenfeuer! Ich habe Deinen Brief erhalten und gelesen, und ich habe verstanden, was Du darin ausführst, und mich darüber gefreut;
+		 <lb n="3"/>
+ 	  Preis sei Gott dafür, daß (Du) wohlbehalten (bist)! Die 39 (Ballen Flachs) sind mir durch Ǧamīl überbracht worden; ich habe ihn Dir (etwas) vorenthalten. [Was ihre Anzahl betrifft,]
+		 <lb n="4"/>
+ 	  so stimmte sie. Am (heutigen) Tage, da ich Dir diesen Brief schreibe, haben wir 23 in Papyrus verpackt. [Was ihr Gewicht betrifft,]
+		 <lb n="5"/>
+ 	  so stellten wir fest, daß wir (am Schluß) ein Manko von (insgesamt) vie\r/zig Raṭl hatten, und zwar deshalb, weil die Waage hierfür zu klein war, denn [- - -.]
+		 <lb n="6"/>
+ 	  Ganz bestimmt beträgt das Manko beim Flachs, wie Du (ja wohl selbst) weißt, etliche Raṭl. Wenn Du also diesen [meinen Brief erhältst,]
+		 <lb n="7"/>
+ 	  dann [- - - und] verhalte Dich korrekt [- - -]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

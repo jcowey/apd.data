@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="338" xml:id="Grohmann_APEL_128" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 128</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_128</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106569</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>   <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">اڤرار</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">الزّرقا</supplied> <supplied reason="lost" cert="high">ابنت</supplied> <supplied reason="lost" cert="high">إسحـ</supplied>ـق بجميع ما في هذا الكتاب و<supplied reason="lost" cert="high">ذلـ</supplied>ـك <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">صفر</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">سبعين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> 
+ <lb n="3"/>  شهد سهل بن قمامة بن إسحق على إقرار حمد<supplied reason="lost" cert="high">ونة</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـزّ<supplied reason="lost" cert="high">رقا</supplied> <supplied reason="lost" cert="high">ابنت</supplied> <supplied reason="lost" cert="high">إسحق</supplied> 
+ <lb n="4"/>  بجميع ما في هذا الكتاب وذلك في صفر سنة سبعين ومائتن <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="5"/>  شهد عمران بن سري الورئي على إقرار حمدونة الزرڤا ابنت إسحق 
+ <lb n="6"/>  بجميع ما في هذا الكتاب <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">و</supplied>ذلك في صفر من سنة سبعين 
+ <lb n="7"/>  ومائتن <gap reason="illegible" extent="1" unit="character" /> شهد يوسف بن إسمعيل على إقرار حمدونة الزّرقا ابنت إسحق بجميع ما في 
+ <lb n="8"/>  هذا الكتاب وذلكفي صفر سنة سبعين ومائتن 
+ <lb n="9"/>  شهد عبد اللّه بن حارث على إقرار حمدونة الزّرقا ابنت إسحق بجميع ما في هذا الكتاب 
+ <lb n="10"/>  وذلك في صفر سنة سبعين ومائتن شهد طيفور بن المطّلب بن عمر على مثل ذلك <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="11"/>  شهد محمّد بن أحمد الجندي على مثل ذلك <gap reason="illegible" extent="1" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** šahida *** bnu *** ʿalà ʾiqrāri ḥamdūnaẗa 
+ <lb n="2"/>ăz zarqāʾi ĭbnatu ʾisḥāqa bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī ṣafar:in sanaẗa sabʿīna wa miʾatayni 
+ <lb n="3"/>šahida sahlu bnu qumāmaẗa bni ʾisḥāqa ʿalà ʾiqrāri ḥamdūnaẗa ăz zarqāʾi ĭbnati ʾisḥāqa 
+ <lb n="4"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī ṣafar:in sanaẗa sabʿīna wa miʾatayni * 
+ <lb n="5"/>šahida ʿimrānu bnu sariyy:ini ăl waraʾiyyu ʿalà ʾiqrāri ḥamdūnaẗa ăl zarqāʾi ĭbnati ʾisḥāqa 
+ <lb n="6"/>bi ǧamīʿi mā fī hāḏā ăl kitābi ***** wa ḏālika fī ṣafar:in min sanaẗi sabʿīna 
+ <lb n="7"/>wa miʾatayni * šahida yūsufu bnu ʾismāʿīla ʿalà ʾiqrāri ḥamdūnaẗa ăz zarqāʾi ĭbnati ʾisḥāqa bi ǧamīʿi mā fī 
+ <lb n="8"/>hāḏā ăl kitābi wa ḏālika fī ṣafar:in sanaẗa sabʿīna wa miʾatayni 
+ <lb n="9"/>šahida ʿabdu ăl lāhi bnu ḥāriṯ:in ʿalà ʾiqrāri ḥamdūnaẗa ăz zarqāʾi ĭbnati ʾisḥāqa bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="10"/>wa ḏālika fī ṣafar:in sanaẗa sabʿīna wa miʾatayni šahida ṭayfūru bnu ăl muṭṭalibi bni ʿumara ʿalà miṯli ḏālika * 
+ <lb n="11"/>šahida muḥammadu bnu ʾaḥmada ăl ǧanadiyyu ǧandiyyu ǧundiyyu ʿalà miṯli ḏālika * 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [ .... So and So, son of So and So, is witness to the acknowledgment by Ḥamdûna,]
+		 <lb n="2"/>
+ 	  [the gray-eyed, daughter of Isḥâ]q respecting all that (is contained) in this contract and [th]is in [Ṣafar of the year two hundred and seventy].
+		 <lb n="3"/>
+ 	  Sahl b. Qumâma b. Isḥâq is witness to the acknowledgment by Ḥamd[ûna, the] gray[-eyed, daughter of Isḥâq,]
+		 <lb n="4"/>
+ 	  respecting all that (is contained) in this contract and this in Ṣafar of the year two hundred and seventy.
+		 <lb n="5"/>
+ 	  ʿImrân b. Sarî al-Waraʾî is witness to the acknowledgment by Ḥamdûna, the gray-eyed, daughter of Isḥâq,
+		 <lb n="6"/>
+ 	  respecting all that (is contained) in this contract [...... and] this in Ṣafar of the year two hundred
+		 <lb n="7"/>
+ 	  and seventy. (Handmark). Yûsuf b. Ismaʿîl is witness to the acknowledgment by Ḥamdûna, the gray-eyed, daughter of Isḥâq, respecting all that (is contained) in
+		 <lb n="8"/>
+ 	  this contract and this in Ṣafar of the year two hundred and seventy. (Handmark).
+		 <lb n="9"/>
+ 	  ʿAbdallâh b. Ḥâriṯ is witness to the acknowledgment by Ḥamdûna, the gray-eyed, daughter of Isḥâq, respecting all that (is contained) in this contract,
+		 <lb n="10"/>
+ 	  and this in Ṣafar of the year two hundred and seventy. Ṭaifûr b. al-Muṭṭalib b. ʿAmr is witness to the same. (Handmark).
+		 <lb n="11"/>
+ 	  Muḥammad b. Aḥmad, the soldier, is witness to the same. (Handmark).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

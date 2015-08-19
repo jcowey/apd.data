@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="790" xml:id="Guo_Quseir_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDinars (= P.QuseirArab. I 01)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106850</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1 left"/>  مماليكه المظفّر وأبو 
+<lb n="recto 2 left"/>  بكر 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="recto 4"/>  حضرة الشّيخ أبو مفرّج <sic n="superfluous">أ</sic>اطال 
+<lb n="recto 5"/>  اللّه بقاه و<supplied reason="lost" cert="high">أدام</supplied> عزّه ونعماه 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وسوى</supplied> </lem><rdg resp="Guo, Dinars">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ذلك</supplied> </lem><rdg resp="Guo, Dinars">ø</rdg></app> إنّني سيّرت لك 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> الحميلات 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> ثلپپن الثه كل شى حپده 
+<lb n="recto 9"/>  فا اللّه اللّه ساعة <app type="BL"><lem resp="APD">وصول </lem><rdg resp="AK">وصولها</rdg></app> <app type="BL"><lem resp="APD">لك </lem><rdg resp="AK">إليك</rdg></app> <app type="BL"><lem resp="APD">الّذي </lem><rdg resp="AK">ø</rdg></app> 
+<lb n="recto 10"/>  لا تخلّيها تقعد ساعة واحدة 
+<lb n="recto 11"/>  <app type="BL"><lem resp="APD">تبيعها </lem><rdg resp="“EG”">تبعها</rdg></app> بما طعّم اللّه ورزق 
+<lb n="recto 12"/>  فنحن نطلب نكري بها حمولة 
+<lb n="recto 13"/>  كبيرة ونسيّرها للمولا وما سيّرنا 
+<lb n="recto 14"/>  هذه إلّا تساعدنا على الّذي فا اللّه 
+<lb n="recto 15"/>  اللّه لا تخلّي إلّا تسيّر لي تمنها 
+<lb n="recto 16"/>  صحبة خضر الصّبي الحمّال 
+<lb n="recto 17"/>  ولا تأخذ لنا تمنها إلّا ذهب مصري 
+<lb n="recto 18"/>  وانتقده جيّد لا يكون فيه ذهب 
+<lb n="recto 19"/>  مكّي لا يكون إلّا مصري وتربط 
+<lb n="recto 20"/>  كل شي عزلة وتسلّمه لخضر 
+<lb n="verso 1"/>  فا اللّه اللّه ما <app type="BL"><lem resp="APD">تحتاج </lem><rdg resp="“EG”">يحتاج</rdg></app> <app type="BL"><lem resp="APD">وصّيه </lem><rdg resp="“Friedman, Quṣayr p. 405; Diem, P.QuseirArab. p. 166”">وصيّة</rdg></app> 
+<lb n="verso 2"/>  ومهما احتاج المولا من الحاجة 
+<lb n="verso 3"/>  فتكتب لي مع الحمّالين رقعة 
+<lb n="verso 4"/>  <app type="BL"><lem resp="APD">لحوائجك </lem><rdg resp="“Diem, P.QuseirArab. p. 166; EG”">بحوائجك</rdg></app> أ<supplied reason="lost" cert="high">سيّر</supplied> ولمّا يصل لك 
+<lb n="verso 5"/>  من الغلّة بما أمر تسيّر لنا مل التّمن 
+<lb n="verso 6"/>  والسّلام عليك ورحمة اللّه وبركاته 
+<lb n="verso top down 1"/>  خدمة توصّي على <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso top down 2"/>  الشّيخ أبو مفرّج إلى <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>mamālīku hu ăl muẓaffaru wa ʾabū 
+ <lb n="2"/>bakr:in 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ḥaḍraẗu ăš šayḫi ʾabū mufarriǧ:in ʾaṭāla 
+ <lb n="5"/>ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa naʿmāʾa hu 
+ <lb n="6"/>wa ø siwà ø ḏālika ø ʾinna nī sayyartu la ka 
+ <lb n="7"/>*** ăl ḥamīlāt 
+ <lb n="8"/>*** ṯalāṯīna ʾilay hi kull šayʾ:in ǧayyidaẗ 
+ <lb n="9"/>fā ăl lāhu ăl lāhu sāʿaẗa wuṣūl:in wuṣūli ø hā la ʾilay ka ăllaḏī ø 
+ <lb n="10"/>lā tuḫallī hā taqʿudu sāʿaẗ:an wāḥidaẗ:an 
+ <lb n="11"/>tabīʿ tabiʿ hā bi mā ṭaʿʿama ăl lāhu wa razaqa 
+ <lb n="12"/>fa naḥnu naṭlubu nakrī nukrī bi hā ḥumūlaẗ:an 
+ <lb n="13"/>kabīraẗ:an wa nusayyiru hā li l mawlā wa mā sayyarnā 
+ <lb n="14"/>hāḏihi ʾillā tusāʿid nā ʿalà ăllaḏī fā ăl lāhu 
+ <lb n="15"/>ăl lāhu lā tuḫallī ʾillā tusayyir l ī tamana hā 
+ <lb n="16"/>ṣuḥbaẗa ḫiḍr:ini ăṣ ṣabiyyi ăl ḥammāli 
+ <lb n="17"/>wa lā taʾḫuḏ la nā tamana hā ʾillā ḏahab miṣriyy 
+ <lb n="18"/>wa ĭntaqid hu ǧayyid lā yakūn fī hi ḏahab:un 
+ <lb n="19"/>makkiyy:un lā yakūn ʾillā miṣriyy wa tarbuṭ 
+ <lb n="20"/>kulla šayʾ:in ʿuzlaẗ:an wa tusallim hu li ḫiḍr:in 
+ <lb n="21"/>fā ăl lāhu ăl lāhu mā taḥtāǧu yaḥtāǧu waṣṣī waṣiyyaẗ:an hi ø 
+ <lb n="22"/>wa mahmā ĭḥtāǧa ăl mawlā mina ăl ḥāǧaẗi 
+ <lb n="23"/>fa taktub l ī maʿa ăl ḥammālīna ruqʿaẗ:an 
+ <lb n="24"/>li bi ḥawāʾiǧi ka ʾusayyiru wa lammā yaṣilu la ka 
+ <lb n="25"/>mina ăl ġallaẗi bi mā ʾumira tusayyir la nā milʾa ăt tamani 
+ <lb n="26"/>wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu 
+ <lb n="27"/>ḫidmaẗ:un tuwaṣṣà ʿalà *** 
+ <lb n="28"/>ăš šayḫu ʾabū mufarriǧ:in ʾilà *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		His servants al-Muẓaffar and Abū
+			<lb n="2"/>
+		Bakr
+			<lb n="3"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="4"/>
+		[write to inform] Shaykh Abū Mufarrij - may God prolong
+			<lb n="5"/>
+		his life and make his strength and happiness everlasting! -
+			<lb n="6"/>
+		[........ that] I have dispatched to you
+			<lb n="7"/>
+		[.............. in] small loads
+			<lb n="8"/>
+		[...... a total of] thirty; [and that] everything shipped to him (i.e., you) is of good quality.
+			<lb n="9"/>
+		By God, by God! as soon as the aforesaid [shipment] arrives,
+		By God, by God! as soon as the aforesaid [shipments] arrives,
+			<lb n="10"/>
+		don&#039;t let it sit idle, not a second!
+		don&#039;t let it sit idle, not even a moment!
+			<lb n="11"/>
+		Sell it, as God so feeds and provides.
+		Sell it, as God so provides.
+			<lb n="12"/>
+		We would like to rent a large cargo ship
+		We would like to rent a large carrier [for the merchandise]
+			<lb n="13"/>
+		and dispatch it to the Master. [But] we will not dispatch it
+		and dispatch it to [you] the Master. [But] we will not send it out
+		... We will not dispatch the shipment
+		... We won&#039;t dispatch the shipment
+			<lb n="14"/>
+		unless you help us out with the aforesaid [shipment]. By God, 
+		unless you help us out with the aforesaid [transaction). ...
+		unless you would help us out on account of the aforesaid [shipment]. By God, 
+			<lb n="15"/>
+		by God! all you need to do is send me the down payment, 
+		by God! all you need to do is send me the down payments, 
+			<lb n="16"/>
+		to be accompanied by Khiḍr the young porter.
+			<lb n="17"/>
+		Don&#039;t accept, on our behalf, the payments unless [they are paid in] Egyptian gold [dinars].
+		Don&#039;t accept the payments on our behalf unless [they are paid in] Egyptian golden [dinars].
+			<lb n="18"/>
+		Cash the money carefully: No Meccan
+			<lb n="19"/>
+		gold [dinars]. Egyptian dinars only. Wrap
+		golden [dinars]. Egyptian dinars only. Wrap
+		... Wrap
+			<lb n="20"/>
+		everything separately and hand it all to Khiḍr.
+		everything separately and hand it all to Khiḍr [the porter].
+			<lb n="21"/>
+		By God, by God! anything you want, let [me] know.
+		By God, by God! He (i.e. you, the master) does not need any further instructions. 
+			<lb n="22"/>
+		Whatever [you,] the Master need,
+			<lb n="23"/>
+		write me a memo [and send it] through the porters; 
+			<lb n="24"/>
+		I will ship off your orders. Upon the delivery
+			<lb n="25"/>
+		of the crops as ordered hereby, you should send us the full payment.
+			<lb n="26"/>
+		Peace be upon you. God&#039;s mercy and blessings.
+			<lb n="27"/>
+		The service was commissioned [..........]
+			<lb n="28"/>
+		Shaykh Abū Mufarrij to [................]
+</ab></div>
+</body>
+</text>
+</TEI>

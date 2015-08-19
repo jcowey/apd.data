@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1970" xml:id="Grohmann_APEL_223" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 223</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_223</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169702</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الزّرع 
+<lb n="2"/>  سموا أيضا فدّان بدينر فدّان بـ<supplied reason="lost" cert="high">ـدينر</supplied> 
+<lb n="3"/>  شنوده من هجير كرّام بدرموده ÷<supplied reason="lost" cert="high">÷</supplied> ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  مقاره أبقيره ÷÷÷÷÷ ÷÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ميمون الأسود ÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  أبلّو السّمّاك <gap reason="illegible" precision="low" extent="3"/> ÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  السّودة ملك ÷÷÷÷ ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <app type="BL"><lem resp="APD">خراش </lem><rdg resp="APD">خراش</rdg></app> مولى جرير وهو دواس ÷÷÷ ÷÷÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  مرون بن عسمروس ÷÷÷ ÷<supplied reason="lost" cert="high">÷÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  موسى بن قرّة ÷÷÷÷÷÷ ÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  بسنّه أصمك ÷÷<supplied reason="lost" cert="high">÷</supplied>÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  محمّد بن الأصبغ وهو علي ÷÷÷÷<supplied reason="lost" cert="high">÷</supplied>÷÷÷ ÷÷÷÷<supplied reason="lost" cert="high">÷</supplied>÷<supplied reason="lost" cert="high">÷÷</supplied> 
+<lb n="13"/>  مينا قما وهو ميله ÷÷÷ 
+<lb n="14"/>  شنوده بلو<supplied reason="lost" cert="high">ته</supplied> ÷÷÷÷÷ <supplied reason="lost" cert="high">÷÷÷÷÷</supplied> 
+<lb n="15"/>  إسحاق نست ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  كيل الحارس وهو كيل دمونه بسكن ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  خيار 
+<lb n="18"/>  بلتوس بتاس ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  <gap reason="illegible" extent="2" unit="character" />را<gap reason="illegible" extent="1" unit="character" /> ر<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـوره ÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20"/>  بقطر پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăz zarʿu 
+ <lb n="2"/>samawā ʾayḍ:an faddān:un bi dīnār:in faddān:un bi dīnār:in 
+ <lb n="3"/>šanūdahu min huǧayra karrāmu badarmūdaha 4 1/8 3 1/24 * *** 
+ <lb n="4"/>maqārahu ʾabaqīraha 2 1/3+1/8+1/48 2 1/3+1/8+1/48 *** 
+ <lb n="5"/>maymūn:uni ăl ʾaswadu 7 1/4+1/8 7 1/4+1/8 * *** 
+ <lb n="6"/>ʾabullū ăs sammāku *** 1/4+*** 
+ <lb n="7"/>ăs sawdaẗu malaku 7 1/8+1/48 7 1/8+1/48 * *** 
+ <lb n="8"/>ḥarrāšu ḥirāšu ḫirāšu mawlà ǧarīr:in wa huwa dawāsu 3 1/4 3 1/4+*** 
+ <lb n="9"/>marūnu bnu ʿasmarūsa 26 1/3 26 1/3 *** 
+ <lb n="10"/>mūsà bnu qurraẗa 29 2/3+1/8+1/48 1/8+*** 
+ <lb n="11"/>basinnahu ʾaṣmaka 1/3+1/8+1/48 *** 
+ <lb n="12"/>muḥammadu bnu ăl ʾaṣbaġi wa huwa ʿaliyy:un 32 1/2+1/3+1/12+1/48 32 1/2+1/3+1/12+1/48 
+ <lb n="13"/>mīnā qumā wa huwa mīlahu 2 1/48 
+ <lb n="14"/>šanūdahu bilūtaha 2 1/24+1/48 2 1/24+1/48 
+ <lb n="15"/>ʾisḥāqu nasta 2/3 *** 
+ <lb n="16"/>kayl:uni ăl ḥārisu wa huwa kaylu damūnaha bi sakani 1 1/12 *** 
+ <lb n="17"/>ḫiyāra 
+ <lb n="18"/>bilatūsu batāsa 1/2+1/24 *** 
+ <lb n="19"/>**rʾ* r***ūrah 1/12+1/48 *** 
+ <lb n="20"/>buqṭuru B*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Seed land
+			<lb n="2"/>
+		Samawâ, once more. faddân for dînârs faddân for [dînârs
+			<lb n="3"/>
+		Šanûda, from Huǧair, vintner of Badermûde, 4 1/8  3 1/24 [.] [
+			<lb n="4"/>
+		Maqâre Abaqîre 2 1/3+1/8+1/48  2 1/3+1/8+1/48 [
+			<lb n="5"/>
+		Maimûn, the black 7 1/4+1/8  7 1/4+1/8 [.] [
+			<lb n="6"/>
+		Apollo, the fisherman [...] [...] 1/4[
+			<lb n="7"/>
+		as-Sauda Malak 7 1/8+1/48 7 1/8+1/48 [.] [
+			<lb n="8"/>
+		Ḥirâš, freedman of Ǧarîr, who (is called) Dawâs 3 1/4  3 1/4 [
+			<lb n="9"/>
+		Marôn, son of ʿAsmarûs (?) 26 1/3  [26]1/3 [
+			<lb n="10"/>
+		Mûsâ b. Qorra 29 2/3+1/8+1/48 [...] 1/8 [
+			<lb n="11"/>
+		Basinna Aṣmak (?) 1/3+[1/8]+1/48 [
+			<lb n="12"/>
+		Muḥammad b. al-Aṣbaġ who (is called) ʿAlî 32 1/2+[1/3]+1/12+1/48 [32]1/2+[1/3]+1/12+[1/48
+			<lb n="13"/>
+		Mînâ Qomâ who (is called) Mîla 2 1/48
+			<lb n="14"/>
+		Šanûda Balû[te] 2 1/24+1/48 [2 1/24+1/48
+			<lb n="15"/>
+		Isaac Nast(os) 2/3 [
+			<lb n="16"/>
+		Chael, the guardian, who (is called) Chael Damûne in the household of  1 1/12 [
+			<lb n="17"/>
+		Ḫiyâr
+			<lb n="18"/>
+		Bilatôs Batâs 1/2+1/24 [
+			<lb n="19"/>
+		[... ...]ûre 1/12+1/48 [
+			<lb n="20"/>
+		Boqṭor ...[
+</ab></div>
+</body>
+</text>
+</TEI>

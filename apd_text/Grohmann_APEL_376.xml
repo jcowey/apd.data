@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1885" xml:id="Grohmann_APEL_376" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 376</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_376</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169622</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+<lb n="2"/>  الّذي أطعم اللّه من غلّة الكـ<supplied reason="lost" cert="high">ـرم</supplied> 
+<lb n="3"/>  أصبنا سوپپل مجر كبير <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮ومن العصارة ‮γ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <app type="BL"><lem resp="APD">‮وبعلحپده </lem><rdg resp="LS">‮وبڤلحپده</rdg></app> فوق المنزل ‮‪σξ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮وفي القرطل ‪τϙγ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ‮ومن العصارة لرأس ‮‪ιη‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ‮ومن ساقية <app type="BL"><lem resp="APD">هزيز </lem><rdg resp="APD">هزيز</rdg></app> ‮‪σξη‬ لر<supplied reason="lost" cert="high">أس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ‮‪‮ومن العصارة مجرتين ‮‪ια‬ لرأ<supplied reason="lost" cert="high">س</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ‮ومن عند هرون مجرين ‮‪ιδ‬ <supplied reason="lost" cert="high">لرأس</supplied> 
+<lb n="11"/>  ‮ومن عند عبد اللّه الصعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  ‮وفي الثّانية ‮‮‪χγ‬ ومن المعصـ<supplied reason="lost" cert="high">ـرة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  وأيضا مجرين عصارة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  فذلك جملة ما لعبد اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  ‮وعند هرون ‮‪φνδ‬ ومن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  ‮ومن ڤلحپده ‮‪τνγ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  فيها البركة وجنّسها <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ʾaṭʿama ăl lāhu min ġallaẗi ăl karmi 
+ <lb n="3"/>ʾaṣabnā smBBl māǧur:un kabīr:un *** 
+ <lb n="4"/>wa mina ăl ʿuṣāraẗi 3 *** 
+ <lb n="5"/>wa bi  bi BʿlḥBdh FlḥBdh fawqa ăl manzili 260 *** 
+ <lb n="6"/>wa fī ăl qarṭali 393 *** 
+ <lb n="7"/>wa mina ăl ʿuṣāraẗi li raʾs:in 18 *** 
+ <lb n="8"/>wa min sāqiyaẗi hurayr:in huzayz:in 268 li raʾs:in *** 
+ <lb n="9"/>wa mina ăl ʿuṣāraẗi māǧuratayni 11 li raʾs:in *** 
+ <lb n="10"/>wa min ʿinda hārūna māǧurayni 14 li raʾs:in 
+ <lb n="11"/>wa min ʿinda ʿabdi ăl lāhi ăṣ ṣʿ** *** 
+ <lb n="12"/>wa fī ăṯ ṯāniyaẗi 603 wa mina ăl miʿṣaraẗi *** 
+ <lb n="13"/>wa ʾayḍ:an māǧurayni ʿuṣāraẗ:an *** 
+ <lb n="14"/>fa ḏālika ǧumlaẗu mā li ʿabdi ăl lāhi *** 
+ <lb n="15"/>wa ʿinda hārūna 554 wa min *** 
+ <lb n="16"/>wa min FlḥBdh 353 *** 
+ <lb n="17"/>fī hā ăl barakaẗu wa ǧannasa hā * ăl lāhu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merci[ful.
+			<lb n="2"/>
+		That which God has given for food from the harvest of the vin[es
+			<lb n="3"/>
+		......................... a great tub[
+			<lb n="4"/>
+		and of juice (of grapes) 3 [
+			<lb n="5"/>
+		and in the ............. above the dwelling-house 260[
+			<lb n="6"/>
+		and in the rush-basket 393[
+			<lb n="7"/>
+		and of juice (of grapes) per head 18[
+			<lb n="8"/>
+		and from Sâqiyat Hurairu 268 per h[ead
+			<lb n="9"/>
+		and of juice (of grapes) two tubs, 11 per hea[d
+			<lb n="10"/>
+		and from Hârûn&#039;s place two tubs, 14 [per head
+			<lb n="11"/>
+		and from ʿAbdallâh&#039;s place, the .........[
+			<lb n="12"/>
+		and in the second 603, and from the pre[ss
+			<lb n="13"/>
+		and further two tubs juice (of grapes) [
+			<lb n="14"/>
+		This is the total of what belongs to ʿAbdallâh[
+			<lb n="15"/>
+		and with Hārūn (are) 554, and of [
+			<lb n="16"/>
+		and of .......... 353 [
+			<lb n="17"/>
+		therein is the blessing (of God) and he has caused it to ripen. ...[
+</ab></div>
+</body>
+</text>
+</TEI>

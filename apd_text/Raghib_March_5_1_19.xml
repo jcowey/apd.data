@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="777" xml:id="Raghib_March_5_1_19" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands V/1 19</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_1_19</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106842</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="top left"/>  الأم لإبرهيم بن الحكم 
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>صى عپسى پن المبكدر 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> الصدڤى پكپا ايا عمر ومسكپه 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> ڤپاده قى دار پڤسه ان لأنّرهپم پن 
+<lb n="4"/>  <supplied reason="lost" cert="high">الحكم</supplied> <supplied reason="lost" cert="high">ا</supplied>لمرادى على ا<supplied reason="lost" cert="high">پى</supplied> سعپد عپمن پن سعبد الصدڤي 
+<lb n="5"/>  خمسة دنانير وهي بقيّة الأحد وأربعين الدّينر الّتي 
+<lb n="6"/>  كانت له عليه وكتـ<supplied reason="lost" cert="high">ـب</supplied> <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" extent="4" unit="character" /> جمادى الآخرة 
+<lb n="7"/>  من سنة أربع عشرة و<supplied reason="lost" cert="high">مائتين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ʾummu li ʾibrāhīma bni ăl ḥakami 
+ <lb n="2"/>*** ***ṣy ʿīsà bn ăl munkadiri 
+ <lb n="3"/>*** ăṣ ṣadafiyy yukannā ʾabā ʿumara wa maskanu hu 
+ <lb n="4"/>*** qatādaẗ fī dār:in nafsi hi ʾanna li ʾibrāhīma bni 
+ <lb n="5"/>ăl ḥakami ăl murādiyyi ʿalà ʾabī saʿīd:in ʿuṯmāna bni saʿīd:in ăṣ ṣadafiyyi 
+ <lb n="6"/>ḫamsaẗa danānīra wa hiya baqiyyaẗu ăl ʾaḥadi wa ʾarbaʿīna ăd dīnāri ăllatī 
+ <lb n="7"/>kānat la hu ʿalay hi wa kutiba fī **** ǧumādà ăl ʾāḫiraẗi 
+ <lb n="8"/>min sanaẗi ʾarbaʿa ʿašraẗa wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		L&#039;original appartenant à Ibrāhīm b. al-Ḥakam
+			<lb n="2"/>
+		[....]. ʿĪsā b. al-Munkadir
+			<lb n="3"/>
+		[....] al-Ṣadafī qui porte la kunya d&#039;Abū ʿUmar et dont le domicile se trouve
+			<lb n="4"/>
+		[....] Qatāda dans une maison qui est à lui, qu&#039;à Ibrāhīm b.
+			<lb n="5"/>
+		[al-Ḥakam al]-Murādī, [Abū] Saʿīd ʿUṯmān b. Saʿīd al-Ṣadafī doit 
+			<lb n="6"/>
+		cinq dinars qui sont le reste des quarante et un dinars
+			<lb n="7"/>
+		qu&#039;il `lui´ devait. [Écrit en ....] ǧumādā II
+			<lb n="8"/>
+		de l&#039;année [deux cent] quatorze.
+</ab></div>
+</body>
+</text>
+</TEI>

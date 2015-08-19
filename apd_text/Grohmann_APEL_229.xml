@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1980" xml:id="Grohmann_APEL_229" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 229</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_229</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169712</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <sic n="superfluous">قپصپط</sic><supplied reason="omitted" cert="high">ڤسطنط</supplied> بن مينا قمح ÷ <gap reason="illegible" extent="2" unit="character" /> ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  مينا القبّال من دروط قمح ÷ ÷÷ ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  پپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ثـ</supplied>ـيدر قمح ÷ ÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">الأ</supplied>جير قـ<supplied reason="lost" cert="high">ـمح</supplied> ÷÷ ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  بلوته الأجير قـ<supplied reason="lost" cert="high">ـمـ</supplied>ـح ÷÷ ÷÷ ÷÷ <gap reason="illegible" extent="1" unit="character" />÷ ÷÷÷÷ 
+<lb n="6"/>  قمح ÷÷ ÷ ÷÷ ÷÷÷ ÷÷÷ 
+<lb n="7"/>  قمح ÷÷ ÷÷÷ ÷÷ <gap reason="illegible" extent="2" unit="character" /> ÷÷÷÷ 
+<lb n="8"/>  بقام الأجير قمح ÷÷ <gap reason="illegible" extent="2" unit="character" /> ÷÷ ÷÷ ÷÷÷ 
+<lb n="9"/>  جرجه <app type="BL"><lem resp="APD">بقلب </lem><rdg resp="APD">بقلب</rdg></app> قمح ÷÷ ÷÷÷ ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  قمح ÷÷ ÷÷ ÷÷ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <app type="BL"><lem resp="APD">هـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـلس </lem><rdg resp="APD">هلس</rdg></app> الشّـ<supplied reason="lost" cert="high">ـمّـ</supplied>ـا<supplied reason="lost" cert="high">س</supplied> قـ<supplied reason="lost" cert="high">ـمـ</supplied>ـح <gap reason="illegible" extent="1" unit="character" />÷ ÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  مينا القبّال من دروط قمح ÷÷ ÷÷÷ ÷ <gap reason="illegible" extent="2" unit="character" /> ÷ 
+<lb n="13"/>  هرون بن عبد اللّه من دروط قمح ÷÷÷ ÷÷ ÷÷÷ <gap reason="illegible" extent="2" unit="character" /> ÷÷÷÷ 
+<lb n="14"/>  جرجه <app type="BL"><lem resp="APD">بقلب </lem><rdg resp="APD">بقلب</rdg></app> <supplied reason="lost" cert="high">قـ</supplied>ـمح ÷÷ ÷÷ ÷÷ ÷÷ ÷ 
+<lb n="15"/>  فسطلس يحنّس قمح ÷÷ ÷÷ ÷÷÷ ÷÷÷ ÷÷÷ 
+<lb n="16"/>  مينا القبّا<supplied reason="lost" cert="high">ل</supplied> قمح ÷÷ ÷÷ ÷÷÷ ÷÷÷ ÷÷ 
+<lb n="17"/>  قمح ÷÷÷ ÷÷ ÷÷ ÷÷÷ ÷÷÷÷ 
+<lb n="18"/>  مينا دروى وبقطر سوا قمح ÷÷ ÷÷ ÷÷ ÷÷ ÷÷÷ 
+<lb n="19"/>  قمح ÷÷÷ ÷÷ ÷÷ ÷ ÷÷÷÷ 
+<lb n="20"/>  بقام الأجير قمح ÷÷ ÷÷ ÷÷ ÷÷ ÷÷÷÷ 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>qusṭanṭu bnu mīnā qamḥ:un 1/3 ** 7 *** 
+ <lb n="2"/>mīnā ăl qabbālu min darūṭa qamḥ:un 40 38 10 1/2 1/2+1/8 *** 
+ <lb n="3"/>BB*** ṯiyudur qamḥ:un 40 41 4 *** 
+ <lb n="4"/>**** ăl ʾaǧīru qamḥ:un 14 16 29 *** 
+ <lb n="5"/>bilūtahu ăl ʾaǧīru qamḥ:un 17 16 29 3* 1 1/6+1/24 
+ <lb n="6"/>qamḥ:un 8 1/2 8 23 22 1/2 1/3+1/8+1/48 
+ <lb n="7"/>qamḥ:un 9 1/2 11 1/2 17 ** 1/3+1/12+1/48 
+ <lb n="8"/>baqāmu ăl ʾaǧīru qamḥ:un 15 ** 28 29 1 1/24 
+ <lb n="9"/>ǧirǧahu bafiliba baquluba qamḥ:un 15 13 1/2 24 29 *** 
+ <lb n="10"/>qamḥ:un 13 10 1/2 10 1/2 ** *** 
+ <lb n="11"/>h***lsu halisu ăš šammāsu qamḥ:un 1* 19 * *** 
+ <lb n="12"/>mīnā ăl qabbālu min darūṭa qamḥ:un 13 12 1/2 10 ** 1/3 
+ <lb n="13"/>hārūnu bnu ʿabdi ăl lāhi min darūṭa qamḥ:un 14 1/2 13 16 1/2 ** 1/2+1/24+1/48 
+ <lb n="14"/>ǧirǧahu bafiliba baquluba qamḥ:un 28 32 25 28 2 
+ <lb n="15"/>fusṭulusu yuḥannisa qamḥ:un 20 1/2 19 14 1/2 16 1/2 1/2+1/4+1/48 
+ <lb n="16"/>mīnā ăl qabbālu qamḥ:un 11 18 14 1/2 18 1/2 1/2+1/8 
+ <lb n="17"/>qamḥ:un 11 1/2 11 44 41 1/2 1 1/6+1/24 
+ <lb n="18"/>mīnā darwà wa buqṭuru sawā qamḥ:un 12 18 304 98 1/3+1/8+1/48 
+ <lb n="19"/>qamḥ:un 16 1/2 18 11 9 3 1/12+1/48 
+ <lb n="20"/>baqāmu ăl ʾaǧīru qamḥ:un 14 15 15 16 1/2+1/24+1/48 
+ <lb n="21"/>*** **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Qonṣṭanṭ (?), son of Mînâ, wheat: 1/3  ,,  7[...]
+		Qosṭanṭ (?), ...
+			<lb n="2"/>
+		Mînâ, the measurer from Darûṭ, wheat: 40  38  10 1/2  1/2+1/8[...]
+			<lb n="3"/>
+		... [... Theo]dor, wheat: 40  41  4[...]
+			<lb n="4"/>
+		[...... the jo]urneyman, wh[eat]: 14  16  29[...]
+			<lb n="5"/>
+		Bilôte, the journeyman, wh[ea]t: 17  16  29  3[.]  1 1/6+1/24
+			<lb n="6"/>
+		wheat: 8 1/2  8  23  22 1/2  1/3+1/8+1/48
+			<lb n="7"/>
+		wheat: 9 1/2  11 1/2  17  ,, 1/3+1/12+1/48
+			<lb n="8"/>
+		Pqâm, the journeyman, wheat: 15  ,,  28  29  1 1/24
+			<lb n="9"/>
+		Ǧirǧe Paphilip (?), wheat: 15  13 1/2  24  29[...]
+			<lb n="10"/>
+		wheat: 13  10 1/2  10 1/2  ,, [...]
+			<lb n="11"/>
+		H[e]lis, the dea[con], wheat: 1[.] 19 [.] [...]
+			<lb n="12"/>
+		Mînâ, the measurer from Darûṭ, wheat: 13  12 1/2  10  ,,  1/3
+			<lb n="13"/>
+		Harûn b. ʿAbdallâh from Darûṭ, wheat: 14 1/2  13  16 1/2  ,, 1/2+1/24+1/48
+			<lb n="14"/>
+		Ǧirǧe Paphilip (?), [wh]eat: 28  32  25  28  2
+			<lb n="15"/>
+		Postolos Yoḥannes, wheat: 20 1/2  19  14 1/2  16 1/2  1/2+1/4+1/48
+			<lb n="16"/>
+		Mînâ, the measur[er], wheat: 11 18  14 1/2  18 1/2  1/2+1/8
+			<lb n="17"/>
+		wheat: 11 1/2  11  44  41 1/2  1 1/6+1/24
+			<lb n="18"/>
+		Mînâ Darwâ and Boqṭor Sawâ, wheat: 12  18  304  98  1/3+1/8+1/48
+			<lb n="19"/>
+		wheat: 16 1/2  18  11  9  3 1/12+1/48
+			<lb n="20"/>
+		Pqâm, the journeyman, wheat: 14  15  15  16  1/2+1/24+1/48
+			<lb n="21"/>
+</ab></div>
+</body>
+</text>
+</TEI>

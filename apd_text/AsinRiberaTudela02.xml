@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1996" xml:id="AsinRiberaTudela02" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 2 (= P.Garcia-ArenalTudelaTarazona 03)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">AsinRiberaTudela02</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169727</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم اشترا دون واس وزوجتيه مريّة من فاطمة بنت أحمد المليوالي الجنان الّتي لهما 
+<lb n="2"/>  بأبتيردش في الجهة الواحدة جنان مشنين وفي الثّانية جنان فرّنده غلياقه وفي الثّالثة الطّريق <app type="BL"><lem resp="APD">اشترا </lem><rdg resp="García-Arenal">اشتراها</rdg></app> منها بثمنية 
+<lb n="3"/>  عشر مثقالا مرابطيّة الّوبيّة بإهالتها وأدخل ضامنا عندهما أحمد ابن محمّد البلمي على فوير تطيلة وأشهد على <app type="BL"><lem resp="APD">ذلك </lem><rdg resp="García-Arenal">ذالك</rdg></app> 
+<lb n="4"/>  من سمع منهما وعرفهما وذلك في شهر رجب الفرد الموافق بفبرير سنة تسعة وستّين <app type="BL"><lem resp="APD">وخمسماٮه </lem><rdg resp="García-Arenal">وخمس</rdg></app> <app type="BL"><lem resp="APD">واپصڤها </lem><rdg resp="García-Arenal">مائة</rdg></app> من العد 
+<lb n="5"/>  والإأهالة وبه أشهد في التّأريخ عبد الملك ابن محمّد البحيني كتب عنه بأمره ومحمّد الشّاطبي الحدّاد ومن النّصار دون رمند 
+<lb n="6"/>  من شنت كروج ودون بطل كريار كتب عنهما بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭštarā dūn wās:un wa zawǧatī hi mariyyaẗu min fāṭimaẗa binti ʾaḥmada ăl malyuwāliyyi ăl ǧināna ăllatī la humā 
+ <lb n="2"/>bi ʾabtīrdaša fī ăl ǧihaẗi ăl wāḥidaẗi ǧinānu mušanīna wa fī ăṯ ṯāniyaẗi ǧinānu firranduha ġalyāquha wa fī ăṯ ṯāliṯaẗi ăṭ ṭarīqu ĭštarā ĭštarā ø hā min hā bi ṯamāniyaẗa 
+ <lb n="3"/>ʿašara miṯqāl:an murābiṭiyyaẗ:in ăl lūbiyyaẗi bi ʾihālati hā wa ʾudḫila ḍāmin:an ʿinda humā ʾaḥmadu ĭbnu muḥammad:in ăl balmiyyu ʿalà fuwayri tuṭīlaẗa wa ʾušhida ʿalà ḏālika 
+ <lb n="4"/>man samiʿa min humā wa ʿarafa humā wa ḏālika fī šahri raǧaba ăl fardi ăl muwāfiqi bi fibrayri sanaẗi tisʿaẗ:in wa sittīna wa ḫamsi miʾaẗ:in ḫamsi  ø miʾaẗ:in wa ʾanṣafa hā mina ăl ʿaddi 
+ <lb n="5"/>wa ăl ʾiʾhālaẗi wa bi hi ʾašhada fī ăt taʾrīḫi ʿabdu ăl maliki ĭbnu muḥammad:ini ăl baḥīniyyu kutiba ʿan hu bi ʾamri hi wa muḥammad:unu ăš šāṭibiyyu ăl ḥaddādu wa mina ăn naṣāra dūn ramundu 
+ <lb n="6"/>min šanta kurūǧ wa dūn biṭālu kuryāru kutiba ʿan himā bi ʾamri himā 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

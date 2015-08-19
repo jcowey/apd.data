@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1542" xml:id="Diem_Berl_II_51" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 51</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_51</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169313</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">حفظك</supplied> اللّه وأبقاك وأمتع بك 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">كتبت</supplied> إليك أبقاك ا<supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">حتّا</supplied> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">تشـ</supplied>ـتري لي نصف درهم حبر <app type="BL"><lem resp="APD">مربّى </lem><rdg resp="APD">مرير</rdg></app> 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">وبعث</supplied> معك أبو يوسف 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">بـ</supplied><gap reason="illegible" extent="5" unit="character" /> فإن من خبر 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أنّك</supplied> <supplied reason="lost" cert="high">تدفـ</supplied>ـعه لنا أطرح حتّا 
+<lb n="recto 8"/>  أملأ خمس فسوّي ورم 
+<lb n="recto 9"/>  حصولي حـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـا <unclear reason="undefined" cert="high">يقام</unclear> وتودن 
+<lb n="recto 10"/>  أيش أخّر كتابك عنّي اليوم 
+<lb n="recto 11"/>  إن شا اللّه حفظك اللّه 
+<lb n="recto 12"/>  واللّه يأ<supplied reason="lost" cert="high">خـ</supplied>ـي مأراك تتلقّي 
+<lb n="recto 13"/>  من أعلمك أبقاك 
+<lb n="recto 14"/>  اللّه وحفظك وأمتع بك 
+<lb n="recto 15"/>  وكتب 
+<lb n="verso 1 right"/>  لأبي سليمن أبقاه ا<supplied reason="lost" cert="high">للّه </supplied>
+<lb n="verso 2"/>  <gap reason="illegible" extent="7" unit="character" /> بن داو<supplied reason="lost" cert="high">د</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1left"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن <gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾamtaʿa bi ka 
+ <lb n="3"/>katabtu ʾilay ka ʾabqā ka ăl lāhu ḥattā 
+ <lb n="4"/>taštariya l ī niṣfa dirhami ḥibr:in murabbà marīr:in 
+ <lb n="5"/>wa baʿaṯa maʿa ka ʾabū yūsufa 
+ <lb n="6"/>ʾilay ya bi **** fa ʾinna min ḫabari 
+ <lb n="7"/>*** ʾanna ka tadfaʿu hu la nā ʾaṭraḥu ḥattā 
+ <lb n="8"/>ʾamlaʾa ḫams fa sawwī wa rummi 
+ <lb n="9"/>ḥuṣūl ī ḥattā yuqāma wa tuʾḏin 
+ <lb n="10"/>ʾayš ʾaḫḫara kitāba ka ʿan nī ăl yawma 
+ <lb n="11"/>ʾin šāʾa ăl lāhu ḥafiẓa ka ăl lāhu 
+ <lb n="12"/>wa ăl lāhi yā ʾaḫ ī mā ʾarā ka tatalaqqī 
+ <lb n="13"/>man ʾaʿlama ka ʾabqā ka 
+ <lb n="14"/>ăl lāhu wa ḥafiẓa ka wa ʾamtaʿa bi ka 
+ <lb n="15"/>wa kutiba 
+ <lb n="16"/>li ʾabī sulaymāna ʾabqā hu ăl lāhu 
+ <lb n="17"/>******* bni dāwuda *** 
+ <lb n="18"/>min ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen] Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott [schütze] und erhalte Dich und gebe (noch) lange Freude an Dir!
+			<lb n="3"/>
+		[Ich schreibe] Dir - [Gott] erhalte Dich -, [damit]
+			<lb n="4"/>
+		[Du] für mich für einen halben Dirham haltbar gemachte (Galläpfel)tinte [kau]fst.
+			<lb n="5"/>
+		(Übrigens) hat Abū Yūsuf Dir (doch)
+			<lb n="6"/>
+		[für mich - - - mitgegeben], denn ich erfuhr von
+			<lb n="7"/>
+		[N.N. daß Du] es mir [übergeben sollst], damit ich (davon jeweils etwas) abziehe, so daß
+			<lb n="8"/>
+		ich fünf (Behältnisse [?]) voll machen kann. Regle (dies) also und kümmere Dich (wenigstens nachträglich) darum,
+			<lb n="9"/>
+		daß ich (es) erhalte, so daß es in Ordnung gebracht (?) werden kann. Und laß hören,
+			<lb n="10"/>
+		was daran schuld war, daß Du mir (in dieser Sache) heute nicht (von Dir aus) Bescheid gegeben hast,
+			<lb n="11"/>
+		so Gott will. Gott schütze Dich!
+			<lb n="12"/>
+		Bei Gott, Bruder, ich sehe schon, daß Du niemanden triffst,
+			<lb n="13"/>
+		der Dich informiert. Gott erhalte
+			<lb n="14"/>
+		und schütze Dich und gebe (noch lange) Freude an Dir!
+			<lb n="15"/>
+		Es wurde geschrieben.
+			<lb n="16"/>
+		An Abū Sulaymān - [Gott] erhalte ihn -
+			<lb n="17"/>
+		[- - -] ibn Dāwū[d]
+			<lb n="18"/>
+		[vo]n [- - -.]
+</ab></div>
+</body>
+</text>
+</TEI>

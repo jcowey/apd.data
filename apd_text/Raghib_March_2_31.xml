@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="505" xml:id="Raghib_March_2_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 31</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106679</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أبقاكم اللّه وحفظكم وتمّم نعمته عليكم أتاني كتابكم تذكرون حسن والـ<gap reason="illegible" precision="low" extent="3"/> به و<supplied reason="lost" cert="high">قـ</supplied>ـد كلّمت 
+<lb n="recto 3"/>  له رجل قبل قدومه يشغله فأوعدني أن يشغله <del rend="erasure" status="unremarkable">فـ</del><gap reason="illegible" extent="4" unit="character" /> كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> فأحب أبوه أكرمه اللّه أن لا <app type="BL"><lem resp="APD">يد </lem><rdg resp="APD">يد</rdg></app> <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">ن</supplied> </lem><rdg resp="APD">له</rdg></app> 
+<lb n="recto 4"/>  يذل نفسه ويصبر ويقنع فبلّغ الرّجل فأشغل موضعه غيره ثم قدم فأعدت على الرّجل الكلام 
+<lb n="recto 5"/>  يشغله وحسن إنسان طول وعرض لست له ر<gap reason="illegible" extent="2" unit="character" />ـه ما هاكذا ينبغي <supplied reason="lost" cert="high">أن</supplied> يكـ<supplied reason="lost" cert="high">ـو</supplied>ن <gap reason="illegible" precision="low" extent="3"/> له 
+<lb n="recto 6"/>  قد تعلموا أنّي كنت أصغر منه مع النّاس الأكابر وما زالت لي <unclear reason="undefined" cert="high">بعـ</unclear><supplied reason="lost" cert="high">ـض</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 7"/>  ووجه عندهم بفضول حوائجي ويسارعوا إلي وقد كتب إلي ابن عمر حفـ<supplied reason="lost" cert="high">ـظه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 8"/>  على حاجته بلطف الكلام وقد غلبتني به وعجب منكم تكتبوا إلى حسن وحسن ما يعنى 
+<lb n="recto 9"/>  بحاجة نفسه فكيف بغيره ما أعجب أمركم واللّه إن أبوه حفظه اللّه ليعلم أن اللّه إنّما يجري 
+<lb n="recto 10"/>  حوائجه له على يدي ولولا أنّي كتبت على عجلة فلسيّرت لكم ما يجب وأنتم تغفلوا حظّكم 
+<lb n="recto 11"/>  وأنا أعلم أنّكم لا تستغنوا عنّي ما الغريب يستغني عنّي فكيف أنتم أبقاكم اللّه وحفظكم 
+<lb n="verso"/>  إلى الجواري 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā kumu ăl lāhu wa ḥafiẓa kum wa tammama niʿmata hu ʿalay kum ʾatā nī kitābu kum taḏkurūna ḥasan wa ăl *** bi hi wa qad kallamtu 
+ <lb n="3"/>la hu raǧul qabla qudūmi hi yušġilu hu fa ʾawʿada nī ʾan yušġila hu fa **** k**** fa ʾaḥabba ʾabū hu ʾakrama hu ăl lāhu ʾanna lā budda yada ʾan la ø hu 
+ <lb n="4"/>yuḏilla nafsa hu wa yaṣbira wa yaqnaʿa fa ballaġa ăr raǧula fa ʾašġala mawḍiʿa hu ġayra hu ṯumma qadima fa ʾaʿadtu ʿalà ăr raǧuli ăl kalāma 
+ <lb n="5"/>yušġilu hu wa ḥasan:un ʾinsān:un ṭūl:un wa ʿarḍ:un lastu la hu r**h mā hākaḏā yanbaġī ʾan yakūna *** la hu 
+ <lb n="6"/>qad taʿlamū ʾan nī kuntu ʾaṣġara min hu maʿa ăn nāsi ăl ʾakābiri wa mā zālat l ī baʿḍu **** *** **** 
+ <lb n="7"/>wa waǧh ʿinda hum bi fuḍūli ḥawāʾiǧ ī wa yusāriʿū ʾilay ya wa qad kataba ʾilay ya ĭbnu ʿumara ḥafiẓa hu ăl lāhu **** 
+ <lb n="8"/>ʿalà ḥāǧati hi bi luṭfi ăl kalāmi wa qad ġalabat nī bi hi wa ʿaǧab:un min kum taktubū ʾilà ḥasan:in wa ḥasan:un mā yaʿnà 
+ <lb n="9"/>bi ḥāǧaẗi nafsi hi fa kayfa bi ġayri hi mā ʾaʿǧaba ʾamra kum wa ăl lāhi ʾinna ʾabū hu ḥafiẓa hu ăl lāhu la yaʿlamu ʾanna ăl lāha ʾinnamā yuǧrī 
+ <lb n="10"/>ḥawāʾiǧa hu la hu ʿalà yad ī wa law lā ʾan nī katabtu ʿalà ʿaǧalaẗ:in fa la sayyartu la kum mā yaǧibu wa ʾantum taġfulū ḥaẓẓa kum 
+ <lb n="11"/>wa ʾanā ʾaʿlamu ʾanna kum lā tastaġnū ʿann ī mā ăl ġarību yastaġnī ʿann ī fa kayfa ʾantum ʾabqā kumu ăl lāhu wa ḥafiẓa kum 
+ <lb n="12"/>ʾilà ăl ǧawārī 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu vous conserve, vous garde et parachève Ses bienfaits envers vous! Votre lettre m&#039;est venue. Vous mentionnez Ḥasan et .... J&#039;ai parlé
+			<lb n="3"/>
+		à un homme avant son arrivée pour qu&#039;il l&#039;engage. Il m&#039;a promis de l&#039;engager .〚....〛 .[....] Son père - que Dieu l&#039;honore! a souhaité qu&#039;il lui faut
+			<lb n="4"/>
+		s&#039;abaisser, endurer et supplier. Il a donc averti l&#039;homme qui a engagé un autre à sa place. Puis (Ḥasan) est arrivé. J&#039;ai alors reparlé à l&#039;homme
+			<lb n="5"/>
+		pour qu&#039;il l&#039;engage. Ḥasan est un grand garçon et je ne suis pas pour lui un .... Il ne convient pas qu&#039;il soit ainsi [....]
+			<lb n="6"/>
+		Vous savez que j&#039;étais plus modeste que lui avec les grands et je n&#039;ai pas cessé d&#039;avoir quel[que ....] .. [.].. [..]
+			<lb n="7"/>
+		et de la faveur auprès d&#039;eux par la prépondérance de mes désirs et ils s&#039;empressent vers moi. Ibn ʿUmar - que [Dieu le] gar[de]! m&#039;a écrit [....]
+			<lb n="8"/>
+		au sujet de sa demande avec une amabilité de propos qui m&#039;a conquis. Etonnant de votre part d&#039;écrire à Ḥasan: Ḥasan ne s&#039;occupe pas
+			<lb n="9"/>
+		de ses propres affaires. Comment (s&#039;occuperait-il de celles) des autres? Comme votre conduite est étonnante! Par Dieu! Son père - que Dieu le garde! sait que Dieu m&#039;a confié l&#039;exécution
+			<lb n="10"/>
+		de ses désirs `pour lui´. Si je ne vous avais pas écrit en hâte, je vous aurais expédié ce qu&#039;il faut. Vous ignorez votre bonheur.
+			<lb n="11"/>
+		Je sais que vous ne pouvez vous passer de moi. L&#039;étranger ne peut se passer de moi. Comment (pourriez-)vous (le faire)? Que Dieu vous conserve et vous garde!
+			<lb n="12"/>
+		Aux esclaves du sexe féminin.
+</ab></div>
+</body>
+</text>
+</TEI>

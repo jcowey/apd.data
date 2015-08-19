@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1348" xml:id="Ragib_Baux_appendix" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibBaux appendice</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Baux_appendix</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169149</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">اشترى</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">المكـ</supplied>ـنّا بأبي بكر بن عبد الواحد البيّاع السّاكن مدينة أشمون اشترى 
+<lb n="3"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السّـ</supplied>ـاكن مدينة أشمون اشترى منه المنزل المعروف 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">حدو</supplied>د هذا المنزل الأوّل وهو القبلي يلي المسجد 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والـبحريّ</supplied> يلي طريق المارّة والشّرقي يلي طريق 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> عبد الـ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" extent="4" unit="character" /> بن عبد الـ<gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">المكنّا</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـأبي بكر بن عبد 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> الحـ<gap reason="illegible" extent="2" unit="character" />ران <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà muḥammad:uni ăl mukannā bi ʾabī bakri bnu ʿabdi ăl wāḥidi ăl bayyāʿu ăs sākinu madīnaẗa ʾušmūna ĭštarà 
+ <lb n="3"/>min *** *** ăs sākini madīnaẗa ʾušmūna ĭštarà min hu ăl manzila ăl maʿrūfa 
+ <lb n="4"/>*** ḥudūd hāḏā ăl manzili ăl ʾawwalu wa huwa ăl qibliyyu yalī ăl masǧida 
+ <lb n="5"/>*** wa ăl baḥriyyu yalī ṭarīqa ăl mārraẗi wa ăš šarqiyyu yalī ṭarīqa 
+ <lb n="6"/>*** *** *** ʿabd ăl *** 
+ <lb n="7"/>**** bn ʿabd ăl * ăl mukannā bi ʾabī bakri bn ʿabdi 
+ <lb n="8"/>*** ăl ḥ**rān *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, clément et miséri]cordieux !
+			<lb n="2"/>
+		[Voici ce qu&#039;a acheté Muḥammad qui pote la ku]ya d&#039;Abū Bakr b. ʿAbd al-Wāḥid le vendeur qui habite la ville d&#039;Ašmūn. Il a acheté
+			<lb n="3"/>
+		[à ....] qui habite la ville d&#039;Ašmūn. Il lui a acheté la demeure connue sous le nom de
+			<lb n="4"/>
+		[... Voici les limites] de cette demeure. La première qui est celle du sud touche l&#039;oratoire
+			<lb n="5"/>
+		[... (La limite) nord] touche le chemin passant. (La limite) est touche le chemin
+			<lb n="6"/>
+		[....] .... [....] ʿAbd al-....
+			<lb n="7"/>
+		b. ʿAbd al-. [qui porte la kunya d&#039;]Abū Bakr b. ʿAbd
+			<lb n="8"/>
+		[         ].... al-....
+</ab></div>
+</body>
+</text>
+</TEI>

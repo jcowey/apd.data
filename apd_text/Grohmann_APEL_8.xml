@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1141" xml:id="Grohmann_APEL_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 008</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168995</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وحده</supplied> محمّد رسول اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الوليد</supplied> أمير المومپپن 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>lā ʾilāha ʾillā ăl lāhu waḥda hu muḥammad:un rasūlu ăl lāhi 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** 
+ <lb n="7"/>ʿabdu ăl lāhi ăl walīdu ʾamīru ăl muʾminīna 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="4"/>
+		[There is no god but God alone,] Muḥammad is the Messenger of Go[d].
+			<lb n="7"/>
+		[The servant of God al-Walîd,] Commander of the faithful.
+</ab></div>
+</body>
+</text>
+</TEI>

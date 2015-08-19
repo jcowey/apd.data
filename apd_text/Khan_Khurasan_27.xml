@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1260" xml:id="Khan_Khurasan_27" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 27</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_27</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169088</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب براه من <supplied reason="lost" cert="high">موسى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سلمن</supplied> وخيب 
+<lb n="3"/>  بن نشبود لمير البامياني إنّا حاسبنك 
+<lb n="4"/>  بما كان لنا عليك من مهر ابنتك حمرة 
+<lb n="5"/>  خمس مئة درهم وسوا ذلك ما دان لنا 
+<lb n="6"/>  عليك من دين قليل أو كثير من قبالة 
+<lb n="7"/>  ينجب بن <app type="BL"><lem resp="APD">بيروني </lem><rdg resp="APD">بيروزيّ</rdg></app> أو غيره فقد 
+<lb n="8"/>  قبضنا منك ذلك وبرٮئ 
+<lb n="9"/>  إلينا منه كلّه فليس لنا قبلك 
+<lb n="10"/>  حق ولا طلبة شهد يحيى بن <app type="BL"><lem resp="APD">حبّة </lem><rdg resp="APD">حنّة </rdg><rdg resp="APD">حيّة </rdg><rdg resp="APD">جنّة </rdg><rdg resp="APD">خنّة</rdg></app> 
+<lb n="11"/>  والعذافر بن صفوان وعبد اللّه مولى حر 
+<lb n="12"/>  پ ومحمد پن سعپد وعپد 
+<lb n="13"/>  بن سليمن وخاقان بن فرودى وخلد 
+<lb n="14"/>  بن شيبان وكتب في رجب 
+<lb n="15"/>  سنة تسع وأربعين ومئة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitābu barāʾaẗ:in min mūsà bni salmāna wa ḫībi 
+ <lb n="3"/>bni našbūda li mīri ăl bāmiyāniyyi ʾin nā ḥāsabnā ka 
+ <lb n="4"/>bi mā kāna la nā ʿalay ka min mahri ĭbnati ka ḥamraẗa 
+ <lb n="5"/>ḫamsa miʾaẗi darāhima wa siwā ḏālika mā dāna la nā 
+ <lb n="6"/>ʿalay ka min dayn:in qalīl:in ʾaw kaṯīr:in min qabālaẗi 
+ <lb n="7"/>yanǧuba bni bīrūniyya bīrūziyya ʾaw ġayri hi fa qad 
+ <lb n="8"/>qabaḍnā min ka ḏālika wa bariʾta 
+ <lb n="9"/>ʾilay nā min hu kulla hu fa laysa la nā qibala ka 
+ <lb n="10"/>ḥaqq:un wa lā ṭalibaẗ:un šahida yaḥyà bnu ḥabbaẗa ḥannaẗa ḫannaẗa ǧannaẗa ḥayyaẗa 
+ <lb n="11"/>wa ăl ʿuḏāfiru bnu ṣafwāna wa ʿabdu ăl lāhi mawlà ḥāriṯ:in 
+ <lb n="12"/>wa muḥammadu bnu saʿīd:in wa ʿabdu ăl lāhi 
+ <lb n="13"/>bnu sulaymāna wa ḫāqānu bnu firūdà wa ḫālidu 
+ <lb n="14"/>bnu šaybāna wa kutiba fī raǧab:in 
+ <lb n="15"/>sanaẗa tisʿ:in wa ʾarbaʿīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a document of quittance from [Mūsā ibn Salmān] and Khīb
+			<lb n="3"/>
+		ibn Našbūd to Mīr, the man from Bāmiyān. We have settled our account with you
+			<lb n="4"/>
+		concerning what you owed us with regard to the dowry of your daughter Ḥamra,
+			<lb n="5"/>
+		five hundred dirhams, and in addition to that whatever debt you owed us,
+			<lb n="6"/>
+		little or much, with regard to the contract
+			<lb n="7"/>
+		of Yanjub ibn Bīrūnī (?) or anybody else. We have
+			<lb n="8"/>
+		received that from you and you have been released
+			<lb n="9"/>
+		from (the obligation to pay) it to us and we have no
+			<lb n="10"/>
+		right or demand against you. It was witnessed by Yaḥyā ibn Ḥabba,
+			<lb n="11"/>
+		al-ʿUdhāfir ibn Ṣafwān, ʿAbd Allāh the client of Ḥārith,
+			<lb n="12"/>
+		Muḥammad ibn Saʿīd, ʿAbd Allāh
+			<lb n="13"/>
+		ibn Sulaymān, Khāqān ibn Frōdā (?) and Khālid
+			<lb n="14"/>
+		ibn Shaybān. It was written in Rajab
+			<lb n="15"/>
+		of the year one hundred and forty-nine.
+</ab></div>
+</body>
+</text>
+</TEI>

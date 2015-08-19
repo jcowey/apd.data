@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1988" xml:id="Grohmann_APEL_262" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 262-263</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_262</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169720</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر <supplied reason="lost" cert="high">كباش</supplied> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 2"/>  يعقوب والرّاعي نفسه ممّا أحضر ÷÷ بلتوس هلپلدوه ممّا <supplied reason="lost" cert="high">أحضر</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  بدتجاشة كباش 
+<lb n="recto 4"/>  فذلك ÷÷ 
+<lb n="recto 5"/>  ÷ ÷ ÷ 
+<lb n="recto 6"/>  فذلك ÷ ÷÷<supplied reason="lost" cert="high">÷</supplied> <supplied reason="lost" cert="high">÷÷÷÷</supplied> 
+<lb n="recto 7"/>  قرية تدعى طيموه وبويط بسم اللّه الرّحمن الرّحيم <sic n="superfluous">هـ</sic> <expan><ex>انتهى</ex></expan> 
+<lb n="recto 8"/>  ثيدر أيّوب والرّاعي نفسه كباش ÷÷ جرجة بحاش والـرّاعي نفسـه كباش ÷÷÷ <supplied reason="lost" cert="high">÷</supplied> 
+<lb n="recto 9"/>  نوهة أبلّوا والرّاعي سسنّة <gap reason="illegible" precision="low" extent="3"/> هـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> والرّاعي نفسه كباش ÷÷ 
+<lb n="recto 10"/>  كباش <unclear reason="undefined" cert="high">÷÷</unclear> 
+<lb n="recto 11"/>  وله مع مقارة كباش ÷÷ بدر<supplied reason="lost" cert="high">سـ</supplied>ـورة <app type="BL"><lem resp="APD">بقام </lem><rdg resp="APD">بفام</rdg></app> والرّاعي نفسه كباش ÷÷ 
+<lb n="recto 12"/>  وله مع مقارة كباش ÷÷ وله كباش ÷÷ 
+<lb n="recto 13"/>  وله مع مقارة كباش ÷÷÷ جرجة الحارس ممّا أحضر بسندروف ÷÷ 
+<lb n="recto 14"/>  وله والرّاعي هلس ÷ كباش 
+<lb n="verso 1"/>  طيموه وبويط هڤوا ÷ 
+<lb n="verso 2"/>  <gap reason="illegible" extent="2" unit="character" />÷ <gap reason="illegible" extent="2" unit="character" />÷ ÷÷÷ <unclear reason="undefined" cert="high">÷</unclear> ÷÷÷ طهروح 
+<lb n="verso 3"/>  <gap reason="illegible" extent="2" unit="character" />÷ 
+<lb n="verso 4"/>  مشول وسپسلا أبيموه 
+<lb n="verso 5"/>  ÷÷ ÷÷÷÷ ÷÷÷ 
+<lb n="verso 6"/>  الشراة الفضل فجميع الشّراة ÷÷÷÷÷ الفضل ÷÷÷ 
+<lb n="verso 7"/>  قرية تدعى دلجة ÷÷÷÷ ÷÷÷ 
+<lb n="verso 8"/>  قرية تدعى طهـ<supplied reason="lost" cert="high">ـر</supplied>وح ÷÷÷÷ ÷÷÷ 
+<lb n="verso 9"/>  قرية تدعى هڤوا ÷÷÷ ÷ 
+<lb n="verso 10"/>  قرية تدعى طيموه وبويط ÷÷÷÷ ÷÷ ÷÷÷÷ 
+<lb n="verso 11"/>  قرية تدعى أبييوه ÷÷ ÷÷÷<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 12"/>  قرية تدعى مشول ÷<supplied reason="lost" cert="high">÷</supplied>÷ <gap reason="illegible" extent="2" unit="character" />÷ 
+<lb n="verso 13"/>  وسپسپلا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 14"/>  قرية تدعى الرّقوة ÷÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***r kibāš * * ***** 
+ <lb n="2"/>yaʿqūbu wa ăr rāʿī nafsu hu mimmā ʾaḥḍara 150 bilatūsu hilBldūha mimmā ʾaḥḍara **** *** 
+ <lb n="3"/>bi datǧāšaẗa kibāš:un 
+ <lb n="4"/>fa ḏālika *+8 
+ <lb n="5"/>90 8 80 
+ <lb n="6"/>fa ḏālika 40 *+41 **** 
+ <lb n="7"/>qaryaẗ:un tudʿà ṭīmūha wa bawīṭa bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭntahà 
+ <lb n="8"/>ṯiyuduru ʾayyūba wa ăr rāʿī nafsu hu kibāš:un 45 ǧirǧaẗu baḥāša wa ăr rāʿī nafsu hu kibāš:un 285 500 
+ <lb n="9"/>nūhaẗu ʾabullū wa ăr rāʿī sisinnaẗu *** h*** wa ăr rāʿī nafsu hu kibāš:un 52 
+ <lb n="10"/>kibāš:un 48 
+ <lb n="11"/>wa la hu maʿa maqāraẗa kibāš:un 540 bidrisūraẗu bifāma biqāma wa ăr rāʿī nafsu hu kibāš:un 290 
+ <lb n="12"/>wa la hu maʿa maqāraẗa kibāš:un 38 wa la hu kibāš:un 48 
+ <lb n="13"/>wa la hu maʿa maqāraẗa kibāš:un 875 ǧirǧaẗu ăl ḥārisu mimmā ʾaḥḍara bi sandarūfa 21 
+ <lb n="14"/>wa la hu wa ăr rāʿī halisa 30 kibāš:un 
+ <lb n="15"/>ṭīmūhu wa bawīṭu hFwʾ 1/2 
+ <lb n="16"/>1000+** 3000+** 281 50 3036 ṭahrūḥ 
+ <lb n="17"/>**+8 
+ <lb n="18"/>mašūlu wa sBslʾ ʾabīmūhu 
+ <lb n="19"/>208 2362 4102 
+ <lb n="20"/>ăš šurāẗu ăl faḍlu fa ǧamīʿu ăš šurāẗi 19397 ăl faḍlu 546 
+ <lb n="21"/>qaryaẗ:un tudʿà dalǧaẗa 6299 1209 
+ <lb n="22"/>qaryaẗ:un tudʿà ṭahrūḥa 2351 726 
+ <lb n="23"/>qaryaẗ:un tudʿà hFwʾ 281 200 
+ <lb n="24"/>qaryaẗ:un tudʿà ṭīmūha wa bawīṭa 2168 31000 6551 
+ <lb n="25"/>qaryaẗ:un tudʿà ʾabīyūha 25 *+326 *** 
+ <lb n="26"/>qaryaẗ:un tudʿà mašūla 245 1000+** 
+ <lb n="27"/>wa sBsBlʾ *** 
+ <lb n="28"/>qaryaẗ:un tudʿà ăr raqwaẗa 1067 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] ... [rams] .....
+			<lb n="2"/>
+		Yaʿqûb and the shepherd himself of that which he has produced 150 Pilatos Hel.dûh of that which [he has produced]......[
+			<lb n="3"/>
+		in Datǧâše rams
+			<lb n="4"/>
+		That makes: 8[.]
+			<lb n="5"/>
+		90 8 80
+			<lb n="6"/>
+		That makes: 40 41 [...]
+			<lb n="7"/>
+		The village called Ṭîmûh and Bawîṭ. In the name of God, the Compassionate, the Merciful.
+			<lb n="8"/>
+		Theodor Job and the shepherd himself rams 45 Ǧirǧe Baḥâš and the shepherd himself rams 285 500
+			<lb n="9"/>
+		Nôhe Apollo and the shepherd Sisinna ... [...] H [..] and the shepherd himself, rams 52
+			<lb n="10"/>
+		rams 48
+			<lb n="11"/>
+		and he has in the care of Maqâre rams 540 Petre[s]ore Bqâm and the shepherd himself rams 290
+			<lb n="12"/>
+		and he has in the care of Maqâre rams 38 and he has rams 48
+			<lb n="13"/>
+		and he has in the care of Maqâre rams 875 Ǧirǧe, the guardian, of that which he has produced in Sandarûf 21
+			<lb n="14"/>
+		and he has as well as the shepherd Helis 30. rams
+			<lb n="15"/>
+		Ṭîmûh and Bawîṭ Hafwâ (?)[...]1/2
+			<lb n="16"/>
+		1000 3[...] 281 05 3036 Ṭahrûḥ
+			<lb n="17"/>
+		[..]8
+			<lb n="18"/>
+		Mašûl and Sansalâ (?) Abîmûh
+			<lb n="19"/>
+		208 3262 4102 [sic]
+			<lb n="20"/>
+		The prize herds the surplus. The total of the prize herds 19397 the surplus 546
+			<lb n="21"/>
+		The village called Dalǧa 6299 1209
+			<lb n="22"/>
+		The village called Ṭah[r]ûḥ 2351 726
+			<lb n="23"/>
+		The village called Hafwâ (?) 281 200 _ 6551
+			<lb n="24"/>
+		The village called Ṭîmûh and Bawîṭ 2168 31000 〚...〛
+			<lb n="25"/>
+		The village called Abîyûh 25 [.]326
+			<lb n="26"/>
+		The village called Mašûl 245 1[...]
+			<lb n="27"/>
+		and Sansîlâ (?)[.......]
+			<lb n="28"/>
+		The village called al-Raqwa 1067
+</ab></div>
+</body>
+</text>
+</TEI>

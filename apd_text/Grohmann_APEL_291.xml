@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1741" xml:id="Grohmann_APEL_291" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 291 (= P.DiemVulgarismus)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_291</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169484</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  وصل كتابك يا شيخي وسيّدي وأجل الخلق <app type="BL"><lem resp="APD">عليّة </lem><rdg resp="APD">عليّة</rdg></app> أطال اللّه بقاك وأدام عزّك ونعماك وجعلني من 
+<lb n="3"/>  جميع الأسوا والمكاره كلّها فداك ووقاك فكان يشهد اللّه فكفا به <app type="BL"><lem resp="APD">سيّدا </lem><rdg resp="Diem “hāʾ omitted by scribe”">شهيدا</rdg></app> أسر الكتب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  إلي وآثرها عندي وأبهجها إلى قلبي فقرأته وفهمته وسكنت إلى علم سلامتك وما 
+<lb n="5"/>  منحني اللّه أعز وأجل من عافيتك أدامها اللّه لك ولي فيك برحمته وغمّني ما ذكرته 
+<lb n="6"/>  من الأحوال الّذي شرحتها لي ممّا ذكرت من الخراب الّذي نزل بناحيتك عمّرها اللّه ببقايك 
+<lb n="7"/>  وعجّل بالخلف إنّه على ما يشا قدير وباللّه العظيم الرّحمن الرّحيم لقد كنت على قلق عظيم 
+<lb n="8"/>  وارتجاف شديد لحبس كتابك عنّي وبطو خبرك علي حتّى أخذت خبر انحدار العسكر عنك فسكن 
+<lb n="9"/>  روعي وورد بعد ذلك كتابك فزال جميع همّي <app type="BL"><lem resp="APD">وللّه </lem><rdg resp="Diem">فللّه</rdg></app> الحمد والمنّة على حسن سلامته لك وتتابع 
+<lb n="10"/>  نعمه لديك وذكرت يا سيّدي أيّدك اللّه أمر القمح وشدّة <sic n="superfluous">حاجيك</sic><supplied reason="omitted" cert="high">حاجتك</supplied> إليه وأن أتسلّف لك 
+<lb n="11"/>  من عند عطا أو جبارة أو غيرهم منمن أعلم أن عندهم شيّا فواللّه العظيم شأنه القوي 
+<lb n="12"/>  سلطانه لقد عظم علي مكاتبتك لهم تسلهم مثل هذا المقدار حيت لم يكون عندي أنا شي 
+<lb n="13"/>  <sic n="superfluous">أغينك</sic><supplied reason="omitted" cert="high">اغنيك</supplied> به عن سوالهم <app type="BL"><lem resp="APD">وأغنايه </lem><rdg resp="APD">وأغنا</rdg></app> <app type="BL"><lem resp="APD">معك </lem><rdg resp="APD">به</rdg></app> عن دلك وبالله العطپم لڤد احصرپ <app type="BL"><lem resp="APD">عطأ </lem><rdg resp="Diem">أحظرت</rdg></app> وحپاره 
+<lb n="14"/>  وحسين وأولاد عتيق عبد الرّحمن وأخوه وأخرجت لهم الدّنانير وسألتهم أن يبيوعنى لك 
+<lb n="15"/>  المقدار الّذي ذكرته لي بأي سعر <app type="BL"><lem resp="APD">أحبّو<supplied reason="omitted" cert="high">ه</supplied> </lem><rdg resp="Diem">أحبّو</rdg></app> فباللّه إنكان واحد منهم قر لي بمد واحد فضلا عمّا 
+<lb n="16"/>  سواه وقاموا وبقيت الدّنانير بين يدي ووكلاك <app type="BL"><lem resp="APD">حضر </lem><rdg resp="Diem">حصر</rdg></app> متل هذا وعجبت من مكاتبتك 
+<lb n="17"/>  لهم تقول إلى أن <app type="BL"><lem resp="APD">نرد </lem><rdg resp="Diem">نردّ</rdg></app> عليكم العوض وقت الغلّة قوم يعرض عليهم الثّمن <app type="BL"><lem resp="APD">ويسلو </lem><rdg resp="Diem">ويسلو</rdg></app> أن 
+<lb n="18"/>  يقطعوا <app type="BL"><lem resp="APD">لينفّذ </lem><rdg resp="Diem">لينفسهم</rdg></app> <app type="BL"><lem resp="APD">بيدهم </lem><rdg resp="Diem">ø</rdg></app> السّعر كيف <app type="BL"><lem resp="APD">اشتد </lem><rdg resp="Diem">اشتهو</rdg></app> <app type="BL"><lem resp="APD">هو </lem><rdg resp="APD">ø</rdg></app> ويكون لهم مع هذا المحمد في قظا الحاجة 
+<lb n="19"/>  فلا يفعلو فكيف تسمح نفوسهم يسلّفو شي ويأخذوه وقت الغلّة ولقد كنت 
+<lb n="20"/>  أنا في كل سنة أغتزل الغلّة ولا أمنع أحد منهم إذا سأل في <app type="BL"><lem resp="APD">قرضه </lem><rdg resp="Diem">قرظه</rdg></app> شيا من ذلك 
+<lb n="21"/>  غير أنّي وقت إدراك الغلّة كنت قد سرت إلى الدّاخلة ولم يكون لي في النّاحية من يكفيني 
+<lb n="22"/>  ذلك فلهاذا بقيت أنا أيضا بلا شي وإن عشت <app type="BL"><lem resp="APD">وأمد </lem><rdg resp="Diem">وأخّر</rdg></app> اللّه في الأجل فأنا واللّه <app type="BL"><lem resp="APD">أفيد </lem><rdg resp="Diem">أعيد</rdg></app> 
+<lb n="23"/>  لنفسي ولك من هذا البلد <app type="BL"><lem resp="APD">ڤاعلم </lem><rdg resp="Diem">ما</rdg></app> <app type="BL"><lem resp="APD">انه </lem><rdg resp="Diem">علم</rdg></app> <app type="BL"><lem resp="APD">يفوق </lem><rdg resp="Diem “omitted by scribe”">اللّه</rdg></app> ألكڤانّه بمشيه الله وڤد كان پا سپدى ايدك 
+<lb n="24"/>  اللّه بن الخطّاب وافا إلى الدّخلة في خمسة وسبعين رجلا وترك هناك خمسة وعشرين 
+<lb n="25"/>  وسار إلى بنخيط في خمسين نفس وأقام بها مدّة سبعة أيّام ثم رجع من هناك على أثره 
+<lb n="26"/>  إلى <app type="BL"><lem resp="APD">الغرب </lem><rdg resp="APD">الغرب</rdg></app> وقد كتبت إليك كتاب على يد يوسف هو واصل إليك من طريق أسوان 
+<lb n="27 = Diem verso 1"/>  الدّاخلة أصبت المريسي وغلامك عمر قد تصرّفوا في الكروم وفي القمح والشّعير ذكرو أنّهم 
+<lb n="28 = Diem verso 2"/>  أنفقوه على يد المريسي عن أمرك فلم أدرك غير النّخل ولم يكون فيه إلّا شي تافه فوقفت 
+<lb n="29 = Diem verso 3"/>  واللّه في الشّمس على ظهر دابّتي تحت نخلة نخلة وباللّه ما أحمد نفسي في هذا على كفاية ولا 
+<lb n="30 = Diem verso 4"/>  أعذرها في تقصير غير أن ذلك لك علي واجبا وحتما لازما حتّى <app type="BL"><lem resp="APD">بقطّتها </lem><rdg resp="Diem">لقطتها</rdg></app> مد مد وتركت عمر 
+<lb n="31 = Diem verso 5"/>  والمريسي استوفو الثّمن <app type="BL"><lem resp="APD">وأضافوه </lem><rdg resp="Diem">وأظافوه</rdg></app> إلى ما كانو حصلوه من الكروم وصار إلي من يد المريسي وعمر 
+<lb n="32 = Diem verso 6"/>  قبل مسيره إلى عندك أربعة عشر دينار ونصف وثمن ومن بعد ذلك صار إلي من يد المريسي دينارين 
+<lb n="33 = Diem verso 7"/>  وهذا جميع ما صار إلي في هذه السّنة من الضّيعة وقد اشتريت للمريسي و<del rend="erasure" status="unremarkable">و</del>بن فرج <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">بـ</supplied>ـأربعة </lem><rdg resp="Diem">أربعة</rdg></app> دنا 
+<lb n="34 = Diem verso 8"/>  نير حپ ڤوه وسلمپهإ اليهم مع سپه آرادپ اخر لك خرجت لك ڤى هده السنه على 
+<lb n="35 = Diem verso 9"/>  وقد صار جميع ذلك إليهم <app type="BL"><lem resp="APD">ومسوّر </lem><rdg resp="Diem">ومسوّد</rdg></app> الأراضي عليهم وأمرتهم بأن يزرعو لنا أربع فدادين 
+<lb n="36 = Diem verso 10"/>  <app type="BL"><lem resp="APD">إلى </lem><rdg resp="Diem">وإلى</rdg></app> السّنة <app type="BL"><lem resp="APD">الآخر </lem><rdg resp="Diem">الأخرا</rdg></app> <app type="BL"><lem resp="APD">انزرع </lem><rdg resp="Diem">نزرع</rdg></app> إن شا اللّه <app type="BL"><lem resp="APD">ضعفي </lem><rdg resp="Diem">ظعفي</rdg></app> ذلك وقد عملت لك عملا بجميع ما خرج من الضّيعة 
+<lb n="37 = Diem verso 11"/>  وأنفذته إليك مع السّجل الّذي كان عندي وأنفذت إليك البراه والسّجل الآخر الّذي أخذته من 
+<lb n="38 = Diem verso 12"/>  ضمنا هذه السّنة وجميع ذلك أدرجته في بطن هذا الكتاب وأنت تقف <app type="BL"><lem resp="Diem">على </lem><rdg resp="Diem">على</rdg></app> <app type="BL"><lem resp="APD">بجميع </lem><rdg resp="Diem">جميع</rdg></app> ما فيهم وتكتب 
+<lb n="39 = Diem verso 13"/>  إلي بما أعمله في أمر الفوّة فقد مر بيني وبين أبي الفوارس <app type="BL"><lem resp="APD">طعان </lem><rdg resp="Diem÷ omitted by scribe">من</rdg></app> وبين صمپا عام اول مأ يطول 
+<lb n="40 = Diem verso 14"/>  <app type="BL"><lem resp="APD">شدّته </lem><rdg resp="Diem">شرحه</rdg></app> وطلبو القوم يأخذوا الفوّة كما هي ويعطوك منها حق السّقي عن العام لينّها 
+<lb n="41 = Diem verso 15"/>  كانت عام أوّل محلولة وقالو جماعة المزارعين الواجب لك النّصف ولهم النّصف وكان قد خرج 
+<lb n="42 = Diem verso 16"/>  من الضّيعة في هذه السّنة أربع قناطير إلّا عشرين رطل فعند ذلك قلت لهم ما خرج إلّا قنطارين 
+<lb n="43 = Diem verso 17"/>  ولو لم <app type="BL"><lem resp="APD">أدع </lem><rdg resp="Diem">أضع</rdg></app> يدي على الفوّة <app type="BL"><lem resp="APD">وأعطني </lem><rdg resp="Hopkins, Diem">وأعطي</rdg></app> القوم خطّي بأنّي أخلّصهم منك من جميع ما يجب لهم عليك من 
+<lb n="44 = Diem verso 18"/>  ذلك يخذو الفوّة من الضّيعة <app type="BL"><lem resp="APD">بالعد </lem><rdg resp="Diem">بالعد</rdg></app> وقد عرّفتك هذا في كتاب وكتاب لتعرّفني ما عمله في ذلك فما 
+<lb n="45 = Diem verso 19"/>  <app type="BL"><lem resp="APD">تجييني </lem><rdg resp="Diem">تجيبني</rdg></app> عنه بحرف <app type="BL"><lem resp="final nūn with dot above">فبيّن </lem><rdg resp="Diem, dots LS">فتجيبني</rdg></app> عن جميع ما تضمّنه كتابي هذا إليك وقد كان كتابك باسلا ورد إلي غير مرّة 
+<lb n="46 = Diem verso 20"/>  تسألني <app type="BL"><lem resp="APD">عن </lem><rdg resp="Diem. ʾalif omitted by scribe">أمر</rdg></app> الشّركة وما أشح واللّه يا سيّدي بشي أعلم أن فيه مصالح شأنك من غير شركة فإذا كنت 
+<lb n="47 = Diem verso 21"/>  تختاره <app type="BL"><lem resp="APD">إلى </lem><rdg resp="Diem">لا</rdg></app> ذلك فأنفذ إلي السّجل منك بما <app type="BL"><lem resp="APD">أحببت </lem><rdg resp="Diem">اخترت</rdg></app> <app type="BL"><lem resp="APD">الموضع </lem><rdg resp="Diem">من</rdg></app> حتى اقبله أن سإ الله واحصك <app type="BL"><lem resp="APD">پاپم </lem><rdg resp="Diem">وخصّ</rdg></app> <app type="BL"><lem resp="APD">السلم </lem><rdg resp="Diem">نفسك</rdg></app> 
+<lb n="48 = Diem verso 22"/>  <app type="BL"><lem resp="APD">أكثر </lem><rdg resp="Diem">الكثير</rdg></app> وعلى أخي وسيّدي أبي المكران ردار أيّده اللّه أتم السّلم وحسبنا اللّه وكفا 
+<lb n="49 = Diem 29"/>  وما أدري يا سيّدي أيش 
+<lb n="50 = Diem 30"/>  هذا الشّغل <app type="BL"><lem resp="APD">قلت </lem><rdg resp="Diem">قلب</rdg></app> الّذي 
+<lb n="51 = Diem 31"/>  يلحقك في كل وقت 
+<lb n="52 = Diem 32"/>  أكتب إليك بحسابك 
+<lb n="53 = Diem 33"/>  وأنفذه لتعلمه ثم يجي 
+<lb n="54 = Diem 34"/>  كتابك <app type="BL"><lem resp="APD">إليّة </lem><rdg resp="Diem">إليّة</rdg></app> يدلّني على 
+<lb n="55 = Diem 35"/>  أنّك أيّدك اللّه ما <app type="BL"><lem resp="APD">وقّعت </lem><rdg resp="Diem">وقّفت</rdg></app> 
+<lb n="56 = Diem 36"/>  منه <app type="BL"><lem resp="APD">على </lem><rdg resp="Diem">على</rdg></app> قليل ولا كثير 
+<lb n="57 = Diem 37"/>  وأنا واللّه أعذرك لينّي 
+<lb n="58 = Diem 38"/>  أعلم أن أشغالك 
+<lb n="59 = Diem 39"/>  كثيرة أوصلها اللّه 
+<lb n="60 = Diem 40"/>  بالسّرور قد <app type="BL"><lem resp="APD">كنت </lem><rdg resp="Diem">كنت</rdg></app> 
+<lb n="61 = Diem 41"/>  يا سيّدي أيّدك اللّه 
+<lb n="62 = Diem 42"/>  وقت <app type="BL"><lem resp="APD">مجي </lem><rdg resp="Diem">مجييّ</rdg></app> من 
+<lb n="63  = Diem 27"/>  لينّه سار مع أبي غالب الهميل أيّده اللّه 
+<lb n="64 = Diem 28"/>  ونسيت أذكر لك أيّدك اللّه هذا فاعلمه 
+<lb n="65 = Diem address 1 right"/>  لشيخي وسيّدي <app type="BL"><lem resp="APD">وجليلي </lem><rdg resp="APD">وجليلي</rdg></app> أبي المشرّف خليفة بن عقبة أطال 
+<lb n="66 = Diem address 2"/>  اللّه بقاه وأدام عزّه وتأييده وسعادته وسلامته 
+<lb n="67 = Diem address 3"/>  وكفايته ونعمته 
+<lb n="65 = Diem address 1 left"/>  من <app type="BL"><lem resp="APD">الجربز </lem><rdg resp="Diem">نحرير</rdg></app> بن نمير الفضلي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>waṣala kitābu ka yā šayḫ ī wa sayyid ī wa ʾaǧalla ăl ḫalqi ʿalay hi yaẗ ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa nuʿmā ka wa ǧaʿala nī min 
+ <lb n="3"/>ǧamīʿi ăl ʾaswāʾi wa ăl makārihi kulli hā fidāʾa ka wa waqāʾa ka fa kāna yašhadu ăl lāhu fa kafā bi hi sayyid:an šahīd:an ʾasarra ăl kutubi *** 
+ <lb n="4"/>ʾilay ya wa ʾāṯara hā ʿind ī wa ʾabhaǧa hā ʾilà qalb ī fa qaraʾtu hu wa fahimtu hu wa sakantu ʾilà ʿilmi salāmati ka wa mā 
+ <lb n="5"/>manaḥa nī ăl lāhu ʾaʿazza wa ʾaǧalla min ʿāfiyati ka ʾadāma hā ăl lāhu la ka wa l ī fī ka bi raḥmati hi wa ġamma nī mā ḏakarta hu 
+ <lb n="6"/>mina ăl ʾaḥwāli ăllaḏī šaraḥta hā l ī mimmā ḏakarta mina ăl ḫarābi ăllaḏī nazala bi nāḥiyati ka ʿammara hā ăl lāhu bi baqāʾi ka 
+ <lb n="7"/>wa ʿaǧǧala bi ăl ḫalafi ʾinna hu ʿalà mā yašāʾu qadīr:un wa bi ăl lāhi ăl ʿaẓīmi ăr raḥmāni ăr raḥīmi la qad kuntu ʿalà qalaq:in ʿaẓīm:in 
+ <lb n="8"/>wa ĭrtiǧāf:in šadīd:in li ḥabsi kitābi ka ʿan nī wa baṭuʾa ḫabaru ka ʿalay ya ḥattà ʾaḫaḏtu ḫabara ĭnḥidāri ăl ʿaskari ʿan ka fa sakana 
+ <lb n="9"/>rūʿ ī wa warada baʿda ḏālika kitābu ka fa zāla ǧamīʿu hamm ī wa fa li l lāhi ăl ḥamdu wa ăl minnaẗu ʿalà ḥusni salāmati hi la ka wa tatābuʿi 
+ <lb n="10"/>niʿami hi laday ka wa ḏakarta yā sayyid ī ʾayyada ka ăl lāhu ʾamra ăl qamḥi wa šiddaẗa ḥāǧati ka ʾilay hi wa ʾan ʾatasallafa la ka 
+ <lb n="11"/>min ʿinda ʿaṭāʾa ʾaw ǧibāraẗa ǧubāraẗa ʾaw ġayri him min man ʾaʿlamu ʾanna ʿinda hum šayy:an fa wa ăl lāhi ăl ʿaẓīmi šaʾnu hu ăl qawiyyi qawiyyu 
+ <lb n="12"/>sulṭānu hu la qad ʿaẓuma ʿalay ya mukātabatu ka la hum tasʾalu hum miṯla hāḏā ăl miqdāri ḥaytu lam yakūn ʿind ī ʾanā šayʾ:un 
+ <lb n="13"/>ʾuġnī ka bi hi ʿan suʾāli him wa ʾuġnāy ʾaġnā hi ø ø bi ø hi maʿa ka ʿan ḏālika wa bi ăl lāhi ăl ʿaẓīmi la qad ʾaḥḍartu ʾaḥẓartu ʿaṭāʾa wa ǧubāraẗa 
+ <lb n="14"/>wa ḥusayn wa ʾawlāda ʿatayqa ʿatīq:in ʿabda ăr raḥmāni wa ʾaḫū hu wa ʾaḫraǧtu la hum ăd danānīra wa saʾaltu hum ʾan yabīʿū nī la ka 
+ <lb n="15"/>ăl miqdāra ăllaḏī ḏakarta hu l ī bi ʾayyi siʿr:in ʾaḥabbū hu fa bi ăl lāhi ʾin kāna wāḥid:un min hum qarra l ī bi mudd:in wāḥid:in faḍl:an ʿammā 
+ <lb n="16"/>siwā hu wa qāmū wa baqiyati ăd danānīru bayna yaday ya wa wukalā ka ḥaḍara ḥuṣur:un mitla hāḏā wa ʿaǧibtu min mukātabati ka 
+ <lb n="17"/>la hum taqūlu ʾilà ʾan narudda tarudda ʿalay kumu ăl ʿiwaḍa waqta ăl ġallaẗi qawm:un yuʿraḍu ʿalay himu ăṯ ṯamanu wa yasʾalū yusalū ʾan 
+ <lb n="18"/>yaqṭaʿū li yunaffaḏa yanfusi ø himu bi ø yadi ø himu ø ăs siʿra siʿru kayfa ĭštadda ĭštahaw huwa ø wa yakūnu la hum maʿa hāḏā ăl maḥmadu fī qaẓāʾi ăl ḥāǧaẗi 
+ <lb n="19"/>fa lā yafʿalū fa kayfa tasmaḥu nufūsa nufūsu hum yusallifū šayʾ wa yaʾḫuḏū hu waqta ăl ġallaẗi wa la qad kuntu 
+ <lb n="20"/>ʾanā fī kulli sanaẗ:in ʾaʿtazilu ăl ġallaẗa wa lā ʾamnaʿu ʾaḥad min hum ʾiḏā saʾala fī qarḍi qarẓi hi šayʾ:an min ḏālika 
+ <lb n="21"/>ġayra ʾan nī waqta ʾidrāki ăl ġallaẗi kuntu qad sirtu ʾilà ăd dāḫilaẗi wa lam yakūn l ī fī ăn nāḥiyaẗi man yakfī nī 
+ <lb n="22"/>ḏālika fa li hāḏā baqītu ʾanā ʾayḍ:an bi lā šayʾ:in wa ʾin ʿištu wa ʾamadda ʾaḫḫara ăl lāhu fī ăl ʾaǧali fa ʾanā wa ăl lāhi ʾafyadu ʾuʿīdu 
+ <lb n="23"/>li nafs ī wa la ka min hāḏā ăl baladi ø mā fa ø ĭʿlam ʿalima ø ăl ø lāhu ʾanna hu yafūqu ăl kifāyaẗa bi mašīʾaẗi ăl lāhi wa qad kāna yā sayyid ī ʾayyada ka 
+ <lb n="24"/>ăl lāhu bnu ăl ḫaṭṭābi wāfā ʾilà ăd daḫlaẗi fī ḫamsaẗ:in wa sabʿīna raǧul:an wa taraka hunāka ḫamsaẗ:an wa ʿišrīna 
+ <lb n="25"/>wa sāra ʾilà banḫīṭa fī ḫamsīna nafs:in wa ʾaqāma bi hā muddaẗa sabʿaẗi ʾayyām:in ṯumma raǧaʿa min hunāka ʿalà ʾaṯari hi 
+ <lb n="26"/>ʾilà ăl ʿarabi ġarbi wa qad katabtu ʾilay ka kitāb ʿalà yadi yūsufa huwa wāṣil:un ʾilay ka min ṭarīqi ʾaswāna 
+ <lb n="27"/>ăd dāḫilaẗa ʾaṣabtu ăl marīsiyya wa ġulāma ka ʿumara qad taṣarrafū fī ăl kurūmi wa fī ăl qamḥi wa ăš šaʿīri ḏakarū ʾanna hum 
+ <lb n="28"/>ʾanfaqū hu ʿalà yadi ăl marīsiyyi ʿan ʾamri ka fa lam ʾudrik ġayra ăn naḫli wa lam yakūn fī hi ʾillā šayʾ:un tāfih:un fa waqaftu 
+ <lb n="29"/>wa ăl lāhi fī ăš šamsi ʿalà ẓahri dābbat ī taḥta naḫlaẗ:in naḫlaẗ:in wa bi ăl lāhi mā ʾaḥmadu nafs ī fī hāḏā ʿalà kifāyaẗ:in wa lā 
+ <lb n="30"/>ʾaʿḏiru hā fī taqṣīr:in ġayra ʾanna ḏālika la ka ʿalay ya wāǧib:an wa ḥatm:an lāzim:an ḥattà bi ø qaṭṭati laqaṭtu hā mudd mudd wa taraktu ʿumara 
+ <lb n="31"/>wa ăl marīsiyya ĭstawfū ăṯ ṯamana wa ʾaḍāfū ʾaẓāfū hu ʾilà mā kānū ḥaṣalū hu mina ăl kurūmi wa ṣāra ʾilay ya min yadi ăl marīsiyyi wa ʿumara 
+ <lb n="32"/>qabla masīri hi ʾilà ʿinda ka ʾarbaʿaẗa ʿašara dīnār wa niṣf:un wa ṯumn:un wa min baʿdi ḏālika ṣāra ʾilay ya min yadi ăl marīsiyyi dīnārayni 
+ <lb n="33"/>wa hāḏā ǧamīʿu mā ṣāra ʾilay ya fī hāḏihi ăs sanaẗi mina ăḍ ḍayʿaẗi wa qadi ĭštaraytu li l marīsiyyi wa bni faraǧ:in bi ʾarbaʿaẗi ʾarbaʿaẗa danānīra 
+ <lb n="34"/>ḥabba fuwwaẗ:in wa sallamtu hā ʾilay him maʿa sittaẗi ʾarādiba ʾāḫara la ka ḫaraǧat la ka fī hāḏihi ăs sanaẗi ʿalà ăl fuwwaẗi 
+ <lb n="35"/>wa qad ṣāra ǧamīʿu ḏālika ʾilay him wa musawwiru musawwidu ăl ʾarāḍī ʿalay him wa ʾamartu hum bi ʾan yazraʿū la nā ʾarbaʿa fadādīna 
+ <lb n="36"/>ø wa ʾilà ăs sanaẗi ăl ʾāḫari ʾuḫrā ĭnzaraʿa nazraʿu ʾin šāʾa ăl lāhu ḍiʿfay ẓiʿfay ḏālika wa qad ʿamiltu la ka ʿamal:an bi ǧamīʿi mā ḫaraǧa mina ăḍ ḍayʿaẗi 
+ <lb n="37"/>wa ʾanfaḏtu hu ʾilay ka maʿa ăs siǧilli ăllaḏī kāna ʿind ī wa ʾanfaḏtu ʾilay ka ăl barāʾaẗa wa ăs siǧilla ăl ʾāḫara ăllaḏī ʾaḫaḏtu hu min 
+ <lb n="38"/>ḍumanāʾi hāḏihi ăs sanaẗi wa ǧamīʿu ḏālika ʾadraǧtu hu fī baṭni hāḏā ăl kitābi wa ʾanta taqifu ʿalà ʿalay ø ya bi ø ǧamīʿi mā fī him wa taktubu 
+ <lb n="39"/>ʾilay ya bi mā ʾaʿmalu hu fī ʾamri ăl fuwwaẗi fa qad marra bayn ī wa bayna ʾabī ăl fawārisi ø min ṭiʿān:in ṭiʿān:un wa bayna ḍumanāʾi ʿām:in ʾawwala mā yaṭūlu 
+ <lb n="40"/>šiddatu šarḥu hu wa ṭalabū ăl qawmu yaʾḫuḏū ăl fuwwaẗa ka mā hiya wa yuʿṭū ka min hā ḥaqqa ăs saqyi ʿani ăl ʿāmi li yanna hā 
+ <lb n="41"/>kānat ʿām ʾawwala maḥlūlaẗ:an wa qālū ǧamāʿaẗu ăl muzāriʿīna ăl wāǧibu la ka ăn niṣfu wa la humu ăn niṣfu wa kāna qad ḫaraǧa 
+ <lb n="42"/>mina ăḍ ḍayʿaẗi fī hāḏihi ăs sanaẗi ʾarbaʿu qanāṭīra ʾillā ʿišrīna raṭl fa ʿinda ḏālika qultu la hum mā ḫaraǧa ʾillā qinṭārayni 
+ <lb n="43"/>wa law lam ʾadaʿ ʾaḍaʿ yaday ya ʿalà ăl fuwwaẗi wa ʾaʿṭa ʾuʿṭī nī ø ăl qawma qawmu ḫaṭṭ ī bi ʾan nī ʾuḫalliṣu hum min ka min ǧamīʿi mā yaǧibu la hum ʿalay ka min 
+ <lb n="44"/>ḏālika yaḫḏū ăl fuwwaẗa mina ăḍ ḍayʿaẗi bi ăl ʿada ʿaddi wa qad ʿarraftu ka hāḏā fī kitāb:in wa kitāb:in li tuʿarrifa nī mā ʿamalu ʿmalu hu fī ḏālika fa mā 
+ <lb n="45"/>taǧīyu tuǧību nī ʿan hu bi ḥarf:in fa bayyin tuǧību ø nī ʿan ǧamīʿi mā taḍammana hu kitāb ī hāḏā ʾilay ka wa qad kāna kitābu ka bāsil:an warada ʾilay ya ġayra marraẗ:in 
+ <lb n="46"/>tasʾalu nī ʿani ʾamra ăš šarikaẗi wa mā ʾašuḥḥu wa ăl lāhi yā sayyid ī bi šayʾ:in ʾaʿlamu ʾanna fī hi maṣāliḥa šaʾni ka min ġayri šarikaẗ:in fa ʾiḏā kunta 
+ <lb n="47"/>taḫtāru hu ʾilà lā ḏālika fa ʾanfiḏ ʾilay ya ăs siǧilla min ka bi mā ʾaḥbabta ĭḫtarta ø mina ăl mawḍiʿa mawḍiʿi ḥattà ʾaqbala hu ʾin šāʾa ăl lāhu wa ʾaḫuṣṣu ḫuṣṣi ka ø ø nafsa ø ka bi ʾatammi ăs salāmi 
+ <lb n="48"/>ø ăl ʾakṯar kaṯīri wa ʿalà ʾaḫ ī wa sayyid ī ʾabī ăl makrāni ridāra ʾayyada hu ăl lāhu ʾatammu ăs salāmi wa ḥasbu nā ăl lāhu wa kafā 
+ <lb n="49"/>wa mā ʾadrī yā sayyid ī ʾayš 
+ <lb n="50"/>hāḏā ăš šuġlu qultu qalb:in ăllaḏī 
+ <lb n="51"/>yalḥaqu ka fī kulli waqt:in 
+ <lb n="52"/>ʾaktubu ʾilay ka bi ḥisābi ka 
+ <lb n="53"/>wa ʾunfiḏu hu li taʿlama hu ṯumma yaǧīʾu 
+ <lb n="54"/>kitābu ka ʾilay hi yaẗ yadullu nī ʿalà 
+ <lb n="55"/>ʾanna ka ʾayyada ka ăl lāhu mā waqqaʿta waqqafta 
+ <lb n="56"/>min hu ʿalà ʿalay ø ya qalīl qalīl:in wa lā kaṯīr kaṯīr:in 
+ <lb n="57"/>wa ʾanā wa ăl lāhi ʾaʿḏiru ka li yan nī 
+ <lb n="58"/>ʾaʿlamu ʾanna ʾašġāla ka 
+ <lb n="59"/>kaṯīraẗ:un ʾawṣala hā ăl lāhu 
+ <lb n="60"/>bi ăs surūri qad kataba kuntu 
+ <lb n="61"/>yā sayyid ī ʾayyada ka ăl lāhu 
+ <lb n="62"/>waqta mā maǧīy ǧīʾ ya min 
+ <lb n="63"/>li yanna hu sāra maʿa ʾabī ġālib:ini ăl hamīli ʾayyada hu ăl lāhu 
+ <lb n="64"/>wa nasītu ʾaḏkuru la ka ʾayyada ka ăl lāhu hāḏā fa ĭʿlam hu 
+ <lb n="65"/>li šayḫ ī wa sayyid ī wa ǧalīl ḫalīl ī ʾabī ăl mušarrifi ḫalīfaẗa bni ʿuqbaẗa ʾaṭāla 
+ <lb n="66"/>ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa taʾyīda hu wa saʿādata hu wa salāmata hu 
+ <lb n="67"/>wa kifāyata hu wa naʿmata hu 
+ <lb n="68"/>mina ăl ø ǧurbuzi niḥrīra bni numayr:ini ăl faḍliyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Dein Brief ist angekommen, o mein Scheich und Herr und mir Verehrtester der Schöpfung - Gott lasse Dich lange leben, / gewähre Dir weiterhin Ansehen und Wohlleben / und möge mich
+		Your letter, O my master and lord, the most venerable creature with Him (God), has arrived, may God prolong your life and may He cause your might and your favour to continue and may He make me
+			<lb n="3"/>
+		als Dein Lösegeld und Deinen Schutz vor absolut allen Übeln und Unannehmlichkeiten geben -, da war er - Gott kann (es) bezeugen, und er genügt als Zeu&lt;g&gt;e - der mir erfreulichste
+		your ransom for all (things) evil and abominable, and may He protect you. It was - God knows (it) and He suffices as Lord - for me the most delightful letter
+			<lb n="4"/>
+		and the first and foremost with me, and the most cheering to my heart. So I have read it, and understood it and I have become familiar with the knowledge of your well being and what
+		bei mir geschätzteste und meinem Herzen wonnevollste Brief. Ich las und verstand ihn und beruhigte mich bei dem Wissen um Deine Wohlbehaltenheit und
+			<lb n="5"/>
+		Deine mir von Gott, dem Mächtigen und Erhabenen, geschenkte Gesundheit - Gott gewähre sie Dir und mir in Deiner Person in seiner Barmherzigkeit weiterhin! Es betrübten mich die von Dir erwähnten
+		God - may He be exalted and magnified - has granted to me respecting your health, which, in His grace, God may preserve in you for you and me; and there has afflicted me your report
+			<lb n="6"/>
+		of the circumstances, which you have explained to me of that which you have mentioned concerning the ruin, which has befallen your district; may God make it flourishing during your lifetime
+		Umstände, die Du mir dargelegt hast, nämlich die von Dir erwähnte Zerstörung, die Deine Gegend heimgesucht hat - Gott lasse sie durch dein Weiterleben gedeihen
+			<lb n="7"/>
+		and may He hasten with a substitute; verily He is able to do all that may please Him. By God the Incomparably-Great, the Compassionate, the Merciful, I was already in terrible anxiety
+		und gewähre schnell Ersatz! Er ist ja zu dem, was er will, fähig. Bei Gott, dem Gewaltigen / Erbarmungsvollen und Barmherzigen, ich war in gewaltiger Unruhe
+			<lb n="8"/>
+		and vehement emotion because you withheld your letter from me and left me without your news, until I got news of the soldiers dismounting at you(r house). So my fright abated.
+		und heftigem Zittern wegen des Ausbleibens Deines Briefes und der Verzögerung Deiner Nachricht, bis ich die Nachricht erhielt, daß die Soldaten von Dir nilabwärts weitergezogen seien, worauf sich meine
+			<lb n="9"/>
+		Furcht (um Dich) legte. Danach kam Dein Brief an, so daß all meine Besorgnis schwand. Preis und Lob seien Gott für die Dir von Ihm geschenkte treffliche Wohlbehaltenheit und
+		Thereafter your letter arrived, so that all my sorrows were at an end, and praise and thanks be to God for His having mercifully brought you into safety and for His continued
+			<lb n="10"/>
+		beneficence towards you. You have mentioned, O my lord - may God strengthen you - the matter of wheat and the urgency of your need for it, and that I should borrow for you
+		Seine Dir fortgesetzt gewährten Gnadenerweise! - Du erwähnst (in Deinem Brief), o mein Herr - Gott stütze Dich -, die Angelegenheit des Weizens und die Dringlichkeit Deines diesbezüglichen Bedarfs und daß ich für Dich
+			<lb n="11"/>
+		from ʿAṭâ or Ǧubâra or others, of whom I know that they possess something. Now by God, the Incomparably-Great, whose mighty nature is
+		von ʿAṭāʾ, Ǧubāra oder anderen, Leuten, von denen ich weiß, daß sie etwas (Weizen) haben, (welchen) borgen soll. Aber bei Gott, dessen Rang ist gewaltig / und dessen Herrschaft ist mächtig,
+			<lb n="12"/>
+		es bedrückte mich gewaltig, daß Du sie angeschrieben hast, um eine solche (kleine) Menge zu bitten, in Anbetracht des Umstands, daß ich nichts hatte,
+		His supreme power, it is very disagreable for me that you have written to them applying to them for such a quantity, since I have nothing,
+			<lb n="13"/>
+		whereby I could relieve you (of the necessity) of applying to them and to make it so plentiful with you that you feel no need therefor. By God, the Incomparably-Great, I have already caused ʿAṭâ, Ǧubâra,
+		womit ich Dir hätte ersparen können, sie zu fragen, und womit ich mir, zusammen mit Dir, dies erspart hätte. Bei Gott, dem Gewaltigen, ich ließ ʿAṭāʾ, Ǧubāra,
+			<lb n="14"/>
+		Ḥusain and the sons of ʿAtîq, ʿAbd ar-Raḥmân and his brother to come, and have paid them the dînârs and have requested them to sell to me for you
+		Ḥusayn und die Kinder von ʿAtīq, ʿAbd ar-Raḥmān und seinen Bruder, kommen, holte ihnen die Dinare hervor und bat sie, mir für Dich
+			<lb n="15"/>
+		die Menge (Weizens), die Du mir gegenüber erwähnt hast, für welchen Preis auch immer sie möchten zu verkaufen. Aber (ich schwöre) bei Gott, daß kein einziger von ihnen mir einen einzigen Mudd zubilligte, ganz zu schweigen von
+		the quantity, which you have mentioned to me, for some price or other that they like to have. But by God, when one of them had secretly promised me one bushel (mudd) irrespective of what might be its
+			<lb n="16"/>
+		einer anderen Menge! Sie standen auf, und die Dinare blieben vor mir liegen, wobei Deine Bevollmächtigten derart knauserig waren. Ich wunderte mich, daß Du sie mit
+		(monetary) equivalent, they rose, and the dînârs remained lying before me while your (own) agents were likewise present. So I am astonished that you wrote
+			<lb n="17"/>
+		den Worten «bis wir Euch zur Zeit der (kommenden) Ernte den entsprechenden Ersatz zurückgeben» angeschrieben hast, Leuten, denen der Kaufpreis (in bar) vorgelegt wird wird und die gebeten werden,
+		to them, saying: &#034;Until the equivalent is returned to you at harvest-time&#034;. People, to whom the price is offered, will demand that
+			<lb n="18"/>
+		für sich selbst den Preis nach Belieben festzulegen, wobei sie außerdem bei der Erledigung Deines Bedürfnisses (das Verdienst), eine lobenswerte Handlung (zu verrichten), hätten,
+		they shall decide that the price might be settled by them as it has increased, and thereby they would be praised for deciding the matter,
+			<lb n="19"/>
+		but they will not do so; how will you induce them to be so magnanimous as to lend something (now) only to get it back at harvest-time? Every year it has indeed been
+		es aber nicht tun: Wieso sollten sie es sich erlauben, Dir etwas zu borgen und es zur Zeit der Ernte (wieder) entgegenzunehmen? Ich habe
+			<lb n="20"/>
+		meinerseits in jedem Jahr die Ernte zur Seite getan und niemand von ihnen, wenn er darum bat, ihm etwas zu leihen, daran gehindert.
+		my custom to dispose of (deposit apart ?) the crops and I never refused anyone of them when he asked for something thereof on loan,
+			<lb n="21"/>
+		Allerdings war ich (dieses Jahr) zur Zeit der Reife der Ernte nach ad-Dāḫila gereist, ohne daß ich in der (heimatlichen) Gegend jemand gehabt hätte, der für mich
+		unless I had already departed for ad-Dâḫila at the ripening of the crops and I had nobody in the country who would have placed a sufficient quantity thereof at my disposal,
+			<lb n="22"/>
+		so that I remained also myself without anything. And if I live and God extends the term, by God, it would be the most profitable
+		übernommen hätte. Deswegen bin ich auch ohne irgendwelche (Weizen) verblieben. Wenn ich weiterlebe und Gott den Termin (meines Todes) zurückstellt, denn werde ich, bei Gott,
+			<lb n="23"/>
+		for myself and for you in this country. Now take note, that with God&#039;s will there will be more than enough. Ibn Ḫaṭṭâb, O my lord - may
+		für mich und für Dich von diesem Ort etwas zurückbringen, das, weiß &lt;Gott&gt;, mit Gottes Wille mehr als genug sein wird. - O mein Herr - Gott stütze Dich -,
+			<lb n="24"/>
+		God strengthen you - has already arrived at ad-Dâḫila with seventy-five men. He left twenty-five there,
+		Ibn Ḫaṭṭāb ist mit fünfundsiebzig Mann in ad-Daḫla eingetroffen, hat dort fünfundzwanzig Mann gelassen,
+			<lb n="25"/>
+		and set out for Banḫîṭ with fifty men, and remained there seven days. Then he returned from there on his track
+		ist mit fünfzig Mann nach Banḫīṭ weitergezogen und dort für die Dauer von sieben Tagen geblieben und ist von dort auf demselben Weg
+			<lb n="26"/>
+		to the Beduins. I have already written you a letter through Yûsuf who is coming to you on the road from Aswân
+		to the west. (...)
+		zu den Arabern zurückgekehrt. - Ich habe Yūsuf für Dich einen Brief mitgegeben, der Dich über den Weg von Assuan erreichen wird,
+			<lb n="27"/>
+		[ad-D]āḫila (zurück)kam, al-Marīsī und seinen Burschen ʿUmar (beim Landgut) angetroffen, wie sie bereits über die Weinstöcke und über den Weizen und die Gerste verfügt hatten. Sie erwähnten, daß die es
+		to ad-Dâḫila. I met al-Marîsî and your mate ʿUmar; they have already disposed of the vines, the wheat and the barley. They related that they
+			<lb n="28"/>
+		auf Deinen Befehl hin durch al-Marīsī gut hatten absetzen können. Ich kam somit nur noch für die Dattelpalmen rechtzeitig, und es war an ihnen nur geringfügiges (an Früchten). So hielt ich also,
+		have cleared it off easily through al-Marîsî in conformity with your order. So I saw nothing but the palm-trees, on which was only a petty trifle. So I halted,
+			<lb n="29"/>
+		bei Gott, in der Sonne, auf dem Rücken meines Reittieres (sitzend), nacheinander unter jeder Palme - bei Gott, ich kann mich, was dies betrifft, nicht genug loben, noch muß ich mich
+		by God, in the sun on the back of my hackney under one palm-tree after the other; and, by God, I do not praise myself sufficiently therefore nor
+			<lb n="30"/>
+		do I excuse it for insufficiency - notwithstanding that it was incumbent upon me (to do this) for you and was my inevitable duty - until I had gathered it bushel after bushel. I left ʿUmar
+		wegen einer Nachlässigkeit entschuldigen; freilich ist dies eine Dir von mir geschuldete Pflicht und unumgängliche Schuldigkeit -, bis ich sie schließlich Mudd für Mudd hatte pflücken lassen. Ich ließ ʿUmar
+			<lb n="31"/>
+		and al-Marîsî, who took over the price in full, and added it to that which they had taken in for the vines, and there came to me through al-Marîsî and ʿUmar
+		und al-Marīsī den Erlös (aus ihrem Verkauf) kassieren, und sie fügten ihn dem hinzu, was sie bereits aus den Weinbergen eingenommen hatten. Es gingen an mich in bar von al-Marīsī und ʿUmar
+			<lb n="32"/>
+		before his journey to you fourteen dînârs and a half and an eighth, and thereafter came to me through al-Marîsî two dînârs,
+		vor dessen Abreise zu Dir vierzehn Dinar und ein halber und ein Achtel (Dinar), und danach gingen an mich in bar von al-Marīsī zwei Dinar,
+			<lb n="33"/>
+		and this is the total of what I have obtained this year from the estate. I have already bought on behalf of al-Marîsî and Ibn Faraǧ for four dî-
+		und dies ist alles, was an mich in diesem Jahr aus dem Landgut ging. Ich kaufte für al-Marīsī und {und} Ibn Faraǧ (für vier Dinar
+			<lb n="34"/>
+		Krappsamen und übergab ihn ihnen zusammen mit sechs weitern Irdabb von Dir, die für Dich dieses Jahr beim Krapp herausgekommen waren.
+		nârs madder seeds and handed it over to them together with six other artabas for you, which falls to your share this year from the madder,
+			<lb n="35"/>
+		and all this has already been delivered to them. Now the limiting of the (plots of) land is incumbent upon them, and I ordered (them) to sow four faddâns for us;
+		Dies ging an sie, und der Dünger der Ländereien geht zu ihren Lasten. Ich habe ihnen befohlen, für uns vier Faddān (mit Krapp) zu bestellen,
+			<lb n="36"/>
+		by the next year, by God&#039;s will, the double of this will be sown. I have already made for you an account of the whole yield of the estate
+		[und] bis zum nächsten Jahr werden wir, so Gott will, das Zweifache hiervon bestellen (lassen). Ich habe Dir eine Abrechung über alles, was sich aus dem Landgut ergeben hat, erstellt,
+			<lb n="37"/>
+		and have sent it you together with the contract of lease, which was in my keeping, and I have sent you the receipt and the other contract of lease, which I had taken from
+		und übersende sie Dir zusammen mit der Pachturkunde, die ich dabei hatte. Ferner übersende ich Dir die Quittung und die andere Pachturkunde, die ich von
+			<lb n="38"/>
+		den Steuerpächtern dieses Jahr erhalten habe, und all dies falte ich in diesen Brief ein. Du aber nimm alles in diesen (Schriftstücken) Stehende zur Kenntnis und schreibe
+		this year&#039;s lessees, and all that I inserted inside this letter, and you will inquire about all that is (contained) therein and write
+			<lb n="39"/>
+		mir, was ich in der Angelegenheit des Krapps tun soll. Denn es gab zwischen mir und Abū l-Fawāris eine heftige Auseinandersetzung, wie auch zwischen (mir und) den Steuerpächtern des Vorjahres,
+		to me what I shall do in the matter of madder. Now there passed some invectives (recriminations) between me and Abu&#039;l-Fawâris and between the last year&#039;s lessees, the violence of which
+			<lb n="40"/>
+		die darzulegen zu lange dauern würde. Die Leute wünschten den Krapp tale quale zu nehmen und Dir von ihm die Bewässerungsgebühr für dieses Jahr zu geben,
+		lasted for a long time. People wished to take the madder as it was and to give you therefrom the recompense for watering for (this) year, since
+			<lb n="41"/>
+		it was last year without payment. And all the cultivators said, what is due to you is the half, and the other half belongs to them. Now the estate has already
+		weil er letztes Jahr (hiervon) ausgenommen gewesen war. Die Gruppe der Vertragsbauern sagte (hingegen), daß das, was Dir zusteht, die Hälfte sei, und ihnen (ebenfalls) die Hälfte zustehe, wobei sich
+			<lb n="42"/>
+		aus dem Landgut dieses Jahr vier Zentner weniger zwanzig Raṭl ergeben hätten. Bei diesem (Stand der Auseinandersetzung) sagte ich ihnen, daß sich nur knapp zwei Zentner ergeben hätten.
+		yielded this year four quintals less twenty pounds (raṭl), so in these circumstances I told them, that only two quintals were yielded;
+			<lb n="43"/>
+		and if I had not put my hand on the madder and the people had given me my hand-bill (attesting) that I acquitted them from your side from all that is due to them to your debit
+		Wenn ich nicht meine Hand auf den Krapp gelegt hätte und den Leuten meinen Schriftzug darauf gegeben hätte, daß ich dafür sorgen würde, daß sie alles erhalten würden, was ihnen Dir gegenüber hiervon zusteht,
+			<lb n="44"/>
+		hätten sie den Krapp vom Landgut mit Gewalt weggenommen. Dies hatte ich Dir in einem Brief nach dem anderen mitgeteilt, damit Du mir mitteilst, was ich hierbei tun soll, aber Du
+		therefrom, they would have taken the madder from the estate according to the number. I have already apprised you thereof in letter after letter, that you might inform me what is to be done concerning this; but
+			<lb n="45"/>
+		hast mir darauf mit keinem Buchstaben geantwortet. So antworte mir also auf alles, was dieser mein Brief an Dich beinhaltet. - Dein Brief war ernst, und er kam bei mir mehr als einmal
+		you do not answer to me a single letter about it. So clear up all that this my letter to you contains. Your letter was severe and
+			<lb n="46"/>
+		an, wobei Du nach (dem Stand) der Partnerschaft fragtest, während ich, bei Gott, o mein Herr, mit nichts geize, von dem ich weiß, daß darin Vorteile für Deine Angelegenheit liegen, (und zwar auch) ohne (daß hierbei) eine Partnerschaft (zwischen uns) besteht. Wenn Du aber
+		you ask me about the matter of the company, and, by God, I am not greedy with anything, O my lord, knowing that therein is a profit for you without a company. But since you have
+			<lb n="47"/>
+		ihn, nicht jenen ausgewählt hast, dann sende mir die Pachturkunde mit dem Ort, den Du ausgewählt hast, so daß ich sie empfange, so Gott will. Laß Dich vielmals ganz besonders mit dem vollkommensten Gruß grüßen,
+		preferred that, send me the contract of lease from your side in any place you like, so that I may receive it, if God wills. And I send you specially more most complete salutations
+			<lb n="48"/>
+		[...] and to my brother and lord Abu&#039;l-Makrân Ridâr - may God strengthen him - most complete salutations; and our sufficiency is God, and He suffices.
+		und an meinen Bruder und Herrn Abū l-Mukrān Ridār - Gott stütze ihn - den vollkommensten Gruß! Got genügt uns, und er reicht aus! [Text continues with Grohmann&#039;s line 65 = address]
+			<lb n="49"/>
+		And I do not know, O my Lord, what
+		Ich weiß nicht, o mein Herr, was
+			<lb n="50"/>
+		diese Beunruhigung bedeuten soll, die
+		this business may be. I have said what
+			<lb n="51"/>
+		Dich immer (wieder) erfaßt.
+		touches you(r interest) (for) all time.
+			<lb n="52"/>
+		I am writing (now) to you respecting your account
+		Ich schreibe Dir (doch immer) die Dich betreffende Abrechnung
+			<lb n="53"/>
+		and am sending it that you may know it. Then came
+		und sende sie Dir, damit Du darüber Bescheid weißt. Hierauf kommt
+			<lb n="54"/>
+		Dein Brief, wobei er mir zeigt,
+		your letter to him, which showed me that
+			<lb n="55"/>
+		daß Du - Gott stütze Dich -
+		you - may God strengthen you - were troubling yourself
+			<lb n="56"/>
+		davon überhaupt nichts zur Kenntnis genommen hast.
+		neither little nor much about me.
+			<lb n="57"/>
+		Aber ich, bei Gott, ich entschuldige Dich, denn ich
+		I pardon you, by God, for I
+			<lb n="58"/>
+		know that you have much
+		weiß, daß
+			<lb n="59"/>
+		Du viele Beanspruchungen hast - Gott verknüpfe sie
+		to do, may God prosper
+			<lb n="60"/>
+		it. He has already written,
+		mit erfreulichem (Ausgang!) - Ich habe,
+			<lb n="61"/>
+		o mein Herr - Gott stütze Dich - ,
+		O my lord, - may God strengthen you -,
+			<lb n="62"/>
+		when he came from &lt;.........&gt;
+		zur Zeit, da ich von [text continues with Grohmann&#039;s line 27]
+			<lb n="63"/>
+		denn er machte sich zusammen mit Abū Ġālib al-Hamīl - Gott stütze ihn - auf den Weg (dorthin).
+		for he travelled with Abû Ġâlib al-Hamîl - may God strengthen him -,
+			<lb n="64"/>
+		and I forgot to mention this to you - may God strengthen you - so take note of it.
+		Ich hatte vergessen, Dir - Gott stütze Dich - dies mitzuteilen; nimm es also zur Kenntnis! - [text contitues with Grohmann&#039;s line 49]
+			<lb n="65"/>
+		An meinen Scheich und Verehrten Abū l-Mušarraf Ḫalīfa b. ʿUqba -
+		To my master, lord and friend Abu&#039;l-Mušarrif Ḫalifa b. ʿUqba - may God
+			<lb n="66"/>
+		Gott lasse ihn lange leben und gewähre ihm weiterhin Ansehen, Unterstützung, Glück, Wohlbehaltenheit,
+		prolong his life and may He cause his might, strength, happiness, safety,
+			<lb n="67"/>
+		maintenance and wealth to continue -,
+		Tüchtigkeit und Wohlleben -
+			<lb n="68"/>
+		from al-Ǧurbuz b. Numair al-Faḍlî.
+		von Niḥrīr b. Numayr al-Faḍlī
+</ab></div>
+</body>
+</text>
+</TEI>

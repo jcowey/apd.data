@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2209" xml:id="Diem_Heid_III_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـلّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">كتابـ</supplied>ـي <supplied reason="lost" cert="high">يـ</supplied>ـا سيّدي وشيخي أطال اللّه بقاك 
+<lb n="3"/>  <supplied reason="lost" cert="high">أسأل</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـن خبر الكتاب الّذي تنفّذ إلی 
+<lb n="4"/>  <supplied reason="lost" cert="high">أبي</supplied> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـڤپ إن كان رجع الرّسول 
+<lb n="5"/>  فتـ<supplied reason="lost" cert="high">ـسـ</supplied>ـرّ<supplied reason="lost" cert="high">نـ</supplied>ـي <supplied reason="lost" cert="high">بإ</supplied>نفاذ جواب الكتاب إلی حتّا 
+<lb n="6"/>  أقف عليه إذ كان قلبي معلّق بذلك 
+<lb n="7"/>  فعلت إن شا اللّه أجل من الصّدر وأعز 
+<lb n="8"/>  <supplied reason="lost" cert="high">و</supplied>حـ<supplied reason="lost" cert="high">ـسبی</supplied> اللّه وكفی 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitāb ī yā sayyid ī wa šayḫ ī ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="3"/>ʾasʾalu ʿan ḫabari ăl kitābi ăllaḏī tanaffaḏa ʾilà 
+ <lb n="4"/>ʾabī *FB ʾin kāna raǧaʿa ăr rasūlu 
+ <lb n="5"/>fa tasurru nī bi ʾinfāḏi ǧawābi ăl kitābi ʾilay ya ḥattā 
+ <lb n="6"/>ʾaqifa ʿalay hi ʾiḏ kāna qalb ī muʿallaq bi ḏālika 
+ <lb n="7"/>faʿalta ʾin šāʾa ăl lāhu ʾaǧallu mina ăṣ ṣadri wa ʾaʿazzu 
+ <lb n="8"/>wa ḥasb ī ăl lāhu wa kafà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Got]tes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Ich [schreibe] (Dir), o mein Herr und Scheich - Gott lasse Dich lange leben -,
+			<lb n="3"/>
+		[um we]gen Nachricht über den Brief [nachzufragen], der an
+			<lb n="4"/>
+		[Abū.......]... gegangen ist. Wenn der Bote (inzwischen) zurückgekehrt ist,
+			<lb n="5"/>
+		dann er[fr]eue [mi]ch damit, daß Du mir die Antwort auf den Brief übersendest, damit
+			<lb n="6"/>
+		ich sie einsehe, da mir viel daran liegt,
+			<lb n="7"/>
+		bitte, so Gott will! (Der Segenswunsch sei) noch bedeutsamer und großartiger als der Briefanfang!
+			<lb n="8"/>
+		[Mein] Gen[üge] ist Gott; er reicht aus!
+</ab></div>
+</body>
+</text>
+</TEI>

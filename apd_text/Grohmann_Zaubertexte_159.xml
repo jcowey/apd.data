@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="647" xml:id="Grohmann_Zaubertexte_159" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Bad. V 159</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Zaubertexte_159</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">105699</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  أقبل <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">تخف</supplied> <supplied reason="lost" cert="high">إنّك</supplied> من الآمنين نجّني <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  وإذا قرأت القرآن جعلنا بينك وبين الّذين 
+<lb n="3"/>  لا يومپون بالآخرة حجابا مستورا 
+<lb n="4"/>  وينصرك اللّه نصرا عز 
+<lb n="5"/>  پر<supplied reason="omitted" cert="high">ا</supplied> الساڤى الله الكاڤى 
+<lb n="6"/>  المعافي اللّه نعم المولا ونعم النّصير 
+<lb n="7"/>  تحصّنت يا حامل اسم اللّه هاذا بذي العز 
+<lb n="8"/>  ه والـ<supplied reason="lost" cert="high">ـحتروه</supplied> <supplied reason="lost" cert="high">وپوكلپ</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaqbil wa lā taḫaf ʾinna ka mina ăl ʾāminīna naǧǧi nī min **** 
+ <lb n="2"/>wa ʾiḏā qaraʾta ăl qurʾāna ǧaʿalnā bayna ka wa bayna ăllaḏīna 
+ <lb n="3"/>lā yuʾminūna bi ăl ʾāḫiraẗi ḥiǧāb:an mastūr:an 
+ <lb n="4"/>wa yanṣuru ka ăl lāhu naṣr:an ʿazīz:ani 
+ <lb n="5"/>ăš šāfī ăl lāhu ăl kāfī ăl lāhu 
+ <lb n="6"/>ăl muʿāfī ăl lāhu niʿma ăl mawlā wa niʿma ăn naṣīru 
+ <lb n="7"/>taḥaṣṣantu yā ḥāmila ĭsmi ăl lāhi hāḏā bi ḏī ăl ʿizzaẗi 
+ <lb n="8"/>wa ăl ǧabarūẗi wa tawakkaltu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Tritt näher [und fürcht&#039; dich nicht, wahrlich du bist] sicher. Befrei mich [von .....]
+			<lb n="2"/>
+		Sobald du den Qurʾân rezitierst, machen wir zwischen dir und zwischen jenen, die
+			<lb n="3"/>
+		nicht an die jenseitige Welt glauben, einen hemmenden Vorhang.
+			<lb n="4"/>
+		Und Gott wird dir ruhmvollen Sieg
+			<lb n="5"/>
+		verleihen, der Heilspender ist Gott, der Genügende ist Gott,
+			<lb n="6"/>
+		der Spender der Gesundheit ist Gott, der beste Patron und der beste Helfer;
+			<lb n="7"/>
+		bei Gott habe ich Schutz gesucht, o Träger dieses Gottesnamens, beim Herrn der All
+			<lb n="8"/>
+		macht und All[herrlichkeit, ich setze mein Vertrauen ...]
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="328" xml:id="Grohmann_APEL_121" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 121 (= Chrest.Khoury I 58)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_121</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106563</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">القبليّ</supplied> <supplied reason="lost" cert="high">حـ</supplied>ـانوت لـ<supplied reason="lost" cert="high">ـمحمّـ</supplied>ـد بن يحيى ولورثة أخته هنيدا بنت يحيى والبحري حانوت محسن <gap reason="illegible" extent="5" unit="character" /> يعرف بالحلّاج 
+<lb n="2"/>  <supplied reason="lost" cert="high">وحدّه</supplied> <supplied reason="lost" cert="high">الشّر</supplied>قي السّوق الأعظم وفيه يشرع باب هذا الحانوت ومجلسه وحدّه الغربى منزل موسى 
+<lb n="3"/>  <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> موسى فأقرّت عائشة ابنت الحـ<supplied reason="lost" cert="high">ـسيـ</supplied>ـن بن عبد السّلم لشهود هذا <sic n="superfluous">الحاپوپ</sic> الكتاب أن هذا الحانو<supplied reason="lost" cert="high">ت</supplied> 
+<lb n="4"/>  <supplied reason="lost" cert="high">المـ</supplied>ـبيع <supplied reason="lost" cert="high">جميعه</supplied> <supplied reason="omitted" cert="high">سفلا و</supplied> علوا داخله وخـ<supplied reason="lost" cert="high">ـار</supplied>جه وجميع حقوقه كلّها بـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا <supplied reason="lost" cert="high">يعر</supplied>ف له وينسب 
+<lb n="5"/>  إليه ملكا لموسى بن أحمد بن موسى ليس لها ولا لأحد <app type="BL"><lem resp="APD">بسببها </lem><rdg resp="Thung">بسببها</rdg></app> فيه حق و<supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">قـ</supplied>ـول ولا مورث ولا دعوة 
+<lb n="6"/>  ولا طلبة ولا يمين لها على أحد نسبته في هذا الحانوت ولا حجّة ولا تبعة بمعنا من جميع 
+<lb n="7"/>  المعاني كلّها بحق محق عرفته <supplied reason="lost" cert="high">فـ</supplied>ـألزمته نفسها وسلمته إلى ولديه محمّد يكنّى بأبي بكر وعلى 
+<lb n="8"/>  يكنّى بأبي الحسن وقبضاه لأبيهما موسى بن أحمد طائعة طالبة لا مكرهة ولا مجبرة وذلك 
+<lb n="9"/>  بحضرة زوجها طاهر بن حمدون بن زكريّا وإنفاذه ذلك لها ولموسى بن أحمد بن موسى بعد 
+<lb n="10"/>  أن علـ<supplied reason="lost" cert="high">ـم</supplied> أن ذلك حق محق فأجاز لها هذا الإقرار شهد على ذلك سليپن بن الحرث بن سليمن النّوائي 
+<lb n="11"/>  على إقرار عائشة ابنت الحسين بن عبد السّلم بجميع ما في هذا الكتاب بحضرة زوجها 
+<lb n="12"/>  طاهر بن حمدون <expan><abbr>وكـ</abbr><ex>ـتبـ</ex><abbr>ـشهادته</abbr></expan> بخطّه في صفر من سنة أربع وثمنين ومائتن لا إله إلّا اللّه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="13"/>  شهد علي بن الحسن بن <app type="BL"><lem resp="APD">نضر </lem><rdg resp="APD">نضر</rdg></app> المودن على إقرار عايشة ابنت 
+<lb n="14"/>  الحسين بن عبد السّلم بجميع ما في هذا الكتاب في صفر سنة أربع 
+<lb n="15"/>  وثمانيـ<supplied reason="lost" cert="high">ـن</supplied> ومائتن <gap reason="illegible" extent="1" unit="character" /> بحضرة زوجها طاهر بن حمدون وإنفاذه لها ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl qibliyyu ḥānūt:un li muḥammadi bni yaḥyà wa li waraṯaẗi ʾuḫti hi hunaydā binti yaḥyà wa ăl baḥriyyu ḥānūtu muḥsin:in ***** yuʿrafu bi ăl ḥallāǧi 
+ <lb n="2"/>wa ḥaddu hu ăš šarqiyyu ăs sūqu ăl ʾaʿẓamu wa fī hi yašraʿu bābu hāḏā ăl ḥānūti wa maǧlisu hu wa ḥaddu hu ăl ġarbiyyu manzilu mūsà 
+ <lb n="3"/>bni ʾaḥmada bni mūsà fa ʾaqarrat ʿāʾišaẗu ĭbnatu ăl ḥusayni bni ʿabdi ăs salāmi li šuhūdi hāḏā ăl kitābi ʾanna hāḏā ăl ḥānūta 
+ <lb n="4"/>ăl mabīʿa ǧamīʿa hu sufl:an wa ʿulw:an dāḫila hu wa ḫāriǧa hu wa ǧamīʿa ḥuqūqi hi kulla hā bi mā yuʿrafu la hu wa yunsabu 
+ <lb n="5"/>ʾilay hi milk:an li mūsà bni ʾaḥmada bni mūsà laysa la hā wa lā li ʾaḥadi ʾaḥad:in bi ø nisbaẗi sababi hā fī hi ḥaqq:un wa lā qawl:un wa lā mawraṯ:un wa lā daʿwaẗ:un 
+ <lb n="6"/>wa lā ṭalibaẗ:un wa lā yamīn:un la hā ʿalà ʾaḥadi nisbaẗi hi fī hāḏā ăl ḥānūti wa lā ḥuǧǧaẗ:un wa lā tabiʿaẗ:un bi maʿnā min ǧamīʿi 
+ <lb n="7"/>ăl maʿānī kulli hā bi ḥaqqi muḥiqq:in ʿarafat hu fa ʾalzamat hu nafsa hā wa sallamat hu ʾilà waladay hi muḥammad:in yukannà bi ʾabī bakr:in wa ʿaliyy:in 
+ <lb n="8"/>yukannà bi ʾabī ăl ḥasani wa qabaḍā hu li ʾabī himā mūsà bni ʾaḥmada ṭāʾiʿaẗ:an ṭālibaẗ:an lā mukrahaẗ:an wa lā muǧbaraẗ:an wa ḏālika 
+ <lb n="9"/>bi ḥaḍraẗi zawǧi hā ṭāhiri bni ḥamdūna bni zakariyyāʾa wa ʾinfāḏi hi ḏālika la hā wa li mūsà bni ʾaḥmada bni mūsà baʿda 
+ <lb n="10"/>ʾan ʿalima ʾanna ḏālika ḥaqqu muḥiqq:in fa ʾaǧāza la hā hāḏā ăl ʾiqrāra šahida ʿalà ḏālika sulaymānu bnu ăl ḥāriṯi bni sulaymāna ăn nawāʾiyyu 
+ <lb n="11"/>ʿalà ʾiqrāri ʿāʾišaẗa ĭbnati ăl ḥusayni bni ʿabdi ăs salāmi bi ǧamīʿi mā fī hāḏā ăl kitābi bi ḥaḍraẗi zawǧi hā 
+ <lb n="12"/>ṭāhiri bni ḥamdūna wa kataba šahādaẗa hu bi ḫaṭṭi hi fī ṣafar:in min sanaẗi ʾarbaʿ:in wa ṯamānīna wa miʾatayni lā ʾilāha ʾillā ăl lāhu * 
+ <lb n="13"/>šahida ʿaliyyu bnu ăl ḥasani bni naṣar:ini naḍr:ini naṣr:ini ăl muʾaḏḏinu ʿalà ʾiqrāri ʿāyišaẗa ĭbnati 
+ <lb n="14"/>ăl ḥusayni bni ʿabdi ăs salāmi bi ǧamīʿi mā fī hāḏā ăl kitābi fī ṣafar:in sanaẗa ʾarbaʿ:in 
+ <lb n="15"/>wa ṯamānīna wa miʾatayni * bi ḥaḍraẗi zawǧi hā ṭāhiri bni ḥamdūna wa ʾinfāḏi hi la hā ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Sa limite au sud est le ma]gasin de Mu[ḥamma]d b. Yaḥyā et des héritiers de sa soeur Hunaydā, fille de Yaḥyā; celle du nord le magasin de Muḥsin [.....], connu comme al-Ḥallāǧ;
+		[The southern (boundary) is (formed by) the s]hop belonging to Mu[ḥamma]d b. Yaḥyâ and to the heirs of his sister Ḥunaidâ, daughter of Yaḥyâ, and the northern is (formed by) the shop of Muḥsin ............ known as al-Ḥallâǧ.
+			<lb n="2"/>
+		[and its eas]tern [boundary] is (formed by) the main market, with which the door and the sitting-room (maǧlis) of this shop communicates, and its western boundary is (formed by) the dwelling house of Mûsâ
+		[sa limite à l’es]t est le grnad marché vers lequel débouchent la porte et la place (pour s’asseoir) de ce magasin; sa limite à l’ouest la maison de Mūsā
+			<lb n="3"/>
+		[b. Aḥmad b.] M[ū]sā. ʿĀʾiša, fille d’al-Ḥu[say]n b. ʿAbd al-Salām, reconnut aux témoins de ce document que ce magasi[n],
+		b. [Aḥmad b.] Mûsâ. Thus ʿÂʾiša, daughter of al-Ḥu[sain] b. ʿAbd as-Salâm, has acknowledged before the witnesses of this deed, that this shop,
+			<lb n="4"/>
+		[qui] est vendu [entièrement] &lt;en bas et en&gt; haut, à l’intérieur comme à l’est[é]rieur, avev tous ses droits et ce qui est [con]nu lui appartenir et se rapporter
+		[so]ld (?) [entirely (?) ............] below and above (the surface), within and without and all its rights with [that which is kn]own as appertaining and relating.
+			<lb n="5"/>
+		à lui, était le bien de Mūsā b. Aḥmad b. Mūsā, et que ni elle, ni aucun autre de sa famille (à elle) n’y avaient de droit, ni de [mo]t à dire, ni (de droit) d’héritage, ni de procès,
+		to it, is (now) a property of Mûsâ b. Aḥmad b. Mûsâ. There is not in her favour or in favour of any one of her family in respect to it any legal title, o[r] a [state]ment, or a right of succession, or a cause for an action,
+			<lb n="6"/>
+		de cause de revendication, ni de serment en sa faveur et à la charge de quelqu’un de sa famille concernant ce magasin, ni de revendication de n’importe quelle
+		or a claim, or an oath in favour of her, burdening anyone of her family concerning this shop, or any means of evidence or vindication for any
+			<lb n="7"/>
+		reason whatsoever according to a title any body lays claim to, and which she knowns and to which she has bound herself; and she has handed it over to his two sons Muḥammad, surnamed Abû Bakr, and ʿAlî
+		sorte ou de quel droit réclamé par quelqu’un qu’elle connaît. [Ainsi] elle se le fit un devoir; et elle le (= magasin) donna à ses deux fils Muḥammad, surnommé Abū Bakr, et ʿAlī
+			<lb n="8"/>
+		surnamed Abuʾl-Ḥasan, and those two have taken it over for their father Mûsâ b. Aḥmad (she acting) voluntarily, demanding (it), without compulsion and not against her will, and this
+		surnommé Abū l-Ḥasan, qui le prirent pour leur père Mūsā b. Aḥmad, de son bon gr´, désirant (cela), non contrainte, ni forcée, et ceci
+			<lb n="9"/>
+		en présence de son mari Ṭāhir b. Ḥamdūn b. Zakariyyā qui déclare la validité de cela à elle et à Mūsā b. Aḥmad b. Mūsā, après
+		in the presence of her husband Ṭâhir b. Ḥamdûn b. Zakariyâ, he declaring it legal on her behalf and on behalf of Mûsâ b. Aḥmad b. Mûsâ,
+			<lb n="10"/>
+		after he had learned that this is the title of one who has the right. Thus he declared this acknowledgment valid for her. There have testified to it Sulaimân b. al-Ḥâriṯ b. Sulaimân, originating from Nawâye,
+		qu’il avait s[u] que cela est un droit de quelqu’un qui a un droit légitime; c’est pourquoi il lui déclara cette reconnaissance comme valide. A témoigné de cela Sulaymān b. al-Ḥāriṯ b. Sulaymān al-Nawāʾī,
+			<lb n="11"/>
+		de la reconnaissance de ʿĀʾiša, fille d’al-Ḥusayn b. ʿAbd al-Salām, concernant tout ce qui est dans ce document, en présence de son mari
+		to the acknowledgment by ʿÂʾiša, daughter of al-Ḥusain b. ʿAbd as-Salâm, respecting all that (is contained) in this deed, in the presence of her husband
+			<lb n="12"/>
+		Ṭâhir b. Ḥamdûn, and he has written his testimony in his (own) handwriting in Ṣafar of the year two hundred and eighty four. There is no god but God. (Handmark).
+		Ṭāhir b. Ḥamdūn, et il écrivit de sa main, en ṣafar de l’année deux-quatre-vingt-quatre, il n’y a de Dieu qu’Allah (marque de main).
+			<lb n="13"/>
+		A témoigné ʿAlī b. al-Ḥasan b. Naṣr le muezzin de la reconnaissance de ʿĀʾiša fille
+		Witness is ʿAlî b. al-Ḥasan b. Naṣr, the muezzin, to the acknowledgment by ʿÂʾiša, daughter of
+			<lb n="14"/>
+		al-Ḥusain b. ʿAbd as-Salâm respecting all that (is contained) in this deed in Ṣafar of the year two
+		d’al-Ḥusayn b. ʿAbd al-Salām, concernant tout le contenu de ce document, en ṣafar de l’annèe
+			<lb n="15"/>
+		deux cent-quatre-vingt-quatre (marque de main), en présence de son mari Ṭāhir b. Ḥamdūn qui lui déclare la validité de cela.
+		hundre[d] and eighty four (Handmark) in the presence of her husband Ṭâhir b. Ḥamdûn and his declaring it legal for her.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2452" xml:id="Diem_Steuerquittungen_150" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_150</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مرقو</supplied>رة بن ثيدر الزّجّـ<supplied reason="lost" cert="high">ـا</supplied>ج في نجم برمهات 
+<lb n="3"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـلخها ستّة الدّنانير مغسول وزن سوا بلا <supplied reason="lost" cert="high">صـ</supplied>ـرف 
+<lb n="4"/>  وأدّى بذلك سفـ<supplied reason="lost" cert="high">ـتجة</supplied> <supplied reason="lost" cert="high">وصـ</supplied><unclear reason="undefined" cert="high">ـول</unclear> وكتبت البراه بذلك عن الخراج بسپاپه 
+<lb n="5"/>  لخراج سنة إحدى وثلثين وثلثمائـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وكـ<supplied reason="lost" cert="high">ـتـ</supplied>ـب يحنّس بن بقطر بخـ<supplied reason="lost" cert="high">ـطّه</supplied> 
+<lb n="7"/>  سفتجة بن الحسين بن محمّد الكوفي <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** marqūraẗu bnu ṯiyudura ăz zaǧǧāǧu fī naǧmi baramhāta 
+ <lb n="3"/>fī salḫi hā sittaẗa ăd danānīri maġsūl wazna sawāʾ:in bi lā ṣarf:in 
+ <lb n="4"/>wa ʾaddà bi ḏālika suftaǧaẗa wuṣūl:in wa kutibat ăl barāʾaẗu bi ḏālika ʿani ăl ḫarāǧi bi sBʾBh 
+ <lb n="5"/>li ḫarāǧi sanaẗi ʾiḥdà wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in *** 
+ <lb n="6"/>wa kataba yuḥannisu bnu buqṭura bi ḫaṭṭi hi 
+ <lb n="7"/>suftaǧaẗu bni ăl ḥusayni bni muḥammad:ini ăl kūfiyyi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gott]es, des Barmherzigen und sich Erbarmenden!
+			<lb n="2"/>
+		[*** Marqū]rah ibn Ṯiyudur der Gla[se]r an (dem Termin) der Rate des (Monats) Parmhat
+			<lb n="3"/>
+		[am En]de desselben sechs Dinar, gewaschen (und) mit genauem Gewicht, ohne [We]chselgebühr,
+			<lb n="4"/>
+		und (zwar) händigte er in Höhe dieses (Betrags) einen Wech[sel] aus, und es wurde die(se) Quittung über diesen (Betrag) geschrieben für die Grundsteuer in .......
+			<lb n="5"/>
+		für die Steuer des Jahres dreihunde[rt]einunddreißig. [***
+			<lb n="6"/>
+		Es sch[rie]b (dies) Yuḥannis ibn Buqṭur mit [eigener] Ha[nd
+			<lb n="7"/>
+		Wechsel des Ibn al-Ḥusayn ibn Muḥammad al-Kūfī .[
+</ab></div>
+</body>
+</text>
+</TEI>

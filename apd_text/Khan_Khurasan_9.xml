@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1211" xml:id="Khan_Khurasan_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169049</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب 
+<lb n="3"/>  من شعيب بن علوان عامل الأمير 
+<lb n="4"/>  عمر بن <app type="BL"><lem resp="APD">عارم </lem><rdg resp="APD">عازم </rdg><rdg resp="APD">غارم</rdg></app> أكرمه اللّه على مدر ورزم 
+<lb n="5"/>  براه لمير بن بيك إنّك أدّيت 
+<lb n="6"/>  إلي ممّا صار عليك من خراج سنة 
+<lb n="7"/>  تسع وأربعين ومئة وخراج سنة 
+<lb n="8"/>  خمسين ومئة وتوابعهما 
+<lb n="9"/>  من القسم ثلثة دراهم وثلثة 
+<lb n="10"/>  دونيق قبضت ذلك منك 
+<lb n="11"/>  وبرئت إلي منها 
+<lb n="12"/>  وكتب في ربيع الآخر سنة 
+<lb n="13"/>  اثنين وخمسين ومئة 
+<lb n="seal"/>  شعيب 
+<lb n="seal"/>  بن علوان 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un 
+ <lb n="3"/>min šuʿaybi bni ʿalwāna ʿāmili ăl ʾamīri 
+ <lb n="4"/>ʿumara bni ʿārim:in ʿāzim:in ġārim:in ʾakrama hu ăl lāhu ʿalà madra wa rizma 
+ <lb n="5"/>barāʾaẗ:un li mīri bni bayk:in ʾinna ka ʾaddayta 
+ <lb n="6"/>ʾilay ya mimmā ṣāra ʿalay ka min ḫarāǧi sanaẗi 
+ <lb n="7"/>tisʿ:in wa ʾarbaʿīna wa miʾaẗ:in wa ḫarāǧi sanaẗi 
+ <lb n="8"/>ḫamsīna wa miʾaẗ:in wa tawābiʿi himā 
+ <lb n="9"/>mina ăl qisami ṯalāṯaẗa darāhima wa ṯalāṯaẗa 
+ <lb n="10"/>dawānīqa qabaḍtu ḏālika min ka 
+ <lb n="11"/>wa bariʾta ʾilay ya min hā 
+ <lb n="12"/>wa kutiba fī rabīʿa ăl ʾāḫari sanaẗa 
+ <lb n="13"/>ĭṯnayni wa ḫamsīna wa miʾaẗ:in 
+ <lb n="14"/>šuʿaybu 
+ <lb n="15"/>bnu ʿalwāna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a document
+			<lb n="3"/>
+		from Shuʿayb ibn ʿAlwān, the financial administrator of the governor
+			<lb n="4"/>
+		ʿUmar ibn ʿĀrim, may God grant him honour, (whose jurisdiction is) over Madr and Rizm,
+			<lb n="5"/>
+		a quittance for Mīr ibn Bēk. You have delivered
+			<lb n="6"/>
+		to me what you owe with regard to the kharāj of the year
+			<lb n="7"/>
+		one hundred and forty-nine and the kharāj of the year
+			<lb n="8"/>
+		one hundred and fifty, together with the portions that are linked to them,
+			<lb n="9"/>
+		three dirhams and three
+			<lb n="10"/>
+		dānaqs. I have received that from you
+			<lb n="11"/>
+		and you have been released from (the obligation to pay) them to me.
+			<lb n="12"/>
+		It has been written in Rabīʿ II of the year
+			<lb n="13"/>
+		one hundred and fifty-two.
+			<lb n="14"/>
+		Shuʿayb
+			<lb n="15"/>
+		ibn ʿAlwān
+</ab></div>
+</body>
+</text>
+</TEI>

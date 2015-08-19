@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2645" xml:id="Grohmann_CPR_III_175" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusprotokolle p. 48 (= CPR III 1 175)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_175</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بسم</supplied> </lem><rdg resp="Grohmann">لعبد </rdg><rdg resp="Grohmann">عبد</rdg></app> <supplied reason="lost" cert="high">اللّه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بركة</supplied> </lem><rdg resp="Grohmann">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="Grohmann">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">اللّه</supplied> </lem><rdg resp="Grohmann">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">لعبد</supplied> </lem><rdg resp="Grohmann">أحمد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">اللّه</supplied> </lem><rdg resp="Grohmann">الإمام</rdg></app> <supplied reason="lost" cert="high">المستعين</supplied> <supplied reason="lost" cert="high">باللّه</supplied> <supplied reason="lost" cert="high">أمير</supplied> <supplied reason="lost" cert="high">المومپپن</supplied> <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاه</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">ممّا</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">بغـ</supplied>ـا مولى أمير المومپپن بعمله في طر<supplied reason="lost" cert="high">از</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">الأفركون</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يدي</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مولى</supplied> <supplied reason="lost" cert="high">أمير</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـومپپن في سنة خمسين ومائتي 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi li ø smi ʿabdi ʿabdu ăl lāhi barakaẗ:un ø mina ø ăl ø lāhi li ʾaḥmada ʿabdi ăl lāhi ʾimāmi ăl mustaʿīni bi ăl lāhi ʾamīri ăl muʾminīna ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="2"/>mimmā ʾamara ăl ʾamīru buġā mawlà ʾamīri ăl muʾminīna bi ʿamali hi fī ṭirāzi 
+ <lb n="3"/>ʾafrakūni ăl ʿalà yaday *** bni *** mawlà ʾamīri ăl muʾminīna fī sanaẗi ḫamsīna wa miʾatay 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes! Segen von Gott dem Diener Gottes el-Mustaʾîn billâh, Fürsten der Gläubigen, den Gott lange leben lasse!]
+		 <lb n="2"/>
+ 	  [Etwas von dem, was anbefohlen hat] zu verfertigen [der Emîr Boġ]â, Freigelassener des Fürsten der Gläubigen, im Ṭir[âz]
+		 <lb n="3"/>
+ 	  [el-Afragûn unter der Leitung des NN., Sohn des NN., Klienten des Fürsten der G]läubigen, im Jahre fünfzig und zweihundert.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

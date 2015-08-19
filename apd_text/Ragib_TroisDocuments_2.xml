@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1325" xml:id="Ragib_TroisDocuments_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibTroisDocuments 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_TroisDocuments_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169135</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر يعقوب بن عمرو أن النّصف فدّان الكتّان الّذي زرعه 
+<lb n="3"/>  في أرضه الّتي في غيط يدعا نشّاش بأرض مدينة الفيّوم 
+<lb n="4"/>  بينه وبين جدّة ابنته وبين <app type="BL"><lem resp="APD">خنّة </lem><rdg resp="APD">حبّة </rdg><rdg resp="APD">حيّة </rdg><rdg resp="APD">جنّة </rdg><rdg resp="APD">خنّة </rdg><rdg resp="APD">حتّة</rdg></app> <app type="BL"><lem resp="APD">حنينة </lem><rdg resp="APD">حبيبة </rdg><rdg resp="APD">حبينة </rdg><rdg resp="APD">حنينة</rdg></app> ثلث له وثلث 
+<lb n="5"/>  لبنته وثلث <app type="BL"><lem resp="APD">لحبّة </lem><rdg resp="APD">لحبّة </rdg><rdg resp="APD">لحيّة </rdg><rdg resp="APD">لجنّة </rdg><rdg resp="APD">لخنّة </rdg><rdg resp="APD">لحتّة</rdg></app> <app type="BL"><lem resp="APD">حبيبة </lem><rdg resp="APD">حبيبة </rdg><rdg resp="APD">حبينة </rdg><rdg resp="APD">حنينة</rdg></app> شهد على ذلك قشّاش بن مسكين 
+<lb n="6"/>  وكتب أبو هريرة شهادته عنه بأمره ومحضره وذلك في جمادى الأولى 
+<lb n="7"/>  سنة خمسة وخمسين ومائتين وشهد عبّاس بن وليد على كل ذلك 
+<lb n="8"/>  وشهد جعفر بن أبي جعفر بن عبد المومن وكتب بخطّه كل ما في 
+<lb n="9"/>  هذا الكتاب سنة خمسة وخمسين ومائتين في جمادى الأولى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra yaʿqūbu bnu ʿamri ʾanna ăn niṣfu faddāni ăl kattāni ăllaḏī zaraʿa hu 
+ <lb n="3"/>fī ʾarḍi hi ăllatī fī ġayṭ:in yudʿā naššāš bi ʾarḍi madīnaẗi ăl fayyūmi 
+ <lb n="4"/>bayna hu wa bayna ǧaddaẗa ĭbnati hi wa bayna ḥabbaẗa ḥannaẗa ḫannaẗa ǧannaẗa ḥattaẗa ḥayyaẗa ḥibbaẗa ḥabībaẗa ḫatanati ḥubaybaẗa ḥubaynaẗa ḥunaynaẗa hi ṯulṯ:un la hu wa ṯulṯ:un 
+ <lb n="5"/>li binti hi wa ṯulṯ:un li ḥabbaẗa ḥannaẗa ḫannaẗa ǧannaẗa ḥattaẗa ḥayyaẗa ḥibbaẗa ḥabībaẗa ḫatanati ḥubaybaẗa ḥubaynaẗa ḥunaynaẗa hi šahida ʿalà ḏālika qaššāšu bnu miskīna 
+ <lb n="6"/>wa kataba ʾabū hurayraẗa šahādata hu ʿan hu bi ʾamri hi wa maḥḍari hi wa ḏālika fī ǧumādà ăl ʾūlà 
+ <lb n="7"/>sanaẗa ḫamsaẗ:in wa ḫamsīna wa miʾatayni wa šahida ʿabbāsu bnu walīd:in ʿalà kulli ḏālika 
+ <lb n="8"/>wa šahida ǧaʿfaru bnu ʾabī ǧaʿfara bnu ʿabdi ăl muʾmini wa kataba bi ḫaṭṭi hi kulla mā fī 
+ <lb n="9"/>hāḏā ăl kitābi sanaẗa ḫamsaẗ:in wa ḫamsīna wa miʾatayni fī ǧumādà ăl ʾūlà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+			<lb n="2"/>
+		Yaʿqūb b. ʿAmr a reconnu que le demi-feddan de lin qu&#039;il a semé
+			<lb n="3"/>
+		dans sa terre qui se trouve dans un champ appelé Naššāš dans la terre de la ville d&#039;al-Fayyoum
+			<lb n="4"/>
+		[est partagé] entre lui, Ǧadda sa fille et Ḥanna sa belle-mère : un tiers à lui, un tiers
+			<lb n="5"/>
+		à sa fille et un tiers à Ḥanna sa belle-mère. A témoigné de ceci Qaššaš b. Miskīn.
+			<lb n="6"/>
+		Abū Hurayra a écrit son témoignage pour lui sur son ordre et en sa présence, et ceci en ǧumādā I
+			<lb n="7"/>
+		l&#039;année 255. A témoigné de tout ceci ʿAbbās b. al-Walīd.
+			<lb n="8"/>
+		A témoigné Ǧaʿfar b. Ǧaʿfar b. ʿAbd al-Muʾmin et écrit de sa main tout le contenu de
+			<lb n="9"/>
+		cet écrit, l&#039;année 255, en ǧumādā I.
+</ab></div>
+</body>
+</text>
+</TEI>

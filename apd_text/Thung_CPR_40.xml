@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2210" xml:id="Thung_CPR_40" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_40</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيـ</supplied>ـم 
+<lb n="2"/>  شهد الشّهود المسمّون في هذا الكتاب على إقرار <sic n="superfluous">المكپا</sic> <sic n="superfluous">پا</sic> مـ<supplied reason="lost" cert="high">ـو</supplied>ـسى 
+<lb n="3"/>  النّسّاج السّاكن مدينة أشمون في صحّـ<supplied reason="lost" cert="high">ـة</supplied> عقله وبدنه <supplied reason="omitted" cert="high"> و</supplied>حوأر <supplied reason="lost" cert="high">امره</supplied> 
+<lb n="4"/>  غير مكره ولا مجبر أنّه طلّق إمرأته خديجة إبنت <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  السّاكنة مدينة أشمون ثلثة <supplied reason="lost" cert="high">تطـ</supplied>ـليقات بانت <supplied reason="lost" cert="high">بـ</supplied>ـهن وحر<supplied reason="lost" cert="high">مـ</supplied>ـت <supplied reason="lost" cert="high">بـ</supplied>ـهـ<supplied reason="lost" cert="high">ـنّ</supplied> 
+<lb n="6"/>  لا تحل له من بعد حتّى تنكح زوج غيره نطق بذلك ولفظ به لشهود هذا 
+<lb n="7"/>  الكتاب وكان طلاقه هذا يـ<supplied reason="lost" cert="high">ـو</supplied>ـم الخميس وهو أوّل يوما من رجب 
+<lb n="8"/>  سنة إحدى وأربعـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن <supplied reason="lost" cert="high">و</supplied>ثلثمائة شهد على ذلك شهد عمر بن إسحق 
+<lb n="9"/>  البزّاز على موسى النّسّاج بجميع ما في هذا الكتاب وكتب بخطّه في تأريخه 
+<lb n="10"/>  شهد أبو <gap reason="illegible" extent="4" unit="character" /> بن محمّد الحمصي الـ<supplied reason="lost" cert="high">ـبـ</supplied>ـزّ<supplied reason="lost" cert="high">از</supplied> على إقراره بذلك وكتب شهادته بخطّه في <supplied reason="lost" cert="high">تأريخـ</supplied>ـه 
+<lb n="11"/>  أشهد أحمد بن محمّد بن حمد<supplied reason="lost" cert="high">يّ</supplied> على إقر<supplied reason="lost" cert="high">ا</supplied>ر موسى بجميع ما <supplied reason="lost" cert="high">في</supplied> هذا الكتاب 
+<lb n="12"/>  و<supplied reason="lost" cert="high">كـ</supplied>ــتب شهادته بخطّه في تأريخه و<supplied reason="lost" cert="high">ا</supplied>لحمد للّه وحد<supplied reason="lost" cert="high">ه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʿalà ʾiqrāri mūsà 
+ <lb n="3"/>ăn nassāǧi ăs sākini madīnaẗa ʾušmūna fī ṣiḥḥaẗi ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ:an 
+ <lb n="4"/>ġayra mukrah:in wa lā muǧbar:in ʾanna hu ṭallaqa ʾimraʾaẗa hu ḫadīǧaẗa ĭbnata *** *** 
+ <lb n="5"/>ăs sākinaẗa madīnaẗa ʾušmūna ṯalāṯaẗa taṭlīqāt:in bānat bi hinna wa ḥarumat bi hinna 
+ <lb n="6"/>lā taḥillu la hu min baʿdu ḥattà tankiḥa zawǧ ġayra hu naṭaqa bi ḏālika wa lafaẓa bi hi li šuhūdi hāḏā 
+ <lb n="7"/>ăl kitābi wa kāna ṭalāqu hu hāḏā yawma ăl ḫamīsi wa huwa ʾawwalu yawm:an min raǧabi 
+ <lb n="8"/>sanaẗi ʾiḥdà wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in šuhida ʿalà ḏālika šahida ʿumaru bnu ʾisḥāqa 
+ <lb n="9"/>ăl bazzāzu ʿalà mūsà ăn nassāǧi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="10"/>šahida ʾabū **** bnu muḥammad:ini ăl ḥimṣiyyu ăl bazzāzu ʿalà ʾiqrāri hi bi ḏālika wa kataba šahādata hu bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="11"/>ʾašhadu ʾaḥmadu bnu muḥammadi bni ḥamdiyy:in ʿalà ʾiqrāri mūsà bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="12"/>wa kataba šahādata hu bi ḫaṭṭi hi fī taʾrīḫi hi wa ăl ḥamdu ăl lāhi waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Die in dieser Urkunde erwähnten Zeugen bezeugen, daß {der mit der Kunya ʾAb benannte} Mūsā,
+			<lb n="3"/>
+		der Weber, wohnhaft in der Stadt Ušmūn, im Zustand seiner geistigen und körperlichen Gesundheit und Geschäftsfähigkeit, freiwillig,
+			<lb n="4"/>
+		nicht gezwungen und nicht genötigt, anerkannt hat, daß er seine Frau Ḫadīǧah, Tochter von [...],
+			<lb n="5"/>
+		wohnhaft in der Stadt Ušmūn, dreifach verstoßen hat, aufgrund dessen sie (von ihm) endgültig geschieden ist und (ihm) verboten ist.
+			<lb n="6"/>
+		Sie ist ihm weiterhin nicht mehr erlaubt, bis sie einen anderen Ehemann heiratet. Er hat dies den Zeugen dieser Urkunde gegenüber mündlich erklärt,
+			<lb n="7"/>
+		und diese Verstoßung durch ihn hat stattgefunden am Donnerstag, dem ersten Tag des Monats Raǧab
+			<lb n="8"/>
+		des Jahres dreihunderteinundvierzig. Dies wurde bezeugt. Es bezeugt ʿUmar b. Isḥāq,
+			<lb n="9"/>
+		der Stoffhändler, gegen Mūsā, den Weber, alles was in dieser Urkunde steht, und er hat mit seinem Schriftzug am Datum der Urkunde unterschrieben.
+			<lb n="10"/>
+		Es bezeugt Abū  ... b. ʿUmar al-Ḥimṣī der Stoffhändler, daß er (i.e. Mūsā) dieses anerkannt hat, und er hat sein Zeugnis mit seinem Schriftzug am [Datum der Urkunde] geschrieben.
+			<lb n="11"/>
+		Ich, Aḥmad b. Muḥammad b. Ḥamdī, bezeuge, daß Mūsā alles, was in dieser Urkunde steht, anerkannt hat,
+			<lb n="12"/>
+		und das Zeugnis ist mit eigenem Schriftzug am Datum der Urkunde geschrieben, Lob sei Gott allein.
+</ab></div>
+</body>
+</text>
+</TEI>

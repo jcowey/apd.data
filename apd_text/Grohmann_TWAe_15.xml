@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="515" xml:id="Grohmann_TWAe_15" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 15</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_15</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106685</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  لأبى القسم أطال اللّه بقـ<supplied reason="lost" cert="high">ـاه</supplied> <supplied reason="lost" cert="high">وأ</supplied>دام عزّه 
+ <lb n="2"/>  <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">بن</rdg></app> أبى سعيد أكرمه اللّه 
+ <lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  غلالتين χγʹ‎ιʹ‎βʹ‎ علالپپن χγʹ‎<supplied reason="lost" cert="high">ιʹ‎βʹ‎</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـلا<supplied reason="lost" cert="high">لپـ</supplied>ـپن χγʹ‎ιʹ‎βʹ‎ 
+ <lb n="5"/>  ثلثة شقاق χγʹ‎ηʹ‎ غلالتين χγʹ‎ιʹ‎βʹ‎ 
+ <lb n="6"/>  الّذي لأبي محمّد أكرمه اللّه من الدّنانير خمسة 
+ <lb n="7"/>  دنانير إلّا قيراطين ونصف مثقال 
+ <lb n="8"/>  وصل من ذلك <del rend="erasure" status="unremarkable">پسعه</del> <del rend="erasure" status="unremarkable">علاپل</del> <app type="BL"><lem resp="APD">وثلثة </lem><rdg resp="according to original “LR”">ثلثة</rdg></app> 
+ <lb n="9"/>  اپو<del rend="erasure" status="unremarkable">اپ</del> <del rend="erasure" status="unremarkable">پدپنر</del> <del rend="erasure" status="unremarkable">حوار</del> δηʹ‎ 
+ <lb n="10"/>  پماپپه غلائل وثلثة شقاق δχηʹ‎ 
+ <lb n="11"/>  ووحه إلي أبو محمّد أكرمه اللّه أوّل مرّة ثلثة 
+ <lb n="12"/>  مثاقيل 
+ <lb n="13"/>  دپاپپر وجّهت إليه غلالتين χγʹ‎ 
+ <lb n="14"/>  واپصا غلالتين χγʹ‎ιʹ‎βʹ‎ وأيضا χηʹ‎ 
+ <lb n="15"/>  ووحهپ إليه مع سهيلي غلالتين χγʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>li ʾabī ăl qāsimi ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu 
+ <lb n="2"/>min bni ʾabī saʿīd:in ʾakrama hu ăl lāhu 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ġilālatayni 1/2+1/3+1/12 1/3 ġilālatayni 1/2+1/3+1/12 1/48 ġilālatayni 1/2+1/3+1/12 
+ <lb n="5"/>ṯalāṯaẗu šiqāq:in 1/2+1/3+1/8 ġilālatayni 1/2+1/3+1/12 
+ <lb n="6"/>ăllaḏī li ʾabī muḥammad:in ʾakrama hu ăl lāhu mina ăd danānīri ḫamsaẗu 
+ <lb n="7"/>danānīra ʾillā qīrāṭayni wa niṣfa miṯqāl:in 
+ <lb n="8"/>waṣala min ḏālika wa ø ṯalāṯaẗu 
+ <lb n="9"/>ʾaṯwāb:in bi dīnār:in ǧawāz:in 4 1/8 
+ <lb n="10"/>ṯamāniyaẗu ġalāʾila wa ṯalāṯaẗu šiqāq:in 4 1/2+1/8 
+ <lb n="11"/>wa waǧǧaha ʾilay ya ʾabū muḥammad:in ʾakrama hu ăl lāhu ʾawwala marraẗ:in ṯalāṯaẗa 
+ <lb n="12"/>maṯāqīla 
+ <lb n="13"/>danānīra waǧǧahtu ʾilay hi ġilālatayni 1/2+1/3 
+ <lb n="14"/>wa ʾayḍ:an ġilālatayni 1/2+1/3+1/12 wa ʾayḍ:an 1/2+1/8+1/48 
+ <lb n="15"/>wa waǧǧahtu ʾilay hi maʿa suhayliyyin ġilālatayni 1/2+1/3 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  An Abu&#039;l-Qāsim - Gott lasse [ihn l]ange leben [und lasse dau]ern seine Kraft -
+		 <lb n="2"/>
+ 	  von Abū Saʿīd, Gott erweise sich ihm wohltätig.
+		 <lb n="3"/>
+ 	  Im Namen Gottes des Barmherzigen, Gütigen.
+		 <lb n="4"/>
+ 	  Zwei Roben 1/2+1/3+1/12, 1/3, zwei Damenroben 1/2[+1/3+1/12]+1/48, zwei Roben 1/2+1/3+1/12;
+		 <lb n="5"/>
+ 	  drei Kleider 1/2+1/3+1/8, zwei Roben 1/2+1/3+1/12.
+		 <lb n="6"/>
+ 	  Das Guthaben des Abū Muḥammad - Gott erweise sich ihm wohltätig - an Dīnāren (beträgt) fünf
+		 <lb n="7"/>
+ 	  Dīnāre weniger zwei Karat und ein halbes Miṯqāl.
+		 <lb n="8"/>
+ 	  Davon sind eingelangt 〚neun Roben〛 und drei
+		 <lb n="9"/>
+ 	  Kleider um kurrente Dīnāre 4 1/8,
+		 <lb n="10"/>
+ 	  acht Roben und drei Kleider 4 1/2+1/3,
+		 <lb n="11"/>
+ 	  und Abū Muḥammad - Gott erweise sich ihm wohltätig - hat erstmalig an mich geschickt drei
+		 <lb n="12"/>
+ 	  Dīnār
+		 <lb n="13"/>
+ 	  miṯqālī; und ich schickte an ihn zwei Damenroben 1/2+1/3.
+		 <lb n="14"/>
+ 	  und weiters zwei Damenroben 1/2+1/3+1/12 und weiters 1/2+1/3+1/48,
+		 <lb n="15"/>
+ 	  und ich schickte an ihn mit Suhailī zwei Damenroben 1/2+1/3.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

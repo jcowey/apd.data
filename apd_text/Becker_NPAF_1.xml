@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="402" xml:id="Becker_NPAF_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 01 (= P.Cair.Arab. 146)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106607</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n=" "/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> ما تجمّع 
+<lb n="2"/>  من هذه الأبواب فإنّي 
+<lb n="3"/>  إن أجد عندك الّذي أريد من 
+<lb n="4"/>  جرا وحسن <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـجلت </lem><rdg resp="APD">الجلب</rdg></app> أحسن إليك 
+<lb n="5"/>  وأصيبك <unclear reason="undefined" cert="high">بمعروف</unclear> وأشد 
+<lb n="6"/>  د لك امرك وعملك 
+<lb n="7"/>  حوأ إن شا اللّه أن يكون كذلك 
+<lb n="8"/>  وإن أجد عملك على غير ذلك 
+<lb n="9"/>  فإنّما يجزى المر <unclear reason="undefined" cert="high">بعمله</unclear> ثم <supplied reason="omitted" cert="high">لا</supplied> تلم 
+<lb n="10"/>  إلّا نفسك ولا تتّخرن بعد الّذي 
+<lb n="11"/>  سمّيت لك من الأجل ولا أعرفن 
+<lb n="12"/>  ما عجزت ولا قصرت ولا قد 
+<lb n="13"/>  مپ الى وحلڤك من المال 
+<lb n="14"/>  فإّنّه واللّه لا يفعل ذلك أحد 
+<lb n="15"/>  إلّا عرف حين يقدم علي أنّه 
+<lb n="16"/>  بئس ما صنع وبئس<supplied reason="omitted" cert="high">ما</supplied> عمل واپى لا 
+<lb n="17"/>  أحب أن يرى أحد في عملك 
+<lb n="18"/>  شاي يكرهه من <app type="BL"><lem resp="“Becker; Diem, Aphrodito p. 256”">عجز </lem><rdg resp="“Grohmann”">حجز</rdg></app> ولا تأخير 
+<lb n="19"/>  ولا <app type="BL"><lem resp="APD">إبطل </lem><rdg resp="“Diem, Aphrodito p. 256”">إبطاء</rdg></app> فإنّى قد بعثتك حين 
+<lb n="20"/>  بعثتك على عملك وإنا أرجو 
+<lb n="21"/>  أن <app type="BL"><lem resp="APD">تكون </lem><rdg resp="“AK”">يكون</rdg></app> عندك أمانة 
+<lb n="22"/>  حرا وتنفيذا للعمل فكن عند 
+<lb n="23"/>  أحسن ظنّي بك فإنّى واللّه 
+<lb n="24"/>  <app type="BL"><lem resp="APD">لإن </lem><rdg resp="“Diem, Aphrodito p. 256”">لأن</rdg></app> تكون محسـنـ<sic n="superfluous">ـپـ</sic>ـا مجملا أمينا 
+<lb n="25"/>  موقّرا أحب إلي وأعجب 
+<lb n="26"/>  عندي من أن تكون على غير ذلك 
+<lb n="27"/>  لا تعيّبن نفسك و لا تسيئن عملك 
+<lb n="28"/>  واستعن باللّه فإنه من <app type="BL"><lem resp="APD">ينفّذ </lem><rdg resp="“Diem, Aphrodito p. 257”">يتقن</rdg></app> 
+<lb n="29"/>  الإصلاح <app type="BL"><lem resp="APD">ويرإى </lem><rdg resp="“Diem, Aphrodito p. 257”">يؤدّي</rdg></app> الأمانة 
+<lb n="30"/>  يعنه اللّه ويصلح له عمله 
+<lb n="31"/>  ثم اقدم علي بكل كتاب 
+<lb n="32"/>  ترى أنّى سائل عنه من عمل 
+<lb n="33"/>  أرضك وكتّابها والسّلم 
+<lb n="34"/>  على من اتّبع الهدى وكتب <app type="BL"><lem resp="“Becker, Grohmann”">عمير </lem><rdg resp="“Becker”">عمر</rdg></app> 
+<lb n="35"/>  في شوّل من سنة إحدى وتسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** mā taǧammaʿa 
+ <lb n="3"/>min hāḏihi ăl ʾabwābi fa ʾin nī 
+ <lb n="4"/>ʾin ʾaǧid ʿinda ka ăllaḏī ʾurīdu mina 
+ <lb n="5"/>ăl ʾiǧrāʾi wa ḥusni ăl ǧlt ǧalbi ʾuḥsinu ʾilay ka 
+ <lb n="6"/>wa ʾuṣību ka bi maʿrūf:in wa ʾušaddidu 
+ <lb n="7"/>la ka ʾamra ka wa ʿamala ka wa ʾanā 
+ <lb n="8"/>ʾarǧū ʾin šāʾa ăl lāhu ʾan yakūna kaḏālika 
+ <lb n="9"/>wa ʾin ʾaǧid ʿamala ka ʿalà ġayri ḏālika 
+ <lb n="10"/>fa ʾinnamā yuǧzà ăl marʾu bi ʿamali hi ṯumma lā talum 
+ <lb n="11"/>ʾillā nafsa ka wa lā tattaḫiranna baʿda ăllaḏī 
+ <lb n="12"/>sammaytu la ka mina ăl ʾaǧali wa lā ʾaʿrifanna 
+ <lb n="13"/>mā ʿaǧazta wa lā qaṣarta wa lā qadimta 
+ <lb n="14"/>ʾilay ya wa ḫalfa ka mina ăl māli šāy:un 
+ <lb n="15"/>fa ʾinna hu wa ăl lāhi lā yafʿal ḏālika ʾaḥad:un 
+ <lb n="16"/>ʾillā ʿarafa ḥīna yaqdamu ʿalay ya ʾanna hu 
+ <lb n="17"/>biʾsa mā ṣanaʿa wa biʾsa mā ʿamila wa ʾinn ī lā 
+ <lb n="18"/>ʾuḥibbu ʾan yarà ʾaḥad:un fī ʿamali ka 
+ <lb n="19"/>šāy yakrahu hu min ʿaǧz:in ḥaǧz:in wa lā taʾḫīr:in 
+ <lb n="20"/>wa lā ʾibṭāl:in ʾibṭāʾ:in fa ʾin nī qad baʿaṯtu ka ḥīna 
+ <lb n="21"/>baʿaṯtu ka ʿalà ʿamali ka wa ʾanā ʾarǧū 
+ <lb n="22"/>ʾan takūna yakūna ʿinda ka ʾamānaẗ:un 
+ <lb n="23"/>wa ʾiǧrāʾ:un wa tanfīḏ:an li l ʿamali fa kun ʿinda 
+ <lb n="24"/>ʾaḥsani ẓann ī bi ka fa ʾinn ī wa ăl lāhi 
+ <lb n="25"/>la li ʾan ʾin takūna takūnu muḥsin:an muǧmil:an ʾamīn:an 
+ <lb n="26"/>muwaqqar:an ʾaḥabbu ʾilay ya wa ʾaʿǧabu 
+ <lb n="27"/>ʿind ī min ʾan takūna ʿalà ġayri ḏālika 
+ <lb n="28"/>lā tuʿayyibanna nafsa ka wa lā tusīʾanna ʿamala ka 
+ <lb n="29"/>wa ĭstaʿin bi ăl lāhi fa ʾinna hu man yunaffiḏi yutqinu 
+ <lb n="30"/>ăl ʾiṣlāḥa wa yurʾī yuʾaddī ăl ʾamānaẗa 
+ <lb n="31"/>yuʿin hu ăl lāhu wa yuṣliḥ la hu ʿamala hu 
+ <lb n="32"/>ṯumma ĭqdam ʿalay ya bi kulli kitāb:in 
+ <lb n="33"/>tarà ʾan nī sāʾil:un ʿan hu min ʿamali 
+ <lb n="34"/>ʾarḍi ka wa kuttābi hā wa ăs salāmu 
+ <lb n="35"/>ʿalà mani ĭttabaʿa ăl hudà wa kataba ʿumayr:un ʿumaru 
+ <lb n="36"/>fī šawwāl:in min sanaẗi ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		.... was zusammengekommen ist 
+		[   ] what has been brought together 
+			<lb n="3"/>
+		of these articles. But verily 
+		von diesen Gegenständen. Wenn ich 
+			<lb n="4"/>
+		bei Dir finde, was ich möchte von (pünktlicher) Expedierung 
+		if I find with thee what I should like to find respecting re-
+			<lb n="5"/>
+		gular remittance and satisfactory consignement, I shall do good unto thee 
+		und ordentlicher Verfrachtung, so werde ich Dir Gutes antun, 
+			<lb n="6"/>
+		and do thee favour and strengthen 
+		Dir Gefälligkeiten erweisen und 
+			<lb n="7"/>
+		Dir Deine Sache und Dein Amt stärken. Und ich hoffe, 
+		for thee thy business and thy administration, and I ho-
+			<lb n="8"/>
+		pe - please God - that it may be so. 
+		so Gott will, daß es so sein wird. 
+			<lb n="9"/>
+		But if I find thy administration otherwise, then 
+		Wenn ich aber Deine Amtsführung anders erfinde, 
+			<lb n="10"/>
+		- as the man is only rewarded according to his works - blame 
+		- nun, so erhält eben der Mann den Lohn, der seiner Arbeit entspricht ...
+		- nun, so wird eben der Mann nach seinem Tun belohnt; dann tadle (also) 
+			<lb n="11"/>
+		nur Dich selbst. Und bleibe nicht im Rückstand nach 
+		only thyself. Do not remain in arrears after (the date) which 
+			<lb n="12"/>
+		dem Termin, den ich Dir gesetzt habe und nicht will ich erfahren 
+		I have named, and I do not wish to learn 
+			<lb n="13"/>
+		daß Du versagst, noch daß Du verkürzest, noch zu mir 
+		daß Du versagst, noch daß Du versäumst ...
+		of thy insufficiency or unpunctuality nor that thou comest 
+			<lb n="14"/>
+		kommst, während noch etwas von den (abzuliefernden) Steuereingängen (eigentlich Gut, Vermögen) hinter Dir zurückbleibt. 
+		to me leaving any part of the (tax-)money behind. 
+			<lb n="15"/>
+		Bei Gott, nicht tut das Einer, 
+		For indeed, by God, nobody acts thus 
+			<lb n="16"/>
+		außer daß er bei seiner Ankunft bei mir erfährt, 
+		without learning when he comes to me that 
+			<lb n="17"/>
+		daß übel das ist, was er getan hat und übel seine Amtsführung. 
+		what he has done is wrong, and faulty the discharge of his official duties, and I should not 
+			<lb n="18"/>
+		Und ich möchte nicht, daß einer in Deiner Amtsführung 
+		Und ich möchte nicht, daß jemand bei Deiner Arbeit (oder: in Deiner Provinz)  
+		whish that anybody should see in thy administration 
+			<lb n="19"/>
+		anything of which he disapproves: any insufficiency, withholding 
+		etwas bemerke, was er mißbillige, nämlich Schwäche oder Verspätung 
+		irgendeine von ihm mißbilligte Unfähigkeit, Verschiebung  
+			<lb n="20"/>
+		oder (gar) völlige Einstellung; denn, als ich Dich auf Deinen 
+		oder Verzögerung bemerkt.
+		or annulling. For when I sent thee 
+			<lb n="21"/>
+		Posten schickte, geschah es in der Hoffnung, 
+		to thy post, it was with the expectation 
+			<lb n="22"/>
+		daß bei Dir erfunden werde Zuverlässigkeit 
+		that thou shoudest show trustworthiness, 
+			<lb n="23"/>
+		efficiency and promptness in thy office. Mayest thou then be near to 
+		und (pünktliche) Expedierung und Erledigung Deiner Geschäfte. So mache 
+			<lb n="24"/>
+		meine gute Meinung über Dich wahr. Denn bei Gott 
+		the good opinion I would fain hold of thee. By God, 
+			<lb n="25"/>
+		daß Du Gutes tust ...
+		if thou actest well and honestly and art trustworthy 
+		wenn Du guttust, zur Zufriedenheit arbeitest, zuverlässig 
+			<lb n="26"/>
+		and estimable, then I should prefer that, and it would please me more 
+		und einsichtsvoll bist, so ist das mir lieber und erfreulicher (wunderbarer) 
+			<lb n="27"/>
+		als wenn Du anders bist. 
+		than if thou wert otherwise. 
+			<lb n="28"/>
+		Do not burden thyself with ignominy nor corrupt thy administration, 
+		So lade keine Schmach auf Dich und mache Deine Geschäftsführung nicht schlecht, 
+			<lb n="29"/>
+		and ask God&#039;s aid; for if anyone really 
+		und bitte Gott um Beistand; denn siehe wenn einer 
+			<lb n="30"/>
+		cares for the well being (of affairs) and shows trustworthiness, 
+		die Förderung (der Wohlfahrt) erstrebt und Zuverlässigkeit betätigt, 
+			<lb n="31"/>
+		dann hilft ihm Gott und gibt Gelingen seinem Geschäft. 
+		God will also help him and further his work. 
+			<lb n="32"/>
+		Dann komme zu mir mit jeglichem (Rechnungs-)Buch, 
+		Then present thyself to me with any (account-)book 
+			<lb n="33"/>
+		about which thou thinkest I might question thee respecting the administrative sphere 
+		von dem Du meinst, daß ich danach fragen könnte aus dem Geschäftskreis 
+			<lb n="34"/>
+		Deines Landes und ihren Schreibern. Heil 
+		of thy country and of its clerks. And hail 
+			<lb n="35"/>
+		sei über den, welcher der Rechtleitung folgt. Es hat dies geschrieben ʿUmair 
+		to him who follows the guidance. And ʿUmair has written (it) 
+			<lb n="36"/>
+		im Schawwāl des Jahres 91 (2.-30. August 710). 
+		in Šawwâl of the year ninety-one.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1492" xml:id="SijpesteijnClackson_Taxlist" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Clackson 45</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">SijpesteijnClackson_Taxlist</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">120672</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  هذا كتا<supplied reason="lost" cert="high">ب</supplied> من هشام بن ز<supplied reason="lost" cert="high">ياد</supplied> عامل <supplied reason="lost" cert="high">الأ</supplied>مير <supplied reason="lost" cert="high">عبـ</supplied>ـد الملك بن يزيد على <supplied reason="lost" cert="high">أعلى</supplied> <supplied reason="lost" cert="high">أشمون</supplied> 
+<lb n="4"/>  ليحنّس ابن <supplied reason="lost" cert="high">إ</supplied>سدور 
+<lb n="5"/>  من أهل دير أبو أبلّوا من أعلى أشمون إنّه أصابك من جزية <supplied reason="lost" cert="high">ر</supplied>أسك لسنـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="6"/>  ست وثلثين ومائة دينر<supplied reason="lost" cert="high">ين</supplied> <supplied reason="lost" cert="high">عددا</supplied> <supplied reason="lost" cert="high">فا</supplied>دفع ذلك <supplied reason="lost" cert="high">إلى</supplied> قبّل قريتك في 
+<lb n="7"/>  ستّة أطبل فأ<supplied reason="lost" cert="high">ن</supplied> يكتتب <supplied reason="lost" cert="high">لك</supplied> <supplied reason="lost" cert="high">براه</supplied> منها <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ختمها</rdg></app> بخاتمـ<supplied reason="lost" cert="high">ـه</supplied> و<supplied reason="lost" cert="high">لا</supplied> تد<supplied reason="lost" cert="high">فع</supplied> إليه 
+<lb n="8"/>  شيئا سوا ذلك الكمـ<gap reason="illegible" extent="1" unit="character" /> لإن وحـ<gap reason="illegible" extent="2" unit="character" />ـمى تكتبن أن خذ <gap reason="illegible" extent="4" unit="character" /> في قريتـ<supplied reason="lost" cert="high">ـك</supplied> 
+<lb n="9"/>  بجزية بعثت أو غيره فإن أخذ عنك حقّا <gap reason="illegible" extent="2" unit="character" />ر إليها <supplied reason="lost" cert="high">فإن</supplied> يكر<supplied reason="lost" cert="high">ه</supplied> 
+<lb n="10"/>  أن يكتبها لك ولا تدفعن إليه شيا وأتيني فإنّي غير كتبا 
+<lb n="11"/>  لك شيا ادّعته على أحد لم يأتيني منه خيرا وكتب يحي سلا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  في جمادى الآخر سنة ست وثلثين ومائة 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="22"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min hišāmi bni ziyād:in ʿāmili ăl ʾamīri ʿabdi ăl maliki bni yazīda ʿalà ʾaʿlà ʾušmūna 
+ <lb n="4"/>li yuḥannisa ĭbni ʾisidūra 
+ <lb n="5"/>min ʾahli dayri ʾabū ʾabullū min ʾaʿlà ʾušmūna ʾinna hu ʾaṣāba ka min ǧizyaẗi raʾsi ka li sanaẗi 
+ <lb n="6"/>sitt:in wa ṯalāṯīna wa miʾaẗ:in dīnārayni ʿadad:an fa ĭdfaʿ ḏālika ʾilà qabbāli qaryati ka fī 
+ <lb n="7"/>sittaẗi ʾaṭbāl:in fa ʾan yaktatiba la ka barāʾaẗ:an min hā *** ḫatama hā bi ḫātimi hi wa lā tadfaʿ ʾilay hi 
+ <lb n="8"/>šayʾ:an siwā ḏālika ăl km* la ʾin wḥ**my taktubanna ʾan ḫḏ **** fī qaryati ka 
+ <lb n="9"/>bi ǧizyaẗ:in baʿaṯta ʾaw ġayru hu fa ʾin ʾaḫaḏa ʿan ka ḥaqq:an **r ʾilay hā fa ʾin yakrahu 
+ <lb n="10"/>ʾan yaktuba hā la ka wa lā tadfaʿanna ʾilay hi šayʾ:an wa ʾatī nī fa ʾin nī ġayr ktbʾ 
+ <lb n="11"/>la ka šayʾ:ani ĭddaʿtu hu ʿalà ʾaḥad:in lam yaʾtī nī min hu ḫayr:an wa kataba yaḥya slʾ*** 
+ <lb n="12"/>fī ǧumādà ăl ʾāḫiri sanaẗa sitt:in wa ṯalāṯīna wa miʾaẗ:in 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+ <lb n="17"/>*** 
+ <lb n="18"/>*** 
+ <lb n="19"/>*** 
+ <lb n="20"/>*** 
+ <lb n="21"/>*** 
+ <lb n="22"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		... paid (for) indiction
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		This is a wri[ting] from Hishām son of Z[iyād] the executive [of the] amīr [ʿAb]d al-Malik b. Yazīd over [the Upper Ashmūn?]
+			<lb n="4"/>
+		to Yuḥannis b. Isidūr (vac.)
+			<lb n="5"/>
+		of the people of the monastery of Abū Abullū in Upper Ashmūn. He has assigned to you as your head-tax for the year
+			<lb n="6"/>
+		one hundred and thirty-six two dīnār[s in coin. So p]ay it [to] the collector of your village in
+			<lb n="7"/>
+		six instalments. And let him write [for you a receipt] for this, [sealing it?] with his seal and do [not] pa[y] to him
+			<lb n="8"/>
+		anything except this ...?. And if ... you should definitely write that he take [...] in your villa[ge]
+			<lb n="9"/>
+		with jizya, which you sent or someone else. And if he receives from you what he deserves [...] to it. [And if] he refuse[s]
+			<lb n="10"/>
+		to write it (the receipt) for you, then do not pay him anything but come to me and I, without ...
+			<lb n="11"/>
+		for you something else (than what) I claimed from someone who did not come to me from him in a good way. And Yaḥyā wrote it in
+			<lb n="12"/>
+		Jumādā II of the year one hundred and thirty-six.
+			<lb n="13"/>
+		By God.....Abū? Almūn The.na b. Ziyād, over the south
+			<lb n="14"/>
+		of Shmoun, the city, writes to Ioannnes son of Isidoros of the Monastery
+			<lb n="15"/>
+		of Apa Apollo. This is what has been assigned to you to pay
+			<lb n="16"/>
+		of your dia]g[raphon] over the canon of the 8th indiction, year 136 which is nomismata 2
+			<lb n="17"/>
+		(imp.)] and pay them in six instalments and pay them to the assistant of your village.
+			<lb n="18"/>
+		And take an entagion for them which he seals with his seal for a 
+			<lb n="19"/>
+		...] it is for a man if he were to die or rather
+			<lb n="20"/>
+		...] your assistant wants to give an entagion for you. Come
+			<lb n="21"/>
+		to me (if he asks) you for more than the amount you see in
+			<lb n="22"/>
+		your entagion. So that you know, I have drawn up this order for payment for you.
+</ab></div>
+</body>
+</text>
+</TEI>

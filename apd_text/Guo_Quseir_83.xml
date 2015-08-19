@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="989" xml:id="Guo_Quseir_83" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 83</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_83</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113730</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم أسما أهل 
+<lb n="2"/>  الكهف يمليخا ومكسملينا 
+<lb n="3"/>  وقالوس وبطونيوس وتواتر قال 
+<lb n="4"/>  كانوا يرون أنّها إذا كتبت وألقيت في 
+<lb n="5"/>  الحريق أن ذلك ليطفئ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾasmāʾu ʾahli 
+ <lb n="2"/>ăl kahfi yamlīḫā wa maksimilīnā 
+ <lb n="3"/>wa qālūsu wa baṭūniyūsu wa tawātara qāla 
+ <lb n="4"/>kānū yarūna ʾanna hā ʾiḏā kutibat wa ʾulqiyat fī 
+ <lb n="5"/>ăl ḥarīqi ʾanna ḏālika la yaṭfaʾu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. The names of the &#034;Men
+			<lb n="2"/>
+		of the Cave&#034; are: Yamlīkhā, Maksimilīnā,
+			<lb n="3"/>
+		Qālūs, Baṭūniyūs, and the remainder. It is said that
+			<lb n="4"/>
+		they saw to it that if these [names] were written down and then thrown in
+			<lb n="5"/>
+		the fire, the fire will be put out. 
+</ab></div>
+</body>
+</text>
+</TEI>

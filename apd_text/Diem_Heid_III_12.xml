@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2228" xml:id="Diem_Heid_III_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="7" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـی 
+<lb n="2"/>  يخدم ويستوحش من خدمة الجناب العالي المولوي الأميري 
+<lb n="3"/>  الأجلّی الكبيري المخدومي الصّارمي أدام الله مجده 
+<lb n="4"/>  وأنجح في الدّارين قصده بمحمّد وآله والّذي تحيط به ا<supplied reason="lost" cert="high">لـ</supplied>ـعلوم 
+<lb n="5"/>  <supplied reason="lost" cert="high">ا</supplied>لكريمة أن ا<supplied reason="lost" cert="high">لممـ</supplied>ـلوك كثير ا<supplied reason="lost" cert="high">لـ</supplied>ـشّوق إلی نظركم كثير وكذلك 
+<lb n="6"/>  الصّغار متلهّفيـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">إلی</supplied> نظركم كثير ومن وقت فارقنا 
+<lb n="7"/>  الولد علي حصل لنـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">يأ</supplied>س <supplied reason="lost" cert="high">يـ</supplied>ـايس لأجل عدم خبركم 
+<lb n="8"/>  ما علمنا خافي <supplied reason="lost" cert="high">خبركم</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">ظاهره</supplied> ولا <gap reason="illegible" extent="4" unit="character" />ـنوا 
+<lb n="9"/>  <supplied reason="lost" cert="high">عـ</supplied>ـلمنا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">علی</supplied> 
+<lb n="right margin 1"/>  طريق وتعرّف الحاجّـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">أ</supplied>ن تحضر وأن بنتها علی طريـ<supplied reason="lost" cert="high">ـق</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ما</supplied> 
+<lb n="right margin 2"/>  <supplied reason="lost" cert="high">تـ</supplied>ـحتاج النّفسا له من الحوايج و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والله</supplied> <supplied reason="lost" cert="high">لا</supplied> 
+<lb n="right margin 3"/>  <supplied reason="lost" cert="high">يعـ</supplied>ـد<supplied reason="lost" cert="high">منـ</supplied>ـي نظركم واجـ<supplied reason="lost" cert="high">ـتمـ</supplied>ـاعـ<supplied reason="lost" cert="high">ـی</supplied> بكم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>******y 
+ <lb n="2"/>yaḫdumu wa yastawḥišu min ḫidmaẗi ăl ǧanābi ăl ʿālī ăl mawlawiyyi ăl ʾamīriyyi 
+ <lb n="3"/>ăl ʾaǧalliyyi ăl kabīriyyi ăl maḫdūmiyyi ăṣ ṣārimiyyi ʾadāma ăl lāhu maǧda hu 
+ <lb n="4"/>wa ʾanǧaḥa fī ăd dārayni qaṣda hu bi muḥammad:in wa ʾāli hi wa ăllaḏī tuḥīṭu bi hi ăl ʿulūmu 
+ <lb n="5"/>ăl karīmaẗu ʾanna ăl mamlūka kaṯīru ăš šawqi ʾilà naẓari kum kaṯīr wa kaḏālika 
+ <lb n="6"/>ăṣ ṣiġāru mutalahhifīna ʾilà naẓari kum kaṯīr wa min waqti fāraqnā 
+ <lb n="7"/>ăl walada ʿaliyy ḥaṣala la nā yaʾs:un yāyis:un li ʾaǧali ʿadami ḫabari kum 
+ <lb n="8"/>mā ʿalimnā ḫāfiya ḫabari kum wa lā ẓāhira hu wa lā *Bnū 
+ <lb n="9"/>ʿalimnā *** 
+ <lb n="10"/>*** ʿalà 
+ <lb n="11"/>ṭarīq:in wa tuʿarrifu ăl ḥāǧǧaẗa ʾan taḥḍura wa ʾanna binta hā ʿalà ṭarīq:in *** mā 
+ <lb n="12"/>taḥtāǧu ăn nafsāʾu la hu min ăl ḥawāʾiǧi wa *** wa ăl lāhu lā 
+ <lb n="13"/>yuʿdimu nī naẓara kum wa ĭǧtimāʿ ī bi kum 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		(er) entbietet seine Dienste und gibt seiner Sehnsucht Ausdruck, der hohen Exzellenz des Patrons,
+			<lb n="3"/>
+		des gebietenden, großen, hochangesehenen Emirs Ṣārim ad-Dawlah - möge Gott, der Erhabene, seinem Ruhm Dauer schenken /
+			<lb n="4"/>
+		und seine Absicht im Diesseits und Jenseits zum Erfolge lenken || um Muḥammads und seiner Sippe willen - zu dienen. Was das
+			<lb n="5"/>
+		edle Wissen zur Kenntnis nehmen möge, ist, daß der Sklave überaus große Sehnsucht nach Eurem Anblick empfindet und auch
+			<lb n="6"/>
+		die Kleinen überaus kummervolles Verlangen [nach] Eurem Anblick verspüren! Seit dem Zeitpunkt, da
+			<lb n="7"/>
+		der Knabe ʿAlī von uns abgereist ist, hat sich bei uns allergrößte Verzweiflung wegen des Fehlens von Nachricht über Euch eingestellt,
+			<lb n="8"/>
+		und zwar haben wir nicht [die geringste Nachricht über Euch] erfahren, und nicht [...]........
+			<lb n="9"/>
+		haben wir erfahren
+			<lb n="10"/>
+		[*** in]
+			<lb n="11"/>
+		gewisser Weise. Teile der Ḥāǧǧah mit, [da]ß sie (hier) erscheinen soll. Ihre Tochter ist in gewisser Wei[se (mehrere Wörter) das,]
+			<lb n="12"/>
+		dessen die Wöchnerin an Dingen bedarf, und [(mehrere Wörter). Gott]
+			<lb n="13"/>
+		[lasse] mich [nicht] Eures Anblicks und des Zusammentreffens mit Euch entbehren!
+</ab></div>
+</body>
+</text>
+</TEI>

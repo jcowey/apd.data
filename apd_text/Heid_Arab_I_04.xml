@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="35" xml:id="Heid_Arab_I_04" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 04</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_04</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106483</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  ا <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  اللّه <app type="BL"><lem resp="APD">مجزيه </lem><rdg resp="“Diem, Aphrodito p. 254”">مجزيه</rdg></app> فـ<unclear reason="undefined" cert="high">ـيه</unclear> 
+ <lb n="3"/>  فإذا جاك كـ<supplied reason="lost" cert="high">ـتبي</supplied> <supplied reason="lost" cert="high">هذ</supplied> 
+ <lb n="4"/>  ا ڤإرسل الى 
+ <lb n="5"/>  في <app type="BL"><lem resp="APD">الخشب </lem><rdg resp="“Becker, P.Heid.Arab. I 4; Becker, Papyrusstudien p. 146”">الخشب</rdg></app> فإن لم <supplied reason="lost" cert="high">تجده</supplied> 
+ <lb n="6"/>  فأرسل إلي بابنه <supplied reason="lost" cert="high">أو</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بنيه</supplied> </lem><rdg resp="APD">ببنيه</rdg></app> 
+ <lb n="7"/>  فإن لم يك له ابن <supplied reason="lost" cert="high">فأرسل</supplied> <supplied reason="lost" cert="high">إليّ</supplied> 
+ <lb n="8"/>  بامرأته وإن لم يـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">له</supplied> 
+ <lb n="9"/>  حميل فأرسل <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">بصحب</supplied> 
+ <lb n="10"/>  قريته فإنّه لا رخـ<supplied reason="lost" cert="high">ـصة</supplied> 
+ <lb n="11"/>  عندي لأحد من أ<unclear reason="undefined" cert="high">هـ</unclear><supplied reason="lost" cert="high">ـل</supplied> 
+ <lb n="12"/>  الأرض انتهك <supplied reason="lost" cert="high">أو</supplied> <supplied reason="lost" cert="high">عمل</supplied> 
+ <lb n="13"/>  شيا من المعـ<supplied reason="lost" cert="high">ـاصى</supplied> 
+ <lb n="14"/>  وقد أرسلت <supplied reason="lost" cert="high">إلى</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الكور</supplied> </lem><rdg resp="“Diem, Frühe Urkunden p. 153”">العمّال</rdg></app> 
+ <lb n="15"/>  <app type="BL"><lem resp="“Becker; Diem, Frühe Urkunden p. 153”">بكتـ<supplied reason="omitted" cert="high">ـبـ</supplied>ـات </lem><rdg resp="dots of tāʾ shifted to bāʾ “AK”">بكتاب</rdg></app> اسمه <supplied reason="lost" cert="high">واسم</supplied> 
+ <lb n="16"/>  أبيه وقريته <supplied reason="lost" cert="high">وصفته</supplied> 
+ <lb n="17"/>  والسلم عـ<supplied reason="lost" cert="high">ـلى</supplied> 
+ <lb n="18"/>  من اتّبع ا<supplied reason="lost" cert="high">لهدى</supplied> 
+ <lb n="19"/>  كپپ عبد اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">في</supplied> 
+ <lb n="20"/>  شهر ربيع الأول <supplied reason="lost" cert="high">من</supplied> 
+ <lb n="21"/>  <unclear reason="undefined" cert="high">سنة</unclear> تسعين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾ *** 
+ <lb n="2"/>ăl lāhu muǧzī muḫzī hi fī hi 
+ <lb n="3"/>fa ʾiḏā ǧāʾa ka kitāb ī hāḏā 
+ <lb n="4"/>fa ʾarsil ʾilay ya bi hi 
+ <lb n="5"/>fī ăl ḫašabi ḥisābi fa ʾin lam taǧid hu 
+ <lb n="6"/>fa ʾarsil ʾilay ya bi ĭbni hi ʾaw ø bi banī hi 
+ <lb n="7"/>fa ʾin lam yaku la hu ĭbn:un fa ʾarsil ʾilay ya 
+ <lb n="8"/>bi ĭmraʾati hi wa ʾin lam yaku la hu 
+ <lb n="9"/>ḥamīl:un fa ʾarsil ʾilay ya bi ṣāḥibi 
+ <lb n="10"/>qaryati hi fa ʾinna hu lā ruḫṣaẗa 
+ <lb n="11"/>ʿind ī li ʾaḥad:in min ʾahli 
+ <lb n="12"/>ăl ʾarḍi ĭntahaka ʾaw ʿamila 
+ <lb n="13"/>šayʾ:an mina ăl maʿāṣī 
+ <lb n="14"/>wa qad ʾarsaltu ʾilà ăl ʿummāli kuwari 
+ <lb n="15"/>bi kitabāti kitābi ĭsmi hi wa ĭsmi 
+ <lb n="16"/>ʾabī hi wa qaryati hi wa ṣifati hi 
+ <lb n="17"/>wa ăs salāmu ʿalà 
+ <lb n="18"/>mani ĭttabaʿa ăl hudà 
+ <lb n="19"/>wa kataba ʿabdu ăl lāhi fī 
+ <lb n="20"/>šahri rabīʿa ăl ʾawwali min 
+ <lb n="21"/>sanaẗi tisʿīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="2"/>
+ 	  [...] Gott läßt ihm diesbezüglich den entsprechenden Lohn zukommen [...]
+ 	  Gott wird ihn mit Schande bedecken -- [ --
+		 <lb n="3"/>
+ 	  Und wenn [dies]er [mein] B[rief] zu Dir kommt,
+		 <lb n="4"/>
+ 	  So schicke mir [ihn (den Übeltäter)]
+		 <lb n="5"/>
+ 	  ... und wenn [Du ihn nicht findest,]
+		 <lb n="6"/>
+ 	  So schicke mir seinen Sohn [oder seine Söhne]
+		 <lb n="7"/>
+ 	  Und wenn er keinen Sohn hat, [so schicke mir]
+		 <lb n="8"/>
+ 	  Seine Frau. Und wenn er [(überhaupt) niemanden hat]
+		 <lb n="9"/>
+ 	  Der für ihn eintritt, so schicke [mir den Vorsteher]
+		 <lb n="10"/>
+ 	  Seines Ortes. Denn keine Nach[sicht]
+		 <lb n="11"/>
+ 	  Gibt es bei mir für einen von dem L[and]volk,
+		 <lb n="12"/>
+ 	  Der plündert [oder] irgend
+		 <lb n="13"/>
+ 	  Etwas von Ü[bertretungen sich zuschulden kommen läßt]
+		 <lb n="14"/>
+ 	  Und ich habe [nach den verschiedenen Distrikten] gesandt
+		 <lb n="15"/>
+ 	  Die Angabe (?) seines Namens [und des Namens]
+		 <lb n="16"/>
+ 	  Seines Vaters und seiner Ortschaft [und sein Signalement]
+		 <lb n="17"/>
+ 	  Und Heil sei über den,
+		 <lb n="18"/>
+ 	  Welcher der Rechtleitung folgt.
+		 <lb n="19"/>
+ 	  Geschrieben hat (dies) ʿAbdallāh im
+		 <lb n="20"/>
+ 	  Monat Rabīʿ I
+		 <lb n="21"/>
+ 	  Des Jahres neunzig.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="753" xml:id="Grohmann_FWAP_p_134" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 134</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_FWAP_p_134</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106829</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم نفقة <supplied reason="omitted" cert="high">الجند بــ</supplied>ـالفيّوم 
+<lb n="2"/>  ‮قرطاس واحد ‪ς‬ 
+<lb n="3"/>  ‮ثلث قرطاس قيراطين ‪ιʹβʹ‬ 
+<lb n="4"/>  ‮خبز للجند ‪ε‬ 
+<lb n="5"/>  ‮جبن ‪αχ‬ 
+<lb n="6"/>  ‮زيت ‪χ‬ 
+<lb n="7"/>  ‮فذلك ‪ιεχʹ‬ 
+<lb n="8"/>  ‮يوم الثّلثا نفقة الجند 
+<lb n="9"/>  بأهناس 
+<lb n="10"/>  ‮جبن للفرسان ‪δ‬ لحم ‪δ‬‬ 
+<lb n="11"/>  ‮جبن لرّجّالة ‪γ‬ لحم ‪γ‬‬ 
+<lb n="12"/>  ‮ستّة حصر ‪γ‬ حطب ‪γ 
+<lb n="13"/>  ‮خل لرّجّالة ‪χ‬ بصل وأبزار ‪χ 
+<lb n="14"/>  ‮للرّجّالة ‪‬ 
+<lb n="15"/>  ‮شعير ‪‪χκ΄δ΄͵γ΄͵δ΄‬‬ خل وزيت ‪χ 
+<lb n="16"/>  ثلثة عشر ويبة للفرسان 
+<lb n="17"/>  يوم الأربعا 
+<lb n="18"/>  ‮شعير ‪‪‪ι΄β΄χ͵γ΄ 
+<lb n="19"/>  ويبتين 
+<lb n="20"/>  يوم الخميس 
+<lb n="21"/>  زيت وبصل وأبزار 
+<lb n="22"/>  ‮خبز ‪α‬ لحم ‪α‬ حوائج ‪χ‬‬ 
+<lb n="23"/>  <app type="BL"><lem resp="APD">‮جيّد </lem><rdg resp="Diem÷ uncertain reading">خياطة</rdg></app> <app type="BL"><lem resp="APD">طلا </lem><rdg resp="Diem÷ uncertain reading">ø</rdg></app> <app type="BL"><lem resp="APD">رائق </lem><rdg resp="Diem÷ uncertain reading">أثواب</rdg></app> ‪‪α‬‬ شعير ويبة ‪αγ΄ι΄β΄‬ 
+<lb n="24"/>  ‮شعير للمستحب ويبتين ‪‪‪ι΄β΄χγ΄‬‬‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi nafaqaẗu ăl ǧundi bi ăl fayyūmi 
+ <lb n="2"/>qirṭās:un wāḥid:un 6 
+ <lb n="3"/>ṯulṯu qirṭāsi qīrāṭayni 1/12 
+ <lb n="4"/>ḫubz:un li l ǧundi 5 
+ <lb n="5"/>ǧubn:un 1+2/3 
+ <lb n="6"/>zayt:un 1/2 
+ <lb n="7"/>fa ḏālika 15+1/6 
+ <lb n="8"/>yawmu ăṯ ṯulāṯāʾi nafaqaẗu ăl ǧundi 
+ <lb n="9"/>bi ʾahnāsa 
+ <lb n="10"/>ǧubn:un li l fursāni 4 laḥm:un 4 
+ <lb n="11"/>ǧubn:un li r raǧǧālaẗi 3 laḥm:un 3 
+ <lb n="12"/>sittaẗu ḥuṣur:in 3 ḥaṭab:un 1/2 
+ <lb n="13"/>ḫall:un li r raǧǧālaẗi 1/2 baṣal:un wa ʾabzār:un 1/2 
+ <lb n="14"/>li r raǧǧālaẗi wa ǧazar:un 
+ <lb n="15"/>šaʿīr:un 1/2+1/24+1/72+1/96 ḫall:un wa zayt:un 1/2 
+ <lb n="16"/>ṯalāṯaẗa ʿašara waybaẗ:an li l fursāni 
+ <lb n="17"/>yawmu ăl ʾarbaʿāʾi 
+ <lb n="18"/>šaʿīr:un 1/12+1/48+1/72 
+ <lb n="19"/>waybatayni 
+ <lb n="20"/>yawmu ăl ḫamīsi 
+ <lb n="21"/>zayt:un wa baṣal:un wa ʾabzār:un 
+ <lb n="22"/>ḫubz:un 1 laḥm:un 1 ḥawāʾiǧu 1/2 
+ <lb n="23"/>ǧayyidu ḫiyāṭaẗu ṭilāʾ:in ø rāʾiq:un ʾaṯwāb:in 1 šaʿīr:un waybaẗ:un 1+1/3+1/12 
+ <lb n="24"/>šaʿīr:un li l mustaḥabbi waybatayni 1/12+1/48+1/3 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!. Disbursements &lt;for the troops in&gt; al-Fayyûm:
+			<lb n="2"/>
+		One papyrus-roll | 6
+			<lb n="3"/>
+		a third of a papyrus-roll for two carats | 1/12
+			<lb n="4"/>
+		bread for the troops | 5
+			<lb n="5"/>
+		cheese | 1 2/3
+			<lb n="6"/>
+		oil | 1/2
+			<lb n="7"/>
+		that makes | 15 1/6
+			<lb n="8"/>
+		Tuesday. Disbursements for the troops
+			<lb n="9"/>
+		in Ehnâs :
+			<lb n="10"/>
+		Cheese for the riders 4 meat | 4
+			<lb n="11"/>
+		cheese for the foot-soldiers 3 meat | 3
+			<lb n="12"/>
+		six mats 3 fire-wood 1/2
+			<lb n="13"/>
+		vinegar for the foot-soldiers 1/2 onions, turnips
+			<lb n="14"/>
+		and vegetables for the foot-soldiers 1/2
+			<lb n="15"/>
+		barley, 1/2+1/24+1/3 carat +1/4 carat, vinegar and oil for the riders 1/2
+			<lb n="16"/>
+		thirteen waibas,
+			<lb n="17"/>
+		Wednesday:
+			<lb n="18"/>
+		barley | 1/12+1/48+1/3 carat
+			<lb n="19"/>
+		two waibas
+			<lb n="20"/>
+		Thursday:
+			<lb n="21"/>
+		oil, onions and vegetable
+			<lb n="22"/>
+		bread 1 meat 1 (various) articles | 1/2
+			<lb n="23"/>
+		clear grape-juice of best quality 1 barley one waiba 1 1/3+1/12
+			<lb n="24"/>
+		barley at discretion two waibas 1/12+1/48+1/3 carat
+</ab></div>
+</body>
+</text>
+</TEI>

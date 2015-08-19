@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1054" xml:id="Diem_FrueheUrkunden_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 02</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168924</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  من عبد العزيز بن مرون الأمير <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">أهل</supplied> 
+<lb n="recto 3"/>  وپ كورة أهناس وإلى أ<supplied reason="lost" cert="high">هل</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  رمضن الّذ<supplied reason="lost" cert="high">ي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl ʿazīzi bni marwāna ăl ʾamīri ʾilà ʾahli 
+ <lb n="3"/>ḥurūṯi kūraẗi ʾahnāsa wa ʾilà ʾahli *** 
+ <lb n="4"/>ramaḍāna ăllaḏī *** 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen des barmherzigen und gnädigen Gottes
+			<lb n="2"/>
+		Von ʿAbdalʿazīz ibn Marwān, dem Amīr, a[n die Leute der Ackerl]
+			<lb n="3"/>
+		änder der Provinz Ahnās und an die L[eute
+			<lb n="4"/>
+		Ramaḍān, welch[er
+			<lb n="5"/>
+</ab></div>
+</body>
+</text>
+</TEI>

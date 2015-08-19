@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2432" xml:id="Little_TwoPetitions_03" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.LittleTwoPetitions 3</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Little_TwoPetitions_03</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="upper left corner 1"/>  ادّعي به بطريقه 
+ <lb n="1 left"/>  الحمد للّه وحده 
+ <lb n="2 left"/>  أشهدني سيّدنا ومولانا العبد الفقير إلى اللّه سبحانه الرّاجي عفوه وغفرانه قاضي المسلمين 
+ <lb n="3 left"/>  صدر المدرّسين بقية السّلف الصّالحين أبو الرّوح شرف الدّين عيسى ابن العبد 
+ <lb n="4 left"/>  الفقير إلى اللّه عز وجل الشّيخ الإمام العلّامة مفتي المسلمين شيخ الشّيوخ 
+ <lb n="5 left"/>  جمال الدّين أبي <gap reason="illegible" precision="low" extent="3"/> الجود غانم الشّافعي الأنصاري الخزرجي الحاكم بالقدس الشّريف 
+ <lb n="6 left"/>  وأعمالها وشيخ شيوخها وناظر أوقافها أدام اللّه شرفه ورحم سلفه أنّه ثبّت 
+ <lb n="7 left"/>  عنده وصح لديه أحسن اللّه إليه بعد الدّعوى الشّرعيّة مضمون ما قامت به البيّنة 
+ <lb n="8 left"/>  باطنا بعد الحلف الشّرعي ثبوتا صحيحا شرعيّا فشهدت عليه بذلك في ثالث شهر ربيع 
+ <lb n="9 left"/>  الأوّل سنة سبع وتسعين وسبعمائة والحمد لله وحده وصلّى اللّه على محمّد وآله وصحبه 
+ <lb n="10 left"/>  كتبه عبد اللّه بن سليمان المالكي 
+ <lb n="11 left"/>  كذلك أشهدني سيّدنا الحاكم المشار إليه أعلاه أيّده اللّه تعالى فشهدت عليه بذلك 
+ <lb n="12 left"/>  بتأريخه كتبه أحمد بن سليمان 
+ <lb n="13 left"/>  كذلك أشهدني سيّدنا الحاكم المشار إليه أعلاه أيّده اللّه تعالى فشهدت <app type="BL"><lem resp="APD">على </lem><rdg resp="UB">عليه</rdg></app> بذلك <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14 left"/>  كتبه أحمد بن <unclear reason="undefined" cert="high">شوهيم</unclear> 
+ <lb n="15 left"/>  كذلك أشهدني سيّدنا الحاكم المشار إليه أعلاه أيّده اللّه تعالى فشهدت عليه بذلك 
+ <lb n="16 left"/>  كتبه محمّد بن أحمد الحسباني 
+ <lb n="1 right"/>  الحمد للّه وحده 
+ <lb n="2 right"/>  أقر محمّد بن أحمد الصّفدي المشهود له باطنا وقد عرفه شهوده إقرارا صحيحا شرعيّا 
+ <lb n="3 right"/>  في صحّة منه وسلامة وجواز أمر أنّه قبض وتسلّم وصار إليه من مودع الحكم العزيز 
+ <lb n="4 right"/>  الشّافعي أجلّه اللّه تعالى وأدام أيّام متولّيه 
+ <lb n="5 right"/>  تسعة أرطال وربع فلوس بالرّطل القدسي وذلك ما كان له مودعا في تركة المرحوم 
+ <lb n="6 right"/>  محمّد بن نجيب المتوفّى إلى رحمة اللّه تعالى بعد أن ثبّت ذلك بطريقه الشّرعي وبعد الحلف الشّرعي 
+ <lb n="7 right"/>  <unclear reason="undefined" cert="high">و</unclear>قبضا صحيحا شرعيّا تامّا كاملا ولم يتأخّر له من ذلك الدّرهم الفرد 
+ <lb n="8 right"/>  وأقر المقر المذكور أعلاه أنّه لم يبق يستحق في مودع الحكم العزيز ولا في تركة 
+ <lb n="9 right"/>  محمّد بن نجيب المذكور شيئا <gap reason="illegible" precision="low" extent="3"/> قل ولا جل ووكّل في ثبوته بطريقه الشّرعي وبه شهد 
+ <lb n="10 right"/>  في ثامن شهر ربيع الأوّل شهور سنة سبع وتسعين وسبعمائة الحمد للّه وحده 
+ <lb n="11 right a"/>  شهدت على إقراره بذلك 
+ <lb n="12 right a"/>  كتبه أحمد بن <unclear reason="undefined" cert="high">الجلال</unclear> 
+ <lb n="13 right a"/>  أشهد عليه بذلك 
+ <lb n="14 right a"/>  كتبه عبد الرّحمن أحمد الـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11 right b"/>  والمضروب عليه ساقط لا حقيقة وصورته 
+ <lb n="12 right b"/>  من الدّراهم الفضّة الجيّدة معاملة الشّام المحروس 
+ <lb n="13 right b"/>  شهد عليه بذلك 
+ <lb n="14 right b"/>  كتبه ناصر بن سالم <unclear reason="undefined" cert="high">الشّافعيّ</unclear> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ŭdduʿiya bi hi bi ṭarīqi hi 
+ <lb n="2"/>ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="3"/>ʾašhada nī sayyidu nā wa mawlā nā ăl ʿabdu ăl faqīru ʾilà ăl lāhi subḥāna hu ăr rāǧī ʿafwa hu wa ġufrāna hu qāḍī ăl muslimīna 
+ <lb n="4"/>ṣadru ăl mudarrisīna baqiyyaẗu ăs salafi ăṣ ṣāliḥīna ʾabū ăr rūḥi šarafu ăd dīni ʿīsà ĭbnu ăl ʿabdi 
+ <lb n="5"/>ăl faqīri ʾilà ăl lāhi ʿazza wa ǧalla ăš šayḫi ăl ʾimāmi ăl ʿallāmaẗi muftī ăl muslimīna šayḫi ăš šuyūḫi 
+ <lb n="6"/>ǧamāli ăd dīni ʾabī *** ăl ǧūdi ġānim:ini ăš šāfiʿiyyi ăl ʾanṣāriyyi ăl ḫazraǧiyyi ăl ḥākimi bi ăl qudsi ăš šarīfi 
+ <lb n="7"/>wa ʾaʿmāli hā wa šayḫi šuyūḫi hā wa nāẓiri ʾawqāfi hā ʾadāma ăl lāhu šarafa hu wa raḥima salafa hu ʾanna hu ṯabata 
+ <lb n="8"/>ʿinda hu wa ṣaḥḥa laday hi ʾaḥsana ăl lāhu ʾilay hi baʿda ăd daʿwà ăš šarʿiyyaẗi maḍmūnu mā qāmat bi hi ăl bayyinaẗu 
+ <lb n="9"/>bāṭin:an baʿda ăl ḥilfi ăš šarʿiyyi ṯubūt:an ṣaḥīḥ:an šarʿiyy:an fa šahidtu ʿalay hi bi ḏālika fī ṯāliṯi šahri rabīʿa 
+ <lb n="10"/>ăl ʾawwali sanaẗa sabʿ:in wa tisʿīna wa sabʿi miʾaẗ:in wa ăl ḥamdu li l lāhi waḥda hu wa ṣallà ăl lāhu ʿalà muḥammad:in wa ʾāli hi wa ṣaḥbi hi 
+ <lb n="11"/>kataba hu ʿabdu ăl lāhi bnu sulaymāna ăl mālikiyyu 
+ <lb n="12"/>kaḏālika ʾašhada nī sayyidu nā ăl ḥākimu ăl mušāru ʾilay hi ʾaʿlā hu ʾayyada hu ăl lāhu taʿālà fa šahidtu ʿalay hi bi ḏālika 
+ <lb n="13"/>bi taʾrīḫi hi kataba hu ʾaḥmadu bnu sulaymāna 
+ <lb n="14"/>kaḏālika ʾašhada nī sayyidu nā ăl ḥākimu ăl mušāru ʾilay hi ʾaʿlā hu ʾayyada hu ăl lāhu taʿālà fa šahidtu ʿalà ʿalay ø hi bi ḏālika *** 
+ <lb n="15"/>kataba hu ʾaḥmadu bnu šūhayma 
+ <lb n="16"/>kaḏālika ʾašhada nī sayyidu nā ăl ḥākimu ăl mušāru ʾilay hi ʾaʿlā hu ʾayyada hu ăl lāhu taʿālà fa šahidtu ʿalay hi bi ḏālika 
+ <lb n="17"/>kataba hu muḥammadu bnu ʾaḥmada ăl ḥusbāniyyu 
+ <lb n="18"/>ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="19"/>ʾaqarra muḥammadu bnu ʾaḥmada ăṣ ṣafadiyyu ăl mašhūdu la hu bāṭin:an wa qad ʿarafa hu šuhūdu hu ʾiqrār:an ṣaḥīḥ:an šarʿiyy:an 
+ <lb n="20"/>fī ṣiḥḥaẗ:in min hu wa salāmaẗ:in wa ǧawāzi ʾamr:in ʾanna hu qabaḍa wa tasallama wa ṣāra ʾilay hi min mūdaʿi ăl ḥukmi ăl ʿazīzi 
+ <lb n="21"/>ăš šāfiʿiyyi ʾaǧalla hu ăl lāhu taʿālà wa ʾadāma ʾayyāma mutawallī hi 
+ <lb n="22"/>tisʿaẗu ʾarṭāl:in wa rubʿ:un fulūs:in bi ăr raṭli ăl qudsiyyi wa ḏālika mā kāna la hu mūdaʿ:an fī tarikaẗi ăl marḥūmi 
+ <lb n="23"/>muḥammadi bni naǧīb:ini ăl mutawaffà ʾilà raḥmaẗi ăl lāhi taʿālà baʿda ʾan ṯubbita ḏālika bi ṭarīqi hi ăš šarʿiyyi wa baʿda ăl ḥilfi ăš šarʿiyyi 
+ <lb n="24"/>wa qabḍ:an ṣaḥīḥ:an šarʿiyy:an tāmm:an kāmil:an wa lam yataʾaḫḫar la hu min ḏālika ăd dirhamu ăl fardu 
+ <lb n="25"/>wa ʾaqarra ăl muqirru ăl maḏkūru ʾaʿlā hu ʾanna hu lam yabqa yastaḥiqqu fī mūdaʿi ăl ḥukmi ăl ʿazīzi wa lā fī tarikaẗi 
+ <lb n="26"/>muḥammadi bni naǧīb:ini ăl maḏkūri šayʾ:an *** qalla wa lā ǧalla wa wakkala fī ṯubūti hi bi ṭarīqi hi ăš šarʿiyyi wa bi hi šahida 
+ <lb n="27"/>fī ṯāmini šahri rabīʿa ăl ʾawwali šuhūri sanaẗa sabʿ:in wa tisʿīna wa sabʿi miʾaẗ:in ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="28"/>šahidtu ʿalà ʾiqrāri hi bi ḏālika 
+ <lb n="29"/>kataba hu ʾaḥmadu bnu ăl ǧalāli 
+ <lb n="30"/>ʾašhadu ʿalay hi bi ḏālika 
+ <lb n="31"/>kataba hu ʿabdu ăr raḥmāni ʾaḥmadu ăl *** 
+ <lb n="32"/>wa ăl maḍrūbu ʿalay hi sāqiṭ:un lā ḥaqīqaẗ:un wa ṣūraẗu hu 
+ <lb n="33"/>mina ăd darāhimi ăl fiḍḍaẗi ăl ǧayyidaẗi muʿāmalaẗa ăš šāmi ăl maḥrūsi 
+ <lb n="34"/>šahida ʿalay hi bi ḏālika 
+ <lb n="35"/>kataba hu nāṣiru bnu sālim:ini ăš šāfiʿiyyu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  It was claimed in its (legal) manner.
+		 <lb n="2"/>
+ 	  Praise be to God alone!
+		 <lb n="3"/>
+ 	  I was called upon as witness by Our Lord and Master the Servant Needy of God, be He praised, desirous of His pardon and forgiveness, qāḍī of the Muslims,
+		 <lb n="4"/>
+ 	  Chief of the Teachers, Survivor of the Virtuous Forefathers, Abū al-Rūḥ Sharaf al-Dīn ʿĪsā son of the servant
+		 <lb n="5"/>
+ 	  Needy of God the Exalted and Mighty, al-Shaykh al-Imām, the Erudite muftī of the Muslims, Chief Shaykh
+		 <lb n="6"/>
+ 	  Jamāl al-Dīn Abū l-Jūd Ghānim al-Shāfiʿī al-Anṣārī al-Khazrajī, Magistrate in Jerusalem the Noble
+		 <lb n="7"/>
+ 	  and its districts, its Chief Shaykh and Supervisor of its Endowments, may God perpetuate his nobility and have mercy on his ancestors, (to testify) that there was certification
+		 <lb n="8"/>
+ 	  before him and confirmed in his presence, may God be kind to him, after a legal claim, the contents of which was established by the witnesses
+		 <lb n="9"/>
+ 	  on recto after a legal oath: legal, valid certifiaction. I was witness to him in that on 3 Rabīʿ I
+		 <lb n="10"/>
+ 	  797/27 December 1394. Praise be to God alone! May He bless Muḥammad, his family, and his companions.
+		 <lb n="11"/>
+ 	  Written by ʿAbd Allāh b. Sulaymān al-Mālikī.
+		 <lb n="12"/>
+ 	  Likewise Our Lord the above-mentioned Magistrate, may God the Exalted support him, called upon me as witness, and I was witness to him in that
+		 <lb n="13"/>
+ 	  on its date. Written by Aḥmad b. Sulaymān.
+		 <lb n="14"/>
+ 	  Likewise Our Lord the above-mentioned Magistrate, may God the Exalted support him, called upon me as witness, and I was witness to him in that.
+		 <lb n="15"/>
+ 	  Written by Aḥmad b. Shuhaym (?).
+		 <lb n="16"/>
+ 	  Likewise Our Lord the above-mentioned Magistrate, may God the Exalted support him, called upon me as witness, and I was witness to him in that.
+		 <lb n="17"/>
+ 	  Written by Muḥammad b. Aḥmad al-Ḥusbānī.
+		 <lb n="18"/>
+ 	  Praise be to God alone!
+		 <lb n="19"/>
+ 	  Muḥammad b. Aḥmad al-Ṣafadī, for whom testimony was given on recto, being known to its (i.e. the iqrār&#039;s) witnesses, made a valid, legal acknowledgement
+		 <lb n="20"/>
+ 	  in health, soundness of mind, and free disposal of his affairs, that he had taken possession, received, and obtained from the Depository of the Esteemed Court
+		 <lb n="21"/>
+ 	  of the Shāfiʿī (judge), may God perpetuate his days, dirhams of good alloy current in Damascus the well-guarded,
+		 <lb n="22"/>
+ 	  nine and one-quarter raṭls of copper coins of Jerusalem weight, these being what belonged to him as a deposit in the estate of the deceased
+		 <lb n="23"/>
+ 	  Muḥammad b. Najīb, who passed into the mercy of God the Exalted. After that was certified in the legal manner and (the swearing of) a legal oath,
+		 <lb n="24"/>
+ 	  (he took?) complete and absolute legal possession without deferral of a single dirham.
+		 <lb n="25"/>
+ 	  The acknowledger mentioned above acknowledged that he no longer had any entitlement to the Depository of the Esteemed Court nor to the estate
+		 <lb n="26"/>
+ 	  of the mentioned Muḥammad b. Najīb, neither great nor small. He made a warrant of attorney for its certification in a legal manner. He so testified
+		 <lb n="27"/>
+ 	  on 8 Rabīʿ I 797/1 January 1395. Praise be to God alone.
+		 <lb n="28"/>
+ 	  I was witness to his acknowledgment of that.
+		 <lb n="29"/>
+ 	  Written by Aḥmad b. al-Jalāl (?)
+		 <lb n="30"/>
+ 	  I am witness to him in that.
+		 <lb n="31"/>
+ 	  Written by ʿAbd al-Raḥmān Aḥmad al-[?]
+		 <lb n="32"/>
+ 	  The phrase marked out is null and void, its from being
+		 <lb n="33"/>
+ 	  &#034;dirhams of good alloy current in Damascus the well guarded.&#034;
+		 <lb n="34"/>
+ 	  He was witness to him in that.
+		 <lb n="35"/>
+ 	  Written by Nāṣir b. Sālim al-Shāfiʿī (?).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

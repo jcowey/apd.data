@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2200" xml:id="Diem_Terminkauf_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Terminkauf 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Terminkauf_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حقّ</supplied> <gap reason="illegible" extent="2" unit="character" />حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> بـ<supplied reason="lost" cert="high">ـن</supplied> أحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـد بن حمد<supplied reason="lost" cert="high">و</supplied>ن الـ<supplied reason="lost" cert="high">ـسّاكن</supplied> مدينة أشمون علـ<supplied reason="lost" cert="high">ـی</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="AKL">السّاكن</rdg></app> <supplied reason="lost" cert="high">أشـ</supplied>ـمون لـ<supplied reason="lost" cert="high">ـه</supplied> عليه خمس أرادب قمح مدوّر أ<supplied reason="lost" cert="high">سمر</supplied> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> يوفّيه ذلك بالويبة الإبراهيميّة ا<supplied reason="lost" cert="high">لـ</supplied>ـوا<supplied reason="lost" cert="high">فية</supplied> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">شهور</supplied> القبط <supplied reason="lost" cert="high">فـ</supplied>ـي سنة تسع وثمانين وما <supplied reason="lost" cert="high">پپپـ</supplied>ـن 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">ا</unclear><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـپپن</unclear> </lem><rdg resp="Diem">ثمانين</rdg></app> <supplied reason="lost" cert="high">عـ</supplied><unclear reason="undefined" cert="high">ـليه</unclear> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">پحمل</unclear> </lem><rdg resp="Diem">يحمل </rdg><rdg resp="Diem">تحمّل</rdg></app> <app type="BL"><lem resp="APD">پدڤع </lem><rdg resp="AKL">يدفع</rdg></app> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">اشـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="Diem">اشهد </rdg><rdg resp="Diem">اشمون</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi **ḥ* bni ʾaḥmada bni ḥamdūna ăs sākini madīnaẗa ʾušmūna ʿalà *** *** 
+ <lb n="3"/>*** ăs sākini ʾušmūna la hu ʿalay hi ḫamsu ʾarādiba qamḥ:in mudawwar:in ʾasmara 
+ <lb n="4"/>*** *** yuwaffī hi ḏālika bi ăl waybaẗi ăl ʾibrāhīmiyyaẗi ăl wāfiyaẗi fī 
+ <lb n="5"/>*** min šuhūri ăl qibṭi fī sanaẗi tisʿ:in wa ṯamānīna wa miʾatayni wa *** 
+ <lb n="6"/>*** ***ʾ*BBn ṯamānīna ʿalay hi Bḥml taḥammala yaḥmila Bdfʿ yadfaʿa ***** 
+ <lb n="7"/>*** ***ʾš*** ʾašhada ʾušmūn *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Na]men Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="2"/>
+		[Anrechtsschein des ...] ... ibn Aḥ[ma]d ibn Ḥamd[ū]n, w[ohnhaft] in der Stadt Ušmūn, zu La[sten von] ... [...]
+			<lb n="3"/>
+		[... Ušm]ūn, (und zwar) schuldet ih[m] dieser fünf Irdabb Weizen, runden, br[aunen]
+			<lb n="4"/>
+		[...] wobei er ihm dies in vol[ler] Ibrāhīmischer Waybah vollständig übergeben wird [im (Monat)] 
+			<lb n="5"/>
+		[... von den Monaten] der Kopten [i]m Jahre zw[ei]hundertundneunundachtzig, und [...]
+			<lb n="6"/>
+		[... acht]zig (?). Ihm obliegt Transport (?) (und) Ablieferung (?) ..[...]
+			<lb n="7"/>
+</ab></div>
+</body>
+</text>
+</TEI>

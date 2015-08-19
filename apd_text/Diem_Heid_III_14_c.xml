@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2238" xml:id="Diem_Heid_III_14_c" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 14c</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_14_c</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  السّيّديّة الأبويّة الأسعد<supplied reason="lost" cert="high">يّة</supplied> أدام الله أمره 
+<lb n="verso 2"/>  بعد الشّوق <gap reason="illegible" precision="low" extent="3"/> اما <gap reason="illegible" extent="2" unit="character" /> پپم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ا <supplied reason="lost" cert="high">مـ</supplied>ـشتاق إ<supplied reason="lost" cert="high">ليه</supplied> 
+<lb n="verso 4"/>  ويسيّر للمملوك من البيت الـ<supplied reason="lost" cert="high">ـكـ</supplied>ـريم 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> مملوك مو<supplied reason="lost" cert="high">لانا</supplied> <supplied reason="lost" cert="high">من</supplied> عنده البقيّة علی 
+<lb n="verso 6"/>  طلبهم فيسيّر <expan><ex>در</ex><abbr>هم</abbr></expan> فول واحد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăs sayyidiyyaẗu ăl ʾabawiyyaẗu ăl ʾasʿadiyyaẗu ʾadāma ăl lāhu ʾamra hu 
+ <lb n="2"/>baʿda ăš šawqi *** ʾmʾ ** BBm *** 
+ <lb n="3"/>** *** ***ʾ muštāq ʾilay hi 
+ <lb n="4"/>wa yusayyiru li l mamlūki mina ăl bayti ăl karīmi 
+ <lb n="5"/>*** mamlūki mawlā nā min ʿinda hu ăl baqiyyaẗa ʿalà 
+ <lb n="6"/>ṭalabi him fa yusayyiru dirhama fūl:in wāḥid 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(An) die überaus glückliche väterliche, gebieterliche (Exzellenz) - Gott gewähre ihm (!) weiterhin Befehlsgewalt -
+			<lb n="2"/>
+		nach (dem Ausdruck) der Sehnsucht [...] .....................
+			<lb n="3"/>
+		...[...] .. empfindet Sehnsucht nach [ihm]
+			<lb n="4"/>
+		und er sende dem Sklaven aus dem [ed]len Haus
+			<lb n="5"/>
+		[...] des (?) Sklaven [unseres] Pat[rons von] sich den Rest gemäß
+			<lb n="6"/>
+		ihrem Verlangen, und so sende er (für) einen (Dir)ham Bohnen.
+</ab></div>
+</body>
+</text>
+</TEI>

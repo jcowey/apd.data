@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1057" xml:id="Diem_FrueheUrkunden_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168926</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">سـ</supplied>ـعيد بن عبيد عامل الأمير محمّد بن سليمـ<supplied reason="lost" cert="high">ـن</supplied> أ<supplied reason="lost" cert="high">صلحـه</supplied> 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">اللّـ</supplied>ـه على كورة أهناس ممّا زرع الأمنا و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> كور أ<supplied reason="lost" cert="high">ميـ</supplied>ـرها وضريبتها مثل ضـ<supplied reason="lost" cert="high">ـريبة</supplied> <supplied reason="lost" cert="high">أهل</supplied> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">أهناس</supplied> <supplied reason="lost" cert="high">فإذا</supplied> <supplied reason="lost" cert="high">أدّيت</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـليك منها فليس لأحد عليـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">سبيل</supplied> 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وكتـ</supplied>ـب <gap reason="illegible" precision="low" extent="3"/> من سپه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">الأمير</supplied> محمّد بن سليـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">أ</supplied>صلحه اللّه على كـ<supplied reason="lost" cert="high">ـورة</supplied> 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">أهنـ</supplied>ـاس <gap reason="illegible" precision="low" extent="3"/> زرع مع خـ<supplied reason="lost" cert="high">ـر</supplied>اج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ا</supplied>لحس </lem><rdg resp="APD">الحبس </rdg><rdg resp="APD">الجيش</rdg></app> سنة <gap reason="illegible" precision="low" extent="3"/> وليس علـ<supplied reason="lost" cert="high">ـيـ</supplied>ـك سبيل 
+<lb n="verso 4"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> اللّه وكتب <gap reason="illegible" precision="low" extent="3"/> الأ<supplied reason="lost" cert="high">مير</supplied> محمّد 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 6"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن سليمن أ<supplied reason="lost" cert="high">صـ</supplied>ـلحـه اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">كورة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>hāḏā kitāb:un min saʿīdi bni ʿubayd:in ʿāmili ăl ʾamīri muḥammadi bni sulaymāna ʾaṣlaḥa hu 
+ <lb n="3"/>ăl lāhu ʿalà kūraẗi ʾahnāsa mimmā zaraʿa ăl ʾumanāʾu wa *** 
+ <lb n="4"/>*** kuwar ʾamīri hā wa ḍarībaẗu hā miṯlu ḍarībaẗi ʾahli 
+ <lb n="5"/>ʾahnāsa fa ʾiḏā ʾaddayta mā ʿalay ka min hā fa laysa li ʾaḥad:in ʿalay ka sabīl:un 
+ <lb n="6"/>ʾin šāʾa ăl lāhu wa kataba *** *** min sanaẗi *** 
+ <lb n="7"/>*** 
+ <lb n="8"/>ăl ʾamīri muḥammadi bni sulaymāna ʾaṣlaḥa hu ăl lāhu ʿalà kūraẗi 
+ <lb n="9"/>ʾahnāsa *** zaraʿa maʿa ḫarāǧi *** 
+ <lb n="10"/>*** ăl ḥs ḥabs ǧayš sanaẗa *** wa laysa ʿalay ka sabīl:un 
+ <lb n="11"/>ʾin šāʾa ăl lāhu wa kataba *** ăl ʾamīru muḥammad:un 
+ <lb n="12"/>*** 
+ <lb n="13"/>muḥammad bn sulaymāna ʾaṣlaḥa hu ăl lāhu ʿalà kūraẗi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		[Dies ist ein Schreiben vo]n [Sa]ʿīd ibn ʿUbayd, dem Beamten des Amīr Muḥammad ibn Sulaym[ān] - es er[halte ihn]
+			<lb n="3"/>
+		[Go]tt - über der Provinz Ahnās. Von dem, was angebaut haben die Vertrauensleute und [
+			<lb n="4"/>
+		[...] Provinzen ihres [Amī]r, und ihre (sc. der Ländereien) Naturalabgabe ist wie die Na[turalabgabe der Leute von]
+			<lb n="5"/>
+		[Ahnās. Wenn du also erfüllst, was] Dir von ihr obliegt, so hat niemand gegen [Dich eine Handhabe],
+			<lb n="6"/>
+		[so Gott will. Und es schri]eb [...] vom Jahre [          
+			<lb n="8"/>
+		[des Amīr] Muḥammad ibn Sulay[mān Gott er]halte ihn - über der Pro[vinz]
+			<lb n="9"/>
+		[Ahn]ās [...] anbaute zusammen mit der Grundsteuer von [
+			<lb n="10"/>
+		[...] Jahr [...] und es gibt ge[gen] Dich keine Handhabe
+			<lb n="11"/>
+		[so] Gott [will]. Geschrieben von [...]  der A[mīr]   Muḥammad
+			<lb n="13"/>
+		Muḥammad ib]n Sulaymān - Gott er[ha]lte ihn - [über der Provinz
+</ab></div>
+</body>
+</text>
+</TEI>

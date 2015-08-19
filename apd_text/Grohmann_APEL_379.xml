@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1894" xml:id="Grohmann_APEL_379" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 379</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_379</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169631</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/>ـــــــــ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـيت المال وذلك قبل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> فذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">منـ</supplied>ـزل موسى بن سـ<supplied reason="lost" cert="high">ـوادة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">القمـ</supplied>ـح والعدس بالعقب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">أصـ</supplied>ـناف الغلّات <supplied reason="lost" cert="high">في</supplied> سنة ثمان وأربعين ومائتن المنـ<supplied reason="lost" cert="high">ـقولة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـدينة القَيس على ما ذكر خولي مو<supplied reason="lost" cert="high">لى</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـوسى بـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">سوادة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپه من القمح والقرط والجلـ<supplied reason="lost" cert="high">ـبّان</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه وثمان مائة فدّان ومن ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـيق <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـاف معما أخذ شنودة بن أتنـ<supplied reason="lost" cert="high">ـاس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ا</supplied>لدّواب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أز</supplied>هيين حمار أشهـ<supplied reason="lost" cert="high">ـب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> اا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <supplied reason="lost" cert="high">شنودة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أ</supplied>تناس وكيل موسى بن سواد<supplied reason="lost" cert="high">ة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكيـ</supplied>ـله في <app type="BL"><lem resp="edition">طرفلوحة </lem><rdg resp="translation">طرفلوجة</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> في منزل موسى بن سواد<supplied reason="lost" cert="high">ة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  <gap reason="illegible" precision="low" extent="3"/> آناس شتّى من النّواتية قبل وفاة مو<supplied reason="lost" cert="high">سى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سوادة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20"/>  <gap reason="illegible" precision="low" extent="3"/> وهو أربعة ألف إقنيـ<supplied reason="lost" cert="high">ـز</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="22"/>  <gap reason="illegible" precision="low" extent="3"/> موسـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سوادة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> عشرة جامجم عليه و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـن ذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="24"/>  <supplied reason="lost" cert="high">موسى</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن سوادة ألف ومائتن وسبعين إردبّا ومنــ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="25"/>  <supplied reason="lost" cert="high">موسى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـوادة مائة واثنـ<supplied reason="lost" cert="high">ـين</supplied> <supplied reason="lost" cert="high">و</supplied>أ<supplied reason="lost" cert="high">ربعين</supplied> إ<supplied reason="lost" cert="high">ردبّا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="26"/>  <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ثمان</supplied> وأربعين ومأتين <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـرپ وفي حو<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="27"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="28"/>  <gap reason="illegible" precision="low" extent="3"/> وخازنه يقال لـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="29"/>  <gap reason="illegible" precision="low" extent="3"/> وخازنه يقال له اعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** 
+ <lb n="2"/>ʾilà bayti ăl māli wa ḏālika qabla *** 
+ <lb n="3"/>*** fa ḏālika *** 
+ <lb n="4"/>fī manzili mūsà bni sawādaẗa *** 
+ <lb n="6"/>ăl qamḥ wa ăl ʿadas bi ăl ʿuqbi *** 
+ <lb n="7"/>min kulli ʾaṣnāfi ăl ġallāti fī sanaẗi ṯamān:in wa ʾarbaʿīna wa miʾatayni ăl manqūlaẗi *** 
+ <lb n="8"/>*** min madīnaẗi ăl qaysi ʿalà mā ḏakara ḫawliyy:un mawlà mūsà bni sawādaẗa *** 
+ <lb n="9"/>***Bh mina ăl qamḥi wa ăl qurṭi wa ăl ǧulubbāni *** 
+ <lb n="10"/>***aẗ wa ṯamāni miʾaẗi faddān:in wa min ʾ*** *** 
+ <lb n="11"/>*** ***yq *** 
+ <lb n="12"/>*** **ʾf maʿa mā ʾaḫaḏa šanūdaẗa šanūdaẗu bna bnu ʾatanāsa *** 
+ <lb n="13"/>*** mina ăd dawābbi *** 
+ <lb n="14"/>*** ʾazhayayni ḥimār ʾašhab *** 
+ <lb n="15"/>*** ʾʾ *** 
+ <lb n="16"/>šanūdaẗ bn ʾatanāsa wakīl mūsà bni sawādaẗa *** 
+ <lb n="17"/>*** *F* *** 
+ <lb n="19"/>*** wakīl hu fī ṭarfalūḥaẗa ṭarfalūǧaẗa *** 
+ <lb n="21"/>*** fī manzili mūsà bni sawādaẗa *** 
+ <lb n="22"/>*** ʾānās šattà mina ăn nawātiyaẗi qabla wafāẗi mūsà bni sawādaẗa *** 
+ <lb n="23"/>*** wa huwa ʾarbaʿaẗu ʾalfi ʾiqnīz:in *** 
+ <lb n="24"/>*** *** *** 
+ <lb n="25"/>*** mūsà bn sawādaẗa *** 
+ <lb n="26"/>*** ʿašaraẗ ʿašraẗa ǧāmaǧima ʿalay hi wa *** min ḏālika *** 
+ <lb n="27"/>mūsà bn sawādaẗa ʾalf wa miʾatayni wa sabʿīna ʾirdabb:an wa min hu *** 
+ <lb n="28"/>mūsà bn sawādaẗa miʾaẗ wa ĭṯnayni wa ʾarbaʿīna ʾirdabb:an *** 
+ <lb n="29"/>sanaẗ ṯamān:in wa ʾarbaʿīna wa miʾatayni **rB wa fī ḥw** 
+ <lb n="30"/>*** 
+ <lb n="31"/>*** wa ḫāzin hu yuqālu la hu *** 
+ <lb n="32"/>*** wa ḫāzin hu yuqālu la hu ʾʿ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		to] the treasury viz. in the presence of [
+			<lb n="3"/>
+		] that makes [
+			<lb n="4"/>
+		in the ho]use of Mûsâ b. Sa[wâda
+			<lb n="6"/>
+		the whe]at and the lentils according to the result
+			<lb n="7"/>
+		of all kin]ds of crops in the year two hunded and forty-eight, trans[ferred to
+			<lb n="8"/>
+		from the ca]pital of al-Qais according to that which has recorded Ḫaulî, the freedman of Mûsâ b. [Sawâda
+			<lb n="9"/>
+		]... of wheat, trefoil and chickling [pea
+			<lb n="10"/>
+		]... and eighthundred faddân, and of ...[
+			<lb n="11"/>
+			<lb n="12"/>
+		]...... including that which has taken Šanûde b. Ata[nas
+			<lb n="13"/>
+		of the hackneys
+			<lb n="14"/>
+		] two reddish [...], a dark dustcoloured grey ass [
+			<lb n="15"/>
+			<lb n="16"/>
+		Šanûda b. A]tanâs, the representative of Mûsâ b. Sawâd[a
+			<lb n="17"/>
+			<lb n="19"/>
+		his repre]sentative in Ṭarfalûǧa (?) [
+			<lb n="21"/>
+		] in the house of Mûsâ b. Sawâd[a
+			<lb n="22"/>
+		] different persons of the sailors before the death of Mû[sâ b. Sawâda
+			<lb n="23"/>
+		] viz. the four thousand jars [
+			<lb n="24"/>
+			<lb n="25"/>
+		Mû[sâ b. Sawâda
+			<lb n="26"/>
+		] ten (?) head due from him and [...] thereof [
+			<lb n="27"/>
+		Mûsâ] b. Sawâda one thousand two hundred seventy artabas. And from [him
+			<lb n="28"/>
+		Mûsâ b. Sa]wâda hundred and f[orty-tw]o a[rtabas
+			<lb n="29"/>
+		the year] two hundred and forty-[eight ...] ...... and in ...... [
+			<lb n="30"/>
+			<lb n="31"/>
+		] and his overseer, called [
+			<lb n="32"/>
+		] and his overseer, called Aʿ[
+</ab></div>
+</body>
+</text>
+</TEI>

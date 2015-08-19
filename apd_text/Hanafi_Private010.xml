@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2167" xml:id="Hanafi_Private010" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HanafiPrivateLetters 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Hanafi_Private010</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نعمته</supplied> عليك وصلت إلى جبارة كتبك مع علّان وبعثت بكتب 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سألـ</supplied>ـته عن سلامتك وسلامة إخوتك فسر في اللّه واكترث 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> شر جار في الدّنيا يقولون لإبر<sic n="superfluous">ا</sic>هيم النّحّاس 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وأخذ</supplied> <supplied reason="lost" cert="high">منـ</supplied>ـه رهن ويلك اخرج إليه وخذ حقّك منه 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> وألح إن تخرجوا مع بر مصر تكونوا 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وقال</supplied> <supplied reason="lost" cert="high">لـ</supplied>ـه عبد الرّحمن أبو الحسن يبعث الدّين 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> ولكن أ<supplied reason="lost" cert="high">دّ</supplied>يته ألف لا غير يرقد فيه 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> و<supplied reason="lost" cert="high">سـ</supplied>ـلا<supplied reason="lost" cert="high">متـ</supplied>ـه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ʾatamma niʿmata hu ʿalay ka waṣalat ʾilà ǧubāraẗa kutubu ka maʿa ʿallān:in wa baʿaṯtu bi kutub:in 
+ <lb n="2"/>*** saʾaltu hu ʿan salāmati ka wa salāmaẗi ʾiḫwati ka fa sir fī ăl lāhi wa ĭktariṯ 
+ <lb n="3"/>*** šarr:un ǧāra fī ăd dunyā yaqūlūna li ʾibrāhīma ăn naḥḥāsi 
+ <lb n="4"/>*** wa ʾaḫaḏa min hu rahn wayla ka ŭḫruǧ ʾilay hi wa ḫuḏ ḥaqqa ka min hu 
+ <lb n="5"/>*** wa ʾuliḥḥu ʾin taḫruǧū maʿa barri miṣra takūnū 
+ <lb n="6"/>*** wa qāla la hu ʿabdu ăr raḥmāni ʾabū ăl ḥasani yabʿaṯu ăd dayna 
+ <lb n="7"/>*** wa lākin ʾaddaytu hu ʾalf lā ġayr yarqudu fī hi 
+ <lb n="8"/>*** wa salāmat hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		... And may He fulfill His loving kindness] unto you. Your letters have been delivered to Ǧubāra by ʿAllān, and I sent letters
+			<lb n="2"/>
+		... I asked?] him about your safety and the safety of your brothers. Go on depending in Allah, and pay attention to
+			<lb n="3"/>
+		...] an evil moves in the world (= in the present time). They say to Ibrāhīm, the coppersmith
+			<lb n="4"/>
+		... and he got?] from him a security. Damn you. Go ahead to himn, and take your right from him.
+			<lb n="5"/>
+		...], and I insist if you go out along with the land of Miṣr, you will be
+			<lb n="6"/>
+		... and?] ʿAbdarraḥmān Abū al-Ḥasan, [said to him (?)] to send the debt
+			<lb n="7"/>
+		...] And I gave him on credit one thousand not more but he sleeps on it (meaning: he does not want to pay it).
+			<lb n="8"/>
+		...] and his safety?
+</ab></div>
+</body>
+</text>
+</TEI>

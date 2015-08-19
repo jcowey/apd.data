@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="42" xml:id="Heid_Arab_I_11" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 11</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_11</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106485</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">فإنّه</supplied> <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">جا</supplied> <supplied reason="lost" cert="high">إليّ</supplied> من أخبرني أن مـ<supplied reason="lost" cert="high">ـينا</supplied> <supplied reason="lost" cert="high">صاحب</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">قريته</supplied> <supplied reason="lost" cert="high">أخذ</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">بضعة</supplied> دننير ظلما بغير <supplied reason="lost" cert="high">حقّ</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">فإن</supplied> <supplied reason="lost" cert="high">كان</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">أ</supplied>خبرني حقّا <supplied reason="lost" cert="high">وأقام</supplied> 
+ <lb n="4"/>   <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">دلك</supplied> الپپپه ڤـ<supplied reason="lost" cert="high">ـاحمع</supplied> 
+ <lb n="5"/>  <supplied reason="lost" cert="high">وبين</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">صاحـ</supplied>ـب </lem><rdg resp="“Becker, PAF p. 76”">مازوت</rdg></app> قريته <supplied reason="lost" cert="high">فما</supplied> 
+ <lb n="6"/>  كان له ـ <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">حق</supplied> <supplied reason="lost" cert="high">ڤا</supplied>سپحرحه له <app type="BL"><lem resp="APD">و<supplied reason="lost" cert="high">لا</supplied> </lem><rdg resp="APD">يظلمنّ</rdg></app> 
+ <lb n="7"/>  <supplied reason="lost" cert="high">عبدك</supplied> والسلم على <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">اتّبع</supplied> 
+ <lb n="8"/>  <supplied reason="lost" cert="high">الهدى</supplied> <supplied reason="lost" cert="high">وكتب</supplied> مسلم بن <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <supplied reason="lost" cert="high">في</supplied> <unclear reason="undefined" cert="high">ذ</unclear>ي القعدة <supplied reason="lost" cert="high"><expan><ex>من</ex></expan></supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+ <lb n="10"/>  <supplied reason="lost" cert="high">إحدى</supplied> <supplied reason="lost" cert="high">و</supplied>تسعين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>fa ʾinna hu qad ǧāʾa ʾilay ya man ʾaḫbara nī ʾanna ø ø mīnā ṣāḥiba 
+ <lb n="2"/>qaryati hi ʾaḫaḏa min hu biḍʿaẗa danānīra ẓulm:an bi ġayri ḥaqq:in 
+ <lb n="3"/>fa ʾin kāna mā ʾaḫbara nī ḥaqq:an wa ʾaqāma 
+ <lb n="4"/>ʿalà ḏālika ăl bayyinaẗa fa ø ĭǧmaʿ bayna hu 
+ <lb n="5"/>wa bayna ṣāḥibi māzūti qaryati hi fa mā 
+ <lb n="6"/>kāna la hu min ḥaqq:in fa ĭstaḫriǧ hu la hu wa lā taẓlimanna yuẓlamanna 
+ <lb n="7"/>ʿabda ʿabdu ka wa ăs salāmu ʿalà mani ĭttabaʿa 
+ <lb n="8"/>ăl hudà wa kataba muslimu bnu *** 
+ <lb n="9"/>fī ḏī ăl qaʿdaẗi min ø sanaẗa sanaẗi 
+ <lb n="10"/>ʾiḥdà wa tisʿīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Es ist einer zu mir gekommen], der mir erzählt hat, daß [Mīnā, der Vorsteher
+		 <lb n="2"/>
+ 	  Seines Ortes, von ihm genommen hat einige (3-10)] Dīnār mit Gewalt ohne [Recht;
+		 <lb n="3"/>
+ 	  Wenn seine] Erzählung auf Wahrheit beruht [und er
+		 <lb n="4"/>
+ 	  Dafür] den Beweis [erbringt, so konfrontiere ihn
+		 <lb n="5"/>
+ 	  Mit dem Vorsteher] seines Ortes [und
+		 <lb n="6"/>
+ 	  Wenn er auf etwas Anspruch hat,] so verschaffe es ihm; denn wahrlich [nicht sollst Du
+		 <lb n="7"/>
+ 	  Deinen Knecht vergewaltigen]. Heil über [den, welcher der
+		 <lb n="8"/>
+ 	  Rechtleitung folgt. Es hat (dies) geschrieben] Muslim, der Sohn [des N.N.
+		 <lb n="9"/>
+ 	  Im] Ḏū-l-Qaʿda [des Jahres
+		 <lb n="10"/>
+ 	  Ein und]neunzig.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

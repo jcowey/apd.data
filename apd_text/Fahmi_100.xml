@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1704" xml:id="Fahmi_100" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.FahmiTaaqud 10 (= P.Vente 08)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Fahmi_100</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169454</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وما توفيقي إلّا باللّه عليه توكّلت وإليه أنيب الحمد للّه أسأله رحمة من عنده وتوفيقنا 
+<lb n="2"/>  ثبتت 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم اشترتي بمصر 
+<lb n="4"/>  فاطمة ابنة نصر المبجّج من أحمد بن عمران الطّحّان 
+<lb n="5"/>  ساكن بالموقف بالطّحّانين جارية في <app type="BL"><lem resp="APD">بيته </lem><rdg resp="Rāġib">يديه</rdg></app> مقرّة له 
+<lb n="6"/>  بالملك تدعا توفيق <app type="BL"><lem resp="APD">قدمته </lem><rdg resp="Rāġib">قرمية</rdg></app> سودا إلى الحمرة معتدلة 
+<lb n="7"/>  القامة <app type="BL"><lem resp="APD">كثيفتـها </lem><rdg resp="Rāġib">كشفاء</rdg></app> <app type="BL"><lem resp="APD">نافرة </lem><rdg resp="Rāġib">ناتئة</rdg></app> الجبهة بلجا عينا فطسا غليظة 
+<lb n="8"/>  الشّفتين مثقوبة السّفلى منهما قصيرة الذّقن منكسر 
+<lb n="9"/>  الثّمن خمسة وعشرين دينارا معزّيّة الجعل منها تقابضا 
+<lb n="10"/>  وتفرّقا عن تراض منهما بيع الإسلام وعهدته <app type="BL"><lem resp="APD">وإمرته </lem><rdg resp="Rāġib">طهارة</rdg></app> 
+<lb n="11"/>  <app type="BL"><lem resp="APD">وسلامه </lem><rdg resp="Rāġib">وسلامة</rdg></app> برئ البائع من <app type="BL"><lem resp="APD">سمادة </lem><rdg resp="Rāġib">سماجة</rdg></app> <app type="BL"><lem resp="APD">يديها </lem><rdg resp="Rāġib">يديها</rdg></app> ورجليها وشيب 
+<lb n="12"/>  رأسها وقلع أضراسها وذلك يوم الخميس لثمان 
+<lb n="13"/>  خلون من شهر ربيع الأوّل سنة <app type="BL"><lem resp="APD">تسع </lem><rdg resp="Rāġib">سبع</rdg></app> وستّين وثلثمائة 
+<lb n="14"/>  شهد بذلك أحمد بن سعد <app type="BL"><lem resp="APD">المعبّي </lem><rdg resp="Rāġib">المعني </rdg><rdg resp="Rāġib">المعبّي </rdg><rdg resp="Rāġib">المعنّى</rdg></app> وعلي بن الغريب 
+<lb n="15"/>  وميمون بن نصر المودپ وموسى بن إسحق الجوهري 
+<lb n="16"/>  وحجّاج بن أحمد وخلف بن <app type="BL"><lem resp="APD">حلفون </lem><rdg resp="Rāġib">حلفون</rdg></app> وعلي بن <app type="BL"><lem resp="APD">الجوهري </lem><rdg resp="Rāġib">بشر</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa mā tawfīq ī ʾillā bi ăl lāhi ʿalay hi tawakkaltu wa ʾilay hi ʾunību ăl ḥamdu li l lāhi ʾasʾalu hu raḥmaẗ:an min ʿinda hu wa tawfīqa nā 
+ <lb n="2"/>ṯabatat 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭštaratī bi miṣra 
+ <lb n="4"/>fāṭimaẗu ĭbnaẗu naṣr:ini ăl mubaǧǧiǧi min ʾaḥmada bni ʿimrāna ăṭ ṭaḥḥāni 
+ <lb n="5"/>sākin:in bi ăl mawqifi bi ăṭ ṭaḥḥānīna ǧāriyaẗ:an fī bayti yaday hi muqarraẗ:an la hu 
+ <lb n="6"/>bi ăl milki tudʿā tawfīqa qdmt qaramiyyaẗan h sawdāʾa ʾilà ăl ḥumraẗi muʿtadilaẗa 
+ <lb n="7"/>ăl qāmaẗi kaṯīfata kašfāʾa hā nāfiraẗa nātiʾaẗa ăl ǧabhaẗi balǧāʾa ʿaynāʾa faṭsāʾa ġalīẓaẗa 
+ <lb n="8"/>ăš šafatayni maṯqūbaẗa ăs suflà min humā qaṣīraẗ:an ăḏ ḏaqnu munkasir:un 
+ <lb n="9"/>ăṯ ṯamanu ḫamsaẗ:un wa ʿišrīna dīnār:an muʿizziyyaẗ:an ăl ǧuʿlu min hā taqābaḍā 
+ <lb n="10"/>wa tafarraqā ʿan tarāḍ:in min humā bayʿa ăl ʾislāmi wa ʿuhdata hu wa ṭahāraẗun ʾimrata hu 
+ <lb n="11"/>wa salāma salāmaẗun hu bariʾa ăl bāʾiʿu min samādaẗi samāǧaẗi badani yaday hā wa riǧlay hā wa šaybi 
+ <lb n="12"/>raʾsi hā wa qulaʿi ʾaḍrāsi hā wa ḏālika yawma ăl ḫamīsi li ṯamān:in 
+ <lb n="13"/>ḫalawna min šahri rabīʿa ăl ʾawwali sanaẗa tisʿ:in sabʿ:in wa sittīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="14"/>šahida bi ḏālika ʾaḥmadu bnu saʿd:in ăl maʿnī muʿabbī muʿannà muġannī wa ʿaliyyu bnu ăl ġarībi 
+ <lb n="15"/>wa maymūnu bnu naṣr:in ăl muʾaddibu wa mūsà bnu ʾisḥāqa ăl ǧawhariyyu 
+ <lb n="16"/>wa ḥaǧǧāǧu bnu ʾaḥmada wa ḫalafu bnu ḥalfūna ḫalqūna wa ʿaliyyu bnu ăl bišri ǧawhariyyi ø ăṣ ṣafadiyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		And my success is &lt;only&gt; with God, in Him do I trust and to Him shall I return. Praise be to God. I ask him for mercy from his side, and our success.
+		Mon assistance n’est qu’en Dieu. Sur Lui je m’appuie et vers Lui je reviens repentant. Louange à Dieu! Je Lui demande miséricorde de Sa part et assistance.
+			<lb n="2"/>
+		Enregistré.
+		It has been confirmed.
+			<lb n="3"/>
+		Au nom de Dieu, clément et miséricordieux!
+		In the name of God, the Compassionate and Merciful. She bought in Egypt,
+			<lb n="4"/>
+		Fāṭima bt. Naṣr, the barber-surgeon (?), from ʾAḥmad b. ʿImrān, the miller,
+		Fāṭima ibnat Naṣr al-Munǧiḥ a acheté à Miṣr d’Aḥmad b. ʿImrān le meunieur,
+			<lb n="5"/>
+		habitant du Mawqif au (quartier des) meuniers, une esclave qui se trouve en sa possession et reconnaît être
+		living in the place (?), with the millers, (she bought) a female slave in his house, acknowledged to belong to him
+			<lb n="6"/>
+		as his property, who is called Tawfīq [...], black to red, straight
+		sa propriété, appelée Tawfīq. C’est une Garamente noire tirant sur le rouge et
+			<lb n="7"/>
+		and heavy of build, having a sloping forehead, bright and large eyes, flat-nosed, with thick
+		de taille moyenne. Elle a les cheveux du toupet frisés, un front proéminent, des sourcils écartés, de grands yeux, un nez camard,
+			<lb n="8"/>
+		des lèvres épaisses, dont l’inférieure est percée, un menton court et brisé.
+		lips, the upper of them pierced, short, and (her) chin is cleft.
+			<lb n="9"/>
+		Le prix est de vingt-cinq dinars d’al-Muʿizz, rémunération forfaitaire comprise. Les parties ont pris possesion réciproquement (l’une du prix, l’autre de l’esclave)
+		The price is twenty-five Muʿizzī Dīnārs, the reward for her (?). The received from each other (the money and the slave respectively)
+			<lb n="10"/>
+		and separated from each other in mutual satisfaction. (They transacted this?) as an islamic sale with its contractual obligation, its authority
+		et se sont séparées sur consentement mutuel. Vente (conclue suivant la loi) de l’ilsam et sa garantie. (L’esclave) est en bonne santé
+			<lb n="11"/>
+		and its security. The seller became free from the swelling of her body and feet, the white-hairedness
+		et exemple (de tromperie). Le vendeur a libéré sa responsabilité de la laideur de ses mains et de ses pieds, de ses cheveux blancs
+			<lb n="12"/>
+		et de ses dents arrachées. Et cela le jour du jeudi huit
+		of hear head and the putridity of her molar teeth. And this (took place) on Thursday, eight (nights)
+			<lb n="13"/>
+		du mois de rabīʿ I l’ammée trois cent soixante-sept.
+		having past of the month of Rabīʿ I, in the year nine-and-sixty and three hundred.
+			<lb n="14"/>
+		Ont témoigné de cela Aḥmad b. Saʿd al-Maʿnī, ʿAlī b. al-Ġarīb,
+		Witnessed by ʾAḥmad b. Saʿd the singer, ʿAlī son of the stranger,
+			<lb n="15"/>
+		Maymūn b. Naṣr le maître d’école, Mūsā b. Isḥāq le joaillier,
+		Maymūn b. Naṣr the educator, Mūsā b. ʾIsḥaq, the jewel-trader,
+			<lb n="16"/>
+		Ḥaǧǧāǧ b. Aḥmad, Ḫalaf b. Ḥalfūn et ʿAlī b. Bišr al-Ṣafadī.
+		Ḥaǧǧāǧ b. ʾAḥmad, Ḫalaf b. Ḫalqūn and ʿAlī son of the jewel-trader.
+</ab></div>
+</body>
+</text>
+</TEI>

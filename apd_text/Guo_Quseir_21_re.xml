@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="876" xml:id="Guo_Quseir_21_re" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 21 recto</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_21_re</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">113641</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحن الرّحيم مملوكه الحاج <app type="BL"><lem resp="APD">عساكر </lem><rdg resp="“AK”">عَسٰكِرُ</rdg></app> 
+ <lb n="2"/>  الّذي أعلم به الشّيخ أبو إسحاق إبراهيم ولد <supplied reason="omitted" cert="high">أ</supplied>بو 
+ <lb n="3"/>  مفرّج أنّي سيّرت إليك 
+ <lb n="4"/>  صحبة سلال الكلجي حمل ونصف وصحبة 
+ <lb n="5"/>  <supplied reason="lost" cert="high">خـ</supplied>ـليفة حمل ونصف <app type="BL"><lem resp="APD">الجملة </lem><rdg resp="APD">الحملة</rdg></app> ثلاثة أحمال 
+ <lb n="6"/>  <supplied reason="lost" cert="high">عـ</supplied>ـشرة أرادب وهي غلّة طيّبة نفقة 
+ <lb n="7"/>  للصّغار تكون تحطّها في موضع جيّد 
+ <lb n="8"/>  <gap reason="illegible" extent="8" unit="character" /> كيلها بالنّصف ويبة 
+ <lb n="9"/>  <gap reason="illegible" extent="10" unit="character" /> پاموالى بحطهأ ڤى موصع 
+ <lb n="10"/>  <supplied reason="lost" cert="high">جيّد</supplied> <gap reason="illegible" extent="8" unit="character" /> على والداك السّلام 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi mamlūku hu ăl ḥāǧǧu ʿasākiru 
+ <lb n="2"/>ăllaḏī ʾuʿlimu bi hi ăš šayḫa ʾabū ʾisḥāqa ʾibrāhīma walada ʾabū 
+ <lb n="3"/>mufarriǧ:in ʾan nī sayyartu ʾilay ka 
+ <lb n="4"/>ṣuḥbaẗa salāla ăl kalǧiyyi ḥiml wa niṣf wa ṣuḥbaẗa 
+ <lb n="5"/>ḫalīfaẗa ḥiml wa niṣf ăl ḥimlaẗu ǧumlaẗu ṯalāṯaẗu ʾaḥmāl:in 
+ <lb n="6"/>ʿašaraẗu ʾarādiba wa hiya ġallaẗ:un ṭayyibaẗ:un nafaqaẗ:un 
+ <lb n="7"/>li ṣ ṣiġāri takūn taḥuṭṭu hā fī mawḍiʿ:in ǧayyid:in 
+ <lb n="8"/>******** kayl kīl hā bi ăn niṣfi waybaẗ:in 
+ <lb n="9"/>********** bi ʾamwāl ī taḥuṭṭi hā fī mawḍiʿ:in 
+ <lb n="10"/>ǧayyid:in ******** ʿalà wālidā ka ăs salāmu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God, the Merciful, the Compassionate. [From] His servant, the Ḥājj ʿAsākir.
+		 <lb n="2"/>
+ 	  I am writing to inform Shaykh Abū Isḥāq Ibrāhīm, the son of Abū
+		 <lb n="3"/>
+ 	  Mufarrij that I have sent to you,
+		 <lb n="4"/>
+ 	  accompanied by Salāl al-Kaljī, one and a half ḥiml-loads, and, accompanied by
+ 	  [One] and a half ḥimls, accompanied by Salāl al-Kaljī, and one 
+		 <lb n="5"/>
+ 	  and a half ḥimls, accompanied by al-Khalīfa, thus a total of three ḥimls 
+ 	  Khalīfa, one and a half ḥiml-loads; thus a total of three ḥiml-loads,
+		 <lb n="6"/>
+ 	  of fine wheat, which were ten irdabbs ...
+ 	  which weigh ten irdabbs, of fine wheat. These are the provisions
+		 <lb n="7"/>
+ 	  for the youths. Put them in a safe place.
+		 <lb n="8"/>
+ 	  [......,] weigh them at half of a wayba,
+		 <lb n="9"/>
+ 	  [..............] with my own money. Put them in a [safe] place.
+		 <lb n="10"/>
+ 	  [.................]. Greetings to your parents. 
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

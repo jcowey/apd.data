@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="27" xml:id="Heid_Arab_I_l" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I l</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_l</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106480</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بسم اللّه الرحمن الرحيم 
+<lb n="3"/>  هذا كتب من قرّة بن شريـ<unclear reason="undefined" cert="high">ـك</unclear> 
+<lb n="4"/>  لأهل بديدس من كورة <app type="BL"><lem resp="APD">إشقوه </lem><rdg resp="AK">إشقوه</rdg></app> إنّه أ<supplied reason="lost" cert="high">صابكم</supplied> 
+<lb n="5"/>  من جزية سنة ثمان وثمنين مئتين دينر وثلثة <unclear reason="undefined" cert="high">و</unclear><supplied reason="lost" cert="high">خمسين</supplied> 
+<lb n="6"/>  دينرا وسدس دينر عددا ومن ضريبة الطعام مئتين 
+<lb n="7"/>  إردب قمح وخمسة وثلثين إردبّا وكتب 
+<lb n="8"/>  راشد في صفر من سنة إحدى وتسعين 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min qurraẗa bni šarīka 
+ <lb n="4"/>li ʾahli badiyadusa min kūraẗi ʾašfūha ʾišqawha ʾinna hu ʾaṣāba kum 
+ <lb n="5"/>min ǧizyaẗi sanaẗi ṯamān:in wa ṯamānīna miʾatayni dīnār:in wa ṯalāṯaẗ:un wa ḫamsīna 
+ <lb n="6"/>dīnār:an wa sudsu dīnār:in ʿadad:an wa min ḍarībaẗi ăṭ ṭaʿāmi miʾatayni 
+ <lb n="7"/>ʾirdabbi qamḥ:in wa ḫamsaẗ:un wa ṯalāṯīna ʾirdabb:an wa kataba 
+ <lb n="8"/>rāšid:un fī ṣafar:in min sanaẗi ʾiḥdà wa tisʿīna 
+ <lb n="9"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

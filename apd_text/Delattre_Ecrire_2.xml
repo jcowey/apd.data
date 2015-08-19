@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2116" xml:id="Delattre_Ecrire_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DelattreEcrire 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Delattre_Ecrire_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الكريم 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وتأييدك وسعادتك 
+<lb n="3"/>  وسلامتك وأتم نعمه عليك وجعلني من كل سو فداك 
+<lb n="4"/>  كتابي إليك أعزّك اللّه عن حال سلامة 
+<lb n="5"/>  والحمد للّه كثيرا 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  مع كتابك بخبرك وحالك وجميع حوائجك 
+<lb n="16"/>  فإنّك تسرّني بذلك إن شا اللّه 
+<lb n="address 1 right"/>  لأبي الخير أطال اللّه 
+<lb n="address 2 right"/>  بقاه وأدام عزّه وتأييده 
+<lb n="address 1 left"/>  من أخيه شنوده بن مينا 
+<lb n="address 2 left"/>  <unclear reason="undefined" cert="high">أدا</unclear> <unclear reason="undefined" cert="high">غرم</unclear> جريج بن قوريل أعزّه اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăl karīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka 
+ <lb n="3"/>wa salāmata ka wa ʾatamma niʿama hu ʿalay ka wa ǧaʿala nī min kulli sūʾ:in fidāʾa ka 
+ <lb n="4"/>kitāb ī ʾilay ka ʾaʿazza ka ăl lāhu ʿan ḥāli salāmaẗ:in 
+ <lb n="5"/>wa ăl ḥamdu li l lāhi kaṯīr:an 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>maʿa kitābi ka bi ḫabari ka wa ḥāli ka wa ǧamīʿi ḥawāʾiǧi ka 
+ <lb n="16"/>fa ʾinna ka tasurru nī bi ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="17"/>li ʾabī ăl ḫayri ʾaṭāla ăl lāhu 
+ <lb n="18"/>baqāʾa hu wa ʾadāma ʿizza hu wa taʾyīda hu 
+ <lb n="19"/>min ʾaḫī hi šanūdaha bni mīnā 
+ <lb n="20"/>ʾadāʾu ġurmi ǧurayǧi bni qūrīla ʾaʿazza hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(en arabe) Au nom de Dieu, le généreux.
+			<lb n="2"/>
+		Que Dieu prolongue ton existence et qu&#039;Il perpétue ta considération, ta force, ton bonheur
+			<lb n="3"/>
+		et ta santé, qu&#039;Il accomplisse Ses faveurs à ton égard, que Dieu me fasse te servir de rançon dans le mal!
+			<lb n="4"/>
+		Cette lettre que voici - puisse Dieu te fortifier! - pour te dire que je vais bien
+			<lb n="5"/>
+		- louange à Dieu grandement pour cela! (en copte) ...
+			<lb n="15"/>
+		(en arabe) Donne-moi dans la lettre que tu m&#039;addresseras de tes nouvelles et fais-mois connaître ton état de santé ainsi que tes besoins.
+			<lb n="16"/>
+		Tu me feras de la sorte grand plaisir, si Dieu le veut!
+			<lb n="17"/>
+		(adresse) À Abū al-Ḫayr - que Dieu prolonge
+			<lb n="18"/>
+		son existence et qu&#039;il perpétue sa considération ainsi que sa force! -
+			<lb n="19"/>
+		de la part de son frère Šanūda fild de Mīnā.
+			<lb n="20"/>
+		Règlement de la dette de Ǧurayǧ fils de Qūrīl - que Dieu le fortifie!
+</ab></div>
+</body>
+</text>
+</TEI>

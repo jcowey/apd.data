@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1804" xml:id="Grohmann_APEL_322" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 322</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_322</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169544</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">رقـ</supplied>ـعتي يأخي وسيّدي أطال اللّه بقاك 
+<lb n="recto 3"/>  وأدام عزّك وتأييدك وسعادتك وأتم نعمته 
+<lb n="recto 4"/>  عليك وجعلني فداك عن سلامة وعافية والحمد للّه 
+<lb n="recto 5"/>  رب العلمين <app type="BL"><lem resp="APD">أعلمت </lem><rdg resp="Diem">أعلمك</rdg></app> يأخي أيّدك اللّه أن الّذي 
+<lb n="recto 6"/>  صار إلي على يدي صبح خمسة دنانير 
+<lb n="recto 7"/>  ينقصوا ثلثين دينار غير ثلث قيراط وعلى 
+<lb n="recto 8"/>  أنّها حاضرة فأحب أن تتفضّل <app type="BL"><lem resp="APD">تنتظر </lem><rdg resp="Diem">تنظر</rdg></app> 
+<lb n="recto 9"/>  الّذي يبقا تدفعه إلى عيسى بن عثمن 
+<lb n="recto 10"/>  ولا توحر ذلك عنه إن شا اللّه 
+<lb n="recto 11"/>  <app type="BL"><lem resp="APD">قراي </lem><rdg resp="Diem">قرأت</rdg></app> عليك أفضل السّلم وعلى يعقوب 
+<lb n="recto 12"/>  منّي السّلم 
+<lb n="verso 13"/>  <del rend="erasure" status="unremarkable">والـ</del> وأخوك علي المودن يقرئ عليك السّلم الكثير 
+<lb n="verso 14"/>  الكثير الطّيّب وهو مشتاق إليك جدّا 
+<lb n="verso 15"/>  وكيلك أبو نصير <app type="BL"><lem resp="APD">كشـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="APD">كشير</rdg></app> 
+<lb n="verso 16"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> حسبنا اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ruqʿat ī yā ʾaḫ ī wa sayyid ī ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="3"/>wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka wa ʾatamma naʿmata hu 
+ <lb n="4"/>ʿalay ka wa ǧaʿala nī fidāʾa ka ʿan salāmaẗ:in wa ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi 
+ <lb n="5"/>rabbi ăl ʿālamīna ʾuʿlimtu ʾuʿlimu ø ka yā ʾaḫ ī ʾayyada ka ăl lāhu ʾanna ăllaḏī 
+ <lb n="6"/>ṣāra ʾilay ya ʿalà yaday ṣubḥ:in ḫamsaẗu danānīra 
+ <lb n="7"/>yanquṣū ṯulṯayni dīnār:in ġayra ṯulṯi qīrāṭ:in wa ʿalà 
+ <lb n="8"/>ʾanna hā ḥāḍiraẗ:un fa ʾuḥibbu ʾan tatafaḍḍala tantaẓiru tanẓuru 
+ <lb n="9"/>ăllaḏī yabqā tadfaʿu hu ʾilà ʿīsà bni ʿuṯmāna 
+ <lb n="10"/>wa lā tuʾaḫḫir ḏālika ʿan hu ʾin šāʾa ăl lāhu 
+ <lb n="11"/>qirā qaraʾtu ya ø ʿalay ka ʾafḍala ăs salāmi wa ʿalà yaʿqūba 
+ <lb n="12"/>min nī ăs salāmu 
+ <lb n="13"/>wa ʾaḫū ka ʿaliyy:unu ăl muʾaḏḏinu yuqriʾu ʿalay ka ăs salāma ăl kaṯīra 
+ <lb n="14"/>ăl kaṯīra ăṭ ṭayyiba wa huwa muštāq:un ʾilay ka ǧidd:an 
+ <lb n="15"/>wakīlu ka ʾabū naṣīr:in nuṣayr:in kuš****** kušayr:in 
+ <lb n="16"/>**** **** ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		[(I am writing) my no]te, O my brother and lord - may God prolong your life
+			<lb n="3"/>
+		and may He cause your might, strength and happiness to continue and fulfil His loving kindness
+			<lb n="4"/>
+		unto you, and may He make me your ransom - in safety and health: and praise be to God,
+			<lb n="5"/>
+		the Lord of all created beings. I have been informed, O my brother - may God strengthen you - that what has
+			<lb n="6"/>
+		reached me through Ṣubḥ is five dînârs
+			<lb n="7"/>
+		with a deficiency of two thirds of a dînâr less three carats, notwithstanding
+			<lb n="8"/>
+		that it is at hand. Now I wish you would have the kindness to see
+		that it is at hand. Now I wish you would have the kindness to wait for
+			<lb n="9"/>
+		for the rest, which you pay to ʿĪsā b. ʿUṯmān,
+		that you pay the rest to ʿÎsâ b. ʿUṯmân,
+			<lb n="10"/>
+		and do not withhold it from him, if God wills.
+			<lb n="11"/>
+		I send you best greetings, and to Yaʿqûb
+			<lb n="12"/>
+		salutation from me.
+			<lb n="13"/>
+		And your brother ʿAlî, the muezzin, sends you many,
+			<lb n="14"/>
+		many good greetings, and he is greatly longing for you.
+			<lb n="15"/>
+		Your agent Abû Nuṣair Kuš[air (?)
+			<lb n="16"/>
+		..... [...] .... Our sufficiency is God, and He is the best trustee.
+</ab></div>
+</body>
+</text>
+</TEI>

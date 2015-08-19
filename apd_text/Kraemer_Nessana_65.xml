@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1048" xml:id="Kraemer_Nessana_65" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 65</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Nessana_65</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21495</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  دينر و<supplied reason="lost" cert="high">كتب</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> 
+<lb n="3"/>  ربيع ا<supplied reason="lost" cert="high">لأوّل</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ستّة</supplied> 
+<lb n="4"/>  وخمسين 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  فجمعته خمسة ومئتي <supplied reason="lost" cert="high">مـ</supplied>ـدي قمح 
+<lb n="16"/>  ومثله زيتا وثمن مثل ذلك 
+<lb n="17"/>  ثلثة عشر دينر وثلثي د<supplied reason="lost" cert="high">ينر</supplied> 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>dīnār wa kataba *** fī šahri 
+ <lb n="3"/>rabīʿa ăl ʾawwali min sanaẗi sittaẗ:in 
+ <lb n="4"/>wa ḫamsīna 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="16"/>fa ǧumʿatu hu ḫamsaẗ:un wa miʾatay mudyi qamḥ:in 
+ <lb n="17"/>wa miṯlu hu zayt:an wa ṯamanu miṯli ḏālika 
+ <lb n="18"/>ṯalāṯaẗa ʿašara dīnār wa ṯulṯay dīnārin 
+ <lb n="19"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		... dinars. Written by ... in the month of
+			<lb n="3"/>
+		Rabī ... of the year fifty
+			<lb n="4"/>
+		and ...
+			<lb n="16"/>
+		And its total is two hundred and five mudd of wheat
+			<lb n="17"/>
+		and the same of oil, and the value likewise
+			<lb n="18"/>
+		is thirteen and 2/3 dinars.
+</ab></div>
+</body>
+</text>
+</TEI>

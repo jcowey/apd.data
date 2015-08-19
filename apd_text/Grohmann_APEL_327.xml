@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1814" xml:id="Grohmann_APEL_327" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 327</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_327</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169553</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="0"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1"/>  وعافية والحمد للّه رب العلمين كثيرا ولو لا شغلي لكنت موضع 
+<lb n="2"/>  كتابي <app type="BL"><lem resp="sīn with dash above">ليسلّم </lem><rdg resp="Diem ‹Ligatur ʾalif-lām›?">أسلّم</rdg></app> عليك وحقّك علينا واجب وقد كنت وجّهت 
+<lb n="3"/>  إليك <app type="BL"><lem resp="APD">دفعتي </lem><rdg resp="Diem">رقعتي</rdg></app> مع فاتك فسلّمت إليه <app type="BL"><lem resp="APD">دينارا </lem><rdg resp="Diem">دينار</rdg></app> <app type="BL"><lem resp="APD">قيمته </lem><rdg resp="Diem">وزنه</rdg></app> أحد وعشرين 
+<lb n="4"/>  قيراط ونصف <app type="BL"><lem resp="APD">فقد </lem><rdg resp="Diem">وقد</rdg></app> بلغني ما فعلت وربع دينار إلّا حبّة 
+<lb n="5"/>  جواز صار <app type="BL"><lem resp="APD">دينر </lem><rdg resp="Diem">دينار</rdg></app> <app type="BL"><lem resp="sīn with dash above">مغسول </lem><rdg resp="Diem">مغسول</rdg></app> قيراطين جواز وكان <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">يبقا</supplied> </lem><rdg resp="Diem÷ the word is fully preserved">بقا</rdg></app> من شهر 
+<lb n="6"/>  رمضان فأحب عزّك اللّه أن تحاسبه من حساب ثلثي دينار كما 
+<lb n="7"/>  رسمت علي فقال حقّي منه وأنا محتشم منك وأنا أكتب إليك 
+<lb n="8"/>  في كل وقت <app type="BL"><lem resp="APD">بحقّي </lem><rdg resp="APD">فبحقّي</rdg></app> عليك يا سيّدي إن قصرت في هذا <app type="BL"><lem resp="šīn with dash above">الشّي </lem><rdg resp="APD">الكسر</rdg></app> 
+<lb n="9"/>  فإنى محتاج إليه وأنا مار إلى الفسطاط <app type="BL"><lem resp="APD">إشّا </lem><rdg resp="Diem">إنشاء</rdg></app> اللّه قرأت عليك 
+<lb n="10"/>  السّلم كثيرا وعلى جميع <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ارعو</unclear> </lem><rdg resp="Diem÷ omitted by the scribe who originally started a phrase like ‹ʾahli baytika›">من</rdg></app> <app type="BL"><lem resp="APD">پاپه </lem><rdg resp="Diem÷ yaḥūṭu, but see translation">تحوط</rdg></app> <app type="BL"><lem resp="APD">عساپپك </lem><rdg resp="Diem">به</rdg></app> <app type="BL"><lem resp="APD">السلم </lem><rdg resp="Diem, with one superfluous tooth before the ʾalif">عنايتك</rdg></app> كپپرا 
+<lb n="11"/>  حسبي اللّه ونعم الوكـ<supplied reason="lost" cert="high">ـيل</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="2"/>wa ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna kaṯīr:an wa law lā šuġl ī la kuntu mawḍiʿa 
+ <lb n="3"/>kitāb ī li ø yusallima ʾusallima ʿalay ka wa ḥaqqu ka ʿalay nā wāǧib:un wa qad kuntu waǧǧahtu 
+ <lb n="4"/>ʾilay ka dafʿat ruqʿat ī maʿa fātik:in fa sallamta ʾilay hi dīnār:an dīnār qīmatu waznu hu ʾaḥad:un wa ʿišrīna 
+ <lb n="5"/>qīrāṭ wa niṣf:un fa wa qad balaġa nī mā faʿalta wa rubʿu dīnār:in ʾillā ḥabbaẗ:an 
+ <lb n="6"/>ǧawāz:un ṣāra dīnār maġsūl maʿsūl qīrāṭayni ǧawāz:un wa kāna yabqā baqā min šahri 
+ <lb n="7"/>ramaḍāna fa ʾuḥibbu ʿazza ka ăl lāhu ʾan tuḥāsiba hu min ḥisābi ṯulṯay dīnār:in kamā 
+ <lb n="8"/>rasamta ʿalay ya fa qāla ḥaqq ī min hu wa ʾanā muḥtašim:un min ka wa ʾanā ʾaktubu ʾilay ka 
+ <lb n="9"/>fī kulli waqt:in ø fa bi ḥaqq ī ʿalay ka yā sayyid ī ʾin qaṣurta fī hāḏā ăš ăl šayʾi kasri 
+ <lb n="10"/>fa ʾin nī muḥtāǧ:un ʾilay hi wa ʾanā mārr:un ʾilà ăl fusṭāṭi ʾiš ʾin šāʾa ăl lāhu qaraʾtu ʿalay ka 
+ <lb n="11"/>ăs salāma kaṯīr:an wa ʿalà ǧamīʿi ʾrʿw man ø taḥūṭu BʾBh bi ø hi ʿsʾBBk ʿināyatu ø ka ăs salāmu kaṯīr:an 
+ <lb n="12"/>ḥasb iya ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Ich schreibe Dir - Eulogie (?) im Zustand der Wohlbehaltenheit]
+			<lb n="2"/>
+		and health, and praise be often to God, the Lord of all created beings. And if it had not been for my work, I would have come in the place
+		und der Gesundheit, Preis sei Gott, dem Herrn der Welt, vielmals. Wäre ich nicht (zu sehr) beschäftigt, so wäre ich an der Stelle
+			<lb n="3"/>
+		(dieses) meines Briefes, um Dich zu grüßen, ist doch Dein Anspruch mir gegenüber (für mich) verpflichtend! Ich hatte
+		of my letter to greet you; and your claim (thereto) is binding upon us. I have already dispatched
+			<lb n="4"/>
+		Dir durch Fātik meine Zahlungsanweisung (zu seinen Gunsten) überbringen lassen, worauf Du ihm einen Dinar ausgehändigt hast, dessen Gewicht einundzwanzig
+		my payment to you with Fâtik. He has therefore handed over to you one dînâr in the value of twenty one
+			<lb n="5"/>
+		carats and a half-(carat). Information as to what you have done has reached me along with a current quarter of a dînâr less one ḥabba
+		einhalb Karat war - ich habe erfahren, was Du getan hast -, und einen passablen Vierteldinar weniger eine Ḥabba;
+			<lb n="6"/>
+		das ergibt einen vollen Dinar (und) zwei passable Karat, und zwar war (der Fātik zustehende Betrag) ein Rest aus dem Monat
+		which makes one dînâr correctly counted out (and) two current carats, which had &lt;remained&gt; from the month of
+			<lb n="7"/>
+		Ramaḍān. Ich möchte deshalb - Gott stärke Dich -, daß Du mit ihm (sc. Fātik) in Höhe von zwei Drittel Dinar abrechnest, wie
+		Ramaḍân. Now I wish - may God exalt you - that you should deduct from the account of two thirds of a dînâr, as
+			<lb n="8"/>
+		Du es (nunmehr) mir vorgeschrieben hast. Er sagt nämlich (zu mir): &#039;Mein Anspruch (auf das noch ausstehende Geld) ist ihm gegenüber, und ich habe (deshalb) Dir gegenüber Hemmungen (es von Dir zu verlangen).&#039; Ich bin mit Dir ständig
+		you have assigned (it) to me. But he said: &#034;I have (to obtain) a claim from him&#034;. And I feel respect for you and write to you
+			<lb n="9"/>
+		at all times. By the claim which I have on you, O my lord, if you have fallen short in this matter,
+		in brieflichem Kontakt. Deshalb, bei meinem Anspruch gegen Dich, o mein Herr: Sei nicht nachlässig bei diesem Bruchteilsbetrag!
+			<lb n="10"/>
+		Ich kann ihn nicht entbehren, da ich nach al-Fusṭāṭ hinübergehen werde, so Gott will! Ich grüße Dich
+		I indeed need it while I pass over to al-Fusṭâṭ, if God wills. I greet you
+			<lb n="11"/>
+		vielmals, und alle {Angehö}, &lt;die&gt; Deine Fürsorge umfängt, viele Grüße!
+		warmly and also (to all) the ..................... copious greetings.
+			<lb n="12"/>
+		Gott ist mein Genüge; er ist der beste Sachwalter!
+		Our sufficiency is God, and He ist the best trustee.
+</ab></div>
+</body>
+</text>
+</TEI>

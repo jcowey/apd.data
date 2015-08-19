@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1891" xml:id="Grohmann_APEL_410" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 410</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_410</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169628</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮العشر الأوّ<supplied reason="lost" cert="high">ل</supplied> <gap reason="illegible" precision="low" extent="3"/> ‪χ‬<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮العشر الثّاني ‪λεηʹ‬ 
+<lb n="4"/>  ‮وعن أبو المسعب ‪ιζϰʹδʹ‬ 
+<lb n="5"/>  ‮أيضا ‪ιζϰʹδʹ‬ 
+<lb n="6"/>  ‮فذلك ‪ϱδχϰʹδʹ‬ 
+<lb n="7"/>  ‮وعن الصّرف ‪διʹβʹχ‬ 
+<lb n="8"/>  فذلك <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **** *** 
+ <lb n="2"/>ăl ʿašru ăl ʾawwalu *** *+1/48 
+ <lb n="3"/>ăl ʿašru ăṯ ṯānī ‪35 1/8 
+ <lb n="4"/>wa ʿan ʾabū ăl misʿabi ‪17 1/24 
+ <lb n="5"/>ʾayḍ:an ‪17 1/24 
+ <lb n="6"/>fa ḏālika ‪104 2/3+1/24 
+ <lb n="7"/>wa ʿani ăṣ ṣarfi ‪4 1/12+1/48 
+ <lb n="8"/>fa ḏālika *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		the fir[st] decade [... +]1/48
+			<lb n="3"/>
+		The second decade 35 1/8
+			<lb n="4"/>
+		and from al-Misʿab 17 1/24
+			<lb n="5"/>
+		and further 17 1/24
+			<lb n="6"/>
+		That makes: 104 2/3+1/24
+			<lb n="7"/>
+		and of the discount 4 1/12+1/48
+			<lb n="8"/>
+		That makes: [.........]
+</ab></div>
+</body>
+</text>
+</TEI>

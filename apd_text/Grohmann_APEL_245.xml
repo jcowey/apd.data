@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2015" xml:id="Grohmann_APEL_245" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 245</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_245</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169743</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  طقنيش دينر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" extent="1" unit="character" /> بسنده ففيوه ÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" extent="1" unit="character" /> دهقان بن مسرور ÷÷÷÷÷ ÷÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">÷</supplied>÷ ÷÷ الجوالي ÷ <unclear reason="undefined" cert="high">بمين</unclear> بدره ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">÷÷</supplied>÷ ÷÷÷ مات <del rend="erasure" status="unremarkable">ڤرمان</del> <del rend="erasure" status="unremarkable">دپپسى</del> <del rend="erasure" status="unremarkable">÷</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">÷</supplied>÷ ÷÷ هلس دييسي ÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> شمّام وهو أحمد بن سوار ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <supplied reason="lost" cert="high">÷</supplied>÷ <supplied reason="lost" cert="high">÷÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  <supplied reason="lost" cert="high">÷</supplied>÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷ ÷÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷ ÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  <supplied reason="lost" cert="high">÷÷</supplied>÷ ÷÷÷ <app type="BL"><lem resp="APD">الپادپه </lem><rdg resp="APD">الباديّة </rdg><rdg resp="APD">البارّيّة</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷÷ ÷÷÷ ابن هشام الشّهـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـر أعلاه <unclear reason="undefined" cert="high">بنيص</unclear> 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷ ÷÷ <gap reason="illegible" extent="1" unit="character" /> سليمن الصّفـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> بنت 
+<lb n="recto 14"/>  <gap reason="illegible" extent="1" unit="character" /> مفـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>   
+<lb n="recto 15"/>  ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/>  
+<lb n="recto 16"/>  من عام ثمانية وتسعين 
+<lb n="recto 17"/>  <supplied reason="lost" cert="high">÷</supplied>÷ ÷÷ الموصوف 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> دفع 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <del rend="erasure" status="unremarkable">پڤپه</del> <del rend="erasure" status="unremarkable">المال</del> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> أحمد ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> حمدون بن <app type="BL"><lem resp="APD">مكرّم </lem><rdg resp="APD">مكرّم</rdg></app> ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /><del rend="erasure" status="unremarkable">ـ</del>ـر 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/>حد ÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷ <gap reason="illegible" extent="1" unit="character" /> قلته بقطر ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <del rend="erasure" status="unremarkable">÷÷÷÷</del>÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> أحمد بن الحسن ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـ</del></supplied><del rend="erasure" status="unremarkable">ـد</del> <supplied reason="lost" cert="high">د</supplied>فع ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">÷÷÷</supplied> عبد الرّزّاق بن الحسن ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 8"/>  <gap reason="illegible" extent="2" unit="character" /> قاسم الدّليل ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷<supplied reason="lost" cert="high">÷</supplied>÷ ميمونة بضمان جحدر ÷÷ ÷<supplied reason="lost" cert="high">÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 10"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" extent="1" unit="character" /> علي بن الحسين الإمام ÷ ÷<supplied reason="lost" cert="high">÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 11"/>  <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">إدر</supplied>يس أخو ÷÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷÷÷÷ أركليدس ثيدر ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <del rend="erasure" status="unremarkable">اسمعپل</del> <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">عپد</del> <del rend="erasure" status="unremarkable">الصمد</del> <del rend="erasure" status="unremarkable">÷÷</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 13"/>  <gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">حه</unclear> وجوهر <unclear reason="undefined" cert="high">÷</unclear>÷ <del rend="erasure" status="unremarkable">ورپه</del> <del rend="erasure" status="unremarkable">عپد</del> <del rend="erasure" status="unremarkable"><unclear reason="undefined" cert="high">الرراق</unclear></del> <del rend="erasure" status="unremarkable">÷÷</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 14"/>  <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 15"/>  <gap reason="illegible" precision="low" extent="3"/> <del rend="erasure" status="unremarkable"><unclear reason="undefined" cert="high">الوال</unclear></del> <del rend="erasure" status="unremarkable"><unclear reason="undefined" cert="high">ان</unclear></del> <del rend="erasure" status="unremarkable">÷÷</del> <del rend="erasure" status="unremarkable">كامل</del> <del rend="erasure" status="unremarkable">الحپار</del> <del rend="erasure" status="unremarkable">÷</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 16"/>  <gap reason="illegible" precision="low" extent="3"/> عبد اللّه بن سهل ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 17"/>  <gap reason="illegible" precision="low" extent="3"/> ورثة أبو قير الجزّار ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 18"/>  <gap reason="illegible" precision="low" extent="3"/> ورثة يعقوب بن حجّاج ÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṭaqanīšu dīnār:un *** 
+ <lb n="2"/>* basindahu fafiyūha 1/2+1/4 1/2 *** 
+ <lb n="3"/>* dihqānu bnu masrūr:in 1 1/6+1/24+1/48 1 1/6+1/24+1/48 *** 
+ <lb n="4"/>1/2+1/8 1/2+1/8 ăl ǧawālī 1/4 bamīnu badraha 1/2+1/3 1/2+1/3 *** 
+ <lb n="5"/>1/3+1/24 * 1/3+1/24 māta quzmānu diyīsī 1 *** 
+ <lb n="6"/>1/2+1/4 1/2+1/4 halisu diyīsī 1/6+1/24 1/6+1/24 * *** 
+ <lb n="7"/>*** * šammām:un wa huwa ʾaḥmadu bnu sawwār:in siwār:in 1/4+1/48 1/4+1/48 *** 
+ <lb n="8"/>1/48 1/48 *** 
+ <lb n="9"/>1/48 * 1/12 68 1/2+1/12 *** 
+ <lb n="10"/>*** 1/6 * 1/2+1/12 22 1/6+1/8 *** 
+ <lb n="11"/>1/6+1/24 1/6+1/24 ăl bādiyaẗu BʾdBh bārriyyaẗu *** *** 
+ <lb n="12"/>*** 1/24+1/48 1/24+1/48 * ʿabdu ăl lāhi * *** 
+ <lb n="13"/>*** 1/12 1/12 * sulaymānu ăṣ ṣaf*** *** 
+ <lb n="14"/>1/12 1/12 * muf*** *** 
+ <lb n="15"/>*** 1/6+1/48 1/6+1/48 *** 
+ <lb n="16"/>*** 1/3+1/24 1/3+1/24 *** 
+ <lb n="17"/>1/12 1/12 *** 
+ <lb n="18"/>*** dafaʿa 
+ <lb n="19"/>*** baqiyyaẗu ăl māli 
+ <lb n="20"/>*** ʾaḥmad 1/6+1/24+1/48 * 1/6+1/24+1/48 * ḥamdūnu bnu mukarram:in mukram:in 4 1/3+1/8 * 3 1/6+1/8 *** 
+ <lb n="21"/>*** * *r 
+ <lb n="22"/>***ḥd 1 1/6 * 1 1/6 * qultahu buqṭura 1/24 1/24 *** 
+ <lb n="23"/>*** * 1/2+1/3+1/24+1/48 * * ʾaḥmadu bnu ăl ḥasani 1/4+1/48 1/4+1/48 *** 
+ <lb n="24"/>***d dafaʿa 1 1/6+1/48 * 1 1/6+1/48 ʿabdu ăr razzāqi bnu ăl ḥasani 1/12 1/12 *** 
+ <lb n="25"/>** qāsimu ăd dalīlu 1/12 1/12 *** 
+ <lb n="26"/>***d 1 1/3+1/8+1/48 * 1 1/3+1/8+1/48 maymūnaẗu bi ḍamāni ǧaḥdara 1/12 1/12 *** 
+ <lb n="27"/>***d 23 1/12 * * *** 6 * ʿaliyyu bnu ăl ḥusayni ăl ʾimāmu 1/3 1/12 *** 
+ <lb n="28"/>*** 1/6 ** ʾidrīsu ʾaḫū 6 1/6+1/24+1/48 * 4 1/6+1/24+1/48+1/3 ʾaraklīdisu ṯiyudura 1/12+1/48 *** 
+ <lb n="29"/>*** **** ʾismāʿīlu bnu ʿabdi ăṣ ṣamadi 1/12 *** 
+ <lb n="30"/>***ḥah wa ǧawhar 2 1/6 waraṯaẗu ʿabdi ăr razzāqi 1/8+1/48 *** 
+ <lb n="31"/>*** 1/4 * *** 
+ <lb n="32"/>*** ʾlwʾl ʾn 9 1/3 kāmilu ăl ḫabbāzu 1/48 *** 
+ <lb n="33"/>*** ʿabdu ăl lāhi bnu sahl:in 1/48 *** 
+ <lb n="34"/>*** waraṯaẗu ʾabū qīra ăl ǧazzāri 1/12 *** 
+ <lb n="35"/>*** waraṯaẗu yaʿqūba bni ḥaǧǧāǧ:in 1/4+1/48 * *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ṭaqenîš. Dînâr [
+			<lb n="2"/>
+		. Besende Fafiyeu 1/2+1/4  1/2 [
+			<lb n="3"/>
+		. Dihqân b. Masrûr 1 1/6+1/24+1/48  1 1/6+1/24+1/48 [
+			<lb n="4"/>
+		] 1/2[+1/8] 1/2+1/8 the poll-taxes 1/4 Pamîn Petre 1/2+1/3 1/2+1/3 [
+			<lb n="5"/>
+		] 1/3[+1/24] 1/3+1/24 deceased〚Quzmân Deesî 1〛[
+			<lb n="6"/>
+		] 1/2+[1/4] 1/2+1/4 Helis Deesî 1/6+1/24  1/6+1/24 [
+			<lb n="7"/>
+		] . Šammâm who (is called) Aḥmad b. Siwār 1/4+1/48  1/4+1/48 [
+			<lb n="8"/>
+		] [1/48] [1/48] [
+			<lb n="9"/>
+		] 1/48 1/12  68 1/2+1/12 [
+			<lb n="10"/>
+		] 1/6 [.] 1/2+1/12 22 1/6+1/8 [
+			<lb n="11"/>
+		] 1/6[+1/24] 1/6+1/24 al-Bâdiya [...] [
+			<lb n="12"/>
+		] 1/24+1/48 1/24+1/48 . ʿAbdallâh. [
+			<lb n="13"/>
+		]n 1/12  1/12 . Sulaimân aṣ-Ṣaf[
+			<lb n="14"/>
+		] 1/12  1/12 . Muf[
+			<lb n="15"/>
+		] 1/6+1/48 1/6+1/48 [
+			<lb n="16"/>
+		] 1/3+1/24  1/3+1/24 [
+			<lb n="17"/>
+		] 1/12  1/12 [
+			<lb n="18"/>
+		] he has paid
+			<lb n="19"/>
+		]〚arrear of money〛
+			<lb n="20"/>
+		] Aḥmad 1/6+1/24+1/48  1/6+1/24+1/48 . Ḥamdûn b. Mukram 4 1/3+1/8 3 1/6+1/8 [
+			<lb n="21"/>
+		] 〚*〛r
+			<lb n="22"/>
+		]ḥd 1 1/6 1 1/6 . Qolte Boqṭor 1/24  1/24 [
+			<lb n="23"/>
+		] 1/2〚+1/3+1/24+1/48〛. . Aḥmad b. al-Ḥasan 1/4+1/48  1/4+1/48 [
+			<lb n="24"/>
+		〚]d〛 [... he has pa]id 1 1/6+1/48 [1 1/6]+1/48 ʿAbd ar-Razzāq b. al-Ḥasan 1/12  1/12 [
+			<lb n="25"/>
+		] Qâsim, the guide, 1/12  1/12 [
+			<lb n="26"/>
+		]d 1 1/3+1/8+1/48 1 [1/3]+1/8+1/48 Maimûna on Ǧaḥdar&#039;s bail 1/12 1/12 [
+			<lb n="27"/>
+		]d 23 1/12 [.] 6[...] ʿAlî b. al-Ḥusain, the imâm 1/3  1/12 [
+			<lb n="28"/>
+		] 1/6 [... Idr]îs, brother of 6 1/6+1/24+1/48 4 1/6+1/24+1/48+1/3 carat Eraklides Theodor 1/12+1/48 ..[
+			<lb n="29"/>
+		] .........〚Ismaʿîl b. ʿAbd aṣ-Ṣamad 1/12〛[
+			<lb n="30"/>
+		〚]ḥe and Ǧauhar 2 1/6〛 the heirs of ʿAbd ar-Razzâq 1/8+1/48 [
+			<lb n="31"/>
+		] 1/4 [
+			<lb n="32"/>
+		〚] ................ 9 1/3〛〚Kâmil, the baker, 1/48〛
+			<lb n="33"/>
+		] ʿAbdallâh b. Sahl 1/48 [
+			<lb n="34"/>
+		] the heirs of Abûqîr, the butcher, 1/12 [
+			<lb n="35"/>
+		] the heirs of Yaʿqûb b. Ḥaǧǧâǧ 1/4+1/48 . [
+</ab></div>
+</body>
+</text>
+</TEI>

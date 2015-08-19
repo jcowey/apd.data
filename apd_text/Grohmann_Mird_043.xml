@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2610" xml:id="Grohmann_Mird_043" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 43 verso</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_043</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  أمّا بعد <app type="BL"><lem resp="APD">عافانا </lem><rdg resp="Diem">عفانا</rdg></app> <sic n="superfluous">و</sic> وإيّاك من كل مكروه سل بـبقا في الدّنيا والأخرة 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> من الرّماحس بن عبد العزيز إلی زياد بن صخر 
+ <lb n="3"/>  جواب كتابه 
+ <lb n="4"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾammā baʿdu ʿāfā ʿafā nā wa ʾiyyā ka min kulli makrūh:in sal bi baqāʾ:in fī ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="2"/>*** mina ăr rumāḥisi bni ʿabdi ăl ʿazīzi ʾilà ziyāda bni ṣaḫr:in 
+ <lb n="3"/>ǧawābu kitābi hi 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Thereafter. May He preserve us and you from all adversity. Ask (God) for lasting in this world and the world to come.
+		 <lb n="2"/>
+ 	  From ar-Rumāḥis (i)bn ʿAbd al-ʿAzīz to Ziyād (i)bn Ṣaḫr.
+		 <lb n="3"/>
+ 	  Reply to his letter.
+		 <lb n="4"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="5"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="809" xml:id="Margoliouth_APRL_1_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I I 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_APRL_1_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106858</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  كتب المشفق 
+<lb n="2"/>  الحال 
+<lb n="3"/>  اللّه عز وجل ثم إلى الأمير 
+<lb n="4"/>  الحاج حاجّا على يديه وفي 
+<lb n="5"/>  والّذي أردنا 
+<lb n="6"/>  من اللّه ولم يبق فيه 
+<lb n="7"/>  يرد الصّبيان وأضعاف الرّجال 
+<lb n="8"/>  تملّك علينا وسد الثّغر 
+<lb n="9"/>  الثّغر لا ملجأ لنا فيه 
+<lb n="10"/>  إلّا سبقته إلى الأمير 
+<lb n="11"/>  وأرجوا أن يصوننا اللّه 
+<lb n="12"/>  الأمير أدام اللّه تأييده 
+<lb n="13"/>  أعز اللّه الأمير الحائط القبلي منه 
+<lb n="14"/>  تشقق من جهات كثيرة ورفعها 
+<lb n="15"/>  المهندس إلى ثغر رشيد 
+<lb n="16"/>  باب الما فعلى خير والحائط 
+<lb n="17"/>  الصّيف قبل جري النّيل 
+<lb n="18"/>  <supplied reason="lost" cert="high">أ</supplied>نغط إلى البحر ما وها منه 
+<lb n="19"/>  هذا الحائط على يدي الطّولونيّة 
+<lb n="20"/>  الّذي دخل منه جيش الكفرة <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="21"/>  الأمير أدام اللّه عزّه بالإسكندريّة 
+<lb n="22"/>  وهو أشفق من حادث فلو ورد 
+<lb n="23"/>  أشتوم لمّا تأخّر منها مركب 
+<lb n="24"/>  وبين يديه وهو في هذا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>kataba ăl mušfiqu 
+ <lb n="2"/>ăl ḥāl 
+ <lb n="3"/>ăl lāh ʿazza wa ǧalla ṯumma ʾilà ăl ʾamīri 
+ <lb n="4"/>ăl ḥāǧǧ ḥāǧǧ:an ʿalà yaday hi wa fī 
+ <lb n="5"/>wa ăllaḏī ʾaradnā 
+ <lb n="6"/>mina ăl lāhi wa lam yabqa fī hi 
+ <lb n="7"/>yaruddu ăṣ ṣibyānu wa ʾaḍʿāfu ăr riǧāli 
+ <lb n="8"/>tamallaka ʿalay nā wa sudda ăṯ ṯaġru 
+ <lb n="9"/>ăṯ ṯaġru lā malǧaʾa la nā fī hi 
+ <lb n="10"/>ʾillā sbqt hu ʾilà ăl ʾamīri 
+ <lb n="11"/>wa ʾarǧū ʾan yaṣūna nā ăl lāhu 
+ <lb n="12"/>ăl ʾamīr ʾadāma ăl lāhu taʾyīda hu 
+ <lb n="13"/>ʾaʿazza ăl lāhu ăl ʾamīra ăl ḥāʾiṭ ăl qibliyy min hu 
+ <lb n="14"/>tašaqqaqa min ǧihāt:in kaṯīraẗ:in wa rafaʿa hā 
+ <lb n="15"/>ăl muhandisu ʾilà ṯaġri rašīda 
+ <lb n="16"/>bāb ăl māʾi fa ʿalà ḫayr:in wa ăl ḥāʾiṭ 
+ <lb n="17"/>ăṣ ṣayf qabla ǧaryi ăn nīli 
+ <lb n="18"/>ʾnġṭ ʾilà ăl baḥri mā wahā min hu 
+ <lb n="19"/>hāḏā ăl ḥāʾiṭ ʿalà yadayi ăṭ ṭūlūniyyaẗi 
+ <lb n="20"/>ăllaḏī daḫala min hu ǧayšu ăl kafaraẗi **** 
+ <lb n="21"/>ăl ʾamīr ʾadāma ăl lāhu ʿizza hu bi ăl ʾiskandariyyaẗi 
+ <lb n="22"/>wa huwa ʾašfaqa min ḥādiṯ:in fa law warada 
+ <lb n="23"/>ʾuštūmu lammā taʾaḫḫara min hā markab:un 
+ <lb n="24"/>wa bayna yaday hi wa huwa fī hāḏā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="20"/>
+		from which the army of the unbelievers entered .....
+			<lb n="21"/>
+		the Amîr, may God prolong his live, in Alexandria,
+			<lb n="22"/>
+		and he feared a new accident .....
+</ab></div>
+</body>
+</text>
+</TEI>

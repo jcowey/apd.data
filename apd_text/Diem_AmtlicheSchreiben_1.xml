@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1064" xml:id="Diem_AmtlicheSchreiben_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemAmtlicheSchreiben 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_AmtlicheSchreiben_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168932</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  مـ<supplied reason="lost" cert="high">ـن</supplied> عبد الملك بن يزيد <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سلم</supplied> <supplied reason="lost" cert="high">عليك</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">فإنّي</supplied> <supplied reason="lost" cert="high">أحمد</supplied> إليك اللّه الّذي لا إله إلّا هو] 
+<lb n="4"/>  أمّا بعد فإن أحمد بن مسلم <app type="BL"><lem resp="APD">كـ<supplied reason="lost" cert="high">ـتب</supplied> </lem><rdg resp="APD">ذكر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إلىّ</supplied> </lem><rdg resp="APD">لي</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يزعم</supplied> </lem><rdg resp="APD">ø</rdg></app> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">نبطيّا</supplied> <supplied reason="lost" cert="high">من</supplied> 
+<lb n="5"/>  أهل أرضك <gap reason="illegible" extent="4" unit="character" /> له بيتا و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  اشتراه منه <supplied reason="lost" cert="high">فغـ</supplied>ـلبه عليه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  فانظر فيما ذ<supplied reason="lost" cert="high">كر</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  فاستخرج له حقّه منـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ولا تقرّر مظلمة ولا <app type="BL"><lem resp="APD">تأخـ<supplied reason="lost" cert="high">ـد</supplied> </lem><rdg resp="APD">تأخرا
+</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <supplied reason="lost" cert="high">والسّلم</supplied> <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">ور</supplied>حمت اللّه <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl maliki bni yazīda ʾilà *** bni *** salām:un ʿalay ka 
+ <lb n="3"/>fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu fa ʾinna ʾaḥmada bna muslim:in kataba ḏakara ʾilay l ya ī yazʿumu ø ʾanna nabaṭiyy:an min 
+ <lb n="5"/>ʾahli ʾarḍi ka **** la hu bayt:an wa *** 
+ <lb n="6"/>ĭštarà hu min hu fa ġalaba hu ʿalay hi *** 
+ <lb n="7"/>fa ŭnẓur fī mā ḏakara *** fa ʾin *** 
+ <lb n="8"/>fa ĭstaḫriǧ la hu ḥaqqa hu min hu *** 
+ <lb n="9"/>wa lā tuqarrir maẓlimaẗ:an wa lā taʾaḫḫur:an taʾḫuḏ *** 
+ <lb n="10"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im]  Namen des barmherzigen und gnädigen Gottes.
+			<lb n="2"/>
+		Vo[n] ʿAbdalmalik ibn Yazīd [an X ibn Y. Heil sei auf Dir.]
+			<lb n="3"/>
+		[Ic]h [lobe] Dir Gott, außer dem es keinen Gott gibt.
+			<lb n="4"/>
+		Sodann: Aḥmad ibn Muslim sch[rieb an mich, wobei er angab, ein Untertan von]
+			<lb n="5"/>
+		den Bewohnern Deiner Provinz habe ihm ein Haus [...] und [
+			<lb n="6"/>
+		er habe es von ihm gekauft; [da ha]be er ihn darum betrogen [
+			<lb n="7"/>
+		so untersuche, was er angegeben hat [... Wenn ...,]
+			<lb n="8"/>
+		dann verhilf ihm zu seinem Recht  [ihm] gegenüber [
+			<lb n="9"/>
+		und laß kein Unrecht bestehen und ni[mm] nicht [
+			<lb n="10"/>
+		[Das Heil sei auf Dir und die G]nade Gottes[
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="625" xml:id="Jahn_JBW_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106741</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وقليل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  فاحمل منّا <app type="BL"><lem resp="APD">عا<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" />ـه </lem><rdg resp="APD">غلّة</rdg></app> <gap reason="illegible" extent="2" unit="character" /> وانظر يأخي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  الانتشا بأرضي وتفقّدها وعمل الفراغ 
+<lb n="4"/>  فيها <app type="BL"><lem resp="APD">ومر </lem><rdg resp="“Levi della Vida, Letters p. 133”">ومر</rdg></app> يوسف يذهب إلى زريق 
+<lb n="5"/>  حتّا يخرج معه ويفرغ منها فإن لم يخرج 
+<lb n="6"/>  معه زريق فليذهب إلى ذكير فإنّه 
+<lb n="7"/>  سوف يأمره يخرج معه أو يبعث <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  معه غير <app type="BL"><lem resp="APD">منافع </lem><rdg resp="“Levi della Vida, Letters p. 133”">مدافع</rdg></app> وزريق على حال أن <app type="BL"><lem resp="APD">حج </lem><rdg resp="“Levi della Vida, Letters p. 134”">يحجّ</rdg></app> 
+<lb n="9"/>  وهو لا منيع إن شا اللّه فإنّي لا أقدر أحج 
+<lb n="10"/>  حتّا أفرغ إن شا اللّه <app type="BL"><lem resp="APD">مع </lem><rdg resp="“Levi della Vida, Letters p. 134”">ورد </rdg><rdg resp="“Levi della Vida, Letters p. 134”">معي</rdg></app> كتابك 
+<lb n="11"/>  إلي بخبرك وحالك وخبر <app type="BL"><lem resp="APD">والدتي </lem><rdg resp="“LR”">والدي</rdg></app> 
+<lb n="12"/>  أبقاه اللّه وإبرهيم وعرفة 
+<lb n="13"/>  وقد بلغني وفاة موسى بن وليد 
+<lb n="14"/>  يغمّني وفر غم شديد فغيّر اللّه 
+<lb n="15"/>  <app type="BL"><lem resp="APD">بجنسه </lem><rdg resp="“Levi della Vida, Letters p. 134”">بحسنه</rdg></app> مصيبة ونقول إنّا للّه 
+<lb n="16"/>  وإنّا إليه راجعون فرحمه اللّه 
+<lb n="17"/>  وغفر له ورضي عنه 
+<lb n="18"/>  وصلى اللّه على محمد النبى 
+<lb n="19"/>  وعليك السّلام كتب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa qalīl *** 
+ <lb n="2"/>fa ĭḥmil min nā ʿʾ**h ġallaẗ:an ** wa ŭnẓur yā ʾaḫ ī *** 
+ <lb n="3"/>ăli ĭntišāʾ bi ʾarḍi ī wa tafaqqad hā wa ʿamala ăl farāġi 
+ <lb n="4"/>fī hā wa marra mur yūsufa yūsufu yaḏhabu ʾilà zurayq:in 
+ <lb n="5"/>ḥattā yaḫruǧa maʿa hu wa yafruġa min hā fa ʾin lam yaḫruǧ 
+ <lb n="6"/>maʿa hu zurayq:un fa l yaḏhab ʾilà ḏukayr:in fa ʾinna hu 
+ <lb n="7"/>sawfa yaʾmuru hu yaḫruǧu maʿa hu ʾaw yabʿaṯu ** 
+ <lb n="8"/>maʿa hu ġayra manāfiʿa mudāfiʿ:in wa zurayq:un ʿalà ḥāl:in ʾan ḥaǧǧa yaḥuǧǧa 
+ <lb n="9"/>wa huwa lā manīʿ:un ʾin šāʾa ăl lāhu fa ʾin nī lā ʾaqdiru ʾaḥuǧǧu 
+ <lb n="10"/>ḥattā ʾafraġu ʾin šāʾa ăl lāhu maʿa warada maʿ ø ī kitābi kitābu ka 
+ <lb n="11"/>ʾilay ya bi ḫabari ka wa ḥāli ka wa ḫabari wālidat wālid ī 
+ <lb n="12"/>ʾabqā hu ăl lāhu wa ʾibrāhīma wa ʿarafaẗa 
+ <lb n="13"/>wa qad balaġa nī wafāẗu mūsà ĭbni walīd:in 
+ <lb n="14"/>yaġummu nī wafra ġamm:in šadīd:in fa ġayyara ăl lāhu 
+ <lb n="15"/>bi ǧinsi ḥusni hi muṣībaẗ:an wa naqūlu ʾin nā li l lāhi 
+ <lb n="16"/>wa ʾin nā ʾilay hi rāǧiʿūna fa raḥima hu ăl lāhu 
+ <lb n="17"/>wa ġafara la hu wa raḍiya ʿan hu 
+ <lb n="18"/>wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi 
+ <lb n="19"/>wa ʿalay ka ăs salāmu kataba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		oder wenig ..............
+			<lb n="2"/>
+		So transportiere die Ern[te?] von uns [... und sieh, oh mein Bruder, ...
+			<lb n="3"/>
+		des Wachsens auf meinem Grundstücke, und prüfe es und die Schlußarbeit
+			<lb n="4"/>
+		darauf. Yūsuf ist vorbeigekommen, um sich zu Zuraiq zu begeben,
+		... give an order to Yūsuf that he may go ...
+			<lb n="5"/>
+		damit er mit ihm herauskomme und sie beendige. Wenn
+			<lb n="6"/>
+		... Zukayr ...
+		Zuraiq nicht mit ihm herauskommt, so möge er sich zu Ḏu Kair begeben; er wird
+			<lb n="7"/>
+		ihm sicher den Auftrag geben mit ihm herauszukommen oder wird ........
+			<lb n="8"/>
+		mit ihm schicken ohne irgendwelchen Gewinn. Zuraiq ist (zwar) gerade (befindet sich) daran, die Pilgerfahrt anzutreten,
+		... without any opposition from his side ...
+			<lb n="9"/>
+		doch ist er, will&#039;s Gott, nicht unzugänglich. Ich vermag den Ḥaǧǧ nicht auszuführen,
+		... he cannot be hindered ...
+			<lb n="10"/>
+		bevor ich frei bin - so Gott will - zugleich mit Deinem Brief
+		... your letter arrived/your letter is with me
+			<lb n="11"/>
+		an mich mit der Kunde von Dir und Deinem Befinden und Kunde von meinem Vater,
+			<lb n="12"/>
+		Gott laße ihn lange leben, Ibrahīm und ʿArafa.
+			<lb n="13"/>
+		Eben hat mich (die Nachricht vom) Hinscheiden Mūsā ben Walīd&#039;s erreicht,
+			<lb n="14"/>
+		das mich mit dem Übermaße höchsten Kummers erfüllt. Gott wandle denn das Unglück
+		... May God, 
+			<lb n="15"/>
+		by his bounty, ...
+		in seiner Familie - und wir sagen: Fürwahr wir sind Gottes
+			<lb n="16"/>
+		und zu ihm kehren wir wieder zurück. Gott sei ihm barmherzig,
+			<lb n="17"/>
+		verzeihe ihm und sei mit ihm zufrieden.
+			<lb n="18"/>
+		Und Gott segne Muḥammad den Propheten
+			<lb n="19"/>
+		und der Friede sei mit Dir. Er schrieb&#039;s.
+</ab></div>
+</body>
+</text>
+</TEI>

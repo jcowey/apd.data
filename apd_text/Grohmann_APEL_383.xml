@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1912" xml:id="Grohmann_APEL_383" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 383</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_383</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169649</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الّذي قبضه المغاربة 
+<lb n="2"/>  <app type="BL"><lem resp="APD">‫‮جلو<supplied reason="lost" cert="high">ان</supplied> </lem><rdg resp="APD">‮جلوان</rdg></app> <supplied reason="lost" cert="high">بـ</supplied>ـن حسن ‮α طاهر بن <app type="BL"><lem resp="APD">سبب </lem><rdg resp="APD">سبب</rdg></app> ‪αχ‬ 
+<lb n="3"/>  ‮أبو محمّد بن عبد اللّه ‮β رواس بن عپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮زيد بن ربيع ‮α حمود بن <app type="BL"><lem resp="APD">طليـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">طليب</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮خلف بن عبّاس ‮‪αχ‬ علي بن مو<supplied reason="lost" cert="high">سى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮عمران بن إسحق ‮γ يونـ<supplied reason="lost" cert="high">ـس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  حمود بن سلمن ‮α <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăllaḏī qabaḍa hu ăl muġārabaẗu 
+ <lb n="2"/>ǧulwānu ḥulwānu bnu ḥasan:in 1 ṭāhiru bnu sabab:in šabaṯ:in 1+1/2 
+ <lb n="3"/>ʾabū muḥammad:in bnu ʿabdi ăl lāhi 2 ruwāsu bnu ʿaB** *** 
+ <lb n="4"/>zaydu bnu rabīʿ:in 1 ḥamūdu bnu ṭlB* ṭulayb:in *** 
+ <lb n="5"/>ḫalafu bnu ʿabbās:in 1+1/2 ʿaliyyu bnu mūsà *** 
+ <lb n="6"/>ʿimrānu bnu ʾisḥāqa 3 yūnusu bnu *** 
+ <lb n="7"/>ḥamūdu bnu salmāna 1 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		What the Maġribinians have taken over:
+			<lb n="2"/>
+		Ḥulw[ân ib]n Ḥasan 1 Ṭâhir b. Šabaṯ 1 1/2
+			<lb n="3"/>
+		Abû Muḥammad b. ʿAbdallâh 2 Ruwâs b. ʿA.[...]
+			<lb n="4"/>
+		Zaid b. Rabîʿ 1 Ḥamûd b. Ṭulai[b (?) ...]
+			<lb n="5"/>
+		Ḫalaf b. ʿAbbâs 1 1/2 ʿAlî b. Mû[sâ ...]
+			<lb n="6"/>
+		ʿImrân b. Isḥâq 3 Yûnu[s ...]
+			<lb n="7"/>
+		Ḥamûd b. Salmân 1 [...]
+</ab></div>
+</body>
+</text>
+</TEI>

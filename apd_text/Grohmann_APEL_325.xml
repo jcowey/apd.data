@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1810" xml:id="Grohmann_APEL_325" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 325</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_325</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169549</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  يا شيخي وسيّدي ومولاي أطال اللّه لي وبعدي بقاك وجعلني من كل سو ومكروه فداك 
+<lb n="recto 3"/>  كتابي من طبريّة غداة يوم الأربعا لعشر بقين من جمادى الأولى عن حال سلامة اللّه وليّها والمحمود 
+<lb n="recto 4"/>  عليها وعن شوق إليك شديد وصبابة نحوك لا عدمتك ولا خلوت منك أبدا وقد صار رسمنا مع 
+<lb n="recto 5"/>  سيّدي أخوك أبي مهدي أيّدكما اللّه وصحّح <sic n="superfluous">اسمى</sic> اسم أخوك أبو صلح عند سيّدنا أيّده اللّه<del rend="erasure" status="unremarkable">واطلق</del> <del rend="erasure" status="unremarkable">لنا</del>وأنا يأخي أعزّك اللّه 
+<lb n="recto 6"/>  فراجع إلى حساب في غداة غد إن شا اللّه وتكتب كتبك يأخي أعزّك اللّه كتبك على الرّسم الأوّل كما 
+<lb n="7 verso 1"/>  فعلت ذلك واعلم يأخي أعزّك اللّه أن هذا زمان ليس يصير فيه الدّراهم إلى أحد <supplied reason="lost" cert="high">ويخـ</supplied><unclear reason="undefined" cert="high">ـرج</unclear> <supplied reason="lost" cert="high">مـ</supplied>ـن يد <supplied reason="lost" cert="high">صـ</supplied>ـا<supplied reason="lost" cert="high">حـ</supplied>ـبه <supplied reason="lost" cert="high">فـ</supplied>ـاعلم 
+<lb n="8 verso 2"/>  ذلك والدّراهم الّتي أخذتها من أبي محمّد عبد اللّه أعزّه اللّه فادفعها إلى صاحب المعافا أطال اللّه بقاه واكتب إلينا 
+<lb n="9 verso 3"/>  من حيث تستوفيها حتّى نعمل بحسب ذلك والدّراهم الّتي كانت عند أبو عبدوس فقد كتب أبو مهدي 
+<lb n="10 verso 4"/>  إلى المعافا أيّده اللّه بأنّها كلّها له فاكتب إلي بتفصيل الشّي حتّى <app type="BL"><lem resp="APD">يفهمه </lem><rdg resp="Diem">نفهمه</rdg></app> فقد عرّفتك جميع ما عندي 
+<lb n="11 verso 5"/>  فاعلم ذلك 
+<lb n="12 recto at Basmala"/>  وبحياتي عليك يأخي لا تدع كتابي من يدك حتّى تكتب إلي جواب <app type="BL"><lem resp="APD">بمحمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="cf. translation, also proposed by Diem">بمحمّد </rdg><rdg resp="“UB”">بجميع</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “first two letters destroyed, last two undeciphered by Grohmann”">وآله</rdg></app> 
+<lb n="13 recto at Basmala"/>  ما <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14 recto right margin"/>  <supplied reason="lost" cert="high">يقرئـ</supplied>ـك بأفضل السّلم وأبو صلح أ<supplied reason="lost" cert="high">خو</supplied>ك بخـ<supplied reason="lost" cert="high">ـير</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="15 verso right"/>  لمحمّد بن سلام وعلي بن <app type="BL"><lem resp="APD">عبيد </lem><rdg resp="Diem">محمّد</rdg></app> 
+<lb n="16 verso"/>  الشّراعي 
+<lb n="15 verso left"/>  وكيله <app type="BL"><lem resp="APD">النّقير </lem><rdg resp="APD">النّقير</rdg></app> بن أحمد بن عبّاد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā šayḫ ī wa sayyid ī wa mawlā ya ʾaṭāla ăl lāhu l ī wa baʿd ī baqāʾa ka wa ǧaʿala nī min kulli sūʾ:in wa makrūh:in fidāʾa ka 
+ <lb n="3"/>kitāb ī min ṭabariyyaẗa ġadāẗa yawmi ăl ʾarbaʿāʾi li ʿašara baqīna min ǧumādà ăl ʾūlà ʿan ḥāli salāmaẗ:in ăl lāhu waliyyu hā wa ăl maḥmūdu 
+ <lb n="4"/>ʿalay hā wa ʿan šawq:in ʾilay ka šadīd:in wa ṣabābaẗ:in naḥwa ka lā ʿadimtu ka wa lā ḫalawtu min ka ʾabad:an wa qad ṣāra rasmu nā maʿa 
+ <lb n="5"/>sayyid ī ʾaḫū ka ʾabī mahdī ʾayyada kumā ăl lāhu wa ṣuḥḥiḥa ĭsmu ʾaḫū ka ʾabū ṣāliḥ:in ʿinda sayyidi nā ʾayyada hu ăl lāhu wa ʾanā yā ʾaḫ ī ʾaʿazza ka ăl lāhu 
+ <lb n="6"/>fa rāǧiʿ:un ʾilà ḥisāb:in fī ġadāẗi ġad:in ʾin šāʾa ăl lāhu wa taktubu kutuba ka yā ʾaḫ ī ʾaʿazza ka ăl lāhu kutuba ka ʿalà ăr rasmi ăl ʾawwali kamā 
+ <lb n="7"/>faʿalta ḏālika wa ĭʿlam yā ʾaḫ ī ʾaʿazza ka ăl lāhu ʾanna hāḏā zamān:un laysa yaṣīru fī hi ăd darāhimu ʾilà ʾaḥad:in wa yaḫruǧu min yadi ṣāḥibi hi fa ĭʿlam 
+ <lb n="8"/>ḏālika wa ăd darāhimu ăllatī ʾaḫaḏta hā min ʾabī muḥammad:in ʿabdi ăl lāhi ʾaʿazza hu ăl lāhu fa ĭdfaʿ hā ʾilà ṣāḥibi ăl muʿāfā ʾaṭāla ăl lāhu baqāʾa hu wa ŭktub ʾilay nā 
+ <lb n="9"/>min ḥayṯu tastawfī hā ḥattà naʿmala bi ḥasbi ḏālika wa ăd darāhimu ăllatī kānat ʿinda ʾabū ʿabdūsa fa qad kataba ʾabū mahdī 
+ <lb n="10"/>ʾilà ăl muʿāfā ʾayyada hu ăl lāhu bi ʾanna hā kullu hā la hu fa ŭktub ʾilay ya bi tafṣīli ăš šayʾi ḥattà yafhama nafhama hu fa qad ʿarraftu ka ǧamīʿa mā ʿind ī 
+ <lb n="11"/>fa ĭʿlam ḏālika 
+ <lb n="12"/>wa bi ḥayāt ī ʿalay ka yā ʾaḫ ī lā tadaʿ kitāb ī min yadi ka ḥattà taktuba ʾilay ya ǧawāba bi mḥm* muḥammad:in ǧamīʿi *** wa ø ʾāli ø hi 
+ <lb n="13"/>mā *** *** ** *** 
+ <lb n="14"/>yuqriʾu ka bi ʾafḍali ăs salāmi wa ʾabū ṣāliḥ:in ʾaḫū ka bi ḫayri **** **** 
+ <lb n="15"/>li muḥammadi bni salām:in wa ʿaliyyi bni ʿubayd:in muḥammad:in 
+ <lb n="16"/>ăš širāʿiyyi 
+ <lb n="17"/>wakīlu hu ăn nufayru nuqayru bnu ʾaḥmada bni ʿabbāda 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the nam]e of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		O my master, lord and patron - may God prolong your life for me and after me and may He make me your ransom for all (things) evil and abominable, -
+			<lb n="3"/>
+		I am writing from Tiberias (Ṭabarîya) in the early morning of Wednesday, when ten nights are still wanting to Ǧumâdâ I, in a state of safety - which God dispenses and He is praised
+			<lb n="4"/>
+		therefor - and out of vehement desire for you and attachment to you. I would not ever lose you or become destitute of you. Now our draft has already come into the hands of
+			<lb n="5"/>
+		my lord, your brother Abû Mahdî - may God strengthen you both - and the name of your brother Abû Ṣâliḥ has been rectified in the presence of our lord - may God strengthen him -〚and he gave us〛, while I, O my brother - may God exalt you - am going, please God,
+			<lb n="6"/>
+		... gemäß der ursprünglichen Gewohnheit, ...
+		to come back to (the discussion of) the account in the early morning tomorrow; and you may write your letters, O my brother - may God exalt you -, according to the first draft, as
+			<lb n="7"/>
+		you do so. And know, O my brother - may God exalt you - that this is a time, in which money does not come to anybody [and does not le]av[e] the hand of its [o]w[n]er (easily). [So] take note of
+			<lb n="8"/>
+		it. And hand over the dirhams which you have taken from Abû Muḥammad - may God exalt him - to the companion of al-Muʿâfâ (may God prolong his life), and write to us
+			<lb n="9"/>
+		whence you received it in full, so that we act in accordance therewith. And (as regards) the dirhams which are deposited with Abû ʿAbdûs, now Abû Mahdî has already written
+			<lb n="10"/>
+		... Schreibe mir die Details dieser Sache, damit wir sie verstehen. ...
+		to al-Muʿâfâ - may God strengthen him - (declaring) that they are all his property. Therefore, write to me explaining the matter distinctly so that he may understand it. I have already apprised you of all that is in my keeping.
+			<lb n="11"/>
+		So take note of it,
+			<lb n="12"/>
+		and verily, if my life means something to you, O my brother, do not lay away my letter until you write to me the answer (to it) with Muḥamm[ad] .........
+			<lb n="13"/>
+		what ............ [...] ... ... [
+			<lb n="14"/>
+		[sends] you best greetings, and Abû Ṣâli[ḥ], your brother, be[st] ... [
+			<lb n="15"/>
+		To Muḥammad b. Salâm and ʿAlî b. ʿUbaid,
+			<lb n="16"/>
+		the long necked,
+			<lb n="17"/>
+		his agent an-Nufair b. Aḥmad b. ʿAbbâd.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1387" xml:id="Cahen_Prisonnier" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.CahenPrisonnier</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Cahen_Prisonnier</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169179</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="basmala"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="1"/>  أعرّف <supplied reason="lost" cert="high">القائد</supplied> <supplied reason="lost" cert="high">معزّ</supplied> حفظه اللّه ورعاه وحفظه وتولّاه ولا 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وجعلـني</supplied> من الأسوا فداه أنّني قد انقطع أخباركم عنّي 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ـكم خبر وقد طاق صدري لذلك وما بأدري بحي 
+<lb n="4"/>  <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـيّت ولا يكون <supplied reason="lost" cert="high">أقلّ</supplied> من كتاب تعرّفوني بأخباركم وما أنتم عليه 
+<lb n="5"/>  وقلبي عندكم فعند وصول كتابي هذا تنفّذوا لي جوابه مع 
+<lb n="6"/>  أوّل من يصل ليبرد قلبي لذلك والإنسان يكون له حرمه يقوم 
+<lb n="7"/>  فيه ويسجد ويخلّصه وأنتم قد قطعتوا أخباركم عنّي وأنا ما ألومكم 
+<lb n="8"/>  لأنّي ما حلفت لكم ألومكم عليه لاكن الإنسان يقوم ويسجد والنّاس 
+<lb n="9"/>  في مصر كثير وأصحاب الصّدقات كثير ومن يطلب اللّه تعالى فلا 
+<lb n="10"/>  تغفلوا عنّي بالكلّيّة وأنتم عارفين بما أنا فيه من الضّيق والأسر 
+<lb n="11"/>  فتنفّذوا لي جواب الكتاب سرعة والحي والميّت وتعرّفوني 
+<lb n="12"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ما</supplied> </lem><rdg resp="APD">من</rdg></app> <supplied reason="lost" cert="high">كا</supplied>ن <app type="BL"><lem resp="APD">قتل </lem><rdg resp="APD">قتل</rdg></app> مرهف ولا تخفوني شيا من أموركم وتسلّموا 
+<lb n="13"/>  <supplied reason="lost" cert="high">على</supplied> معز الدّولة وعلى أولاده وأنتم مخصوصينن بأتم 
+<lb n="14"/>  السّلام وعلى من تحوطه عنايتكم السّلام وجواب 
+<lb n="15"/>  الكتاب سرعة من كل بد وسبب مع أوّل من يصل <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 1"/>  من عند أخوهم صمصام المأسور بنابلوس 
+<lb n="verso 2"/>  يصل إلى ديار مصر إلى القاهرة حرسها اللّه إلى الباطليّة 
+<lb n="verso 3"/>  إلى <app type="BL"><lem resp="APD">تخت </lem><rdg resp="APD">تخت</rdg></app> السّاباط إلى دار معز الدّولة <gap reason="illegible" precision="low" extent="3"/> العرب 
+<lb n="verso 4"/>  يوصّله إلى <app type="BL"><lem resp="APD">متحلّفين </lem><rdg resp="APD">متحلّفين</rdg></app> صارم الدّولة <app type="BL"><lem resp="APD">القو<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">القوسيّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾuʿarrifu ăl qāʾida muʿizz ḥafiẓa hu ăl lāhu wa raʿā hu wa ḥafiẓa hu wa tawallā hu wa lā 
+ <lb n="3"/>*** wa ǧaʿala nī mina ăl ʾaswāʾi fidāʾa hu ʾanna nī qadi ĭnqaṭaʿa ʾaḫbāru kum ʿann ī 
+ <lb n="4"/>*** *** kum ḫabar wa qad ṭāqa ṣadr ī li ḏālika wa mā bi ʾadrī bi ḥayy:in 
+ <lb n="5"/>wa lā ăl mayyita wa lā yakūnu ʾaqallu min kitāb:in tuʿarrifū nī bi ʾaḫbāri kum wa mā ʾantum ʿalay hi 
+ <lb n="6"/>wa qalb ī ʿinda kum fa ʿinda wuṣūli kitāb ī hāḏā tunaffiḏū l ī ǧawāba hu maʿa 
+ <lb n="7"/>ʾawwali man yaṣilu li yabruda qalb ī li ḏālika wa ăl ʾinsānu yakūnu la hu ḥuramu hu yaqūmu 
+ <lb n="8"/>fī hi wa yasǧudu wa yuḫalliṣu hu wa ʾantum qad qaṭaʿtū ʾaḫbāra kum ʿann ī wa ʾanā mā ʾalūmu kum 
+ <lb n="9"/>liʾan nī mā ḥalaftu la kum ʾalūmu kum ʿalay hi lākinna ăl ʾinsānu yaqūmu wa yasǧudu wa ăn nāsu 
+ <lb n="10"/>fī miṣra kaṯīr:un wa ʾaṣḥābu ăṣ ṣadaqāti kaṯīr:un wa man yaṭlubu ăl lāha taʿālà fa lā 
+ <lb n="11"/>taġfulū ʿann ī bi ăl kulliyyaẗi wa ʾantum ʿārifīna bi mā ʾanā fī hi mina ăḍ ḍīqi wa ăl ʾasri 
+ <lb n="12"/>fa tunaffiḏū l ī ǧawāba ăl kitābi surʿaẗ:an wa ăl ḥayyi wa ăl mayyiti wa tuʿarrifū nī 
+ <lb n="13"/>mā man kāna qatala qibala murhaf murhaf:in wa lā taḫfū nī šayʾ:an min ʾumūri kum wa tusallimū 
+ <lb n="14"/>ʿalà muʿizzi ăd dawlaẗi wa ʿalà ʾawlādi hi wa ʾantum maḫṣūṣīna bi ʾatammi 
+ <lb n="15"/>ăs salāmi wa ʿalà man taḥūṭu hu ʿināyatu kumu ăs salāmu wa ǧawāb 
+ <lb n="16"/>ăl kitābi surʿaẗ:an min kulli budd:in wa sabab:in maʿa ʾawwali man yaṣilu * 
+ <lb n="17"/>min ʿindi ʾaḫū hum ṣamṣāma ăl maʾsūri bi nābulūsa 
+ <lb n="18"/>yaṣil ʾilà diyāri miṣra ʾilà ăl qāhiraẗi ḥarasa hā ăl lāhu ʾilà ăl bāṭiliyyaẗi 
+ <lb n="19"/>ʾilà taḥti taḫti ăs sābāṭi ʾilà dāri muʿizzi ăd dawlaẗi *** ăl ʿarab 
+ <lb n="20"/>yuwaṣṣil hu ʾilà mutaḥallifīna mutaḫallifīna ṣārimi ăd dawlaẗi ăl qū** qūsiyyi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux.
+			<lb n="2"/>
+		Je fais savoir (au qâ&#039;id Mu&#039;izz), Dieu le protège et l&#039;ait sous sa garde, et en son amitié et ne
+			<lb n="3"/>
+		... (et me constitue) pour lui la rançon de ses maux, que j&#039;ai cessé d&#039;avoir aucune nouvelle de vous
+			<lb n="4"/>
+		...vous (de nouvelle), mon coeur en est angoissé, je ne sais qui est vivant
+			<lb n="5"/>
+		et mort, je n&#039;ai pas (la plus petite) lettre qui m&#039;informe de vos nouvelles et de ce qui vous concerne
+			<lb n="6"/>
+		et pourtant mon coeur est chez vous ; lorsqu&#039;arrivera cette lettre dépêchez-vous de lui répondre avec
+			<lb n="7"/>
+		le premier qui arrive, pour me réconforter le coeur, car l&#039;homme a sa famille où il se lève
+			<lb n="8"/>
+		et se prosterne et qui le préserve et vous avez cessé de m&#039;envoyer aucune nouvelle de vous. Je ne vous blâme pas
+			<lb n="9"/>
+		car je n&#039;ai rien juré qui comporte de blâme pour vous, mais l&#039;homme se lève et se prostèrne, et les gens
+			<lb n="10"/>
+		en Egypte sont nombreux comme le sont les hommes faisant des aumônes et se dirigeant dans le chemin de Dieu le Très Haut. Ne
+			<lb n="11"/>
+		me négligez absolument pas, vous savez dans quelle épreuve et captivité je me trouve
+			<lb n="12"/>
+		et hâtez-vous de répondre à cette lettre vite pour les vivants et les morts et faites-moi savoir
+			<lb n="13"/>
+		(ce qu&#039;il en a été) de Murhaf et ne me cachez rien de vos affaires, saluez
+			<lb n="14"/>
+		Mu&#039;izz ad-Daula et ses enfants et il y a pour vous tous un salut particulièrement
+			<lb n="15"/>
+		complet et salut à tous ceux qu&#039;embrasse votre sollicitude, et réponse
+			<lb n="16"/>
+		à la lettre vite sans empêchement ni raison avec le premier qui arrive.
+			<lb n="17"/>
+		De la part de leur frère Samsâm qui est prisonnier à Nâbulus
+			<lb n="18"/>
+		Qu&#039;il arrive en Egypte au Caire - Dieu la préserve - à al-Bâṭiliya à
+			<lb n="19"/>
+		[sous le passage] à la maison du Mu&#039;izz ad-Daula ........ l&#039;arabe et
+			<lb n="20"/>
+		qu&#039;il la transmette aux héritiers de Sârim ad-Daula al-Qû...
+</ab></div>
+</body>
+</text>
+</TEI>

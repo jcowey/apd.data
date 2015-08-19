@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1805" xml:id="Rodriguez_Murdi_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMurdi 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Murdi_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169545</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على سيّدنا محمّد وعلى آله وسلّم 
+<lb n="2"/>  قدّمت المباركة عايشة بنت الحاج الوطّاسي زوجها 
+<lb n="3"/>  أبا عبْد اللَّه محمّد بن إبراهيم بن هشام القيْسي على النّيابة عنها 
+<lb n="4"/>  في بيْع أملاكها اَلمعلومة لها داخل غرناطة وغيرها من المواضع 
+<lb n="5"/>  بما يظهر له من الثّمن وبما يراه وعلى القبض والإبرا من بعد القبض 
+<lb n="6"/>  تقديما تامّا مفوّضا مطلقا عامّا أقامته بذالك مقامها 
+<lb n="7"/>  وبدلا منها وقبل المقدّم التّقديم المذكور ورضي به شهد على 
+<lb n="8"/>  الموكّلة والموكّل بما فيه عنْهما من أشهداه به على أنفسهما 
+<lb n="9"/>  وعرفهما بحال صحّة وجواز في السّادس والعشرين لذي القعدة 
+<lb n="10"/>  عام سبْعة وتسعين وثماني مائَة عبد الرّازق ابن سعيد 
+<lb n="11"/>  السّعيدي شهد وفرج بن محمّد بن أحمد شهد أعلم بأدائهما وقبولهما 
+<lb n="12"/>  نيابة عَن القاضي هريرة محمّد بن الزّواوي وفّقه اللّه ولطف 
+<lb n="13"/>  به مسلّما على مَن يقف عليْه انتهى ومن قابله بأصله بماثله 
+<lb n="14"/>  وأشهده من وجب بغرناطة بأعماله <app type="BL"><lem resp="APD">لإعلام </lem><rdg resp="DP">لإعلام</rdg></app> الوارد عليه 
+<lb n="15"/>  عقد الأصل المنتسخ هذا منْه قيّد بذالك شهادته وفي 
+<lb n="16"/>  الحادي والعشرين <supplied reason="lost" cert="high">لرجب</supplied> الفرد المبارك عام ثمانية وتسعين 
+<lb n="17"/>  وثماني مائة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʿalà ʾāli hi wa sallama 
+ <lb n="2"/>qaddamati ăl mubārakaẗu ʿāyišaẗu bintu ăl ḥāǧǧi ăl waṭṭāsiyyi zawǧa hā 
+ <lb n="3"/>ʾabā ʿabdi ăl lāhi muḥammada bna ʾibrāhīma bni hišām:ini ăl qaysiyya ʿalà ăn niyābaẗi ʿan hā 
+ <lb n="4"/>fī bayʿi ʾamlāki hā ăl maʿlūmaẗi la hā dāḫila ġarnāṭaẗa wa ġayri hā mina ăl mawāḍiʿi 
+ <lb n="5"/>bi mā yaẓharu la hu mina ăṯ ṯamani wa bi mā yarā hu wa ʿalà ăl qabḍi wa ăl ʾibrāʾi min baʿdi ăl qabḍi 
+ <lb n="6"/>taqdīm:an tāmm:an mufawwiḍ:an muṭlaq:an ʿāmm:an ʾaqāmat hu bi ḏālika maqāma hā 
+ <lb n="7"/>wa badal:an min hā wa qabila ăl muqaddamu ăt taqdīma ăl maḏkūra wa raḍiya bi hi šahida ʿalà 
+ <lb n="8"/>ăl muwakkilaẗi wa ăl muwakkali bi mā fī hi ʿan humā man ʾašhadā hu bi hi ʿalà ʾanfusi himā 
+ <lb n="9"/>wa ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī ăs sādisi wa ăl ʿišrīna li ḏī ăl qaʿdaẗi 
+ <lb n="10"/>ʿāma sabʿaẗ:in wa tisʿīna wa ṯamānī miʾaẗ:in ʿabdu ăr rāziqi ĭbnu saʿīd:in 
+ <lb n="11"/>ăs saʿīdiyyu šahida wa faraǧu bnu muḥammadi bni ʾaḥmada šahida ʾuʿlima bi ʾadāʾi himā wa qubūli himā 
+ <lb n="12"/>niyābaẗ:an ʿani ăl qāḍī hurayraẗa muḥammadi bni ăz zuwāwiyyi waffaqa hu ăl lāhu wa laṭafa 
+ <lb n="13"/>bi hi musallim:an ʿalà man yaqifu ʿalay hi ĭntahà wa man qābala hu bi ʾaṣli hi bi māṯili hi 
+ <lb n="14"/>wa ʾašhada hu man waǧaba bi ġarnāṭaẗa bi ʾaʿmāli hi li ʾaʿlāmi ʾiʿlāmi ăl wāridi ʿalay hi 
+ <lb n="15"/>ʿaqda ăl ʾaṣli ăl muntasaḫa hāḏā min hu qayyada bi ḏālika šahādaẗi hi wa fī 
+ <lb n="16"/>ăl ḥādī wa ăl ʿišrīna li raǧaba ăl fardi ăl mubāraki ʿāma ṯamāniyaẗ:in wa tisʿīna 
+ <lb n="17"/>wa ṯamānī miʾaẗ:in *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux! Bénédiction et Salut soient accordés à notre Prophète Muḥammad et à sa famille.
+			<lb n="2"/>
+		La vénérable ʿĀʾiša bint al-ḥāǧǧ al-Waṭṭāsī a donné a son époux,
+			<lb n="3"/>
+		Abū ʿAbd Allāh Muḥammad b. Ibrāhīm b. Hišām al-Qaysī mandat pour la représenter
+			<lb n="4"/>
+		dans la vente de ses propriétés réputées lui appartenir à l&#039;intérieur de Grenade et en d&#039;autres lieux,
+			<lb n="5"/>
+		(vente qu&#039;il fera) au prix qui lui paraît juste et comme bon lui semble. (Ce mandat lui donne pouvoir) de prendre possession (du prix) et de délivrer une quittance après la prise de possession.
+			<lb n="6"/>
+		Mandat total (qui donne au mandataire) une délégation définitive et générale. ʿĀʾiša a ainsi mandaté son époux pour agir en son nom
+			<lb n="7"/>
+		et à sa place. Le mandataire a accepté le mandat mentionné et l&#039;a agréé. Ont témoigné
+			<lb n="8"/>
+		pour la mandante et le mandataire du contenu (de l&#039;acte) en leur nom les témoins qu&#039;ils ont pris sur leur personne
+			<lb n="9"/>
+		et qu&#039;ils savent qu&#039;ils sont sains (de corps et d&#039;esprit) et capables juridiquement le vingt-six ḏū l-qaʿda
+			<lb n="10"/>
+		l&#039;an huit cent quatre-vingt-dix-sept. ʿAbd al-Rāziq b. Saʿīd
+			<lb n="11"/>
+		al-Saʿīdī a témoigné, et Faraǧ b. Muḥammad b. Aḥmad témoigné. On a reconnu leur témoignage oral et leur acceptation
+			<lb n="12"/>
+		par délégation du cadi Hurayra Muḥammad b. Aḥmad b. al-Zuwāwī - que Dieu lui accorde assistance et bienveillance!
+			<lb n="13"/>
+		Paix sur qui s&#039;occupe de cela (de son métier). Fin. En comparant (cet acte) et l&#039;original, ils (se sont avérés) identiques.
+			<lb n="14"/>
+		À la demande (du juge) compétent de Grenade, dans l&#039;exercice de ses fonctions, et (à la demande) des (personnes) notables qui se sont adressées à lui,
+			<lb n="15"/>
+		(les témoins instrumentraires ont attesté) que celle-ci était une copie du contrat original. Selon quoi, leurs témoignages ont été enregistrés
+			<lb n="16"/>
+		le vingt et un [raǧab], l&#039;isolé et sacré, de l&#039;année huit cent
+			<lb n="17"/>
+		quatre-vingt-dix-huit. [Deux signatures illisibles et paraphées].
+</ab></div>
+</body>
+</text>
+</TEI>

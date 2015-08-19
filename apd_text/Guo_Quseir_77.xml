@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="977" xml:id="Guo_Quseir_77" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 77</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_77</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113722</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المملوك 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم أبو الفتح بن معالي 
+<lb n="3"/>  يقبّل الأرض بالمجلس العالي السّامي الأجلّي الأفضلي المخدومي المحترمي 
+<lb n="4"/>  الموفّقي السّعيدي المفطّلي <supplied reason="lost" cert="high">سيف</supplied> الدّولة والدّين <supplied reason="lost" cert="high">كنز</supplied> الفقرا <supplied reason="lost" cert="high">والمساكين</supplied> 
+<lb n="5 right margin"/>  والأمر بحمد اللّه تعالى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl mamlūku 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾabū ăl fatḥi bnu maʿālī 
+ <lb n="3"/>yuqabbilu ăl ʾarḍa bi ăl maǧlisi ăl ʿālī ăs sāmī ăl ʾaǧalliyyi ăl ʾafḍaliyyi ăl maḫdūmiyyi ăl muḥtaramiyyi 
+ <lb n="4"/>ăl muwaffaqiyyi ăs saʿīdiyyi ăl mufaṭṭaliyyi sayfi ăd dawlaẗi wa ăd dīni kanzi ăl fuqarāʾi wa ăl masākīni 
+ <lb n="5"/>wa ăl ʾamru bi ḥamdi ăl lāhi taʿālà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The servant
+			<lb n="2"/>
+		In the name of God, the Merciful, the Compassionate. Abū al-Fatḥ ibn Maʿālī
+			<lb n="3"/>
+		kisses the ground before the high, the noble, the most exalted, the most revered seat, Who Is To Be Served, the respected,
+			<lb n="4"/>
+		the successful, the auspicious, the favored, the Sword of the State and the Religion, [the Treasure for] the poor [and needy.......].
+			<lb n="5"/>
+		The command [is from God.] Praise to be God Almighty!
+</ab></div>
+</body>
+</text>
+</TEI>

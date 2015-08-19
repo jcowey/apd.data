@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="320" xml:id="Grohmann_APEL_114" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 114 (=  Chrest.Khoury I 38)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_114</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106556</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر عبد اللّه بن محمّد ان العشرين 
+<lb n="3"/>  دينارا الّتي ضمنها يحيى بن إسحق عن 
+<lb n="4"/>  شبيب بن ثيدر فلاوه قد قبض 
+<lb n="5"/>  منها ستّة عشر دينارا ولم 
+<lb n="6"/>  يبق له من ذلك إلّا أربعة الدّنانير 
+<lb n="7"/>  على يحيى بن إسحق شهد حفص بن محمّد 
+<lb n="8"/>  على عبد اللّه بن محمّد 
+<lb n="9"/>  بكلّما في هذا الكتاب 
+<lb n="10"/>  شهد <app type="BL"><lem resp="APD">تتوس </lem><rdg resp="APD">تتوس</rdg></app> بن يحنّس بما في هذا الكتاب 
+<lb n="11"/>  ‮وكتب في شعبان سنة ‪σμα‬ 
+<lb n="12"/>  شهد رجا بن عطا على إقرار عبد اللّه بن محمّد 
+<lb n="13"/>  ويحيى بن إسحق بما في هذا الكتاب 
+<lb n="14 right"/>  شهد أحمد بن محمّد بن أبي الفرج الإصبهاني الّبزّاز على إقرار عبد اللّه بن محمّد 
+<lb n="14 bottom"/>  أقر أنّه لم يبق له على يحيى بن إسحق من الخط الّذي له عنده إلّا أربعة 
+<lb n="14 left"/>  الدّنانير وذلك في شعبان سنة إحدى وأربعين وماتين وأقر عبد اللّه بن محمّد أن الخط 
+<lb n="14 top"/>  الّذي عنده ليحيى بن إسحق لم يبق <gap reason="illegible" extent="5" unit="character" /> على يحيى إلّا أربعة الدّنانير <gap reason="illegible" extent="12" unit="character" /> 
+<lb n="15"/>  وأحمد بن عيسى وكتب شهادته بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ʿabdu ăl lāhi bnu muḥammad:in ʾanna ăl ʿišrīna 
+ <lb n="3"/>dīnār:ani ăllatī ḍamina hā yaḥyà bnu ʾisḥāqa ʿan 
+ <lb n="4"/>šabība bni ṯiyudura flāwaha qad qabaḍa 
+ <lb n="5"/>min hā sittaẗa ʿašara dīnār:an wa lam 
+ <lb n="6"/>yabqa la hu min ḏālika ʾillā ʾarbaʿaẗu ăd danānīri 
+ <lb n="7"/>ʿalà yaḥyà bni ʾisḥāqa šahida ḥafṣu bnu muḥammad:in 
+ <lb n="8"/>ʿalà ʿabdi ăl lāhi bni muḥammad:in 
+ <lb n="9"/>bi kulli mā fī hāḏā ăl kitābi 
+ <lb n="10"/>šahida tanūsu titūsu bnu yuḥannisa bi mā fī hāḏā ăl kitābi 
+ <lb n="11"/>wa kataba fī šaʿbāna sanaẗa 241 
+ <lb n="12"/>šahida riǧāʾu bnu ʿaṭāʾa ʿalà ʾiqrāri ʿabdi ăl lāhi bni muḥammad:in 
+ <lb n="13"/>wa yaḥyà bni ʾisḥāqa bi mā fī hāḏā ăl kitābi 
+ <lb n="14"/>šahida ʾaḥmadu bnu muḥammadi bni ʾabī ăl faraǧi ăl ʾiṣbahāniyyu ăl bazzāzu ʿalà ʾiqrāri ʿabdi ăl lāhi bni muḥammad:in 
+ <lb n="15"/>ʾaqarra ʾanna hu lam yabqa la hu ʿalà yaḥyà bni ʾisḥāqa mina ăl ḫaṭṭi ăllaḏī la hu ʿinda hu ʾillā ʾarbaʿaẗu 
+ <lb n="16"/>ăd danānīri wa ḏālika fī šaʿbāna sanaẗa ʾiḥdà wa ʾarbaʿīna wa miʾatayni wa ʾaqarra ʿabdu ăl lāhi bnu muḥammad:in ʾanna ăl ḫaṭṭa 
+ <lb n="17"/>ăllaḏī ʿinda hu li yaḥyà bni ʾisḥāqa lam yabqa ***** ʿalà yaḥyà ʾillā ʾarbaʿaẗu ăd danānīri ************ 
+ <lb n="18"/>wa ʾaḥmadu bnu ʿīsà wa kataba šahādaẗa hu bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		ʿAbdallâh b. Muḥammad has acknowledged that (4/5) he has received sixteen dînârs of the twenty
+		ʿAbd Allāh Ibn Muḥammad a reconnu que vingt
+			<lb n="3"/>
+		dînârs in respect to which Yaḥyâ b. Isḥâq had stood surety for
+		dīnārs, pour lesquels Yaḥyā Ibn Isḥaq s’est porté garant à la place de
+			<lb n="4"/>
+		Šabîb b. Theodor Flâwe;
+		Šabīb Ibn Théodore Flāwe, il en a déjà reçu
+			<lb n="5"/>
+		and there does not
+		seize dīnārs et qu’il ne
+			<lb n="6"/>
+		lui en reste que quatre dīnārs
+		remain thereof to the debit of Yaḥyâ b. Isḥâq
+			<lb n="7"/>
+		auprès de Yaḥyā Ibn Isḥaq. Ḥafṣ Ibn Muḥammad a témoigné,
+		but four dînârs. Witness is Ḥafṣ b. Muḥammad
+			<lb n="8"/>
+		à la charge de ʿAbd Allāh Ibn Muḥammad,
+		as to the responsibility of ʿAbdallâh b. Muḥammad
+			<lb n="9"/>
+		de tout le contenu de ce document.
+		respecting all that (is contained) in this document.
+			<lb n="10"/>
+		A témoigné Tanūs Ibn Yoḥannes du contenu de ce document
+		Tanûs b. Yoḥannes is witness respecting that which (is contained) in this document
+			<lb n="11"/>
+		and he has written (it) in Šaʿbân of the year 241.
+		et il (l’)écrivit en šaʿbān de l’année 241.
+			<lb n="12"/>
+		A témoigné Raǧā Ibn ʿAṭā de la reconnaissance de ʿAbd Allāh Ibn Muḥammad
+		Riǧâ b. ʿAṭâ is witness too the acknowledgment by ʿAbdallâh b. Muḥammad
+			<lb n="13"/>
+		and (by) Yaḥyâ b. Isḥâq respecting the tenor of this document.
+		et de Yaḥyā Ibn Isḥāq du contenu de ce document.
+			<lb n="14"/>
+		A témoigné Aḥmad Ibn Muḥammad Ibn Abī l-Faraǧ al Isbahānī, le marchand d’étoffes, de la reconnaissance de ʿAbd Allāh Ibn Muḥammad
+		Witness is Aḥmad b. Muḥammad b. Abiʾl-Faraǧ, originating from Iṣbahân, the linen merchant, to the acknowledgment by ʿAbdallâh b. Muḥammad;
+			<lb n="15"/>
+		he has acknowledged that there does not remain to his credit (and) to the debit of Yaḥyâ b. Isḥâq according to the obligation in writing which is in his favour and (held) by him, but four
+		qu’il ne lui reste comme dette sur le compte de Yaḥyā Ibn Isḥāq de l’obligation en sa faveur et au débit de celui-ci, que les quatre
+			<lb n="16"/>
+		dînârs, and this in Šaʿbân of the year two hundred and forty one; and ʿAbdallâh b. Muḥammad has acknowledged that the obligation in writing 
+		dīnārs, et ceci en šaʿbān de l’année deux cent quarante et une; (et il a témoigné) que ʿAbd Allāh Ibn Muḥammad a reconnu que de l’obligation
+			<lb n="17"/>
+		qu’il a et qui charge Yaḥyā Ibn Isḥāq il ne reste [...] sur le compte de Yaḥyā que les quatre dīnārs [....]
+		which is (held) by him, is to the favour of Yaḥyâ b. Isḥâq; there does not remain .......... to the debit of Yaḥyâ b. Isḥâq but four dînârs ........
+			<lb n="18"/>
+		And (by) Aḥmad b. ʿÎsâ who has written his testimony in his (own) handwriting.
+		Et (a témoigné) aussi Aḥmad Ibn ʿĪsā, et il écrivit son témoignage de sa main.
+</ab></div>
+</body>
+</text>
+</TEI>

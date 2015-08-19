@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="522" xml:id="Becker_PAF_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106692</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">أما</supplied> بعد فقد <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> على ا<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="3"/>  من متاع ا<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="4"/>  ذلك <app type="BL"><lem resp="APD">قد </lem><rdg resp="APD">فذكرت</rdg></app> كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="5" unit="character" /> 
+<lb n="5"/>  القلزم قبل <unclear reason="undefined" cert="high">حـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="5" unit="character" /> 
+<lb n="6"/>  كل عام وإن <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="7"/>  قد قل ماه <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="8"/>  احمل شأني <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="9"/>  فإذا جاك <supplied reason="lost" cert="high">كتبي</supplied> <supplied reason="lost" cert="high">هذا</supplied> 
+<lb n="10"/>  فعجّل الّذي <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">على</supplied> </lem><rdg resp="APD">في</rdg></app> 
+<lb n="11"/>  أرضك من ذ<supplied reason="lost" cert="high">لك</supplied> 
+<lb n="12"/>  ولا تجعلن <app type="BL"><lem resp="“Becker; Diem, Dienstschreiben p. 247; Diem, Aphrodito p. 255”"><unclear reason="undefined" cert="high">عـ</unclear><supplied reason="lost" cert="high">ـلى</supplied> </lem><rdg resp="APD">عن</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ذلك</supplied> </lem><rdg resp="“Diem, Dienstschreiben p. 247; Diem, Aphrodito p. 255”">نفسك</rdg></app> 
+<lb n="13"/>  سبيلا وا<supplied reason="lost" cert="high">لسّلم</supplied> <supplied reason="lost" cert="high">على</supplied> 
+<lb n="14"/>  من اتّبع ا<supplied reason="lost" cert="high">لهدى</supplied> <supplied reason="lost" cert="high">وكتب</supplied> 
+<lb n="15"/>  عيسى في <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="16"/>  سنة إحدى <supplied reason="lost" cert="high">وتسعين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾammā baʿdu fa qad ***** 
+ <lb n="2"/>*** ʿalà ʾ***** 
+ <lb n="3"/>min matāʿ ا***** 
+ <lb n="4"/>ḏālika qad fa ø ḏakarta ḏakartu k***** 
+ <lb n="5"/>ăl qulzum qabla ḥ***** 
+ <lb n="6"/>kull ʿām:in wa ʾin ***** 
+ <lb n="7"/>qad qalla māʾu hu ***** 
+ <lb n="8"/>ĭḥmal šaʾn ī ***** 
+ <lb n="9"/>fa ʾiḏā ǧāʾa ka kitāb ī hāḏā 
+ <lb n="10"/>fa ʿaǧǧili ăllaḏī ʿalà fī 
+ <lb n="11"/>ʾarḍi ka min ḏālika 
+ <lb n="12"/>wa lā taǧʿalanna ʿalà ʿan ḏālika nafsi ø ka 
+ <lb n="13"/>sabīl:an wa ăs salāmu ʿalà 
+ <lb n="14"/>mani ĭttabaʿa ăl hudà wa kataba 
+ <lb n="15"/>ʿīsà fī ***** 
+ <lb n="16"/>sanaẗ ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="12"/>
+		und gib ja keinen Anlaß, Dich zu tadeln!
+</ab></div>
+</body>
+</text>
+</TEI>

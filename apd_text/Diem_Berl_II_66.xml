@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1579" xml:id="Diem_Berl_II_66" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 66</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_66</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169337</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أدام اللّه كرامتك وسلامتك وسعادتك وأتم نعمته عليك وزاد في إحسانه إليك وفضله عندك وجميل مواهبه لديك كتابي إليك أعزّك اللّه يوم الجمعة <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكنت</supplied> 
+<lb n="recto 3"/>  قد كتبت إليك كتاب قبل هذا وعرّفتك فيه خبر علّة عرضت لي وسألتك أن تكتب إلي جواب كتابي فلم أرى لك جواب وأرجو أن كتابك <app type="BL"><lem resp="APD">ينتهي </lem><rdg resp="APD">ينهى</rdg></app> بالقر<supplied reason="lost" cert="high">يـ</supplied>ـب إن شا <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وقد</supplied> <supplied reason="lost" cert="high">وجّهت</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">مع</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  بن المبارك بثوب المرأة وثوبين لأبي إسحاق بن الهيثم وأرجوا قد وصلت إن شا اللّه وقد جا على غاية الجودة ثوب المرأة ووجّـ<supplied reason="lost" cert="high">ـهت</supplied> إليك بـ<gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  وقد وجّهت نافع إلى ما قبلك ووجّهت معه مقنعتين لابن موسى الجراري بأربعة الدّنانير <del rend="erasure" status="unremarkable">وڤپراط</del>سوا ووجّهت معه <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  ووجّهت معه <del rend="erasure" status="unremarkable">بمعپقه</del>نمڤپعة لأبي سلمة بدينرين إلّا قيراطين جيّدة فأحب أن توصلها إليهم وتأخذ منهم كتب <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وأحبّ</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تصير</supplied> <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  أعزّه اللّه وتسله إن كان باع العمائم فيوجّه إلي بثمنها وإن كان لم يبيعها وتهيّأ له البيع فيبيع بعد أن <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">تشعـ</unclear><supplied reason="lost" cert="high">ـره</supplied> </lem><rdg resp="APD">يشعر</rdg></app> <supplied reason="lost" cert="high">بكتابي</supplied> <supplied reason="lost" cert="high">وإن</supplied> <supplied reason="lost" cert="high">لم</supplied> <supplied reason="lost" cert="high">يتهيّأ</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">البيع</supplied> <supplied reason="lost" cert="high">فيوجّه</supplied> 
+<lb n="recto 8"/>  بالعمائم إلي إلى دمياط مع النّوتي إن شا اللّه وكذلك إن باع يوجّه إلي بالدّنانير إلى دمياط مع الـ<supplied reason="lost" cert="high">ـنّـ</supplied>ـوتي إن شـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وأنا</supplied> <supplied reason="lost" cert="high">معوّل</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">الخروج</supplied> 
+<lb n="recto 9"/>  فقد استدفّت حوائجي وأرجوا يهب اللّه لي العافية ويسهّل خروجي إن شا اللّه <supplied reason="lost" cert="high">و</supplied>الخيرة ولا قوّة إلّا <sic n="superfluous">بااللّه</sic><supplied reason="omitted" cert="high">پالله</supplied> العظـ<supplied reason="lost" cert="high">ـيم</supplied> <supplied reason="lost" cert="high">وأحبّ</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تعرّف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  بكتابي و<supplied reason="lost" cert="high">تقـ</supplied>ـول له يتفضّل ويوجّه إلي بالدّنانير فإنّي محتاج إليها وأرجوا يجي القبض في هذه الأيّام إن شا اللّه فأحب أن تحـ<supplied reason="lost" cert="high">ـثّ</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">وكنت</supplied> <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">سألته</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">كتب</supplied> <supplied reason="lost" cert="high">إليه</supplied> 
+<lb n="recto 11"/>  سبقت يتـ<supplied reason="lost" cert="high">ـفـ</supplied>ـضّل بتعجيل إنفاذها إلي مع نوتيّين إن شا اللّه إلى دمياط ووكّد عليه في ذلك غاية الـ<supplied reason="lost" cert="high">ـتّوكيد</supplied> <supplied reason="lost" cert="high">مع</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">بخبرك</supplied> <supplied reason="lost" cert="high">وحالك</supplied> <supplied reason="lost" cert="high">وحوائجك</supplied> 
+<lb n="recto 12"/>  إن شا اللّه و<supplied reason="lost" cert="high">مـ</supplied>ـا تعمل اكتتابك في ا<supplied reason="lost" cert="high">لـ</supplied>ـمركب وما يتهيّأ لك أنت من الخروج إلى مكّة أو التّرجية حتّا أعلم إن شا اللّـ<supplied reason="lost" cert="high">ـه</supplied> والسّلم عليك ورحـ<supplied reason="lost" cert="high">ـمة</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وبركاته</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1 right"/>  <supplied reason="lost" cert="high">لأبي</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> أدام اللّه كرامته وسعادته 
+<lb n="verso 2 right"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بن</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه اللّه 
+<lb n="verso left"/>  من محمّد بن بكر بن منتصر الأندلسي وعبد اللّه بن محمّد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾadāma ăl lāhu karāmata ka wa salāmata ka wa saʿādata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa faḍli hi ʿinda ka wa ǧamīli mawāhibi hi laday ka kitāb ī ʾilay ka ʾaʿazza ka ăl lāhu yawma ăl ǧumʿaẗi *** wa kuntu 
+ <lb n="3"/>qad katabtu ʾilay ka kitāb qabla hāḏā wa ʿarraftu ka fī hi ḫabara ʿillaẗ:in ʿaraḍat l ī wa saʾaltu ka ʾan taktuba ʾilay ya ǧawāba kitāb ī fa lam ʾarà la ka ǧawāb wa ʾarǧū ʾanna kitāba ka yantahī yunhā bi ăl qarībi ʾin šāʾa ăl lāhu wa qad waǧǧahtu ʾilay ka maʿa *** 
+ <lb n="4"/>bni ăl mubāraki bi ṯawbi ăl marʾaẗi wa ṯawbayni li ʾabī ʾisḥāqa bni ăl hayṯami wa ʾarǧū qad waṣalat ʾin šāʾa ăl lāhu wa qad ǧāʾa ʿalà ġāyaẗi ăl ǧūdaẗi ṯawbu ăl marʾaẗi wa waǧǧahtu ʾilay ka bi ***** *** 
+ <lb n="5"/>wa qad waǧǧahtu nāfiʿ ʾilà mā qibala ka wa waǧǧahtu maʿa hu miqnaʿatayni li ĭbni mūsà ăl ǧirāriyyi bi ʾarbaʿaẗi ăd danānīri sawāʾ:an wa waǧǧahtu maʿa hu **** *** 
+ <lb n="6"/>wa waǧǧahtu maʿa hu bi miqnaʿaẗ:in li ʾabī salamaẗa bi dīnārayni ʾillā qīrāṭayni ǧayyidaẗ:in fa ʾuḥibbu ʾan tūṣila hā ʾilay him wa taʾḫuḏa min hum kutub *** *** wa ʾuḥibbu ʾan tuṣayyira ʾilà *** 
+ <lb n="7"/>ʾaʿazza hu ăl lāhu wa tasala hu ʾin kāna bāʿa ăl ʿamāʾima fa yuwaǧǧih ʾilay ya bi ṯamani hā wa ʾin kāna lam yabīʿ hā wa tahayyaʾa la hu ăl bayʿu fa yabīʿ baʿda ʾan tušʿira yušʿara hu ø bi kitāb ī wa ʾin lam yatahayyaʾ la hu ăl bayʿu fa yuwaǧǧih 
+ <lb n="8"/>bi ăl ʿamāʾimi ʾilay ya ʾilà dimyāṭa maʿa ăn nūtiyyi ʾin šāʾa ăl lāhu wa kaḏālika ʾin bāʿa yuwaǧǧih ʾilay ya bi ăd danānīri ʾilà dimyāṭa maʿa ăn nūtiyyi ʾin šāʾa ăl lāhu wa ʾanā muʿawwil:un ʿalà ăl ḫurūǧi 
+ <lb n="9"/>fa qadi ĭstadaffat ḥawāʾiǧ ī wa ʾarǧū yahiba ăl lāhu l ī ăl ʿāfiyaẗa wa yusahhila ḫurūǧ ī ʾin šāʾa ăl lāhu wa ăl ḫayraẗa wa lā quwwaẗa ʾillā bi ăl lāhi ăl ʿaẓīmi wa ʾuḥibbu ʾan tuʿarrifa *** 
+ <lb n="10"/>bi kitāb ī wa taqūla la hu yatafaḍḍal wa yuwaǧǧih ʾilay ya bi ăd danānīri fa ʾin nī muḥtāǧ:un ʾilay hā wa ʾarǧū yaǧīʾu ăl qabḍu fī hāḏihi ăl ʾayyāmi ʾin šāʾa ăl lāhu fa ʾuḥibbu ʾan taḥuṯṯa ʿalay hi wa kuntu qad saʾaltu hu fī kutub:in ʾilay hi 
+ <lb n="11"/>sabaqat yatafaḍḍal bi taʿǧīli ʾinfāḏi hā ʾilay ya maʿa nūtiyyayni ʾin šāʾa ăl lāhu ʾilà dimyāṭa wa wakkid ʿalay hi fī ḏālika ġāyaẗa ăt tawkīdi maʿa ăl kitābi ʾilay ya bi ḫabari ka wa ḥāli ka wa ḥawāʾiǧi ka 
+ <lb n="12"/>ʾin šāʾa ăl lāhu wa mā taʿmalu ĭktitāba ka fī ăl markabi wa mā yatahayyaʾu la ka ʾanta mina ăl ḫurūǧi ʾilà makkaẗa ʾawi ăt tarǧiyaẗi ḥattā ʾaʿlama ʾin šāʾa ăl lāhu wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu *** 
+ <lb n="13"/>li ʾabī *** **** ʾadāma ăl lāhu karāmata hu wa saʿādata hu 
+ <lb n="14"/>*** *** bni *** *** hu ăl lāhu 
+ <lb n="15"/>min muḥammadi bni bakri bni muntaṣir:ini ăl ʾandalusiyyi wa ʿabdi ăl lāhi bni muḥammad:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Deine ehrenvolle Stellung, Deine Wohlbehaltenheit und Dein Glück andauern, vollende seine Gnade an Dir und erweise Dir noch mehr sein Wohlwollen, seine Gunst und seine schönen Gaben! Ich schreibe Dir - Gott stärke Dich - am Freitag [- - -,]
+			<lb n="3"/>
+		nachdem ich Dir vor diesem Brief schon einen (anderen) geschrieben habe; in ihm habe ich Dir von einer Krankheit berichtet, welche mich, für mich sehr ungelegen, befallen hat, und Dich um Antwort auf meinen Brief gebeten. Aber ich habe von Dir (bisher) keine Antwort erhalten, und (so) hoffe ich auf baldiges Eintreffen Deines Briefes, so [Gott] will. [Ich habe für Dich N. N.]
+			<lb n="4"/>
+		ibn al-Mubārak das Frauengewand und zwei für Abū Isḥāq ibn al-Hayṯam bestimmte Gewänder mitgegeben, und ich hoffe, daß sie (gut) angekommen sind, so Gott will. Es ist äußerst hervorragend ausgefallen, das Frauengewand. Ferner sandte ich an Dich ab [- - -.]
+			<lb n="5"/>
+		Außerdem habe ich Nāfiʿ zu Dir gesandt und ihm zwei für Ibn Mūsā den Krugmacher bestimmte Schleier im Wert von (zusammen) genau vier Dinar mitgegeben. Ferner habe ich ihm [- - -] mitgegeben,
+			<lb n="6"/>
+		und ich habe ihm einen für Abū Salamah bestimmten 〚Scheiler〛Schleier im Wert von zwei Dinar minus zwei Qīrāṭ, \einen von hervorragender Qualität/, mitgegeben. Ich möchte, daß Du sie bei ihnen ablieferst und von ihnen (etwaige) Briefe entgegennimmst [- - -. Ferner möchte ich, daß Du Dich zu N. N.]
+			<lb n="7"/>
+		- Gott stärke ihn - [begibst] und ihn (um folgendes) bittest: Falls er die Turbane verkauft hat, möge er mir den Erlös übersenden. Falls er sie (noch) nicht verkauft hat, ihm aber der Verkauf (voraussichtlich) möglich ist, möge er (sie nunmehr), nachdem Du [ihn von (diesem) meinem Brief (?)] in Kenntnis [gesetzt haben wirst (?)], verkaufen. [Wenn ihm der Verkauf aber nicht möglich ist, möge er]
+			<lb n="8"/>
+		mir die Turbane nach Damietta durch den Schiffer überbringen lassen, so Gott will, und ebenso möge er mir auch, falls er (sie) verkauft hat, das Geld nach Damietta durch den Schiffer überbringen lassen, so [Gott will. Ich beabsichtige (jetzt) die Abreise (zur Pilgerfahrt nach Mekka),]
+			<lb n="9"/>
+		denn mein Reisegepäck liegt bereit, und ich kann (nur) hoffen, daß Gott mir Gesundheit schenkt und es ermöglicht, daß ich abreise, so Gott will, und (durch die Pilgerfahrt) Gnade erlange. Es gibt keine Macht außer bei Gott, dem Allmä[chtigen. Ich möchte ferner, daß Du N. N.]
+			<lb n="10"/>
+		über (diesen) meinen Brief [Bescheid gibst] und ihm ausrichtest, er möge so freundlich sein, das (bewußte) Geld zu übersenden, denn ich benötige es. Ich hoffe, daß das Inkasso (des Geldes) dieser Tage stattfndet, so Gott will. So möchte ich denn, daß Du [ihn drängst. Ich habe ihn schon in]
+			<lb n="11"/>
+		vorhergehenden [Briefen] (vergeblich) [gebeten], er möge so freundlich sein, es mir schnellstens durch zwei Schiffer, so Gott will, nach Damietta überbringen zu lassen. Schärfe ihm dies auf das äußerste [ein! Schreibe mir, was sich bei Dir Neues ergeben hat, wie es Dir geht, und welche Anliegen Du (mir gegenüber) hast,]
+			<lb n="12"/>
+		so Gott will, ferner, wie Du mit der Reservierung eines Platzes auf dem Schiff verfährst und wie es Dir (inzwischen) mit der Abreise nach Mekka bzw. mit der Verschiebung (der Abreise) steht, damit ich Bescheid weiß, so Gott will. Friede sei auf Dir und [Gottes] Gna[de und Segnungen!
+			<lb n="13"/>
+		[An Abū - - -] - Gott lasse seine ehrenvolle Stellung und sein Glück andauern -
+			<lb n="14"/>
+		[N. N. ibn N. N. - es stärke] ihn Gott -
+			<lb n="15"/>
+		von Muḥammad ibn Bakr ibn Muntaṣir al-Andalusī und ʿAbdallāh ibn Muḥammad.
+</ab></div>
+</body>
+</text>
+</TEI>

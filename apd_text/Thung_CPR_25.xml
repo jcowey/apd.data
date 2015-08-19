@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2288" xml:id="Thung_CPR_25" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 25</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_25</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">الشّهود</supplied> <supplied reason="lost" cert="high">ا</supplied>لمسمّون في هذا الكتاب 
+<lb n="3"/>  <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـر على عنقود بن القسم 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> عشر قيراطا ذهب 
+<lb n="5"/>  إلى ثلـ<supplied reason="lost" cert="high">ـثيـ</supplied>ـن ليلة أوّلها لسبع خلون من شهر 
+<lb n="6"/>  رمضان من سنة خمس ومائتين وآخرها 
+<lb n="7"/>  لتسع <supplied reason="lost" cert="high">مضـ</supplied>ـين من شوّال شهد على ذلك 
+<lb n="8"/>  عبد الرّحمن بن عبد اللّه وكتب شهادته في 
+<lb n="9"/>  رمضان سنة خمس ومئتين 
+<lb n="10"/>  <supplied reason="lost" cert="high">وعـ</supplied>ـبد اللّه بن راشد الجمري وكتب شهادته بخطّه سنة خمس ومائتين 
+<lb n="11"/>  وجميل بن موسى الخولاني وكتب 
+<lb n="12"/>  في شهر رمضان سنة خمس ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi 
+ <lb n="3"/>ʾanna li *** bni **r ʿalà ʿunqūda bni ăl qāsimi 
+ <lb n="4"/>*** ʿašara qīrāṭ:an ḏahab 
+ <lb n="5"/>ʾilà ṯalāṯīna laylaẗ:an ʾawwalu hā li sabʿ:in ḫalawna min šahri 
+ <lb n="6"/>ramaḍāna min sanaẗi ḫams:in wa miʾatayni wa ʾāḫiru hā 
+ <lb n="7"/>li tisʿ:in maḍayna min šawwāl:in šahida ʿalà ḏālika 
+ <lb n="8"/>ʿabdu ăr raḥmāni bnu ʿabdi ăl lāhi wa kataba šahādata hu fī 
+ <lb n="9"/>ramaḍāna sanaẗa ḫams:in wa miʾatayni 
+ <lb n="10"/>wa ʿabdu ăl lāhi bnu rāšid:ini ăl ǧamriyyu wa kataba šahādata hu bi ḫaṭṭi hi sanaẗa ḫams:in wa miʾatayni 
+ <lb n="11"/>wa ǧamīlu bnu mūsà ăl ḫawlāniyyu wa kataba 
+ <lb n="12"/>fī šahri ramaḍāna sanaẗa ḫams:in wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes,] des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[Es bezeugen] die in dieser Urkunde erwähnten [Zeugen,]
+			<lb n="3"/>
+		[daß N. N. ib]n [N. N. zusteht] zu Lasten von ʿUnqūd b. al-Qāsim
+			<lb n="4"/>
+		[...]zehn Qīrāṭ in Gold
+			<lb n="5"/>
+		auf (eine Frist von) dreißig Nächten, deren erste nach sieben verstrichenen (Nächten) des Monats
+			<lb n="6"/>
+		Ramaḍān des Jahres zweihundertfünf ist, und deren letzte
+			<lb n="7"/>
+		nach neun verstrichenen (Nächten) des (Monats) Šawwāl ist. Es bezeugen dies:
+			<lb n="8"/>
+		ʿAbdarraḥmān b. ʿAbdallāh, und er hat sein Zeugnis geschrieben im
+			<lb n="9"/>
+		(Monat) Ramaḍān des Jahres zweihundertfünf,
+			<lb n="10"/>
+		[und] ʿAbdallāh b. Rāšid al-Ǧamrī, und er hat sein Zeugnis mit seinem Schriftzug geschrieben im Jahr zweihundertfünf,
+			<lb n="11"/>
+		und Ǧamīl b. Mūsā al-Ḫawlānī, und er hat unterschrieben
+			<lb n="12"/>
+		im Monat Ramaḍān des Jahres zweihundertfünf.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1683" xml:id="Prag_400" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 40</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_400</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169433</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  ‮‮<gap reason="illegible" precision="low" extent="3"/>ر <supplied reason="lost" cert="high">بـ</supplied>ـن أحمد وشريكه ‮ββ ‮λ <gap reason="illegible" precision="low" extent="3"/>‬‬‬‬ 
+<lb n="recto 2"/>  ‮عبد الملك بن زهير ‮ρ <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="recto 3"/>  ‮باقي دينر ‪<supplied reason="lost" cert="high">͵ε‪</supplied>‬ρξε‬‬ 
+<lb n="recto 4"/>  ‮لأهل ططون ‪ιβχ‬‬ 
+<lb n="recto 5"/>  ‮سورس وأشراكه ‪ρνε‬‬ 
+<lb n="recto 6"/>  في <app type="BL"><lem resp="translation"><unclear reason="undefined" cert="high">پلدپو</unclear> </lem><rdg resp="edition">بنديق</rdg></app> 
+<lb n="recto 7"/>  ‮الفشّار بن أحمد ‪νδ‬‬ 
+<lb n="recto 8"/>  ‮<gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 9"/>  ‮يعرب بن الــ]ـنّجد وشريكه ο‬ 
+<lb n="recto 10"/>  ‮<supplied reason="lost" cert="high">سـ</supplied>ـما البلجسوقي ν‬ 
+<lb n="recto 11"/>  ‮بطرس بن بولس بن سرئلة ‪ξϛ‬‬ 
+<lb n="recto 12"/>  ‮كريم بن شريك ‪ρβ‬‬ 
+<lb n="recto 13"/>  ‮جرجة بن بولس بن سرئلة ‮‪ριε‬ ‪<gap reason="illegible" extent="1" unit="character" />‬ <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="verso 1"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـأطـ</supplied>ـفيح ‪φ‪<gap reason="illegible" extent="1" unit="character" />‬ζ‬‬ 
+<lb n="verso 2"/>  ‮‪<gap reason="illegible" precision="low" extent="3"/>‬ ‪λεϛʹ‬‬ 
+<lb n="verso 3"/>  ‮‪<gap reason="illegible" precision="low" extent="3"/>‬ ‪σκθ‬‬ 
+<lb n="verso 4"/>  ‮جوذر ‪σμγ‬‬ 
+<lb n="verso 5"/>  ‮أبو البدر λ‬ 
+<lb n="verso 6"/>  ‮<supplied reason="lost" cert="high">بـ</supplied>ـلاطس ‪λη‬‬ 
+<lb n="verso 7"/>  ‮مسيل ‪πε‬‬ 
+<lb n="verso 8"/>  ‮نسيب ‪ρν‬‬ 
+<lb n="verso 9"/>  ‮ثيدر ‪ρλη‬‬ 
+<lb n="verso 10"/>  ‮بطرس الإهريتي ρ‬ 
+<lb n="verso 11"/>  ‮جريج القمبشاوي ‪ρκε‬‬ 
+<lb n="verso 12"/>  ‮دويد بن تدرس ν‬ 
+<lb n="verso 13"/>  ‮<gap reason="illegible" extent="5" unit="character" /> ‪ριη‬ 
+<lb n="verso 14"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن بمون ‪ρκη‬‬ 
+<lb n="verso 15"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‪ρθ‬‬ 
+<lb n="verso margin 1"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‮φ تكين ‮ν أبو الخير القرّاد ‮ν غبرال ‪ριη‬‬‬‬‬ 
+<lb n="verso margin 2"/>  ‮<gap reason="illegible" precision="low" extent="3"/> الأجرا <unclear reason="undefined" cert="high">المساناة</unclear> χ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***r bnu ʾaḥmada wa šarīku hu 2+2 30 *** 
+ <lb n="2"/>ʿabdu ăl maliki bni zuhayr:in 100 *** 
+ <lb n="3"/>bāqī dīnār 5365 
+ <lb n="4"/>li ʾahli ṭuṭūna 12+1/3 
+ <lb n="5"/>sūrusu wa ʾašrāku hu 155 
+ <lb n="6"/>fī BldBw bandīqa 
+ <lb n="7"/>ăl faššāru bnu ʾaḥmada 54 
+ <lb n="8"/>***** ** 
+ <lb n="9"/>yaʿrubu bnu ăn naǧdi wa šarīku hu 70 
+ <lb n="10"/>simā ăl bulǧusūqiyyu 50 
+ <lb n="11"/>buṭrusu bnu būlusa bnu saraʾilaẗa 66 
+ <lb n="12"/>karīmu bnu šarīk:in 102 
+ <lb n="13"/>ǧirǧaẗu bnu būlusa bni saraʾilaẗa 115 * *** 
+ <lb n="14"/>*** bi ʾaṭfīḥa 5*7 
+ <lb n="15"/>*** 35+1/6 
+ <lb n="16"/>*** 229 
+ <lb n="17"/>ǧawḏaru 243 
+ <lb n="18"/>ʾabū ăl badri 30 
+ <lb n="19"/>bilāṭusu 38 
+ <lb n="20"/>masīl:un 85 
+ <lb n="21"/>nusayb:un 150 
+ <lb n="22"/>ṯiyuduru 138 
+ <lb n="23"/>buṭrusu ăl ʾihrītiyyu 100 
+ <lb n="24"/>ǧurayǧ:unu ăl qambašāwiyyu 125 
+ <lb n="25"/>dawīdu bnu tidurusa 50 
+ <lb n="26"/>***** 118 
+ <lb n="27"/>*** bnu bamūna 128 
+ <lb n="28"/>*** 109 
+ <lb n="29"/>*** 500 takīn:un 50 ʾabū ăl ḫayri ăl qarrādu 50 ġabrālu 118 
+ <lb n="30"/>*** ăl ʾuǧarāʾu ăl musānāẗi 600 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...]n [be]n Aḥmad und sein Partner 22 30 [...]
+			<lb n="2"/>
+		ʿAbd al-Malik b. Zuhair 100 [...]
+			<lb n="3"/>
+		Rest Dīnār 5165
+			<lb n="4"/>
+		zugunsten der Bewohner von Ṭuṭūn 12 2/3
+			<lb n="5"/>
+		Sūros und seine Partner 155
+			<lb n="6"/>
+		in Bandīq (?)
+			<lb n="7"/>
+		al-Faššār b. Aḥmad 54
+			<lb n="8"/>
+			<lb n="9"/>
+		Yaʿrub b. a[n]-Naǧd und sein Partner 70
+			<lb n="10"/>
+		Simā aus Bulǧusūq 50
+			<lb n="11"/>
+		Buṭrus b. Būlos b. Saraʾile 66
+			<lb n="12"/>
+		Karīm b. Šarīk 102
+			<lb n="13"/>
+		Ǧirǧe b. Būlos b. Saraʾile 115
+			<lb n="14"/>
+		[In Aṭ]fīḥ [.]5[.]7
+			<lb n="15"/>
+		[...] 35 1/6
+			<lb n="16"/>
+		[...] 229
+			<lb n="17"/>
+		Ǧauḏar 243
+			<lb n="18"/>
+		Abu&#039;l-Badr 30
+			<lb n="19"/>
+		[Bi]lāṭos 38
+			<lb n="20"/>
+		Masīl (?) 85
+			<lb n="21"/>
+		Nusaib 150
+			<lb n="22"/>
+		Theodor 138
+			<lb n="23"/>
+		Buṭrus aus Ihrīt 100
+			<lb n="24"/>
+		Ǧuraiǧ aus Qambašā 125
+			<lb n="25"/>
+		Dawid b. Theodoros 50
+			<lb n="26"/>
+		.......... 118
+			<lb n="27"/>
+		[...be]n Bamūn 128
+			<lb n="28"/>
+		[.....] [..] 109
+			<lb n="29"/>
+		] 500, Takīn 50, Abu&#039;l-Ḫair, der Affenführer, 50, Ġabrāl 118
+			<lb n="30"/>
+		]. die Lohnarbeiter auf Jahresfrist (?) 600.
+</ab></div>
+</body>
+</text>
+</TEI>

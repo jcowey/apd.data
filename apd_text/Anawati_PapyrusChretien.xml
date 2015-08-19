@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2095" xml:id="Anawati_PapyrusChretien" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AnawatiPapyrusChrétien</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Anawati_PapyrusChretien</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="recto 2"/>  أبقاك اللّه وحفظك وأتم نعمته عليك وزاد في إحسانه وفضله عندكم كتابي إليك وأنا ومن قبلي بحال 
+<lb n="recto 3"/>  عافية والشّكر للّه سبحان اللّه يا بنتي ما كان الواجب عليك أن تكتبي إلي بخبرك وحالك من الرّملة 
+<lb n="recto 4"/>  أو عند وصولك إلى الفسطاط وابنتي تعلمي بأنّي كنت معلّقة القلب بك وبخبرك فقد كان الواجب عليك 
+<lb n="recto 5"/>  أن تصلني بخبرك وحالك وكيف كنتي في طريقك فالآن إذا قرأتي كتابي هذا فلا تدعي كتابي من يدك حتّا 
+<lb n="recto 6"/>  تكتبي إلي بخبرك وحالك وما أنتي عليه وبالّذي تلقّاك به أبو علي حفظه اللّه وما أنت عليه لأشكر 
+<lb n="recto 7"/>  المسيح على ذلك وأسأله لك الزّيادة من حسن فضله وتمام نعمته عليك وموصّل كتابي إليك <app type="BL"><lem resp="APD">دير </lem><rdg resp="APD">ابن</rdg></app> إيليا 
+<lb n="recto 8"/>  وهو حاجتي ووديعتي عندك وعند أبو علي فأقبلوه بوجه المسيح وقوموا له بجميع ما يجب 
+<lb n="recto 9"/>  بحياتي وبحق المسيح عليكم فإنّكم تربحو حياتكم بواسطته و<unclear reason="undefined" cert="high">دياتـ</unclear>ـكم وآخرتكم وليس أحتاج 
+<lb n="recto 10"/>  أوصّيكم فيه بشي فيكم بحمد اللّه كفاية عليك منّي يأبا علي جعلتفداك سلم المسيح ورحمته 
+<lb n="recto 11"/>  وحياته وحيل صليبه يكون معك إلى الدّهر آمين واعلم أنّي ما أدع الصّلاة على حياتكم أجمعين 
+<lb n="recto 12"/>  في كل وقت وموضع فطيّبوا نفسا فأسل المسيح أن يستركم بيمينه عن كل مكاره الدّنيا والآخرة 
+<lb n="recto 13"/>  <unclear reason="undefined" cert="high">آمين</unclear> وآمين وأن يمن علي بالنّظر إلى وجهك في ذلك الموضع المقدّس لتفرح نفسك بالمسيح وتشتد 
+<lb n="recto 14"/>  أمانتك وتقبل جبل بيت المقدس يكون معك إلى الدّهر آمين عليك منّي سلم اللّه كثيرا وعلى 
+<lb n="recto 15"/>  جميع أولادك والجاورين ومن يعتني بأمره منّي سلم المسيح كثيرا كثيرا أقروا الجاورين 
+<lb n="recto 16"/>  منّي السّلم إرينة وديانيس وجماعتكم سلم المسيح أبقاك اللّه وحيّاك 
+<lb n="verso 1"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">للحبر</unclear> </lem><rdg resp="APD">للخيّر</rdg></app> الفاضل البار مار أبو علي أطال اللّه بقاه سهل مولى قيس رحمه اللّه 
+<lb n="verso 2"/>  من الخاطئة مريم رئيسة دير هنده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi * 
+ <lb n="2"/>ʾabqā ki ăl lāhu wa ḥafiẓa ki wa ʾatamma niʿmata hu ʿalay ki wa zāda fī ʾiḥsāni hi wa faḍli hi ʿinda kum kitāb ī ʾilay ki wa ʾanā wa man qibal ī bi ḥāli 
+ <lb n="3"/>ʿāfiyaẗ:in wa ăš šukru li l lāhi subḥāna ăl lāhi yā bint ī mā kāna ăl wāǧibu ʿalay ki ʾan taktubī ʾilay ya bi ḫabari ki wa ḥāli ki mina ăr ramlaẗi 
+ <lb n="4"/>ʾaw ʿinda wuṣūli ki ʾilà ăl fusṭāṭi wa ĭbnat ī taʿlamī bi ʾan nī kuntu muʿallaqaẗa ăl qalbi bi ki wa bi ḫabari ki fa qad kāna ăl wāǧibu ʿalay ki 
+ <lb n="5"/>ʾan taṣili nī bi ḫabari ki wa ḥāli ki wa kayfa kuntī fī ṭarīqi ki fa ăl ʾāna ʾiḏā qaraʾtī kitāb ī hāḏā fa lā tadaʿī kitāb ī min yadi ki ḥattā 
+ <lb n="6"/>taktubī ʾilay ya bi ḫabari ki wa ḥāli ki wa mā ʾantī ʿalay hi wa bi ăllaḏī talaqqā ki bi hi ʾabū ʿaliyy:in ḥafiẓa hu ăl lāhu wa mā ʾanti ʿalay hi li ʾaškura 
+ <lb n="7"/>ăl masīḥa ʿalà ḏālika wa ʾasʾalu hu la ki ăz ziyādaẗa min ḥusni faḍli hi wa tamāmi niʿmati hi ʿalay ki wa muwaṣṣilu kitāb ī ʾilay ki dayra ĭbnu ʾīliyā 
+ <lb n="8"/>wa huwa ḥāǧat ī wa wadīʿat ī ʿinda ki wa ʿinda ʾabū ʿaliyy:in fa ʾaqbilū hu bi waǧhi ăl masīḥi wa qūmū la hu bi ǧamīʿi mā yaǧibu 
+ <lb n="9"/>bi ḥayāt ī wa bi ḥaqqi ăl masīḥi ʿalay kum fa ʾinna kum tarbaḥū ḥayāta kum bi wāsiṭati hi wa dyāta kum wa ʾāḫirata kum wa laysa ʾaḥtāǧu 
+ <lb n="10"/>ʾuwaṣṣī kum fī hi bi šayʾ:in fī kum bi ḥamdi ăl lāhi kifāyaẗ:un ʿalay ki min nī yā ʾabā ʿaliyy:in ǧuʿiltu fidāʾa ka salāmu ăl masīḥi wa raḥmatu hu 
+ <lb n="11"/>wa ḥayātu hu wa ḥaylu ṣalībi hi yakūnu maʿa ka ʾilà ăd dahri ʾāmīnu wa ĭʿlam ʾan nī mā ʾadaʿu ăṣ ṣalāẗa ʿalà ḥayāti kum ʾaǧmaʿīna 
+ <lb n="12"/>fī kulli waqt:in wa mawḍiʿ:in fa ṭayyibū nafs:an fa ʾasalu ăl masīḥa ʾan yastura kum bi yamīni hi ʿan kulli makārihi ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="13"/>ʾāmīnu wa ʾāmīnu wa ʾan yamunna ʿalay ya bi ăn naẓari ʾilà waǧhi ka fī ḏālika ăl mawḍiʿi ăl muqaddasi li tafraḥa nafsu ka bi ăl masīḥi wa taštadda 
+ <lb n="14"/>ʾamānatu ka wa tuqbila ǧabala bayti ăl maqdisi yakūnu maʿa ka ʾilà ăd dahri ʾāmīnu ʿalay ka min nī salāmu ăl lāhi kaṯīr:an wa ʿalà 
+ <lb n="15"/>ǧamīʿi ʾawlādi ka wa ăl ǧāwirīna wa man yaʿtanī bi ʾamri hi min nī salāmu ăl masīḥi kaṯīr:an kaṯīr:an ʾaqrū ăl ǧāwirīna 
+ <lb n="16"/>min nī ăs salāma ʾirīnaẗa wa dayānīsa wa ǧamāʿata kum salāmu ăl masīḥi ʾabqā ka ăl lāhu wa ḥayyā ka 
+ <lb n="17"/>li l ḥabri ḫayyiri ăl fāḍili ăl bārri māri ʾabū ʿaliyy:in ʾaṭāla ăl lāhu baqāʾa hu sahl:in mawlà qays:in raḥima hu ăl lāhu 
+ <lb n="18"/>mina ăl ḫāṭiʾaẗi maryama raʾīsaẗi dayri hindaha 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux,
+			<lb n="2"/>
+		Que Dieu te conserve et te protège, qu&#039;il te comble de sa grâce, qu&#039;il augmente pour vous sa bienfaisance et ses faveurs. Voici ma lettre qui t&#039;est destinée [à toi, ma fille]. Moi même et ceux qui m&#039;entourent, nous sommes en bonne santé,
+			<lb n="3"/>
+		Dieu merci. Par Dieu, ma fille, tu aurais dû m&#039;écrire de tes nouvelles et [m&#039;informer] de ta santé, soit d&#039;ar-Ramleh
+			<lb n="4"/>
+		soit à ton arrivée à Fostat, et tu devrais savoir, ma fille, que mon coeur était suspendu à toi et à tes nouvelles. Aussi eut-ce été un devoir pour toi
+			<lb n="5"/>
+		de me faire parvenir tes nouvelles, [de m&#039;informer] de ton état, [de me dire] comment tu t&#039;es trouvée en route. Maintenant lorsque tu auras ma lettre que voici, ne la laisse pas quitter tes mains avant
+			<lb n="6"/>
+		de m&#039;avoir écrit de tes nouvelles et [de m&#039;avoir dit] ton état et comment tu te trouves, afin que j&#039;en rende grâces
+			<lb n="7"/>
+		... A Ibn Eliya qui t&#039;apporte ma lettre,
+		au Christ, et que je lui demande un accroissement de ses faveurs si belles et le parachèvement de ses bienfaits à ton égard. A celui qui t&#039;apporte ma lettre que j&#039;envoie à Deir Eliya,
+			<lb n="8"/>
+		je me suis attachée; il est mon dépôt auprès de toi et auprès d&#039;Abou ʿAlî. Recevez-le par le visage du Christ et traitez-le comme il se doit
+			<lb n="9"/>
+		par ma vie et par le droit que le Christ a sur vous. En sorte que vous gagnerez votre vie par son intermédiaire, le prix du sang dont vous avez été rachetés (?) et votre vie de l&#039;au-delà. Je n&#039;ai nullement besoin
+			<lb n="10"/>
+		de vous le recommander: ce que vous avez en vous, Dieu soit loué, y suffit. Je t&#039;envoie, ô Abou ʿAli, puissé-je être ta rançon, le salut du Christ. Que sa miséricorde
+			<lb n="11"/>
+		et sa vie et la force de sa Croix soient toujours avec toi. Amen. Sache que je ne cesse de prier pour vous tous
+			<lb n="12"/>
+		en tout temps et en tout lieu, pour le bien de vos âmes et je demande au Christ que, par sa droite, il vous protège des calamités de ce monde et de l&#039;autre.
+			<lb n="13"/>
+		Amen et Amen. Et qu&#039;il me donne de voir ton visage dans ce lieu saint pour que ton âme se réjouisse dans le Christ, que ta confiance devienne plus forte
+			<lb n="14"/>
+		et que les grâces d&#039;accueil de la Montagne de Jérusalem soient toujours avec toi. Amen. Qu&#039;à ma prière, la paix de Dieu soit en abondance sur toi et sur
+			<lb n="15"/>
+		tes enfants et les voisins et ceux qui ont le souci de Ses commandements; qu&#039;ma prière vienne la paix du Christ en surabondance. Transmettez aux voisins
+			<lb n="16"/>
+		de ma part, les salutations: à Irène, à Denis et à toute votre communauté: salutations de paix du Christ. Que Dieu te garde et t&#039;accorde la vie.
+			<lb n="17"/>
+		Au vénérable savant et pieux Mâr Abou ʿAlî, que Dieu prolonge son existence, Sahl, client de Qays, que Dieu l&#039;ait en pitié,
+			<lb n="18"/>
+		envoyé par la pécheresse Maryam, supérieure du monastère de Hindah.
+</ab></div>
+</body>
+</text>
+</TEI>

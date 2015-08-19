@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="483" xml:id="Raghib_March_2_25" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 25</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_25</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106668</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> من سلامتك وسلامة من قبلك وحمدت اللّه على ذلك 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">كثيرا</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">الفسـ</supplied>ـطاط إخوان فكيف بمدينة الفيّوم وما ذكرت 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied><unclear reason="undefined" cert="high">ـدينة</unclear> لا <app type="BL"><lem resp="APD">أنا </lem><rdg resp="Diem">أبالي</rdg></app> <app type="BL"><lem resp="APD">لي </lem><rdg resp="APD">ø</rdg></app> إلّا أدخلها لو لا رعاپپى لحرمه هده 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">د</supplied>عاني في <unclear reason="undefined" cert="high">سحر</unclear> لإبطاى عنها فلا أثابني اللّه حتّى أسرّها 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> في شي لا علم لك به وإنّي لأعلم أن هذ<supplied reason="omitted" cert="high">ا</supplied> لي منك محبّة لديني 
+<lb n="verso upside down"/>  <gap reason="illegible" precision="low" extent="3"/> كنت قد خرجت إليك وقد وجّه إليك بشي سألته 
+<lb n="verso 1"/>  لأبي هريرة أكرمه اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  جعفر بن أحمد بن عبد المومن <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** min salāmati ka wa salāmaẗi man qibala ka wa ḥamidtu ăl lāha ʿalà ḏālika 
+ <lb n="2"/>kaṯīr:an **** ăl fusṭāṭ ʾiḫwān fa kayfa bi madīnaẗi ăl fayyūmi wa mā ḏakarta 
+ <lb n="3"/>*** madīnaẗ lā ʾanā ʾubālī l ø ī ø ʾillā ʾadḫulu hā law lā riʿāyat ī li ḥurmaẗi hāḏihi ăl maraẗi 
+ <lb n="4"/>*** daʿā nī fī saḥar:in li ʾibṭāʾ ī ʿan hā fa lā ʾaṯāba nī ăl lāhu ḥattà ʾasurru hā 
+ <lb n="5"/>*** fī šayʾ:in lā ʿilma la ka bi hi wa ʾinn ī la ʾaʿlamu ʾanna hāḏā l ī min ka maḥabbaẗ:un li dīn ī 
+ <lb n="6"/>*** kuntu qad ḫaraǧtu ʾilay ka wa qad waǧǧaha ʾilay ka bi šayʾ:in saʾaltu hu 
+ <lb n="7"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu *** 
+ <lb n="8"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] de ta santé et de la santé des tiens. J&#039;ai loué Dieu pour cela
+			<lb n="2"/>
+		[à foison .... al-Fus]ṭāṭ des frères. Et comment (n&#039;en aurai-je pas) dans la ville d&#039;al-Fayyoum? Ce que tu as mentionné
+			<lb n="3"/>
+		une vil]le où je n&#039;ai qu&#039;à entrer. Si je n&#039;observais pas le respect dû à cette femme
+			<lb n="4"/>
+		] il m&#039;a invité au point du jour (?) pour avoir tardé à venir auprès d&#039;elle. Que Dieu ne me récompense pas tant que je ne l&#039;ai pas réjouite!
+			<lb n="5"/>
+		] sur une chose dont tu n&#039;as pas connaissance. Je sais que ceci est amitié de ta part pour moi à cause de ma religion.
+			<lb n="6"/>
+		] Je me serais rendu auprès de vous. Il t&#039;a adressé une chose que je lui avais demandée. 
+			<lb n="7"/>
+		A Abū Hurayra - que Dieu l&#039;honore! [
+			<lb n="8"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin. [
+</ab></div>
+</body>
+</text>
+</TEI>

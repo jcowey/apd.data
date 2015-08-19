@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="999" xml:id="Grohmann_APEL_54" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 054 (= P.World p. 203)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_54</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168902</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 middle"/>  <app type="BL"><lem resp="APD">أعرف </lem><rdg resp="Thung p. 204">اعترف</rdg></app> عندي البائع بقبض من المشتري بالسّلم 
+<lb n="2 right and middle"/>  بسم اللّه الرّحمن الرّحيم وكتب سليمن بن إدريس في تأريخه الحمد للّه كالحق 
+<lb n="3"/>  هذا ما اشترى المكنّا بأبي السّري بن هليه بن رفرفيل النّصراني من ثيدرس بن كيل بن هلستوس الأجير وهما يومئذ من أهل الضّيعة المعروفة ببلجسوق ترس من بعض قرى كورة الفيّوم من صعيد مصر اشترى منه سفقة 
+<lb n="4"/>  واحدا وعقدا واحدا جميع ما ذكر أنّه له وملكه بالضّيعة <sic n="superfluous">المعروفه</sic> المقدّم <sic n="superfluous">پالدكرها</sic> ذكرها من العرصة القبليّة ويحـ<supplied reason="lost" cert="high">ـيط</supplied> <supplied reason="lost" cert="high">بها</supplied> <supplied reason="lost" cert="high">ويشتـ</supplied>ـمل عليها حدود أربع الحد الأوّل منها وهو القبلي ينتهي إلى طريق المارّة منه يشرع باب هذه العرصة والمدخل 
+<lb n="5"/>  إليها والمخرج منها والحد الثّاني البحري ينتهي إلي عراص أبنييلة بن إسحق والحد الثّالث الشّرقي إلى القرمـ<unclear reason="undefined" cert="high">ـا</unclear><supplied reason="lost" cert="high">ص</supplied> <gap reason="illegible" precision="low" extent="3"/> ابن المكنّا بأبي السّري بن هليه وثيدرس بن كيل هذا والحد الرّابع الغربي ينتهي إلي منزل يحنّس بن بردسنه 
+<lb n="6"/>  فاشترى المكنّا بأبي السّري بن <supplied reason="lost" cert="high">هلـ</supplied>ـيه بن رفرفيل جميع هذه العرصة بحدّها وحدودها وسـ<supplied reason="lost" cert="high">ـفلها</supplied> <supplied reason="lost" cert="high">وعلوّها</supplied> <supplied reason="lost" cert="high">و</supplied>أرضها وسمايها وعراصها وأفنيها وكلّما يعرف لها وينسب إليها شرا ثابت صحيحا لا شرط فيه ولا وعد 
+<lb n="7"/>  ولا إتوى ولا خيار ولا وديعة ولا رهينة ولا <app type="BL"><lem resp="“Grohmann, P.Cair.Arab.; Grohmann, World”">مقاصصة </lem><rdg resp="“Grohmann, P.Cair.Arab.”">مقايضة</rdg></app> بدين ولا شرط يفسد شرا <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">شرط</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـيع الإسلام وأنفذ أحكامهم من أقصا شروطهم وحازها وملكها وصارت مالا من ماله وملك من أملاكه إن شا باع 
+<lb n="8"/>  وإن شا <sic n="superfluous">با</sic>وهب وإن شا صدّق بثمن مبلغه من العين ربع دينار النّصف من ذلك ثمن دينار قبض ثيدرس بن كيل بن هلستوس الأجير جميع هذا الثّمن المذكور على تمامه وكماله وأبرأه من جميع ذلك ومن وزنه ونقده ومن اليمين 
+<lb n="9"/>  عليه أو على شيا منه براه قبض واستيفا <app type="BL"><lem resp="APD">واعترفا </lem><rdg resp="Frantz-Murphy III p. 109, Thung p. 57">وافترقا</rdg></app> جميعا منهما <app type="BL"><lem resp="APD">بالأمر </lem><rdg resp="Frantz-Murphy III p. 109, Thung p. 57">بالابدان</rdg></app> <app type="BL"><lem resp="APD">أن </lem><rdg resp="Frantz-Murphy III p. 109, Thung p. 57">ø</rdg></app> <app type="BL"><lem resp="APD">يحسن </lem><rdg resp="Frantz-Murphy III p. 109, Thung p. 57">عن</rdg></app> <app type="BL"><lem resp="APD">بتراضٍ </lem><rdg resp="Frantz-Murphy III p. 109, Thung p. 57">تراضٍ</rdg></app> منهما وبري <app type="BL"><lem resp="APD">على </lem><rdg resp="Frantz-Murphy II p. 105">كل</rdg></app> حي من حي ومتى أدرك المكنّا بأبي السّري بن هليه بن رفرفيل في شرايه أو في شيا منه درك علقة أو خصومة من ساير 
+<lb n="10"/>  النّاس <sic n="superfluous">كانه</sic><supplied reason="omitted" cert="high">كان</supplied> قريب أم بعيد شاهد أم غائب طارئ بدين أو مستحق بميراث <app type="BL"><lem resp="APD"><sic n="superfluous">فپڤإده</sic><supplied reason="omitted" cert="high">ڤانقاذه</supplied> </lem><rdg resp="“Khan”">فإنفاذه </rdg><rdg resp="“Frantz-Murphy; Diem”">فنفاذه</rdg></app> وفكاكه وخلاصه علي ثيدرس بن كيل بن هلستوس الأجير كائن ما كان وبالغ ما بلغ بعد أن قرئ عليهما جميعا جميع ما فيه 
+<lb n="11"/>  حرفا حرفا من أوّله إلى آخره وعرفاه وأقرّا بفهمه ومعرفته وذلك في صحّة عقولهما وأبدانهما وجواز أمورهما طائعان طالبان غير مكرهان ولا مجبران ولا مضطهدان في رجب من سنة ثمان وأربعين وأربعماية 
+<lb n="12"/>  والحجرة الفوقانيّة مجازها في شرا المكنّا <sic n="superfluous">پا</sic> بأبي السّري بن هليه لهذا إلى دار قنجـ<supplied reason="lost" cert="high">ـوش</supplied> <supplied reason="lost" cert="high">وبـ</supplied>ـذلك رفعت الشّهادة في التّأريخ صح شهد بو سهل بن خلف بن إبرهيم المودن على إقرار 
+<lb n="13 left"/>  المقرّان بها نسب إليهما فيه وكتب بيده في تأريخه الحمد للّه كما هو أهله 
+<lb n="14 left"/>  وعلى المجاز وثبتت الشّهادة 
+<lb n="13 right"/>  شهد <app type="BL"><lem resp="“Grohmann, P.Cair.Arab.; Grohmann, World”">نهار </lem><rdg resp="“Grohmann, P.Cair.Arab.”">بهار</rdg></app> بن سليمن بن إدريس 
+<lb n="14 right"/>  بجميع ما سمّي ووصف في هذا الكتاب وكتب بيده صح 
+<lb n="13 middle"/>  <supplied reason="lost" cert="high">شهد</supplied> <app type="BL"><lem resp="“Grohmann, P.Cair.Arab.”"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـڤاس </lem><rdg resp="“Grohmann, P.Cair.Arab.”">ـ<gap reason="illegible" precision="low" extent="3"/>ـفاس </rdg><rdg resp="“Grohmann, P.Cair.Arab.”">ـ<gap reason="illegible" precision="low" extent="3"/>ـعاس </rdg><rdg resp="“Grohmann, P.Cair.Arab.”">قاسم </rdg></app> بن محمّد بن جعفر على إقرار المقر 
+<lb n="14 middle"/>  <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> فيه وكتب بخطّه في تأريخه والحمد للّه كما هو أهله 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaʿrafa ĭʿtarafa ʿind ī ăl bāʾiʿu bi qabḍ:in mina ăl muštarī bi ăs salami 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa kataba sulaymānu bnu ʾidrīsa fī taʾrīḫi hi ăl ḥamdu li ăl lāhi ka ăl ḥaqqi 
+ <lb n="3"/>hāḏā mā ĭštarà ăl mukannā bi ʾabī ăs sariyyi bni hiliyaha bni rafrafīla ăn naṣrāniyyu min ṯiyudurusa bni kayli bni halistūsa ăl ʾaǧīri wa humā yawma ʾiḏ:in min ʾahli ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi bulǧusūqi tirisa min baʿḍi qurà kūraẗi ăl fayyūmi min ṣaʿīdi miṣra ĭštarà min hu safqaẗ:an 
+ <lb n="4"/>wāḥid:an wa ʿaqd:an wāḥid:an ǧamīʿa mā ḏakara ḏukira ʾanna hu la hu wa milku hu bi ăḍ ḍayʿaẗi ăl muqaddami ḏikru hā mina ăl ʿarṣaẗi ăl qibliyyaẗi wa yuḥīṭu bi hā wa yaštamilu ʿalay hā ḥudūd:un ʾarbaʿ:un ăl ḥaddu ăl ʾawwalu min hā wa huwa ăl qibliyyu yantahī ʾilà ṭarīqi ăl mārraẗi min hu yašraʿu bābu hāḏihi ăl ʿarṣaẗi wa ăl madḫalu 
+ <lb n="5"/>ʾilay hā wa ăl maḫraǧu min hā wa ăl ḥaddu ăṯ ṯānī ăl baḥriyyu yantahī ʾilà ʿirāṣi ʾabniyilaẗa bni ʾisḥāqa wa ăl ḥaddu ăṯ ṯāliṯu ăš šarqiyyu ʾilà ăl qirmāṣi *** ĭbni ăl mukannā bi ʾabī ăs sariyyi bni hiliyaha wa ṯiyudurusa bni kayl:in hāḏā wa ăl ḥaddu ăr rābiʿu ăl ġarbiyyu yantahī ʾilà manzili yuḥannisa bni bardisanaha 
+ <lb n="6"/>fa ĭštarà ăl mukannā bi ʾabī ăs sariyyi bni hiliyaha bni rafrafīla ǧamīʿa hāḏihi ăl ʿarṣaẗi bi ḥaddi hā wa ḥudūdi hā wa sufli hā wa ʿulwi hā wa ʾarḍi hā wa samāyi hā wa ʿirāṣi hā wa ʾafniyi hā wa kulli mā yuʿrafu la hā wa yunsabu ʾilay hā širāʾ ṯābit ṣaḥīḥ:an lā šarṭa fī hi wa lā waʿd:un 
+ <lb n="7"/>wa lā ʾitāwà ʾitwà wa lā ḫiyār:un wa lā wadīʿaẗ:un wa lā rahīnaẗ:un wa lā muqāṣaṣaẗ:un muqāyaḍaẗ:un bi dayn:in wa lā šarṭ:un yufsidu širāʾ ʿalà šarṭi bayʿi ăl ʾislāmi wa ʾanfaḏa ʾaḥkāma hum min ʾaqṣā šurūṭi him wa ḥāza hā wa malaka hā wa ṣārat māl:an min māli hi wa milk min ʾamlāki hi ʾin šāʾa bāʿa 
+ <lb n="8"/>wa ʾin šāʾa wahaba wa ʾin šāʾa ṣaddaqa bi ṯaman:in mablaġu hu mina ăl ʿayni rubʿu dīnār:ini ăn niṣfu min ḏālika ṯumnu dīnār:in qabaḍa ṯiyudurusu bnu kayli bni halistūsa ăl ʾaǧīru ǧamīʿa hāḏā ăṯ ṯamani ăl maḏkūri ʿalà tamāmi hi wa kamāli hi wa ʾabraʾa hu min ǧamīʿi ḏālika wa min wazni hi wa naqdi hi wa mina ăl yamīni 
+ <lb n="9"/>ʿalay hi ʾaw ʿalà šayʾ:an min hu barāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa ĭʿtarafā ĭftaraqā ǧamīʿ:an min humā bi ăl ʾamri ʾabdāni ʾan ø yaḥsuna ʿan bi ø tarāḍ:in min humā wa bariya ʿalà ḥayy:in min ḥayy:in wa matà ʾadraka ăl mukannā bi ʾabī ăs sariyyi bni hiliyaha bni rafrafīla fī širāyi hi ʾaw fī šayʾ:an min hu daraku ʿulqaẗ:in ʾaw ḫuṣūmaẗ:un min sāyiri 
+ <lb n="10"/>ăn nāsi kāna qarīb ʾam baʿīd šāhid ʾam ġāʾib ṭāriʾ bi dayn:in ʾaw mustaḥiqq bi mīrāṯ:in fa ʾinfāḏu ʾinqāḏu nafāḏu hu wa fakāku hu wa ḫalāṣu hu ʿalà ṯiyudurusa bni kayli bni halistūsa ăl ʾaǧīri kāʾin mā kāna wa bāliġ mā balaġa baʿda ʾan quriʾa ʿalay himā ǧamīʿ:an ǧamīʿu mā fī hi 
+ <lb n="11"/>ḥarf:an ḥarf:an min ʾawwali hi ʾilà ʾāḫiri hi wa ʿarafā hu wa ʾaqarrā bi fahmi hi wa maʿrifati hi wa ḏālika fī ṣiḥḥaẗi ʿuqūli himā wa ʾabdāni himā wa ǧawāzi ʾumūri himā ṭāʾiʿāni ṭālibāni ġayru mukrahāni wa lā muǧbarāni wa lā muḍṭahadāni fī raǧab:in min sanaẗi ṯamān:in wa ʾarbaʿīna wa ʾarbaʿi miyaẗ:in 
+ <lb n="12"/>wa ăl ḥuǧraẗu ăl fawqāniyyaẗu maǧāzu hā fī širāʾi ăl mukannā bi ʾabī ăs sariyyi bni hiliyaha li hāḏā ʾilà dāri qanǧūša wa bi ḏālika rufiʿati ăš šahādaẗu fī ăt taʾrīḫi ṣaḥḥa šahida bū sahli bnu ḫalafi bni ʾibrāhīma ăl muʾaḏḏinu ʿalà ʾiqrāri 
+ <lb n="13"/>ăl muqirrāni bi hā nusiba ʾilay himā fī hi wa kataba bi yadi hi fī taʾrīḫi hi ăl ḥamdu li ăl lāhi kamā huwa ʾahlu hu 
+ <lb n="14"/>wa ʿalà ăl maǧāzi wa ṯabatati ăš šahādaẗu 
+ <lb n="15"/>šahida bahāru nahāru bnu sulaymāna bni ʾidrīsa 
+ <lb n="16"/>bi ǧamīʿi mā summiya wa wuṣifa fī hāḏā ăl kitābi wa kataba bi yadi hi ṣaḥḥa 
+ <lb n="17"/>šahida ***ʿāsu ***fāsu ***qāsu qāsimu bnu muḥammadi bni ǧaʿfara ʿalà ʾiqrāri ăl muqirri 
+ <lb n="18"/>bi ǧamīʿi mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi wa ăl ḥamdu li ăl lāhi kamā huwa ʾahlu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The seller has acknowledged before me that he has taken over from the buyer the price paid beforehand,
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful. | and Sulaimân b. Idrîs has written (it) on this date. Praise be to God as is due.
+			<lb n="3"/>
+		This is what the surnamed Abû Sarî b. Helia b. Rafrafîl, the Christian, has bought from Theodoros b. Chael b. Halistos, the journeyman, who both are numbered at this time among the people of the domain known as Bulgusûq Teres (?), belonging to the villages of the district of al-Fayyûm in Upper-Egypt: he has bought from him in one striking
+			<lb n="4"/>
+		(of hands) and one contract, all the southern open area that he had mentioned as owned by him and being his property in the aforesaid domain, enclosed and surrounded by four boundaries: the first boundary, viz. the southern, ends at the main thoroughfare with which the door of this open area communicates so as to afford entrance to
+			<lb n="5"/>
+		and exit from it; the second, the northern boundary, extends to the open areas belonging to Abnîle b. Isḥâq; the third, the eastern boundary, to the cave[rn of ..............................], son of the surnamed Abû Sarî b. Helia and this Theodoros b. Chael, the fourth, the western boundary extends to the dwelling house of Yoḥannes b. Bardesane.
+			<lb n="6"/>
+		The surnamed Abû Sarî b. [Hel]ia b. Rafrafîl, has, therefore, bought the whole of this open area to its limit and its boundaries and (including) what is be[low and above the surface], its land and its sky, and its open areas and its fore-courts, and all that is known as appertaining and relating to it, in form of a right, valid purchase, in which is no condition and no promise
+			<lb n="7"/>
+		and nothing that can bring about a loss and no option (of return) and no deposit and no pledge and no mutual balancing of debts and no stipulation that renders a purchase ineffective [according to Is]lamic law of sale. And he has carried out their (the Muslims) prescriptions to their extremest conditions and he has occupied it and has taken possession of it, and it has become his own property and possession, (so that) if he will, he may sell it,
+		... their (the Moslim) prescriptions ...
+			<lb n="8"/>
+		and if he will, he may give it away, and if he will, he may give it as an alms, (and that) for a price, which in gold-coins amounts to a quarter of a dînâr, the half thereof being an eighth of a dînâr. Theodoros b. Chael b. Halistos, the journeyman, has received the whole of the said price fully and entirely and he has released him from all of it and from its weight and ready money and from the oath
+		and if he wishes, he may give it away, and if he wishes, he may give it as an alms, (and that) for a price ...
+			<lb n="9"/>
+		... by their mutual consent. And quittance has been given by one man amongst the quick (alive) to another amongst the quick; and should any (evil) consequence (vindicatio) ...
+		with regard to it or any portion thereof, by a receipt (acknowledging that he has) received and taken (it) over fully; and they have both jointly acknowledged the bargain to be good by their (mutual) consent. And quittance has been given by one man in the quick to another in the quick, and should any evil consequence (vindicatio) with regard to his purchase or any portion thereof befall the surnamed Abuʾs Sarî b. Helia b.Rafrafîl, on the basis of any contention or litigation on the part of other
+			<lb n="10"/>
+		persons, be they near or far, present or absent, one who suddenly appears with a debt or one who makes a claim on the basis of an inheritance, then its carrying out, redemption and indemnification are incumbent upon Theodoros b. Chael b. Halistos, the journeyman, whatever it might be or amount to. The whole content of this has been read to both of them jointly
+		persons, be they near or far, present or absent, one who suddenly appears with a debt or one who makes a claim on the basis of an inheritance, then its execution, redemption and indemnification are incumbent upon Theodoros b. Chael b. Halistos, the journeyman, whatever it might be or amount to. The whole content of this has been read to both of them jointly
+		persons, be they near or far, present or absent, one who suddenly appears with a debt or one who makes a claim on the basis of an inheritance, then its recuperation, redemption and indemnification are incumbent upon Theodoros b. Chael b. Halistos, the journeyman, whatever it might be or amount to. The whole content of this has been read to both of them jointly
+			<lb n="11"/>
+		... capacity of transacting ... in Ragab of the year four hundred and forty eight
+		word by word from beginning to end; and they are cognizant of it and have acknowledged that they have understood it and comprehend it, and this in soundness of mind and body and capacity for transacting their business, voluntarily, demanding (it), without compulsion and not against their will and not under constraint, in Raǧab of the year four hundred and forty eight;
+			<lb n="12"/>
+		and the passage in the upper tract (of the property concerned) in the purchase of the surnamed Abuʾs-Sarî b. Helia, leading to the house of Qanǧ[ūš], is free to him and (the following witnesses) have testified to it on the (same) date: Valid. Bû Sahl b. Ḫalaf b. Ibrahîm, the muezzin, is witness to the acknowledgment
+		... leading to the house of Qang[ūsh] ... Bû Sahl b. Khalaf b. Ibrahîm ...
+			<lb n="13"/>
+		on the part of both the acknowledgers in respect to that herein which concerns them, and he has written (it) with his (own) hand on this date - Praise be to God as He is worthy thereof -
+			<lb n="14"/>
+		and with regard to the (said) passage the testimony has been verified.
+			<lb n="15"/>
+		Nahâr b. Sulaimân b. Idrîs is witness
+			<lb n="16"/>
+		to all that is named and described in this act and he has written (it) with his (own) hand. Valid.
+			<lb n="17"/>
+		[.........]âs b. Muḥammad b. Ǧaʿfar [is witness] to the acknowledgment by the acknowledgers
+		[.........]âs b. Muḥammad b. Gaʿfar ...
+			<lb n="18"/>
+		[to all that] (is contained) herein and he has written (it) in his (own) handwriting on this date. And praise be to God, as He is worthy thereof. Valid.
+</ab></div>
+</body>
+</text>
+</TEI>

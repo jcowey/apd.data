@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="664" xml:id="Raghib_Vente_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Vente 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_Vente_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106749</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  حسبي اللّه وكفى 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  هذا ما اشترى أبو 
+<lb n="4"/>  عيسى بن محمّد لعالية 
+<lb n="5"/>  ابنة الحسيـ<sic n="superfluous">ـنـ</sic>ـن بمالها 
+<lb n="6"/>  وسمها من أحمد 
+<lb n="7"/>  <app type="BL"><lem resp="APD">المغربي </lem><rdg resp="APD">المعرّىّ </rdg><rdg resp="APD">المعزّىّ</rdg></app> جارية سودا 
+<lb n="8"/>  عجميّة الثّمن ستّة 
+<lb n="9"/>  عشر دينار ونصف 
+<lb n="10"/>  بيع البراه من كل عيب 
+<lb n="11"/>  ظاهر وباطن وذلك 
+<lb n="12"/>  في شوّال سنة 
+<lb n="13"/>  عشر والحق 
+<lb n="14"/>  لا جنون ولا عشـ<sic n="superfluous">ـپـ</sic>ـا ولا 
+<lb n="15"/>  دعوان فيه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ḥasb iya ăl lāhu wa kafà 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā mā ĭštarà ʾabū 
+ <lb n="4"/>ʿīsà bnu muḥammad:in li ʿāliyaẗa 
+ <lb n="5"/>ĭbnaẗi ăl ḥusayni bi māli hā 
+ <lb n="6"/>wa smi hā min ʾaḥmada 
+ <lb n="7"/>ăl maġribiyyi maʿarriyyi muʿizziyyi ǧāriyaẗ:un sawdāʾu 
+ <lb n="8"/>ʿaǧamiyyaẗ:uni ăṯ ṯamanu sittaẗa 
+ <lb n="9"/>ʿašara dīnār wa niṣf:un 
+ <lb n="10"/>bayʿu ăl barāʾaẗi min kulli ʿayb:in 
+ <lb n="11"/>ẓāhir:in wa bāṭin:in wa ḏālika 
+ <lb n="12"/>fī šawwāl:in sanaẗa 
+ <lb n="13"/>ʿašr:in wa ʾilḥāq:un 
+ <lb n="14"/>lā ǧunūna wa lā ʿašā wa lā 
+ <lb n="15"/>daʿwāna fī hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Combien Dieu me suffit!
+			<lb n="2"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="3"/>
+		Voici ce qu&#039;a acheté Abū
+			<lb n="4"/>
+		ʿĪsā b. Muḥammad pour ʿĀliya
+			<lb n="5"/>
+		ibnat al-Ḥusayn avec son argent
+			<lb n="6"/>
+		et en son nom, d&#039;Aḥmad
+			<lb n="7"/>
+		al-Maġribī: une esclave noire
+			<lb n="8"/>
+		non arabe. Le prix est de
+			<lb n="9"/>
+		seize dinars et demi.
+			<lb n="10"/>
+		Vente sans garantie de tous vices,
+			<lb n="11"/>
+		apparents ou cachés. Et cela
+			<lb n="12"/>
+		en šawwāl l&#039;année 
+			<lb n="13"/>
+		dix. Addition:
+			<lb n="14"/>
+		&#034;(l&#039;esclave) n&#039;est pas folle, ni héméralope,
+			<lb n="15"/>
+		ni objet de demande&#034;.
+</ab></div>
+</body>
+</text>
+</TEI>

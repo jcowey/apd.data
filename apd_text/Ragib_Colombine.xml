@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1398" xml:id="Ragib_Colombine" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibColombine</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Colombine</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169190</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ذكر حق لأحمد بن إبرهيم بن ميمون البويطي على كيل بن بقطر بن دويد النّصراني من سكّان ططون من كورة الفيّوم له عليه 
+<lb n="3"/>  وعنده وقبله تلاتة <supplied reason="lost" cert="high">عشر</supplied> إردبّا ذرق حمام بالويبة الّيتيّة يوفيه ذلك على ساحل سدمنت في شهر هتور 
+<lb n="4"/>  من شهور <supplied reason="lost" cert="high">العجم</supplied> من سنة عـ<supplied reason="lost" cert="high">ـشرين</supplied> <supplied reason="lost" cert="high">وثلاثما</supplied>ئة لا يدافع بذلك ولا يحتج بوجه ولا بسبب إلّا بالخروج من هذا الذّرق الحمام <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="5"/>  <supplied reason="lost" cert="high">ثـ</supplied>ـلاثة عشر إرد<supplied reason="lost" cert="high">بّا</supplied> بالو<supplied reason="lost" cert="high">يبة</supplied> <supplied reason="lost" cert="high">الّيثـ</supplied>ـيّة <gap reason="illegible" extent="2" unit="character" /> الا<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> <supplied reason="lost" cert="high">الذّ</supplied>رق الحما<supplied reason="lost" cert="high">م</supplied> إلى أحمد بن إبرهيم بن ميمون البويطي أو إلى من يقوم مقامه في ذلك <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">صـ</supplied>ـحّـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">عقله</supplied> <supplied reason="lost" cert="high">و</supplied>بدنه وجـ<supplied reason="lost" cert="high">ـو</supplied>از أمره طائع غـ<supplied reason="lost" cert="high">ـيـ</supplied>ـر مكره ولا مجبر طالب راغب وذلك في سلخ شعبان من سنة عشرين وثلاثمـ<supplied reason="lost" cert="high">ـائة</supplied> <supplied reason="lost" cert="high">شهد</supplied> هرون بن الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إ</supplied>قرار كيل بن بقطر <supplied reason="omitted" cert="high">بن</supplied> دويد بجميع ما في هذا الكتاب وذلك في سلخ شعبان من سنة عشرين وثلاثمائة 
+<lb n="8"/>  <supplied reason="lost" cert="high">وشهد</supplied> <gap reason="illegible" precision="low" extent="3"/> بن هرون بجميع ما في هذا الكتاب وكتب شهادته بخطّه في سنة عشرين وثلاثمائة 
+<lb n="9"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> جعفر بجميع ما في هذا الكتاب وـذلك في شهر شعبان من سنة عشرين وثلاثمائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqq:in li ʾaḥmada bni ʾibrāhīma bni maymūn:ini ăl buwayṭiyyi ʿalà kayli bni buqṭura bni duwayd:ini ăn naṣrāniyyi min sukkāni ṭuṭūna min kūraẗi ăl fayyūmi la hu ʿalay hi 
+ <lb n="3"/>wa ʿinda hu wa qibala hu talātaẗa ʿašara ʾirdabb:an ḏarqa ḥamām:in bi ăl waybaẗi ĭl laytiyyaẗi yūfī hi ḏālika ʿalà sāḥili sadmanta fī šahri hatūra 
+ <lb n="4"/>min šuhūri ăl ʿaǧami min sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in lā yudāfiʿu bi ḏālika wa lā yaḥtaǧǧu bi waǧh:in wa lā bi sabab:in ʾillā bi ăl ḫurūǧi min hāḏā ăḏ ḏarqi ăl ḥamāmi **** 
+ <lb n="5"/>ṯalāṯaẗa ʿašara ʾirdabb:an bi ăl waybaẗi ĭl layṯiyyaẗi ** ăl *** ******* ăḏ ḏarq ăl ḥamāmi ʾilà ʾaḥmada bni ʾibrāhīma bni maymūn:ini ăl buwayṭiyyi ʾaw ʾilà man yaqūmu maqāma hu fī ḏālika *** fī 
+ <lb n="6"/>ṣiḥḥaẗi min ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ ġayra mukrah:in wa lā muǧbar:in ṭālib rāġib wa ḏālika fī salḫi šaʿbāna min sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in šahida hārūnu bnu ăl *** 
+ <lb n="7"/>*** ʿalà ʾiqrāri kayli bni buqṭura bni duwayd:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī salḫi šaʿbāna min sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="8"/>wa šahida *** bnu hārūna bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi fī sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="9"/>šahida *** bnu ǧaʿfara bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī šahri šaʿbāna min sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+			<lb n="2"/>
+		Titre établissant le droit d&#039;Aḥmad b. Ibrāhīm b. Maymūn al-Buwayṭī sur Chael b. Buqṭur b. Duwayd le chrétien des habitants de Ṭuṭūn du district du Fayyoum. Il lui doit
+			<lb n="3"/>
+		et détient chez lui trei[ze] ardab-s de fiente de pigeon en wayba layṯiyya. Il lui livrera ceci sur la berge (du canal) à Sadmant au mois de hatūr
+			<lb n="4"/>
+		des mois [étrangers] de l&#039;année [trois cent vingt]. Il ne remettra pas cela et n&#039;invoquera aucun prétexte pour quelque cause ou quelque motif que ce soit, mais s&#039;acquittera de cette fiente de pigeon [..]
+			<lb n="5"/>
+		treize arda[b-]s [en wayba layṯiyya ..].. [... fien]te de pigeon à Aḥmad b. Ibrāhīm b. Maymūn al-Buwayṭī ou à celui qui le représentera en ceci [.. dans]
+			<lb n="6"/>
+		[la plé]nitu[de de ses facultés mentales et] physiques, sa capacité juridique et son assentiment, sans violence ni contrainte, à sa demande et à son désir. Et ceci en fin de šaʿbān de l&#039;année troise [cent] vingt. [A témoigné] Harūn b. al-[...]
+			<lb n="7"/>
+		[... de la] reconnaissance par Chael b. Buqṭur &lt;b.&gt; Duwayd de la totalité du contenu de cet écrit et ceci en fin de šaʿbān de l&#039;année trois cent vingt.
+			<lb n="8"/>
+		[A témoigné ...] b. Harūn de la totalité du contenu de cet écrit. Il a écrit son témoignage de son écriture en l&#039;année trois cent vingt.
+			<lb n="9"/>
+		[A témoigné ... b.] Ǧaʿfar de la totalité du contenu de cet écrit et ceci au mois de šaʿbān trois cent vingt.
+</ab></div>
+</body>
+</text>
+</TEI>

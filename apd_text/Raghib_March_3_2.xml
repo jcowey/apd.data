@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="587" xml:id="Raghib_March_3_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 02</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106721</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أكرمك اللّه بطاعته وهباك كرامته في الدّنيا والآخرة برحمته وصل 
+<lb n="recto 3"/>  إلي كتابك وسرّني <app type="BL"><lem resp="APD">علم </lem><rdg resp="Diem">صلح</rdg></app> خبرك وتسعة أثواب ولم أبيع منها شي إلّا أنّي كتبت 
+<lb n="recto 4"/>  إليك قلّبتها على الرّجل الّذي شرى منّي <gap reason="illegible" precision="low" extent="3"/> مرّة فأعطاني بالثّلاثة الشّقق مع الّفافة 
+<lb n="recto 5"/>  ربع ربع عليهم <gap reason="illegible" precision="low" extent="3"/> وأرجوا يعوّضني اللّه وشكا سوقه <gap reason="illegible" precision="low" extent="3"/> بالنّاس 
+<lb n="recto 6"/>  هذا المطر وأخلّت الأسواق وأرجوا يجعلها اللّه مطر رحمة قد وجّهت إليك 
+<lb n="recto 7"/>  حسابك القديم كلّه أحد <supplied reason="omitted" cert="high">و</supplied>عشرين قيراط يقع سبعة اعشر درهم ونصف 
+<lb n="verso 1 right"/>  لأبي هريرة أكرمه اللّه بطاعته 
+<lb n="verso 2 right"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="verso 1 left"/>  من محمّد بن عمرو بن ثور 
+<lb n="verso 2 left"/>  الثّاني 
+<lb n="verso 3"/>  عنده تسعة وثوب فذلك عشرة أثوا<supplied reason="lost" cert="high">ب</supplied> ووجّهت إليه بأربعة <gap reason="illegible" precision="low" extent="3"/> ولفافة 
+<lb n="verso 4"/>  ووجّهت إلى محمّد بن عمرو تسعة أثواب 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> من الدّفعة الأولى <gap reason="illegible" precision="low" extent="3"/> وفيه تسعة فذلك عشرة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi waṣala 
+ <lb n="3"/>ʾilay ya kitābu ka wa sarra nī ʿilmu ṣāliḥu ḫabari ka wa tisʿaẗu ʾaṯwāb:in wa lam ʾabīʿ min hā šayʾ ʾillā ʾan nī katabtu 
+ <lb n="4"/>ʾilay ka qallabtu hā ʿalà ăr raǧuli ăllaḏī šarà minn ī *** marraẗ:an fa ʾaʿṭā nī bi ăṯ ṯalāṯaẗi ăš šiqaqi maʿa ĭl lifāfaẗi 
+ <lb n="5"/>rubʿa rubʿ:in ʿalay him *** wa ʾarǧū yuʿawwiḍu nī ăl lāhu wa šakā sūqa hu *** bi ăn nāsi 
+ <lb n="6"/>hāḏā ăl maṭar wa ʾuḫillati ăl ʾaswāqu wa ʾarǧū yaǧʿalu hā ăl lāhu maṭara raḥmaẗ:in qad waǧǧahtu ʾilay ka 
+ <lb n="7"/>ḥisāba ka ăl qadīma kulla hu ʾaḥad:un wa ʿišrīna qīrāṭ yaqaʿu sabʿaẗa ĭʿšara dirham wa niṣf:un 
+ <lb n="8"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="9"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="10"/>min muḥammadi bni ʿamri bni ṯawr:in 
+ <lb n="12"/>ăṯ ṯānī 
+ <lb n="13"/>ʿinda hu tisʿaẗ:un wa ṯawb:un fa ḏālika ʿašaraẗu ʾaṯwāb:in wa waǧǧahtu ʾilay hi bi ʾarbaʿaẗi *** wa lifāfaẗ:in 
+ <lb n="14"/>wa waǧǧahtu ʾilà muḥammadi bni ʿamr:in tisʿaẗa ʾaṯwāb:in 
+ <lb n="15"/>*** mina ăd dafʿaẗi ăl ʾūlà *** wa fī hi tisʿaẗ:un fa ḏālika ʿašaraẗ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et t&#039;accorde Sa magnanimité dans ce monde et dans l&#039;autre par Sa miséricorde! Ta lettre m&#039;est parvenue
+			<lb n="3"/>
+		me donnant de tes nouvelles qui m&#039;ont réjoui, ainsi que neuf pièces d&#039;étoffe dont je n&#039;ai rien vendu. Seulement je t&#039;ai écrit
+			<lb n="4"/>
+		que je les ai faites examiner par l&#039;homme qui avait acheté une fois de moi.... Il m&#039;a donné pour les trois šiqqa-s avec la lifāfa
+			<lb n="5"/>
+		le quart d&#039;un quart (de dinar) .... J&#039;espère que Dieu m&#039;offrira une compensation. Il s&#039;est plaint de son marché. Les gens ont été ...
+			<lb n="6"/>
+		par cette pluie et les marchés ont été perturbés. J&#039;espère que Dieu en fasse une pluie de miséricorde! Je t&#039;ai adressé
+			<lb n="7"/>
+		ton ancien compte dans sa totalité : vingt-et-un qīrāṭ-s qui font dix-sept dirhams et demi.
+			<lb n="8"/>
+		À Abū Hurayra - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+			<lb n="9"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="10"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr.
+			<lb n="12"/>
+		La deuxième.
+			<lb n="13"/>
+		Il a chez lui neuf (pièces d&#039;étoffe) et une autre. Cela fait dix pièces d&#039;étoffe. Je lui ai adressé quatre..... et une lifāfa.
+			<lb n="14"/>
+		J&#039;ai adressé à Muḥammad b. ʿAmr neuf pièces d&#039;étoffe.
+			<lb n="15"/>
+		.... de la première livraison .... il s&#039;y trouve neuf. Cela fait dix.
+</ab></div>
+</body>
+</text>
+</TEI>

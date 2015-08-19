@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="287" xml:id="Grohmann_APEL_91" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 091</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_91</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106533</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  لفاطمة ابنت محمّد بن عيسى بن إسحق القبلي مـ<supplied reason="lost" cert="high">ـنزل</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أ</supplied>حمد الدبّاغ و البحري الشارع <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  لفاطمة ابنت محمّد بن عيسى في الرّكن الغربي من <supplied reason="lost" cert="high">هـ</supplied>ـذ<supplied reason="lost" cert="high">ه</supplied> الدّار والشّرقي منظـ<supplied reason="lost" cert="high">ـرة</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  والغربي طريق المارّة اكترت ملك السّودا منزل من هذه الدار <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="4"/>  ومن ذلك نصف منزل في الوجه القبلي من حمّام نيله حدّه القبلي <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>li fāṭimaẗa ĭbnati muḥammadi bni ʿīsà bni ʾisḥāqa ăl qibliyyu manzilu *** bni ʾaḥmada ăd dabbāġi wa ăl baḥriyyu ăš šāriʿu *** 
+ <lb n="2"/>li fāṭimaẗa ĭbnati muḥammadi bni ʿīsà fī ăr rukni ăl ġarbiyyi min hāḏihi ăd dāri wa ăš šarqiyyu manẓaraẗu *** bni *** 
+ <lb n="3"/>wa ăl ġarbiyyu ṭarīqu ăl mārraẗi ĭktarat malaku ăs sawdāʾu manzil min hāḏihi ăd dāri **** 
+ <lb n="4"/>wa min ḏālika niṣfu manzil:in fī ăl waǧhi ăl qibliyyi min ḥammāmi nīlahi ḥaddu hu ăl qibliyyu **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Belonging to Fâṭima, daughter of Muḥammad b. ʿÎsâ b. Isḥâq, the southern (boundary is formed by) the dw[ellinghouse of So and So, son of A]ḥmad, the tanner; and the northern is (formed by) the street [......  
+			<lb n="2"/>
+		belonging to Fâṭima, daughter of Muḥammad b. ʿÎsâ, in the western corner of [th]i[s] house; and the eastern is (formed by) the manẓa[ra of So and So, son of So and So,]
+			<lb n="3"/>
+		and the western is (formed by) the main thoroughfare. Malak, the black, has hired a dwelling (house) appertaining to this house [ .........
+			<lb n="4"/>
+		and thereto appertains the half of a dwelling (house) lying in the southern part of Nile&#039;s baths, the southern boundary thereof [ ........
+</ab></div>
+</body>
+</text>
+</TEI>

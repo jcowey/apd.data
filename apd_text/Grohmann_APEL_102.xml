@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="302" xml:id="Grohmann_APEL_102" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 102</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_102</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106544</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> ن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">السّاكن</supplied> يومئذ بمـ<supplied reason="lost" cert="high">ـد</supplied>ينة أشمون يوفّيه ذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">جمادى</supplied> </lem><rdg resp="APD">ربيع</rdg></app> <supplied reason="lost" cert="high">الآخـ</supplied>ـر سنة <supplied reason="lost" cert="high">أربـ</supplied>ـع وسبعين ومائتن لا يدافـ<supplied reason="lost" cert="high">ـع</supplied> <supplied reason="lost" cert="high">بذلك</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">يحتجّ</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">بحجّة</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">الوجوه </supplied>
+<lb n="4"/>  <supplied reason="lost" cert="high">وا</supplied>لأ<supplied reason="lost" cert="high">سبا</supplied>ب كلّها ومن قام <supplied reason="lost" cert="high">بذ</supplied>كر <supplied reason="lost" cert="high">الحقّ</supplied> <supplied reason="lost" cert="high">اقتضا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> ومن أحال عليه أقر له بحقّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** n *** 
+ <lb n="2"/>***** ăs sākin yawma ʾiḏ:in bi madīnaẗi ʾušmūna yuwaffī hi ḏālika *** 
+ <lb n="3"/>ǧumādà rabīʿa ăl ʾāḫari ʾāḫiri sanaẗa ʾarbaʿ:in wa sabʿīna wa miʾatayni lā yudāfiʿu bi ḏālika wa lā yaḥtaǧǧu fī hi bi ḥuǧǧaẗ:in ʿalà ăl wuǧūhi 
+ <lb n="4"/>wa ăl ʾasbābi kulli hā wa man qāma bi ḏikri ăl ḥaqqi ĭqtaḍā mā fī hi *** 
+ <lb n="5"/>ʾin šāʾa ăl lāhu *** wa man ʾaḥāla ʿalay hi ʾaqarra la hu bi ḥaqqi hi šahida ʿalà ḏālika *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...... residing] at this time in the town of Ašmûn; he will pay this fully to him [..............]
+			<lb n="3"/>
+		[...... of the secon]d [.......] of the year two hundred and seventy [fou]r. He will not dela[y the payment thereof nor will he bring forward any pretext in respect thereto for whatever cause]
+			<lb n="4"/>
+		[or r]ea[son] there may be, and whosoever presents himself [with (this) wr]itten in[strument shall receive what (is mentioned) therein,]
+			<lb n="5"/>
+		[if God will,] (the debtor) will recognize the rights of any person to whom he (the creditor) may transfer (them). [The following witnesses have testified to it: ]
+</ab></div>
+</body>
+</text>
+</TEI>

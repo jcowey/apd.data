@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2309" xml:id="Thung_CPR_320_recto" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 32 recto</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_320_recto</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" extent="20" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  بن بنين المقيمان بالنّاحية المعروفة ببو مرقوس وأشهدا على أنفسهما في صحّة 
+ <lb n="3"/>  عقلهما وبدنهما وجواز أمر طوعا منهما ورغبة أن عليهما وعندهما وفي ذمّتهما وخالص 
+ <lb n="4"/>  مالهما دينا ثابتا وحقّا واجبا <supplied reason="lost" cert="high">شـ</supplied>ـرعيا للعسلي بن الفقيه شمس الدّين محمّد بن عبيد بن محمّد بن عبد اللّه 
+ <lb n="5"/>  من الثوم الرّوس الأبيض السّالم من الطين والقش إردبّين ونصف ومن 
+ <lb n="6"/>  العنب الأبيض الطّيّب السّالم من الخمرة والعطب مائة وستّين رطلا بالمصري النّصف من الثّوم 
+ <lb n="7"/>  المذكور إردب واحد وربع ومن العنب ثمانين رطلا بالمصري من ذلك ما هو باسم حنّا 
+ <lb n="8"/>  المبدأ باسمه إردبّين ونصف ثوم المذكور فيه يقوم بها في سلخ جمادى الآخر سنة تسع 
+ <lb n="9"/>  وعشرين وستّمائة والعـ<supplied reason="lost" cert="high">ـنـ</supplied>ـب المذكور باسم أبو <app type="BL"><lem resp="APD">الفرج </lem><rdg resp="APD">الفرح </rdg><rdg resp="APD">الفرخ</rdg></app> المثنّا باسمه يـ<supplied reason="lost" cert="high">ـقوم</supplied> به في سلخ 
+ <lb n="10"/>  شعبان من شهور السّنة المذكورة وكل منهما ضامنا وكفيلا لصاحبه في الذّمّة بدينه له جميعا 
+ <lb n="11"/>  وفرادا وبه شهد بتأريخ العشرين من جمادى الأوّل من السّنة المذكورة أعلاه 
+ <lb n="12 right"/>  شهد بذلك خضر بن 
+ <lb n="13 right"/>  علي بن عمر الشّافعي 
+ <lb n="14 right"/>  في <expan><ex>تأر</ex><abbr>يخه</abbr></expan> 
+ <lb n="12 left"/>  أشهداني بذلك 
+ <lb n="13 left"/>  وكتب عبد الحـ<supplied reason="lost" cert="high">ـميـ</supplied>ـد <supplied reason="lost" cert="high">بن</supplied> علي 
+ <lb n="14 left"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">تأريخه</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>******************** *** *** *** 
+ <lb n="2"/>bni banīn:ini ăl muqīmāni bi ăn nāḥiyaẗi ăl maʿrūfaẗi bi bū marqūsa wa ʾašhadā ʿalà ʾanfusi himā fī ṣiḥḥaẗi 
+ <lb n="3"/>ʿaqli himā wa badani himā wa ǧawāzi ʾamr:in ṭawʿ:an min humā wa raġbaẗ:an ʾanna ʿalay himā wa ʿinda humā wa fī ḏimmati himā wa ḫāliṣi 
+ <lb n="4"/>māli himā dayn:an ṯābit:an wa ḥaqq:an wāǧib:an šarʿiyy:an li ăl ʿasaliyyi bni ăl faqīhi šamsi ăd dīni muḥammadi bni ʿubaydi bni muḥammadi bni ʿabdi ăl lāhi 
+ <lb n="5"/>mina ăṯ ṯūmi ăr ruʾusi ăl ʾabyaḍi ăs sālimi mina ăṭ ṭīni wa ăl qašši ʾirdabbayni wa niṣf wa mina 
+ <lb n="6"/>ăl ʿinabi ăl ʾabyaḍi ăṭ ṭayyibi ăs sālimi mina ăl ḫamraẗi wa ăl ʿaṭabi miʾaẗ:an wa sittīna raṭl:an bi ăl miṣriyyi ăn niṣfu mina ăṯ ṯūmi 
+ <lb n="7"/>ăl maḏkūri ʾirdabb:un wāḥid:un wa rubʿ:un wa mina ăl ʿinabi ṯamānīna raṭl:an bi ăl miṣriyyi min ḏālika mā huwa bi ĭsmi ḥannā 
+ <lb n="8"/>ăl mubdaʾi bi ĭsmi hi ʾirdabbayni wa niṣfu ṯūm:ini ăl maḏkūri fī hi yaqūmu bi hā fī salḫi ǧumādà ăl ʾāḫiri sanaẗa tisʿ:in 
+ <lb n="9"/>wa ʿišrīna wa sitti miʾaẗ:in wa ăl ʿinabu ăl maḏkūru bi ĭsmi ʾabū ăl faraḥi farḫi faraǧi ăl muṯannā bi ĭsmi hi yaqūmu bi hi fī salḫi 
+ <lb n="10"/>šaʿbāna min šuhūri ăs sanaẗi ăl maḏkūraẗi wa kull:un min humā ḍāmin:an wa kafīl:an li ṣāḥibi hi fī ăḏ ḏimmaẗi bi dayni hi la hu ǧamīʿ:an 
+ <lb n="11"/>wa furād:an wa bi hi šuhida bi taʾrīḫi ăl ʿišrīna min ǧumādà ăl ʾawwali mina ăs sanaẗi ăl maḏkūraẗi ʾaʿlā hu 
+ <lb n="12"/>šahida bi ḏālika ḫaḍiru bnu 
+ <lb n="13"/>ʿaliyyi bni ʿumara ăš šāfiʿiyyu 
+ <lb n="14"/>fī taʾrīḫi hi 
+ <lb n="15"/>ʾašhadā nī bi ḏālika 
+ <lb n="16"/>wa kataba ʿabdu ăl ḥamīdi bni ʿaliyy:in 
+ <lb n="17"/>fī taʾrīḫi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="2"/>
+ 	  ibn Banīn, beide wohnhaft in der Gegend, die bekannt ist als Bū Marqūs, und sie haben gegen sich bezeugen lassen, im Zustand ihrer vollen
+		 <lb n="3"/>
+ 	  geistigen und körperlichen Gesundheit und ihrer Geschäftsfähigkeit, freiwillig, auf eigenen Wunsch, daß sie zu ihren Lasten und von
+		 <lb n="4"/>
+ 	  ihrem Besitz, als feststehende Verpflichtung und gesetzlichen obligatorischen Rechtsanspruch al-ʿAsalī, Sohn des Rechtsgelehrten Šamsaddīn Muḥammad b. ʿUbayd b. Muḥammad b. ʿAbdallāh,
+		 <lb n="5"/>
+ 	  zweieinhalb Artaben weißer Knoblauchzwiebeln, frei von Lehm und Stroh, und
+		 <lb n="6"/>
+ 	  hundertsechzig ägyptische Raṭl guter weißer Weintrauben, frei von Gärung und Fäulnis schulden. Die Hälfte des erwähnten Knoblauchs
+		 <lb n="7"/>
+ 	  ist eineinviertel Artabe, und die Hälfte der Weintrauben sind achtzig ägyptische Raṭl. Von diesen gehen auf Namen Ḥannā,
+		 <lb n="8"/>
+ 	  der zuerst genannt ist, die erwähnten zweieinhalb Artaben Knoblauch, die er am Ende des Monats Ǧumādā II des Jahres
+		 <lb n="9"/>
+ 	  sechshundertneunundzwanzig aushändigen wird, während die erwähnten Weintrauben, auf Namen des als zweiten erwähnten Abū l-Faraǧ, von ihm am Ende des Monats
+		 <lb n="10"/>
+ 	  Šaʿbān des erwähnten Jahres auszuhändigen sind. Jeder von den beiden ist gewährleistender Bürger für den anderen bezüglich dessen Schuld zu seinen (sc. des Gläubigers) Gunsten, gemeinsam
+		 <lb n="11"/>
+ 	  und als einzelne Person. Dies wurde gegen die beiden am Datum des zwanzigsten Ǧumādā I des oben erwähnten Jahres bezeugt.
+		 <lb n="12"/>
+ 	  Zeuge hiervon ist Ḫaḍir b.
+		 <lb n="13"/>
+ 	  ʿAlī b. ʿUmar aš-Šāfʿī
+		 <lb n="14"/>
+ 	  am Datum der Urkunde
+		 <lb n="15"/>
+ 	  Die beiden haben mich zum Zeugen hiervon gemacht
+		 <lb n="16"/>
+ 	  und es hat unterschrieben ʿAbdalḥamīd [b.] ʿAlī
+		 <lb n="17"/>
+ 	  [am Datum der Urkunde]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

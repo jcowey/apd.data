@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1729" xml:id="Prag_600" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 60</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_600</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169474</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> وتمّم لك نعم الدّنيا والآخرة برحمته 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">يدفع </lem><rdg resp="APD">يدفع</rdg></app> الثّلاثة الدّنانير إلى <app type="BL"><lem resp="APD">حسين </lem><rdg resp="APD">حنين</rdg></app> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> له أن يأتيك اليوم فيها ولو <unclear reason="undefined" cert="high">رسمت</unclear> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> ثلاثين دينر فإن كان <supplied reason="lost" cert="high">ذ</supplied>لـ<supplied reason="lost" cert="high">ـك</supplied> الأمر 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ر</supplied> الدّينرين الّتي لي فإنّي أخذت <unclear reason="undefined" cert="high">غريمة</unclear> لي 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/>س فلا تدع ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “suggestion”">وقد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عپـ</supplied>ـر </lem><rdg resp="Diem “suggestion”">كتبت</rdg></app> <app type="BL"><lem resp="APD">مره </lem><rdg resp="Diem “suggestion”">إليك</rdg></app> <app type="BL"><lem resp="APD">ولو </lem><rdg resp="Diem “suggestion”">فيها</rdg></app> لا حاحپى الپه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “suggestion”">لما</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ان</supplied> </lem><rdg resp="Diem “suggestion”">كتبت</rdg></app> <app type="BL"><lem resp="APD">پڤدر </lem><rdg resp="Diem “suggestion”">إليك</rdg></app> <app type="BL"><lem resp="APD">پطول </lem><rdg resp="Diem “suggestion”">فإنّي</rdg></app> <app type="BL"><lem resp="APD">ڤپهأ </lem><rdg resp="Diem “suggestion”">أراك</rdg></app> <app type="BL"><lem resp="APD">ڤان </lem><rdg resp="Diem">تعذّر</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ا </lem><rdg resp="Diem “suggestion”">فابعث</rdg></app> <app type="BL"><lem resp="APD">ساعه </lem><rdg resp="Diem “suggestion”">بها</rdg></app> <app type="BL"><lem resp="APD">ولا </lem><rdg resp="Diem “suggestion”">إليّ</rdg></app> <app type="BL"><lem resp="APD">پدع </lem><rdg resp="Diem “suggestion”">ولا</rdg></app> <app type="BL"><lem resp="APD">الكـ<supplied reason="lost" cert="high">ـپاپ</supplied> </lem><rdg resp="Diem “suggestion”">تؤخّرها</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ل </lem><rdg resp="LS / Diem">أعتدّ</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">ذلك</rdg></app> مالك هپه مپك پم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">تحق </lem><rdg resp="Diem">بحقّي</rdg></app> عليك إلّا وجّهتها <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** *** *** wa tammama la ka niʿama ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi 
+ <lb n="3"/>*** tadfaʿa yadfaʿa ăṯ ṯalāṯaẗa ăd danānīra ʾilà ḥusayn:in ḥunayn:in 
+ <lb n="4"/>*** la hu ʾan yaʾtiya ka ăl yawma fī hā wa law rasamta 
+ <lb n="5"/>*** ṯalāṯīna dīnār fa ʾin kāna ḏālika ăl ʾamru 
+ <lb n="6"/>***r ăd dīnārayni ăllatī l ī fa ʾin nī ʾaḫaḏtu ġarīmaẗ:an l ī 
+ <lb n="7"/>***s fa lā tadaʿ ʾ*** *** 
+ <lb n="8"/>*** wa ø qad *** katabtu *** ʾilay ø ka *** fī ø hā ġayra marraẗ:in wa law lā ḥāǧat ī ʾilay hi hā *** māssaẗ:un 
+ <lb n="9"/>*** la ø mā *** katabtu *** ʾilay ø ka *** fa ø ʾin ø nī ʾan ʾarā ø ka taqdira tuʿaḏḏiru tuṭawwilu fī hā fa ʾin *** ǧāʾa ø ka *** kitāb ø ī *** hāḏā 
+ <lb n="10"/>*** fa ø ĭbʿaṯ *** bi ø hā *** ʾilay ø ya *** wa ø lā ***ʾ tuʾaḫḫira ø hā sāʿaẗ:an wa lā tadaʿ ăl kitāba *** 
+ <lb n="11"/>*** ʾaʿtaddu ***l ḏālika min māli ka hibaẗ:an min ka ṯumma *** 
+ <lb n="12"/>*** taḥiqqu bi ø ḥaqq ø ī ʿalay ka ʾillā waǧǧahta hā ʾilà *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes,] des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		[...] und vollende für Dich die Gnaden dieser und jener Welt in seiner Barmherzigkeit!
+			<lb n="3"/>
+		[...] zahle die drei Dīnāre an Ḥusain
+			<lb n="4"/>
+		[...] ihm, daß er heute diesbezüglich zu Dir komme, und wenn Du eingetragen hast(?)
+			<lb n="5"/>
+		[...] dreißig Dīnāre. Doch wenn [je]n[e] Angelegenheit
+			<lb n="6"/>
+		[...] die zwei Dīnāre, die mir gehören, so habe ich fürwahr genommen einen mir gehörigen Anteil(?)
+			<lb n="7"/>
+		[...]..... Doch laß nicht [...]
+			<lb n="8"/>
+		[Ich habe Dir wegen dieser (Sachen) schon mehr] als einmal [geschrieben]. Wenn ich [sie] nicht so dringend bräuchte,
+		[... nich]t einmal, und wenn ich es nicht brauche [...]
+			<lb n="9"/>
+		[... daß] Du es aufschieben kannst. Doch wenn [...]
+		[würde ich Dir deswegen nicht (erneut) schreiben, denn ich sehe ja, daß] Du faule Ausreden hast und Dir bei ihnen allzuviel Zeit läßt. Wenn also [dieser Brief bei Dir eintrifft,]
+			<lb n="10"/>
+		[dann sende sie mir] unverzüglich...
+		[...]... eine Stunde(?) und laß den Br[ief] nicht [...]
+			<lb n="11"/>
+		[... Ich betrachte die]s als ein Geschenk von Dir aus Deinem Vermögen. ...
+		[...]... von Deinem Gelde als Geschenk von Dir. Dann [...]
+			<lb n="12"/>
+		[...] Bei meinem Anrecht gegen Dich: Du mußt sie [mir] unbedingt (sofort) übersenden!
+		[...] das Dir obliegt, außer daß Du es geschickt hast [an .....]
+</ab></div>
+</body>
+</text>
+</TEI>

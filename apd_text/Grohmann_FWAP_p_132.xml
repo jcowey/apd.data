@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="752" xml:id="Grohmann_FWAP_p_132" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 132</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_FWAP_p_132</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106828</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب من سفين بن قرعة 
+<lb n="3"/>  عامل الأمير عبد اللّه بن المسيّب 
+<lb n="4"/>  حفظه اللّه على كورة 
+<lb n="5"/>  أهناس والبهنسى وواحها 
+<lb n="6"/>  إلى جميع من بكورة أهناس 
+<lb n="7"/>  من المسلمين وأهل الذّمّة 
+<lb n="8"/>  سلم عليكم فإنّي أحمد اللّه إليكم 
+<lb n="9"/>  اللّه الّذي لا إله إلّا هو 
+<lb n="10"/>  أمّا بعد فإن الأمير عبد اللّه بن 
+<lb n="11"/>  المسيّب حفظه اللّه كتب 
+<lb n="12"/>  إلي وإليكم كتابا 
+<lb n="13"/>  يحكمنا فيه الّذي تقرّر عند أمير 
+<lb n="14"/>  المومپپن أطال اللّه بقاه من 
+<lb n="15"/>  <app type="BL"><lem resp="APD">جزايـ<supplied reason="lost" cert="high">ـة</supplied> </lem><rdg resp="“Dietrich p. 86”">جباية</rdg></app> مصر وما لأفياهم 
+<lb n="16"/>  ومن تولية الأمير عبد اللّه <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="17"/>  <supplied reason="lost" cert="high">المسيّب</supplied> <gap reason="illegible" extent="16" unit="character" /> 
+<lb n="18"/>  <supplied reason="lost" cert="high">الأمير</supplied> عبد اللّه بن المسيّب 
+<lb n="19"/>  بإعانته وقوّم إليها من <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="20"/>  لما وثق به من حاله واحتكم من 
+<lb n="21"/>  استصلاحه 
+<lb n="22"/>  وقد أتاكم من جنس دأبه في الرّفق 
+<lb n="23"/>  بكم واعـ<supplied reason="omitted" cert="high">ـتـ</supplied>رض على استلابكم 
+<lb n="24"/>  <gap reason="illegible" precision="low" extent="3"/> في تجنّيه عليكم 
+<lb n="25"/>  <gap reason="illegible" precision="low" extent="3"/> عنكم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min sufyāna bni qurʿaẗa 
+ <lb n="3"/>ʿāmili ăl ʾamīri ʿabdi ăl lāhi bni ăl musayyabi 
+ <lb n="4"/>ḥafiẓa hu ăl lāhu ʿalà kūraẗi 
+ <lb n="5"/>ʾahnāsa wa ăl bahnasà wa wāḥi hā 
+ <lb n="6"/>ʾilà ǧamīʿi man bi kūraẗi ʾahnāsa 
+ <lb n="7"/>mina ăl muslimīna wa ʾahli ăḏ ḏimmaẗi 
+ <lb n="8"/>salām:un ʿalay kum fa ʾin nī ʾaḥmadu ăl lāha ʾilay kumu 
+ <lb n="9"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="10"/>ʾammā baʿdu fa ʾinna ăl ʾamīra ʿabda ăl lāhi bni 
+ <lb n="11"/>ăl musayyabi ḥafiẓa hu ăl lāhu kataba 
+ <lb n="12"/>ʾilay ya wa ʾilay kum kitāb:an 
+ <lb n="13"/>yaḥkumu nā fī hi ăllaḏī taqarrara ʿinda ʾamīri 
+ <lb n="14"/>ăl muʾminīna ʾaṭāla ăl lāhu baqāʾa hu min 
+ <lb n="15"/>ǧazāyaẗi ǧibāyaẗi miṣra wa mā li ʾafyāʾi him 
+ <lb n="16"/>wa min tawliyaẗi ăl ʾamīri ʿabdi ăl lāhi bni 
+ <lb n="17"/>ăl musayyabi **************** 
+ <lb n="18"/>ăl ʾamīr ʿabd ăl lāhi bn ăl musayyabi 
+ <lb n="19"/>bi ʾiʿānati hi wa qawwim ʾilay hā min **** 
+ <lb n="20"/>li mā waṯiqa bi hi min ḥāli hi wa ĭḥtakama mini 
+ <lb n="21"/>ĭstiṣlāḥi hi 
+ <lb n="22"/>wa qad ʾatā kum min ǧinsi daʾbi hi fī ăr rifqi 
+ <lb n="23"/>bi kum wa ĭʿtaraḍa ʿalà ĭstilābi kum 
+ <lb n="24"/>*** fī taǧannī hi ʿalay kum 
+ <lb n="25"/>*** ʿan kum 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Allbarmherzigen! 
+		In the name of God the Compassionate, the Merciful !
+		In the name of God the merciful and compassionate. 
+			<lb n="2"/>
+		Dies ist das Schreiben des Sufjân ibn Kuráʾa, 
+		This is the decree from Sufyân b. Qurʿa,
+		This writing is from Sufyan ibn Qurrʿa 
+			<lb n="3"/>
+		Finance-Director of the Governor ʿAbdallâh ibn al Musayyab
+		Finanzdirectors des Statthalters ʿAbd allâh ibn al-Musajjab 
+		the executive of the governor (amīr) ʿAbdallāh ibn al-Musayyib, 
+			<lb n="4"/>
+		(den Gott beschützen möge!), welcher gesetzt ist über den Bezirk 
+		may God protect him, over the district of 
+		- may God protect him - over the Kûra
+			<lb n="5"/>
+		Ahnās and al-Bahnasā and the oases, 
+		of Ehnâs, al-Bahnasâ and its oasis,
+		von Ahnâs (Heracleopolis), el-Behnesâ (Oxyrryhnchos) und die dazu gehörigen Oasen,
+			<lb n="6"/>
+		to all [people] belonging to the Kûra of Ehnâs
+		to everyone who belongs to the district of Ahnās 
+			<lb n="7"/>
+		an sämmtliche Muslimen des Districtes Ahnâs und der Hauptstadt! 
+		of Moslims and protected people.
+		of Muslims and protected people. 
+			<lb n="8"/>
+		Friede über euch! Ich preise gegen euch 
+		Hail unto you! I praise unto you
+		Peace be upon you. And I praise to you God, 
+			<lb n="9"/>
+		God, besides whom there is no god.
+		God beside whom there is no other God. 
+		Gott, außer dem es keinen Gott gibt. 
+			<lb n="10"/>
+		As for the following, verily the governor, ʿAbdallāh ibn 
+		Thereafter: The Governor ʿAbdallâh ibn
+		Und weiter: Fürwahr, der Statthalter ʿAbd allâh ibn 
+			<lb n="11"/>
+		al-Musayyab - may God protect him - has written
+		al-Musayyib, may God protect him, wrote 
+		el-Musayyab schrieb 
+			<lb n="12"/>
+		a letter to me and to you 
+		mir und euch 
+		to me and to you a letter,
+			<lb n="13"/>
+		in which he confirms to us what has been settled in the presence of the Commander of
+		in which he delivers a judgement which was reached with the Commander of 
+		vor den Steuertribut und hat uns dieserwegen Recht und Vollmacht ertheilt, gemäß dem, was durch 
+			<lb n="14"/>
+		den Fürsten der Gläubigen festgesetzt worden ist von 
+		the Faithful, may God prolong his life, about 
+		the Faithful - may God prolong his life - respecting the assessment of
+			<lb n="15"/>
+		der Grundsteuer Ägyptens. ...
+		Egypt&#039;s taxes in money (jizāʾ, pl. of jizya), and about their afyāʾ (pl. of fayʾ, i.e., income from conquered lands classified as spoils), 
+		the tribute of Egypt and (respecting) what belongs to their Fayyland
+			<lb n="16"/>
+		and about nominating ʿAbdallāh ibn 
+		and (respecting) his nominating ʿAbdallāh [ibn]
+			<lb n="17"/>
+		[al-Musayyab Governor ...........]
+		al-Musayyib governor [...] 
+			<lb n="18"/>
+		[the Governor] ʿAbdallâh ibn al-Musayyab
+			<lb n="19"/>
+		in assisting him, and keep well thereto (?) of (?) [......]
+		to aid and assist him in [...] 
+			<lb n="20"/>
+		as far as he is confidant in his condition and (is able) to follow his own judgement respecting
+		since he is confident in his position and in his decision about 
+			<lb n="21"/>
+		his acting well.
+		its reclamation (istiṣlāḥhi). 
+			<lb n="22"/>
+		And you are already aware of the way of his endeavour to be lenient
+		You have learned from the manner of his persistence in friendship 
+			<lb n="23"/>
+		towards you, and he has opposed to your being robbed
+		with you. And he is opposed to your conspiring [...] 
+			<lb n="24"/>
+		in blaming you [...] 
+		[...] respecting his accusing you falsely
+			<lb n="25"/>
+		[...] from you
+		from you.
+</ab></div>
+</body>
+</text>
+</TEI>

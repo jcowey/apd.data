@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1580" xml:id="Diem_Berl_II_67" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 67</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_67</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169338</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  عدل الأوّل ثلثمئة ستّين العدل الثّاني ثلثمئة ستّين ثلثة 
+<lb n="3"/>  <supplied reason="lost" cert="high">و</supplied>الثّالث <supplied reason="lost" cert="high">ثـ</supplied>ـلاث مئة خمسين وستّة <supplied reason="lost" cert="high">ا</supplied>لرّا<supplied reason="lost" cert="high">بـ</supplied>ـع ثلثماية ستّين 
+<lb n="4"/>  <supplied reason="lost" cert="high">و</supplied>الخامس <unclear reason="undefined" cert="high">ثلثمائة</unclear> سبعين اثنين فذلك ألف وثمان ماية وحدعشر 
+<lb n="5"/>  قفعة ثلثمئة عشـ<supplied reason="lost" cert="high">ـر</supplied>يـ<supplied reason="lost" cert="high">ـن</supplied> ستّة قفعـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="6"/>  <unclear reason="undefined" cert="high">ثلثمائـ</unclear><supplied reason="lost" cert="high">ـة</supplied> تسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿidlu ăl ʾawwalu ṯalāṯu miʾaẗ:in sittīna ăl ʿidlu ăṯ ṯānī ṯalāṯu miʾaẗ:in sittīna ṯalāṯaẗ:un 
+ <lb n="3"/>wa ăṯ ṯāliṯu ṯalāṯu miʾaẗ:in ḫamsīna wa sittaẗ:un ăr rābiʿu ṯalāṯu miyaẗ:in sittīna 
+ <lb n="4"/>wa ăl ḫāmisu ṯalāṯu miʾaẗ:in sabʿīna ĭṯnayni fa ḏālika ʾalf:un wa ṯamāni miyaẗ:in wa ḥada ʿašara 
+ <lb n="5"/>qafʿaẗ:un ṯalāṯu miʾaẗ:in ʿišrīna sittaẗ:un qafʿaẗ:un ****** ******* 
+ <lb n="6"/>ṯalāṯu miʾaẗ:in tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Der erste Ballen wiegt dreihundertsechzig (Raṭl), der zweite Ballen dreihundertdreiundsechzig,
+			<lb n="3"/>
+		der dritte dreihundertsechsundfünfzig, der vierte dreihundertsechzig,
+			<lb n="4"/>
+		der fünfte dreihundert(?)-zweiundsiebzig. Das macht zusammen eintausendachthundertelf.
+			<lb n="5"/>
+		Ein Korb dreihundertsechsundzwanzig ein Korb - - - [ - - -] - - -
+			<lb n="6"/>
+		dreihundert(?)neunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

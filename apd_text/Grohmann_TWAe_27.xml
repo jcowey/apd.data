@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="486" xml:id="Grohmann_TWAe_27" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 27 (= P.World p. 157)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_27</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106671</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وأيضا يوم الخميس ثلثة فدادين <app type="BL"><lem resp="APD">وثلث </lem><rdg resp="“Grohmann, World”">ونصف</rdg></app> <app type="BL"><lem resp="APD">پـ<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann, World”">ø</rdg></app> 
+<lb n="2"/>  وأيضا يوم السّبت فدّان قمح 
+<lb n="3"/>  وأيضا يوم السّبت فدّان ونصف <app type="BL"><lem resp="APD">سهم </lem><rdg resp="Diem">شعير</rdg></app> 
+<lb n="4"/>  وزرع في بهمسول 
+<lb n="5"/>  قمح يوم السّبت سبع فدادين ونصف 
+<lb n="6"/>  وأيضا قمح يوم الأحد ثمنية فدادين ونصف 
+<lb n="7"/>  وأيضا قمح يوم <sic n="superfluous">السن</sic> <supplied reason="omitted" cert="high">الثنين</supplied> تسع فدادين إلّا ثلث 
+<lb n="8"/>  وأيضا قمح يوم الخميس ستّة فدادين إلّا ربع 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ʾayḍ:an yawma ăl ḫamīsi ṯalāṯaẗu fadādīna wa ṯulṯ:un niṣf:un B*** ø 
+ <lb n="2"/>wa ʾayḍ:an yawma ăs sabti faddān:un qamḥ 
+ <lb n="3"/>wa ʾayḍ:an yawma ăs sabti faddān:un wa niṣfu sahm:in šaʿīr:in 
+ <lb n="4"/>wa zuriʿa fī bahmasūla 
+ <lb n="5"/>qamḥ:un yawma ăs sabti sabʿu fadādīna wa niṣf:un 
+ <lb n="6"/>wa ʾayḍ:an qamḥ:un yawma ăl ʾaḥadi ṯamāniyaẗu fadādīna wa niṣf:un 
+ <lb n="7"/>wa ʾayḍ:an qamḥ:un yawma ăli ṯnayni tisʿu fadādīna ʾillā ṯulṯ 
+ <lb n="8"/>wa ʾayḍ:an qamḥ:un yawma ăl ḫamīsi sittaẗu fadādīna ʾillā rubʿ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		And furthermore Thursday | three and a half faddân.
+		Und wieder Donnerstag | drei ein Drittel Faddān
+			<lb n="2"/>
+		And furthermore Saturday | one faddân wheat.
+		Und wieder Samstag | ein Faddān Weizen
+			<lb n="3"/>
+		And furthermore Saturday | one faddân and a half sahm.
+		... eineinhalb Faddān Gerste
+		Und wieder Samstag | ein Faddān und ein halbes Sahm.
+			<lb n="4"/>
+		And there has been sown in Bahmasûl:
+		Und in Bahmasūl wurde gesät:
+			<lb n="5"/>
+		Weizen Samstag | sieben einhalb Faddān
+		Wheat Saturday | seven and a half faddân.
+			<lb n="6"/>
+		And furthermore wheat Sunday | eight and a half faddân.
+		Und wieder Weizen Sonntag | achteinhalb Faddān
+			<lb n="7"/>
+		And furthermore wheat Monday | nine faddân less a third.
+		Und wieder Weizen Montag | neun Faddān weniger ein Drittel
+			<lb n="8"/>
+		And furthermore wheat Thursday | six faddân less a quarter.
+		Und wieder Weizen Donnerstag | sechs Faddān weniger ein Viertel.
+</ab></div>
+</body>
+</text>
+</TEI>

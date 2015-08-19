@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="691" xml:id="Raghib_March_3_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106772</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّ<supplied reason="lost" cert="high">حيم</supplied> 
+<lb n="recto 2"/>  عافانا اللّه وإيّاك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  لم أنّا للّه وأنّا إليه راجعو<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  خير ابتلانا اللّه بك و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  عليك بالنّاس وكـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  فيك كأب من السّا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  قرابتك وحفظنا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  لك عبيد أو مـ<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  فأجزا اللّه كل مـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  أموال النّاس ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  وحتّا يخلا به <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  لو جمعت ما <supplied reason="lost" cert="high">جـ</supplied>ـمع <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 13"/>  به عند النّاس إلّا بـ<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 14"/>  عنده <supplied reason="lost" cert="high">غـ</supplied>ـدا يوم <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 15"/>  <supplied reason="lost" cert="high">في</supplied> كل أمري <gap reason="illegible" extent="4" unit="character" /> لما <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 16"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـك والسلم <supplied reason="lost" cert="high">علپك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> من اپى صألح محمد پن عمرو 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> توصله أبو هريـ<supplied reason="lost" cert="high">ـر</supplied>ة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿāfā nā ăl lāhu wa ʾiyyā ka *** 
+ <lb n="3"/>li ma ʾan nā li l lāhi wa ʾan nā ʾilay hi rāǧiʿūna *** 
+ <lb n="4"/>ḫayr ĭbtalā nā ăl lāhu bi ka wa *** 
+ <lb n="5"/>ʿalay ka bi ăn nāsi wa k*** 
+ <lb n="6"/>fī ka kaʾb mina ăs sʾ *** 
+ <lb n="7"/>qarābat ka wa ḥafiẓa nā *** 
+ <lb n="8"/>la ka ʿubayd ʾaw m**** *** 
+ <lb n="9"/>fa ʾaǧzā ăl lāhu kulla man *** 
+ <lb n="10"/>ʾamwāl ăn nāsi ʾ*** 
+ <lb n="11"/>wa ḥattā yaḫlā bi hi *** 
+ <lb n="12"/>law ǧamaʿta mā ǧamaʿa ***** 
+ <lb n="13"/>bi hi ʿinda ăn nāsi ʾillā b**** 
+ <lb n="14"/>ʿinda hu ġad:an yawma ***** 
+ <lb n="15"/>fī kulli ʾamr ī **** li mā *** 
+ <lb n="16"/>** ka wa ăs salāmu ʿalay ka *** 
+ <lb n="17"/>*** min ʾabī ṣāliḥ:in muḥammadi bni ʿamr:in 
+ <lb n="18"/>*** tūṣilu hu ʾabū hurayraẗa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément [et miséricordieux]!
+			<lb n="2"/>
+		Que Dieu nous accorde la paix, ainsi qu&#039;à toi [
+			<lb n="3"/>
+		parce que nous sommes à Dieu et qu&#039;à Lui nous revenons! [
+			<lb n="4"/>
+		du bien. Dieu nous a éprouvé par toi [
+			<lb n="5"/>
+		pour toi par les gens. [
+			<lb n="6"/>
+		en toi une affliction de .... [
+			<lb n="7"/>
+		tes proches et qu&#039;Il nous garde! [
+			<lb n="8"/>
+		pour toi ʿUbayd ou ... [
+			<lb n="9"/>
+		Que Dieu récompense tous ceux [
+			<lb n="10"/>
+		les biens des gens [
+			<lb n="11"/>
+		jusqu&#039;à ce qu&#039;Il se retire avec lui [
+			<lb n="12"/>
+		Si tu avais réuni ce qu&#039;avait réuni [
+			<lb n="13"/>
+		par lui chez les gens .. [
+			<lb n="14"/>
+		chez lui demain le jour .. [
+			<lb n="15"/>
+		[dans] toutes mes affaires ... lorsque [
+			<lb n="16"/>
+		[...] Que le salut soit sur [toi!
+			<lb n="17"/>
+		] De la part d&#039;Abū Ṣāliḥ Muḥammad b. ʿAmr.
+			<lb n="18"/>
+		] Fais parvenir (la lettre) à Abū Hurayra.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2220" xml:id="Diem_Heid_III_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 08</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/><supplied reason="lost" cert="high">  أطال اللّه بقـ</supplied>ـاك <supplied reason="lost" cert="high">من</supplied> منزلـ<supplied reason="lost" cert="high">ـنـ</supplied>ـا في خيرا وأرجوا أن تكون علی أفضل <app type="BL"><lem resp="APD">الأحوال </lem><rdg resp="UB">أحوال</rdg></app> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإن</supplied> <supplied reason="lost" cert="high">رأيـ</supplied>ـت <supplied reason="lost" cert="high">أ</supplied>يّدك اللّه أن تعيرـني من ذلك جملة أسر بها وأحـ<supplied reason="lost" cert="high">ـمد</supplied>ك عليها فعلت إن شا اللّه 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">هذه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـيله </lem><rdg resp="Diem">اللّيلة</rdg></app> أشكر عليها لا أخلاني اللّه منك أبدا واحتجت إلی دينر 
+<lb n="4"/>  <supplied reason="lost" cert="high">فاللّه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> في إنفاذه إلی السّاعة إذ كان الحاجة إلـ<supplied reason="lost" cert="high">ـيـ</supplied>ـه ماسّة وإنّي فی 
+<lb n="5"/>  <supplied reason="lost" cert="high">وأنت</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـبارك عندي فـ<supplied reason="lost" cert="high">ـعـ</supplied>ـلت إن شا اللّه 
+<lb n="6"/>  حسبنا اللّه <supplied reason="lost" cert="high">و</supplied>حده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaṭāla ăl lāhu baqāʾa ka min manzili nā fī ḫayr:an wa ʾarǧū ʾan takūna ʿalà ʾafḍali ăl ø ʾaḥwāli ʾaḥwāl:in 
+ <lb n="2"/>*** fa ʾin raʾayta ʾayyada ka ăl lāhu ʾan tuʿīru nī min ḏālika ǧumlaẗ:an ʾusarru bi hā wa ʾaḥmadu ka ʿalay hā faʿalta ʾin šāʾa ăl lāhu 
+ <lb n="3"/>*** hāḏihi Bylh ăl laylaẗ ʾaškuru ʿalay hā lā ʾaḫlā nī ăl lāhu min ka ʾabad:an wa ǐḥtaǧtu ʾilà dīnār:in 
+ <lb n="4"/>fa ăl lāha ăl lāha fī ʾinfāḏi hi ʾilà ăs sāʿaẗi ʾiḏ kāna ăl ḥāǧaẗu ʾilay hi māssaẗ:un wa ʾin nī fī 
+ <lb n="5"/>wa ʾanta mubārak:un ʿind ī faʿalta ʾin šāʾa ăl lāhu 
+ <lb n="6"/>ḥasbu nā ăl lāhu waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Ich schreibe Dir, o mein Herr und Bruder - Gott lasse] Dich [lange leben] -, [von] zu Hause in guter Verfassung, und ich hoffe, daß Du Dich in den vorzüglichsten Umständen befindest,
+			<lb n="2"/>
+		[so Gott will. (Angabe eines finanziellen Bedarfs). Wenn Du also der Meinung] bist - Gott [st]ütze Dich -, mir hiervon einen bestimmten Betrag zu leihen, mit dem ich erfreut würde und für den ich Dich prei[sen] würde, so tu dies (bitte), so Gott will!
+			<lb n="3"/>
+		[Mehrere Wörter] ....... ich würde Dir für diesen  (Betrag) danken - Gott lasse mich Deiner niemals entbehren! Ich benötige (genau genommen) einen Dinar
+			<lb n="4"/>
+		[(mehrere Wörter). Denke also unbedingt daran], ihn mir sofort zu übersenden, da er dringend benötigt wird und ich
+			<lb n="5"/>
+		[(mehrere Wörter), denn Du bist ja ge]segnet nach meiner Auffassung, bitte, so Gott will!
+			<lb n="6"/>
+		Gott allein ist mein Genüge!
+</ab></div>
+</body>
+</text>
+</TEI>

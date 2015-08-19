@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="415" xml:id="Sijpesteijn_Horak" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Horak 85</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Sijpesteijn_Horak</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106615</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه ا]لرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">من</supplied> مـ<supplied reason="lost" cert="high">ـطر</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الصّمد</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">يا<unclear reason="undefined" cert="high">د</unclear></supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">ڤپما</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">خالـ[ـد</supplied> سلم عليك فإنّي أحمد إليك 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّذي</supplied> لا إله إلّا هو 
+<lb n="recto 4"/>  أ<supplied reason="lost" cert="high">مّا</supplied> <supplied reason="lost" cert="high">بعد</supplied> عافانا اللّه وإيّاك وعفا عنّا وعنك ودفع عنّا وعنك 
+<lb n="recto 5"/>  الـ<supplied reason="lost" cert="high">ـمـ</supplied>ـكروه برحمته كتبت إليك كتابي هذا وأنا على أحسن حال واللّه 
+<lb n="recto 6"/>  محـ<supplied reason="lost" cert="high">ـمـ</supplied>ـود فانظر أمتع اللّه بك إذا جاك كتابي هذا فاشتري لنا بدرهم 
+<lb n="recto 7"/>  حرير ألوان خمسة ألوان أصـ<supplied reason="lost" cert="high">ـفر</supplied> وأحمر وأخضر ولون السّما وأبيض فإن 
+<lb n="recto 8"/>  لم يكون عندك درهم فخذ من أخـ<supplied reason="lost" cert="high">ـتـ</supplied>ـي أبلغ أختي السّلم كثيرا 
+<lb n="recto 9"/>  وقل لها ما <app type="BL"><lem resp="APD">أضيع </lem><rdg resp="APD">أصبغ </rdg><rdg resp="APD">أضيع</rdg></app> بها الدّ<supplied reason="lost" cert="high">ـقّ</supplied> كلّه واكتب إلينا بخبرك وحالك 
+<lb n="recto 10"/>  وبما كانت لك من حاجة فإن فيها مسرّتك واقرأ على الأخوين السّلم 
+<lb n="recto 11"/>  وإبرهيم يقرأ عليكم السّلم واقرأ على الغلمان كلّهم السّلم 
+<lb n="recto 12"/>  كثيرا 
+<lb n="recto 13"/>  والسّلم عليك ورحمت <supplied reason="omitted" cert="high">اللّه</supplied> 
+<lb n="verso"/>  من مطر بن عبد <supplied reason="lost" cert="high">الصّمد</supplied> إلى <gap reason="illegible" precision="low" extent="3"/> بن <gap reason="illegible" precision="low" extent="3"/> أبي خالد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min maṭari bni ʿabdi ăṣ ṣamadi ʾilà Bʾd bni Fymʾ ʾabī ḫālid:in salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka 
+ <lb n="3"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʿāfā nā ăl lāhu wa ʾiyyā ka wa ʿafā ʿan nā wa ʿan ka wa dafaʿa ʿan nā wa ʿan ka 
+ <lb n="5"/>ăl makrūha bi raḥmati hi katabtu ʾilay ka kitāb ī hāḏā wa ʾanā ʿalà ʾaḥsani ḥāl:in wa ăl lāhu 
+ <lb n="6"/>maḥmūd:un fa ŭnẓur ʾamtaʿa ăl lāhu bi ka ʾiḏā ǧāʾa ka kitāb ī hāḏā fa ĭštarī la nā bi dirham:in 
+ <lb n="7"/>ḥarīra ʾalwān:in ḫamsaẗa ʾalwān:in ʾaṣfara wa ʾaḥmara wa ʾaḫḍara wa lawna ăs samāʾi wa ʾabyaḍa fa ʾin 
+ <lb n="8"/>lam yakūn ʿinda ka dirham:un fa ḫuḏ min ʾuḫt ī ʾabliġ ʾuḫt ī ăs salāma kaṯīr:an 
+ <lb n="9"/>wa qul la hā mā ʾaṣnaʿu ʾasbaġu ʾuḍīʿu bi hā ăd diqqa kulla hu wa ŭktub ʾilay nā bi ḫabari ka wa ḥāli ka 
+ <lb n="10"/>wa bi mā kānat la ka min ḥāǧaẗ:in fa ʾinna fī hā masarratu ka wa ĭqraʾ ʿalà ăl ʾaḫawayni ăs salāma 
+ <lb n="11"/>wa ʾibrāhīmu yaqraʾu ʿalay kumu ăs salāma wa ĭqraʾ ʿalà ăl ġilmāni kulli himu ăs salāma 
+ <lb n="12"/>kaṯīr:an 
+ <lb n="13"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi 
+ <lb n="14"/>min maṭari bni ʿabdi ăṣ ṣamadi ʾilà *** bni *** ʾabī ḫālid:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the] Compassionate, the Merciful.
+			<lb n="2"/>
+		From Maṭar] b. ‛Abd al-Ṣamad to … b. … Abū Khālid. Greetings to you and I thank for you
+			<lb n="3"/>
+		God, besides] Whom there is no god but He.
+			<lb n="4"/>
+		Further,] may God protect us and you and may He forgive us and you and may He repel from us and from you
+			<lb n="5"/>
+		evil through His mercy. I write you this letter of mine while I am in the best of health and God
+			<lb n="6"/>
+		is thanked. And take care, may God grant you enjoyment, when this letter of mine comes to you and buy us for a dirham
+			<lb n="7"/>
+		coloured silk. Five colours: yell[ow] and red and g[r]een and the colour of sky and white and if 
+			<lb n="8"/>
+		you do not have a dirham, then take from my sis[ter], send many greetings to my sister,
+			<lb n="9"/>
+		and tell her that I can not make with them (the threads) the brocaded linen completely. And write us concerning your news and your health
+		and tell her that I will not spend/waste through them the dirham completely. And write us concerning your news and your health
+		and tell her what I will make with them, namely the br[ocaded linen] completely. And write us concerning your news and your health
+			<lb n="10"/>
+		and any need you have, for in (our fulfilling) it lies your pleasure. And give greetings to the two brothers
+			<lb n="11"/>
+		and Ibrāhīm sends you greetings and give greetings to all the servants
+			<lb n="12"/>
+		a lot.
+			<lb n="13"/>
+		Greetings to you and the blessings &lt;of God&gt;.
+			<lb n="14"/>
+		From Maṭar b. ‛Abd [al-Ṣamad] to … b. … Abū Khālid 
+</ab></div>
+</body>
+</text>
+</TEI>

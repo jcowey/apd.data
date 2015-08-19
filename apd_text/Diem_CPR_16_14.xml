@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1126" xml:id="Diem_CPR_16_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168982</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أدام اللّه عزّك وكرامتـك وأتم نعمه عليك في الدّنيا والآخرة برحمته كتابي إليك عن 
+<lb n="recto 3"/>  سلامة وعافية والحمد للّه رب العالمين أعلمك أعزّك اللّه أنّي صر<supplied reason="omitted" cert="high">ت</supplied> إلى أبي محمّد فأعطيته 
+<lb n="recto 4"/>  كتابك وقرأه وفهم ما فيه وقد وجتّهم فرغوا <supplied reason="lost" cert="high">مـ</supplied>ـن حصاد <del rend="erasure" status="unremarkable">دمسو</del> دمشيو 
+<lb n="recto 5"/>  وصرت إلى منروا يوم الأربعا حصدنا منه وأرجو أن يضع اللّه فيهما <sic n="superfluous">المبركة</sic><supplied reason="omitted" cert="high">البركه</supplied> 
+<lb n="recto 6"/>  وفتّشنا قمح أبو الطّيّب وأبو حامد أعزّهما اللّه فوجدنا خنزير الوحش 
+<lb n="recto 7"/>  قد أفسدوا منها أكثر من ذيالك وابعـ<gap reason="illegible" extent="2" unit="character" /> إنّي <gap reason="illegible" extent="5" unit="character" /> فتّشتـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا أ<supplied reason="lost" cert="high">نـ</supplied>ـا 
+<lb n="recto 8"/>  والأمين جزاه اللّه خيرا وفدان قمح الّذي حـ<supplied reason="lost" cert="high">ـصـ</supplied>ـدناه <supplied reason="lost" cert="high">و</supplied>وضعناه بدمـ<supplied reason="lost" cert="high">ـشيو</supplied> 
+<lb n="recto 9"/>  عند قمح لي حتّى تنظري رأيك فإنّه لم يفسد منه كثير والحـ<supplied reason="lost" cert="high">ـمد</supplied> <supplied reason="lost" cert="high">للّه</supplied> <gap reason="illegible" extent="11" unit="character" /> 
+<lb n="recto 10"/>  ضعيف وقد أخبرت من قورة الخولي أن لصو<supplied reason="lost" cert="high">ص</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  ليس أقول أنا ذاك وليس يقبل منّي وليـ<supplied reason="lost" cert="high">ـس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  أبي حصريص والخولي حر<gap reason="illegible" precision="low" extent="3"/> واپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">پارپپى </lem><rdg resp="APD">حمارتي</rdg></app> <sic n="superfluous">وضربونيى</sic><supplied reason="omitted" cert="high">وصربونى</supplied> حـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 14"/>  الّذي عندنا في الحصاد أراه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 15"/>  فما <supplied reason="lost" cert="high">أ</supplied>خبرتني رأيك أعز<supplied reason="omitted" cert="high">ك</supplied> اللّه فإن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 16"/>  وإن تفضّلتي بعثتي إلي <app type="BL"><lem resp="APD">نيلاما </lem><rdg resp="APD">نيلأمّا</rdg></app> لذا فـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  وافتقدي <app type="BL"><lem resp="APD">تيقي </lem><rdg resp="APD">تيقي</rdg></app> واصتوصيها خيرا 
+<lb n="verso 2"/>  وأخبرني أبي محمّد أن أوّل يوم حصتّم في منروا تحرّا<sic n="superfluous">ه</sic> الأمين غلّتك وحدك 
+<lb n="verso 3"/>  فاكتب إلي برأيك أدام اللّه عزّك وكرامتك وأتم نعمه عليك في الدّنيا 
+<lb n="verso 4"/>  والآخرة برحمته وكباش يحنّس الكبير ليس عندهم إلّا راع واحد 
+<lb n="verso 5 address"/>  إلى <app type="BL"><lem resp="APD">تشف </lem><rdg resp="APD">تشيب</rdg></app> أعزّها اللّه من أنتاس بن سوارس 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾadāma ăl lāhu ʿizza ki wa karāmata ki wa ʾatamma niʿama hu ʿalay ki fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi kitāb ī ʾilay ki ʿan 
+ <lb n="3"/>salāmaẗ:in wa ʿāfiyaẗ:in wa ăl ḥamdu li ăl lāhi rabbi ăl ʿālamīna ʾuʿlimu ki ʾaʿazza ki ăl lāhu ʾan nī ṣirtu ʾilà ʾabī muḥammad:in fa ʾaʿṭaytu hu 
+ <lb n="4"/>kitāba ki wa qaraʾa hu wa fahima mā fī hi wa qad waǧattu hum fariġū min ḥiṣādi dmšywa 
+ <lb n="5"/>wa ṣirtu ʾilà mnrwā yawma ăl ʾarbaʿāʾi ḥaṣadnā min hu wa ʾarǧū ʾan yaḍaʿa ăl lāhu fī himu ăl barakaẗa 
+ <lb n="6"/>wa fattašnā qamḥa ʾabū ăṭ ṭayyibi wa ʾabū ḥāmid:in ʾaʿazza humā ăl lāhu fa waǧadnā ḫinzīra ăl waḥši 
+ <lb n="7"/>qad ʾafsadū min hā ʾakṯara min ḏiyāli ki wa ʾbʿ** ʾin nī ***** fattaštu hā ʾanā 
+ <lb n="8"/>wa ăl ʾamīnu ǧazā hu ăl lāhu ḫayr:an wa faddānu qamḥ:in ăllaḏī ḥaṣadnā hu wa waḍaʿnā hu bi dmšywa 
+ <lb n="9"/>ʿinda qamḥ:in l ī ḥattà tanẓurī raʾya ki fa ʾinna hu lam yafsud min hu kaṯīr:un wa ăl ḥamdu li l lāhi *********** 
+ <lb n="10"/>ḍaʿīf:un wa qad ʾuḫbirtu min qūraẗa ăl ḫawliyyi ʾanna luṣūṣ *** 
+ <lb n="11"/>laysa ʾaqūlu ʾanā ḏāka wa laysa yuqbalu min nī wa laysa *** 
+ <lb n="12"/>ʾabī ḥṣryṣa wa ăl ḫawliyyu ḥr*** wa ʾB*** 
+ <lb n="13"/>*** BārBBy ḥimāraẗ ī wa ḍarabū nī ḥattà *** 
+ <lb n="14"/>ăllaḏī ʿinda nā fī ăl ḥiṣādi ʾarā hu *** 
+ <lb n="15"/>fa mā ʾaḫbarti nī raʾya ki ʾaʿazza ki ăl lāhu fa ʾinna *** *** 
+ <lb n="16"/>wa ʾin tafaḍḍaltī baʿaṯtī ʾilay ya nīlāmā nīlʾammā li ḏā fa *** 
+ <lb n="17"/>wa ĭftaqadī nīqī tīqī wa ĭṣtawṣī hā ḫayr:an 
+ <lb n="18"/>wa ʾaḫbara nī ʾabī muḥammad:in ʾanna ʾawwala yawm:in ḥaṣattum fī mnrwā taḥarrā hu ăl ʾamīnu ġallata ki waḥda ki 
+ <lb n="19"/>fa ŭktub ʾilay ya bi raʾyi ki ʾadāma ăl lāhu ʿizza ki wa karāmata ki wa ʾatamma niʿama hu ʿalay ki fī ăd dunyā 
+ <lb n="20"/>wa ăl ʾāḫiraẗi bi raḥmati hi wa kibāšu yuḥannisa ăl kabīri laysa ʿinda hum ʾillā rāʿ:in wāḥid:un 
+ <lb n="21"/>ʾilà tšufa tšība ʾaʿazza hā ăl lāhu min ʾatanāsa bni sawārusa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dein Ansehen und Deine ehrenvolle Stellung andauern und vollende an Dir in seiner Barmherzigkeit seine Gnadenerweise im Diesseits und Jenseits! Ich schreibe an Dich, während ich
+			<lb n="3"/>
+		wohlbehalten und gesund bin - Lob sei Gott, dem Herrn der Welten -, um Dir - Gott stärke Dich - folgendes mitzuteilen: Ich &lt;bin&gt; zu Abū Muḥammad gegangen, habe ihm
+			<lb n="4"/>
+		Deinen Brief gegeben, und er hat ihn gelesen und seinen Inhalt verstanden. Ich stellte fest, daß sie mit der Ernte von 〚Damšīw〛 Damšīw schon fertig waren.
+			<lb n="5"/>
+		Als ich mich am Mittwoch nach Mnrw begeben hatte, ernteten wir einen Teil davon. Ich hoffe, daß Gott ihnen (sc. den Ernten oder Orten) Segen verleiht.
+			<lb n="6"/>
+		Als wir den Weizen von Abū ṭ-Ṭayyib und Abū Ḥāmid - Gott stärke sie - untersuchten, stellten wir fest, daß die Wildschweine
+			<lb n="7"/>
+		von ihm mehr als von dem Deinigen verdorben hatten, und - - - ich - - - ich untersuchte ihn, ich
+			<lb n="8"/>
+		und der Vertrauensmann - Gott vergelte es ihm mit Gutem! Den Faddān Weizen, den wir (in Mnrw) geerntet haben, {und} haben wir in Dm[šīw]
+			<lb n="9"/>
+		zu Weizen von mir getan, bis Du Deine Entscheidung triffst, denn von ihm ist nicht viel verdorben, Lob sei Gott! [... Der Soundso]
+			<lb n="10"/>
+		ist krank. Durch Kyros den Gärtner habe ich erfahren, daß Die[be (?)
+			<lb n="11"/>
+		Dies behaupte ich nicht, und man nimmt von mir keinen Rat an, noch [
+			<lb n="12"/>
+		Abū - - - und der Gärtner [
+			<lb n="13"/>
+		- - - und sie schlugen mich, bis [
+			<lb n="14"/>
+		was wir bei der Ernte haben, betrachte ich als [
+			<lb n="15"/>
+		Denn Du hast mir Deine Meinung nicht mitgeteilt - Gott stärke &lt;Dich&gt;-; wenn also [
+			<lb n="16"/>
+		und wenn Du so freundlich bist, sendest Du mir hierfür Nilammon, so daß [
+			<lb n="17"/>
+		Kümmere Dich um Nike und nimm Dich ihrer an!
+			<lb n="18"/>
+		Abū Muḥammad hat mir mitgeteilt, daß gleich am ersten Tag, an dem Ihr in Mnrw geerntet habt, {er} der Vertrauensmann {es} allein Deine Ernte genau inspiziert hat.
+			<lb n="19"/>
+		Teile mir also Deine Entscheidung mit! Gott lasse Dein Ansehen und Deine ehrenvolle Stellung andauern und vollende an Dir in seiner Barmherzigkeit seine Gnadenerweise im Diesseits
+			<lb n="20"/>
+		und Jenseits. - Bei den Widdern von Johannes dem Älteren ist ein einziger Hirt.
+			<lb n="21"/>
+		An Sophia - Gott stärke sie - | von Athanasios b. Severus.
+</ab></div>
+</body>
+</text>
+</TEI>

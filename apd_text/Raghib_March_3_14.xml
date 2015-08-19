@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="668" xml:id="Raghib_March_3_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106753</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">أكرمك</supplied> اللّه بطاعته وهبـ<supplied reason="lost" cert="high">ـاك</supplied> <supplied reason="lost" cert="high">كر</supplied>امته في الدّنيا 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">والآ</supplied>خرة برحمتـ<supplied reason="lost" cert="high">ـه</supplied> و<supplied reason="lost" cert="high">صـ</supplied>ـل إلي <supplied reason="lost" cert="high">عشـ</supplied>ـرين <supplied reason="lost" cert="high">ثوبا</supplied> ودرهم لي أرجو <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">أنّ</rdg></app> 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> قد بعت الثّلاث شقاق بسبعة اعشر درهم حرج 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> درهم وأرجو <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 1"/>  لأبي هريرة أكرمه اللّه بطا<supplied reason="lost" cert="high">عتـ</supplied>ـه 
+<lb n="verso right 2"/>  جعفر بن أحمد بن عبـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+<lb n="verso left 1"/>  من محمّد بن عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā 
+ <lb n="3"/>wa ăl ʾāḫiraẗi bi raḥmati hi waṣala ʾilay ya ʿišrīna ṯawb:an wa dirham:un l ī ʾarǧū ʾan ʾanna 
+ <lb n="4"/>*** qad biʿtu ăṯ ṯalāṯa šiqāq:in bi sabʿaẗa ĭʿšara dirham ḥarāǧ 
+ <lb n="5"/>*** dirham wa ʾarǧū ʾan ʾanna *** 
+ <lb n="6"/>*** ** *** 
+ <lb n="7"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="8"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="9"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au] nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu [t&#039;honore] par l&#039;obéissance (qui Lui est due) et [t&#039;]accorde Sa magnanimité dans ce monde 
+			<lb n="3"/>
+		[et dans] l&#039;autre par Sa miséricorde! Vingt [pièces d&#039;étoffe] et un dirham m&#039;appartenant me sont parvenus. J&#039;espère que
+			<lb n="4"/>
+		[....] J&#039;ai vendu les trois šiqqa-s pour dix-sept dirhams à la criée. 
+			<lb n="5"/>
+		[....] dirham. J&#039;espère que [
+			<lb n="6"/>
+			<lb n="7"/>
+		À Abū Hurayra - que Dieu l&#039;honore par l&#039;o[béissan]ce (qui Lui est due)!
+			<lb n="8"/>
+		Ǧaʿfar b. Aḥmad b. ʿAb[d al-Muʾmin].
+			<lb n="9"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr.
+</ab></div>
+</body>
+</text>
+</TEI>

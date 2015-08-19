@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1367" xml:id="Diem_Heid_II_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169165</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="recto 2"/>  في ما بينهم بالخبر والمملوك منذ كان مالك <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـشّرف </lem><rdg resp="Khan">الرّقّ</rdg></app> 
+<lb n="recto 3"/>  بالقاهرة المحروسة ما حظّي <sic n="superfluous">المملوك</sic> بنظر مالك الشّرف 
+<lb n="recto 4"/>  ولا سمع إلّا سمعا من النّاس من كثير ما يتقصّى المملوك 
+<lb n="recto 5"/>  أخبار مولانا وما كان يعرّف المملوك خبر مولانا 
+<lb n="recto 6"/>  أنّه في خير وعافية إلّا الفقيه محمّد السّفطي والمملوك 
+<lb n="recto 7"/>  <gap reason="illegible" extent="5" unit="character" /> <unclear reason="undefined" cert="high">ـرد</unclear>ه وتحيط العلوم الشّريفة أن المملوك 
+<lb n="recto 8"/>  كان قد أخذ إقطاع بالحلقة المنصورة وكان في وقت 
+<lb n="recto 9"/>  خمول فحصل المملوك ما حصل فيه من زرعه وكان 
+<lb n="recto 10"/>  الوكيل عبد المنعم وكيل والد المملوك <unclear reason="undefined" cert="high">يبذر</unclear> فغرم 
+<lb n="recto 11"/>  المملوك أكثر موجوه في زرع سنتين والمملوك ما يرد 
+<lb n="recto 12"/>  <supplied reason="lost" cert="high">كـ</supplied>ـل البذار ثم أن المملوك تشفّع ونزل على ما كان 
+<lb n="recto 13"/>  <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">المملوك</supplied> <gap reason="illegible" extent="7" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">على </rdg><rdg resp="APD">علم</rdg></app> مولانا پپدر <unclear reason="undefined" cert="high">إ</unclear>لـ<unclear reason="undefined" cert="high">ـى</unclear> 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 1"/>  وكان <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 2"/>  فعملها غـ<unclear reason="undefined" cert="high">ـپـ</unclear>ـضه على المملوك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 3"/>  ضربوه ودرا أجران المملوك ولوحها وفپص الجميع في غيـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">حقّ</supplied> 
+<lb n="recto right margin 4"/>  ثم أن المملوك بعد ذلك سمع الخبر وراح المملوك <app type="BL"><lem resp="APD">للبلد </lem><rdg resp="APD">البلد</rdg></app> فألقى له شي وآخر 
+<lb n="recto right margin 5"/>  <gap reason="illegible" precision="low" extent="3"/> قال بقي إلى عندك خمسة أرادب قمح جيّد 
+<lb n="recto right margin 6"/>  <gap reason="illegible" precision="low" extent="3"/> المملوك پحـ<unclear reason="undefined" cert="high">ـپـ</unclear>ـت 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـن </lem><rdg resp="APD">من</rdg></app> دينار 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أمـ</supplied>ـ<unclear reason="undefined" cert="high">ـر</unclear> <supplied reason="lost" cert="high">المـ</supplied>ـملوك بالرّواح معه إلى البلاد وما راح المملوك 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">أ</supplied>ن يلتجئ المملوك له ببعضه وكلالة زوجة 
+<lb n="verso 4"/>  والد المملوك أخذت المملوك بشي آخر والشّرح في ذلك 
+<lb n="verso 5"/>  يطول والمملوك ما له إلّا اللّه تعالى ومولانا ومولانا 
+<lb n="verso 6"/>  يفعل الخير للغريب والمملوك على كل الأحوال من 
+<lb n="verso 7"/>  بعض <supplied reason="lost" cert="high">أهـ</supplied>ـ<unclear reason="undefined" cert="high">ـل</unclear> الغلمان ومحسوب على اللّه تعالى وعلى 
+<lb n="verso 8"/>  <sic n="superfluous">وعلي</sic> مولانا وقد <supplied reason="omitted" cert="high"><gap reason="illegible" precision="low" extent="3"/></supplied> المملوك أنّه في هذه السّنة يحضر 
+<lb n="verso 9"/>  إلي بين يدي مولانا ويسجّل خمسة عشر فدّان طين 
+<lb n="verso 10"/>  ويزرع المملوك شي يحصل منه المبلغ ويكون 
+<lb n="verso 11"/>  نظر مولانا على المملوك وحرمته عليه أيضا 
+<lb n="verso 12"/>  وما كان المملوك إلّا عوض مطالعته بالخير إن 
+<lb n="verso 13"/>  <supplied reason="lost" cert="high">لا</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">خپـ<gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">خير</rdg></app> <app type="BL"><lem resp="APD">التقا </lem><rdg resp="APD">الالتقاء</rdg></app> 
+<lb n="verso right margin 1"/>  والمملوك بعد رمضان يحضر إلى الحلقة فمهما كان <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">يحضر</rdg></app> 
+<lb n="verso right margin 2"/>  بعد تقبيل الأيادي العالية العلائيّة ولد مولانا 
+<lb n="verso right margin 3"/>  <supplied reason="lost" cert="high">الكپاپ</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـما يحتاج إليه وعلي الفقيه محمّد 
+<lb n="verso right margin 4"/>  <supplied reason="lost" cert="high">السّفطيّ</supplied> <supplied reason="lost" cert="high">السّلام</supplied> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">مولانا</supplied> <supplied reason="lost" cert="high">أفضل</supplied> <supplied reason="lost" cert="high">السّلا</supplied>م 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>******* 
+ <lb n="2"/>fī mā bayna hum bi ăl ḫabari wa ăl mamlūku munḏu kāna māliku ăš ăr šarafi riqqi 
+ <lb n="3"/>bi ăl qāhiraẗi ăl maḥrūsaẗi mā ḥaẓẓ ī bi naẓari māliki ăš šarafi 
+ <lb n="4"/>wa lā samiʿa ʾillā samʿ:an mina ăn nāsi min kaṯīri mā yataqaṣṣà ăl mamlūku 
+ <lb n="5"/>ʾaḫbāra mawlā nā wa mā kāna yuʿarrifu ăl mamlūka ḫabara mawlā nā 
+ <lb n="6"/>ʾanna hu fī ḫayr:in wa ʿāfiyaẗ:in ʾillā ăl faqīhu muḥammad:unu ăs safṭiyyu sifṭiyyu wa ăl mamlūku 
+ <lb n="7"/>***** rdh wa tuḥīṭi ăl ʿulūmu ăš šarīfaẗu ʾanna ăl mamlūka 
+ <lb n="8"/>kāna qad ʾaḫaḏa ʾiqṭāʿ bi ăl ḥalqaẗi ăl manṣūraẗi wa kāna fī waqti 
+ <lb n="9"/>ḫumūl:in fa ḥaṣala ăl mamlūku mā ḥaṣala fī hi min zarʿi hi wa kāna 
+ <lb n="10"/>ăl wakīlu ʿabdu ăl munʿimi wakīlu wālidi ăl mamlūki yabḏuru fa ġarima 
+ <lb n="11"/>ăl mamlūku ʾakṯara muʾaḫḫari hi fī zarʿi sanatayni wa ăl mamlūku mā yaruddu 
+ <lb n="12"/>kulla ăl biḏāri ṯumma ʾanna ăl mamlūka tašaffaʿa wa nazala ʿalà mā kāna 
+ <lb n="13"/>la hu ʿalà ăl mamlūki ******* **** ʿalà ʿalima ʿilm mawlā nā BBdr ʾilà 
+ <lb n="14"/>*** *** *** 
+ <lb n="15"/>wa kāna *** 
+ <lb n="16"/>fa ʿamila hā ġayẓ ġayyaẓa ġBḍh hu ʿalà ăl mamlūki *** 
+ <lb n="17"/>ḍarabū hu wa darā ʾaǧrāna ăl mamlūki wa lawḥa hā wa qabaḍa ăl ǧamīʿa fī ġayri ḥaqq:in 
+ <lb n="18"/>ṯumma ʾanna ăl mamlūka baʿda ḏālika samiʿa ăl ḫabara wa rāḥa ăl mamlūku li ø l baladi balada fa ʾalqà la hu šayʾ wa ʾāḫara 
+ <lb n="19"/>*** qāla baqiya ʾilà ʿinda ka ḫamsaẗu ʾarādiba qamḥ:in ǧayyid:in 
+ <lb n="20"/>*** ăl mamlūk BḤBt 
+ <lb n="21"/>*** ****** *n min dīnār 
+ <lb n="22"/>*** ʾamara ăl mamlūka bi ăr rawāḥi maʿa hu ʾilà ăl bilādi wa mā rāḥa ăl mamlūku 
+ <lb n="23"/>*** ʾillā ʾan yaltaǧiʾa ăl mamlūku la hu bi baʿḍi hi wa kalālaẗu zawǧaẗi 
+ <lb n="24"/>wālidi ăl mamlūki ʾaḫaḏati ăl mamlūka bi šayʾ:in ʾāḫara wa ăš šarḥu fī ḏālika 
+ <lb n="25"/>yaṭūlu wa ăl mamlūku mā la hu ʾillā ăl lāhu taʿālà wa mawlā nā wa mawlā nā 
+ <lb n="26"/>yafʿalu ăl ḫayra li ăl ġarībi wa ăl mamlūku ʿalà kulli ăl ʾaḥwāli min 
+ <lb n="27"/>baʿḍi ʾahli ăl ġilmāni wa maḥsūb:un ʿalà ăl lāhi taʿālà wa ʿalà 
+ <lb n="28"/>mawlā nā wa qad *** ăl mamlūku ʾanna hu fī hāḏihi ăs sanaẗi yaḥḍuru 
+ <lb n="29"/>ʾilà bayni yaday mawlā nā wa yusaǧǧilu ḫamsaẗa ʿašara faddāna ṭīn:in 
+ <lb n="30"/>wa yazraʿu ăl mamlūku šayʾ yaḥṣulu min hu ăl mablaġa wa yakūnu 
+ <lb n="31"/>naẓaru mawlā nā ʿalà ăl mamlūki wa ḥurmatu hu ʿalay hi ʾayḍ:an 
+ <lb n="32"/>wa mā kāna ăl mamlūku ʾillā ʿiwaḍa muṭālaʿati hi bi ăl ḫabari ʾin 
+ <lb n="33"/>lā *** *** ḫB* ḫayr ĭltaqā ăli ĭltiqāʾi 
+ <lb n="34"/>wa ăl mamlūku baʿda ramaḍāna yaḥḍuru ʾilà ăl ḥalqaẗi fa mahmā kāna *** yaḥḍuru ø ʾilay ø hā 
+ <lb n="35"/>baʿda taqbīli ăl ʾayādī ăl ʿāliyaẗi ăl ʿalāʾiyyaẗi waladu mawlā nā 
+ <lb n="36"/>wa ăl kitābu bi mā yaḥtāǧu ʾilay hi wa ʿalà ăl faqīhi muḥammad:ini 
+ <lb n="37"/>ăs safṭiyyi sifṭiyyi ăs salāmu wa ʿalà mawlā nā ʾafḍalu ăs salāmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		untereinander, während der Sklave, seit seine Ehren
+			<lb n="3"/>
+		im behüteten Kairo ist, des Anblicks seiner Ehren nicht teilhaftig geworden ist,
+			<lb n="4"/>
+		und als Ergebnis der großen Anstrengungen, die der Sklave machte, um sich der Neuigkeiten über unseren
+			<lb n="5"/>
+		Herrn zu versichern, nur gerüchteweise (von ihm) hörte. Nachricht über unseren Herrn,
+			<lb n="6"/>
+		daß er sich wohlbefindet und bei Gesundheit ist, erhielt der Sklave nur vom Faqīh Muḥammad as-Safṭī, während der Sklave
+			<lb n="7"/>
+		- - -. Das edle Wissen möge zur Kenntnis nehmen, daß der Sklave
+			<lb n="8"/>
+		in der siegreichen ḥalqah eine Landzuweisung (ʾiqṭāʿ) erhalten hatte, und zwar war dies zur Zeit
+			<lb n="9"/>
+		einer Stagnation. So hatte der Sklave hierbei ein gewisses Einkommen aus der Bestellung dieser Landzuweisung mit Getreide, und zwar besorgte
+			<lb n="10"/>
+		der Agent ʿAbdalmunʿim, der Agent des Vaters des Sklaven, die Aussaat (?). Der Sklave zahlte
+			<lb n="11"/>
+		nun den größten Teil seines für die Bestellung zweier Jahre gestundeten Betrags (?), ohne daß der Sklave
+			<lb n="12"/>
+		die ganze (?) Saat zurückgab. Schließlich wurde dem Sklaven Fürsprache zuteil, und er (sc. der Agent) verzichtete auf
+			<lb n="13"/>
+		[seinen Anspruch (?) gegen (?) den Sklaven (?)] - - - mein Herr  - - -
+			<lb n="14"/>
+			<lb n="15"/>
+		und er war [
+			<lb n="16"/>
+		Da machte er sie (Fem.Sg.) - - - gegen den Sklaven [
+			<lb n="17"/>
+		sie schlugen ihn, und er (sc.der Agent) machte die Mörser und das dazugehörige Brett des Sklaven ausfindig und nahm alles ohne Berechtigung in Besitz.
+			<lb n="18"/>
+		Hierauf erfuhr der Sklave die Neuigkeit, und der Sklave ging zum Dorf hin; da trug er (sc. der Agent) ihm die eine oder andere Angelegenheit vor
+			<lb n="19"/>
+		[...] er sagte: &#034;Du schuldest mir fünf Artaben Weizen bester Qualität&#034;.
+			<lb n="20"/>
+		[...] der Sklave - - -
+			<lb n="21"/>
+		[...] - - - Dinar [
+			<lb n="22"/>
+		[...] er befahl dem Sklaven, zusammen mit ihm in die Stadt zu gehen, aber der Sklave ging nicht,
+			<lb n="23"/>
+		vielmehr flüchtet sich der Sklave zu ihm (sc. Adressat), um ihm einiges davon vorzutragen. Ferner hat die Verwandtschaft der Gattin
+			<lb n="24"/>
+		des Vaters des Sklaven den Sklaven wegen einer anderen Sache in Anspruch genommen, aber dies zu erklären würde zu weit
+			<lb n="25"/>
+		führen. Der Sklave nun hat nur Gott, den Erhabenen, und unseren Herr. Unser Herr
+			<lb n="26"/>
+		erweist sogar den Fremden Wohltaten, und der Sklave gehört immerhin unter allen Umständen
+			<lb n="27"/>
+		zu jemandem von den Angehörigen (?) der Diener (sc. des Herrn) und verläßt sich auf Gott, den Allmächtigen, und auf
+			<lb n="28"/>
+		{und auf} unseren Herrn. Der Sklave &lt;hat sich entschlossen&gt;, sich dieses Jahr
+			<lb n="29"/>
+		bei unserem Herrn einzufinden und fünfzehn Faddān Ackerland registrieren zu lassen
+			<lb n="30"/>
+		und etwas zu säen, woraus er den (geschuldeten) Betrag erhält.
+			<lb n="31"/>
+		Es wäre an sich die Pflicht des Sklaven, unseren Herrn (von Gesicht) anzuschauen, und ebenso, ihm Respekt zu erweisen
+			<lb n="32"/>
+		und der Sklave wäre gewiß an der Stelle dieser Benachrichtigung, wenn
+			<lb n="33"/>
+		[nicht ...] - - - Zusammentreffen (oder: er traf) - - -
+			<lb n="34"/>
+		und der Sklave wird sich nach dem Ramaḍān bei der ḥalqah einfinden; was auch immer geschehen sollte [ - er wird sich einfinden.]
+			<lb n="35"/>
+		Er küßt erneut die erhabenen Hände des Herrn ʿAlāʾaddīn, er, der Junge unseres Herrn.
+			<lb n="36"/>
+		[Er möge brieflich mitteilen,] was er benötigt. An den Faqīh Muḥammad
+			<lb n="37"/>
+		[as-Safṭī Grüße und an unseren Herrn die besten Grü]ße.
+</ab></div>
+</body>
+</text>
+</TEI>

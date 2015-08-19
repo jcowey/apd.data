@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1317" xml:id="Diem_Heid_II_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 07</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169132</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> الا <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> بپرا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> وجميع مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">قبلك</supplied> <supplied reason="lost" cert="high">وقـ</supplied>ـبلنا بحال عا<supplied reason="lost" cert="high">فية</supplied> و<supplied reason="lost" cert="high">ا</supplied>لحمد <supplied reason="lost" cert="high">للّه</supplied> 
+<lb n="6"/>  كـ<supplied reason="lost" cert="high">ـثيرا</supplied> <supplied reason="lost" cert="high">مع</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كتابك</supplied> </lem><rdg resp="APD">الكتاب</rdg></app> <supplied reason="lost" cert="high">إلـ</supplied>ـينا بخبر<supplied reason="lost" cert="high">ك</supplied> وحالك وكل حوائجك <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> ذلك وا<gap reason="illegible" precision="low" extent="3"/>ـ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  و<gap reason="illegible" precision="low" extent="3"/> وأبي الفضل <unclear reason="undefined" cert="high">ومعـي</unclear> ثم أشخص مع ديبور العام إلى <gap reason="illegible" precision="low" extent="3"/>پپر وبوصير في استخراج بقيّة <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="8"/>  <gap reason="illegible" extent="1" unit="character" />ادر وفرسيّة وجميع من قبلنا يقرأون عـ<supplied reason="lost" cert="high">ـليك</supplied> <supplied reason="lost" cert="high">ا</supplied>لسّلم وجميع أصحابنا الصّغير <supplied reason="lost" cert="high">والكـ</supplied>ـبير 
+<lb n="9"/>  عافاك اللّه وحفظك والسّلم عليك ورحمت اللّه وكتب يوم الخميس ضحوة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***B *** 
+ <lb n="2"/>*** ** *** ʾlʾ * *** 
+ <lb n="3"/>*** * *** *** *** bBrʾ *** ** *** * *** 
+ <lb n="4"/>*** * *** * *** *** *** 
+ <lb n="5"/>*** * *** *** *** ** wa ǧamīʿu man qibala ka wa qibala nā bi ḥāli ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi 
+ <lb n="6"/>kaṯīr:an maʿa kitābi ăl ka kitābi ʾilay nā bi ḫabari ka wa ḥāli ka wa kulli ḥawāʾiǧi ka ****** ḏālika wa ʾ*** *** 
+ <lb n="7"/>wa *** wa ʾabī ăl faḍli wa maʿ ī ṯumma ʾušḫiṣa maʿa dībūra ăl ʿāma ʾilà **BBra wa būṣīra fī ĭstiḫrāǧi baqiyyaẗi baqiyyaẗ:in ***** 
+ <lb n="8"/>*ʾdr wa farasiyyaẗu wa ǧamīʿu man qibala nā yaqraʾūna ʿalay ka ăs salāma wa ǧamīʿu ʾaṣḥābi nā ăṣ ṣaġīru wa ăl kabīru 
+ <lb n="9"/>ʿāfā ka ăl lāhu wa ḥafiẓa ka wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa kutiba yawma ăl ḫamīsi ḍaḥwaẗ:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="5"/>
+		[...] und all [die Deinigen und] Unsrigen sind bei Gesundheit, Lob sei [Gott]
+			<lb n="6"/>
+		v[ielmals. Teile uns brieflich] die Dich betreffenden Neuigkeiten, Deinen Zustand und alle Deine Anliegen mit [...] dieses. Und [
+			<lb n="7"/>
+		und [...] Abū l-Faḍl (Gen.) und mit mir (?). Dann sandte man ihn zusammen mit Dībūr in diesem Jahr nach - - - und Būṣīr wegen der Erhebung eines Steuerrückstandes [
+			<lb n="8"/>
+		- - - und Farasīyah und all die Unsrigen und Deinigen grüßen Dich, ebenso alle unsere Kollegen, Groß und Klein.
+			<lb n="9"/>
+		Gott erhalte Dich gesund und beschütze Dich! Friede sei mit Dir und die Gnade Gottes! Geschrieben am Donnerstag nach dem Sonnenaufgang.
+</ab></div>
+</body>
+</text>
+</TEI>

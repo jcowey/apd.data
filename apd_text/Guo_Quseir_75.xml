@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="975" xml:id="Guo_Quseir_75" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 75</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_75</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113720</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم المماليك 
+<lb n="recto 2"/>  بني شيبة صالحي بالمـ<supplied reason="lost" cert="high">ـسجـ</supplied>ـد الحرام 
+<lb n="recto 3"/>  يقبّلون الأرض وينهون أنّهم يسپلون 
+<lb n="verso 1 right"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الباپى</unclear> </lem><rdg resp="APD">الباقي </rdg><rdg resp="APD">البالي </rdg><rdg resp="APD">الباني</rdg></app> 
+<lb n="verso 2 right"/>  ست أراد<supplied reason="lost" cert="high">ب</supplied> 
+<lb n="verso 3 right"/>  إلّا ثلث 
+<lb n="verso 4 right"/>  استوفا 
+<lb n="verso 5 right"/>  مية اثني وثلثين 
+<lb n="verso 6 right"/>  ونصف 
+<lb n="verso 7 right"/>  خمسة وثمانين 
+<lb n="verso 9 right"/>  ثمان مية سبعة 
+<lb n="verso 10 right"/>  وستّين و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1 middle"/>  عمران <supplied reason="lost" cert="high">بـ</supplied>ـشير تقريبا ميپين 
+<lb n="verso 2 middle"/>  عشر أرادب مية وخمسين 
+<lb n="verso 3 middle"/>  فاستوفوا 
+<lb n="verso 4 middle"/>  ضمد<gap reason="illegible" extent="2" unit="character" />عي 
+<lb n="verso 5 middle"/>  <sic n="superfluous">الرپع</sic> <supplied reason="omitted" cert="high">ارپع</supplied> أرادب ونصف 
+<lb n="verso 7 middle"/>  استوفا مئة تسعة 
+<lb n="verso 8 middle"/>  وسبعين ونصف 
+<lb n="verso 1 left"/>  رامـ<supplied reason="lost" cert="high">ـيـ</supplied><gap reason="illegible" extent="2" unit="character" /> الثّاني 
+<lb n="verso 2 left"/>  تسع أرادب <gap reason="illegible" precision="low" extent="3"/> و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3 left"/>  استو<supplied reason="lost" cert="high">فا</supplied> <gap reason="illegible" precision="low" extent="3"/>ى وثلاثين 
+<lb n="verso 7 left"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 8 left"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 9 left"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 10 left"/>  ربع <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăl mamālīku 
+ <lb n="2"/>banī šaybaẗa ṣāliḥī bi ăl masǧidi ăl ḥarāmi 
+ <lb n="3"/>yuqabbilūna ăl ʾarḍa wa yunhūna ʾanna hum yasʾalūna 
+ <lb n="4"/>*** ăṯ ṯānī bālī bānī bāqī 
+ <lb n="5"/>sittu ʾarādiba 
+ <lb n="6"/>ʾillā ṯulṯ 
+ <lb n="7"/>ĭstawfā 
+ <lb n="8"/>miyaẗ:uni ĭṯnay wa ṯalāṯīna 
+ <lb n="9"/>wa niṣf 
+ <lb n="10"/>ḫamsaẗ:un wa ṯamānīna 
+ <lb n="11"/>ø 
+ <lb n="12"/>ṯamāni miyaẗ:in sabʿaẗ:un 
+ <lb n="13"/>wa sittīna wa *** 
+ <lb n="14"/>ʿimrānu bašīru taqrīb:an miʾatayni 
+ <lb n="15"/>ʿašru ʾarādiba miyaẗ:un wa ḫamsīna 
+ <lb n="16"/>fa ĭstawfaw 
+ <lb n="17"/>ḍamad**ʿī 
+ <lb n="18"/>ʾarbaʿu ʾarādiba wa niṣf:un 
+ <lb n="20"/>ĭstawfā miʾaẗ:an tisʿaẗ:an 
+ <lb n="21"/>wa sabʿīna wa niṣf 
+ <lb n="22"/>rāmī*** ăṯ ṯānī 
+ <lb n="23"/>tisʿu ʾarādiba *** wa *** 
+ <lb n="24"/>ĭstawfā ***y wa ṯalāṯīna 
+ <lb n="26"/>ø 
+ <lb n="28"/>*** 
+ <lb n="29"/>*** 
+ <lb n="30"/>*** 
+ <lb n="31"/>rubʿ *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. The servants
+			<lb n="2"/>
+		from the Shayba tribe, the pious guardians of the Holy Mosque [in Mecca]
+			<lb n="3"/>
+		kiss the ground and report that they would like to ask for [......].
+			<lb n="4"/>
+		The second [...]:
+			<lb n="5"/>
+		six irdabbs
+			<lb n="6"/>
+		minus one third
+			<lb n="7"/>
+		Paid:
+			<lb n="8"/>
+		hundred and thirty-two
+		two hundred thirty-two
+			<lb n="9"/>
+		and a half [dirhams?].
+			<lb n="10"/>
+		Eighty-five
+			<lb n="11"/>
+		[waybas of grain?].
+			<lb n="12"/>
+		Eight hundred
+			<lb n="13"/>
+		sixty-seven and [...] [waybas of grain?].
+			<lb n="14"/>
+		ʿImrān [Ba]shīr:
+			<lb n="15"/>
+		ten irdabbs.
+			<lb n="16"/>
+		Paid: nearly two hundred plus one hundred and fifty [dirhams?].
+			<lb n="17"/>
+		Ḍamad[..]ʿī:
+			<lb n="18"/>
+		four and a half irdabbs.
+			<lb n="20"/>
+		Paid:
+			<lb n="21"/>
+		seventy-nine and a half [dirhams?].
+			<lb n="22"/>
+		Rāmī[...], the second:
+			<lb n="23"/>
+		nine irdabbs and [...]
+			<lb n="24"/>
+		Paid: [...] and thirty [dirhams?].
+			<lb n="28"/>
+			<lb n="29"/>
+			<lb n="30"/>
+			<lb n="31"/>
+		One quarter [......].
+</ab></div>
+</body>
+</text>
+</TEI>

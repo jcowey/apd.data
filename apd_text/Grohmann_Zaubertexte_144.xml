@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="632" xml:id="Grohmann_Zaubertexte_144" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Bad. V 144</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Zaubertexte_144</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">105663</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">الحمد</supplied> <supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">ر</supplied>ب العلمين الر 
+<lb n="3"/>  <supplied reason="lost" cert="high">حمن</supplied> <supplied reason="lost" cert="high">الرحپـ</supplied>ـم ملك 
+<lb n="4"/>  <supplied reason="lost" cert="high">الدّين</supplied> <supplied reason="lost" cert="high">إيّـ</supplied>ـاك نعبد وإيّاك 
+<lb n="5"/>  <supplied reason="lost" cert="high">نستعين</supplied> اهدنا الصراط 
+<lb n="6"/>  <supplied reason="lost" cert="high">المستقيم</supplied> صراط الّذين 
+<lb n="7"/>  <supplied reason="lost" cert="high">أنعمت</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـليهم غير المغضو 
+<lb n="8"/>  <supplied reason="lost" cert="high">پ</supplied> <supplied reason="lost" cert="high">علـ</supplied>ـپهم ولا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl ḥamdu li l lāhi rabbi ăl ʿālamīna ăr raḥmāni 
+ <lb n="3"/>ăr raḥīmi māliki yawmi 
+ <lb n="4"/>ăd dīni ʾiyyā ka naʿbudu wa ʾiyyā ka 
+ <lb n="5"/>nastaʿīnu ĭhdi nā ăṣ ṣirāṭa 
+ <lb n="6"/>ăl mustaqīma ṣirāṭa ăllaḏīna 
+ <lb n="7"/>ʾanʿamta ʿalay him ġayri ăl maġḍūbi 
+ <lb n="8"/>ʿalay him wa lā ăḍ ḍāllīna 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

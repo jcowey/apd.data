@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2237" xml:id="Diem_Heid_III_14_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 14b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_14_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso upside down 1"/>  ناصر ابن طرپپا يقبّل الأرض تحت أقدام 
+<lb n="verso upside down 2"/>  التّلميذ الحقير بخطاياه 
+<lb n="verso upside down 3"/>  الكاتب 
+<lb n="verso upside down 4"/>  أبونا الطّاهرة ويستوحش من روپپه السّعيدة والتّلميذ 
+<lb n="verso upside down 5"/>  يظرب <sic n="superfluous">تـ</sic> لأبونا المطانوّة بأن يذكر التّلميذ 
+<lb n="verso upside down 6"/>  عقيب صلواته في المآل بالدّيار بالسّلامة 
+<lb n="verso upside down right margin"/>  ولمّا سمعت حديث والد ناجد لاپسال <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">ما</supplied> </lem><rdg resp="Diem">يسأل</rdg></app> حرا عليه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>nāṣiru ĭbnu ṭrBBʾ yuqabbilu ăl ʾarḍa taḥta ʾaqdāmi 
+ <lb n="2"/>ăt tilmīḏu ăl ḥaqīru bi ḫaṭāyā hu 
+ <lb n="3"/>ăl kātibu 
+ <lb n="4"/>ʾabū nā ăṭ ṭāhiraẗi wa yastawḥišu min ruʾyati hi ăs saʿīdaẗi wa ăt tilmīḏu 
+ <lb n="5"/>yaẓribu li ʾabū nā ăl maṭānuwwaẗa bi ʾan yaḏkura ăt tilmīḏa 
+ <lb n="6"/>ʿaqība ṣalawāti hi fī ăl maʾāli bi ăd diyāri bi ăs salāmaẗi 
+ <lb n="7"/>wa lammā samiʿtu ḥadīṯa wālidi nāǧid:in lā tasʾal yasʾal mā ǧarā ʿalay ya 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Nāṣir ibn Ṭ.r....ā, | küßt die Erde unter den
+			<lb n="2"/>
+		der durch seine Sünden geringe Novize,
+			<lb n="3"/>
+		der Schreiber (dieses Briefes),
+			<lb n="4"/>
+		reinen Füßen unseres Vaters und gibt seinem Gefühl, daß er seinen glücklichen Anblick vermißt, Ausdruck. Der Novize
+			<lb n="5"/>
+		vollzieht vor unserem Vater eine Prostration, dahingehend, daß er den Novizen
+			<lb n="6"/>
+		unmittelbar im Anschluß an seine Gebete erwähnt hinsichtlich seiner Rückkehr in das Kloster (?) in Wohlbehaltenheit.
+			<lb n="7"/>
+		Aber als ich die Rede von Nāǧids Vater vernahm - frage nicht, &lt;was&gt; mir da widerfuhr.
+</ab></div>
+</body>
+</text>
+</TEI>

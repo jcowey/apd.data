@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1194" xml:id="Khan_Khurasan_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169032</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذه براه من سليمن بن سعيد 
+<lb n="3"/>  عامل الأمير القعقاع بن سليم 
+<lb n="4"/>  أعز اللّه نصره على مدر ورزم 
+<lb n="5"/>  لمير بن بك إنّي قبضت منك 
+<lb n="6"/>  ممّا صار عليك من خراج سنة 
+<lb n="7"/>  سبع وأربعين ومئة 
+<lb n="8"/>  عشرة دراهم قبضت 
+<lb n="9"/>  ذلك منك وبرئت إلي منها 
+<lb n="10"/>  كپپ في ذو الحجّة سنة ثمان 
+<lb n="11"/>  وأربعين ومئة 
+<lb n="seal 1"/>  سليمن <supplied reason="omitted" cert="high">بن</supplied> 
+<lb n="seal 2"/>  سعـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏihi barāʾaẗ:un min sulaymāna bni saʿīd:in 
+ <lb n="3"/>ʿāmili ăl ʾamīri ăl qaʿqāʿi bni salīm:in 
+ <lb n="4"/>ʾaʿazza ăl lāhu naṣra hu ʿalà madra wa rizma 
+ <lb n="5"/>li mīri bni baka ʾin nī qabaḍtu min ka 
+ <lb n="6"/>mimmā ṣāra ʿalay ka min ḫarāǧi sanaẗi 
+ <lb n="7"/>sabʿ:in wa ʾarbaʿīna wa miʾaẗ:in 
+ <lb n="8"/>ʿašaraẗa darāhima qabaḍtu 
+ <lb n="9"/>ḏālika min ka wa bariʾta ʾilay ya min hā 
+ <lb n="10"/>wa kutiba fī ḏū ăl ḥiǧǧaẗi sanaẗa ṯamān:in 
+ <lb n="11"/>wa ʾarbaʿīna wa miʾaẗ:in 
+ <lb n="12"/>sulaymānu bnu 
+ <lb n="13"/>saʿīd:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a quittance from Sulaymān ibn Saʿīd,
+			<lb n="3"/>
+		the financial administrator of the governor al-Qaʿqāʿ ibn Salīm,
+			<lb n="4"/>
+		may God strengthen his victory, (whose jurisdiction is) over Madr and Rizm,
+			<lb n="5"/>
+		for Mīr ibn Bēk. I have received from you
+			<lb n="6"/>
+		what you owe with regard to the kharāj for the year
+			<lb n="7"/>
+		one hundred and forty-seven
+			<lb n="8"/>
+		ten dirhams. I have received
+			<lb n="9"/>
+		that from you and you have been released from (the obligation to pay) it to me.
+			<lb n="10"/>
+		It has been written in Dhū al-Ḥijja of the year
+			<lb n="11"/>
+		one hundred and forty-eight.
+			<lb n="12"/>
+		Sulaymān (ibn)
+			<lb n="13"/>
+		Saʿīd
+</ab></div>
+</body>
+</text>
+</TEI>

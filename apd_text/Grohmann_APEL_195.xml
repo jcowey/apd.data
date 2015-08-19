@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1666" xml:id="Grohmann_APEL_195" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 195</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_195</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169417</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮يوم ‪γʹ‬ برموده ‪ι<unclear reason="undefined" cert="high">γ</unclear>‬ دينر ‪γʹ<unclear reason="undefined" cert="high">ϰ</unclear>ʹ<unclear reason="undefined" cert="high">δ</unclear>ʹχ͵γʹ‬ 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى خضر بن شبيب بن عبد المسيح عن الجزية بالمدينة لسنة ثمان عشر <expan><ex>و</ex><abbr>ثلثمائة</abbr></expan> من العين الحاكمي 
+<lb n="4"/>  ربع وسدس ونصفثمن وكتب على يد مرقوره بن شنوده الجهبذ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawma ‪3 barmūdiha ‪13 dīnār ‪1/3+1/24+1/48+1/3 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà ḫiḍru bnu šabībi bni ʿabdi ăl masīḥi ʿani ăl ǧizyaẗi bi ăl madīnaẗi li sanaẗi ṯamāni ʿašara wa ṯalāṯi miʾaẗ:in mina ăl ʿayni ăl ḥākimiyyi 
+ <lb n="4"/>rubʿ wa suds wa niṣfa ṯumn:in wa kutiba ʿalà yadi marqūraha bni šanūdaha ăl ǧahbaḏi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Tuesday, Barmûde 13. Dînâr 1/3+1/24+1/48+1/3 carat.
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		Ḫiḍr b. Šabîb b. ʿAbd al-Masîḥ has paid for the poll-tax in the (nome-) Capital for the year three hundred and eighteen of al-Ḥâkimī gold coins
+			<lb n="4"/>
+		a quarter and a sixth and a half-eighth, and it has been written by the hand of Merqûre b. Šanûda, the paymaster.
+</ab></div>
+</body>
+</text>
+</TEI>

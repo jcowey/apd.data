@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1155" xml:id="Diem_CPR_16_22" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 22</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_22</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169004</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـقاك وأدا<supplied reason="lost" cert="high">م</supplied> عزّك <supplied reason="lost" cert="high">و</supplied>كرامتك وتأييدك وسعادتك وحياطتك وسلامتك 
+<lb n="3"/>  <app type="BL"><lem resp="APD">و<gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـك </lem><rdg resp="APD">وحمايتك </rdg><rdg resp="APD">وكفايتك </rdg><rdg resp="APD">وحراستك</rdg></app> ونعماك وزاد في إحسانه إليك وجـ<supplied reason="lost" cert="high">ـميـ</supplied>ـل مواهبه <supplied reason="lost" cert="high">لد</supplied>يك وفضله عندك 
+<lb n="4"/>  كتابي <supplied reason="lost" cert="high">إ</supplied>ليك أسعدك اللّه وأنا بحال عافية وسلا<supplied reason="lost" cert="high">مة</supplied> وللّه الحمد والشكر أبدا 
+<lb n="5"/>  وكتبت إليك يوم الأحد صلوة الغذاة وذلك أنّي مضيت أطلب أبو علي أعزّه اللّه 
+<lb n="6"/>  فودّعته وخلّى إلى أبي حي كتاب وكتابه إليك وإلى أبي بكر و<gap reason="illegible" extent="2" unit="character" /> أبي لقمان 
+<lb n="7"/>  أعزّه اللّه وفي الكتاب إليك جوابه لما أعلمه بن عمّك لا عدمتك إليه 
+<lb n="8"/>  ووصل كتابي هذا مع جاري وصديقي أبو الحديد العصّا<supplied reason="lost" cert="high">ر</supplied> <sic n="superfluous">وپپپه</sic> وبين اپو ألحدبد 
+<lb n="9"/>  وجرير الّذي هو معتل عندك بالفسطا<supplied reason="lost" cert="high">ط</supplied> شركة في كتّان حملوه إلى 
+<lb n="10"/>  ما قبلك وبلغه أنّه عليل شديد العلّة فأحب أحبّك اللّه أن تحضر معه 
+<lb n="11"/>  بين يدي <supplied reason="lost" cert="high">جـ</supplied>ـرير وأن أسعده اللّه حتّى يتوقّفا عن ما بينهم من الشّركة 
+<lb n="12"/>  فأنا بعيد وأجدهم اعتزّوا لصاحبه بحقّه فإن أحب أبو الحديد العصّار 
+<lb n="13"/>  أن يبيع باع حقّه وقبض ثمنه وخرج وإن أحب تركه عندك 
+<lb n="14"/>  إلى أن <supplied reason="omitted" cert="high">يـ</supplied>ـسهّل اللّه بيعه فعلتَ موفّقا إن شا اللّه وتتوسّط أمرهم حتّى ينقطع 
+<lb n="15"/>  بينهم على حب ما يحب وإن كان خرج أبو الحديد قبل أن ترا في كتابي هذا 
+<lb n="16"/>  فـأرجوا أن يكون أبو الحديد قد عرّفكم خبر الكتّان وشركته 
+<lb n="17"/>  إن شا اللّه وأبو علي في عافية كما تحب وللصّبيان رضاعتهم 
+<lb n="18"/>  وللّه الحمد والشّكر أبدا عليك منّي أفضل سلام اللّه وأطيبه 
+<lb n="19"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">تتـ</supplied>ـوانا أسعدك اللّه في الكتاب بخبرك وحالك وحوائجك موفّقا إن شا اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="20"/>  <gap reason="illegible" extent="12" unit="character" /> وحسبنا اللّه وحده 
+<lb n="top margin right 1"/>  لأبي بكر أطال اللّه بقاه وأدام عزّه وتأييده 
+<lb n="top margin right 2"/>  محمّد بن علي بن <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">جعفر</rdg></app> أسعده اللّه 
+<lb n="top margin left 1"/>  من أحمد <gap reason="illegible" extent="15" unit="character" /> 
+<lb n="top margin left 2"/>  <gap reason="illegible" extent="10" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka wa ḥiyāṭata ka wa salāmata ka 
+ <lb n="3"/>wa **** ḥimāyata kifāyata ḥirāsata ka wa naʿmāʾa ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ǧamīli mawāhibi hi laday ka wa faḍli hi ʿinda ka 
+ <lb n="4"/>kitāb ī ʾilay ka ʾasʿada ka ăl lāhu wa ʾanā bi ḥāli ʿāfiyaẗ:in wa salāmaẗ:in wa li ăl lāhi ăl ḥamdu wa ăš šukru ʾabad:an 
+ <lb n="5"/>wa katabtu ʾilay ka yawma ăl ʾaḥadi ṣalāẗa ăl ġaḏāẗi wa ḏālika ʾan nī maḍaytu ʾaṭlubu ʾabū ʿaliyy:in ʾaʿazza hu ăl lāhu 
+ <lb n="6"/>fa waddaʿtu hu wa ḫallà ʾilà ʾabī ḥayy:in kitāb wa kitābu hu ʾilay ka wa ʾilà ʾabī bakr:in wa ** ʾabī luqmāna 
+ <lb n="7"/>ʾaʿazza hu ăl lāhu wa fī ăl kitābi ʾilay ka ǧawābu hu li mā ʾaʿlama hu bnu ʿammi ka lā ʿadimtu ka ʾilay hi 
+ <lb n="8"/>wa waṣala kitāb ī hāḏā maʿa ǧār ī wa ṣadīq ī ʾabū ăl ḥadīdi ăl ʿaṣṣāri wa bayna hu wa bayna ʾabū ăl ḥadīdi 
+ <lb n="9"/>wa ǧarīr:ini ăllaḏī huwa muʿtall:un ʿinda ka bi ăl fusṭāṭi šarikaẗ:un fī kattān:in ḥamalū hu ʾilà 
+ <lb n="10"/>mā qibala ka wa balaġa hu ʾanna hu ʿalīl:un šadīdu ăl ʿillaẗi fa ʾuḥibbu ʾaḥabba ka ăl lāhu ʾan taḥḍura maʿa hu 
+ <lb n="11"/>bayna yaday ǧarīr:in wa ʾan ʾasʿada hu ăl lāhu ḥattà yatawaqqafā ʿan mā bayna hum mina ăš šarikaẗi 
+ <lb n="12"/>fa ʾanā baʿīd:un wa ʾaǧidu humu ĭʿtazzū li ṣāḥibi hi bi ḥaqqi hi fa ʾin ʾaḥabba ʾabū ăl ḥadīdi ăl ʿaṣṣāru 
+ <lb n="13"/>ʾan yabīʿa bāʿa ḥaqqa hu wa qabaḍa ṯamana hu wa ḫaraǧa wa ʾin ʾaḥabba tarka hu ʿinda ka 
+ <lb n="14"/>ʾilà ʾan yusahhila ăl lāhu bayʿa hu faʿalta muwaffaq:an ʾin šāʾa ăl lāhu wa tatawassaṭ ʾamra hum ḥattà yanqaṭiʿa 
+ <lb n="15"/>bayna hum ʿalà ḥubbi mā yuḥibbu wa ʾin kāna ḫaraǧa ʾabū ăl ḥadīdi qabla ʾan tarā fī kitāb ī hāḏā 
+ <lb n="16"/>fa ʾarǧū ʾan yakūna ʾabū ăl ḥadīdi qad ʿarrafa kum ḫabara ăl kattāni wa šarikati hi 
+ <lb n="17"/>ʾin šāʾa ăl lāhu wa ʾabū ʿaliyy:in fī ʿāfiyaẗ:in ka mā tuḥibbu wa li ăṣ ṣibyāni riḍāʿatu hum 
+ <lb n="18"/>wa li ăl lāhi ăl ḥamdu wa ăš šukru ʾabad:an ʿalay ka min nī ʾafḍalu salāmi ăl lāhi wa ʾaṭyabu hu 
+ <lb n="19"/>lā tatawānā ʾasʿada ka ăl lāhu fī ăl kitābi bi ḫabari ka wa ḥāli ka wa ḥawāʾiǧi ka muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="20"/>************ wa ḥasbu nā ăl lāhu waḥda hu 
+ <lb n="21"/>li ʾabī bakr:in ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa taʾyīda hu 
+ <lb n="22"/>muḥammadi bni ʿaliyyi bni ***** ǧaʿfara ʾasʿada hu ăl lāhu 
+ <lb n="23"/>min ʾaḥmada *************** 
+ <lb n="24"/>********** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen, Deine ehrenvolle Stellung, Deine Unterstützung, Dein Glück, Deine Obhut, Deine Wohlbehaltenheit,
+			<lb n="3"/>
+		Deine [...] und Deine Begünstigung andauern und erweise Dir noch mehr sein Wohlwollen, seine schönen Gaben und seine Gunst!
+			<lb n="4"/>
+		Mein Brief ergeht an Dich - Gott mache Dich glücklich - während ich gesund und wohlbehalten bin - Gott sei immer Lob und Dank -,
+			<lb n="5"/>
+		und zwar schreibe ich an Dich (heute) am Sonntag zur Zeit des Morgengebetes, dies deshalb, weil ich mich auf den Weg machte, um Abū ʿAlī - Gott stärke ihn - zu suchen,
+			<lb n="6"/>
+		worauf ich ihm Lebewohl sagte; er ließ einen Brief an Abū Ḥayy und seinen Brief an Dich und an Abū Bakr und Abū Luqmān (?)
+			<lb n="7"/>
+		- Gott stärke ihn - da. In dem an Dich gerichteten Brief befindetn sich seine Antwort auf die Mitteilung Deines Neffen - möge ich Deiner nicht entbehren müssen -, die er an diesen richtet.
+			<lb n="8"/>
+		Dieser mein Brief wird durch meinen Nachbarn und Freund Abū l-Ḥadīd den Auspresser überbracht. {Zwischen ihm} Zwischen Abū l-Ḥadīd
+			<lb n="9"/>
+		und Ǧarīr, der krank bei Dir in al-Fusṭā[ṭ] ist, besteht eine Teilhaberschaft hinsichtlich Flachs, den sie
+			<lb n="10"/>
+		zu Dir gebracht haben. Nun hat er (sc. Abū l-Ḥadīd) erfahren, daß er (sc. Ǧarīr) krank und zwar schwer krank ist, und deshalb hätte ich gern - möge Gott Dich gernhaben -, daß Du mit ihm (sc. Abū l-Ḥadīd)
+			<lb n="11"/>
+		bei Ǧarīr erscheinst und daß - Gott mache ihn glücklich - (!), so daß sie die zwischen ihnen bestehende Teilhaberschaft beenden.
+			<lb n="12"/>
+		Denn ich bin fern (sc. so daß ich mich der Sache nicht persönlich annehmen kann) und stelle fest, daß man seinen (sc. Abū l-Ḥadīds) Anteil zugunsten seines Partners (sc. Ǧarīrs) usurpiert hat. Wenn nun Abū l-Ḥadīd der Auspresser
+			<lb n="13"/>
+		zu verkaufen wünscht, soll er seinen Anteil verkaufen, das Geld in Empfang nehmen und gehen; wenn er aber wünscht, ihn bei Dir zu lassen,
+			<lb n="14"/>
+		bis Gott ihm den Verkauf ermöglicht, dann tu dies bitte erfolgreich, so Gott will! Vermittle bitte in ihrer Angelegenheit, so daß
+			<lb n="15"/>
+		ihre Partnerschaft ganz so, wie er es wünscht, beendet wird. Wenn aber Abū l-Ḥadīd (von Dir) weggegangen ist, bevor Du Dir über diesen meinen Brief eine Meinung gebildet hast,
+			<lb n="16"/>
+		so hoffe ich, daß Abū l-Ḥadīd Euch (vorher) wegen des Flachses und seiner Teilhaberschaft informiert hat,
+			<lb n="17"/>
+		so Gott will. - Abū ʿAlī ist bei Gesundheit, wie Du es nur wünschen kannst, und meine kleinen Söhne bekommen ihre Milch von der Brust (sc. und sind deshalb ebenfalls bei Gesundheit),
+			<lb n="18"/>
+		Gott sei immer Lob und Dank! - Ich sende Dir den vorzüglichen und besten Gruß Gottes.
+			<lb n="19"/>
+		Unterlaß es nicht (?) - Gott mache Dich glücklich - brieflich die Dich betreffenden Neuigkeiten, Deinen Zustand und Deine Angelegenheiten erfolgreich mitzuteilen, so Gott will.
+			<lb n="20"/>
+		- - - und Gott allein ist unser Genüge!
+			<lb n="21"/>
+		An Abū Bakr - Gott möge ihn lange leben lassen und möge sein Ansehen und seine Unterstützung andauern lassen -
+			<lb n="22"/>
+		Muḥammad b. ʿAlī b. - - -  - Gott mache ihn glücklich -
+			<lb n="23"/>
+		von Aḥmad - - -
+			<lb n="24"/>
+</ab></div>
+</body>
+</text>
+</TEI>

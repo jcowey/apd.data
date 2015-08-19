@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1745" xml:id="Rodriguez_Dominguez_Compraventa1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezCompraventa 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Dominguez_Compraventa1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169486</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على سيّدنا محمّد وعلى آله وسلّم 
+<lb n="2"/>  اشترت العجوزة المباركة فاطمة بنت أحمد <app type="BL"><lem resp="APD">الجنّان </lem><rdg resp="Seco de Lucena Paredes, Escrituras árabes p. 353">الحبسان</rdg></app> من 
+<lb n="3"/>  المكرم الأفضل أبي عبد اللّه محمّد بن عبد اللّه الرّندي جميع الغرفة 
+<lb n="4"/>  الكاينة بقرب مسجد ششونة بالبيازين قبليّها المريني 
+<lb n="5"/>  وجوفيّها ابن فرج وشرقيّها الزّقاق وغربيّها الموضّر بثمن 
+<lb n="6"/>  قدره ستّة عشر دينارا فضّيّة عشرية قبضها البايع وصار<supplied reason="lost" cert="high">ت</supplied> 
+<lb n="7"/>  بيده وأبرأها منه إبرا تامّا وبذالك خلص للمشترية تملّك 
+<lb n="8"/>  الغرفة المذكورة خلوصا تامّا وعلى السّنّة والمرجع بالدّرك 
+<lb n="9"/>  وبعد النّظر والتّقليب والرّضا وعرفا قدره وأشهدَا بذالك 
+<lb n="10"/>  من عرفهما بحال صحّة وجواز في الرّابع والعشرين لصفر 
+<lb n="11"/>  عام جمسة وتسعمائة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  ومحمّد بن أحمد <unclear reason="undefined" cert="high">الرّند</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʿalà ʾāli hi wa sallama 
+ <lb n="2"/>ĭštarat ăl ʿaǧūzaẗu ăl mubārakaẗu fāṭimaẗu bintu ʾaḥmada ăl ǧannāni ḥabsāni mina 
+ <lb n="3"/>ăl mukrami ăl ʾafḍali ʾabī ʿabdi ăl lāhi muḥammadi bni ʿabdi ăl lāhi ăr rundiyyi ǧamīʿa ăl ġurfaẗi 
+ <lb n="4"/>ăl kāyinaẗi bi qurbi masǧidi šušūnaẗa bi ăl bayāzīna qibliyyu hā ăl marīniyyu 
+ <lb n="5"/>wa ǧawfiyyu hā ĭbnu faraǧ:in wa šarqiyyu hā ăz zuqāqu wa ġarbiyyu hā ăl muwaḍḍiru bi ṯaman:in 
+ <lb n="6"/>qadru hu sittaẗa ʿašara dīnār:an fiḍḍiyyaẗ:an ʿušriyyaẗ:an qabaḍa hā ăl bāyiʿu wa ṣārat 
+ <lb n="7"/>bi yadi hi wa ʾabraʾa hā min hu ʾibrāʾ:an tāmm:an wa bi ḏālika ḫalaṣa li l muštariyaẗi tamalluku 
+ <lb n="8"/>ăl ġurfaẗi ăl maḏkūraẗi ḫulūṣ:an tāmm:an wa ʿalà ăs sunnaẗi wa ăl marǧiʿi bi ăd daraki 
+ <lb n="9"/>wa baʿda ăn naẓari wa ăt taqlībi wa ăr riḍāʾi wa ʿarafā qadra hu wa ʾašhadā bi ḏālika 
+ <lb n="10"/>man ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī ăr rābiʿi wa ăl ʿišrīna li ṣafar:in 
+ <lb n="11"/>ʿāma ḫamsaẗ:in wa tisʿi miʾaẗ:in *** 
+ <lb n="12"/>wa muḥammadu bnu ʾaḥmada ăr rundu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		En el nombre de Dios, el Clemente y Misericordioso. Dios bendiga y salve a nuestro señor Muḥammad y a su familia.
+			<lb n="2"/>
+		La bendita anciana Fāṭima bint Aḥmad al-Ŷannān compra al
+			<lb n="3"/>
+		venerable y noble Abū ʿAbd Allāh Muḥammad ibn ʿAbd Allāh al-Rundī la totalidad de la algorfa
+			<lb n="4"/>
+		situada en las proximidades de la mezquita Šušūna de Albaicín, (que linda) a mediodía con al-Marīnī,
+			<lb n="5"/>
+		 al norte con Ibn Faraŷ, a levante con el callejón (zuqāq) y a poniente con al-Muwaḍḍir, por un precio
+			<lb n="6"/>
+		que alcanza los dieciséis dinares de plata le los de a diez. La compradora toma posesión física y jurídica de ella, 
+			<lb n="7"/>
+		(tras lo cual el vendedor) expide la correspondiente carta de libramiento de pago, y por ello hace cumplida entrega a la compradora
+			<lb n="8"/>
+		de la mencionada algorfa, según le prescrito por la ley, con indemnización por daños,
+			<lb n="9"/>
+		después que (la compradora) viera, recorriese y aceptase (la finca). Ambas (partes) conocen el alcance (del acuerdo adoptado) y requieren el testimonio
+			<lb n="10"/>
+		(de los testigos instrumentales) que las conocen, (y saben que gozan) de capacidad física y legal (bastante). A 24 de ṣafar
+			<lb n="11"/>
+		del 905 / 30 septiembre 1499. [Firmas ilegibles].
+			<lb n="12"/>
+		Y Muḥammad ibn Aḥmad [¿al-Rundī?].
+</ab></div>
+</body>
+</text>
+</TEI>

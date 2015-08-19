@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="363" xml:id="Grohmann_APEL_73" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 073</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_73</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106591</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـن الدّار المكشوف الشّهـ<supplied reason="lost" cert="high">ـادة</supplied> <gap reason="illegible" extent="15" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> وهو اثنا عشر سهما من أربعة و<supplied reason="lost" cert="high">عشرين</supplied> <supplied reason="lost" cert="high">سهما</supplied> <gap reason="illegible" extent="12" unit="character" /> 
+<lb n="4"/>  <supplied reason="lost" cert="high">ومرافـ</supplied>ـقه وحدوده وأرضه وسمايه ومدخله <supplied reason="lost" cert="high">ومخرجه</supplied> <supplied reason="lost" cert="high">وسفله</supplied> <supplied reason="lost" cert="high">وعلوه</supplied> <supplied reason="lost" cert="high">وكلّ</supplied> <supplied reason="lost" cert="high">حقّ</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">لـ</supplied>ـهذا الدّار داخل فيه وخارج منه بما اشتـ<supplied reason="lost" cert="high">ـملت</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">وجمعته</supplied> <supplied reason="lost" cert="high">وأحاطت</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">به</supplied> حدود أربع أحد حدود هذا الدّار الأ<supplied reason="lost" cert="high">وّ</supplied>ل <supplied reason="lost" cert="high">القبليّ</supplied> <gap reason="illegible" extent="13" unit="character" /> 
+<lb n="7"/>  <supplied reason="lost" cert="high">و</supplied>الثّاني وهو البحري ينتـ<supplied reason="lost" cert="high">ـهـ</supplied>ـي <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" extent="4" unit="character" /> الـ<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ <supplied reason="lost" cert="high">الجـ</supplied>ـديد لورثة شنود<supplied reason="lost" cert="high">ه</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> والثّا<supplied reason="lost" cert="high">لث</supplied> <supplied reason="lost" cert="high">الشّرقيّ</supplied> 
+<lb n="9"/>  <supplied reason="lost" cert="high">ينتـ</supplied>ـهي إلى منزل إصطفن <supplied reason="lost" cert="high">بـ</supplied>ـن بلتو<supplied reason="lost" cert="high">س</supplied> <supplied reason="lost" cert="high">والرّابع</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـغربي ينتهـ<supplied reason="lost" cert="high">ـي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">منزل</supplied> 
+<lb n="10"/>  <supplied reason="lost" cert="high">سـ</supplied>ـميّه ابنت قفري وأ<supplied reason="lost" cert="high">بيها</supplied> <supplied reason="lost" cert="high">قـ</supplied>ـفري بن سسنّه بـ<supplied reason="lost" cert="high">ـاع</supplied> <supplied reason="lost" cert="high">إصطفن</supplied> <supplied reason="lost" cert="high">وسمويل</supplied> 
+<lb n="11"/>  ومتوس ومرهام أولـ<supplied reason="lost" cert="high">ـاد</supplied> <supplied reason="lost" cert="high">يحنّـ</supplied>ـس بن بلتوس <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">النّصف</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الدّار</supplied> 
+<lb n="12"/>  المحدود المو<supplied reason="lost" cert="high">صوف</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> الكتاب وهو اثنا عشر سهما من <supplied reason="lost" cert="high">أربعة</supplied> 
+<lb n="13"/>  وعشرين سهما من هذا الدّار بثمانية الدّنانير عينا ذهبا 
+<lb n="14"/>  وازنة المثاقيل بالجديد قد قبض إصطفن وسمويل ومتوس ومرهام 
+<lb n="15"/>  أولاد يحنّس هذه الثّمانية الدّنانير تامّا وافيا <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  فسلّموا الحصّة وجميع حقوقهم من هذا الدّار المنسوب في هذا الكتاب 
+<lb n="17"/>  إلى فرقليّه ابنت قفري مع والدها قفري بن سسنّه وتسلّموا 
+<lb n="18"/>  ذلك منهم وحازوه وملكوه وصار مالا من مالهم وملك من ملكهم 
+<lb n="19"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" />ـا </lem><rdg resp="APD">تحكّموا</rdg></app> في ذلك ما <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> الا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="20"/>  وافترقوا جميعا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="22"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> فما كان من علقة 
+<lb n="23"/>  أو خصومة أو طارئ بدين أو <supplied reason="omitted" cert="high">مـ</supplied>ـستحق بميراث <app type="BL"><lem resp="Grohmann ‫فـ©ـا®نفاذ‬, Frantz-Murphy ‫فإنفاذ‬"><sic n="superfluous">فپڤاد</sic><supplied reason="omitted" cert="high">ڤانقاذ</supplied> </lem><rdg resp="÷“Frantz-Murphy, comparison 1 p. 211”">فإنفاذ </rdg><rdg resp="“Diem, P.KölnKauf p. 44”">فنفاذ</rdg></app> ذلك 
+<lb n="24"/>  على إصطفن وسمويل ومتوس ومرهام أولاد يحنّس بن بلتوس 
+<lb n="25"/>  و<gap reason="illegible" extent="10" unit="character" /> <unclear reason="undefined" cert="high">لـ</unclear>ـفرقليّه ابنت قفري وأبيها قفـ<supplied reason="lost" cert="high">ـري</supplied> 
+<lb n="26"/>  بن سسنّه بالغ ما بلغ من أوفر مالهم باع إصطفن وسمويل 
+<lb n="27"/>  ومتوس ومرهام ذلك في صحّة من عقولهم وأبدانهم وجواز 
+<lb n="28"/>  أمورهم غير مكرهين طائعين طالبين راغبين علي شرط بيع 
+<lb n="29"/>  الإسلام وعتدپه وشهد علي إقرار إصطفن وسمويل 
+<lb n="30"/>  ومتوس ومرهام أولاد يحنّس بن بلتوس بجميع ما في هذا 
+<lb n="31"/>  الكتاب بعد أن قري عليهم وعرفوا ما فيه حرفا حرفا 
+<lb n="32"/>  <app type="BL"><lem resp="APD">وفسّر </lem><rdg resp="APD">وفسّر</rdg></app> عليهم بالـ<gap reason="illegible" extent="1" unit="character" />ـپه وأقّروا بفهمه وذلك في شهر ذي 
+<lb n="33"/>  الحجّة من سنة عـ<supplied reason="lost" cert="high">ـشـ</supplied>ـرين وثلثمائة على أن النّصف من 
+<lb n="34"/>  <supplied reason="lost" cert="high">دا</supplied>ر هذا الشّرا لفرقليّه ابنت قفرى بن سسنّه والـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="9" unit="character" /> 
+<lb n="35"/>  قفرى بن سسنّه تلك الأسهم من هذا الدّار لكل واحد منهما 
+<lb n="36"/>  شهد على ذلك مـ<supplied reason="lost" cert="high">ـ</supplied>ـزين بن أحمد على إقرار هاولا <supplied reason="lost" cert="high">النّـ</supplied>ـفر المسمو<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">في</supplied> هذا الكتاب وكتب بخطّـ<supplied reason="lost" cert="high">ـه</supplied> والحمد للّه رب العالمين 
+<lb n="37"/>  شهد إسمعيل بن زكريّا على إقـ<supplied reason="lost" cert="high">ـرار</supplied> <supplied reason="lost" cert="high">هاولا</supplied> <supplied reason="lost" cert="high">النّفر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="38"/>  المسمّون في هذا الكتاب وكتـب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="39"/>  <supplied reason="lost" cert="high">شهد</supplied> زكرّيّا بن الحسين على إقرار هاو<supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">النّفر</supplied> <supplied reason="lost" cert="high">المسمّـ</supplied>ـون <supplied reason="lost" cert="high">فـ</supplied>ـي 
+<lb n="40"/>  هذا الكتاب وكتب شهادته بخطّه 
+<lb n="41"/>  شـ<supplied reason="lost" cert="high">ـهد</supplied> <gap reason="illegible" precision="low" extent="3"/> بن إسمعيل على جميع ما في هـ<supplied reason="lost" cert="high">ـذ</supplied>ا الكتاب وكتب بخطّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="42"/>  وكتب شهادته بخطّه شهد صالح بن موسى على إقـ<supplied reason="lost" cert="high">ـرار</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">هاؤلاء</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">النفر</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="43"/>  شهد <supplied reason="lost" cert="high">الفـ</supplied>ـضل بن <app type="BL"><lem resp="APD">عفيّف </lem><rdg resp="APD">عفيّف</rdg></app> على جميع ما <supplied reason="lost" cert="high">في</supplied> هـ<supplied reason="lost" cert="high">ـذ</supplied>ا <supplied reason="lost" cert="high">الـ</supplied>ـكـ<supplied reason="lost" cert="high">ـتا</supplied>ب <supplied reason="lost" cert="high">وكتب</supplied> 
+<lb n="44"/>  شهادته بخطّه شهد <gap reason="illegible" extent="4" unit="character" /> پ بن <gap reason="illegible" extent="7" unit="character" /> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">إصطفن</supplied> 
+<lb n="45"/>  وسمويل ومتوس ومرهام أولاد يحنّس بجميع ما في هذا الكتاب وكتب <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="46"/>  شهد <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> پن احمد على اڤرار هاولا 
+<lb n="47"/>  المسمّون في هذا الكتاب وكـ<supplied reason="lost" cert="high">ـتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="48"/>  شهد محمّد بن عبد اللّه على إقرار هاولا النّـ<supplied reason="lost" cert="high">ـفر</supplied> <supplied reason="lost" cert="high">المسمّون</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> 
+<lb n="49"/>  وكتب شهادته بخطّه 
+<lb n="50"/>  شهد طاهر بن <app type="BL"><lem resp="APD">عمته </lem><rdg resp="APD">عنبة </rdg><rdg resp="APD">عتيّة </rdg><rdg resp="APD">غنية</rdg></app> بن <gap reason="illegible" precision="low" extent="3"/>ـل على إقرار <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="51"/>  <gap reason="illegible" precision="low" extent="3"/> بجميع ما في هذ<supplied reason="lost" cert="high">ا</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـكتاب وكتب شهادته بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ******* *** 
+ <lb n="2"/>***** mina ăd dāri ăl makšūfi ăš šahādaẗi *************** 
+ <lb n="3"/>** ****** wa huwa ĭṯnā ʿašara sahm:an min ʾarbaʿaẗ:in wa ʿišrīna sahm:an ************ 
+ <lb n="4"/>wa marāfiqu hu wa ḥudūdu hu wa ʾarḍu hu wa samāyu hu wa madḫalu hu wa maḫraǧu hu wa suflu hu wa ʿalwu hu wa kullu ḥaqq:in huwa 
+ <lb n="5"/>li hāḏā ăd dāri dāḫil fī hi wa ḫāriǧ min hu bi mā ĭštamalat ʿalay hi wa ǧamaʿat hu wa ʾaḥāṭat 
+ <lb n="6"/>bi hi ḥudūd:un ʾarbaʿ:un ʾaḥadu ḥudūdi hāḏā ăd dāri ăl ʾawwalu ăl qibliyyu ************* 
+ <lb n="7"/>wa ăṯ ṯānī wa huwa ăl baḥriyyu yantahī ʾilà *** *** *** 
+ <lb n="8"/>*** ăl ***B ăl ǧadīd li waraṯaẗi šanūdaha *** **** wa ăṯ ṯāliṯu ăš šarqiyyu 
+ <lb n="9"/>yantahī ʾilà manzili ʾiṣṭifana bni bilatūsa wa ăr rābiʿu ăl ġarbiyyu yantahī ʾilà manzili 
+ <lb n="10"/>simiyyaha ĭbnati qufrà wa ʾabī hā qufrà bni sisinnaha bāʿa ʾiṣṭifanu wa samawīlu 
+ <lb n="11"/>wa matawusu wa marihāmu ʾawlādu yuḥannisa bni bilatūsa ǧamīʿa ăn niṣfa min hāḏā ăd dāri 
+ <lb n="12"/>ăl maḥdūdi ăl mawṣūfi fī hāḏā ăl kitābi wa huwa ĭṯnā ʿašara sahm:an min ʾarbaʿaẗ:in 
+ <lb n="13"/>wa ʿišrīna sahm:an min hāḏā ăd dāri bi ṯamāniyaẗi ăd danānīri ʿayn:an ḏahab:an 
+ <lb n="14"/>wāzinaẗ:ini ăl maṯāqīli bi ăl ǧadīdi qad qabaḍa ʾiṣṭifanu wa samawīlu wa matawusu wa marihāmu 
+ <lb n="15"/>ʾawlādu yuḥannisa hāḏihi ăṯ ṯamāniyaẗa ăd danānīri tāmm:an wāfiy:an **** *** 
+ <lb n="16"/>fa sallamū ăl ḥiṣṣaẗa wa ǧamīʿa ḥuqūqi him min hāḏā ăd dāri ăl mansūbi fī hāḏā ăl kitābi 
+ <lb n="17"/>ʾilà faraqliyyaha ĭbnati qufrà maʿa wālidi hā qufrà bni sisinnaha wa tasallamū 
+ <lb n="18"/>ḏālika min hum wa ḥāzū hu wa malakū hu wa ṣāra māl:an min māli him wa milk:un min milki him 
+ <lb n="19"/>****ʾ taḥakkamū fī ḏālika mā ******* *** ʾlʾ *** **** 
+ <lb n="20"/>wa ĭftaraqū ǧamīʿ:an *** *** 
+ <lb n="21"/>*** 
+ <lb n="22"/>*** ** fa mā kāna min ʿulqaẗ:in 
+ <lb n="23"/>ʾaw ḫuṣūmaẗ:in ʾaw ṭāriʾ:in bi dayn:in ʾaw mustaḥiqq:in bi mīrāṯ:in fa ʾinfāḏu ʾinqāḏu nafāḏu ḏālika 
+ <lb n="24"/>ʿalà ʾiṣṭifana wa samawīla wa matawusa wa marihāma ʾawlādi yuḥannisa bni bilatūsa 
+ <lb n="25"/>wa ********** li faraqliyyaha ĭbnati qufrà wa ʾabī hā qufrà 
+ <lb n="26"/>bni sisinnaha bāliġ:un mā balaġa min ʾawfari māli him bāʿa ʾiṣṭifanu wa samawīlu 
+ <lb n="27"/>wa matawusu wa marihāmu ḏālika fī ṣiḥḥaẗ:in min ʿuqūli him wa ʾabdāni him wa ǧawāzi 
+ <lb n="28"/>ʾumūri him ġayra mukrahīna ṭāʾiʿīna ṭālibīna rāġibīna ʿalà šarṭi bayʿi 
+ <lb n="29"/>ăl ʾislāmi wa ʿuhdati hi wa šahida ʿalà ʾiqrāri ʾiṣṭifana wa samawīla 
+ <lb n="30"/>wa matawusa wa marihāma ʾawlādi yuḥannisa bni bilatūsa bi ǧamīʿi mā fī hāḏā 
+ <lb n="31"/>ăl kitābi baʿda ʾan quriya ʿalay him wa ʿarafū mā fī hi ḥarf:an ḥarf:an 
+ <lb n="32"/>ø wa fussira ʿalay him bi ʾl*Bh wa ʾaqarrū bi fahmi hi wa ḏālika fī šahri ḏī 
+ <lb n="33"/>ăl ḥiǧǧaẗi min sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in ʿalà ʾanna ăn niṣfa min 
+ <lb n="34"/>dāri hāḏā ăš širāʾi li faraqliyyaha ĭbnati qufrà bni sisinnaha wa ʾl********* 
+ <lb n="35"/>qufrà bn sisinnaha tilka ăl ʾashuma min hāḏā ăd dāri li kulli wāḥid:in min humā 
+ <lb n="36"/>šahida ʿalà ḏālika mazīnu muzaynu bnu ʾaḥmada ʿalà ʾiqrāri hāʾulāʾi ăn nafari ăl musammawna fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="37"/>šahida ʾismāʿīlu bnu zakariyyāʾa ʿalà ʾiqrāri hāʾulāʾi ăn nafari *** 
+ <lb n="38"/>ăl musammawna fī hāḏā ăl kitābi wa kataba *** 
+ <lb n="39"/>šahida zakariyyāʾu bnu ăl ḥusayni ʿalà ʾiqrāri hāʾulāʾi ăn nafari ăl musammawna fī 
+ <lb n="40"/>hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="41"/>šahida *** bnu ʾismāʿīla ʿalà ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="42"/>wa kataba šahādata hu bi ḫaṭṭi hi šahida ṣāliḥu bnu mūsà ʿalà ʾiqrāri *** hāʾulāʾi *** ăn nafari ø *** *** 
+ <lb n="43"/>šahida ăl faḍlu bnu ʿafīf:in ʿufayf:in ʿufayyifa ʿalà ǧamīʿi mā fī hāḏā ăl kitābi wa kataba 
+ <lb n="44"/>šahādata hu bi ḫaṭṭi hi šahida **** B bnu ******* ʿalà ʾiqrāri ʾiṣṭifana 
+ <lb n="45"/>wa samawīla wa matawusa wa marihāma ʾawlādi yuḥannisa bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba ****** 
+ <lb n="46"/>šahida ****** bnu ʾaḥmada ʿalà ʾiqrāri hāʾulāʾi ăn nafari 
+ <lb n="47"/>ăl musammawna fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="48"/>šahida muḥammadu bnu ʿabdi ăl lāhi ʿalà ʾiqrāri hāʾulāʾi ăn nafari ăl musammawna fī hāḏā ăl kitābi 
+ <lb n="49"/>wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="50"/>šahida ṭāhiru bnu ʿanabaẗa ʿatabaẗa ġaniyaẗa ʿutayyaẗa ʿutbaẗa bni ***l ʿalà ʾiqrāri *** 
+ <lb n="51"/>*** bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[... o]f the house, in respect to which the testi[mony ?] has been verified [
+			<lb n="3"/>
+		[ ... of the] ............ this being twelve shares of [twenty]four [shares ...................]
+			<lb n="4"/>
+		[and its appurten]ances and its limits and its land and its sky and its entrance [and its exit and (including what is) above and below (the surface) and every right connected with]
+			<lb n="5"/>
+		this house within and without, with what surr[ound, encompass and enclose (viz.)]
+			<lb n="6"/>
+		four boundaries: one of the boundaries of this house, viz. the f[ir]st, [the southern, is (formed by) ...............,]
+			<lb n="7"/>
+		[and] the second, viz. the northern, ext[en]ds [to ..............]
+			<lb n="8"/>
+		[........ the n]ew, belonging to the heirs of Šanûd[a ......] ...... and the third, viz. the eastern
+			<lb n="9"/>
+		[ex]tends to the dwelling house of Iṣṭafan (Stephen), [s]on of Bilatûs (Pilatos), [and the fourth the] western extend[s to the dwelling house]
+			<lb n="10"/>
+		[of Si]miya, daughter of Qufrâ, and of [her father Qu]frâ b. Sisinna. [Iṣṭafan (Stephen) and Samawîl (Samuel)]
+			<lb n="11"/>
+		and Matawus (Matthew) and Marihâm (Mary), the childr[en of Yoḥanne]s b. Biatûs (Pilatos) [have sold the whole half of this dwelling house,]
+			<lb n="12"/>
+		defined and des[cribed in this] deed, and these are twelve shares of
+			<lb n="13"/>
+		twenty [four] shares of this house, for eight dînârs, gold-coins,
+			<lb n="14"/>
+		full weight by the miṯqâlî weights according to the new standard. Stephen and Samawîl and Matawus and Marihâm,
+			<lb n="15"/>
+		the children of Yoḥannes, have received these eight dînârs, full, entire ...... [ ... ]
+			<lb n="16"/>
+		Thus they have handed over this share and all their rights in the house referred to in this deed
+			<lb n="17"/>
+		to Faraqlîya, daughter of Qufrâ, together with her father Qufrâ b. Sisinna, and they have taken it over
+			<lb n="18"/>
+		from them and have acquired it and taken possession of it and it has become their own property and possession
+			<lb n="19"/>
+		............ in ............... [
+			<lb n="20"/>
+		and they have all separated ......... [
+			<lb n="21"/>
+		(deleted)
+			<lb n="22"/>
+		[ .......... ]. But if there should be any contention
+			<lb n="23"/>
+		or litigation, or if someone should suddenly appear with a debt, or should make a claim on the basis on any inheritance, then the recuperation therefor
+			<lb n="24"/>
+		is incumbant upon Iṣṭafan and Samawîl and Matawus and Marihâm, the children of Yoḥannes b. Bilatûs,
+			<lb n="25"/>
+		and ........... to the favour of Faraqlîya, daughter of Qufrâ, and of her father Quf[râ]
+			<lb n="26"/>
+		b. Sisinna, whatever it might amount to, out of their undiminished means. Iṣṭafan and Samawîl
+			<lb n="27"/>
+		and Matawus and Marihâm have sold this, they being in a state of sound mind and body and capable of transacting
+			<lb n="28"/>
+		their business, without compulsion, voluntarily, demanding (and) desiring (it) in accordance with the provisions and stipulations
+			<lb n="29"/>
+		of the Islamic law of sale. (The following witnesses) have testified to the acknowledgment by Iṣṭafan and Samawîl
+			<lb n="30"/>
+		and Matawus and Marihâm, the children of Yoḥannes b. Bilatûs, respecting all that (is contained) in this
+			<lb n="31"/>
+		deed, after (it) had been read to them and they had taken cognizance of that which is herein word by word
+			<lb n="32"/>
+		Seeing that (it) had been explained to them ........ and they have acknowledged that they have understood it, and this in the month of Ḏu
+			<lb n="33"/>
+		ʾl-Ḥiǧǧa of the year three hundred and twenty, viz. that the half of
+			<lb n="34"/>
+		the house concerned in this purchase belongs to Faraqlîya, daughter of Qufrâ b. Sisinna, and ......
+			<lb n="35"/>
+		Qufrâ b. Sisinna, these shares of this house for either of the[m].
+			<lb n="36"/>
+		There have testified to it: Muzain b. Aḥmad to the acknowledgment by these [per]sons name[d in] this deed, and he has written (it) in his own hadwriting. (37) Praise be to God, the Lord of all created beings.
+			<lb n="37"/>
+		Witness is Ismaʿîl b. Zakarîya to the acknowled[gment by these persons]
+			<lb n="38"/>
+		named in this deed and he has writ[ten ..................].
+			<lb n="39"/>
+		Witness is Zakarîya b. al-Ḥusain to the acknowledgment by these persons, named in
+			<lb n="40"/>
+		this deed, and he has written his testimony in his (own) handwriting.
+			<lb n="41"/>
+		Witness is ......... b. Ismaʿîl to all that (is contained) in this deed
+			<lb n="42"/>
+		and he has written his testimony in his (own) handwriting. Witness is Ṣâliḥ b. Mûsâ to the acknowledg[ment ................ (41) , and he has written (it) in [his] (own) handwriting.
+			<lb n="43"/>
+		Witness is .......... b. ʿAfîf to all that (is contained) [in] t[hi]s d[ee]d, [and he has written]
+			<lb n="44"/>
+		his testimony in his (own) handwriting. Witness is ...... b. ......... [to the acknowledgment by Iṣṭafan]
+			<lb n="45"/>
+		and Samawîl and Matawus and Marihâm, the children of Yoḥannes, to all that (is contained) in this deed, and he has written [......]
+			<lb n="46"/>
+		Witness is ......... b. Aḥmad to the acknowledgment by these person[s],
+			<lb n="47"/>
+		named in this deed, and he has writ[ten his testimony in his (own) handwriting].
+			<lb n="48"/>
+		Witness is Muḥammad b. ʿAbdallâh to the acknowledgment by these pers[ons named in this deed],
+			<lb n="49"/>
+		and he has written his testimony in his (own) handwriting.
+			<lb n="50"/>
+		Witness is Ṭâhir b. .........l to the acknowledgment [
+			<lb n="51"/>
+		... to all that (is contained) in this deed and he has written his testimony in his (own) handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

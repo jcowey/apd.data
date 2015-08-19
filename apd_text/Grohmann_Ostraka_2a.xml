@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1284" xml:id="Grohmann_Ostraka_2a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannOstraka 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Ostraka_2a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169107</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="a1"/>  بسم اللّه الرّحمن الرّحيـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="a2"/>  ذكر حق محمّد بن <app type="BL"><lem resp="APD">شكر </lem><rdg resp="APD">شكّر</rdg></app> على ور<supplied reason="lost" cert="high">دان</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a3"/>  من أهل المدينة عليهما احـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a4"/>  بين قلتة أبنوب وبقام بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a5"/>  <unclear reason="undefined" cert="high">التّبن</unclear> وبين ويصا بن مونة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a6"/>  يمطل بحق محمّد بن شكر وعند<supplied reason="lost" cert="high">ه</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a7"/>  حق إفك <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a8"/>  حسّان بن عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a9"/>  <gap reason="illegible" extent="4" unit="character" /> بن مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a10"/>  <gap reason="illegible" extent="2" unit="character" /> سپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="b1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="b2"/>  <gap reason="illegible" precision="low" extent="3"/> فليس لـ<supplied reason="lost" cert="high">ـمحمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شكر</supplied> <supplied reason="lost" cert="high">على</supplied> وردان <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="b3"/>  <supplied reason="lost" cert="high">عند</supplied> <supplied reason="lost" cert="high">محـ</supplied>ـل الأجل من أقام <sic n="superfluous">پالدكر</sic> <supplied reason="omitted" cert="high">بذكر</supplied> <supplied reason="lost" cert="high">الحقّ</supplied> <supplied reason="lost" cert="high">اقتضا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> 
+<lb n="b4"/>  <supplied reason="lost" cert="high">ومن</supplied> <supplied reason="lost" cert="high">أحـ</supplied>ـال عليه أقر له بحقّه شهـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ذلك</supplied> 
+<lb n="b5"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">هرون</supplied> <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شـ[ـهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="b6"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> على ما في هذا الكتاب <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="b7"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">وكتب</supplied> شها<supplied reason="lost" cert="high">دته</supplied> <supplied reason="lost" cert="high">بخـ</supplied>ـطّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">تـ</supplied>ـأ<supplied reason="lost" cert="high">ريخه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi muḥammadi bni šakar:in šakkara šukr:in ʿalà wardāna bni *** wa *** bni *** 
+ <lb n="3"/>min ʾahli ăl madīnaẗi ʿalay himā ʾḤ*** *** 
+ <lb n="4"/>bayna qultaẗa ʾabanūba wa baqāma bni *** *** 
+ <lb n="5"/>ăt tibn wa bayna wayṣā bni mūnaẗa *** *** 
+ <lb n="6"/>yamṭulu bi ḥaqqi muḥammadi bni šukr:in wa ʿinda hu *** *** 
+ <lb n="7"/>ḥaqq ʾifk:in ** *** *** 
+ <lb n="8"/>ḥassānu bnu ʿ*** *** 
+ <lb n="9"/>**** bnu m*** *** 
+ <lb n="10"/>** sB*** *** 
+ <lb n="11"/>*** ********* 
+ <lb n="12"/>*** fa laysa li muḥammadi bni šukr:in ʿalà wardāna bni *** *** 
+ <lb n="13"/>ʿinda maḥalli ăl ʾaǧali man ʾaqāma bi ḏikri ăl ḥaqqi ĭqtaḍā mā fī hi 
+ <lb n="14"/>wa man ʾaḥāla ʿalay hi ʾaqarra la hu bi ḥaqqi hi šahida ʿalà ḏālika 
+ <lb n="15"/>šahida *** bnu hārūna bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="16"/>šahida *** bnu *** ʿalà mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi šahida *** bnu *** 
+ <lb n="17"/>ʿalà mā fī hi wa kataba šahādata hu bi ḫaṭṭi hi fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Verpflichtungsschein des Muḥammad b. Šukr zu Lasten des War[dān b. N. N. und des N. N. b. N. N.]
+			<lb n="3"/>
+		gehörig zu den Leuten der (Distrikt) hauptstadt: Sie beide schulden ein [...]
+			<lb n="4"/>
+		gemeinschaftlich (zwischen) Qolte Apanoup und Pqām ib[n .............]
+			<lb n="5"/>
+		[frei von] Stroh (?), und zwischen Waiṣā b. Mōne [...]
+		Stroh (?), und zwischen Waiṣā b. Mōne [...]
+			<lb n="6"/>
+		(indem er?) hinausschiebt den Rechtsanspruch des Muḥammad b. Šukr, während in seiner Verwahrung steht ... [........]
+			<lb n="7"/>
+		ein fiktiver Rechtsan[spruch .........]
+			<lb n="8"/>
+		Ḥassān b ʿA[.........]
+			<lb n="9"/>
+			<lb n="10"/>
+			<lb n="11"/>
+			<lb n="12"/>
+		.........]. Doch nicht steht zu dem [Muḥammad b. Šukr zu Lasten des] Wardān [b. N. N. ...]
+			<lb n="13"/>
+		bei der Fälligkeitszeit des Termines. Wer auch immer mittels des [Verpflichtungs]scheines eine Forderung aufstellt, [wird das, was darin (steht), erhalten,]
+			<lb n="14"/>
+		und auf wen auch immer er anweist, dem erkennt er seinen Rechtsanspruch an. Zeu[gen hierfür sind:
+			<lb n="15"/>
+		[Zeuge ist N. N. ibn Ha]rūn für alles, was in dieser Urkunde (steht), [und er schrieb sein Zeugnis mit seinem Schriftzuge.]
+			<lb n="16"/>
+		[Zeuge ist N. N. b. N. N.] für das, was in dieser Urkunde (steht), [und er schrieb sein Zeugnis mit seinem Schriftzuge. Zeuge ist N.N. b. N. N.]
+			<lb n="17"/>
+		[für das, was darin (steht), und er schrieb sein] Zeug[nis mit seinem Schrift]zu[ge an ihrem (der Urkunde) D]at[um.]
+</ab></div>
+</body>
+</text>
+</TEI>

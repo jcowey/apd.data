@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="899" xml:id="Guo_Quseir_33" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 33</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_33</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113661</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  القطعة قال لهم في هذا الدّقيق السّكّر لا تشيلوا 
+<lb n="recto 2"/>  لهم شي من هونه إلى هونه <unclear reason="undefined" cert="high">أخذ</unclear> <unclear reason="undefined" cert="high">منّي</unclear> في القطعة 
+<lb n="verso 1"/>  <app type="BL"><lem resp="APD">إحدا </lem><rdg resp="“EG”">أحد
+</rdg></app> <app type="BL"><lem resp="APD">عشر </lem><rdg resp="“EG”">اعشر</rdg></app> قطعة دقيق <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  وذكروا له أن نحن خمسة حجّاج و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> فأطلقوهم <sic n="superfluous">منوك</sic><supplied reason="omitted" cert="high">منك</supplied> عشر در<supplied reason="lost" cert="high">اهم</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl qiṭʿaẗ qāla la hum fī hāḏā ăd daqīqi ăs sukkaru lā tašīlū 
+ <lb n="2"/>la hum šayʾ min hawna hūnah ʾilà hūnah ʾaḫaḏa minn ī fī ăl qiṭʿaẗi 
+ <lb n="3"/>ʾiḥdā ʾaḥada ʿašara ĭʿšara qiṭʿaẗ:an daqīq *** 
+ <lb n="4"/>wa ḏakarū la hu ʾanna naḥnu ḫamsaẗu ḥuǧǧāǧ:in wa *** 
+ <lb n="5"/>*** fa ʾaṭliqū hum min ka ʿašra darāhima *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... regarding] the shipment. He told them that the flour was sweetened. Don&#039;t move
+			<lb n="2"/>
+		things around. He took, through me, from the shipmnet [......]
+			<lb n="3"/>
+		eleven qiṭʿa-units of flour [......].
+			<lb n="4"/>
+		They told him, &#034;We are five pilgrims and [.....];
+			<lb n="5"/>
+		[.......] dispatch from your [storage] what is worth ten dirhams [of food supplies ...!].
+		[.......] so he granted them ten dirhams[&#039; worth of wheat].
+</ab></div>
+</body>
+</text>
+</TEI>

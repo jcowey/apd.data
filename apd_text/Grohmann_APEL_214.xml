@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1699" xml:id="Grohmann_APEL_214" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 214</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_214</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169449</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  اللمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـاسين 
+<lb n="2"/>  القطّاعين 
+<lb n="3"/>  المقشّرين 
+<lb n="4"/>  الرّصّاص الدّ<supplied reason="lost" cert="high">بّـ</supplied>ـاغ 
+<lb n="5"/>  البقّالين 
+<lb n="6"/>  الطّرّاح 
+<lb n="7"/>  النّحّاس 
+<lb n="8"/>  الحجّارين 
+<lb n="9"/>  الطّبّاخ 
+<lb n="10"/>  غلمان <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـڤـ</supplied>ـد<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">المد<gap reason="illegible" extent="2" unit="character" />ـ</rdg></app> 
+<lb n="11"/>  صاحب الدّست 
+<lb n="12"/>  الدّفّان 
+<lb n="13"/>  غلمان <app type="BL"><lem resp="APD">الالپالپح </lem><rdg resp="APD">الأباليج</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl lm***ʾsīna 
+ <lb n="2"/>ăl qaṭṭāʿīna 
+ <lb n="3"/>ăl muqaššarīna 
+ <lb n="4"/>ăr raṣṣāṣu ăd dabbāġu 
+ <lb n="5"/>ăl baqqālīna 
+ <lb n="6"/>ăṭ ṭarrāḥu 
+ <lb n="7"/>ăn naḥḥāsu 
+ <lb n="8"/>ăl ḥaǧǧārīna 
+ <lb n="9"/>ăṭ ṭabbāḫu 
+ <lb n="10"/>ġilmānu ăl fd** md** 
+ <lb n="11"/>ṣāḥibu ăd disti 
+ <lb n="12"/>ăd daffānu 
+ <lb n="13"/>ġilmānu ăl ʾlBʾlBḥ ʾabālīǧ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		the ... [...] .........
+			<lb n="2"/>
+		the stone-cutters
+			<lb n="3"/>
+		the peelers
+			<lb n="4"/>
+		the one who stacks stone, the tanner
+			<lb n="5"/>
+		the greengrocers
+			<lb n="6"/>
+		the draughtsman
+			<lb n="7"/>
+		the coppersmith
+			<lb n="8"/>
+		the stone-purveyors
+			<lb n="9"/>
+		the cook
+			<lb n="10"/>
+		the mates of the [...] .........
+			<lb n="11"/>
+		the cauldron-vendor
+			<lb n="12"/>
+		the grave-digger
+			<lb n="13"/>
+		the mates of the ......... (?)
+</ab></div>
+</body>
+</text>
+</TEI>

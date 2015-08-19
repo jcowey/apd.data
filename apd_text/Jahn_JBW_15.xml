@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="626" xml:id="Jahn_JBW_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106742</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـقاك وأدام عزّك وكرامتك وتأييدك وسعادتك وأتم نعمته 
+<lb n="3"/>  <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">و</supplied>زاد في إحسانه إليك في الدّنيا والآخرة برحمته 
+<lb n="4"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـحر </lem><rdg resp="Diem">قد</rdg></app> <app type="BL"><lem resp="APD">سلامه </lem><rdg resp="Diem">سرّني</rdg></app> <app type="BL"><lem resp="APD">الله </lem><rdg resp="Diem">خير</rdg></app> اپاك ا<gap reason="illegible" extent="5" unit="character" /> إلله <app type="BL"><lem resp="APD">رپ </lem><rdg resp="Diem">الحمد</rdg></app> <app type="BL"><lem resp="APD">العالّمپن </lem><rdg resp="Diem">للّه</rdg></app> پدك رحمت 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أ</supplied>نا </lem><rdg resp="Diem">وأنا</rdg></app> مغموم شديد الغم من قبل الوالدة أبقاها <app type="BL"><lem resp="APD">ڤاحب </lem><rdg resp="Diem “omitted erroneously by scribe”">اللّه</rdg></app> 
+<lb n="6"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أن</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ا</supplied>لله </lem><rdg resp="Levi della Vida; Diem">أعزك</rdg></app> پصلى <app type="BL"><lem resp="APD">اليها </lem><rdg resp="“Levi della Vida, Letters p. 134”">تصل </rdg><rdg resp="Diem">تصير</rdg></app> وپردهإ الى إلمنرل حتي اسر پدلك 
+<lb n="7"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>پعرڤنى </lem><rdg resp="Diem">فإن</rdg></app> <app type="BL"><lem resp="APD">بما </lem><rdg resp="Diem">رأيت</rdg></app> <app type="BL"><lem resp="APD">كان </lem><rdg resp="Diem">أن</rdg></app> <app type="BL"><lem resp="APD">پرصى </lem><rdg resp="Diem">تعرفني</rdg></app> المـ<sic n="superfluous">ـلـ</sic>ـنرل الدى <app type="BL"><lem resp="APD">يكون </lem><rdg resp="“Levi della Vida, Letters p. 134”">يرضى </rdg><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD">ڤيه </lem><rdg resp="APD">خبر</rdg></app> عپد الّله 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا </lem><rdg resp="Diem">وهو</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">لا</rdg></app> <app type="BL"><lem resp="APD">الوالده </lem><rdg resp="“Levi della Vida, Letters p. 134”">وأن </rdg><rdg resp="Diem">يدري</rdg></app> <app type="BL"><lem resp="APD">سپا </lem><rdg resp="“Levi della Vida, Letters p. 134”">تعرفنا </rdg><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD">ڤانى </lem><rdg resp="Diem">أمر</rdg></app> معموم پامره فعلپ موڤڤا 
+<lb n="9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">إن</rdg></app> <app type="BL"><lem resp="APD">اطال </lem><rdg resp="Diem">شاء</rdg></app> <app type="BL"><lem resp="APD">الله </lem><rdg resp="Diem">اللّه</rdg></app> پڤأك وادام عرك وكرأمپك وپاپپدك وسعادپك وحعلتى 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فداك</supplied> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">صلّى </lem><rdg resp="Diem">وصلّى</rdg></app> اللّه على محمّد النّبي <app type="BL"><lem resp="APD">وآله </lem><rdg resp="Diem">وعلى</rdg></app> <app type="BL"><lem resp="APD">وسلم </lem><rdg resp="Diem">آله</rdg></app> كپپرا من كل سو اپاك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka wa ʾatamma niʿmata hu 
+ <lb n="3"/>ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi 
+ <lb n="4"/>ø qad ø sarra ø nī ḫayru ***ḫr salāmaẗa salāmaẗi ăl lāhi ʾiyyā ka ʾ***** ăl ḥamdu ø ø li ăl lāhu lāhi rabbi rabbu ăl ʿālamīna yada qad ka ø kuntu ḫaraǧat ḫaraǧtu 
+ <lb n="5"/>*** ø wa ʾanā maġmūm:un šadīdu ăl ġammi min qibali ăl wālidaẗi ʾabqā hā ø ăl ø lāhu fa ʾuḥibbu 
+ <lb n="6"/>ø ʾan *** ʾaʿazza ka ăl lāhu yuṣallī taṣilu taṣīra ʾilay hā wa tarudda hā ʾilà ăl manzili ḥattà ʾusarra bi ḏālika 
+ <lb n="7"/>ø fa ʾin ø ø raʾayta ø ʾan wa ø tuʿrifu tuʿrifa nī bi mā kāna yurḍà yurṣà min ø ḫabari ăl manzili manzilu ăllaḏī yakūnu fī hi ʿabdu ăl lāhi 
+ <lb n="8"/>ø wa ø huwa ø lā ø wa yadrī ø ʾan ***ʾ tuʿrifa min ø nā mina ʾamri ăl wālidaẗi šayʾ:an fa ʾinn ī maġmūm:un bi ʾamri hā hi faʿalta muwaffaq:an 
+ <lb n="9"/>ø ʾin ø šāʾa *** ăl ø lāhu ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka wa ǧaʿala nī ø min ø kulli ø sūʾ:in ø fidāʾa ø ka 
+ <lb n="10"/>fidāʾa ø ka ø ø wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli ʿalà hi ø ø ʾāli ø hi wa sallama kaṯīr:an min kulli sūʾ:in ʾatā ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen!
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Gott [lasse] Dich [lange] leben und gewähre Dir weiterhin Ansehen, Ehre, Unterstützung und Glück, schenke Dir seine vollständigste Gnade
+		Gott lasse Dich lange leben und lasse dauern Deine Kraft, Dein Ansehen, Deinen Beistand und Dein Glück, und vollende seine Gnade
+			<lb n="3"/>
+		[an Dir] und nehme zu in seiner Gunstbezeugung gegen Dich in dieser und in jener Welt in seiner Barmherzigkeit.
+		und erweise Dir noch mehr sein Wohlwollen in der diesseitigen und der jenseitigen Welt in seiner Barmherzigkeit!
+			<lb n="4"/>
+		[die .....] .... Dir Gottes Frieden. Gott, der Herr der Wesenheiten, ..... Deine Hand(!)
+		[Es hat mich] die Nachricht, daß Gott Dir Wohlbehaltenheit gewährt hat, [gefreut]; Preis sei Gott, dem Herrn der Welt! Ich bin (inzwischen) abgereist,
+			<lb n="5"/>
+		[... i]ch bin sehr betrübt wegen der Mutter, - (Gott) erhalte sie am Leben - So wünsche ich denn,
+		[o Bruder (?), wobei i]ch heftigen Kummer verspürte in Hinblick auf die Mutter - &lt;Gott&gt; erhalte sie! Ich möchte deshalb,
+		... therefore I wish
+			<lb n="6"/>
+		[daß] Du Dich [- Gott stärke dich (?) -] zu ihr begibst und sie zum Haus zurückbringst, so daß ich damit erfreut werde.
+		[daß .........] Gott segne sie - und sie wieder in die Wohnung zurück führst, daß ich dadurch zufriedengestellt werde 
+		- may God strengthen you - that you go to her ...
+			<lb n="7"/>
+		let me know, whether the house is ... satifactory
+		[...] und laß mich wissen, womit das Wohnhaus, in dem ʿAbdallāh sich aufhält, in festen Zustand versetzt wurde(?)
+		[Wenn Du der Meinung bist,] mir mitzuteilen, wie es um das Haus steht, in dem sich ja ʿAbd Allāh aufhält
+			<lb n="8"/>
+		and let us know
+		[...] der Mutter etwas, ..... denn ich bin ihrer Lage wegen betrübt; so mögest Du es mit Erfolg tun.
+		[- er weiß von] der Sache mit der Mutter (noch) nichts -, denn ich bin wegen der Sache mit ihr (wirklich) bekümmert, dann tu (dies bitte) erfolgreich,
+			<lb n="9"/>
+		[...] Gott lasse Dich lange leben und lasse dauern Deine Kraft, Dein Ansehen, Deinen Beistand und Dein Glück und mache mich für alles Übel, das Dir zustoßen sollte,
+		[so Gott will]. Gott lasse Dich lange leben und gewähre Dir weiterhin Ansehen, Ehre, Unterstützung und Glück und mache mich zu Deinem Lösegeld von allem Schlimmen!
+			<lb n="10"/>
+		Gott segne Muḥammad, den Propheten, und seine Sippe und spende (ihnen) vielmals Heil!
+		[zu Deinem Lösegeld] und Gott segne Muḥammad den Propheten und seine Familie und spende reichlich Heil.
+</ab></div>
+</body>
+</text>
+</TEI>

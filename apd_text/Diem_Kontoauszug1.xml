@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2071" xml:id="Diem_Kontoauszug1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemKontoauszug</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Kontoauszug1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 (recto)"/>  بسم اللّه الرّحمن الرّحيم والحمد للّه رب العلمين وصلّى اللّه على محمّد النّبي وعلى آله وسلّم كثيرا <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وحـ<gap reason="illegible" precision="low" extent="3"/> ـ</rdg></app> 
+<lb n="2 (recto)"/>  الّذي لك من الخل مع أبي موسى السّويسي دننير ÷÷÷÷ خرج للنّوتي <unclear reason="undefined" cert="high">الشّاميّ</unclear> ÷ 
+<lb n="3 (recto)"/>  ولبقطر بن أندونة الطّرفي دننير ÷ فذلك ÷÷ بقي خالص ÷÷÷÷ 
+<lb n="4 (recto)"/>  خرج من ذلك لأبو قير دننير ÷÷÷÷ الثّمن ÷÷÷ ومحوّلة ÷÷ إلى ÷<supplied reason="lost" cert="high">÷÷</supplied> 
+<lb n="5 (recto)"/>  فذلك ممّا خرج ÷÷÷÷ مبلغ الثّمن <sic n="superfluous">در</sic> <supplied reason="omitted" cert="high">دينر</supplied> ÷÷÷ 
+<lb n="6 (recto)"/>  خرج من ذلك للنّوتي <sic n="superfluous">در</sic> <supplied reason="omitted" cert="high">دينر</supplied> ÷÷÷÷ وللحمّالين والمينا وصاحب السّاحل ÷÷÷÷÷ وللطّرّاح ÷÷ 
+<lb n="7 (recto)"/>  وكرى الهري دينر ÷÷÷÷ ولصاحب الهري <sic n="superfluous">حل</sic> ÷÷÷ فذلك ÷÷÷ 
+<lb n="8 (recto)"/>  الباقي دننير ÷÷÷ <gap reason="illegible" precision="low" extent="3"/>ـق فاعلم ذلك أكرمك اللّه وأبقاك وأتم نعمته عليك 
+<lb n="9 (recto)"/>  وزاد في إحسانه إليك 
+<lb n="10 (verso)"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أبي</supplied> علي الحسين بن عبد العلي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʿalà ʾāli hi wa sallama kaṯīr:an *** wa *** ḥa*** *** 
+ <lb n="2"/>ăllaḏī la ka mina ăl ḫalli maʿa ʾabī mūsà ăs suwaysiyyi danānīru 1004+24 ḫaraǧa li n nūtiyyi ăš šāmiyyi 9 
+ <lb n="3"/>wa li buqṭura bni ʾandūnaẗa ăṭ ṭarafiyyi danānīru 60 fa ḏālika 69 baqiya ḫāliṣ 1355 
+ <lb n="4"/>ḫaraǧa min ḏālika li ʾabū qīr:in danānīru 1312 ăṯ ṯamanu 17+1/6 wa muḥawwalaẗ:un 25 ʾilà 1/2+1/3+1/8 
+ <lb n="5"/>fa ḏālika mimmā ḫaraǧa 1355 mablaġu ăṯ ṯamani dīnār 108+1/8 
+ <lb n="6"/>ḫaraǧa min ḏālika li n nūtiyyi dīnār 6+2/3+1/24 wa li l ḥammālīna wa ăl mīnā wa ṣāḥibi ăs sāḥili 1/2+1/3+1/24+1/48 wa li ṭ ṭarrāḥi 1/12 
+ <lb n="7"/>wa kirà ăl huryi dīnār 1+1/6+1/8+1/48 wa li ṣāḥibi ăl huryi 1/12+1/48 fa ḏālika 9+1/12 
+ <lb n="8"/>ăl bāqī danānīru 99+1/48 ***q fa ĭʿlam ḏālika ʾakrama ka ăl lāhu wa ʾabqā ka wa ʾatamma niʿmata hu ʿalay ka 
+ <lb n="9"/>wa zāda fī ʾiḥsāni hi ʾilay ka 
+ <lb n="10"/>*** *** *** ʾabī ʿaliyy:in ăl ḥusayni bni ʿabdi ăl ʿaliyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und sich Erbarmenden! Preis sei Gott, dem Herr der Welt! Gott segne Muḥammad, den Propheten, und seine Sippe und spende (ihnen) vielmals Heil! ...
+			<lb n="2"/>
+		Dein Guthaben aus Essig zusammen mit Abū Mūsā as-Suwaysī beträgt Dinare 1424. Hiervon gingen ab für den syrischen (?) Schiffer 9
+			<lb n="3"/>
+		und für Buqṭur ibn Andūne aṭ-Ṭarafī Dinare 60. Das macht somit 69. Es verblieben somit netto 1355.
+			<lb n="4"/>
+		Hiervon gingen ab für Abū Qīr Dinare 1312, Erlös 17 1/6 und überwiesen 25 plus [1/2  1/3] 1/8.
+			<lb n="5"/>
+		Das macht somit, d.h. das, was abging, (ebenfalls) 1355. Betrag des Erlöses Dinar 108 1/8.
+			<lb n="6"/>
+		Hiervon gingen ab für den Schiffer Dinar 6 2/3 1/24, für die Träger, den Hafen und den Hafenmeister 1/2 1/3 1/24 1/48, für den ṭarrāḥ 1/12
+			<lb n="7"/>
+		Miete des Kornspeichers Dinar 1 1/6 1/8 1/48, und für dein Verwalter des Konspeichers {fens} 1/12 1/48. Das macht somit 9 1/12 1/48.
+			<lb n="8"/>
+		Das (zu Deinen Gunsten) Verbleibende ist somit Dinare 99 1/48. Dies zu Deiner Kenntnisnahme! Gott ehre Dich, erhalte Dich, schenke Dir seine vollkommene Gnade
+			<lb n="9"/>
+		und gewähre Dir noch mehr seine Gunst!
+			<lb n="10"/>
+		...[  Abū] ʿAlī al-Ḥusayn ibn ʿAbd al-ʿAliy.
+</ab></div>
+</body>
+</text>
+</TEI>

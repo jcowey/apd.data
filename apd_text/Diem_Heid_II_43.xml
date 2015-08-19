@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1429" xml:id="Diem_Heid_II_43" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 43</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_43</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169217</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> <unclear reason="undefined" cert="high">ما</unclear> <unclear reason="undefined" cert="high">يحتـ</unclear>ـ</supplied>ـاجه وقد كنـ<supplied reason="lost" cert="high">ـت</supplied> 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">كنت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">قد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<unclear reason="undefined" cert="high">ـپـ</unclear>ـك </lem><rdg resp="APD">أخبرتك</rdg></app> عافاك اللّه أن 
+<lb n="3"/>  <supplied reason="lost" cert="high">تبعـ</supplied>ـث إليه بما <unclear reason="undefined" cert="high">يحـ</unclear>ـ<supplied reason="lost" cert="high">ـتـ</supplied>ـاجه من طعام و<sic n="superfluous">حـ</sic> 
+<lb n="4"/>  لدوابّه وأن أرجو من اللّه أن توجّهه اليوم إن شا اللّه 
+<lb n="5"/>  وقد كثف عهده منذ البارحة فنسل اللّه الّذي 
+<lb n="6"/>  هو خير يأتيه إنّي لقيتك أمس فأعلمتك 
+<lb n="7"/>  أنّي قد خرجت في خبر فرقتك فأعلمتني إن كنت 
+<lb n="8"/>  أ<supplied reason="lost" cert="high">حتـ</supplied>ـاج إلى دابّة أو غير ذلك أن أبعث 
+<lb n="9"/>  <supplied reason="lost" cert="high">إليـ</supplied>ـك وأعلمتني إذا أردت أن آتي 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إلى</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">ما</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">قبلك</rdg></app> أبـ<unclear reason="undefined" cert="high">ـعـ</unclear>ـ<supplied reason="lost" cert="high">ـث</supplied> إليك قبل ذلك 
+<lb n="11"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">فتفضّل</rdg></app> <app type="BL"><lem resp="APD">ابعث </lem><rdg resp="APD">وابعث</rdg></app> <supplied reason="lost" cert="high">عـ</supplied>ـافاك اللّه إليه بما فضّلـ<unclear reason="undefined" cert="high">ـتـ</unclear>ــني 
+<lb n="12"/>  <supplied reason="lost" cert="high">به</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>لا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** mā yaḥtāǧu hu wa qad kuntu 
+ <lb n="2"/>**** kuntu **** qad ***B ʾaḫbartu ka ʿāfā ka ăl lāhu ʾan 
+ <lb n="3"/>tabʿaṯa ʾilay hi bi mā yaḥtāǧu hu min ṭaʿām:in wa ʿalaf:in 
+ <lb n="4"/>li dawābbi hi wa ʾan ʾarǧuwa mina ăl lāhi ʾan tuwaǧǧiha hu ăl yawma ʾin šāʾa ăl lāhu 
+ <lb n="5"/>wa qad kaṯufa ʿahdu hu munḏu ăl bāriḥaẗi fa nasalu ăl lāha ăllaḏī 
+ <lb n="6"/>huwa ḫayr:un yaʾtī hi ʾin nī laqītu ka ʾamsi fa ʾaʿlamtu ka 
+ <lb n="7"/>ʾan nī qad ḫaraǧtu fī ḫabari furqati ka fa ʾaʿlamta nī ʾin kuntu 
+ <lb n="8"/>ʾaḥtāǧu ʾilà dābbaẗ:in ʾaw ġayri ḏālika ʾan ʾabʿaṯa 
+ <lb n="9"/>ʾilay ka wa ʾaʿlamta nī ʾiḏā ʾaradtu ʾan ʾātiya 
+ <lb n="10"/>*** ʾilà *** mā *** qibala ø ka ʾabʿaṯa ʾilay ka qabla ḏālika 
+ <lb n="11"/>***** fa ø tafaḍḍal ø wa ĭbʿaṯ ʿāfā ka ăl lāhu ʾilay hi bi mā faḍḍalta nī 
+ <lb n="12"/>bi hi *** **** *** ***lʾ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... was er br]aucht. Und ich hatte [
+			<lb n="2"/>
+		[...] Dich/Dir - Gott erhalte Dich gesund -, daß
+			<lb n="3"/>
+		Du ihm die von ihm benötigte Nahrung und das von ihm
+			<lb n="4"/>
+		für seine Reit- und Lasttiere benötigte Futter sendest, und daß ich von Gott erbitte, daß Du es noch heute sendest, so Gott will,
+			<lb n="5"/>
+		nachdem sich seine treue Freundschaft (?) seit gestern noch verstärkt hat (?). Deshalb bitten wir Gott, daß dasjenige,
+			<lb n="6"/>
+		was am besten (für ihn) ist, zu ihm komme. Ich habe Dich gestern getroffen, worauf ich Dir mitgeteilt habe,
+			<lb n="7"/>
+		daß ich bei der Nachricht über Deine Abreise ausgegangen war (um Dich zu sehen). Daraufhin hast Du mir mitgeteilt, ich solle Dir, wenn ich
+			<lb n="8"/>
+		ein Reit- oder Lasttier oder etwas anderes be[nötigte], Nachricht
+			<lb n="9"/>
+		senden, und Du hast mir ferner mitgeteilt, ich solle Dir, wenn ich
+			<lb n="10"/>
+		[... zu (?)] Dir kommen wolle, zuvor Nachricht geben.
+			<lb n="11"/>
+		[Sei also so ferundlich und (?)] sende ihm - Gott erhalte Dich gesund -  das, womit Du mich bevorzugt hast (?)
+			<lb n="12"/>
+</ab></div>
+</body>
+</text>
+</TEI>

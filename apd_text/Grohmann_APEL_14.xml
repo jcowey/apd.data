@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1150" xml:id="Grohmann_APEL_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR III 1 059 (= P.Cair.Arab. 014 = Chrest.Khoury I 03)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169000</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمم</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  لا إله إلّا اللّه وحده لا شريك <supplied reason="lost" cert="high">له</supplied> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <supplied reason="lost" cert="high">مـ</supplied>ـحمّد رسول اللّه <expan><abbr>أ</abbr><ex>مر</ex></expan> به الأمير قرّة <unclear reason="undefined" cert="high">بن</unclear> شريك 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** 
+ <lb n="7"/>muḥammad:un rasūlu ăl lāhi ʾamara bi hi ăl ʾamīru qurraẗu bnu šarīka 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu clément et miséricordieux !]
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="4"/>
+		Il n&#039;y a de Dieu qu&#039;Allah seul, [ il n&#039;a] pas de compagnon.
+		There is no god but God alone, [He has] no associate.
+			<lb n="7"/>
+		Muḥammad est le Messager de Dieu. L&#039;a o[rdonné] l&#039;émir Qurra Ibn Šarīk.
+		[Mu]ḥammad is the Messenger of God. The Amîr Qurra ben Šarîk (ordered) this
+</ab></div>
+</body>
+</text>
+</TEI>

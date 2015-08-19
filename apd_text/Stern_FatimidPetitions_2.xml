@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2218" xml:id="Stern_FatimidPetitions_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SternFatimidPetitions 2 (= P.GenizahCambr. 077)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Stern_FatimidPetitions_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  العبد المملوك 
+<lb n="2"/>  موسى بن صدقة التّاجر اليهودي 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  صلوات اللّه وبركاته ونوامي زكواته وأفضل سلامه وتحيّاته على <supplied reason="lost" cert="high">مولانا</supplied> 
+<lb n="5"/>  وسيّدنا وإمام عصرنا وزماننا الإمام الآمر بأحكام اللّه أمير المومپپن وعلى 
+<lb n="6"/>  آبائه الطّاهرين وأبنائه الأكرمين صلاة <supplied reason="lost" cert="high">باقية</supplied> إلى يوم الدّين المملوك يقبّل الأرض 
+<lb n="7"/>  أمام المقام النّبوي الطّاهر الشّريف ضاعف اللّه أنواره وأسنى 
+<lb n="8"/>  مناره ونصر جيوشه وأعلامه وأنصاره وينهي 
+<lb n="9"/>  أنّه وصل من الهند واليمن بتجارة وقراض معه 
+<lb n="10"/>  <app type="BL"><lem resp="APD">فأعيق </lem><rdg resp="Khan">فعيق</rdg></app> بشبهة لم <app type="BL"><lem resp="APD">تحق </lem><rdg resp="Khan">تجوز</rdg></app> إعاقته به وقد أثبت المملوك 
+<lb n="11"/>  في مجلس القاضي جلال الملك تاج الأحكام <unclear reason="undefined" cert="high">إزالة</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="Khan">للاعتراض</rdg></app> 
+<lb n="12"/>  والمملوك <app type="BL"><lem resp="APD">يسئل </lem><rdg resp="Khan">يسل</rdg></app> ويضرع بالإنعام عليه والإحسان 
+<lb n="13"/>  إليه بخروج التّوقيع العالي زاده اللّه <app type="BL"><lem resp="APD">عزّا </lem><rdg resp="Khan">نفاذا</rdg></app> وشرفا 
+<lb n="14"/>  إلى القاضي جلال الملك تاج الأحكام <app type="BL"><lem resp="APD">باكـ<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Khan">بذكر</rdg></app> ما <app type="BL"><lem resp="APD">ثبت </lem><rdg resp="Khan">أثبت</rdg></app> المملوك 
+<lb n="15"/>  عنده ليكون ذلك سببا لإيصاله إلى حقّه رأفة 
+<lb n="16"/>  له وحنوّا عليه ولمولانا سلام اللّه على ذكره 
+<lb n="17"/>  <supplied reason="lost" cert="high">الرّأي</supplied> الأعلا في ذلك إن شا اللّه عز وجل 
+<lb n="18"/>  والحمد للّه وحده 
+<lb n="19"/>  وصلوات اللّه على سيّدنا محمّد النّبي وآله وسلامه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ʿabdu ăl mamlūku 
+ <lb n="2"/>mūsà bnu ṣadaqaẗa ăt tāǧiru ăl yahūdiyyu 
+ <lb n="3"/>bi ĭsmi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ṣalawātu ăl lāhi wa barakātu hu wa nawāmī zakawāti hi wa ʾafḍalu salāmi hi wa taḥiyyāti hi ʿalà mawlā nā 
+ <lb n="5"/>wa sayyidi nā wa ʾimāmi ʿaṣri nā wa zamāni nā ăl ʾimāmi ăl ʾāmiri bi ʾaḥkāmi ăl lāhi ʾamīri ăl muʾminīna wa ʿalà 
+ <lb n="6"/>ʾābāʾi hi ăṭ ṭāhirīna wa ʾabnāʾi hi ăl ʾakramīna ṣalāẗ:an bāqiyaẗ:an ʾilà yawmi ăd dīni ăl mamlūku yuqabbilu ăl ʾarḍa 
+ <lb n="7"/>ʾamāma ăl maqāmi ăn nabawiyyi ăṭ ṭāhiri ăš šarīfi ḍāʿafa ăl lāhu ʾanwāra hu wa ʾasnà 
+ <lb n="8"/>manāra hu wa naṣara ǧuyūša hu wa ʾaʿlāma hu wa ʾanṣāra hu wa yunhī 
+ <lb n="9"/>ʾanna hu waṣala mina ăl hindi wa ăl yamani bi tiǧāraẗ:in wa qirāḍ:in maʿa hu 
+ <lb n="10"/>fa ʾuʿīqa ʿīqa bi šubhaẗ:in lam taḥiqqi taǧūz ʾiʿāqatu hu bi hi wa qad ʾaṯbata ăl mamlūku 
+ <lb n="11"/>fī maǧlisi ăl qāḍī ǧalāli ăl mulki tāǧi ăl ʾaḥkāmi ʾizālaẗ:an ******* li ø li ø ĭʿtirāḍi ø ʿan ø hu 
+ <lb n="12"/>wa ăl mamlūku yasʾalu yasalu wa yaḍraʿu bi ăl ʾinʿāmi ʿalay hi wa ăl ʾiḥsāni 
+ <lb n="13"/>ʾilay hi bi ḫurūǧi ăt tawqīʿi ăl ʿālī zāda hu ăl lāhu ʿizz:an nafāḏ:an wa šaraf:an 
+ <lb n="14"/>ʾilà ăl qāḍī ǧalāli ăl mulki tāǧi ăl ʾaḥkāmi bi ʾk*** ḏikri mā ṯabbata ʾaṯbata ăl mamlūku 
+ <lb n="15"/>ʿinda hu li yakūna ḏālika sabab:an li ʾīṣāli hi ʾilà ḥaqqi hi raʾfaẗ:an 
+ <lb n="16"/>la hu wa ḥunuww:an ʿalay hi wa li mawlā nā salāmu ăl lāhi ʿalà ḏikri hi 
+ <lb n="17"/>ăr raʾyu ăl ʾaʿlā fī ḏālika ʾin šāʾa ăl lāhu ʿazza wa ǧalla 
+ <lb n="18"/>wa ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="19"/>wa ṣalawātu ăl lāhi ʿalà sayyidi nā muḥammad:ini ăn nabiyyi wa ʾāli hi wa salāmu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The servant and slave
+		The slave,
+			<lb n="2"/>
+		Mūsā b. Ṣadaqa, the Jewish merchant.
+			<lb n="3"/>
+		In the name of God, the merciful and compassionate.
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="4"/>
+		The benedictions of God and his blessings, his increasing benefactions and most excellent peace and blessings be upon our master
+		The blessings and benedictions of God, and His increasing benefactions and most excellent blessings be upon our Lord
+			<lb n="5"/>
+		and lord, the ʾimām of our era and time, the ʾimām al-ʾĀmir bi-ʾAḥkām Allāh, commander of the faithful, and upon
+		and Master the Imam al-Āmir bi-Aḥkām Allāh, Commander of the Faithful, and
+			<lb n="6"/>
+		his pure ancestors and most noble sons, enduring benedictions, which last until the day of judgment. The slave kisses the ground
+		his pure ancestors and noble sons - blessings lasting till the day of judgment. The slave kisses the earth
+			<lb n="7"/>
+		before the pure and noble prophetical presence, may God double its light and exalt
+		in front of the pure and noble prophetic presence, may God double its light and exalt
+			<lb n="8"/>
+		its beacon, and give victory to its armies, banners and helpers, and reports
+		its torch, and give victory to its armies, banners and helpers, and reports as follows:
+			<lb n="9"/>
+		He has arrived from India and the Yemen bringing merchandise as well as [money, or goods, in] commenda
+		that he arrived from India and Yemen with merchandise and (goods or money) in commenda
+			<lb n="10"/>
+		but it was detained by a pretext on which it was not lawful for it to be detained. The slave had registered (documents)
+		but it was detained by a pretext which was not a proper reason for detention. The slave has established ...
+			<lb n="11"/>
+		in the court of the Kadi Calāl al-Mulk Tāc al-Aḥkām to ...
+		in the court of the qāḍī Jalāl al-Mulk Tāj al-ʾAḥkām in order to prevent [any dispute]
+			<lb n="12"/>
+		The slave humbly asks for a kindness to be bestowed upon him and a benefaction granted
+		The slave humbly petitions that the benefaction be bestowed upon, and the favor granted to,
+			<lb n="13"/>
+		him, to wit the issue of an exalted document (may God increase its glory and nobility)
+		to him by the issuing of an exalted rescript, may God increase its efficacy and nobility,
+			<lb n="14"/>
+		ordering the Kadi Calāl al-Mulk Tāc al-Aḥkām to ... what the slave had established
+		to the qāḍī Jalāl al-Mulk Tāj al-ʾAḥkām (instructing him) to indicate what the slave has registered
+			<lb n="15"/>
+		before him - out of mercy
+		with him, in order that this be a means of restoring his right to him, out of compassion
+			<lb n="16"/>
+		and commiseration for him. To our lord, the peace of God be upon his name,
+		for him. To our Lord (God&#039;s greeting be upon his name)
+			<lb n="17"/>
+		belongs the exalted opinion in this matter, if God wills. Praise be to God alone.
+		belongs the exalted resolution in this, if God wills, he is mighty and glorious.
+			<lb n="18"/>
+		Praise be to God alone.
+			<lb n="19"/>
+		God&#039;s blessings and greetings be upon our Lord Muḥammad the prophet and his family.
+		The blessings and peace of God be upon our lord Muḥammad the prophet and his family.
+</ab></div>
+</body>
+</text>
+</TEI>

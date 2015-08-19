@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1942" xml:id="Grohmann_APEL_438" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 438</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_438</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169674</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  من بقيّة 
+<lb n="2"/>  <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="3"/>  <app type="BL"><lem resp="APD">بريك </lem><rdg resp="APD">تريك</rdg></app> ستّة د<supplied reason="lost" cert="high">و</supplied>انق 
+<lb n="4"/>  يزيد ستّة <app type="BL"><lem resp="APD">جسر </lem><rdg resp="APD">حشر</rdg></app> ثلاثة إلّا دانق 
+<lb n="5"/>  <app type="BL"><lem resp="APD">جسر </lem><rdg resp="APD">حشر</rdg></app> دانق ونصف 
+<lb n="6"/>  خصيف خمسة 
+<lb n="7"/>  <app type="BL"><lem resp="APD">رقيّة </lem><rdg resp="APD">رقيّة</rdg></app> ثلاثة 
+<lb n="8"/>  ‮فذلك ‪ϰδχ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>min baqiyyaẗi 
+ <lb n="2"/>****** 
+ <lb n="3"/>burayk:un tryk sittaẗu dawāniqa 
+ <lb n="4"/>yazīd:un sittaẗ:un ǧasr:un ḥašr:un ṯalāṯaẗ:un ʾillā dāniq 
+ <lb n="5"/>ǧasr:un ḥašr:un dāniq:un wa niṣf:un 
+ <lb n="6"/>ḫuṣayfu ḫamsaẗ:un 
+ <lb n="7"/>raqabaẗu ruqayyaẗu ṯalāṯaẗ:un 
+ <lb n="8"/>fa ḏālika ‪24 1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...]3.
+			<lb n="3"/>
+		Buraik six dâniqs;
+			<lb n="4"/>
+		Yazid six (dirhams); Ǧasr three less one dâniq;
+			<lb n="5"/>
+		Ǧasr one dâniq and a half.
+			<lb n="6"/>
+		Ḫuṣaif five (dirhams)
+			<lb n="7"/>
+		Raqaba three (dirhams)
+			<lb n="8"/>
+		That makes 24 1/2.
+</ab></div>
+</body>
+</text>
+</TEI>

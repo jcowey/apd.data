@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1661" xml:id="Grohmann_APEL_191" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 191</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_191</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169412</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">ديـ</supplied>ـنر 
+<lb n="2"/>  ‮ ـ<supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمـ</supplied>ـن <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم ʹ‪ασ‬ 
+<lb n="3"/>  <supplied reason="lost" cert="high">براه</supplied> <supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">الحسـ</supplied>ـين من دينر 
+<lb n="4"/>  <supplied reason="lost" cert="high">واحد</supplied> <supplied reason="lost" cert="high">وأربـ</supplied>ـعة قرا<supplied reason="omitted" cert="high">ر</supplied>يط أوصلها 
+<lb n="5"/>  <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> عن خراج ما زرع 
+<lb n="6"/>  <supplied reason="lost" cert="high">على</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـك لخراج سنة 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وماتـ</supplied>ـين وكتب محمّد 
+<lb n="8"/>  <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بخطّه</supplied> شهد اللّه 
+<lb n="9"/>  <supplied reason="lost" cert="high">وملائكته</supplied> <supplied reason="lost" cert="high">وكفا</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـاللّه شهيدا 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<unclear reason="undefined" cert="high">ـر</unclear> لخراج سنة 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>ماتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dīnār 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 1 1/6 
+ <lb n="3"/>barāʾaẗ:un li *** bni ăl ḥusayni min dīnār:in 
+ <lb n="4"/>wāḥid:in wa ʾarbaʿaẗi qarārīṭa ʾawṣala hā 
+ <lb n="5"/>ʾilà *** bni *** ʿan ḫarāǧi mā zaraʿa 
+ <lb n="6"/>ʿalà *** bni ***k li ḫarāǧi sanaẗi 
+ <lb n="7"/>*** wa *** wa mitayni wa kataba muḥammadu 
+ <lb n="8"/>bnu *** bi ḫaṭṭi hi šahida ăl lāhu 
+ <lb n="9"/>wa malāʾikatu hu wa kafā bi ăl lāhi šahīd:an 
+ <lb n="10"/>*** ***r li ḫarāǧi sanaẗi 
+ <lb n="11"/>*** wa mitayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Dînâr
+			<lb n="2"/>
+		[In the name of God, the Compassiona]te, [the] Merciful. 1 1/6
+			<lb n="3"/>
+		[Discharge for So and So, son of al-Ḥus]ain for one dî-
+			<lb n="4"/>
+		[nâr and fou]r carats, which he had transmitted
+			<lb n="5"/>
+		[to So and So, son of So and So] on account of the land-tax for what he has sown
+			<lb n="6"/>
+		[on behalf of So and So, son of ....]k for the impost of the year
+			<lb n="7"/>
+		[so and so and two hundr]ed. And Muḥammad,
+			<lb n="8"/>
+		[son of So and So] has written (it) in his (own) handwriting. God [and His]
+			<lb n="9"/>
+		[angels] know it and God [suffices] as witness.
+			<lb n="10"/>
+		[...] ... for the impost of the year
+			<lb n="11"/>
+		[... and] two hundred.
+</ab></div>
+</body>
+</text>
+</TEI>

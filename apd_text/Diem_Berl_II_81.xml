@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1611" xml:id="Diem_Berl_II_81" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 81</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_81</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169367</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  وصلت رقعتك يا سيّدتي والـ<supplied reason="lost" cert="high">ـعـ</supplied>ـزيزة 
+<lb n="3"/>  علي أطال اللّه بقاك وأدام عزّك 
+<lb n="4"/>  وعلوّك وكبت عدوّك إنّه متولّي 
+<lb n="5"/>  لك إن شا اللّه فأمّا ما ذكرتي يا أختي 
+<lb n="6"/>  من أمر الوحشة فعندي أكثر من ذلك 
+<lb n="7"/>  وما قلت قط أنّي أصبر عنك ساعة 
+<lb n="8"/>  واحدة وعرّفيني يا أختي كيف طيّبت 
+<lb n="9"/>  نفسك مع السّكّان الّذي سكنو 
+<lb n="10"/>  معك قرأت عليك أفضل السّلم 
+<lb n="11"/>  وعلي بنتي كريمة أجل السّلم وعلي 
+<lb n="12"/>  ست السّلم وقولي لها لا إله 
+<lb n="13"/>  إلّا اللّه يا ستّي نسيتي القهرمانة 
+<lb n="14"/>  وتقولي للسّت يا ستّي ممّا أعلمك 
+<lb n="15"/>  أن أم أبو القاسم تأكل عليكم الحديد 
+<lb n="16"/>  ومعتبة عليكم في سبب المرة الّذ 
+<lb n="17"/>  ى تعرفيها أنقطع احبارها من 
+<lb n="18"/>  وانقطع أخباركم من عندها 
+<lb n="19"/>  الكم عنها وأنتي تدري يا ستّي أن هذا 
+<lb n="20"/>  الحد<supplied reason="lost" cert="high">يـ</supplied>ـث هو <supplied reason="lost" cert="high">فـ</supplied>ـضلها ولمّن قلت لها قلت 
+<lb n="21"/>  ألا<gap reason="illegible" extent="2" unit="character" /><del rend="erasure" status="unremarkable">ها</del><sic n="superfluous">ا</sic> تدري كيف الحديث فالخو<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="22"/>  هامّتك <supplied reason="lost" cert="high">أنـ</supplied>ـت مين أ<supplied reason="lost" cert="high">عـ</supplied>ـلم عدو ومن يوم 
+<lb n="23"/>  أن <supplied reason="lost" cert="high">كانت</supplied> تشكّت ما رأيتها غير مرّتين 
+<lb n="24"/>  على <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وبـ</supplied>ـنتها <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="25"/>  السّلم وعلـ<supplied reason="lost" cert="high">ـى</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="26"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>waṣalat ruqʿatu ki yā sayyidat ī wa ăl ʿazīzaẗu 
+ <lb n="3"/>ʿalay ya ʾaṭāla ăl lāhu baqāʾa ki wa ʾadāma ʿizza ki 
+ <lb n="4"/>wa ʿuluwwa ki wa kabata ʿaduwwa ki ʾinna hu mutawallī 
+ <lb n="5"/>ḏālika ʾin šāʾa ăl lāhu fa ʾammā mā ḏakartī yā ʾuḫt ī 
+ <lb n="6"/>min ʾamri ăl waḥšaẗi fa ʿind ī ʾakṯaru min ḏālika 
+ <lb n="7"/>wa mā qultu qaṭṭu ʾan nī ʾaṣburu ʿan ki sāʿaẗ:an 
+ <lb n="8"/>wāḥidaẗ:an wa ʿarrifī nī yā ʾuḫt ī kayfa ṭayyabti 
+ <lb n="9"/>nafsa ki maʿa ăs sukkāni ăllaḏī sakanū 
+ <lb n="10"/>maʿa ki qaraʾtu ʿalay ki ʾafḍala ăs salāmi 
+ <lb n="11"/>wa ʿalà bint ī karīmaẗa ʾaǧalla ăs salāmi wa ʿalà 
+ <lb n="12"/>sitt i ăs salāmu wa qawl ī la hā lā ʾilāha 
+ <lb n="13"/>ʾillā ăl lāhu yā sitt ī nasītī ăl qahramānaẗa 
+ <lb n="14"/>wa taqūlī li s sitti yā sitt ī mimmā ʾuʿlimu ki 
+ <lb n="15"/>ʾanna ʾumma ʾabū ăl qāsimi taʾkulu ʿalay kumu ăl ḥadīda 
+ <lb n="16"/>wa maʿtibaẗ:an ʿalay kum fī sababi ăl maraẗi ăllaḏī 
+ <lb n="17"/>taʿrifī hā ĭnqaṭaʿa ʾaḫbāru hā min ʿindi hā 
+ <lb n="18"/>wa ĭnqaṭaʿa ʾaḫbāru kum min ʿindi hā 
+ <lb n="19"/>wa suʾālu kum ʿan hā wa ʾantī tadrī yā sitt ī ʾanna hāḏā 
+ <lb n="20"/>ăl ḥadīṯu huwa faḍlu hā wa lammin qultu la hā qultu 
+ <lb n="21"/>ʾa lā tadrī kayfa ăl ḥadīṯu fa ăl ḫawnu 
+ <lb n="22"/>hāmmatu ki ʾanti mīn ʾaʿlamu ʿaduww:un wa min yawmi 
+ <lb n="23"/>ʾan kānat tašakkat mā raʾaytu hā ġayra marratayni 
+ <lb n="24"/>ʿalà *** wa binti hā ***** **** **** 
+ <lb n="25"/>ăs salāmu wa ʿalà **** *** 
+ <lb n="26"/>***** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Dein Brief ist angekommen, o Herrin und Teure
+			<lb n="3"/>
+		- Gott lasse Dich lange leben und möge Dich weiterhin mit Deinem Ansehen
+			<lb n="4"/>
+		und Deiner hohen Stellung beglücken und Deinen Feind unterdrücken; er ist dafür ja
+			<lb n="5"/>
+		zuständig, so Gott will. Was nun die von Dir, o Schwester, erwähnte
+			<lb n="6"/>
+		Angelegenheit der Sehnsucht (nach mir) betrifft, so gehen meine Empfindungen (Dir gegenüber) darüber noch hinaus!
+			<lb n="7"/>
+		Ich hatte ja immer gesagt, daß ich es keinen einzigen
+			<lb n="8"/>
+		Augenblick ohne Dich aushalten könne! Teile mir mit, o Schwester, wie Du Dich
+			<lb n="9"/>
+		mit den Leuten arrangiert hast, die zusammen mit Dir Wohnung genommen
+			<lb n="10"/>
+		haben! Ich grüße Dich vorzüglichst,
+			<lb n="11"/>
+		an meine Tochter Karīmah die besten Grüße und an
+			<lb n="12"/>
+		meine Herrin Grüße! Richte Ihr (von mir) aus - es gibt keinen Gott
+			<lb n="13"/>
+		außer Gott: &#034;O Herrin, Du hast wohl die Haushälterin vergessen&#034;,
+			<lb n="14"/>
+		und richte der Herrin ferner (von mir) aus: &#034;O Herrin, etwas, was ich Dir mitteilen möchte, ist,
+			<lb n="15"/>
+		daß die Mutter von Abū l-Qāsim über Euch böse redet (?)
+			<lb n="16"/>
+		und Euch tadelt wegen der Frau,
+			<lb n="17"/>
+		die Du kennst: Sie erhalte von ihr keine Nachricht mehr,
+			<lb n="18"/>
+		und sie erhalte (auch) von Euch keine Nachricht mehr, und Ihr erkundigtet
+			<lb n="19"/>
+		Euch nicht mehr nach ihr. Du weißt ja, o Herrin, daß diese Art
+			<lb n="20"/>
+		von Gerede sie auszeichnet. Als ich nun (hierauf) das Wort an sie richtete, sagte ich:
+			<lb n="21"/>
+		&#034;Weißt Du denn nicht, wie es mit (solchem) Gerede geht? Ist denn Treulosigkeit
+			<lb n="22"/>
+		Dein Ziel? Wer bist Du denn? Ich weiß (es): ein Feind.&#034; Seit dem Tage,
+			<lb n="23"/>
+		da sie sich beklagte, habe ich sie nur zweimal gesehen.&#034;
+			<lb n="24"/>
+		An [N. N. und] ihre Tochter [- - -]
+			<lb n="25"/>
+		Grüße, und an [N. N. Grüße]
+			<lb n="26"/>
+</ab></div>
+</body>
+</text>
+</TEI>

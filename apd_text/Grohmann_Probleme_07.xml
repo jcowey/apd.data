@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="736" xml:id="Grohmann_Probleme_07" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 07</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_07</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106817</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮الخراج الجوالي النّخل الصّدقات الأعشار 
+<lb n="2"/>  ‮‪// // μγιٰβٰ ρλ yσξηٰ yτπθϛκʹδʹ‬‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḫarāǧu ăl ǧawālī ăn naḫlu ăṣ ṣadaqātu ăl ʾaʿšāru 
+ <lb n="2"/>3389+1/2+1/24 3257+1/8 130 43+1/12 0 0 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Die Grundsteuer     die Kopfsteuern     die Dattelpalmsteuer     die Ṣadaqasteuern     die Zehentabgaben
+			<lb n="2"/>
+		3389 1/2+1/24 3257 1/8     130     43 1/12     0     0
+</ab></div>
+</body>
+</text>
+</TEI>

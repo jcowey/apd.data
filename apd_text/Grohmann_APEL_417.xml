@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1874" xml:id="Grohmann_APEL_417" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 417</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_417</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169611</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  تذكرة حساب أبي محمّد أكرمه اللّه 
+<lb n="recto 3"/>  خمسـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" extent="1" unit="character" />پپ وثلا<supplied reason="lost" cert="high">ثة</supplied> <gap reason="illegible" precision="low" extent="3"/>پرا 
+<lb n="recto 4"/>  وبلتـ<supplied reason="lost" cert="high">ـوس</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن جرجه الفسـ<supplied reason="lost" cert="high">ـ</supplied>ـطا<supplied reason="lost" cert="high">طيّ</supplied> 
+<lb n="recto 5"/>  <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="recto 6"/>  <gap reason="illegible" extent="10" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taḏkiraẗu ḥisābi ʾabī muḥammad:in ʾakrama hu ăl lāhu 
+ <lb n="3"/>ḫamsaẗ *BB wa ṯalāṯaẗ ***Brʾ 
+ <lb n="4"/>wa bilatūs bn ǧirǧaha ăl fusṭāṭiyy 
+ <lb n="5"/>ø 
+ <lb n="6"/>ø 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Memory note concerning the account of Abû Muḥammad - may God benefit him -
+			<lb n="3"/>
+		fiv[e ...]...... and thr[ee ...]......
+			<lb n="4"/>
+		and Pilato[s ib]n Ǧirǧe, originating from al-Fusṭâṭ.
+			<lb n="5"/>
+			<lb n="6"/>
+</ab></div>
+</body>
+</text>
+</TEI>

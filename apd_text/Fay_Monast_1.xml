@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1445" xml:id="Fay_Monast_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Fay.Monast. 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Fay_Monast_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169230</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">اشترت</supplied> <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung p. 124">توساقة </rdg><rdg resp="Thung p. 124">توسافة</rdg></app> ابنت بسنت بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> من مرقورة بن كيل اشترت منه <supplied reason="lost" cert="high">صفقة</supplied> <supplied reason="lost" cert="high">واحدة</supplied> 
+<lb n="4"/>  وعقد واحد الصّطح الّذي فوق <app type="BL"><lem resp="APD">عرفة </lem><rdg resp="cf. P.FahmiTaaqud 8 “LS”">غرفة</rdg></app> <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung p. 124">توساقة </rdg><rdg resp="Thung p. 124">توسافة</rdg></app> ابنت بسنت من المـ<supplied reason="lost" cert="high">ـنزل</supplied> 
+<lb n="5"/>  الّذي يشتمله وجنوبي منه حدود أربعة أحد حدود هذا الصّطح الّذي طباق 
+<lb n="6"/>  <supplied reason="lost" cert="high">منزل</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">توسانة</supplied> </lem><rdg resp="Thung p. 124">توساقة </rdg><rdg resp="Thung p. 124">توسافة</rdg></app> ابنت بسنت القبلي منزل ورثة بمون الصّيّاد وحدّه الشّرقي 
+<lb n="7"/>  <supplied reason="lost" cert="high">منزل</supplied> <supplied reason="lost" cert="high">مرقور</supplied>ة بن كيل وحدّه البحري منزل سنبة الصّيّاد وحدّه الــ<supplied reason="lost" cert="high">ـغربيّ</supplied> <supplied reason="lost" cert="high">منزل</supplied> 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">توسانة</supplied> </lem><rdg resp="Thung p. 124">توساقة </rdg><rdg resp="Thung p. 124">توسافة</rdg></app> <supplied reason="lost" cert="high">اشترت</supplied> <app type="BL"><lem resp="Thung p. 124">توسانة </lem><rdg resp="APD">توساقة </rdg><rdg resp="APD">توسافة</rdg></app> ابنت بسنت من مرقورة بن كيل هذا الصّطح 
+<lb n="9"/>  <supplied reason="lost" cert="high">بحدّه</supplied> وحدوده ونقضه وبنائه وجميع مرافقه كلّهـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> وكل حق هو له بدينارين مثقالين قد قبض مرقورة من <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> ابنت <supplied reason="lost" cert="high">بسنت</supplied> 
+<lb n="11"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الــ</supplied>ـثّمن تامّا وافيا وأبرأها من جميعه لقبضه ذلك منها إبراه قبض واستيفا وسلّم 
+<lb n="12"/>  لها مرقورة بن كيل هذا الصّطح وقبلته وأحازته وملكته تملّكـ<supplied reason="omitted" cert="high">ـا</supplied> قد تجر<supplied reason="lost" cert="high">ي</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">تشا</supplied> <supplied reason="lost" cert="high">و</supplied> 
+<lb n="13"/>  تحكّم فيه حكم أرباب الملك في أملاكهم وتفرّقا بعد عقدة هذا البيع <supplied reason="lost" cert="high">فرق</supplied> 
+<lb n="14"/>  تراض منهم وعلى ذلك عرف البيّاع ما باع والمشتري ما اشترى اشترت <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> 
+<lb n="15"/>  ابنت بسنت من مرقورة بن كيل هذا الصّطح المذكور الموصوف في هذا 
+<lb n="16"/>  <supplied reason="lost" cert="high">الـ</supplied>ـكتاب بجميع حدوده ومرافقه كلّها وكل حق هو له وفيه ومنه بهذا الثّمن الّذ<supplied reason="lost" cert="high">ي</supplied> 
+<lb n="17"/>  وصفه في صدر هذا الكتاب شهّد على إقرار مرقورة بن كيل بجميع ما في هذا الكتاب 
+<lb n="18"/>  شهودا يعرفونه <app type="BL"><lem resp="APD">نفسه </lem><rdg resp="Thung p. 51">بعينه</rdg></app> واسمه وأنّه على رضاه بهذا البيع بعد أن قرئ علـ<supplied reason="lost" cert="high">ـيه</supplied> 
+<lb n="19"/>  <supplied reason="lost" cert="high">جميع</supplied> ما في هذا الكتاب فأقر بفهمه ومعرفته بعد أن قرئ عليه بالعربيّة وترجم له 
+<lb n="20"/>  محمّد فأقر بفهمه ومعرفته ويضمن مرقورة بن كيل <app type="BL"><lem resp="APD">لتوسانة </lem><rdg resp="Thung">لتوساقة </rdg><rdg resp="Thung">لتوسافة</rdg></app> ابنت بسنت جميع 
+<lb n="21"/>  <supplied reason="lost" cert="high">الضّمانات</supplied> فما كان في هذا الشّرى من درك أو علقة أو تباعة أو خصومة فعهد ذلك 
+<lb n="22"/>  <supplied reason="lost" cert="high">وضمانه</supplied> ونفاذه وخلاصه والقيام به على مرقورة بن كيل ضمانا ثابتا لازما 
+<lb n="23"/>  <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">الضّـ</supplied>ـمانات وأوجبها وأوكدها وألزمها على سنّة المسلمين 
+<lb n="24"/>  <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">شر</supplied>وطه وعلى ذلك تعاملا وعلى ذلك تبايعا شهد على إقرارهم في صحّة من 
+<lb n="25"/>  <supplied reason="lost" cert="high">عقو</supplied>لهم وأبدانهم وجواز من أمورهم طائعين غير مكرهين بلا علّة 
+<lb n="26"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">مرض</supplied> ولا غيره وذلك في شهر جمادى الأوّل من سنة خمس وثلثين 
+<lb n="27"/>  <supplied reason="lost" cert="high">وثلثمائة</supplied> شهد على ذلك شهد بولس بن إسمعيل على جميع ما في هذا 
+<lb n="28"/>  <supplied reason="lost" cert="high">الكتاب</supplied> وكتب شهادته بخطّه والحمد للّه رب العالمين 
+<lb n="29"/>  شهد إسمعيل بن صبيح النّويري على إقرار مرقورة بن كيل بجميع ما في هذا الكتاب وذلك 
+<lb n="30"/>  في شهر جمادى الآخر من سنة خمس وثلثين وثلثمائة 
+<lb n="31"/>  <supplied reason="lost" cert="high">شهد</supplied> حسين بن حسّان على إقرار مرقورة بن كيل بما في هذا الكتاب 
+<lb n="32"/>  <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> بخطّه وذلك في شهر جمادى الآخر من سنة خمس وثلثين وثلثمائة 
+<lb n="upper left corner 1"/>  صح هذا الوثيقة بحضرة محمّد <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="upper left corner 2"/>  وذلك في شهر جمادى الآخـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">خمس</supplied> <supplied reason="lost" cert="high">وثلثين</supplied> 
+<lb n="upper left corner 3"/>  وثلثمائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarat tūsānaẗu tūsāfaẗu tūsāqaẗu ĭbnatu bisanta bni *** 
+ <lb n="3"/>*** min marqūraẗa bni kayl:in ĭštarat min hu ṣafqaẗ:an wāḥidaẗ:an 
+ <lb n="4"/>wa ʿaqd wāḥid ăṣ ṣaṭḥa ăllaḏī fawqa ʿarfaẗi ġurfaẗi ʿurfaẗi tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta mina ăl manzili 
+ <lb n="5"/>ăllaḏī yaštamilu hu wa ǧanūbiyy:un min hu ḥudūd:un ʾarbaʿaẗ:un ʾaḥadu ḥudūdi hāḏā ăṣ ṣaṭḥi ăllaḏī ṭibāqu 
+ <lb n="6"/>manzili tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta ăl qibliyyu manzilu waraṯaẗi bamūna ăṣ ṣayyādi wa ḥaddu hu ăš šarqiyyu 
+ <lb n="7"/>manzilu marqūraẗa bni kayl:in wa ḥaddu hu ăl baḥriyyu manzilu sanbaẗa ăṣ ṣayyādi wa ḥaddu hu ăl ġarbiyyu manzilu 
+ <lb n="8"/>tūsānaẗa tūsāfaẗa tūsāqaẗa ĭštarat tūsānaẗu tūsāfaẗu tūsāqaẗu ĭbnatu bisanta min marqūraẗa bni kayl:in hāḏā ăṣ ṣaṭḥa 
+ <lb n="9"/>bi ḥaddi hi wa ḥudūdi hi wa naqḍi hi wa bināʾi hi wa ǧamīʿi marāfiqi hi kulla hā *** 
+ <lb n="10"/>*** wa kulla ḥaqq:in huwa la hu bi dīnārayni miṯqālayni qad qabaḍa marqūraẗu min tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta 
+ <lb n="11"/>hāḏā ăṯ ṯamana tāmm:an wāfiy:an wa ʾabraʾa hā min ǧamīʿi hi li qabḍi hi ḏālika min hā ʾibrāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa sallama 
+ <lb n="12"/>la hā marqūraẗu bnu kayl:in hāḏā ăṣ ṣaṭḥa wa qabilat hu wa ʾaḥāzat hu wa malakat hu tamalluk:an qad tuǧrī fī hi mā tašāʾu wa 
+ <lb n="13"/>taḥakkama fī hi ḥukma ʾarbābi ăl milki fī ʾamlāki him wa tafarraqā baʿda ʿuqdaẗi hāḏā ăl bayʿi farqa 
+ <lb n="14"/>tarāḍ:in min hum wa ʿalà ḏālika ʿarafa ăl bayyāʿu mā bāʿa wa ăl muštarī mā ĭštarà ĭštarat tūsānaẗu tūsāfaẗu tūsāqaẗu 
+ <lb n="15"/>ĭbnatu bisanta min marqūraẗa bni kayl:in hāḏā ăṣ ṣaṭḥa ăl maḏkūra ăl mawṣūfa fī hāḏā 
+ <lb n="16"/>ăl kitābi bi ǧamīʿi ḥudūdi hi wa marāfiqi hi kulla hā wa kulla ḥaqq:in huwa la hu wa fī hi wa min hu bi hāḏā ăṯ ṯamani ăllaḏī 
+ <lb n="17"/>waṣfu hu fī ṣadri hāḏā ăl kitābi šuhhida ʿalà ʾiqrāri marqūraẗa bni kayl:in bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="18"/>šuhūd:an yaʿrifūna hu نَفْسَهُ bi nafsa hu wa ĭsma hu wa ʾanna hu ʿalà riḍā hu bi hāḏā ăl bayʿi baʿda ʾan quriʾa ʿalay hi 
+ <lb n="19"/>ǧamīʿu mā fī hāḏā ăl kitābi fa ʾaqarra bi fahmi hi wa maʿrifati hi baʿda ʾan quriʾa ʿalay hi bi ăl ʿarabiyyaẗi wa tarǧama la hu 
+ <lb n="20"/>muḥammad:un fa ʾaqarra bi fahmi hi wa maʿrifati hi wa yaḍmanu marqūraẗu bnu kayl:in li tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta ǧamīʿa 
+ <lb n="21"/>ăḍ ḍamānāti fa mā kāna fī hāḏā ăš širà min darak:in ʾaw ʿulqaẗ:in ʾaw tibāʿaẗ:in ʾaw ḫuṣūmaẗ:in fa ʿahdu ḏālika 
+ <lb n="22"/>wa ḍamānu hu wa nafāḏu hu wa ḫalāṣu hu wa ăl qiyāmu bi hi ʿalà marqūraẗa bni kayl:in ḍamān:an ṯābit:an lāzim:an 
+ <lb n="23"/>bi ǧamīʿi ăḍ ḍamānāti wa ʾawǧabu hā wa ʾawkadu hā wa ʾalzamu hā ʿalà sunnaẗi ăl muslimīna 
+ <lb n="24"/>wa ʿalà šurūṭi hi wa ʿalà ḏālika taʿāmalā wa ʿalà ḏālika tabāyaʿā šuhida ʿalà ʾiqrāri him fī ṣiḥḥaẗ:in min 
+ <lb n="25"/>ʿuqūli him wa ʾabdāni him wa ǧawāz:in min ʾumūri him ṭāʾiʿayni ġayra mukrahayni bi lā ʿillaẗ:in 
+ <lb n="26"/>min maraḍ:in wa lā ġayri hi wa ḏālika fī šahri ǧumādà ăl ʾawwali min sanaẗi ḫams:in wa ṯalāṯīna 
+ <lb n="27"/>wa ṯalāṯi miʾaẗ:in šuhida ʿalà ḏālika šahida būlusu bnu ʾismāʿīla ʿalà ǧamīʿi mā fī hāḏā 
+ <lb n="28"/>ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="29"/>šahida ʾismāʿīlu bnu ṣabīḥ:ini ăn nuwayriyyu ʿalà ʾiqrāri marqūraẗa bni kayl:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika 
+ <lb n="30"/>fī šahri ǧumādà ăl ʾāḫiri min sanaẗi ḫams:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="31"/>šahida ḥusaynu bnu ḥassān:in ʿalà ʾiqrāri marqūraẗa bni kayl:in bi mā fī hāḏā ăl kitābi 
+ <lb n="32"/>wa kataba šahādata hu bi ḫaṭṭi hi wa ḏālika fī šahri ǧumādà ăl ʾāḫiri min sanaẗi ḫams:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="33"/>ṣaḥḥa hāḏā ăl waṯīqaẗu bi ḥaḍraẗi muḥammadi bni ʿabdi ăl lāhi 
+ <lb n="34"/>wa ḏālika fī šahri ǧumādà ăl ʾāḫiri min sanaẗi ḫams:in wa ṯalāṯīna 
+ <lb n="35"/>wa ṯalāṯi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the merciful, the compassionate.
+			<lb n="2"/>
+		This is what Tūsānah, daughter of Bisanti, son of ? bought ....
+			<lb n="3"/>
+		.... from Marḳūrah, son of Kail. She bought from him by one agreement
+			<lb n="4"/>
+		and one contract the level land (terrace?) that is above the fertile tract of Tūsānah, daughter of Bisanti, appertaining to the house
+		... the terrace that is above the chamber of Tūsānah...
+			<lb n="5"/>
+		that comprises it and south of it. (It has) four boundaries: one - the southern - of the boundaries of this level land that adjoins
+		... the boundaries of this terrace that is on top of
+			<lb n="6"/>
+		the dwelling place of Tūsānah...
+		the house of Tūsānah, daughter of Bisanti, is the house of the heirs of Pamon, the fisherman; and its eastern boundary
+			<lb n="7"/>
+		(is) the house of Marḳūrah, son of Kail; and its northern boundary (is) the house of Sanbah, the fisherman; and its western boundary (is) the house
+			<lb n="8"/>
+		... bought... this terrace
+		of Tūsānah. Tūsānah, daughter of Bisanti, bought from Marḳūrah, son of Kail, this level land
+			<lb n="9"/>
+		within all its boundaries, with its timber beams and its structures, and the sum total of its accessories in their entirety ....
+			<lb n="10"/>
+		.... and every right pertaining to it, for two dinars, full weight. Marḳūrah, son of Kail, received from Tūsānah, daughter of Bisanti
+			<lb n="11"/>
+		this entire sum in full payment, end receipted her for the whole, as having received that (sum) from her, with a receipt for payment received inf full; and Marḳūrah,
+			<lb n="12"/>
+		... conveyed this terrace to her...
+		son of Kail, conveyed this level land to her, and she accepted it, and took possession of it, and took over actual ownership to do with it as she pleases and
+			<lb n="13"/>
+		to control it as proprietors control their property. And they separated after contracting this sale
+			<lb n="14"/>
+		with mutual satisfaction. And on these terms the seller knows what he sold, and the buyer what he bought. Tūsānah,
+			<lb n="15"/>
+		daughter of Bisanti, bought from Marḳūrah, son of Kail, this level land, mentioned and specified in this
+		... son of Kail, this terrace, mentioned...
+			<lb n="16"/>
+		deed, within all its boundaries, and with all its accessories and with every right pertaining to it and which is in it and of it, for this sum of which
+			<lb n="17"/>
+		the specification is in the first part of this deed. The acknowledgement of Marḳūrah, son of Kail, of all that is in this deed is testified to by
+			<lb n="18"/>
+		witnesses who know him in person and by name and that he is satisfied with this sale after the
+			<lb n="19"/>
+		entire content of this deed was read to him. He acknowledged his comprehension of it and his cognizance of it after it had been read to him in Arabic and translated for him (by)
+			<lb n="20"/>
+		Muḥammad. He acknowledged his comprehension of it and his cognizance of it, and Marḳūrah, son of Kail, guarantees to Tūsānah, daughter of Bisanti,
+			<lb n="21"/>
+		all the guaranties. And whatever there may be in this purchase by way of damages, or attachments, or claims, or contentions, the security for that
+			<lb n="22"/>
+		and its obligation and its effective refutation and its settlement and its management rest on Marḳūrah, son of Kail, as a valid and binding
+			<lb n="23"/>
+		obligation for all pledges - the most obligatory, the strongest, and the most binding - according to the Muslim law of sale
+			<lb n="24"/>
+		and according to its stipulation. And on these terms these two concluded their sale. Witness is given to their acknowledgement, made in sound
+			<lb n="25"/>
+		mind and body, in control of their affairs, assenting unconstrained without any defect
+			<lb n="26"/>
+		of disease or anything else. And that in the month of Jumādā I of the year five and thirty
+			<lb n="27"/>
+		and three hundred. Witness is given to these (facts): Būlus, son of Ismaʿīl, gave witness to all that is in this
+			<lb n="28"/>
+		deed and wrote his testimony with his own hand. And praise be to Allah, the Lord of the Worlds.
+			<lb n="29"/>
+		Ismaʿīl, son of Ṣabīḥ al-Nuwairī gives witness to the acknowledgement of Marḳūrah, son of Kail, of all that is in this deed, and that
+			<lb n="30"/>
+		in the month of Jumādā II of the year five and thirty and three hundred.
+			<lb n="31"/>
+		Ḥussain, son of Ḥassan, witnessed the acknowledgement of Marḳūrah, son of Kail, of what is in this deed
+			<lb n="32"/>
+		and wrote his testimony with his own hand and that in the month of Jumādā II of the year five and thirty and three hundred.
+			<lb n="33"/>
+		This contract (written obligation?) was certified in the presence of Muḥammad, son of ʿAbd-Allāh,
+			<lb n="34"/>
+		and that in the month of Jumādā II of the year five and thirty
+			<lb n="35"/>
+		and three hundred.
+</ab></div>
+</body>
+</text>
+</TEI>

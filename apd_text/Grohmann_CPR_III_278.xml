@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2636" xml:id="Grohmann_CPR_III_278" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusprotokolle p. 41 (= CPR III 1 278)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_278</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">قل</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أحد</supplied> اللّه الصّمد 
+ <lb n="3"/>  <supplied reason="lost" cert="high">لم</supplied> <supplied reason="lost" cert="high">يلد</supplied> <supplied reason="lost" cert="high">ولم</supplied> <supplied reason="lost" cert="high">يولد</supplied> ولم يكن له كفوا أحد 
+ <lb n="4"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> وحده لا شريك له 
+ <lb n="5"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">للّه</supplied> </lem><rdg resp="Grohmann">له</rdg></app> <supplied reason="lost" cert="high">الملك</supplied> ولـه الحمد 
+ <lb n="6"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">رسول</supplied> <supplied reason="lost" cert="high">اللّه</supplied> أرسله بالهدى ودين الحق 
+ <lb n="7"/>  <supplied reason="lost" cert="high">ليظهره</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">الدّين</supplied> <supplied reason="lost" cert="high">كلّه</supplied> <supplied reason="lost" cert="high">ولو</supplied> <supplied reason="lost" cert="high">كره</supplied> <supplied reason="lost" cert="high">المشركون</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qul huwa ăl lāhu ʾaḥad:un ăl lāhu ăṣ ṣamadu 
+ <lb n="3"/>lam yalid wa lam yūlad wa lam yakun la hu kufuʾ:an ʾaḥad:un 
+ <lb n="4"/>lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="5"/>li la ăl hu lāhi ø ăl mulku wa la hu ăl ḥamdu 
+ <lb n="6"/>muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="7"/>li yuẓhira hu ʿalà ăd dīni kulli hi wa law kariha ăl mušrikūna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes des Barmherzigen, des Erbarmenden!]
+		 <lb n="2"/>
+ 	  [Sprich: Er ist Gott der Eine] Gott der Ewige.
+		 <lb n="3"/>
+ 	  [Er zeugte nicht und ward nicht gezeugt] und niemand ist ihm gleich.
+		 <lb n="4"/>
+ 	  [Es gibt keinen Gott außer Gott] dem Einen, er hat keinen Genossen.
+		 <lb n="5"/>
+ 	  [Gottes ist die Herrschaft] und ihm sei der Preis!
+		 <lb n="6"/>
+ 	  [Muhammad ist der Gesandte Gottes,] der ihn gesendet hat mit der Leitung und der wahren Religion,
+		 <lb n="7"/>
+ 	  [um sie über alle Religionen zu erheben, wenn auch die Göttergläubigen widerstreben sollten].
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2409" xml:id="Diem_Steuerquittungen_090" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_090</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  لخراج سنة ÷÷÷ 
+<lb n="3"/>  دينار 
+<lb n="4"/>  ÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***** *** 
+ <lb n="2"/>li ḫarāǧi sanaẗi 315 
+ <lb n="3"/>dīnār:un 
+ <lb n="4"/>1 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Für die Steuer des Jahres 315
+			<lb n="3"/>
+		Dinar
+			<lb n="4"/>
+		1
+</ab></div>
+</body>
+</text>
+</TEI>

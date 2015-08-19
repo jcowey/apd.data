@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1417" xml:id="Grohmann_Berlin_09" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 09</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_09</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169205</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـمن الرّحيم 
+ <lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">أصدق</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">زينب</supplied> <supplied reason="lost" cert="high">ابنت</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>لـقصّاب السّاكن <supplied reason="lost" cert="high">بـ</supplied>ـمدينة أشمون <supplied reason="lost" cert="high">مـ</supplied>ـتى خطبها إلى 
+ <lb n="3"/>  <supplied reason="lost" cert="high">نفسها</supplied> <supplied reason="lost" cert="high">وهيّ</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied><unclear reason="undefined" cert="high">ـالغ</unclear> في حجره وولايته وأصدقها محمّد بن أحمد أربعة دنانير عينا ذهبا مثاقيل طرا 
+ <lb n="4"/>  <supplied reason="lost" cert="high">دينارين</supplied> <supplied reason="lost" cert="high">آجلا</supplied> <supplied reason="lost" cert="high">خـ</supplied>ـالصا عليه متى شاأت أخذته بهما والدّينارين تتمّة صداقها موحر لها عليه إلى انقضا 
+ <lb n="5"/>  <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">سنين</supplied> <supplied reason="lost" cert="high">أوّلهنّ</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">رمضا</supplied>ن من سنة سبع وثمانين ومائتين وانقضاوهن شـ<supplied reason="lost" cert="high">ـعبـ</supplied>ـان من سنة سبع وتسعين ومائتين وعليه أن 
+ <lb n="6"/>  <supplied reason="lost" cert="high">يتّقي</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">فيها</supplied> <supplied reason="lost" cert="high">ويحسّن</supplied> <supplied reason="lost" cert="high">صحبتها</supplied> وعشرتها بالرّافة والرّحمة والإحسا<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">پحعل</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">پپار</supplied>ك وتعالى وسـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـن 
+ <lb n="7"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">صلّى</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">وسلّم</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـلى ما أمر اللّه به من <del rend="erasure" status="unremarkable">لامپـ</del><gap reason="illegible" extent="2" unit="character" /> الامساك پالـمعروف والبسرپح پاحسان وولى عڤده پكاح 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">تزويخـ</supplied><unclear reason="undefined" cert="high">ـها</unclear> من محمّد بن أحمد بـما ترك لها من الصّداق العاجل والآجل المسمّا في هذا الكتاب 
+ <lb n="9"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الأب</supplied> الولي بإ<supplied reason="lost" cert="high">نـ</supplied>ـفاذه هذا النكاح على ما سمّي فيه وفسّر وعلى إقرار محمّد بن أحمد الزّوج بقبوله 
+ <lb n="10"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">النّكاح</supplied> <gap reason="illegible" precision="low" extent="3"/> في صحّة عـ<supplied reason="lost" cert="high">ـقو</supplied>لهـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا وأبدانهما وجـ<supplied reason="lost" cert="high">ـو</supplied>ا<supplied reason="lost" cert="high">ز</supplied> أمـ<supplied reason="lost" cert="high">ـو</supplied>رهما وذلك في شعبان من سنة سبع وثمانين ومائتـ<supplied reason="lost" cert="high">ـين</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa muḥammadu bnu ʾaḥmada **** zaynaba ĭbnata *** bni *** ăl qaṣṣābi ăs sākini bi madīnaẗi ʾušmūna matà ḫaṭaba hā ʾilà 
+ <lb n="3"/>nafsi hā wa hiya *** bāliġ:un fī ḥaǧri hi wa walāyati hi wa ʾaṣdaqa hā muḥammadu bnu ʾaḥmada ʾarbaʿaẗa danānīra ʿayn:an ḏahab:an maṯāqīla ṭirāʾ:in 
+ <lb n="4"/>dīnārayni ʾāǧil:an ḫāliṣ:an ʿalay hi matà šāʾat ʾaḫaḏat hu bi himā wa ăd dīnārayni tatimmaẗa ṣadāqi hā muʾaḫḫar la hā ʿalay hi ʾilà ĭnqiḍāʾi 
+ <lb n="5"/>ʿašri sinīna ʾawwalu hunna šahru ramaḍāna min sanaẗi sabʿ:in wa ṯamānīna wa miʾatayni wa ĭnqiḍāʾu hunna šaʿbānu min sanaẗi sabʿ:in wa tisʿīna wa miʾatayni wa ʿalay hi ʾan 
+ <lb n="6"/>yattaqiya ăl lāha fī hā wa yuḥassina ṣuḥbata hā wa ʿišrata hā bi ăr raʾfaẗi wa ăr raḥmaẗi wa ăl ʾiḥsāni *** Bḥʿl ăl lāh tabāraka wa taʿālà wa sunan 
+ <lb n="7"/>muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama ʿalà mā ʾamara ăl lāhu bi hi min ăl ʾimsāki bi ăl maʿrūfi wa ăt tasrīḥi bi ʾiḥsān:in wa waliyyu ʿuqdaẗi nikāḥi zaynaba 
+ <lb n="8"/>*** tazwīǧ hā min muḥammadi bni ʾaḥmada bi mā taraka la hā min ăṣ ṣadāqi ăl ʿāǧili wa ăl ʾāǧili ăl musammā fī hāḏā ăl kitābi 
+ <lb n="9"/>šahida ʿalà ʾiqrāri *** bni *** ăl ʾabi ăl waliyyi bi ʾinfāḏi hi hāḏā ăn nikāḥa ʿalà mā summiya fī hi wa fussira wa ʿalà ʾiqrāri muḥammadi bni ʾaḥmada ăz zawǧi bi qubūli hi 
+ <lb n="10"/>hāḏā ăn nikāḥa *** fī ṣiḥḥaẗi ʿuqūli himā wa ʾabdāni himā wa ǧawāzi ʾumūri himā wa ḏālika fī šaʿbāna min sanaẗi sabʿ:in wa ṯamānīna wa miʾatayni 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes des Barmher]zigen, Gütigen!
+		 <lb n="2"/>
+ 	  [Dies ist, was als Brautgabe bestimmt hat Muḥammad b. Aḥmad für (seine Frau ?) Zainab, Tochter des N.N., Sohnes des N.N.] des Metzgers, wohnhaft in der Stadt Ašmūn, als er bei ihr selbst um ihre Hand anhielt,
+ 	  [Dies ist, was als Brautgabe bestimmt hat Muḥammad b. Aḥmad für Zainab, Tochter des N.N., Sohnes des N.N.] des Metzgers, wohnhaft in der Stadt Ašmūn, als er bei ihr selbst um ihre Hand anhielt,
+		 <lb n="3"/>
+ 	  [während sie ............... und un]ter seiner Obhut und Muntgewalt stand. Muḥammad b. Aḥmad hat als Brautgabe für sie bestimmt vier Dīnāre Goldgeld nach dem Miṯqālfuße, neugeprägte
+		 <lb n="4"/>
+ 	  [und zwar zwei Dīnāre als Barzahlung vol]lständig zu seinen Lasten, die sie von ihm nehmen kann, wenn sie will, und zwei Dīnāre, als Ergänzung ihrer Brautgabe ausständig zu ihren Gunsten und seinen Lasten bis zum Ablauf
+		 <lb n="5"/>
+ 	  [von 10 Jahren beginnend mit dem Monate Ramaḍā]n des Jahres zweihundert und siebenundachtzig und endend mit dem Šaʿbānd des Jahres zweihundertundsiebenundneunzig. Und ihm obliegt es,
+ 	  [von 10 Jahren beginnend mit dem Monate Ramaḍā]n des Jahres zweihundertundsiebenundachtzig und endend mit dem Šaʿbānd des Jahres zweihundertundsiebenundneunzig. Und ihm obliegt es,
+		 <lb n="6"/>
+ 	  [Gott ihr gegenüber zu fürchten und schön zu gestalten den Umgang] und Verkehr mir ihr in Mitleid, Barmherzigkeit und Wohl[tun .......... Gott, geseg]net und erhaben ist er, und die Handlungsweise
+ 	  [Gott ihr gegenüber zu fürchten und schön zu gestalten den Umgang] und Verkehr mir ihr in Mitleid, Barmherzigkeit und Wohl[tun .......... Gott, geseg]net und erhaben ist er, und die Handlungsweise (Sunan)
+		 <lb n="7"/>
+ 	  [Muḥammads, Gott segne ihn und spende ihm Heil, ge]mäss dem, was Gott angeordnet hat, sie in schicklicher Weise zu behalten oder in gefälliger zu entlassen. Und es hat den Abschluß des Ehevertrags der Zainab als Brautanwalt übernommen
+ 	  [Muḥammads, Gott segne ihn und spende ihm Heil, ge]mäß dem was Gott angeordnet hat, sie in schicklicher Weise zu behalten oder in gefälliger zu entlassen. Und es hat den Abschluß des Ehevertrags der Zainab als Brautanwalt übernommen
+		 <lb n="8"/>
+ 	  [               ] .. von Seiten des Muḥammad b. Aḥmad mit der ihr überlassenen bar bezahlten und gestundeten in dieser Urkunde genannten Brautgabe.
+		 <lb n="9"/>
+ 	  [Es haben das Anerkenntnis des N.N. Sohnes des N.N., des Vaters] und Muntwalts bezüglich seiner Wirksamkeitserklärung dieser Eheschließung, gemäß dem, was darin genannt und auseinander gesetzt ist, und das Anerkenntnis des Gatten Muḥammad b. Aḥmad bezüglich seiner Annahme
+		 <lb n="10"/>
+ 	  [dieser Ehe bezeugt ........] im Zustande (voller) Gesundheit ihres Geistes und Körpers und ihrer Geschäftsfähigkeit und dies im Šaʿbān des Jahres zweihundertsiebenundachtzig (folgende Zeugen):
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1714" xml:id="Prag_500" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 50</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_500</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169461</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  قد أتاني خروف وهو عندي في المرا<supplied reason="lost" cert="high">عي</supplied> 
+<lb n="2"/>  جا واحد إن شا اللّه 
+<lb n="3"/>  صلّى اللّه على محمّد النّبي وآله وسلّـ<supplied reason="lost" cert="high">ـم</supplied> تـ<supplied reason="lost" cert="high">ـسليما</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>qad ʾatā nī ḫarūf:un wa huwa ʿind ī fī ăl marāʿī 
+ <lb n="2"/>ǧāʾa wāḥid wāḥid:un ʾin šāʾa ăl lāhu 
+ <lb n="3"/>ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama taslīm:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Es kam mir gerade ein Widder (zugelaufen), der sich bei mir auf der Wei[de] befindet.
+			<lb n="2"/>
+		Jemand möge kommen, so Gott will!
+		(und zwar) kam er/es allein
+			<lb n="3"/>
+		Gott segne den Propheten Muḥammad und seine Familie und sp[ende ihm Heil!]
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1927" xml:id="Grohmann_APEL_428" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 428</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_428</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169664</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يوم الخميس لاثني عشرة ليلة خلت من شهر رمضان كان الدّينر بنقص قيراط فصرفه بثلـ<supplied reason="lost" cert="high">ـثة</supplied> 
+<lb n="3"/>  وعشرين قـ<supplied reason="lost" cert="high">ـيراطـ</supplied>ـا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  في ثمن لحم أربعة درا<supplied reason="lost" cert="high">هم</supplied> <app type="BL"><lem resp="APD">ا<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر </lem><rdg resp="APD">برسيم</rdg></app> وقرط درهم حطب نصف درهم 
+<lb n="5"/>  إبرام ثلثي درهـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">شعـ</supplied>ـير <gap reason="illegible" precision="low" extent="3"/> درهم وثلث ڤپپن دان ثلثة دراهم وـدانق 
+<lb n="6"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الهراوپد</unclear> </lem><rdg resp="APD">الهواوين</rdg></app> ربع درهم ز<supplied reason="lost" cert="high">يـ</supplied>ـت ثلث درهم شعير درهم ونصف 
+<lb n="7"/>  جبن للغلمان ثلثي درهم 
+<lb n="8"/>  فذلك ثلثة عشر درهما وربع ودانق 
+<lb n="9"/>  ويوم الجمعة لثلث عشرة ليلة خلت من شهر رمضان 
+<lb n="10"/>  في إصلاح البدور درهم ونصف في مسامير ووتد نصف درهم 
+<lb n="11"/>  و<unclear reason="undefined" cert="high">النّعل</unclear> 
+<lb n="12"/>  في حزام درهم إلى النّجّار ربع درهم 
+<lb n="13"/>  راوية ما ربع درهم ولحم ثلثة دراهم ونصف 
+<lb n="14"/>  حطب نصف درهم وفول درهم 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> پحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه نصف <supplied reason="lost" cert="high">درهـ</supplied>ـم خل ثلث درهم 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">الجنيبة </lem><rdg resp="APD">الجثيثة </rdg><rdg resp="APD">الخبيثة </rdg><rdg resp="APD">الحبيبة</rdg></app> درهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yawmu ăl ḫamīsi li ĭṯnay ʿašraẗa laylaẗ:an ḫalat min šahri ramaḍāna kāna ăd dīnāru bi naqṣi qīrāṭ:in fa ṣarfu hu bi ṯalāṯaẗ:in 
+ <lb n="3"/>wa ʿišrīna qīrāṭ:an *** 
+ <lb n="4"/>fī ṯamani laḥm:in ʾarbaʿaẗu darāhima ʾ***r barsīm:un wa qurṭ:un dirham:un ḥaṭab:un niṣfu dirham:in 
+ <lb n="5"/>ʾibrām:un ṯulṯay dirham:in šaʿīr:un *** dirham:un wa ṯulṯ:un fBBn dʾn ṯalāṯaẗu darāhima wa dāniq:un 
+ <lb n="6"/>ăl hrʾwBd hawāwīnu rubʿu dirham:in zayt:un ṯulṯu dirham:in šaʿīr:un dirham:un wa niṣf:un 
+ <lb n="7"/>ǧubn:un li l ġilmāni ṯulṯay dirham:in 
+ <lb n="8"/>fa ḏālika ṯalāṯaẗa ʿašara dirham:an wa rubʿ:un wa dāniq:un 
+ <lb n="9"/>wa yawmu ăl ǧumʿaẗi li ṯalāṯa ʿašraẗa laylaẗ:an ḫalat min šahri ramaḍāna 
+ <lb n="10"/>fī ʾiṣlāḥi ăl budūri dirham:un wa niṣf:un fī masāmīra wa watad:in niṣfu dirham:in 
+ <lb n="11"/>wa ăn naʿlu 
+ <lb n="12"/>fī ḥizām:in dirham:un ʾilà ăn naǧǧāri rubʿu dirham:in 
+ <lb n="13"/>rāwiyaẗu māʾ:in rubʿu dirham:in wa laḥm:un ṯalāṯaẗu darāhima wa niṣf:un 
+ <lb n="14"/>ḥaṭab:un niṣfu dirham:in wa fūl:un dirham:un 
+ <lb n="15"/>*** Bḥ***ʾ ***h niṣfu dirham:in ḫall:un ṯulṯu dirham:in 
+ <lb n="16"/>*** ăl ḫabīṯaẗu ḥabībaẗu ǧaṯīṯaẗu ǧanībaẗu dirham:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Thursday when twelve nights had passed from the month of Ramaḍân: The dînâr shows a deficiency of one carat  so that its exchange value is twenty- [...]
+			<lb n="3"/>
+		thr[ee] c[arat]s.
+			<lb n="4"/>
+		For the purchase price of meat four dir[hams ......]...[...]... and trefoil one dirham fire wood half a dirham
+			<lb n="5"/>
+		(for) twisting a rope two thirds of a dirh[am, bar]ley one dirham and a third ..................... three dirhams and a dâniq
+			<lb n="6"/>
+		............... a quarter of a dirham, o[i]l a third of a dirham, barley one and a half dirham,
+			<lb n="7"/>
+		cheese for the slaves two thirds of a dirham.
+			<lb n="8"/>
+		That makes thirteen dirhams and a quarter and a dâniq.
+			<lb n="9"/>
+		And Friday, when thirteen nights had passed of the month of Ramaḍân:
+			<lb n="10"/>
+		For reparing the milk-pails one and a half dirham, for nails and wooden pins half a dirham
+			<lb n="11"/>
+		and sandals
+			<lb n="12"/>
+		for a girdle one dirham, to the carpenter a quarter of a dirham,
+			<lb n="13"/>
+		(for hire of a) camel conveying water a quarter of a dirham and (for) meat three and a half dirhams,
+			<lb n="14"/>
+		(for) fire wood half a dirham and (for) beans one dirham,
+			<lb n="15"/>
+		[...]..[.....]... half a [dirha]m, vinegar a third of a dirham.
+			<lb n="16"/>
+		The pack-horse one dirham
+</ab></div>
+</body>
+</text>
+</TEI>

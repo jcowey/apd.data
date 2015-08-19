@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="938" xml:id="Margoliouth_APRL_6_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I VI 06 (= P.World p. 178)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_APRL_6_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113693</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">قد</rdg></app> فهمت كتابك وقد رددت 
+<lb n="3"/>  إلـ]ـيك العشر <app type="BL"><lem resp="APD">دننر </lem><rdg resp="“Grohmann”">دننير</rdg></app> فادفعها 
+<lb n="4"/>  إلى] أبي الحسن مع العشرين إردب 
+<lb n="5"/>  قمح وقد رددت إليك القرض 
+<lb n="6"/>  على حاله فإن سألك فأعلمه 
+<lb n="7"/>  أن رسولك أصابني قد دفعت 
+<lb n="8"/>  وأن رسول عبد الخلق جاك 
+<lb n="9"/>  لتطلّقه القمح وحرّق رقعتي 
+<lb n="10"/>  إذا أقرأتها إن شا اللّه 
+<lb n="11"/>  فإن قبل القمح مع الدّننر وألّا 
+<lb n="12"/>  فرّد القمح إلى وليّك وابعث 
+<lb n="13"/>  إلى الدّننر مع أوّل من يخرج إلينا 
+<lb n="14"/>  إن شا اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** qad fahimtu kitāba ka wa qad radadtu 
+ <lb n="3"/>ʾilay ka ăl ʿašra danānira danānīra fa ĭdfaʿ hā 
+ <lb n="4"/>ʾilà ʾabī ăl ḥasani maʿa ăl ʿišrīna ʾirdabb 
+ <lb n="5"/>qamḥ wa qad radadtu ʾilay ka ăl qarḍa 
+ <lb n="6"/>ʿalà ḥāli hi fa ʾin saʾala ka fa ʾaʿlim hu 
+ <lb n="7"/>ʾanna rasūla ka ʾaṣāba nī qad dafaʿtu 
+ <lb n="8"/>wa ʾanna rasūla ʿabdi ăl ḫāliqi ǧāʾa ka 
+ <lb n="9"/>li tuṭalliqa hu ăl qamḥa wa ḥarriq ruqʿat ī 
+ <lb n="10"/>ʾiḏā ʾaqraʾta hā ʾin šāʾa ăl lāhu 
+ <lb n="11"/>fa ʾin qabila ăl qamḥa maʿa ăd danāniri wa ʾillā 
+ <lb n="12"/>fa ruddi ăl qamḥa ʾilà waliyyi ka wa ĭbʿaṯ 
+ <lb n="13"/>ʾilay ya ăd danānira maʿa ʾawwali man yaḫruǧu ʾilay nā 
+ <lb n="14"/>ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the Name &amp;c.
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		I [already] understood thy letter and I return
+		I understand your letter and I return
+			<lb n="3"/>
+		[to] thee the ten dînârs. So hand them over
+		to you the ten dinars and do you hand the over
+			<lb n="4"/>
+		to Abu &#039;l-Ḥasan with the twenty ardebs
+		to Abu&#039;l Ḥasan with the twenty artabas
+			<lb n="5"/>
+		of wheat; so I have returned to thee the loan  
+		of wheat; so I have returned to you the loan
+			<lb n="6"/>
+		in its condition; and if he asks thee, then inform him  
+		in its condition; and if he asks you, then inform him
+			<lb n="7"/>
+		that thy messenger found me having already paid,
+		that your messenger found me having already paid,
+			<lb n="8"/>
+		and that the messenger of ʿAbd al-Khâliq came to thee
+		and that the messenger of ʿAbd al-Khaliq came to you
+			<lb n="9"/>
+		that thou mightest give him the wheat; and burn my letter
+		that you might give him the wheat; and burn my letter
+			<lb n="10"/>
+		when thou hast read it, please God.
+		when you have read it, please God.
+			<lb n="11"/>
+		And if he shall accept the wheat with the dinars - otherwise
+			<lb n="12"/>
+		return the wheat to thy friend and send
+		return the wheat to your friend and send
+			<lb n="13"/>
+		the dinars to me with the first person who comes out to us,
+			<lb n="14"/>
+		if God wills.
+		please God.
+</ab></div>
+</body>
+</text>
+</TEI>

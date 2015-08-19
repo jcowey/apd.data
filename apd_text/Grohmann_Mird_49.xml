@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2620" xml:id="Grohmann_Mird_49" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 49</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_49</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> يهـ<gap reason="illegible" precision="low" extent="3"/>م ا<gap reason="illegible" precision="low" extent="3"/>ـم 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> سـ<supplied reason="lost" cert="high">ـم</supplied> والسّلم 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إ</supplied>ليك </lem><rdg resp="Diem">عليك</rdg></app> ورحمت 
+ <lb n="5"/>  <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> وكتب يوم الأربعا <app type="BL"><lem resp="APD">لثنتين </lem><rdg resp="Diem">لثنتي</rdg></app> 
+ <lb n="6"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وعشر</supplied>ة </lem><rdg resp="Diem">عشرة</rdg></app> ليلة من شعبان 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** * *** * *** * *** 
+ <lb n="2"/>*** yh***m ʾ***m 
+ <lb n="3"/>*** sm wa ăs salām 
+ <lb n="4"/>*** ʾilay ʿalay ka wa raḥmatu 
+ <lb n="5"/>ăl lāhi *** wa kutiba yawma ăl ʾarbaʿāʾi li ṯnatayni ṯnatay 
+ <lb n="6"/>wa ø ʿašaraẗa laylaẗ:an min šaʿbāna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+		 <lb n="3"/>
+ 	  [...]....... and salutation
+		 <lb n="4"/>
+ 	  [...] to you and mercy
+		 <lb n="5"/>
+ 	  [of God]. And it has been written on Wednesday, when twel-
+		 <lb n="6"/>
+ 	  [ve] nights (had passed) of Šaʿbān.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1045" xml:id="Grohmann_APEL_58" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 058</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_58</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168922</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى يحنّس بن شنوده بن بطاقس من موسى بن سكريس وسمويل بن شنوده بن قفرى من سكان ططون من كورة 
+<lb n="3"/>  الفـ<supplied reason="lost" cert="high">ـيّوم</supplied> ا<supplied reason="lost" cert="high">شـ</supplied>ـترى منهما حصّتهما من المنزل المشاع بينهما وبين سرماده بن يحنّس بن <app type="BL"><lem resp="APD">فرمان </lem><rdg resp="APD">فرمان</rdg></app> وهو اثنا عشر سهما من أربعة 
+<lb n="4"/>  <supplied reason="lost" cert="high">وعشريـ</supplied>ـن سهما بحدّه وحدوده وسفله وعلوه وداخل فيه وخارج منه حدّه القبلي منزل قفرى القمبشاوي وحدّه 
+<lb n="5"/>  <supplied reason="lost" cert="high">البحـ</supplied>ـري طريق المارّة وحدّه الشّرقي منزل حرميده بن سسنّه وحدّه الغربي عرصة لورثة بني إبشايه اشترى ذلك 
+<lb n="6"/>  منهما بهذه ثلثة الدّنانير وثلث عينا ذهبا وازن بالجديد قد قبض موسى بن سكريس وسمويل بن شنوده الـ<supplied reason="lost" cert="high">ـثّلاثـ</supplied>ـة 
+<lb n="7"/>  الدّنانير وثلث وسلّم ذلك إلى يحنّس بن شنوده <supplied reason="omitted" cert="high">بن</supplied> بطاقس وقبضه وحازه وملكه وصار ذلك مال مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">ماله</supplied> 
+<lb n="8"/>  وملك من ملكه إن شا باع وإن شا بنا وإن شا سكن ليس لموسى بن سكريس وسمويل بن شنوده في هذ<supplied reason="lost" cert="high">ا</supplied> 
+<lb n="9"/>  المـ<supplied reason="lost" cert="high">ـنزل</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">هـ</supplied>ـذا الكتاب دعوى ولا طلبة بوجه من الوجوه ولا سبب من الأسباب باعوا ذلك على شرط 
+<lb n="10"/>  بيع الإسلام وعهدته فما كان من علقة أو تباعة أو طارئ بدين <app type="BL"><lem resp="APD"><sic n="superfluous">فپڤإد</sic><supplied reason="omitted" cert="high">ڤانقاذ</supplied> </lem><rdg resp="“Diem”">فنفاذ</rdg></app> ذلك وخلاصه على موسى بن سكريس 
+<lb n="11"/>  <supplied reason="lost" cert="high">وسـ</supplied>ـمويل بن شنوده بالغ ما بلغ من خالص مالهما شهد على إقرار موسى بن سكريس وسمويل بن شنوده بجميع ما في هذا 
+<lb n="12"/>  الكتاب بعد أن قرئ عليهما وعرفوه وأقرّوا بفهمه في صحّة عقلهما وبدنهما وجواز أمورهما طائعين 
+<lb n="13"/>  غير مكرهين ولا مجبرين طالبين راغبين وذلك في جمادى الآخر من سنة إحدى وأربعين وثلثمائة 
+<lb n="14 right"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">محمّد</supplied> بن أحمد بن علي بن رحمة على إقرارهما 
+<lb n="15 right"/>  <supplied reason="lost" cert="high">بما</supplied> <supplied reason="lost" cert="high">فيه</supplied> وكتب بخطّه 
+<lb n="14 left"/>  شهد عبد الرّحمن بن هدي 
+<lb n="15 left"/>  <del rend="erasure" status="unremarkable">البقّا</del>الپڤار على جميع ما فيه 
+<lb n="15 middle"/>  شهد إبرهيم بن أحمد على إقرار 
+<lb n="16"/>  موسى بن <sic n="superfluous">سكپرس</sic> <supplied reason="omitted" cert="high">سكريس</supplied> بجميع ما في هذا الكتاب و<supplied reason="omitted" cert="high">كتب</supplied> پحطه 
+<lb n="17"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">خيار</supplied> بن إسمعيل بجميع ما في هذا الكتاب وكتب شهادته بخطّه 
+<lb n="18"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> جبريل بجميع ما في هذا الكتاب وكتب عنه خيار بن إسمعيل بأمره ومحضره 
+<lb n="19"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن يوسف على جميع ما في هذا الكتاب وكتب شهادته بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà yuḥannisu bnu šanūdaha bni baṭāqusa min mūsà bni sakrīsa wa samawīla bni šanūdaha bni qufrà min sukkāni ṭuṭūna min kūraẗi 
+ <lb n="3"/>ăl fayyūmi ĭštarà min humā ḥiṣṣata humā mina ăl manzili ăl mušāʿi bayna humā wa bayna sarmādaha bni yuḥannisa bni farmāna quzmāna wa huwa ĭṯnā ʿašara sahm:an min ʾarbaʿaẗ:in 
+ <lb n="4"/>wa ʿišrīna sahm:an bi ḥaddi hi wa ḥudūdi hi wa sufli hi wa ʿulwi hi wa dāḫil fī hi wa ḫāriǧ min hu ḥaddu hu ăl qibliyyu manzilu qufrà ăl qambašāwiyyi wa ḥaddu hu 
+ <lb n="5"/>ăl baḥriyyu ṭarīqu ăl mārraẗi wa ḥaddu hu ăš šarqiyyu manzilu ḥurmīdaha bni sisinnaha wa ḥaddu hu ăl ġarbiyyu ʿarṣaẗ:un li waraṯaẗi banī ʾibšāyaha ĭštarà ḏālika 
+ <lb n="6"/>min humā bi hāḏihi ṯalāṯaẗi ăd danānīri wa ṯulṯ:in ʿayn:an ḏahab:an wāzin bi ăl ǧadīdi qad qabaḍa mūsà bnu sakrīsa wa samawīlu bnu šanūdaha ăṯ ṯalāṯaẗa 
+ <lb n="7"/>ăd danānīri wa ṯulṯ:in wa sallama ḏālika ʾilà yuḥannisa bni šanūdaha bni baṭāqusa wa qabaḍa hu wa ḥāza hu wa malaka hu wa ṣāra ḏālika māl min māli hi 
+ <lb n="8"/>wa milk min milki hi ʾin šāʾa bāʿa wa ʾin šāʾa banā wa ʾin šāʾa sakana laysa li mūsà bni sakrīsa wa samawīla bni šanūdaha fī hāḏā 
+ <lb n="9"/>ăl manzili baʿda hāḏā ăl kitābi daʿw:an wa lā ṭalibaẗ:un bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi bāʿū ḏālika ʿalà šarṭi 
+ <lb n="10"/>bayʿi ăl ʾislāmi wa ʿuhdati hi fa mā kāna min ʿulqaẗ:in ʾaw tabāʿaẗ:in ʾaw ṭāriʾ:in bi dayn:in fa ʾinqāḏu nafāḏu ḏālika wa ḫalāṣu hu ʿalà mūsà bni sakrīsa 
+ <lb n="11"/>wa samawīla bni šanūdaha bāliġ:un mā balaġa min ḫāliṣi māli himā šahida ʿalà ʾiqrāri mūsà bni sakrīsa wa samawīla bni šanūdaha bi ǧamīʿi mā fī hāḏā 
+ <lb n="12"/>ăl kitābi baʿda ʾan quriʾa ʿalay himā wa ʿarafū hu wa ʾaqarrū bi fahmi hi fī ṣiḥḥaẗi ʿaqli himā wa badani himā wa ǧawāzi ʾumūri himā ṭāʾiʿayni 
+ <lb n="13"/>ġayra mukrahayni wa lā muǧbarayni ṭālibayni rāġibayni wa ḏālika fī ǧumādà ăl ʾāḫiri min sanaẗi ʾiḥdà wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="14"/>šahida muḥammadu bnu ʾaḥmada bni ʿaliyyi bni raḥmaẗa ʿalà ʾiqrāri himā 
+ <lb n="15"/>bi mā fī hi wa kataba bi ḫaṭṭi hi 
+ <lb n="16"/>šahida ʿabdu ăr raḥmāni bnu hudayy:in 
+ <lb n="17"/>ăl baqqāru ʿalà ǧamīʿi mā fī hi 
+ <lb n="18"/>šahida ʾibrāhīmu bnu ʾaḥmada ʿalà ʾiqrāri 
+ <lb n="19"/>mūsà bni sakrīsa bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="20"/>šahida ḫiyāru bnu ʾismāʿīla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="21"/>šahida *** bnu ǧibrīla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba ʿan hu ḫiyāru bnu ʾismāʿīla bi ʾamri hi wa maḥḍari hi 
+ <lb n="22"/>šahida *** bnu yūsufa ʿalà ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is what Yoḥannes b. Šanûda b. Paṭâqos has bought from Mûsâ b. Sakrîs and Samawîl b. Šanûda b. Qufrâ, (who are) numbered among the inhabitants of Ṭuṭûn of the district of
+			<lb n="3"/>
+		al-Fa[yyûm]: he has [bou]ght from them both their share of the dwelling house, shared in common between them both and between Sarmâde b. Yoḥannes b. Quzmân, this being twelve shares of [twenty]four
+			<lb n="4"/>
+		shares, to its limit and its boundaries and (including) what is below and above the surface, what is within and what is without; its southern boundary is (formed by) the dwelling house of Qufrâ, originating from Qambašâ, and its [nor]thern
+			<lb n="5"/>
+		boundary is (formed by) the main thoroughfare, and its eastern boundary is (formed by) the dwelling house of Ḥormîde b. Sisinna, and its western boundary is (formed by) an open area belonging to the heirs of the sons of Ibšâya. He has bought this
+			<lb n="6"/>
+		from them both for these three dînârs and a third, gold-coins, full-weight according to the new (standard). Mûsâ b. Sakrîs and Samawîl b. Šanûda have received the three
+			<lb n="7"/>
+		dînârs and a third and have handed it (the dwelling house) over to Yoḥannes b. Šanûda (b). Paṭâqos, and he has taken it over and acquired and taken possession of it and it has become his own property
+			<lb n="8"/>
+		and possession, (so that) if he will, he may sell it, and if he will, he may build (on it), and if he will, he may dwell in (it). Mûsâ b. Sakrîs and Samawîl b. Šanûda have no claim
+			<lb n="9"/>
+		and no pretensions respecting this dwel[ling house after (the completion of) th]is contract from any cause or reason whatever. They have sold this according to Islamic law
+			<lb n="10"/>
+		of sale and covenant; but so far as there would be any contention or vindication or if some one should suddenly appear with a debt, then the recuperation and indemnification therefor are incumbent upon Mûsâ b. Sakrîs
+			<lb n="11"/>
+		[and Sa]mawîl b. Šanûda, whatever it might amount to, out of their own means. (The following witnesses) have testified to the acknowledgment by Mûsâ b. Sakrîs and Samawîl b. Šanûda respecting all that (is contained) in this
+			<lb n="12"/>
+		contract, after that it had been read to them both and they had taken cognizance of it and acknowledged that they have understood it, they being in a state of sound mind and body, and capable of transacting their business, voluntarily,
+			<lb n="13"/>
+		without compulsion and not against their will, (but) demanding (and) desiring (it), and this in Ǧumâdâ II of the year three hundred and forty one.
+			<lb n="14"/>
+		Muḥammad b. Aḥmad b. ʿAlî b. Raḥma is witness to their acknowledgment
+			<lb n="15"/>
+		[respecting that which (is contained) herein] and he has written (it) in his (own) handwriting.
+			<lb n="16"/>
+		ʿAbd ar-Raḥmân b. Hudayy,
+			<lb n="17"/>
+		the cow-drover, is witness to all that (is contained) herein.
+			<lb n="18"/>
+		Ibrahîm b. Aḥmad is witness to the acknowledgment
+			<lb n="19"/>
+		by Mûsâ b. Sakrîs respecting all that (is contained) in this contract, and &lt; he has written (it) &gt; in his (own) handwriting.
+			<lb n="20"/>
+		[Ḫiyâr] b. Ismaʿîl [is witness] to all that (is contained) in this contract and he has written his testimony in his (own) handwriting.
+			<lb n="21"/>
+		[So and So, son of] Ǧibrîl [is witness] to all that (is contained) in this contract and Ḫiyâr b. Ismaʿîl has written instead of him at his order and in his presence.
+			<lb n="22"/>
+		[So and So, s]on of Yûsuf is witness to all that (is contained) in this contract and he has written his testimony in his (own) handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="944" xml:id="Guo_Quseir_57" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 57</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_57</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113696</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <sic n="superfluous">لى</sic> <expan><ex>پسم</ex> <ex>الله</ex> <ex>الرحمن</ex> <ex>الرّحپم</ex></expan> 
+<lb n="recto 2"/>  المسيّر إلى الشّيخ أبي إسحق إبراهيم بن أبي مفرّج 
+<lb n="recto 3"/>  صحبة عمر بن فضائل القفطي حمل <app type="BL"><lem resp="APD">كتّان </lem><rdg resp="APD">كتاب</rdg></app> 
+<lb n="recto 4"/>  مكتوب عليهم للشّيخ الضّيا أبي الحجّاج 
+<lb n="recto 5"/>  يوسف الرّيافري وهو يتسلّم السّلع 
+<lb n="recto 6"/>  ويتركه في موضع جيّد السّلام 
+<lb n="recto right margin"/>  حضر محمّد بن حسن وهو يسلّم عليك 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" extent="2" unit="character" />ـهم صاحبا وكيلا عطا عشرة  
+<lb n="verso 3"/>  حوالة <unclear reason="undefined" cert="high">الإستلم</unclear> بها دقاق ثلثة وسبعين 
+<lb n="verso 4"/>  أحمد أحمد عبد النّجيب موسى بن مخلص فـ<supplied reason="lost" cert="high">ـي</supplied> تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl musayyaru ʾilà ăš šayḫi ʾabī ʾisḥāqa ʾibrāhīma bni ʾabī mufarriǧ:in 
+ <lb n="3"/>ṣuḥbaẗa ʿumara bni faḍāʾila ăl qifṭiyyi ḥimlu kattān:in kitāb:in 
+ <lb n="4"/>maktūb:un ʿalay him li š šayḫi ăḍ ḍiyāʾi ʾabī ăl ḥaǧǧāǧi 
+ <lb n="5"/>yūsufa ăr rayāfariyyi wa huwa yatasallami ăs silaʿa 
+ <lb n="6"/>wa yatruk hu fī mawḍiʿ:in ǧayyid:ini ăs salāmu 
+ <lb n="7"/>ḥaḍara muḥammadu bnu ḥasan:in wa huwa yusallimu ʿalay ka 
+ <lb n="8"/>*** 
+ <lb n="9"/>** hum ṣāḥib:an wakīl:an li ṣāḥibi hi muḥammad:in *** 
+ <lb n="10"/>šahida ʿalà ăl ʾāmirīna ăl mutakāfalīna ăṯ ṯalāṯaẗu bi maḍmūni hi 
+ <lb n="11"/>wa kataba ʾaḥmadu ʿabdu ăn naǧībi mūsà bni muḫliṣ:in fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, ther Merciful, the Compassionate.
+			<lb n="2"/>
+		To be dispatched to Shaykh Abū Iṣḥāq Ibrāhīm ibn Abū Mufarrij,
+			<lb n="3"/>
+		accompanied by ʿUmar ibn Faḍāʾil al-Qifṭī, is one load of flax.
+			<lb n="4"/>
+		It is for Shaykh Ḍiyāʾ [al-Dīn] Abū al-Ḥajjāj
+			<lb n="5"/>
+		Yūsuf al-Rayāfarī (?). He (i.e. Ibrāhīm) is to receive the items
+			<lb n="6"/>
+		and put them in a secure place. Peace.
+			<lb n="7"/>
+		Muḥammad ibn Ḥasan is here and sends his greetings to you.
+			<lb n="8"/>
+			<lb n="9"/>
+		...... them, in the capacity of a partner and agent for his friend Muḥammad [...].
+			<lb n="10"/>
+		Its content is witnessed by the three entrusted representatives who issued the orders,
+			<lb n="11"/>
+		and it is written by Aḥmad, the servant of al-Najīb Mūsā ibn Mukhliṣ, on the same day.
+</ab></div>
+</body>
+</text>
+</TEI>

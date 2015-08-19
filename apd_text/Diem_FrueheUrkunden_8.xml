@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1060" xml:id="Diem_FrueheUrkunden_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 08</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168928</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسـ<supplied reason="lost" cert="high">ـم</supplied> اللّه الرّ<supplied reason="lost" cert="high">حمن</supplied> الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـتب <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـمرو بن <app type="BL"><lem resp="APD">حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“earlier Karabacek”">عبيد</rdg></app> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر لهر ا<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>خنس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  جسيم أمرد أ<gap reason="illegible" precision="low" extent="3"/> أعرج من <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إنّي</supplied> <supplied reason="lost" cert="high">أذنـ</supplied>ـت لهـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا أ<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> في أ<supplied reason="lost" cert="high">سو</supplied>ان <gap reason="illegible" precision="low" extent="3"/> جزية <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">رأ</supplied>سهمـ<supplied reason="lost" cert="high">ـا</supplied> </lem><rdg resp="APD">رءوسهما</rdg></app> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وأجّلتهما</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>لنّصـ<supplied reason="lost" cert="high">ـف</supplied> من <supplied reason="lost" cert="high">شعـ</supplied>ـبان 
+<lb n="8"/>  <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ستّ</supplied> عشـ<supplied reason="lost" cert="high">ـرة</supplied> و<supplied reason="lost" cert="high">مائة</supplied> 
+<lb n="9"/>  <supplied reason="lost" cert="high">فـ</supplied>ـمن لقيهما من <supplied reason="lost" cert="high">عـ</supplied>ـمّال ا<supplied reason="lost" cert="high">لأميـ</supplied>ـر أصلحه 
+<lb n="10"/>  اللّه أو غـ<supplied reason="lost" cert="high">ـيرهم</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـلا <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يـ</supplied>ـعتر<supplied reason="lost" cert="high">ض</supplied> </lem><rdg resp="“Grohmann”">پعرص</rdg></app> لهما 
+<lb n="11"/>  إلى <supplied reason="lost" cert="high">ذلـ</supplied>ـك من الأجل إلّا بخير 
+<lb n="12"/>  والسّلام <supplied reason="lost" cert="high">على</supplied> مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">اتّبع</supplied> <supplied reason="lost" cert="high">ا</supplied>لهدى وكتب علي 
+<lb n="13"/>  في شـ<supplied reason="lost" cert="high">ـعبا</supplied>ن مـ<supplied reason="lost" cert="high">ـن</supplied> سنة ست 
+<lb n="14"/>  عشرة <supplied reason="lost" cert="high">ومـ</supplied>ـا<supplied reason="lost" cert="high">ئة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min ʿamri bni ḥ*** ʿubaydi ø ăl ø lāhi 
+ <lb n="3"/>***r li hura ʾ*** ʾaḫnas *** 
+ <lb n="4"/>ǧasīm ʾamrad ʾa*** ʾaʿraǧ min *** 
+ <lb n="5"/>*** ʾin nī ʾaḏintu la humā ʾan *** 
+ <lb n="6"/>*** fī ʾaswāna *** ǧizyaẗa raʾsi ruʾūsi himā 
+ <lb n="7"/>*** wa ʾaǧǧaltu humā *** ăn niṣfa min šaʿbāna 
+ <lb n="8"/>sanaẗi sitta ʿašraẗa wa miʾaẗ:in 
+ <lb n="9"/>fa man laqiya humā min ʿummāli ăl ʾamīri ʾaṣlaḥa hu 
+ <lb n="10"/>ăl lāhu ʾaw ġayri him fa lā yaʿriḍ yaʿtariḍ la humā 
+ <lb n="11"/>ʾilà ḏālika mina ăl ʾaǧali ʾillā bi ḫayr:in 
+ <lb n="12"/>wa ăs salāmu ʿalà mani ĭttabaʿa ăl hudà wa kataba ʿaliyy:un 
+ <lb n="13"/>fī šaʿbāna min sanaẗi sitta 
+ <lb n="14"/>ʿašraẗa wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Nam[en] des barm[herzigen] und gnädigen Gottes.
+			<lb n="2"/>
+		[Dies ist ein Schrei]ben von ʿAmr ibn Ḥ/Ǧ/Ḫ[
+			<lb n="3"/>
+		[...] für Hor -[...]plattnasig[ ...- und für
+			<lb n="4"/>
+		- korpulent, bartlos [...] und hinkend -, aus [
+			<lb n="5"/>
+		| Ich erlau]be ihn[en] hiermit, da[ß
+			<lb n="6"/>
+		[...] in [...] ih[re] Ko[pf]steuer
+			<lb n="7"/>
+		[Und ich setze ihnen hiermit eine Frist ...] Mit[te] des [Šaʿ]bān
+			<lb n="8"/>
+		[... im Jahre sech]ze[hn] und [hundert].
+			<lb n="9"/>
+		Wer ihnen [also] von den [Be]amten [des Amī]r - Gott möge ihn erhalten - 
+			<lb n="10"/>
+		oder and[eren] (sc. Beamten) begegnet, soll ihnen
+			<lb n="11"/>
+		bis zu [diese]m Termin nur Gutes erw[eis]en.
+			<lb n="12"/>
+		Heil [über] den, de[r de]r Rechtleitung [folgt]. Geschrieben von ʿAlī
+			<lb n="13"/>
+		im Šaʿbān des Jahres sech-
+			<lb n="14"/>
+		zehn [und hun]de[rt].
+</ab></div>
+</body>
+</text>
+</TEI>

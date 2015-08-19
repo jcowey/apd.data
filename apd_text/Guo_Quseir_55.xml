@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="930" xml:id="Guo_Quseir_55" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 55</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_55</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113688</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2 left"/>  مملوكه يحيى أبو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  الواصل على يد نصّار حمل 
+<lb n="recto 4"/>  ما وربع ويبات شعير 
+<lb n="recto 5"/>  وست <unclear reason="undefined" cert="high">وجور</unclear> ثلاثة قرب وثلاثة 
+<lb n="recto 6"/>  حفوص <app type="BL"><lem resp="APD">عرفت </lem><rdg resp="“EG”">عرّفت</rdg></app> المولا ذالك 
+<lb n="recto 7"/>  وتضعه وما عاقني عن الخروج 
+<lb n="recto 8"/>  إلّا دراهم المولى <app type="BL"><lem resp="APD">عرفت </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">عرّفته</rdg></app> 
+<lb n="recto 9"/>  ذالك وسلام 
+<lb n="verso 1"/>  إلى ساحل <supplied reason="lost" cert="high">القصير</supplied> 
+<lb n="verso 2"/>  إبراهيم ابن أبي <supplied reason="lost" cert="high">مفـ</supplied>ـرّج 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>mamlūku hu yaḥyà ʾabū *** 
+ <lb n="3"/>ăl wāṣilu ʿalà yadi naṣṣāra ḥimlu 
+ <lb n="4"/>māʾ:in wa rbaʿu waybāt:in šaʿīr 
+ <lb n="5"/>wa sittu wuǧūr:in ṯalāṯaẗu qirab:in qurub:in wa ṯalāṯaẗu 
+ <lb n="6"/>ḥufūṣ:in ʿarafta ʿarraftu ăl mawlā ḏālika 
+ <lb n="7"/>wa taḍaʿ hu wa mā ʿāqa nī ʿani ăl ḫurūǧi 
+ <lb n="8"/>ʾillā darāhimu ăl mawlà ʿarafta ʿarraftu hu ø 
+ <lb n="9"/>ḏālika wa salām:un 
+ <lb n="10"/>ʾilà sāḥili ăl quṣayri 
+ <lb n="11"/>ʾibrāhīma ĭbni ʾabī mufarriǧ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		[From] His servant Yaḥyā Abū [...]
+			<lb n="3"/>
+		To be delivered by Naṣṣār are: one load of
+			<lb n="4"/>
+		fresh water, four waybas of barley,
+			<lb n="5"/>
+		six [units of] medicine [wrapped in?] three cases and three
+			<lb n="6"/>
+		... Dies habe ich dem Patron somit mitgeteilt
+		leather-baskets. [You,] the Master know about this.
+			<lb n="7"/>
+		... Nothing has prevented me from leaving and coming home
+		Store them [in a safe place]. Nothing will prevent me from sending forward [the aforesaid goods]
+			<lb n="8"/>
+		Dies habe ich dem Patron somit
+		except [dealing with] your money, my lord. I have informed [you] of this.
+		except [if the payment is made in] silver dirhams. [You,] the Master know
+			<lb n="9"/>
+		mitgeteilt ...
+		that very well. Peace.
+			<lb n="10"/>
+		To the shore of [Quseir]
+			<lb n="11"/>
+		to Ibrāhīm ibn Abū [Mufa]rrij.
+</ab></div>
+</body>
+</text>
+</TEI>

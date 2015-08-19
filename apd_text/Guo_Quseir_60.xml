@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="949" xml:id="Guo_Quseir_60" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 60</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_60</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113701</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <sic n="superfluous">لى</sic> <expan><ex>پسم</ex> <ex>الله</ex> <ex>الرحمن</ex> <ex>الرّحپم</ex></expan> 
+<lb n="recto 2"/>  تذكرة <app type="BL"><lem resp="APD">مباركـ<supplied reason="omitted" cert="high">ـة</supplied> </lem><rdg resp="AK">مبارك</rdg></app> إن شا اللّه 
+<lb n="recto 3"/>  الّذي قبض <supplied reason="omitted" cert="high">أ</supplied>بو مفرّج فلفل <app type="BL"><lem resp="APD">العادي </lem><rdg resp="AK">الفائق</rdg></app> 
+<lb n="recto 4"/>  ليوسف بن برطوط سبعة وعشرين ويبة 
+<lb n="recto 5"/>  وأحد عشر ويبة إلّا <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">سدس</unclear> </lem><rdg resp="AK; final nūn with dot above">مدّين</rdg></app> لك 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD">قبض </lem><rdg resp="AK">وقبض</rdg></app> ذلك الشّيخ يوسف المذكور 
+<lb n="recto 7"/>  الفلفل 
+<lb n="recto 8 upside down"/>  الّذي و<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> عيسى عن عبد 
+<lb n="recto 9 upside down"/>  الوهّاب <app type="BL"><lem resp="APD">رقعة </lem><rdg resp="AK">دفعته</rdg></app> لمحمّد أربعة <app type="BL"><lem resp="APD">دراهم </lem><rdg resp="AK">ينانير</rdg></app> 
+<lb n="recto 10 upside down"/>  وإحدى عشر قيراط <app type="BL"><lem resp="APD">من </lem><rdg resp="AK">ونصف</rdg></app> 
+<lb n="verso 1"/>  بقي على عيسى خمسة وتلاتين 
+<lb n="verso 2"/>  درهم إلّا ثمن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taḏkiraẗu taḏkiraẗ:un mubārakaẗ:un mubārak:in ʾin šāʾa ăl lāhu 
+ <lb n="3"/>ăllaḏī qabaḍa ʾabū mufarriǧ:in filfil:uni ăl ʿādiyyu fāʾiqu 
+ <lb n="4"/>li yūsufa bni barṭūṭa sabʿaẗ:un wa ʿišrīna waybaẗ:an 
+ <lb n="5"/>wa ʾaḥada ʿašara waybaẗ:an ʾillā suds muddayni la ka 
+ <lb n="6"/>ø qabaḍa wa ḏālika ăš šayḫu yūsufu ăl maḏkūru 
+ <lb n="7"/>ăl filfila 
+ <lb n="8"/>ăllaḏī w*** *** ʿīsà ʿan ʿabdi 
+ <lb n="9"/>ăl wahhābi ruqʿaẗ dafaʿtu ø hu li muḥammad:in ʾarbaʿaẗ darāhima danānīra 
+ <lb n="10"/>wa ʾiḥdà ʿašara qīrāṭ min wa ø niṣf:un 
+ <lb n="11"/>baqiya ʿalà ʿīsà ḫamsaẗ:un wa talātīna 
+ <lb n="12"/>dirham ʾillā ṯumn 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. 
+			<lb n="2"/>
+		A blessed certificate by God&#039;s will.
+			<lb n="3"/>
+		Received by Abū Mufarrij is pepper of regular quality.
+			<lb n="4"/>
+		[It is] for Yūsuf ibn Barṭūṭ and [weighs] twenty-seven waybas plus
+			<lb n="5"/>
+		eleven waybas minus one-sixth wayba. And on your behalf,
+			<lb n="6"/>
+		[this is to confirm that] the aforesaid Shaykh Yūsuf received
+			<lb n="7"/>
+		the [aforesaid] pepper.
+			<lb n="8"/>
+		That which [......] ʿĪsā from ʿAbd
+			<lb n="9"/>
+		al-Wahhāb a letter to Muḥammad [regarding] four dirhams
+			<lb n="10"/>
+		and eleven qīrāṭs of [...].
+			<lb n="11"/>
+		ʿĪsā still owes thirty-five
+			<lb n="12"/>
+		minus one-eighth dirhams.
+</ab></div>
+</body>
+</text>
+</TEI>

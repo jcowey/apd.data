@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="472" xml:id="Raghib_March_2_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106659</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم أكرمك اللّه بطاعته وأتم عليك نعمته <app type="BL"><lem resp="APD">وهنّأك </lem><rdg resp="Diem">وهنّأك</rdg></app> <app type="BL"><lem resp="APD">كرامته </lem><rdg resp="Diem">بكرامته</rdg></app> برحمته 
+<lb n="2"/>  يأخي وحبيبي إنّا باللّه ثم بك اعطف علينا واحتسب وكلّم أبي أبقاه اللّه حتّى يرحمنا أنت مبارك 
+<lb n="3"/>  فقد تحيّرت واللّه يأخي لقد كتـ<supplied reason="omitted" cert="high">ـبـ</supplied>ـت إليك ولنا ثلاث أيّام ما أكلنا خبز واللّه 
+<lb n="4"/>  يأخي ما قلت إلّا الحق يأخي اللّه اللّه فينا الغريب يرحم الغريب بخير واللّه 
+<lb n="5"/>  هو مع أخي وحسبه فلا تدعنا تتكلّم فينا في اللّه منذ يوم خرج حسن 
+<lb n="6"/>  من عندنا ما في بيتنا حبّة قمح واللّه يأخي <app type="BL"><lem resp="APD">صفنا </lem><rdg resp="APD">صلنا</rdg></app> منك في كلام قد 
+<lb n="7"/>  أسلمنا وذلّنا كل الذّل والحمد للّه واللّه لو رأ<supplied reason="omitted" cert="high">يـ</supplied>ـتني رحمتني من ما حل بنا 
+<lb n="8"/>  يأخي رقّقه وكلّمه لنا وعجّل علي في القمح ولا تدعنا يأخي ونظّر حاجة أختك 
+<lb n="9"/>  وما وعدها و<supplied reason="omitted" cert="high">أ</supplied>رجو يخلف اللّه لك أكثر منه أضعاف في الدّنيا والآخرة وحملها 
+<lb n="10"/>  <gap reason="illegible" extent="2" unit="character" />حى مثل <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپمه أخص نفسك بالسّلم والسّلم عليك <supplied reason="omitted" cert="high">و</supplied>رحمته وبركاته 
+<lb n="right margin"/>  من غير ستر قل لأبي في <app type="BL"><lem resp="APD">حسن </lem><rdg resp="APD">حسّن </rdg><rdg resp="APD">حبس
+ </rdg><rdg resp="APD">خيش</rdg></app> <unclear reason="undefined" cert="high">إيابنا</unclear> مكشوف 
+<lb n="top 1"/>  لأبي هريرة أكرمه اللّه بطاعته جعفر بن أحمد بن عبد المومن 
+<lb n="top 2"/>  أبقاه اللّه وحفظه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾakrama ka ăl lāhu bi ṭāʿati hi wa ʾatamma ʿalay ka niʿmata hu wa habā hannaʾa ka ø bi karāmata karāmati hu hi bi raḥmati hi 
+ <lb n="2"/>yā ʾaḫ ī wa ḥabīb ī ʾin nā bi ăl lāhi ṯumma bi ka ĭʿṭif ʿalay nā wa ĭḥtasib wa kallim ʾab ī ʾabqā hu ăl lāhu ḥattà yarḥama nā ʾanta mubārak:un 
+ <lb n="3"/>fa qad taḥayyartu wa ăl lāhi yā ʾaḫ ī la qad katabtu ʾilay ka wa la nā ṯalāṯu ʾayyām:in mā ʾakalnā ḫubz wa ăl lāhi 
+ <lb n="4"/>yā ʾaḫ ī mā qultu ʾillā ăl ḥaqqa yā ʾaḫ ī ăl lāhu ăl lāhu fī nā ăl ġarību yarḥamu ăl ġarība bi ḫayr:in wa ăl lāhu 
+ <lb n="5"/>huwa maʿa ʾaḫ ī wa ḥasbu hu fa lā tadaʿ nā tatakallamu fī nā fī ăl lāhi munḏu yawmi ḫaraǧa ḥasan:un 
+ <lb n="6"/>min ʿindi nā mā fī bayti nā ḥabbaẗu qamḥ:in wa ăl lāhi yā ʾaḫ ī ṣif ṣil nā min ka fī kalām:in qad 
+ <lb n="7"/>ʾaslama nā wa ḏalla nā kulla ăḏ ḏulli wa ăl ḥamdu li l lāhi wa ăl lāhi law raʾayta nī raḥimta nī min mā ḥalla bi nā 
+ <lb n="8"/>yā ʾaḫ ī raqqiq hu wa kallim hu la nā wa ʿaǧǧil ʿalay ya fī ăl qamḥi wa lā tadaʿ nā yā ʾaḫ ī wa naẓẓir ḥāǧaẗa ʾuḫti ka 
+ <lb n="9"/>wa mā waʿada hā wa ʾarǧū yuḫlifu ăl lāhu la ka ʾakṯara min hu ʾaḍʿāf fī ăd dunyā wa ăl ʾāḫiraẗi wa ḥamala ḥaml ḥiml hā 
+ <lb n="10"/>**ḥy miṯla **Bmh ʾaḫiṣṣi ʾaḫuṣṣu nafsa ka bi ăs salāmi wa ăs salāmu ʿalay ka wa raḥmatu hu wa barakātu hu 
+ <lb n="11"/>min ġayri sitr:in qul li ʾab ī fī ya ḥasan:un ḥassin ḥusnu ḥabsu ḫayšu ʾyʾb nā makšūf:un 
+ <lb n="12"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="13"/>ʾabqā hu ăl lāhu wa ḥafiẓa hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due), parachève son bienfait envers toi et t&#039;accorde Sa magnanimité par Sa miséricorde!
+			<lb n="2"/>
+		Mon frère, mon bien-aimé, nous (demandons l&#039;aide) à Dieu, puis à toi. Sois bienveillant pour nous et agis avec dévouement (pour l&#039;amour de Dieu)! Parle à mon père - que Dieu le conserve! afin qu&#039;il nous prenne en pitié. `Tu es béni´.
+			<lb n="3"/>
+		Je suis troublé : par Dieu! mon frère, je t&#039;écris alors que depuis trois jours nous n&#039;avons pas mangé de pain. Par Dieu!
+			<lb n="4"/>
+		mon frère, je ne dis que la vérité, mon frère. Que Dieu, `Dieu´ nous ait en pitié! L&#039;étranger prend en pitié l&#039;étranger avec générosité. Dieu
+			<lb n="5"/>
+		est avec mon frère et lui suffit! Ne nous abandonne pas (sans) parler de nous pour (l&#039;amour de) Dieu! Depuis le jour où Ḥasan est parti
+			<lb n="6"/>
+		de chez nous, il n&#039;y a pas une graine de blé dans notre maison. Par Dieu! mon frère, décris-nous dans des propos, car
+			<lb n="7"/>
+		il nous a abandonnés et profondément humiliés. Dieu soit loué! Par Dieu! si tu me voyais, tu me prendrais en pitié pour ce qui nous est arrivé.
+			<lb n="8"/>
+		Mon frère, attendris-le, parle-lui pour nous et envoie-moi rapidement le blé. Ne nous abandonne pas, mon frère! Prends soin du désir de ta sœur
+			<lb n="9"/>
+		et de celui qu&#039;il lui a promis. J&#039;espère que Dieu te remplacera cela à profusion dans ce monde et dans l&#039;autre! ....
+			<lb n="10"/>
+		.... Je t&#039;adresse le salut. Que le salut soit sur toi, ainsi que Sa miséricorde et Ses bénédictions!
+			<lb n="11"/>
+		Sans cacher, dis à mon père à mon sujet : «.... découvert».
+			<lb n="12"/>
+		A Abū Hurayra - que Dieu l&#039;honore par l&#039;obéisssance (qui Lui est due)! Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin -
+			<lb n="13"/>
+		que Dieu le conserve et le garde!
+</ab></div>
+</body>
+</text>
+</TEI>

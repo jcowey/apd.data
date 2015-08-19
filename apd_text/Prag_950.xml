@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1843" xml:id="Prag_950" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 95</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_950</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169580</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  إلى يحيى مولى إسمعيل 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  عافانا اللّه وإيّاكم من السّو 
+<lb n="4"/>  فاكفف عن <app type="BL"><lem resp="APD">دمپن </lem><rdg resp="APD">رمپن</rdg></app> مپطر الفسطا<supplied reason="lost" cert="high">طيّ</supplied> 
+<lb n="5"/>  ولا تعرض له إلّا بخير إن شا اللّه 
+<lb n="6"/>  وكتبت 
+<lb n="seal"/>  فيض بن علي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾilà yaḥyà mawlà ʾismāʿīla 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʿāfā nā ăl lāhu wa ʾiyyā kum mina ăs sūʾi 
+ <lb n="4"/>fa ŭkfuf ʿan dmBn rmBn mBṭr ăl fusṭāṭiyyi 
+ <lb n="5"/>wa lā taʿriḍ la hu ʾillā bi ḫayr:in ʾin šāʾa ăl lāhu 
+ <lb n="6"/>wa katabtu 
+ <lb n="7"/>fayḍu bnu ʿaliyy:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		An Jaḥyā, den Freigelassenen des Ismaʿīl.
+			<lb n="2"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="3"/>
+		Gott bewahre uns und Euch vor dem Übel.
+			<lb n="4"/>
+		So laß ab von ......... aus al-Fusṭā[ṭ]
+			<lb n="5"/>
+		und begegne ihm nur in Gutem, so Gott will.
+			<lb n="6"/>
+		Und ich schrieb (es).
+			<lb n="7"/>
+		Faiḍ b. ʿAlī.
+</ab></div>
+</body>
+</text>
+</TEI>

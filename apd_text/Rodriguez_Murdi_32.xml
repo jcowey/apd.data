@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1808" xml:id="Rodriguez_Murdi_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMurdi 3bis a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Murdi_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169547</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الْحَمد لِلَّه تعالى <supplied reason="lost" cert="high">قالا</supplied> قدّمت المباركة عايشة بنت الحاج الوطّاسي زوجها أبا عبْد اللَّه محمّد بن إبراهيم 
+<lb n="2"/>  ابن هشام القيْسي على النّيابة عَنها في بيع أملاكها المعلومة لها داخل غرناطة وغيرها من المواضع بما 
+<lb n="3"/>  يظهر له من الثّمن وبما يراه وعلى القبض والإبرا من بعد القبض تقديما تامّا مفوّضا عامّا أقامته بذالك مقامها 
+<lb n="4"/>  وبدلا منها وقبل المقدّم التّقديم المذكور ورضي به شهد على الموكّلة والموكّل بما فيه عنهما من أشهداه 
+<lb n="5"/>  به عَلى أنفسهما وعرفهما بحال صحّة وجواز في السّادس والعشرين لذي القعدة عام سبْعة وتسعين 
+<lb n="6"/>  وثماني مائة عبْد الرّازق ابن سعيد السّعيدي شهد وفرج بن محمّد بن أحمد شهد أعلم بأدايهما وقبولهما نيابة 
+<lb n="7"/>  عن القاضي هريرة محمّد بن الزّواوي وفّقه اللَّه ولطف به مسلّما عَلى من يقف عليْه انتهى ومن قابله 
+<lb n="8"/>  بأصله بماثله وأشهده من وجب بغرناطة بأعماله <app type="BL"><lem resp="APD">لإعلام </lem><rdg resp="DP">لإعلام</rdg></app> الوارد عليه عقد الأصل المنتسخ هذا منه 
+<lb n="9"/>  قيّد بذالك شهادته وفي الحادي والعشرين لرجب الفرد المبارك عام ثمانية وتسعين وثماني ماية 
+<lb n="10"/>  انتهى ونقل إليها شهادته من حيث وقعت في الأصل بعد المقابلة والتّصـ<supplied reason="lost" cert="high">ـحيح</supplied> وفي التّاسع عشر لشهر 
+<lb n="11"/>  شعبان المكرّم عام ثمانية وتسعين وثماني مائة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi taʿālà qālā qaddamati ăl mubārakaẗu ʿāyišaẗu bintu ăl ḥāǧǧi ăl waṭṭāsiyyi zawǧa hā ʾabā ʿabdi ăl lāhi muḥammada bna ʾibrāhīma 
+ <lb n="2"/>ĭbni hišām:ini ăl qaysiyya ʿalà ăn niyābaẗi ʿan hā fī bayʿi ʾamlāki hā ăl maʿlūmaẗi la hā dāḫila ġarnāṭaẗa wa ġayri hā mina ăl mawāḍiʿi bi mā 
+ <lb n="3"/>yaẓharu la hu mina ăṯ ṯamani wa bi mā yarā hu wa ʿalà ăl qabḍi wa ăl ʾibrāʾi min baʿdi ăl qabḍi taqdīm:an tāmm:an mufawwiḍ:an ʿāmm:an ʾaqāmat hu bi ḏālika maqāma hā 
+ <lb n="4"/>wa badal:an min hā wa qabila ăl muqaddamu ăt taqdīma ăl maḏkūra wa raḍiya bi hi šahida ʿalà ăl muwakkilaẗi wa ăl muwakkali bi mā fī hi ʿan humā man ʾašhadā hu 
+ <lb n="5"/>bi hi ʿalà ʾanfusi himā wa ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī ăs sādisi wa ăl ʿišrīna li ḏī ăl qaʿdaẗi ʿāma sabʿaẗ:in wa tisʿīna 
+ <lb n="6"/>wa ṯamānī miʾaẗ:in ʿabdu ăr rāziqi ĭbnu saʿīd:in ăs saʿīdiyyu šahida wa faraǧu bnu muḥammadi bni ʾaḥmada šahida ʾuʿlima bi ʾadāyi himā wa qubūli himā niyābaẗ:an 
+ <lb n="7"/>ʿani ăl qāḍī hurayraẗa muḥammadi bni ăz zuwāwiyyi waffaqa hu ăl lāhu wa laṭafa bi hi musallim:an ʿalà man yaqifu ʿalay hi ĭntahà wa man qābala hu 
+ <lb n="8"/>bi ʾaṣli hi bi māṯili hi wa ʾašhada hu man waǧaba bi ġarnāṭaẗa bi ʾaʿmāli hi li ʾaʿlāmi ʾiʿlāmi ăl wāridi ʿalay hi ʿaqda ăl ʾaṣli ăl muntasaḫa hāḏā min hu 
+ <lb n="9"/>qayyada bi ḏālika šahādata hu wa fī ăl ḥādī wa ăl ʿišrīna li raǧaba ăl fardi ăl mubāraki ʿāma ṯamāniyaẗ:in wa tisʿīna wa ṯamānī miyaẗ:in 
+ <lb n="10"/>ĭntahà wa naqala ʾilay hā šahādata hu min ḥayṯu waqaʿat fī ăl ʾaṣli baʿda ăl muqābalaẗi wa ăt taṣḥīḥi wa fī ăt tāsiʿa ʿašara li šahri 
+ <lb n="11"/>šaʿbāna ăl mukarrami ʿāma ṯamāniyaẗ:in wa tisʿīna wa ṯamānī miʾaẗ:in *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Louange à Dieu. [Ils ont dit:] La vénérable ʿĀʾiša bint al-ḥāǧǧ al-Waṭṭāsī a donné à son époux, Abu ʿAbd Allāh Muḥammad
+			<lb n="2"/>
+		b. Ibrāhīm b. Hišām al-Qaysī mandat pour la représenter dans la vente de ses propriété réputées lui appartenir à l&#039;intérieur de Grenade et en d&#039;autres lieux,
+			<lb n="3"/>
+		(vente qu&#039;il fera) au prix qui lui paraît juste et comme bon lui semble. (Ce mandat lui donne pouvoir) de prendre possession (du prix) et de délivrer une quittance après la prise de possession. Mandat total (qui donne au mandataire) une délégation définitive et générale. ʿĀʾiša a ainsi mandaté son époux pour agir en son nom
+			<lb n="4"/>
+		et à sa place. Le mandataire a accepté le mandat mentionné et l&#039;a agréé. Ont témoigné pour la mandante et le mandataire du contenu (de l&#039;acte) en leur nom les témoins
+			<lb n="5"/>
+		qu&#039;ils ont pris sur leur personne et qu&#039;ils savent qu&#039;ils sont sains (de corps et d&#039;esprit) et capables juridiquement le vingt-six ḏū l-qaʿda l&#039;an huit cent
+			<lb n="6"/>
+		quatre-ving-dix-sept. ʿAbd al-Rāziq b. Saʿīd al-Saʿīdī a témoigné, et Faraǧ b. Muḥammad b. Aḥmad a témoigné. On a reconnu leur témoignage oral et leur acceptation par délégation
+			<lb n="7"/>
+		du cadi Hurayra Muḥammad b. al-Zuwāwī - que Dieu lui accorde assistance et bienveillance! Paix sur qui s&#039;occupe de cela (de son métier). Fin. En comparant (cet acte)
+			<lb n="8"/>
+		et l&#039;original, ils (se sont avérés) identiques. À la demande (du juge) compétent de Grenade, dans l&#039;exercice de ses fonctions, et (à la demande) des (personnes) notables qui se sont adressées à lui, (les témoins instrumentaires ont attesté) que celle-ci était und copie du contrat original.
+			<lb n="9"/>
+		Selon quoi leurs témoignages ont été enregistrés le vingt et un raǧab, l&#039;isolé et sacré, de l&#039;année huit cent quatre-vingt-dix-huit.
+			<lb n="10"/>
+		Fin. On a transcrit les témoignages que se trouvaient dans l&#039;original, après les avoir confrontés et trouvés corrects. Le dix-neuf du mois de
+			<lb n="11"/>
+		šaʿbān, le sacré, de l&#039;année huit cent quatre-vingt-dix-huit. [Deux signatures illisibles et paraphées].
+</ab></div>
+</body>
+</text>
+</TEI>

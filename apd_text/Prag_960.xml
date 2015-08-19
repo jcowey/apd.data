@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1844" xml:id="Prag_960" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 96</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_960</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169581</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الڤرعة وسى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أوّله ما جرى به الرّسم من الأمير 
+<lb n="3"/>  و<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ثمن دينار لكل فدّان من مال المزارعين <app type="BL"><lem resp="APD">وخذ </lem><rdg resp="APD">وخذ</rdg></app> خطّه 
+<lb n="4"/>  بقبضه ذلك واستيفائه إيّاه من هذه الجهة المذكورة 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">فدفع </lem><rdg resp="Diem">فيدفع</rdg></app> الشّيخ أبو الفضل أيّده اللّه 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> الخـ<supplied reason="lost" cert="high">ـر</supplied>اج إن شا اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl Frʿaẗ wsy *** 
+ <lb n="2"/>*** *** ʾawwalu hu mā ǧarà bi hi ăr rasmu mina ăl ʾamīri 
+ <lb n="3"/>wa *** *** ṯaman dīnār:in li kulli faddān:in min māli ăl muzāriʿīna wa wuǧida ø ḫuḏ ḫaṭṭa ḫaṭṭu hu 
+ <lb n="4"/>bi qabḍi hi ḏālika wa ĭstīfāʾi hi ʾiyyā hu min hāḏihi ăl ǧihaẗi ăl maḏkūraẗi 
+ <lb n="5"/>*** *** fa dafaʿa yadfaʿu ăš šayḫu ʾabū ăl faḍli ʾayyada hu ăl lāhu 
+ <lb n="6"/>*** **** ăl ḫarāǧ ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...].... was üblich gewesen ist...
+		[...].... worüber die Verfügung des Amīrs ergangen ist,
+			<lb n="3"/>
+		und [...] ein Achtel Dīnār für jeden Faddān an Geld der Muzāraʿapächter, es wurde seine Bestätigung gefunden,
+			<lb n="4"/>
+		dies empfangen und es voll erhalten zu haben von dieser erwähnten Seite,
+			<lb n="5"/>
+		[...] Es hat also der Šēḫ Abuʾl-Faḍl - Gott stärke ihn - gezahlt
+			<lb n="6"/>
+		[...] ....... die St[eu]er, so Gott will.
+</ab></div>
+</body>
+</text>
+</TEI>

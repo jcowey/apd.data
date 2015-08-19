@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1157" xml:id="Diem_CPR_16_24" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_24</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169006</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وأبقاك وأمتع بك أظنّك تشرب الدّوا 
+<lb n="3"/>  فنفعك اللّه به ور<supplied reason="omitted" cert="high">ز</supplied>قك عليه الصّحّة 
+<lb n="4"/>  يأخي قد كنت أعلمتك أن العيال يريدون 
+<lb n="5"/>  شرب الدّوا اليوم فأصابهم عليه شي 
+<lb n="6"/>  حتّا ظننت أنّه الموت فجئت الطّبيب 
+<lb n="7"/>  فأعلمته علّتهم فذكر الخس والأسفيوش 
+<lb n="8"/>  وتشريب بينكس فإن رأيت حفظك اللّه 
+<lb n="9"/>  أن تبعث إلي بشرب أسفيوش وبينكس 
+<lb n="10"/>  فــ<supplied reason="lost" cert="high">ـعـ</supplied>ـلت <gap reason="illegible" extent="13" unit="character" /> <app type="BL"><lem resp="APD">اعتل </lem><rdg resp="APD">اغفل </rdg><rdg resp="APD">اعمل</rdg></app> 
+<lb n="11"/>  حفظك اللّه وأبقاك وأمتع بك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾamtaʿa bi ka ʾaẓunnu ka tašrabu ăd dawāʾa 
+ <lb n="3"/>fa nafaʿa ka ăl lāhu bi hi wa razaqa ka ʿalay hi ăṣ ṣiḥḥaẗa 
+ <lb n="4"/>yā ʾaḫ ī qad kuntu ʾaʿlamtu ka ʾanna ăl ʿiyāla yurīdūna 
+ <lb n="5"/>šurba ăd dawāʾi ăl yawma fa ʾaṣāba hum ʿalay hi šayʾ:un 
+ <lb n="6"/>ḥattā ẓanantu ʾanna hu ăl mawtu fa ǧiʾtu ăṭ ṭabība 
+ <lb n="7"/>fa ʾaʿlamtu hu ʿillata hum fa ḏakara ăl ḫassa wa ăl ʾasfiyūša 
+ <lb n="8"/>wa tašrība bīniksa fa ʾin raʾayta ḥafiẓa ka ăl lāhu 
+ <lb n="9"/>ʾan tabʿaṯa ʾilay ya bi šurbi ʾasfiyūša wa bīniksa 
+ <lb n="10"/>faʿalta ************* ʾʿtll ʾġfl ʾʿml 
+ <lb n="11"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾamtaʿa bi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott beschütze und erhalte dich und gebe an Dir Freude! Ich nehme an, daß du die bewußte Medizin einnimmst;
+			<lb n="3"/>
+		so möge Dir denn Gott durch sie Nutzen geben und Dir mit ihr Gesundheit schenken!
+			<lb n="4"/>
+		Mein Bruder! Ich hatte Dir mitgeteilt, daß meine Familie
+			<lb n="5"/>
+		heute die Medizin einnehmen wollte. Hierbei wurde sie so mitgenommen,
+			<lb n="6"/>
+		daß ich schon glaubte, ihr Tod stünde unmittelbar bevor. Ich suchte den Arzt auf
+			<lb n="7"/>
+		und schilderte ihm ihre Erkrankung, worauf er Lattich und Psyllium
+			<lb n="8"/>
+		und das Einflößen von Phoinix erwähnte. Wenn Du also der Meinung bist - Gott beschütze Dich-
+			<lb n="9"/>
+		mir einen Trank aus Psyllium und Phoinix zu übersenden,
+			<lb n="10"/>
+		dann tu dies bitte - - -!
+			<lb n="11"/>
+		Gott beschütze und erhalte Dich und gebe an Dir Freude!
+</ab></div>
+</body>
+</text>
+</TEI>

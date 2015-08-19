@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1644" xml:id="Grohmann_APEL_185" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 185</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_185</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169399</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  α γ دپپر 
+ <lb n="2"/>  پوم يپپه <unclear reason="undefined" cert="high">λ</unclear> الرڤعه αχ<unclear reason="undefined" cert="high">δ</unclear>ʹ‎ηʹ‎ 
+ <lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  أدّى سسنّه جرجه عمّا يلزمه عن آبار <app type="BL"><lem resp="APD">بقلوبدر </lem><rdg resp="Dietrich">إقلودي</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Dietrich">ø</rdg></app> قبالة 
+ <lb n="5"/>  رشوان بن عمر بن أحمد دينر ونصف وربع وثمن 
+ <lb n="6"/>  مثقال <app type="BL"><lem resp="APD">يرسله </lem><rdg resp="Diem">مرسلة</rdg></app> إلى بقام بن بقطر القسطال لخراج سنة 
+ <lb n="7"/>  احدى وسپپن وماپپن σξα 
+ <lb n="8"/>  دينر يرسله 
+ <lb n="9"/>  αχ<unclear reason="undefined" cert="high">δ</unclear>ʹ‎ηʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>‪1 ‪3 dīnār 
+ <lb n="2"/>yawmu tībahu ‪30 ăr ruqʿaẗu 1 1/2 1/3 1/24 1 1/2+1/4+1/8 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà sisinnahu ǧirǧaha ʿammā yalzamu hu ʿan ʾābāri biqlūbadra ʾiqlūdiyyi min ø qabālaẗi 
+ <lb n="5"/>rišwāna bni ʿumari bni ʾaḥmada dīnār wa niṣfa wa rubʿa wa ṯumna 
+ <lb n="6"/>miṯqāl:in yursil mursalaẗun hu ʾilà baqāma bni buqṭura ăl qusṭāli li ḫarāǧi sanaẗi 
+ <lb n="7"/>ʾiḥdà wa sittīna wa mitayni ‪261 
+ <lb n="8"/>dīnār yursil hu 
+ <lb n="9"/>‪1 1/2+1/4+1/8 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Dînâr
+		 <lb n="2"/>
+ 	  Sunday, Tubi 30, folio 3. 1 1/2+1/4+1/8.
+		 <lb n="3"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="4"/>
+ 	  Sisinna Ǧirǧe has paid on account of that which was due from him for the wells of Pa-Cleopatros from the tenancy of
+		 <lb n="5"/>
+ 	  Riswân b. ʿUmar b. Aḥmad, one dînâr and one half and one quarter and one eighth (of a dînâr)
+		 <lb n="6"/>
+ 	  miṯqâlî, which he sendeth to Pqâm b. Boqṭor, the treasurer, for the impost of the year
+		 <lb n="7"/>
+ 	  two hundred and sixty-one, 261.
+		 <lb n="8"/>
+ 	  Dînâr which he sendeth
+		 <lb n="9"/>
+ 	  1 1/2+1/4+1/8
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

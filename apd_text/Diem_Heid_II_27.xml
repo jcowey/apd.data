@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1390" xml:id="Diem_Heid_II_27" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 27</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_27</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169182</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">يا</supplied> <supplied reason="lost" cert="high">سيّدي</supplied> <supplied reason="lost" cert="high">أطا</supplied>ل اللّه بقاك وأدام عزّك 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وتأييدك</rdg></app> <supplied reason="lost" cert="high">كتبـ</supplied>ـت رقعتي هذه إليك 
+<lb n="4"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أعلمك</supplied> </lem><rdg resp="APD">أخبرك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أبقاك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">اللّه</rdg></app> خبر فترة قوريل وذلك أنّي 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فمطـ</supplied><unclear reason="undefined" cert="high">ـلني</unclear> فذهبت طلبت أبو نجم 
+<lb n="6"/>  <supplied reason="lost" cert="high">أعزّه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وميـ</supplied>ـنا الحمّار أعزّه اللّه فأعلموني 
+<lb n="7"/>  <supplied reason="lost" cert="high">أنّه</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>يريد الخروج سحـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="8"/>  <supplied reason="lost" cert="high">فأسلك</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أبقاك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">اللّه</rdg></app> أن تخلوا به حتّى 
+<lb n="9"/>  <supplied reason="lost" cert="high">يدفع</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دنـ</supplied>ـانير أقر أبو عبيد 
+<lb n="10"/>  <supplied reason="lost" cert="high">بها</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أبـ</supplied><unclear reason="undefined" cert="high">ـو</unclear> <unclear reason="undefined" cert="high">نجم</unclear> أعزّه اللّه 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـسه وتسله إلي 
+<lb n="12"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">هذه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">الـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> الدّنانير غدوة أو 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> الـ<unclear reason="undefined" cert="high">ـدّنـ</unclear><supplied reason="lost" cert="high">ـانـ</supplied>ـير لك و<unclear reason="undefined" cert="high">تسـ</unclear>ـلـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā sayyid ī ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="3"/>wa *** taʾyīda ø ka katabtu ruqʿat ī hāḏihi ʾilay ka 
+ <lb n="4"/>ʾuʿlimu ʾuḫbiru ka *** ʾabqā ø ka *** ăl ø lāhu ḫabar ḫabara fatraẗi qūrīla wa ḏālika ʾan nī 
+ <lb n="5"/>*** fa maṭala nī fa ḏahabtu ṭalabtu ʾabū naǧm:in 
+ <lb n="6"/>ʾaʿazza hu ăl lāhu wa mīnā ăl ḥammāra ʾaʿazza hu ăl lāhu fa ʾaʿlamū nī 
+ <lb n="7"/>ʾanna hu *** wa yurīdu ăl ḫurūǧa saḥar 
+ <lb n="8"/>fa ʾasalu ka *** ʾabqā ka *** ăl lāhu ʾan taḫluwa bi hi ḥattà 
+ <lb n="9"/>yadfaʿa *** danānīra ʾaqarra ʾabū ʿubayd:in 
+ <lb n="10"/>bi hā *** ʾabū naǧm:in ʾaʿazza hu ăl lāhu 
+ <lb n="11"/>*** ***s hu wa tasalu hu ʾilay ya 
+ <lb n="12"/>*** hāḏihi **** ăl *** ăd danānīra ġudwaẗ:an ʾaw 
+ <lb n="13"/>*** ăd danānīr la ka tasalu wa hu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gott]es, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[Mein Herr -] Gott lasse Dich lange leben und lasse Dein Ansehen
+			<lb n="3"/>
+		[und Dein(e) ... andauern - ich schrei]be Dir diesen meinen Brief,
+			<lb n="4"/>
+		[um Dir ...] Nachricht über die Nachlässigkeit von Kyrill [zu geben], und zwar steht es so, daß ich
+			<lb n="5"/>
+		[ihn ..., er aber] mich [hinhie]lt. Da machte ich mich auf die Suche nach Abū Naǧm
+			<lb n="6"/>
+		[- Gott stärke ihn - und Me]nas, den Eseltreiber - Gott stärke ihn -, und sie teilten mir mit,
+			<lb n="7"/>
+		[daß er (sc. Kyrill) ... und er] morgen ganz früh abreisen wolle.
+			<lb n="8"/>
+		[Deshalb bitte ich Dich ...,] daß Du ihn zur Seite nimmst, damit
+			<lb n="9"/>
+		[er (Zahl von drei bis zehn) Din]are bezahlt (?), welche Abū ʿUbayd anerkannt
+			<lb n="10"/>
+		[hat ... Ab]ū Naǧm (?) - Gott stärke ihn -
+			<lb n="11"/>
+		[...] - - - und bitte ihn für mich morgen früh
+			<lb n="12"/>
+		[um jene (?) (Zahl von drei bis zehn)] Dinare oder
+			<lb n="13"/>
+		[...] die Dinare (?) für Dich und bitte ihn [
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="441" xml:id="Grohmann_TWAe_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106633</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أبقاك اللّه وحفظك 
+<lb n="3"/>  <app type="BL"><lem resp="APD">كتب </lem><rdg resp="Diem">كيل</rdg></app> لفرّوخ بن خروف 
+<lb n="4"/>  <app type="BL"><lem resp="APD">مائتن </lem><rdg resp="Diem">مائتي</rdg></app> قسط عسل أباليم 
+<lb n="5"/>  <app type="BL"><lem resp="APD">وماپپن </lem><rdg resp="AK">مائتي</rdg></app> قسط <app type="BL"><lem resp="APD">عسل </lem><rdg resp="Diem">ø</rdg></app> رفيع مائة 
+<lb n="6"/>  من الأمطار ومائة من الحوض 
+<lb n="7"/>  إن شا اللّه 
+<lb n="8"/>  أبقاك اللّه وحفظك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+ <lb n="3"/>kitāb:un kīl li farrūḫa bni ḫarūfa 
+ <lb n="4"/>miʾatayni miʾatay qisṭi ʿasali ʾabālīma 
+ <lb n="5"/>wa miʾatay miʾatayni qisṭi qisṭ:in ʿasal:in rafīʿ:in miʾaẗ:un 
+ <lb n="6"/>mina ăl ʾamṭāri wa miʾaẗ:un mina ăl ḥawḍi 
+ <lb n="7"/>ʾin šāʾa ăl lāhu 
+ <lb n="8"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+			<lb n="2"/>
+		Gott erhalte Dich und behüte Dich.
+			<lb n="3"/>
+		Schreiben des Farrūḫ b. Ḫarūf:
+			<lb n="4"/>
+		zweihundert Xestes Ambrahonig
+			<lb n="5"/>
+		und zweihundert Xestes feinsten Honig, hundert
+			<lb n="6"/>
+		aus Schläuchen, hundert aus dem Behältnis,
+			<lb n="7"/>
+		so Gott will.
+			<lb n="8"/>
+		Gott erhalte Dich und behüte Dich.
+</ab></div>
+</body>
+</text>
+</TEI>

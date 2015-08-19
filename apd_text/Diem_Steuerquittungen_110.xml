@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2416" xml:id="Diem_Steuerquittungen_110" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_110</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 right"/>  <supplied reason="lost" cert="high">نجم</supplied> <supplied reason="lost" cert="high">أ</supplied>مشير 
+<lb n="1-2 left"/>  دينر ÷÷÷ 
+<lb n="3"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ا</supplied>لرّحمن الرّحيم 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">صـ</supplied>ـح له في ديوان أبي عيسى أعزّه <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">جـ</supplied>ـز<supplied reason="lost" cert="high">ية</supplied> رأسـه قبالة أحمد بن محمّد تسعة دنانير وثلثي دينر 
+<lb n="6"/>  <supplied reason="lost" cert="high">غير</supplied> <supplied reason="lost" cert="high">قيراط</supplied> لخراج سنة ثمان عشرة وثلثمائة 
+<lb n="7"/>  <supplied reason="lost" cert="high">÷</supplied>÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>naǧmu ʾamšīra 
+ <lb n="2"/>dīnār:un 9+1/2+1/8 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>*** bnu *** ṣaḥḥa la hu fī dīwāni ʾabī ʿīsà ʾaʿazza hu ăl lāhu 
+ <lb n="5"/>ʿan ǧizyaẗi raʾsi hi qabālaẗa ʾaḥmada bni muḥammad:in tisʿaẗu danānīra wa ṯulṯay dīnār:in 
+ <lb n="6"/>ġayra qīrāṭ:in li ḫarāǧi sanaẗi ṯamāni ʿašraẗa wa ṯalāṯi miʾaẗ:in 
+ <lb n="7"/>9+1/2+1/8 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Rate des A]mschir
+			<lb n="2"/>
+		Dinar 9 1/2 1/8
+			<lb n="3"/>
+		[Im Namen Gottes, d]es Barmherzigen und sich Erbarmenden!
+			<lb n="4"/>
+		Zugunsten von [Fulān ibn Fulān] sind im (Finanz)amt des Abū ʿĪsā - es stärke ihn [Gott] -
+			<lb n="5"/>
+		[für] seine Kopf[st]eu[er], Pachtung von Aḥmad ibn Muḥammad, neun Dinar und zwei Drittel Dinar
+			<lb n="6"/>
+		[weniger einem Karat] für die Steuer des Jahres dreihundertachtzehn verbucht worden.
+			<lb n="7"/>
+		9 1/2 1/8
+</ab></div>
+</body>
+</text>
+</TEI>

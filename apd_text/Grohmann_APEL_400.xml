@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1960" xml:id="Grohmann_APEL_400" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 400</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_400</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169692</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">ورثة</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـتوس ستّة وعشر<supplied reason="lost" cert="high">ين</supplied> <supplied reason="lost" cert="high">أبلوجة</supplied> 
+<lb n="2"/>  فدّان 
+<lb n="3"/>  الأمني نصف وربع فدّان لها أباليج عشرة 
+<lb n="4"/>  وفضلة وسط 
+<lb n="5"/>  مرقوريوس ستّة وأربعين أبلوجة بعد ما أخذ ثلثين أباليج 
+<lb n="6"/>  عدل <unclear reason="undefined" cert="high">واتتن</unclear> <del rend="erasure" status="unremarkable">وفصله</del> 
+<lb n="7"/>  وعدل ونصف وسط 
+<lb n="8"/>  وله علي أباليج سبعة عشر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>waraṯaẗu matawusa sittaẗ:un wa ʿišrīna ʾublūǧaẗ:an 
+ <lb n="2"/>faddān:un 
+ <lb n="3"/>ăl ʾamaniyyu niṣf:un wa rubʿu faddān:in la hā ʾabālīǧu ʿašaraẗ:un 
+ <lb n="4"/>wa faḍlaẗu wasaṭ:in 
+ <lb n="5"/>marqūriyūsu sittaẗ:un wa ʾarbaʿīna ʾublūǧaẗ:an baʿda mā ʾaḫaḏa ṯalāṯīna ʾabālīǧa 
+ <lb n="6"/>ʿadl ʿidlu wʾttn wa faḍlaẗ:un 
+ <lb n="7"/>wa ʿadl:un ʿidl:un wa niṣfu niṣf:un wasaṭ wasaṭ:in 
+ <lb n="8"/>wa la hu ʿalay ya ʾabālīǧu sabʿaẗa ʿašara 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[The heirs of Ma]tawus sixte[en sugar-loaves].
+			<lb n="2"/>
+		One faddân.
+			<lb n="3"/>
+		Al-Amanî a half and a quarter of a faddân, thereto ten sugar-loaves
+			<lb n="4"/>
+		and a surplus of medium (quality).
+			<lb n="5"/>
+		Mercurius forty-six sugar-loaves, after he had taken thirty sugar-loaves
+			<lb n="6"/>
+		of correct weight and a ... ... ... 〚and a surplus〛
+			<lb n="7"/>
+		and correct weight and half medium quality (?)
+			<lb n="8"/>
+		and to his credit and to my debit are seventeen sugar-loaves.
+</ab></div>
+</body>
+</text>
+</TEI>

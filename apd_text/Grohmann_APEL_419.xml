@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1876" xml:id="Grohmann_APEL_419" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 419</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_419</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169613</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  تذكرة ما خرج من الدّينر ودرهم 
+<lb n="3"/>  في ثمن <unclear reason="undefined" cert="high">الجزيف</unclear> خمسة الدّرهم ونصف 
+<lb n="4"/>  في ثمن ما ذكرا الدّفتر درهم 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/>ر <unclear reason="undefined" cert="high">الدّارس</unclear> درهم 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> درهم 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> درهم 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> درهم 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> درهم 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> درهم 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> درهم وربع 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taḏkiraẗu mā ḫaraǧa mina ăd dīnāri wa dirham:in 
+ <lb n="3"/>fī ṯamani ăl ǧazīfi ḫamsaẗu ăd dirhami wa niṣf:un 
+ <lb n="4"/>fī ṯamani mā ḏakarā ăd daftaru dirham:un 
+ <lb n="5"/>***r ăd dāris dirham:un 
+ <lb n="6"/>*** dirham:un 
+ <lb n="7"/>*** dirham:un 
+ <lb n="8"/>*** dirham:un 
+ <lb n="9"/>*** dirham:un 
+ <lb n="10"/>*** dirham:un 
+ <lb n="11"/>*** dirham:un wa rubʿ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Memory note of what has been disbursed of dînâr(s) and dirham(s)
+			<lb n="3"/>
+		for the price of the fishing-net | five dirhams and a half
+			<lb n="4"/>
+		for the price of that which is mentioned in the account book (?) | one dirham
+			<lb n="5"/>
+		[...]r, the thrasher
+		[...]r, the thrasher | one dirham
+			<lb n="6"/>
+		[...] one dirham
+			<lb n="7"/>
+		[...] one dirham
+			<lb n="8"/>
+		[...] one dirham
+			<lb n="9"/>
+		[...] one dirham
+			<lb n="10"/>
+		[...] one dirham
+			<lb n="11"/>
+		[...] one dirham and a quarter
+</ab></div>
+</body>
+</text>
+</TEI>

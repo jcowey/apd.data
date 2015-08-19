@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1093" xml:id="Grohmann_APEL_63" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 063</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_63</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">168959</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  هذه الوثيقة محجّة وكتب إدريس بن جعفر بيده 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  هذا ما اشترى أبو السّري بن هليه بن رفرفئيل من قوريل بن بنيله بن إسحق فهما يومئذ جميعا من سكّان الضّيعة المعروفة ببلجسوق <app type="BL"><lem resp="APD">قرية </lem><rdg resp="“Dietrich”">ترس
+</rdg></app> من قرا كورة 
+ <lb n="4"/>  الفيّوم اشترا منه صفقة واحد وعقد جميع حصّته إرته من الأسطواني ونصف السّطح مع <sic n="superfluous">حصّنه</sic><supplied reason="omitted" cert="high">حصته</supplied> من الخلا من جميع المنزل الّذي له بناحية الضّيعة المقدّم ذكرها 
+ <lb n="5"/>  بحدّهما وحدودهما وعلوهما وسفلهما <sic n="superfluous">وعلوهما</sic> وكل حق هو لهما داخل فيه او خارج منه شرا ثابت صحيح لا شرط فيه ولا وعد ولا وديعة و<unclear reason="undefined" cert="high">وستجرى</unclear> <unclear reason="undefined" cert="high">شها</unclear><expan><ex>دة</ex></expan> <unclear reason="undefined" cert="high">ذلك</unclear> 
+ <lb n="6"/>  بثمن مبلغه من العين نصف دينرا وثمن دينرا عينا ذهبا وازنة جيادا <sic n="superfluous">سلم</sic><supplied reason="omitted" cert="high">تسلّم</supplied> قوريل بن بنيله بن إسحق جميع من هذا الثّمن تامّا وافيا وأبرأه من جميع 
+ <lb n="7"/>  براه قبض واستيفا <sic n="superfluous">وسلم</sic><supplied reason="omitted" cert="high">وتسلّم</supplied> أبو السّري بن هليه بن رفرفئيل هذه الحصّة المذكورة وحازها وملكها وصارت في قبضه يتحكّم فيها حكم 
+ <lb n="8"/>  مالايمان في أربابهم وحكم <sic n="superfluous">الاملاك</sic> الملّاك في ملكهم إن شا باع وإن شا وهب <unclear reason="undefined" cert="high">فـ</unclear>ـمتى ما أدرك <app type="BL"><lem resp="APD">السرى </lem><rdg resp="“Dietrich”">أبو</rdg></app> پن هليه ڤى سرايه هذا درك علڤه او حصومه 
+ <lb n="9"/>  من النّاس كلّهم قريب أو بعيد شاهد أو غائب <app type="BL"><lem resp="APD">فـ<supplied reason="omitted" cert="high">ـإ</supplied>نقاذ </lem><rdg resp="“Frantz-Murphy; AK”">فنفاذ </rdg><rdg resp="“Diem, P.KölnKauf p. 46”">فنفاذه</rdg></app> ذلك وخلاصه على قوريل بن بنيله بن إسحق كائن ما كان وبالغ ما بلغ وعلى بيع الإسلام 
+ <lb n="10 right"/>  وعهدتهم وذلك في مستهل شعبان سنة أربع وثلثين وأربع ماية 
+ <lb n="10 left"/>  شهد سليمان بن إدريس بن جعفر على إقرار البائع والمشتري 
+ <lb n="11 left"/>  بجميع ما فيه وكتب بخطّه <gap reason="illegible" extent="5" unit="character" /> <unclear reason="undefined" cert="high">محمّد</unclear> <gap reason="illegible" extent="7" unit="character" /> 
+ <lb n="11 right"/>  شهد موسى بن إبرهيم على إقرار المقر 
+ <lb n="12 right"/>  بجميع ما سمّي <supplied reason="omitted" cert="high">و</supplied>وصف فيه وكتب عنه بأمره ومحضره صح 
+ <lb n="12 left"/>  شهد حسين بن السّري بجميع 
+ <lb n="13 left"/>  ما سمّي <supplied reason="omitted" cert="high">و</supplied>وصف فيه وكتب عنه بأمره ومحضره صح 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>hāḏihi ăl waṯīqaẗu muḥiǧǧaẗ:un wa kataba ʾidrīsu bnu ǧaʿfara bi yadi hi 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā mā ĭštarà ʾabū ăs sariyyi bnu hiliyaha bni rafrafʾīla min qūrīla bni banīlaha bni ʾisḥāqa fa humā yawma ʾiḏ:in ǧamīʿ:an min sukkāni ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi bulǧusūqa bulǧusūqi qaryaẗ:un tirisa min qurā kūraẗi 
+ <lb n="4"/>ăl fayyūmi ĭštarā min hu ṣafqaẗ:an wāḥid wa ʿaqd ǧamīʿa ḥiṣṣati hi ʾirta hu mina ăl ʾusṭuwāniyyi wa niṣfa ăs saṭḥi maʿa ḥiṣṣati hi mina ăl ḫalāʾi min ǧamīʿi ăl manzili ăllaḏī la hu bi nāḥiyaẗi ăḍ ḍayʿaẗi ăl muqaddami ḏikru hā 
+ <lb n="5"/>bi ḥaddi himā wa ḥudūdi himā wa ʿulwi himā wa sufli himā wa kulli ḥaqq:in huwa la humā dāḫil fī hi ʾaw ḫāriǧ min hu širā ṯābit ṣaḥīḥ lā šarṭa fī hi wa lā waʿd:un wa lā wadīʿaẗ:un wa sa taǧrī šahādaẗu ḏālika 
+ <lb n="6"/>bi ṯaman:in mablaġu hu mina ăl ʿayni niṣfu dīnār:an wa ṯumnu dīnār:an ʿayn:an ḏahab:an wāzinaẗ:an ǧiyād:an tasallama qūrīlu bnu banīlaha bni ʾisḥāqa ǧamīʿ min hāḏā ăṯ ṯamani tāmm:an wāfiy:an wa ʾabraʾa hu min ǧamīʿ:in 
+ <lb n="7"/>barāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa tasallama ʾabū ăs sariyyi bnu hiliyaha bni rafrafʾīla hāḏihi ăl ḥiṣṣaẗa ăl maḏkūraẗa wa ḥāza hā wa malaka hā wa ṣārat fī qabḍi hi yataḥakkamu fī hā ḥukma 
+ <lb n="8"/>mʾlʾymʾn fī ʾarbābi him wa ḥukma ăl mullāki fī milki him ʾin šāʾa bāʿa wa ʾin šāʾa wahaba fa matà mā ʾadraka ø ʾabū ăs sariyya sariyyi bna hiliyaha fī širāyi hi hāḏā daraku ʿulqaẗ:in ʾaw ḫuṣūmaẗ:in 
+ <lb n="9"/>mina ăn nāsi kulli him qarīb:in ʾaw baʿīd:in šāhid:in ʾaw ġāʾib:in fa ʾinqāḏu nafāḏu nafāḏu ø hu ḏālika wa ḫalāṣu hu ʿalà qūrīla bni banīlaha bni ʾisḥāqa kāʾin mā kāna wa bāliġ mā balaġa wa ʿalà bayʿi ăl ʾislāmi 
+ <lb n="10"/>wa ʿuhdati him wa ḏālika fī mustahalli šaʿbāna sanaẗa ʾarbaʿ:in wa ṯalāṯīna wa ʾarbaʿi miyaẗ:in 
+ <lb n="11"/>šahida sulaymānu bnu ʾidrīsa bni ǧaʿfara ʿalà ʾiqrāri ăl bāʾiʿi wa ăl muštarī 
+ <lb n="12"/>bi ǧamīʿi mā fī hi wa kataba bi ḫaṭṭi hi ***** muḥammad ******* 
+ <lb n="13"/>šahida mūsà bnu ʾibrāhīma ʿalà ʾiqrāri ăl muqirri 
+ <lb n="14"/>bi ǧamīʿi mā summiya wa wuṣifa fī hi wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi ṣaḥḥa 
+ <lb n="15"/>šahida ḥusaynu bnu ăs sariyyi bi ǧamīʿi 
+ <lb n="16"/>mā summiya wa wuṣifa fī hi wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi ṣaḥḥa 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  This act is probatory and Idrîs b. Ǧaʿfar has written (it) by his hand.
+		 <lb n="2"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="3"/>
+ 	  This is what Abu&#039;s-Sarî b. Helia b. Rafrafʾîl has bought from Cyril b. Banîle b. Isḥâq, who both jointly are numbered at this time among the inhabitants of the domain known as Bulǧusûq, one of the villages of the district of
+		 <lb n="4"/>
+ 	  al-Fayyûm: he has bought from him in one striking (of hands) and contract his whole share, his inheritance of the portico and the half of the upper part, whith his share of the unoccupied (part) of the whole dwelling house belonging to him, in the district of the domain previously mentioned,
+		 <lb n="5"/>
+ 	  to their limit and boundaries and (including what) is above and below the surface and every right connected with them within or without, in form of a right, valid purchase, in which is no condition and no promise and no deposit, - and testimony will be given thereto -,
+		 <lb n="6"/>
+ 	  for a price which in gold-coins amounts to a half and an eighth of a dînâr, gold-coins, full weight, good pieces. Cyril b. Banîle b. Isḥâq has received the whole of this price fully and entirely and has given him a quittance for (it) all
+		 <lb n="7"/>
+ 	  by means of a receipt (acknowledging that he has) received and taken (it) over fully, and Abu&#039;s-Sarî b. Helia b. Rafrafʾîl has taken over this share (above) mentioned, and has acquired and taken possession of it, and it has passed into his possession and he has taken it over, he having free disposition of it according to the free disposition
+		 <lb n="8"/>
+ 	  of ............... over ............... and the free disposition of proprietors over their property, (so that) if he will, he may sell it, and if he will, he may give it away. But if any evil consequence (vindicatio) with regard to this his purchase should ensue to as-Sarî b. Helia on the basis of any contention or litigation
+		 <lb n="9"/>
+ 	  on the part of any persons, be they near or far, present or absent, then the recuperation and indemnification therefor are incumbent upon Cyril b. Banîle b. Isḥâq, whatever it might be or amount to, and according to Islamic purchase
+		 <lb n="10"/>
+ 	  and tho their (the Muslims) covenant, and this (took place) at the beginning of Šaʿbân of the year four hundred and thirty four.
+		 <lb n="11"/>
+ 	   Sulaimân b. Idrîs b. Ǧaʿfar is witness to the acknowledgment by the seller and buyer
+		 <lb n="12"/>
+ 	  respecting all that (is contained) herein and he has written (it) in his (own) handwriting .............................. Muḥammad ...............
+		 <lb n="13"/>
+ 	  Mûsâ b. Ibrahîm is witness to the acknowledgment by the acknowledger
+		 <lb n="14"/>
+ 	  respecting all that is named &lt;and&gt; described herein, and it has been written for him at his order and in his presence. Valid.
+		 <lb n="15"/>
+ 	  Ḥusain b. as-Sarî is witness respecting all
+		 <lb n="16"/>
+ 	  that is named &lt;and&gt; described, and it has been written for him at his order and in his presence. Valid.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

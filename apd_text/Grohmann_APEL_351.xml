@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1861" xml:id="Grohmann_APEL_351" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 351</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_351</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169598</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه ا<supplied reason="lost" cert="high">لرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيـ</supplied>ـم 
+<lb n="2"/>  أكرمكما اللّه وأبقاكما ادفـ<supplied reason="lost" cert="high">ـعا</supplied> 
+<lb n="3"/>  إلى جعفر بن يوسف العطّار <app type="BL"><lem resp="APD">الأسير </lem><rdg resp="Diem">الأثير</rdg></app> 
+<lb n="4"/>  دينر وسدس وسدس ثمن 
+<lb n="5"/>  في رزقه <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">لحفظ</unclear> </lem><rdg resp="Diem. Last two letters reconstructed">لجمادى</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="6"/>  وكتب في شهر رمضان من سنة اثنين وستّين ومائتـ<supplied reason="lost" cert="high">ـي</supplied> 
+<lb n="7"/>  افعلا ذلك وادفعا <app type="BL"><lem resp="APD">أوراق </lem><rdg resp="Diem">أوزان</rdg></app> هذا الأمر إليه وعجّلا 
+<lb n="8"/>  ذلك <app type="BL"><lem resp="APD">واكتبا </lem><rdg resp="Diem">واحتسبا</rdg></app> به إن شا اللّه 
+<lb n="9"/>  افعلا ذلك إن شا اللّه 
+<lb n="10"/>  الحمد للّه رب العالمين كثيرا وصلّى اللّه على محمّد <app type="BL"><lem resp="APD">النّبي </lem><rdg resp="Diem">وآله</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama kumā ăl lāhu wa ʾabqā kumā ĭdfaʿā 
+ <lb n="3"/>ʾilà ǧaʿfara bni yūsufa ăl ʿaṭṭāri ăl ʾasīri ʾaṯīri 
+ <lb n="4"/>dīnār wa suds wa sudsa ṯumn:in 
+ <lb n="5"/>fī rizqi hi li ḥifẓi ǧumādà *** ***** * * 
+ <lb n="6"/>wa kutiba fī šahri ramaḍāna min sanaẗi ĭṯnayni wa sittīna wa miʾatay 
+ <lb n="7"/>ĭfʿalā ḏālika wa ĭdfaʿā ʾawrāqa ʾawzāna hāḏā ăl ʾamri ʾilay hi wa ʿaǧǧilā 
+ <lb n="8"/>ḏālika wa ŭktubā ĭḥtasibā bi hi ʾin šāʾa ăl lāhu 
+ <lb n="9"/>ĭfʿalā ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="10"/>ăl ḥamdu li l lāhi rabbi ăl ʿālamīna kaṯīr:an wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn wa nabiyyi ʾāli ø hi ø wa ø sallama 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, t[he Compassionate, the Merci]ful.
+			<lb n="2"/>
+		May God honour both of you and keep you alive. Hand over
+			<lb n="3"/>
+		... Ǧaʿfar ibn Yūsuf, dem geschätzten Drogisten.
+		to Ǧaʿfar b. Yûsuf, the druggist, the prisoner,
+			<lb n="4"/>
+		one dînâr and a sixth and a sixth of an eighth
+			<lb n="5"/>
+		for his maintenance, for care [...?...] ......
+			<lb n="6"/>
+		Written in the month of Ramaḍân of the year [two] hundred and sixty two.
+			<lb n="7"/>
+		Perform this, and hand over to him the papers of this order, and be quick
+		Tut dies und händigt ihm die in dieser Anordnung genannten (Münz)gewichte (d.h. Beträge) aus! Und erledigt
+			<lb n="8"/>
+		dies umgehend und verbucht es, so Gott will!
+		with them, and give written orders for it, if God wills.
+			<lb n="9"/>
+		Perform this, if God wills.
+			<lb n="10"/>
+		Praise be often to God, the Lord of all created beings. And may the blessing of God be upon Muḥammad, the Prophet.
+</ab></div>
+</body>
+</text>
+</TEI>

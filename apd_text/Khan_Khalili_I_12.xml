@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1286" xml:id="Khan_Khalili_I_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 12 (= P.Khalili II 100)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169109</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بـ</supplied>ــسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهدت في كتاب ليعقوب 
+<lb n="3"/>  بن إسحق بن إسمعيل البغدادي 
+<lb n="4"/>  على <supplied reason="lost" cert="high">هـ</supplied>ـرون مولى إسحق بن 
+<lb n="5"/>  إسمعيل البغدادي أن ليعقوب 
+<lb n="6"/>  بن إسحق عليه تسعين دينار 
+<lb n="7"/>  حالة ليعقوب عليه أشهدني 
+<lb n="8"/>  في ذي القعدة سنة ثلثين 
+<lb n="9"/>  ومائتن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahidtu fī kitāb:in li yaʿqūba 
+ <lb n="3"/>bni ʾisḥāqa bni ʾismāʿīla ăl baġdādiyyi 
+ <lb n="4"/>ʿalà hārūna mawlà ʾisḥāqa bni 
+ <lb n="5"/>ʾismāʿīla ăl baġdādiyyi ʾanna li yaʿqūba 
+ <lb n="6"/>bni ʾisḥāqa ʿalay hi tisʿīna dīnār 
+ <lb n="7"/>ḥālaẗ:an li yaʿqūba ʿalay hi ʾašhada nī 
+ <lb n="8"/>fī ḏī ăl qaʿdaẗi sanaẗa ṯalāṯīna 
+ <lb n="9"/>wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+			<lb n="2"/>
+		I bore witness in a document for Yaʿqūb
+			<lb n="3"/>
+		Ibn ʾIsḥāq bin ʾIsmaʿīl al-Baġdādī
+			<lb n="4"/>
+		against [Hā]rūn the freedman of ʾIsḥāq ibn
+			<lb n="5"/>
+		ʾIsmaʿīl al-Baġdādī that Yaʿqūb
+			<lb n="6"/>
+		ibn ʾIsḥāq was owed by him ninety dīnārs,
+			<lb n="7"/>
+		(the payment) by him (of this) to Yaʿqūb being now due. He called me to witness
+			<lb n="8"/>
+		in Dhū al-Qaʿda, in the year two hundred
+			<lb n="9"/>
+		and thirty
+</ab></div>
+</body>
+</text>
+</TEI>

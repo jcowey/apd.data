@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2041" xml:id="Grohmann_APEL_286" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 16 (= P.Cair.Arab. 286)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_286</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه من أهل مدينة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه إردب وسبعة عـ<supplied reason="lost" cert="high">ـشر</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">إرد</supplied>ب قمح توفّياها في الهري 
+<lb n="4"/>  <supplied reason="lost" cert="high">لضريبة</supplied> <supplied reason="lost" cert="high">الطّعام</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">سبع</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>ثمنين </lem><rdg resp="Becker only speculates where on the papyrus Karabacek read this. He thinks it quite improbable.">منف</rdg></app> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتبه</supplied> عبد اللّه بن جرير في ذي القعدة 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـبع وثمنين 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <supplied reason="lost" cert="high">ومبلغـ</supplied>ـها ست مئة وسبعة عشر وثلثي إردب قمح 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ***h min ʾahli madīnaẗi *** 
+ <lb n="2"/>*** ***aẗ ʾirdabb:in wa sabʿaẗa ʿašara 
+ <lb n="3"/>ʾirdabb qamḥ:in tawaffayā hā fī ăl huryi 
+ <lb n="4"/>li ḍarībaẗi ăṭ ṭaʿāmi sanaẗa sabʿ:in wa manfa ṯamānīna 
+ <lb n="5"/>*** wa kataba hu ʿabdu ăl lāhi bnu ǧarīr:in fī ḏī ăl qaʿdaẗi 
+ <lb n="6"/>*** sanaẗ sabʿ:in wa ṯamānīna 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 7 * 
+ <lb n="13"/>*** 
+ <lb n="14"/>wa mablaġu hā sittu miʾaẗ:in wa sabʿaẗa ʿašara wa ṯulṯay ʾirdabbi qamḥ:in 
+ <lb n="15"/>*** 617+2/3 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] numbering among the people of the town of ......[
+			<lb n="2"/>
+		..].. artabas and sevente[en  ]
+			<lb n="3"/>
+		artab]as of wheat, which they both have received in full in the barns
+		Die beiden haben sie (die Artaben) voll empfangen
+			<lb n="4"/>
+		[for the corn-tax (embolé) of the year] eighty-[seven],
+		für die Naturalabgabe (griech. ἐμβολή) des Jahres siebenundachtzig.
+			<lb n="5"/>
+		[and] ʿAbdallâh b. Ǧarîr [has written it] in Ḏû&#039;l-Qaʿda
+			<lb n="6"/>
+		[of the year] eighty-[se]ven.
+			<lb n="7"/>
+		In the name of God, Omar, son of Abip, and [...... the superintendents]
+			<lb n="8"/>
+		of the public barns at Babylon, to you, peo[ple of  ]
+			<lb n="9"/>
+		You have delivered to us for the present fifth indiction through the......[ ... ]
+			<lb n="10"/>
+		of the village, 617 2/3 artabas of wheat, six hundred and sev[en]teen [and two thirds]
+			<lb n="11"/>
+		Phaophi of the fifth indiction. .......... [
+			<lb n="12"/>
+		7 (?) [
+			<lb n="13"/>
+		That makes 617 2/3 artabas of wheat,
+			<lb n="14"/>
+		[the amount] thereof (being) six hundred and seventeen and thwo thirds of artabas of wheat.
+			<lb n="15"/>
+		617 2/3
+</ab></div>
+</body>
+</text>
+</TEI>

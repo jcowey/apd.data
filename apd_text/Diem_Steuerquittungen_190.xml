@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2460" xml:id="Diem_Steuerquittungen_190" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 19</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_190</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">نجـ</supplied>ـمي بشانس 
+<lb n="2"/>  وبوپه لخراج سنة أ<supplied reason="lost" cert="high">ر</supplied>بع وأربعين وثلثمائة 
+<lb n="3"/>  أربعة الدّنانير ونصف سدس و<unclear reason="undefined" cert="high">سدس</unclear> <unclear reason="undefined" cert="high">ثمن</unclear> د<supplied reason="lost" cert="high">ينر</supplied> 
+<lb n="4"/>  مغسولة وكتب يحنّس بن مينا 
+<lb n="5"/>  بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** naǧmay bašānsa 
+ <lb n="2"/>wa baʾuniha li ḫarāǧi sanaẗi ʾarbaʿ:in wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="3"/>ʾarbaʿaẗa ăd danānīri wa niṣfa suds:in wa sudsa ṯumni dīnār:in 
+ <lb n="4"/>maġsūlaẗ:an wa kataba yuḥannisu bnu mīnā 
+ <lb n="5"/>bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[..........] ... beiden [Ter]mine des Baschans
+			<lb n="2"/>
+		und des Payni für die Steuer des Jahres dreihundertv[ie]rundvierzig
+			<lb n="3"/>
+		vier Dinar und ein Zwölftel und ein Achtundvierzigstel (?) eines D[inars],
+			<lb n="4"/>
+		gewaschene. Es schrieb (dies) Yuḥannis ibn Mīnā
+			<lb n="5"/>
+		eigenhändig.
+</ab></div>
+</body>
+</text>
+</TEI>

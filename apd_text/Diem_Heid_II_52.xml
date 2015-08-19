@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1444" xml:id="Diem_Heid_II_52" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 52</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_52</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169229</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  حفظك اللّه وأ<supplied reason="lost" cert="high">بقاك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  أعلمك جعلني اللّه فداك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  و<unclear reason="undefined" cert="high">و</unclear>الدي أبوا سعيد المو<supplied reason="lost" cert="high">دن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <app type="BL"><lem resp="APD">هـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">هذا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا </lem><rdg resp="APD">وأنا</rdg></app> في طلب أبوا الخير <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مدّ</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="6"/>  في عمرك وليس بيدي نفقـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  أبوا عبد اللّه حفظه اللّه من عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9 right margin 1"/>  فإنّك في أمري مأمون وإنّما أرا هذا من اللّه 
+<lb n="10 right margin 2"/>  ومنك وواللّه لقد أمسيت وأصبحت 
+<lb n="11 right margin 3"/>  وما أملك قليل ولا كثير فاجمل في <supplied reason="lost" cert="high">هذ</supplied>ا <supplied reason="lost" cert="high">إ</supplied>ن شا اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka *** 
+ <lb n="3"/>ʾuʿlimu ka ǧaʿala nī ăl lāhu fidāʾa ka *** 
+ <lb n="4"/>wa wālid ī ʾabū saʿīd:ini ăl muʾaḏḏinu *** 
+ <lb n="5"/>h*** hāḏā ***ʾ wa ø ʾanā fī ṭalabi ʾabū ăl ḫayri *** madda ăl lāhu 
+ <lb n="6"/>fī ʿumri ka wa laysa bi yaday ya nafaqaẗ:un *** 
+ <lb n="7"/>ʾabū ʿabdi ăl lāhi ḥafiẓa hu ăl lāhu min ʿ*** 
+ <lb n="8"/>*** *** *** ***** *** 
+ <lb n="9"/>fa ʾinna ka fī ʾamr ī maʾmūn:un wa ʾinnamā ʾarā hāḏā mina ăl lāhi 
+ <lb n="10"/>wa min ka wa wa ăl lāhi la qad ʾamsaytu wa ʾaṣbaḥtu 
+ <lb n="11"/>wa mā ʾamliku qalīl:un wa lā kaṯīr:un fa ŭǧmul fī hāḏā ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barm[herzigen und Gnädigen!]
+			<lb n="2"/>
+		Gott schütze und er[halte Dich
+			<lb n="3"/>
+		Ich teile Dir mit - Gott mache mich zu Deinem Lösegeld -, [daß
+			<lb n="4"/>
+		und mein Vater Abū Saʿīd, der Muʾa[ḏḏin (?)
+			<lb n="5"/>
+		- - - bei der Suche nach Abū l-Ḫayr (?) [
+			<lb n="6"/>
+		Dein Leben -, und ich verfüge nicht über Unterha[lt
+			<lb n="7"/>
+		Abū ʿAbdallāh - Gott erhalte ihn - von ʿ[
+		Abū ʿAbdallāh von ʿ[
+			<lb n="8"/>
+			<lb n="9"/>
+		denn Du bist in meiner Angelegenheit vertrauenswürdig; und ich erwarte dies von Gott
+			<lb n="10"/>
+		und von Dir, und bei Gott: ich habe den ganzen Tag verbracht,
+			<lb n="11"/>
+		ohne daß ich irgendetwas besitze. Deshalb erweise Dich freundlich hierbei, so Gott will.
+</ab></div>
+</body>
+</text>
+</TEI>

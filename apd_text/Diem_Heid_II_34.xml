@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1410" xml:id="Diem_Heid_II_34" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 34</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_34</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169200</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المرجو من اللّه رحمته 
+<lb n="2"/>  الّذي تحصل من تمن القمح والشّعير 
+<lb n="3"/>  <app type="BL"><lem resp="rāʾ with horizontal stroke above">إيجاز </lem><rdg resp="rāʾ with horizontal stroke above">إنجاز </rdg><rdg resp="rāʾ with horizontal stroke above">إيجاز </rdg><rdg resp="rāʾ with horizontal stroke above">إيجار </rdg><rdg resp="rāʾ with horizontal stroke above">إبخار</rdg></app> صندلة <app type="BL"><lem resp="APD">اببع </lem><rdg resp="APD">أبيع</rdg></app> في المحلّة من الدّراهم 
+<lb n="4"/>  النقرة ستّة والأربعين درهم عن 
+<lb n="5"/>  قمح تمانية وعشرين درهم وعن 
+<lb n="6"/>  شعير تمانية عشر درهم وذلك 
+<lb n="7"/>  بحضور مسكنتي أنا المسكين الحقير 
+<lb n="8"/>  بطرس بالاسم بالمحلّة والحمد للّه دائما أبدا 
+<lb n="right margin"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl marǧuwwu mina ăl lāhi raḥmatu hu 
+ <lb n="2"/>ăllaḏī taḥṣulu min tamani ăl qamḥi wa ăš šaʿīri 
+ <lb n="3"/>ʾBḥʾr ʾīǧāru ʾīǧāzu ʾibḫāru ʾinǧāzu ṣandalaẗ:in ʾBBʿ ʾubīʿa fī ăl maḥallaẗi mina ăd darāhimi 
+ <lb n="4"/>ăn nuqraẗi sittaẗ:an wa ăl ʾarbaʿīna dirham ʿan 
+ <lb n="5"/>qamḥ:in tamāniyaẗ:an wa ʿišrīna dirham wa ʿan 
+ <lb n="6"/>šaʿīr:in tamāniyaẗa ʿašara dirham wa ḏālika 
+ <lb n="7"/>bi ḥuḍūri maskanat ī ʾanā ăl miskīni ăl ḥaqīri 
+ <lb n="8"/>buṭrusa bi ăl ĭsmi bi ăl maḥallaẗi wa ăl ḥamdu li l lāhi dāʾim:an ʾabad:an 
+ <lb n="9"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Das von Gott Erbetene ist seine Barmherzigkeit.
+			<lb n="2"/>
+		Der Betrag, der sich aus dem Preis von Weizen und Gerste
+			<lb n="3"/>
+		- - - in al-Maḥallah ergeben hat, beläuft sich auf
+			<lb n="4"/>
+		sechsundvierzig Dirham aus Reinsilber: für
+			<lb n="5"/>
+		Weizen achtundzwanzig Dirham und für
+			<lb n="6"/>
+		Gerste achtzehn Dirham, und dies (geschah)
+			<lb n="7"/>
+		in Gegenwart meiner Armseligkeit, des Armen und Niederen
+			<lb n="8"/>
+		namens Buṭrus in al-Maḥallah. Lob sei Gott immer und ewig!
+			<lb n="9"/>
+		Der gerin(gste) Petros.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1310" xml:id="SilvestredeSacy_Papyrus_02" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SilvestredeSacyPapyrus B (= P.RagibSauf-conduits 8)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">SilvestredeSacy_Papyrus_02</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169127</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="upper left corner"/>  نسخت 
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـمن الرّحيم 
+<lb n="2"/>  هذا كتب من جابر بن عبيد عامل الأمير عبد الملك بن يزيد 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">على</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">كورة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">منف</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">لـ<gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">ـ<gap reason="illegible" precision="low" extent="3"/>م</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib with uncerain reading">هرم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">ا<gap reason="illegible" precision="low" extent="3"/></rdg></app> أقنى <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">أمرد</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">من</rdg></app> 
+<lb n="4"/>  أهل دير أبي هرميس من كورة منف إنّي أذنت له <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">ينطلق</rdg></app> 
+<lb n="5"/>  إلى الصّعيد في <app type="BL"><lem resp="APD">حرمه </lem><rdg resp="Rāġib">جزيته</rdg></app> <app type="BL"><lem resp="APD">ومعيشه </lem><rdg resp="Rāġib">ومعيشته</rdg></app> <app type="BL"><lem resp="APD">وأجّلته </lem><rdg resp="Rāġib">وأجّلته</rdg></app> إلى <app type="BL"><lem resp="APD">انسلاخ </lem><rdg resp="Rāġib">انسلخ</rdg></app> 
+<lb n="6"/>  شوّال سنة ثلث وثلثين ومائة فمن لقيه من عمّال الأمير 
+<lb n="7"/>  أصلحه اللّه فلا يعرض له إلى ذلك من الأجل <app type="BL"><lem resp="APD">وإلّا </lem><rdg resp="Rāġib">إلّا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">بخير</rdg></app> 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">وكتب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">إبرهيم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">في</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">مستهلّ</rdg></app> شوّال سنة ثلث وثلثين 
+<lb n="9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">ومائة</rdg></app> 
+<lb n="seal line 1"/>  فوّض جابر 
+<lb n="seal line 2"/>  أمره إلى الرّحمن 
+<lb n="seal line 3"/>  الرّحيم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>nusḫat:un nusiḫat 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min ǧābiri bni ʿubayd:in ʿāmili ăl ʾamīri ʿabdi ăl maliki bni yazīda 
+ <lb n="4"/>*** ʿalà *** kūraẗi *** manfa *** li ø *** *** ***m *** harim:in *** ʾ*** ʾaqnà *** ʾamrada *** *** min 
+ <lb n="5"/>ʾahli dayri ʾabī harmīsa min kūraẗi manfa ʾin nī ʾaḏintu la hu *** yanṭaliqu 
+ <lb n="6"/>ʾilà ăṣ ṣaʿīdi fī ḥurami ǧizyati hi wa maʿāyiši maʿīšati hi wa ʾaǧǧaltu ʾaǧlābi hi hu ʾilà ĭnsilāḫi 
+ <lb n="7"/>šawwāl:in sanaẗa ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in fa man laqiya hu min ʿummāli ăl ʾamīri 
+ <lb n="8"/>ʾaṣlaḥa hu ăl lāhu fa lā yaʿriḍ la hu ʾilà ḏālika mina ăl ʾaǧali ø wa ʾillā *** bi ø ḫayr:in 
+ <lb n="9"/>*** wa ø kataba *** ʾibrāhīmu *** fī *** mustahalli šawwāl šawwāl:in sanaẗa ṯalāṯ:in wa ṯalāṯīna 
+ <lb n="10"/>*** wa ø miʾaẗ:in 
+ <lb n="11"/>fawwaḍa ǧābir:un 
+ <lb n="12"/>ʾamra hu ʾilà ăr raḥmāni 
+ <lb n="13"/>ăr raḥīmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Copie
+		Il a été transcrit.
+			<lb n="2"/>
+		[Au nom de Dieu, clé]ment et miséricordieux !
+		Au nom du Dieu clément et miséricordieux.
+			<lb n="3"/>
+		Ceci est un écrit de Djaber fils d&#039;Obeïd, intendant de l&#039;émir Abd-almélic, fils de Yézid
+		[Ce]ci est une lettre de Ǧābir b. ʿUbayd, l&#039;agent de lémir ʿAbd al-Malik b. Yazīd
+			<lb n="4"/>
+		... ayant le nez relevé en bosse... des
+		[sur le district de Manf à... ] décrépit (?), ..., ayant le nez aquilin, imberbe, [..., des]
+			<lb n="5"/>
+		gens du monastère d&#039;Abū Harmīs du district de Manf. Je lui ai permis de se rendre
+		habitans du (lieu nommé le) monastère d&#039;Abou-Hermès, du nome de Memphis; (attestant) que je lui ai permis...
+			<lb n="6"/>
+		dans le Saïd avec sa femme, ses provisions et ses marchandises, jusqu&#039;à la fin
+		dans le Saʿīd pour sa capitation et sa subsistance et je lui ai fixé pour délai la fin
+			<lb n="7"/>
+		de šawwāl l&#039;année cent trente-trois. Qui donc le rencontrera des agent de l&#039;émir
+		de schawal de l&#039;année 133. Si quelqu&#039;un des intendans de l&#039;émir,
+			<lb n="8"/>
+		que Dieu lui accorde le bonheur ! le rencontre, il ne doit lui opposer aucun empêchement, soit que ce soit un des principaux (officiers) ou...
+		- que Dieu lui donne probité ! ne devra lui montrer jusqu&#039;à ce délai que [du bien.]
+			<lb n="9"/>
+		[Ecrit par Ibrāhīm le premier jour de la lune] de šawwāl l&#039;année
+		... schawal de l&#039;année...
+			<lb n="10"/>
+		cent trente-trois.
+		... trente-trois.
+			<lb n="11"/>
+		Ǧābir a remis
+		Djaber a remis
+			<lb n="12"/>
+		son sort à (Dieu), clément
+		tous ses intérêts au (Dieu) clément
+			<lb n="13"/>
+		(et) miséricordieux.
+		et miséricordieux !
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="604" xml:id="Raghib_March_3_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106727</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أكرمك اللّه بطاعته في الدّنيا والآخرة برحمته وصل إلي كتابك وفهمت ما فيه 
+<lb n="recto 3"/>  من سلامتك فسرّني ذلك وثوب وصل إلي وثوب متقدّم لم يأتني فيه خبر فلا أدري 
+<lb n="recto 4"/>  هو لك أو <app type="BL"><lem resp="APD">لشّيخ </lem><rdg resp="“AK”">لشّيخ</rdg></app> الخراساني البلخي وقد أوقفته حتّى يرد علي كتابك 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">بعلم</supplied> ذلك وقد وجّهت إليك بربع دينر ثمن الثّوب ومقنعة نوليّة 
+<lb n="recto 6"/>  بدرهم ودانق وقبّعة <sic n="superfluous">الـ</sic>ـكتّان كبيرة وزعم صاحبها أن شراها 
+<lb n="recto 7"/>  عليه قيراطين غير ربع فبخفّة حواشيها استقنصت الـ<supplied reason="lost" cert="high">ـثّمن</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـا ذكـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="recto 8"/>  <supplied reason="lost" cert="high">الباقـ</supplied>ـي لك من الحساب القديم درهمين لم أقبض شي من <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> اللّه أن نجمعه وأنا أقبضه إن شا اللّه وأبعث به إليك <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> بعلم الثّوب المتقدّم لأعمل بحسب ذلك وقد صرت إلـ<supplied reason="lost" cert="high">ـى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  <supplied reason="lost" cert="high">وزعـ</supplied>ـم أنّه ما باع لك ولا لغيرك شي وهو حريص فيما رأيته و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  <gap reason="illegible" extent="5" unit="character" /> يسرّك اللّه وقد توكّلت عليه وقد أوصلت كتـ<supplied reason="lost" cert="high">ـاب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> وسألته الجواب على الشّيخ أكرمه اللّه السّلم و<gap reason="illegible" extent="8" unit="character" /> الـ<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso 1 right"/>  لأبي هريرة أكرمه اللّه 
+<lb n="verso 2 right"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="verso 1 left"/>  من محمّد وإبراهيم ابني عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi waṣala ʾilay ya kitābu ka wa fahimtu mā fī hi 
+ <lb n="3"/>min salāmati ka fa sarra nī ḏālika wa ṯawb:un waṣala ʾilay ya wa ṯawb:un mutaqaddim:un lam yaʾti nī fī hi ḫabar:un fa lā ʾadrī 
+ <lb n="4"/>huwa la ka ʾaw li ø š šayḫi ăl ḫurāsāniyyi ăl balḫiyyi wa qad ʾawqaftu hu ḥattà yaruddu ʿalay ya kitābu ka 
+ <lb n="5"/>bi ʿilmi ḏālika wa qad waǧǧahtu ʾilay ka bi rubʿi dīnār:in ṯamani ăṯ ṯawbi wa miqnaʿaẗ:in nūliyyaẗ:in 
+ <lb n="6"/>bi dirham:in wa dānaq:in wa qubbaʿaẗ:in kattān:in kabīraẗ:in wa zaʿama ṣāḥibu hā ʾanna širāʾa hā 
+ <lb n="7"/>ʿalay hi qīrāṭayni ġayra rubʿ:in fa bi ḫiffaẗi ḥawāšī hā ĭstaqnaṣtu ăṯ ṯamana ʿalà mā ḏakara 
+ <lb n="8"/>ăl bāqī la ka mina ăl ḥisābi ăl qadīmi dirhamayni lam ʾaqbiḍ šayʾ min *** 
+ <lb n="9"/>*** ăl lāh ʾan naǧmaʿa hu wa ʾanā ʾaqbiḍu hu ʾin šāʾa ăl lāhu wa ʾabʿaṯu bi hi ʾilay ka ***** 
+ <lb n="10"/>*** bi ʿilmi ăṯ ṯawbi ăl mutaqaddimi li ʾaʿmala bi ḥasbi ḏālika wa qad ṣirtu ʾilà *** 
+ <lb n="11"/>wa zaʿama ʾanna hu mā bāʿa la ka wa lā li ġayri ka šayʾ wa huwa ḥarīṣ:un fī mā raʾaytu hu wa *** 
+ <lb n="12"/>***** yasurru ka ăl lāhu wa qad tawakkaltu ʿalay hi wa qad ʾawṣaltu kitāba *** 
+ <lb n="13"/>*** wa saʾaltu hu ăl ǧawāba ʿalà ăš šayḫi ʾakrama hu ăl lāhu ăs salāmu wa ******** ăl **** 
+ <lb n="14"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu 
+ <lb n="15"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="16"/>min muḥammad:in wa ʾibrāhīma ĭbnay ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) dans ce monde et dans l&#039;autre par Sa miséricorde! Ta lettre m&#039;est parvenue et j&#039;ai compris ce qu&#039;elle contenait (comme nouvelles)
+			<lb n="3"/>
+		de ta santé. Ceci m&#039;a réjoui. Une pièce d&#039;étoffe m&#039;est parvenue, ainsi qu&#039;une précédente pièce d&#039;étoffe sur laquelle je n&#039;ai pas reçu d&#039;information. Je ne sais
+			<lb n="4"/>
+		si elle est à toi ou au šayḫ d&#039;al-Ḫurāsānī al-Balḫī. Je l&#039;ai retenue jusqu&#039;à ce que ta lettre m&#039;arrive
+			<lb n="5"/>
+		à propos] de ceci. Je t&#039;ai adressé un quart de dinar, prix de la pièce d&#039;étoffe, ainsi qu&#039;un voile nūlī
+			<lb n="6"/>
+		pour un dirham et un dānaq et une grande calotte de lin. Celui qui me l&#039;a vendue a prétendu que son achat
+			<lb n="7"/>
+		lui est revenu à deux qīrāṭ-s moins un quart. Mais à cause de la légéreté de sa bordure j&#039;a rabattu le [prix sur] ce qu&#039;il a mentionné.
+			<lb n="8"/>
+		[Il] te [reste] de l&#039;ancien compte deux dirhams. Je n&#039;ai rien touché [....].
+			<lb n="9"/>
+		[...] Dieu qu&#039;on le réunisse. Je le toucherai, si Dieu le veut! et te l&#039;enverrai .. [....]
+			<lb n="10"/>
+		[...] à propos de la précédente pièce d&#039;étoffe pour que je tienne compte de cela. Je suis allé trouver [....]
+			<lb n="11"/>
+		[Il a préten]du qu&#039;il n&#039;a rien vendu pour toi ni pour d&#039;autres. Il est vigilant à ce que j&#039;ai vu et [....]
+			<lb n="12"/>
+		[...].. Que Dieu te réjouisse! Sur Lui je repose. J&#039;ai fait parvenir la let[tre ....]
+			<lb n="13"/>
+		[...] et je lui ai demandé de répondre. Sur le šayḫ - que Dieu l&#039;honore! le salut ...[.]....[....]
+			<lb n="14"/>
+		À Abū Hurayra - que Dieu l&#039;honore!
+			<lb n="15"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="16"/>
+		De la part de Muḥammad et d&#039;Ibrāhīm ibnayy ʿAmr b. Ṯawr
+</ab></div>
+</body>
+</text>
+</TEI>

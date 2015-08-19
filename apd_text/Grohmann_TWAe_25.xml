@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="471" xml:id="Grohmann_TWAe_25" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 25 (= P.World p. 138 a)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_25</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106658</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  الما يوم الأربعا وهو يوم κη من مشرى على إصبپعين 
+ <lb n="2"/>  من ιϛ <app type="BL"><lem resp="APD">أذرع </lem><rdg resp="“Grohmann, World”">ذراع</rdg></app> فأسئل أن يجعله ما وپارك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl māʾu yawma ăl ʾarbaʿāʾi wa huwa yawmu ‪28 min misrà ʿalà ʾiṣbaʿayni 
+ <lb n="2"/>min 16 ʾaḏruʿ ḏirāʿ fa ʾasʾalu ʾan yaǧʿala hu māʾ:an mubārak 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Das Wasser am Mittwoch den 28. Mesori (21. August) zwei Finger 
+ 	  Das Wasser (stand) am Mittwoch, nämlich den 28. Mesori, auf zwei Finger
+ 	  The (level of the) water on Wednesday, viz. 28th of Mesori was two fingers
+		 <lb n="2"/>
+ 	  below 16 cubits. So I pray (God) that He may bless the water
+ 	  über 16 Ellen. So flehe ich denn (zu Gott), auf daß Er das Wasser zu einem gesegneten mache.
+ 	  von (d.h. unter) 16 Ellen. So bitte ich denn (Gott), daß er es zu einem gesegneten Wasser mache.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

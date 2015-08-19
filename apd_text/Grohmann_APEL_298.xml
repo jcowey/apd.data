@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1754" xml:id="Grohmann_APEL_298" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 298</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_298</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169495</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أكرمك اللّه بطاعته وتولّاك بحفظه وأسعدك 
+<lb n="recto 3"/>  بمغفرته وجمع لك خير الدّنيا والآخرة برحمته إنّه 
+<lb n="recto 4"/>  ولي ذلك والقادر عليه وصلّى اللّه على محمّد النّبي وآله 
+<lb n="recto 5"/>  سلم كثيرا وصل كتابك ووصل القمح وقد 
+<lb n="recto 6"/>  شلناه إلى دكّان السّمسار يوم كتابي هذا 
+<lb n="recto 7"/>  إليك وهو يوم الأربعا وأنا أرجو أن <app type="BL"><lem resp="APD">ساهل </lem><rdg resp="Diem"> يساهل</rdg></app> 
+<lb n="recto 8"/>  لله <app type="BL"><lem resp="APD">لبيعه </lem><rdg resp="Diem÷ lām corrected into bāʾ">بيعه</rdg></app> <app type="BL"><lem resp="APD">وأروّج </lem><rdg resp="Diem">وأروّج</rdg></app> <app type="BL"><lem resp="APD">عندك </lem><rdg resp="APD">عليك</rdg></app> <app type="BL"><lem resp="APD">بالخبر </lem><rdg resp="Diem">بالخيش</rdg></app> مع جعفر وما أحب 
+<lb n="recto 9"/>  <app type="BL"><lem resp="APD">أحصر </lem><rdg resp="Diem">أصف</rdg></app> لك ما دار بيني وبين بن نعمان <app type="BL"><lem resp="APD">محمـ<supplied reason="lost" cert="high">ـد</supplied> </lem><rdg resp="Diem÷ omitted by scribe">بن</rdg></app> الپرساپى 
+<lb n="recto 10"/>  <app type="BL"><lem resp="APD">پحطـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">بحظرة</rdg></app> <app type="BL"><lem resp="APD">صا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">صاحبك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ردى </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <sic n="superfluous">من</sic> <app type="BL"><lem resp="APD">وپكپر </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> الدار <app type="BL"><lem resp="APD">ڤاحپ </lem><rdg resp="Diem">ـ <gap reason="illegible" extent="2" unit="character" />كراء</rdg></app> ناحر ان <app type="BL"><lem resp="APD">نمصى </lem><rdg resp="Diem">يأخي</rdg></app> معه الى من 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـرپه منه وأرجوا أن تكون قد فعلت ذلك وأرجوا 
+<lb n="verso 3"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپ </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">ان </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <sic n="superfluous">ڤورپ</sic> <app type="BL"><lem resp="APD">ڤصرپ </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">وپڤصپرك </lem><rdg resp="Diem">فبحقّي</rdg></app> <app type="BL"><lem resp="APD">هدا </lem><rdg resp="Diem">عليك</rdg></app> پإڤد قان لم پڤصر <app type="BL"><lem resp="APD">معنا </lem><rdg resp="Diem">مأخذ</rdg></app> 
+<lb n="verso 4"/>  <app type="BL"><lem resp="APD">والمد </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">على </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">عپمان </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">السلام </lem><rdg resp="Diem “suggestion”">أفضل</rdg></app> <app type="BL"><lem resp="APD">كپپرا </lem><rdg resp="Diem “suggestion”">السّلام</rdg></app> <app type="BL"><lem resp="APD">واحرص </lem><rdg resp="Diem">وأطيبه</rdg></app> <app type="BL"><lem resp="APD">پاحر </lem><rdg resp="Diem">وأقرئ</rdg></app> <app type="BL"><lem resp="APD">ان </lem><rdg resp="Diem">لنا</rdg></app> پپحر <app type="BL"><lem resp="APD">امورك </lem><rdg resp="Diem">عثمان</rdg></app> 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الما</supplied>ل إلى الشّيخ 
+<lb n="verso 6 address upside down"/>  لأبي حفص أدام اللّه كرامته <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 7 address upside down"/>  عمر بن أحمد بن عيسى <app type="BL"><lem resp="APD">المقرئ </lem><rdg resp="Diem">المصريّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa tawallā ka bi ḥifẓi hi wa ʾasʿada ka 
+ <lb n="3"/>bi maġfirati hi wa ǧamaʿa la ka ḫayra ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi ʾinna hu 
+ <lb n="4"/>waliyyu ḏālika wa ăl qādiru ʿalay hi wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi 
+ <lb n="5"/>wa sallama kaṯīr:an waṣala kitābu ka wa waṣala ăl qamḥu wa qad 
+ <lb n="6"/>šilnā hu ʾilà dukkāni ăs simsāri yawma kitāb ī hāḏā 
+ <lb n="7"/>ʾilay ka wa huwa yawmu ăl ʾarbaʿāʾi wa ʾanā ʾarǧū ʾan sāhala yusāhila 
+ <lb n="8"/>ăl lāhu li ø bayʿi bayʿa hi hu wa ʾarūḥu ʾurawwiǧa ʿinda ʿalay ka bi ăl ḫabari ḫayši maʿa ǧaʿfara wa mā ʾuḥibbu 
+ <lb n="9"/>ʾaḥṣiru ʾaṣifa la ka mā dāra bayn ī wa bayna bni nuʿmāna ø bni muḥammad:ini ăl bursāniyyi 
+ <lb n="10"/>Bḥṭ* bi ø ḥaẓraẗi ṣʾ*** ṣāḥibi ø ka *** *** 
+ <lb n="11"/>ø *** ø *** ***rdī wa ** ṯukayr kirāʾ ăd dār dāri fa ʾaḥabba nāǧir:un yā ø ʾaḫ ø ī ʾan tamḍiya maʿa hu ʾilay ya min 
+ <lb n="12"/>***rBh min hu wa ʾarǧū ʾan takūna qad faʿalta ḏālika wa ʾarǧū 
+ <lb n="13"/>ø *** ø *** ø *** ø fa ø bi ø ḥaqq ø ī **B ʿalay ø ka ʾin qaṣṣarta wa taqṣīru ka hāḏā nāfiḏ:un maʾḫaḏ:un fa ʾin lam tuqaṣṣir maʿa nā 
+ <lb n="14"/>ø *** ø *** ø *** ø ʾafḍalu ø ăs ø salāmi wa ăl ʾaṭyabu md hu ø wa ø ʾaqriʾ ø la ø nā ʿalà ġaymāna ʿuṯmāna ăs salāma salāmu kaṯīr:an wa ʾaǧraṣa ĭḥriṣ nāǧir:un yā ø ʾaḫ ø ī ʾan tanǧuza ʾumūra ka 
+ <lb n="15"/>*** ăl māl ʾilà ăš šayḫi 
+ <lb n="16"/>li ʾabī ḥafṣ:in ʾadāma ăl lāhu karāmata hu *** 
+ <lb n="17"/>ʿumaru bnu ʾaḥmada bni ʿīsà ăl muqriʾu miṣriyyu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May God benefit you with obedience towards Him and guide you with His protection and make you happy
+			<lb n="3"/>
+		by His absolution and unite for you in His compassion the best of this world and the world to come; verily, He
+			<lb n="4"/>
+		takes care thereof and is mighty thereto. May the blessing of God be upon Muḥammad the Prophet and his family and may He
+			<lb n="5"/>
+		... Dein Brief ist angekommen, und auch der Weizen ist angekommen. Wir {hab}
+		give abundant peace. Your letter has arrived and the wheat has arrived, and we have already
+			<lb n="6"/>
+		carried it to the broker&#039;s shop on the (very) day of this my letter
+		haben ihn am (heutigen) Tag, da dieser mein Brief and Dich geht, zum Laden des Maklers gebracht
+			<lb n="7"/>
+		- es ist der Mittwoch -, und ich hoffe, daß
+		to you, viz. Wednesday. And I hope that God will be compliant
+			<lb n="8"/>
+		Gott seinen Verkauf ermöglicht. Ich werde Dir (meinerseits) umgehend durch Ǧaʿfar das (bestellte) Segeltuch überbringen lassen. Ich möchte
+		respecting its sale and I shall come to you with the news together with Ǧaʿfar, and I do not like
+			<lb n="9"/>
+		Dir lieber nicht beschreiben, was zwischen mir und Ibn Nuʿmān &lt;ibn&gt; Muḥammad al-Bursānī vorgefallen ist
+		to charge you with that which has happened between me and Ibn Nuʿmân Muḥamma[d] al-Bursânî
+			<lb n="10"/>
+		in Gegen[wa]rt Deines Geschäftspartners ........ ........ &lt;ca. 2 words missing&gt;
+			<lb n="11"/>
+		]rdi and Ṯukair the house. So Nâǧir desired you to go with him to me from (?)
+		&lt;several words missing&gt;.... ... Miete des Anwesens. So möchte ich denn, o Bruder, daß Du zusammen mit ihm zu jemandem gehst,
+			<lb n="12"/>
+		]......... And I hope that you have already done this and I hope
+		 &lt;several words missing&gt;.... von ihm. Ich wünschte, Du hättest dies bereits getan, und ich hoffe, da
+			<lb n="13"/>
+		]...... if you have neglected and this your negligence becomes apparent. But when you have not been negligent with us,
+		[ß Du &lt;several words missing&gt; Bei meinem Anrecht gegen] Dich: Sei (hierin) ja nicht nachlässig, nachdem diese Deine (vorhergehende) Nachlässigkeit (schon) Anlass zu Tadel gibt! Wenn Du doch uns gegenüber hierin nicht nachlässig wärst!
+			<lb n="14"/>
+		] and ......... many greetings to Ġaimân. And Nâǧir has expressed the opinion that you should complete your affairs
+		[&lt;several words missing&gt; An N.N. die vorzüglichsten] und besten [Grüße]! Richte (von) uns ʿUṯmān viele Grüße aus! Und bemühe Dich, o Bruder, deine Angelegenheiten zu erledigen.
+			<lb n="15"/>
+		[&lt;several words missing&gt;] zum Scheich.
+		... ... the money to the master
+			<lb n="16"/>
+		To Abû Ḥafṣ -  may God cause his honour to continue -
+			<lb n="17"/>
+		ʿUmar b. Aḥmad b. ʿÎsâ, the Koran-reader.
+</ab></div>
+</body>
+</text>
+</TEI>

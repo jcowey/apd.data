@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="406" xml:id="Becker_NPAF_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 03 (= P.Cair.Arab. 149)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106610</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n=" "/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1"/>  الأجل <unclear reason="undefined" cert="high">أعاقبه</unclear> أشد 
+<lb n="2"/>  لعڤوپه وأغرمه أثقـ<unclear reason="undefined" cert="high">ـل</unclear> 
+<lb n="3"/>  الغرامة ولا أخال ذ<unclear reason="undefined" cert="high">لـ</unclear><supplied reason="lost" cert="high">ـك</supplied> 
+<lb n="4"/>  إلّا قد كان بلغك 
+<lb n="5"/>  پلع أهل كورتك 
+<lb n="6"/>  لعمرى حال الأجل <unclear reason="undefined" cert="high">منذ</unclear> 
+<lb n="7"/>  أكثر من شهرين وقد كتبت 
+<lb n="8"/>  إليك قبل كتبي هذا آمر 
+<lb n="9"/>  ك ان پعحل الينا 
+<lb n="10"/>  قد جمعت من جزية كور<unclear reason="undefined" cert="high">تك</unclear> 
+<lb n="11"/>  وأردت أن أرفق بهم وأتجا 
+<lb n="12"/>  ور عنهم پما قد 
+<lb n="13"/>  منهم على نحو الّذي كـ<supplied reason="lost" cert="high">ـا</supplied> 
+<lb n="14"/>  يوا پودون ڤى <unclear reason="undefined" cert="high">بيت</unclear> 
+<lb n="15"/>  كل سنة فلا أظن كتبي 
+<lb n="16"/>  هذا قادما عليك إن 
+<lb n="17"/>  كان فيك خير إلّا وقد 
+<lb n="18"/>  بعثت بالّذي قد جمعت 
+<lb n="19"/>  من جزية كورتك فإ<unclear reason="undefined" cert="high">ذ</unclear><supplied reason="lost" cert="high">ا</supplied> 
+<lb n="20"/>  جاك كتبي هذا فلا 
+<lb n="21"/>  عرڤن ما استوفيت من 
+<lb n="22"/>  الجزية بعد الّذي ترسل 
+<lb n="23"/>  ممّا قد جمعت من الجز<supplied reason="lost" cert="high">ية</supplied> 
+<lb n="24"/>  دينرا ولا نصفا ولا ثلثا 
+<lb n="25"/>  إلّا ما كان على وزن <unclear reason="undefined" cert="high">بـ</unclear>ـيـ<supplied reason="lost" cert="high">ـت</supplied> 
+<lb n="26"/>  المال <app type="BL"><lem resp="APD">ونفّذت </lem><rdg resp="“AS”">تقدّم</rdg></app> في ذلك 
+<lb n="27"/>  إلى جسطال كورتك وإ<unclear reason="undefined" cert="high">لى</unclear> 
+<lb n="28"/>  موازيت الـ<unclear reason="undefined" cert="high">ـقـ</unclear>ـ<supplied reason="lost" cert="high">ـر</supplied><unclear reason="undefined" cert="high">ى</unclear> فإنّك 
+<lb n="29"/>  <app type="BL"><lem resp="APD">عـ<gap reason="illegible" extent="1" unit="character" />ا </lem><rdg resp="“Grohmann”">وكـ<gap reason="illegible" extent="1" unit="character" /></rdg></app> <gap reason="illegible" precision="low" extent="3"/> لا<gap reason="illegible" precision="low" extent="3"/>الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>ăl ʾaǧal ʾuʿāqibu hu ʾašadda 
+ <lb n="3"/>ăl ʿuqūbaẗi wa ʾuġrimu hu ʾaṯqala 
+ <lb n="4"/>ăl ġarāmaẗi wa lā ʾaḫālu ḏālika 
+ <lb n="5"/>ʾillā qad kāna balaġa ka 
+ <lb n="6"/>wa balaġa ʾahla kūrati ka 
+ <lb n="7"/>wa la ʿamr ī ḥāla ăl ʾaǧalu munḏu 
+ <lb n="8"/>ʾakṯara min šahrayni wa qad katabtu 
+ <lb n="9"/>ʾilay ka qabla kitāb ī hāḏā ʾāmuru ka 
+ <lb n="10"/>ʾan tuʿaǧǧila ʾilay nā bi mā 
+ <lb n="11"/>qad ǧamaʿta min ǧizyaẗi kūrati ka 
+ <lb n="12"/>wa ʾaradtu ʾan ʾarfuqa bi him wa ʾataǧāwaza 
+ <lb n="13"/>ʿan hum bi mā qad qabaḍta 
+ <lb n="14"/>min hum ʿalà naḥwi ăllaḏī kānū 
+ <lb n="15"/>yuʾaddūna fī bayti ăl māli 
+ <lb n="16"/>kulla sanaẗ:in fa lā ʾaẓunnu kitāb ī 
+ <lb n="17"/>hāḏā qādim:an ʿalay ka ʾin 
+ <lb n="18"/>kāna fī ka ḫayr:un ʾillā wa qad 
+ <lb n="19"/>baʿaṯta bi ăllaḏī qad ǧamaʿta 
+ <lb n="20"/>min ǧizyaẗi kūrati ka fa ʾiḏā 
+ <lb n="21"/>ǧāʾa ka kitāb ī hāḏā fa lā 
+ <lb n="22"/>ʾaʿrifanna mā ĭstawfayta mina 
+ <lb n="23"/>ăl ǧizyaẗi baʿda ăllaḏī tursilu 
+ <lb n="24"/>mimmā qad ǧamaʿta mina ăl ǧizyaẗi 
+ <lb n="25"/>dīnār:an wa lā niṣf:an wa lā ṯulṯ:an 
+ <lb n="26"/>ʾillā mā kāna ʿalà wazni bayti 
+ <lb n="27"/>ăl māli wa naffaḏtu taqaddam fī ḏālika 
+ <lb n="28"/>ʾilà ǧusṭāli kūrati ka wa ʾilà 
+ <lb n="29"/>mawāzīti ăl qurà fa ʾinna ka 
+ <lb n="30"/>wa ʿ* k* *** lʾ *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(Habe ich Dir denn nicht geschrieben, dass ich jeden, der nicht einhält) 
+			<lb n="2"/>
+		den Termin, bestrafen werde mit der härtesten 
+		the term, him will I punish with the severest 
+			<lb n="3"/>
+		punishment and inflict upon him the heaviest 
+		Strafe und mit der schwersten Geldstrafe 
+			<lb n="4"/>
+		belegen werde und ich muß annehmen, 
+		fine. And I do not imagine that this 
+			<lb n="5"/>
+		daß Du das gehört hast und 
+		has not come to thy knowledge nor 
+			<lb n="6"/>
+		daß es die Leute Deines Bezirkes gehört haben. 
+		that it has come to the knowledge of the people of thy district. And 
+			<lb n="7"/>
+		Bei meinem Leben, nun ist der Termin (abermals) seit 
+		upon my life the term is now past by 
+			<lb n="8"/>
+		mehr als zwei Monaten verstrichen und ich hatte Dir 
+		more than two months, and I had written 
+			<lb n="9"/>
+		doch schon vor diesem meinem Brief geschrieben und Dir befohlen, 
+		to thee before this my letter commanding 
+			<lb n="10"/>
+		daß Du uns schleunig senden solltest, was 
+		that thou sendest to us with all speed that 
+			<lb n="11"/>
+		Du schon zusammengebracht hast von der djizja Deines Bezirkes. 
+		thou hast already gathered in, of the gold-tax in thy district. 
+			<lb n="12"/>
+		And I would fain act leniently towards them and treat 
+		Und ich wollte ihnen (den Leuten des Bezirkes) eine Wohltat erweisen und sie 
+			<lb n="13"/>
+		mit Nachsicht behandeln bei dem, was Du bereits von ihnen 
+		them with indulgence in consideration of what thou hast already received 
+			<lb n="14"/>
+		from them somewhat to the extent of what they 
+		genommen hast unter Anlehnung an 
+			<lb n="15"/>
+		ihre üblichen jährlichen Zahlungen an den 
+		usually render every year to the treasury. 
+			<lb n="16"/>
+		But I do not think that, with 
+		Staatsschatz, und ich erwarte bestimmt 
+			<lb n="17"/>
+		daß, wenn dieser Brief Dich erreicht, 
+		this letter of mine before thee, thou - if 
+			<lb n="18"/>
+		Du, wenn überhaupt noch etwas Gutes an Dir ist, 
+		there be any good in thee - wouldest not have 
+			<lb n="19"/>
+		bereits abgeschickt hast, was Du zusammengebracht hast 
+		dispatched what thou hadst already gathered in 
+			<lb n="20"/>
+		of the gold-tax of thy district. Now whe[n] 
+		von der djizja Deines Bezirkes. Wenn 
+			<lb n="21"/>
+		dieser mein Brief zu Dir kommt, so will ich nicht 
+		this my letter comes to thee I 
+			<lb n="22"/>
+		do not want to learn that thou hast received (any payment) of 
+		erfahren, daß Du noch Zahlungen von djizja 
+			<lb n="23"/>
+		angenommen hast, nachdem was Du schicken sollst 
+		the gold-tax after what thou hast to send 
+			<lb n="24"/>
+		of that part of the gold-[tax] that thou hadst already gathered in 
+		von dem, was Du von der djizja zusammengebracht hast, 
+			<lb n="25"/>
+		neither a dînâr nor one half (of a dînâr) nor a third (of a dînâr) 
+		weder einen Dinār, noch einen halben, noch einen Drittel, 
+			<lb n="26"/>
+		außer auf Grund des Gewichtes des Schatz-
+		except according to Treasu[ry] weight. 
+			<lb n="27"/>
+		And I have transmitted instructions thereabout 
+		Hauses und ich habe diesbezügliche Instruktion zugehen lassen 
+			<lb n="28"/>
+		dem Quaestor Deines Bezirkes und den 
+		to the treasurer (ǧusṭâl) of thy district and to 
+			<lb n="29"/>
+		Dorfschulzen (μειζότεροι) der Ortschaften; denn siehe Du ... (Schluß fehlt.)
+		the headmen of the villages; but if thou 
+			<lb n="30"/>
+</ab></div>
+</body>
+</text>
+</TEI>

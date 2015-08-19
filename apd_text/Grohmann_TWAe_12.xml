@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="451" xml:id="Grohmann_TWAe_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106641</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  براه لبكر بن <sic n="superfluous">لـ</sic>ـهرثمة بن <app type="BL"><lem resp="APD">رياح </lem><rdg resp="APD">رباح</rdg></app> 
+<lb n="3"/>  من درهمين أوصلهما 
+<lb n="4"/>  إلى الحرث بن الـ<supplied reason="omitted" cert="high">ـلـ</supplied>ـيث 
+<lb n="5"/>  بن عمر بن الـ<supplied reason="omitted" cert="high">ـفـ</supplied>ـضل الّذي 
+<lb n="6"/>  له على ولده بدينر 
+<lb n="7"/>  فقد وصل من ذلك 
+<lb n="8"/>  درهمين وكتب 
+<lb n="9"/>  الحرث بن اللّيث 
+<lb n="10"/>  بخطّى ٢٦٠ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li bakri bni harṯamaẗa bni rabāḥa riyāḥa 
+ <lb n="3"/>min dirhamayni ʾawṣala humā 
+ <lb n="4"/>ʾilà ăl ḥāriṯi bni ăl layṯi 
+ <lb n="5"/>bni ʿumara bni ăl faḍli ăllaḏī 
+ <lb n="6"/>la hu ʿalà waladi hi bi dīnār:in 
+ <lb n="7"/>fa qad waṣala min ḏālika 
+ <lb n="8"/>dirhamayni wa kataba 
+ <lb n="9"/>ăl ḥāriṯu bnu ăl layṯi 
+ <lb n="10"/>bi ḫaṭṭ ī 260 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+			<lb n="2"/>
+		Quittung für Bakr b. Harṯama b. Riyāḥ
+			<lb n="3"/>
+		über zwei Dirham, die er hat gelangen lassen
+			<lb n="4"/>
+		an al-Ḥāriṯ b. al-(L)aiṯ
+			<lb n="5"/>
+		b. ʿUmar b. al-Faḍl, dem
+			<lb n="6"/>
+		sein Sohn einen Dīnār schuldet.
+			<lb n="7"/>
+		Hiervon sind bereits (an ihn)
+			<lb n="8"/>
+		zwei Dirham gelangt; und es schrieb (es)
+			<lb n="9"/>
+		al-Ḥāriṯ b. al-Laiṯ
+			<lb n="10"/>
+		mit (seinem) Schriftzuge. 260.
+</ab></div>
+</body>
+</text>
+</TEI>

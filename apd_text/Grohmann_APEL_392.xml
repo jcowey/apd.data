@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1921" xml:id="Grohmann_APEL_392" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 392</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_392</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169658</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  في رزمة داود الرّياط المرتفعة لعلي وذكري ويعقوب 
+<lb n="2"/>  ثلثين ثوب مربّعة الثّمن عشر <app type="BL"><lem resp="APD">قيراط </lem><rdg resp="Grohmann, corrections">الدّنانير</rdg></app> <app type="BL"><lem resp="APD">سدلداس </lem><rdg resp="Grohmann, corrections">إلّا</rdg></app> <app type="BL"><lem resp="APD">پاپپرو </lem><rdg resp="Grohmann, corrections">سدس</rdg></app> 
+<lb n="3"/>  وثوب لباقة سدس 
+<lb n="4"/>  وفي رزمة الرّياط الأحمر المرتفعة ثلثة وثلثين ثوب منها لأحمد وحسين وبهيوه 
+<lb n="5"/>  اثني وثلثين ثوب الثّمن عشرة الدّنانير 
+<lb n="6"/>  وثوب لباقة بسدس 
+<lb n="7"/>  وفي رزمة الرّياط والشّقاق ستّة وثلثين ثوب منها فوق الرّزمة 
+<lb n="8"/>  لمرقورة ثلثة عشر ثوب الثّمن ثلثة الدّنانير ونصف 
+<lb n="9"/>  ولأشاي <app type="BL"><lem resp="ed.">وهرون </lem><rdg resp="transl.">وكرون</rdg></app> أربع عشر ثوب الثّمن أربع الدّنانير وقيراطين 
+<lb n="10"/>  وثمانية شقاق مهدة مرتفعة الثّمن دينرين وثلث وقيراطين غير ثلث 
+<lb n="11"/>  وثوب لباقة سدس 
+<lb n="12"/>  وفي رزمة الرّياط أحد وأربعين ثوب منها فوق الرّزمة 
+<lb n="13"/>  لمينا وقزمان <app type="BL"><lem resp="APD">وسبنة </lem><rdg resp="APD">وسيتة</rdg></app> عشرين ثوب الثّمن أربع الدّنانير ونصف وقيراطين 
+<lb n="14"/>  ولأبي العبّاس وبن بلال وسكرس عشرين ثوب الثّمن خمسة الدّنانير 
+<lb n="15"/>  وثوب لباقة سدس 
+<lb n="16"/>  وفي رزمة الرّياط والأدم أحد وسبعين ثوب منها فوق الرّزمة للشّيخ وسمعون أربعة وعشرين ثوب بدينرين 
+<lb n="17"/>  <app type="BL"><lem resp="‭Grohmann, corrections, instead of ‫ولغوته‬ in edition.">ولعوپه </lem><rdg resp="‭Grohmann, corrections, instead of ‫ولغوته‬ in edition.">ولقونة</rdg></app> عشرين ثوب مدرّجة الثّمن دينرين وسدس وقيراط وثلث 
+<lb n="18"/>  ولعبد اللّه ورقاص سبع وعشرين بالعامّة الثّمن خمسة الدّنانير وربع ونصف قيراط 
+<lb n="19 left margin"/>  وفي رزمة النّجّار سية سبع وتسعين ثوب منها فوق الرّزمة 
+<lb n="20 left margin"/>  عبادة وأصحابه ثلثة وثلثين ثوب الثّمن ثلثة الدّنانير 
+<lb n="21 left margin"/>  ومن المورث وغيره ثلثة وسبعيـ<supplied reason="lost" cert="high">ـن</supplied> ثوب الثّمن ستّة الدّنانير إلّا قيراط و<supplied reason="lost" cert="high">نصـ</supplied>ـف لارا<gap reason="illegible" extent="1" unit="character" />پن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="above the account 1"/>  دفعه داود مع بقطر <supplied reason="lost" cert="high">بـ</supplied>ـن ردر<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="adress 2"/>  لأبي جعفر أبقاه اللّه من إبرهپم بن عنس ومقارة بن مينا قير 
+<lb n="adress 3"/>  أحمد بن عيسى البزّاز 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fī rizmaẗi dāwid:in ăr riyāṭu ăl murtafiʿaẗu li ʿaliyy:in wa ḏikriyy:in wa yaʿqūba 
+ <lb n="2"/>ṯalāṯīna ṯawb murabbaʿaẗ:un ăṯ ṯamanu ʿašru ø ăd qīrāṭ:in danānīri ø ʾillā sdldʾs suds ø wa nʾnyrw qīrāṭ:un 
+ <lb n="3"/>wa ṯawbu labāqaẗ:in suds:un 
+ <lb n="4"/>wa fī rizmaẗi ăr riyāṭi ăl ʾaḥmari ăl murtafiʿaẗi ṯalāṯaẗ:un wa ṯalāṯīna ṯawb min hā li ʾaḥmada wa ḥusayn:in wa bihiyūha 
+ <lb n="5"/>ĭṯnay wa ṯalāṯīna ṯawb ăṯ ṯamanu ʿašaraẗu ăd danānīri 
+ <lb n="6"/>wa ṯawbu labāqaẗ:in bi suds:in 
+ <lb n="7"/>wa fī rizmaẗi ăr riyāṭi wa ăš šiqāqi sittaẗ:un wa ṯalāṯīna ṯawb min hā fawqa ăr rizmaẗi 
+ <lb n="8"/>li marqūraẗa ṯalāṯaẗa ʿašara ṯawb ăṯ ṯamanu ṯalāṯaẗu ăd danānīri wa niṣf:un 
+ <lb n="9"/>wa li ʾašāy wa hārūna karūna ʾarbaʿa ʿašara ṯawb ăṯ ṯamanu ʾarbaʿu ăd danānīri wa qīrāṭayni 
+ <lb n="10"/>wa ṯamāniyaẗu šiqāqi šiqāq:in mhdẗ murtafiʿaẗ:un ăṯ ṯamanu dīnārayni wa ṯulṯ:un wa qīrāṭayni ġayra ṯulṯ:in 
+ <lb n="11"/>wa ṯawbu labāqaẗ:in suds:un 
+ <lb n="12"/>wa fī rizmaẗi ăr riyāṭi ʾaḥad:un wa ʾarbaʿīna ṯawb min hā fawqa ăr rizmaẗi 
+ <lb n="13"/>li mīnā wa quzmāna wa sabinaẗa sītaẗa ʿišrīna ṯawb ăṯ ṯamanu ʾarbaʿu ăd danānīri wa niṣf:un wa qīrāṭayni 
+ <lb n="14"/>wa li ʾabī ăl ʿabbāsi wa bni bilāl:in wa sakrisa ʿišrīna ṯawb ăṯ ṯamanu ḫamsaẗu ăd danānīri 
+ <lb n="15"/>wa ṯawbu labāqaẗ:in suds:un 
+ <lb n="16"/>wa fī rizmaẗi ăr riyāṭi wa ăl ʾadami ʾudumi ʾaḥad:un wa sabʿīna ṯawb min hā fawqa ăr rizmaẗi li š šayḫi wa simʿūna ʾarbaʿaẗ:un wa ʿišrīna ṯawb bi dīnārayni 
+ <lb n="17"/>fūtaẗa qūnaẗa ʿišrīna ṯawb mudarraǧaẗ:un ăṯ ṯamanu dīnārayni wa suds:un wa qīrāṭ:un wa ṯulṯ:un 
+ <lb n="18"/>wa li ʿabdi ăl lāhi wa riqāṣ:in sabʿ:un wa ʿišrīna bi ăl ʿāmmaẗi ăṯ ṯamanu ḫamsaẗu ăd danānīri wa rubʿ:un wa niṣfu qīrāṭ:in 
+ <lb n="19"/>wa fī rizmaẗi ăn naǧǧāri siyaẗa sabʿ:un wa tisʿīna ṯawb min hā fawqa ăr rizmaẗi 
+ <lb n="20"/>ʿubādaẗ:un wa ʾaṣḥābu hu ṯalāṯaẗ:un wa ṯalāṯīna ṯawb ăṯ ṯamanu ṯalāṯaẗu ăd danānīri 
+ <lb n="21"/>wa mina ăl mawriṯi wa ġayri hi ṯalāṯaẗ:un wa sabʿīna ṯawb ăṯ ṯamanu sittaẗu ăd danānīri ʾillā qīrāṭ:un wa niṣf:un li ʾrʾ*BB *** 
+ <lb n="22"/>dafaʿa hu dāwid:un maʿa buqṭura bni rudr** *** 
+ <lb n="23"/>li ʾabī ǧaʿfara ʾabqā hu ăl lāhu min ʾibrāhīma bni ʿanas:in wa maqāraẗa bni mīnā qīr:in 
+ <lb n="25"/>ʾaḥmadu bnu ʿīsà ăl bazzāzu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the bale of David: thin excellent linen garments for ʿAlî and Ḏikrî and Yaʿqûb.
+			<lb n="2"/>
+		thirty robes, amounting in price to ten dînârs less a sixth and a carat,
+			<lb n="3"/>
+		and an elegant robe a sixth.
+			<lb n="4"/>
+		And in a bale the red thin (linen) garments amounting to thirty-three robes, thereof for Aḥmad and Ḥusain and Pahieu:
+			<lb n="5"/>
+		thirty-two robes, the price (being) ten dînârs,
+			<lb n="6"/>
+		and an elegant robe a sixth.
+			<lb n="7"/>
+		And ind a bale of the thin (linen) garments and (combined) garments, thirty-six garments, thereof above the bale:
+			<lb n="8"/>
+		for Merqûre thirteen robes, the price (being) three and a half dînârs.
+			<lb n="9"/>
+		And for Ašay and Harûn fourteen robes, the price (being) four dînârs, and two carats
+			<lb n="10"/>
+		and eight (combined) garments amounting in price to two and a third dînârs and two carats less a third
+			<lb n="11"/>
+		and an elegant robe a sixth.
+			<lb n="12"/>
+		And in a bale the thin (linen) garments forty-one robes, thereof above the bale:
+			<lb n="13"/>
+		for Mînâ and Quzmân and Sabine twenty robes, the price (being) four and a half dînârs and two carats;
+			<lb n="14"/>
+		And for Abuʾl-ʿAbbâs and Ibn Bilâl and Sakris twenty robes, the price (being) five dînârs
+			<lb n="15"/>
+		and an elegant robe a sixth.
+			<lb n="16"/>
+		And a bale of thin (linen) garments and leather, seventy-one robes, thereof above the bale for the Šêḫ and Simʿûn twenty-four robes for two dînârs;
+			<lb n="17"/>
+		and for Phôte twenty folded garments, the price (being) two dînârs and a sixth and one and a third carat;
+			<lb n="18"/>
+		and for ʿAbd Allâh and Riqâṣ twenty-seven robes the price (being) five dînârs and a quarter and a half carat.
+			<lb n="19"/>
+		And in the bale of the carpenter Siya ninety-seven robes. thereof above the bale:
+			<lb n="20"/>
+		ʿUbâda and his mates thirty-three robes, the price (being) three dînârs
+			<lb n="21"/>
+		and from al-Mauriṯ and others sevent[y]-three robes, the price (being) six dīnārs less one and a h[a]lf carat. .... [..].
+			<lb n="22"/>
+		there has paid it David with Boqṭor [ib]n Rodr[...]
+			<lb n="23"/>
+		To Abû Ǧaʿfar - may God prolong his life - from Ibrahîm b. ʿAnas and Maqâre b. Mînâ Qîr.
+			<lb n="25"/>
+		Aḥmad b. ʿÎsâ, the clothes-dealer.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2235" xml:id="Diem_Heid_III_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المخدومي السّيّد<supplied reason="lost" cert="high">يّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  يقبل الأرض وينهي أن ما خـ<supplied reason="lost" cert="high">ـفـ</supplied>ـي عن مولانا ما حبط 
+<lb n="3"/>  للمملوك في هذه السّنة وكان هاديّة الزّريعة 
+<lb n="4"/>  كانت تنفعنا وتساعدنا علی الوقت والقصد 
+<lb n="5"/>  من إحسان سيّدنا أن يحسن ويتفضّل <sic n="superfluous">و</sic> ويساعدنا 
+<lb n="6"/>  في هذه السّنة كما المعهود من إحسان مولانا 
+<lb n="7"/>  وصدقاته ويموّنّي بحسب الإدلال علي إحسان 
+<lb n="8"/>  مولانا وصدقاته أنهي المملوك ذالك والحمد 
+<lb n="9"/>  للّه وحده وحسبنا اللّه ونعم الو<supplied reason="lost" cert="high">كيل</supplied> 
+<lb n="recto 8 right margin"/>  المملوك أحمد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl maḫdūmiyy ăs sayyidiyy *** 
+ <lb n="2"/>yuqabbilu ăl ʾarḍa wa yunhī ʾan mā ḫafiya ʿan mawlā nā mā ḥabaṭa 
+ <lb n="3"/>li ăl mamlūki fī hāḏihi ăs sanaẗi wa kāna hādiyyaẗu ăz zarīʿaẗi 
+ <lb n="4"/>kānat tanfaʿu nā wa tusāʿidu nā ʿalà ăl waqti wa ăl qaṣdu 
+ <lb n="5"/>min ʾiḥsāni sayyidi nā ʾan yuḥsina wa yatafaḍḍala wa yusāʿida nā 
+ <lb n="6"/>fī hāḏihi ăs sanaẗi kamā ăl maʿhūdu min ʾiḥsāni mawlā nā 
+ <lb n="7"/>wa ṣadaqāti hi wa yumawwin nī bi ḥasabi ăl ʾidlāli ʿalà ʾiḥsāni 
+ <lb n="8"/>mawlā nā wa ṣadaqāti hi ʾanhà ăl mamlūku ḏālika wa ḥamdu ăl 
+ <lb n="9"/>li l lāhi waḥda hu wa ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="10"/>ăl mamlūku ʾaḥmadu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(An) die (Exzellenz) des Gebieters und Herr[n]
+			<lb n="2"/>
+		küßt die Erde und tut kund, daß es unserem Patron ja wohl nicht ver[bor]gen ist, was
+			<lb n="3"/>
+		dem Sklaven in diesem Jahr fehlgeschlagen ist. Das in Staatgut bestehende Geschenk hatte
+			<lb n="4"/>
+		uns (im letzten Jahr) genützt und uns über die (damalige) Zeit hinweggeholfen. Das Anliegen
+			<lb n="5"/>
+		gegenüber dem Wohlwollen unseres Herrn besteht darin, daß er so wohlwollend und gnädig ist {und} und uns
+			<lb n="6"/>
+		(auch) in diesem Jahr hilft, wie es das vom Wohlwollen
+			<lb n="7"/>
+		und den Gnadenerweisen unseres Gebieters Gewohnte ist, und mich versorgt, (ein Anliegen) gemäß der Vertraulichkeit, die ich mir gegenüber dem Wohlwollen und
+			<lb n="8"/>
+		den Gnadenerweisen unseres Patrons erlaube. Dies tat der Sklave kund. Preis
+			<lb n="9"/>
+		sei Gott allein. Unser Genüge ist Gott; er ist der beste Sachw[alter!]
+			<lb n="10"/>
+		Der Sklave Aḥmad
+</ab></div>
+</body>
+</text>
+</TEI>

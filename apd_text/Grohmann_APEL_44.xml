@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1027" xml:id="Grohmann_APEL_44" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 044</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_44</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168913</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">أصدق</supplied> صلح بن موسى <app type="BL"><lem resp="APD">السعتري </lem><rdg resp="APD">السعتريّ</rdg></app> كريمة ابنة علي بن رجا الطّـ<unclear reason="undefined" cert="high">ـحّـ</unclear>ـ<supplied reason="lost" cert="high">ـان</supplied> <supplied reason="lost" cert="high">عند</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">خـ</supplied>ـطبها إلى نفسها وهي يومئذ امرأة أيّم <supplied reason="lost" cert="high">بكر</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">بالغ</supplied> <supplied reason="lost" cert="high">في</supplied> صحّة العقل والبدن جائزة الأمر لها وعليها وأبدلـ<supplied reason="lost" cert="high">ـها</supplied> <supplied reason="lost" cert="high">بالصّداق</supplied> العاجل والآجل دينارين و<supplied reason="lost" cert="high">ازنين</supplied> 
+<lb n="4"/>  <supplied reason="lost" cert="high">جيّد</supplied>ين أنقدها <app type="BL"><lem resp="APD">منها </lem><rdg resp="“Dietrich”">منمها</rdg></app> دينار واحد مقبوضا عند عقدة <supplied reason="lost" cert="high">نكاحها</supplied> <supplied reason="lost" cert="high">قبـ</supplied>ـضته منه تامّا وافيا وأبرأته <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">براه</supplied> <supplied reason="lost" cert="high">قبـ</supplied>ـض واستيفا وعلى أن الدّينار الآخر الّذي هو بقـ<supplied reason="lost" cert="high">ـيّة</supplied> <supplied reason="lost" cert="high">صداقها</supplied> <supplied reason="lost" cert="high">موحـ</supplied>ـر لها عليه إلى انقضى سنة واحد<supplied reason="lost" cert="high">ة</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">أوّلها</supplied> <supplied reason="lost" cert="high">في</supplied> النّصف من جمادى الأولى من سنة تسع عشرة وأربعما<supplied reason="lost" cert="high">ئة</supplied> <supplied reason="lost" cert="high">وعليه</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">يتّقـ</supplied>ـي اللّه الكريم فيها ويحسن صحبتها ومـ<supplied reason="lost" cert="high">ـعاشرتها</supplied> 
+<lb n="7"/>  <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">يضارّها</supplied> <supplied reason="lost" cert="high">كما</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـلّه عز وجل به في كتابه وسنّة نبيّنا محمّد صـ<supplied reason="lost" cert="high">ـلّى</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">عليه</supplied> وسلّم في الإمساك بمعروف أو التّسريح <supplied reason="lost" cert="high">بإحسان</supplied> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـل <gap reason="illegible" extent="4" unit="character" /> به الطّاهرين آبا مولانا أمير المومـ<supplied reason="lost" cert="high">ـپپن</supplied> الظّاهر لإعزاز <app type="BL"><lem resp="APD">دپن </lem><rdg resp="APD">دِينِ</rdg></app> اللّه <app type="BL"><lem resp="APD">بحبل </lem><rdg resp="“Littmann”">بجيل</rdg></app> <app type="BL"><lem resp="APD">الدّين </lem><rdg resp="“Littmann”">الأمر</rdg></app> المعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" extent="8" unit="character" /> له الامـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="12" unit="character" /> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وتوكيلـ</supplied>ـها إيّاه عمّها پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> الطّحّا<unclear reason="undefined" cert="high">ن</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تعـ</supplied>ـرّفا بها <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="12"/>  <supplied reason="lost" cert="high">الصّداق</supplied> <supplied reason="lost" cert="high">العـ</supplied>ـاجل والآجل ا<supplied reason="lost" cert="high">لمسمّا</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب </supplied>
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـاپپ على ما ذكر ووصف فيه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">جـ</supplied>ـميع ذلك كلّه پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" extent="19" unit="character" /> 
+<lb n="16"/>  <supplied reason="lost" cert="high">شـ</supplied>ـهد إبرهيم بن علي بن هلبا بن <unclear reason="undefined" cert="high">مـ</unclear>ـحمّد بن حمدان علـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">إقرار </supplied>
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>لولي وهو العم المسمّون في هذا الكتاب <unclear reason="undefined" cert="high">على</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  شهد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  الزّوج <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi ĭsmi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa ṣāliḥ:un bnu mūsà ăs ăš šaʿīriyyu saʿtariyyu karīmaẗa ĭbnaẗa ʿaliyyi bni raǧāʾ:ini ăṭ ṭaḥḥāni ʿinda mā ḫaṭaba hā ʾilà nafsi hā wa hiya yawma ʾiḏ:ini ĭmraʾaẗ:un ʾayyim:un bikr:un 
+ <lb n="3"/>bāliġ:un fī ṣiḥḥaẗi ăl ʿaqli wa ăl badani ǧāʾizaẗu ăl ʾamri la hā wa ʿalay hā wa ʾabdala hā bi ăṣ ṣadāqi ăl ʿāǧili wa ăl ʾāǧili dīnārayni wāzinayni 
+ <lb n="4"/>ǧayyidayni ʾanqada hā min hā humā dīnār wāḥid maqbūḍ:an ʿinda ʿuqdaẗi nikāḥi hā qabaḍat hu min hu tāmm:an wāfiy:an wa ʾabraʾat hu min ḏālika 
+ <lb n="5"/>barāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa ʿalà ʾanna ăd dīnāra ăl ʾāḫira ăllaḏī huwa baqiyyaẗu ṣadāqi hā muʾaḫḫar:un la hā ʿalay hi ʾilà ĭnqiḍà sanaẗ:in wāḥidaẗ:in 
+ <lb n="6"/>ʾawwalu hā fī ăn niṣfi min ǧumādà ăl ʾūlà min sanaẗi tisʿa ʿašraẗa wa ʾarbaʿi miʾaẗ:in wa ʿalay hi ʾan yattaqiya ăl lāha ăl karīma fī hā wa yuḥsina ṣuḥbata hā wa muʿāšarata hā 
+ <lb n="7"/>wa lā yuḍārra hā kamā ʾamara ăl lāhu ʿazza wa ǧalla bi hi fī kitābi hi wa sunnaẗi nabiyyi nā muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama fī ăl ʾimsāki bi maʿrūf:in ʾawi ăt tasrīḥi bi ʾiḥsān:in 
+ <lb n="8"/>***l **** bi hi ăṭ ṭāhirīna ʾābāʾ mawlā nā ʾamīri ăl muʾminīna ăẓ ẓāhiri li ʾiʿzāzi dīni ăl lāhi baǧīli BḤBLi ăd ăl dīni ʾamri ăl mʿ*** 
+ <lb n="9"/>******** la hu ăl ʾm*** *** 
+ <lb n="10"/>*** wa tawkīli hā ʾiyyā hu ʿamma hā B*** ăṭ ṭaḥḥāna *** 
+ <lb n="11"/>ʾan taʿarrafā bi hā **** 
+ <lb n="12"/>ăṣ ṣadāqa ăl ʿāǧila wa ăl ʾāǧila ăl musammā fī hāḏā ăl kitābi 
+ <lb n="13"/>***ʾBB ʿalà mā ḏukira wa wuṣifa fī hi *** 
+ <lb n="14"/>*** ǧamīʿa ḏālika kulla hu B*** 
+ <lb n="15"/>******************* 
+ <lb n="16"/>šahida ʾibrāhīmu bnu ʿaliyyi bni halbāʾa bni muḥammadi bni ḥamdāna ʿalà ʾiqrāri 
+ <lb n="17"/>*** ăl waliyyi wa huwa ăl ʿammu ăl musammawna fī hāḏā ăl kitābi ʿalà *** *** 
+ <lb n="18"/>šahida *** 
+ <lb n="19"/>ăz zawǧu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, des Gütigen!
+		In the name of God the Compassionate, the Merciful.
+			<lb n="2"/>
+		[Dies ist, was] Ṣāliḥ b. Mūsā, der Gerstenhändler, [als Brautgabe bestimmt hat] für Karīma, Tochter des ʿAlī b. Raǧā, den Mül[ler, nachdem er gefra]gt hatte sie persönlich nach ihrer Hand für die Heirat, sie ist zu diesem Zeitpunkt eine unverheiratete [erwachsene]
+		[This is what] Ṣâliḥ b. Mûsâ, the barley dealer, [has stipulated as a nuptial gift] to Karîma, daughter of ʿAlî b. Raǧâ, the mil[ler, after that he had ask]ed her personnally for her hand in marriage, she being at that time an unmarried [adult]
+			<lb n="3"/>
+		[Jungfrau, im Zustand] (gesunden) Geistes und Körpers, (und) fähig ihre Geschäfte durchzuführen, beides mit Hinsicht auf Rechte und Pflichten, und er hat im Austausch gegeben [für sie die Brautgabe], (teils) Sofortzahlung und (teils) zurückgehalten, zwei Dīnār v[oll aufgewogen]
+		[virgin, in a state of] (sound) mind and body, (and) capable of transacting her business both with respect to rights and obligations, and he has given in exchange [for her the nuptial gift], (part) paid cash down and (part) held over, two dînârs f[ull weight]
+			<lb n="4"/>
+		[good piec]es: He has paid to her of it one dînâr, taken at the conclusion [of her (contract) of marriage, which she has ta]ken over, fully, entire, and she has given him a quittance [for it]
+		[gute Mü]nzen. Er hat ihr davon einen Dīnār gezahlt, genommen beim Abschluss [ihrer Heirat, den sie na]hm entgegen, vollkommen und gesamt, und sie hat ihm eine Quittung gegeben [dafür]
+			<lb n="5"/>
+		[by means of a recei]pt, (acknowledging that she has) received (it) and taken (it) over fully, and that the other dînâr, which is the remain[der of her nuptial gift, is outstan]ding to her credit and his debit till the expiration of one year,
+		[in Form eines Empfangssche]ins, (anerkennend, dass sie es) empfing und (es) gänzlich entgegennahm, und dass der andere Dīnār, welcher der Res[t ihrer Brautgabe ist, er steht] aus zu ihren Gunsten und seinen Lasten bis zum Ablauf eines Jahres,
+			<lb n="6"/>
+		[der Beginn dessen ist in] der Mitte Ǧumāda I des Jahres vierhun[dert]neunzehn. [Und es obliegt ihm zu fürch]ten Gott, den Glanzvollen, in Hinsicht auf sie, und die Beziehung zu und das Le[ben mit ihr] schön zu gestalten,
+		[the beginning of which is in] the middle of Ǧumâdâ I of the year four hun[dred] and nineteen. [And it is his obligation to fea]r God, the gracious, in respect of her, and to render relationship to and li[fe with her] pleasing,
+			<lb n="7"/>
+		[and to do no harm to her, according to the ordinance of Go]d - He is mighty and sublime - in His book and to the rule of our Prophet Muḥammad - m[ay the blessing of God be upon him and] may He preserve him - in respect to keeping her in amenity or dismissing her [in kindness]
+		[und ihr nichts anzutun, entsprechend der Verordnung Gott]es – Er ist allmächtig und überlegen – in Seinem Buch und den Regeln unseres Propheten Muḥammad – m[öge Gottes Segen auf ihm sein und] möge er ihn beschützen – in Hinsicht darauf sie in Liebenswürdigkeit zu behalten und sie zu entlassen [in Freundlichkeit]
+			<lb n="8"/>
+		[..........................]... der Reine, der Vorfahr unseres Herrn, der befehlshaber des gläubigen aẓ-Ẓāhir li-Iʿzāz dīn Allāh .................................[ ]
+		[........................].. the pure, the ancestors of our Sire, the Commander of the faith[ful] aẓ-Ẓâhir li-Iʿzâz dîn Allâh ..................... [...]
+			<lb n="9"/>
+			<lb n="10"/>
+		[and her having entrusted] with it her paternal uncle [So and So], the miller(?) [...]...
+		[und dass sie beauftragt hatte] damit ihren Onkel väterlicherseits [Soundso], der Müller (?) [ ] ...
+			<lb n="11"/>
+		[dass sie beide] bekannt waren mit ihrer [ ].
+		[... that they both] are acquainted with her [...].
+			<lb n="12"/>
+		[die Brautgabe, (teils) unverzüglich auszuz]ahlen und (teils) zurückgehalten, gen[annt in dieser Tat ........................................]
+		[... the nuptial gift, (part) immediately ex]igible and (part) held over, n[amed in this act ...........................]
+			<lb n="13"/>
+		[..................]... according to that which is mentioned and described therein [...]
+		[..............................]... hinsichtlich dessen, das erwähnt und beschrieben ist hierin[ ]
+			<lb n="14"/>
+		[ ] all dies in seiner Gesamtheit [ ]
+		[...] all this in its entirety [...]
+			<lb n="15"/>
+			<lb n="16"/>
+		Ibrahīm b. ʿAlī b. Halbāʾ b. Muḥammad b. Ḥamdān ist  [Zeu]ge  für [die Anerkennung durch .....................................]
+		Ibrahîm b. ʿAlî b. Halbâʾ b. Muḥammad b. Ḥamdân is [wit]ness to [the acknowledgment by ................................................]
+			<lb n="17"/>
+		[der] Garant, der der Onkel väterlicherseits genannt in diesem Akt ist [.........................]
+		[... the] sponsor, who is the paternal uncle named in this act [...]
+			<lb n="18"/>
+		Witness is [...]
+		Zeuge ist [...................................]
+			<lb n="19"/>
+		der Gatte [..................................]
+		the husband [...]
+</ab></div>
+</body>
+</text>
+</TEI>

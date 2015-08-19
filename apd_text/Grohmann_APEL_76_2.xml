@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="69" xml:id="Grohmann_APEL_76_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 076</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_76_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106501</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـان <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">بـثـ</supplied>ـلثي دينار 
+<lb n="2"/>  <supplied reason="lost" cert="high">عـ</supplied>ـينا ذهبا وازنا <supplied reason="lost" cert="high">جيادا</supplied> <supplied reason="lost" cert="high">قبض</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مشيش</supplied> </lem><rdg resp="APD">مشيش</rdg></app> بن أتارو<supplied reason="lost" cert="high">ر</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الـثّمـ</supplied>ـن تامّا وافيا 
+<lb n="3"/>  <supplied reason="lost" cert="high">و</supplied>تبرّأ من هذه الـنّخلة براه قبض واستيفا وسلّم ذلك إلى 
+<lb n="4"/>  نظر بن <app type="BL"><lem resp="APD">تبان </lem><rdg resp="APD">بنان </rdg><rdg resp="APD">بثّان </rdg><rdg resp="APD">بيّان </rdg><rdg resp="APD">تبّان </rdg><rdg resp="APD">تبان </rdg><rdg resp="APD">بنّان</rdg></app> تولّى تسليم الملك إلى أربابه شهد على إقرار 
+<lb n="5"/>  <app type="BL"><lem resp="APD">مسيس </lem><rdg resp="APD">مشيش</rdg></app> بن أتارور بـجميع ما في هذا الـكتاب بعد أن قرئ عليه 
+<lb n="6"/>  تعرّفه وأقر بفهمه وذلك في صحّته وعقله وبدنه وجواز أمره طائع 
+<lb n="7"/>  غير مكره ولا مجبر طالب راغب وذلك في شهر ربيع الـأوّل من 
+<lb n="8"/>  سنة أربع وعشرين وثلثمائة شهد على ذلك 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>**ān ** bi ṯulṯay dīnār:in 
+ <lb n="2"/>ʿayn:an ḏahab:an wāzin:an ǧiyād:an qabaḍa masīsu mušīšu bnu ʾatārūra hāḏā ăṯ ṯamana tāmm:an wāfiy:an 
+ <lb n="3"/>wa tabarraʾa min hāḏihi ăn naḫlaẗi barāʾaẗ:an qabaḍa wa ĭstayfā wa sallama ḏālika ʾilà 
+ <lb n="4"/>naẓari bni bannāna bayāna bayyāna buṯṯāna bunāna tubāna tubbāna tawallà taslīma ăl milki ʾilà ʾarbābi hi šahida ʿalà ʾiqrāri 
+ <lb n="5"/>masīsa mušīša bni ʾatārūra bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay hi 
+ <lb n="6"/>taʿarrafa hu wa ʾaqarra bi fahmi hi wa ḏālika fī ṣiḥḥaẗi hi wa ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ:un 
+ <lb n="7"/>ġayru mukrah:in wa lā muǧbar:in ṭālib:un rāġib:un wa ḏālika fī šahri rabīʿa ăl ʾawwali min 
+ <lb n="8"/>sanaẗi ʾarbaʿ:in wa ʿišrīna wa ṯalāṯi miʾaẗ:in šahida ʿalà ḏālika 
+ <lb n="9"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[   ] ...... [    for two third]ds (?) of a dînâr, 
+			<lb n="2"/>
+		gold-coins, full weight, [good pieces. Masîs] b. Atârû[r has received this pri]ce fully and entirely
+			<lb n="3"/>
+		and he has released himself of this date-palm by means of a receipt (acknowledging that he has) received and taken over (the) full (price) and he has handed this over to 
+			<lb n="4"/>
+		Naẓar b. Bayân as property is usually handed over by owners. (The following witnesses) have testified to the acknowledgment
+			<lb n="5"/>
+		by Masîs b. Atârûr respecting all that (is contained) in this deed, after (it) had been read to him, 
+			<lb n="6"/>
+		(so that) he is cognizant of it and has acknowledged that he has understood it, and this in his soundness of mind and body and capacity of transacting his business, voluntarily,
+			<lb n="7"/>
+		without compulsion and not against his will, (but) demanding and desiring (it), and this in the month of Rabî‘ I of
+			<lb n="8"/>
+		the year three hundred and twenty four. There have testified to it:
+</ab></div>
+</body>
+</text>
+</TEI>

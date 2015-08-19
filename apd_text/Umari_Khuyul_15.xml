@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2143" xml:id="Umari_Khuyul_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بِسمِ اللَّه الرّحمنِ الرّحيم وهو حسبي 
+<lb n="2"/>  المملوك 
+<lb n="3"/>  محمّد سعود الدّلّال بسوق الخيل 
+<lb n="4"/>  يقبّل الأرض بين يدي مولانا المواقف الشّريفة شرّفها اللّه تعالى وعظّمها 
+<lb n="5"/>  وخلّد ملك مالكها وينهي أن السّيفي ماماي السّاقي أعطا المملوك فرس فحل 
+<lb n="6"/>  فنادى عليه المملوك في سوق الخيل بحضور ماماي المذكور فرآه الأمير قانصوه 
+<lb n="7"/>  من طبقة الغور فأعجبه فزاد في ثمنه واشتراه من صاحبه بخمسين دينارا وتسلّم 
+<lb n="8"/>  الفرس وصار عنده ثلاثة أيّام وأراد أن يقبض ثمنه فأرسل خلفه شخص 
+<lb n="9"/>  بيطار يسمّى أحمد الحُو فقلّب الفرس المذكور فذكر أن به نملة وفي بيت شكاله 
+<lb n="10"/>  تشخيص فردّه الأمير قانصوه وسلّمه لغلامه السّيفي ماماي صاحب الفرس 
+<lb n="11"/>  وأخبره بما قال البيطار فركب ماماي الفرس وجاء إلى البيطار المذكور 
+<lb n="12"/>  فهدّده وأخذ منه ثمن الفرس خمسين دينارا بيده فشكا البيطار 
+<lb n="13"/>  للأمير قانصوه مع ما وقع له مع ماماي وأنّه أخذ منه الثّمن باليد العادية 
+<lb n="14"/>  فجا الأمير قانصوه المذكور لوالد المملوك ومسكه وسجنه في بيته 
+<lb n="15"/>  ثلاثة أيّام وأعطاه الفرس وقال ما أعرف الخمسين دينارا إلّا منك 
+<lb n="16"/>  والمملوك هو ووالده فقرا وذووا عائلة وليس لهما في ذلك سبب ولا كانا 
+<lb n="17"/>  حَاضرين ما فعله ماماي الـمذكور ولا لهما بـه علم وقد أضر ذلك بحالهما 
+<lb n="18"/>  وسوال المملوك من الصّدقات 
+<lb n="19"/>  الشّريفة النّظر في حالهما وخلاصهما صدقة 
+<lb n="20"/>  عليهما ليسطر ثواب ذلك في الصّحائف الشّريفة 
+<lb n="21"/>  أنهى المملوك ذلك <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="UB">إن</rdg></app> <app type="BL"><lem resp="APD">والحمد </lem><rdg resp="UB">شاء</rdg></app> <app type="BL"><lem resp="APD">لله </lem><rdg resp="UB">اللّه</rdg></app> <app type="BL"><lem resp="APD">وحده </lem><rdg resp="UB">تعالى</rdg></app> 
+<lb n="22"/>  حسبي اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa huwa ḥasb ī 
+ <lb n="2"/>ăl mamlūku 
+ <lb n="3"/>muḥammad:un suʿūd:unu ăd dallālu bi sūqi ăl ḫayli 
+ <lb n="4"/>yuqabbilu ăl ʾarḍa bayna yaday mawlā nā ăl mawāqifi ăš šarīfaẗi šarrafa hā ăl lāhu taʿālà wa ʿaẓẓama hā 
+ <lb n="5"/>wa ḫallada mulka māliki hā wa yunhī ʾanna ăs sayfiyya māmāya ăs sāqiya ʾaʿṭā ăl mamlūka faras faḥl 
+ <lb n="6"/>fa nādà ʿalay hi ăl mamlūku fī sūqi ăl ḫayli bi ḥuḍūri māmāya ăl maḏkūri fa raʾā hu ăl ʾamīru qānṣawhu 
+ <lb n="7"/>min ṭabaqaẗi ăl ġawri fa ʾaʿǧaba hu fa zāda fī ṯamani hi wa ĭštarā hu min ṣāḥibi hi bi ḫamsīna dīnār:an wa tasallama 
+ <lb n="8"/>ăl farasa wa ṣāra ʿinda hu ṯalāṯaẗa ʾayyām:in wa ʾarāda ʾan yaqbiḍa ṯamana hu fa ʾarsala ḫalfa hu šaḫṣ 
+ <lb n="9"/>bayṭār yusammà ʾaḥmada ăl ḥū fa qallaba ăl farasa ăl maḏkūra fa ḏakara ʾanna bi hi nimlaẗ:an wa fī bayti šikāli hi 
+ <lb n="10"/>tašḫīṣ fa radda hu ăl ʾamīru qānṣawhu wa sallama hu li ġulāmi hi ăs sayfiyyi māmāya ṣāḥibi ăl farasi 
+ <lb n="11"/>wa ʾaḫbara hu bi mā qāla ăl bayṭāru fa rakiba māmāyu ăl farasa wa ǧāʾa ʾilà ăl bayṭāri ăl maḏkūri 
+ <lb n="12"/>fa haddada hu wa ʾaḫaḏa min hu ṯamana ăl farasi ḫamsīna dīnār:an bi yadi hi fa šakā ăl bayṭāru 
+ <lb n="13"/>li l ʾamīri qānṣawha maʿa mā waqaʿa la hu maʿa māmāya wa ʾanna hu ʾaḫaḏa min hu ăṯ ṯamana bi ăl yadi ăl ʿādiyaẗi 
+ <lb n="14"/>fa ǧāʾa ăl ʾamīru qānṣawhu ăl maḏkūru li wālidi ăl mamlūki wa masaka hu wa saǧana hu fī bayti hi 
+ <lb n="15"/>ṯalāṯaẗa ʾayyām:in wa ʾaʿṭā hu ăl farasa wa qāla mā ʾaʿrifu ăl ḫamsīna dīnār:an ʾillā min ka 
+ <lb n="16"/>wa ăl mamlūku huwa wa wālidu hu fuqarāʾu wa ḏawū ḏawwā ʿāʾilaẗ:in wa laysa la humā fī ḏālika sabab:un wa lā kānā 
+ <lb n="17"/>ḥāḍirayni mā faʿala hu māmāyu ăl maḏkūru wa lā la humā bi hi ʿilm:un wa qad ʾaḍarra ḏālika bi ḥāli himā 
+ <lb n="18"/>wa suʾālu ăl mamlūki mina ăṣ ṣadaqāti 
+ <lb n="19"/>ăš šarīfaẗi ăn naẓaru fī ḥāli himā wa ḫalāṣu humā ṣadaqaẗ:an 
+ <lb n="20"/>ʿalay himā li yusṭara ṯawāba ḏālika fī ăṣ ṣaḥāʾifi ăš šarīfaẗi 
+ <lb n="21"/>ʾanhà ăl mamlūku ḏālika ø ʾin ø šāʾa ø ăl ø lāhu ****** taʿālà wa ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="22"/>ḥasb iya ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

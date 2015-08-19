@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2188" xml:id="Chrest_Khoury_I_87" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>Chrest.Khoury I 87</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Chrest_Khoury_I_87</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم هذا ما أصدق فلان بن فلان فلانة ابنت فلان وتزوّجها من 
+<lb n="2"/>  كذا وكذا بكذى وكذى دينارا عينا ذهبا وازنة جياد على أن من ذلك 
+<lb n="3"/>  <supplied reason="lost" cert="high">كذا</supplied> <supplied reason="lost" cert="high">وكذ</supplied>ا <supplied reason="lost" cert="high">دينارا</supplied> <supplied reason="lost" cert="high">حالا</supplied> معجّلا ومن ذلك كذى وكذى موحرا عليه إلى انقضا 
+<lb n="4"/>  كذى وكذ<supplied reason="lost" cert="high">ى</supplied> <supplied reason="lost" cert="high">سنين</supplied> <supplied reason="lost" cert="high">متواليا</supplied>ت أوّلهن شهر كذى وكذى وآخرهن كذى وكذى 
+<lb n="5"/>  على أن يتّقي اللّه عز و<sic n="superfluous">ا</sic>جل فيها <app type="BL"><lem resp="APD">وحسّن </lem><rdg resp="LS">ويحسن</rdg></app> صحبتها وپعاسرپها بالمعروف 
+<lb n="6"/>  كما أمر اللّه عز وجل ⟦مپها⟧ ڤى كپاپه وسنه پپپه محمد صلى الله علپه 
+<lb n="7"/>  وله عليها مثل الّذي لها عليه من ذلك وولي تزويجها إيّاه فلان بن 
+<lb n="8"/>  فلان بأمـ<supplied reason="lost" cert="high">ـرها</supplied> <supplied reason="lost" cert="high">ور</supplied>ضاها بعد أن أشهدت له بذلك شاهدان 
+<lb n="9"/>  يعرفاها باسمها وحيّها وهي امرأة بالغ بكرة صحيحة العقل 
+<lb n="10"/>  والـ<supplied reason="lost" cert="high">ـبـ</supplied>ـدن فتزوّجها فلان بن فلان من فلان بن فلان بهذا الصّداق 
+<lb n="11"/>  المذكور <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتا</supplied>ب وأمضاه وألزمه على نفسه بعد أن قرئ عليهما 
+<lb n="12"/>  جميعا جميع ما فيه من أوّله إلى آخره فأقرّا <app type="BL"><lem resp="APD">وفقهما </lem><rdg resp="LS">بفهمهما</rdg></app> وعرفا جميع ما فيه في صحّة 
+<lb n="13"/>  عقلهما وبدنهما وجواز أمرهما طائعا وغير مكروه ولا مجبر 
+<lb n="14"/>  وذلك <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">كذى</supplied> <supplied reason="lost" cert="high">وكذى</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">كذى</supplied> <supplied reason="lost" cert="high">وكذى</supplied> <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ذلك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi hāḏā mā ʾaṣdaqa fulānu bnu fulān:in fulānaẗa ĭbnata fulān:in wa tazawwaǧa hā min 
+ <lb n="2"/>kaḏā wa kaḏā bi kaḏà wa kaḏà dīnār:an ʿayn:an ḏahab:an wāzinaẗ:an ǧiyād ʿalà ʾanna min ḏālika 
+ <lb n="3"/>kaḏā wa kaḏā dīnār:an ḥāl:an muʿaǧǧal:an wa min ḏālika kaḏà wa kaḏà muʾaḫḫar:an ʿalay hi ʾilà ĭnqiḍāʾi 
+ <lb n="4"/>kaḏà wa kaḏà sinīna mutawāliyāt:in ʾawwalu hunna šahru kaḏà wa kaḏà wa ʾāḫiru hunna kaḏà wa kaḏà 
+ <lb n="5"/>ʿalà ʾan yattaqiya ăl lāha ʿazza wa ǧalla fī hā wa ḥassana yuḥsina ṣuḥbata hā muʿāšarata bi ăl maʿrūfi 
+ <lb n="6"/>kamā ʾamara ăl lāhu ʿazza wa ǧalla fī kitābi hi wa sunnaẗi nabiyyi hi muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama 
+ <lb n="7"/>wa la hu ʿalay hā miṯlu ăllaḏī la hā ʿalay hi min ḏālika wa waliyyu tazwīǧi hā ʾiyyā hu fulānu bnu 
+ <lb n="8"/>fulān:in bi ʾamri hā wa riḍā hā baʿda ʾan ʾašhadat la hu bi ḏālika šāhidāni 
+ <lb n="9"/>yaʿrifā hā bi ĭsmi hā wa ḥayya ḥayyi hā wa hiya ĭmraʾaẗ:un bāliġ:un bikraẗ:un ṣaḥīḥaẗu ăl ʿaqli 
+ <lb n="10"/>wa ăl badani fa tazawwaǧa hā fulānu bnu fulān:in min fulāni bni fulān:in bi hāḏā ăṣ ṣadāqi 
+ <lb n="11"/>ăl maḏkūri fī hāḏā ăl kitābi wa ʾamḍā hu wa ʾalzama hu ʿalà nafsi hi baʿda ʾan quriʾa ʿalay himā 
+ <lb n="12"/>ǧamīʿ:an ǧamīʿu mā fī hi min ʾawwali hi ʾilà ʾāḫiri hi fa ʾaqarrā ø bi wafqa fahmi humā himā wa ʿarafā ǧamīʿa mā fī hi fī ṣiḥḥaẗi 
+ <lb n="13"/>ʿaqli himā wa badani himā wa ǧawāzi ʾamri himā ṭāʾiʿ:an wa ġayra makrūh:in wa lā muǧbar:in 
+ <lb n="14"/>wa ḏālika fī šahri kaḏà wa kaḏà min sanaẗi kaḏà wa kaḏà šahida šuhida ʿalà ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieu ! Ceci est ce qu&#039;un tel fils d&#039;un tel, a désigné comme dot à telle fille d&#039;un tel, et se maria à elle de
+		Im Namen Gottes, des Barmherzigen, des Gütigen! Dies ist, was Soundso, Sohn des Soundso, als Brautgabe für die Soundso, Tochter des Soundso bestimmt hat, und sich mit ihr verheiratete
+			<lb n="2"/>
+		am soundso vielten des soundo vielten, für soundso viel und soundso viel Dīnār, in gut aufgewogenen und einwandfreien Goldmünzen, unter der Bedingung, dass von diesen
+		tant et de tant, pour tant et tant de dīnārs, en pièces d&#039;or bien pesées et excellentes, à condition que de cela
+			<lb n="3"/>
+		[soundso viel und soundso viel] Dīnār sofort [gezahlt werden], und soundso viel und soundso viel ihm erlassen werden, bis zum Ablauf
+		[tant et tant] de dīnārs [soient payables] immédiatement, et que tant et tant lui en soient repoussés, jusqu&#039;à l&#039;écoulement
+			<lb n="4"/>
+		des soundso vielten des soundso viel[ten des kommenden Jahr]es, dessen Anfang der Monat des soundso und soundso und dessen Ende (der Monat soundso und soundso ist,
+		de tant et tan[t d&#039;années successiv]es, dont le début est le mois de tel et tel et la fin est (le mois) tel et tel,
+			<lb n="5"/>
+		à condition qu&#039;il craigne Dieu, il est puissant et grand, en ce qui la concerne, qu&#039;il soigne sa compagnie et ses rapports avec elle, en ce qui est reconnu (convenable),
+		unter der Bedingung, dass er Gott, er ist allmächtig und groß, fürchte, was sie betrifft, dass er seine Gesellschaft und seinen Umgang mit ihr sorgfältig pflege, er sich verhalte (entsprechend)
+			<lb n="6"/>
+		comme Dieu, il est puissant et grand, l&#039;a ordonné dans son Livre et la Sunna de son Prophète Muḥammad, que Dieu le bénisse et le salue.
+		wie Gott, er ist allmächtig und groß, es in seinem Buch verordnete und in der Sunna seines Propheten Muḥammad, Gott segne ihn und schenke ihm Heil.
+			<lb n="7"/>
+		Es obliegt ihr dies genauso ihm gegenüber wie ihm ihr gegenüber. Und ein Soundso, Sohn
+		Il lui incombe en cela vis-à-vis d&#039;elle la même chose que ce qui lui incombe à elle vis-à-vis de lui. Et un tel, fils
+			<lb n="8"/>
+		d&#039;un tel s&#039;est chargé de la marier à lui, sur [son] or[dre et avec] son [con]sentement, après qu&#039;elle lui a pris deux personnes à témoin
+		eines Soundso ist beauftragt, sie mit ihm zu vermählen, mit [ihrer] An[weisung und mit] ihrem [Ein]verständnis, nachdem sie zwei Personen zur Bezeugung herbeiholte,
+			<lb n="9"/>
+		die sie mit Namen und ihre Familie kennen. Und sie war eine erwachsene und jungfräuliche Frau, im vollen Besitz ihres Geistes
+		qui la connaissaient par son nom et par sa famille. Et elle était une femme adulte et vierge, en bon état de santé mentale
+			<lb n="10"/>
+		et [phy]sique. Ainsi s&#039;est marié à elle un tel fils d&#039;un tel, d&#039;un tel fils d&#039;un tel, par le moyen de cette dot
+		und gutem Zustand des Körpers. Es wurde ihr der Soundso, Sohn des Soundso, Soundso, Sohn des Soundso, angetraut, mit der Hälft der Brautgabe
+			<lb n="11"/>
+		erwähnt [in dieser Urkund]e, und er erklärte sie gültig und er erfüllte seine Pflicht, nachdem sie vorgelesen worden war,
+		mentionnée [dans ce document]t, et il le ( = document) déclara comme valide et s&#039;en fit un devoir, après qu&#039;il a été lu,
+			<lb n="12"/>
+		à eux tous, tout son contenu du début jusqu&#039;à la fin. Les deux reconnurent alors leur accord et surent ce qu&#039;il contenait, étant dans la plénitude de leurs faculté
+		ihnen allen, gemäß ihres Inhaltes vom Anfang bis zum Ende. Die beiden bestätigten darauf ihre Vereinbarung und stimmten dem zu, was sie enthielt, im vollen Besitz seiend ihrer Fähigkeiten
+			<lb n="13"/>
+		geistig und körperlich und ihrer Geschäftsfähigkeit, ihrer freien und ungezwungenen Entscheidung
+		mentales et physiques et leur capacité juridique, de leur gré non maltraités ni contraints,
+			<lb n="14"/>
+		et ceci [au mois tel et tel de l&#039;année telle et telle. On a témoigné de cela].
+		und dies [im Monat soundso und soundso des Jahres soundso und soundso. Dies bezeugten].
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1671" xml:id="Grohmann_APEL_198" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 198</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_198</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169422</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  داود القسطال بحضرة خليفة عامل أبي أيّوب 
+<lb n="2"/>  ‮أعزّه اللّه لخراج سنة ‪σμς‬ 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  دينر 
+<lb n="5"/>  ‮‪δʹ‬ 
+<lb n="seal"/>  الهدى العلي اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dāwūdu ăl qusṭālu bi ḥaḍraẗi ḫalīfaẗa ʿāmili ʾabī ʾayyūba 
+ <lb n="2"/>ʾaʿazza hu ăl lāhu li ḫarāǧi sanaẗi ‪246 
+ <lb n="4"/>*** 
+ <lb n="5"/>dīnār 
+ <lb n="6"/>‮‪1/4 
+ <lb n="7"/>ăl hudà ăl ʿaliyyu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		David, the treasurer (qusṭâl), in the presence of the deputy of the administrator (of taxes) of Abû Ayyûb
+			<lb n="2"/>
+		- may God exalt him - for the impost of the year 246.
+			<lb n="4"/>
+		By me, T(awit).
+			<lb n="5"/>
+		Dînâr
+			<lb n="6"/>
+		1/4
+			<lb n="7"/>
+		The supreme guidance is God.
+</ab></div>
+</body>
+</text>
+</TEI>

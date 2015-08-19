@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2440" xml:id="Grohmann_Fatimidenerlass" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannFatimidenerlass (= P.Fatimid. 01)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Fatimidenerlass</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  عماراتكم ولا تطالبوا بـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  بحشدٍ في حرب ولا بخروج <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  وإعزاز كل راهب يخرج منكم إلى الضّياع 
+ <lb n="4"/>  للتّعيُّش فيها وقضاءِ حاجات من وراه 
+ <lb n="5"/>  منكم ولا تُلزموا عمّا <app type="BL"><lem resp="APD">يُحمل </lem><rdg resp="Stern">يحمل</rdg></app> النّصـ<supplied reason="lost" cert="high">ـارى</supplied> 
+ <lb n="6"/>  من الميرة وما يجري مجراها مكسا ولا 
+ <lb n="7"/>  غُرما قلّ أو جلّ وأن تحفظوا فيما 
+ <lb n="8"/>  لكم من زرع وغلّة وعوامل في سائر 
+ <lb n="9"/>  النّواحي وألّا يُعترض مَا يُخلفه <supplied reason="lost" cert="high">مـ</supplied>ـن 
+ <lb n="10"/>  يموت من رُهبانكم خارجا عن دياراتـكـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="11"/>  في حال تردُّده إلى الرّيف وغيره 
+ <lb n="12"/>  للتّصرُّف في <app type="BL"><lem resp="APD">ما </lem><rdg resp="Stern">مآربكم</rdg></app> <app type="BL"><lem resp="APD">أربكم </lem><rdg resp="APD">ø</rdg></app> من كل شئ 
+ <lb n="13"/>  يملكه ليكون جميعُه عائدًا 
+ <lb n="14"/>  على إخوته في رهبانيته دون كل قريب له 
+ <lb n="15"/>  ونسيب غيرهم وإن الإما<supplied reason="lost" cert="high">م</supplied> 
+ <lb n="16"/>  المعز لدين اللّه والإمام العزيز باللّه والإما<supplied reason="lost" cert="high">م</supplied> 
+ <lb n="17"/>  الحاكم بأمر اللّه قدّس اللّه أرواحهم تقدّموا بكتب 
+ <lb n="18"/>  سجلّات بإمضا ذلك كلّه <unclear reason="undefined" cert="high">لكم</unclear> وسألتم 
+ <lb n="19"/>  كتب سجل بتجديد ما كانت أمضته لكـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="20"/>  الأئمّة وتوكيد ما رعته لكافّتكم من الحُرمة 
+ <lb n="21"/>  وحفْظ ما لكم من هذه المواتّ والأذمّة 
+ <lb n="22"/>  فأمر أمير المومپپن 
+ <lb n="23"/>  بكتب هذا السّجل المنشور <app type="BL"><lem resp="APD">بحملكم </lem><rdg resp="Stern">بحملكم</rdg></app> على مُقتضـ<supplied reason="lost" cert="high">ـى</supplied> 
+ <lb n="24"/>  النّصّ المذكور ومُوجَپ الشّرح المسطو<supplied reason="lost" cert="high">ر</supplied> 
+ <lb n="25"/>  وإقراره في أيديكم حجّةً بذلك باقية على 
+ <lb n="26"/>  على مر الأيّام والدّهور حتّى لا يعترضكم 
+ <lb n="27"/>  معترض بما يُزيل هذا الإنعام عن حَدّه 
+ <lb n="28"/>  أو يتأوّل فيه مُتأوّل بما يصرفه عن 
+ <lb n="29"/>  وجهه وقصده <app type="BL"><lem resp="APD">و<unclear reason="undefined" cert="high">الذّربّ</unclear> </lem><rdg resp="Stern">والذّبّ</rdg></app> عنكم 
+ <lb n="30 a right margin"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إ</supplied>ن شا اللّه 
+ <lb n="30 b upper 30 c"/>  <supplied reason="lost" cert="high">أثبت</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـي ديوان الخراج وما جمع إليه أثبت في ديوان الزّمام والحمد للّه كما هو أهله 
+ <lb n="30 c"/>  <supplied reason="lost" cert="high">أثبت</supplied> <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" precision="low" extent="3"/> والحمد للّه ولي كل نعمة لمن قرأه أو قرئ عليه من الأوليا 
+ <lb n="30 d right margin"/>  <supplied reason="lost" cert="high">أثبت</supplied> <supplied reason="lost" cert="high">في</supplied> ديوان الطّاهويّة وما جمع إليه 
+ <lb n="30 e right margin"/>  والحمد للّه كثيرا 
+ <lb n="30 f right margin"/>  <supplied reason="lost" cert="high">أثبت</supplied> <supplied reason="lost" cert="high">في</supplied> الدّيوان المختص المفرد <app type="BL"><lem resp="APD">العتيك </lem><rdg resp="Stern">العتيق</rdg></app> نسخ في ديوان الأوليا الكبار وللّه الأمر <app type="BL"><lem resp="APD">أثبت </lem><rdg resp="Stern">ليثبت</rdg></app> في الدّيوان الـ<supplied reason="lost" cert="high">ـمظا</supplied>لم و<unclear reason="undefined" cert="high">داپپاپ</unclear> 
+ <lb n="30 g right margin "/>  <gap reason="illegible" precision="low" extent="3"/> والحمد للّه كما <supplied reason="omitted" cert="high">هو</supplied> مستحق وللّه الحمد بالمنّة أثبت في هذا الدّيوان 
+ <lb n="30 below 30 c right"/>  والحمد للّه ولي المواهب 
+ <lb n="30 below 30 c left"/>  والحمد للّه <unclear reason="undefined" cert="high">ربّ</unclear> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">التّوقيع</unclear> </lem><rdg resp="Stern">التّوفيق</rdg></app> 
+ <lb n="31"/>  والولاة المتصرّفين في الأموال <app type="BL"><lem resp="APD">والجباة </lem><rdg resp="Stern">والجباة</rdg></app> 
+ <lb n="31 a right margin"/>  <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">ثبت</supplied> </lem><rdg resp="Stern">ليثبت</rdg></app> <supplied reason="lost" cert="high">في</supplied> الدّيوان <app type="BL"><lem resp="APD">الفرحي </lem><rdg resp="Stern">الفرحيّ</rdg></app> إن شا اللّه 
+ <lb n="31 b right margin"/>  <app type="BL"><lem resp="APD">وأثبت </lem><rdg resp="Stern">أثبت</rdg></app> ڤد<gap reason="illegible" extent="1" unit="character" />پپ والحمد للّه وحده 
+ <lb n="32"/>  وسائر عبيد الدّولة وخدمها على اختلاف 
+ <lb n="33"/>  طبقاتهم وتراجُح درجاتهم فليعلمه من أمر 
+ <lb n="34"/>  أمير المومپپن ورسمه وليعمل عليه وبحسبه 
+ <lb n="35"/>  إن شا اللّه وكتب في سپه حمس عسره 
+ <lb n="36"/>  وأربع مائة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="37"/>  وصلّى اللّه على جدّنا محمّد خاتم النّبيّين وسيّد المرسلين وآله الطّاهرين الأئمّة المهديّين وسلّم تسليمـ<supplied reason="lost" cert="high">ـا</supplied> 
+ <lb n="38"/>  حسبنا اللّه ونعم الوكيل 
+ <lb n="39"/>  <gap reason="illegible" precision="low" extent="3"/>ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> الـ<gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʿimārāt kum wa lā tuṭālabū bi *** 
+ <lb n="2"/>bi ḥašd:in fī ḥarb:in wa lā bi ḫurūǧ:in *** 
+ <lb n="3"/>wa ʾiʿzāzi kulli rāhib:in yaḫruǧu min kum ʾilà ăḍ ḍiyāʿi 
+ <lb n="4"/>li t taʿayyuši fī hā wa qaḍāʾi ḥāǧāt:in min warāʾi hi 
+ <lb n="5"/>min kum wa lā tulzamū ʿammā yaḥmilu yuḥmalu ăn naṣārà 
+ <lb n="6"/>mina ăl mīraẗi wa mā yaǧrī maǧrā hā maks:an wa lā 
+ <lb n="7"/>ġurm:an qalla ʾaw ǧalla wa ʾan taḥfaẓū fī mā 
+ <lb n="8"/>la kum min zarʿ:in wa ġallaẗ:in wa ʿawāmila fī sāʾiri 
+ <lb n="9"/>ăn nawāḥī wa ʾallā yuʿtaraḍu mā yuḫlifu hu man 
+ <lb n="10"/>yamūtu min ruhbāni kum ḫāriǧ:an ʿan diyārāti kum 
+ <lb n="11"/>fī ḥāli taraddudi hi ʾilà ăr rīfi wa ġayri hi 
+ <lb n="12"/>li t taṣarrufi fī mā maʾāribi kum ʾarabu ø kum ø min kulli šayʾ:in 
+ <lb n="13"/>yamliku hu li yakūna ǧamīʿu hu ʿāʾid:an 
+ <lb n="14"/>ʿalà ʾiḫwati hi fī rahbāniyaẗi hi dūna kulli qarīb:in la hu 
+ <lb n="15"/>wa nasīb:in ġayri him wa ʾinna ăl ʾimāma 
+ <lb n="16"/>ăl muʿizza li dīni ăl lāhi wa ăl ʾimāma ăl ʿazīza bi ăl lāhi wa ăl ʾimāma 
+ <lb n="17"/>ăl ḥākima bi ʾamri ăl lāhi qaddasa ăl lāhu ʾarwāḥa hum taqaddamū bi katbi 
+ <lb n="18"/>siǧillāt:in bi ʾimḍāʾi ḏālika kulli hi la kum wa saʾaltum 
+ <lb n="19"/>katba siǧill:in bi taǧdīdi mā kānat ʾamḍat hu la kum 
+ <lb n="20"/>ăl ʾaʾimmaẗu wa tawkīdi mā raʿat hu li kāffaẗi kum min ăl ḥurmaẗi 
+ <lb n="21"/>wa ḥifẓi mā la kum min hāḏihi ăl mawātti wa ăl ʾaḏimmaẗi 
+ <lb n="22"/>fa ʾamara ʾamīru ăl muʾminīna 
+ <lb n="23"/>bi katbi hāḏā ăs siǧilli ăl manšūri ḥamli bi kum yaḥmilu kum ø ʿalà muqtaḍà 
+ <lb n="24"/>ăn naṣṣi ăl maḏkūri wa mūǧibi ăš šarḥi ăl masṭūri 
+ <lb n="25"/>wa ʾiqrāri hi fī ʾaydī kum ḥuǧǧaẗ:an bi ḏālika bāqiyaẗ:an ʿalà 
+ <lb n="26"/>ʿalà marri ăl ʾayyāmi wa ăd duhūri ḥattà lā yaʿtariḍu kum 
+ <lb n="27"/>muʿtariḍ:un bi mā yuzīlu hāḏā ăl ʾinʿāma ʿan ḥaddi hi 
+ <lb n="28"/>ʾaw yataʾawwalu fī hi mutaʾawwil:un bi mā yaṣrifu hu ʿan 
+ <lb n="29"/>waǧhi hi wa qaṣdi hi wa ḏabbi ăḏ ḏarabi ʿan kum 
+ <lb n="30"/>*** ʾin šāʾa ăl lāhu 
+ <lb n="31"/>ʾuṯbita fī dīwāni ăl ḫarāǧi wa mā ǧamaʿa ʾilay hi ʾuṯbita fī dīwāni ăz zimāmi wa ăl ḥamdu li l lāhi kamā huwa ʾahlu hu 
+ <lb n="32"/>ʾuṯbita fī *** wa ăl ḥamdu li l lāhi waliyyi kulli niʿmaẗ:in li man qaraʾa hu ʾaw quriʾa ʿalay hi mina ăl ʾawliyāʾi 
+ <lb n="33"/>ʾuṯbita fī dīwāni ăṭ ṭāhawiyyaẗi wa mā ǧamaʿa ʾilay hi 
+ <lb n="34"/>wa ăl ḥamdu li l lāhi kaṯīr:an 
+ <lb n="35"/>ʾuṯbita fī ăd dīwāni ăl muḫtaṣṣi ăl mufradi ăl ʿatīki ʿatīqi nusiḫa fī dīwāni ăl ʾawliyāʾi ăl kibāri wa li l lāhi ăl ʾamru ʾuṯbita li ø yuṯbata fī ăd dīwāni ăl maẓālimi wa dāBBāB 
+ <lb n="36"/>*** wa ăl ḥamdu li l lāhi kamā huwa mustaḥiqq:un wa li l lāhi ăl ḥamdu bi ăl minnaẗi ʾuṯbita fī hāḏā ăd dīwāni 
+ <lb n="37"/>wa ăl ḥamdu li l lāhi waliyyi ăl mawāhibi 
+ <lb n="38"/>wa ăl ḥamdu li l lāhi rabbi ăt tawqīʿi tawfīqi 
+ <lb n="39"/>ø fa ø man ø qaraʾa ø hu ø ʾaw ø quriʾa ø ʿalay ø hi ø mina ø ăl ø ʾawliyāʾi 
+ <lb n="40"/>wa ăl wulāẗi ăl mutaṣarrifīna fī ăl ʾamwāli ǧubāẗi wa ăl ǧibāhi 
+ <lb n="41"/>ʾuṯbita li ø yuṯbata fī ăd dīwāni ăl faraǧiyyi faraḥiyyi ʾin šāʾa ăl lāhu 
+ <lb n="42"/>wa ʾuṯbita ʾuṯbita ø Fd*BB wa ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="43"/>wa sāʾiri ʿabīdi ăd dawlaẗi wa ḫadami hā ʿalà ĭḫtilāfi 
+ <lb n="44"/>ṭabaqāti him wa tarāǧuḥi daraǧāti him fa l yaʿlam hu min ʾamri 
+ <lb n="45"/>ʾamīri ăl muʾminīna wa rasama hu wa l yaʿmal ʿalay hi wa bi ḥasabi hi 
+ <lb n="46"/>ʾin šāʾa ăl lāhu wa kutiba fī ăl muḥarrami sanaẗa ḫamsa ʿašraẗa 
+ <lb n="47"/>wa ʾarbaʿi miʾaẗ:in *** *** 
+ <lb n="48"/>wa ṣallà ăl lāhu ʿalà ǧaddi nā muḥammad:in ḫātimi ăn nabiyyīna wa sayyidi ăl mursalīna wa ʾāli hi ăṭ ṭāhirīna ăl ʾaʾimmaẗi ăl mahdiyyīna wa sallama taslīm:an 
+ <lb n="49"/>ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="50"/>***ʾ *** *** l*** ăl *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ihre Felder, und man soll keine Forderung gegen Euch erheben (weder) bezüglich .... [ ...noch]
+ 	  your cultivations, and there should be exacted from you no ...
+		 <lb n="2"/>
+ 	  assistance in war, or going out ...;
+ 	  sich zur Hilfeleistung zusammenzutun im Kriege, noch hinauszuziehen [...]
+		 <lb n="3"/>
+ 	  that those of your monks, who go out to your estates
+ 	  und jeden Mönch zu begünstigen, der von Euch auf die Domänen fortzieht,
+		 <lb n="4"/>
+ 	  in order to obtain there their livelihood and transact the business of those of you whom they have left behind
+ 	  um dort seinen Lebensunterhalt zu erwerben und, was nottut, hinter Eurem Rücken
+		 <lb n="5"/>
+ 	  be dealt with honourably; that you should not be obliged to pay, in respect of supplies carried by Christians
+ 	  zu vollenden; und dass Euch nichts von dem (als Pflicht) auferlegt wird, was die Chri[sten]
+		 <lb n="6"/>
+ 	  and other similar things, customs
+ 	  an Schädigung und was auf dieselbe Linie gehört zu tragen haben; ferner keine
+		 <lb n="7"/>
+ 	  and fines, little or much; that you safely enjoy
+ 	  (strafweise) Geldauflage, sei es wenig oder viel; und dass Ihr in ungestörtem Besitz dessen bleibt, was
+		 <lb n="8"/>
+ 	  Euch gehört an Saat(feld), Ernteertrag und Zugtieren in allen
+ 	  your fields, crops and working-beasts;
+		 <lb n="9"/>
+ 	  Bezirken; und dass nicht Hindernisse in den Weg gelegt werden bezüglich der Hinterlassenschaft jenes
+ 	  [not translated by Stern]
+		 <lb n="10"/>
+ 	  that if a monk of yours dies outside your monasteries
+ 	  von Euren Mönchen, der ausserhalb Eurer Klöster
+		 <lb n="11"/>
+ 	  anlässlich seines Besuches im Rīf oder anderswo stirbt,
+ 	  while he is travelling in the Rīf or elsewhere on your business,
+		 <lb n="12"/>
+ 	  [not translated by Stern]
+ 	  um frei über das zu verfügen, was ihr von Allem,
+		 <lb n="13"/>
+ 	  all his property which he leaves be not interfered with but revert
+ 	  was er besitzt, benötigt, damit es zur Gänze zurückkomme
+		 <lb n="14"/>
+ 	  to his brethren in monachal life with the exclusion of relatives
+ 	  zu seinen Brüdern in seinem Mönchstum mit Ausschluss jedes, der ihm verwandtschaftlich nahesteht
+		 <lb n="15"/>
+ 	  and blood-relations other than they; and that the Imam
+ 	  und mit anderen blutsverwandt ist. Und fürwahr, der Imām
+		 <lb n="16"/>
+ 	  al-Muʿizz li-Dīn Allāh and the Imam al-ʿAzīz biʾllāh and the Imam
+ 	  al-Muʿizz li-dīn illāh und der Imām al-ʿAzīz bi-llāh und der Imām
+		 <lb n="17"/>
+ 	  al-Ḥākim bi-Amr Allāh (may God sanctify their souls) had ordered the writing of
+ 	  al-Ḥākim bi-ʾamr illāh - möge Gott ihre Seelen heiligen - haben bereits früher ausstellen lassen
+		 <lb n="18"/>
+ 	  decrees confirming all this to you. You then asked for
+ 	  Erlässe mit der Bestätigung all dessen zu Euren Gunsten, und Ihr habt angesucht
+		 <lb n="19"/>
+ 	  the writing of a decree to renew
+ 	  um Ausstellung eines Erlasses bezüglich der Erneuerung dessen, was zu Euren Gunsten bestätigt haben
+		 <lb n="20"/>
+ 	  all that the Imams had granted to you, to confirm the protection
+ 	  die Imāme, und der Bekräftigung dessen, was sie Euch allen gegenüber beobachtet haben an Schutz
+		 <lb n="21"/>
+ 	  und Bewahrung dessen, was Euch gehört von diesen Toten und Schutzgenossen.
+ 	  which they had extended to all of you and to observe these bonds and engagements due to you.
+		 <lb n="22"/>
+ 	  So hat denn angeordnet der Beherrscher der Gläubigen
+ 	  The Commander of the Faithful has therefore ordered
+		 <lb n="23"/>
+ 	  die Ausstellung dieses öffentlich bekannt gemachten Erlasses, (der) Euch unterstützen möge gemäss der Absi[cht]
+ 	  that this open decree, to deal with you according to
+		 <lb n="24"/>
+ 	  des erwähnten Textes und der notwendigen Folge der geschriebenen Erläuterung
+ 	  that text and in conformity with the explanation
+		 <lb n="25"/>
+ 	  und seiner Anerkenntnis in Euren Händen als Beweistitel hierfür, bleibend
+ 	  which you have penned, be written and that it remain in your hands as a proof thereof
+		 <lb n="26"/>
+ 	  im Verlaufe der Tage und Zeiten (d.h. immerdar), auf dass sich Euch niemand
+ 	  lasting through the passing of days and periods, so that no one dare interfere with you
+		 <lb n="27"/>
+ 	  als Hindernder mit etwas in den Weg stelle, das diesen Gnadenakt in seiner Wirksamkeit zu nichte macht,
+ 	  by way of measures imparing the efficacy of this bounty
+		 <lb n="28"/>
+ 	  oder ein Ausleger diesbezüglich mit einer Auslegung kommt, die von
+ 	  or invent an interpretation for it to turn it away from
+		 <lb n="29"/>
+ 	  its intention; and that there be kept away from you ...
+ 	  seiner (des Gnadenaktes) Absicht und seinem Ziele ablenkt und übler Rede von Euch (?)
+		 <lb n="30"/>
+ 	  [...], if God wills.
+ 	  [..... s]o Gott will.
+		 <lb n="31"/>
+ 	  [Es wurde i]m Grundsteuerrentamte und was damit vereinigt ist [eingetragen]. Es wurde im Dīwān az-Zimām eingetragen, und Lob sei Gott, wie es ihm zukommt.
+ 	  [It has been registered in] the Office of Taxes and what appertains to it. It has been registered in the Office of the Audit; praise be to God, according to what He is worthy of.
+		 <lb n="32"/>
+ 	  [Es wurde im ....... eingetragen], und Lob sei Gott, dem Spender jeglicher Wohltat.
+ 	  [It has been registered in ...]; praise be to God who grants all bounty.
+		 <lb n="33"/>
+ 	  [Es wurde im] Dīwān aṭ-Ṭāhawīya und was damit vereinigt ist eingetragen,
+ 	  It has been registered in the Office ...(?) and what appertains to it;
+		 <lb n="34"/>
+ 	  praise be to God very much.
+ 	  und Lob sei vielmals Gott.
+		 <lb n="35"/>
+ 	  [Es wurde im] alten hofärarischen Spezialrentamte [eingetragen]. Kopiert im Rentamte der Hohen Verwandtschaft, und Gottes ist die Befehlsgewalt. Es wurde im Büro der Be[schwer]den und ............... eingetragen
+ 	  It has been registered in the Old Private Office; praise be to God as He deserves. It has been copied in the Office of the Great Dignitaries, and the rule belongs to God.
+		 <lb n="36"/>
+ 	  It has been registered in this office;
+ 	  und Lob sei Gott, wie es (sich) gebührt, und Gott sei Lob in Dankespflicht. Es wurde in diesem Dīwān eingetragen,
+		 <lb n="37"/>
+ 	  praise be to God, who grants gifts.
+ 	  und Lob sei Gott, dem Spender der Gaben.
+		 <lb n="38"/>
+ 	  praise be to God, the lord of success.
+ 	  und Lob sei Gott, dem Herrn des Vollzugs.
+		 <lb n="39"/>
+ 	  Let all - our friends [...] - who read this, or to whom this is read,
+		 <lb n="40"/>
+ 	  governors, financial and taxation officials
+ 	  und Gouverneuren und Inhabern der Jurisdiktion über die Vermögen und die Oberhäupter (der Stämme)
+		 <lb n="41"/>
+ 	  Es wurde im Farağī-Dīwān ein[getragen], so Gott will.
+ 	  Let it be registered in the Faraḥiyya Office, if God wills.
+		 <lb n="42"/>
+ 	  Es wurde eingetragen ..............., und Lob sei Gott allein.
+ 	  It has been registered...(?); praise be to God alone.
+		 <lb n="43"/>
+ 	  and all the other servants and employees of the empire according to
+ 	  und alle Diener und Angestellten des Staates nach ihren verschiedenen
+		 <lb n="44"/>
+ 	  Rängen und übergeordneten Graden, der möge es zur Kenntnis nehmen auf Grund des Befehls und der Vorschrift
+ 	  their different states and several ranks, take cognizance of this order
+		 <lb n="45"/>
+ 	  and command of the Commander of the Faithful and act accordingly and in conformity with it,
+ 	  des Beherrschers der Gläubigen, und er möge demgemäss und dementsprechend handeln,
+		 <lb n="46"/>
+ 	  if God wills. Written in Muḥarram, the year Four-hundred
+ 	  so Gott will. Geschrieben im Muḥarram des Jahres vierhundert
+		 <lb n="47"/>
+ 	  and Fifteen.
+ 	  fünfzehn ..............................
+		 <lb n="48"/>
+ 	  May God bless our ancestor Muḥammad, the seal of the prophets and lord of the messengers, and his pure family, the right-guided Imams, and give them peace.
+ 	  Und Gott segne unsern Ahnherrn Muḥammad, den Letzten der Propheten und Herrn der Gottgesandten und seine Familie, die reinen, rechtleitenden Imāme und spende ihm Hei[l].
+		 <lb n="49"/>
+ 	  God is sufficient for us; how excellent a Keeper is He!
+ 	  Unser Genüge ist Gott und der beste Sachwalter.
+		 <lb n="50"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1290" xml:id="P_Khan_LegalDocument" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KhanLegalDocument</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Khan_LegalDocument</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169113</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  برأة <app type="BL"><lem resp="APD">لجميلة </lem><rdg resp="APD">لحميلة </rdg><rdg resp="APD">لخميلة</rdg></app> مولت أم هنيدة 
+<lb n="3"/>  من سبعة دننير <sic n="superfluous">دڤپعها</sic> <supplied reason="omitted" cert="high">دفعتها</supplied> إلى سعيد بن 
+<lb n="4"/>  قيس اليحصبي ثم الدّلّالي من ثمن القطعة 
+<lb n="5"/>  الّتي كانت شركت سعيد 
+<lb n="6"/>  بها من دار <app type="BL"><lem resp="APD">صبب </lem><rdg resp="APD">ضبث </rdg><rdg resp="APD">ضبت </rdg><rdg resp="APD">صبب</rdg></app> بن عامر الّخمي الملكي 
+<lb n="7"/>  اشترا من هشام بن جابر الّخمي فقد بر 
+<lb n="8"/>  پپ <app type="BL"><lem resp="APD">مپها </lem><rdg resp="APD">حميلة </rdg><rdg resp="APD">خميلة</rdg></app> حمپله الى شعپد سهد 
+<lb n="9"/>  بن شرحيل الكلاعي ثم السّلفي وهشام 
+<lb n="10"/>  بن جابر الّخمي ومخمر بن عقيب المعفري ثم 
+<lb n="11"/>  <supplied reason="lost" cert="high">الـ</supplied>ـحيـ<supplied reason="lost" cert="high">ـا</supplied>ـني وسعيد بن قيس الدّلّالي على نفسه و 
+<lb n="12"/>  كـ<supplied reason="lost" cert="high">ـپـ</supplied>ـپ ڤى رحپ سثه پمان 
+<lb n="verso"/>  فيها برأة <app type="BL"><lem resp="APD">لحميلة </lem><rdg resp="APD">لحميلة </rdg><rdg resp="APD">لخميلة</rdg></app> مولت أم هنيدة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li ḫamīlaẗa ǧamīlaẗa ḥumaylaẗa mawlāti ʾummi hunaydaẗa 
+ <lb n="3"/>min sabʿaẗi danānīra dafaʿat hā ʾilà saʿīdi bni 
+ <lb n="4"/>qays:ini ăl yaḥṣibiyyi ṯumma ăd dallāliyyi min ṯamani ăl qiṭʿaẗi 
+ <lb n="5"/>ăllatī kānat šarikat saʿīd 
+ <lb n="6"/>bi hā min dāri ḍabāba dubāṯa ḍibābi ṣubāba ḍubāta bni ʿāmir:ini ăl laḫmiyyi ăl mālikiyyi 
+ <lb n="7"/>ĭštarā min hišāma bni ǧābir:ini ăl laḫmiyyi fa qad bariʾat 
+ <lb n="8"/>min hā ḫamīlaẗu ǧamīlaẗu ḥumaylaẗu ʾilà saʿīd:in šahida ḥimyaru ḥumayru ḥumayyiru 
+ <lb n="9"/>bnu šarāḥīla ăl kalāʿiyyu ṯumma ăs sulafiyyu wa hišāmu 
+ <lb n="10"/>bnu ǧābir:ini ăl laḫmiyyu wa miḫmaru bnu ʿuqayb:ini ăl maʿāfiriyyu ṯumma 
+ <lb n="11"/>ăl liḥyāniyyu wa saʿīdu bnu qays:ini ăd dallāliyyu ʿalà nafsi hi wa kutiba 
+ <lb n="12"/>fī raǧab:in sanaẗa ṯamān:in wa ṯamānīna 
+ <lb n="13"/>fī hā barāʾaẗ:un li ḫamīlaẗa ǧamīlaẗa ḥumaylaẗa mawlāti ʾummi hunaydaẗa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the merciful and compassionate.
+			<lb n="2"/>
+		A quittance for Jamīla, the freedwoman of ʾUmm Hunayda,
+			<lb n="3"/>
+		from seven dīnārs, which she paid to Saʿīd ibn
+			<lb n="4"/>
+		Qays al-Yaḥṣibī al-Dallālī, as the price of the portion
+			<lb n="5"/>
+		which she shared with Saʿīd
+			<lb n="6"/>
+		of the house of Ḍibāb ibn ʿĀmir al-Laḵmī al-Mālikī,
+			<lb n="7"/>
+		(who) bought it from Hišām ibn Jābir al-Laḵmī,
+			<lb n="8"/>
+		Jamīla, thereby, becoming clear of obligation to Saʿīd with regard to them. Witnessed by Ḥimyar
+			<lb n="9"/>
+		ibn Šaraḥīl al-Kalāʿī al-Sulafī, Hišām
+			<lb n="10"/>
+		ibn Jābir al-Laḵmī, Miḵmar ibn ʿUqayb al-Maʿāfirī
+			<lb n="11"/>
+		al-Liḥyānī and Saʿīd ibn Qays al-Dallālī for himself.
+			<lb n="12"/>
+		It was written in Rajab of the year 88.
+			<lb n="13"/>
+		(Contained) herein is a quittance for Jamīla, the freedwoman of ʾUmm Hunayda.
+</ab></div>
+</body>
+</text>
+</TEI>

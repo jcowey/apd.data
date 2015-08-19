@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="519" xml:id="Becker_PAF_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106689</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> <unclear reason="undefined" cert="high">شريك</unclear> إلى 
+<lb n="2"/>  بسيل صحـ<unclear reason="undefined" cert="high">ـب</unclear> إشقوه فإنّي أحمد 
+<lb n="3"/>  اللّه الّذي لا إله إلّا هو 
+<lb n="4"/>  أمّا بعد فإن مرقس بن جريج 
+<lb n="5"/>  حپرپى أن له عشرة دننير <unclear reason="undefined" cert="high">ونصف</unclear> 
+<lb n="6"/>  على نبطي من أهل كورتك <app type="BL"><lem resp="APD">فأز </lem><rdg resp="“Becker, NPAF p. 261; Diem, Aphrodito p. 254f.”">فيزعم</rdg></app> 
+<lb n="7"/>  عم اپه علپه على 
+<lb n="8"/>  فإذا جاك كتبي هذا 
+<lb n="9"/>  <app type="BL"><lem resp="APD">فإن </lem><rdg resp="APD">وإن</rdg></app> أقام <unclear reason="undefined" cert="high">البيّنة</unclear> على ما أخبر<unclear reason="undefined" cert="high">ني</unclear> 
+<lb n="10"/>  فاستخرج له حقّه ولا تظلمـ<unclear reason="undefined" cert="high">ـنّ</unclear> 
+<lb n="11"/>  عبدك وإن كان شأنه 
+<lb n="12"/>  غير ذلك فتكتب إلي 
+<lb n="13"/>  به والسّلم على من اتّبع 
+<lb n="14"/>  لهدى وكتب مسلم بن <app type="BL"><lem resp="APD">لـ<unclear reason="undefined" cert="high">ـپـ</unclear><supplied reason="lost" cert="high">ـپـ</supplied>ـ<unclear reason="undefined" cert="high">ـن</unclear> </lem><rdg resp="“Grohmann, P.Cair.Arab. III p. 29; AK”">لبنن</rdg></app> 
+<lb n="15"/>  ونسخ الصلت بن مسعود 
+<lb n="16"/>  في صفر سنة إحدى وتسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>min qurraẗa bni šarīka ʾilà 
+ <lb n="2"/>basīla ṣāḥibi ʾišqawha fa ʾin nī ʾaḥmadu 
+ <lb n="3"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu fa ʾinna marqusa bna ǧurayǧ:in 
+ <lb n="5"/>ʾaḫbara nī ʾanna la hu ʿašaraẗa danānīra wa niṣf 
+ <lb n="6"/>ʿalà nabaṭiyy:in min ʾahli kūrati ka fa ʾazʿumu yazʿumu 
+ <lb n="7"/>ʾanna hu ġalaba hu ʿalà ḥaqqi hi 
+ <lb n="8"/>fa ʾiḏā ǧāʾa ka kitāb ī hāḏā 
+ <lb n="9"/>fa wa ʾin ʾaqāma ăl bayyinaẗa ʿalà mā ʾaḫbara nī 
+ <lb n="10"/>fa ĭstaḫriǧ la hu ḥaqqa hu wa lā taẓlimanna 
+ <lb n="11"/>ʿabda ka wa ʾin kāna šaʾnu hu 
+ <lb n="12"/>ġayra ḏālika fa taktub ʾilay ya 
+ <lb n="13"/>bi hi wa ăs salāmu ʿalà mani ĭttabaʿa 
+ <lb n="14"/>ăl hudà wa kataba muslimu bnu labnāna lBBna lubnāna 
+ <lb n="15"/>wa nasaḫa ăṣ ṣaltu bnu masʿūd:in 
+ <lb n="16"/>fī ṣafar:in sanaẗa ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Von Qorra b.] Šarīk an 
+			<lb n="2"/>
+		Basilius, den Vorsteher von Ešqawh. Ich preise 
+			<lb n="3"/>
+		Gott, ausser dem es keinen Gott gibt. 
+			<lb n="4"/>
+		Des weiteren: Markus, der Sohn des Georgios, 
+			<lb n="5"/>
+		hat mir berichtet, dass er zu beanspruchen hat zehn Dīnār und einen halben 
+			<lb n="6"/>
+		von einem Eingeborenen deines Bezirkes, und er 
+		von einem Eingeborenen deines Bezirkes, und ich 
+			<lb n="7"/>
+		vermute, dass er ihn widerrechtlich vergewaltigt hat. 
+		vermutet, dass er ihm sein Recht vorenthält, nicht zahlen will. 
+			<lb n="8"/>
+		Drum, wenn dieser mein Brief zu dir kommt 
+			<lb n="9"/>
+		und er den Beweis für seinen Bericht erbringt, 
+			<lb n="10"/>
+		so verschaffe ihm sein Recht, und nicht sollst du deinen Knecht 
+			<lb n="11"/>
+		vergewaltigen. Verhält sich seine Sache aber 
+			<lb n="12"/>
+		anders, so mögest du mir darüber 
+			<lb n="13"/>
+		schreiben. Heil sei über den, welcher der Rechtleitung 
+			<lb n="14"/>
+		folgt. Es hat dies geschrieben Muslim b. X. 
+			<lb n="15"/>
+		und abgeschrieben el-Ṣalt b. Masʿūd 
+			<lb n="16"/>
+		im Ṣafar des Jahres einundneunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

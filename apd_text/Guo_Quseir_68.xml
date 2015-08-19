@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="968" xml:id="Guo_Quseir_68" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 68</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_68</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113713</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> ودرهم حپا ورپع حبر مرسل 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> وپصف هرپسه وسمن 
+<lb n="recto 3"/>  ونصف وربع خبز ودرهم فضّة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  و<gap reason="illegible" precision="low" extent="3"/> بصل وأربعة ونصف سمن 
+<lb n="recto 5"/>  و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> عشر درهم وربع زعفران 
+<lb n="verso 1"/>  ودرهم سمن أو ثلثة و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  وخزف عطريّة ودرهمين فضّة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  ودرهم ونصف عن حمل قطع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 4"/>  ودرهمين ما ورد ونصف <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 5"/>  ودرهم عن يد غلامه وخمسة على يد حمزة 
+<lb n="verso 6"/>  و<gap reason="illegible" precision="low" extent="3"/> مائة دراهم ودرهم ونصف 
+<lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> درهم ڤصه وپصف ملوحنه 
+<lb n="verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> على پد مڤلح درهم سمن و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/> درهم للسڤا <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** wa dirham:un ḥinnāʾ:un wa rubʿ:un ḫubz:un mursal:un 
+ <lb n="2"/>*** wa niṣf:un harīsaẗ:un wa samn:un 
+ <lb n="3"/>wa niṣf:un wa rubʿ:un ḫubz:un wa dirham:un fiḍḍaẗ:un *** 
+ <lb n="4"/>wa *** baṣal:un wa ʾarbaʿaẗ:un wa niṣf:un samn:un 
+ <lb n="5"/>wa *** 
+ <lb n="6"/>*** ʿašara dirham wa rubʿ:un zaʿfarān:un 
+ <lb n="7"/>wa dirham:un samn:un ʾaw ṯalāṯaẗ:un wa *** 
+ <lb n="8"/>wa ḫazaf:un ʿiṭriyyaẗ:un wa dirhamayni fiḍḍaẗ:un *** 
+ <lb n="9"/>wa dirham:un wa niṣf:un ʿan ḥimli qiṭaʿ:in *** 
+ <lb n="10"/>wa dirhamayni māʾu ward:in wa niṣf:un *** 
+ <lb n="11"/>wa dirham:un ʿan yadi ġulāmi hi wa ḫamsaẗ:un ʿalà yadi ḥamzaẗa 
+ <lb n="12"/>wa *** miʾaẗu darāhima wa dirham:un wa niṣf:un 
+ <lb n="13"/>*** dirham:un fiḍḍaẗ:un wa niṣf:un mulūḫiyyaẗ:un 
+ <lb n="14"/>*** ʿalà yadi mufliḥ:in dirham:un samn:un wa *** 
+ <lb n="15"/>*** dirham:un li s saqqāʾi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] and one dirham&#039;s [worth of ] henna, and a quarter [dirham&#039;s worth of] bread, of the mursal type (?) [...];
+		One dirham&#039;s [worth of ] henna. ...
+			<lb n="2"/>
+		[...] and a half [dirhams&#039; worth of] harīsa-meat dish and clarified butter;
+			<lb n="3"/>
+		and a half and a quarter [dirhams&#039; worth of] bread, and a silver dirham&#039;s [worth of...];
+		Half and a quarter [dirhams&#039; worth of] bread.
+			<lb n="4"/>
+		and [... dirhams&#039; worth of] onions, and four and a half [dirhams&#039; worth of] clarified butter;
+		One silver dirham&#039;[s worth of] onions. Four and a half [dirham&#039;s worth of] cooking butter.
+			<lb n="5"/>
+		and [..........];
+			<lb n="6"/>
+		[......] ten and a quarter dirhams&#039; [worth of] saffron.
+		Ten and a quarter dirhams&#039; [worth of] saffron. ...
+			<lb n="7"/>
+		And one dirham&#039;s [worth of] clarified butter, or three and [... dirham&#039;s worth of...];
+			<lb n="8"/>
+		[......] and a porcelain bottle of perfume, and two silver dirhams&#039; [worth of...];
+			<lb n="9"/>
+		and one and a half dirhams&#039; worth of assorted goods (?);
+			<lb n="10"/>
+		and two dirhams[&#039; worth of] rose water. ...
+		Two dirhams[&#039; worth of] rose water. ...
+			<lb n="11"/>
+		and one dirham to be handed over by his slave boy, and five [dirhams] to be handed over by Ḥamza;
+			<lb n="12"/>
+		and [...] hundred dirhams, and one and a half dirhams&#039; [worth of...];
+			<lb n="13"/>
+		[......] one and a half silver dirhams&#039; [worth of] Jew&#039;s mallow;
+		One and a half silver dirhams&#039; [worth of] Jew&#039;s mallow. ...
+			<lb n="14"/>
+		[....] to be handed over by Mufliḥ, one dirham&#039;s [worth of] clarified butter and [...];
+			<lb n="15"/>
+		[......] dirham for the water man [........].
+</ab></div>
+</body>
+</text>
+</TEI>

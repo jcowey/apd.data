@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1929" xml:id="Grohmann_APEL_429" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 429</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_429</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">170067</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إ</supplied>لى حيّان ‪ηʹχ‬ 
+ <lb n="recto 2"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> إلى هور ‪ϰʹδʹ‬ 
+ <lb n="recto 3"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> پبرپيه إلى هور ‪ηʹχ‬ 
+ <lb n="recto 4"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إ</supplied>لى هور ‪ηʹχ‬ 
+ <lb n="recto 5"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> جوز وتمر ‪ϰʹδʹ‬ 
+ <lb n="recto 6"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<gap reason="illegible" extent="1" unit="character" />ـان ونصال ‪χ‬ 
+ <lb n="recto 7"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>‪ʹ‬ 
+ <lb n="verso 1"/>  الّذي عن الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 2"/>  شعير للجمل <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 3"/>  صاحب المقراعة ‪<unclear reason="undefined" cert="high">ξ</unclear>‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 4"/>  ‮وإلى قصّابين القرط ‪α‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 5"/>  ‮زيت للمنزل ‪ζιʹβʹ‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 6"/>  لحم للمنزل <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ʾilà ḥayyāna ‪1/8+1/48 
+ <lb n="2"/>*** *** ʾilà hūra ‪1/24 
+ <lb n="3"/>*** BbrByh ʾilà hūra ‪1/24+1/48 
+ <lb n="4"/>*** ʾilà hūra ‪1/8+1/48 
+ <lb n="5"/>*** ǧawz:un wa tamr:un ‪ϰʹδʹ‬ 
+ <lb n="6"/>***ʾn wa niṣāl:un 1/48 
+ <lb n="7"/>*** *** 
+ <lb n="8"/>ăllaḏī ʿani ăl ḥ*** *** 
+ <lb n="9"/>šaʿīr:un li l ǧamali *** 
+ <lb n="10"/>ṣāḥibu ăl miqrāʿaẗi ‪60 *** 
+ <lb n="11"/>wa ʾilà qaṣṣābīna ăl qurṭi ‪1 *** 
+ <lb n="12"/>zayt:un li l manzili ‪7 1/12 *** 
+ <lb n="13"/>laḥm:un li l manzili *** *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [... t]o Ḥayyân 1/8+1/48
+		 <lb n="2"/>
+ 	  [...]..... to Hôr 1/24
+		 <lb n="3"/>
+ 	  [...] ........ to Hôr 1/24+1/48
+		 <lb n="4"/>
+ 	  [... t]o Hôr 1/8+1/48
+		 <lb n="5"/>
+ 	  [...] walnuts and dates 1/24+1/48
+		 <lb n="6"/>
+ 	  [...]...... and arrow-heads 1/48
+		 <lb n="7"/>
+		 <lb n="8"/>
+ 	  What (has been paid) on behalf of al-Ḥ[... ...]
+		 <lb n="9"/>
+ 	  barley for the camel [...]
+		 <lb n="10"/>
+ 	  the proprietor of the stamping mill 60 [...]
+		 <lb n="11"/>
+ 	  and to the trefoil-reapers 1 [...]
+		 <lb n="12"/>
+ 	  oil for the house(hold) 7 1/12 [...]
+		 <lb n="13"/>
+ 	  meat for the house(hold) [...]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

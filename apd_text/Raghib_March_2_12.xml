@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="459" xml:id="Raghib_March_2_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 12 (= P.Berl.Arab. II 47)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106647</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم أكرمك اللّه بطاعته وتولّاك بحفظ الإيمان كتابي إليك بعـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">و</supplied>صولي 
+<lb n="recto 2"/>  إلى الفسطاط وأنا خارج يوم الخميس إن شا ا<supplied reason="lost" cert="high">لـ</supplied>ـلّه اعلم <app type="BL"><lem resp="APD">يابني </lem><rdg resp="APD">يابنيّ</rdg></app> <app type="BL"><lem resp="APD">اپى </lem><rdg resp="Diem">حفظك</rdg></app> <app type="BL"><lem resp="APD">اوسعپ </lem><rdg resp="Diem">الله</rdg></app> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 3"/>  على قوم جياع مضرورين يفتح اللّه لي فيهم <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بـ</supplied>ـما </lem><rdg resp="Diem">كما</rdg></app> لم يزل يعونني فإذا أتاك كتابي <app type="BL"><lem resp="APD">فا<gap reason="illegible" extent="2" unit="character" />ـا </lem><rdg resp="Diem">فالقا</rdg></app> 
+<lb n="recto 4"/>  أبا الحسن وأخبره أنّي قد كتبت إليه <supplied reason="lost" cert="high">خـ</supplied>ـوفا عليه من كثرة دعاها <app type="BL"><lem resp="APD">وأسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" />د </lem><rdg resp="Diem">واستدراك</rdg></app> <app type="BL"><lem resp="APD">را<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="recto 5"/>  اللّه عليه فلا تدع كلامه في أن يعجّل لـ<supplied reason="lost" cert="high">ـها</supplied> ما فتح له وأن يرضيها ويسكن عنه 
+<lb n="recto 6"/>  ما أرادت فقد كانت <app type="BL"><lem resp="APD">يابني </lem><rdg resp="APD">يابنيّ</rdg></app> على أن تلقا بكر بن إدريس وصلح ولا تدع أحد ممّن <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">تعرف</rdg></app> 
+<lb n="recto 7"/>  إن لنا عنده موضع إلّا شـ<supplied reason="lost" cert="high">ـكـ</supplied>ـت إليه <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">منه</supplied> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">قد </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ذ</supplied>كرت </lem><rdg resp="Diem">وذكرت</rdg></app> لي أشيا من حسن <app type="BL"><lem resp="APD">صنيعها </lem><rdg resp="Diem">صنيعتها</rdg></app> 
+<lb n="recto 8"/>  به مع الكتاب إلي بخبرك وخبر من عندك والسّلم عليك ورحمت اللّه وبركاته خذ منه ما دفع إليك 
+<lb n="recto 9"/>  ووجّهه إليها 
+<lb n="verso right 1"/>  <supplied reason="lost" cert="high">لأبي</supplied> <supplied reason="lost" cert="high">هر</supplied>يرة أكرمه اللّه بطاعته 
+<lb n="verso right 2"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="verso left 1"/>  من أبيه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾakrama ka ăl lāhu bi ṭāʿati hi wa tawallā ka bi ḥifẓi ăl ʾīmāni kitāb ī ʾilay ka baʿda wuṣūl ī 
+ <lb n="2"/>ʾilà ăl fusṭāṭi wa ʾanā ḫāriǧ:un yawma ăl ḫamīsi ʾin šāʾa ăl lāhu ĭʿlam yā ĭbn bunay ī ya ø ḥafiẓa ø ka ø ăl ø lāhu ʾan nī ʾawsaʿtu wassaʿtu **** bi ø ʿawn ø ī 
+ <lb n="3"/>ʿalà qawm:in ǧiyāʿ:in maḍrūrīna yaftaḥu ăl lāhu l ī fī him bi kamā mā ø lam yazal yaʿūnu nī fa ʾiḏā ʾatā ka kitāb ī fa ʾ**ʾ ĭlqā 
+ <lb n="4"/>ʾabā ăl ḥasani wa ʾaḫbir hu ʾan nī qad katabtu ʾilay hi ḫawf:an ʿalay hi min kaṯraẗi duʿāʾi hā wa wa ʾs*d ĭstidrāki rʾ** ø 
+ <lb n="5"/>ăl lāh ʿalay hi fa lā tadaʿ kalāma hu fī ʾan yuʿaǧǧila la hā mā futiḥa la hu wa ʾan yarḍiya hā wa yaskuna ʿan hu 
+ <lb n="6"/>mā ʾarādat fa qad kānat yā ĭbn bunay ī ya ʿalà ʾan talqā bakra bna ʾidrīsa wa ṣāliḥ wa lā tadaʿ ʾaḥad mimman *** taʿrifu 
+ <lb n="7"/>ʾinna la nā ʿinda hu mawḍiʿ ʾillā šakat ʾilay hi min ø hu ø ø qad ø wa ḏakarat ḏakarat ḏukirat l ī ʾašyāʾ:an min ḥusni ṣanīʿi ṣanīʿati hā 
+ <lb n="8"/>bi hi maʿa ăl kitābi ʾilay ya bi ḫabari ka wa ḫabari man ʿinda ka wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa barakātu hu ḫuḏ min hu mā dafaʿa ʾilay ka 
+ <lb n="9"/>wa waǧǧih hu ʾilay hā 
+ <lb n="10"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="11"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="12"/>min ʾabī hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et te secoure en te gardant la foi! Je t&#039;écris a[près] mon ar[rivée]
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Gott ehre Dich dadurch, daß Du ihm gehrosam bist, und kümmere sich darum, daß Du am Galuben festhältst! Ich schreibe Dir, nachdem ich (nun)
+			<lb n="2"/>
+		à al-Fusṭāṭ. Je partirai le jour du jeudi, si Dieu le veut! Sache, mon fils, que j&#039;ai fait des largesses [....]
+		in al-Fusṭāṭ angekommen bin; am Donnerstag werde ich (wieder) abreisen, so Gott will. Wisse, mein Sohn - Gott schütze Dich -, daß ich [meinen Beistand (?)] (stets) reichlich
+			<lb n="3"/>
+		à des gens dans la faim et le malheur. Que Dieu m&#039;octroie Sa faveur à leur sujet [en] ne cessant de m&#039;aider! Lorsque ma lettre te parviendra, [....]
+		hungrigen Menschen in Not habe zukommen lassen - möge mir Gott, was sie betrifft, Erfolg gewähren, [wie] er mir (denn auch bisher in dieser Hinsicht noch) immer beigestanden hat&#034;. Wenn Dich also (dieser) mein Brief erreicht, dann s[uch]e
+			<lb n="4"/>
+		Abū l-Ḥasan auf und teile ihm mit, daß ich ihm (doch schon einmal) geschrieben habe, (dies) aus Sorge um ihn, weil sie ständig (zu Gott) fleht, (er möge ihn strafen), und (aus Angst), daß Gott ihm, (bevor er bereut), (mit der Strafe) zuvorkommt.
+		Abū l-Ḥasan et informe-le que je lui ai écrit craignant pour lui les nombreuses imprécations (qu&#039;elle adresse à Dieu) et ....
+			<lb n="5"/>
+		Dieu contre lui. Ne manque pas de lui parler pour qu&#039;il [lui] envoie rapidement ce qui lui a été octroyé, qu&#039;il la contente et qu&#039;il se repose (?) de
+		Versäume also nicht, ihn darauf anzusprechen, daß er ihr schleunigst das, was ihm (von Gott) gewährt worden ist, übersenden möge, und daß er sie zufriedenstellen möge, so daß er
+			<lb n="6"/>
+		ce qu&#039;elle désire. Elle était, mon fils, sur le point d&#039;aller trouver Bakr b. Idrīs et Ṣāliḥ et n&#039;a laissé personne de ceux ...
+		von ihren (schlimmen) Absichten verschont bleibt. Sie war nämlich, o mein Sohn, schon entschlossen, Bakr ibn Idrīs und Ṣāliḥ aufzusuchen, und sie wird sich bei ausnahmslos jedem, von dem sie weiß,
+			<lb n="7"/>
+		auprès de qui nous jouissons de quelque rang sans se plaindre à lui [de lui?]. Puisses-tu me mentionner des choses de ses bonnes œuvres 
+		daß wir bei ihm in Ansehen stehen, (über Abū l-Ḥasan) beklagen. Sie erzählte mir einige Fälle, bei denen sie ihm Wohltaten erwiesen habe.
+			<lb n="8"/>
+		en m&#039;écrivant de tes nouvelles et des nouvelles des tiens! Que le salut soit sur toi, `ainsi que la miséricorde de Dieu et Ses bénédictions!´ Prends de lui ce qu&#039;il te donnera
+		Teile mir mit, wie es Dir und den Deinen geht! Der Friede sei auf Dir \und Gottes Gnade und Segnungen!/ Nimm von ihm entgegen, was auch immer er Dir gibt,
+			<lb n="9"/>
+		et adresse-le lui.
+		und sende es ihr!
+			<lb n="10"/>
+		[A Abū Hur]ayra - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+		[An Abū Hura]yrah - Gott ehre ihn dadurch, daß er ihm gehorsam ist -
+			<lb n="11"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+		Ǧaʿfar ibn Aḥmad ibn ʿAbdalmuʾmin
+			<lb n="12"/>
+		De la part de son père.
+		von seinem Vater.
+</ab></div>
+</body>
+</text>
+</TEI>

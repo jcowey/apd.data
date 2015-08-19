@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2249" xml:id="Diem_Heid_III_18" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 18</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_18</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">ثـ</supplied>ـمن العنب <app type="BL"><lem resp="APD">فا<supplied reason="lost" cert="high">نـ</supplied>ـضر </lem><rdg resp="Diem">فانتضر </rdg><rdg resp="Diem">فأنتضر </rdg><rdg resp="Diem">فانتضر</rdg></app> و<gap reason="illegible" extent="4" unit="character" />ك الر<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" />عپـ<gap reason="illegible" extent="1" unit="character" /> وپڤـ<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">هـ</supplied>ـم <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وقد</supplied> <supplied reason="lost" cert="high">كنت</supplied> 
+ <lb n="2"/>  أيّدك اللّه أخذت منكم خمسة أعشرة دينارا وقد كتبت عليك دينار وثلثين 
+ <lb n="3"/>  في الكرم فعجبت من ذلك ولم أدري أيش السّبب في هذا فأحب أيّدك 
+ <lb n="4"/>  اللّه أن تكتب إلی بشرح الحال وأيش السّبب في هذا وكيف 
+ <lb n="5"/>  جری الأمر حتّی أقف عليه وأعمل <supplied reason="lost" cert="high">بحسبه</supplied> وإن كانت قبلك 
+ <lb n="6"/>  تشتري وإن تكون الأخرا <supplied reason="lost" cert="high">فلا</supplied> <supplied reason="lost" cert="high">تشتري</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="7"/>  وتعرّفني خبرك وحالك <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ****** min ṯamani ăl ʿinabi fa ŭnḍur ʾantaḍiru ĭntaḍara ĭntaḍir wa **** ka ăl r*ʿB* wa BF* hum *** wa qad kuntu 
+ <lb n="2"/>ʾayyada ka ăl lāhu ʾaḫaḏtu min kum ḫamsaẗa ʾaʿšaraẗa dīnār:an wa qad katabtu ʿalay ka dīnār wa ṯulṯayni 
+ <lb n="3"/>fī ăl karmi fa ʿaǧibtu min ḏālika wa lam ʾadrī ʾayš ăs sababu fī hāḏā fa ʾuḥibbu ʾayyada ka 
+ <lb n="4"/>ăl lāhu ʾan taktuba ʾilay ya bi šarḥi ăl ḥāli wa ʾayš ăs sababu fī hāḏā wa kayfa 
+ <lb n="5"/>ǧarà ăl ʾamru ḥattà ʾaqifa ʿalay hi wa ʾaʿmala bi ḥasabi hi wa ʾin kānat qibala ka 
+ <lb n="6"/>taštarī wa ʾin takūni ăl ʾuḫrā fa lā taštarī *** **** 
+ <lb n="7"/>wa tuʿarrifu nī ḫabara ka wa ḥāla ka *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [vo]n dem [Er]lös der Weintrauben. Sieh also zu und ......... die beiden ........ und ........... sie [... Ich hatte]
+		 <lb n="2"/>
+ 	  - Gott stütze Dich - von Euch fünfzehn Dinar erhalten, und ich hatte einen und zwei Drittel Dinar zu Euren Lasten
+		 <lb n="3"/>
+ 	  wegen der Weinstöcke verbucht. Deshalb wunderte ich mich darüber und verstand nicht, was der Grund hierfür ist. Ich möchte deshalb - Gott
+		 <lb n="4"/>
+ 	  stütze Dich -, daß Du mir schreibst und die Sachlage erklärst, wie auch, was der Grund hierfür ist und auf welche Weise
+		 <lb n="5"/>
+ 	  sich die Angelegenheit zugetragen hat, damit ich es erfahre und [dementsprechend] verfahre. Wenn es welche bei Dir gibt,
+		 <lb n="6"/>
+ 	  kaufst Du (welche), und andernfalls [kaufst Du nicht
+		 <lb n="7"/>
+ 	  und teile mir die Neuigkeiten über Dich und Deinen Zustand mit [
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

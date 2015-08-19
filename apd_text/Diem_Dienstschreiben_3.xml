@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1069" xml:id="Diem_Dienstschreiben_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Séoudi 2 (= P.DiemDienstschreiben c)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Dienstschreiben_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168937</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّ<unclear reason="undefined" cert="high">حمـ</unclear>ـن <unclear reason="undefined" cert="high">الرّحيـ</unclear>ـم 
+<lb n="2"/>  إلى عمّار 
+<lb n="3"/>  أمّا بعد فسرّح <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ا</unclear><gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">ـا</unclear> </lem><rdg resp="“Diem”">لـ<gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem”">ø</rdg></app> 
+<lb n="4"/>  <app type="BL"><lem resp="APD">حبسه </lem><rdg resp="“Diem”">خمسة</rdg></app> <app type="BL"><lem resp="APD">أحمد </lem><rdg resp="“Diem”">احـ<gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">اللّه</supplied> </lem><rdg resp="“Diem”"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إليك</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> 
+<lb n="5"/>  وكتب <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">يـ</unclear>ـوم 
+<lb n="6"/>  الخميس لاثنـ<unclear reason="undefined" cert="high">ـتي</unclear> عشر<supplied reason="lost" cert="high">ة</supplied> 
+<lb n="7"/>  ليلة بقيت 
+<lb n="8"/>  من ربيع الأ<unclear reason="undefined" cert="high">وّل</unclear> سنة 
+<lb n="9"/>  اثنتين ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾilà ʿammār:in 
+ <lb n="3"/>ʾammā baʿdu fa sarriḥ ʾ***:an li ø *** *** min ø 
+ <lb n="4"/>ḥabsi ḫamsaẗa hi ø ʾaḥmadu ʾḥ*** ăl *** lāha ø ʾilay ø ka ø 
+ <lb n="5"/>wa kataba *** yawma 
+ <lb n="6"/>ăl ḫamīsi li ĭṯnatay ʿašraẗa 
+ <lb n="7"/>laylaẗ:an baqiyat 
+ <lb n="8"/>min rabīʿa ăl ʾawwali sanaẗa 
+ <lb n="9"/>ĭṯnatayni wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Allāhʾs, des [Erbarmers, des Barmherz]igen.
+		Im Namen des barmherzigen und erbarmenden Gottes.
+			<lb n="2"/>
+		An ʿAmmār
+		An ʿAmmār.
+			<lb n="3"/>
+		Gib frei dem [
+		Nun weiter: So laß denn frei den ... [aus]
+			<lb n="4"/>
+		fünf [
+		seiner Haft. Ich preise [Dir Allāh]
+			<lb n="5"/>
+		Geschrieben hat (dies) ... am
+		Geschrieben von [...] am Donners-
+			<lb n="6"/>
+		Donnerstag, da noch 12 Nächte übrig sind
+		tag, da zwölf
+			<lb n="7"/>
+		Nächte blieben
+		vom Rabîʿ al-auwal des Jahres
+			<lb n="8"/>
+		hundert und zwei.
+		vom Rabīʿ al-Awwal im Jahre
+			<lb n="9"/>
+		einhundertundzwei.
+</ab></div>
+</body>
+</text>
+</TEI>

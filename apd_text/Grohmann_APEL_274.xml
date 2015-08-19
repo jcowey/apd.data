@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2024" xml:id="Grohmann_APEL_274" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 274</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_274</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  دينر دينر ÷ دينر ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="1" unit="character" /> ÷÷÷÷ ÷<supplied reason="lost" cert="high">÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  لصـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" />ا<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپ <gap reason="illegible" extent="1" unit="character" /> ÷ ÷ ÷ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">ديـ</supplied>ـنر <gap reason="illegible" extent="1" unit="character" /> دينر <supplied reason="lost" cert="high">÷</supplied>÷ دينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="5"/>  المدينة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  سسوا <app type="BL"><lem resp="APD">وپحرهپ </lem><rdg resp="cf. transl. The same place dotted in P.Cair.Arab. 276.4">ومحرهپ</rdg></app> ÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  هوپر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  سـ<supplied reason="lost" cert="high">ـسـ</supplied>ـوا ومحرهپ ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن محرهپ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> إبشادة ÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/>د دروط أشمون ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/>ر مبقومس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" extent="2" unit="character" />رط ط منهري ÷÷÷ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/>لى طر منهري <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dīnār dīnār 4 dīnār 5 *** 
+ <lb n="2"/>* 15+1/3+1/8+1/48 1/2+1/3 *** 
+ <lb n="3"/>lṣ**ʾ*B * 1 5 1 ** *** 
+ <lb n="4"/>dīnār * dīnār 4+1/4 dīnār *** * 
+ <lb n="5"/>ăl madīnaẗu *** 
+ <lb n="6"/>sswā wa bḥrhB mḥrhB 1+2/3 * * *** 
+ <lb n="7"/>hwBr *** 
+ <lb n="8"/>sswā wa mḥrhB ÷÷ ÷÷ *** 
+ <lb n="9"/>***n mḥrhB *** 
+ <lb n="10"/>*** ʾibšādaẗu 1/2+1/3 * *** 
+ <lb n="11"/>***d darūṭu ʾušmūna 1/2+1/3 *** 
+ <lb n="12"/>***r mabaqūmisu *** 
+ <lb n="13"/>**rṭ ṭ manharī 2+1/2+1/3 ** *** 
+ <lb n="14"/>***lī ṭr manharī *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] Dînâr(s) Dînâr(s) [above: 4th payment] Dînâr(s) [above: 5th payment] [
+			<lb n="2"/>
+		] • 15 1/3+1/8+1/48 [1/2]+1/3[
+			<lb n="3"/>
+		Lṣ.[...].. [below: • 1]  5 [below: 1st payment) [
+			<lb n="4"/>
+		Dî]nâr(s) • Dînâr(s) 4[1/4] Dînâ[r(s)
+			<lb n="5"/>
+		] The (nome-)capital
+			<lb n="6"/>
+		] S.s.wâ and Mḥrt (?) [below: 1 2/3] • • [
+			<lb n="7"/>
+		H.w.r
+			<lb n="8"/>
+		S[.s.]wâ and Mḥrht (?) 3 1/3 1/2+1/3 
+			<lb n="9"/>
+		[.. Mḥrht (?) [
+			<lb n="10"/>
+		].. Ibšâda 1/2+1/3 • [
+			<lb n="11"/>
+		]d Darûṭ Ašmûn [
+			<lb n="12"/>
+		]r Mabaqûmis(?) 1/2+1/3 [
+			<lb n="13"/>
+		]r.ṭ.ṭ Manharî 2 1/2+1/3 [
+			<lb n="14"/>
+		]lî ṭ.r Manharî [
+</ab></div>
+</body>
+</text>
+</TEI>

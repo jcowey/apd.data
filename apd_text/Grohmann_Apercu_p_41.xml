@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="783" xml:id="Grohmann_Apercu_p_41" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannMuhadara II  p. 12 (= P.GrohmannAperçu p. 41 = P.World p. 113 = P.HusseinSteuersystem p. 53 = P.Alqab 001)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Apercu_p_41</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">105661</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 4"/>  بسم اللّه الرّحمن الرّحيم هذا ما أخذ عبد <app type="BL"><lem resp="“Grohmann, Aperçu; AK”">الّـ<supplied reason="omitted" cert="high">ـلـ</supplied>ـه </lem><rdg resp="Grohmann, Muḥāḍara and World; Hussein; Muġāwirī">اللّه</rdg></app> 
+ <lb n="recto 5 right"/>  اپن جبر وأصحبه من الجزر من أهنس أخذنا <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 6"/>  من خليفة <app type="BL"><lem resp="APD">ثدراق </lem><rdg resp="“Muġāwirī”">ثدراق </rdg><rdg resp="“P.GrohmannWorld p. 114”">پذرق</rdg></app> <app type="BL"><lem resp="Muġāwiri erroneously ‫بن ابن‬, but see plate"><sic n="superfluous">و</sic>ابن </lem><rdg resp="Hussein">بن</rdg></app> <supplied reason="lost" cert="high">أ</supplied>بو قير الأصغر ومن خليفة <app type="BL"><lem resp="APD">اصطفر </lem><rdg resp="“Grohmann, World; Hussein”">اصطفن </rdg><rdg resp="“Muġāwirī”">اصطفى</rdg></app> ابن أبو قير الأكبر خمسين شاة 
+ <lb n="recto 7"/>  من الجزر وخمس عشرة شاة أخرى أجزرها أصحب سفنه وكتئبه وثقلاه في 
+ <lb n="recto 8"/>  شهر جمدى الأولى من سنة <app type="BL"><lem resp="APD">اثنتين </lem><rdg resp="“Grohmann, World; Hussein”">اثنين</rdg></app> وعشرين وكتب ابن <app type="BL"><lem resp="APD">حديدو </lem><rdg resp="“Muġāwirī”">جريدة</rdg></app> 
+ <lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi hāḏā mā ʾaḫaḏa ʿabdu ăl lāhi 
+ <lb n="5"/>ĭbnu ǧābir:in wa ʾaṣḥābu hu mina ăl ǧuzuri min ʾahnāsa ʾaḫaḏnā ø *** 
+ <lb n="6"/>min ḫalīfaẗi ṯidrāqa tidrāqa tiḏraqa ĭbni bni ʾabū qīr:ini ăl ʾaṣġari wa min ḫalīfaẗi ʾiṣṭafara ʾiṣṭafana ʾiṣṭafà ĭbni ʾabū qīr:ini ăl ʾakbari ḫamsīna šāẗ:an 
+ <lb n="7"/>mina ăl ǧuzuri wa ḫamsa ʿašraẗa šāẗ:an ʾuḫrà ʾaǧzara hā ʾaṣḥāba sufuni hi wa katāʾiba hu wa ṯuqalāʾa hu fī 
+ <lb n="8"/>šahri ǧumādà ăl ʾūlà min sanaẗi ĭṯnatayni ĭṯnayni wa ʿišrīna wa kataba ĭbnu ḥadīda ḥadīdū ǧarīdaẗa 
+ <lb n="9"/>*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="4"/>
+ 	  Au nom de Dieu, le Miséricordieux, le Compatissant! Voici ce qu&#039;ont pris ʿAbdallâh,
+ 	  In the name of God, the Compassionate, the Merciful! This is that what has taken ʿAbdallâh
+		 <lb n="5"/>
+ 	  (Arabic:) ibn Gâbir and his mates of the sheep of Ehnâs: we have taken (Greek:) by me, Yohannes, notary and deacon, on the 30th of Pharmouthi of the first indiction.
+ 	  (Texte arabe:) Fils de Ǧâbir, et ses compagnons d&#039;armes, en fait de brebis de boucherie à Héracléopolis. Nous avons pris (Texte grec:) Écrit par moi, Jean, notaire et diacre. Le 30 du mois Pharmouthi de la 1re indiction.
+		 <lb n="6"/>
+ 	  d&#039;un représentant de Théodorakios, fils cadet d&#039;Apa Kyros, et d&#039;un remplaçant de Christophoros, fils aîné d&#039;Apa Kyros, cinquante brebis des brebis de boucherie
+ 	  from the representative of Teodhoraq, the younger son of Abû Qîr, and from the representative of Iṣṭafan, the elder son of Abû Qîr, fifty sheep of the sheep
+		 <lb n="7"/>
+ 	  et quinze autres brebis. Il les donna, pour être abattues, à l&#039;équipage de ses vaisseaux, à sa cavalerie et à son infanterie cairassée au
+ 	  for slaughter and fifteen other sheep. He gave them for slaughter to his crew, his squadrons and his heavy armed soldiers in
+		 <lb n="8"/>
+ 	  mois de Ǧoumâdâ premier de l&#039;an vingt-deux. Écrit par Ibn Ḥadîd.
+ 	  the month of Gumâdâ I of the year twenty-two. And Ibn Ḥadîdû has written (it).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

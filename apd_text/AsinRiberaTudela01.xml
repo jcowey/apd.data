@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1993" xml:id="AsinRiberaTudela01" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 1 (= P.Garcia-ArenalTudelaTarazona 02)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">AsinRiberaTudela01</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169724</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم عاوض دوان بيطره مرتين قلنج من شنت مريّة من تطيلة مع عيسى 
+<lb n="2"/>  ابن يوسف قرقوليه بأن دفع دوان بيطره مرتين المذكور لعيسى كرم واحد من البرغوريّة في حب دحشالش يلصق كرم ينقه أنسلم 
+<lb n="3"/>  ودفع عيسى إلى دوان بيطره عوضا عن وحد بضعة من الكرم الّذي قسم مع أخيه محمّد ببورقة وزاد عيسى لدوان مرتين خمسة 
+<lb n="4"/>  مثاقيل مرابطة وهو <app type="BL"><lem resp="APD">الكرم </lem><rdg resp="García-Arenal">الّذي</rdg></app> يلصق لكرم البرغوريّة وألّا يعطي عيسى عشور إلّا حرّة كما كان مبتاعة و<gap reason="illegible" precision="low" extent="3"/> ضامن 
+<lb n="5"/>  بيطره مرتين <gap reason="illegible" precision="low" extent="3"/> دوان غرزيّة ابن القاضي فرتون فرتنونس على فور تطيلة كما دفع عيسى إليه ضامن على فور تطيلة عبد الملك 
+<lb n="6"/>  ابن البلمي معاوضة صحيحة تامّة على فور المسلمين والنّصار أشهد عليهم بذلك وسمع منهم وعرفهم وذلك في شهر 
+<lb n="7"/>  صفر الموافق لدجنبر سنة ثلثة وستّين <app type="BL"><lem resp="APD">وخمسمائة </lem><rdg resp="García-Arenal">وخمس</rdg></app> <app type="BL"><lem resp="APD">والسهود </lem><rdg resp="García-Arenal">مائة</rdg></app> محمد پن احمد پن محمد الپحپپى واحمد پن محمد الپحپپى 
+<lb n="8"/>  ودوان غوالتير بن دوان رخيال ودوان بيطره كبلّاره كتب عنهما بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʿāwaḍa duwān bīṭruhu martīnu qaluniǧ:un min šanta mariyyaẗa min tuṭīlaẗa maʿa ʿīsà 
+ <lb n="2"/>ĭbni yūsufa qurqūliyuha bi ʾan dafaʿa duwān bīṭruhu martīnu ăl maḏkūru li ʿīsà karm wāḥid mina ăl barġuwariyyaẗi fī ḥab daḥšāliš yulāṣiqu karma yiniquhi ʾansilma 
+ <lb n="3"/>wa dafaʿa ʿīsà ʾilà duwān bīṭruha ʿiwaḍ:an ʿan wāḥid:in biḍʿaẗ:in mina ăl karmi ăllaḏī qāsama maʿa ʾaḫī hi muḥammad:in bi buwirqaẗa wa zāda ʿīsà li duwān martīna ḫamsaẗa 
+ <lb n="4"/>maṯāqīla murābiṭaẗ:in wa huwa ăl ø karmu ăllaḏī yulāṣiqu li karmi ăl barġuwariyyaẗi wa ʾallā yuʿṭiya ʿīsà ʿušūr ʾillā ḥurraẗ:an kamā kāna mubtāʿa hu wa *** ḍāmin 
+ <lb n="5"/>bīṭruhu martīnu *** duwān ġarziyyaẗa ĭbna ăl qāḍī furtūna furtunūnisa ʿalà fuwari tuṭīlaẗa kamā dafaʿa ʿīsà ʾilay hi ḍāmin ʿalà fuwari tuṭīlaẗa ʿabda ăl maliki 
+ <lb n="6"/>ĭbna ăl balmiyyi muʿāwaḍaẗ:an ṣaḥīḥaẗ:an tāmmaẗ:an ʿalà fuwari ăl muslimīna wa ăn naṣāra ʾašhada ʿalay him bi ḏālika wa samiʿa min hum wa ʿarafa hum wa ḏālika fī šahri 
+ <lb n="7"/>ṣafara ăl muwāfiqi li duǧanbiri sanaẗi ṯalāṯaẗ:in wa sittīna wa ḫamsi miʾaẗ:in ø ø miʾaẗ:in wa ăš šuhūdu muḥammadu bnu ʾaḥmada bni muḥammad:ini ăl baḥīniyyu wa ʾaḥmadu bnu muḥammad:ini ăl baḥīniyyu 
+ <lb n="8"/>wa duwān ġuwāltīru bnu duwān ruḫyāla wa duwān bīṭruhu kaballāruhu kutiba ʿan humā bi ʾamri humā 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

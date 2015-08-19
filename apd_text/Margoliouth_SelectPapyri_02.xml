@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1330" xml:id="Margoliouth_SelectPapyri_02" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MargoliouthSelectPapyri 2 (= P.Ryl.Arab. I IV 2 = P.RagibLettresdeService 2)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_SelectPapyri_02</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169138</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> الرّحيم 
+<lb n="2"/>  من عـ<supplied reason="lost" cert="high">ـبـ</supplied>ـد الـ<supplied reason="lost" cert="high">ـملك</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">يزيد</supplied> إلى صحب بريد أشمون 
+<lb n="3"/>  فاحمل صلح وهو أمرد <app type="BL"><lem resp="APD">لونه </lem><rdg resp="Margoliouth in P.Ryl.Arab.">أروع </rdg><rdg resp="Rāġib">أزجّ</rdg></app> أبيض رسو<supplied reason="lost" cert="high">ل </supplied>
+<lb n="4"/>  محمّد بن <app type="BL"><lem resp="APD">نعيم </lem><rdg resp="Margoliouth in P.Ryl.Arab. and Rāġib">سليم</rdg></app> على دابّتين من البريد <app type="BL"><lem resp="APD">إحديهما </lem><rdg resp="Margoliouth in P.Ryl.Arab.">إحداهما</rdg></app> 
+<lb n="5"/>  دابّة الفرانق <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وكتـ</supplied>ـبه </lem><rdg resp="Ragib">وكتب</rdg></app> محمّد في جمدى الأخـ<supplied reason="lost" cert="high">ـر</supplied>ى سنة 
+<lb n="6"/>  ثلث وثلثين <supplied reason="lost" cert="high">وما</supplied>ئة 
+<lb n="7 (handmark)"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso (adress)"/><supplied reason="lost" cert="high">  من عبد الملك</supplied> بن يزيد إلى <supplied reason="lost" cert="high">صحب</supplied> <supplied reason="lost" cert="high">بريد</supplied> أشمون 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl maliki bni yazīda ʾilà ṣāḥibi barīdi ʾušmūna 
+ <lb n="3"/>fa ĭḥmal ṣāliḥ:an wa huwa ʾamradu lawnu hu ʾarwaʿu ʾazaǧǧu ʾabyaḍu rasūla 
+ <lb n="4"/>muḥammadi bni nuʿaym:in sulaym:in ʿalà dābbatayni min ăl barīdi ʾiḥdā humā 
+ <lb n="5"/>dābbaẗu ăl furāniqi wa kataba hu muḥammad:un fī ǧumādà ăl ʾuḫrà sanaẗa 
+ <lb n="6"/>ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in 
+ <lb n="7"/>* 
+ <lb n="8"/>min ʿabdi ăl maliki bni yazīda ʾilà ṣāḥibi barīdi ʾušmūna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+		In the name, etc.
+			<lb n="2"/>
+		De la part de ʿA[b]d al-[Malik b. Yazīd]. Au maître [de poste d&#039;Ašmūn].
+		[From ʿAbd al-Malik b. Yazīd to the postmaster] of Ushmūn.
+			<lb n="3"/>
+		Donne à Ṣāliḥ, qui est imberbe, aux sourcils fins et blanc, le messager
+		Mount Ṣāliḥ, who ist beardless and his colour white, the messenger
+			<lb n="4"/>
+		de Muḥammad b. Sulaym, deux montures de la post, dont l&#039;une est
+		of Mohamed b. Nuʿaim on two posthorses, one of them
+			<lb n="5"/>
+		a furāniḳ&#039;s horse. Written by Mohamed in Jumādā II, year
+		celle du courrier. Muḥammad a écrit en ǧumādā II l&#039;année
+			<lb n="6"/>
+		cent trente-trois.
+		one hundred and thirty-three.
+			<lb n="7"/>
+		[handmark]
+			<lb n="8"/>
+		[De la part de ʿAbd al-Malik] b. Yazīd. Au      [maître de poste] d&#039;Ašmūn.
+</ab></div>
+</body>
+</text>
+</TEI>

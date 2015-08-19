@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="349" xml:id="Ragib_Qurra_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibQurra 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Qurra_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106580</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">أحمـ</supplied>ـد اللّه الّذي <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> 
+<lb n="2"/>  إلّا هو 
+<lb n="3"/>  أ<supplied reason="lost" cert="high">مّـ</supplied>ـا بعد فإنّك كتبت 
+<lb n="4"/>  إلي تذكر جاليا كان 
+<lb n="5"/>  في أرضك ممّن فرض 
+<lb n="6"/>  عليه فيها استخلفته <app type="BL"><lem resp="APD">حتّى </lem><rdg resp="“Diem, Aphrodito p. 266”">حپن </rdg><rdg resp="“Diem, Aphrodito p. 266”">حين</rdg></app> 
+<lb n="7"/>  قدمت علي زعمت 
+<lb n="8"/>  أنّك وجدته خان 
+<lb n="9"/>  وارتشى حين رجعت 
+<lb n="10"/>  إليه وأنّه <app type="BL"><lem resp="APD">تحمل </lem><rdg resp="APD">تحمل</rdg></app> لك 
+<lb n="11"/>  به حتّى تحاسبه فذكرت 
+<lb n="12"/>  أنّه <app type="BL"><lem resp="APD">راع </lem><rdg resp="“Diem, Aphrodito p. 267”">زاغ</rdg></app> وأنّك قد 
+<lb n="13"/>  أخذت <app type="BL"><lem resp="APD">حملاه </lem><rdg resp="“Diem, Aphrodito p. 267”">حملاءه</rdg></app> بمئة 
+<lb n="14"/>  <sic n="superfluous">دنپر</sic> <supplied reason="omitted" cert="high">دينر</supplied> وقد سمعت الّذي 
+<lb n="15"/>  ذكرت أنّه رشاك 
+<lb n="16"/>  عشرين دينارا فـجعلتها في 
+<lb n="17"/>  الأبواب پحد 
+<lb n="18"/>  جملاه پالّدي اجتعلوا 
+<lb n="19"/>  لك به ثم إن قدرت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaḥmadu ăl lāha ăllaḏī lā ʾilāha 
+ <lb n="2"/>ʾillā huwa 
+ <lb n="3"/>ʾammā baʿdu fa ʾinna ka katabta 
+ <lb n="4"/>ʾilay ya taḏkuru ǧāliy:an kāna 
+ <lb n="5"/>fī ʾarḍi ka mimman furiḍa 
+ <lb n="6"/>ʿalay hi fī hā ĭstaḫlafta hu ḥattà ḥīna 
+ <lb n="7"/>qadimta ʿalay ya zaʿamta 
+ <lb n="8"/>ʾanna ka waǧadta hu ḫāna 
+ <lb n="9"/>wa ĭrtašà ḥīna raǧaʿta 
+ <lb n="10"/>ʾilay hi wa ʾanna hu taḥammala tuḥummila yaḥmilu la ka 
+ <lb n="11"/>bi hi ḥattà tuḥāsibu hu fa ḏakarta 
+ <lb n="12"/>ʾanna hu rāʿ:in zāġa wa ʾanna ka qad 
+ <lb n="13"/>ʾaḫaḏta ǧamalā ḥumalāʾa hu bi miʾaẗi 
+ <lb n="14"/>dīnār:in wa qad samiʿtu ăllaḏī 
+ <lb n="15"/>ḏakarta ʾanna hu rašā ka 
+ <lb n="16"/>ʿišrīna dīnār:an fa ǧaʿalta hā fī 
+ <lb n="17"/>ăl ʾabwābi fa ḫuḏ 
+ <lb n="18"/>ǧamalā hu bi ăllaḏī ĭǧtaʿalū 
+ <lb n="19"/>la ka bi hi ṯumma ʾin qadarta 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Je loue Dieu qui est la seule
+			<lb n="2"/>
+		divinité!
+			<lb n="3"/>
+		Maintenant passons aux affaires: tu m&#039;as écrit
+			<lb n="4"/>
+		au sujet d&#039;un fugitif qui se trouvait
+			<lb n="5"/>
+		dans ton district, au nombre de ceux
+			<lb n="6"/>
+		... den du zum Stellvertreter bestimmt hattest, 
+		qui y sont imposés. Tu l&#039;as désigné pour remplaçant
+			<lb n="7"/>
+		als du dich bei mir einfandest ...
+		que tu puisses venir auprès de moi. Tu as prétendu
+			<lb n="8"/>
+		que tu l&#039;as trouvé qui avait trahi
+			<lb n="9"/>
+		et reçu des présents lorsque tu es revenu
+			<lb n="10"/>
+		auprès de lui, et qu&#039;il s&#039;en porte garant pour toi
+		... und daß man sich Dir gegenüber verbürgt hatte 
+			<lb n="11"/>
+		für ihn, bis Du mit ihm abrechnen würdest. Ferner hast Du erwähnt, 
+		jusqu&#039;à ce que tu fasses les comptes avec lui. Tu as mentionné
+			<lb n="12"/>
+		daß er entflohen ist und daß Du 
+		qu&#039;il était pâtre et que
+			<lb n="13"/>
+		seine Bürgen mit 100 Dinaren in Anspruch genommen 
+		tu as pris ses deux chameaux pour cent
+			<lb n="14"/>
+		dinars. J&#039;ai entendu ce que
+		hast ...
+			<lb n="15"/>
+		tu as mentionné, qu&#039;il t&#039;a fait présent
+			<lb n="16"/>
+		de vingt dinars, que tu as mis
+			<lb n="17"/>
+		dans les [chapitres] des taxes. Prends donc
+			<lb n="18"/>
+		ses deux chameaux pour ce qui en a été convenu
+			<lb n="19"/>
+		avec toi puis si tu peux
+</ab></div>
+</body>
+</text>
+</TEI>

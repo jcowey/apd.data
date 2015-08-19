@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1544" xml:id="Diem_Berl_II_53" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 53</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_53</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169315</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">وأنا</supplied> <supplied reason="lost" cert="high">بحال</supplied> <supplied reason="lost" cert="high">عافـ</supplied>ـية والحمد للّه رب العلمين 
+<lb n="2"/>  <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">بعثت</supplied> <supplied reason="lost" cert="high">إليـ</supplied>ـك حصير فرشتي وثمانين ويبة بالإبرهيميّة 
+<lb n="3"/>  <supplied reason="lost" cert="high">وقد</supplied> <supplied reason="lost" cert="high">اشتريتها</supplied> علـ<supplied reason="lost" cert="high">ـى</supplied> خمسة ويبات بدرهم فادفع الحصير 
+<lb n="4"/>  <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">فريد</supplied> <supplied reason="lost" cert="high">ولد</supplied><unclear reason="undefined" cert="high">ي</unclear> وإن كان خرج فريد من عندك 
+<lb n="5"/>  <supplied reason="lost" cert="high">فادفعه</supplied> <unclear reason="undefined" cert="high">إ</unclear><supplied reason="lost" cert="high">لى</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">غيـ</supplied><unclear reason="undefined" cert="high">ـر</unclear><supplied reason="lost" cert="high">ه</supplied> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> وما تحصّل لي عندك عن بن معاوية 
+<lb n="6"/>  <supplied reason="lost" cert="high">فواللّه</supplied> عجّل علي <supplied reason="lost" cert="high">بـ</supplied>ـه فإنّي إنّما أنتظر المتاع أو جواب 
+<lb n="7"/>  <supplied reason="lost" cert="high">كتبي</supplied> <supplied reason="lost" cert="high">إلـ</supplied>ـى المر أ<supplied reason="lost" cert="high">و</supplied> إيصا لأكون منه على علم وإن كنت 
+<lb n="8"/>  <supplied reason="lost" cert="high">ترا</supplied> <supplied reason="lost" cert="high">لي</supplied> <supplied reason="lost" cert="high">القـ</supplied>ـدوم قدمت وإن كنت لا ترا لي 
+<lb n="9"/>  <supplied reason="lost" cert="high">القدوم</supplied> <supplied reason="lost" cert="high">فمـ</supplied>ـا أقدم وإنّما أنتظر كتابك بما تأمر به 
+<lb n="10"/>  <supplied reason="lost" cert="high">ووصل</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـع <unclear reason="undefined" cert="high">عبدي</unclear> مقدار خمسة عشرة دينار 
+<lb n="11"/>  <supplied reason="lost" cert="high">وقد</supplied> <supplied reason="lost" cert="high">وصل</supplied> <supplied reason="lost" cert="high">إ</supplied>لي الحاجة الّتي تعرف فأردت 
+<lb n="12"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">أقبـ</supplied>ـض حتّا أجي ثمنها ولم أريد أقدم 
+<lb n="13"/>  <supplied reason="lost" cert="high">قبل</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">أ</supplied>كتب إليك والحق رأيك 
+<lb n="14"/>  <supplied reason="lost" cert="high">فرأيك</supplied> <supplied reason="lost" cert="high">في</supplied> ذلك فإن كل نوتي وجّهت إليك 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">معه</supplied> من شي قد سرق منه بعضه وأمّا دانيل 
+<lb n="16"/>  <supplied reason="lost" cert="high">فلا</supplied> <supplied reason="lost" cert="high">أدري</supplied> <supplied reason="lost" cert="high">ما</supplied> <app type="BL"><lem resp="APD">قدر </lem><rdg resp="APD">قدّر</rdg></app> عليه إلى إذ كتبت إليك 
+<lb n="17"/>  ‮ـ<supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">فو</supplied>اللّه إن <sic n="superfluous">وڤع</sic> وقعت عليه فخذ منه درهما ‪κ‬ لنا 
+<lb n="18"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> وخـ<supplied reason="lost" cert="high">ـصّ</supplied> نفسك بالسّلم كثيرا إن قد أخذ أخوك 
+<lb n="19"/>  القطعة أتوطّت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>kitāb ī ʾilay ka wa ʾanā bi ḥāli ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="2"/>qad baʿaṯtu ʾilay ka ḥaṣīra faršat ī wa ṯamānīna waybaẗ:an bi ăl ʾibrāhīmiyyaẗi 
+ <lb n="3"/>wa qadi ĭštaraytu hā ʿalà ḫamsaẗi waybāt:in bi dirham:in fa ĭdfaʿi ăl ḥaṣīra 
+ <lb n="4"/>ʾilà farīd:in walad ī wa ʾin kāna ḫaraǧa farīd:un min ʿindi ka 
+ <lb n="5"/>fa ĭdfaʿ hu ʾilà ġayri *** hi ø wa mā taḥaṣṣala l ī ʿinda ka ʿani bni muʿāwiyaẗa 
+ <lb n="6"/>fa wa ăl lāhi ʿaǧǧil ʿalay ya bi hi fa ʾin nī ʾinnamā ʾantaẓiru ăl matāʿa ʾaw ǧawāba 
+ <lb n="7"/>kutub ī ʾilà ăl marʾi ʾaw ʾīṣāʾa li ʾakūna min hu ʿalà ʿilm:in wa ʾin kunta 
+ <lb n="8"/>tarā l ī ăl qudūma qadimtu wa ʾin kunta lā tarā l ī 
+ <lb n="9"/>ăl qudūma fa mā ʾaqdamu wa ʾinnamā ʾantaẓiru kitāba ka bi mā taʾmuru bi hi 
+ <lb n="10"/>wa waṣala ʾilay ya maʿa ʿabd ī miqdāra ḫamsaẗa ʿašaraẗa dīnār 
+ <lb n="11"/>wa qad waṣala ʾilay ya ăl ḥāǧaẗu ăllatī taʿrifu fa ʾaradtu 
+ <lb n="12"/>ʾan ʾaqbuḍa ḥattā ʾaǧīʾa ṯamana hā wa lam ʾurīd ʾaqdamu 
+ <lb n="13"/>qabla ʾan ʾaktuba ʾilay ka wa ăl ḥaqqu raʾyu ka 
+ <lb n="14"/>fa raʾyu ka fī ḏālika fa ʾinna kulla nūtiyy:in waǧǧahtu ʾilay ka 
+ <lb n="15"/>*** maʿa hu min šayʾ:in qad saraqa min hu baʿḍa hu wa ʾammā dāniyalu 
+ <lb n="16"/>fa lā ʾadrī mā quddira qudira ʿalay hi ʾilà ʾiḏ katabtu ʾilay ka 
+ <lb n="17"/>kitāb ī fa wa ăl lāhi ʾin waqaʿat ʿalay hi fa ḫuḏ min hu dirham:an ‪20 la nā 
+ <lb n="18"/>ʾin šāʾa ăl lāhu wa ḫuṣṣi nafsa ka bi ăs salāmi kaṯīr:an ʾin qad ʾaḫaḏa ʾaḫū ka 
+ <lb n="19"/>ăl qiṭʿaẗa ʾa tawaṭṭat 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Ich schreibe Dir, wobei ich] gesund bin - Preis sei Gott, dem Herrn der Welten!
+			<lb n="2"/>
+		[Ich habe an] Dich meine Schlafmatte und achtzig Waybah (Weizen) nach Ibrāhīmischem Maß [abgesandt;]
+			<lb n="3"/>
+		[ich habe sie] zu (einem Preis von) fünf Waybah für einen Dirham [gekauft]. Übergib die Matte
+			<lb n="4"/>
+		[Farīd,] meinem [Jungen], und wenn Farīd von Dir (schon) abgereist ist,
+			<lb n="5"/>
+		[dann übergib sie (eben) jemand anderem!]. Wenn sich bei Dir etwas seitens Ibn Muʿāwiyahs für mich angesammelt hat,
+			<lb n="6"/>
+		[dann, bei Gott,] sende es mir ganz schnell, denn ich warte auf die Ware, oder (sende mir) Antwort
+			<lb n="7"/>
+		[auf meine Briefe an] den Mann oder Anweisung, damit ich darüber Bescheid weiß. Falls Du
+			<lb n="8"/>
+		[für mich vorsiehst, daß ich kom]men soll, komme ich, und falls Du für mich nicht vorsiehst,
+			<lb n="9"/>
+		[daß ich kommen soll,] dann komme ich (eben) nicht. Ich warte nur auf Deinen Brief mit Deinem Befehl.
+			<lb n="10"/>
+		[Dur]ch meinen Sklaven (?) ist [mir] ein Betrag von 15 Dinar [überbracht worden].
+			<lb n="11"/>
+		[Außerdem habe ich] die Dir bekannte bestellte Ware [erhalten,] und so möchte ich gern,
+			<lb n="12"/>
+		bevor ich (zu Dir) komme, den Erlös [kass]ieren, aber ich wollte nicht kommen,
+			<lb n="13"/>
+		[ohne] Dir [vorher] zu schreiben, denn maßgeblich ist ja Deine Entscheidung.
+			<lb n="14"/>
+		[Triff also Deine Entscheidung] hier[über]! Denn noch jeder Schiffer, [dem] ich für Dich
+			<lb n="15"/>
+		[- - -] irgendetwas mitgegeben habe, hat einen Teil davon gestohlen. Was Daniel betrifft,
+			<lb n="16"/>
+		[so weiß ich nicht, wie es] ihm bis zum (jetzigen) Zeitpunkt, da ich Dir
+			<lb n="17"/>
+		[(diesen) meinen Brief] schreibe, ergangen ist. [Bei] Gott, falls Du auf ihn stoßen solltest, dann nimm für mich von ihm 20 Dirham in Empfang,
+			<lb n="18"/>
+		[so Gott will!] Laß Dich vielmals ganz besonders grüßen! Falls Dein Bruder (mir) schon
+			<lb n="19"/>
+		das Stück Tuch besorgt hat - war es billig?
+</ab></div>
+</body>
+</text>
+</TEI>

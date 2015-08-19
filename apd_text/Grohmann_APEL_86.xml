@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="226" xml:id="Grohmann_APEL_86" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 086 (= CPR XXI 31)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_86</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106524</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">شـ</supplied>ـهد الشّهود المسمون في <supplied reason="lost" cert="high">هـ</supplied>ـذا الكتا<supplied reason="lost" cert="high">ب</supplied> علـ<supplied reason="lost" cert="high">ـى</supplied> إقـ<supplied reason="lost" cert="high">ـر</supplied>ا<supplied reason="lost" cert="high">ر</supplied> <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">نتـ</supplied>ـباس </lem><rdg resp="APD">أننياس </rdg><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أساس</rdg></app> بن سسنّه 
+<lb n="3"/>  بن <app type="BL"><lem resp="APD">أنتباس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> السّاكن القرية المعـ<supplied reason="lost" cert="high">ـروفة</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـنـ<supplied reason="lost" cert="high">ـو</supplied>اية من قرى أسفل أشمون أنّـه حضر 
+<lb n="4"/>  عندهم وأشهدهم على نـ<supplied reason="lost" cert="high">ـفسه</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">صحّة</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن عقله وبدنه وجواز أمره أن <app type="BL"><lem resp="APD">سلائح </lem><rdg resp="Frantz-Murphy">سلائح</rdg></app> 
+<lb n="5"/>  أراضي الأملاك المعروفة بهورڤلپه والمپسوپه الى پڤإم <app type="BL"><lem resp="APD">بن </lem><rdg resp="APD">بفام</rdg></app> هلسبوس مما كان 
+<lb n="6"/>  باسم جرجه <app type="BL"><lem resp="APD">فرمان </lem><rdg resp="APD">فرمان</rdg></app> بدلالة نواية ممّا تقبّل به مزاحم بن إسحق بن محمّد بن أحمد عامل 
+<lb n="7"/>  أبي أحمد الحسن بن محمّد على إعمال الخراج والضياع بكو<supplied reason="lost" cert="high">ر</supplied> الأشمونين لأربع 
+<lb n="8"/>  سنين متواليات أوليهن سنة اثني عشر وثلثماية وآخـ<supplied reason="lost" cert="high">ـر</supplied>تهن سنة خمس عشرة 
+<lb n="9"/>  وثلثماية بعشرين دينارا عيونا ذهبا مثاقيل معسولة بنقد بيـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـال ووزنه 
+<lb n="10"/>  سوى ما يجب فيه من الأجرة والا<supplied reason="lost" cert="high">سد</supplied>اا<gap reason="illegible" extent="1" unit="character" /> بحساب خمسة دنانيـ<supplied reason="lost" cert="high">ـر</supplied> لكـ<supplied reason="lost" cert="high">ـلّ</supplied> <supplied reason="lost" cert="high">سنـ</supplied>ـة 
+<lb n="11"/>  إن ذلك ملكا له ولآباه قبلـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">وإنّه</supplied> <supplied reason="lost" cert="high">قبالة</supplied> <supplied reason="lost" cert="high">مزاحـ</supplied>ـم بن إسحق وذلك إليه أن يسلّـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="12"/>  إليه ذلك فسلّم مزاحم بن إسحـ<supplied reason="lost" cert="high">ـق</supplied> إلى <app type="BL"><lem resp="APD">أننيـ<supplied reason="lost" cert="high">ـا</supplied>س </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> <supplied reason="lost" cert="high">بـ</supplied>ـن سسنّه بن <app type="BL"><lem resp="APD">أنتباس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> <app type="BL"><lem resp="APD">النّوائي </lem><rdg resp="Frantz-Murphy">النوئى</rdg></app> ذلك إليه 
+<lb n="13"/>  وأقر <app type="BL"><lem resp="APD">أننياس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> بن سسنّه بن <app type="BL"><lem resp="APD">أننياس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> الـنّوائي أنّه تسلّم من مزاحم بن إسحق <app type="BL"><lem resp="APD">سلائح </lem><rdg resp="Frantz-Murphy">سلائح</rdg></app> 
+<lb n="14"/>  أراضي الأملاك المذكورة في هذا الكتاب وحازها لنفسـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">وز</supplied>رعها وزرع من 
+<lb n="15"/>  أحب وأسجل من شا وألزم نفسه عمارة ذلك <supplied reason="lost" cert="high">و</supplied>الـ<supplied reason="lost" cert="high">ـتمام</supplied> <supplied reason="lost" cert="high">بها</supplied> <gap reason="illegible" precision="low" extent="3"/> پ 
+<lb n="16"/>  عـ<supplied reason="lost" cert="high">ـلـ</supplied>ـى الشّـ<supplied reason="lost" cert="high">ـر</supplied>ايـ<supplied reason="lost" cert="high">ـط</supplied> <supplied reason="lost" cert="high">الثّابتة</supplied> في ديوان الخرا<supplied reason="lost" cert="high">ج</supplied> دو<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">مز</supplied>ا<supplied reason="lost" cert="high">حم</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">إسحق</supplied> ولـد<supplied reason="lost" cert="high">فع</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أننياس</supplied> </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سسنّه</supplied> 
+<lb n="17"/>  بن <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أ</supplied>نتباس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> النّو<supplied reason="lost" cert="high">ائيّ</supplied> جمـ<supplied reason="lost" cert="high">ـيع</supplied> <supplied reason="lost" cert="high">خراج</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">عمّا</supplied> <supplied reason="lost" cert="high">يجب</supplied> <supplied reason="lost" cert="high">لحقّ</supplied> <supplied reason="lost" cert="high">بيت</supplied> <supplied reason="lost" cert="high">المال</supplied> <supplied reason="lost" cert="high">دون</supplied> <supplied reason="lost" cert="high">حقّ</supplied> <supplied reason="lost" cert="high">لما</supplied> <supplied reason="lost" cert="high">من</supplied> 
+<lb n="18"/>  <supplied reason="lost" cert="high">خـ</supplied>ـراج <app type="BL"><lem resp="APD">سلا<supplied reason="lost" cert="high">ئح</supplied> </lem><rdg resp="Frantz-Murphy">سلائح</rdg></app> أراضي الأ<supplied reason="lost" cert="high">ملا</supplied>ك <supplied reason="lost" cert="high">المذكورة</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  دون مزاحم بن إسحق لسنتين متـ<supplied reason="lost" cert="high">ـواليتين</supplied> <supplied reason="lost" cert="high">أوليهنّ</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">أربع</supplied> <supplied reason="lost" cert="high">عشرة</supplied> <supplied reason="lost" cert="high">وثلثماية</supplied> <supplied reason="lost" cert="high">وآخرتهنّ</supplied> 
+<lb n="20"/>  سنة خمس عشرة وثـ<supplied reason="lost" cert="high">ـلـ</supplied>ـثمايـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـلى الـ<supplied reason="lost" cert="high">ـشّرائط</supplied> <supplied reason="lost" cert="high">الثّابتة</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ديوان</supplied> <supplied reason="lost" cert="high">الخراج</supplied> <supplied reason="lost" cert="high">بالمال</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="21"/>  مزاحم بن إسحق بن إبرهيم في هذ<supplied reason="lost" cert="high">ا</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Frantz-Murphy÷ without article, but see translation">الكتاب</rdg></app> 
+<lb n="22"/>  درك الخراج أو موپه أو كلفة أو يـ<supplied reason="lost" cert="high">ـحتـ</supplied>ـج <supplied reason="lost" cert="high">فيـه</supplied> <supplied reason="lost" cert="high">بحجّة</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Frantz-Murphy">من</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">على</supplied> </lem><rdg resp="Frantz-Murphy">الوجوه</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الوجوه</supplied> </lem><rdg resp="Frantz-Murphy">ولا</rdg></app> 
+<lb n="23"/>  والأسباب كلّها فعلى <app type="BL"><lem resp="APD">أننياس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> بن سـ<supplied reason="lost" cert="high">ـسنّه</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">النوئي</rdg></app> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">خالص</supplied> <supplied reason="lost" cert="high">ماله</supplied> 
+<lb n="24"/>  وأوفره <app type="BL"><lem resp="APD">وأحضره </lem><rdg resp="Frantz-Murphy">وأحضره</rdg></app> وضمن له ذلك ضمـ<supplied reason="lost" cert="high">ـانا</supplied> <supplied reason="lost" cert="high">لازما</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ذمّته</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="25"/>  <supplied reason="lost" cert="high">شهـ</supplied>ـد على إقرار <app type="BL"><lem resp="APD">أنتناس </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> بن سسنّه بن <app type="BL"><lem resp="APD">أننيـ<supplied reason="lost" cert="high">ـاس</supplied> </lem><rdg resp="APD">أنتباس </rdg><rdg resp="APD">أننياس </rdg><rdg resp="APD">أساس</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Frantz-Murphy">النوئي</rdg></app> 
+<lb n="26"/>  من أوّله إلى آخره بعد أن قرئ عليه حر<supplied reason="lost" cert="high">فـ</supplied>ـا حر<supplied reason="lost" cert="high">فا</supplied> <supplied reason="lost" cert="high">فعرف</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">وأقرّ</supplied> 
+<lb n="27"/>  بفهمه ومعـ<supplied reason="lost" cert="high">ـر</supplied>فـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـه شهد علـ<supplied reason="lost" cert="high">ـى</supplied> ذلك <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʿalà ʾiqrāri ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa bni sisinnaha 
+ <lb n="3"/>bni ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa ăs sākini ăl qaryaẗa ăl maʿrūfaẗa bi nawāyaẗa min qurà ʾasfali ʾušmūna ʾanna hu ḥaḍara 
+ <lb n="4"/>ʿinda hum wa ʾašhada hum ʿalà nafsi hi fī ṣiḥḥaẗ:in min ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ʾanna salāʾiḥa salāʾiḫa 
+ <lb n="6"/>ʾarāḍī ăl ʾamlāki ăl maʿrūfaẗi bi hūr qultaha wa ăl mansūbaẗi ʾilà bifāma buqāma bni hilistūsa mimmā kāna 
+ <lb n="7"/>bi ĭsmi ǧirǧahi faramāna quzmāna bi dilālaẗi nawāyaẗa min mā taqabbala bi hi muzāḥimu bnu ʾisḥāqa bni muḥammadi bni ʾaḥmada ʿāmilu 
+ <lb n="8"/>ʾabī ʾaḥmada ăl ḥasani bni muḥammad:in ʿalà ʾaʿmāli ăl ḫarāǧi wa ăḍ ḍiyāʿi bi kuwari ăl ʾušmūnayni li ʾarbaʿi 
+ <lb n="9"/>sinīna mutawāliyāt:in ʾūlà hunna sanaẗu ĭṯnay ʿašara wa ṯalāṯi miʾaẗ:in wa ʾāḫiraẗu hunna sanaẗu ḫamsa ʿašraẗa 
+ <lb n="10"/>wa ṯalāṯi miʾaẗ:in bi ʿišrīna dīnār:an ʿuyūn:an ḏahab:an maṯāqīla maʿsūlaẗ:an bi naqdi bayti ăl māli wa wazni hi 
+ <lb n="11"/>siwà mā yaǧibu fī hi min ăl ʾuǧraẗi wa ăl ʾsdʾ bi ḥisābi ḫamsaẗi danānīra li kulli sanaẗ:in 
+ <lb n="12"/>ʾinna ḏālika milk:an la hu wa li ʾābāʾi hi qabla hu wa ʾinna hu qabālaẗu muzāḥima bni ʾisḥāqa wa ḏālika ʾilay hi ʾan yusallima 
+ <lb n="13"/>ʾilay hi ḏālika fa sallama muzāḥimu bnu ʾisḥāqa ʾilà ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa bni sisinnaha bni ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa ăn nawāʾiyyi ḏālika ʾilay hi 
+ <lb n="14"/>wa ʾaqarra ʾananiyāsu ʾantanāsu ʾantibāsu ʾasāsu bnu sisinnaha bni ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa ăn nawāʾiyyu ʾanna hu tasallama min muzāḥima bni ʾisḥāqa salāʾiḥa salāʾiḫa 
+ <lb n="15"/>ʾarāḍī ăl ʾamlāki ăl maḏkūraẗa fī hāḏā ăl kitābi wa ḥāza hā li nafsi hi wa zaraʿa hā wa zaraʿa man 
+ <lb n="16"/>ʾaḥabba wa ʾasǧala man šāʾa wa ʾalzama nafsa hu ʿimāraẗa ḏālika wa ăt tamāma bi hā *** B 
+ <lb n="17"/>ʿalà ăš šarāyiṭi ăṯ ṯābitaẗi fī dīwāni ăl ḫarāǧi dūna muzāḥima bni ʾisḥāqa wa la dafaʿa ʾananiyāsu ʾantanāsu ʾantibāsu ʾasāsu bnu sisinnaha 
+ <lb n="18"/>bni ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa ăn nawāʾiyyu ǧamīʿa ḫarāǧi ḏālika ʿammā yaǧibu li ḥaqqi bayti ăl māli dūna ḥaqq:in li māʾ:in min 
+ <lb n="19"/>ḫarāǧi salāʾiḥi salāʾiḫi ʾarāḍī ăl ʾamlāki ăl maḏkūraẗi fī hāḏā ăl kitābi *** 
+ <lb n="20"/>dūna muzāḥima bni ʾisḥāqa li sanaẗayni mutawāliyatayni ʾūlà hunna sanaẗu ʾarbaʿa ʿašraẗa wa ṯalāṯi miʾaẗ:in wa ʾāḫiraẗu hunna 
+ <lb n="21"/>sanaẗu ḫamsa ʿašraẗa wa ṯalāṯi miʾaẗ:in ʿalà ăš šarāʾiṭi ăṯ ṯābitaẗi fī dīwāni ăl ḫarāǧi bi ăl māli *** 
+ <lb n="22"/>muzāḥim bn ʾisḥāqa bni ʾibrāhīma fī hāḏā *** ø ăl kitābi *** ʿalà *** ʾan *** yuʾaddiya *** mā 
+ <lb n="23"/>daraki ăl ḫarāǧi ʾaw muʾnaẗ:in ʾaw kulfaẗ:in ʾaw yaḥtaǧǧu fī hi bi ḥuǧǧaẗ:in *** mina ʿalà ăl ø wuǧūhi ăl wa wuǧūhi lā *** sababa *** mina *** ăl ø ʾasbābi 
+ <lb n="24"/>wa ăl ʾasbābi kulli hā fa ʿalà ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa bni sisinnaha *** ăn nawāʾiyyi ø min ḫāliṣi māli hi 
+ <lb n="25"/>wa ʾawfari hi ʾaḥḍari wa ʾaḫṣari hi wa ḍamina la hu ḏālika ḍamān:an lāzim:an la hu fī ḏimmaẗi hi **** 
+ <lb n="26"/>šahida ʿalà ʾiqrāri ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa bni sisinnaha bni ʾananiyāsa ʾantanāsa ʾantibāsa ʾasāsa *** ø ăn nawāʾiyyi 
+ <lb n="27"/>min ʾawwali hi ʾilà ʾāḫiri hi baʿda ʾan quriʾa ʿalay hi ḥarf:an ḥarf:an fa ʿarafa mā fī hi wa ʾaqarra 
+ <lb n="28"/>bi fahmi hi wa maʿrifaẗi hi šahida ʿalà ḏālika *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful
+		In the name of God the merciful and compassionate
+			<lb n="2"/>
+		The witnesses named in [th]is dee[d] have [te]stified t[o] the ack[no]wledg[ment] by A[nta]nâs b. Sisinna
+		The witnesses named in [thi]s writi[ng] [wi]tness the acknowled[ge]me[nt] of A[nta]nās ibn Sisinah
+			<lb n="3"/>
+		b. Antanâs, residing in the village kno[wn as] Na[w]âye, one of the villages of Lower-Ašmûn, that he had come into their
+		Ibn Antanās, residing in the village kno[wn as] Na[wā]yah, one of the villages of Lower Ushmūn, that he was present
+			<lb n="4"/>
+		presence and had called them to witness as to his [responsibility, he being in a state of sound] mind and body and capable of transacting his business; that the fallow
+		with them and had called them to witness on his be[half] in the soundness o]f his mind and his body and the lawfullness his instruction. Verily, the fallow
+			<lb n="6"/>
+		fields of the properties known as Hūr Qultah, ascribed to Biqām ibn Halistūs, part of what had been
+		lands of the landed propery known as Hôr Qolte and (originally) named in reference to Bqâm b. Helistûs, belonging to that which passed
+			<lb n="7"/>
+		in the name of Jirjah Quzmān in the auction of Nawāyah, part of what Muzāḥim ibn Isḥaq ibn Muḥammad ibn Aḥmad the executive
+		under the name of Ǧirǧe b. Quzmân at the auction of Nawâye, (and) which Muzâḥim b. Muḥammad b. Aḥmad, the finance-administrator
+			<lb n="8"/>
+		of Abû Aḥmad al-Ḥasan b. Muḥammad, entrusted with the administration of the taxes and domains in the disctric[ts] of al-Ušmûnain, had taken on lease for four
+		of Abū Aḥmad al-Ḥasan ibn Muḥammad over the administration of the kharāj and the estates of the distric[t]s of al-Ushmūnayn leased for four
+			<lb n="9"/>
+		successive years reckoning from the year three hundred and twelve and en[d]ing with the year three hundred
+		successive years the first of them being the year twelve and three hundred and the la[s]t of them being the year fifteen
+			<lb n="10"/>
+		and fifteen, for twenty dînârs, miṯqâlî gold-coins, correctly counted out according to the standard and weight of the Tre[asur]y
+		and three hundred for twenty washed weight measures dinars coins of the cash of the trea[sur]y, in gold coins, and it was weighted out,
+			<lb n="11"/>
+		apart from what had been agreed upon as the rent and the [.........] reckoning at five dînâ[rs] ye[ar]ly, 
+		apart from what is imposed on it for rent and [...] And that is reckoning at five dina[r]s for each [yea]r. 
+			<lb n="12"/>
+		seeing that this (was) his possession and that of his ancestors before him, [and that it is a tenancy of Muzâḥi]m b. Isḥâq, it really belonging to him, that he han[ded]
+		Verily, that is property belonging to him and belonging to his father befo[re him. Verily its the tenancy of Muzāḥi]m ibn Isḥaq. And that is his to hand [over]
+			<lb n="13"/>
+		it over to him. Thus Muzâḥim b. Isḥâ[q] has handed this over to Antan[âs b.] Sisinna b. Antanâs, originating from Nawâye,
+		to him. And Muzāḥim ibn Isḥa[q] handed that over to Antan[ā]s [ibn Sisinah
+			<lb n="14"/>
+		and Antanâs b. Sisinna b. Antanâs, originating from Nawâye, has acknowledged that he has taken over from Muzâḥim b. Isḥâq the fallow
+		And Antanās [ibn] Sisinah ibn Antanās of Nawāyah affirmed that the fallow fields of the property mentioned in this writing
+			<lb n="15"/>
+		lands of the landed property mentioned in this deed, and he has taken it into [his] own possession [for cul]tivation, so that whoever desires may
+		were handed over by Muzāḥim ibn Isḥaq. And he took possession of them for himse[lf to cu]ltivate it. And whomever
+			<lb n="16"/>
+		cultivate (it), and whoever wills may register (it), and he has bound himself to the amelioration thereof [and] to [carry through (all matters) concerned therewith ......] ...
+		he likes can cultivate them. And whomever he wishes can register them. And he himself is responsible for the assessment of that, [and] the [whole of it
+			<lb n="17"/>
+		acco[rdi]ng to the con[di]tio[n]s [established]  in the kharā[j] office un[der Muz]ā[ḥim ibn Isḥaq]. And [Antanās ibn Sisinah]
+		accord[ing] to the con[di]tion[s established] in the ta[x]-office, in the presen[ce of Muz]âḥim b. Isḥâq]; and [Antanâs b. Sisinna] 
+			<lb n="18"/>
+		b. [A]ntanâs, originating from Nawâ[ye], is to p[ay] the who[le of the land-tax thereof from what is obligatory as Treasury dues beyond the water cess of]
+		ibn [A]ntanās of Naw[āyah] will de[liver all of the kharāj.  That is for what is imposed for the right of the treasury, under the right for water, part of  
+			<lb n="19"/>
+		the [kha]rāj of the irriga[ted] fall[ow] fields of the p[roper]ties [mentioned in this writing
+		[the la]nd-tax of the [fa]llo[w] lands [mentioned in this deed .......... ]
+			<lb n="20"/>
+		in the presence of Muzâḥim b. Isḥâq, for two suc[cessive] years [reckoning from the year three hundred and fourteen and ending with]
+		under Muzāḥim ibn Isḥaq for two su[ccessive years the first of them being the year fourteen and three hundred and the last of them
+			<lb n="21"/>
+		being the year fifteen and thre[e hun]dre[d, ac]cording to the stip[ulations established in the kharāj office for the pro[perty
+		the year t[hr]ee hundred and fifteen [ac]cording to the [conditions established in the tax-office in the money ......... ]
+			<lb n="22"/>
+		Muzâḥim b. Isḥâq b. Ibrahîm in thi[s ......... ]
+		Muzāḥim ibn Isḥaq ibn Ibrahīm in this [writing on condition that he fulfill what
+			<lb n="23"/>
+		claim of kharāj, or provision, or imposition, or a[rg]ue [about it on the basis of a document for any cause or reason cause]
+		vindication of the land-tax or any burden or duty, or if any one [makes a cl]aim [against it ............... for whatever cause]
+			<lb n="24"/>
+		and all reasons. And Antanās ibn Si[sinah of Nawāyah] owes it [from his clear property
+		or reason there may be, then (this falls) upon Antanâs b. Sis[inna ...... out of his own means]
+			<lb n="25"/>
+		be it abundant or straitened, and he guaran[teed all of that to him as a guarantee that he is responsible for out of his liability
+		whether this be abundant or meagre and he guaranteed this to him as a gua[rantee binding upon him in respect to his obligation ......]
+			<lb n="26"/>
+		bore witness to the affirmation of Antanās ibn Sisinah ibn Antan[ās of Nawāyah
+		[The following witnesses have testifie]d to the acknowledgment by Antanâs b. Sisinna b. Antan[âs ..........]
+			<lb n="27"/>
+		from its beginning to its end, after it had been read to them wor[d] by wo[rd so that he has comprehended what (is contained) therein and has acknowledged]
+		from the beginning to the end after it was read to him le[tte]r by letter [and what is in it was explained to him. And it was read
+			<lb n="28"/>
+		that he has under[st]ood and comprehended it. There have testified to it:
+		to his under[st]anding and its fairness he bore witness to that [
+</ab></div>
+</body>
+</text>
+</TEI>

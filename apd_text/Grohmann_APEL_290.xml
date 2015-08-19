@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1737" xml:id="Grohmann_APEL_290" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 290</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_290</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169482</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  عنه <unclear reason="undefined" cert="high">عاپلون</unclear> فيها إليه إن شا اللّه 
+<lb n="2"/>  وقد كتبت إلى محمّد بن الصّدقة آ<supplied reason="lost" cert="high">مـ</supplied>ـره إن أزاح أبو الفضل <app type="BL"><lem resp="APD">العلّة </lem><rdg resp="Diem">العلّة</rdg></app> ودفع تمام 
+<lb n="3"/>  الثلثمائة دينر والخمسين الدينر الّتي صار رباه عليها إلى الجهبذ وصحّت 
+<lb n="4"/>  قبله وعدلها على يدي المستودع أن يطلقه ولا <app type="BL"><lem resp="APD">يوصّي </lem><rdg resp="Diem">يعرض</rdg></app> له في المقام 
+<lb n="5"/>  بالمدينة إن أحب المقام بها أو الخروج <app type="BL"><lem resp="APD">منها </lem><rdg resp="Diem">عنها</rdg></app> إلى الضّياع وألّا <app type="BL"><lem resp="APD">يزع </lem><rdg resp="Diem">يدع</rdg></app> <unclear reason="undefined" cert="high">العا</unclear><supplied reason="lost" cert="high">مل</supplied> <supplied reason="lost" cert="high">أ</supplied><unclear reason="undefined" cert="high">ن</unclear> 
+<lb n="6"/>  <app type="BL"><lem resp="APD">يقدم </lem><rdg resp="Diem">يقدم</rdg></app> به علي ولا يخلفه فاعلم ذلك <app type="BL"><lem resp="APD">وأعجل </lem><rdg resp="Diem">واعمل</rdg></app> بما كتبت به إليك واكتب 
+<lb n="7"/>  إلي مع الجندي بما يكون من أبي الفضل أكرمه اللّه ومنك في ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿan hu ʿʾBlūna fī hā ʾilay hi ʾin šāʾa ăl lāhu 
+ <lb n="2"/>wa qad katabtu ʾilà muḥammadi bni ăṣ ṣadaqaẗi ʾāmuru hu ʾin ʾazāḥa ʾabū ăl faḍli ăl ġallaẗa ʿillaẗa wa dafaʿa tamāma 
+ <lb n="3"/>ăl ṯalāṯi miʾaẗi dīnār:in wa ăl ḫamsīna ăl dīnāri ăllatī ṣāra ribā hu ʿalay hā ʾilà ăl ǧahbaḏi wa ṣaḥḥat 
+ <lb n="4"/>qibala hu wa ʿadala hā ʿalà yadayi ăl mustawdiʿi ʾan yuṭliqa hu wa lā yuwaṣṣiya yaʿriḍa la hu fī ăl maqāmi 
+ <lb n="5"/>bi ăl madīnaẗi ʾin ʾaḥabba ăl maqāma bi hā ʾawi ăl ḫurūǧa min ʿan hā ʾilà ăḍ ḍiyāʿi wa ʾallā yazaʿa yadaʿa ăl ʿāmila ʿāmilu ʾan 
+ <lb n="6"/>yaqdama yuqaddima bi hi ʿalay ya wa lā yuḫlifa hu fa ĭʿlam ḏālika wa ʾaʿǧil ĭʿmal bi mā katabtu bi hi ʾilay ka wa ŭktub 
+ <lb n="7"/>ʾilay ya maʿa ăl ǧundiyyi bi mā yakūnu min ʾabī ăl faḍli ʾakrama hu ăl lāhu wa min ka fī ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		From him ......... therein (?) if God wills.
+			<lb n="2"/>
+		And I have already written to Muḥammad b. aṣ-Ṣadaqa giving him o[rd]er: in case Abu&#039;l-Faḍl has accomplished (readily sold off) the harvest and paid wholly
+		... wenn Abū Faḍl keine Ausflüchte mehr macht (sc. bei der Zahlung der Steuer)
+			<lb n="3"/>
+		the three hundred and fifty dînârs, which were his profit therefrom, to the paymaster (ǧahbaḏ), and it (sc. the payment) has been approved
+			<lb n="4"/>
+		by him, and he had revised it through the depositor, that he (sc. Muḥammad) may discharge him and may not oblige him to stay
+			<lb n="5"/>
+		in the capital, if he wishes to stay therein or to depart therefrom to the estates, and that the finan[ce-official] may not hinder
+		... und (daß) er nicht zuläßt, daß der Beamte
+			<lb n="6"/>
+		his being brought to me, and may not deceive him. Now take note of it and hasten (to do) what I have written to you, and write
+		ihn zu mir herbringt oder ihn zurückhält. ... und verfahre gemäß dem, was ich Dir (hier) geschrieben habe.
+			<lb n="7"/>
+		to me by means of the soldier what happens on the side of Abu&#039;l-Faḍl - may God honour him - and on your side concerning it.
+</ab></div>
+</body>
+</text>
+</TEI>

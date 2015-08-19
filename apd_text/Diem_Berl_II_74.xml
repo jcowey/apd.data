@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1587" xml:id="Diem_Berl_II_74" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 74</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_74</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169345</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>   <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> و<supplied reason="lost" cert="high">ڤد</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـنت خرجت <supplied reason="lost" cert="high">أ</supplied>ن نبعث به إلى الدّار حتّى 
+ <lb n="3"/>  <supplied reason="lost" cert="high">إذ</supplied>ا تهيّأ قدومك إلينا ركبته إلينا 
+ <lb n="4"/>  <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="5"/>  <supplied reason="lost" cert="high">فـ</supplied>ـإن رأيت أن <unclear reason="undefined" cert="high">تأمر</unclear> يوسف في ذاك الأمر 
+ <lb n="6"/>  <supplied reason="lost" cert="high">پـ</supplied><unclear reason="undefined" cert="high">ـه</unclear> <unclear reason="undefined" cert="high">ڤاڤرع</unclear> مپه وڤد كپپ إحن ان كان لا پد 
+ <lb n="7"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن البعتة بالهجين ندفعه إلى نصير يدخل 
+ <lb n="8"/>  <supplied reason="lost" cert="high">عـ</supplied>ـليه ولاكنّك لو بعثـ<del rend="erasure" status="unremarkable">ـتـ</del>ـپه في حاجتك إلى 
+ <lb n="9"/>  <supplied reason="lost" cert="high">ا</supplied>لصّين كان في يديك أبقاك اللّه ولم 
+ <lb n="10"/>  حل إلى ا<supplied reason="lost" cert="high">لـ</supplied>ـحارس بالرّسن فإن رأيت أن تأخذه 
+ <lb n="11"/>  <supplied reason="lost" cert="high">منه</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="left margin 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="left margin 2"/>  وإن كنت يأخي تريد أبعث إليك بالهجين يد<supplied reason="lost" cert="high">خل</supplied> <supplied reason="lost" cert="high">نصير</supplied> <supplied reason="lost" cert="high">عليه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** **** **** wa qad katabta 
+ <lb n="2"/>ʾin kunta ḫaraǧta ʾan nabʿaṯa bi hi ʾilà ăd dāri ḥattà 
+ <lb n="3"/>ʾiḏā tahayyaʾa qudūmu ka ʾilay nā rakibta hu ʾilay nā 
+ <lb n="4"/>* 
+ <lb n="5"/>fa ʾin raʾayta ʾan taʾmura yūsufa fī ḏāka ăl ʾamri 
+ <lb n="6"/>fa ʾafraġa min hu wa qad kuntu ʾuḥibbu ʾin kāna lā budda la ka 
+ <lb n="7"/>mina ăl baʿtaẗi bi ăl haǧīni nadfaʿu hu ʾilà naṣīr:in nuṣayr:in yadḫulu 
+ <lb n="8"/>ʿalay hi wa lākinna ka law baʿaṯta hu fī ḥāǧati ka ʾilà 
+ <lb n="9"/>ăṣ ṣīni kāna fī yaday ka ʾabqā ka ăl lāhu wa lam 
+ <lb n="10"/>yadḫul ʾilà ăl ḥārisi bi ăr rasani fa ʾin raʾayta ʾan taʾḫuḏa hu 
+ <lb n="11"/>min hu **** **** **** **** ***** **** 
+ <lb n="12"/>*** 
+ <lb n="13"/>wa ʾin kunta yā ʾaḫ ī turīdu ʾabʿaṯu ʾilay ka bi ăl haǧīni yadḫulu naṣīr:un nuṣayr:un ʿalay hi *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [- - -], und Du hast (ferner) geschrieben,
+		 <lb n="2"/>
+ 	  wir sollten es, [falls] Du (inzwischen schon) abgereist sein solltest, zu Deinem Haus bringen, bis Du dann, {Gott}
+		 <lb n="3"/>
+ 	  sobald es (Dir) möglich sein würde, uns zu besuchen, (darauf) zu uns reiten würdest. 〚- - -〛
+		 <lb n="4"/>
+		 <lb n="5"/>
+ 	  Wenn Du [also] doch beschließen würdest, in jener Angelegenheit Yūsuf zu beauftragen (?), {weil
+		 <lb n="6"/>
+ 	  er} so daß sie mir erspart bleibt (?)! Mein Wunsch wäre, falls Du unbedingt Wert
+		 <lb n="7"/>
+ 	  darauf legst, daß das Dromedar (von uns) überbracht wird, daß wir es Nuṣayr übergeben, damit er
+		 <lb n="8"/>
+ 	  auf ihm (zu Dir) in die Stadt reitet. Freilich, selbst wenn Du ihn wegen einer Besorgung bis
+		 <lb n="9"/>
+ 	  nach China senden würdest, stünde dies in Deiner Macht - Gott erhalte Dich! Übrigens hat
+		 <lb n="10"/>
+ 	  mir der Wächter den Halfter (des Dromedars noch) nicht überbracht. Wenn Du also doch beschließen würdest, ihn (selbst)
+		 <lb n="11"/>
+ 	  [bei ihm] entgegennehmen zu lassen! [
+		 <lb n="12"/>
+		 <lb n="13"/>
+ 	  Falls Du aber, o Bruder, (unbedingt) wünschst, daß ich Dir das Dromedar überbringen lasse, wird [Nuṣayr auf ihm (zu Dir) in die Stadt reiten.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

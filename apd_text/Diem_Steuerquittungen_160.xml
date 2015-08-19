@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2456" xml:id="Diem_Steuerquittungen_160" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_160</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أدّى <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عـ</supplied>ـمّـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">يجب</supplied> عليه 
+<lb n="3"/>  من الخراج بـ<unclear reason="undefined" cert="high">ـههية</unclear> دينار 
+<lb n="4"/>  لسنة ثلاث وثلثين 
+<lb n="5"/>  وثلثمائة وكتب 
+<lb n="6"/>  محمّد بن جعفر بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaddà *** ʿammā yaǧibu ʿalay hi 
+ <lb n="3"/>mina ăl ḫarāǧi bi hihyaẗa dīnār 
+ <lb n="4"/>li sanaẗi ṯalāṯ:in wa ṯalāṯīna 
+ <lb n="5"/>wa ṯalāṯi miʾaẗ:in wa kataba 
+ <lb n="6"/>muḥammadu bnu ǧaʿfara bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und sich Erbarmenden!]
+			<lb n="2"/>
+		Es bezahlte [...... von] de[m, was] ihm [obliegt]
+			<lb n="3"/>
+		von der Grundsteuer in Hiyah (?) einen Dinar
+			<lb n="4"/>
+		für das Jahr dreihundert-
+			<lb n="5"/>
+		dreihundertdreißig. Es schrieb (dies)
+			<lb n="6"/>
+		Muḥammad ibn Ğaʿfar eigenhändig.
+</ab></div>
+</body>
+</text>
+</TEI>

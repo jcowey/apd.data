@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1798" xml:id="Grohmann_APEL_320" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 320</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_320</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169539</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر يأبا عمر أن قبلي دينارين وثلث وثمن دينار منها معسولة دينارين والباقي 
+<lb n="3"/>  قطع أدفع ذلك إليك أي وقت أردت لا أدافع بذلك ولا <sic n="superfluous">پحپح</sic><supplied reason="omitted" cert="high">أحتجّ</supplied> فيه 
+<lb n="4"/>  بحجّة <sic n="superfluous">پوحوه</sic> بوجه من الوجوه والأسباب كلّها وذلك لسنة ثمان وعشرين 
+<lb n="5"/>  وثلثمائة وكتب محب بن الحسن الجبّان بخطّه الواحد القهّار 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾuqirru yā ʾabā ʿumar:in ʾanna qibal ī dīnārayni wa ṯulṯ:un wa ṯumnu dīnār:in min hā maʿsūlaẗ:un dīnārayni wa ăl bāqī 
+ <lb n="3"/>qiṭaʿ:un ʾadfaʿu ḏālika ʾilay ka ʾayya waqt:in ʾaradta lā ʾudāfiʿu bi ḏālika wa lā ʾaḥtaǧǧu fī hi 
+ <lb n="4"/>bi ḥuǧǧaẗ:in bi waǧh:in mina ăl wuǧūhi wa ăl ʾasbābi kulli hā wa ḏālika li sanaẗi ṯamān:in wa ʿišrīna 
+ <lb n="5"/>wa ṯalāṯi miʾaẗ:in wa kataba muḥabbu muḥibbu bnu ăl ḥasani ăl ǧabbānu bi ḫaṭṭi hi ăl wāḥidu ăl qahhāru 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		I acknowledge, O Abû ʿUmar, that I am in debt to the extent of two dînârs and a third and an eighth of a dînâr, two dînârs thereof being correctly counted out and the rest (small)
+			<lb n="3"/>
+		change. I shall pay this to you any time you want. I shall not delay (the payment) thereof nor shall I bring forward any pretext in respect thereto for {any cause},
+			<lb n="4"/>
+		for whatever cause or reason there may be, and this till the year three hundred
+			<lb n="5"/>
+		and twenty-eight. Written by Muḥibb b. al-Ḥasan, the cheesemonger, in his (own) handwriting. The only One, the Subduer.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="957" xml:id="Guo_Quseir_64" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments II 8 (= P.QuseirArab. I 64)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_64</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113706</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>   وأربعون <expan><ex>إردبّا</ex></expan> 
+<lb n="recto 2"/>   
+<lb n="recto 3"/>  عجيان ستّة أرادب 
+<lb n="recto 4"/>  حملين ثلثجارب 
+<lb n="recto 5"/>  جلال ستّة أرادب 
+<lb n="recto 6"/>  حملين ثلثجارب 
+<lb n="recto 7"/>  <supplied reason="lost" cert="high">حمـ</supplied>ـد ارپعه أرادب 
+<lb n="recto 8"/>  حمل سدس 
+<lb n="recto 9"/>  مكرم إردبّين 
+<lb n="recto 10"/>  <sic n="superfluous">سمعل</sic> <supplied reason="omitted" cert="high">اسمعپل</supplied> نصف 
+<lb n="recto 11"/>  مرداد ثلثة أرادب 
+<lb n="recto 12"/>  حمل ثلثجارب 
+<lb n="recto 13"/>  وويبتين 
+<lb n="recto 14"/>  أبو ريس أربعة أرادب 
+<lb n="recto 15"/>  حمل وسدس 
+<lb n="recto 16"/>  ديب خمسة أرادب 
+<lb n="recto 17"/>  حمل 
+<lb n="recto 18"/>  نصف 
+<lb n="recto 19"/>  ستّة أرادب 
+<lb n="recto 20"/>  حريص بن سيّاد ونصف وثلث 
+<lb n="recto 21"/>  حملين 
+<lb n="recto 22"/>  وويبة 
+<lb n="recto 23"/>  پلپه ارادث وپلپ 
+<lb n="recto 24"/>  نصر بن نبيل 
+<lb n="recto 25"/>  حمل 
+<lb n="verso 1"/>  نقصة عجيان وجلال نصف 
+<lb n="verso 2"/>  مد و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  نقصة ديب وحريص خمسة أمدا<supplied reason="lost" cert="high">د</supplied> 
+<lb n="verso 4"/>  نقصة حمد <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso 5"/>  نقصة نصر أبي رفعي <supplied reason="omitted" cert="high">و</supplied>أبو ريس 
+<lb n="verso 6"/>  ثلثة أمداد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṯalāṯaẗ:un wa ʾarbaʿūna ʾirdabb:an 
+ <lb n="2"/>mufaṣṣalu hā 
+ <lb n="3"/>ʿaǧyānu sittaẗu ʾarādiba 
+ <lb n="4"/>ḥimlayni ṯulṯu ǧārib:in 
+ <lb n="5"/>ǧalālu sittaẗu ʾarādiba 
+ <lb n="6"/>ḥimlayni ṯulṯu ǧārib:in 
+ <lb n="7"/>ḥamd:un ʾarbaʿaẗu ʾarādiba 
+ <lb n="8"/>ḥiml:un suds:un 
+ <lb n="9"/>mukramu ʾirdabbayni 
+ <lb n="10"/>ʾismāʿīla niṣf:un 
+ <lb n="11"/>mirdādu ṯalāṯaẗu ʾarādiba 
+ <lb n="12"/>ḥiml:un ṯulṯu ǧārib:in 
+ <lb n="13"/>wa waybatayni 
+ <lb n="14"/>ʾabū rīs:in ʾarbaʿaẗu ʾarādiba 
+ <lb n="15"/>ḥiml:un wa suds:un 
+ <lb n="16"/>dīb:un ḫamsaẗu ʾarādiba 
+ <lb n="17"/>ḥiml:un 
+ <lb n="18"/>niṣf:un 
+ <lb n="19"/>sittaẗu ʾarādiba 
+ <lb n="20"/>ḥarīṣu bnu sayyāda wa niṣf:un wa ṯulṯ:un 
+ <lb n="21"/>ḥimlayni 
+ <lb n="22"/>wa waybaẗ:un 
+ <lb n="23"/>ṯalāṯaẗu ʾarādiba wa ṯulṯ:un 
+ <lb n="24"/>naṣru bnu nabīla 
+ <lb n="25"/>ḥiml:un 
+ <lb n="26"/>naqṣaẗu ʿaǧyāna wa ǧalāla niṣfu 
+ <lb n="27"/>mudd:in wa *** 
+ <lb n="28"/>naqṣaẗu dīb:in wa ḥarīṣa ḫamsaẗu ʾamdād:in 
+ <lb n="29"/>naqṣaẗu ḥamd:in **** 
+ <lb n="30"/>naqṣaẗu naṣr:in ʾabī rifʿiyy:in wa ʾabū rīs:in 
+ <lb n="31"/>ṯalāṯaẗu ʾamdād:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[A total of] Forty-three irdabbs
+		Forty-three irdabbs
+			<lb n="2"/>
+		Details:
+		In detail:
+			<lb n="3"/>
+		ʿAjyān:	| six irdabbs
+			<lb n="4"/>
+		two loads | [and] one-third jārib
+			<lb n="5"/>
+		Jalāl: | six irdabbs
+			<lb n="6"/>
+		two loads | [and] one-third jārib
+			<lb n="7"/>
+		(Ḥam?)d:	| four irdabbs
+		[Ḥam]d:	| four irdabbs
+			<lb n="8"/>
+		one load | [and] one-sixth [jarīb]
+			<lb n="9"/>
+		Mukram Ismāʿīl: | two irdabbs [and] a half
+			<lb n="11"/>
+		Mirdād: | three irdabbs
+			<lb n="12"/>
+		one load | [and] one-third jārib
+			<lb n="13"/>
+		and two waybas
+			<lb n="14"/>
+		Abū Rayyis (Rīs): | four irdabbs
+		Abū Rīs: | four irdabbs
+			<lb n="15"/>
+		 one load | and one-sixth [jarīb]
+			<lb n="16"/>
+		Dīb: | five irdabbs
+			<lb n="17"/>
+		one load
+			<lb n="18"/>
+		and a half
+			<lb n="20"/>
+		Ḥarīṣ ibn Sayyād: | six irdabbs and a half and one-third [jarīb]
+			<lb n="21"/>
+		two loads
+			<lb n="22"/>
+		and one wayba
+			<lb n="24"/>
+		Naṣr ibn Nabīl: | three irdabbs and one-third [jarīb]
+			<lb n="25"/>
+		one load
+			<lb n="26"/>
+		Balance [owed by] ʿAjyān and Jalāl: half
+		Shortage [owed by] ʿAjyān and Jalāl: half
+			<lb n="27"/>
+		mudd and [...]
+			<lb n="28"/>
+		Balance [owed by] Dīb and Ḥarīs: five mudds
+		Shortage [owed by] Dīb and Ḥarīs: five mudds
+			<lb n="29"/>
+		Balance [owed by] Ḥamd: [......]
+		Shortage [owed by] Ḥamd: [......]
+			<lb n="30"/>
+		Balance [owed by] Naṣr Abī Rifʿī [and] Abū Rīs:
+		Shortage [owed by] Naṣr Abī Rifʿī [and] Abū Rayyis (Rīs):
+			<lb n="31"/>
+		Three mudds.
+</ab></div>
+</body>
+</text>
+</TEI>

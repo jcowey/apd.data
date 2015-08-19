@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2006" xml:id="Grohmann_APEL_239" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 239</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_239</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169734</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  العيون ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  الصّرف دينر ديـ<supplied reason="lost" cert="high">ـنر</supplied> 
+<lb n="3"/>  على يدي جبريل بن محمّد عن أناس شتّى ÷÷ <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="4"/>  منه عن إبرهيم بن بيب إبليده ÷÷ <gap reason="illegible" extent="1" unit="character" /> وعن هميسة بن قزمان وابن <app type="BL"><lem resp="APD">تنوس </lem><rdg resp="APD">تتوس </rdg><rdg resp="APD">بتوس</rdg></app> ÷÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  نفسه ÷÷÷÷÷ ÷÷ وعن مقاره بن مونه ÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷÷÷ بالمدينة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وعن ببا وهميسه النّجّار ÷ <gap reason="illegible" extent="1" unit="character" /> وعن قزمان عليج وابنه ÷÷ <gap reason="illegible" extent="1" unit="character" /> وأيضا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ÷÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  وعن بجوش بن بمون الصّبّاغ ÷ <gap reason="illegible" extent="1" unit="character" /> وعن بقطر بن موسى بنتلس ÷<unclear reason="undefined" cert="high">÷</unclear> <gap reason="illegible" extent="1" unit="character" /> وأيضا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ÷÷ ÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷ <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="10"/>  وعن أبيمه بن مينا الفروح ÷ <gap reason="illegible" extent="1" unit="character" /> وعن أببوله بن سويرس أيّوب ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="11"/>  ÷÷ ÷ ÷ 
+<lb n="12"/>  وعن ابن سلمون أتناس ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> وعن بروس بن بطرس <app type="BL"><lem resp="APD">أتاس </lem><rdg resp="APD">أناس</rdg></app> ÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="13"/>  ÷ ÷÷ 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـم <app type="BL"><lem resp="APD">فضّة </lem><rdg resp="UB">فضّة</rdg></app> وعن إبليده بن بوفيم عن إخوته ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> وعن زرع الوالدة وغير ذلك ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="15"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ʿuyūnu ʾ*** 
+ <lb n="2"/>ăṣ ṣarfu dīnār:un dīnār:un 
+ <lb n="3"/>ʿalà yadayi ǧibrīla bni muḥammad:in ʿan ʾunās:in šattà 14 **** 
+ <lb n="4"/>min hu ʿan ʾibrāhīma bni bībi ʾibulīdaha 1 1/8 * wa ʿan humīsaẗa bni quzmāna wa ĭbni bitūsa tanūsa titūsa 1 1/3+1/24+2/3 * *** 
+ <lb n="5"/>nafsu hu 3 1/12+1/48+1/3 2 1/4 wa ʿan maqāraha bni mūnaha 2/3+1/6 * 1 1/2+1/24+1/48 bi ăl madīnaẗi *** 
+ <lb n="6"/>wa ʿan babā wa humīsaha ăn naǧǧāri 1 * wa ʿan quzmāni ʿalīǧ:in wa ĭbni hi 2 1/4 * wa ʾayḍ:an *** 
+ <lb n="7"/>1 1/12+1/48 2 1/2 *** 
+ <lb n="8"/>wa ʿan baǧūša bni bamūna ăṣ ṣabbāġi 1 * wa ʿan buqṭura bni mūsà bantalusa 2 1/8 * wa ʾayḍ:an *** 
+ <lb n="9"/>1 1/8 1 1/4 * 1/24 **** 
+ <lb n="10"/>wa ʿan ʾabīmaha bni mīnā ăl furūḥi 1 * wa ʿan ʾababūlaha bni sawīrusa ʾayyūba 6 1/24 * 
+ <lb n="11"/>1 1/8 1/4 1/3 
+ <lb n="12"/>wa ʿani ĭbni salmūni ʾatanāsa 1/12+2/3 * wa ʿan barūsa bni buṭrusi ʾanāsa ʾatāsa 1/4+1/6 * 
+ <lb n="13"/>‪1/8 1/6+1/8 
+ <lb n="14"/>***m fiḍḍaẗ qiṣṣaẗ wa ʿan ʾibulīdaha bni būfīma ʿan ʾiḫwati hi 3 1/12 * wa ʿan zarʿi ăl wālidaẗi wa ġayri ḏālika 9 1/6+1/48 * 
+ <lb n="15"/>* * *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Gold-coins [
+			<lb n="2"/>
+		Conversion charge. Dînâr Dî[nâr
+			<lb n="3"/>
+		By Ǧibrîl b. Muḥammad on behalf of different persons 14 .[
+			<lb n="4"/>
+		Thereof (is) on behalf of Ibrahîm, son of Bîb Ibolîde, 1 1/8 and on behalf of Homîse, son of Quzmân, and the son of Tanôs 1 1/3+1/24+2/3 carat
+			<lb n="5"/>
+		for himself 3 1/12+1/48+1/3 carat, 2 1/4, and on behalf of Maqâre, son of Mône, 2/3+1/6 carat 1 1/2+1/24+1/48 in the capital [
+			<lb n="6"/>
+		and on behalf of Babâ and Homîse, the carpenter, 1 and on behalf of Quzmân ʿAlîǧ (?) and his son 2 1/4 and once more [
+			<lb n="7"/>
+		1 1/12+1/48  2 1/2 [
+			<lb n="8"/>
+		and on behalf of Beǧôš, son of Bamûn, the dyer, 1 and on behalf of of Boqṭor, son of Mûsâ Bantalos, 2 1/8 and once more [
+			<lb n="9"/>
+		1 1/8  1 1/4 &#039;&#039; . 1/24 [
+			<lb n="10"/>
+		and on behalf of Ebîme, son of Mînâ, the happy, 1 and on behalf of Ababûle, son of Suwairos Ayûb, 6 1/24+1/3 carat
+			<lb n="11"/>
+		1 1/8  1/4
+			<lb n="12"/>
+		and on behalf of Ibn Salmôn Atanâs 1/12+2/3 carat and on behalf of Parûs, son of Buṭrus Atâs, 1/4+1/6 carat
+			<lb n="13"/>
+		1/8  1/6+1/8
+			<lb n="14"/>
+		] ... petition. And on behalf of Ibolîde, son of Bû Fîm, for his brothers 3 1/12 and on behalf of the seed land of the mother and others 9 1/6+1/48
+			<lb n="15"/>
+		. &#039;&#039; ......
+</ab></div>
+</body>
+</text>
+</TEI>

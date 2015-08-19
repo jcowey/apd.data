@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="269" xml:id="Grohmann_APEL_90" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 090</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_90</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106530</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـ<gap reason="illegible" extent="1" unit="character" /> ا<supplied reason="lost" cert="high">لمـ</supplied>ـنزل إلى يحيى <supplied reason="lost" cert="high">بـ</supplied>ـن حمدان <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  لبنا<supplied reason="lost" cert="high">ئـه</supplied> <gap reason="illegible" precision="low" extent="3"/> وسكنه شهد عـ<supplied reason="lost" cert="high">ـلى</supplied> <supplied reason="lost" cert="high">إ</supplied>قرار عيسـ<supplied reason="lost" cert="high">ـى</supplied> بن أحمد الحمّال بجميع ما في هـ<supplied reason="lost" cert="high">ـذا</supplied> <supplied reason="lost" cert="high">الكـ</supplied>ـتـ<supplied reason="lost" cert="high">ـا</supplied>ب بعد أن قرئ عليه وعرف ما <supplied reason="lost" cert="high">فيـ</supplied>ـه <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في </supplied>
+<lb n="3"/>  صـ<supplied reason="lost" cert="high">ـحّـ</supplied>ـة عقله وبدنه وجواز <supplied reason="lost" cert="high">أمـ</supplied>ـره في شهر ربيع الآخر من سنة أربع وسبـ<supplied reason="lost" cert="high">ـعين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> شهد على ذلك إسحق <app type="BL"><lem resp="APD">ابن </lem><rdg resp="APD">بن</rdg></app> محمّد سواه على إقرار 
+<lb n="4"/>  عيسى بن أحمد الحمّا<supplied reason="lost" cert="high">ل</supplied> <supplied reason="lost" cert="high">بجميع</supplied> ما <supplied reason="lost" cert="high">في</supplied> هذا الكتاب الكرى وكتبـ<supplied reason="omitted" cert="high">ـشـ</supplied>ـهادته بخطّه في جما<supplied reason="lost" cert="high">دى</supplied> الآخر سنة أربع و<supplied reason="lost" cert="high">سـ</supplied>ـبعين وماتي 
+<lb n="5"/>  /// وأحمد بن عيسى وكتب شهادته في جمادى الآخرة من سنة أربع وسبعين ومائتين 
+<lb n="6"/>  شهد إبرهيم بن علي بن الحسن وكتب شهادته في جمادى الآخره سنة أربع وسبعين وماتي 
+<lb n="7"/>  <supplied reason="lost" cert="high">شهد</supplied> مـ<supplied reason="lost" cert="high">ـحـ</supplied>ـمّد بن مارد المودن علـ<supplied reason="lost" cert="high">ـى</supplied> إقـ<supplied reason="lost" cert="high">ـر</supplied>ار عيسى بن أحمد الحمّال بجميع ما في هذا الكتاب 
+<lb n="8"/>  <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">جمـ</supplied>ـاد<supplied reason="lost" cert="high">ى</supplied> الآخـ<supplied reason="lost" cert="high">ـرة</supplied> مـ<supplied reason="lost" cert="high">ـن</supplied> سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">أربـ</supplied>ـع وسبـ<supplied reason="lost" cert="high">ـعيـ</supplied>ـن ومائتـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن 
+<lb n="9"/>  شهد <supplied reason="lost" cert="high">مـ</supplied>ـحمّد بن بكير بن علها على <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">عيسى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أ</supplied>حمد الحمّال بجميع ما في هذا الكتاب وكتبشها<supplied reason="lost" cert="high">دته</supplied> في جمادى الآخر سنة أربع وسبعين وماتي // 
+<lb n="10"/>  شهد إبرهيم بن يعقوب بن إسحف بن إ<supplied reason="lost" cert="high">سمـ</supplied>ـعيل على إقرار عيسى بن أحـ<supplied reason="lost" cert="high">ـمـد</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـحـ<supplied reason="lost" cert="high">ـمّـ</supplied>ـال بجميع <supplied reason="lost" cert="high">ما</supplied> في هذا الكتاب الكرى في 
+<lb n="11"/>  <supplied reason="lost" cert="high">جمـ</supplied>ـادى الآخر من سنـ<supplied reason="lost" cert="high">ـة</supplied> أ<supplied reason="lost" cert="high">ر</supplied>بع وسبعـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن ومائـ<supplied reason="lost" cert="high">ـتيـ</supplied>ـن / 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لوما</supplied> <supplied reason="lost" cert="high">پپز[ل</supplied> أكرياه منزلا لها في الضيعة المعروفة بـ<supplied reason="lost" cert="high">ـقـ</supplied>ـلنديون بجميع حدوده <supplied reason="lost" cert="high">و</supplied>حقوقه وخشبه وألواحه وأبوابه 
+<lb n="13"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> اا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> اا<gap reason="illegible" extent="1" unit="character" />ا <gap reason="illegible" extent="1" unit="character" /> سنة أربع وسبعـ<supplied reason="lost" cert="high">ـين</supplied> ومائتن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>B*** ‮*** ăl manzila ʾilà yaḥyà bni ḥamdāna ***n ** *** ** *** ** *** * *** 
+ <lb n="2"/>li bināʾi hi *** wa sakani hi šahida ʿalà ʾiqrāri ʿīsà bni ʾaḥmada ăl ḥammāli bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay hi wa ʿarafa mā fī hi wa ḏālika fī 
+ <lb n="3"/>ṣiḥḥaẗi ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi fī šahri rabīʿa ăl ʾāḫari min sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni šahida ʿalà ḏālika ʾisḥāqu ĭbnu bnu muḥammad:in siwā hu ʿalà ʾiqrāri 
+ <lb n="4"/>ʿīsà bni ʾaḥmada ăl ḥammāli bi ǧamīʿi mā fī hāḏā ăl kitābi ăl kirà wa kataba šahādaẗa hu bi ḫaṭṭi hi fī ǧumādà ăl ʾāḫiri sanaẗa ʾarbaʿ:in wa sabʿīna wa miʾatay 
+ <lb n="5"/>/// wa ʾaḥmadu bnu ʿīsà wa kataba šahādaẗa hu fī ǧumādà ăl ʾāḫiraẗi min sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni 
+ <lb n="6"/>šahida ʾibrāhīmu bnu ʿaliyyi bni ăl ḥasani wa kataba šahādaẗa hu fī ǧumādà ăl ʾāḫiraẗi sanaẗa ʾarbaʿ:in wa sabʿīna wa miʾatay 
+ <lb n="7"/>šahida muḥammadu bnu mārid:ini ăl muʾaḏḏinu ʿalà ʾiqrāri ʿīsà bni ʾaḥmada ăl ḥammāli bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="8"/>wa kataba šahādaẗa hu fī ǧumādà ăl ʾāḫiraẗi min sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni 
+ <lb n="9"/>šahida muḥammadu bnu bukayri bni ʿalhā ʿalà ʾiqrāri ʿīsà bni ʾaḥmada ăl ḥammāli bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādaẗa hu fī ǧumādà ăl ʾāḫiri sanaẗa ʾarbaʿ:in wa sabʿīna wa miʾatay // 
+ <lb n="10"/>šahida ʾibrāhīmu bnu yaʿqūba bni ʾisḥāqa bni ʾismāʿīla ʿalà ʾiqrāri ʿīsà bni ʾaḥmada ăl ḥammāli bi ǧamīʿi mā fī hāḏā ăl kitābi ăl kirà fī 
+ <lb n="11"/>ǧumādà ăl ʾāḫiri min sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni / 
+ <lb n="12"/>*** lwmʾ BBzl ʾakrayā hu manzil:an la hā fī ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi qalandiyūna bi ǧamīʿi ḥudūdi hi wa ḥuqūqi hi wa ḫašabi hi wa ʾalwāḥi hi wa ʾabwābi hi 
+ <lb n="13"/>*** ** ʾʾ*** **** ʾʾ*ʾ * sanaẗ ʾarbaʿ:in wa sabʿīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[ .... ].. the [dwe]lling house to Yaḥyâ [b]en Ḥamdân .... [....] ....
+			<lb n="2"/>
+		to build [on it] and to dwell in it. There have testified t[o the ack]nowledgment by ʿÎs[â] b. Aḥmad, the porter, respecting all that (is contained) in th[is c]ontr[act] after it had been read to him and he had taken cognizance of what (is contained) herei[n], [and this]
+			<lb n="3"/>
+		he being in a state of [soun]d mind and body and capable of transacting his [business], in the month of Rabîʿ II of the year [two hundred and seven]ty four. There has testified to it Isḥâq b. Muḥammad alike to the acknowledgment
+			<lb n="4"/>
+		by ʿÎsâ b. Aḥmad, the porte[r, respecting all] that (is contained) i[n] this contract of lease, and he has written his testimony in his (own) handwriting in Ǧumâ[dâ] II of the year two hundred and [sev]enty four;
+			<lb n="5"/>
+		and Aḥmad b. ʿÎsâ, and he has written his testimony in Ǧumâdâ II of the year two hundred and seventy four.
+			<lb n="6"/>
+		Witness is Ibrahîm b. ʿAlî b. al-Ḥasan, and he has written his testimony in Ǧumâdâ II of the year two hundred and seventy four.
+			<lb n="7"/>
+		Witness is Mu[ḥa]mmad b. Mârid, the Muezzin, t[o] the ack[now]ledgment by ʿÎsâ b. Aḥmad, the porter, respecting all that (is contained) in this contract,
+			<lb n="8"/>
+		[and he has written his testimony in Ǧum]âd[â] II o[f] the ye[ar] t[w]o hundred and sev[en]ty [fou]r.
+			<lb n="9"/>
+		Witness is [Mu]ḥammad b. Bukair b. ʿAlhâ (?) to [the acknowledgment by ʿÎsâ b. A]ḥmad, the porter, respecting all that (is contained) in this contract, and he has written [his] testimo[ny] in Ǧumâdâ II of the year two hundred and seventy four.
+			<lb n="10"/>
+		Witness is Ibrahîm b. Yaʿqûb b. Isḥâq b. I[sma]ʿîl to the acknowledgment by ʿÎsâ b. Aḥ[mad, the] por[t]er, respecting all [that] (is contained) in this contract of lease in
+			<lb n="11"/>
+		[Ǧum]âdâ II of the yea[r] two h[un]dre[d] and seven[ty] f[o]ur.
+			<lb n="12"/>
+		[ ......... ] ......... they both have leased a dwellinghouse belonging to her in the domain, known as [Qal]andiyûn, comprising all its limits [and] rights and its timbers, boards and wooden doors
+			<lb n="13"/>
+		[ .......... ] ............ of the year two hundred and seven[ty] four.
+</ab></div>
+</body>
+</text>
+</TEI>

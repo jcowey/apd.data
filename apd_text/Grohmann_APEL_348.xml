@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1858" xml:id="Grohmann_APEL_348" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 348</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_348</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169595</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يدفع الوكيل أعزّه اللّه إلى سرور 
+<lb n="3"/>  <app type="BL"><lem resp="APD">الرّاجل </lem><rdg resp="Diem">الرّاجل</rdg></app> خمسة أرطال ليثي عنب وكتب 
+<lb n="4"/>  سلامة بن الحسن بخطّه حسبنا اللّه وحده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yadfaʿi ăl wakīlu ʾaʿazza hu ăl lāhu ʾilà surūr:ini 
+ <lb n="3"/>ăr rāǧili rāḥili ḫamsaẗa ʾarṭāl:in layṯiyy:in ʿinab wa kataba 
+ <lb n="4"/>salāmaẗu bnu ăl ḥasani bi ḫaṭṭi hi ḥasbu nā ăl lāhu waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		The agent - may God exalt him - may hand over to Surûr,
+			<lb n="3"/>
+		the caravan-leader, five pounds Laiṯî of grapes. Salâma
+			<lb n="4"/>
+		b. al-Ḥasan has written (it) in his (own) handwriting. Our sufficiency is God alone.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1404" xml:id="Grohmann_Berlin_04" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_04</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169195</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">قل</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أحـ</supplied>ـد الـ<supplied reason="lost" cert="high">ـلّه</supplied> <supplied reason="lost" cert="high">ا</supplied>لـ<supplied reason="lost" cert="high">ـصّمد</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وحده</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">ر</supplied>سول اللّه <supplied reason="omitted" cert="high">أرسله</supplied> بالهد<supplied reason="lost" cert="high">ى</supplied> <supplied reason="lost" cert="high">ودين</supplied> <supplied reason="lost" cert="high">الحقّ</supplied> 
+<lb n="4"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">جعفر</supplied> <supplied reason="lost" cert="high">الإمام</supplied> <supplied reason="lost" cert="high">الو</supplied>ا<supplied reason="lost" cert="high">ثـ</supplied>ـق <supplied reason="lost" cert="high">باللّـ</supplied>ـه أ<supplied reason="lost" cert="high">صلحه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ممّـ</supplied>ـا أمر به عـ<supplied reason="lost" cert="high">ـيسى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">يونس</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qul huwa ăl lāhu ʾaḥad:un ăl lāhu ăṣ ṣamadu 
+ <lb n="3"/>lā ʾilāha ʾillā ăl lāha waḥda hu muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="4"/>ʿabdu ăl lāhi ʾabū ǧaʿfara ăl ʾimāmu ăl wāṯiqu bi ăl lāhi ʾaṣlaḥa hu ăl lāhu 
+ <lb n="5"/>hāḏā mimmā ʾamara bi hi ʿīsà bnu yūnusa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		[Sprich: Er ist Gott, ei]n (Gott), Go[tt d]er E[wige].
+			<lb n="3"/>
+		[Es gibt keinen Gott außer Gott allein, Muḥammad ist der Send]-bote Gottes. &lt;Er hat ihn gesandt&gt; mit der Rechtlei[tung und der wahren Religion].
+			<lb n="4"/>
+		Der Diener Gottes Abū Ǧaʿfar, der Imām al-Wāṯiq billāh, [Gott] erhal[te ihn gesund.]
+			<lb n="5"/>
+		[Dies gehört zu dem] was angeordnet hat ʿ[Īsā b. Yūnus].
+</ab></div>
+</body>
+</text>
+</TEI>

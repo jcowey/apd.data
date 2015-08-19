@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1381" xml:id="Diem_Heid_II_24" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_24</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169175</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <unclear reason="undefined" cert="high">من</unclear> <unclear reason="undefined" cert="high">عـ</unclear>ـلي <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">إ</supplied><unclear reason="undefined" cert="high">لـ</unclear>ـى <gap reason="illegible" extent="6" unit="character" /> بن پعا<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإنّي</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">إليك</supplied> 
+<lb n="3"/>  اللّه الّذي لا إله إلّا هو 
+<lb n="4"/>  أمّا بعد فإنّي أخبرك من خبرنا أنّا سالمين صالحين <supplied reason="lost" cert="high">منذ</supplied> 
+<lb n="5"/>  خـ<supplied reason="lost" cert="high">ـر</supplied>جت من عندنا فلم تكتب إلينا كيف كنت <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">تفعل</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">في </rdg><rdg resp="APD">من</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ما</rdg></app> 
+<lb n="6"/>  كنت تـ<supplied reason="lost" cert="high">ـعـ</supplied>ـدنا وقد علمت أنّه قد كان أهـ<unclear reason="undefined" cert="high">ـمّ</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="APD">الشؤون</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إلينا</rdg></app> 
+<lb n="7"/>  فاكتب إلي كيف فـ<supplied reason="lost" cert="high">ـعـ</supplied>ـلت وماذا بلغ من شأنك <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">تدع</supplied> 
+<lb n="8"/>  أن تكتب إلي بخبرك وإنّي كنت كتبت إليك أن تـ<supplied reason="lost" cert="high">ـشتري</supplied> <supplied reason="lost" cert="high">لي</supplied> 
+<lb n="9"/>  طلا مطبوخ وكتبت إلى بسيط أن يمـ<supplied reason="lost" cert="high">ـسـ</supplied>ـك <supplied reason="lost" cert="high">به</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ويبعث</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">به</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إليّ</rdg></app> 
+<lb n="10"/>  فإن أ<supplied reason="lost" cert="high">حببـ</supplied>ـت أن تقبض ثمنه من بسيط فافعل وإ<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">كنت</supplied> 
+<lb n="11"/>  بعثت به دفعنا ثمنه إلى من شئت وإن أفرغـ<supplied reason="lost" cert="high">ـت</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مجهودك</supplied> </lem><rdg resp="APD">جهدك</rdg></app> 
+<lb n="12"/>  أ<supplied reason="lost" cert="high">يـ</supplied>ـضا أن <supplied reason="lost" cert="high">تبعـ</supplied>ـث <supplied reason="lost" cert="high">إ</supplied>لي بالجارية الّتي <app type="BL"><lem resp="APD">قلت </lem><rdg resp="Rāġib">قلت</rdg></app> لي وأن <supplied reason="lost" cert="high">تبعث</supplied> 
+<lb n="13"/>  إلي بالّذي كتبت إليك به مع سليمن <supplied reason="lost" cert="high">المـ</supplied>ـكري فإنّي قد <supplied reason="lost" cert="high">بعثت</supplied> 
+<lb n="14"/>  إليك معه بدينر لأ<unclear reason="undefined" cert="high">مـ</unclear>ـره تشـ<supplied reason="lost" cert="high">ـتر</supplied>ي لها به خمر <app type="BL"><lem resp="APD">پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" />حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">ترجع</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">محجّبة </rdg><rdg resp="APD">مستورة</rdg></app> 
+<lb n="15"/>  ولا تجعل كتابي منك بظهر واهدن لي لپڤـ<gap reason="illegible" extent="5" unit="character" /> حـ<unclear reason="undefined" cert="high">ـتّـ</unclear>ـا <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">أبعث </rdg><rdg resp="APD">أرسل</rdg></app> 
+<lb n="16"/>  إليك به واكتب إلي <unclear reason="undefined" cert="high">بـ</unclear> ـما كاپپ لك من حاحه ڤا<supplied reason="lost" cert="high">دڤع</supplied> 
+<lb n="17"/>  ذلك والسّلم عليك واقرأ على أهلك الـ<supplied reason="lost" cert="high">ـسّلم</supplied> 
+<lb n="18"/>  وعلى بيتك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿaliyy:in ***r ** * ʾilà ****** bn Bʿʾ*** fa ʾin nī ʾaḥmadu ʾilay ka 
+ <lb n="3"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu fa ʾin nī ʾuḫbiru ka min ḫabari nā ʾan nā sālimīna ṣāliḥīna munḏu 
+ <lb n="5"/>ḫaraǧta min ʿindi nā fa lam taktub ʾilay nā kayfa kunta **** tafʿalu *** fī min **** mā 
+ <lb n="6"/>kunta taʿidu nā wa qad ʿalimta ʾanna hu qad kāna ʾahamma ****** ăš ø šuʾūni *** ʾilay ø nā 
+ <lb n="7"/>fa ŭktub ʾilay ya kayfa faʿalta wa māḏā buliġa min šaʾni ka wa lā tadaʿ 
+ <lb n="8"/>ʾan taktuba ʾilay ya bi ḫabari ka wa ʾin nī kuntu katabtu ʾilay ka ʾan taštariya l ī 
+ <lb n="9"/>ṭilāʾ:an maṭbūḫ wa katabtu ʾilà basīṭ:in ʾan yamsuka yumsika bi hi *** wa ø yabʿaṯa *** bi ø hi *** ʾilay ø ya 
+ <lb n="10"/>fa ʾin ʾaḥbabta ʾan taqbiḍa ṯamana hu min basīṭ:in fa ĭfʿal wa ʾin kunta 
+ <lb n="11"/>baʿaṯta bi hi dafaʿnā ṯamana hu ʾilà man šiʾta wa ʾin ʾafraġta maǧhūda ǧahda ka 
+ <lb n="12"/>ʾayḍ:an ʾan tabʿaṯa ʾilay ya bi ăl ǧāriyaẗi ăllatī fallat qulta l ī wa ʾan tabʿaṯa 
+ <lb n="13"/>ʾilay ya bi ăllaḏī katabtu ʾilay ka bi hi maʿa sulaymāna ăl mukrī fa ʾin nī qad baʿaṯtu 
+ <lb n="14"/>ʾilay ka maʿa hu bi dīnār:in li ʾamri hi taštariya la hā bi hi ḫumur B*ḥ* tarǧiʿu ***** muḥaǧǧabaẗ:an mastūraẗ:an 
+ <lb n="15"/>wa lā taǧʿal kitāb ī min ka bi ẓahr:in wa ĭhdin l ī lBF***** ḥattā **** ʾabʿaṯa ʾursila 
+ <lb n="16"/>ʾilay ka bi hi wa ŭktub ʾilay ya bi mā kānat la ka min ḥāǧaẗ:in fa ʾadfaʿa la ka 
+ <lb n="17"/>ḏālika wa ăs salāmu ʿalay ka wa ĭqraʾ ʿalà ʾahli ka ăs salāma 
+ <lb n="18"/>wa ʿalà bayti ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Gnädigen!]
+			<lb n="2"/>
+		Von ʿAlī [... a]n [...] ibn [... Ich lobe Dir]
+			<lb n="3"/>
+		Gott, außer dem es keinen Gott gibt.
+			<lb n="4"/>
+		Sodann: Ich teile Dir über uns mit, daß wir wohlbehalten und gesund sind, [seit]
+			<lb n="5"/>
+		Du von uns abgereist bist. Aber Du hast uns nicht geschrieben, wie Du [bei dem verfahren bist, was]
+			<lb n="6"/>
+		Du uns versprochen hast, obwohl Du gewußt hast, daß dies eine sehr wichtige [Angelegenheit (?)] war.
+			<lb n="7"/>
+		Schreibe mir deshalb, wie Du verfahren bist, und was sich bei Deiner Angelegenheit ergeben hat, [und unterlaß nicht,]
+			<lb n="8"/>
+		mir die Neuigkeiten über Dich mitzuteilen. ich habe Dir bereits geschrieben, Du mögest [für mich]
+			<lb n="9"/>
+		eingedickten Traubensirup kaufen, und ich habe Basīṭ geschrieben, er möge [ihn] verwahren [...].
+			<lb n="10"/>
+		Wenn Du also das Geld dafür von Basīṭ kassieren willst, dann tu dies. Aber we[nn Du]
+			<lb n="11"/>
+		ihn (sc. den Sirup) schon abgesandt hast, zahlen wir das Geld an eine Person Deiner Wahl. Und [gib Dir doch] bitte
+			<lb n="12"/>
+		auch [alle Mühe], mir die Sklavin zu senden, die mir entflohen ist, und mir das [zu senden],
+			<lb n="13"/>
+		worüber ich Dir durch Sulaymān, den Vermieter der Reit- und Lasttiere, Mitteilung gemacht habe, denn ich habe
+			<lb n="14"/>
+		Dir ja bereits durch ihn einen Dinar für diesen Zweck [gesandt], mit dem Du ihr Schleier kaufen sollst - - - [...]
+			<lb n="15"/>
+		und vernachlässige meinen Brief nicht, und vertraue auf mich, - - - so daß [ich]
+			<lb n="16"/>
+		es an Dich [sende]. Teile mir mit, was auch immer Du benötigst, so daß ich [Dir]
+			<lb n="17"/>
+		dies [besorgen kann.] Friede sei mit Dir; grüße auch Deine Angehörigen
+			<lb n="18"/>
+		und Deine Familie!
+</ab></div>
+</body>
+</text>
+</TEI>

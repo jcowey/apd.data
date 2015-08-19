@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1257" xml:id="David-WeillCahen_Louvre_22" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 22</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_22</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169085</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="recto 2"/>  حفظك اللّه وعافاك 
+ <lb n="recto 3"/>  إنّي لقيت أبا يزيد كاتب القاض فذكر 
+ <lb n="recto 4"/>  لي جنانك النّخل فذكر أنّك بذلته له بخمسين ومائة 
+ <lb n="recto 5"/>  دينر وإنّه لا يسوا فظننت أن كلامه ذلك لما كان منك 
+ <lb n="recto 6"/>  في أمر الدّار الّتي هدمت <unclear reason="undefined" cert="high">وقد</unclear> <unclear reason="undefined" cert="high">أشرفت</unclear> 
+ <lb n="recto 7"/>  <unclear reason="undefined" cert="high">على</unclear> <unclear reason="undefined" cert="high">غير</unclear> <unclear reason="undefined" cert="high">موضع</unclear> فواللّه فإن يكن ذالك 
+ <lb n="recto 8"/>  حفظك اللّه البيع بأقصا الثّمن لا 
+ <lb n="recto 9"/>  يريد إلّا أن تنظر ما يپسوا فيعطناه به 
+ <lb n="recto 10"/>  فقد كنت أعلمتني أن فيه ثلثة أرباع فدّان 
+ <lb n="recto 11"/>  وزعم لي أبو يزيد إنّما فيه نصف فدّان 
+ <lb n="recto 12"/>  فأعلمني مع رسولي كم غايتك الّتي لا تنقص 
+ <lb n="recto 13"/>  <unclear reason="undefined" cert="high">فإنّي</unclear> <unclear reason="undefined" cert="high">مشغول</unclear> <unclear reason="undefined" cert="high">عن</unclear> <unclear reason="undefined" cert="high">الرّكوب</unclear> <unclear reason="undefined" cert="high">وما</unclear> <unclear reason="undefined" cert="high">لك</unclear> <unclear reason="undefined" cert="high">صحاح</unclear> 
+ <lb n="recto 14"/>  <unclear reason="undefined" cert="high">جنان</unclear> <unclear reason="undefined" cert="high">وإنّما</unclear> <unclear reason="undefined" cert="high">أحببت</unclear> <unclear reason="undefined" cert="high">سرپه</unclear> <unclear reason="undefined" cert="high">مكان</unclear> <unclear reason="undefined" cert="high">الفدادين</unclear> 
+ <lb n="recto 15"/>  الّتي ابيعت فقد كنت أعلمتني أنّك 
+ <lb n="recto 16"/>  أعطيت مائتي دينار أو مائتي دينار ونيّف أو عسى 
+ <lb n="recto 17"/>  أن يكون أعطاك من بجاد ولا حريص ولو 
+ <lb n="recto 18"/>  طلبت ذلك لم يتم لك فإن كنت تحسن وتقف على 
+ <lb n="recto 19"/>  الثّمن فأعلمنيه مع رسولي حتّى أركب على أمر بيّن 
+ <lb n="recto 20"/>  إن شا اللّه حفظك اللّه وعافاك وتمّت 
+ <lb n="verso 1"/>  لأبي حميد من أبي محمّد 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʿāfā ka 
+ <lb n="3"/>ʾin nī laqaytu ʾabā yazīda kātiba ăl qāḍi fa ḏakara 
+ <lb n="4"/>l ī ǧināna ka ăn naḫli fa ḏakara ʾanna ka baḏalta hu la hu bi ḫamsīna wa miʾaẗi 
+ <lb n="5"/>dīnār:in wa ʾanna hu lā yaswā fa ẓanantu ʾanna kalāma hu ḏālika li mā kāna min ka 
+ <lb n="6"/>fī ʾamri ăd dāri ăllatī hudimat wa qad ʾašrafat 
+ <lb n="7"/>ʿalà ġayri mawḍiʿ:in fa wa ăl lāhi fa ʾin yakun ḏālika 
+ <lb n="8"/>ḥafiẓa ka ăl lāhu ăl bayʿu bi ʾaqṣā ăṯ ṯamani lā 
+ <lb n="9"/>yurīdu ʾillā ʾan tanẓura mā yastawā fa yuʿṭi nā hu bi hi 
+ <lb n="10"/>fa qad kunta ʾaʿlamta nī ʾanna fī hi ṯalāṯaẗu ʾarbāʿi faddān:in 
+ <lb n="11"/>wa zaʿama l ī ʾabū yazīda ʾinnamā fī hi niṣfu faddān:in 
+ <lb n="12"/>fa ʾaʿlim nī maʿa rasūl ī kam ġāyatu ka ăllatī lā tanquṣu tunqaṣu 
+ <lb n="13"/>fa ʾin nī mašġūl:un ʿani ăr rukūbi wa mā la ka ṣaḥāḥu 
+ <lb n="14"/>ǧanān:in ǧinān:in wa ʾinnamā ʾaḥbabtu srBh makān ăl fadādīni 
+ <lb n="15"/>ăllatī bīʿat fa qad kunta ʾaʿlamta nī ʾanna ka 
+ <lb n="16"/>ʾuʿṭīta miʾatay dīnār:in ʾaw miʾatay dīnār:in wa nayyif ʾaw ʿasà 
+ <lb n="17"/>ʾan yakūna ʾaʿṭā ka man bǧʾd wa lā ḥarīṣ wa law 
+ <lb n="18"/>ṭalabta ḏālika lam yatimmi la ka fa ʾin kunta taḥsunu wa taqifu ʿalà 
+ <lb n="19"/>ăṯ ṯamani fa ʾaʿlim nī hi maʿa rasūl ī ḥattà ʾarkaba ʿalà ʾamr:in bayyin:in 
+ <lb n="20"/>ʾin šāʾa ăl lāhu ḥafiẓa ka ăl lāhu wa ʿāfā ka wa tammat 
+ <lb n="21"/>li ʾabī ḥumayd:in min ʾabī muḥammad:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément miséricordieux.
+		 <lb n="2"/>
+ 	  Dieu te protège et te conserve en bonne santé.
+		 <lb n="3"/>
+ 	  J&#039;ai rencontré Abu Yazīd, le secrétaire du Cadi, et il m&#039;a parlé
+		 <lb n="4"/>
+ 	  de ta palmeraie, il m&#039;a dit que tu la lui proposais pour 150
+		 <lb n="5"/>
+ 	  dinars, et que cela n&#039;était pas équitable. Je pense que si tu as dit cela c&#039;est à cause
+		 <lb n="6"/>
+ 	  de ton affaire de la maison qui a été détruite et n&#039;occupe presque
+ 	  de ton affaire de la maison qui a été détruite et qui n&#039;a presque
+		 <lb n="7"/>
+ 	  plus de place (?), et par Dieu (il veut dire que tu as envisagé)
+ 	  plus de raison d&#039;être (?), et par Dieu (il veut dire que tu as envisagé)
+		 <lb n="8"/>
+ 	  - Dieu te protège - la vente pour une valeur excessive,
+		 <lb n="9"/>
+ 	  il veut seulement que tu reconsidères ce qu&#039;elle vaut, et il nous le donnera.
+		 <lb n="10"/>
+ 	  Tu m&#039;avais fait savoir qu&#039;elle comprenait 3/4 de feddān,
+		 <lb n="11"/>
+ 	  mais Abū Yazīd affirme qu&#039;elle n&#039;en a qu&#039;1/2.
+		 <lb n="12"/>
+ 	  Fais-moi savoir par mon envoyé quel est (le prix) extrême que tu ne diminueras pas,
+		 <lb n="13"/>
+ 	  car je suis trop occupé pour me rendre auprès de toi, et quel est pour toi le vrai fond
+		 <lb n="14"/>
+ 	  de coeur (??). Je voudrais bien .... le lieu (des faddāns)
+		 <lb n="15"/>
+ 	  qui ont été vendus, car tu m&#039;as fait savoir que l&#039;on
+		 <lb n="16"/>
+ 	  t&#039;avait donné 200 dinars au moins, et peut-être
+		 <lb n="17"/>
+ 	  que celui qui te l&#039;avait donné était ..... (et pas avide?), et si
+		 <lb n="18"/>
+ 	  tu demandes cela tu ne concluras rien; et si tu penses que c&#039;est bon et que tu tiens ferme
+		 <lb n="19"/>
+ 	  sur la valeur, fais-le moi savoir par mon envoyé, afin que je m&#039;engage dans une affaire claire,
+		 <lb n="20"/>
+ 	  si Dieu le veut, qu&#039;Il te protège et te garde en santé. Fin.
+		 <lb n="21"/>
+ 	  À Ḥumayd, d&#039;Abū Muḥammad.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

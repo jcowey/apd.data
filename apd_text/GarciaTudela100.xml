@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2054" xml:id="GarciaTudela100" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 8 (= P.Garcia-ArenalTudelaTarazona 10)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">GarciaTudela100</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على محمّد وعلى آله وسلّم تسليما 
+<lb n="2"/>  عاوض دون ريمند البريور وجميع أقسّة تطيلة مع صاحب الصّلاة سلمة بن غالب بأن دفع البريور وجميع المذكورين فدّان وجنان في منت أقوت وهي الفدّان في حومة رنيانقه 
+<lb n="3"/>  الملاصقة بفدّن حيل دمراليش وفي الجهة الثّانية فدّان سلمة المذكور وفي الجهتين الطّريقين والجنان المذكور في ساقية قنالش يلصق كرم ببين وفي الجهة الثّانية فدّان سنت <supplied reason="omitted" cert="high">مريّة</supplied> 
+<lb n="4"/>  وفي الجهتين سلمة المذكور دفعوا له هذه الموصوفين بجميع منافعهما ومرافقهما وبالدّخول إليهما والخروج عنهما وبكل حق لهم فيهما <app type="BL"><lem resp="APD">إلى </lem><rdg resp="García-Arenal">إل</rdg></app> الأبد وكذلك دفع سلمة المذكور 
+<lb n="5"/>  لدون رمند المذكور وجميع أفسة عوضا فدّانين اثنين في حومة فنبياله تلصق <app type="BL"><lem resp="APD">وجوه </lem><rdg resp="García-Arenal">واحدة</rdg></app> فدّان رنصش بالش وفي الجهة الثّانية فدّان سنت مريّة وفي الجهة الثّالثة السّاكية والفدّان 
+<lb n="6"/>  الثّاني يلصق سعيد بن غالب وفي الجهة الثّانية فدّان سنت مريّة وفي <app type="BL"><lem resp="APD">الثّانية </lem><rdg resp="García-Arenal">الثّالثة</rdg></app> السّاكية بجميع منافع هذه الموضعين ومرافقهما وبالدّخول إليهما والخروج عنهما وبكل حق له فيهما 
+<lb n="7"/>  داخل وخارج <app type="BL"><lem resp="APD">إلى </lem><rdg resp="García-Arenal">إل</rdg></app> الأبد وعاوضوا الجميع لهذه المعاوضة ودفع دون ريمند وجميع الأقسّة لصاحب الصّلاة المذكور ضامن عن تصحيح المعاوضة لدون غليام شقرشتان 
+<lb n="8"/>  أن ما قام <app type="BL"><lem resp="APD">قائم </lem><rdg resp="García-Arenal">قايم</rdg></app> يعترضه فالدّرك عليه وعلى هذه الوجه دفع سلمة المذكور لدون ريمند ولجميع الأقسّة ضامن عن تصحيح المعاوضة لمحمّد بن طوريال أن ما قام 
+<lb n="9"/>  <app type="BL"><lem resp="APD">قائم </lem><rdg resp="García-Arenal">قايم</rdg></app> يعترضهم فالدّرك عليه على عادة البلد وأشهد على ذلك من سمعه منهم وعرفهم وذلك في شهر رجب الفرد الموافق لشهر أغست الّذي 
+<lb n="10"/>  من سنة تسع عشرة <app type="BL"><lem resp="APD">وستّمائة </lem><rdg resp="García-Arenal">وستّ</rdg></app> <app type="BL"><lem resp="APD">عبد </lem><rdg resp="García-Arenal">ماية</rdg></app> الملك بن احمد بن محمد البحينى ومن النصارة دون اندرا وجأنتوه ودون مكال دششقار الكاتب كتب عنهما 
+<lb n="11"/>  بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà muḥammad:in wa ʿalà ʾāli hi wa sallama taslīm:an 
+ <lb n="2"/>ʿāwaḍa dūn raymundu ăl biryūru wa ǧamīʿu ʾaqissaẗi tuṭīlaẗa maʿa ṣāḥibi ăṣ ṣalāẗi salmaẗa bni ġālib:in bi ʾan dafaʿa ăl biryūru wa ǧamīʿu ăl maḏkūrīna faddān wa ǧinān fī munti ʾaqūta wa hiya ăl faddānu fī ḥawmaẗi raniyānquha 
+ <lb n="3"/>ăl mulāṣiqaẗu bi faddani ḥīl:in di mirālyaša wa fī ăl ǧihaẗi ăṯ ṯāniyaẗi faddānu salmaẗa ăl maḏkūri wa fī ăl ǧihatayni ăṭ ṭarīqayni wa ăl ǧinānu ăl maḏkūru fī sāqiyaẗi qanāliša yalṣaqu karma babīna wa fī ăl ǧihaẗi ăṯ ṯāniyaẗi faddāna santa mariyyaẗa 
+ <lb n="4"/>wa fī ăl ǧihatayni salmaẗa ăl maḏkūra dafaʿū la hu hāḏihi ăl mawṣūfayni bi ǧamīʿi manāfiʿi himā wa marāfiqi himā wa bi ăd duḫūli ʾilay himā wa ăl ḫurūǧi ʿan humā wa bi kulli ḥaqq:in la hum fī himā ʾilà ʾila ăl ʾabadi wa kaḏālika dafaʿa salmaẗu ăl maḏkūru 
+ <lb n="5"/>li dūn ramunda ăl maḏkūri wa ǧamīʿi ʾaqissaẗ:in ʿiwaḍ:an faddānayni ĭṯnayni fī ḥawmaẗi qanbiyālluha talṣaqu wuǧūha wāḥidaẗ:un faddāna faddāni runṣiša bāliša wa fī ăl ǧihaẗi ăṯ ṯāniyaẗi faddāna santa mariyyaẗa wa fī ăl ǧihaẗi ăṯ ṯāliṯaẗi ăs sākiyaẗa wa ăl faddānu 
+ <lb n="6"/>ăṯ ṯānī yalṣaqu saʿīda bna ġālib:in wa fī ăl ǧihaẗi ăṯ ṯāniyaẗi faddāna santa mariyyaẗa wa fī ăṯ ṯāniyaẗi ṯāliṯaẗi ăs sākiyaẗa bi ǧamīʿi manāfiʿi hāḏihi ăl mawḍiʿayni wa marāfiqi himā wa bi ăd duḫūli ʾilay himā wa ăl ḫurūǧi ʿan humā wa bi kulli ḥaqq:in la hu fī himā 
+ <lb n="7"/>dāḫil wa ḫāriǧ ʾilà ʾila ăl ʾabadi wa ʿāwaḍū ăl ǧamīʿa li hāḏihi ăl muʿāwaḍaẗi wa dafaʿa dūn raymundu wa ǧamīʿu ăl ʾaqissaẗi li ṣāḥibi ăṣ ṣalāẗi ăl maḏkūri ḍāmin ʿan taṣḥīḥi ăl muʿāwaḍaẗi li dūn ġilyāma šaqrištāna 
+ <lb n="8"/>ʾanna mā qāma qāʾim:un qāyim:un yaʿtariḍu hu fa ăd daraku ʿalay hi wa ʿalà hāḏihi ăl waǧhi dafaʿa salmaẗu ăl maḏkūru li dūn raymunda wa li ǧamīʿi ăl ʾaqissaẗi ḍāmin ʿan taṣḥīḥi ăl muʿāwaḍaẗi li muḥammadi bni ṭūriyāla ʾanna mā qāma 
+ <lb n="9"/>qāʾim:un qāyim:un yaʿtariḍu hum fa ăd daraku ʿalay hi ʿalà ʿādaẗi ăl baladi wa ʾašhada ʿalà ḏālika man samiʿa hu min hum wa ʿarafa hum wa ḏālika fī šahri raǧab:ini ăl fardi ăl muwāfiqi li šahri ʾaġusta ăllaḏī 
+ <lb n="10"/>min sanaẗi tisʿa ʿašraẗa wa sitti miʾaẗ:in ø ø miyaẗ:in ʿabdu ăl maliki bnu ʾaḥmada bni muḥammad:ini ăl baḥīniyyu wa mina ăn naṣāraẗi dūn ʾandrā waǧāntūh:un wa dūn mikālu di šišqāra ăl kātibu kutiba ʿan himā 
+ <lb n="11"/>bi ʾamri himā 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

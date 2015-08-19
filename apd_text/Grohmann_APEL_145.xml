@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="362" xml:id="Grohmann_APEL_145" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 145</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_145</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106590</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم الـ<supplied reason="lost" cert="high">ـلّه</supplied> الرّحمن <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم 
+ <lb n="2"/>  هذا كتاب من عيسى بن نصير سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <gap reason="illegible" extent="2" unit="character" /> لا<gap reason="illegible" precision="low" extent="3"/> كپپه لعمران پن محمد اپك سألنّپى وطلپپ الى إ<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  وهرور ممّا باسم محمّد بن يحيى بن عمران ثلث سنين أوّلهن سنة إحدى وسبـ<supplied reason="lost" cert="high">ـعين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> <supplied reason="lost" cert="high">وآخرهنّ</supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+ <lb n="5"/>  ثلث وسبعينن ومائتن المنسوبة إلى سنة أربع وسبعين ومائتن بمائة وخمسـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">وثلثين</supplied> <supplied reason="lost" cert="high">دينر</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="6"/>  حساب لكل سنة خمسة وأربعين دينرا وازنا نقد بيت المال <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="7"/>  ويزرع من أحببت ويسني مـ<supplied reason="lost" cert="high">ـن</supplied> شئت <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا <gap reason="illegible" extent="1" unit="character" />و<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min ʿīsà bni nuṣayr:in s*** 
+ <lb n="3"/>** lʾ** *** kataba hu li ʿimrāna bni muḥammad:in ʾanna ka saʾalta nī wa ṭalabta ʾilay ya ʾan *** 
+ <lb n="4"/>wa hurūra mimmā bi ĭsmi muḥammadi bni yaḥyà bni ʿimrāna ṯalāṯa sinīna ʾawwalu hunna sanaẗu ʾiḥdà wa sabʿīna wa miʾatayni wa ʾāḫiru hunna sanaẗu 
+ <lb n="5"/>ṯalāṯ:in wa sabʿīna wa miʾatayni ăl mansūbaẗ ʾilà sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni bi miʾaẗ:in wa ḫamsaẗ:in wa ṯalāṯīna dīnār **** 
+ <lb n="6"/>ḥisāb:un li kulli sanaẗ:in ḫamsaẗ:un wa ʾarbaʿīna dīnār:an wāzin:an naqda bayti ăl māli **** 
+ <lb n="7"/>wa yazraʿu man ʾaḥababta wa yasnī man šiʾta ***ʾ *w*** 
+ <lb n="8"/>*** * *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of Go[d], the Compassionate, [the] Merciful.
+		 <lb n="2"/>
+ 	  This is a document from ʿĪsâ b. Nuṣair ...[
+		 <lb n="3"/>
+ 	  ......[.........] which he wrote for ʿImrân b. Muḥammad. Verily thou hast asked and petitioned [that I lease unto thee ....................
+		 <lb n="4"/>
+ 	  and Hurûr, from what is known under the name of Muḥammad b. Yaḥyâ b. ʿImrân, for three years, the first of which is the year [two hundred] and seven[ty] one [and the last the year]
+		 <lb n="5"/>
+ 	  two hundred and seventy three, referring to the year two hundred and seventy four, for hundred ande [thirty] fiv[e dînârs ............]
+		 <lb n="6"/>
+ 	  reckoning each year at forty five dînârs full weight Treasury money, [
+		 <lb n="7"/>
+ 	  and there may cultivate it whoever thou willest, and there may irrigate it who[soever] thou pleaesest [........] ......[............]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

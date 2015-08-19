@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2109" xml:id="SijpesteijnArmy" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SijpesteijnArmyEconomics</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">SijpesteijnArmy</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  فلا يعدمنا اللّه حياتك <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="2"/>  وكتبت إلي أن أكتب إليك بخبر الأمير وما فعل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  فأخبر أنّه قد دخل على أمير المومپپن فرأ منه القبول <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  قدم أعلمتك ذلك إن شا اللّه وكتبت إلي أن أكـ<supplied reason="lost" cert="high">ـتب</supplied> <supplied reason="lost" cert="high">إليك</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فلا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  الرّبع شاي حتّى يكون خروج البعث فپپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وقد خرج عطا العيال فقد قبض النّاس عطا<supplied reason="lost" cert="high">هم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  فكيف ترا في عطا عيالك فإنّهم مساكين محـ<supplied reason="lost" cert="high">ـتاجون</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  فعجّل إلى قبض عطا عيالك فإنّه لم تبق أعـ<supplied reason="lost" cert="high">ـطية</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ولو لا أنّي أكره الضّمان لقبضته عندي حتّى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  الّذي منعني من ذلك اكتب إلي بخبرك وحـ<supplied reason="lost" cert="high">ـالك</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإنّي</supplied> 
+<lb n="11"/>  أحب ذلك وأسر به اللّه يعلم دفع اللّه عـ<supplied reason="lost" cert="high">ـنك</supplied> <supplied reason="lost" cert="high">وعنّا</supplied> <supplied reason="lost" cert="high">السّو</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والسّلم</supplied> 
+<lb n="12"/>  عليك ورحمت اللّه وكتب يوم الخميس ليلـ<supplied reason="lost" cert="high">ـة</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">خلوت</supplied> </lem><rdg resp="APD">مضيت</rdg></app> <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  وقد كنت كتبت إليك مع بصير وبعثت معه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  وقد قدم من عمّال الشّام ثلثة نفر منهم معا<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  أهل الپورن فقد حبسوا في البحر الأعـ<supplied reason="lost" cert="high">ـلى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  البعوث بعد وهي قادمة وخارجة <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fa lā yuʿdim nā ăl lāhu ḥayāta ka *** *** *** *** *** ** 
+ <lb n="2"/>wa katabta ʾilay ya ʾan ʾaktuba ʾilay ka bi ḫabari ăl ʾamīri wa mā faʿala *** 
+ <lb n="3"/>fa ʾaḫbara ʾuḫbiru ʾanna hu qad daḫala ʿalà ʾamīri ăl muʾminīna fa raʾa min hu ăl qubūla *** 
+ <lb n="4"/>qadima ʾaʿlamtu ka ḏālika ʾin šāʾa ăl lāhu wa katabta ʾilay ya ʾan ʾaktuba ʾilay ka *** fa lā *** 
+ <lb n="5"/>ăr rubʿ šāy ḥattà yakūna ḫurūǧu ăl baʿṯi fa BB* *** 
+ <lb n="6"/>wa qad ḫaraǧa ʿaṭāʾu ăl ʿiyāli fa qad qabaḍa ăn nāsu ʿaṭāʾa hum *** 
+ <lb n="7"/>fa kayfa tarā fī ʿaṭāʾi ʿiyāli ka fa ʾinna hum masākīnu muḥtāǧūna *** 
+ <lb n="8"/>fa ʿaǧǧil ʾilà qabḍi ʿaṭāʾi ʿiyāli ka fa ʾinna hu lam tabqa ʾaʿṭiyaẗ:un *** 
+ <lb n="9"/>wa law lā ʾan nī ʾakrahu ăḍ ḍamāna la qabaḍtu hu ʿind ī ḥattà *** 
+ <lb n="10"/>ăllaḏī manaʿa nī min ḏālika ŭktub ʾilay ya bi ḫabari ka wa ḥāli ka *** fa ʾin nī 
+ <lb n="11"/>ʾuḥibbu ḏālika wa ʾusarru bi hi ăl lāhu yaʿlamu dafaʿa ăl lāhu ʿan ka wa ʿan nā ăs sūʾa *** wa ăs salāmu 
+ <lb n="12"/>ʿalay ka wa raḥmatu ăl lāhi wa kutiba yawma ăl ḫamīsi laylaẗ:an ḫalawt maḍayt min *** 
+ <lb n="13"/>wa qad kuntu katabtu ʾilay ka maʿa baṣīr:in wa baʿaṯtu maʿa hu *** 
+ <lb n="14"/>wa qad qadima min ʿummāli ăš šāmi ṯalāṯaẗu nafar:in min hum mʿā** *** 
+ <lb n="15"/>ʾahl ăl Bwrni fa qad ḥubisū fī ăl baḥri ăl ʾaʿlà *** 
+ <lb n="16"/>ăl buʿūṯ baʿdu wa hiya qādimaẗ:un wa ḫāriǧaẗ:un *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		may God not deprive us of your life [ ...
+			<lb n="2"/>
+		You wrote to me (asking) that I write to you with the news of the amīr and what he has done [ ...
+			<lb n="3"/>
+		He reported that he has gone to the amīr al-muʾminīn and that he received an audience [ ... and if so-and-so/something
+			<lb n="4"/>
+		arrives, I will let you know, God willing. And you wrote to me (asking) that I in[form you ... Do not ...
+			<lb n="5"/>
+		the quarter (rubʿ) anything until the dispatch of the army. And ..[...
+			<lb n="6"/>
+		and the ʿaṭāʾ for the families has already been given out and the people have already received their ʿaṭāʾ [...
+			<lb n="7"/>
+		Don&#039;t you think you should do something about (lit. &#034;So what do you think about.&#034;) the ʿaṭāʾ of your families since they are poor and nee[dy ...
+			<lb n="8"/>
+		and hurry to receive the ʿaṭāʾ for your families for there are (almost) none left [...
+			<lb n="9"/>
+		If I did not dislike the ḍamān (so much), I would have collected it myself (lit. &#034;received it here.&#034;) until [ ...
+			<lb n="10"/>
+		which prevents me from that. Write me with your news and your [condition for
+			<lb n="11"/>
+		I like that and it pleases me, God knows. May God ward off from y[ou and from us evil ... And peace be
+			<lb n="12"/>
+		upon you and God&#039;s mercy. I was written ond Thursday with one ni[ght remaining/having passed of the month of ...
+			<lb n="13"/>
+		I have sent you already a letter with Baṣīr and I sent with him [ ...
+			<lb n="14"/>
+		And from among the tax officials of Syria (ʿummāl al-Shām) three persons have arrived amongst whom ..[...
+			<lb n="15"/>
+		The people of the ... and they have been kept at the high sea (Mediterranean) [...
+			<lb n="16"/>
+		the expeditionary forces afterwards and they are coming and going (moving back and forth) [ ...
+</ab></div>
+</body>
+</text>
+</TEI>

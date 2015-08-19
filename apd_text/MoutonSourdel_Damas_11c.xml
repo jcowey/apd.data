@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2336" xml:id="MoutonSourdel_Damas_11c" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MariageSeparation 11c</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdel_Damas_11c</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم اعترفت عائشة بنت عبد الحليم ابن 
+<lb n="2"/>  <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">طالب</supplied> أنّها قبضت من علي بن محمّد الهوّاري المذكور في الأعلى من هذا 
+<lb n="3"/>  الكتاب بقيّة مهرها الّذي لها عليه وأبرأته من جميعه براأة ثابتة 
+<lb n="4"/>  صحيحة وأشهدت له بذلك على نفسها وهي بحال الصّحّة وجواز 
+<lb n="5"/>  <supplied reason="lost" cert="high">الأمر</supplied> بتاريخ آخر جمادى الآخرة من سنة سبع وثمانين 
+<lb n="6"/>  <supplied reason="lost" cert="high">وأر</supplied>بعـمائة شهد بـذلك شهود <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭʿtarafat ʿāʾišaẗu bintu ʿabdi ăl ḥalīmi ĭbni 
+ <lb n="2"/>ʾabī ṭālib:in ʾanna hā qabaḍat min ʿaliyyi bni muḥammad:ini ăl hawwāriyyi ăl maḏkūri fī ăl ʾaʿlà min hāḏā 
+ <lb n="3"/>ăl kitābi baqiyyaẗa mahri hā ăllaḏī la hā ʿalay hi wa ʾabraʾat hu min ǧamīʿi hi barāʾaẗ:an ṯābitaẗ:an 
+ <lb n="4"/>ṣaḥīḥaẗ:an wa ʾašhadat la hu bi ḏālika ʿalà nafsi hā wa hiya bi ḥāli ăṣ ṣiḥḥaẗi wa ǧawāzi 
+ <lb n="5"/>ăl ʾamri bi tārīḫi ʾāḫiri ǧumādà ăl ʾāḫiraẗi min sanaẗi sabʿ:in wa ṯamānīna 
+ <lb n="6"/>wa ʾarbaʿi miʾaẗ:in šahida bi ḏālika šuhūdu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux, ʿĀʾyša, fille de ʿAbd al-Ḥalīm b.
+			<lb n="2"/>
+		[Abī Ṭālib], reconnaît qu&#039;elle a reçu, venant de ʿAlī b. Muḥammad le blanchisseur de toiles (al-hawwārī) mentionné plus haut dans ce
+			<lb n="3"/>
+		document, la partie restante de la dot (baqiyyat mahr) qui lui était due. Elle a donné de l&#039;ensemble quittance régulière
+			<lb n="4"/>
+		et valide. Elle a fait témoigner de cela à ses propres dépens et en sa faveur à lui, alors qu&#039;elle était en bonne santé et en état de capacité
+			<lb n="5"/>
+		[juridique] à la date de la fin de ǧumādā II de l&#039;année 487 (mi-juillet 1094).
+			<lb n="6"/>
+		Ont témoigné de cela les témoins ...
+</ab></div>
+</body>
+</text>
+</TEI>

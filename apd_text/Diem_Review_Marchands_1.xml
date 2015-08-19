@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2591" xml:id="Diem_Review_Marchands_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.DiemReviewMarchands I p. 276</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Review_Marchands_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  إلى موسى ويخلص هذين الشّيخين فـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  وتسرّني بذلك إن شا اللّه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  جعلت فداـك وأطال اللّه بقاك <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  وزاد في إحـ<supplied reason="lost" cert="high">ـسانـه</supplied> <supplied reason="lost" cert="high">إليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾilà mūsà wa yuḫliṣu hāḏayni ăš šayḫayni fa *** 
+ <lb n="2"/>wa tasurru nī bi ḏālika ʾin šāʾa ăl lāhu *** 
+ <lb n="3"/>ǧuʿiltu fidā ka wa ʾaṭāla ăl lāhu baqāʾa ka *** 
+ <lb n="4"/>wa zāda fī ʾiḥsāni hi ʾilay ka *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  an Mūsā, und er errettet die beiden Greise, so daß (der) und [
+		 <lb n="2"/>
+ 	  und Du erfreust mich damit, so Gott will [
+		 <lb n="3"/>
+ 	  möge ich zu Deinem Lösegeld gemacht werden und möge Gott Dich lange leben lassen [
+		 <lb n="4"/>
+ 	  und gewähre [Dir] noch mehr Gn[ade
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

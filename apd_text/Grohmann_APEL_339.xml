@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1835" xml:id="Grohmann_APEL_339" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 339</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_339</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169572</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّك</supplied> وكرامتك وتأييدك وسعادتك 
+<lb n="3"/>  <supplied reason="lost" cert="high">وأتـ</supplied>ـم نعمته عليك وزاد في إحسانه إليك <app type="BL"><lem resp="APD">ونحمد </lem><rdg resp="Diem">وعمّك</rdg></app> بذلك في الدّنيا والآخرة برحمته كتابي إليك 
+<lb n="4"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>ردك </lem><rdg resp="Diem">وأنا</rdg></app> بحال عافية والحمد للّه رب العالمين كثيرا لا شريك له وبعد أعزّك اللّه 
+<lb n="5"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">قـ</supplied>ـد </lem><rdg resp="Diem">فقد</rdg></app> كتبت إليك كتابين لم أرا لهما جواب وآخر ما كتبت إليك 
+<lb n="6"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">به</rdg></app> كتبين ولم أرا لواحدة منهما جواب أو <app type="BL"><lem resp="APD">ثلثة </lem><rdg resp="Diem">ثلثة</rdg></app> وكتابك وعلم 
+<lb n="7"/>  <supplied reason="lost" cert="high">خـ</supplied>ـبرك ممّا أسر به فلا تقطعني من كتابك بعلم خبرك وجميع حوائجك 
+<lb n="8"/>  <supplied reason="lost" cert="high">وبـ</supplied>ـعد أعزّك اللّه فقد توجّه إلى ما قبلك إبرهيم النّوتي القوصي 
+<lb n="9"/>  <supplied reason="lost" cert="high">فا</supplied>نظر أعزّك اللّه أن تأمر <app type="BL"><lem resp="APD">بمن </lem><rdg resp="Diem “conjecture”">من</rdg></app> يحمل إلى مركبه مائة جرّة وسبعة اعشر جرّة 
+<lb n="10"/>  <supplied reason="lost" cert="high">أ</supplied>حسن اللّه جزاك وكثّر نعمتك والسّلم 
+<lb n="11"/>  <supplied reason="lost" cert="high">و</supplied>الكتاب إلي بخبرك وحالك وجميع حوائجك 
+<lb n="12"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وتأييدك وسعادتك 
+<lb n="verso 1"/>  لأبي عبد اللّه أطال اللّه بقاه وأدام عزّه من أحـ<supplied reason="lost" cert="high">ـمد</supplied> 
+<lb n="verso 2"/>  بن علي بن عبد الأعلا أيّده اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka 
+ <lb n="3"/>wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ka naḥmadu ʿamma öaskdflkjd bi ḏālika fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi kitāb ī ʾilay ka 
+ <lb n="4"/>warada wa ka ʾanā bi ḥāli ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna kaṯīr:an lā šarīka la hu wa baʿdu ʾaʿazza ka ăl lāhu 
+ <lb n="5"/>ø fa qad katabtu ʾilay ka kitābayni lam ʾarā la humā ǧawāb wa ʾāḫiru mā katabtu ʾilay ka 
+ <lb n="6"/>** bi ø hi kitābayni wa lam ʾarā li wāḥidaẗ:in min humā ǧawāb ʾaw ṯalāṯaẗ:an ṯulṯa hu ø wa kitābu ka wa ʿilmu 
+ <lb n="7"/>ḫabari ka mimmā ʾusarru bi hi fa lā taqṭaʿ nī min kitābi ka bi ʿilmi ḫabari ka wa ǧamīʿi ḥawāʾiǧi ka 
+ <lb n="8"/>wa baʿdu ʾaʿazza ka ăl lāhu fa qad tawaǧǧaha ʾilà mā qibala ka ʾibrāhīmu ăn nūtiyyu ăl qūṣiyyu 
+ <lb n="9"/>fa ŭnẓur ʾaʿazza ka ăl lāhu ʾan taʾmura bi ø man yaḥmilu ʾilà markabi hi miʾaẗa ǧarraẗ:in wa sabʿaẗa ĭʿšara ǧarraẗ:an 
+ <lb n="10"/>ʾaḥsana ăl lāhu ǧazāʾa ka wa kaṯṯara naʿmata ka wa ăs salāmu 
+ <lb n="11"/>wa ăl kitābu ʾilay ya bi ḫabari ka wa ḥāli ka wa ǧamīʿi ḥawāʾiǧi ka 
+ <lb n="12"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka 
+ <lb n="13"/>li ʾabī ʿabdi ăl lāhi ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu min ʾaḥmada 
+ <lb n="14"/>bni ʿaliyyi bni ʿabdi ăl ʾaʿlā ʾayyada hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of G]od, the Compassionate, the Merciful.
+			<lb n="2"/>
+		[May God prolong your life and may He cause your might,] honour, strength and happiness to continue
+			<lb n="3"/>
+		[and may He fulfil His loving kindness unto you and may He increase His bounty unto you, and we praise (God) therefor in this world and in the world to come in His mercy. My letter to you
+		.... und Er gewähre Dir dies umfassend im Diesseits und Jenseits in seiner Gnade. Ich schreibe Dir,
+			<lb n="4"/>
+		[may re]ach you in the state of health, and praise be often to God, the lord of all created beings, who has no associate. And thereafter - may God exalt you -
+		[wobei] ich im Zustand der Gesundheit bin. ... Aber danach - Gott stärke Dich -,
+			<lb n="5"/>
+		I have [al]ready written to you two letters, to neither of which did I see any reply, and again lately I have written to you
+		[so] habe ich Dir (bereits) zwei (andere) Briefe geschrieben, auf die ich keine Antwort gesehen (d.h. erhalten) habe, und das letzte, [was] ich Dir geschrieben habe,
+			<lb n="6"/>
+		sind zwei Briefe - ich habe auf keinen einzigen von ihnen eine Antwort gesehen - oder drei. ...
+		two letters, but to neither of them have I seen any reply, nor to a third, although a letter from you and information giving
+			<lb n="7"/>
+		[ne]ws about you would be something about which I would be glad. So do not deprive me of your letter giving news about you and all your needs.
+			<lb n="8"/>
+		[And there]after - may God exalt you - now Ibrahîm, the sailor, originating from Qûṣ, has already departed to you.
+			<lb n="9"/>
+		[So s]ee - may God exalt you - that you intrust somebody who transports to his ship one hundred jars and seventeen jars.
+			<lb n="10"/>
+		May God give you a nice recompense and may He increase your well-being, and now salutation.
+			<lb n="11"/>
+		[And] the letter for me, giving me news about you and your condition and all your needs.
+			<lb n="12"/>
+		May God prolong your life and may He cause your might, honour, strength and happiness to continue.
+			<lb n="13"/>
+		To Abû ʿAbdallâh - may God prolong his life and may He cause his might to continue - from Aḥ[mad]
+			<lb n="14"/>
+		b. ʿAlî b. ʿAbd al-Aʿlâ whom may God strengthen.
+</ab></div>
+</body>
+</text>
+</TEI>

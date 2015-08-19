@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1488" xml:id="Sijpesteijn_TravelandTrade" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SijpesteijnTravel</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Sijpesteijn_TravelandTrade</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169266</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="24" unit="character" /> <supplied reason="lost" cert="high">ر</supplied>كبنا من دحميط 
+<lb n="2"/>  <supplied reason="lost" cert="high">ووصلنا</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">ا</supplied>لسّيلـ<supplied reason="lost" cert="high">ـة</supplied> يوم الخميس وجئنا الفسطاط ليلة الأحد 
+<lb n="3"/>  واستهل علينا الهلال ليلة الأحد بالفسطاط ثم سرنا 
+<lb n="4"/>  إلى رشيد سبع فبلغ كراي من رشيد إلى الإسكندريّة 
+<lb n="5"/>  دينر إلّا نصف قيراط فلمّا قدمنا الإسكندريّة مكثنا 
+<lb n="6"/>  بها جمعة ثم عرضنا يوم الاثنين <app type="BL"><lem resp="APD">فأجار </lem><rdg resp="APD">فأجاز</rdg></app> اللّه عرضنا 
+<lb n="7"/>  والحمد للّه انظر يأبا الحرث أن <app type="BL"><lem resp="APD">تعزّر </lem><rdg resp="APD">تعرّر</rdg></app> إلي يحنّس 
+<lb n="8"/>  ا<gap reason="illegible" extent="2" unit="character" /> الشّيخ في قمح الطّحونة وتغربلـ<supplied reason="lost" cert="high">ـه</supplied> وخذه وإذا كان 
+<lb n="9"/>  كل أحد فابعث زيد فليكيله كل أحد وأمر سنبا 
+<lb n="10"/>  لا يغفل من تعويض الحقل وإن استطعت أن تأخذ 
+<lb n="11"/>  لي الأرض الّذي ذكرت من أرض بلتوس بن بيهويه 
+<lb n="12"/>  إن رأيت ذاك أو تقول ليحنّس بن سويرس فإنّه قد 
+<lb n="13"/>  أوعدني بعشرة فدادين وقد بلغني الّذي بعثت به 
+<lb n="14"/>  مع أبو جمعة أسل اللّه لنا ولك بالعافية في 
+<lb n="15"/>  الدّنيا والآخرة وأتم علينا وعليك نعمته وأدخلنا 
+<lb n="16"/>  وإيّاك الجنّة برحمته كتبت إليك كتابي هذا لثلثة 
+<lb n="17"/>  وعشرون خلون من جمادى الأولى ستّة وعشرين من 
+<lb n="18"/>  بونه وقد بعثت إليك مع راشد ببرذوني صحيح 
+<lb n="19"/>  ليس بظهره بأس فانظر رحمك اللّه أن تبعث به إلي 
+<lb n="20"/>  بعد العصير بشهر فإن راشد <sic n="superfluous">مع</sic> <supplied reason="omitted" cert="high">قد</supplied> أوعدني أن يأتيني به 
+<lb n="21"/>  فإذا بلغتم شهر العصير فليعلف بشعير ما أكل 
+<lb n="22"/>  اقرأ على سنبا السّلم وأوصيه بـ<unclear reason="undefined" cert="high">ـدفاية</unclear> كثيرا واقرأ على أبنوله 
+<lb n="23"/>  كتّابك السّلم كثيرا 
+<lb n="24"/>  والسّلم عليك ورحمت اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>************************ rakibnā min daḥmīṭa 
+ <lb n="2"/>wa waṣalnā ʾilà ăs saylaẗi sīlaẗi yawma ăl ḫamīsi wa ǧiʾnā ăl fusṭāṭa laylaẗa ăl ʾaḥadi 
+ <lb n="3"/>wa ĭstahalla ʿalay nā ăl hilālu laylaẗa ăl ʾaḥadi bi ăl fusṭāṭi ṯumma sirnā 
+ <lb n="4"/>ʾilà rašīda sabʿ fa balaġa kirā ya min rašīda ʾilà ăl ʾiskandariyyaẗi 
+ <lb n="5"/>dīnār ʾillā niṣfa qīrāṭ:in fa lammā qadimnā ăl ʾiskandariyyaẗa makaṯnā 
+ <lb n="6"/>bi hā ǧumʿaẗ:an ṯumma ʿaraḍnā yawma ăli ĭṯnayni fa ʾaǧāra ʾaǧāza ăl lāhu ʿarḍa nā 
+ <lb n="7"/>wa ăl ḥamdu li l lāhi ŭnẓur yā ʾabā ăl ḥāriṯi ʾan tuʿazzira tuʿarrira ʾilay ya yuḥannisa 
+ <lb n="8"/>ʾ** ăš šayḫ fī qamḥi ăṭ ṭāḥūnaẗi wa tuġarbila hu wa ḫuḏ hu wa ʾiḏā kāna 
+ <lb n="9"/>kullu ʾaḥad:in fa ĭbʿaṯ zayd fa la yakīl hu kulla ʾaḥad:in wa ʾmur sanbā 
+ <lb n="10"/>lā yaġful min taʿwīḍi ăl ḥaqli wa ʾini ĭstaṭaʿta ʾan taʾḫuḏa 
+ <lb n="11"/>l ī ăl ʾarḍa ăllaḏī ḏakarta min ʾarḍi bilatūsa bni bīhawīha 
+ <lb n="12"/>ʾin raʾayta ḏāka ʾaw taqūla li yuḥannisa bni sawīrusa fa ʾinna hu qad 
+ <lb n="13"/>ʾawʿada nī bi ʿašaraẗi fadādīna wa qad balaġa nī ăllaḏī baʿaṯta bi hi 
+ <lb n="14"/>maʿa ʾabū ǧumʿaẗa ʾasalu ăl lāha la nā wa la ka bi ăl ʿāfiyaẗi fī 
+ <lb n="15"/>ăd dunyā wa ăl ʾāḫiraẗi wa ʾatamma ʿalay nā wa ʿalay ka niʿmata hu wa ʾadḫala nā 
+ <lb n="16"/>wa ʾiyyā ka ăl ǧannaẗa bi raḥmati hi katabtu ʾilay ka kitāb ī hāḏā li ṯalāṯaẗ:in 
+ <lb n="17"/>wa ʿišrūna ḫalawna min ǧumādà ăl ʾūlà sittaẗ:in wa ʿišrīna min 
+ <lb n="18"/>baʾūnaẗa wa qad baʿaṯtu ʾilay ka maʿa rāšid:in bi birḏawn ī ṣaḥīḥ 
+ <lb n="19"/>laysa bi ẓahri hi baʾs:un fa ŭnẓur raḥima ka ăl lāhu ʾan tabʿaṯa bi hi ʾilay ya 
+ <lb n="20"/>baʿda ăl ʿaṣīri bi šahr:in fa ʾinna rāšid qad ʾawʿada nī ʾan yaʾtiya nī bi hi 
+ <lb n="21"/>fa ʾiḏā balaġtum šahra ăl ʿaṣīri fa la yaʿlaf bi šaʿīr:in mā ʾakala 
+ <lb n="22"/>ĭqraʾ ʿalà sanbā ăs salāma wa ʾawṣī hi bi dafāyaẗa kaṯīr:an wa ĭqraʾ ʿalà ʾabnūlaha 
+ <lb n="23"/>kattābi ka ăs salāma kaṯīr:an 
+ <lb n="24"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		.............. On day X] we embarked from Daḥmīṭ
+			<lb n="2"/>
+		and we arrived in] Sayl[a] on Thursday. We reached Fusṭāṭ on Saturday evening
+			<lb n="3"/>
+		and the full moon appeared to us on Saturday evening in Fusṭāṭ. Then we headed
+			<lb n="4"/>
+		for Rashīd in seven days. And my rental expenses from Rashīd to Alexandria amounted to
+			<lb n="5"/>
+		one dīnār minus half a qīrāṭ. Having arrived in Alexandria, we stayed
+			<lb n="6"/>
+		there for a week. Then we displayed our goods (for sale) on Monday and God supported our display,
+			<lb n="7"/>
+		thanks be to God. Make sure, oh Abū ʾl-Ḥārith, that you help for my sake Yuḥannis
+			<lb n="8"/>
+		.[..] the old man (shaykh) with the wheat of the mill and sift [it] and take it. And when
+			<lb n="9"/>
+		each one is done, then send Zayd and let him measure each one. And order Sanbā
+			<lb n="10"/>
+		not to neglect  to improve the field. And if you are able to, obtain
+			<lb n="11"/>
+		for me the land of Bilatūs b. Bīhawīh&#039;s which you mentioned, (then do so)
+			<lb n="12"/>
+		if you think it a good idea. Or tell Yuḥannis b. Sawīrus (to give it to me), for he has already
+			<lb n="13"/>
+		promised me ten faddāns. And I have received what you sent
+			<lb n="14"/>
+		with Abū Jumʿa. I ask God on our and your behalf for health in
+			<lb n="15"/>
+		this world and the next, and may He complete for us and for you His bounty and cause us
+			<lb n="16"/>
+		and you to enter paradise through His mercy. I wrote this letter of mine to you when three
+			<lb n="17"/>
+		and twenty (days) had passed of Jumādā I (and) twenty-six (days) of
+			<lb n="18"/>
+		Baʾūna. And I have already sent to you with Rāshid my mule (birdhawn), it being in good health
+			<lb n="19"/>
+		and there not being a fault in his back. So, make sure, may God have mercy on you, to send it back to me
+			<lb n="20"/>
+		one month after the pressing. And Rāshid has already promised me that he will bring it to me.
+			<lb n="21"/>
+		So when the month of pressing will arrive, let it be fed barley however much it eats.
+			<lb n="22"/>
+		Give many greetings to Sanbā and admonish him to take care of Dafāya? and give to Abnūla,
+			<lb n="23"/>
+		your scribe, many greetings.
+			<lb n="24"/>
+		And peace be upon you and God&#039;s blessings.
+</ab></div>
+</body>
+</text>
+</TEI>

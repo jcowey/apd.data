@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1135" xml:id="Grohmann_APEL_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 003 (= Chrest.Khoury I 01)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168989</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  لا إله إلّا اللّه وحده محمّد رسول اللّه 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>*** 
+ <lb n="5"/>*** 
+ <lb n="6"/>lā ʾilāha ʾillā ăl lāhu waḥda hu muḥammad:un rasūlu ăl lāhi 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="3"/>
+		Au nom de Dieu clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="6"/>
+		Il n’y a de Dieu qu’Allah seul, Muḥammad est le Messenger de Dieu
+		There is no god but God alone, Muḥammad is the Messenger of God.
+</ab></div>
+</body>
+</text>
+</TEI>

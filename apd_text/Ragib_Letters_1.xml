@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1071" xml:id="Ragib_Letters_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 01 (= Chrest.Khoury I 95)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Letters_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168939</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم 
+<lb n="2"/>  من عبد <supplied reason="lost" cert="high">الملك</supplied> بن يزيد إلى <app type="BL"><lem resp="Rāġib; Khoury">جرثمة </lem><rdg resp="Rāġib; Khoury">حزيمة </rdg><rdg resp="Rāġib; Khoury">جرثمة</rdg></app> بن ماهان 
+<lb n="3"/>  سلم <supplied reason="lost" cert="high">عليـ</supplied>ـك <supplied reason="lost" cert="high">إنّي</supplied> أحمد إليك 
+<lb n="4"/>  اللّه الّذي لا إله إلّا <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="5"/>  أمّا بعد فإنّي قد أشركت 
+<lb n="6"/>  الحرث بن كامل معك في 
+<lb n="7"/>  عملك وأمرته بموازرتك 
+<lb n="8"/>  ومكانفتك للّذي كـ<supplied reason="lost" cert="high">ـا</supplied>ن من 
+<lb n="9"/>  شكوا أهل عملك لعبد الوحد بن 
+<lb n="10"/>  قيس فأقبلا على ما قبلكما وانظرا 
+<lb n="11"/>  عبد الوحد فـ<supplied reason="lost" cert="high">ـيـ</supplied>ـم شكي وما 
+<lb n="12"/>  <app type="BL"><lem resp="APD">عون </lem><rdg resp="Diem">يدّعون</rdg></app> قبله ثم اكتب إلي 
+<lb n="13"/>  بتحقيق ذلك إن شا ا<supplied reason="lost" cert="high">للّه</supplied> والسّلم 
+<lb n="14"/>  عليك ورحمت اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="15"/>  كتب <app type="BL"><lem resp="Rāġib; Khoury">خميل </lem><rdg resp="Rāġib; Khoury">حميل </rdg><rdg resp="Rāġib; Khoury">خميل</rdg></app> في المحرّم سنـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  وثلثين ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl maliki bni yazīda ʾilà ḥazīmaẗa ǧurṯumaẗa ḫuzaymaẗa bni māhāna 
+ <lb n="3"/>salām:un ʿalay ka ʾinna ī ʾaḥmadu ʾilay ka 
+ <lb n="4"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu fa ʾin nī qad ʾašraktu 
+ <lb n="6"/>ăl ḥāriṯa bna kāmil:in maʿa ka fī 
+ <lb n="7"/>ʿamali ka wa ʾamartu hu bi muwāzaraẗi ka 
+ <lb n="8"/>wa mukānafaẗi ka li ăllaḏī kāna min 
+ <lb n="9"/>šakwà ʾahli ʿamali ka li ʿabdi ăl wāḥidi bni 
+ <lb n="10"/>qays:in fa ʾaqbilā ʿalà mā qibala kumā wa ŭnẓurā 
+ <lb n="11"/>ʿabda ăl wāḥidi fī ma šukiya wa mā 
+ <lb n="12"/>taddaʿūna yaddaʿūna qibala hu ṯumma ŭktub ʾilay ya 
+ <lb n="13"/>bi taḥqīqi ḏālika ʾin šāʾa ăl lāhu wa ăs salāmu 
+ <lb n="14"/>ʿalay ka wa raḥmatu ăl lāhi 
+ <lb n="15"/>kataba ḥamīl:un ḫamīl:un ǧamīl:un ḥumayl:un ḫumayl:un ǧumayl:un fī ăl muḥarrami sanaẗa *** 
+ <lb n="16"/>wa ṯalāṯīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		De la part de ʿAbd [al-Malik] b. Yazīd, à Ḫuzayma b. Māhān.
+			<lb n="3"/>
+		Salut sur toi! Je loue pour toi
+			<lb n="4"/>
+		Dieu qui est la seule divinité!
+			<lb n="5"/>
+		Puis: je tʾai associé
+			<lb n="6"/>
+		al-Ḥāriṯ b. Kāmil dans
+			<lb n="7"/>
+		ton département et je lui ai ordonné de tʾaider
+			<lb n="8"/>
+		et de tʾassister pour ce qui advint de
+			<lb n="9"/>
+		Klage der Bewohner Deiner Provinz über ʿAbdalwāḥid ibn 
+		la plainte des gens de ton département auprès de ʿAbd al-Wāḥid
+			<lb n="10"/>
+		b. Qays. Occupez-vous de ce qui est en votre pouvoir et faites examiner à
+		Qays. Macht Euch also an Eure Pflicht und führt eine Untersuchung gegen
+			<lb n="11"/>
+		ʿAbdalwāḥid hinsichtlich der gegen ihn erhobenen Behaup-
+		ʿAbd al-Wāḥid l&#039;objet de la plainte et ce en quoi vous ré-
+			<lb n="12"/>
+		clamez son pouvoir. Puis écris-moi
+		tungen durch. ...
+			<lb n="13"/>
+		en confirmant ceci, si Dieu le veut! Que le salut soit
+			<lb n="14"/>
+		sur toi et la miséricorde de Dieu!
+			<lb n="15"/>
+		Ecrit par Ǧamīl en muḥarram lʾan
+			<lb n="16"/>
+		cent trente et ...
+</ab></div>
+</body>
+</text>
+</TEI>

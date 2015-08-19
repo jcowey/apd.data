@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2077" xml:id="Frantz-MurphyContracts030" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyContracts 3</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz-MurphyContracts030</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> بن يعقوب 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> إنّك سألتني 
+ <lb n="4"/>  وطلبت إلى أن أكريك فدّان 
+ <lb n="5"/>  أرض في قوص كورة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  على العام الماض بسبعة قراريط 
+ <lb n="7"/>  مثاقيل طري نقد بيت المال ووزنه 
+ <lb n="8"/>  وخراجك مع نجم السّلطان أعزّه اللّه 
+ <lb n="9"/>  وازرع على بركة اللّه وعونه وكتبه 
+ <lb n="10"/>  في سنة سبع وستّين ومائتين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** *** *** *** 
+ <lb n="2"/>*** bn yaʿqūba 
+ <lb n="3"/>*** *** ʾinna ka saʾalta nī 
+ <lb n="4"/>wa ṭalabta ʾilà ʾan ʾukriya ka faddāna 
+ <lb n="5"/>ʾarḍ:in fī qūṣi kūraẗi *** 
+ <lb n="6"/>ʿalà ăl ʿāmi ăl māḍi bi sabʿaẗi qarārīṭa 
+ <lb n="7"/>maṯāqīla ṭariyy:in naqda bayti ăl māli wa wazna hu 
+ <lb n="8"/>wa ḫarāǧu ka maʿa naǧmi ăs sulṭāni ʾaʿazza hu ăl lāhu 
+ <lb n="9"/>wa ĭzraʿ ʿalà barakaẗi ăl lāhi wa ʿawni hi wa kataba hu 
+ <lb n="10"/>fī sanaẗi sabʿ:in wa sittīna wa miʾatayni 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  (2 words)
+		 <lb n="2"/>
+ 	  [3 words] (2 letters) bn Yaʿqūb.
+		 <lb n="3"/>
+ 	  [3 words] (2 words) Verily you asked me...
+		 <lb n="4"/>
+ 	  and requested that I rent you (a faddān)
+		 <lb n="5"/>
+ 	  (of land) in Qūṣ, district of (3 words)
+		 <lb n="6"/>
+ 	  during the past year for seven carats
+		 <lb n="7"/>
+ 	  weight of the new standard of the Treasury and its weight.
+		 <lb n="8"/>
+ 	  And your tax will be in the sultan&#039;s, may God strengthen him, installments.
+		 <lb n="9"/>
+ 	  So sow with the blessing of God and his aid. And (it was written)
+		 <lb n="10"/>
+ 	  in the year 267.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

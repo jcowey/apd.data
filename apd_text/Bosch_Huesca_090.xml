@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2389" xml:id="Bosch_Huesca_090" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BoschHuesca 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Bosch_Huesca_090</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم وبه نستعين 
+<lb n="2"/>  ابتاعت دونة يُوَانَةْ بنت بيطره طورش من سرقسطة النّصرانيّة من أرباب الدّولة أبو الحسن دون شلمون بن أرذوط وأبو إسحق بن لطرنير 
+<lb n="3"/>  الإسرائليّين النّاظرين في حقوق السّلطان أيّده اللّه والأمين محمّد بن خلف القلهورّي جميع 
+<lb n="4"/>  الدّار الّتي <app type="BL"><lem resp="APD">برّبض </lem><rdg resp="UB">برّبض</rdg></app> الغربي بوشقة حدّها في القبلة دار لورثة القشقلّاني ودار ليوسف المترولّه وفي 
+<lb n="5"/>  الشّرق دار لورثة أبي طوّال وفي الجوف دار لورثة الرّاي وزنقة غير نافذة وإليها شرعها وفي الغرب 
+<lb n="6"/>  دار لورثة جربقال بجميع منافعها ومرافقها وحقوقها كلّها أجمع الدّاخلة فيها والخارجة 
+<lb n="7"/>  عنها ابتياعًا صحيحًا جايزا بتّة مبتولًا الّذي لم يتّصل به شرط مفسد ولا ثني ولا خيار بثمن 
+<lb n="8"/>  عدّته ماية دينرا واحدة وخمسة وعشرون دينرا زا<unclear reason="undefined" cert="high">ئـ</unclear>ـدة قناشر فضّة من السّكّة الجارية الآن نقدت 
+<lb n="9"/>  المبتا<supplied reason="lost" cert="high">عة</supplied> البايعون المذكورون جميع الثّمن المذكور طيّبا جيادا مقلّبا وقبضوها البايعون 
+<lb n="10"/>  المذكورون منها على الوصف الموصوف وأبرأوها من ذلك إبرا صحيحا <unclear reason="undefined" cert="high">فبرئت</unclear> وقبضت 
+<lb n="11"/>  المبتاعة المذكورة المبيع المحدود فحلّت فيه وفي جميع حقوقه محل البايعون المذكورون ونزلت 
+<lb n="12"/>  منزلتهم ومحل ذي الملك في ملكه وعلى بيع الإسلام وشرطه ومرجع الدّرك فيه بين أهله 
+<lb n="13"/>  عرفوا قدر ذلك ومبلغه ومنتهى خطره لم يجهلوا ولا شيّا منه شهد على 
+<lb n="14"/>  إشهاد البايعون المذكورون والمبتاعة المذكورة على أنفسهم بذلك كلّه من عرفهم 
+<lb n="15"/>  وسمعه منهم في صحّتهم وجايز أمرهم وذلك في شهر شتينبر الموافق 
+<lb n="16"/>  لجمادى الأوّل الّذي من سنة اثنا عشر وستّماية وفيه على محو لم 
+<lb n="17"/>  وصح من أصله عيسى بن خلف بن محمّد التّجيبي ومسعود بن إسمعيل 
+<lb n="18"/>  ابن عبد اللّه الأنصاري وفيه على بشر عت <app type="BL"><lem resp="APD">دون </lem><rdg resp="LS">دونة</rdg></app> يوانة بنت بيطره 
+<lb n="19"/>  طورّش عة ئت قبضت عة فحلّت عة وملحق من سرقسطة النّصرانيّة ومصلح 
+<lb n="20"/>  منها لت وصح من أصلهم وعلى محو زنقة وصح من أصله مسعود بن إسمعيل 
+<lb n="21"/>  ابن عبد اللّه الأنصاري وعيسى بن خلف بن محمّد التّجيبي 
+<lb n="right margin"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa bi hi nastaʿīnu 
+ <lb n="2"/>ĭbtāʿat dūnaẗ:un yuwānaẗ bintu bīṭruha ṭūriša min saraqusṭaẗa ăn naṣrāniyyaẗu min ʾarbābi ăd dawlaẗi ʾabū ăl ḥasani dūn šalmūna bni ʾarḏūṭa wa ʾabū ʾisḥāqa bni laṭrunīra 
+ <lb n="3"/>ăl ʾisrāʾiliyyayni ăn nāẓirayni fī ḥuqūqi ăs sulṭāni ʾayyada hu ăl lāhu wa ăl ʾamīni muḥammadi bni ḫalaf:ini ăl qalahūrriyyi ǧamīʿa 
+ <lb n="4"/>ăd dāri ăllatī bi ø r rabaḍi ăl ġarbiyyi bi wašqaẗa ḥaddu hā fī ăl qiblaẗi dār:un li waraṯaẗi ăl qušqullāniyyi wa dār:un li yūsufa ăl matrūlluhi wa fī 
+ <lb n="5"/>ăš šarqi dār:un li waraṯaẗi ʾabī ṭawwāl:in wa fī ăl ǧawfi dār:un li waraṯaẗi ăr rāyi wa zanaqaẗ:un ġayru nāfiḏaẗ:in wa ʾilay hā šarʿu hā wa fī ăl ġarbi 
+ <lb n="6"/>dār:un li waraṯaẗi ǧarbiqāla bi ǧamīʿi manāfiʿi hā wa marāfiqi hā wa ḥuqūqi hā kulli hā ʾaǧmaʿ:in ăd dāḫilaẗi fī hā wa ăl ḫāriǧaẗi 
+ <lb n="7"/>ʿan hā ĭbtiyāʿ:an ṣaḥīḥ:an ǧāyiz:an battaẗ:an mabtūl:ani ăllaḏī lam yattaṣil bi hi šarṭ:un mufsid:un wa lā ṯany:un wa lā ḫiyār:un bi ṯaman:in 
+ <lb n="8"/>ʿiddatu hu miyaẗu dīnār:an wāḥidaẗ:un wa ḫamsaẗ:un wa ʿišrūna dīnār:an zāʾidaẗ:un qanāširu fiḍḍaẗ:in mina ăs sikkaẗi ăl ǧāriyaẗi ăl ʾāna naqadati 
+ <lb n="9"/>ăl mubtāʿaẗu ăl bāyiʿūna ăl maḏkūrūna ǧamīʿa ăṯ ṯamani ăl maḏkūri ṭayyib:an ǧiyād:an muqallab:an wa qabaḍū hā ăl bāyiʿūna 
+ <lb n="10"/>ăl maḏkūrūna min hā ʿalà ăl waṣfi ăl mawṣūfi wa ʾabraʾū hā min ḏālika ʾibrāʾ:an ṣaḥīḥ:an fa bariʾat wa qabaḍati 
+ <lb n="11"/>ăl mubtāʿaẗu ăl maḏkūraẗu ăl mabīʿa ăl maḥdūda fa ḥallat fī hi wa fī ǧamīʿi ḥuqūqi hi maḥalla ăl bāyiʿūna ăl maḏkūrūna wa nazalat 
+ <lb n="12"/>manzilata hum wa maḥalla ḏī ăl milki fī milki hi wa ʿalà bayʿi ăl ʾislāmi wa šarṭi hi wa marǧiʿi ăd daraki fī hi bayna ʾahli hi 
+ <lb n="13"/>ʿarafū qadra ḏālika wa mablaġa hu wa muntahà ḫaṭari hi lam yaǧhalū wa lā šayy:an min hu šahida ʿalà 
+ <lb n="14"/>ʾišhādi ăl bāyiʿūna ăl maḏkūrūna wa ăl mubtāʿaẗi ăl maḏkūraẗi ʿalà ʾanfusi him bi ḏālika kulli hi man ʿarafa hum 
+ <lb n="15"/>wa samiʿa hu min hum fī ṣiḥḥati him wa ǧāyizi ʾamri him wa ḏālika fī šahri šitīnbara ăl muwāfiqi 
+ <lb n="16"/>li ǧumādà ăl ʾawwali ăllaḏī min sanaẗi ĭṯnā ʿašara wa sitti miyaẗ:in wa fī hi ʿalà maḥw:in lam 
+ <lb n="17"/>wa ṣaḥḥa min ʾaṣli hi ʿīsà bnu ḫalafi bni muḥammad:ini ăt tuǧībiyyu wa masʿūdu bnu ʾismāʿīla 
+ <lb n="18"/>ĭbni ʿabdi ăl lāhi ăl ʾanṣāriyyu wa fī hi ʿalà bašar:in ʿat dūn dūnaẗ:un yuwānaẗ bintu bīṭruha 
+ <lb n="19"/>ṭūrriša ʿaẗu ʾat qabaḍat ʿaẗu fa ḥallat ʿaẗi wa mulḥaq:un min saraqusṭaẗa ăn naṣrāniyyaẗu wa muṣlaḥ:un 
+ <lb n="20"/>min hā lat wa ṣaḥḥa min ʾaṣli hi wa ʿalà maḥw:in zanaqaẗ:un wa ṣaḥḥa min ʾaṣli hi masʿūdu bnu ʾismāʿīla 
+ <lb n="21"/>ĭbni ʿabdi ăl lāhi ăl ʾanṣāriyyu wa ʿīsà bnu ḫalafi bni muḥammad:ini ăt tuǧībiyyu 
+ <lb n="22"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[line not translated]
+			<lb n="2"/>
+		Doña Iohana, hija de Petro Torres, de Zaragoza, cristiana, compra a los magnates del reino Abū l-Ḥasan don Salomón ibn Arḏūṭ y Abū Isḥāq ibn Latrunīr,
+			<lb n="3"/>
+		judíos, nádires del rey, ayúdele Dios, y al amín Muḥammad ibn Jalaf al-Qalahūrrī, la casa
+			<lb n="4"/>
+		que está en el arrabal de poniente, a Huesca, Sus límites son: a mediodía la casa de de los herederos del Coscullaní y la de Yūsuf el Matrollo (?), a
+			<lb n="5"/>
+		levante la casa de los herederos de Abū Ṭawwāl, al norte la des los herederos del ray y un callejón sin salida al cual dan las aberturas de dicha casa, y a poniente
+			<lb n="6"/>
+		la casa de los herederos de Ŷarbiqel. La casa se compra con todas sus utilidades, beneficios y derechos completos, así lo que hay dentro como fuera
+			<lb n="7"/>
+		de ella, en compra perfecta, lícita, irrevocable, pura, que no lleva aneja codición viciosa alguna ni cláusula de retroventa ni de opción, por el precio
+			<lb n="8"/>
+		de cien dīnar más veinticinco dīnar como sobreprecio, qanāšir, de plata, de la acuñación corriente ahora. La compradora
+			<lb n="9"/>
+		pagó a los vendedores referidos el precio convenido en moneda de curso legal, buena, contrastada, los cuales la recibieron
+			<lb n="10"/>
+		de aquélla en la forma expresada, por lo que la declararon libre de deuda, quedando en consecuencia libre. La citada compradora recibió
+			<lb n="11"/>
+		la cosa vendida cuyos límites se han señalado y ocupó en ella, con todos sus derechos, el lugar de los vendedores referidos, estableciéndose en la misma y ocupando
+			<lb n="12"/>
+		el lugar del proprietario en su propiedad, según la venta del Islam, sus cláusulas y la devolución del daño o evicción entre musulmanes.
+			<lb n="13"/>
+		Ambas partes conocieron el valor y alcance de la venta y la conclusión del contrato, sin ignorar nada a él tocante. Dieron testimonio
+			<lb n="14"/>
+		de todo esto, por sí mismos y a requerimiento de los vendedores y de la compradora mencionados, quienes les conocen
+			<lb n="15"/>
+		y lo han oído de ellos y saben que se hallan con capacidad física y legal para contratar. Hecho en el mes de septiembre, que corresponde
+			<lb n="16"/>
+		a ŷumadādà al-ʾulà del año 612 / 1215. En la escritura está emborronado lam.
+			<lb n="17"/>
+		Vale, según su original. ʿIsà ibn Jalaf ibn Muḥammad al-Tuŷībī. Masʿūd ibn Ismaʿīl
+			<lb n="18"/>
+		ibn ʿAbd Allāh al-Anṣārī. En la escritura está raspado ʿat dūna Yuwāna bin Bītru
+			<lb n="19"/>
+		Ṭurriš ʿat yat qabaḍat ʿat fa-ḥalat ʿat, añadido min Saraqusṭa al-nasrānīya y enmendado,
+			<lb n="20"/>
+		en una de estas palabras, lat. Concuerda con su original. Está emborronado zanqa. Vale, según su original. Masʿūd ibn Ismaʿīl
+			<lb n="21"/>
+		Ibn ʿAbd Allāh al-Anṣārī. ʿIsà ibn Jalaf ibn Muḥammad al-Tuŷībī.
+			<lb n="22"/>
+		Percibimos el tercio de toda esta venta ... ... según la costumbre. Yo, Ibraḥīm ben Naṭronay escribí esa ... ... si Dios quiere.
+</ab></div>
+</body>
+</text>
+</TEI>

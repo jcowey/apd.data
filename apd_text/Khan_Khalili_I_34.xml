@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1545" xml:id="Khan_Khalili_I_34" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 34 (= P.Khalili II 40)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_34</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169316</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  دفع اللّه عنك وأراك العافية 
+<lb n="3"/>  فإن مرضك ممّا قد <app type="BL"><lem resp="APD">عمل </lem><rdg resp="Diem">غمّني</rdg></app> 
+<lb n="4"/>  اللّه <app type="BL"><lem resp="APD">أتعلّمه </lem><rdg resp="Diem">يعلمه</rdg></app> وقد أردت 
+<lb n="5"/>  متّع اللّه بك أن تدفع إلي 
+<lb n="6"/>  عشرون دينار فإن حاجة 
+<lb n="7"/>  فكّرت عملي وإنّي <app type="BL"><lem resp="APD">تعبت </lem><rdg resp="Diem">بعثت</rdg></app> إليك 
+<lb n="8"/>  وأنا <app type="BL"><lem resp="APD">مستحق </lem><rdg resp="Diem">مستحي</rdg></app> منك 
+<lb n="9"/>  وأراك اللّه عافية 
+<lb n="10"/>  ودفع عنك 
+<lb n="11"/>  والسّلام عليك 
+<lb n="12"/>  ورحمته 
+<lb n="13"/>  وبركاته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>dafaʿa ăl lāhu ʿan ka wa ʾarā ka ăl ʿāfiyaẗa 
+ <lb n="3"/>fa ʾinna maraḍa ka mimmā qad ʿamila ġamma ø nī 
+ <lb n="4"/>ăl lāhu ʾataʿallam ʾataʿallamu yaʿlamu hu wa qad ʾaradtu 
+ <lb n="5"/>mattaʿa ăl lāhu bi ka ʾan tadfaʿa ʾilay ya 
+ <lb n="6"/>ʿišrūna dīnār fa ʾinna ḥāǧaẗ:an 
+ <lb n="7"/>fakkarat ʿamal ī wa ʾin nī baʿaṯtu taʿibtu ʾilay ka 
+ <lb n="8"/>wa ʾanā mustaḥiqq:un mustaḥy:in min ka 
+ <lb n="9"/>wa ʾarā ka ăl lāhu ʿāfiyaẗ:an 
+ <lb n="10"/>wa dafaʿa ʿan ka 
+ <lb n="11"/>wa ăs salāmu ʿalay ka 
+ <lb n="12"/>wa raḥmatu hu 
+ <lb n="13"/>wa barakātu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+		In the name of God, the merciful and compassionate.
+			<lb n="2"/>
+		May God defend you and cause you to see health,
+			<lb n="3"/>
+		denn Deine Krankheit ist etwas, das mir Kummer bereitet hat -
+		for I have learnt that you are ill (literally: your illness is what God has caused me
+			<lb n="4"/>
+		and I should like you
+		Gott weiß es! - [...]
+			<lb n="5"/>
+		- may God give enjoyment through you - to pay me
+		- May God give enjoyment through you! - to pay me
+			<lb n="6"/>
+		20 dīnārs. For a need
+		twenty dīnārs. For a need
+			<lb n="7"/>
+		has reminded me of my work (for you). I have toiled for you
+		has reminded me of my work (for you). I have toiled for you,
+		... ich sende zu Dir (gemeint: &#034;ich wende mich deswegen an Dich&#034;),
+			<lb n="8"/>
+		and I have a claim on you.
+		obwohl ich mich vor Dir schäme.
+			<lb n="9"/>
+		May God cause you to see health
+		May God cause you to see health,
+			<lb n="10"/>
+		and defend you!
+		and defend you.
+			<lb n="11"/>
+		Best wishes to you,
+			<lb n="12"/>
+		and his mercy
+			<lb n="13"/>
+		and blessings!
+		and blessings.
+</ab></div>
+</body>
+</text>
+</TEI>

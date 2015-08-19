@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1602" xml:id="Diem_Berl_II_79" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 79</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_79</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169358</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">حـ</supplied>ـفظك اللّه وعافاك وأ<supplied reason="lost" cert="high">بـ</supplied>ـقاك وأبقا نعمه علـ<supplied reason="lost" cert="high">ـيـ</supplied>ـك <supplied reason="lost" cert="high">فـ</supplied>ـي 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">ا</supplied>لدّنيا والآخرة برحمته <supplied reason="lost" cert="high">كتبـ</supplied>ـت <supplied reason="lost" cert="high">إلـ</supplied>ـيك حفظك اللّه وعافاك 
+<lb n="recto 4"/>  وأنا في عافية منه وله <supplied reason="lost" cert="high">ا</supplied>لحمد كثيرا لا شريك له <del rend="erasure" status="unremarkable">على</del> على <supplied reason="lost" cert="high">ذلك</supplied> 
+<lb n="recto 5"/>  اكتب <del rend="erasure" status="unremarkable">عأڤـا</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ك</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">اللّه</del></supplied> <sic n="superfluous">وعا</sic> <sic n="superfluous">وحـ</sic><supplied reason="lost" cert="high"><sic n="superfluous">ـڤـ</sic></supplied><sic n="superfluous">ـطك</sic> ا<supplied reason="lost" cert="high">پـ</supplied>ـڤاك 
+<lb n="recto 6"/>  و<supplied reason="lost" cert="high">صـ</supplied>ـحبك بخير وحفظكم أبلغ الشّيخ حفظه اللّه السّلم وا<supplied reason="lost" cert="high">بـ</supplied>ـلـ<supplied reason="lost" cert="high">ـغ</supplied> 
+<lb n="recto 7"/>  نفسك عافاك <supplied reason="omitted" cert="high">اللّه</supplied> السّلم وأبوا عبد الـ<supplied reason="lost" cert="high">ـلّه</supplied> ا<supplied reason="lost" cert="high">لسّلـ</supplied>ـم وأبوا علي حفظه اللّه 
+<lb n="recto 8"/>  ولو كان عندي قرطاس <supplied reason="lost" cert="high">لـ</supplied>ـكـ<supplied reason="lost" cert="high">ـتـ</supplied>ـبت <app type="BL"><lem resp="APD">إ<supplied reason="lost" cert="high">ليه</supplied> </lem><rdg resp="APD">إليهم</rdg></app> إ<supplied reason="lost" cert="high">ن</supplied> شا اللّه ومن أحـ<supplied reason="lost" cert="high">ـبـ</supplied>ـبت السّلم 
+<lb n="recto 9"/>  والسّلم عليك 
+<lb n="verso"/>  لأبي عقّار عافاه اللّه من <supplied reason="lost" cert="high">أخيـ</supplied><unclear reason="undefined" cert="high">ـك</unclear> عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʿāfā ka wa ʾabqā ka wa ʾabqā niʿama hu ʿalay ka fī 
+ <lb n="3"/>ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi katabtu ʾilay ka ḥafiẓa ka ăl lāhu wa ʿāfā ka 
+ <lb n="4"/>wa ʾanā fī ʿāfiyaẗ:in min hu wa la hu ăl ḥamdu kaṯīr:an lā šarīka la hu ʿalà ḏālika 
+ <lb n="5"/>ŭktub ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+ <lb n="6"/>wa ṣaḥiba ka bi ḫayr:in wa ḥafiẓa kum ʾabliġi ăš šayḫa ḥafiẓa hu ăl lāhu ăs salāma wa ʾabliġ 
+ <lb n="7"/>nafsa ka ʿāfā ka ăl lāhu ăs salāma wa ʾabū ʿabdi ăl lāhi ăs salāma wa ʾabū ʿaliyy:in ḥafiẓa hu ăl lāhu 
+ <lb n="8"/>wa law kāna ʿind ī qirṭās:un la katabtu ʾilay hi him ʾin šāʾa ăl lāhu wa man ʾaḥbabta ăs salāma 
+ <lb n="9"/>wa ăs salāmu ʿalay ka 
+ <lb n="10"/>li ʾabī ʿaqqāra ʿāfā hu ăl lāhu min ʾaḫī ka ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott schütze Dich, lasse Dich gesund bleiben, erhalte Dich und erhalte Dir in seiner Barmherzigkeit seine Gnadenerweise [im]
+			<lb n="3"/>
+		Diesseits und Jenseits. [Ich schrei]be Dir - Gott schütze Dich und lasse Dich gesund bleiben -,
+			<lb n="4"/>
+		wobei ich gesund bin, was Er mir gewährt hat; Ihm sei - Er hat keinen Teilhaber - vielmals Lob 〚für〛 [hier]für!
+			<lb n="5"/>
+		Schreibe -〚[Gott] lasse Dich gesund bleiben〛 {lasse gesund bl und schütze Dich} Gott erhalte und schütze Dich,
+			<lb n="6"/>
+		gebe Dir Glück zum Geleit und schütze Euch! Grüße den Scheich - Gott schütze ihn -, und grüße
+			<lb n="7"/>
+		Dich selbst - &lt;Gott&gt; lasse Dich gesund bleiben -, (grüße) Abū ʿAbdallāh, (grüße) Abū ʿAlī - Gott schütze ihn
+			<lb n="8"/>
+		- wenn ich Papyrus gehabt hätte, hätte ich i[hm] geschrieben, so Gott will -, und (grüße), wen auch immer Du (grüßen) möchtest!
+			<lb n="9"/>
+		Auch an Dich Grüße!
+			<lb n="10"/>
+		An Abū ʿAqqār - Gott erhalte ihn gesund - von Deinem [Bruder] (?) ʿAbdallāh.
+</ab></div>
+</body>
+</text>
+</TEI>

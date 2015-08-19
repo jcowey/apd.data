@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="701" xml:id="Grohmann_EBU_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106782</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه <supplied reason="lost" cert="high">الرّحمـ</supplied>ـن الرّحيم 
+<lb n="2"/>  أدّى إسـ<supplied reason="lost" cert="high">ـد</supplied>وره عمّا يلزمه عن بقيّته 
+<lb n="3"/>  في الدّفتـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">في</supplied> المدينة لخراج سنة ثلثة 
+<lb n="4"/>  وعشرين ومائـ<supplied reason="lost" cert="high">ـتـ</supplied>ـن نصف دينر داخل 
+<lb n="5"/>  يوم الاثـ<supplied reason="lost" cert="high">ـنين</supplied> لأربع بقين من مسرى 
+<lb n="6"/>  سنة ثلثة <supplied reason="lost" cert="high">وعشـ</supplied>ـرين ومائتين 
+<lb n="seal"/>  باللّه مرون بن الهيثم يثق 
+<lb n="seal"/>  عمر بن الحسين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaddà ʾisidūrahu ʿammā yalzamu hu ʿan baqiyyati hi 
+ <lb n="3"/>fī ăd daftari fī ăl madīnaẗi li ḫarāǧi sanaẗi ṯalāṯaẗ:in 
+ <lb n="4"/>wa ʿišrīna wa miʾatayni niṣfa dīnār:in dāḫil 
+ <lb n="5"/>yawma ăli ĭṯnayni li ʾarbaʿ:in baqīna min misrà 
+ <lb n="6"/>sanaẗa ṯalāṯaẗ:in wa ʿišrīna wa miʾatayni 
+ <lb n="7"/>bi ăl lāhi marwānu bnu ăl hayṯami yaṯiqu 
+ <lb n="8"/>ʿumaru bnu ăl ḥusayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, [des Barmherzi]gen, Gütigen!
+			<lb n="2"/>
+		Gezahlt hat Isi[dō]re von dem, was ihm aus seinem Restbetrage
+			<lb n="3"/>
+		im Steuerkataster in der (Kreis)metropole für die Grundsteuer des Jahres zwei-
+			<lb n="4"/>
+		hu[nde]rtdreiundzwanzig oblag, einen halben Dīnār als Eingang
+			<lb n="5"/>
+		am Mo[ntag], als (noch) vier (Nächte) übrig waren vom Mesori
+			<lb n="6"/>
+		des Jahres zweihundertdrei[undzwan]zig.
+			<lb n="7"/>
+		Siegel: Auf Gott Marwān b. al-Haiṯam vertraut.
+			<lb n="8"/>
+		(Siegel:) ʿUmar b. al-Ḥusain
+</ab></div>
+</body>
+</text>
+</TEI>

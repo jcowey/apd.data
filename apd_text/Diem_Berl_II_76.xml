@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1595" xml:id="Diem_Berl_II_76" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 76</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_76</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169351</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  جعلني اللّه فداك من السّو وأطال بقاك وأنعم صباحك 
+ <lb n="3"/>  أحب أدام اللّه نعمتك أن تسرّني بقربك 
+ <lb n="4"/>  ومواپسپك يومنا هذا <sic n="superfluous">لاتوفير</sic><supplied reason="omitted" cert="high">لپوفپر</supplied> حظّي 
+ <lb n="5"/>  من مباسمتك والتّمتّوع من رويتك والسّـ<supplied reason="lost" cert="high">ـمـ</supplied>ـع من صويتك 
+ <lb n="6"/>  <supplied reason="lost" cert="high">مـ</supplied>ـوفّقا إن شا اللّه<del rend="erasure" status="unremarkable">وان</del> 
+ <lb n="7"/>  جـ<supplied reason="lost" cert="high">ـعـ</supplied>ـلني اللّه فداك من السّو <supplied reason="lost" cert="high">و</supplied>أطال بقاك وأنعم صباحك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧaʿala nī ăl lāhu fidāʾa ka mina ăs sūʾi wa ʾaṭāla baqāʾa ka wa ʾanʿama ṣabāḥa ka 
+ <lb n="3"/>ʾuḥibbu ʾadāma ăl lāhu naʿmata ka ʾan tasurra nī bi qurbi ka 
+ <lb n="4"/>wa muʾānasati ka yawma nā hāḏā li tawfīri ḥaẓẓ ī 
+ <lb n="5"/>min mubāsamati ka wa ăt tamattūʿi min ruʾyati ka wa ăs samʿi min ṣuwayti ka 
+ <lb n="6"/>muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ǧaʿala nī ăl lāhu fidāʾa ka mina ăs sūʾi wa ʾaṭāla baqāʾa ka wa ʾanʿama ṣabāḥa ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Gnädigen!
+		 <lb n="2"/>
+ 	  Gott mache mich zu Deinem Lösegeld von dem Übel, lasse Dich lange leben und schenke Dir einen angenehmen Morgen!
+		 <lb n="3"/>
+ 	  Ich möchte gern - Gott lasse Dein Wohlbefinden andauern -, daß Du mich
+		 <lb n="4"/>
+ 	  am heutigen Tag durch Deine Nähe und Gesellschaft erfreust, damit mir reichlich
+		 <lb n="5"/>
+ 	  Dein Lächeln, das Vergnügen Deines Anblicks und das Vernehmen Deiner lieben Stimme
+		 <lb n="6"/>
+ 	  erfolgreich zuteilwerde, so Gott will! Wie wäre es, wenn ich mit Dir zechte?
+		 <lb n="7"/>
+ 	  Gott mache mich zu Deinem Lösegeld von dem Übel, lasse Dich lange leben und schenke Dir einen angenehmen Morgen!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

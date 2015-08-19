@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1670" xml:id="Grohmann_APEL_197" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 197</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_197</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169421</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  براه من محمّد بن إسمعيل والرّبيع بن قيس عاملي الأمير يزيد <supplied reason="lost" cert="high">بـ</supplied>ـن 
+<lb n="3"/>  حاتم أصلـ<supplied reason="lost" cert="high">ـحه</supplied> اللّه على خصيب بن علي لإ<supplied reason="lost" cert="high">سـ</supplied>ـمعيل بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وجابر <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبـ</supplied>ـد الحميد بن <gap reason="illegible" extent="4" unit="character" /> قبضا <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  شاة صدقة أربعـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن 
+<lb n="6"/>  شاة لسنة سبع و<supplied reason="lost" cert="high">أربـ</supplied>ـعين وما<supplied reason="lost" cert="high">ئة</supplied> 
+<lb n="7"/>  وكـ<supplied reason="lost" cert="high">ـتـ</supplied>ـب ڤر<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="8"/>  سنة ثمان وأربعين ومـ<supplied reason="lost" cert="high">ـائة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un min muḥammadi bni ʾismāʿīla wa ăr rabīʿi bni qays:in ʿāmilayi ăl ʾamīri yazīda bni 
+ <lb n="3"/>ḥātim:in ʾaṣlaḥa hu ăl lāhu ʿalà ḫaṣībi bni ʿaliyy:in li ʾismāʿīla bni *** 
+ <lb n="4"/>wa ǧābiri bni ʿabdi ăl ḥamīdi bni **** qabaḍā ** *** 
+ <lb n="5"/>šāẗ ṣadaqaẗa ʾarbaʿīna 
+ <lb n="6"/>šāẗ:an li sanaẗi sabʿ:in wa ʾarbaʿīna wa miʾaẗ:in 
+ <lb n="7"/>wa kataba fr*** *** *** ****** 
+ <lb n="8"/>sanaẗa ṯamān:in wa ʾarbaʿīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of  God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Discharge from Muḥammad b. Ismaʿîl and ar-Rabîʿ b. Qais, the administrators (of taxes) of the Amîr Yazîd [b.]
+			<lb n="3"/>
+		Ḥâtim - may God pros[per] him - to the debt of Ḫaṣîb b. ʿAlî to the credit of I[s]maʿîl b. [So and So]
+			<lb n="4"/>
+		and Ǧâbir [b. ʿAb]d al-Ḥamîd b. .........: They both have taken over ...[...]
+			<lb n="5"/>
+		sheep as poor-rate (ṣadaqa) for for[ty]
+			<lb n="6"/>
+		sheep for the year one hundred and forty-seven.
+			<lb n="7"/>
+		And there has written (it) ...... [...] ............
+			<lb n="8"/>
+		year [one] hundred and forty-eight.
+</ab></div>
+</body>
+</text>
+</TEI>

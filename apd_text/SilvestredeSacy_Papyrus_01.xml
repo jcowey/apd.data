@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1308" xml:id="SilvestredeSacy_Papyrus_01" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SilvestredeSacyPapyrus A (= P.RagibSauf-conduits 7)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">SilvestredeSacy_Papyrus_01</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169125</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="upper left corner"/>  نسخت 
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتب من جابر بن عبيد عامل الأمير عبد الملك بن 
+<lb n="3"/>  بن يزيد على كورة منف <app type="BL"><lem resp="APD">لسمبا </lem><rdg resp="Rāġib">لسمبا</rdg></app> <app type="BL"><lem resp="APD">ڤلپپك </lem><rdg resp="Rāġib">قلّنيك</rdg></app> أمرد جسيم آدم أقنى أزج 
+<lb n="4"/>  محلوق <app type="BL"><lem resp="APD">ولڤلوح </lem><rdg resp="Rāġib">لقلوج</rdg></app> <app type="BL"><lem resp="APD">هلپه </lem><rdg resp="Rāġib">هلية</rdg></app> أمرد آدم أزج محلوق من أهل دير أبي 
+<lb n="5"/>  هرميس من كورة منف إنّي أذنت لهما ينطلقا إلى الصّعيد 
+<lb n="6"/>  في <app type="BL"><lem resp="APD">حرمهما </lem><rdg resp="“Ragib”">جزيتهما</rdg></app> <app type="BL"><lem resp="“Ragib”">ومعيشهما </lem><rdg resp="APD">ومعيشتهما</rdg></app> <app type="BL"><lem resp="APD">وأجّلتهما </lem><rdg resp="“Ragib”">وأجّلتهما</rdg></app> إلى <app type="BL"><lem resp="APD">انسلاخ </lem><rdg resp="“Ragib”">انسلخ</rdg></app> شوّال 
+<lb n="7"/>  سنة ثلث وثلثين ومئة فمن لقيهما من عمّال الأمير 
+<lb n="8"/>  أصلحـه اللّه فلا يعرضه لهما إلى ذلك <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">من</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">الأجل</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">إلّا</rdg></app> 
+<lb n="9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">بخير</rdg></app> وكتب إبرهيم <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">في</rdg></app> مستهل شوّال سنة 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">ثلث</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>پپن </lem><rdg resp="Rāġib">وثلثين</rdg></app> ومائة 
+<lb n="seal"/>  فوّض جابر أمره إلى الرّحمن الرّحيم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>nusḫat:un nusiḫat 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min ǧābiri bni ʿubayd:in ʿāmili ăl ʾamīri ʿabdi ăl maliki bni 
+ <lb n="4"/>bni yazīda ʿalà kūraẗi manfa li sambā smBʾ qallinīka qlBBk ʾamrada ǧasīm:in ʾādama ʾaqnà ʾazaǧǧa 
+ <lb n="5"/>maḥlūq:in wa li qlūǧa Flwḥ hilyaẗa hlBh ʾamrada ʾādama ʾazaǧǧa maḥlūq:in min ʾahli dayri ʾabī 
+ <lb n="6"/>harmīsa min kūraẗi manfa ʾin nī ʾaḏintu la humā yanṭaliqā ʾilà ăṣ ṣaʿīdi 
+ <lb n="7"/>fī ḥurami ǧizyati himā wa maʿāyiši maʿīšati himā wa ʾaǧǧaltu ʾaǧlābi himā humā ʾilà ĭnsilāḫi šawwāl:in 
+ <lb n="8"/>sanaẗa ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in fa man laqiya humā min ʿummāli ăl ʾamīri 
+ <lb n="9"/>ʾaṣlaḥa hu ăl lāhu fa lā yaʿriḍ hu la humā ʾilà ḏālika *** mina ăl ø *** ʾaǧali *** ʾillā 
+ <lb n="10"/>ø bi *** ḫayr:in wa kataba ʾibrāhīmu *** fī mustahalli šawwāl:in sanaẗa 
+ <lb n="11"/>*** ṯalāṯ:in wa ***ṯīna ṯalāṯīna wa miʾaẗ:in 
+ <lb n="12"/>fawwaḍa ǧābir:un ʾamra hu ʾilà ăr raḥmāni ăr raḥīmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Copie
+		Il a été transcrit.
+			<lb n="2"/>
+		Au nom du Dieu clément et miséricordieux.
+		Au nom du Dieu, clément et miséricordieux !
+			<lb n="3"/>
+		Ceci est un écrit donné par moi, Djaber fils d&#039;Obeïd, intendant de l&#039;émir Abd-almélic,
+		Ceci est une lettre de Ǧābir b. ʿUbayd, l&#039;agent de l&#039;émir ʿAbd al-Malik
+			<lb n="4"/>
+		b. Yazīd sur le district de Manf à Sambā Qallinīk, imberbe, corpulent, basané, ayant le nez aquilin, les sourcils fins
+		fils de Yézid, et préposé à la province de Memphis, à Samia Felibek, imberbe, corpulent, roux, ayant le nez relevé en bosse, les sourcils longs et peu épais,
+			<lb n="5"/>
+		et la tête rasée, et a Féloudj Halbé, imberbe, roux, ayant les sourcils longs et peu épais, et la tête rasée; tous deux habitans du (lieu nommé le) monastère d&#039;Abou Hermès,
+		et le crâne rasé ; et à Qlūǧ Hilya, imberbe, basané, ayant les sourcils fins le le crāne rasé, des gens du monastère d&#039;Abū
+			<lb n="6"/>
+		du nome de Memphis; (attestant) que je leur ai permis de se transporter dans le Saïd,
+		Harmīs du district de Manf. Je leur ai permis de se rendre dans le Ṣaʿīd
+			<lb n="7"/>
+		avec leurs femmes, leurs provisions et leurs marchandises, jusqu&#039;à la fin de schawal
+		pour leur capitation et leur subsistance et je leur ai fixé pour délai la fin de šawwāl
+			<lb n="8"/>
+		de l&#039;année 133. Si donc quelqu&#039;un des intendans de l&#039;émir,
+		l&#039;année cent trente-trois. Qui donc les rencontrera des agents de l&#039;émir
+			<lb n="9"/>
+		que Dieu lui accorde le bonheur! les rencontre, il ne doit leur apporter aucun empêchement...
+		- que Dieu lui donne probité ! - ne devra leur montrer jusqu&#039;à ce délai que
+			<lb n="10"/>
+		du bien. Écrit par Ibrahim le premier jour de la lune de šawwāl l&#039;année
+		... Écrit par Ibrahim... le premier jour de la lune de schawal de l&#039;an
+			<lb n="11"/>
+		133
+		cent trente-[trois]
+			<lb n="12"/>
+		Djaber a remis tous ses intérêts au (Dieu) clément (et) miséricordieux.
+</ab></div>
+</body>
+</text>
+</TEI>

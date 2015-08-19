@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1324" xml:id="Ragib_TroisDocuments_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibTroisDocuments 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_TroisDocuments_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169134</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد الشّهود المسمّون في هذا الكتاب أن علي بن عمر وعبد اللّه بن محمّد 
+<lb n="3"/>  وإدريس بن الحسن وجعفر بن محمّد أقرّوا عندهم وأشهدوهم على أنفسهم في 
+<lb n="4"/>  صحّة عقولهم وأبدانهم وجواز أمورهم في ذي الحجّة سنة إحدى وخمسين ومائتين أن لعلي 
+<lb n="5"/>  بن بسطام الخشّاب السّاكن فسطاط مصر عليهم مائة خشبة وخشبتين مصنّفة 
+<lb n="6"/>  أصول منها ثلثين خشبة أربعة اعشر ذراع إلى اثنا عشر ذراع ومنها اثنين وعشرين أصل 
+<lb n="7"/>  ‮طول ثمانية إلى ‪ϝ‬ ستّة أذرع وخمسين طرف طول ثمانية وتسعة أذرع 
+<lb n="8"/>  يوفوه إيّاها عند مصلّا مدينة الفيّوم القديمة قد قبض إدريس وعلي وعبد اللّه 
+<lb n="9"/>  وجعفر ثمن هذه الماية خشبة وخشبتين وبرئ علي بن بسطام من ذلك إليهم وذلك 
+<lb n="10"/>  في ذي الحجّة سنة إحدى وخمسين ومائتين شهد على ذلك محمّد بن الرّبيع بن سليمن المودن <sic n="superfluous">سطادپه</sic> <sic n="superfluous">پحصه</sic> <supplied reason="omitted" cert="high">وشهادته بخطّه</supplied> 
+<lb n="11"/>  وشهد عبد اللّه بن إدريس وكتب شهادته <supplied reason="lost" cert="high">بخطّه</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  على ما في هذا الكتاب وصالح بن يوسف وكتب عنه محمّد بن إبرهيم 
+<lb n="13"/>  بأمره ومحضره بجميع ما في هذا الكتاب ومحمّد بن إبرهيم <gap reason="illegible" precision="low" extent="3"/> وكبت شها<supplied reason="lost" cert="high">دته</supplied> 
+<lb n="14"/>  <supplied reason="lost" cert="high">بخطّه</supplied> بجميع ما في هذا الكتاب وإبرهيم بن عبد الكريم كتب شهادته في 
+<lb n="15"/>  <supplied reason="lost" cert="high">ذي</supplied> الحجّة سنة إحدى وخمسين ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʾanna ʿalī bna ʿumara wa ʿabda ăl lāhi bna muḥammad:in 
+ <lb n="3"/>wa ʾidrīsa bna ăl ḥasani wa ǧaʿfara bna muḥammad:in ʾaqarrū ʿinda hum wa ʾašhadū hum ʿalà ʾanfusi him fī 
+ <lb n="4"/>ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him fī ḏī ăl ḥiǧǧaẗi sanaẗa ʾiḥdà wa ḫamsīna wa miʾatayni ʾanna li ʿaliyyi 
+ <lb n="5"/>bni bisṭāma ăl ḫaššābi ăs sākini fusṭāṭa miṣra ʿalay him miʾaẗu ḫašabaẗ:in wa ḫašabatayni muṣannafaẗu 
+ <lb n="6"/>ʾuṣūl:in min hā ṯalāṯīna ḫašabaẗ:an ʾarbaʿaẗa ĭʿšara ḏirāʿ ʾilà ĭṯnā ʿašara ḏirāʿ wa min hā ĭṯnayni wa ʿišrīna ʾaṣl 
+ <lb n="7"/>ṭūl ṯamāniyaẗu ʾilà 6 sittaẗi ʾaḏruʿ:in wa ḫamsīna ṭaraf ṭūl ṯamāniyaẗu wa tisʿaẗu ʾaḏruʿ:in 
+ <lb n="8"/>yūfū hu ʾiyyā hā ʿinda muṣallā madīnaẗi ăl fayyūmi ăl qadīmaẗi qad qabaḍa ʾidrīsu wa ʿaliyyu wa ʿabdu ăl lāhi 
+ <lb n="9"/>wa ǧaʿfaru ṯamana hāḏihi ăl miyaẗi ḫašabaẗ:in wa ḫašabatayni wa bariʾa ʿaliyyu bnu bisṭāma min ḏālika ʾilay him wa ḏālika 
+ <lb n="10"/>fī ḏī ăl ḥiǧǧaẗi sanaẗa ʾiḥdà wa ḫamsīna wa miʾatayni šahida ʿalà ḏālika muḥammadu bnu ăr rabīʿi bni sulaymāna ăl muʾaḏḏinu wa šahādatu hu bi ḫaṭṭi hi 
+ <lb n="11"/>wa šahida ʿabdu ăl lāhi bnu ʾidrīsa wa kataba šahādata hu bi ḫaṭṭi hi *** 
+ <lb n="12"/>ʿalà mā fī hāḏā ăl kitābi wa ṣāliḥu bnu yūsufa wa kataba ʿan hu muḥammadu bnu ʾibrāhīma 
+ <lb n="13"/>bi ʾamri hi wa maḥḍari hi bi ǧamīʿi mā fī hāḏā ăl kitābi wa muḥammadu bnu ʾibrāhīma *** wa kabata šahādata hu 
+ <lb n="14"/>bi ḫaṭṭi hi bi ǧamīʿi mā fī hāḏā ăl kitābi wa ʾibrāhīmu bnu ʿabdi ăl karīmi kataba šahādata hu fī 
+ <lb n="15"/>ḏī ăl ḥiǧǧaẗi sanaẗa ʾiḥdà wa ḫamsīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+			<lb n="2"/>
+		Les témoins nommés en cet écrit ont témoigné que ʿAlī b. ʿUmar, ʿAbd Alāh b. Muḥammad,
+			<lb n="3"/>
+		Idrīs b. al-Ḥasan et Ǧaʿfar b. Muḥammad ont reconnu en leur présence et les ont pris à témoins, dans
+			<lb n="4"/>
+		la plénitude de leurs facultés mentales e physiques, et dans leur capacité juridique, en ḏū l-ḥiǧǧa l&#039;année 251, qu&#039;à ʿAlī
+			<lb n="5"/>
+		b. Bisṭām, le marchand de bois demeurant à Fusṭāṭ Miṣr, ils doivent 102 [pièces de] bois comprenant différentes dortes de
+			<lb n="6"/>
+		pieds : 30 [pièces de] bois de 12 à 14 coudées ; 22 pieds
+			<lb n="7"/>
+		de 6 à 8 coudées de long ; et 50 extrémités de 8 et 9 coudées de long.
+			<lb n="8"/>
+		Ils s&#039;en acquitteront intégralement envers lui près du champ de prières de la vieille ville d&#039;al-Fayyoum. Idrīs, ʿAlī, ʿAbd Allāh
+			<lb n="9"/>
+		et Ǧaʿfar ont touché le prix de ces 102 [pièces de] bois, et ʿAlī b. Bisṭām s&#039;est libéré de ceci envers eux. Et ceci
+			<lb n="10"/>
+		en ḏū l-ḥiǧǧa l&#039;année 251. A témoigné de ceci Muḥammad b. al-Rabīʿ b. Sulaymān le muezzin, et son témoignage est de sa main.
+			<lb n="11"/>
+		A témoigné ʿAbd Allāh b. Idrīs, et écrit son témoignage de sa main...
+			<lb n="12"/>
+		du contenu de cet écrit. Et Ṣāliḥ b. Yūsuf; Muḥammad b. Ibrāhīm a écrit pour lui
+			<lb n="13"/>
+		sur son ordre et en sa présence de tout le contenu de cet écrit. Et Muḥammad b. Ibrāhīm... il a écrit son témoignage
+			<lb n="14"/>
+		de sa main de tout le contenu de cet écrit. Et Ibrāhīm b. ʿAbd al-Karīm, il a écrit son témoignage en
+			<lb n="15"/>
+		ḏū l-ḥiǧǧa l&#039;année 251.
+</ab></div>
+</body>
+</text>
+</TEI>

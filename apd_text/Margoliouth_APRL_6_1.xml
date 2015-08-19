@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="935" xml:id="Margoliouth_APRL_6_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I VI 01 (= P.World p. 177)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_APRL_6_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113691</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أنعم اللّه صباحك أبا 
+<lb n="3"/>  القاسم وأتم نعمك 
+<lb n="4"/>  تفضّل يأبا القاسم 
+<lb n="5"/>  أيّدك اللّه وجّه 
+<lb n="6"/>  إلي السّاعة بالجارية 
+<lb n="7"/>  ترسلها مع يوم إنشا 
+<lb n="8"/>  اللّه على الرّكابات 
+<lb n="9"/>  وخذ <del rend="erasure" status="unremarkable">اپو</del> <app type="BL"><lem resp="“Margoliouth; Grohmann”">محمدأ </lem><rdg resp="“Margoliouth”">ø</rdg></app> ولا 
+<lb n="10"/>  تدفعها إلى <app type="BL"><lem resp="APD">غيره </lem><rdg resp="“Grohmann”">غير</rdg></app> 
+<lb n="11"/>  وليس يسيرك 
+<lb n="12"/>  في هذه الجمعة غير 
+<lb n="13"/>  هذا المركب 
+<lb n="14"/>  والدّعا مثل <app type="BL"><lem resp="APD">الصّدى </lem><rdg resp="Diem">الصّدر</rdg></app> 
+<lb n="15"/>  وقل لأبي بكر يعجّل 
+<lb n="16"/>  بشرا الحاجة وتعجّل 
+<lb n="17"/>  بالّذي وسعك أيّدك اللّه 
+<lb n="18"/>  القاسم يأبا القاسم 
+<lb n="19"/>  تكون عبد الشّنهوري 
+<lb n="20"/>  إليك حاجة حاجة 
+<lb n="21"/>  <sic n="superfluous">وغلپم</sic><supplied reason="omitted" cert="high">وعلام</supplied> بركة 
+<lb n="22"/>  الدّعا برفع 
+<lb n="23"/>  الصّدى الصّدى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾanʿama ăl lāhu ṣabāḥa ka ʾabā 
+ <lb n="3"/>ăl qāsimi wa ʾatamma niʿama ka 
+ <lb n="4"/>tafaḍḍal yā ʾabā ăl qāsimi 
+ <lb n="5"/>ʾayyada ka ăl lāhu waǧǧih 
+ <lb n="6"/>ʾilay ya ăs sāʿaẗa bi ăl ǧāriyaẗi 
+ <lb n="7"/>tursil hā maʿa yawm:in ʾin šāʾa 
+ <lb n="8"/>ăl lāhu ʿalà ăr rikābāti 
+ <lb n="9"/>wa ḫuḏ ʾabū ø muḥammad:an wa lā 
+ <lb n="10"/>tadfaʿ hā ʾilà ġayri ġayr:in hi ø 
+ <lb n="11"/>wa laysa yusīru ka 
+ <lb n="12"/>fī hāḏihi ăl ǧumʿaẗi ġayru 
+ <lb n="13"/>hāḏā ăl markabi 
+ <lb n="14"/>wa ăd duʿāʾu miṯlu ăṣ ṣadri ṣadà 
+ <lb n="15"/>wa qul li ʾabī bakr:in yuʿaǧǧilu 
+ <lb n="16"/>bi širāʾi ăl ḥāǧaẗi wa tuʿaǧǧil 
+ <lb n="17"/>bi ăllaḏī wasiʿa ka ʾayyada ka ăl lāhu 
+ <lb n="18"/>wa tafaḍḍal yā ʾabā ăl qāsimi 
+ <lb n="19"/>takūnu maʿa ăl ǧāriyaẗi 
+ <lb n="20"/>wa l ī ʾilay ka ḥāǧaẗ:un 
+ <lb n="21"/>muhimmaẗ:un muhimmaẗ:uni 
+ <lb n="22"/>ăd duʿāʾu ʾafḍalu 
+ <lb n="23"/>mina ăṣ ṣadà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the Name &amp;c.
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		God make thy morning good, Abu&#039;
+		God make your morning good, Abu
+			<lb n="3"/>
+		l-Qâsim, and perfect thy comforts.
+		&#039;l-Qasim, and perfect your comforts.
+			<lb n="4"/>
+		Be so good, Abu &#039;l-Qasim,
+		Be so good, o Abu &#039;l-Q&#039;asim, -
+			<lb n="5"/>
+		God help you, as to send
+		may God strengthen thee - as to send
+			<lb n="6"/>
+		to me at once the slave-girl,
+			<lb n="7"/>
+		send her in one day, if God
+		send her in one day, please
+			<lb n="8"/>
+		God, on the riding camels
+		wills, on the riding camels,
+			<lb n="9"/>
+		and take Abu Muḥammad and do not
+		and take Abû Muḥammad (with thee) and do not
+			<lb n="10"/>
+		commit her to any other,
+		commit her to any other (person);
+			<lb n="11"/>
+		and there will not be any other
+		and there will not carry thee
+			<lb n="12"/>
+		in this week any other than
+		means of conveyance to carry thee
+			<lb n="13"/>
+		but these camels.
+		this mount.
+			<lb n="14"/>
+		And a prayer is like an echo.
+			<lb n="15"/>
+		And bid Abu Bakr hasten
+		And tell to Abû Bakr he may hasten
+			<lb n="16"/>
+		with the purchase of the article, and hasten thou
+		with the purchase of the needful and hasten thou
+			<lb n="17"/>
+		to the utmost of thy ability, God help thee.
+		to the utmost of thy ability, may God strengthen thee.
+			<lb n="18"/>
+		And be so good, Abu &#039;l-Qasim,
+		And be so good, o Abu &#039;l-Qâsim, as to
+			<lb n="19"/>
+		be with the slave-girl,
+			<lb n="20"/>
+		for I have a need of thee.
+		for I need thee
+			<lb n="21"/>
+		Serious, serious.
+		urgently, urgently!
+			<lb n="22"/>
+		A prayer is better
+			<lb n="23"/>
+		than an echo.
+</ab></div>
+</body>
+</text>
+</TEI>

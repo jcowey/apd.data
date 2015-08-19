@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1437" xml:id="David-Weill_Louvre_19" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 19</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_19</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169225</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  <app type="BL"><lem resp="APD">تفديك </lem><rdg resp="Diem, P.Berl.Arab. II p. 279">تفديك</rdg></app> نفسي من كل سو واللّه يبقيك في عظيم 
+ <lb n="3"/>  عافيته وفي جزيل كرامته إن هذا النّبطي أبقاك 
+ <lb n="4"/>  اللّه يا<gap reason="illegible" extent="2" unit="character" /> لي وهو من من صار إلى صاحب الجيش 
+ <lb n="5"/>  فإنّما أدّا <unclear reason="undefined" cert="high">عنه</unclear> نصف دينر وقد أخذ منه دينر وطلب أن يبرّئك 
+ <lb n="6"/>  عليه فأحب مد اللّه في عمرك أن تكتب إليه رقعة فسله 
+ <lb n="7"/>  الكرى عند وصول القرط له إن رأيت ذلك <app type="BL"><lem resp="APD">تم </lem><rdg resp="Diem, P.Berl.Arab. II p. 272">تمّم</rdg></app> اللّه <unclear reason="undefined" cert="high">لك</unclear> 
+ <lb n="8"/>  النّعمة <app type="BL"><lem resp="APD">بقّاك </lem><rdg resp="“UB”">وأبقاك</rdg></app> في الدّنيا والآخرة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>tafdī yafdī ka nafs ī min kulli sūʾ:in wa ăl lāhu yubqī ka fī ʿaẓīmi 
+ <lb n="3"/>ʿāfiyati hi wa fī ǧazīli karāmati hi ʾinna hāḏā ăn nabaṭiyya ʾabqā ka 
+ <lb n="4"/>ăl lāhu yā** l ī wa huwa min man ṣāra ʾilà ṣāḥibi ăl ǧayši 
+ <lb n="5"/>fa ʾinnamā ʾaddā ʿan hu niṣfa dīnār:in wa qad ʾaḫaḏa min hu dīnār wa ṭalaba ʾan yubarriʾa ka 
+ <lb n="6"/>ʿalay hi fa ʾuḥibbu madda ăl lāhu fī ʿumri ka ʾan taktuba ʾilay hi ruqʿaẗ:an fa sal hu 
+ <lb n="7"/>ăl kirà ʿinda wuṣūli ăl qurṭi la hu ʾin raʾayta ḏālika tamma tammama ăl lāhu la ka 
+ <lb n="8"/>ăn niʿmaẗa baqqā wa ka ʾabqā ka fī ăd dunyā wa ăl ʾāḫiraẗi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément miséricordieux.
+		 <lb n="2"/>
+ 	  Puissé-je moi-même te servir de rançon de tout mal, et que Dieu te maintienne en sa grande
+		 <lb n="3"/>
+ 	  faveur et en sa considérable générosité. Certes ce paysan, que te conserve
+		 <lb n="4"/>
+ 	  Dieu, .... pour moi, et c&#039;est celui qui alla vers le maître de l&#039;armée.
+		 <lb n="5"/>
+ 	  Il a payé pour lui un demi dinar et il avait déjà pris de lui un dinar et il avait demandé qu&#039;il t&#039;affranchisse
+		 <lb n="6"/>
+ 	  de sa dette envers lui, et j&#039;aimerais, Dieu prolonge ta vie, que tu lui écrives un billet lui demandant
+		 <lb n="7"/>
+ 	  le loyer dès l&#039;arrivée de la luzerne, si tu es de cet avis, que Dieu parfasse
+		 <lb n="8"/>
+ 	  pour toi sa faveur.........et te perpétue... en ce monde et dans l&#039;autre.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

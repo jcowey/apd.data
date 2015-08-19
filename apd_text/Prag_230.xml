@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1619" xml:id="Prag_230" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 23</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_230</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169375</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" />χ<gap reason="illegible" extent="1" unit="character" /> 
+<lb n="2"/>  ‮<gap reason="illegible" precision="low" extent="3"/> يوم χ بخون <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮<gap reason="illegible" precision="low" extent="3"/> وله قمح ‪νε‬ ‪νχ‬ ‪μγχ‬ χ<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="4"/>  ‮<gap reason="illegible" precision="low" extent="3"/> وله قمح ‪λαχ‬ ‪λδ‬ ‪κγ‬ <supplied reason="lost" cert="high">ε</supplied><gap reason="illegible" extent="1" unit="character" /> 
+<lb n="5"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ε <gap reason="illegible" precision="low" extent="3"/> وله قمح η η ι <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮<gap reason="illegible" precision="low" extent="3"/> η <gap reason="illegible" precision="low" extent="3"/> وله حرث ι ι κ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‪<gap reason="illegible" extent="1" unit="character" />η‬ <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** *** ** *+1/2+* 
+ <lb n="2"/>*** yawm 6 baḫūn *** 
+ <lb n="3"/>*** wa la hu qamḥ:un 55 56 43+1/2 **+1/2 
+ <lb n="4"/>*** wa la hu qamḥ:un 31+1/2 34 23 *5 
+ <lb n="5"/>*** 5 *** wa la hu qamḥ:un 8 8 10 *** 
+ <lb n="6"/>*** 8 *** wa la hu ḥarṯ:un 10 10 20 *** 
+ <lb n="7"/>*** *8 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		...].[...]1/2[
+			<lb n="2"/>
+		...] ... Freitag, Pacho[n
+			<lb n="3"/>
+		... ] und er hat Weizen(boden) 55 56 43 1/2 [ ]1/2[
+			<lb n="4"/>
+		... ] und er hat Weizen(boden) 31 1/2 34 23 [.5
+			<lb n="5"/>
+		] 5 [...] und er hat Weizen(boden) 8 8 10 [
+			<lb n="6"/>
+		] 8 [...] und er hat Ackerland 10 10 20 [
+			<lb n="7"/>
+		...] .8 [
+</ab></div>
+</body>
+</text>
+</TEI>

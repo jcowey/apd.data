@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="463" xml:id="Becker_NPAF_6_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 06 (= P.BeckerPAF 13 = P.Cair.Arab. 153)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_6_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106650</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="- (P.Cair.Arab. 1)"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="- (P.Cair.Arab. 2)"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شريك</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">بسيل</supplied> 
+ <lb n="- P.Cair.Arab. 3)"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">صاحپ</supplied> </lem><rdg resp="“Grohmann”">صحب</rdg></app> <supplied reason="lost" cert="high">إشقوه</supplied> <supplied reason="lost" cert="high">فإنّي</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">احمد</supplied> </lem><rdg resp="Grohmann puts ‫أحمد‬ on line 3, Becker on line 4">أحمد</rdg></app> 
+ <lb n="1 (P.Cair.Arab. 4)"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أحمد</supplied> </lem><rdg resp="Becker puts ‫أحمد‬ on line 4, Grohmann on line 3">ø</rdg></app> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّذي</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إ</supplied>له إلّا 
+ <lb n="2 (P.Cair.Arab. 5)"/>  هو أمّا بعد فإن 
+ <lb n="3 (P.Cair.Arab. 6)"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">لـ</unclear>ـو</supplied><unclear reason="undefined" cert="high">لـ</unclear>ـ<supplied reason="lost" cert="high">ـپـ</supplied>ـ<unclear reason="undefined" cert="high">ـد</unclear> </lem><rdg resp="“Grohmann”">القاسم</rdg></app> بن <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عبّـ</supplied>ـ<unclear reason="undefined" cert="high">ـا</unclear>د </lem><rdg resp="“Grohmann”">سيّار</rdg></app> صا 
+ <lb n="4 (P.Cair.Arab. 7)"/>  حپ الپرپذ دكر 
+ <lb n="5 (P.Cair.Arab. 8)"/>  <unclear reason="undefined" cert="high">أنّك</unclear> أخذ<unclear reason="undefined" cert="high">ت</unclear> قر 
+ <lb n="6 (P.Cair.Arab. 9)"/>  ا ڤى ارصك 
+ <lb n="7 (P.Cair.Arab. 10)"/>  <unclear reason="undefined" cert="high">عليهم</unclear> من <unclear reason="undefined" cert="high">الجزية</unclear> فإذا 
+ <lb n="8 (P.Cair.Arab. 11)"/>  جاك كتبي هذا 
+ <lb n="9 (P.Cair.Arab. 12)"/>  فلا تعتر<unclear reason="undefined" cert="high">ضـ</unclear>ـن أحدا 
+ <lb n="10 (P.Cair.Arab. 13)"/>  منهم بشاي حتّى أ<unclear reason="undefined" cert="high">حـ</unclear>ـدّث 
+ <lb n="11 (P.Cair.Arab. 14)"/>  إليك فيهم إن شا 
+ <lb n="12 (P.Cair.Arab. 15)"/>  اللّه والسّلم 
+ <lb n="13 (P.Cair.Arab. 16)"/>  على من اتّبع 
+ <lb n="14 (P.Cair.Arab. 17)"/>  الهدى وكتب مسلم 
+ <lb n="15 (P.Cair.Arab. 18)"/>  في شهر ربيع الأوّل 
+ <lb n="16 (P.Cair.Arab. 19)"/>  سنة إحدى وتسعين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà basīla 
+ <lb n="3"/>ṣāḥibi ʾišqawha fa ʾin nī ø ʾaḥmadu 
+ <lb n="4"/>ʾaḥmadu ø ăl lāha ăllaḏī lā ʾilāha ʾillā 
+ <lb n="5"/>huwa ʾammā baʿdu fa ʾinna 
+ <lb n="6"/>ăl walīda qāsima bna ʿabbāda sayyāra ṣāḥiba 
+ <lb n="7"/>ăl barīdi ḏakara l ī 
+ <lb n="8"/>ʾanna ka ʾaḫaḏta qur:an 
+ <lb n="9"/>fī ʾarḍi ka bi ăllaḏī 
+ <lb n="10"/>ʿalay him mina ăl ǧizyaẗi fa ʾiḏā 
+ <lb n="11"/>ǧāʾa ka kitāb ī hāḏā 
+ <lb n="12"/>fa lā taʿtariḍanna ʾaḥad:an 
+ <lb n="13"/>min hum bi šāy:in ḥattà ʾuḥaddiṯu 
+ <lb n="14"/>ʾilay ka fī him ʾin šāʾa 
+ <lb n="15"/>ăl lāhu wa ăs salāmu 
+ <lb n="16"/>ʿalà mani ĭttabaʿa 
+ <lb n="17"/>ăl hudà wa kataba muslim:un 
+ <lb n="18"/>fī šahri rabīʿa ăl ʾawwali 
+ <lb n="19"/>sanaẗa ʾiḥdà wa tisʿīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [In the name of God, the Compassionate, the Merciful.] 
+		 <lb n="2"/>
+ 	  [From Qorra b. Šarîk to Basil] 
+		 <lb n="3"/>
+ 	  [administrator of Išqauh. I praise] 
+		 <lb n="4"/>
+ 	  God, besides whom there is no 
+ 	  Ich preise Gott außer dem es keinen Gott] gibt. 
+		 <lb n="5"/>
+ 	  Des weiteren: Siehe 
+ 	  god. As to the matter in hand. A-
+		 <lb n="6"/>
+ 	  El[-Walīd b. ʿAbbād], der 
+ 	  l-Qâsim b. Sayyâr, the post-
+ 	  N.N. der ṣāḥib 
+		 <lb n="7"/>
+ 	  el-barīd hat mir berichtet, 
+ 	  master, has mentioned to me 
+ 	  Postmeister hat mir erzählt, 
+		 <lb n="8"/>
+ 	  dass du einige 
+ 	  daß Du in Strafe genommen hast einige Dörfer 
+ 	  that thou hast fined some villages 
+		 <lb n="9"/>
+ 	  in Deinem Lande wegen dessen, was 
+ 	  in thy country on account of what is 
+ 	  Ortschaften wegen 
+		 <lb n="10"/>
+ 	  due from them of the gold-tax. Now when 
+ 	  ihnen auferlegt ist an Djizja, und wenn 
+ 	  ihrer ǵizja-Verpflichtung in Strafe genommen hast. Wenn 
+		 <lb n="11"/>
+ 	  dieser mein Brief zu dir kommt, 
+ 	  dieser mein Brief zu Dir kommt, 
+ 	  this my letter comes into thee, 
+		 <lb n="12"/>
+ 	  do no bother any 
+ 	  so begegne keinem von ihnen unfreundlich 
+ 	  so gehe gegen niemanden mehr 
+		 <lb n="13"/>
+ 	  of them on any account until I have talked 
+ 	  vor, ehe ich mit dir Rücksprache 
+ 	  wegen irgendeiner Sache, bis ich mit Dir über sie neuerdings Rücksprache 
+		 <lb n="14"/>
+ 	  genommen.
+ 	  genommen habe, wenn Gott 
+ 	  to thee about them, if God 
+		 <lb n="15"/>
+ 	  will. And hail 
+ 	  will. Heil 
+		 <lb n="16"/>
+ 	  sei über den, welcher der Rechtleitung 
+ 	  to him who follows 
+		 <lb n="17"/>
+ 	  folgt. Es hat (dies) geschrieben Muslim 
+ 	  the guidance. And Muslim has written (it) 
+		 <lb n="18"/>
+ 	  im Monat Rabīʿ I 
+ 	  in the month of Rabîʿ I 
+		 <lb n="19"/>
+ 	  im Jahre einundneunzig.
+ 	  of the year ninety-one.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

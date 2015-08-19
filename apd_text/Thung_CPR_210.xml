@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2277" xml:id="Thung_CPR_210" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.ThungWrittenObligations 3 (= CPR XXVI 21)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_210</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حقّ</supplied> <supplied reason="lost" cert="high">عدين</supplied> <supplied reason="lost" cert="high">ابنت</supplied> عبد <supplied reason="lost" cert="high">اللّه</supplied> على يسر بن يحيى <app type="BL"><lem resp="APD">له </lem><rdg resp="Thung, CPR XXVI">لها</rdg></app> <supplied reason="lost" cert="high">عـ</supplied>ـليه دينار 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پـ</supplied>ـن </lem><rdg resp="Thung, commentary">مثقال</rdg></app> <gap reason="illegible" extent="5" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـال معحلپن اى وڤپ سـ<supplied reason="lost" cert="high">ـأ</supplied>پ احدپهم منه ومن ڤام پهدا 
+<lb n="4"/>  علـ<supplied reason="lost" cert="high">ـى</supplied> يسـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">أ</supplied>خذه متا شاپ <unclear reason="undefined" cert="high">عدين</unclear> ا<supplied reason="lost" cert="high">بنـ</supplied>ـت عبد اللّه أخذت هاذين الدّينارين 
+<lb n="5"/>  من يسر بن <supplied reason="lost" cert="high">يـ</supplied>ـحيى وقد وكّلت بن خالتها <app type="BL"><lem resp="APD">جديد<del rend="erasure" status="unremarkable">ـں</del>متا </lem><rdg resp="APD">جديد</rdg></app> سا حدپد پن الحسن 
+<lb n="6"/>  أخذ هاذين الدّينارين من يسر بن <supplied reason="lost" cert="high">يـ</supplied>ـحـ<supplied reason="lost" cert="high">ـيى</supplied> بلا مدافعة ولا صبر حتّا يريد 
+<lb n="7"/>  <app type="BL"><lem resp="APD">حديد </lem><rdg resp="APD">جديد</rdg></app> بن الحسن ذلك وذلك في شهر ذي الحجّة من سنة تسعين ومئتين 
+<lb n="8"/>  شهد عليهم بجميع ما في هذا الكتاب من أوّله إلى آخره وذلك في ذي الحجّة 
+<lb n="9"/>  وشهد على <sic n="superfluous">على</sic> إقرار يسر بهـ<sic n="superfluous">ـد</sic>اذين الدّينارين <gap reason="illegible" extent="1" unit="character" /> شهد أحمد بن محمّد العقدي 
+<lb n="10"/>  <supplied reason="lost" cert="high">بمـ</supplied>ـا في هذا الكتاب وكتب بخطّه شهد سعيد بن ميمون الحبّال بجميع 
+<lb n="11"/>  ما في هذا الكتاب وذلك في ذي الحجّة من سنة تسعين ومئتين 
+<lb n="12"/>  شهد غليس بن الكيّال بجميع ما في هذا الكتاب 
+<lb n="13"/>  شهد حسن بن <unclear reason="undefined" cert="high">أبي</unclear> <unclear reason="undefined" cert="high">تمّام</unclear> بجميع ما في هذا الكتاب وذلك في 
+<lb n="14"/>  شهر ذي الحجّة من سنة تسعين ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ʿadīna ĭbnati ʿabdi ăl lāhi ʿalà yusri bni yaḥyà la hā hu ʿalay hi dīnārayni 
+ <lb n="3"/>*****āl miṯqāl:un muʿaǧǧalayni ʾayya waqt:in šāʾat ʾaḫaḏat hum min hu wa man qāma bi hāḏā ăl ḥaqqi 
+ <lb n="4"/>ʿalà yusr:in ʾaḫaḏa hu matā šāʾat ʿadīnu ĭbnatu ʿabdi ăl lāhi ʾaḫaḏat hāḏayni ăd dīnārayni 
+ <lb n="5"/>min yusri bni yaḥyà wa qad wakkalati bna ḫālati hā ǧadīd ḥadīd ǧudayd ḥudayd matā šāʾa ḥudaydu bnu ăl ḥasani 
+ <lb n="6"/>ʾaḫaḏa hāḏayni ăd dīnārayni min yusri bni yaḥyà bi lā mudāfaʿaẗ:in wa lā ṣabr:in ḥattā yurīda 
+ <lb n="7"/>ǧadīdu ḥadīdu ǧudaydu ḥudaydu bnu ăl ḥasani ḏālika wa ḏālika fī šahri ḏī ăl ḥiǧǧaẗi min sanaẗi tisʿīna wa miʾatayni 
+ <lb n="8"/>šuhida ʿalay him bi ǧamīʿi mā fī hāḏā ăl kitābi min ʾawwali hi ʾilà ʾāḫiri hi wa ḏālika fī ḏī ăl ḥiǧǧaẗi 
+ <lb n="9"/>wa šuhida ʿalà ʾiqrāri yusr:in bi hāḏayni ăd dīnārayni * šahida ʾaḥmadu bnu muḥammad:ini ăl ʿuqadiyyu 
+ <lb n="10"/>bi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi šahida saʿīdu bnu maymūn:ini ăl ḥabbālu bi ǧamīʿi 
+ <lb n="11"/>mā fī hāḏā ăl kitābi wa ḏālika fī ḏī ăl ḥiǧǧaẗi min sanaẗi tisʿīna wa miʾatayni 
+ <lb n="12"/>šahida ġulaysu bnu ăl kayyālu bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="13"/>šahida ḥasanu bnu ʾabī tammām:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī 
+ <lb n="14"/>šahri ḏī ăl ḥiǧǧaẗi min sanaẗi tisʿīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Gnädigen!]
+			<lb n="2"/>
+		[Verpflichtungsschein von ʿAdīn(?), Tochter von] ʿAbd[allāh], zu Lasten von Yusr b. Yaḥyā. Ihr stehen zu dessen Lasten zwei
+			<lb n="3"/>
+		sofort zahlbare [...] ... [...] .. Dinare zu. Zu jeder Zeit, wenn sie will, kann sie diese von ihm nehmen. Und wer diesen Verpflichtungsschein zu Lasten von Yusr vorweist,
+			<lb n="4"/>
+		der kann es (sc. das Geld) nehmen. Wann auch immer ʿAdīn (?), Tochter von ʿAbdallāh, will, so kann sie diese zwei Dinare
+			<lb n="5"/>
+		von Yusr b. Yaḥyā nehmen. Sie hat den Sohn ihrer Tante, Ḥudayd, zum Bevollmächtigten gemacht, und wenn Ḥudayd b. al-Ḥasan will,
+			<lb n="6"/>
+		so kann er diese zwei Dinare von Yusr b. Yaḥyā nehmen, ohne Aufschub und ohne Stundung, außer wenn
+			<lb n="7"/>
+		Ḥudayd b. al-Ḥasan dies will. Dies (wurde geschrieben) im Monat Ḏū l-Ḥiǧǧah des Jahres zweihundertneunzig.
+			<lb n="8"/>
+		Es wurde zu ihren Lasten all das, was in dieser Urkunde steht, vom Anfang bis zum Ende, bezeugt, und dies im Monat Ḏū l-Ḥiǧǧah,
+			<lb n="9"/>
+		und es wurde bezeugt, daß Yusr die zwei Dinare anerkannt hat. (Zeichen) Es bezeugt Aḥmad b. Muḥammad al-ʿUqadī
+			<lb n="10"/>
+		das, was in dieser Urkunde steht, und er hat mit seinem Schriftzug .... unterschrieben. Es bezeugt Saʿīd b. Maymūn, der Seiler, all das
+			<lb n="11"/>
+		was in dieser Urkunde steht, und dies im (Monat) Ḏū l-Ḥiǧǧah des Jahres zweihundertneunzig.
+			<lb n="12"/>
+		Es bezeugt Ġulays b. ...., der Kornmesser, all das, was in dieser Urkunde steht.
+			<lb n="13"/>
+		Es bezeugt Ḥasan b. Abī Tammām (?) all das, was in dieser Urkunde steht, und dies im
+			<lb n="14"/>
+		Monat Ḏū l-Ḥiǧǧah des Jahres zweihundertneunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

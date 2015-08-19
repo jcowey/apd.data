@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1074" xml:id="Ragib_Letters_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Letters_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168942</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+<lb n="2"/>  من واصل بن عبد اللّه <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  فإنّي أحمد إليك اللّه الّذي <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="4"/>  أمّا بعد عافانا اللّه وإيّاك من النّار برحمته 
+<lb n="5"/>  فإنّي كتبت إليك ونحن وأهلك على ما تحب أن نكون 
+<lb n="6"/>  والحمد للّه 
+<lb n="7"/>  جاپى كتابك الأوّل والآخر وفهمت ما ذكرت فيه 
+<lb n="8"/>  من حالك وحال ما قبلك وأنّك رأيت الكتاب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min wāṣili bni ʿabdi ăl lāhi ʾilà *** 
+ <lb n="3"/>fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʿāfā nā ăl lāhu wa ʾiyyā ka mina ăn nāri bi raḥmati hi 
+ <lb n="5"/>fa ʾin nī katabtu ʾilay ka wa naḥnu wa ʾahlu ka ʿalà mā tuḥibbu ʾan nakūna 
+ <lb n="6"/>wa ăl ḥamdu li ăl lāhi 
+ <lb n="7"/>ǧāʾa nī kitābu ka ăl ʾawwalu wa ăl ʾāḫaru wa fahimtu mā ḏakarta fī hi 
+ <lb n="8"/>min ḥāli ka wa ḥāli mā qibala ka wa ʾanna ka raʾayta ăl kitāba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		De la part de Wāṣil b. ʿAbd Allāh, à ...
+			<lb n="3"/>
+		Je loue pour toi Dieu qui est la seule divinité!
+			<lb n="4"/>
+		(...). Gott bewahre Dich und uns in seiner Barmherzigkeit vor dem Höllenfeuer!
+		Puis: - que Dieu nous donne la santé et te [garde] de lʾenfer par Sa miséricorde!
+			<lb n="5"/>
+		Je tʾécris, alors que nous et ta famille sont comme tu aimes que nous soyons.
+			<lb n="6"/>
+		Dieu soit loué!
+			<lb n="7"/>
+		Tes lettres me sont arrivées, lʾune et lʾautre. Jʾai compris ce que tu y mentionnais
+			<lb n="8"/>
+		de ton état et de lʾétat des tiens. Tu as vu la lettre ...
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1042" xml:id="Kraemer_Nessana_61" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 61</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Nessana_61</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21491</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن الحرث بن عبد إلى أهل نص 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">پان</supplied> <supplied reason="lost" cert="high">من</supplied> كوره عره من 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">الخلوص</supplied> <supplied reason="lost" cert="high">فأ</supplied>عطوا عسر 
+<lb n="recto 5"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤل</supplied> </lem><rdg resp="“UB”">نوفل</rdg></app> بن زيد من سعد بن ملك 
+<lb n="recto 6"/>  رزق رجب وشعبن ستّة 
+<lb n="recto 7"/>  وتسعين مدي قمح ومثله 
+<lb n="recto 8"/>  زيتا وكتب خلد في رجب 
+<lb n="recto 9"/>  من سنة خمس وخمسين 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 16"/>  فجمعته ستّة وتسعين مدي 
+<lb n="recto 17"/>  قمح ومثله زيتا 
+<lb n="recto 18"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  د<gap reason="illegible" extent="1" unit="character" />ـعمل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>mina ăl ḥāriṯi bni ʿabd:in ʾilà ʾahli naṣtāna 
+ <lb n="3"/>min kūraẗi ġazzaẗa min ʾiqlīmi 
+ <lb n="4"/>ăl ḫalūṣi fa ʾaʿṭū ʿusr 
+ <lb n="5"/>Bwfla nawfala bna zayd:in min saʿdi bni mālik:in 
+ <lb n="6"/>rizqa raǧab:in wa šaʿbāna sittaẗ:an 
+ <lb n="7"/>wa tisʿīna mudya qamḥ:in wa miṯla hu 
+ <lb n="8"/>zayt:an wa kataba ḫālid:un fī raǧab:in 
+ <lb n="9"/>min sanaẗi ḫams:in wa ḫamsīna 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="16"/>fa ǧumʿatu hu sittaẗ:un wa tisʿīna mudya 
+ <lb n="17"/>qamḥ:in wa miṯlu hu zayt:an 
+ <lb n="18"/>*** 
+ <lb n="19"/>d*ʿml 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate!
+			<lb n="2"/>
+		From al-Ḥārith ibn ʿAbd to the people of Neṣtān,
+			<lb n="3"/>
+		of the kūra of Gaza, of the iqlim 
+			<lb n="4"/>
+		al-Khalūṣ and give quickly to 
+			<lb n="5"/>
+		... ibn Zaid of the Saʿd ibn Mālik 
+			<lb n="6"/>
+		the rizq of Rajab and Shaʿbān,
+			<lb n="7"/>
+		ninety-six mudd of wheat and the same
+			<lb n="8"/>
+		of oil. Written by Khālid in Rajab
+			<lb n="9"/>
+		of the year 55
+			<lb n="16"/>
+		And its total is ninety-six mudd 
+			<lb n="17"/>
+		of wheat and the same of oil
+</ab></div>
+</body>
+</text>
+</TEI>

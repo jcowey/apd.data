@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1888" xml:id="Grohmann_APEL_377" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 377</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_377</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169625</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 recto"/>  ‮<supplied reason="lost" cert="high">جمـ</supplied>ـيع ما أ<supplied reason="lost" cert="high">دخل</supplied> في هذا الرّزنامج إلى ا<supplied reason="omitted" cert="high">لـ</supplied>ـوقت الّذي دفع فيه وهو يوم الأربعا مخير ‪ιζʹ 
+<lb n="2 recto"/>  ‮<supplied reason="lost" cert="high">لإحدى</supplied> عشرة ليلة بقيت من صفر سنة ثمان وثمانين ومائتن ‪πγχ 
+<lb n="3 recto"/>  ‮<supplied reason="lost" cert="high">مـ</supplied>ـن <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـور هذا المال حساب لكل دينر قيراط ‪γχ 
+<lb n="4 recto"/>  ‮<gap reason="illegible" precision="low" extent="3"/> وممّا استخرج من بقايا سنة ستّة وثمنين ومائتن پعما فيه من الكسر ‪βιʹβʹχ 
+<lb n="5 recto"/>  ‮<gap reason="illegible" precision="low" extent="3"/> من ذلك من البقايا ‮‪βχ‬ ومن ذلك من الكسر ‪ιʹβʹ 
+<lb n="6 recto"/>  ‮<gap reason="illegible" precision="low" extent="3"/> وممّا ارتفع من ثمن أقراط الأوسيّة سابق إلى الوقت المورح به هذا الحساب ‪λγχ 
+<lb n="7 recto"/>  ‮<supplied reason="lost" cert="high">فجميـ</supplied>ـع ذلك من الدّينر المثقال ‪ρκβϛʹηʹ 
+<lb n="8 recto"/>  ‮<supplied reason="lost" cert="high">منـ</supplied>ـها ما صرف في حساب أرض الأوسيّة ‪πϛϛʹκʹδʹ 
+<lb n="9 recto"/>  ‮من ذلك في ثمن إردب ‮‪ξϛχιʹβʹ‬ قمح ابتيعت من آناس شـ<supplied reason="lost" cert="high">ـتّى</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـأ<supplied reason="lost" cert="high">سعـ</supplied>ـار <supplied reason="lost" cert="high">مختـ</supplied>ـلـ<supplied reason="lost" cert="high">ـفة</supplied> ‪λεχγʹ 
+<lb n="10 recto"/>  ‮منه في ثمن إردب ‮‪μβχιʹβʹ‬ حساب لكل دينر إردب ‮‪αγʹ‬ ‪λεχ 
+<lb n="11 right"/>  ‮مختار عن الحسن الخبّاز ‮‪ιϛʹ‬ 
+<lb n="12 right"/>  ‮عن ثمن إردب ‮‪ιζ‬ 
+<lb n="11 left"/>  ‮وإلى هرون بن أحمد β 
+<lb n="12 left"/>  ‮ثمن إردب ‪γγʹ 
+<lb n="13 right"/>  ‮وإلى جعفر بن سليمن ‮‪δγʹ‬ 
+<lb n="14 right"/>  ‮عن ثمن إردب <app type="BL"><lem resp="APD">‮‪ζδʹ‬ </lem><rdg resp="‪transl.‬">‪ϛδʹ</rdg></app> 
+<lb n="13 left"/>  ‮وإلى نحل بن قباهة ζ 
+<lb n="14 left"/>  ‮عن ثمن إردب ‪ιαχ 
+<lb n="15 right"/>  ‮وإلى أحمد بن موسى ‮α 
+<lb n="16 right"/>  ‮عن ثمن إردب ‮‪αχ‬ 
+<lb n="15 left"/>  ‮وإلى إسمعيل بن <app type="BL"><lem resp="APD">ترعة </lem><rdg resp="APD">ترعة</rdg></app> α 
+<lb n="16 left"/>  ‮عن ثمن إردب ‪αχ 
+<lb n="17 recto"/>  ‮ومنه في ثمن إردب ‮‪κδ‬ حساب لكل دينر إردب ‮‪βγʹ‬ ‮‪ιγʹ͵χʹ 
+<lb n="18 right"/>  ‮إلى الحسن الخبّاز ‪δϛʹηʹ 
+<lb n="19 right"/>  ‮عن ثمن إردب ι 
+<lb n="18 left"/>  ‮وإلى الفضل بن مطروح ‪βχηʹ 
+<lb n="19 left"/>  ‮عن ثمن إردب ‪‪<gap reason="illegible" extent="2" unit="character" />ϛ‬ 
+<lb n="20 recto"/>  ‪‮والى بطرس الإبشائ ‪γχ‬ 
+<lb n="21 recto"/>  ‪‮عن ثمن إردب η‬ 
+<lb n="22 recto"/>  ‪‮ومن ذلك في ثمن إردب ‮‪ιηχηʹ‬ فول ابتيعت من ناس شتّى بأسعار مختلفة ‪δχ‬ 
+<lb n="23 right"/>  ‪‮منه الحسن الخبّاز ‪γχ‬ 
+<lb n="24 right"/>  ‪‮عن ثمن إردب ‪ιεχ‬ 
+<lb n="25 recto"/>  ‮حساب لكل دينر إردب ‪διʹβʹ 
+<lb n="23 left"/>  ‪‮ومن ذلك إلى أبي القسم منصور α‬ 
+<lb n="24 left"/>  ‪‮عن ثمن إردب ‪‪<gap reason="illegible" extent="1" unit="character" />γʹ 
+<lb n="26 recto"/>  ‮ومن ذلك في شرى إردب ‮‪γδʹ‬ فجل ابتيعت من ناس شتّى بأسعار مختلفة ‪γγʹ 
+<lb n="27 right"/>  ‮منه إلى الحسن الخبّاز γ 
+<lb n="28 right"/>  ‮عن ثمن إردب γ 
+<lb n="27 left"/>  ‮ومنه إلى <unclear reason="undefined" cert="high">الحكم</unclear> بن يونس <sic n="superfluous">عن</sic> ‮‪γʹ‬ <supplied reason="omitted" cert="high">عن</supplied> 
+<lb n="28 left"/>  ‮ثمن إردب ‮‪δʹ‬ حساب 
+<lb n="29 recto"/>  ‮ لكل دپپر اردپ 
+<lb n="30 recto"/>  ‮ومن ذلك في شرى إردب ‮‪ηχγʹ‬ شعير ابتيعت من ناس شتّى بأسعار مختلفة ‪ϛγʹκʹδʹ 
+<lb n="31 right"/>  ‮منه إلى عبد اللّه بن أحمد α 
+<lb n="32 right"/>  ‮عن ثمن إردب ‪<unclear reason="undefined" cert="high">γγʹ</unclear> 
+<lb n="31 left"/>  ‮وإلى <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">المپرل</unclear> </lem><rdg resp="APD">المپرك</rdg></app> بن يعقوب χ 
+<lb n="32 left"/>  ‮عن ثمن إردب ‪αχ 
+<lb n="33 right"/>  ‮وإلى رب مسرور بن <unclear reason="undefined" cert="high">أمين</unclear> ‪χηʹ 
+<lb n="34 right"/>  ‮عن ثمن إردب ‮β حساب 
+<lb n="35 right"/>  ‮لكل دينر ‪βχγʹ 
+<lb n="33 left"/>  ‮ومن <app type="BL"><lem resp="APD">دمر </lem><rdg resp="APD">دقر</rdg></app> بلالة عن ثمن إردب ‪δϛʹ 
+<lb n="34 left"/>  ‮‪ιγχγʹ‬ حساب لكل دينر <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="35 left"/>  ‮إردب ‪γγʹ 
+<lb n="36 recto"/>  ‮ومن ذلك إلى محمّد بن عبد السّلم في ثمن إردب ‮γ برسيم حساب لكل دينر إردب ‮β ‪αχ 
+<lb n="37 verso"/>  ‮ومن ذلك <supplied reason="lost" cert="high">في</supplied> أجره ‮‪υϙγ‬ حزمة على يدي الخولة حساب لكل دينر عـ<supplied reason="lost" cert="high">ـشرين</supplied> 
+<lb n="38 verso"/>  ‮حزمة دينر ‪δ<unclear reason="undefined" cert="high">χ</unclear> 
+<lb n="39  verso"/>  ‮منه على يدي عبّاد بن لقمان الخولي في أجره ‮‪τκϛχ‬ حزمة 
+<lb n="40 verso"/>  ‮حساب لكل دينر عشرين حزمة ‪ιϛγʹ 
+<lb n="41 verso"/>  ‮ومنه على يدي جبريل بن يوسف الخولي في أجره ‮‪<supplied reason="lost" cert="high">ρ‪</supplied>‬νηγʹ‬ <supplied reason="lost" cert="high">حز</supplied>مة 
+<lb n="42 verso"/>  ‮حساب لكل دينر عشرين حزمة ‪ζχγʹκʹδʹχ 
+<lb n="43 verso"/>  ‮ومنه على يدي عبيد اللّه بن أحمد الخولي في أجره ‮‪‪<supplied reason="lost" cert="high">λ</supplied>η‬ حزمة حساب‬ 
+<lb n="44 verso"/>  ‮‮لكل دينر عشرين حزمة‬ ‪γʹιʹβʹχ 
+<lb n="45 verso"/>  ‮ومن ذلك ما دفع إلى الخولة ولأجرى في أرزاقهم <app type="BL"><lem resp="APD">‪θχγʹηʹ </lem><rdg resp="‪transl.‬">‪θχγʹηʹ͵γʹ</rdg></app> 
+<lb n="46 verso"/>  ‮منه إلى الخولة β 
+<lb n="47 verso"/>  ‮عبّاد بن <supplied reason="lost" cert="high">لـ</supplied>ـقمان الخولي ‮α وإلى جبريل الخولي α 
+<lb n="48 verso"/>  ‮ومنه إلى الأجرى ‪ζχ 
+<lb n="49 verso"/>  ‮من ذلك إلى أحمد أجير العبّاد α 
+<lb n="50 verso"/>  ‮ومن ذلك إلى أخرا عبّاد بن لقمان الخولي في الرّ<supplied reason="lost" cert="high">ز</supplied>ق ‪γϛʹηʹ 
+<lb n="51 verso"/>  ‮منه إلى يحنّس ‮α قسيم الأجير χ 
+<lb n="52 verso"/>  الأجير 
+<lb n="53 verso"/>  ‮يحيى الأجير ‮‪χηʹ‬ إصطفن α 
+<lb n="54 verso"/>  الأجير 
+<lb n="55 verso"/>  ‮ومنن ذلك إلى أجرى جبريل بن يوسف في خليج قرفيل ‪αγʹκʹδʹ 
+<lb n="56 verso"/>  ‮بطرس الأجير ‮‪αγʹκʹδʹ‬ موسى الأجير α 
+<lb n="57 verso"/>  <app type="BL"><lem resp="APD">‮جناب </lem><rdg resp="APD">حناب </rdg><rdg resp="APD">خنّاب </rdg><rdg resp="APD">جناب </rdg><rdg resp="APD">حبّاب</rdg></app> الأجير α 
+<lb n="58 verso"/>  ‮ومن ذلك إلى <app type="BL"><lem resp="APD">نحّاز </lem><rdg resp="APD">نحّاز</rdg></app> <gap reason="illegible" extent="2" unit="character" />اصم في حراسة الطّير حساب ‪ϛηʹ͵γʹ 
+<lb n="59 verso"/>  ‮لكل سنـ<supplied reason="lost" cert="high">ـة</supplied> ‪ϛηʹ 
+<lb n="60 verso"/>  ‮ومنها ما دفع إلى نواطير القصب والأجير بسنّة ‪δχ 
+<lb n="61 verso"/>  ‮من ذلك إلى النّواطير في أرزاقهم γ 
+<lb n="62 verso"/>  إلى صبيح المدوّني ودينار 
+<lb n="63 verso"/>  ‮دقيقة ‮β وإلى سيمون الأسود α 
+<lb n="64 verso"/>  ‮ومن ذلك إلى قتبان الأجير في أجرته ‪αχ 
+<lb n="65 verso"/>  ومنها ما دفع إلى أبي أحمد بـكتاب أورده من أبي العبّاس أعزّه اللّه وإلى الحرّاس في أرزاقهم 
+<lb n="66 verso"/>  ‮ومن نخله ابتـ<supplied reason="lost" cert="high">ـيـ</supplied>ـعت للعبّادة ‪ϛγʹιʹβʹ 
+<lb n="67 verso"/>  ‮ومن ذلك إلى أبي أحمد ‮γ وإلى الحرّاس في أرزاقهم ‪βιʹβʹ 
+<lb n="68 verso"/>  ‮ومن ذ<supplied reason="lost" cert="high">لـ</supplied>ـك في شرى نخله للعبّادة ‮α أبو براس ‮‪ακʹδʹ‬ محمّد الأجير α 
+<lb n="69 verso"/>  ‮عيسى ا<supplied reason="lost" cert="high">لـ</supplied>ـحارس ‪γʹηʹ 
+<lb n="70 verso"/>  لشهر وأحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـد 
+<lb n="71 verso"/>  ‮ومنها ما دفع إلى آناس شتّى من المزارعين لمزيّة غلّتهم إلى كـ<supplied reason="lost" cert="high">ـلّمن</supplied> يسترجع ذلك منهم ‪δχ‪<supplied reason="lost" cert="high">δ‬ʹ‪</supplied>‬ 
+<lb n="72 verso"/>  ‮من ذلك إلى سعد بن جبريل ‮β وإلى زكريّا <supplied reason="lost" cert="high">بـ</supplied>ـن يحيى α 
+<lb n="73 verso"/>  ‮وإلى قزمان بن أبي سليخ ‮‪αδʹ‬ وإلى سامة <supplied reason="lost" cert="high">بـ</supplied>ـن خلف χ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ǧamīʿu mā ʾudḫila fī hāḏā ăr ruznāmaǧi ʾilà ăl waqti ăllaḏī dufiʿa fī hi wa huwa yawmu ăl ʾarbaʿāʾi maḫīra 17 
+ <lb n="2"/>li ʾiḥdà ʿašraẗa laylaẗ:an baqiyat min ṣafari sanaẗi ṯamān:in wa ṯamānīna wa miʾatayni 83+2/3 
+ <lb n="3"/>min ***ūr hāḏā ăl māl ḥisāb li kulli dīnār:in qīrāṭ 3+1/2 
+ <lb n="4"/>*** wa mimmā ŭstuḫriǧa min baqāyā sanaẗi sittaẗ:in wa ṯamānīna wa miʾatayni Bʿmʾ fī hi mina ăl kisari 2+1/12+1/48 
+ <lb n="5"/>*** min ḏālika mina ăl baqāyā 2+1/48 wa min ḏālika mina ăl kisari 1/12 
+ <lb n="6"/>*** wa mimmā ĭrtafaʿa min ṯamani ʾaqrāṭi ăl ʾūsiyyaẗi sābiq ʾilà ăl waqti ăl muʾarraḫi bi hi hāḏā ăl ḥisābu 33+1/48 
+ <lb n="7"/>fa ǧamīʿu ḏālika mina ăd dīnāri ăl miṯqāli 122+1/6+1/8 
+ <lb n="8"/>min hā mā ṣurifa fī ḥisābi ʾarḍi ăl ʾūsiyyaẗi 86+1/6+1/24 
+ <lb n="9"/>min ḏālika fī ṯamani ʾirdabb:in 66+1/2+1/12 qamḥ ŭbtīʿat min ʾānās:in šattà bi ʾasʿār:in muḫtalifaẗ:in 35+1/2+1/3 
+ <lb n="10"/>min hu fī ṯamani ʾirdabb:in 42+1/2+1/12 ḥisāb li kulli dīnār:in ʾirdabb 1+1/3 35+1/2 
+ <lb n="11"/>muḫtār:un ʿan ăl ḥasani ăl ḫabbāzi 10+1/6 
+ <lb n="12"/>ʿan ṯamani ʾirdabb:in 17 
+ <lb n="13"/>wa ʾilà hārūna bni ʾaḥmada 2 
+ <lb n="14"/>ṯamana ʾirdabb:in 3+1/3 
+ <lb n="15"/>wa ʾilà ǧaʿfara bni sulaymāna 4+1/3 
+ <lb n="16"/>ʿan ṯamani ʾirdabb:in 7+1/4 6+1/4 
+ <lb n="17"/>wa ʾilà naḥli bni qubāhaẗa 7 
+ <lb n="18"/>ʿan ṯamani ʾirdabb:in 11+2/3 
+ <lb n="19"/>wa ʾilà ʾaḥmada bni mūsà 1 
+ <lb n="20"/>ʿan ṯamani ʾirdabb:in 1+2/3 
+ <lb n="21"/>wa ʾilà ʾismāʿīla bni barʿaẗa tarʿaẗa 1 
+ <lb n="22"/>ʿan ṯamani ʾirdabb:in 1+2/3 
+ <lb n="23"/>wa min hu fī ṯamani ʾirdabb:in 24 ḥisāb li kulli dīnār:in ʾirdabb 2+1/3 10+1/3+1/36 
+ <lb n="24"/>ʾilà ăl ḥasani ăl ḫabbāzi 4+1/6+1/8 
+ <lb n="25"/>ʿan ṯamani ʾirdabb:in 10 
+ <lb n="26"/>wa ʾilà ăl faḍli bni maṭrūḥ:in 2+1/2+1/8 
+ <lb n="27"/>ʿan ṯamani ʾirdabb:in **+6 
+ <lb n="28"/>wa ʾilà buṭrusa ăl ʾibšāʾiyyi 3+1/2 
+ <lb n="29"/>ʿan ṯamani ʾirdabb:in 8 
+ <lb n="30"/>wa min ḏālika fī ṯamani ʾirdabb:in 18+1/2+1/8 fūl ŭbtīʿat min nās:in šattà bi ʾasʿār:in muḫtalifaẗ:in 4+1/2 
+ <lb n="31"/>‪min hu ăl ḥasanu ăl ḫabbāzu 3+1/2 
+ <lb n="32"/>ʿan ṯamani ʾirdabb:in 15+1/2 
+ <lb n="33"/>ḥisāb li kulli dīnār:in ʾirdabb 4+1/12 
+ <lb n="34"/>wa min ḏālika ʾilà ʾabī ăl qāsimi manṣūr:in 1 
+ <lb n="35"/>ʿan ṯamani ʾirdabb:in *+1/3 
+ <lb n="37"/>wa min ḏālika fī širà ʾirdabb:in 3+1/4 fiǧl ŭbtīʿat min nās:in šattà bi ʾasʿār:in muḫtalifaẗ:in 3+1/3 
+ <lb n="38"/>min hu ʾilà ăl ḥasani ăl ḫabbāzi 3 
+ <lb n="39"/>ʿan ṯamani ʾirdabb:in 3 
+ <lb n="40"/>wa min hu ʾilà ăl ḥakami bni yūnusa 1/3 ʿan 
+ <lb n="41"/>ṯamani ʾirdabb:in 1/4 ḥisāb 
+ <lb n="42"/>li kulli dīnār:in ʾirdabb 1/2+1/4 
+ <lb n="43"/>wa min ḏālika fī širà ʾirdabb:in 8+1/2+1/3 šaʿīr ŭbtīʿat min nās:in šattà bi ʾasʿār:in muḫtalifaẗ:in 6+1/3+1/24 
+ <lb n="44"/>min hu ʾilà ʿabdi ăl lāhi bni ʾaḥmada 1 
+ <lb n="45"/>ʿan ṯamani ʾirdabb:in 3+1/3 
+ <lb n="46"/>wa ʾilà ăl mBrl mBrk bni yaʿqūba 1/2 
+ <lb n="47"/>ʿan ṯamani ʾirdabb:in 1+2/3 
+ <lb n="48"/>wa ʾilà rabbi masrūri bni ʾamīn:in 2/3+1/8 
+ <lb n="49"/>ʿan ṯamani ʾirdabb:in 2 ḥisāb 
+ <lb n="50"/>li kulli dīnār:in 2+1/2+1/3 
+ <lb n="51"/>wa min dmr daqari bilālaẗa ʿan ṯamani ʾirdabb:in 4+1/6 
+ <lb n="52"/>13+1/2+1/3 ḥisāb li kulli dīnār:in * 
+ <lb n="53"/>ʾirdabb 3+1/3 
+ <lb n="54"/>wa min ḏālika ʾilà muḥammadi bni ʿabdi ăs salāmi fī ṯamani ʾirdabb:in 3 barsīm ḥisāb li kulli dīnār:in ʾirdabb 2 1+1/2 
+ <lb n="55"/>wa min ḏālika fī ʾaǧri hi 493 ḥuzmaẗ:in ʿalà yaday ăl ḫawlaẗi ḥisāb li kulli dīnār:in ʿišrīna 
+ <lb n="56"/>ḥuzmaẗ:an dīnār 4+2/3 
+ <lb n="57"/>min hu ʿalà yaday ʿabbādi bni luqmāna ăl ḫawliyyi fī ʾaǧri hi 326+2/3 ḥuzmaẗ:in 
+ <lb n="58"/>ḥisāb li kulli dīnār:in ʿišrīna ḥuzmaẗ:an 16+1/3 
+ <lb n="59"/>wa min hu ʿalà yaday ǧibrīla bni yūsufa ăl ḫawliyyi fī ʾaǧri hi 158+1/3 ḥuzmaẗ:in 
+ <lb n="60"/>ḥisāb li kulli dīnār:in ʿišrīna ḥuzmaẗ:an 7+1/2+1/3+1/24+1/48 
+ <lb n="61"/>wa min hu ʿalà yaday ʿubaydi ăl lāhi bni ʾaḥmada ăl ḫawliyyi fī ʾaǧri hi 38 ḥuzmaẗ:an ḥisāb 
+ <lb n="62"/>li kulli dīnār:in ʿišrīna ḥuzmaẗ:an 1/3+1/12+1/48 
+ <lb n="63"/>wa min ḏālika mā dufiʿa ʾilà ăl ḫawlaẗi wa li ʾuǧarà fī ʾarzāqi him 9+1/2+1/3+1/8 9+1/2+1/3+1/8+1/72 
+ <lb n="64"/>min hu ʾilà ăl ḫawlaẗi 2 
+ <lb n="65"/>ʿabbādu bnu luqmāna ăl ḫawliyyu 1 wa ʾilà ǧibrīla ăl ḫawliyyi 1 
+ <lb n="66"/>wa min hu ʾilà ăl ʾuǧarà 7+2/3 
+ <lb n="67"/>min ḏālika ʾilà ʾaḥmada ʾaǧīri ăl ʿabbādi 1 
+ <lb n="68"/>wa min ḏālika ʾilà ʾuǧarāʾi ʿabbādi bni luqmāna ăl ḫawliyyi fī ăr rizqi 3+1/6+1/8 
+ <lb n="69"/>min hu ʾilà yuḥannisa 1 qasīm:ini qusaym:ini ăl ʾaǧīri 1/2 
+ <lb n="70"/>ăl ʾaǧīri 
+ <lb n="71"/>yaḥyà ăl ʾaǧīru 2/3+1/8 ʾiṣṭafanu 1 
+ <lb n="72"/>ăl ʾaǧīru 
+ <lb n="73"/>wa min ḏālika ʾilà ʾuǧarà ǧibrīla bni yūsufa fī ḫalīǧi qarfīla 1+1/3+1/24 
+ <lb n="74"/>buṭrusu ăl ʾaǧīru 1+1/3+1/24 mūsà ăl ʾaǧīru 1 
+ <lb n="75"/>ḥabābu ḥabbāb:unu ǧanābu ḫannāb:unu ḥubābu ḥunābu ăl ʾaǧīru 1 
+ <lb n="76"/>wa min ḏālika ʾilà buḫāra naḥḥāz:in niḥḥāz:in **ʾṣm fī ḥirāsaẗi ăṭ ṭayri ḥisāb 6+1/8+1/72 
+ <lb n="77"/>li kulli sanaẗ:in 6+1/8 
+ <lb n="78"/>wa min hā mā dufiʿa ʾilà nawāṭīri ăl qaṣabi wa ăl ʾaǧīri basinnaẗa 4+1/2 
+ <lb n="79"/>min ḏālika ʾilà ăn nawāṭīri fī ʾarzāqi him 3 
+ <lb n="80"/>ʾilà ṣubayḥ:ini ăl mudawwiniyyi wa dīnāra 
+ <lb n="81"/>daqīqaẗu 2 wa ʾilà sīmūna ăl ʾaswadi 1 
+ <lb n="82"/>wa min ḏālika ʾilà qitbāna ăl ʾaǧīri fī ʾuǧrati hi 1+1/2 
+ <lb n="83"/>wa min hā mā dufiʿa ʾilà ʾabī ʾaḥmada bi kitāb:in ʾawrada hu min ʾabī ăl ʿabbāsi ʾaʿazza hu ăl lāhu wa ʾilà ăl ḥurrāsi fī ʾarzāqi him 
+ <lb n="84"/>wa min naḫli hi ŭbtīʿat li l ʿabbādaẗi 6+1/3+1/12 
+ <lb n="85"/>wa min ḏālika ʾilà ʾabī ʾaḥmada 3 wa ʾilà ăl ḥurrāsi fī ʾarzāqi him 2+1/12 
+ <lb n="86"/>wa min ḏālika fī širà naḫli hi li l ʿabbādaẗi 1 ʾabū birāsa 1+1/24 muḥammad:unu ăl ʾaǧīru 1 
+ <lb n="87"/>ʿīsà ăl ḥārisu 1/3+1/8 
+ <lb n="88"/>li šahr:in wa ʾaḥmada 
+ <lb n="89"/>wa min hā mā dufiʿa ʾilà ʾānās:in šattà mina ăl muzāriʿīna li maziyyaẗi ġallati him ʾilà kulli man yastarǧiʿu ḏālika min hum 4+1/2+1/4 
+ <lb n="90"/>min ḏālika ʾilà saʿdi bni ǧibrīla 2 wa ʾilà zakariyyāʾa bni yaḥyà 1 
+ <lb n="91"/>wa ʾilà quzmāna bni ʾabī salīḫ:in 1+1/4 wa ʾilà sāmaẗa bni ḫalaf:in 1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[The to]tal of that which [was entered] in this day-book up to the time in which the payment was effected, viz. Wednesday, Mechir 17th,
+			<lb n="2"/>
+		[when ele]ven nights were left of Ṣafar of the year two hundred and eighty-eight 83 2/3
+			<lb n="3"/>
+		[From......... ] of this money, reckoning one carat for each dînâr 3 1/2
+			<lb n="4"/>
+		and from what has been brought in of the former arrears from the year two hundred and eighty-six...... therein of the small fractions 2 1/12+1/48
+			<lb n="5"/>
+		Thereof (comes) from the arrears 2 1/48 and thereof (comes) from the small fractions 1/12
+			<lb n="6"/>
+		and from what has accrued from the (selling) price of trefoil from the estate up to the time on which this account was dated 33 1/48
+			<lb n="7"/>
+		[So the total amo]unt thereof of miṯqâlî dînâr(s) is: 122 1/6+1/8
+			<lb n="8"/>
+		There[of] what was paid on account of the land of the estate 86 1/6+1/24
+			<lb n="9"/>
+		Therefrom for the price of 66 1/2+1/12 artabas of wheat purchased from va[rious] persons at di[ff]er[ent] pr[ice]s 35 1/2+1/3
+			<lb n="10"/>
+		thereof for the price of 42 1/2+1/12 artabas reckoning at 1 1/3 artaba for each dînâr 35 1/2
+			<lb n="11"/>
+		Muḫtâr on behalf of al-Ḥasan, the baker, 10 1/6
+			<lb n="12"/>
+		on behalf of the price of 17 artabas
+			<lb n="13"/>
+		And to Harûn b. Aḥmad 2
+			<lb n="14"/>
+		(from) the price of 3 1/3 artabas
+			<lb n="15"/>
+		And to Ǧaʿfar b. Sulaimân 4 1/3
+			<lb n="16"/>
+		on behalf of the price of 6 1/4 artabas
+			<lb n="17"/>
+		And to Naḥl b. Qubâha 7
+			<lb n="18"/>
+		on behalf of the price of 11 2/3 artabas
+			<lb n="19"/>
+		And to Aḥmad b. Mûsâ 1
+			<lb n="20"/>
+		on behalf of the price of 1 2/3 artabas
+			<lb n="21"/>
+		And to Ismaʿîl b. Barʿa 1
+			<lb n="22"/>
+		on behalf of the price of 1 2/3 artabas
+			<lb n="23"/>
+		And thereof for the price of 24 artabas, reckoning at 2 1/3 artabas for each dînâr 10 1/3+2/3 carat
+			<lb n="24"/>
+		to al-Ḥasan, the baker, 4 1/6+1/8
+			<lb n="25"/>
+		on behalf of the price of 10 artabas
+			<lb n="26"/>
+		and to al-Faḍl b. Maṭrûḥ 2 1/2+1/8
+			<lb n="27"/>
+		on behalf of the of [...]6 artabas
+			<lb n="28"/>
+		And to Buṭrus, originating from Ibšâye 3 1/2
+			<lb n="29"/>
+		on behalf of the price of 8 artabas.
+			<lb n="30"/>
+		And therefrom for the price of 18 1/2+1/8 artabas beans purchased from various persons at different prices 4 1/2
+			<lb n="31"/>
+		thereof (to) al-Ḥasan, the baker 3 1/2
+			<lb n="32"/>
+		on behalf of the price of 15 1/2 artabas
+			<lb n="33"/>
+		reckoning at 4 1/12 artabas for each dînâr
+			<lb n="34"/>
+		and therefrom to Abu&#039;l-Qâsim Manṣûr 1
+			<lb n="35"/>
+		on behalf of the price of [......] 1/3 artabas
+			<lb n="37"/>
+		And therefrom for the purchase of 3 1/4 artabas radishes purchased from various person at different prices 3 1/3
+			<lb n="38"/>
+		thereof to al-Ḥasan, the baker 3
+			<lb n="39"/>
+		on behalf of the price of 3 artabas
+			<lb n="40"/>
+		and thereof to al-Ḥakam b. Yûnus at (the price of) 1/3
+			<lb n="41"/>
+		the price of 1/4 artaba, reckoning at
+			<lb n="42"/>
+		1/2+1/4 artaba for each dînâr
+			<lb n="43"/>
+		And therefrom for the purchase of 8 1/2+1/3 artabas barley purchased from various persons at different prices 6 1/3+1/24
+			<lb n="44"/>
+		thereof to ʿAbdallâh b. Aḥmad 1
+			<lb n="45"/>
+		on behalf of the price of 3 1/3 artabas
+			<lb n="46"/>
+		and to al-Mabrak (?) b. Yaʿqûb 1/2
+			<lb n="47"/>
+		on behalf of the price of 1 2/3 artabas
+			<lb n="48"/>
+		And thereof to the master of Masrûr b. Amîn 2/3+1/8
+			<lb n="49"/>
+		on behalf of the price of 2 artabas reckoning
+			<lb n="50"/>
+		at 2 1/2+1/3 for each dînâr
+			<lb n="51"/>
+		and from Daqar Bilâla on behalf of the price of 4 1/6 artabas
+			<lb n="52"/>
+		13 1/2+1/3 reckoning at 3 1/2 artabas
+			<lb n="53"/>
+		for each dînâr
+			<lb n="54"/>
+		And therefrom to Muḥammad b. ʿAbd as-Salâm for the price of 3 artabas clover reckoning at 2 artabas (for each dînâr) 1 1/2
+			<lb n="55"/>
+		and therefrom for his wages 493 bundles through the overseer reckoning at tw[enty] bundles for each dînâr
+			<lb n="56"/>
+		dînâr 4 2/3
+			<lb n="57"/>
+		Thereof through ʿAbbâd b. Luqmân, the overseer, for his wages 326 2/3 bundles,
+			<lb n="58"/>
+		reckoning at twenty bundles for each dînâr 16 1/3
+			<lb n="59"/>
+		And thereof throught Ǧibrîl b. Yûsuf, the overseer, for his wages [1]58 1/3 [bund]les
+			<lb n="60"/>
+		reckoning at twenty bundles for each dînâr 7 1/2+1/3+1/24+1/48
+			<lb n="61"/>
+		and thereof through ʿUbaidallâh b. Aḥmad, the overseer, for his wages [3]8
+			<lb n="62"/>
+		twenty bundles for each dînâr 1/3+1/12+1/48
+			<lb n="63"/>
+		and therefrom what has been paid to the overseers and the journeymen for their maintenance 9 1/2+1/3+1/8+1/3 carat
+			<lb n="64"/>
+		thereof to the overseers 2
+			<lb n="65"/>
+		to ʿAbbâd b. [Lu]qmân, the overseer, 1, and to Ǧibrîl, the overseer, 1
+			<lb n="66"/>
+		and thereof to the journeymen 7 2/3
+			<lb n="67"/>
+		and therefrom to Aḥmad, the journeyman of ʿAbbâd, 1
+			<lb n="68"/>
+		and therefrom to the journeymen of ʿAbbâd b. Luqmân, the overseer for main&lt;ten&gt;ance 3 1/6+1/8
+			<lb n="69"/>
+		thereof to Yoḥannes 1, Qasîm, the journeyman, 1/2
+			<lb n="70"/>
+		the journeyman,
+			<lb n="71"/>
+		Yaḥyâ, the journeyman, 2/3+1/8, Stephen, 1
+			<lb n="72"/>
+		the journeyman,
+			<lb n="73"/>
+		And therefrom to the journeymen of Ǧibrîl b. Yûsuf for the canal of Qarfîl 1 1/3+1/24
+			<lb n="74"/>
+		Buṭrus, the journeyman, 1 1/3+1/24, Mûsâ, the journeyman, 1
+			<lb n="75"/>
+		Ḥubâb, the journeyman, 1
+			<lb n="76"/>
+		And therefrom to Buḫâr, [...]âṣim for his watching against the birds reckoning at 1/6+1/8+1/3 carat
+			<lb n="77"/>
+		for each yea[r] 6 1/8
+			<lb n="78"/>
+		And thereof what has been paid to the watchmen of sugar cane and the journeyman Basinne 4 1/2
+			<lb n="79"/>
+		therefrom to the watchmen for their maintenance 3
+			<lb n="80"/>
+		to Ṣubaiḥ, the registrar, and Dînâr
+			<lb n="81"/>
+		and Daqîqa 2 and Sîmûn, the black, 1
+			<lb n="82"/>
+		and therefrom to Qitbân, the journeyman, for his wages 1 1/2
+			<lb n="83"/>
+		And thereof what has been paid to Abû Aḥmad according to the letter which he had forwarded from the side of Abu&#039;lʿAbbâs - may God exalt him -, and to the watchmen for their maintenance
+			<lb n="84"/>
+		and for his palm-grove, sold to al-ʿAbbâda 6 1/3+1/12
+			<lb n="85"/>
+		therefrom to Abû Ahmad 3, and to the watchmen for their maintenance 2 1/12
+			<lb n="86"/>
+		and the[re]from for the sale of his palm-grove to al-ʿAbbâda 1, Abû Piras 1 1/24, Muḥammad, the journeyman, 1
+			<lb n="87"/>
+		ʿIsà the watchman, 1/3+1/8
+			<lb n="88"/>
+		for Šahr and Aḥ[ma]d
+			<lb n="89"/>
+		And thereof what has been paid to various persons of the farmers for the surplus out of their harvest to [whomso]ever takes this back from them 4 1/2[+1/4]
+			<lb n="90"/>
+		therefrom to Saʿd b. Ǧibrîl 2 and to Zikrî b. Yaḥyâ 1
+			<lb n="91"/>
+		and to Quzmân b. Abî Salîḫ 1 1/4 and to Sâma [ib]n Ḫalaf 1/2
+</ab></div>
+</body>
+</text>
+</TEI>

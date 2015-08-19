@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2450" xml:id="Diem_Steuerquittungen_140" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_140</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1-2 first column"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1-2 second column"/>  ÷ دينر 
+<lb n="1-2 third column"/>  ÷÷÷ دينر 
+<lb n="1-2 fourth column"/>  دينر ÷÷÷÷ 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أدّى بسيل الأطروني عن الخردل بأبسو 
+<lb n="5"/>  دينار واحد وثلث وربع دينر إلى أبسطرابة 
+<lb n="6"/>  بن بريم لخراج سنة ثلثين وثلثمائة 
+<lb n="7"/>  ÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>* *** 
+ <lb n="2"/>2/3 dīnār:in 
+ <lb n="3"/>1/2+1/3+1/24 dīnār:in 
+ <lb n="4"/>dīnār:un 1+1/2+1/12 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>ʾaddà basīl:unu ăl ʾaṭrūniyyu ʿani ăl ḫardali bi ʾabsū 
+ <lb n="7"/>dīnār wāḥid wa ṯulṯa wa rubʿa dīnār:in ʾilà ʾabasṭrābaẗa 
+ <lb n="8"/>bni brīma li ḫarāǧi sanaẗi ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="9"/>330 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		2/3 Dinar
+			<lb n="3"/>
+		1/2 1/3 1/24 Dinar
+			<lb n="4"/>
+		1 1/2 1/12 Dinar
+			<lb n="5"/>
+		Im Namen Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="6"/>
+		Es zahlte Basīl al-Aṭrūnī für (den Anbau von) Senf in Absū
+			<lb n="7"/>
+		einen Dinar und ein Drittel und ein Viertel eines Dinars an Apasṭrābe
+			<lb n="8"/>
+		ibn Prīm für die Steuer des Jahres dreihundertdreißig
+			<lb n="9"/>
+		330
+</ab></div>
+</body>
+</text>
+</TEI>

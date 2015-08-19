@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="506" xml:id="Becker_NPAF_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 13 (= P.Cair.Arab. 160)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">45343</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="- (P.Cair.Arab. 1)"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1 (P.Cair.Arab. 2)"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2 (P.Cair.Arab. 3)"/>  هذا كتب من قرّة بن شريك 
+<lb n="3 (P.Cair.Arab. 4)"/>  لأهل <app type="BL"><lem resp="APD">شبرا </lem><rdg resp="“Moritz”">سيوا</rdg></app> بسيرو من كورة إشقوه إنّه 
+<lb n="4 (P.Cair.Arab. 5)"/>  پكم من جزية سنة ثمان وثمنين مائة دينر وأربعة 
+<lb n="5 (P.Cair.Arab. 6)"/>  دننير <app type="BL"><lem resp="“Becker, Moritz”">وثلث </lem><rdg resp="“Grohmann”">وثلثي</rdg></app> دينر عددا ومن ضريبة الّطعام أحد 
+<lb n="6 (P.Cair.Arab. 7)"/>  <unclear reason="undefined" cert="high">عشر</unclear> <unclear reason="undefined" cert="high">إردبّ</unclear> قمح وثلث إردب وكتب 
+<lb n="7 (P.Cair.Arab. 8)"/>  راشد في صفر من سنة إحدى وتسعين 
+<lb n="8 (P.Cair.Arab. 9)"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9 (P.Cair.Arab. 10)"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10 (P.Cair.Arab. 11)"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11 (P.Cair.Arab. 12-13)"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min qurraẗa bni šarīka 
+ <lb n="4"/>li ʾahli šubrā sīwā bisīrū min kūraẗi ʾišqawha ʾinna hu 
+ <lb n="5"/>ʾaṣāba kum min ǧizyaẗi sanaẗi ṯamān:in wa ṯamānīna miʾaẗu dīnār:in wa ʾarbaʿaẗu 
+ <lb n="6"/>danānīra wa ṯulṯu ṯulṯay dīnār:in ʿadad:an wa min ḍarībaẗi ăṭ ṭaʿāmi ʾaḥada 
+ <lb n="7"/>ʿašara ʾirdabb qamḥ wa ṯulṯu ʾirdabb:in wa kataba 
+ <lb n="8"/>rāšid:un fī ṣafar:in min sanaẗi ʾiḥdà wa tisʿīna 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful. 
+			<lb n="3"/>
+		This is a letter from Qorra b. Šarîk 
+			<lb n="4"/>
+		to the people of Šubrâ Psîrû of the district of Išqauh. Verily, it hath fallen upon 
+			<lb n="5"/>
+		you (as your part) of the gold-tax of the year eighty-eight, hundred and four counted 
+			<lb n="6"/>
+		dînârs and a third of a dînâr, and of the corn-tax e-
+			<lb n="7"/>
+		leven artabas and a third artaba of wheat, and Râšid 
+			<lb n="8"/>
+		has written (it) in Ṣafar of the year ninety-one.
+</ab></div>
+</body>
+</text>
+</TEI>

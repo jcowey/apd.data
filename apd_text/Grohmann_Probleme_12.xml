@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="729" xml:id="Grohmann_Probleme_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106810</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮تيبه ‪κη‬ الرّقعة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮‪‭χγ΄η΄χ‬‬‬ 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أدّى سليمن بن بقطر عمّا يلزمه 
+<lb n="5"/>  من خراج سيسنّوا نصف وثلث 
+<lb n="6"/>  وثمن وسدس ثمن مثقال إلى 
+<lb n="7"/>  فرج بن عبد اللّه لخراج 
+<lb n="8"/>  ‮سنة ‪σις‬‬ 
+<lb n="seal"/>  فرج بن عبد اللّه <app type="BL"><lem resp="APD">المستعين </lem><rdg resp="Diem">مستعين</rdg></app> بعز اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>tībah 28 ăr ruqʿaẗu *** 
+ <lb n="2"/>1/2+1/3+1/8+1/48 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà sulaymānu bnu buqṭura ʿammā yalzamu hu 
+ <lb n="5"/>min ḫarāǧi sīsinnū niṣfa wa ṯulṯa 
+ <lb n="6"/>wa ṯumna wa sudsa ṯumni miṯqāl:in ʾilà 
+ <lb n="7"/>faraǧi bni ʿabdi ăl lāhi li ḫarāǧi 
+ <lb n="8"/>sanaẗi 216 
+ <lb n="9"/>faraǧu bnu ʿabdi ăl lāhi ăl mustaʿīnu mustaʿīn:un bi ʿizzi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		28. Tybi      folio ....
+			<lb n="2"/>
+		1/2+1/3+1/8+1/48
+			<lb n="3"/>
+		Im Namen Gottes des Barmherzigen, Gütigen!
+			<lb n="4"/>
+		Gezahlt hat Sulaimān b. Boqṭor (Viktor) von seiner Schuldigkeit
+			<lb n="5"/>
+		an Grundsteuer von Sīsinnū einen halben und ein Drittel
+			<lb n="6"/>
+		und ein Achtel und ein Achtundvierzigstel Miṯqāl an
+			<lb n="7"/>
+		Faraǧ b. ʿAbdallāh für die Steuer
+			<lb n="8"/>
+		des Jahres 216.
+			<lb n="9"/>
+		Faraǧ ibn ʿAbd Allāh sucht Hilfe bei der Macht Gottes
+		Siegel: Faraǧ b. ʿAbdallāh, der um Hilfe durch die Macht Gottes bittet.
+</ab></div>
+</body>
+</text>
+</TEI>

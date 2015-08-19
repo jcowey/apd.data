@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2618" xml:id="Grohmann_Mird_47" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 47 (= P.KisterLetter = P.DiemStelle)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_47</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="14" unit="character" /> </lem><rdg resp="Kister"><gap reason="illegible" precision="low" extent="3"/> </rdg><rdg resp="Kister">عمّا </rdg><rdg resp="Kister">اللّه </rdg><rdg resp="Kister">كـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> 
+ <lb n="2"/>  وإنّي <app type="BL"><lem resp="APD">أسئل </lem><rdg resp="Diem">أسأل</rdg></app> اللّه أن يمتّعني بك 
+ <lb n="3"/>  <app type="BL"><lem resp="APD">وأ<unclear reason="undefined" cert="high">حـ</unclear>ـمّه </lem><rdg resp="Levi della Vida">وأحمده </rdg><rdg resp="Kister">وبا<gap reason="illegible" extent="1" unit="character" />حمه </rdg><rdg resp="Diem">وليّ </rdg><rdg resp="Diem">حبّه</rdg></app> وأن لا <app type="BL"><lem resp="APD">يديّن </lem><rdg resp="Kister">يدبر </rdg><rdg resp="Diem">يريني</rdg></app> يومك 
+ <lb n="4"/>  <app type="BL"><lem resp="APD">إلّا </lem><rdg resp="APD">إلّا</rdg></app> يومك خير فإذا جاك 
+ <lb n="5"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كتـ</supplied>ـا<supplied reason="lost" cert="high">بي</supplied> </lem><rdg resp="Diem">كتبي</rdg></app> <supplied reason="lost" cert="high">هذ</supplied>ا <app type="BL"><lem resp="APD"><gap reason="illegible" extent="11" unit="character" /> </lem><rdg resp="Diem">فـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>************** *** ʿammā ăl k*** lāhu 
+ <lb n="2"/>wa ʾin nī ʾasʾilu ʾasʾalu ăl lāha ʾan yumattiʿa nī bi ka 
+ <lb n="3"/>wa ø ø waliyy ḥubbi ʾaḥummu ʾaḥmadu bʾ*ḥm hi hu ø h wa ʾan lā yudayyina yadburu nī yuriya yawma yawmu ka ø ʾillā bi ḫayr:in 
+ <lb n="4"/>ʾalā ʾillā yawmu ka ḫayr:un fa ʾiḏā ǧāʾa ka 
+ <lb n="5"/>kitāb ī hāḏā *********** F*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  and I beg God to let me derive pleasure from (being with) you
+ 	  And verily, I pray God that He may cause me to profit by you
+ 	  Und ich bitte Gott darum, daß er mir durch Dich
+		 <lb n="3"/>
+ 	  als Träger seiner Liebe Freude gebe und daß er mich Deinen Tag nicht sehen lasse,
+ 	  and ........., and that He may not revile your day;
+ 	  and (?) and that your day should not turn its back
+ 	  and I praise Him - and that He may not judge your (doom-) day save in the best way.
+		 <lb n="4"/>
+ 	  but that good (things, e.g. luck, prosperity etc.) should turn their face towards you. And when (my letter) comes to you ...
+ 	  is your day not excellent? But when [thi]s
+ 	  ohne daß Dein Tag etwas Gutes sei. Wenn Dich also
+		 <lb n="5"/>
+ 	  [dies]er [mein Brief] erreicht, [dann]
+ 	  [my let]t[er has reached you ...]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

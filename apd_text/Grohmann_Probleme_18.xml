@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="718" xml:id="Grohmann_Probleme_18" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 18</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_18</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106799</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  پسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  هذا كتاب براه من يونس بن عبد الرّحمن عامل الأمير عبّاد بن محمّد أبقاه اللّه 
+ <lb n="3"/>  على خراج كورة الفيّوم ومعونتها وجميع أعمالها 
+ <lb n="4"/>  أبقيره الخبّاز من سكّان أبا بطره من مدينة الفيّوم 
+ <lb n="5"/>  وهو مجتمع أبيض أقنى أزج أنزع سبط جئر الجسم 
+ <lb n="6"/>  إنّي قبضت منك جزية رأسك نصف دينر 
+ <lb n="7"/>  لخراج سنة خمس وتسعين وماية فمن لقيه من عمّال الأمير أبقاه اللّه 
+ <lb n="8"/>  وعمّالي وأعواني فلا يعرض له إلّا بخير إن شا اللّه 
+ <lb n="9"/>  وكتب في شهر رمضان سنة ست وتسعين وماية 
+ <lb n="seal"/>  باللّه يومن يونس بن عبد الرّحمن 
+ <lb n="10"/>  <app type="BL"><lem resp="APD"><expan><abbr>أبقير</abbr><ex>ه</ex></expan> </lem><rdg resp="Diem">اپرپدح</rdg></app> <app type="BL"><lem resp="APD"><expan><abbr>يد</abbr><ex>فع</ex></expan> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD"><expan><abbr>جـ</abbr><ex>ـزية</ex></expan> </lem><rdg resp="Diem">راپه</rdg></app> <app type="BL"><lem resp="APD"><expan><abbr>ر</abbr><ex>أسه</ex></expan> </lem><rdg resp="Diem">رپپد</rdg></app> <app type="BL"><lem resp="APD"><expan><abbr>نـ</abbr><ex>ـفسـ</ex><abbr>ـه</abbr></expan> </lem><rdg resp="Diem">ø</rdg></app> 
+ <lb n="11"/>  <sic n="superfluous">مر</sic> <expan><ex>قيراط</ex></expan> ιβ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitābu barāʾaẗ:in min yūnusa bni ʿabdi ăr raḥmāni ʿāmili ăl ʾamīri ʿabbāda bni muḥammad:in ʾabqā hu ăl lāhu 
+ <lb n="3"/>ʿalà ḫarāǧi kūraẗi ăl fayyūmi wa maʿūnati hā wa ǧamīʿi ʾaʿmāli hā 
+ <lb n="4"/>ʾabaqīrahu ăl ḫabbāzu min sukkāni ʾabā baṭraha min madīnaẗi ăl fayyūmi 
+ <lb n="5"/>wa huwa muǧtamiʿ:un ʾabyaḍu ʾaqnà ʾazaǧǧu ʾanzaʿu sabṭ:un ǧiʾru ăl ǧismi 
+ <lb n="6"/>ʾin nī qabaḍtu min ka ǧizyaẗa raʾsi ka niṣfa dīnār:in 
+ <lb n="7"/>li ḫarāǧi sanaẗi ḫams:in wa tisʿīna wa miʾaẗ:in fa man laqiya hu min ʿummāli ăl ʾamīri ʾabqā hu ăl lāhu 
+ <lb n="8"/>wa ʿummāl ī wa ʾaʿwān ī fa lā yaʿriḍ la hu ʾillā bi ḫayr:in ʾin šāʾa ăl lāhu 
+ <lb n="9"/>wa kutiba fī šahri ramaḍāna sanaẗi sitt:in wa tisʿīna wa miʾaẗ:in 
+ <lb n="10"/>bi ăl lāhi yuʾminu yūnusu bnu ʿabdi ăr raḥmāni 
+ <lb n="11"/>ʾabaqīrahu ʾBrBdḥ yadfaʿu ø ǧizyaẗa rʾBh raʾsi rBBd hi nafsu ø hu 
+ <lb n="12"/>qīrāṭ:un 12 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes des Barmherzigen, Gütigen!
+		 <lb n="2"/>
+ 	  Dies ist die Quittungsurkunde von Yūnus b. ʿAbd ar-Raḥmān, dem Finanzinspektor des Amīrs ʿAbbād b. Muḥammad - Gott erhalte ihn -
+		 <lb n="3"/>
+ 	  über die Steuer, die außerordentliche Steuer und alle Verwaltungsbezirke des Kreises von al-Fayyūm
+		 <lb n="4"/>
+ 	  Aba Qīre, der Bäcker, gehörig zu den Einwohnern (der Straße) Abā Baṭre von Madīnat al-Fayyūm,
+		 <lb n="5"/>
+ 	  dieser ist gedrungen, hellfarbig, adlernasig, mit schmalen geschwungenen Augenbrauen, kahl an den Stirnseiten, schlichthaarig, wohlbeleibt.
+		 <lb n="6"/>
+ 	  Ich habe von dir deine Kopfsteuer, einen halben Dīnār, empfangen
+		 <lb n="7"/>
+ 	  für die Steuer des Jahres einhundertfünfundneunzig. Wer ihm also von den Finanzbeamten des Amīrs - Gott erhalte ihn -
+		 <lb n="8"/>
+ 	  und meinen Finanzbeamten und meinen Helfern begegnet, der trete ihm nur in Gutem entgegen, so Gott will.
+		 <lb n="9"/>
+ 	  Geschrieben im Monat Ramaḍān des Jahres hundertsechsundneunzig.
+		 <lb n="10"/>
+ 	  Siegel: An Gott glaubt Yūnus b. ʿAbd ar-Raḥmān
+		 <lb n="11"/>
+ 	  Aba Qīr(e) za(hlt) seine Kopfsteuer persönlich
+		 <lb n="12"/>
+ 	  Karate 12.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="455" xml:id="Raghib_March_2_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106645</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أكرمك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بطا</supplied>عته وتولّاك بحفظ الإيمان وأطال عمرك وحسّن عملك وكان لك وليّا وحافظا 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> بستر العافيـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> إنّّي أوصيتك <app type="BL"><lem resp="APD">يابني </lem><rdg resp="APD">يابنيّ</rdg></app> إن أصابني قدري فأنت 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> الموت <gap reason="illegible" extent="2" unit="character" /> الـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> وأبقاك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لأن الزّرع إنّما كان الرّجل يجعله <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> حرص لـ<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">يابني </lem><rdg resp="APD">يابنيّ</rdg></app> فإنّك تمنع ما <gap reason="illegible" extent="4" unit="character" /> لك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> يقام كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> هو للصّبيان وقل لابن مهاجر يا سيّد 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أنا ألفّها في 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> الأربعا ولا تتوانا ولا تودي 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> اللّه ما فيه وسرّني فيك 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> القرط 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ما</supplied> أنا فيه والسّلم 
+<lb n="13"/>  <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">ورحمت</supplied> اللّه وبركاته 
+<lb n="top right 1"/>  <supplied reason="lost" cert="high">لأبي</supplied> <supplied reason="lost" cert="high">هريرة</supplied> أكرمه اللّه بطا<supplied reason="lost" cert="high">عته</supplied> 
+<lb n="top right 2"/>  <supplied reason="lost" cert="high">جعفر</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> عبد المومن 
+<lb n="top left 1"/>  من أبيه 
+<lb n="top left 2"/>  أحمد بن عبد المومن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa tawallā ka bi ḥifẓi ăl ʾīmāni wa ʾaṭāla ʿumra ka wa ḥassana ʿamala ka wa kāna la ka waliyy:an wa ḥāfiẓ:an 
+ <lb n="3"/>*** ** bi sitri ăl ʿāfiyaẗi *** ʾinn ī ʾawṣaytu ka yā ĭbn bunay ī ya ʾin ʾaṣāba nī qadar ī fa ʾanta 
+ <lb n="4"/>*** ** ăl mawt ** ăl *** **** **** *** wa ʾabqā ka *** 
+ <lb n="5"/>*** *** **** *** *** liʾanna ăz zarʿa ʾinnamā kāna ăr raǧulu yaǧʿalu hu *** 
+ <lb n="6"/>*** ḥrṣ l**** **** *** *** yā ĭbn bunay ī ya fa ʾinna ka tamnaʿu mā **** la ka *** 
+ <lb n="7"/>*** yuqāmu k**** *** huwa li ṣ ṣibyāni wa qul li ĭbni muhāǧir:in yā sayyid 
+ <lb n="8"/>*** *** ʾanā ʾaluffu hā fī 
+ <lb n="9"/>*** *** ăl ʾarbaʿāʾ wa lā tatawānā wa lā tuwdī 
+ <lb n="10"/>*** *** ăl lāh mā fī hi wa sarra nī fī ka 
+ <lb n="11"/>*** ăl qurṭ 
+ <lb n="12"/>*** mā ʾanā fī hi wa ăs salāmu 
+ <lb n="13"/>ʿalay ka wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="14"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="15"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="16"/>min ʾabī hi 
+ <lb n="17"/>ʾaḥmada bni ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de] Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		[Que Dieu t&#039;honore par l&#039;obéis]ance (qui Lui est due) et te secoure en te gardant la foi, qu&#039;Il prolonge ta vie, embellisse tes actions et devienne pour toi un patron et un protecteur!
+			<lb n="3"/>
+		[....] par la protection de la paix! [....] Je t&#039;ai recommandé, mon fils, si ma destinée me frappe. Tu
+			<lb n="4"/>
+		[....] .. la mort [.....] .... et te conserve! ....
+			<lb n="5"/>
+		[....] .... [....] .... parce que les semences, l&#039;homme les avait seulement faites ....
+			<lb n="6"/>
+		[....] .... [....] .... mon fils, tu interdis ce .... pour toi ....
+			<lb n="7"/>
+		[.....] .... [....] .... pour les gamins. Dis à Ibn Muhāǧir: «Sayyid,
+			<lb n="8"/>
+		[.....] ..... je l&#039;envelopperai dans
+			<lb n="9"/>
+		[.....] le mercredi. Ne tarde pas et ne paie pas
+			<lb n="10"/>
+		[....] .... Dieu, ce que s&#039;y trouve. Qu&#039;Il me réjouisse en toi
+			<lb n="11"/>
+		[....] la luzerne.
+			<lb n="12"/>
+		[....] l&#039;état où je suis. Que le salut soit
+			<lb n="13"/>
+		[sur toi, ainsi que la miséricorde] de Dieu et Ses bénédictions!
+			<lb n="14"/>
+		[A Abū Hurayra] - que Dieu l&#039;honore par l&#039;obéis[sance] (qui Lui est due)!
+			<lb n="15"/>
+		[Ǧaʿfar b. Aḥmad b.] ʿAbd al-Muʾmin.
+			<lb n="16"/>
+		De la part de son père,
+			<lb n="17"/>
+		Aḥmad b. ʿAbd al-Muʾmin.
+</ab></div>
+</body>
+</text>
+</TEI>

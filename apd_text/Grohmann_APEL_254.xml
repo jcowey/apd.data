@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1971" xml:id="Grohmann_APEL_254" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 254</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_254</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169703</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الحسين بن عبد الرّحـ<supplied reason="lost" cert="high">ـمن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  وعن ملكه وپرپطـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ابن عبد اللّه <unclear reason="undefined" cert="high">أدّى</unclear> عن نـ<supplied reason="lost" cert="high">ـفسه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  مع جالية ر<supplied reason="lost" cert="high">أسـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  قزمان بن بنة عن نـ<supplied reason="lost" cert="high">ـفسه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وممّـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  محمّد بن عبد اللّه عن نـ<supplied reason="lost" cert="high">ـفسه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  عن إسحق بن ألفي ر<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  منا بن إصطـ<supplied reason="lost" cert="high">ـفن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  حمدونة ابنته <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  جعفر بن أحمد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  يزيد بن عبيد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  يحنّس فاسيـ<supplied reason="lost" cert="high">ـلة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥusaynu bnu ʿabdi ăr raḥmāni *** 
+ <lb n="2"/>wa ʿan milki hi wa BrBṭ** *** 
+ <lb n="3"/>ĭbnu ʿabdi ăl lāhi ʾaddà ʿan nafsi hi *** 
+ <lb n="4"/>maʿa ǧāliyaẗi raʾsi hi *** 
+ <lb n="5"/>quzmānu bnu banaẗa ʿan nafsi hi *** 
+ <lb n="6"/>wa mimman *** 
+ <lb n="7"/>muḥammadu bnu ʿabdi ăl lāhi ʿan nafsi hi *** 
+ <lb n="8"/>ʿan ʾisḥāqa bni ʾalfiyy:in r** *** 
+ <lb n="9"/>minā bnu ʾiṣṭafana *** 
+ <lb n="10"/>ḥamdūnaẗu ĭbnatu hu *** 
+ <lb n="11"/>ǧaʿfaru bnu ʾaḥmada *** 
+ <lb n="12"/>yazīdu bnu ʿubayd:in *** 
+ <lb n="13"/>yuḥannisu fāsīlaẗa *** 
+ <lb n="14"/>***** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		al-Ḥusain b. ʿAbd ar-Raḥm[ân
+			<lb n="2"/>
+		and on behalf of his property and .... [
+			<lb n="3"/>
+		Ibn ʿAbdallâh, he paid for him[self
+			<lb n="4"/>
+		including his poll-tax ... [
+			<lb n="5"/>
+		Quzmân, son of Bane, for him[self
+			<lb n="6"/>
+		and of that [which
+			<lb n="7"/>
+		Muḥammad b. ʿAbdallâh for hi[mself
+			<lb n="8"/>
+		On behalf of Isḥâq b. Alfî ...[
+			<lb n="9"/>
+		Minâ b. Iṣṭa[fan
+			<lb n="10"/>
+		Ḥamdûna, his daughter [
+			<lb n="11"/>
+		Ǧaʿfar b. Aḥmad [
+			<lb n="12"/>
+		Yazîd b. ʿUbaid [
+			<lb n="13"/>
+		Yoḥannes Fâsî[le
+			<lb n="14"/>
+</ab></div>
+</body>
+</text>
+</TEI>

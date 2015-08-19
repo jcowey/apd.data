@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1204" xml:id="Abbott_Mutawakkil_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AbbottMutawakkil 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Mutawakkil_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169042</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto2"/>  ذكر حال ينجمع من مساحة قرية تدعى بشبان وقرحتا بجبالا من <supplied reason="lost" cert="high">إقليم</supplied> <supplied reason="lost" cert="high">جبل</supplied> <supplied reason="lost" cert="high">الجليل</supplied> <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto3"/>  غور أخضر قسما لليقة تل <unclear reason="undefined" cert="high">المدين</unclear> أمر به عبد اللّه جعفر الإمام المتوكّل على <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أمير</supplied> <supplied reason="lost" cert="high">المومپپن</supplied> <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاه</supplied> <supplied reason="lost" cert="high">وجرى</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يد</supplied> 
+<lb n="recto4"/>  <supplied reason="lost" cert="high">أ</supplied>حمد بن محمّد عامل الأمير إبراهيم الموپد باللّه ولي عهد المسلمين وأمير المو<supplied reason="lost" cert="high">مپپن</supplied> <supplied reason="lost" cert="high">أعزّهما</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بجند</supplied> <supplied reason="lost" cert="high">دمشق</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">إحدى</supplied> <supplied reason="lost" cert="high">وأربعين</supplied> <supplied reason="lost" cert="high">ومائتين</supplied> 
+<lb n="recto5"/>  لدا <app type="BL"><lem resp="“sīn with dash above”">المساح </lem><rdg resp="“UB”">المسّاح</rdg></app> عبد اللّه بن يوسف وعبد الصّمد بن زهير والأمر لأمير الأبنيا <supplied reason="lost" cert="high">والشّهود</supplied> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto6"/>  بن شعيا وأحمد بن عبد الكريم وعبد اللّه بن محمّد الحد الأوّل من القبلة قرية عين سمسـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">والحدّ</supplied> <supplied reason="lost" cert="high">الثاني</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الشرق</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="“UB”">قرية</rdg></app> 
+<lb n="recto7"/>  والمر بقربه والحد الثّالث طرائف أبا والحد الرّابع من الغرب قرية <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">مشقّق</unclear> </lem><rdg resp="APD">مشقوق </rdg><rdg resp="APD">مقضية </rdg><rdg resp="APD">مفعلى </rdg><rdg resp="APD">مقصورة </rdg><rdg resp="APD">معصب </rdg><rdg resp="APD">سقفية </rdg><rdg resp="APD">شقعة </rdg><rdg resp="APD">شقيف </rdg><rdg resp="APD">سقيق </rdg><rdg resp="APD">مشقّر</rdg></app> وا<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto8"/>  أهل القرية خمسة وعذي خمسة <supplied reason="omitted" cert="high">و</supplied>عشرين جلّا في إثنا عشر جلّا <supplied reason="lost" cert="high">ثلاثمئة</supplied> <supplied reason="lost" cert="high">جلّ</supplied> 
+<lb n="recto9"/>  ولهم <supplied reason="omitted" cert="high">أرض</supplied> وسط عذي ثمنية عشر جلّا في أحد عشر جلّا <supplied reason="lost" cert="high">مائة</supplied> <supplied reason="lost" cert="high">وثمنية</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> <supplied reason="lost" cert="high">جلّا</supplied> 
+<lb n="recto10"/>  ولهم رزن عذي عشرين جلّا في عشرة أجل <supplied reason="lost" cert="high">مائتين</supplied> <supplied reason="lost" cert="high">جلّ</supplied> 
+<lb n="recto11"/>  ولهم أرض جيّد عذي عشرة أجل في عشرة أجل <supplied reason="lost" cert="high">مائة</supplied> <supplied reason="lost" cert="high">جلّ</supplied> 
+<lb n="recto12"/>  الزّيتون ثلثة أصـ<supplied reason="lost" cert="high">ـول</supplied> غرس الزّيتون عشرين أصلا 
+<lb n="recto13"/>  الفاكهة عشرين أصلا 
+<lb n="recto14"/>  ولهم أندا <supplied reason="omitted" cert="high">أ</supplied>حد عشر في جـ<supplied reason="lost" cert="high">ـلّين</supplied> <supplied reason="lost" cert="high">اثنين</supplied> <supplied reason="lost" cert="high">وعشرين</supplied> <supplied reason="lost" cert="high">جلّا</supplied> 
+<lb n="recto15"/>  ولهم عرام وقلاع ومسلأ ومصل وأوضام 
+<lb n="recto16"/>  وإنّه يجمع ثلثة وأربعين أصلا ثمنما<supplied reason="lost" cert="high">ئة</supplied> <supplied reason="lost" cert="high">و</supplied>اثنين وعشرين جلّا وثمنية أرابع 
+<lb n="verso1"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حال</supplied> <supplied reason="lost" cert="high">ينجمع</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">مساحة</supplied> قرية تدعى بشبان وقرحتا بجبالا من إقليم جبل الجليل 
+<lb n="verso2"/>  فائق بن عبد اللّه بن هرون 
+<lb n="verso3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso4"/>  عمر بن هرون 
+<lb n="verso5"/>  د<sic n="superfluous">ر</sic>مشق 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥāl:in yanǧamiʿu min misāḥaẗi qaryaẗ:in tudʿà bi šibāna wa qaraḥtā bi ǧibāl:an min ʾiqlīmi ǧabali ăl ǧalīli min ***** 
+ <lb n="3"/>ġawr ʾaḫḍar qism:an li līqaẗi talli ăl madīni madyani ʾamara bi hi ʿabdu ăl lāhi ǧaʿfaru ăl ʾimāmu ăl mutawakkilu ʿalà ăl lāhi ʾamīru ăl muʾminīna ʾaṭāla ăl lāhu baqāʾa hu wa ǧarà ʿalà yadi 
+ <lb n="4"/>ʾaḥmada bni muḥammad:in ʿāmili ăl ʾamīri ʾibrāhīma ăl muʾayyadi bi ăl lāhi waliyyi ʿahdi ăl muslimīna wa ʾamīri ăl muʾminīna ʾaʿazza humā ăl lāhu bi ǧundi dimašqa fī sanaẗi ʾiḥdà wa ʾarbaʿīna wa miʾatayni 
+ <lb n="5"/>ladā ăl massāḥi misāḥi ʿabdi ʿabdu ăl lāhi bni bnu yūsufa ʿabdi wa ʿabdu ăṣ ṣamadi bni bnu zuhayr:in wa ăl ʾamru li ʾamīri ăl ʾabniyāʾi wa ăš šuhūdu ***** 
+ <lb n="6"/>bnu šaʿyā wa ʾaḥmadu bnu ʿabdi ăl karīmi wa ʿabdu ăl lāhi bnu muḥammad:ini ăl ḥaddu ăl ʾawwalu mina ăl qiblaẗi qaryaẗu ʿayni sumsum:in wa ăl ḥaddu ăṯ ṯānī mina ăl šarqi ***** qaryaẗu 
+ <lb n="7"/>wa ăl marru bi qurbi hi wa ăl ḥaddu ăṯ ṯāliṯu ṭarāʾifu ʾabāʾ:in wa ăl ḥaddu ăr rābiʿu mina ăl ġarbi qaryaẗu mušaqqaqa mašqūqa mqḍyẗa mfʿlya maqṣūraẗa mʿṣba sqfyẗa šqʿẗa šqyfa sqyqa mušaqqara wa ʾ***** 
+ <lb n="8"/>ʾahlu ăl qaryaẗi ḫamsaẗ:un wa ʿaḏiyy:un ḫamsaẗ:un wa ʿišrīna ǧall:an fī ĭṯnā ʿašara ǧall:an ṯalāṯu miʾaẗi ǧall:in 
+ <lb n="9"/>wa la hum ʾarḍu wasaṭ:in ʿaḏiyy:in ṯamāniyaẗa ʿašara ǧall:an fī ʾaḥada ʿašara ǧall:an miʾaẗ:un wa ṯamāniyaẗ:un wa tisʿīna ǧall:an 
+ <lb n="10"/>wa la hum razn:un ʿaḏiyy:un ʿišrīna ǧall:an fī ʿašaraẗi ʾaǧull:in miʾatayni ǧall:in 
+ <lb n="11"/>wa la hum ʾarḍ:un ǧayyid:un ʿaḏiyy:un ʿašaraẗu ʾaǧull:in fī ʿašaraẗi ʾaǧull:in miʾaẗu ǧall:in 
+ <lb n="12"/>ăz zaytūnu ṯalāṯaẗu ʾuṣūl:in ġarsu ăz zaytūni ʿišrīna ʾaṣl:an 
+ <lb n="13"/>ăl fākihaẗu ʿišrīna ʾaṣl:an 
+ <lb n="14"/>wa la hum ʾandāʾ:un ʾaḥada ʿašara fī ǧallayni ĭṯnayni wa ʿišrīna ǧall:an 
+ <lb n="15"/>wa la hum ʿirām:un ʿurām:un wa qalāʿ:un wa maslaʾ:un wa miṣall:un wa ʾawḍām:un 
+ <lb n="16"/>wa ʾinna hu yaǧmaʿu ṯalāṯaẗ:an wa ʾarbaʿīna ʾaṣl:an ṯamāni miʾaẗ:an wa ĭṯnayni wa ʿišrīna ǧall:an wa ṯamāniyaẗa ʾarābiʿ:in 
+ <lb n="17"/>ḏikru ḥāl:in yanǧamiʿu min misāḥaẗi qaryaẗ:in tudʿà bi šibāna wa qaraḥtā bi ǧibāl:an min ʾiqlīmi ǧabali ăl ǧalīli 
+ <lb n="18"/>fāʾiqu bnu ʿabdi ăl lāhi bni hārūna 
+ <lb n="19"/>*** 
+ <lb n="20"/>ʿumaru bnu hārūna 
+ <lb n="21"/>dirmašqu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Merciful, the Compassionate.
+			<lb n="2"/>
+		Report of a statement of account of the total area of the village called Šibān and Qaraḥtā in the hills [of the district of Ǧabal al-Ǧalīl .....]
+			<lb n="3"/>
+		(The) green ravine, a section of the loamy (country) of Tell al-Madīn(?). Ordered by ʿAbd Allāh Ǧaʿfar, the Imām, al-Mutawakkil ʿalā [Allāh, Commander of the Faithful, may God prolong his life. Issued by the order of
+			<lb n="4"/>
+		Aḥmad ibn Muḥammad, financial-governor fot the Amīr Ibrāhīm al-Muʾayyad Billāh Crown Prince of the Muslims, and for the Commander of the Faith[ful may God strengthen them - in the province of Damascus in the year one and forty and two hundred.]
+			<lb n="5"/>
+		At the tract (were) ʿAbd Allāh ibn Yūsuf, and ʿAbd al-Ṣamad ibn Zuhair; and the (execution of the) order (was delegated) to the director of constructions. [And the witnesses are ..............]
+			<lb n="6"/>
+		ibn Šaʿyā, and Aḥmad ibn ʿAbd al-Karīm, and ʿAbd Allāh ibn Muḥammad. The first boundary, to the south, (the) village ʿAin Sumsu[m, and the second boundary to the east, .....]
+			<lb n="7"/>
+		and the trail near by; and the third boundary, the edges of the reed (beds), and the fourth boundary, to the West, (the) village [??] and th[e .......]
+			<lb n="8"/>
+		The people of the village, five; rain-watered land, twenty-five ǧalls into twelve ǧalls - [three-hundred ǧalls].
+			<lb n="9"/>
+		And they have choice rain-watered land, eighteen ǧalls into eleven ǧalls - [one hundred and ninety-eight ǧalls].
+			<lb n="10"/>
+		And they have a rain-watered elevated plain, twenty ǧalls into ten ǧalls - [two-hundred ǧalls].
+			<lb n="11"/>
+		And they have good rain-watered land, ten ǧalls into ten ǧalls - [one hundred ǧalls].
+			<lb n="12"/>
+		Olives, three tre[es]; olive shoots, twenty trees.
+			<lb n="13"/>
+		Fruit, twenty trees.
+			<lb n="14"/>
+		And they have dew-watered land, eleven into t[wo ǧalls - twenty-two ǧalls].
+			<lb n="15"/>
+		And they have dung heaps, and knap-sacks, and a butter melting cauldron, and a sieve, and butcherʾs planks.
+			<lb n="16"/>
+		And the total is forty-three trees, and eight hundred and twenty-two ǧalls, and eight (of these were) quarters (of ǧalls)?
+			<lb n="17"/>
+		[Written report concerning the total area] of the village called Šibān and Qaraḥtā in the hills of the district of Ǧabal al-Ǧalīl.
+			<lb n="18"/>
+		Fāʾiq ibn ʿAbd Allāh ibn Hārūn.
+			<lb n="20"/>
+		ʿUmar ibn Hārūn
+			<lb n="21"/>
+		Damascus -
+</ab></div>
+</body>
+</text>
+</TEI>

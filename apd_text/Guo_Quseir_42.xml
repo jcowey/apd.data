@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="913" xml:id="Guo_Quseir_42" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments II 1 (= P.QuseirArab. I 42)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_42</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113673</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  يتسلّم أبو مفرّج من مطر ابن عمران 
+<lb n="2"/>  القادري عشرة أرادب وهي من غلّت 
+<lb n="3"/>  الحاج محمّد والسّلام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yatasallam ʾabū mufarriǧ:in min maṭari ĭbni ʿimrāna 
+ <lb n="2"/>ăl qādiriyyi ʿašaraẗa ʾarādiba wa hiya min ġallati 
+ <lb n="3"/>ăl ḥāǧǧi muḥammad:in wa ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Abū Mufarrij is to receive from Maṭar ibn ʿImrān
+			<lb n="2"/>
+		al-Qādirī ten irdabbs [of wheat], which are part of the ghalla-taxes (?)
+			<lb n="3"/>
+		[paid] by the ḥājj Muḥammad. Peace.
+		[paid] by the ḥājj Muḥammad. Peace [be upon you].
+</ab></div>
+</body>
+</text>
+</TEI>

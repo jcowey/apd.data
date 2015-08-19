@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="205" xml:id="Grohmann_APEL_83" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 083 (= Chrest.Khoury I 70)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_83</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106517</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>‬ 
+<lb n="2"/>   اللّه الرّحمن الرّحيم 
+<lb n="3"/>  ‮هذا كتاب سجل من أبو النّجم بدر الاو<gap reason="illegible" precision="low" extent="3"/>‬ 
+<lb n="4"/>  ‮كتبه لشبيب بن إسطرهيوه إنّـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">سألتني</supplied>‬‬ 
+<lb n="5"/>  ‮وطلبت إلي أن أسجّلك من أراضي ساقية قلود<supplied reason="lost" cert="high">ه</supplied>‬ 
+<lb n="6"/>  من ثلثة فدادين أرض طيّبة بثلثة سودا بثلثة 
+<lb n="7"/>  دنانير على الرّسم البلد الجاري الأجود البلد في الصرف الأجود 
+<lb n="8"/>  والحين والآن فأجبتك إلى ذلك على أن تودى خراجك 
+<lb n="9"/>  عندهم على على نـ<supplied reason="lost" cert="high">ـفسه</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن 
+<lb n="10"/>  على بركة اللّه وعونه فما تزيّد<supplied reason="omitted" cert="high">ت</supplied> فحساب بسجلّك 
+<lb n="11"/>  وما بوّرته فخراجه لازم لك وذلك لخراج سنة 
+<lb n="12"/>  ثمان وأربعين وثلثماية 
+<lb n="13"/>  تزرع في المعلن فدّان بدينر 
+<lb n="14"/>  ‫ما وجب ‫γ‬ ‫γ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** *** 
+ <lb n="2"/>bi ĭsmi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitābu siǧill:in min ʾabū ăn naǧmi badr:ini ăl ʾaw*** 
+ <lb n="4"/>kataba hu li šabībi bni ʾisṭurhayūha ʾinna ka saʾalta nī 
+ <lb n="5"/>wa ṭalabta ʾilay ya ʾan ʾusaǧǧila ka min ʾarāḍī sāqiyaẗi qalūdaha 
+ <lb n="6"/>mina ăl baladi ṯalāṯaẗa fadādīna ʾarḍ ṭayyibaẗ:an sawdāʾa bi ṯalāṯaẗi 
+ <lb n="7"/>danānīra maʿsūlaẗ:in ʿalà ăr rasmi ăl ǧārī fī ăl baladi fī ăṣ ṣarfi ăl ʾaǧwadi 
+ <lb n="8"/>wa ăl ḥīni wa ăl ʾāni fa ʾaǧabtu ka ʾilà ḏālika ʿalà ʾan tuʾaddiya ḫarāǧa ka 
+ <lb n="9"/>maʿa ʾanǧumi ăs sulṭāni ʾaʿazza hu ăl lāhu wa ʾawqāti hi fa ĭzraʿ 
+ <lb n="10"/>ʿalà barakaẗi ăl lāhi wa ʿawni hi fa mā tazayyadta fa ḥisāb:un bi siǧilli ka 
+ <lb n="11"/>wa mā bawwarta hu fa ḫarāǧu hu lāzim:un la ka wa ḏālika li ḫarāǧi sanaẗi 
+ <lb n="12"/>ṯamān:in wa ʾarbaʿīna wa ṯalāṯi miyaẗ:in 
+ <lb n="13"/>tazraʿu fī ăl muʿlani faddān bi dīnār:in 
+ <lb n="14"/>mā waǧaba 3 3 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Au nom de Dieu clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful 
+			<lb n="3"/>
+		Ceci es tune contrat de bail de la part d‘Abū l-Naǧm Badr al-[...]
+		This is the certificate of registration of Abu ʾn-Naǧm Badr al-Aw[...]
+			<lb n="4"/>
+		il l’a écrit pour Šabīb Ibn Isṭurheu: [Tu m’as demandé]
+		which he has written for Šabîb b. Isṭurheu. Verily th[ou hast asked] 
+			<lb n="5"/>
+		and petitioned that I might register for thee the lands of Sâqiyat Qalûde (Claudios), 
+		et sollicité de t’affermer, parmi les domaines de Sāqiyat Qlūde
+			<lb n="6"/>
+		appartenant au district, trois faddān-s de bonne terre noire pour troisppertaining to the district, three faddâns for thee of good black earth for three
+		appertaining to the district, three faddâns for thee of good black earth for three
+			<lb n="7"/>
+		dīnārs authentiques selon l’usage courant &lt;dans le district&gt; et d’après le meilleur cours de change
+		dînârs, to be counted out at the usual, current, best exchange 
+			<lb n="8"/>
+		at any time and now. I have, therefore, granted thee this, so that thou mayest pay thy land-tax 
+		en tout temps et maintenant. Et j’ai répondu à cela, à condition que tu paies ton impôt foncier
+			<lb n="9"/>
+		ensemble avec les quotes-parts du gouverneur, que Dieu le fortifie, et en ses termes. Ainsi sème
+		together with the instalments of the Governor - may God exalt him - at the due time. Sow, then, 
+			<lb n="10"/>
+		avec la bénédiction de Dieu et son aide; et ce que tu cultives en plus, (il y aura) un compte (là-dessu);
+		with the blessing and the help of God; what thou hast done in addition shall be reckoned in accordance with thy contract, 
+			<lb n="11"/>
+		and what thou hast fallowed, the land-tax thereof is obligatory upon thee, viz. for the impost of the year 
+		et ce que tu laisses inculte, son impôt t’incombe, et ceci de l’impôt de l’année
+			<lb n="12"/>
+		three hundred and forty eight. 
+		trois cent quarante-huit
+			<lb n="13"/>
+		Thou sowest on (the land) publicly known ... faddân, for dînâr(s) 
+		Tu sèmes dans du terrain publiquement connu. Faddān pour dinar
+			<lb n="14"/>
+		Ce qui est dû 3 3
+		that which has been obligatory: ... 3 ... 3
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1376" xml:id="Chrest_Khoury_I_75" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>Chrest.Khoury I 75 (= P.RagibQalamun 5)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Chrest_Khoury_I_75</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169171</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حضر أبو الدّين وأخوه راهب أولاد رمضان الخفرا 
+<lb n="3"/>  بالضّيعة المعروفة <app type="BL"><lem resp="APD">بطبى </lem><rdg resp="Rāġib÷ variant reading with omitted alif.">بإطسى</rdg></app> في مستهل ربيع الأوّل 
+<lb n="4"/>  من سنة سبع وخمسين وأربعمائة الهلاليّة وتناظرا 
+<lb n="5"/>  فيما بينهـ<supplied reason="omitted" cert="high">ـمـ</supplied>ـا <del rend="erasure" status="unremarkable">لى</del> <app type="BL"><lem resp="APD">عن </lem><rdg resp="‭Rāġib÷ written over ‫عن‬.">على</rdg></app> فدّان خفارة لهم بالضّيعة المعروفة 
+<lb n="6"/>  بإهريت وفي سيف أخذ من <del rend="erasure" status="unremarkable">راهپ</del> أبو الدّين في ذلك الموضع 
+<lb n="7"/>  فاستقر الحال بينهم على أن الفدّان بينهم <app type="BL"><lem resp="APD">حرس </lem><rdg resp="Rāġib">جزئين</rdg></app> بالـسّويّة 
+<lb n="8"/>  وعلى أن يقوما اثنيهما بما تقرّر من تمن السّيف لصاحبه 
+<lb n="9"/>  نصفين بالـسّويّة لا يحتج منهـ<supplied reason="omitted" cert="high">ـمـ</supplied>ـا <sic n="superfluous">پعذلك</sic> <supplied reason="omitted" cert="high">بعد ذلك</supplied> على الآخر بحجّة 
+<lb n="10"/>  لا بوجه ولا بسبب ومتا ما احتج الواحد منهم 
+<lb n="11"/>  على الآخر بحجّة كان باطل وزور وبذلك أشهدا على أنفسهم 
+<lb n="12"/>  في التّأريخ المذكور . شهد عپد الحاكم <app type="BL"><lem resp="APD">پن </lem><rdg resp="Rāġib">إبراهيم</rdg></app> اپرهپم 
+<lb n="13"/>  على إقرار المقرّين وكتب بخطّه في تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥaḍara ʾabū ăd dīni wa ʾaḫū hu rāhib:un ʾawlādu ramaḍāna ăl ḫufarāʾu 
+ <lb n="3"/>bi ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi ṭabà ʾiṭsà fī mustahalli rabīʿa ăl ʾawwali 
+ <lb n="4"/>min sanaẗi sabʿ:in wa ḫamsīna wa ʾarbaʿi miʾaẗ:in ăl hilāliyyaẗi wa tanāẓarā 
+ <lb n="5"/>fī mā bayna humā ʿan ʿalà faddāni ḫifāraẗ:in la hum bi ăḍ ḍayʿaẗi ăl maʿrūfaẗi 
+ <lb n="6"/>bi ʾihrīta wa fī sayf:in ʾuḫiḏa min ʾabū ăd dīni fī ḏālika ăl mawḍiʿi 
+ <lb n="7"/>fa ĭstaqarra ăl ḥālu bayna hum ʿalà ʾanna ăl faddāna bayna hum ḥaras:un ǧuzʾayni bi ăs sawiyyaẗi 
+ <lb n="8"/>wa ʿalà ʾan yaqūmā ĭṯnay himā bi mā taqarrara min tamani ăs sayfi li ṣāḥibi hi 
+ <lb n="9"/>niṣfayni bi ăs sawiyyaẗi lā yaḥtaǧǧu min humā baʿda ḏālika ʿalà ăl ʾāḫari bi ḥuǧǧaẗ:in 
+ <lb n="10"/>lā bi waǧh:in wa lā bi sabab:in wa matā mā ĭḥtaǧǧa ăl wāḥidu min hum 
+ <lb n="11"/>ʿalà ăl ʾāḫari bi ḥuǧǧaẗ:in kāna bāṭil wa zūr wa bi ḏālika ʾašhadā ʿalà ʾanfusi him 
+ <lb n="12"/>fī ăt taʾrīḫi ăl maḏkūri šahida ʿabdu ăl ḥākimi bnu ʾibrāhīma ăl miqrāniyyu 
+ <lb n="13"/>ʿalà ʾiqrāri ăl muqirrayni wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+			<lb n="2"/>
+		Abū-l-dīn et son frère Rāhib, les fils de Ramaḍān et gardiens
+		Présents étaient Abū l-Dīn et son frère Rāhib, (tous les deux) fils de Ramaḍān, gardiens (champêtres)
+			<lb n="3"/>
+		dans le village connu (sous le nom) de Ṭabā, au début de Rabīʿ I
+		du village connu sous le nom de Ṭabā se sont présentés le 1er rabīʿ I
+			<lb n="4"/>
+		de l&#039;année lunaire quatre cent cinquante-sept, et ils étaient en conflit
+		de l&#039;année lunaire quatre cent cinquante-sept et ils ont débattu
+			<lb n="5"/>
+		entre eux au sujet d&#039;un feddan de (droit) de gardiennage qu&#039;ils possèdent dans le village connu sous le nom
+		l&#039;un avec l&#039;autre, à propos d&#039;un faddān de garde pour eux deux dans le village connu
+			<lb n="6"/>
+		d&#039;Ihrīt et d&#039;une épée prise d&#039;Abū l-Dīn en cet endroit.
+		(sous le nom) d&#039;Ihrīt, et au sujet d&#039;une épée prise d&#039;Abū l-Dīn en cet endroit.
+			<lb n="7"/>
+		Ils ont finalement convenu que le feddan est divisé entre eux en deux parts égales
+		Ils tombèrent d&#039;accord que le faddān était à garder par eux deux de manière égale,
+			<lb n="8"/>
+		et que tous les deux devaient payer le prix fixé de l&#039;épée à son propriétaire,
+		et qu&#039;ils rembourseront tous deux ce qui a été imposé du prix de l&#039;épée à son propriétaire
+			<lb n="9"/>
+		en deux moitiés égales. Après cela, aucun n&#039;invoquera un argument contre l&#039;autre
+		en deux moitiés égales. Aucun d&#039;entre eux ne devait aprè[s] cela invoquer, auprès de l&#039;autre, d&#039;argument
+			<lb n="10"/>
+		en aucune manière et pour aucune cause. Et si l&#039;un d&#039;eux apportait
+		pour quelque cause ou quelque motif que ce soit. Aussi tout argument invoqué par l&#039;un deux
+			<lb n="11"/>
+		à l&#039;autre une échappatoire quelconque, ce serait de nulle valeur et tromperie. Et ils prirent à témoin de cela
+		contre l&#039;autre sera nul et faux. De cela ils ont pris témoins
+			<lb n="12"/>
+		à la date (sus)mentionnée. A témoigné ʿAbd al-Ḥākim Ibn Ibrāhīm al-Miqrānī
+		en la date mentionnée. A témoigné ʿAbd al-Ḥākim b. Ibrāhīm al-Miqrānī
+			<lb n="13"/>
+		de la reconnaissance des deux qui on reconnu, et il (l&#039;)écrivit de sa main à la date (du document).
+		de la reconnaissance des parties et il a écrit de son écriture à la date (de l&#039;écrit).
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2647" xml:id="Grohmann_Mird_52" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 52</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_52</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> لـ<supplied reason="lost" cert="high">ـخـ</supplied>ـرجت <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">خبركم</supplied> وحالكم وبما كانت لك من حاجة 
+ <lb n="3"/>  <gap reason="illegible" extent="8" unit="character" /> حپی واقر علی أم محمّد وعطا بن الأسود <sic n="superfluous">و</sic>السّلم 
+ <lb n="4"/>  كثيرا والسّلم عليك ورحمت اللّه وكـ<supplied reason="lost" cert="high">ـتب</supplied> في ذي الحجّة تمام سنـ<supplied reason="lost" cert="high">ـة</supplied> 
+ <lb n="5"/>  ست وعشرين وماية 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** la ḫaraǧtu *** 
+ <lb n="2"/>*** ḫabar kum wa ḥāl kum wa bi mā kānat la ka min ḥāǧaẗ:in 
+ <lb n="3"/>******** ḥBy wa ĭqra ʿalà ʾummi muḥammad:in wa ʿaṭāʾa bni ăl ʾaswadi ăs salāma 
+ <lb n="4"/>kaṯīr:an wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa kutiba fī ḏī ăl ḥiǧǧaẗi tamāmi sanaẗi 
+ <lb n="5"/>sitt:in wa ʿišrīna wa miyaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  […] I [l]eft indeed […]
+		 <lb n="2"/>
+ 	  [… of your news] and your condition and of what need you have
+		 <lb n="3"/>
+ 	  …….. and greet the mother of Muḥammad and ʿAṭā (i)bn al-Aswad
+		 <lb n="4"/>
+ 	  many times, and hail unto you and the mercy of God, and (it) has been writ[ten] on the last night of Ḏuʾl-Ḥiǧǧa of the yea[r]
+		 <lb n="5"/>
+ 	  one hundred and twenty-six.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

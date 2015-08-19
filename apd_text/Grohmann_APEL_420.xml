@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1877" xml:id="Grohmann_APEL_420" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 420</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_420</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169614</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">الّذي</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـندنا دينار بنقص قيراط ثلثة عشرة درهما وثلث 
+<lb n="3"/>  خرج في لحم درهمين والمزيّن درهمين وأحمر وزعفران وبا<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="4"/>  دانقين ونصف وفي جبن نصف درهم وإلى فتح دانقين وفي <unclear reason="undefined" cert="high">حـ</unclear><supplied reason="lost" cert="high">ـطب</supplied> 
+<lb n="5"/>  خمس درهم وفي قرع دينر كان ثمن حبّات وفي كشك دينر 
+<lb n="6"/>  وكسبرة وشذاب ربع درهم وإلى <app type="BL"><lem resp="APD">بشر </lem><rdg resp="APD">نسر</rdg></app> درهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ʿinda nā dīnār:un bi naqṣi qīrāṭ:in ṯalāṯaẗa ʿašraẗa dirham:an wa ṯulṯ:un 
+ <lb n="3"/>ḫaraǧa fī laḥm:in dirhamayni wa ăl muzayyinu dirhamayni wa ʾaḥmaru wa zaʿfarānu wa bān:un 
+ <lb n="4"/>dāniqayni wa niṣf:un wa fī ǧubn:in niṣfu dirham:in wa ʾilà fatḥ:in dāniqayni wa fī ḥaṭab:in 
+ <lb n="5"/>ḫumsu dirham:in wa fī qarʿ:in dīnār:un kāna ṯamānu ḥabbāt:in wa fī kašk:in dīnār:un 
+ <lb n="6"/>wa kusbaraẗ:un wa šaḏāb:un rubʿu dirham:in wa ʾilà bašr:in bišr:in nasr:in dirham:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		[What] we have in hand (amounts to) one dînâr with a deficiency of one carat, (viz.) thirteen dirhams and a third.
+			<lb n="3"/>
+		There was disbursed for meat two dirhams, (for) the barber two dirhams, (for) red dates, saffron and (oil of) be[n]
+			<lb n="4"/>
+		two dâniqs and a half, for cheese half a dirham, to Fatḥ two dâniqs, for firewood
+			<lb n="5"/>
+		a fifth of a dirham, for pumpkin one dînâr, in which there is (a deficiency of) eight (?) ḥabbas (?), for Kašk one dînâr,
+			<lb n="6"/>
+		coriander and harmel (šaḏâb) a quarter of a dirham, and to Bišr one dirham.
+</ab></div>
+</body>
+</text>
+</TEI>

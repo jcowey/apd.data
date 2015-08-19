@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1622" xml:id="Fahmi_030" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.FahmiTaaqud 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Fahmi_030</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169378</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى سليمن بن إبراهيم من سكّان ططون من كورة الفيّوم اشترى من موسى بن إبراهيم ومينا بن موسى 
+<lb n="3"/>  بن إبراهيم اشترى سليمن حصّاتيهم من البسطام الّذي لهم في منزل مينا وموسى وفوقه وحصّاتيهم من النّخل الّذي 
+<lb n="4"/>  لهم على بركة أبو موسى الكنيسة بثلثة الدّنانير عينا ذهبا وازنة بالجديدة قد قبض موسى بن إبراهيم 
+<lb n="5"/>  ومينا ابنه الثّلثة الدّنانير وصارت ملكهم وسلّموا إلى سليمن بن إبراهيم حصّتهما من هذا المنزل الّذي لهم في منزل 
+<lb n="6"/>  مينا وموسى وهو البسطام وما فوقه وجميع حقوقه ومرافقه ومدخله ومخرجه وصار مال من ماله 
+<lb n="7"/>  وملك من ملكه إن شا باع وإن شا سكن وحد حدود ذلك المنزل حدّه القبلي حصّة موسيس بن هميسة 
+<lb n="8"/>  وحدّه البحري طريق المارّة وحدّه الغربي سلّم مع مينا وموسى وحدّه الشّرقي طريق المارّة باعوا ذلك في صحّة 
+<lb n="9"/>  من أبدانهم وجواز من أمورهم غير مضطهدين ولا مكرهين بيع الإسلام وعهدته وكل دعوا أو طلبة 
+<lb n="10"/>  أو علقة أو <app type="BL"><lem resp="APD">بياعة </lem><rdg resp="LS. cf. P.Fay.Monast. 1.21">تباعة</rdg></app> يدّعي بها خلق من النّاس بعد هذا الكتاب فنفاذ ذلك على موسى بن إبراهيم ومينا 
+<lb n="11"/>  ابنه لسليمن بن إبراهيم بالغ ما بلغ من مالهم شهد على إقرار موسى بن إبراهيم ومينا ابنه بجميع ما في هذا الكتاب 
+<lb n="12"/>  بعد أن قرئ عليهما وعرفاه وأقر إثنتيهم وذلك في جمادى الآخر سنة خمس وستّين ومائتين 
+<lb n="13"/>  شهد على ذلك حفص بن عمر وكتب شهادته بخطّه وذلك في جمادى الآخر سنة خمس وستّين ومائتين 
+<lb n="14"/>  شهد عمرو بن حفص بجميع ما في هذا الكتاب وكتب شهادته بخطّه وذلك في جمادى الآخر سنة خمس وستّين ومائتين 
+<lb n="15"/>  شهد محمّد بن قريل على إقرار موسى بن إبراهيم وسليمن بن إبراهيم بن مينا وأشهد الجميع بما في هذا الكتاب وذلك في جمادى الآخر 
+<lb n="16"/>  سنة خمس وستّين ومائتين أحمد بن نعيم بن ثابت وكتب شهادته بخطّه على إقرار موسى بن إبرهيم وسليمن بن إبرهيم 
+<lb n="17"/>  بجميع ما في هذا الكتاب وكتب في جمادى الآخر سنة خمس وستّين ومائتين 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  شهد يحنّس بن قزمان على إقرار 
+<lb n="20"/>  موسى بن إبرهيم ومينا بن 
+<lb n="21"/>  إبراهيم بجميع ما في هذا 
+<lb n="22"/>  الكتاب وكتب 
+<lb n="23"/>  بخطّه في 
+<lb n="24"/>  سنة 
+<lb n="25"/>  ٢٦٥ 
+<lb n="26"/>  شهد سراقة بن سليمن على إقرار موسى بن إبرهيم ومينا ابنه بجميع ما في هذا الكتاب سنة خمس وستّين ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà sulaymānu bnu ʾibrāhīma min sukkāni ṭuṭūna min kūraẗi ăl fayyūmi ĭštarà min mūsà bni ʾibrāhīma wa mīnā bni mūsà 
+ <lb n="3"/>bni ʾibrāhīma ĭštarà sulaymānu ḥiṣṣātay him mina ăl bsṭʾmi ăllaḏī la hum fī manzili mīnā wa mūsà wa fawqa hu wa ḥiṣṣātay him mina ăn naḫli ăllaḏī 
+ <lb n="4"/>la hum ʿalà birkaẗi ʾabū mūsà ăl kanīsaẗi bi ṯalāṯaẗi ăd danānīri ʿayn:an ḏahab:an wāzinaẗ:an bi ăl ǧadīdaẗi qad qabaḍa mūsà bnu ʾibrāhīma 
+ <lb n="5"/>wa mīnā ĭbnu hu ăṯ ṯalāṯaẗa ăd danānīri wa ṣārat milka hum wa sallamū ʾilà sulaymāna bni ʾibrāhīma ḥiṣṣata himā min hāḏā ăl manzili ăllaḏī la hum fī manzili 
+ <lb n="6"/>mīnā wa mūsà wa huwa ăl bsṭʾmu wa mā fawqa hu wa ǧamīʿa ḥuqūqi hi wa marāfiqi hi wa madḫali hi wa maḫraǧi hi wa ṣāra māl min māli hi 
+ <lb n="7"/>wa milk min milki hi ʾin šāʾa bāʿa wa ʾin šāʾa sakana wa ḥadda ḥudūd:un ḏālika ăl manzila ḥaddu hu ăl qibliyyu ḥiṣṣaẗu mūsīsa bni humīsaẗa 
+ <lb n="8"/>wa ḥaddu hu ăl baḥriyyu ṭarīqu ăl mārraẗi wa ḥaddu hu ăl ġarbiyyu sullam:un maʿa mīnā wa mūsà wa ḥaddu hu ăš šarqiyyu ṭarīqu ăl mārraẗi bāʿū ḏālika fī ṣiḥḥaẗ:in 
+ <lb n="9"/>min ʾabdāni him wa ǧawāz:in min ʾumūri him ġayra muḍṭahadayni wa lā mukrahayni bayʿa ăl ʾislāmi wa ʿuhdata hu wa kullu daʿwā ʾaw ṭalibaẗ:in 
+ <lb n="10"/>ʾaw ʿulqaẗ:in ʾaw biyāʿaẗ:in tibāʿaẗ:in yaddaʿī bi hā ḫalq:un mina ăn nāsi baʿda hāḏā ăl kitābi fa nafāḏu ḏālika ʿalà mūsà bni ʾibrāhīma wa mīnā 
+ <lb n="11"/>ĭbni hi li sulaymāna bni ʾibrāhīma bāliġ mā balaġa min māli him šuhida ʿalà ʾiqrāri mūsà bni ʾibrāhīma wa mīnā ĭbni hi bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="12"/>baʿda ʾan quriʾa ʿalay himā wa ʿarafā hu wa ʾaqarra ĭṯnatay him wa ḏālika fī ǧumādà ăl ʾāḫiri sanaẗa ḫams:in wa sittīna wa miʾatayni 
+ <lb n="13"/>šahida ʿalà ḏālika ḥafṣu bnu ʿumar:in wa kataba šahādata hu bi ḫaṭṭi hi wa ḏālika fī ǧumādà ăl ʾāḫiri sanaẗa ḫams:in wa sittīna wa miʾatayni 
+ <lb n="14"/>šahida ʿamru bnu ḥafṣ:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi wa ḏālika fī ǧumādà ăl ʾāḫiri sanaẗa ḫams:in wa sittīna wa miʾatayni 
+ <lb n="15"/>šahida muḥammadu bnu qirīla ʿalà ʾiqrāri mūsà bni ʾibrāhīma wa sulaymāna bni ʾibrāhīma bni mīnā wa ʾašhada ăl ǧamīʿu bi mā fī hāḏā ăl kitābi wa ḏālika fī ǧumādà ăl ʾāḫiri 
+ <lb n="16"/>sanaẗa ḫams:in wa sittīna wa miʾatayni ʾaḥmadu bnu naʿīmi bni ṯābit:in wa kataba šahādata hu bi ḫaṭṭi hi ʿalà ʾiqrāri mūsà bni ʾibrāhīma wa sulaymāna bni ʾibrāhīma 
+ <lb n="17"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba fī ǧumādà ăl ʾāḫiri sanaẗa ḫams:in wa sittīna wa miʾatayni 
+ <lb n="18"/>*** 
+ <lb n="19"/>šahida yuḥannisu bnu quzmāna ʿalà ʾiqrāri 
+ <lb n="20"/>mūsà bni ʾibrāhīma wa mīnā bni 
+ <lb n="21"/>ʾibrāhīma bi ǧamīʿi mā fī hāḏā 
+ <lb n="22"/>ăl kitābi wa kataba 
+ <lb n="23"/>bi ḫaṭṭi hi fī 
+ <lb n="24"/>sanaẗi 
+ <lb n="25"/>265 
+ <lb n="26"/>šahida surāqaẗu bnu sulaymāna ʿalà ʾiqrāri mūsà bni ʾibrāhīma wa mīnā ĭbni hi bi ǧamīʿi mā fī hāḏā ăl kitābi sanaẗa ḫams:in wa sittīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the merciful and compassionate.
+			<lb n="2"/>
+		This is, what Sulaymān b. ʾIbrāhīm, of the inhabitants of Ṭuṭūn in the district of the Fayyūm bought. He bought from Mūsā b. ʾIbrāhīm and Mīnā b. Mūsā
+			<lb n="3"/>
+		b. ʾIbrāhīm. Sulaymān bought their shares of the bsṭʾm (garden ?) which they own in the dwelling of Mīnā and Mūsā, and what is above, and their shares of the date-palms which
+			<lb n="4"/>
+		they own by the pond of Abū Mūsā the church (?), for three dīnār, gold coind, full weight according to the new (weight). Mūsā b. ʾIbrāhīm
+			<lb n="5"/>
+		and his son Mīnā have received the three dīnār, and they became their property. They handed over to Sulaymān b. ʾIbrāhīm their shares of this dwelling, which (share) they own in the dwelling
+			<lb n="6"/>
+		of Mīnā and Mūsā, which is the bsṭʾm and what is above and all its rights and appurtenances, its entry and its exit, and it became a property of his property
+			<lb n="7"/>
+		and an estate in his estate. If he wants, he may sell it, and if he wants, he may inhabit it. Boundaries define this dwelling: Its southern boundary is the share of Mūsīs b. Homīse
+			<lb n="8"/>
+		its northen boundary is the passing lane, its western boundary is a staircase (shared with?) Mīnā and Mūsā, and its eastern boundary is the passing lane. They sold this in good health
+			<lb n="9"/>
+		of their bodies and capable of transacting their business, not under constraint and without compulsion, as an islamic sale according to its contractual obligation. Any claim, pretention 
+			<lb n="10"/>
+		impediment or article of merchandise / a demand which a creature among the humans might claim after this document must by executed by Mūsā b. ʾIbrāhīm and Mīnā
+			<lb n="11"/>
+		his son in favor of Sulaymān b. ʾIbrāhīm, whatever it might amount to, out of their property. The acknowledgement of Mūsā b. ʾIbrāhīm and his son Mīnā to all which is in this document has been witnessed to
+			<lb n="12"/>
+		after it was read to them and they understood it. Both of them acknowledged it, and this (happened) in Ǧumādā II in the year two hundred and sixty-five.
+			<lb n="13"/>
+		Ḥafṣ b. ʿUmar witnessed to this, and he wrote his testimony in his own handwriting, and this (happened) in ǧumādā II of the year two hundred and sixty five.
+			<lb n="14"/>
+		ʿAmr b. Ḥafṣ witnessed to everything in this document, and he wrote his testimony in his own handwriting. This (happened) in ǧumādā II of the year two hundred and sixty-five.
+			<lb n="15"/>
+		Muḥammad b. Qurīl witnessed to the acknowledgement of Mūsā b. ʾIbrāhīm and Sulaymān b. ʾIbrāhīm b. Mīnā, and they all called witnesses (for?) what is in this document. This (took place) in ǧumādā II
+			<lb n="16"/>
+		of the year two hundred and sixty-five. ʾAḥmad b. Naʿīm b. Ṯābit (witnessed to this) and wrote his testimony in his own handwriting to the acknowledgement of Mūsā b. ʾIbrāhīm and Sulaymān b. ʾIbrāhīm
+			<lb n="17"/>
+		of everything in this document, and he wrote in ǧumādā II of the year two hundred and sixty-five.
+			<lb n="19"/>
+		Yuḥannis b. Quzmān witnessed to the acknowledgement
+			<lb n="20"/>
+		of Mūsā b. ʾIbrāhīm and Mīnā b.
+			<lb n="21"/>
+		ʾIbrāhīm [sic] of everything in this
+			<lb n="22"/>
+		document, and he wrote
+			<lb n="23"/>
+		in his own handwriting in
+			<lb n="24"/>
+		the year
+			<lb n="25"/>
+		265
+			<lb n="26"/>
+		Surāqa (?) b. Sulaymān witnessed to the acknowledgement of Mūsā b. ʾIbrāhīm and his son Mīnā, of everything in this document, in the year two hundred and sixty-five.
+</ab></div>
+</body>
+</text>
+</TEI>

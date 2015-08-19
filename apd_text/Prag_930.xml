@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1840" xml:id="Prag_930" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 93</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_930</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169577</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/>ـــ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <app type="BL"><lem resp="APD">لعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">للعامل </rdg><rdg resp="Diem">العامل</rdg></app> عمر طويل إنّه قريب مجيـ<supplied reason="lost" cert="high">ـب</supplied> <supplied reason="lost" cert="high">الدّعا</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" extent="4" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" />ن </lem><rdg resp="Diem">فعل</rdg></app> موفّقا رشـ<supplied reason="lost" cert="high">ـ</supplied>ـيدا إن شا اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">أ</supplied>طال اللّه بقا العامل وأدام عزّه وكرا<supplied reason="lost" cert="high">مته</supplied> <supplied reason="lost" cert="high">و</supplied>تأييده وسعا<supplied reason="lost" cert="high">دتـ</supplied>ـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نعمته</supplied> <supplied reason="lost" cert="high">عليه</supplied> 
+<lb n="recto 5"/>  وزاد في فضله وإحسانه إ<supplied reason="lost" cert="high">لـ</supplied>ـيه وجعلني من كل سو ومكروه فد<supplied reason="lost" cert="high">اه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso"/>  أبقاك اللّه وحـ<supplied reason="lost" cert="high">ـ</supplied>ـفظك وأتم نعمته عليك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** 
+ <lb n="2"/>*B* lʿ** li ø ø l ăl ø ʿāmili ʿāmil ʿumr ṭawīl ʾinna hu qarīb:un muǧību ăd duʿāʾi *** *** 
+ <lb n="3"/>**** ****n faʿala muwaffaq:an rašīd:an ʾin šāʾa ăl lāhu *** 
+ <lb n="4"/>ʾaṭāla ăl lāhu baqāʾa ăl ʿāmili wa ʾadāma ʿizza hu wa karāmata hu wa taʾyīda hu wa saʿādata hu wa ʾatamma niʿmata hu ʿalay hi 
+ <lb n="5"/>wa zāda fī faḍli hi wa ʾiḥsāni hi ʾilay hi wa ǧaʿala nī min kulli sūʾ:in wa makrūh:in fidāʾa hu *** 
+ <lb n="6"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾatamma niʿmata hu ʿalay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[..]...[. ] ..... [...] langes Leben. Fürwahr Er ist nahe, [das Gebet] erhör[end] ..... [...]
+			<lb n="3"/>
+		[...]......[...]..... erfolgreich, gerecht, so Gott will.
+		... möge er (es) erfolgreich und wohlgeleitet tun, so Gott will.
+			<lb n="4"/>
+		Gott erhalte den Kreisfinanzdirektor lange am Leben und lasse dauern seine Macht und sein Anse[hen und] seinen Beistand und sein Glü[ck und vollende seine Gnade an ihm]
+			<lb n="5"/>
+		und nehme zu in seiner Gnade und seinem Wohltun gegen ihn und mache mich für alles Böse und Üble zu [seinem] Löse[gelde].
+			<lb n="6"/>
+		[line not translated]
+</ab></div>
+</body>
+</text>
+</TEI>

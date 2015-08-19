@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="953" xml:id="Grohmann_World_p_183_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 183 b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_183_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113704</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وأبقاك 
+<lb n="3"/>  وجعلني فداك 
+<lb n="4"/>  كتبت إليك وأنا 
+<lb n="5"/>  وكل من قبلي بخير وعافية 
+<lb n="6"/>  واللّه محمود مشكور 
+<lb n="7"/>  قد كتب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+ <lb n="3"/>wa ǧaʿala nī fidāʾa ka 
+ <lb n="4"/>katabtu ʾilay ka wa ʾanā 
+ <lb n="5"/>wa kullu man qibal ī bi ḫayr:in wa ʿāfiyaẗ:in 
+ <lb n="6"/>wa ăl lāhu maḥmūd:un maškūr:un 
+ <lb n="7"/>qad kataba kutiba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		May God protect thee and preserve thee,
+			<lb n="3"/>
+		and may He make me thy ransom.
+			<lb n="4"/>
+		I have written to thee while I
+		I write to thee...
+			<lb n="5"/>
+		and all those about me are in good state and health,
+			<lb n="6"/>
+		and God be praised and thanked for.
+			<lb n="7"/>
+		He has already written (it).
+		It has been written.
+</ab></div>
+</body>
+</text>
+</TEI>

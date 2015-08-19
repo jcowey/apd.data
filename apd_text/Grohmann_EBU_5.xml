@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="693" xml:id="Grohmann_EBU_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106774</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="1" unit="character" /> بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  قد <app type="BL"><lem resp="Grohmann erroneously ‫أجريك‬, but see translation">أجّرتك </lem><rdg resp="Diem">أكريتك</rdg></app> يا <app type="BL"><lem resp="APD">بنيت </lem><rdg resp="APD">بنيت</rdg></app> بن مرقس الطّحّان جميع ما سألـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">منّي</supplied> <supplied reason="lost" cert="high">وطلبت</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">من</supplied> 
+<lb n="3"/>  الطّاحونة الّتي هي ملكا لصاحبي حمزة بن عليـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" extent="8" unit="character" /> <supplied reason="lost" cert="high">فأجبت</supplied> 
+<lb n="4"/>  سوالك <app type="BL"><lem resp="Grohmann erroneously ‫واجريك‬, but see translation">وأجّرتك </lem><rdg resp="Diem">وأكريتك</rdg></app> هذه الطّاحونة بجميع الّـ<unclear reason="undefined" cert="high">ـذي</unclear> <gap reason="illegible" extent="15" unit="character" /> 
+<lb n="5"/>  إجارة مكتتبة عليك لمدّة <sic n="superfluous">پمسه</sic> <supplied reason="omitted" cert="high">ثمنيه</supplied> أشهر الهلاليّة <supplied reason="lost" cert="high">أوّلها</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وآخرها</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">سـ</supplied>ـبع وعشرين وأربع ماية بأربعة دنانر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> الوجوب والاستحقاق من غير مدا<supplied reason="lost" cert="high">فعة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>* bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qad ʾaǧǧartu ʾakraytu ka yā banību banītu bnu murqusa ăṭ ṭaḥḥānu ǧamīʿa mā saʾalta minn ī wa ṭalabta ʾilay ya mina 
+ <lb n="3"/>ăṭ ṭāḥūnaẗi ăllatī hiya milk:an li ṣāḥib ī ḥamzaẗa bni ʿulaym:in ******** fa ʾaǧabtu 
+ <lb n="4"/>suʾāla ka wa ʾaǧǧartu ʾakraytu ka hāḏihi ăṭ ṭāḥūnaẗa bi ǧamīʿi ăllaḏī *************** 
+ <lb n="5"/>ʾiǧāraẗ:an muktatabaẗ:an ʿalay ka li muddaẗi ṯamāniyaẗi ʾašhur:ini ăl hilāliyyaẗi ʾawwalu hā *** wa ʾāḫiru hā *** min sanaẗi 
+ <lb n="6"/>sabʿ:in wa ʿišrīna wa ʾarbaʿi miyaẗ:in bi ʾarbaʿaẗi danānīra *** 
+ <lb n="7"/>*** * ăl wuǧūba wa ăli ĭstiḥqāqa min ġayri mudāfaʿaẗ:in *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Ich habe Dir bereits, o Panib (Banib) b. Morqos, der Müller, alles, um was Du mich von
+			<lb n="3"/>
+		der Mühle gebeten hast, die meinem Herrn Ḥamza b. ʿUlai[m ...] zu Eigentum (steht), vermietet. [Ich habe also]
+			<lb n="4"/>
+		Deine Bitte [gewährt] und vermiete Dir diese Mühle mit allem, was [...]
+			<lb n="5"/>
+		als schriftlich aufgezeichnete Miete zu Deinen Lasten für die Dauer von acht Mondmonaten [beginnend mit dem ....... und endend mit dem ......... vom Jahre]
+			<lb n="6"/>
+		vierhundert [sie]benundzwanzig um vier Dīnāre [...]
+			<lb n="7"/>
+		[...] . die Schuldverpflichtung und den Rechtsanspruch ohne Auf[schub ..............]
+</ab></div>
+</body>
+</text>
+</TEI>

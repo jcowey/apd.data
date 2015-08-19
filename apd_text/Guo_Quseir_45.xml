@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="916" xml:id="Guo_Quseir_45" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 45</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_45</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113676</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أ</supplied>سْعد </lem><rdg resp="sīn with dash above “AK”">سعد</rdg></app> <sic n="superfluous">ر</sic>ريّس الوفقي 
+<lb n="2"/>  حملين ويبين قمح نقي 
+<lb n="3"/>  وأيضا فردتين رز <sic n="superfluous">وابثتهم</sic> <supplied reason="omitted" cert="high">وأثبتهم</supplied> المسيّر 
+<lb n="4"/>  للفقيه علي وأبو علي نعمان 
+<lb n="5"/>  إلي شونة أبو مُـ<supplied reason="omitted" cert="high">ـفـ</supplied>ـرّج غلّة نقيّة 
+<lb n="6"/>  وكيل جيّد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾasʿad saʿd rayyis ăl wafqiyyi 
+ <lb n="2"/>ḥimlayni waybayni qamḥ naqiyy 
+ <lb n="3"/>wa ʾayḍ:an fardatayni ruzz wa ʾaṯbit hum ăl musayyaru 
+ <lb n="4"/>li l faqīhi ʿaliyy:in wa ʾabū ʿaliyy:in nuʿmāna 
+ <lb n="5"/>ʾilà šūnaẗi ʾabū mufarriǧ:in ġallaẗ:un naqiyyaẗ:un 
+ <lb n="6"/>wa kayl:un ǧayyid:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[To be dispatched from so-and-so, in the company of] Asʿad Rayyis al-Wafqī are:
+			<lb n="2"/>
+		two loads, which weigh two waybas, of pure wheat;
+			<lb n="3"/>
+		also two fardas of rice. Please verify them. The cargo
+			<lb n="4"/>
+		is for the jurist ʿAlī and Abū ʿAlī Nuʿmān.
+			<lb n="5"/>
+		To be delivered to the warehouse of Abū Mufarrij are fine crops,
+			<lb n="6"/>
+		and a good scale.
+		in full measures.
+</ab></div>
+</body>
+</text>
+</TEI>

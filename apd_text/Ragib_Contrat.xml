@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1351" xml:id="Ragib_Contrat" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibMariage</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Contrat</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169152</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">الحمـ</supplied>ـد للّهِ ولي الحَمْد ومُنْتَهي المَجْدِ خالقِ الخلقِ وباسطِ الرِّزقِ الّذي قَرُبَ وَناء وبَعُدَ ودَنا وتَفَرَّدَ بالبَقاء أحْمدُهُ علي سُبوغِ نِعَمِه وَأمتريه من جَزيلِ قِسمِهِ وأومِنْ بهِ اعتِرافاً وأوحِّدُهُ ار<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> ولا شريك له أحَداً فَرداً صمداً تَفَرّدَ بالوَحْدَانيّةِ وسَبَقَ بالأزليّة وتعالي عَن الاضْدَادِ والأنْدَادِ علواً كبيراً وأشْهَدُ أنّ مُحَمّداً رَسُولُهُ المُصْطَفي وأمينُهُ المُرْتَضَي المَبْعو<supplied reason="lost" cert="high">ث</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> الدّين صَلّي اللّهُ عَلَيْهِ وَعلَي وَصيِّهِ عليّ أمير المُؤمِنينَ وعلي إبْنَتِهِ فَطِمَةَ سيّدَة نِساءِ العالَمينَ وعلي سِبْطيه الحَسَنِ والحُسَيْنِ بابَي الرّحْمَةِ وعلي الأيمّةِ مِنْ وَلَدِ الحسَيْن بُدُور الدُجَي وشُمُوسِ الضُحا ومنأء اللّهِ عَلَي الوَرَي <unclear reason="undefined" cert="high">القا</unclear><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> المجاهدين <gap reason="illegible" precision="low" extent="3"/> الإمام المستنصر باللّه أميرَ المُؤمِنِينَ إمامَ الزَّمانِ وموضح الحَقٍّ والبُرْهانِ صَلّى اللّه عَلَيْهِ وعلى جَميع أبايه الطاهرين ما كَرّ الجديدان واختلف الـ<supplied reason="lost" cert="high">ـنّيّران</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> المُعْجِزاتِ قُرْءاناً عَرَبيّاً غَيرَ ذي عوج لَعَلّـهُمْ يَذّكَرونَ أحَلَّ بِهِ الحلال وحَرَّم الحرام وأوْضَحَ السُّنَن و<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> وقَالَ رَسُولُ اللّهِ صَلَّي اللّه عليه وعلى آلِهِ وَسلَّم تَزَوَّجوا و<unclear reason="undefined" cert="high">نناسلوا</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> الأمير ناصح الدّولة أبي الحسن إإقبال الصّيّادي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> بطلاق وعليهِ أن يَتَّقي اللّه عزّ وجلّ فيها ويحسّن صحبتها ومعاشرتها بالمعروف كما أمرهُ اللّهَ تعالي به في كِتابِهِ وسُنّةِ نَبِيِّهِ <supplied reason="lost" cert="high">محمّد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>علي أهْل بَيْتِهِ صَلَوَاتُ اللّهِ عليهم ولَهُ عَلَيْها مثل الّذي لها عليه من ذلك ووَليَ تَزْويجَها إيّاه أخوها لإبيها وأمّها علي ويُكْنَي أبا الحسن <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">ناصح</supplied> <supplied reason="lost" cert="high">الدّولة</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">الحسن</supplied> <supplied reason="lost" cert="high">إقبال</supplied> <supplied reason="lost" cert="high">الصّيّاديّ</supplied> 
+<lb n="11"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بإذنها</supplied> </lem><rdg resp="APD">بأمرها</rdg></app> ورضايها وتوكيلها إيّاه في ذلك وإشهادها له علي ذلك محمّد بن علي البصري الجوهري وأخاها ظغان ويُكْنَي أبا الفوارس بن الأمير ناصح الدّولة أبي الحسـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">إقبال</supplied> <supplied reason="lost" cert="high">الصّيّاديّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> وسلامة ابنة الأمير ناصح الدّولة أبي الحسن إقبال الصّيّادي هذه يَومَـيِذٍ إمرأة بالغ بارِز صحيحة العقل والبدن جايزة الأمر قزوّجها أجوها لأبيها <supplied reason="lost" cert="high">وأمّها</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <supplied reason="lost" cert="high">علي</supplied> أبي المنصور هاشم بن ماكنون بن شبيب بن ولّان بن ينوط الملوسي بالصّداق المذكور في هذا الكتاب عاجله وآجله وقبل أبو المنصور هاشم بن <supplied reason="lost" cert="high">ماكنون</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <supplied reason="lost" cert="high">أبو</supplied> الحسن إقبال الصّيّادي الشّيخ المذكور في هذا الكتاب علي المرأة المذكورة و<gap reason="illegible" precision="low" extent="3"/> نفسه بمخاطبة منه إيّاه على جميع ذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> بن ماكنون بن شبيب بن ولّان بن ينوط الملوسي بجميع ما في هذا الكتاب بعد أن قري عليهما جميعاً جميع ما فيه من أوّلِهِ إلى آخره فأقرّا بفهمه ومعرفته حرفاً حرفاً <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="embroidery on top"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم وما توفيقي إلّا باللّه وعليه توكّلت وهو رب العرش العظيم <gap reason="illegible" precision="low" extent="3"/> نعمة سلامة وغبطة وعتر للـ<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl ḥamdu li ăl lāhi waliyyi ăl ḥamdi wa muntahà ăl maǧdi ḫāliqi ăl ḫalqi wa bāsiṭi ăr rizqi ăllaḏī qaruba wa nāʾa wa baʿuda wa danā wa tafarrada bi ăl baqāʾi ʾaḥmadu hu ʿalà subūġi niʿami hi wa ʾamtarī hi min ǧazīli qisami hi wa ʾūmin bi hi ĭʿtirāf:an wa ʾuwaḥḥidu hu ʾr*** *** 
+ <lb n="3"/>*** wa lā šarīka la hu ʾaḥad:an fard:an ṣamad:an tafarrada bi ăl waḥdāniyyaẗi wa sabaqa bi ăl ʾazaliyyaẗi wa taʿālà ʿani ăl ʾaḍdādi wa ăl ʾandādi ʿulw:an kabīr:an wa ʾašhadu ʾanna muḥammad:an rasūlu hu ăl muṣṭafà wa ʾamīnu hu ăl murtaḍà ăl mabʿūṯu *** 
+ <lb n="4"/>*** ăl dīni ṣallà ăl lāhu ʿalay hi wa ʿalà waṣiyyi hi ʿaliyy:in ʾamīri ăl muʾminīna wa ʿalà ĭbnati hi fāṭimaẗa sayyidaẗi nisāʾi ăl ʿālamīna wa ʿalà sibṭay hi ăl ḥasani wa ăl ḥusayni bābay ăr raḥmaẗi wa ʿalà ăl ʾaʾimmaẗi min waladi ăl ḥusayni budūri ăd duǧà wa šumūsi ăḍ ḍuḥā wa ʾumanāʾi ăl lāhi ʿalà ăl warà ăl qā*** *** 
+ <lb n="5"/>*** ăl muǧāhidīna *** ăl ʾimāma ăl mustanṣira bi ăl lāhi ʾamīra ăl muʾminīna ʾimāma ăz zamāni wa mūḍiḥa muwaḍḍiḥa ăl ḥaqq:in wa ăl burhāni ṣallà ăl lāhu ʿalay hi wa ʿalà ǧamīʿi ʾabāyi hi ăṭ ṭāhirīna mā karra ăl ǧadīdāni wa ĭḫtalafa ăn nayyirāni *** 
+ <lb n="6"/>*** ăl muʿǧizāt qurʾān:an ʿarabiyy:an ġayra ḏī ʿiwaǧ:in laʿalla hum yaḏḏkarūna ʾaḥalla bi hi ăl ḥalāla wa ḥarrama ăl ḥarāma wa ʾawḍaḥa ăs sunana wa *** *** 
+ <lb n="7"/>*** wa qāla rasūlu ăl lāhi ṣallà ăl lāhu ʿalay hi wa ʿalà ʾāli hi wa sallama tazawwaǧū wa tanāsalū *** 
+ <lb n="8"/>*** ăl ʾamīr nāṣiḥ ăd dawlaẗi ʾabī ăl ḥasani ʾiqbāl ăṣ ṣayyādiyy *** 
+ <lb n="9"/>*** bi ṭalāq:in wa ʿalay hi ʾan yattaqiya ăl lāha ʿazza wa ǧalla fī hā wa yuḥassina ṣuḥbata hā wa muʿāšarata hā bi ăl maʿrūfi ka mā ʾamara hu ăl lāha taʿālà bi hi fī kitābi hi wa sunnaẗi nabiyyi hi muḥammad:in *** 
+ <lb n="10"/>*** wa ʿalà ʾahli bayti hi ṣalawātu ăl lāhi ʿalay him wa la hu ʿalay hā miṯla ăllaḏī la hā ʿalay hi min ḏālika wa waliya tazwīǧa hā ʾiyyā hu ʾaḫū hā li ʾibī hā wa ʾummi hā ʿaliyy:un wa yuknà ʾabā ăl ḥasani bni ăl ʾamīri nāṣiḥi ăd dawlaẗi ʾabī ăl ḥasani ʾiqbāl:ini ăṣ ṣayyādiyyu 
+ <lb n="11"/>bi ʾiḏni ʾamri hā wa riḍāʾi hā wa tawkīli hā ʾiyyā hu fī ḏālika wa ʾišhādi hā la hu ʿalà ḏālika muḥammada bna ʿaliyy:ini ăl baṣriyya ăl ǧawhariyya wa ʾaḫā hā ṭuġāna wa yuknà ʾabā ăl fawārisi bna ăl ʾamīri nāṣiḥi ăd dawlaẗi ʾabī ăl ḥasani ʾiqbāl:ini ăṣ ṣayyādiyya *** 
+ <lb n="12"/>*** wa salāmaẗ ĭbnaẗ ăl ʾamīri nāṣiḥi ăd dawlaẗi ʾabī ăl ḥasani ʾiqbāl:ini ăṣ ṣayyādiyyi hāḏihi yawma yiḏ:in ĭmraʾaẗ:un bāliġ:un bāriz:un ṣaḥīḥaẗu ăl ʿaqli wa ăl badani ǧāyizaẗu ăl ʾamri fa zawwaǧa hā ʾaḫū hā li ʾabī hā wa ʾummi hā ʿaliyy:un *** 
+ <lb n="13"/>ʿalà ʾabī ăl manṣūri hāšimi bni māknūna bni šabībi bni wallāni bni yanūṭa ăl malūsiyyi bi ăṣ ṣadāqi ăl maḏkūri fī hāḏā ăl kitābi ʿāǧili hi wa ʾāǧili hi wa qabila ʾabū ăl manṣūri hāšimu bnu māknūna *** 
+ <lb n="14"/>*** 
+ <lb n="15"/>ʾabū ăl ḥasani ʾiqbāl:uni ăṣ ṣayyādiyyu ăš šayḫu ăl maḏkūru fī hāḏā ăl kitābi ʿalà ăl marʾaẗi ăl maḏkūraẗi wa *** nafs hu bi muḫāṭabaẗ:in min hu ʾiyyā hu ʿalà ǧamīʿi ḏālika *** 
+ <lb n="16"/>*** bn māknūna bni šabībi bni wallāni bni yanūṭa ăl malūsī bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay himā ǧamīʿ:an ǧamīʿa mā fī hi min ʾawwali hi ʾilà ʾāḫiri hi fa ʾaqarrā bi fahmi hi wa maʿrifati hi ḥarf:an ḥarf:an *** 
+ <lb n="17"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa mā tawfīq ī ʾillā bi ăl lāhi wa ʿalay hi tawakkaltu wa huwa rabbu ăl ʿarši ăl ʿaẓīmi *** niʿmaẗ:un salāmaẗ:un wa ġibṭaẗ:un wa ʿatar:un li l *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+			<lb n="2"/>
+		Louange à Dieu, maître des louanges, comble de la gloire, créateur des créatures, dispensateur des attributions, proche et lointain, éloigné et rapproché, qui s&#039;est réservé pour Lui seul la Durée. Je Le loue pour avoir répandu Ses bienfaits, et je jouis de l&#039;abondance de Ses parts. Je crois en Lui de reconnaissance et Le considère comme unique...
+			<lb n="3"/>
+		... sans associé, unique, isolé et seul. Il s&#039;est réservé pour lui seul l&#039;Unicité. Il a précédé [l&#039;univers] par la préexistence et s&#039;est élevé au-dessus des contraires et des semblables, hautement sublime. Je témoigne que Muḥammad est Son Apôtre élu, et le détenteur de Sa confiance agréé et envoyé...
+			<lb n="4"/>
+		... la religion - que Dieu le bénisse ainsi que ʿAlī son mandataire, commandeur des croyants, Fāṭima sa fille, maîtresse des femmes des mondes, ses deux petits-fils al-Ḥasan et al-Ḥusayn, portes de la miséricorde, et les imāms de la descendande d&#039;al-Ḥusayn, lunes des ténèbres, soleils des jours, détenteurs de la confiance de Dieu sur l&#039;humanité...
+			<lb n="5"/>
+		... les croyants zélés... l&#039;imām al-Mustanṣir billāh, commandeur des croyants, imām du temps, qui rend manifestes la Vérité et la Démonstration - que Dieu le bénisse ainsi que tous ses purs ancêtres! tant que reviendront le jour et la nuit, et se succéderont [le solei et la lune] ...
+			<lb n="6"/>
+		... des miracles, une prédication arabe exempte de tortuosité [espérant] que peut-être ils réfléchiraient. Il y a permis le Licite, interdit l&#039;Interdit et rendu manifestes les Traditions et ...
+			<lb n="7"/>
+		... l&#039;Apôtre de Dieu - que Dieu le bénisse ainsi que sa famille et leur accorde le salut ! a dit : &#034;Mariez-vous et ...
+			<lb n="8"/>
+		... l&#039;émir Nāṣiḥ al-dawla Abū l-Ḥasan Iqbāl al-Ṣayyādī ...
+			<lb n="9"/>
+		répudiation. Il doit craindre Dieu - que Sa puissance et Sa gloire soient exaltées! par égard pour elle, rendre agréables sa compagnie et sa conduite à son égard, conformément au bon usage, comme l&#039;a ordonné Dieu très-Haut dans Son Livre et dans la Tradition de Son Prophète Muḥammad ...
+			<lb n="10"/>
+		... and on the people of his house the blessings of God. And he has towards her the same rights as she has towards him in this matter. The custodian for her marrying him was her brother of father and mother, ʿAlī surnamed Abū al-Ḥasan...
+		... et sur les gens de Sa famille les bénédictions de Dieu sur eux! Il est tenu à son égard des mêmes obligations qu&#039;elle a envers lui de ceci. La tutelle de son mariage a été assurée par son frère, de père et mère, ʿAlī qui porte la kunya d&#039;Abū l-Ḥasan fils de l&#039;émir Nāṣiḥ al-dawla Iqbāl al-Ṣayyāḍī
+			<lb n="11"/>
+		avec son autorisation, son agrément, la procuration qu&#039;elle lui a donnée pour ceci et le témoignage qu&#039;elle a appelé pour lui de Muḥammad b. ʿAlī al-Baṣrī al-Ǧawharī, et de son frère, Ṭuġān qui porte la kunya d&#039;Abū l-Fawāris, fils de l&#039;émir Nāsiḥ al-dawla Abū l-Ḥasan Iqbāl al-Ṣayyādī ...
+			<lb n="12"/>
+		... et Salāma fille de l&#039;émir Nāsiḥ al-dawla Abū l-Ḥasan Iqbāl al-Ṣayyādī. Celle-ci est en ce jour femme adulte, âgée, saine de corps et d&#039;esprit et capable juridiquement. Son frère de père et mère ʿAlī l&#039;a mariée ...
+			<lb n="13"/>
+		à Abū l-Manṣūr Hāšim b. Māknūn b. Šabīb b. Wallān b. Yanūṭ al-Malūsī avec la dot mentionnée en cet écrit, l&#039;acompte [versé] et le solde [restant]. Abū l-Manṣūr Hāšim b. Maknūn a accepté ...
+			<lb n="14"/>
+			<lb n="15"/>
+		Abū l-Ḥasan Iqbāl al-Ṣayyādī le šayḫ mentionné en cet écrit avec la femme mentionnée ... lui-même l&#039;avoir entretenu de tout ceci ...
+			<lb n="16"/>
+		... b. Māknūn b. Šabīb b. Wallān b. Yanūṭ al-Malūsī de tout le contenu de cet écrit après qu&#039;il leur eut été lu tout entier, dans la totalité de son contenu, du début jusqu&#039;à la fin. Ils ont reconnu l&#039;avoir compris et connu, lettre par lettre ...
+			<lb n="17"/>
+		Au nom de Dieu, clément et miséricordieux ! Mon assistance n&#039;est qu&#039;en Dieu (paraphrase du Coran XI, 88). Sur lui je m&#039;appuie. Il est le Seigneur du Trône Immense (Coran IX, 130/129) ......... Faveur, salut, béatitude et vigeur pour ...
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1256" xml:id="David-Weill_Louvre_21" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 21</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_21</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169084</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  ضمن زرعة بن العبّاس <app type="BL"><lem resp="APD">لابن </lem><rdg resp="LR">لأبي</rdg></app> العبّاس أعزّه اللّه أحمد بن ملك عن عبد اللّه بن محمّد خمسة دنانير وثلث وثمن يودپها إليه <supplied reason="lost" cert="high">أو</supplied> <supplied reason="lost" cert="high">نائبه</supplied> 
+ <lb n="3"/>  لأربع اعشرة من رجب وكتب زرعة بن العبّاس بخطّه وأيضا دينار وقيرطين ونصف في هذا الأجل 
+ <lb n="4"/>  وضمن عن أحمد بن الحكم خمسة دنانير وقيراط ونصف في هذا الأجل وأيضا نصف وربع في هذا الأجل و<supplied reason="lost" cert="high">السّلم</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḍamina zurʿaẗu bnu ăl ʿabbāsi li ĭbni ʾabī ăl ʿabbāsi ʾaʿazza hu ăl lāhu ʾaḥmada bna malik:in ʿan ʿabdi ăl lāhi bni muḥammad:in ḫamsaẗa danānīra wa ṯulṯ wa ṯumn yuʾaddī hā ʾilay hi ʾaw nāʾibi hi 
+ <lb n="3"/>li ʾarbaʿa ĭʿšaraẗa min raǧab:in wa kataba zurʿaẗu bnu ăl ʿabbāsi bi ḫaṭṭi hi wa ʾayḍ:an dīnār wa qīrāṭayni wa niṣf fī hāḏā ăl ʾaǧali 
+ <lb n="4"/>wa ḍamina ʿan ʾaḥmada bni ăl ḥakami ḫamsaẗa danānīra wa qīrāṭ wa niṣf fī hāḏā ăl ʾaǧali wa ʾayḍ:an niṣf wa rubʿ fī hāḏā ăl ʾaǧali wa ăs salāmu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément miséricordieux.
+		 <lb n="2"/>
+ 	  Zurʿa b. al-ʿAbbās garantit à Abuʾl-ʿAbbās, Dieu l&#039;exalte, qu&#039;Aḥmad b. Malik de la part de ʿAbdallah b. Muḥammad paiera 5 dinars 1/3 1/8 à lui (ou à son représentant),
+		 <lb n="3"/>
+ 	  pour le 14 radjab, et Zurʿa b. al-ʿAbbās a écrit de sa main. Et aussi 1 dinar 2 1/2 qīrāṭs au même terme.
+		 <lb n="4"/>
+ 	  Et il garantit au nom d&#039;Aḥmad b. al-Ḥakam 5 dinars 1 1/2 qīrāṭ au même, et aussi 1/2 et 1/4 (de dinar) au même terme. Et (salut).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

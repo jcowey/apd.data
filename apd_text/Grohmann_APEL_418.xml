@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1875" xml:id="Grohmann_APEL_418" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 418</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_418</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169612</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso 2"/>  تذكرة حساب أبي حسن أعزّه اللّه 
+<lb n="verso 3"/>  أوّل يوم قسط <gap reason="illegible" extent="6" unit="character" /> دانق 
+<lb n="verso 4"/>  بنفسج نصف قيرا<supplied reason="lost" cert="high">ط</supplied> ونصف دانق 
+<lb n="verso 5"/>  ولحم نصف لوز وغيره درهم زيت 
+<lb n="verso 6"/>  سكّر نصف دانق 
+<lb n="verso 7"/>  ربع<gap reason="illegible" extent="11" unit="character" />رنبق 
+<lb n="verso 8"/>  وشيرج <supplied reason="lost" cert="high">نصـ</supplied>ـف دانـ<supplied reason="lost" cert="high">ـق</supplied> لحم ثلث 
+<lb n="verso 9"/>  شعير دانق غير حـ<supplied reason="lost" cert="high">ـبّـ</supplied>ـة لحم درهم 
+<lb n="verso 10"/>  أصلح بلّان ثلث ونصف دانق 
+<lb n="verso 11 right margin"/>  ودرهم لحم وربع سويق وسكّر 
+<lb n="verso 12"/>  فذلك خمسة الدّراهم وثلث 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taḏkiraẗu ḥisābi ʾabī ḥasan:in ʾaʿazza hu ăl lāhu 
+ <lb n="3"/>ʾawwala yawm:in qisṭu ****** dāniq 
+ <lb n="4"/>banafsaǧ:un niṣfu qīrāṭ:in wa niṣfu dāniq:in 
+ <lb n="5"/>wa laḥm:un niṣf:un lawz:un wa ġayru hu dirham:un zayt:un 
+ <lb n="6"/>sukkar:un niṣfu dāniq:in 
+ <lb n="7"/>rubʿ zanbaq 
+ <lb n="8"/>wa šīraǧ:un niṣfu dāniq:in laḥm:un ṯulṯ:un 
+ <lb n="9"/>šaʿīr:un dāniq:un ġayru ḥabbaẗ:in laḥm:un dirham:un 
+ <lb n="10"/>ʾaṣlaḥu ballān:un ṯulṯ:un wa niṣfu dāniq:in 
+ <lb n="11"/>wa dirhamu laḥm:in wa rubʿu sawīq:in wa sukkar:in 
+ <lb n="12"/>fa ḏālika ḫamsaẗu ăd darāhimi wa ṯulṯ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Memory note concerning the account of Abû Ḥasan - may God exalt him -
+			<lb n="3"/>
+		on the first day: one xestes [...] one dâniq
+			<lb n="4"/>
+		violets a half carat and a half dâniq,
+			<lb n="5"/>
+		and meat a half, almonds etc. one dirham, oil
+			<lb n="6"/>
+		sugar a half dâniq
+			<lb n="7"/>
+		a quarter〚***********〛, oil of jasmine
+			<lb n="8"/>
+		and sesame-oil a [hal]f dâni[q], meat a third,
+			<lb n="9"/>
+		barley one dâniq less a ḥ[abb]a, meat one dirham.
+			<lb n="10"/>
+		Aṣlaḥ. bath attendant (?), a third and a half dâniq
+			<lb n="11"/>
+		and for a dirham meat and a quarter barley-meal and sugar,
+			<lb n="12"/>
+		That makes five dirhams and a third.
+</ab></div>
+</body>
+</text>
+</TEI>

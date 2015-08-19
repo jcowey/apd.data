@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1430" xml:id="Diem_Heid_II_44" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 44</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_44</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169218</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  قد حضر بقوف أطال اللّه بقا سيّدي الشّريف وأدام عزّ<supplied reason="lost" cert="high">ه</supplied> 
+<lb n="3"/>  وتأييده وسعادته وأتم نعـ<supplied reason="lost" cert="high">ـمتـ</supplied>ـه عليه وقد أ<supplied reason="lost" cert="high">رسـ</supplied>ـلـ<supplied reason="lost" cert="high">ـنـ</supplied>ـا<supplied reason="lost" cert="high">ه</supplied> 
+<lb n="4"/>  إلى سيّدي الشّريف أيّده اللّه فتدبّر أمره معه <app type="BL"><lem resp="APD">وتتخلّص </lem><rdg resp="APD">ونتخلّص</rdg></app> 
+<lb n="5"/>  منه مرّة واحدة فقد <app type="BL"><lem resp="APD">خسر </lem><rdg resp="APD">خسّرته</rdg></app> <app type="BL"><lem resp="APD">به </lem><rdg resp="APD">ø</rdg></app> غير جعل 
+<lb n="6"/>  فلا يبرحك أو <app type="BL"><lem resp="APD">نتخلّص </lem><rdg resp="APD">نتخلّص</rdg></app> منه وتعرّفني <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بما</rdg></app> <app type="BL"><lem resp="APD">كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">يكون</rdg></app> 
+<lb n="7"/>  بينك وبينه إن شا اللّه 
+<lb n="8"/>  وحسبنا اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qad ḥaḍara baqūfu ʾaṭāla ăl lāhu baqāʾa sayyid ī ăš šarīfi wa ʾadāma ʿizza hu 
+ <lb n="3"/>wa taʾyīda hu wa saʿādata hu wa ʾatamma niʿmata hu ʿalay hi wa qad ʾarsalnā hu 
+ <lb n="4"/>ʾilà sayyid ī ăš šarīfi ʾayyada hu ăl lāhu fa tudabbir ʾamra hu maʿa hu wa nataḫallaṣu tataḫallaṣu 
+ <lb n="5"/>min hu marraẗ:an wāḥidaẗ:an fa qad ḫasira ḫassarta ø hu bi ø hi ø ġayra ǧuʿl:in 
+ <lb n="6"/>fa lā yabraḥu ka ʾaw nataḫallaṣu tataḫallaṣu min hu wa tuʿarrif nī *** bi ø mā k*** yakūnu 
+ <lb n="7"/>bayna ka wa bayna hu ʾin šāʾa ăl lāhu 
+ <lb n="8"/>wa ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Baqūf hat sich eingefunden - Gott lasse meinen edlen Herrn lange leben, lasse sein Ansehen,
+			<lb n="3"/>
+		seine Unterstützung und sein Glück andauern und vollende seine Gnade an ihm -, und wir haben ihn
+			<lb n="4"/>
+		zu meinem edlen Herrn - Gott stütze ihn - gesandt. Erledige also zusammen mit ihm seine Angelegenheit, und Du wirst ihn
+			<lb n="5"/>
+		ein für allemal los, denn er hat deswegen (sc. wegen der Angelegenheit) mehr als eine Gebühr eingebüßt.
+			<lb n="6"/>
+		Er wird deshalb von Dir nicht ablassen, es sei denn, Du wirst ihn (im Guten) los. Teile mir mit [...]
+			<lb n="7"/>
+		zwischen Dir und ihm, so Gott will.
+			<lb n="8"/>
+		Gott ist unser Genüge; er ist der beste Sachwalter.
+</ab></div>
+</body>
+</text>
+</TEI>

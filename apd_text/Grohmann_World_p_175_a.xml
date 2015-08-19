@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="931" xml:id="Grohmann_World_p_175_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 175 a (= CPR XVI 16)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_175_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113689</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أبقاك آللّه وحفظك وأتم نعمه عليك وزاد في 
+<lb n="recto 3"/>  قد توجّه إلينا <supplied reason="omitted" cert="high">ما</supplied> <app type="BL"><lem resp="APD">قبلك </lem><rdg resp="“Diem”">ألى</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">ما</supplied> </lem><rdg resp="“Diem”">ما</rdg></app> قبلك 
+<lb n="recto 4"/>  وقد إليه <app type="BL"><lem resp="“Grohmann; Diem”">قارب </lem><rdg resp="“Diem”">النوبى</rdg></app>  سلّم <app type="BL"><lem resp="APD">إليه </lem><rdg resp="“Diem”">اللّه</rdg></app> قارب 
+<lb n="recto 5"/>  يوسف <app type="BL"><lem resp="APD">پن </lem><rdg resp="“Diem”">بن</rdg></app> القلفاط وقد وجّهت الى <app type="BL"><lem resp="APD">نفسك </lem><rdg resp="Diem">بيتك</rdg></app> 
+<lb n="recto 6"/>  بالّذي وجّهت به معه إن شا اللّه 
+<lb n="recto 7"/>  أبقاك اللّه وحفظك 
+<lb n="verso 1"/>  لأبي الحسن أبقاه اللّه من جميع أصحابه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾatamma niʿama hu ʿalay ka wa zāda fī 
+ <lb n="3"/>ʾiḥsāni hi ʾilay ka qad tawaǧǧaha ʾilay ʾilà nā ø ø mā qibala ka 
+ <lb n="4"/>qāribu bakr:ini ăn nūbiyyi nūtiyyi wa qad sallama sullima ʾilay ăl hi lāhu qāriba qāribu 
+ <lb n="5"/>yūsufa ø ĭbni ăl qalfāṭi wa qad waǧǧahtu ʾilà nafsi bayti ka 
+ <lb n="6"/>bi ăllaḏī waǧǧahtu bi hi maʿa hu ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+ <lb n="8"/>li ʾabī ăl ḥasani ʾabqā hu ăl lāhu min ǧamīʿi ʾaṣḥābi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Gott erhalte und beschütze Dich, vollende seine Gnadenerweise an Dir und erweise Dir noch mehr
+		May God preserve thee and protect thee and may He fulfil His loving kindness unto thee and may He increase
+			<lb n="3"/>
+		His bounty unto thee! The boat of Bakr, the sailor,
+		sein Wohlwollen! Die Barke von 
+			<lb n="4"/>
+		Bakr dem Seemann ist auf dem Weg zu Dir. Die Barke von
+		has just been sent to us from thy part, and the boat of
+			<lb n="5"/>
+		Yūsuf, dem Sohn des Kalfaterers, hat Gott wohlbehalten ankommen lassen, und ich habe zu Deinem Haus
+		Yûsuf, the caulker, has already been handed over to him. And I have just sent to thee personally
+			<lb n="6"/>
+		das gesandt, was Du durch ihn hattest überbringen lassen, so Gott will.
+		that which I have sent with him (i.e. Bakr), please God.
+			<lb n="7"/>
+		Gott erhalte und beschütze Dich!
+		May God preserve thee and protect thee.
+			<lb n="8"/>
+		An Abū l-Ḥasan - Gott erhalte ihn - von allen seinen Partnern.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="613" xml:id="Jahn_JBW_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 07 (= P.World p. 185)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106731</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وعافاك 
+<lb n="3"/>  وأمتع بك <app type="BL"><lem resp="APD">فإن </lem><rdg resp="“Levi della Vida, Letters p. 130f.”">فإني </rdg><rdg resp="“Grohmann”">يا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" />اپد </lem><rdg resp="“Levi della Vida, Letters p. 130f.”">أخبرتك </rdg><rdg resp="“Grohmann”">رمّانة </rdg><rdg resp="Diem">رأيت</rdg></app> أطال اللّه بقاك 
+<lb n="4"/>  إنّي أنا إنسان مسكين 
+<lb n="5"/>  <app type="BL"><lem resp="APD">فليس </lem><rdg resp="“Grohmann”">وليس</rdg></app> لي قليل ولا كثير 
+<lb n="6"/>  فأنا باللّه <app type="BL"><lem resp="APD">ربّك </lem><rdg resp="Diem">بك</rdg></app> يسيّدي انظر في 
+<lb n="7"/>  أمري أمتع اللّه بك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʿāfā ka 
+ <lb n="3"/>wa ʾamtaʿa bi ka fa yā ʾin ʾin ø nī *ʾBd ʾaḫbartu rummānaẗu raʾaytu ø ka ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="4"/>ʾinn ī ʾanā ʾinsān:un miskīn:un 
+ <lb n="5"/>fa wa laysa l ī qalīl:un wa lā kaṯīr:un 
+ <lb n="6"/>fa ʾanā bi ăl lāhi rabbi bi ka yā sayyid ī ŭnẓur fī 
+ <lb n="7"/>ʾamr ī ʾamtaʿa ăl lāhu bi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Gott behüte Dich und erhalte Dich gesund
+		May God protect thee and give thee health,
+			<lb n="3"/>
+		and may He cause me to profit by thee, o Ru[mm]âna, may God prolong thy life.
+		... I inform you ...
+		und lasse Dich leben ..... lasse Dein Leben lange währen.
+			<lb n="4"/>
+		Indeed I am a poor man
+		Wahrhaftig, ich bin ein armer Mensch.
+			<lb n="5"/>
+		and I do not possess either little or much.
+		Ich habe weder wenig noch viel (d.h. gar nichts).
+			<lb n="6"/>
+		But I adjure thee for God&#039;s, thy Lord&#039;s, sake, o my lord, to bestow care
+		Ich existiere durch Gott und Dich ...
+		Ich nehme meine Zuflucht zu Gott, Deinem Herrn, oh mein Gebieter; erwäge
+			<lb n="7"/>
+		meine Angelegenheit - Gott lasse Dich leben.
+		upon my concern. May God cause me to profit by thee.
+</ab></div>
+</body>
+</text>
+</TEI>

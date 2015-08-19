@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2142" xml:id="Umari_Khuyul_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  للجناب العالي السّيفي تنم بن عبد اللّه من خايربك من طبقة المستجدّة الملكي الأشرفي أعزّه اللّه تعالى أقر 
+<lb n="3"/>  الزّيني عبد العزيز بن <app type="BL"><lem resp="APD">محمد </lem><rdg resp="UB; omitted in edition">يحيى</rdg></app> <app type="BL"><lem resp="APD">عرف </lem><rdg resp="UB; omitted in edition">بن</rdg></app> پابن زين الدلال پسوق الخيل الاقرار السرعى ڤى صحه وسلامه 
+<lb n="4"/>  وطواعية ونفاذه أن في ذمّته بحق صحيح شرعي للمقر المشار إليه أعلاه من الذّهب الأشرفي والظّاهري الطّيّب الوازن السّالم من 
+<lb n="5"/>  عيب مثله عشرة دنانير الحال من ذلك مقبوض بيد الجناب المشار إليه أعلاه ديناران والباقي وهو ثمانية دنانير 
+<lb n="6"/>  يقوم له بذلك مقسّطا عليه في سلخ كل شهر يمضي من الاستقبال جمادى الأولى من تاريخه ديناران وهو ما بقي للأقساط 
+<lb n="7"/>  تقسّط بالمدّة والوزن على ثلاث وأن ذلك ثمن ما ابتاعه المقر المذكور من الجناب المقر له أعلاه واعترف 
+<lb n="8"/>  بتسلّم وهو <app type="BL"><lem resp="APD">حي </lem><rdg resp="UB">جميع</rdg></app> أكديش شاته بوز ذبابي مدوّر القد سالم من النّار معلوم بذلك عندهما شرعا بعد 
+<lb n="9"/>  النّظر والمعرفة والتّثبّت الشّرعي والإحاطة بذلك علما وخبرة النّافي للجهالة شرعا انتهى بينهما في ذلك 
+<lb n="10"/>  بشرط البرا من كل عيب لا ضمان سوى درك الحال وأكل العليق المعتاد بتصادقهما على ذلك التّصديق الشّرعي 
+<lb n="11"/>  وخص بحضوره المقر المذكور ولده لصلبه محمّد المدعو سعود بذكره وقد وكّل في ذمّته 
+<lb n="12"/>  وماله والده المقر المذكور للجناب المشار إليه أعلاه على حكمه أعلاه في الحالات الّتي 
+<lb n="13"/>  العسر والعز والموت والحياة والبيع والحضور والغياب الشّرعي بالإقرار الشّرعي المقبول مقرّا بالمدّة والوزن أعلاه 
+<lb n="14"/>  ومن شهد عليهم بذلك وبالتّوكيل أنجز في ثالث عشرين من جمادى الأولى تسعة عشر تسعمائة 
+<lb n="right margin top 1"/>  شهد عليهم بذلك 
+<lb n="right margin top 2"/>  المتوكّل على اللّه 
+<lb n="right margin top 3"/>  محمّد بن علي المحتسب 
+<lb n="right margin bottom 1"/>  شهد عليهم بذلك 
+<lb n="right margin bottom 2"/>  محمّد بن أحمد البشلاوي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li l ǧanābi ăl ʿālī ăs sayfiyyi tanama bni ʿabdi ăl lāhi min ḫāyirbaka min ṭabaqaẗi ăl mustaǧaddaẗi ăl malikiyyi ăl ʾašrafiyyi ʾaʿazza hu ăl lāhu taʿālà ʾaqarra 
+ <lb n="3"/>ăz zayniyyu ʿabdu ăl ʿazīzi bni ø yaḥyà ø bni muḥammad:in ʿurifa bi ĭbni zayn:in ăd dallālu bi sūqi ăl ḫayli ăl ʾiqrāra ăš šarʿiyya fī ṣiḥḥaẗ:in wa salāmaẗ:in 
+ <lb n="4"/>wa ṭawāʿiyyaẗ:in wa nafāḏi hi ʾanna fī ḏimmati hi bi ḥaqq:in ṣaḥīḥ:in šarʿiyy:in li l maqarri ăl mušāri ʾilay hi ʾaʿlā hu mina ăḏ ḏahabi ăl ʾašrafiyyi wa ăẓ ẓāhiriyyi ăṭ ṭayyibi ăl wāzini ăs sālimi min 
+ <lb n="5"/>ʿaybi miṯli hi ʿašaraẗa danānīra ăl ḥāllu min ḏālika maqbūḍ:un bi yadi ăl ǧanābi ăl mušāri ʾilay hi ʾaʿlā hu dīnārāni wa ăl bāqī wa huwa ṯamāniyaẗu danānīra 
+ <lb n="6"/>yaqūmu la hu bi ḏālika muqassiṭ:an ʿalay hi fī salḫi kulli šahr:in yamḍī mina ăli ĭstiqbāli ǧumādà ăl ʾūlà min tārīḫi hi dīnārāni wa huwa mā baqiya li l ʾaqsāṭi 
+ <lb n="7"/>tuqassaṭu bi ăl muddaẗi wa ăl wazni ʿalà ṯalāṯ:in wa ʾanna ḏālika ṯamanu mā ĭbtāʿa hu ăl muqirru ăl maḏkūru mina ăl ǧanābi ăl muqarri la hu ʾaʿlā hu wa ĭʿtarafa 
+ <lb n="8"/>bi tasallum:in wa huwa ḥayyu ǧamīʿu ʾakdīš:in šātu hu būz:un ḏubābiyy:un mudawwari ăl qaddi sālim:in mina ăn nāri maʿlūm:in bi ḏālika ʿinda humā šarʿ:an baʿda 
+ <lb n="9"/>ăn naẓari wa ăl maʿrifaẗi wa ăt taṯabbuti ăš šarʿiyyi wa ăl ʾiḥāṭaẗi bi ḏālika ʿilm:an wa ḫibraẗ:ani ăn nāfiya li l ǧahālaẗi šarʿ:ani ĭntahà bayna humā fī ḏālika 
+ <lb n="10"/>bi šarṭi ăl barāʾi min kulli ʿayb:in lā ḍamāna siwà daraki ăl ḥāli wa ʾakli ăl ʿalīqi ăl muʿtādi bi taṣāduqi himā ʿalà ḏālika ăt taṣdīqa ăš šarʿiyya 
+ <lb n="11"/>wa ḫaṣṣa bi ḥuḍūri hi ăl muqirru ăl maḏkūru walada hu li ṣulbi hi muḥammad ăl madʿuwwa suʿūd bi ḏikri hi wa qad wakkala fī ḏimmati hi 
+ <lb n="12"/>wa māli hi wālida hu ăl muqirra ăl maḏkūra li l ǧanābi ăl mušāri ʾilay hi ʾaʿlā hu ʿalà ḥukmi hi ʾaʿlā hu fī ăl ḥālāti ăllatī 
+ <lb n="13"/>ăl ʿusru wa ăl ʿizzu wa ăl mawtu wa ăl ḥayāẗu wa ăl bayʿu wa ăl ḥuḍūru wa ăl ġiyābu ăš šarʿiyyu bi ăl ʾiqrāri ăš šarʿiyyi ăl maqbūli muqirr:an bi ăl muddaẗi wa ăl wazni ʾaʿlā hu 
+ <lb n="14"/>wa man šahida ʿalay him bi ḏālika wa bi ăt tawkīli ʾunǧiza fī ṯāliṯ:in ʿišrīna min ǧumādà ăl ʾūlà tisʿaẗa ʿašara tisʿa miʾaẗ:in 
+ <lb n="15"/>šahida ʿalay him bi ḏālika 
+ <lb n="16"/>ăl mutawakkilu ʿalà ăl lāhi 
+ <lb n="17"/>muḥammadu bnu ʿaliyy:ini ăl muḥtasibu 
+ <lb n="18"/>šahida ʿalay him bi ḏālika 
+ <lb n="19"/>muḥammadu bnu ʾaḥmada ăl bašlāwiyyu 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

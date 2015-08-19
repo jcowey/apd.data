@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1230" xml:id="David-Weill_Louvre_3" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 03a</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_3</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169068</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  جعلت <app type="BL"><lem resp="APD">فداك </lem><rdg resp="Diem">ø</rdg></app> من كل سو <sic n="superfluous">ڤداك</sic> 
+ <lb n="4"/>  وأبقاك اللّه عزيزا كتبت 
+ <lb n="5"/>  إليك <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">أنّا</unclear> </lem><rdg resp="APD">أطال </rdg><rdg resp="Diem, P.Heid.Arab. II p. 244">أنسأ</rdg></app> اللّه في أجلك 
+ <lb n="6"/>  يأبا جعفر ذلك 
+ <lb n="7"/>  أن خفت عليك أن تبعث 
+ <lb n="8"/>  إلينا بالنّفقة مع <app type="BL"><lem resp="APD">جاريتك </lem><rdg resp="APD">قاربتك</rdg></app> 
+ <lb n="9"/>  فإنّي خارج إلى الفسطاط فإنّي رأيت 
+ <lb n="10"/>  أعزّك اللّه يأبا جعفر أن تكلّم 
+ <lb n="11"/>  إلينا بقدومـك أوصيك بالعيال 
+ <lb n="12"/>  فإن ليس لي أخ غيراك 
+ <lb n="13"/>  في الدنيا <sic n="superfluous">ڤپحڤي</sic> <supplied reason="omitted" cert="high">فخفت</supplied> عليك 
+ <lb n="14"/>  أن لم تعجل بالقدوم قبل أن أخرج 
+ <lb n="15"/>  إن اللّه تبارك وتعالى يعلم إنّي أرجع أو 
+ <lb n="16"/>  لا أبقاك اللّه وحفظك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ǧuʿiltu fidāʾa ø ka ø min kulli sūʾ:in ø fidāʾa ø ka 
+ <lb n="4"/>wa ʾabqā ka ăl lāhu ʿazīz:an katabtu 
+ <lb n="5"/>ʾilay ka ʾannā ʾaṭāla ʾansaʾa ăl lāhu fī ʾaǧali ka 
+ <lb n="6"/>yā ʾabā ǧaʿfara ḏālika 
+ <lb n="7"/>ʾan ḫiftu ʿalay ka ʾan tabʿaṯa 
+ <lb n="8"/>ʾilay nā bi ăn nafaqaẗi maʿa ǧāriyati qāribati ka 
+ <lb n="9"/>fa ʾin nī ḫāriǧ:un ʾilà ăl fusṭāṭi fa ʾin nī raʾaytu 
+ <lb n="10"/>ʾaʿazza ka ăl lāhu yā ʾabā ǧaʿfara ʾan tukallima 
+ <lb n="11"/>ʾilay nā bi qudūmi ka ʾūṣī ka bi ăl ʿiyāli 
+ <lb n="12"/>fa ʾin laysa l ī ʾaḫ:un ġayrā ka 
+ <lb n="13"/>fī ăd dunyā fa ḫiftu ʿalay ka 
+ <lb n="14"/>ʾan lam taʿǧal bi ăl qudūmi qabla ʾan ʾaḫruǧa 
+ <lb n="15"/>ʾinna ăl lāha tabāraka wa taʿālà yaʿlamu ʾin nī ʾarǧaʿu ʾaw 
+ <lb n="16"/>lā ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément, miséricordieux!
+		 <lb n="2"/>
+ 	  Au nom de Dieu, clément, miséricordieux!
+		 <lb n="3"/>
+ 	  Que je te serve de rançon pour tout mal ta rançon (sic)
+		 <lb n="4"/>
+ 	  et que Dieu te fasse durer, chéri! J&#039;ai écrit
+		 <lb n="5"/>
+ 	  à ton adresse, que Dieu prolonge ton terme (?)
+		 <lb n="6"/>
+ 	  o Abu Djaʿfar voici:
+		 <lb n="7"/>
+ 	  je crains pour toi que tu expédies
+		 <lb n="8"/>
+ 	  par devers nous le paîment avec ta jeune esclave (?)
+		 <lb n="9"/>
+ 	  car je pars pour Fustat et je considère
+		 <lb n="10"/>
+ 	  que Dieu te chérisse, ô Abu Djaʿfar, que tu dois nous parler
+		 <lb n="11"/>
+ 	  de ta venue; je te confie ma famille
+		 <lb n="12"/>
+ 	  car je n&#039;ai d&#039;autre frère que toi
+		 <lb n="13"/>
+ 	  en ce bas monde et je crains pour toi
+		 <lb n="14"/>
+ 	  que tu ne te presses pas d&#039;arriver avant mon départ
+		 <lb n="15"/>
+ 	  car Dieu, qu&#039;il soit béni et exalté! sait si je reviendrai
+		 <lb n="16"/>
+ 	  ou non, que Dieu te fasse durer et te conserve!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="807" xml:id="Guo_Quseir_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106857</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 left"/>  من <app type="BL"><lem resp="APD">عند </lem><rdg resp="AK">عند</rdg></app> علي 
+<lb n="2 left"/>  بن حجازي 
+<lb n="2 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أعلم حضرة الشّيخ أبو مفرّج وفّقه اللّه تعل 
+<lb n="4"/>  أنّي أرسلت لك عشر قطع دقيق وعشر 
+<lb n="5"/>  أرادب قمح فبمن اللّه لا تسلّم لأحد منهم شي 
+<lb n="6"/>  حتّى أصل إليك واللّه اللّه الوصيّة 
+<lb n="7"/>  عليهم فتحطّهم عند موضع جيّد 
+<lb n="8"/>  ولا تسلّم لأحد منهم شي غيري 
+<lb n="9"/>  والسّلام عليك ورحمة اللّه وإحسانه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>min ʿabdi ʿindi ʿaliyyi 
+ <lb n="2"/>bni ḥiǧāziyy:in 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾuʿlimu ḥaḍraẗa ăš šayḫi ʾabū mufarriǧ:in waffaqa hu ăl lāhu taʿāla 
+ <lb n="5"/>ʾan nī ʾarsaltu la ka ʿašra qiṭaʿ:in daqīq wa ʿašra 
+ <lb n="6"/>ʾarādiba qamḥ fa bi manni ăl lāhi lā tusallim li ʾaḥad:in min hum šayʾ 
+ <lb n="7"/>ḥattà ʾaṣilu ʾilay ka wa ăl lāhu ăl lāhu ăl waṣiyyaẗu 
+ <lb n="8"/>ʿalay him fa taḥuṭṭi him ʿinda mawḍiʿ:in ǧayyid:in 
+ <lb n="9"/>wa lā tusallim li ʾaḥad:in min hum šayʾ ġayr ī 
+ <lb n="10"/>wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa ʾiḥsānu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		From the servant of ʿAlī 
+			<lb n="2"/>
+		ibn Ḥijāzī.
+			<lb n="3"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="4"/>
+		I am writing to inform your Highness, Shaykh Abū Mufarrij - may God, Almighty, make him (i.e., you) successful! - that
+		This is to inform Shaykh Abu Mufarrij 
+			<lb n="5"/>
+		I have sent to you ten qiṭʿa-units of flour and ten
+		that I have sent to you ten measures of flour and ten 
+			<lb n="6"/>
+		ardabbs of grain by the Grace of Almighty God. Do not deliver to anyone of them anything 
+		irdabbs of wheat. By the Grace of God, do not deliver any [of these] to anybody
+			<lb n="7"/>
+		until I arrive at your place. It is instructed 
+		until I have arrived at you[r place]. O God, O God, the instruction,
+			<lb n="8"/>
+		on account of these goods, is that you store them in a safe place.
+		that it be placed in a good location, 
+			<lb n="9"/>
+		and do not deliver to any one of them a thing without me. 
+		Do not deliver a thing to anybody without my [consent].
+			<lb n="10"/>
+		Peace be upon you. God&#039;s mercy and blessings.
+		Peace upon you [plural form] and the mercy of God and His blessing.
+</ab></div>
+</body>
+</text>
+</TEI>

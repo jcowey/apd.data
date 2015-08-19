@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1901" xml:id="Grohmann_APEL_422" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 422</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_422</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169638</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  البقي سبعة قراريط ولنا ثلث درهم وحبّتين 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  الّذي لعمر عندي بعد كل حساب قيراط ونصف ذهب نفقة يوم الثّلثا 
+<lb n="4"/>  ثمن جبن دنقين غير حبّة وتمن لبن ربع درهم ثمن زيت خرّوبة ثمن كرّاث <sic n="superfluous"><unclear reason="undefined" cert="high">حنه</unclear></sic><supplied reason="omitted" cert="high">حبّة</supplied> 
+<lb n="5"/>  <gap reason="illegible" extent="7" unit="character" /> نجمة عن حوزتي تذكر عنّي نفقة يو<supplied reason="lost" cert="high">م</supplied> الأربعا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl bāqī sabʿaẗu qarārīṭa wa la nā ṯulṯu dirham:in wa ḥabbatayni 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ăllaḏī li ʿumar:in ʿind ī baʿda kulli ḥisāb:in qīrāṭ:un wa niṣf:un ḏahab:un nafaqaẗu yawmi ăṯ ṯulāṯāʾi 
+ <lb n="4"/>ṯamanu ǧubn:in dāniqayni ġayru ḥabbaẗ:in wa tamanu laban:in rubʿu dirham:in ṯamanu zayt:in ḫarrūbaẗ:un ṯamanu karrāṯ:in ḥabbaẗ:un 
+ <lb n="5"/>******* naǧamaẗ ʿan ḥawzat ī tuḏkaru ʿan nī nafaqaẗu yawmi ăl ʾarbaʿāʾi *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The remainder (amounts to) seven carats, and in our favour (stand) a third of a dirham and two ḥabbas.
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		That which I have in hand in favour of ʿUmar after settling all accounts (amounts to) one and a half gold-carats. Thursday&#039;s expenses:
+			<lb n="4"/>
+		The price of cheese two dâniqs less one ḥabba, and the price of milk a quarter of a dirham; the price of oil one ḫarrûba; the price of leek one ḥabba (?)
+			<lb n="5"/>
+		............... dogs grass out of my (own) property, mentioned on my behalf (?) Wednesday&#039;s expenses ...... [
+</ab></div>
+</body>
+</text>
+</TEI>

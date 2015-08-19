@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="791" xml:id="Guo_Quseir_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 02</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106851</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/>ل عبد الباقي أربعة أحمال نقصه ستّة أمـ<supplied reason="lost" cert="high">داد</supplied> 
+<lb n="recto 2"/>  عمر سبعة أحمال وربع نقصه ثلاثة ويبات 
+<lb n="recto 3"/>  أبـ<supplied reason="lost" cert="high">ـو</supplied> الفتح حملين نقصه نصف ويبة 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> الحسپن حملپن وپصف نقصه نسعه امداد 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> احمال پڤصه نلاپه امداد 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد حمل الا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">أ</supplied>علم الشّيخ أبو مفرّج أطال <supplied reason="omitted" cert="high">اللّه بقاه</supplied> كيلنا 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">لـ</supplied>ـهم بالويبة إن صح كيلك والي أكيال 
+<lb n="verso 3"/>  لهم ينصف ويبة الوالي بدر الدّين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***l ʿabd ăl bāqī ʾarbaʿaẗu ʾaḥmāl:in naqṣu hu sittaẗu ʾamdād:in 
+ <lb n="2"/>ʿumaru sabʿaẗu ʾaḥmāl:in wa rubʿ:un naqṣu hu ṯalāṯaẗu waybāt:in 
+ <lb n="3"/>ʾabū ăl fatḥi ḥimlayni naqṣu hu niṣfu waybaẗ:in 
+ <lb n="4"/>*** ăl ḥusayn ḥimlayni wa niṣf:un naqṣu hu tisʿaẗu ʾamdād:in 
+ <lb n="5"/>*** ʾaḥmāl:in naqṣu hu ṯalāṯaẗu ʾamdād:in 
+ <lb n="6"/>***d ḥiml:un ʾillā *** 
+ <lb n="7"/>ʾuʿlimu ăš šayḫa ʾabū mufarriǧ:in ʾaṭāla ăl lāhu baqāʾa hu kaylu nā 
+ <lb n="8"/>la hum bi ăl waybaẗi ʾin ṣaḥḥa kaylu ka wālī ʾakyāl:in 
+ <lb n="9"/>la hum yunṣifu waybaẗ:ani ăl wālī badru ăd dīni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[....]l ʿAbd al-Bāqī: four loads; balance: six mudds.
+			<lb n="2"/>
+		ʿUmar: seven and a quarter loads; balance: three waybas.
+			<lb n="3"/>
+		Ab[ū] al-Fatḥ: two loads; balance: half wayba.
+			<lb n="4"/>
+		[....] Al-Ḥusayn: two and half loads; balance: nine mudds.
+			<lb n="5"/>
+		[............] loads; balance: three mudds.
+			<lb n="6"/>
+		[.............]d: one load minus [............].
+			<lb n="7"/>
+		I [write to] inform Shaykh Abū Mufarrij that our scale exceeds 
+			<lb n="8"/>
+		theirs by one wayba. If your scale is accurate, then their scale master
+			<lb n="9"/>
+		may discount the [extra] wayba. The scale master is Badr ad-Dīn.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1522" xml:id="Khan_Khalili_I_27" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 27 (= P.KhanKhalili II 94)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_27</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169293</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem, deduced from the closing of the letter">أكرمك</rdg></app> اللّه وأبقاك وأتم نعمته عليك وزاد في إحسانه إليك وجميل مـ<supplied reason="lost" cert="high">واهبه</supplied> <supplied reason="lost" cert="high">لديك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">حال</supplied> <supplied reason="lost" cert="high">السّـ</supplied>ـلامة أتاني كتابك أكرمك اللّه وفهمت ما ذكرت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">اللّه</unclear> <unclear reason="undefined" cert="high">بإخرا</unclear><supplied reason="lost" cert="high">ج</supplied> كتاب إليك مع يحيى بن محمود وكتبت إليك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">خـ</supplied>ـرج نصر مع <supplied reason="lost" cert="high">البا</supplied><unclear reason="undefined" cert="high">قين</unclear> من الثّلثون فدفعتهم إليه ولم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">قبـ</supplied>ـضت منهم الباقي الّذي عليهم وقد كتبت إلي في أمر عبد الملك في الدّ<supplied reason="lost" cert="high">ينا</supplied>ر وربع <app type="BL"><lem resp="APD">فأوعد<supplied reason="lost" cert="high">ت</supplied> </lem><rdg resp="according to Khan's translation on line 5 and 6">فأوعد</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـملك العشرة الدّنانير وقلت له أن أبو أيّوب أكرمه اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> ولم يخف عليك أن ندا المال غلو وقلت له أن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> تأويل في هذه العشرة الدّنانير ولو كانت هذه <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> له براه بعشرة الدّنانير فدفعهم إلي من ماله ولا تغنم بهم فأ<supplied reason="lost" cert="high">نا</supplied> <supplied reason="lost" cert="high">أ</supplied>رجوا أن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> كل يوم ستّين حتّى حيّل إلى السّبعين ولو لا ما <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> 
+<lb n="recto 11"/>  <supplied reason="lost" cert="high">ثمـ</supplied>ـن الأملول شي وكتبت إلى <app type="BL"><lem resp="APD">مربد </lem><rdg resp="APD">مريد </rdg><rdg resp="APD">مريد </rdg><rdg resp="APD">مزبد </rdg><rdg resp="APD">مربد</rdg></app> أن لا يدفع إلي شي من ثمن الأملول فأنا أشير عليك 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ولا عشرة الدّنانير <unclear reason="undefined" cert="high">جباية</unclear> وهذا الكتّان في هذا <gap reason="illegible" precision="low" extent="3"/>ام طيّبه اللّه 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> حتّا <app type="BL"><lem resp="APD">لسمير </lem><rdg resp="APD">لسمير</rdg></app> فانظر لنفسك وليس بدفعه لك شي وأنا أشـ<supplied reason="lost" cert="high">ـيـ</supplied>ـر أن تريح عليهم 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> بعين اللّه وتفرج من عملنا وقد كنت كلّمتك في شرا الكتّان فالحمد للّه الّذي 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> على علمك هي حاجة لهذا الرّجل عندك وديناره عشر<supplied reason="lost" cert="high">ة</supplied> <supplied reason="lost" cert="high">د</supplied>نانـ<supplied reason="lost" cert="high">ـير</supplied> <supplied reason="lost" cert="high">ونـ</supplied>ـصف فا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 16"/>  <gap reason="illegible" precision="low" extent="3"/> في شي فافعل فإن حوائج النّاس كلّهم عندك <app type="BL"><lem resp="APD">مقصـ<supplied reason="lost" cert="high">ـودة</supplied> </lem><rdg resp="Diem">مقضيّة</rdg></app> إلّا حاجتي <supplied reason="lost" cert="high">فقـ</supplied>ـد كنت كتبت 
+<lb n="recto 17"/>  <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـأنّي أحتاج إليه <app type="BL"><lem resp="APD">فأنّه </lem><rdg resp="Diem">فأنت</rdg></app> <app type="BL"><lem resp="APD">يعلم </lem><rdg resp="Diem">تعلم</rdg></app> أنّه ما وصل إلي في هذه السّنة دينـ<supplied reason="lost" cert="high">ـار</supplied> ولا درهم و<supplied reason="lost" cert="high">أنـ</supplied>ـا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 18"/>  <gap reason="illegible" precision="low" extent="3"/>ك <app type="BL"><lem resp="APD">وإنّه </lem><rdg resp="Diem">وأنت</rdg></app> <app type="BL"><lem resp="APD">يعلم </lem><rdg resp="Diem">تعلم</rdg></app> أكرمك اللّه أنّي أحتاج إليه وواللّه إن لو لم تكون <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ــك مقامه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 19"/>  <gap reason="illegible" precision="low" extent="3"/> أن تتفضّل له عليه فإنّي إنّما سألتك لقاه من حاجتي <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لا حاجة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> كان في ما أحبّه أن يدفعوه إلي فإنّك تعلم أن لو لا حاجتي إليه <gap reason="illegible" precision="low" extent="3"/> يجب عليك 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">وإنّه </lem><rdg resp="Diem">فأنت</rdg></app> متفضّل إن شا اللّه وقد كنت كتبت إليك في سبب <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـع</unclear> فلم تكتب إلي 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> تحتاج إليه فاكتب إلي حتّا <app type="BL"><lem resp="APD">أجده </lem><rdg resp="Diem">آخذه</rdg></app> لك <supplied reason="omitted" cert="high">إن</supplied> كنت لا تجي آخر شي يكون <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> تعلم أنّـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> كان يجب عليك أن تشتري <app type="BL"><lem resp="APD">الحبّة </lem><rdg resp="Diem">الجبّة</rdg></app> لأبي وحسبها عليه على قمح <app type="BL"><lem resp="APD">وأنا </lem><rdg resp="Diem">فأنا</rdg></app> ضامن للـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> وعجّل علي جواب كتابي إليك لنعمل على حسـ<supplied reason="lost" cert="high">ـب</supplied> ذلك واكتب إلي عن <app type="BL"><lem resp="APD">وصول </lem><rdg resp="Diem">بوصول</rdg></app> <app type="BL"><lem resp="APD">الحبّة </lem><rdg resp="APD">الجبّة</rdg></app> والقر<supplied reason="lost" cert="high">ط</supplied> 
+<lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> واجعل <unclear reason="undefined" cert="high">الأملوان</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> فإنّي واللّه أحتاج 
+<lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> شي قد بعثت فيه أن أبيعه للنّاس واللّه <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لـ</supplied>ـوالده السّلم <app type="BL"><lem resp="APD">تقرأ </lem><rdg resp="APD">اقرأ </rdg><rdg resp="Diem">كثيرا</rdg></app> أكرمك الـ<supplied reason="lost" cert="high">ـلّه</supplied> <app type="BL"><lem resp="APD">السّلم </lem><rdg resp="Diem">وأبقاك</rdg></app> <app type="BL"><lem resp="APD">لولدته </lem><rdg resp="Diem">وأتمّ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">نعمته</rdg></app> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="Diem">عليك</rdg></app> <app type="BL"><lem resp="APD">احاپه </lem><rdg resp="Diem">وزاد</rdg></app> الكـ<supplied reason="lost" cert="high">ـپاپ</supplied> 
+<lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/> وأمّهم لتسرّك وابعث إلي قطعة قرطاس أكتب فيها وإنّما <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="address 1"/>  <gap reason="illegible" precision="low" extent="3"/> أكرمه اللّه <app type="BL"><lem resp="APD">لطاعته </lem><rdg resp="Diem">بطاعته</rdg></app> 
+<lb n="address 2"/>  <gap reason="illegible" precision="low" extent="3"/> محمّد بن <unclear reason="undefined" cert="high">يحيى</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ʾakrama ø ka ăl lāhu wa ʾabqā ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ǧamīli mawāhibi hi laday ka *** 
+ <lb n="2"/>*** ʿan ḥāli ăs salāmaẗi ʾatā nī kitābu ka ʾakrama ka ăl lāhu wa fahimtu mā ḏakarta *** 
+ <lb n="3"/>*** ăl lāh bi ʾiḫrāǧi kitāb:in ʾilay ka maʿa yaḥyà bni maḥmūd:in wa katabtu ʾilay ka *** 
+ <lb n="4"/>ḫaraǧa naṣr:un maʿa ăl bāqīna mina ăṯ ṯalāṯūna fa dafaʿtu hum ʾilay hi wa lam *** 
+ <lb n="5"/>qabaḍtu min hum ăl bāqī ăllaḏī ʿalay him wa qad katabta ʾilay ya fī ʾamri ʿabdi ăl maliki fī ăd dīnāri wa rubʿ:in fa ʾawʿadtu ʾawʿada *** 
+ <lb n="6"/>ʿabda ʿabdu ăl maliki ăl ʿašaraẗa ăd danānīri wa qultu la hu ʾanna ʾabū ʾayyūba ʾakrama hu ăl lāhu *** 
+ <lb n="7"/>*** wa lam yaḫfa ʿalay ka ʾan nadā māl ġuluww wa qultu la hu ʾanna *** *** *** 
+ <lb n="8"/>*** *** taʾwīl fī hāḏihi ăl ʿašaraẗi ăd danānīri wa law kānat hāḏihi *** *** 
+ <lb n="9"/>*** la hu barāʾaẗ:an bi ʿašaraẗi ăd danānīri fa dafaʿa hum ʾilay ya min māli hi wa lā taġnam bi him fa ʾanā ʾarǧū ʾanna *** *** 
+ <lb n="10"/>*** kull yawm:in sittīna ḥattà ḥuyyila ʾilà ăs sabʿīna wa law lā mʾ *** *** min 
+ <lb n="11"/>ṯamani ăl ʾumlūli šayʾ wa katabtu ʾilà mazyada mirbada murayd:in murīd:in muzbid:in ʾan lā yadfaʿa ʾilay ya šayʾ min ṯamani ăl ʾumlūli fa ʾanā ʾušīru ʿalay ka 
+ <lb n="12"/>*** *** wa lā ʿašaraẗ ăd danānīri ǧibāyaẗ:an wa hāḏā ăl kattān fī hāḏā ***ʾm ṭayyaba hu ăl lāhu 
+ <lb n="13"/>*** ḥattā li sumayr:in šumayr:in fa ŭnẓur li nafsi ka wa laysa bi dafʿi hi la ka šayʾ:un wa ʾanā ʾušīru ʾan turīḥa ʿalay him 
+ <lb n="14"/>*** *** bi ʿayni ăl lāhi wa tufriǧu min ʿamali nā wa qad kuntu kallamtu ka fī širāʾi ăl kattāni fa ăl ḥamdu li l lāhi ăllaḏī 
+ <lb n="15"/>*** ʿalà ʿilmi ka hiya ḥāǧaẗ:un li hāḏā ăr raǧuli ʿinda ka wa dīnāru hu ʿašaraẗu danānīra wa niṣf:un fʾ*** *** *** 
+ <lb n="16"/>*** fī šayʾ:in fa ĭfʿal fa ʾinna ḥawāʾiǧa ăn nāsi kullu hum ʿinda ka maqṣūdaẗ:un maqḍiyyaẗ:un ʾillā ḥāǧat ī fa qad kuntu katabtu 
+ <lb n="17"/>ʾilay ka bi ʾan nī ʾaḥtāǧu ʾilay hi fa ʾinna ʾanta hu ø taʿlamu yaʿlamu ʾanna hu mā waṣala ʾilay ya fī hāḏihi ăs sanaẗi dīnār:un wa lā dirham:un wa ʾanā *** 
+ <lb n="18"/>***k wa ʾinna ʾanta hu ø taʿlamu yaʿlamu ʾakrama ka ăl lāhu ʾan ī ʾaḥtāǧu ʾilay hi wa wa ăl lāhi ʾinna law lam takūn *** ***k maqām hu *** 
+ <lb n="19"/>*** ʾan tatafaḍḍala la hu ʿalay hi fa ʾin nī ʾinnamā saʾaltu ka liqāʾa hu min ḥāǧat ī *** *** lā ḥāǧaẗ *** *** 
+ <lb n="20"/>*** kāna fī mā ʾuḥibbu hu ʾan yadfaʿū hu ʾilay ya fa ʾinna ka taʿlamu ʾanna law lā ḥāǧat ī ʾilay hi *** yaǧibu ʿalay ka 
+ <lb n="21"/>*** wa fa ʾinna ʾanta hu mutafaḍḍil:un ʾin šāʾa ăl lāhu wa qad kuntu katabtu ʾilay ka fī sababi ***ʿ fa lam taktub ʾila yya 
+ <lb n="22"/>*** taḥtāǧu ʾilay hi fa ŭktub ʾilay ya ḥattā aǧida ʾāḫuḏa hu la ka ʾin kunta lā taǧīʾu ʾāḫiru šayʾ:in yakūnu *** *** taʿlamu 
+ <lb n="23"/>*** kāna yaǧibu ʿalay ka ʾan taštariya ăl ḥabbaẗa ǧubbaẗa li ʾab ī wa ḥsubu hā ʿalay hi ʿalà qamḥ:in wa fa ʾanā ḍāmin:un li lڑ** 
+ <lb n="24"/>*** *** wa ʿaǧǧil ʿalay ya ǧawāba kitāb ī ʾilay ka li naʿmala ʿalà ḥasabi ḏālika wa ŭktub ʾilay ya ʿan ø bi wuṣūli ăl ḥabbaẗi ǧubbaẗi wa ăl qurṭi 
+ <lb n="25"/>*** *** wa ĭǧʿal ăl ʾumluwāna *** *** *** *** *** fa ʾin nī wa ăl lāhu ʾaḥtāǧu 
+ <lb n="26"/>*** *** šayʾ qad baʿaṯtu fī hi ʾan ʾabīʿa hu li n nāsi wa اl lāhu *** *** *** 
+ <lb n="27"/>*** li wālidi hi ăs salāmu taqraʾ ĭqraʾ kaṯīr:an ʾakrama ka ăl lāhu ăs wa salāma ʾabqā ø ka li لِوٰلِدَتِهِ wa wālidati ʾatamma hi *** niʿmaẗa ø hu ʿalay ka ø wa ø zāda fī ʾiǧābaẗi ʾiḥsāni ø hi ăl ʾilay kitābi ka 
+ <lb n="28"/>*** wa ʾummi him li tasurra ka wa ĭbʿaṯ ʾilay ya qiṭʿaẗa qirṭās:in ʾaktubu fī hā wa ʾinnamā *** 
+ <lb n="29"/>*** ʾakrama hu ăl lāhu li bi ṭāʿati hi 
+ <lb n="30"/>*** muḥammad:in bni yaḥyà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		May God [...], may he preserve you, may he grant you a full measure of his bounty and may he increase his goodness to you and his fine [gifts ...]
+		May God..., may He preserve you, may He grant you a full measure of His bounty, may He increase His goodness to you and may His fine [gifts be yours]!
+			<lb n="2"/>
+		[I am writing to you whilst I am in good] health. Your letter - may God show you kindness - has reached me an I have taken note of what you mentioned [...]
+			<lb n="3"/>
+		[...] ... to send you a letter with Yaḥyā ibn Maḥmūd and I wrote to you [...]
+			<lb n="4"/>
+		[...] Naṣr left with the remainder of the thirty and I paid them to him and [...] not [...]
+		... Nasr ...
+			<lb n="5"/>
+		I received from them the remainder of what they owed me. You wrote to me concerning ʿAbd al-Malik with regard to the one dīnār and a quarter.
+			<lb n="6"/>
+		[ʿAbd al-]Malik promised the ten dīnārs and I said to him that ʿAbū ʿAyyūb - may god show him kindness - [...]
+		... Abu Ayyub...
+		I promised ʿAbd al-Malik the ten dīnārs and I said to him that ʿAbū ʿAyyūb - may god show him kindness - [...]
+			<lb n="7"/>
+		[...] it is not concealed from you that he is excessively generous. I said to him [...]
+			<lb n="8"/>
+		[...] interpretation with regard to these ten dīnārs. If these were ... [...]
+			<lb n="9"/>
+		[...] to him a quittance for the ten dīnārs and he paid them to me out of his money and did not plunder them. I hope that... [...]
+			<lb n="10"/>
+		[...] every day sixty until it was changed to seventy and if [...]
+			<lb n="11"/>
+		anything of the price of the aromatic resin. I wrote to Mazyad that he should not pay me anything of the price of the aromatic resin. I advise you
+			<lb n="12"/>
+		[...] nor the ten dīnārs in tax. This flax in this [...] ...
+			<lb n="13"/>
+		[...] even to Šumayr, so look to your own interests, his payment to you is of no importance. I advise you to pay your debt to them.
+			<lb n="14"/>
+		[...] with the special gift of God and you will be removed from our account. I have spoken to you concerning the purchase of flax. God be praised that
+			<lb n="15"/>
+		[...] ... your knowledge, you need this man. His dīnār is ten and a half [dīnārs] ... [...]
+			<lb n="16"/>
+		... denn Deiner Meinung nach müssen die Anliegen aller Leute erledigt werden, nur mein Anliegen nicht. ...
+		[...] ... in anything, so do it for nobody has made requests of you except me. I wrote
+			<lb n="17"/>
+		[to you] that I require it. He knows that I have not received a dīnār nor even a dirham this year... [...]
+			<lb n="18"/>
+		[...] and he knows - may God show you kindness - that I need it and that, by God, if it were not for the fact that ... [...] ... his place [...]
+			<lb n="19"/>
+		[......] that you show him indulgence with regard to it. I have asked you to meet him for my sake ... [...] ... [...]
+			<lb n="20"/>
+		[...] was in what I wished them to pay me. You know that were it not for my need of it [...] your must
+			<lb n="21"/>
+		[...] and he will be so kind (as to do it), God willing. I wrote to you concerning [...] but you did not write to me
+			<lb n="22"/>
+		... damit ich es Dir besorge...
+		[...] you need it. So write to me so that I may find it for you, if you are not coming. The last thing which [...] ... you know that [...]
+			<lb n="23"/>
+		... das Obergewand...
+		[...] you had to buy the seed for my father. I shall reckon it to his debit in wheat. I guarantee ... [...]
+			<lb n="24"/>
+		[...] ... send me a reply to my letter quickly so that we may act accordingly. Write to me concerning the arrival of the seed and the trefoil.
+			<lb n="25"/>
+		[...] ... for, by God, I need
+			<lb n="26"/>
+		[...] something, concerning which I sent (a message) so that I may sell to the people and by God [...]
+			<lb n="27"/>
+		[...] to his father best wishes (and) give, may God show you kindness, my best wishes to his mother [...] in the reply to the letter [...]
+			<lb n="28"/>
+		[...] and their mother to please you and send to me a piece of papyrus so that I may write on it and...
+			<lb n="29"/>
+		Gott ehre ihn damit, daß er Ihm gehorcht
+		[...] may God show him kindness for his obedience
+			<lb n="30"/>
+		[...] Muḥammad ibn Yaḥyā.
+		[...] Muhammad ibn Yahya.
+</ab></div>
+</body>
+</text>
+</TEI>

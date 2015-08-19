@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1975" xml:id="Grohmann_APEL_257" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 257</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_257</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169707</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> قتّال 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـمل 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/>ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد 
+<lb n="5"/>  ÷ <unclear reason="undefined" cert="high">عسر</unclear> بن عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ببنوتة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ÷ محمّد بن أبي جعفر 
+<lb n="8"/>  ÷ يحيى بن رفاعة 
+<lb n="9"/>  ÷ زكري بن سلفا 
+<lb n="10"/>  ÷ كيل الخبّاز 
+<lb n="11"/>  ÷ مسعود بن عبد الجبّار 
+<lb n="12"/>  ÷÷ فذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ***r 
+ <lb n="2"/>*** qattāl 
+ <lb n="3"/>***ml 
+ <lb n="4"/>**** ***d 
+ <lb n="5"/>1 ʿasaru bnu ʿ*** 
+ <lb n="6"/>babnūtaẗu *** 
+ <lb n="7"/>1 muḥammadu bnu ʾabī ǧaʿfara 
+ <lb n="8"/>1 yaḥyà bnu rifāʿaẗa 
+ <lb n="9"/>1 zikrī bnu salfā 
+ <lb n="10"/>1 kayl:unu ăl ḫabbāzu 
+ <lb n="11"/>1 masʿūdu bnu ʿabdi ăl ǧabbāri 
+ <lb n="12"/>108 fa ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...]r
+			<lb n="2"/>
+		......... Qattâl
+			<lb n="3"/>
+		[...]mal
+			<lb n="4"/>
+		.........[...]d
+			<lb n="5"/>
+		1 ʿAsar b. 1[...]
+			<lb n="6"/>
+		Papnute ..[
+			<lb n="7"/>
+		1 Muḥammad b. Abî Ǧaʿfar
+			<lb n="8"/>
+		1 Yaḥyâ b. Rifâʿa
+			<lb n="9"/>
+		1 Zikrî b. Salfâ
+			<lb n="10"/>
+		1 Chael, the baker
+			<lb n="11"/>
+		1 Masʿûd b. ʿAbd al-Ǧabbâr
+			<lb n="12"/>
+		108. That makes:
+</ab></div>
+</body>
+</text>
+</TEI>

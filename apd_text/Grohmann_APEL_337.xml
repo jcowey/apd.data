@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1833" xml:id="Grohmann_APEL_337" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 337</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_337</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169570</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  برهن إلى أن <app type="BL"><lem resp="Grohmann, translation">تدفع </lem><rdg resp="Grohmann, edition; and Diem">يدفع</rdg></app> <app type="BL"><lem resp="APD">إلي </lem><rdg resp="Diem">إليّ</rdg></app> العبّاسي فقد دفع إلي ثلاثة 
+<lb n="2"/>  دنانير مع بعضها في الجمعة الّتي توفّيت فيها 
+<lb n="3"/>  <app type="BL"><lem resp="APD">أسرار </lem><rdg resp="Diem">والدتي</rdg></app> رحمها اللّه <app type="BL"><lem resp="APD">فأبعثها </lem><rdg resp="Diem÷ fā or qāf omitted by scribe">فأنفقتها</rdg></app> في كفن وحنوط 
+<lb n="4"/>  ونفقة وغـ<supplied reason="lost" cert="high">ـيـ</supplied>ـر ذلك ولو كنت أعلم أنّك تحلّه 
+<lb n="5"/>  من ذلك <app type="BL"><lem resp="APD">ما </lem><rdg resp="Diem">لما</rdg></app> <app type="BL"><lem resp="APD">أحلڤت </lem><rdg resp="Diem">أنفقت</rdg></app> <app type="BL"><lem resp="APD">پـ<gap reason="illegible" precision="low" extent="3"/>انا </lem><rdg resp="Diem÷ two words, not erased"><gap reason="illegible" precision="low" extent="3"/></rdg></app> بهده الكلمـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>أعزّ<del rend="erasure" status="unremarkable">ك</del> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi rahn:in ʾilà ʾan tadfaʿa yadfaʿa ʾilà ʾilay ø ya ăl ʿabbāsiyyi ʿabbāsiyyu fa qad dafaʿa ʾilay ya ṯalāṯaẗa 
+ <lb n="2"/>danānīra maʿa baʿḍi hā fī ăl ǧumʿaẗi ăllatī tuwuffiyat fī hā 
+ <lb n="3"/>ʾasrāru wālidat ø ī raḥima hā ăl lāhu fa ʾabʿaṯu ʾanfaqtu hā fī kafan:in wa ḥanūṭ:in 
+ <lb n="4"/>wa nafaqaẗ:in wa ġayri ḏālika wa law kuntu ʾaʿlamu ʾanna ka taḥullu hu 
+ <lb n="5"/>min ḏālika ø la mā ʾalḥaftu ʾanfaqtu ø *** ʾanā bi hāḏihi ăl kalimaẗi ḥāli 
+ <lb n="6"/>*** *** ʾaʿazza 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		mit einem Pfand, bis mir al-ʿAbbāsī (das Geld) bezahlen würde. Er hat mir (denn auch)
+		With a pledge, so that you pay to al-ʿAbbâsî. Now he has already paid to me three
+			<lb n="2"/>
+		dînârs, together with a part thereof, in the week, in which Asrâr
+		etwas mehr als drei Dinar an dem Freitag bezahlt, an dem
+			<lb n="3"/>
+		has deceased, may God have mercy on her. So I send it for the  burial shroud, the balm (for embalming the body),
+		has deceased, may God have mercy on her. So I send it for the shroud, the spices
+		meine [Mutte]r - Gott erbarme sich ihrer - gestorben ist, so daß ich sie für ein Leichentuch, Duftstoffe (für die Verstorbene),
+			<lb n="4"/>
+		and (other) disbursements and so forth. And if I had known that you declared him quit
+		Unkosten (für die Beerdigung) und anderes ausgegeben habe. Hätte ich gewußt, daß Du ihm
+			<lb n="5"/>
+		dieses (geschuldete Geld) erlassen würdest, so hätte ich nicht ausgegeben ca. 2 Wörter. Ich bin in dieser Lag[e]
+		thereof, I had not troubled ...... [...] in this discou[rse]
+			<lb n="6"/>
+		[ca. vier Wörter] ein Wort Gott stärke ihn (?) [
+		......... [...] .〚...〛may〚God〛exalt〚you〛.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2075" xml:id="Frantz-MurphyContracts013" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyContracts 1</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz-MurphyContracts013</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> القبلة <unclear reason="undefined" cert="high">پحلڤه</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  مالها وذمّتها وكتب في سلخ ذي القعدة من سنة <supplied reason="lost" cert="high">إحدى</supplied> <supplied reason="lost" cert="high">وستّين</supplied> ومائتين المنسوب على التّأريج 
+ <lb n="3"/>  إلى سنة اثنتين وستّين ومائتين شهد على ذلك وكفا باللّه شهيد وصلّى اللّه على محمّد النّبي وآله وسلّم كثيرا 
+ <lb n="4"/>  سنة حدى ÷ 
+ <lb n="5"/>  وفيها قبالة <unclear reason="undefined" cert="high">پاحعر</unclear> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ăl qabālaẗ BḥlFh *** 
+ <lb n="2"/>māl hā wa ḏimmaẗ hā wa kutiba fī salḫi ḏī ăl qaʿdaẗi min sanaẗi ʾiḥdà wa sittīna wa miʾatayni ăl mansūb ʿalà ăt taʾrīǧi 
+ <lb n="3"/>ʾilà sanaẗi ĭṯnatayni wa sittīna wa miʾatayni šuhida ʿalà ḏālika wa kafā bi ăl lāhi šahīd wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama kaṯīr:an 
+ <lb n="4"/>sanaẗa ḥidà 200 
+ <lb n="5"/>wa fī hā qabālaẗ:un Bʾḥʿr 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [12 words   ] tenancy (5 letters) [3 words]
+		 <lb n="2"/>
+ 	  its property and its protection. And it was at the end of dhū al-qaʿda of the year 2[61] ascribed to the difference
+		 <lb n="3"/>
+ 	  in the year 262. And witness was given to that, and God suffices as a witness to that. God bless Muhammad the prophet and his family greatly and grant him salvation.
+		 <lb n="4"/>
+ 	  in the year 2(6)1.
+		 <lb n="5"/>
+ 	  And it is a tenancy for cash with &lt;4-5 letters&gt;.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

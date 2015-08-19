@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2262" xml:id="Martinez_010" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MartinezRuizRecibos 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Martinez_010</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="upper margin"/>  ‎ـ ÷÷ 
+<lb n="1"/>  ‎يدفع إفرنصشقه الحلوي من شانت مريّة ستّة وثلاثين 
+<lb n="2"/>  ‎دينار فضّيّة عمّا وجب عليه في الفريضة السّلطانة 
+<lb n="3"/>  ‎الأمور فعمّا في عام ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>36 * 
+ <lb n="2"/>yadfaʿu ʾifranṣišquhu ăl ḥalawiyyu min šānta mariyyaẗa sittaẗ:an wa ṯalāṯīna 
+ <lb n="3"/>dīnār fiḍḍiyyaẗ:an ʿammā waǧaba ʿalay hi fī ăl farīḍaẗi ăs sulṭānaẗi 
+ <lb n="4"/>ăl ʾumūru fa ʿammā fī ʿāmi 1511 * 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		36 pesantes
+			<lb n="2"/>
+		Pague Francisco al-Ḥalawī, de Santa María, treinta y seis
+			<lb n="3"/>
+		dinares de plata, que le corresponden de la farda del Sultán
+			<lb n="4"/>
+		totalmente establecida, en el año 1511.
+</ab></div>
+</body>
+</text>
+</TEI>

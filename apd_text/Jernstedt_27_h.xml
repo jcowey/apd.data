@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="573" xml:id="Jernstedt_27_h" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ross.-Georg. IV 27 I h</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jernstedt_27_h</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106711</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> شريك إلى 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">بسيل</supplied> صحب إشقوه فإنّي 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">أحمد</supplied> اللّه الّذي لا إله 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هـ</supplied>ـو 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> فإنّه ذكر لي 
+<lb n="verso 1"/>  من قرّة بن شريك إلى بسيل <supplied reason="lost" cert="high">صحب</supplied> <supplied reason="lost" cert="high">إشقوه</supplied> 
+<lb n="verso 2"/>  في الطّعام 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà 
+ <lb n="3"/>basīla ṣāḥibi ʾišqawha fa ʾin nī 
+ <lb n="4"/>ʾaḥmadu ăl lāha ăllaḏī lā ʾilāha 
+ <lb n="5"/>ʾillā huwa 
+ <lb n="6"/>*** fa ʾinna hu ḏakara l ī 
+ <lb n="7"/>min qurraẗa bni šarīka ʾilà basīla ṣāḥibi ʾišqawha 
+ <lb n="8"/>fī ăṭ ṭaʿāmi 
+ <lb n="9"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="8"/>
+		über das Getreide
+</ab></div>
+</body>
+</text>
+</TEI>

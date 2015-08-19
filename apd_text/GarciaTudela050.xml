@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2043" xml:id="GarciaTudela050" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 5 (= P.Garcia-ArenalTudelaTarazona 05)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">GarciaTudela050</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم اشترا دمنك ألبرس وزوجته دون ألبرة من سلمة <app type="BL"><lem resp="APD">بن </lem><rdg resp="García-Arenal">ابن</rdg></app> محمّد مناك الجنان الّتي له بأبتيردش عند العين وهو الّتي يلصق <app type="BL"><lem resp="APD">الجنان </lem><rdg resp="García-Arenal">جنان</rdg></app> دمنك ألبر 
+<lb n="2"/>  س وڤى الجهنپن حپان علپام من بلالتّه پالپدحل والبحرح وپالمكسّپ والسڤاسف پاحدا <app type="BL"><lem resp="APD">وعسرپن </lem><rdg resp="García-Arenal">مثقالا</rdg></app> منڤال من الدهپ الطپپ المراپطى اللوبى پاهالپه وادحل 
+<lb n="3"/>  عنده دون غليام من بلالية على فوير تطيلة أن ما قام <app type="BL"><lem resp="APD">قايم </lem><rdg resp="García-Arenal">قايم</rdg></app> يعترضه فيه فالدّرك عليه وأشهد به في ربيع الموافق بأكتوبر سنة سبعين <app type="BL"><lem resp="APD">وخمسمائة </lem><rdg resp="García-Arenal"> وخمس</rdg></app> <app type="BL"><lem resp="APD">احمد </lem><rdg resp="García-Arenal">ماية</rdg></app> پن محمد الپحپى 
+<lb n="4"/>  وعبد الملك بن محمّد البحني ومن النّصار دون بلشقه بطرس ودون يوان من قبيّة كتب عنهما بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭštarā duminiku ʾalbarisu wa zawǧatu hu dūna ʾalbiraẗu min salmaẗa bni ĭbni muḥammad:in munāka ăl ǧināna ăllatī la hu bi ʾabtīrdaša ʿinda ăl ʿayni wa huwa ăllatī yalṣaqu ăl ø ǧināna duminika ʾalbarisa 
+ <lb n="2"/>wa fī ăl ǧihatayni ǧinānu ġilyāma min balālyaẗa bi ăt tadaḫḫuli wa ăt taḫarruǧi wa bi ăl maksabi wa ăs safāsifi bi ʾiḥdā wa ʿišrīna miṯqāl miṯqāl:an mina ăḏ ḏahabi ăṭ ṭayyibi ăl murābiṭiyyi ăl lūbiyyi bi ʾihālati hi wa ʾudḫila ḍāmin:an 
+ <lb n="3"/>ʿinda hu dūn ġilyāmu min balālyaẗa ʿalà fuwayri tuṭīlaẗa ʾanna mā qāma qāʾim:un qāyim:un yaʿtariḍu hu fī hi fa ăd daraku ʿalay hi wa ʾašhada bi hi fī rabīʿa ăl muwāfiqi bi ʾuktūbari sanaẗi sabʿīna wa ḫamsi miʾaẗ:in ø ø miyaẗ:in ʾaḥmada bni muḥammad:ini ăl baḥniyya 
+ <lb n="4"/>wa ʿabda ăl maliki bna muḥammad:ini ăl baḥniyya wa mina ăn naṣāra dūn bilašquha biṭrisa wa dūn yuwāna min qabiyyaẗa kutiba ʿan himā bi ʾamri himā 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="933" xml:id="Margoliouth_APRL_6_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I VI 15 (= P.World p. 175 b)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_APRL_6_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113690</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <supplied reason="lost" cert="high">كتبت</supplied> <supplied reason="lost" cert="high">إليك</supplied> عن سلامة والحمد للّه وأنا أرجو أن 
+<lb n="4"/>  أدخل إلى يومين ولا تدع أن تشتري حوائج رمضان والحمد لـ<supplied reason="lost" cert="high">ـلّه</supplied> 
+<lb n="5"/>  على سلامتك الّتي حاطتكم في عافية فلا يكون في قلوبكم 
+<lb n="6"/>  غم وأبو كريم يقريكم سلام كثيرا وأنا أوجّه لكم 
+<lb n="7"/>  من بيتنا إليكم ولا تدع أن <gap reason="illegible" precision="low" extent="3"/> الجارية في بدرقة 
+<lb n="8"/>  على الاجران فتنقلوا البر إلى المنزل وتصيروه في البيت 
+<lb n="9"/>  الدّاخل والملبّن الدّاخل حتّى يقام لكم عند الكندوج 
+<lb n="10"/>  الكعبي <expan><ex>بسم</ex> <ex>اللّه</ex> <ex>الرّحمن</ex> <ex>الرّحيم</ex></expan> أخوه مرتضى 
+<lb n="11"/>  حتّى نكتري لكم من يصلحه واقروا أختكم السّلام كثيرا 
+<lb n="12"/>  ونحن ندخل شا قريب اللّه شا اللّه وابعث الجارية إلى 
+<lb n="13"/>  الإسكاف حتّى تروح على الخف واحفظي السّلعة 
+<lb n="14"/>  مع ما معك اقبضوا منّي أفضل السّلام والمنّة <app type="BL"><lem resp="APD">ونسل </lem><rdg resp="“Grohmann”">ونسئل</rdg></app> 
+<lb n="15"/>  يكن عندكم كثير السّلم 
+<lb n="16"/>  أبقاك اللّه وحفظك 
+<lb n="17"/>  وأمتع بك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** 
+ <lb n="3"/>katabtu ʾilay ka ʿan salāmaẗ:in wa ăl ḥamdu li l lāhi wa ʾanā ʾarǧū ʾan 
+ <lb n="4"/>ʾadḫula ʾilà yawmayni wa lā tadaʿ ʾan taštariya ḥawāʾiǧa ramaḍāna wa ăl ḥamdu li ăl lāhi 
+ <lb n="5"/>ʿalà salāmati ka ăllatī ḥāṭat kum fī ʿāfiyaẗ:in fa lā yakūn fī qulūbi kum 
+ <lb n="6"/>ġamm:un wa ʾabū karīm:in yuqrī kum salām kaṯīr:an wa ʾanā ʾuwaǧǧihu la kum 
+ <lb n="7"/>min bayti nā ʾilay kum wa lā tadaʿ ʾan *** ăl ǧāriyaẗa fī badraqaẗ:in 
+ <lb n="8"/>ʿalà ăl ʾaǧrāni fa tanqulū ăl burra ʾilà ăl manzili wa tuṣīrū hu fī ăl bayti 
+ <lb n="9"/>ăd dāḫili wa ăl mulabbani ăd dāḫili ḥattà yuqāma la kum ʿinda ăl kandūǧi 
+ <lb n="10"/>mstḥm wa ġaṭṭū hu kaṯīr:an wa ĭbnū ḥawālay hi ḥayṭ waqt 
+ <lb n="11"/>ḥattà naktarī la kum man yaṣluḥu hu wa ʾaqrū ʾuḫta kumu ăs salāma kaṯīr:an 
+ <lb n="12"/>wa naḥnu nadḫulu ʾilà qarīb:in ʾin šāʾa ăl lāhu wa ĭbʿaṯi ăl ǧāriyaẗa ʾilà 
+ <lb n="13"/>ăl ʾiskāfi ḥattà tarūḥa ʿalà ăl ḫuffi wa ĭḥfaẓī ăs silʿaẗa 
+ <lb n="14"/>maʿa mā maʿa ki ĭqbiḍū min nī ʾafḍala ăs salāmi wa ăl minnaẗa wa nasalu nasʾalu 
+ <lb n="15"/>yakun ʿinda kum kaṯīru ăs salāmi 
+ <lb n="16"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+ <lb n="17"/>wa ʾamtaʿa bi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful!]
+			<lb n="2"/>
+			<lb n="3"/>
+		I am writing being, thank God, in good health, and I hope to
+		[I am writing to thee] in good health, praise be to God, and I hope that
+			<lb n="4"/>
+		be home within two days. Do not fail to buy the articles for Ramaḍân, and praise be to God
+		come home by two days. Do not fail to buy the necessities of Ramaḍan and thank God
+			<lb n="5"/>
+		for thy safety which has kept thee in good health. Let there not be in your hearts  
+		for your safety which has kept you in good health. Let there not be in your hearts
+			<lb n="6"/>
+		grief. And Abû Karîm sends thee copious greetings. And I am sending 
+		grief. And Abu Karim sends you copious greeting. And I am sending ...
+			<lb n="7"/>
+		from our house to thee. And do not fail to [send?] the slave-girl with escort to
+		from our house to you. And do not fail to send the slave-girl with escort to
+			<lb n="8"/>
+		the threshingfloors and to remove the wheat to the dwelling and put it in the inner
+		the threshingfloors and to remove the wheat to the dwellinghouse and put it in the inner  
+			<lb n="9"/>
+		chamber and the inner brickwork so that it may be well kept for you in the vessel holding
+		chamber and the inner brickwork so that it may be well kept in the vessel which holds grain.
+			<lb n="10"/>
+		And cover it well and build a temporary wall round it
+		grain. And cover it well and build a temporary wall round it
+			<lb n="11"/>
+		until we hire someone to put it right for you. And convey copious greetings to your sister.  
+		until we hire some one to put it right for you. And convey copious greeting to your sister
+			<lb n="12"/>
+		and we shall come home soon, please God. And send the slave-girl to
+		And we shall come home soon, please God. And send the slave-girl to  
+			<lb n="13"/>
+		the cobbler that she may go about on shoes. And take care of the goods
+			<lb n="14"/>
+		with what thou hast in possession. Take from me the best of greetings and thanks and we ask
+		with what you have got. Take from me the best of greetings and thanks and we ask
+			<lb n="15"/>
+		let there be with you abundant peace.
+			<lb n="16"/>
+		God preserve and protect thee
+		May God preserve thee and protect thee,
+			<lb n="17"/>
+		and cause us to profit by thee.
+		and may He cause us to profit by thee!
+</ab></div>
+</body>
+</text>
+</TEI>

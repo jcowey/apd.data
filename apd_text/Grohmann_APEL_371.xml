@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1878" xml:id="Grohmann_APEL_371" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 371</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_371</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169615</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  عرڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">أ</supplied>بو الأسهـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> 
+<lb n="2"/>  ‮ الپلپ ‮‪γγʹ‬ <app type="BL"><lem resp="APD">طاهر </lem><rdg resp="APD">وغنى </rdg><rdg resp="APD">وعتى</rdg></app> وعپى ‮‪γʹηʹιβʹ‬ الپلپ 
+<lb n="3"/>  ‮ دپپر ‮‪ιʹβʹ‬ اپصا ‮γ الپلپ ‮‪γʹ‬ الپلپ 
+<lb n="4"/>  إردب بدينـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="5"/>  ‮جملة القمح ‮ο أيـ<supplied reason="lost" cert="high">ـضـ</supplied>ـا ‪ϙζ 
+<lb n="6"/>  بدينر 
+<lb n="7"/>  يخرج في <unclear reason="undefined" cert="high">السّفيـ</unclear><supplied reason="lost" cert="high">ـنة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿrF* ʾabū ăl ʾash* 
+ <lb n="2"/>ăṯ ṯulṯu 3+1/3 ṭāhir:un wa ġaniyy:un ġunà ʿutà 1/3+1/8+1/12 ăṯ ṯulṯu *** 
+ <lb n="3"/>dīnār 1/12 ʾayḍ:an 3 ăṯ ṯulṯu 1/3 ăṯ ṯulṯu *** 
+ <lb n="4"/>ʾirdabb bi dīnār:in 
+ <lb n="5"/>ǧumlaẗu ăl qamḥi 70 ʾayḍ:an 97 
+ <lb n="6"/>bi dīnār:in 
+ <lb n="7"/>yaḫruǧu fī ăs safīnaẗi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] ............. [... A]bu&#039;l-Ash[
+			<lb n="2"/>
+		the third 3 1/3 Ṭâhir and Ġanī 1/3+1/8+1/12 the third[
+			<lb n="3"/>
+		dînâr 1/12 further 3 the third 1/3 the thi[rd
+			<lb n="4"/>
+		artabas for dîn[ârs
+			<lb n="5"/>
+		Total quantity of wheat 70 fur[th]er [9]7[
+			<lb n="6"/>
+		for dînârs [
+			<lb n="7"/>
+		There has been delivered in the shi[p (?).
+</ab></div>
+</body>
+</text>
+</TEI>

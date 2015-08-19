@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1275" xml:id="David-WeillCahen_Louvre_28" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 28</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_28</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169099</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="recto2"/>  <app type="BL"><lem resp="APD">أ<gap reason="illegible" precision="low" extent="3"/>ـك </lem><rdg resp="Diem, P.Berl.Arab. II p. 121">أكرمك</rdg></app> اللّه وإيّانا كرامة أهل التّقوى العاملين لها الواجب كرامته 
+ <lb n="recto3"/>  وعصمك وإيّانا من فتن الدّنيا ومهالكها كتبت إليك أدام اللّه كرامتك 
+ <lb n="recto4"/>  وأنا وجميع من قبلي بحال عافية أسل اللّه تمام نعمته ودوام عافيته عليك 
+ <lb n="recto5"/>  وعلينا إن رأيت حفظك اللّه أن تكتب إلي بخبرك وحالك وعافية 
+ <lb n="recto6"/>  اللّه إيّاك فإنّك تسرّني بذلك فقد كنت <unclear reason="undefined" cert="high">كلّمتك</unclear> في شرا البرسيم 
+ <lb n="recto7"/>  والقمح فلا تدع شراهما على حال من <unclear reason="undefined" cert="high">الحلال</unclear> إن شا اللّه 
+ <lb n="recto8"/>  فإن هذه أيّام شرا البرسيم فقد أجّرت لك من الأرض عشرين فدّانا منها عشرة 
+ <lb n="recto9"/>  قمحا من أرض <unclear reason="undefined" cert="high">دير</unclear> مسرور الخادم مولى أمير المومپپن وعشر فدادين من خيار أرض دمنهور 
+ <lb n="recto10"/>  تزرعها قرطا من أرض الخراج برأس مالها <unclear reason="undefined" cert="high">حببت</unclear> إلى مسرّتك ورضاك 
+ <lb n="recto11"/>  يعلمه اللّه منّي فدارك اللّه بالحفظ والعافية <app type="BL"><lem resp="APD">والكلابة </lem><rdg resp="LR">والسّلامة</rdg></app> 
+ <lb n="recto12"/>  اكتب إلينا من أحدث عنكم من الفسطاط وكتبت 
+ <lb n="recto13"/>  وإن أحببت أن تستريد أرضا فلك عندنا ما أحببت إن أتانا اللّه بذلك 
+ <lb n="recto14"/>  العمل بخير <unclear reason="undefined" cert="high">السّلم</unclear> 
+ <lb n="verso1"/>  لأبي الأزهر من أبي عبد اللّه سليمن بن محمّد 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾa*** ʾakrama ka ăl lāhu wa ʾiyyā nā karāmaẗa ʾahli ăt taqwà ăl ʿāmilīna la hā ăl wāǧiba karāmata hu 
+ <lb n="3"/>wa ʿaṣama ka wa ʾiyyā nā min fitani ăd dunyā wa mahāliki hā katabtu ʾilay ka ʾadāma ăl lāhu karāmata ka 
+ <lb n="4"/>wa ʾanā wa ǧamīʿu man qibal ī bi ḥāli ʿāfiyaẗ:in ʾasalu ăl lāha tamāma niʿmati hi wa dawāma ʿāfiyati hi ʿalay ka 
+ <lb n="5"/>wa ʿalay nā ʾin raʾayta ḥafiẓa ka ăl lāhu ʾan taktuba ʾilay ya bi ḫabari ka wa ḥāli ka wa ʿāfiyaẗi 
+ <lb n="6"/>ăl lāhi ʾiyyā ka fa ʾinna ka tasurru nī bi ḏālika fa qad kuntu kallamtu ka fī širāʾi ăl barsīmi 
+ <lb n="7"/>wa ăl qamḥi fa lā tadaʿ širāʾa humā ʿalà ḥāli mina ăl ḥalāli ʾin šāʾa ăl lāhu 
+ <lb n="8"/>fa ʾinna hāḏihi ʾayyāmu širāʾi ăl barsīmi fa qad ʾaǧǧartu la ka mina ăl ʾarḍi ʿišrīna faddān:an min hā ʿašaraẗ:un 
+ <lb n="9"/>qamḥ:an min ʾarḍi dayri masrūr:ini ăl ḫādimi mawlà ʾamīri ăl muʾminīna wa ʿašra fadādīna min ḫiyāri ʾarḍi damanhūra 
+ <lb n="10"/>tazraʿu hā qurṭ:an min ʾarḍi ăl ḫarāǧi bi raʾsi māli hā ḥababtu ʾilà masarrati ka wa riḍā ka 
+ <lb n="11"/>yaʿlamu hu ăl lāhu min nī fa dārā ka ăl lāhu bi ăl ḥifẓi wa ăl ʿāfiyaẗi wa ăl kalābaẗi salāmaẗi 
+ <lb n="12"/>ŭktub ʾilay nā man ʾaḥdaṯu ʿan kum mina ăl fusṭāṭi wa kutibat 
+ <lb n="13"/>wa ʾin ʾaḥbabta ʾan tastarīda ʾarḍ:an fa la ka ʿinda nā mā ʾaḥbabta ʾin ʾatā nā ăl lāhu bi ḏālika 
+ <lb n="14"/>ăl ʿamali bi ḫayr:in ăs salāmu 
+ <lb n="15"/>li ʾabī ăl ʾazhari min ʾabī ʿabdi ăl lāhi sulaymāna bni muḥammad:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément et miséricordieux. 
+		 <lb n="2"/>
+ 	  ... et nous de la générosité qu&#039;il accorde aux pieux et à ceux qui font ce qu&#039;exige cette générosité
+		 <lb n="3"/>
+ 	  Qu&#039;il te préserve ainsi que nous des querelles et perditions de ce monde. Je t&#039;ai écrit - Dieu te prolonge la générosité -
+		 <lb n="4"/>
+ 	  moi et tous autour de moi en bonne santé, je demande à Dieu qu&#039;il complète sa faveur et prolonge son bienfait envers toi
+		 <lb n="5"/>
+ 	  et nous. Si c&#039;est ton avis - Dieu te protège - écris-moi pour me donner de vos nouvelles et (me dire)
+		 <lb n="6"/>
+ 	  les bienfaits de Dieu envers toi, cela me fera plaisir. Je t&#039;avais parlé d&#039;acheter le barsim (trèfle)
+		 <lb n="7"/>
+ 	  et le blé, ne tarde pas à la première occasion si Dieu le veut,
+		 <lb n="8"/>
+ 	  car ce sont les bons jours. Je t&#039;ai loué une terre de 20 faddans, dont 10
+		 <lb n="9"/>
+ 	  à cultiver en blé, sur la terre du Dayr de Masrūr le khādim, client de l&#039;Émir des Croyants, et 10 faddans des meilleurs de la terre de Dahmanūr
+		 <lb n="10"/>
+ 	  à cultiver en qurṭ de terre de kharādj pour son capital, je souhaite ton plaisir et ta satisfaction
+		 <lb n="11"/>
+ 	  Dieu le sait de moi, et qu&#039;il te prolonge sa protection et tous ses bienfaits.
+		 <lb n="12"/>
+ 	  Ecris-moi ce qu&#039;il y a de neuf pour vous à Fustat. Ecrit.
+		 <lb n="13"/>
+ 	  Et si tu désires une autre terre, je te dois de quoi te satisfaire, si Dieu nous l&#039;accorde
+		 <lb n="14"/>
+ 	  au mieux. Salut.
+		 <lb n="15"/>
+ 	  À abu ʾl-Azhar, d&#039;Abu ʿAbdallāh Sulaymān b. Muḥ.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

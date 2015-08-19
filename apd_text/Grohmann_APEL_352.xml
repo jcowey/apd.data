@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1862" xml:id="Grohmann_APEL_352" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 352</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_352</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169599</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يأبا إ<supplied reason="lost" cert="high">سـ</supplied>ـمعيل أعزّك اللّه ادفع 
+<lb n="3"/>  إلى البـ<supplied reason="lost" cert="high">ـيّـ</supplied>ـاع أربعة دنانير 
+<lb n="4"/>  <supplied reason="lost" cert="high">مـ</supplied>ـعسولة للنّفقة إن شا 
+<lb n="5"/>  <supplied reason="lost" cert="high">ا</supplied>للّه وكتب يوم الثّلثا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā ʾabā ʾismāʿīla ʾaʿazza ka ăl lāhu ĭdfaʿ 
+ <lb n="3"/>ʾilà ăl bayyāʿi ʾarbaʿaẗa danānīra 
+ <lb n="4"/>maʿsūlaẗ:an li n nafaqaẗi ʾin šāʾa 
+ <lb n="5"/>ăl lāhu wa kutiba yawma ăṯ ṯulāṯāʾi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		O Abû I[s]maʿîl - may God exalt you - pay
+			<lb n="3"/>
+		to the mer[ch]ant four dînârs,
+			<lb n="4"/>
+		correctly [cou]nted out, for maintenance, if [G]od
+			<lb n="5"/>
+		wills. Written on Tuesday.
+</ab></div>
+</body>
+</text>
+</TEI>

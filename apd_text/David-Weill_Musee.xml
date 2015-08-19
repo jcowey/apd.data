@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1212" xml:id="David-Weill_Musee" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillMusée</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Musee</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169050</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> پراپه ولا حول ولا قوّة إلّا باللّه 
+ <lb n="2"/>  <gap reason="illegible" extent="5" unit="character" /> محراحا 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> وستّين ملكا ياجون يذهبون إلى مداين بعيدة فلقيهم عيسى بن 
+ <lb n="4"/>  مريم فقال أين تذهبون يا إخوة قالو نذهب نتعلّم <app type="BL"><lem resp="APD">أوتار </lem><rdg resp="APD">أوثان </rdg><rdg resp="APD">أوتان</rdg></app> الحديد 
+ <lb n="5"/>  وضرب العود وعضّة الكلب ورمي الحجارة قال عاهدتكم باللّه 
+ <lb n="6"/>  يا إخوة إذ أنا علّمتكم فلا تأخذوا عليها أجرا ولا تشتموا عليها 
+ <lb n="7"/>  أحد<supplied reason="lost" cert="high">ا</supplied> <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـاعدت اليهود لكـ<gap reason="illegible" extent="2" unit="character" /> <app type="BL"><lem resp="APD">بن </lem><rdg resp="“Levi della Vida”">پرمى</rdg></app> <app type="BL"><lem resp="APD">مريم </lem><rdg resp="“Levi della Vida”">ثمّ</rdg></app> <app type="BL"><lem resp="“ʿayn with sign below”">بطعمه </lem><rdg resp="“Levi della Vida”">تطعنه</rdg></app> في جنبه <app type="BL"><lem resp="APD">الأيمان </lem><rdg resp="“Levi della Vida; Marçais”">الأيمن</rdg></app> 
+ <lb n="8"/>  <gap reason="illegible" extent="5" unit="character" /> بزيت زيتونة وصوف نعجة طيّبة ثم تقول <app type="BL"><lem resp="APD">يالله </lem><rdg resp="“Levi della Vida”">بالله</rdg></app> يا <app type="BL"><lem resp="APD">جرّح </lem><rdg resp="“Levi della Vida”">جرح</rdg></app> 
+ <lb n="9"/>  لا ترم ولا تورّم ولا تفيح ولا <app type="BL"><lem resp="APD">تقرح </lem><rdg resp="“Levi della Vida”">تقرح</rdg></app> ولا تدما ولا <app type="BL"><lem resp="APD">تنتّن </lem><rdg resp="“Levi della Vida”">تنتن</rdg></app> أنا 
+ <lb n="10"/>  أرقيـ<supplied reason="lost" cert="high">ـك</supplied> واللّه يشفيك 
+ <lb n="11"/>  <app type="BL"><lem resp="“ʿayn with sign below”">العقرب </lem><rdg resp="“UB”">للعقرب</rdg></app> بسم اللّه وپالـلـ<gap reason="illegible" extent="4" unit="character" />ـ <app type="BL"><lem resp="APD">غسولا </lem><rdg resp="“Marçais”">عسى</rdg></app> <app type="BL"><lem resp="“Marçais”">الـ<supplied reason="omitted" cert="high">ـلـ</supplied>ـدع </lem><rdg resp="APD">ø</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** BrʾBh wa lā ḥawla wa lā quwwaẗa ʾillā bi ăl lāhi 
+ <lb n="2"/>**** ø mǧrāḥā li ăl mḥrāḥā mḥrāḥ:an mǧrāḥ:an BHrʾHʾ ǧirāḥāti 
+ <lb n="3"/>*** wa sittīna malak:an yāǧūna yaḏhabūna ʾilà madāʾina baʿīdaẗ:in fa laqiya hum ʿīsà bnu 
+ <lb n="4"/>maryama fa qāla ʾayna taḏhabūna yā ʾiḫwaẗu qālū naḏhabu nataʿallamu ʾawtāra ʾawṯāna ʾawtāna ăl ḥadīdi 
+ <lb n="5"/>wa ḍarba ăl ʿūdi wa ʿaḍḍaẗa ăl kalbi wa ramya ăl ḥiǧāraẗi qāla ʿāhadtu kum bi ăl lāhi 
+ <lb n="6"/>yā ʾiḫwaẗu ʾiḏ ʾanā ʿallamtu kum fa lā taʾḫuḏū ʿalay hā ʾaǧr:an wa lā taštimū ʿalay hā 
+ <lb n="7"/>ʾaḥad:an ****ʾʿdati ****ʾʿdta ****ʾʿdtu ăl yahūda li k** bn Brmy maryama ṯumma bi hu taṭʿun ṭaʿmi hi fī ǧanbi hi ăl ʾaymani ʾaymāni 
+ <lb n="8"/>***** bi zayti zaytūnaẗ:in wa ṣūfi naʿǧaẗ:in ṭayyibaẗ:in ṯumma taqūlu bi yā ăl lāhi lāhu yā ǧarrāḥu ǧurḥu 
+ <lb n="9"/>lā tarimma turimma wa lā tuwarrim wa lā tuqayyiḥ wa lā taqraḥ tuqarriḥ wa lā tadmā wa lā tantin tunattin ʾanā 
+ <lb n="10"/>ʾarqī ka wa ăl lāhu yašfī ka 
+ <lb n="11"/>li ø ăl ʿaqrabi ʿaqrabu bi smi ăl lāhi wa bi ăl l**** ġasūl:an ʿasà lā ø ladġi ʾuldaġ 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ...... il nʾy de puissance et de force quʾen Dieu.
+		 <lb n="2"/>
+		 <lb n="3"/>
+ 	  ....... et soixante anges étaient partis vers des villes lointaines quand les rencontra ʿIsâ
+		 <lb n="4"/>
+ 	  ibn Maryam et il leur demanda: «Où allez-vous, ô mes frères?» Ils répondirent: «Nous allons étudier les cordes de fer des instruments de musique (ou: les idoles de fer?),
+		 <lb n="5"/>
+ 	  la manière de jouer du luth, la morsure du chien, le jet des pierres». Il dit: «Je mʾengage auprès de vous devant Dieu,
+		 <lb n="6"/>
+ 	  ô frères, mais quand je vous aurai enseigné, nʾen tirez pas ensuite de salaire et ne proférez dʾinjures à ce sujet
+		 <lb n="7"/>
+ 	  contre personne(?) ...... les juifs ...... pour ..... en le perçant d&#039;un coup de lance dans son flanc droit
+ 	  contre personne(?) ...... les juifs ...... pour ..... ensuite frappe-le du côté droit
+ 	  contre personne(?) ...... les juifs ...... pour ..... fils de Maryam .... avec sa nourriture du côté droit
+		 <lb n="8"/>
+ 	  ..... au moyen dʾhuile dʾolive et de la laine dʾune brébis pure, puis tu diras: «Ô Dieu! ô grand chirurgien!
+		 <lb n="9"/>
+ 	  nʾenvenime pas, nʾenfle pas, ne fais pas suppurer, ne forme pas dʾulcères, ne fais pas saigner, ne pourris pas,
+ 	  nʾtenvenime pas, nʾenfle pas, ne suppure pas, ne tʾulcère pas, ne saigne pas, ne pourris pas,
+		 <lb n="10"/>
+ 	  je réciterai pour toi une incantation et Dieu te guérira».
+		 <lb n="11"/>
+ 	  Pour le scorpion «bismillah» et ..... avec lʾeau de lavage pour la piqûre.
+ 	  Pour le scorpion «bismillah» et ..... puisse-t-il se faire que je ne sois pas piqué!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

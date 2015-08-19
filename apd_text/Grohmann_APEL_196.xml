@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1668" xml:id="Grohmann_APEL_196" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 196</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_196</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169419</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮يوم ‪εʹ‬ طوبه ‪αʹ‬ الرّقعة ‪β‬ 
+<lb n="2"/>  ‮بسم اللّه الرّحمن الرّحيم ‪<supplied reason="lost" cert="high">σ</supplied>χϰʹδʹ‬ 
+<lb n="3"/>  أدّى زيد راعي نصر <gap reason="illegible" extent="2" unit="character" /> عمّا يلزمه 
+<lb n="4"/>  من خراج المراعي عن المدينة 
+<lb n="5"/>  قبالة محمّد بن فضل ستّة 
+<lb n="6"/>  ‮پاپپر ونصف وثلثثمن ‪<unclear reason="undefined" cert="high">σ</unclear>χϰʹδʹ‬ 
+<lb n="7"/>  داخل بيت المال ووزنه إلى 
+<lb n="8"/>  علي بن سليمن القسطال بحضرة 
+<lb n="9"/>  خليفة عامل أبي القسم 
+<lb n="10"/>  عبد الـ<gap reason="illegible" extent="2" unit="character" /> بن القسم أعزّه اللّه 
+<lb n="11"/>  ‮‮لخراج سنة ‪σξβ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawmu ‪5 ṭūbiha ‪1 ăr ruqʿaẗu ‪2 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ‪6 1/2+1/24 
+ <lb n="3"/>ʾaddà zayd:un rāʿī naṣri ** ʿammā yalzamu hu 
+ <lb n="4"/>min ḫarāǧi ăl marāʿī ʿani ăl madīnaẗi 
+ <lb n="5"/>qabālaẗa muḥammadi bni faḍl:in sittaẗa 
+ <lb n="6"/>danānīra wa niṣf wa ṯulṯa ṯumn:in ‪6 1/2+1/24 
+ <lb n="7"/>dāḫila bayti ăl māli wa wazna hu ʾilà 
+ <lb n="8"/>ʿaliyyi bni sulaymāna ăl qusṭāli bi ḥaḍraẗi 
+ <lb n="10"/>ḫalīfaẗi ʿāmili ʾabī ăl qāsimi 
+ <lb n="11"/>ʿabdi ăl ** bni ăl qāsimi ʾaʿazza hu ăl lāhu 
+ <lb n="12"/>li ḫarāǧi sanaẗi ‪262 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Thursday, Tubi 1, folio 2.
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+		In the name of God, the Compassionate, the Merciful. 6 1/2+1/24
+			<lb n="3"/>
+		Zaid, the shepherd of Naṣr .., has paid on account of that which was due from him
+			<lb n="4"/>
+		for the pasture-tax of the (nome-) Capital
+			<lb n="5"/>
+		in the presence of Muḥammad b. Faḍl six dî-
+			<lb n="6"/>
+		nârs and one half and a third of an eighth 6 1/2+1/24
+			<lb n="7"/>
+		as income of the Treasury and (according to) its (standard) weight to
+			<lb n="8"/>
+		ʿAlî b. Sulaimân, the treasurer, in the presence of
+			<lb n="10"/>
+		the deputy of the administrator of Abuʾl-Qâsim
+			<lb n="11"/>
+		ʿAbd al-...... b. al-Qâsim - may God exalt him -
+			<lb n="12"/>
+		for the impost of the year 262.
+</ab></div>
+</body>
+</text>
+</TEI>

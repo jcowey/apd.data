@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2338" xml:id="Diem_Heid_III_44" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 44</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_44</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> ولده ومملوكه أبو البركات بن <supplied reason="omitted" cert="high">أ</supplied>بو الفرج 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ا</supplied>لرّحمن الرّحيم 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">مملوك</supplied> <supplied reason="lost" cert="high">السّيّـ</supplied>ـد الموفّق الشّيخ السّديد أبو المحاسن 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">أدام</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">عزّه</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـشتاق إلي خدمته كثير وسمعت 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">السّيّدة</supplied> <supplied reason="lost" cert="high">مريضة</supplied> <supplied reason="lost" cert="high">وشقّ</supplied> <supplied reason="lost" cert="high">وعزّ</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">كثير </supplied>
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** waladu hu wa mamlūku hu ʾabū ăl barakāti bnu ʾabū ăl faraǧi 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>mamlūku ăs sayyidi ăl muwaffaqi ăš šayḫi ăs sadīdi ʾabū ăl maḥāsini 
+ <lb n="5"/>ʾadāma ăl lāhu ʿizza hu muštāq:un ʾilà ḫidmati hi kaṯīr wa samiʿtu 
+ <lb n="6"/>ʾanna ăs sayyidaẗa marīḍaẗ:an wa šaqqa wa ʿazza ʿalay ya kaṯīr 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[***] Sein Junge und Sklave Abū l-Barakāt /Ibn\ &lt;A&gt;bū l-Faraǧ.
+			<lb n="3"/>
+		[Im Namen Gottes, d]es Barmherzigen und Erbarmungsvollen!
+			<lb n="4"/>
+		[Der Sklave des] erfolgreichen [He]rrn, des trefflichen Scheichs Abū l-Maḥāsin
+			<lb n="5"/>
+		[- Gott gewähre ihm weiterhin Ansehen - s]ehnt sich sehr nach dem Dienst an ihm. Ich habe gehört
+			<lb n="6"/>
+		[daß die He]rrin krank ist. Dies schmerzte und bekümmerte mich sehr
+</ab></div>
+</body>
+</text>
+</TEI>

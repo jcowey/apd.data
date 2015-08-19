@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1065" xml:id="Diem_AmtlicheSchreiben_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemAmtlicheSchreiben 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_AmtlicheSchreiben_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168933</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> سلم عليك فإنّي أحمد إليك 
+<lb n="3"/>  <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّدى</supplied> <supplied reason="lost" cert="high">لى</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">أمّا</supplied> بعد 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أسل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أن</supplied> <gap reason="illegible" precision="low" extent="3"/> وأن <sic n="superfluous">يزكّبنا</sic><supplied reason="omitted" cert="high">يركينا</supplied> وإيّاك بالصّلاة عليه 
+<lb n=" "/>  <supplied reason="lost" cert="high">والسّلام</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">ورحمت</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وبركاته</supplied> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> كنت كلّمتك في نبطي برموده 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> ثم أنّك عافاك اللّه ألقيته إلي 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إ</supplied>ن من فر لك واللّه لأصنعن إليه 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> بإحسانك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min *** bni *** ʾilà *** bni *** salām:un ʿalay ka fa ʾinn ī ʾaḥmadu ʾilay ka 
+ <lb n="4"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa ʾammā baʿdu 
+ <lb n="5"/>*** ʾasalu ăl lāha ʾan *** wa ʾan yuzakkiya nā wa ʾiyyā ka bi ăṣ ṣalāẗi ʿalay hi 
+ <lb n="6"/>wa ăs salāmu ʿalay hi wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="7"/>*** kuntu kallamtu ka fī nabaṭiyyi barmūdaha 
+ <lb n="8"/>*** ṯumma ʾanna ka ʿāfā ka ăl lāhu ʾalqayta hu ʾilay ya 
+ <lb n="9"/>*** ʾinna man farra la ka wa ăl lāhi la ʾaṣnaʿanna ʾilay hi 
+ <lb n="10"/>*** * bi ʾiḥsāni ka *** 
+ <lb n="11"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen des barmherzigen und gnädigen Gottes]
+			<lb n="2"/>
+		[Von ... an ...] Heil sei auf Dir. Ich lobe Dir
+			<lb n="4"/>
+		[Gott, außer dem es keinen Gott gibt. So]dann:  
+			<lb n="5"/>
+		[... Ich bitte Gott, daß er ...] und daß er uns und Dich mit dem Gebet für ihn (sc. Muḥammad) reinige
+			<lb n="7"/>
+		[...] Ich hatte mit Dir wegen des Bauern von Barmūde gesprochen
+			<lb n="8"/>
+		[...] Dann hast Du ihn - Gott gebe Dir Gesundheit - an mich überwiesen
+			<lb n="9"/>
+		[...] wer zu Dir flieht, dem werde ich bei Gott antun
+			<lb n="10"/>
+		[...] damit, daß Du Gutes tust
+			<lb n="11"/>
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1818" xml:id="Rodriguez_Masari_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 1c</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169555</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الحمد للَّه تقايل الزّوجان فوقه في النّصف فوقه بمثل العدد فوقه تقايلا 
+<lb n="2"/>  تامّا عاد به المبيع إلى ملك المصيّرة فوقه وقبض المصيّر له 
+<lb n="3"/>  العدد فوقه وصار بيده وتقاضاه في سا<supplied reason="lost" cert="high">ئـ</supplied>ـر ذلك وبعد النّظر 
+<lb n="4"/>  والتّقليب والرّضا وأشهدا به <supplied reason="lost" cert="high">بحال</supplied> صحّة وجواز من عرفهما في <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  جمدى الأخرى عام اثنين وخمسين وثماني مائة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi taqāyala ăz zawǧāni fawqa hu fī ăn niṣfi fawqa hu bi miṯli ăl ʿadadi fawqa hu taqāyul:an 
+ <lb n="2"/>tāmm:an ʿāda bi hi ăl mabīʿu ʾilà milki ăl muṣayyiraẗi fawqa hu wa qabaḍa ăl muṣayyaru la hu 
+ <lb n="3"/>ăl ʿadada fawqa hu wa ṣāra bi yadi hi wa taqāḍā hu fī sāʾiri ḏālika wa baʿda ăn naẓari 
+ <lb n="4"/>wa ăt taqlībi wa ăr riḍā wa ʾašhadā bi hi bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in man ʿarafa humā fī *** 
+ <lb n="5"/>ǧumādà ăl ʾuḫrà ʿāma ĭṯnayni wa ḫamsīna wa ṯamānī miʾaẗ:in *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Louange à Dieu. Le ménage (qui figure) plus haut résilie par accord mutuel (la cession) de la moitié susdite à cause du (paiement du prix de) la même quantité susdite. Il s&#039;agit d&#039;une résiliation
+			<lb n="2"/>
+		accomplie par accord mutuel (en vertu de laquelle) ce qui est cédé retourne à la propriété de la cédante sus-mentionnée. Le cessionnaire a reçu
+			<lb n="3"/>
+		la quantité (sus-mentionnée), en se chargeant d&#039;elle et en la percevant comme il est habituel, après l&#039;avoir examiné,
+			<lb n="4"/>
+		inspecté et accepté. Les deux (parties) demandent témoignage (des témoins instrumentaires) qui les connaissent (et savent qu&#039;elles jouissent) [de capacité] physique et légale (suffisante). Le ?
+			<lb n="5"/>
+		ǧumādà II de l&#039;année 852 (= 2-30 août 1448). [Deux signatures illisibles et paraphées]. (Dans la marge supérieure gauche:) Ibn ʿAzzūz.
+</ab></div>
+</body>
+</text>
+</TEI>

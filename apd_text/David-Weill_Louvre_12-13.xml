@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1252" xml:id="David-Weill_Louvre_12-13" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 12-13</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_12-13</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169081</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> بن إسحاق إلى شاكر بن <app type="BL"><lem resp="APD">طا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">طريق </rdg><rdg resp="APD">طريف </rdg><rdg resp="APD">ظريف</rdg></app> 
+ <lb n="3"/>  <unclear reason="undefined" cert="high">فإنّي</unclear> <unclear reason="undefined" cert="high">أحمد</unclear> <unclear reason="undefined" cert="high">اللّه</unclear> <unclear reason="undefined" cert="high">الّذي</unclear> <unclear reason="undefined" cert="high">لا</unclear> <unclear reason="undefined" cert="high">إله</unclear> <unclear reason="undefined" cert="high">إلّا</unclear> هو أمّا بعد أصلحك اللّه وأنا <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  الّذي فيه كما تحب تكون من السّلامة 
+ <lb n="5"/>  نعمته وإنّما يحق عليه وله 
+ <lb n="6"/>  إردب إلّا ويبة وأربعين فلس آخرا 
+ <lb n="7"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>اته </lem><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>اته</rdg></app> لي ثمن جر زيت أنّوب 
+ <lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـع </lem><rdg resp="APD">أبيع</rdg></app> لك وإنّي قد بعثت إليك 
+ <lb n="9"/>  <app type="BL"><lem resp="APD">نفعنا </lem><rdg resp="“UB”">نفّعنا</rdg></app> بك إن شا اللّه إن أرد<supplied reason="lost" cert="high">ت</supplied> 
+ <lb n="10"/>  عندك <unclear reason="undefined" cert="high">لقدمه</unclear> 
+ <lb n="11 right"/>  حق عليك إلّا <gap reason="illegible" precision="low" extent="3"/>ع فإذا جاك عطا 
+ <lb n="11 left"/>  <sic n="superfluous">ا</sic>قبض منه الدّينر و<sic n="superfluous">ا</sic>كتب 
+ <lb n="12 right"/>  واكتب إلي أنّك قد قبضته مع عبـ<supplied reason="lost" cert="high">ـد</supplied> 
+ <lb n="12 left"/>  <supplied reason="lost" cert="high">ا</supplied>للّه وابيع لي بدينر شعير 
+ <lb n="13 right"/>  اكپپ إلي أن أبعث إليك بالدّينر 
+ <lb n="13 left"/>  <supplied reason="lost" cert="high">الإ</supplied>درسي قد تبيّن عليه أن أبيع 
+ <lb n="14 right"/>  له عشرة إردب بدينر والشّعير 
+ <lb n="14 left"/>  عندك خمسة اعشر بدينر 
+ <lb n="15 right"/>  وما كانت لك من حاجة يا سيّد <app type="BL"><lem resp="APD">فا<supplied reason="lost" cert="high">كتـ</supplied> </lem><rdg resp="Diem">فاكتب</rdg></app> 
+ <lb n="15 left"/>  په الي بها ڤأپى احپ دلك 
+ <lb n="16 right"/>  <app type="BL"><lem resp="APD">وأشـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـريه </lem><rdg resp="Diem">وأسرّ</rdg></app> <app type="BL"><lem resp="APD">واپطر </lem><rdg resp="Diem">به</rdg></app> ان پپعپ الى پمإ وجد 
+ <lb n="16 left"/>  ت من فپه ڤأپى إرند ان سا 
+ <lb n="17 right"/>  أرازيق بيت والخزانة والدّار 
+ <lb n="17 left"/>  العرڤه فإنّك إن شئت وجدت <supplied reason="lost" cert="high">في</supplied> 
+ <lb n="18 right"/>  ذخيرتهم ابعث به إلي مع ذي ثقة فإ 
+ <lb n="18 left"/>  پى لم إسالّك الا يسير والسلم 
+ <lb n="19"/>  رحمپ اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min *** bni ʾisḥāqa ʾilà šākiri bni ṭā*** ṭarīq:in ṭarīf:in ẓarīf:in 
+ <lb n="3"/>fa ʾin nī ʾaḥmadu ăl lāha ăllaḏī lā ʾilāha ʾillā huwa ʾammā baʿdu ʾaṣlaḥa ka ăl lāhu wa ʾanā *** 
+ <lb n="4"/>ăllaḏī fī hi ka mā tuḥibbu takūna mina ăs salāmaẗi 
+ <lb n="5"/>niʿmat hi hu wa ʾinnamā yaḥiqqu ʿalay hi wa la hu 
+ <lb n="6"/>ʾirdabb:un ʾillā waybaẗ:un wa ʾarbaʿīna fils ʾāḫar:an 
+ <lb n="7"/>***ʾt ***ʾtaẗ hu ø l ī ṯamana ǧarri zayti ʾannūb:in 
+ <lb n="8"/>***ʿ ʾabīʿu la ka wa ʾin nī qad baʿaṯtu ʾilay ka 
+ <lb n="9"/>nafaʿnā naffaʿa nā ø bi ka ʾin šāʾa ăl lāhu ʾin ʾaradta 
+ <lb n="10"/>ʿinda ka li qadami hi 
+ <lb n="11"/>ḥaqqa ʿalay ka ʾillā ***ʿ fa ʾiḏā ǧāʾa ka ʿaṭāʾu 
+ <lb n="12"/>ĭqbiḍ min hu ăd dīnāra wa ŭktub 
+ <lb n="13"/>wa ŭktub ʾilay ya ʾanna ka qad qabaḍta hu maʿa ʿabdi 
+ <lb n="14"/>ăl lāhi wa ʾbyʿ l ī bi dīnār:in šaʿīr 
+ <lb n="15"/>wa ŭktub ʾilay ya ʾan ʾabʿaṯa ʾilay ka bi ăd dīnāri 
+ <lb n="16"/>ăl ʾidrisiyyi qad tubayyinu ʿalay hi ʾan ʾabīʿa 
+ <lb n="17"/>la hu ʿašaraẗa ʾirdabb:in bi dīnār:in wa ăš šaʿīru 
+ <lb n="18"/>ʿinda ka ḫamsaẗa ʿašara bi dīnār:in 
+ <lb n="19"/>wa mā kānat la ka min ḥāǧaẗ:in yā sayyidu fa ŭktub hu ø 
+ <lb n="20"/>ʾilay ya bi hā fa ʾin nī ʾuḥibbu ḏālika min ka 
+ <lb n="21"/>wa ʾaštarī ʾusarru hi ø bi ø hi wa ŭnẓur ʾan tabʿaṯa ʾilay ya bi mā waǧadta 
+ <lb n="22"/>min fī hi fa ʾin nī ʾurīdu ʾin šāʾa ăl lāhu 
+ <lb n="23"/>ʾarāzīqa bayt:in wa ăl ḫizānaẗi wa ăd dāri 
+ <lb n="24"/>wa ăl ġurfaẗi fa ʾinna ka ʾin šiʾta waǧadta fī 
+ <lb n="25"/>ḏaḫīrati himi ĭbʿaṯ bi hi ʾilay ya maʿa ḏī ṯiqaẗ:in fa ʾin nī 
+ <lb n="26"/>lam ʾasʾal ka ʾillā yasīr wa ăs salāmu ʿalay ka 
+ <lb n="27"/>wa raḥmatu ăl lāhi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément, miséricordieux!
+		 <lb n="2"/>
+ 	  ........ Ibn Ishāq ibn Shākir(?) ibn Ṭa..
+		 <lb n="3"/>
+ 	  (Je loue Allah qui est le seul (Dieu). Ensuite: Dieu te garde! et mois (je suis dans l&#039;état .....)
+		 <lb n="4"/>
+ 	  que tu souhaites que je sois de paix ......
+		 <lb n="5"/>
+ 	  ...... faveur ....... et il lui est dû et lui appartient
+		 <lb n="6"/>
+ 	  un ardab moins une wayba et quarante fals autres? ...........
+		 <lb n="7"/>
+ 	  ......... à moi le prix d&#039;une jarre d&#039;huile (de graine d&#039;aubergine?)
+		 <lb n="8"/>
+ 	  (j&#039;ai acheté pour toi et je te l&#039;ai déjà envoyé
+		 <lb n="9"/>
+ 	  (nous t&#039;avons été utiles?) s&#039;il plait à Dieu! ...
+		 <lb n="10"/>
+ 	  auprès de toi .............
+		 <lb n="11"/>
+ 	  ......il t&#039;est dû.....et quand ʿAṭâ viendra chez toi
+		 <lb n="12"/>
+ 	  prends-lui le dinar .....
+ 	  prends-lui le dinar ..... et écris
+		 <lb n="13"/>
+ 	  et écris-moi que tu l&#039;as reçu par ʿAbdallah
+		 <lb n="14"/>
+ 	  et vends-moi un dinar d&#039;orge
+		 <lb n="15"/>
+ 	  et écris-moi pour que je t&#039;envoie le dinar
+		 <lb n="16"/>
+ 	  idrīsī(?), tu lui expliqueras? que je vends
+		 <lb n="17"/>
+ 	  à lui dix ardabbs par dinar alors que l&#039;orge
+		 <lb n="18"/>
+ 	  est chez toi de quinze par dinar
+		 <lb n="19"/>
+ 	  et ce dont tu as besoin, ô Seigneur, (écris)-le
+		 <lb n="20"/>
+ 	  moi car j&#039;aime que tu le fasses
+		 <lb n="21"/>
+ 	  je l&#039;achèterai et fais en sorte de m&#039;envoyer ce que tu trouveras
+ 	  und freue mich darüber. (...)
+		 <lb n="22"/>
+ 	  chez lui car je voudrai s&#039;il plaît à Dieu
+		 <lb n="23"/>
+ 	  des utensiles de maison, de la réserve et de la maisonnée ainsi que
+		 <lb n="24"/>
+ 	  de la chambre et s&#039;il te plaît et que tu le trouvais
+		 <lb n="25"/>
+ 	  dans leurs magazins, envoie-le moi par un homme de confiance, en effet je
+		 <lb n="26"/>
+ 	  ne te demande que peu de chose, Et salut sur toi
+		 <lb n="27"/>
+ 	  et miséricorde de Dieu!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="817" xml:id="Grohmann_Prag_Beilage_II" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. Beilage II (= P.World p. 136)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Prag_Beilage_II</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106861</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 (= P.GrohmannWorld 12)"/>  <app type="BL"><lem resp="APD">ص </lem><rdg resp="“earlier Karabacek”">ø </rdg><rdg resp="“Grohmann, World”">من</rdg></app> الص العو شما ته نقد بيت المال 
+<lb n="2 (= P.GrohmannWorld 13)"/>  دينر 
+<lb n="3 (= P.GrohmannWorld 14)"/>  مثاقيل ظى 
+<lb n="4 (= P.GrohmannWorld 15)"/>  ووزنه ظعد 
+<lb n="5 (= P.GrohmannWorld 16)"/>  پحصره 
+<lb n="6 (= P.GrohmannWorld 18)"/>  العلا پن سعبد 
+<lb n="7 (= P.GrohmannWorld 19)"/>  عامل الامپر عپد <app type="BL"><lem resp="APD">الله </lem><rdg resp="“Grohmann, World”">عنبسة</rdg></app> 
+<lb n="8 (= P.GrohmannWorld 20)"/>  بن إسحق 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṣ ø min 121 107 341 405 naqdi naqdu bayti ăl māli 
+ <lb n="2"/>dīnāri 
+ <lb n="3"/>maṯāqīla 
+ <lb n="4"/>wa wazni hi 974 
+ <lb n="5"/>ø bi ḥaḍraẗi 
+ <lb n="6"/>ø ăl ʿalāʾi bni saʿīd:in ṣāʿid:in 
+ <lb n="7"/>ø ʿāmili ăl ʾamīri ʿabdi ʿanbasaẗa ăl ø lāhi 
+ <lb n="8"/>bni ʾisḥāqa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Baargeld des Schatzhauses | 121+107+341+405 (= 974)
+		Bargeld des Schatzhauses: 121+107+341+405
+		Cash-money of the treasury
+			<lb n="2"/>
+		Dînâre
+		Dīnāre
+		] of 121+107+341+405 Dînâr
+			<lb n="3"/>
+		des Miṯqālfußes 912
+		des Mitskâl-Fußes (in Stücken): | 912
+		mithqâlî 912
+			<lb n="4"/>
+		and the weight thereof 974
+		an Gewicht: | 974 (= circa 12.100 Goldkronen)
+		und nach dessen Gewicht 974
+			<lb n="5"/>
+		in Gegenwart des
+		in the presence of
+			<lb n="6"/>
+		al-ʿAlâ b. Ṣâʿid
+		al-ʿAlāʾ b. Saʿīd,
+			<lb n="7"/>
+		finance director of the governor ʿAnbasa
+		Finanzdirektor des Amīrs ʿAbdallāh.
+			<lb n="8"/>
+		b. Isḥâq.
+</ab></div>
+</body>
+</text>
+</TEI>

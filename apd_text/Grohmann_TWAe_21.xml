@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="461" xml:id="Grohmann_TWAe_21" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 21</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_21</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106649</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">اول</supplied> پوم <gap reason="illegible" precision="low" extent="3"/>ـصيا من المنرل وسپه عسر پوم حلو من كپهك 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/>ـه عشر خشبة ستّة أذرع ونصف 
+<lb n="4"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـيوم الثّاني خمسة خشبات تسع أذرع <app type="BL"><lem resp="APD">وخشبين </lem><rdg resp="Diem">وخسبتين</rdg></app> ثمنية أذرع وأربعة 
+<lb n="5"/>  خشبات ذراعين كل واحدة 
+<lb n="6"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـپوم اليالـ<supplied reason="lost" cert="high">پ</supplied> پمپپه حسثاپ پسع ادرع وأپصا پسع حستاپ 
+<lb n="7"/>  ستّة أذرع وثلثة خشبات سبع أذرع وثمنية عشر 
+<lb n="8"/>  ثلثة أ<supplied reason="lost" cert="high">ذر</supplied>ع ونصف وأربعة خشبات سـ<supplied reason="lost" cert="high">ـتّة</supplied> <supplied reason="lost" cert="high">أذ</supplied>رع 
+<lb n="9"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـيوم الرّابع عشرة خشبات سبع أذرع ونصف <app type="BL"><lem resp="APD">وخشبين </lem><rdg resp="Diem">وخشبتين</rdg></app> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="10"/>  فيها عشرة أذرع وأربعة خشبات عشرة أذرع 
+<lb n="11"/>  وثلثين خشبة ذراعين ونصف ومائة وخمسة وعشرين 
+<lb n="12"/>  خشبة ثلثة أذرع 
+<lb n="13"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـيوم الخامس خمسة خشبات ثمنية أذرع وثلثة وعشرين خشبة 
+<lb n="14"/>  ذراعين وخشبة مخزولة خمسة أذرع 
+<lb n="15"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـيـ<supplied reason="lost" cert="high">ـوم</supplied> السّادس ستّة خشبات سـ<supplied reason="lost" cert="high">ـتّة</supplied> أذرع وخمسة خشبات ثمنية أذرع 
+<lb n="16"/>  وثلثة ثمنية أذ<supplied reason="lost" cert="high">ر</supplied>ع وأيضا ستّة خشبات <unclear reason="undefined" cert="high">سفينة</unclear> ستّة أذرع 
+<lb n="17"/>  <supplied reason="lost" cert="high">سپـ</supplied>ـه وعسرتّن دراعپن وحسپه 
+<lb n="18"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـيوم السّابع <gap reason="illegible" precision="low" extent="3"/>ـه ثمنية أذرع وخشبة مخزولة ثمنية أذرع 
+<lb n="19"/>  <supplied reason="omitted" cert="high">الـ</supplied>ـيوم الثّا<supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أذ</supplied>رع ونصف خشبة مخزولة خمسة 
+<lb n="20"/>  أذرع 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ذراعيـ</supplied>ـن سبعة عشر خشبة ذراعين ونصف 
+<lb n="22"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پـ</supplied>ـلپه حسثا<supplied reason="lost" cert="high">پ</supplied> من پلپه ادرع 
+<lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> وحسپه سع <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="7" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾawwalu yawm:in ***ṣnā mina ăl manzili wa sittaẗa ʿašara yawm ḫalaw min kiyahk:in 
+ <lb n="3"/>***aẗa ʿašara ḫašabaẗ:an sittaẗa ʾaḏruʿ:in wa niṣf 
+ <lb n="4"/>ăl yawmu ăṯ ṯānī ḫamsaẗa ḫašabāt:in tisʿa ʾaḏruʿ:in wa ḫašabayni ḫašabatayni ṯamāniyaẗa ʾaḏruʿ:in wa ʾarbaʿaẗa 
+ <lb n="5"/>ḫašabāt:in ḏirāʿayni kulla wāḥidaẗ:in 
+ <lb n="6"/>ø ăl yawmu ăṯ ṯāliṯu ṯamāniyaẗa ḫašabāt:in tisʿa ʾaḏruʿ:in wa ʾayḍ:an tisʿa ḫašabāt:in 
+ <lb n="7"/>sittaẗa ʾaḏruʿ:in wa ṯalāṯaẗa ḫašabāt:in sabʿa ʾaḏruʿ:in wa ṯamāniyaẗa ʿašara 
+ <lb n="8"/>ṯalāṯaẗa ʾaḏruʿ:in wa niṣf wa ʾarbaʿaẗa ḫašabāt:in sittaẗa ʾaḏruʿ:in 
+ <lb n="9"/>ăl yawmu ăr rābiʿu ʿašaraẗa ḫašabāt:in sabʿa ʾaḏruʿ:in wa niṣf wa ḫašabatayni ḫašabayni ** 
+ <lb n="10"/>fī hā ʿašaraẗu ʾaḏruʿ:in wa ʾarbaʿaẗa ḫašabāt:in ʿašaraẗa ʾaḏruʿ:in 
+ <lb n="11"/>wa ṯalāṯīna ḫašabaẗ:an ḏirāʿayni wa niṣf wa miʾaẗ:an wa ḫamsaẗ:an wa ʿišrīna 
+ <lb n="12"/>ḫašabaẗ:in ṯalāṯaẗa ʾaḏruʿ:in 
+ <lb n="13"/>ăl yawmu ăl ḫāmisu ḫamsaẗa ḫašabāt:in ṯamāniyaẗa ʾaḏruʿ:in wa ṯalāṯaẗ:an wa ʿišrīna ḫašabaẗ:an 
+ <lb n="14"/>ḏirāʿayni wa ḫašabaẗ:an maḫzūlaẗ:an ḫamsaẗa ʾaḏruʿ:in 
+ <lb n="15"/>ăl yawmu ăs sādisu sittaẗa ḫašabāt:in sittaẗa ʾaḏruʿ:in wa ḫamsaẗa ḫašabāt:in ṯamāniyaẗa ʾaḏruʿ:in 
+ <lb n="16"/>wa ṯalāṯaẗ:an ṯamāniyaẗa ʾaḏruʿ:in wa ʾayḍ:an sittaẗa ḫašabāti safīnaẗ:in sittaẗa ʾaḏruʿ:in 
+ <lb n="17"/>sittaẗ:an wa ʿišrīna ḏirāʿayni wa ḫašabaẗ:an 
+ <lb n="18"/>ăl yawmu ăs sābiʿu ***aẗ ṯamāniyaẗa ʾaḏruʿ:in wa ḫašabaẗ:an maḫzūlaẗ:an ṯamāniyaẗa ʾaḏruʿ:in 
+ <lb n="19"/>ăl yawmu ăṯ ṯāminu *** ʾaḏruʿ:in wa niṣf ḫašabaẗ:an maḫzūlaẗ:an ḫamsaẗa 
+ <lb n="20"/>ʾaḏruʿ:in 
+ <lb n="21"/>*** ḏirāʿayni sabʿaẗa ʿašara ḫašabaẗ:an ḏirāʿayni wa niṣf 
+ <lb n="22"/>*** ṯalāṯaẗa ḫašabāt:in min ṯalāṯaẗi ʾaḏruʿ:in 
+ <lb n="23"/>*** wa ḫašabaẗ:an sʿ *** ******* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+			<lb n="2"/>
+		[Erster] Tag: Wir haben aus dem Wohnhause [...] während sechzehn (Tage) vom Choiak vergangen waren.
+			<lb n="3"/>
+		... zehn Balken sechseinhalb Ellen.
+		Zehn Balken sechseinhalb Ellen.
+			<lb n="4"/>
+		Zweiter Tag: Fünf Balken neun Ellen und zwei Balken acht Ellen und vier
+			<lb n="5"/>
+		Balken, jeder zu zwei Ellen.
+			<lb n="6"/>
+		Drit[ter] Tag: Acht Balken neun Ellen und wieder neun Balken
+			<lb n="7"/>
+		sechs Ellen und drei Balken sieben Ellen und achtzehn
+			<lb n="8"/>
+		drei einhalb Ellen und vier Balken se[chs(?) El]len
+			<lb n="9"/>
+		Vierter Tag: Zehn Balken sieben einhalb Ellen und zwei Balken
+			<lb n="10"/>
+		zu zehn Ellen und vier Balken zehn Ellen
+			<lb n="11"/>
+		und dreißig Balken hundertzweieinhalb Ellen und fünfundzwanzig
+		und dreißig Balken zweieinhalb Ellen und hundertfünfundzwanzig Balken drei Ellen
+			<lb n="12"/>
+		Balken drei Ellen.
+			<lb n="13"/>
+		Fünfter Tag: Fünf Balken acht Ellen und dreiundzwanzig Balken
+			<lb n="14"/>
+		zwei Ellen und abgeschnittenes Bauholz fünf Ellen.
+			<lb n="15"/>
+		Sechster [Tag]: Sechs Balken sechs Ellen und fünf Balken acht Ellen
+			<lb n="16"/>
+		und drei acht El[le]n und wieder sechs Schiffsbalken sechs Ellen
+			<lb n="17"/>
+		[sechs]undzwanzig Ellen und ein Balken.
+		[sechs]undzwanzig zwei Ellen und ein Balken.
+			<lb n="18"/>
+		Siebenter Tag: [...] .. acht Ellen und abgeschnittenes Bauholz acht Ellen.
+			<lb n="19"/>
+		Achter Tag: [... einhalb El]len, abgeschnittenes Bauholz fünf
+			<lb n="20"/>
+		Ellen.
+			<lb n="21"/>
+		[... zwei] Ellen, siebzehn Balken zwei einhalb Ellen,
+			<lb n="22"/>
+		[... d]rei Balken zu drei Ellen
+			<lb n="23"/>
+		und ein Balken .... [...] .......
+</ab></div>
+</body>
+</text>
+</TEI>

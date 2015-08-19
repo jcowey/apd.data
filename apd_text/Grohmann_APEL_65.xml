@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1098" xml:id="Grohmann_APEL_65" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 065</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_65</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168964</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى المكنّا بأبو العلا القزّاز بن مينا السّقّا السّاكن مدينة الأشمونين من قلته بن كيل بن جريج النّصراني القزّاز الساكن بهذه 
+<lb n="3"/>  المدينة المذكورة اشترى منه بماله لنفسه الّذي أنعم اللّه عز وجل به عليـ<supplied reason="lost" cert="high">ـه</supplied> جميع ما أعلمه أنّه له وبملكه وفي يده ملكا صحيحا 
+<lb n="4"/>  وحقّا واجبا وهو جميع المنزل الّذي بهذه المدينة المذكورة في الجانب البحري منها على الكوم المطل على الكنيسيّة المعروف <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  بالبرتانس ويحيط بهذا المنزل المبيع بأسره ويجمعه ويشتمل عليه حدود أربعة فحدّه القبلي ينتهي إلى الزّقاق النّافذ 
+<lb n="6"/>  من طرفيه إلى طرق شتّى وفيه يشرع بابه الأوّل كان والحد البحري منه ينتهي إلى بير تعرف بالصّعيدي وإلى بو طوربن مقابر 
+<lb n="7"/>  المسلمين وفي هذا الحد يشرع بابه الثّاني والحد الشّرقي منه ينتهي إلى عرصة لبقطر البنّا وإلى دار منصور الرّسول كان وإلى 
+<lb n="8"/>  منزل يعرف بسكنى غطارف بن مفلح كان والحد الغربي منه ينتهي إلى منزل جعفر بن سباع الإبشادي فاشترى 
+<lb n="9"/>  المكنّا بأبو العلا القزّاز بن مينا السّقّا من قلته بن كيل بن جريج <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">اللهاى</unclear> </lem><rdg resp="“Dietrich”">النصرانىّ</rdg></app> القزّاز جميع هذا المنزل المحدود المذكور في هذا 
+<lb n="10"/>  الكتاب بحدّه وحدوده ومرافقه كلّها بأرضه وسمائه وسفله وعـ<supplied reason="lost" cert="high">ـلو</supplied>ه ونقضه وبنايه وفنائه وكل قليل وكثير هو له 
+<lb n="11"/>  داخل فيه وخارج منـه وما هو معروف له ومنسون إليه ظاهره وباطنه وعامره وغامره بثمن 
+<lb n="12"/>  مبلغه أربعة دنانير وازنة مستنصريّة وخمسة رباعيّات وازنة معزّيّة شرى صحيحا وبيعا نافذا ماضيا 
+<lb n="13"/>  لا شرط فيه ولا خيار ولا استثنى ولا إقالة ولا إعادة ولا رجعـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">و</supplied>لا مثنويّة لا لردّه ولا لنفسه لا لأجل ولا لأبد 
+<lb n="14"/>  ولا هو على سبيل رهن ولا تلجئة ودفع المشتري المكنّا بأبو العلا القزّاز بن مينا السّقّا إلى البائع له 
+<lb n="15"/>  قلته بن كيل بن جريج النّصراني القزّاز جميع الثّمن المذكور فيه ومبلغه أربعة دنانير وازنة مستنصريّة 
+<lb n="16"/>  وخمسة رباعيّات وازنة معزّيّة مسلّمة للبائع من حق السّوق فقبضهم منه نقدا في يده تامّا وافيا وأبرأه من 
+<lb n="17"/>  ولا هو على سپپل رهن ولا پلحپه ودڤع المشپرى المكپا پاپو العلا الڤرار پن مپپا السقا الى البائع لهدلك 
+<lb n="18"/>  المشتري منه جميع ما وقّع عليه هذا البيع المذكور وتسلّمه منه وكا<supplied reason="lost" cert="high">ن</supplied> لنفسه وصار في يده وملكه ومالا من ماله 
+<lb n="19"/>  يتحكّم فيه بحكم الملّاك في أملاكهم وذلك بعد معرفة منهما لما تبايعا <supplied reason="lost" cert="high">عـ</supplied>ـليه وتقليب منهما بجميعه وإنفاذ منهما له فتبايعا 
+<lb n="20"/>  ذلك بينهما على ما يوجبه حكم بيع الإسلام وعهدته وضمان دركه و<supplied reason="lost" cert="high">تـ</supplied>ـمام شروطه وتضمّن البائع للمشتري منه جميع الدّرك 
+<lb n="21"/>  في ذمّته ومحيائه <supplied reason="omitted" cert="high">ومماته</supplied> وخالص ماله فما أدرك هذا المشتري فيما وقع عليه هذا الـ<supplied reason="lost" cert="high">ـبيـ</supplied>ـع المذكور أو في شي منه ومن حقوقه من درك 
+<lb n="22"/>  من أحد من النّاس كلّهم فعلى البائع له خلاصه من كل دركه يدركه في ذلك <supplied reason="lost" cert="high">شـ</supplied>ـهد على إقرار البائع بالبيع وقبضه جميع الثّمن 
+<lb n="23"/>  المذكور والمشتري بالحوز لنفسه بجميعها ڤپه پعد ان ڤرى علپهما ڤاڤرا پفهمه ومعرڤه حمپعه ڤى صحه عڤولهما واپداپهما وحوأر 
+<lb n="24"/>  أمورهما طاٮعئن غير مكرهين ولا مجبرين ولا مضطهدين وكتب في العشر الأوسـ<supplied reason="lost" cert="high">ـط</supplied> من شهر رمضان سنة إحدى وأربعين وأربعمائة 
+<lb n="25"/>  وفيه حروف ملحقة مثالها إلى بئر وحرف مصلّح مثاله أربعة وهو صحيح وعلى ذلك وقعت الشّهادة 
+<lb n="26 right"/>  شهد عبد اللّه بن أحمد بن تقا على إقرار البائع المسمّى والمشتري 
+<lb n="27 right"/>  بما فيه في تأريخه 
+<lb n="26 left"/>  شهد إسحق بن نجا بن عطا على إقرار البائع والمشتري بما فيه في تأريخه 
+<lb n="27 left"/>  شهد علي بن إبرهيم على إقرار البائع بما فيه وكتب بخطّه 
+<lb n="28 right"/>  شهد الحسبِن بِن إبِرهبِم بِن جعفر على إقرار البائع والمشترِي 
+<lb n="29 right"/>  بما فيه وكتب بحطّه في تأرِيخه 
+<lb n="28 left"/>  شهد الحسين بن علي بنِ حفص على إقرار البائع بالبيع وقبض الثمن 
+<lb n="29 left"/>  عيانا وحوز المشتري لنفسه بجميع ما فيه في تأرِيخه 
+<lb n="30 left"/>  شهد العبّاد بن هبة اللّه بن العقرب على إقرار البائع وقبضه الثمن المذكور 
+<lb n="31 left"/>  وحوز المشترِي وكتب في تأرِيخه 
+<lb n="32 left"/>  شهد إبرهيم بن عيسى بن عـ<supplied reason="lost" cert="high">ـلىّ</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ا</supplied>قرار البائع المسمّى في هذا الكتاب 
+<lb n="33 left"/>  وِقبض جميع الثمن المذكور وحوز المشترِي لنفسه بجميع ما فيه وكتب بخطّه 
+<lb n="34 left"/>  <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـهرِ رِ<supplied reason="lost" cert="high">مـ</supplied>ـضان من سنة إحدى وأربعين وأربعماية 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà ăl mukannā bi ʾabū ăl ʿalāʾi ăl qazzāzi bni mīnā ăs saqqāʾi ăs sākinu madīnaẗa ăl ʾušmūnayni min qultaha bni kayli bni ǧurayǧ:ini ăn naṣrāniyyi ăl qazzāzi ăs sākini bi hāḏihi 
+ <lb n="3"/>ăl madīnaẗi ăl maḏkūraẗi ĭštarà min hu bi māli hi li nafsi hi ăllaḏī ʾanʿama ăl lāhu ʿazza wa ǧalla bi hi ʿalay hi ǧamīʿa mā ʾaʿlama hu ʾanna hu la hu wa bi milki hi wa fī yadi hi milk:an ṣaḥīḥ:an 
+ <lb n="4"/>wa ḥaqq:an wāǧib:an wa huwa ǧamīʿu ăl manzili ăllaḏī bi hāḏihi ăl madīnaẗi ăl maḏkūraẗi fī ăl ǧānibi ăl baḥriyyi min hā ʿalà ăl kawmi ăl muṭilli ʿalà ăl kunaysiyyaẗi ăl maʿrūfi *** 
+ <lb n="5"/>bi ăl bartānusi wa yuḥīṭu bi hāḏā ăl manzili ăl mabīʿi bi ʾasri hi wa yaǧmaʿu hu wa yaštamilu ʿalay hi ḥudūd:un ʾarbaʿaẗ:un fa ḥaddu hu ăl qibliyyu yantahī ʾilà ăz zuqāqi ăn nāfiḏi 
+ <lb n="6"/>min ṭarafay hi ʾilà ṭuruq:in šattà wa fī hi yašraʿu bābu hu ăl ʾawwalu kāna wa ăl ḥaddu ăl baḥriyyu min hu yantahī ʾilà bīr:in tuʿrafu bi ăṣ ṣaʿīdiyyi wa ʾilà bū ṭūrbuna maqābiri 
+ <lb n="7"/>ăl muslimīna wa fī hāḏā ăl ḥaddi yašraʿu bābu hu ăṯ ṯānī wa ăl ḥaddu ăš šarqiyyu min hu yantahī ʾilà ʿarṣaẗ:in li buqṭura ăl bannāʾi wa ʾilà dāri manṣūr:ini ăr rasūli kāna wa ʾilà 
+ <lb n="8"/>manzil:in yuʿrafu bi suknà ġaṭārifa bni mufliḥ:in kāna wa ăl ḥaddu ăl ġarbiyyu min hu yantahī ʾilà manzili ǧaʿfara bni sibāʿa ăl ʾibšādiyyi fa ĭštarà 
+ <lb n="9"/>ăl mukannā bi ʾabū ăl ʿalāʾi ăl qazzāzi bni mīnā ăs saqqāʾi min qultaha bni kayli bni ǧurayǧ:ini ăl ăn lhʾy naṣrāniyyi ăl qazzāzi ǧamīʿa hāḏā ăl manzili ăl maḥdūdi ăl maḏkūri fī hāḏā 
+ <lb n="10"/>ăl kitābi bi ḥaddi hi wa ḥudūdi hi wa marāfiqi hi kulli hā bi ʾarḍi hi wa samāʾi hi wa sufli hi wa ʿulwi hi wa naqḍi hi wa bināyi hi wa fināʾi hi wa kulli qalīl:in wa kaṯīr:in huwa la hu 
+ <lb n="11"/>dāḫil fī hi wa ḫāriǧ min hu wa mā huwa maʿrūf:un la hu wa mansūb:un ʾilay hi ẓāhira hu wa bāṭina hu wa ʿāmira hu wa ġāmira hu bi ṯaman:in 
+ <lb n="12"/>mablaġu hu ʾarbaʿaẗu danānīra wāzinaẗ:in mustanṣiriyyaẗ:in wa ḫamsaẗu rubāʿiyyāt:in wāzinaẗ:in muʿizziyyaẗ:in šir:an ṣaḥīḥ:an wa bayʿ:an nāfiḏ:an māḍiy:an 
+ <lb n="13"/>lā šarṭa fī hi wa lā ḫiyār:un wa lā ĭstiṯn:an wa lā ʾiqālaẗ:un wa lā ʾiʿādaẗ:un wa lā raǧʿaẗ:un wa lā maṯnawiyyaẗ:un lā li raddi hi wa lā li nafsi hi lā li ʾaǧal:in wa lā li ʾabad:in 
+ <lb n="14"/>wa lā huwa ʿalà sabīli rahn:in wa lā talǧiʾaẗ:in wa dafaʿa ăl muštarī ăl mukannā bi ʾabū ăl ʿalāʾi ăl qazzāzi bni mīnā ăs saqqāʾi ʾilà ăl bāʾiʿi la hu 
+ <lb n="15"/>qultaha bni kayli bni ǧurayǧ:ini ăn naṣrāniyyi ăl qazzāzi ǧamīʿa ăṯ ṯamani ăl maḏkūri fī hi wa mablaġu hu ʾarbaʿaẗu danānīra wāzinaẗ:in mustanṣiriyyaẗ:in 
+ <lb n="16"/>wa ḫamsaẗu rubāʿiyyāt:in wāzinaẗ:in muʿizziyyaẗ:in musallamaẗ:in li ăl bāʾiʿi min ḥaqqi ăs sūqi fa qabaḍa hum min hu naqd:an fī yadi hi tāmm:an wāfiy:an wa ʾabraʾa hu min 
+ <lb n="17"/>ḏālika barāʾaẗa qabḍ:in la hu wa ĭstīfà li ǧamīʿi hi min kulli qawl:in wa ḥuǧǧaẗ:in wa yamīn:in ʿalà ǧamīʿi ăl wuǧūhi wa ăl ʾasbābi kulli hā wa sallama ăl bāʾiʿu ʾilà 
+ <lb n="18"/>ăl muštarī min hu ǧamīʿa mā wuqqiʿa ʿalay hi hāḏā ăl bayʿu ăl maḏkūru wa tasallama hu min hu wa kāna li nafsi hi wa ṣāra fī yadi hi wa milki hi wa māl:an min māli hi 
+ <lb n="19"/>yataḥakkamu fī hi bi ḥukmi ăl mullāki fī ʾamlāki him wa ḏālika baʿda maʿrifaẗ:in min humā li mā tabāyaʿā ʿalay hi wa taqlīb:in min humā bi ǧamīʿi hi wa ʾinfāḏ:in min humā la hu fa tabāyaʿā 
+ <lb n="20"/>ḏālika bayna humā ʿalà mā yūǧibu hu ḥukmu bayʿi ăl ʾislāmi wa ʿuhdatu hu wa ḍamānu daraki hi wa tamāmu šurūṭi hi wa taḍammana ăl bāʾiʿu li l muštarī min hu ǧamīʿa ăd daraki 
+ <lb n="21"/>fī ḏimmati hi wa maḥyāʾi hi wa mamāti hi wa ḫāliṣi māli hi fa mā ʾadraka hāḏā ăl muštariya fī mā waqaʿa ʿalay hi hāḏā ăl bayʿu ăl maḏkūru ʾaw fī šayʾ:in min hu wa min ḥuqūqi hi min darak:in 
+ <lb n="22"/>min ʾaḥad:in mina ăn nāsi kulli him fa ʿalà ăl bāʾiʿi la hu ḫalāṣu hu min kulli daraki hi yudriku hu fī ḏālika šahida ʿalà ʾiqrāri ăl bāʾiʿi bi ăl bayʿi wa qabḍi hi ǧamīʿa ăṯ ṯamani 
+ <lb n="23"/>ăl maḏkūri wa ăl muštarī bi ăl ḥawzi li nafsi hi bi ǧamīʿi mā fī hi baʿda ʾan quriʾa ʿalay himā fa ʾaqarrā bi fahmi hi wa maʿrifaẗi ǧamīʿi hi fī ṣiḥḥaẗi ʿuqūli himā wa ʾabdāni himā wa ǧawāzi 
+ <lb n="24"/>ʾumūri himā ṭāʾiʿayni ġayra mukrahayni wa lā muǧbarayni wa lā muḍṭahadayni wa kutiba fī ăl ʿašri ăl ʾawsaṭi min šahri ramaḍāna sanaẗa ʾiḥdà wa ʾarbaʿīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="25"/>wa fī hi ḥurūf:un mulḥaqaẗ:un miṯālu hā ʾilà biʾr:in wa ḥarf:un muṣallaḥ:un miṯālu hu ʾarbaʿaẗ:un wa huwa ṣaḥīḥ:un wa ʿalà ḏālika waqaʿati ăš šahādaẗu 
+ <lb n="26"/>šahida ʿabdu ăl lāhi bnu ʾaḥmada bni tuqā ʿalà ʾiqrāri ăl bāʾiʿi ăl musammà wa ăl muštarī 
+ <lb n="27"/>bi mā fī hi fī taʾrīḫi hi 
+ <lb n="28"/>šahida ʾisḥāqu bnu naǧāʾa bni ʿaṭāʾa ʿalà ʾiqrāri ăl bāʾiʿi wa ăl muštarī bi mā fī hi fī taʾrīḫi hi 
+ <lb n="29"/>šahida ʿaliyyu bnu ʾibrāhīma ʿalà ʾiqrāri ăl bāʾiʿi bi mā fī hi wa kataba bi ḫaṭṭi hi 
+ <lb n="30"/>šahida ăl ḥusaynu bnu ʾibrāhīma bni ǧaʿfara ʿalà ʾiqrāri ăl bāʾiʿi wa ăl muštarī 
+ <lb n="31"/>bi mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="32"/>šahida ăl ḥusaynu bnu ʿaliyyi bni ḥafṣ:in ʿalà ʾiqrāri ăl bāʾiʿi bi ăl bayʿi wa qabḍi ăṯ ṯamani 
+ <lb n="33"/>ʿiyān:an wa ḥawzi ăl muštarī li nafsi hi bi ǧamīʿi mā fī hi fī taʾrīḫi hi 
+ <lb n="34"/>šahida ăl ʿabbādu bnu hibaẗi ăl lāhi bni ăl ʿaqrabi ʿalà ʾiqrāri ăl bāʾiʿi wa qabḍi hi ăṯ ṯamana ăl maḏkūra 
+ <lb n="35"/>wa ḥawzi ăl muštarī wa kataba fī taʾrīḫi hi 
+ <lb n="36"/>šahida ʾibrāhīmu bnu ʿīsà bni ʿaliyy:in ʿalà ʾiqrāri ăl bāʾiʿi ăl musammà fī hāḏā ăl kitābi 
+ <lb n="37"/>wa qabḍi ǧamīʿi ăṯ ṯamani ăl maḏkūri wa ḥawzi ăl muštarī li nafsi hi bi ǧamīʿi mā fī hi wa kataba bi ḫaṭṭi hi 
+ <lb n="38"/>wa ḏālika fī šahri ramaḍāna min sanaẗi ʾiḥdà wa ʾarbaʿīna wa ʾarbaʿi miyaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is what the surnamed Abu&#039;l-ʿAlâ, the silk-mercer, son of Mînâ, the water-carrier, residing in the town of al-Ušmûnain, has bought from Qolte b. Chael b. Ǧuraiǧ, the Christian, the silk-mercer, residing in this (above)
+			<lb n="3"/>
+		mentioned town: he has bought from him with his own money, which God - He is mighty and sublime - has bestowed upon him as a favour, all that he (the seller) informed him that it was belonging to him and in his possession and in his hand(s) as a legal possession
+			<lb n="4"/>
+		and a declared right, namely the whole of the dwelling house, that stands to the north side of the (above) mentioned town, on the hill looking down upon the little church known
+			<lb n="5"/>
+		as al-Bartânos (of the Virgin). Now four boundaries enclose, encompass and surround this dwelling house, which is sold entirely: the southern boundary thereof extends to the lane forming
+			<lb n="6"/>
+		from both sides the thoroughfare to diverse roads, with which its former first door communicates; and the northern boundary thereof extends to a well known as aṣ-Ṣaʿîdî and to Bû Ṭûrbon, the Muslim
+			<lb n="7"/>
+		cemetery, and with this boundary communicates its second door; and the eastern boundary thereof extends to the open area belonging to Boqṭor, the builder, and to the former house of Manṣûr, the messenger, and to
+		cemetery, and with this boundary communicates its second door; and the eastern boundary thereof extends to the open area belonging to Boqṭor, the builder, and to the house of Manṣûr, the former messenger, and to
+			<lb n="8"/>
+		the dwelling house known as the former habitation of Ġaṭârif b. Mufliḥ; and the western boundary thereof extends to the dwelling house of Ǧaʿfar b. Sibâʿ, originating from Ibšâda. The surnamed
+			<lb n="9"/>
+		Abu&#039;l-ʿAlâ, the silk-mercer, son of Mînâ, the water-carrier, has bought from Qolte b. Chael b. Ǧuraiǧ al-Lahâʾî (?), the silk-mercer, the whole of this dwelling house defined and mentioned in this
+			<lb n="10"/>
+		act, to its limit and its boundaries and all its appurtenances, with its land and its sky, and (including) what is below and a[bo]ve the surface, and its beams and its building(s) and its fore-court, and all of little and much connected with it
+			<lb n="11"/>
+		within and without, and what is known as appertainign and relating to it, (be it) outside or inside, inhabited or empty, for a price
+			<lb n="12"/>
+		which amounts to four full weight dînârs of al-Mustanṣir and five quarter (dînârs), full weight, of al-Muʿizz, in form of a valid purchase and effectual (and fully) completed sale,
+			<lb n="13"/>
+		in which is no condition and no option (of return) and no reservation and no rescision (by mutual consent) and no possibility of recurrence and no proviso of the right of reversa[l and] no reserving (of the right) either to return it or to annul it, either temporarily or for good,
+			<lb n="14"/>
+		and it is not in the way of a pledge nor an exclusive bequest. And the buyer, surnamed Abu&#039;l-ʿAlâ, the silk-mercer, son of Mînâ, the water-carrier, has paid to the one who has sold (it) to him,
+			<lb n="15"/>
+		Qolte b. Chael b. Ǧuraiǧ, the Christian, the silk-mercer, the whole of the price mentioned herein, the amount of which is four dînârs of al-Mustanṣir, full weight,
+			<lb n="16"/>
+		and five quarter (dînârs), full weight, of al-Muʿizz, handed over to the seller according to the market-value. So he has received it from him as a cash-payment (paid) into his hand(s) fully and entirely, and he has given him a quittance for
+			<lb n="17"/>
+		it by means of a receipt (acknowledging that he has) received for him(self) fully and entirely the whole of it, which releases him from any affirmation or proof or oath for any causes or reasons whatever; and the seller has handed over to
+			<lb n="18"/>
+		the one who has bought from him all in respect to which the (above) mentioned sale was effected, and he (the buyer) has taken it over from him and it has be[come] his own and has passed into his hand(s) and possession, and has become his own property,
+			<lb n="19"/>
+		he having free disposition of it according to the free disposition of proprietors over their property, and this after their having been aware of what they both have sold and bought (respectively), and their having examined all of it and their having effected it (the transaction). So they both have bargained
+			<lb n="20"/>
+		together according to what the rule of Islamic law of sale and covenant and the guarantee of indemnity and the [ful]filment of its conditions makes obligatory, and the seller has become responsible to the one who has bought from him for all claims
+			<lb n="21"/>
+		according to his responsibility, (be he) alive or dead, and out of his own means. But should any evil consequence (vindicatio) ensue to this buyer respecting that about which this above mentioned s[al]e took place or respecting any part of it or any rights (connected with it)
+			<lb n="22"/>
+		from any person at all, it is incumbent upon the one who sold (it) to him to indemnify him for any claim that may be made upon him in respect thereto. (The following witnesses) have testified to the acknowledgment by the seller respecting the sale and his taking over the whole of the price (above) mentioned,
+			<lb n="23"/>
+		and by the buyer respecting his having taken possession for himself of all that is herein after (it) had been read to both of them, so that they have acknowledged that they have understood and comprehended it entirely, they being in a state of sound mind and body, and capable of transacting
+			<lb n="24"/>
+		their business, voluntarily, without compulsion and not against their will and not under constraint, and (it) has been written in the middle decade of the month of Ramaḍân of the year four hundred and forty one.
+			<lb n="25"/>
+		And herein (l. 6) are (to be found) words added, viz. &#034;to a well&#034;, and a word corrected (l. 12), viz. &#034;four&#034; and it is right. (The following witnesses have) testified to it.
+			<lb n="26"/>
+		ʿAbdallâh b. Aḥmad b. Tuqâ is witness to the acknowledgment by the (above-)named seller and the buyer
+			<lb n="27"/>
+		respecting what (is contained) herein on its date.
+			<lb n="28"/>
+		Isḥâq b. Naǧâ b. ʿAṭâ is witness to the acknowledgment by the seller and buyer respecting what (is contained) herein on its date.
+			<lb n="29"/>
+		ʿAlî b. Ibrahîm is witness to the acknowledgment by the buyer respecting what (is contained) herein and he has written (it) in his (own) handwriting.
+			<lb n="30"/>
+		Al-Ḥusain b. Ibrahîm b. Ǧaʿfar is witness to the acknowledgment by the seller and buyer
+			<lb n="31"/>
+		respecting what (is contained) herein and he has written (it) in his (own) handwriting on its date.
+			<lb n="32"/>
+		Al-Ḥusain b. ʿAlî b. Ḥafṣ is witness to the acknowledgment by the seller respecting the sale and the receipt of the price
+			<lb n="33"/>
+		in actual coin and the taking possession by the buyer for himself respecting all that (is contained) herein on its date.
+			<lb n="34"/>
+		Al-ʿAbbâd b. Hibatallâh b. al-ʿAqrab is witness to the acknowledgment by the seller and his receipt of the (above) mentioned price
+			<lb n="35"/>
+		and the taking possession by the buyer and he has written (it) on its date.
+			<lb n="36"/>
+		Ibrahîm b. ʿÎsâ b. ʿAl[î] is witness [to the ack]nowledgment by the seller named in this act
+			<lb n="37"/>
+		and the receipt of all the (above) mentioned price and the taking possession by the buyer for himself respecting all that (is contained) herein and he has written (it) in his (own) handwriting,
+			<lb n="38"/>
+		[and this (took place) in the m]onth of Ra[m]aḍân of the year four hundred and forty one.
+</ab></div>
+</body>
+</text>
+</TEI>

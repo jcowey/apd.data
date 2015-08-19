@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="72" xml:id="Grohmann_APEL_77" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 077 (= CPR XXI 03)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_77</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106503</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه <app type="BL"><lem resp="APD">كپاپپ </lem><rdg resp="Frantz-Murphy">كاتب</rdg></app> <gap reason="illegible" precision="low" extent="3"/> ك 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">اثـ</supplied>ـنا عشر فدّانا ونصف 
+<lb n="4"/>  <supplied reason="lost" cert="high">باثنا</supplied> <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">دينارا</supplied> <supplied reason="lost" cert="high">ونـ</supplied>ـصف وازنة <app type="BL"><lem resp="APD">مثاله </lem><rdg resp="Frantz-Murphy">مثاقيل</rdg></app> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">طـ</supplied>ـبول مع خراج سنة 
+<lb n="6"/>  ثما<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">وسبعـ</supplied>ـين و<supplied reason="lost" cert="high">ما</supplied>ئة وضريبتها على ما يأتـ<supplied reason="lost" cert="high">ـي</supplied> 
+<lb n="7"/>  من تـ<supplied reason="lost" cert="high">ـوزيع</supplied> <supplied reason="lost" cert="high">الأمـ</supplied>ـير حـ<supplied reason="lost" cert="high">ــ</supplied>ـفظه اللّه برا عمّا لما سنة 
+<lb n="8"/>  ثمان وسبعين ومـ<supplied reason="lost" cert="high">ــ</supplied>ـائة وكتب فى ست 
+<lb n="9"/>  مضين من رمضان سـ<supplied reason="lost" cert="high">ــ</supplied>ـنة ثمان ـ<supplied reason="lost" cert="high">وـسـ</supplied>ـبعين ومائة 
+<lb n="10"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  فدّان بـدينر 
+<lb n="12"/>  ‫فذلك ‪ιβχ ιβχ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ***** 
+ <lb n="2"/>***h kBʾBB kātib *** k 
+ <lb n="3"/>*** ĭṯnā ʿašara faddān:an wa niṣf:un 
+ <lb n="4"/>bi ĭṯnā ʿašara dīnār:an wa niṣfi niṣf:in wāzinaẗi wāzinaẗ:in miṯāla maṯāqīla hu 
+ <lb n="5"/>*** fī ṭubūl:in maʿa ḫarāǧi sanaẗi 
+ <lb n="6"/>ṯamān:in wa sabʿīna wa miʾaẗ:in wa ḍarībaẗi hā ʿalà mā yaʾtī 
+ <lb n="7"/>min tawzīʿi ăl ʾamīri ḥafiẓa hu ăl lāhu barāʾ:an ʿammā li māʾi sanaẗi 
+ <lb n="8"/>ṯamān:in wa sabʿīna wa miʾaẗ:in wa kutiba fī sitt:in 
+ <lb n="9"/>maḍayna min ramaḍāni sanaẗi ṯamān:in wa sabʿīna wa miʾaẗ:in 
+ <lb n="10"/>** *** *** 
+ <lb n="11"/>faddān:un bi dīnār:in 
+ <lb n="12"/>fa ḏālika 12+1/2 12+1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		.........................]-secretary [............]k
+			<lb n="3"/>
+		[... tw]elve and a half faddâns
+		[... twe]lve faddans and a half
+			<lb n="4"/>
+		[for twelve and a ha]lf dînârs of full weight the equivalent of which
+		[for twelve dinars and a h]alf of the full weight of the weight measures
+			<lb n="5"/>
+		... in the re]gisters together with the kharāj of the year
+		[is ...... by instal]ments together with the impost of the year
+			<lb n="6"/>
+		 eigh[t and seve]nty and one [hundre]d and its tax in crops according to what [com]es
+		one [hun]dred and [seven]ty eigh[t] and its corn-tax according to what come[s]
+			<lb n="7"/>
+		from the ap[portionment of the gover]nor, may God protect him, removed from what is due for water of the year
+		of the ap[portionment by the Gover]nor - may God protect him - save what is due for water for the year
+			<lb n="8"/>
+		eight and seventy and one hundred. It was written when six (i.e., nights)
+		one hundred and seventy eight, and (it) was written when six (nights) 
+			<lb n="9"/>
+		had passed of ramaḍan of the year eight [and seventy one hundred].
+		had passed of the Ramaḍân of the y[ea]r one hundred [and se]venty eight.
+			<lb n="10"/>
+			<lb n="11"/>
+		faddan for dinar
+		faddân for dînâr(s)
+			<lb n="12"/>
+		that is 12 1/2 12 1/2
+		This is 12 1/2 12 1/2
+</ab></div>
+</body>
+</text>
+</TEI>

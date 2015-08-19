@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1111" xml:id="Dietrich_Eheurkunde_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DietrichEheurkunde 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Dietrich_Eheurkunde_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168968</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="a 1"/>  أشهدني عيسى بن أبي الفضل بن مخلوف الزّوج المسمّى أعلاه في <supplied reason="lost" cert="high">صحّة</supplied> 
+<lb n="a 2"/>  عقله ومرير جسمه وثبوت فهمه أن لزوجته خبا ابنة خليفة 
+<lb n="a 3"/>  في ذ<supplied reason="lost" cert="high">مّة</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">والدها</supplied> </lem><rdg resp="APD">وليّها </rdg><rdg resp="APD">ابيها</rdg></app> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">العـ</supplied>ـين المصري خمسة وعشرين دينارا جميع موحر 
+<lb n="a 4"/>  صداقها عليه المسطّر أعلاه فشهدت عليه بذلك في <supplied reason="lost" cert="high">تـ</supplied>ـأ<supplied reason="lost" cert="high">ريخه</supplied> <supplied reason="lost" cert="high">وهو</supplied> 
+<lb n="a 5"/>  الثّالـ<supplied reason="lost" cert="high">ـث</supplied> عـ<supplied reason="lost" cert="high">ـشر</supplied> من المحرّم من سنة سبع عشرة وستّـ<supplied reason="lost" cert="high">ـمائة</supplied> 
+<lb n="a 6"/>  وكتب إسمعيل بن محمّد بن إسمعيـ<supplied reason="lost" cert="high">ـل</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">تأ</supplied>ريخـه 
+<lb n="a 7"/>  شهد عندي بذلك 
+<lb n="b 1"/>  وبمثل ذلك أشهد 
+<lb n="b 2"/>  وكتب إسمعيل بن عبد العزيز 
+<lb n="b 3"/>  بن عيسى <supplied reason="lost" cert="high">في</supplied> تأريخه 
+<lb n="b 4"/>  و<supplied reason="lost" cert="high">هو</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">في</rdg></app> ا<supplied reason="lost" cert="high">لثـ</supplied>ـالث عشر من المحرّم 
+<lb n="b 5"/>  سنة سبـ<supplied reason="lost" cert="high">ـعـ</supplied>ـة عشر وستّـ<supplied reason="lost" cert="high">ـمائـ</supplied>ـة 
+<lb n="b 6"/>  <supplied reason="lost" cert="high">شهد</supplied> بذلك عندي 
+<lb n="c 1"/>  وبمثل ذلك أشهد وكتب 
+<lb n="c 2"/>  محمّد <supplied reason="lost" cert="high">بـ</supplied>ـن رضوان بن عبد الرّحمن 
+<lb n="c 3"/>  بتأريخ الـ<supplied reason="lost" cert="high">ـثّـ</supplied>ـالث عشر مـ<supplied reason="lost" cert="high">ـن</supplied> المحرّ<supplied reason="lost" cert="high">م</supplied> سنة 
+<lb n="c 4"/>  <supplied reason="lost" cert="high">سبع</supplied> <supplied reason="lost" cert="high">عشرة</supplied> <supplied reason="lost" cert="high">وستّمائة</supplied> 
+<lb n="c 5"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">بذلك</supplied> <supplied reason="lost" cert="high">عندي</supplied> 
+<lb n="d 1"/>  وبمثل ذلك <supplied reason="lost" cert="high">أشهد</supplied> 
+<lb n="d 2"/>  في التّأريخ المذكور وكتب <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بن</supplied> </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ø</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾašhada nī ʿīsà bnu ʾabī ăl faḍli bni maḫlūf:ini ăz zawǧu ăl musammà ʾaʿlā hu fī ṣiḥḥaẗi 
+ <lb n="2"/>ʿaqli hi wa marīri ǧismi hi wa ṯubūti fahmi hi ʾanna li zawǧati hi ḫibāʾa ĭbnaẗi ḫalīfaẗa 
+ <lb n="3"/>fī ḏimmaẗi wālidi waliyyi ʾabī hā mina ăl ʿayni ăl miṣriyyi ḫamsaẗ:an wa ʿišrīna dīnār:an ǧamīʿa muʾaḫḫari 
+ <lb n="4"/>ṣadāqi hā ʿalay hi ăl musaṭṭari ʾaʿlā hu fa šahidtu ʿalay hi bi ḏālika fī taʾrīḫi hi wa huwa 
+ <lb n="5"/>ăṯ ṯāliṯa ʿašara mina ăl muḥarrami min sanaẗi sabʿa ʿašraẗa wa sitti miʾaẗ:in 
+ <lb n="6"/>wa kataba ʾismāʿīlu bnu muḥammad:ini bni ʾismāʿīla fī taʾrīḫi hi 
+ <lb n="7"/>šuhida ʿinda ī bi ḏālika 
+ <lb n="8"/>wa bi miṯli ḏālika ʾašhadu 
+ <lb n="9"/>wa kataba ʾismāʿīlu bnu ʿabdi ăl ʿazīzi 
+ <lb n="10"/>bni ʿīsà fī taʾrīḫi hi 
+ <lb n="11"/>wa huwa *** fī ăṯ ṯāliṯa ʿašara mina ăl muḥarrami 
+ <lb n="12"/>sanaẗa sabʿaẗa ʿašara wa sitti miʾaẗ:in 
+ <lb n="13"/>šuhida bi ḏālika ʿind ī 
+ <lb n="14"/>wa bi miṯli ḏālika ʾašhadu wa kataba 
+ <lb n="15"/>muḥammadu bnu riḍwāna bni ʿabdi ăr raḥmāni 
+ <lb n="16"/>bi taʾrīḫi ăṯ ṯāliṯa ʿašara mina ăl muḥarrami sanaẗa 
+ <lb n="17"/>sabʿa ʿašraẗa wa sitti miʾaẗ:in 
+ <lb n="18"/>šuhida bi ḏālika ʿind ī 
+ <lb n="19"/>wa bi miṯli ḏālika ʾašhadu 
+ <lb n="20"/>fī ăt taʾrīḫi ăl maḏkūri wa kataba kutiba *** ø bnu ø *** ø 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Der obengenannte Ehemann ʿĪsā b. Abī ʾl-Faḍl b. Maḫlūf hat mich im (Zustande) seiner (vollen)
+			<lb n="2"/>
+		geistigen [Gesundheit] und körperlichen Frische und der Festigkeit seines Verstandes bezeugen lassen, daß als Eigentum seiner Ehefrau Ḫibāʾ bint Ḫalīfa
+			<lb n="3"/>
+		(noch) fünfundzwanzig Dīnāre ägyptischen [Go]ldgeldes sich in der Ob[hut ihres Vaters] befinden als Gesamtrest
+			<lb n="4"/>
+		ihres ihm obliegenden, obengenannten Ehegeschenks. Dessen bin ich Zeugefür ihn an [seinem Datum, das ist]
+			<lb n="5"/>
+		der dr[ei]ze[hnte] Muḥarram des Jahres sechs[hundert]siebzehn.
+			<lb n="6"/>
+		Geschrieben hat (es) Ismāʿīl b. Muḥammad b. Ismāʿī[l an seinem Da]tum.
+			<lb n="7"/>
+		Dies ist von mit bezeugt worden.
+			<lb n="8"/>
+		Ich bezeuge dasselbe.
+			<lb n="9"/>
+		Geschrieben hat (es) Ismāʿīl b. ʿAbdalʿazīz
+			<lb n="10"/>
+		b. ʿĪsā [an] seinem Datum,
+			<lb n="11"/>
+		das [ist] d[er d]reizehnte Muḥarram
+			<lb n="12"/>
+		des Jahres sechs[hundert]sie[b]zehn.
+			<lb n="13"/>
+		Dies ist vor mir [bezeugt worden]. 
+			<lb n="14"/>
+		Ich bezeuge dasselbe. Geschrieben hat (es)
+			<lb n="15"/>
+		Muḥammad b. Riḍwān b. ʿAbdarraḥmān
+			<lb n="16"/>
+		am Datum des d[r]eizehnten Muḥarra[m] des Jahres
+			<lb n="17"/>
+		[sechshundertsiebzehn].
+			<lb n="18"/>
+		[Dies ist vor mir bezeugt worden].
+			<lb n="19"/>
+		[Ich bezeuge] dasselbe
+			<lb n="20"/>
+		an dem erwähnten Datum. Geschrieben hat (es) [N. N. b. N. N.].
+</ab></div>
+</body>
+</text>
+</TEI>

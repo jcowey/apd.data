@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1925" xml:id="Grohmann_APEL_426" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 426</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_426</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169662</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="14" unit="character" /> 
+<lb n="2"/>  في لحم درهم 
+<lb n="3"/>  وفي صابون نصف 
+<lb n="4"/>  وفي كسبرة 
+<lb n="5"/>  نصف دانق 
+<lb n="6"/>  وإليه اليوم 
+<lb n="7"/>  درهم إلّا نصف دانق 
+<lb n="8"/>  فذلك ثمان الدّراهم 
+<lb n="9"/>  ودانق 
+<lb n="10"/>  جعلت فداك 
+<lb n="11"/>  وأطال اللّه بقاك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>************** 
+ <lb n="2"/>fī laḥm:in dirham:un 
+ <lb n="3"/>wa fī ṣābūn:in niṣf:un 
+ <lb n="4"/>wa fī kusbaraẗ:in 
+ <lb n="5"/>niṣfu dāniq:in 
+ <lb n="6"/>wa ʾilay hi ăl yawma 
+ <lb n="7"/>dirham:un ʾillā niṣfa dāniq:in 
+ <lb n="8"/>fa ḏālika ṯamāni ăd darāhimi 
+ <lb n="9"/>wa dāniq:un 
+ <lb n="10"/>ǧuʿiltu fidāʾa ka 
+ <lb n="11"/>wa ʾaṭāla ăl lāhu baqāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		for meat one dirham,
+			<lb n="3"/>
+		and for soap a half (dirham),
+			<lb n="4"/>
+		and for coriander
+			<lb n="5"/>
+		a half dâniq
+			<lb n="6"/>
+		and to him to day
+			<lb n="7"/>
+		one dirham less half a dâniq.
+			<lb n="8"/>
+		That makes eight dirhams
+			<lb n="9"/>
+		and one dâniq.
+			<lb n="10"/>
+		May I be made your ransom,
+			<lb n="11"/>
+		and may God prolong your life.
+</ab></div>
+</body>
+</text>
+</TEI>

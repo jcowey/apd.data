@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2615" xml:id="Grohmann_Mird_46" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 46</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_46</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="verso 1"/>  أبقاك اللّه ابعث إلی قدّاحة وعجّل بها 
+ <lb n="verso 2"/>  وما كنت كتبت إليك به وصلّی <supplied reason="lost" cert="high">اللّه</supplied> علی 
+ <lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 4"/>  بسم الأب والابن وروح القدس 
+ <lb n="recto 1 address"/>  لأبونا أنبا مجنلّة من حبّان بن يوسف 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="2"/>ʾabqā ka ăl lāhu ĭbʿaṯ ʾilay ya qaddāḥaẗ:an wa ʿaǧǧil bi hā 
+ <lb n="3"/>wa mā kuntu katabtu ʾilay ka bi hi wa ṣallà ăl lāhu ʿalà 
+ <lb n="4"/>*** 
+ <lb n="5"/>bi smi ăl ʾabi wa ăli ĭbni wa rūḥi ăl qudsi 
+ <lb n="6"/>li ʾabū nā ʾanbā maǧnillaẗa min ḥabbāna bni yūsufa 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="2"/>
+ 	  May God preserve you. Send me the flint (?) in all haste,
+ 	  ... Sende mir einen Feuerstein, und zwar schnellstens,
+		 <lb n="3"/>
+ 	  sowie das, weswegen ich Dir bereits geschrieben hatte!
+ 	  while I had not written to you therefor. And may [God&#039;s] blessing be upon
+		 <lb n="4"/>
+ 	  [decayed]
+		 <lb n="5"/>
+ 	  In the name of the Father and the Son and the Holy Ghost.
+		 <lb n="6"/>
+ 	  To our Father Anbā Magnille from Ḥabbān (i)bn Yūsuf.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

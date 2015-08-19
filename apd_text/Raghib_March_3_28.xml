@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="690" xml:id="Raghib_March_3_28" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 28</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_28</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106771</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">پسم</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">الرحمن</supplied> <supplied reason="lost" cert="high">الرّحپـ</supplied>ـم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">اكرمك</supplied> <supplied reason="lost" cert="high">ألله</supplied> <supplied reason="lost" cert="high">وهپاك</supplied> <supplied reason="lost" cert="high">كرامـ</supplied>ـپه ڤى الدپپا والاحره پرحمپه وصل الى 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">كتابك</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>ثواب بعـ<supplied reason="lost" cert="high">ـت</supplied> شقّـ<supplied reason="lost" cert="high">ـتيـ</supplied>ـن ولفا<supplied reason="lost" cert="high">فة</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـ<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <gap reason="illegible" extent="4" unit="character" /> هدا واپما رحل من <gap reason="illegible" precision="low" extent="3"/> حصر <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" />ـا وإنّما كان فيها ثوبين <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> تبعث <app type="BL"><lem resp="APD">بها </lem><rdg resp="APD">بما</rdg></app> <app type="BL"><lem resp="APD">الجمعة </lem><rdg resp="APD">أطلبه</rdg></app> الـ<gap reason="illegible" extent="2" unit="character" />ـا<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">لـ</supplied>ـقد أحببت 
+<lb n="recto 7"/>  <gap reason="illegible" extent="4" unit="character" /> كرهپ ان <unclear reason="undefined" cert="high">پڤوپپى</unclear> يپعه والـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">المڤاپع</supplied> <supplied reason="lost" cert="high">ا</supplied>لطارد والمڤپعه الپولپه <gap reason="illegible" extent="5" unit="character" /> دلك 
+<lb n="verso 1"/>  لأبي هريرة أكرمه اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">حعڤر</supplied> <supplied reason="lost" cert="high">پن</supplied> احمد <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+<lb n="verso 3"/>  الباقي رددت إليه المقانع الطّارد والمقنعة <supplied reason="lost" cert="high">النّوليّة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu wa habā ka karāmata hu fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi waṣala ʾilay ya 
+ <lb n="3"/>kitābu ka *** ʾaṯwāb:in biʿtu šuqqatayni wa lifāfaẗ:an bi **** *** 
+ <lb n="4"/>**** hāḏā wa ʾinnamā raǧul:un min *** ḥaḍara **** 
+ <lb n="5"/>*** ********ʾ wa ʾinnamā kāna fī hā ṯawbayni **** 
+ <lb n="6"/>*** tabʿaṯ bi hā mā ăl ʾaṭlubu ǧumʿaẗa hu ăl **ʾ* ** la qad ʾaḥbabtu 
+ <lb n="7"/>**** karihtu ʾan yafūta nī bayʿu hu wa ăl ***** ****** 
+ <lb n="8"/>*** ăl maqāniʿ ăṭ ṭārid wa ăl miqnaʿaẗ ăn nūliyyaẗ ***** ḏālika 
+ <lb n="9"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu *** 
+ <lb n="10"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="11"/>ăl bāqiyu radadtu ʾilay hi ăl maqāniʿa ăṭ ṭārida wa ăl miqnaʿaẗa ăn nūliyyaẗa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, clément et miséricordieu]x!
+			<lb n="2"/>
+		[Que Dieu t&#039;honore et t&#039;accorde] Sa [magnanimité] dans ce monde et dans l&#039;autre par Sa miséricorde! Ta lettre m&#039;est parvenue
+			<lb n="3"/>
+		[....] pièces d&#039;étoffe. J&#039;ai vendu deux šiqqa-s et une lifā[fa pour] .... [....]
+			<lb n="4"/>
+		[....] Ceci. Seulement un homme de ... est venu .. [..]
+			<lb n="5"/>
+		[....].... Mais elle contenait deux pièces d&#039;étoffe ....
+			<lb n="6"/>
+		[....] l&#039;envoyer la semaine .... J&#039;ai aimé
+			<lb n="7"/>
+		[....] J&#039;ai répugné à manquer (?) sa vente .... [....]..
+			<lb n="8"/>
+		[.... les voiles] ṭārid et le voile nūlī [....] ceci
+			<lb n="9"/>
+		À Abū Hurayra - que Dieu l&#039;honore! [
+			<lb n="10"/>
+		[Ǧaʿfar b.] Aḥmad [b. ʿAbd al-Muʾmin].
+			<lb n="11"/>
+		Le restant. Je lui ai renvoyé les voiles ṭārid et le voile [nūlī].
+</ab></div>
+</body>
+</text>
+</TEI>

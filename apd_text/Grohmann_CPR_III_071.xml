@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2578" xml:id="Grohmann_CPR_III_071" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR III 1 071</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_071</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">يزيد</supplied> <supplied reason="lost" cert="high">أمير</supplied> <supplied reason="lost" cert="high">المو</supplied>مپپن أصلحه <supplied reason="lost" cert="high">اللّه</supplied> 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ا</supplied>ثنتن وما<supplied reason="lost" cert="high">ئة</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>*** 
+ <lb n="5"/>*** 
+ <lb n="6"/>ʿabdu ăl lāhi yazīdu ʾamīru ăl muʾminīna ʾaṣlaḥa hu ăl lāhu 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>fī sanaẗi ĭṯnatayni wa miʾaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

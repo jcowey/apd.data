@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1577" xml:id="Diem_Berl_II_63" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 63</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_63</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169335</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّ<supplied reason="lost" cert="high">حمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أطال اللّه بقاك وأدا<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">عزّك</supplied> <supplied reason="lost" cert="high">وتأييدك</supplied> <supplied reason="lost" cert="high">وسعادتك</supplied> 
+<lb n="3"/>  وجعلني من السّو <supplied reason="lost" cert="high">فداك</supplied> 
+<lb n="4"/>  سبحان اللّه العظيم <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">علمكم</supplied> </lem><rdg resp="APD">أعرفكم </rdg><rdg resp="APD">أخبرك</rdg></app> <supplied reason="lost" cert="high">أنّي</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">خار</supplied> </lem><rdg resp="APD">صنع </rdg><rdg resp="APD">بارك</rdg></app> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="5"/>  لكم بلا طعام ولا شرا<supplied reason="lost" cert="high">ب</supplied> <supplied reason="lost" cert="high">فأسلكم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  بحقّي عليكم ألا تفضّلـ<supplied reason="lost" cert="high">ـتم</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">واپڤدپم</supplied> </lem><rdg resp="APD">أن</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بإنفاذ </rdg><rdg resp="APD">تنفذوا</rdg></app> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">پوحروه</supplied> 
+<lb n="7"/>  ساعة واحدة إن <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="8"/>  أطال اللّه بقاك و<supplied reason="lost" cert="high">أدام</supplied> <supplied reason="lost" cert="high">عزّك</supplied> <supplied reason="lost" cert="high">وتأييدك</supplied> <supplied reason="lost" cert="high">وسعادتك</supplied> 
+<lb n="9"/>  وجعلني مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">السّو</supplied> <supplied reason="lost" cert="high">فداك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka 
+ <lb n="3"/>wa ǧaʿala nī mina ăs sūʾi fidāʾa ka 
+ <lb n="4"/>subḥāna ăl lāhi ăl ʿaẓīmi ʾuʿlimu ʾuʿrifu ʾuḫbiru kum ka ʾan nī ḫāra ṣanaʿa bāraka ăl lāhu 
+ <lb n="5"/>la kum bi lā ṭaʿām:in wa lā šarāb:in fa ʾasalu kum *** 
+ <lb n="6"/>bi ḥaqq ī ʿalay kum ʾalā tafaḍḍaltum ø ʾan wa bi ʾanfaḏtum ʾinfāḏi tunfiḏū ăl *** wa lā tuʾaḫḫirū hu hā 
+ <lb n="7"/>sāʿaẗ:an wāḥidaẗ:an ʾin šāʾa ăl lāhu 
+ <lb n="8"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka 
+ <lb n="9"/>wa ǧaʿala nī mina ăs sūʾi fidāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des] Ba[rmherzigen und Gnädigen!]
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse [Dein Ansehen, Deine Unterstützung und Dein Glück andauern]
+			<lb n="3"/>
+		und möge mich als [Dein Lösegeld] von dem Übel geben!
+			<lb n="4"/>
+		Preis sei Gott, dem Allmächtigen! [Ich teile Euch mit, daß ich - Gott sei]
+			<lb n="5"/>
+		Euch [geneigt] - nichts zu essen und zu trinken habe. [Ich bitte Euch deshalb - - - ]
+		Gott] erweise Euch Wohltaten ...
+		Gott segne] Euch ...
+			<lb n="6"/>
+		bei meinem Anspruch Euch gegenüber, so freundlich zu sein, [das - - - zu übersenden. Verzögert es]
+			<lb n="7"/>
+		keinen Augenblick, so [Gott will!]
+			<lb n="8"/>
+		Gott lasse Dich lange leben, [lasse Dein Ansehen, Deine Unterstützung und Dein Glück andauern]
+			<lb n="9"/>
+		und möge [mich als Dein Lösegeld von dem Übel] geben!
+</ab></div>
+</body>
+</text>
+</TEI>

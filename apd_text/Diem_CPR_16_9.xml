@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1121" xml:id="Diem_CPR_16_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168977</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  لمولي أبي إدريس عافاه اللّه 
+<lb n="3"/>  من سويد بن عبد العزيز مولاه سلم 
+<lb n="4"/>  عليك فإنّي أحمد إليك اللّه الّذي لا إله <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="5"/>  أمّا بعد أصلحك اللّه وحفظك وأتـ<supplied reason="lost" cert="high">ـمّ</supplied> <supplied reason="lost" cert="high">نعمته</supplied> 
+<lb n="6"/>  عليك في الأمور كلّـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا بـ<supplied reason="lost" cert="high">ـالدّنيا</supplied> <supplied reason="lost" cert="high">والآخر</supplied>ة 
+<lb n="7"/>  أخبرك أمتـ<supplied reason="lost" cert="high">ـع</supplied> اللّه بك أن تكتب لي إلى ا<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="8"/>  صاحبك بموپه فدّن ما<supplied reason="lost" cert="high">ئـ</supplied>ـة <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">قر</supplied>يته 
+<lb n="9"/>  حقوق وأن تحسن إلي أيضا تكتب 
+<lb n="10"/>  لي إلي عيسى بن عفيف <supplied reason="omitted" cert="high">بمونة</supplied> فدّن ما<supplied reason="lost" cert="high">ئة</supplied> 
+<lb n="11"/>  أيضا في قريته حـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـى أسل اللّه 
+<lb n="12"/>  لمولي جـ<supplied reason="lost" cert="high">ـمـ</supplied>ـيل حـ<supplied reason="lost" cert="high">ـفـ</supplied>ـظه <gap reason="illegible" extent="2" unit="character" />ـه <gap reason="illegible" extent="2" unit="character" /> پپڤپا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  حو<gap reason="illegible" extent="2" unit="character" /> فإن پا<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">والسّلم</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li mawlà ya ʾabī ʾidrīsa ʿāfā hu ăl lāhu 
+ <lb n="3"/>min suwaydi bni ʿabdi ăl ʿazīzi mawlā hu salām:un 
+ <lb n="4"/>ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu ʾaṣlaḥa ka ăl lāhu wa ḥafiẓa ka wa ʾatamma niʿmata hu 
+ <lb n="6"/>ʿalay ka fī ăl ʾumūri kulli hā bi ăd dunyā wa ăl ʾāḫiraẗi ø bi raḥmati ø hi 
+ <lb n="7"/>ʾuḫbiru ka ʾamtaʿa ăl lāhu bi ka ʾan taktuba l ī ʾilà ʾ**** 
+ <lb n="8"/>ṣāḥibi ka bi maʾūnaẗi faddān:in miʾaẗ:in fī qaryaẗi hi 
+ <lb n="9"/>ḥuqūq wa ʾan tuḥsina ʾilay ya ʾayḍ:an taktubu 
+ <lb n="10"/>l ī ʾilà ʿīsà bni ʿafīf:in bi maʾūnaẗi faddān:in miʾaẗ:in 
+ <lb n="11"/>ʾayḍ:an fī qaryaẗi hi ḥattà ʾasala ăl lāha 
+ <lb n="12"/>li mawlā ya ǧamīla ḥifẓi hi ** hu ** BBFBā**** 
+ <lb n="13"/>ḥw** fa ʾinna Bā** *** *** *** wa ø ăs ø salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		An meinen Herrn Abū Idrīs - Gott erhalte ihn gesund - 
+			<lb n="3"/>
+		von Suwayd b. ʿAbdalʿazīz, seinem Klienten. Friede sei
+			<lb n="4"/>
+		mit Dir, denn ich lobe Dir Gott, außer dem es keinen Gott gibt.
+			<lb n="5"/>
+		Aber danach - Gott erhalte Dich gesund, beschütze Dich und voll[ende seine Gnade]
+			<lb n="6"/>
+		in allen Angelegenheiten im [Diesseits und Jenseit]s an Dir -
+			<lb n="7"/>
+		teile ich Dir mit - \Gott/ gebe \an Dir/ Freude -: Schreibe bitte für mich an - - -, 
+			<lb n="8"/>
+		Deinen Partner, wegen einer Verpflegungsleistung von einhundert Faddān in seinem Dorf
+			<lb n="9"/>
+		(als?) Anrecht, und tu mir ferner den Gefallen,
+			<lb n="10"/>
+		für mich an ʿĪsā b. ʿAfīf &lt;wegen einer Verpflegungsleistung von&gt; ebenfalls einhundert Faddān
+			<lb n="11"/>
+		in seinem Dorf zu schreiben, so daß ich Gott bitten kann,
+			<lb n="12"/>
+		meinen Herrn gut zu beschützen - - -
+			<lb n="13"/>
+		- - - denn - - -
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1497" xml:id="Diem_Berl_II_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169273</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="10" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكفا</supplied>ك ما همّك و<gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپ ممّا ساپى <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كنت</supplied> <supplied reason="lost" cert="high">قد</supplied> كتبت <supplied reason="lost" cert="high">إ</supplied>ليك أصلحك اللّه <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أنّ</supplied> </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> حد لك فإنّي <gap reason="illegible" extent="4" unit="character" />ـا <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أ</supplied>ن </lem><rdg resp="APD">إنّ</rdg></app> النّبطي الّذي أخذ<supplied reason="lost" cert="high">ته</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فأحـ</supplied>ـب أمتع اللّه بك أن تكتب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> النّبطي فرد علي أحدهما <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">ن</supplied> </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> و<gap reason="illegible" precision="low" extent="3"/> وجزاك خيرا انـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الرّ</supplied>كوب لا تدعن الكتاب إلي ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الـ</supplied>ـكتاب إلينا فإنّي إن كنت <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <supplied reason="lost" cert="high">ودفع</supplied> <supplied reason="lost" cert="high">المكروه</supplied> عنك وعنّا وأكرم نزلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <supplied reason="lost" cert="high">ولا</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">آخذ</supplied> </lem><rdg resp="APD">أستخرج</rdg></app> شي في هذا الطّبل من أ<supplied reason="lost" cert="high">حـ</supplied>ـد يصلني حتّا <supplied reason="lost" cert="high">أبعث</supplied> <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="14"/>  <supplied reason="lost" cert="high">والسّلم</supplied> <supplied reason="lost" cert="high">عليـ</supplied>ـك ورحمت اللّه وبركته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ********** *** 
+ <lb n="2"/>*** wa kafā ka mā hamma ka wa ***** *** 
+ <lb n="3"/>***B mimmā sāʾa nī **** 
+ <lb n="4"/>*** kuntu qad katabtu ʾilay ka ʾaṣlaḥa ka ăl lāhu ʾan ʾanna *** *** 
+ <lb n="5"/>*** **** ḥd la ka fa ʾin nī ****ʾ **** 
+ <lb n="6"/>*** ʾanna ʾinna ăn nabaṭiyya ăllaḏī ʾaḫaḏtu hu *** 
+ <lb n="7"/>*** fa ʾuḥibbu ʾamtaʿa ăl lāhu bi ka ʾan taktuba *** 
+ <lb n="8"/>*** ** ăn nabaṭiyy fa radda ʿalay ya ʾaḥadu humā ʾan ʾanna *** *** 
+ <lb n="9"/>*** wa *** wa ǧazā ka ḫayr:an ʾn*** *** 
+ <lb n="10"/>*** ăr rakūb rukūb lā tadaʿanna ăl kitāba ʾilay ya ʾ*** *** 
+ <lb n="11"/>*** ăl kitāb ʾilay nā fa ʾin nī ʾin kunta kuntu ***** *** 
+ <lb n="12"/>wa dafaʿa ăl makrūha ʿan ka wa ʿan nā wa ʾakrama nazla ka *** 
+ <lb n="13"/>wa lā ʾāḫuḏu ʾastaḫriǧu šayʾ fī hāḏā ăṭ ṭabli min ʾaḥad:in yaṣilu nī ḥattā ʾabʿaṯa bi hi ʾilay ka ʾin šāʾa ăl lāhu 
+ <lb n="14"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa barakātu hu	 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[- - - und Er erspare] Dir, was Dir Sorge bereiten könnte, und [- - -]
+			<lb n="3"/>
+		[- - -], eine Sache, die mich bekümmert hat [- - -]
+			<lb n="4"/>
+		[- - - ich hatte] Dir geschrieben - Gott erhalte Dich wohlbehalten -, [daß - - -]
+			<lb n="5"/>
+		[- - -] - - - Dir, denn ich - - - [- - -]
+			<lb n="6"/>
+		[- - - da]ß der Eingeborene, den [ich] festgenommen [habe - - -]
+			<lb n="7"/>
+		[- - -. Deshalb möchte ich g]ern - Gott gebe (noch lange) Freude an Dir -, daß Du schreibst [- - -]
+			<lb n="8"/>
+		[- - -] - - - den Eingeborenen. Da erwiderte mir einer der beiden, d[aß - - -]
+			<lb n="9"/>
+		[- - -] und [- - -] und Er vergelte es Dir mit Gutem -  - - - [- - -]
+			<lb n="10"/>
+		[- - - zu rei]ten. Unterlaß es nicht , mir zu schreiben [- - -]
+			<lb n="11"/>
+		[- - -] uns zu schreiben, denn mit mir ist es so: Wenn Du - - - [- - -]  
+			<lb n="12"/>
+		[und Er wehre das Unangenehme] von Dir und uns [ab] und bereite Dir (im Jenseits) eine ehrenvolle Unterkunft [- - -]
+			<lb n="13"/>
+		[Wenn ich] bei dieser Steuerrate von jemandem, der zu mir kommt, etwas [einnehme (?)], [werde ich es Dir] sofort [übersenden, so Gott will.]
+			<lb n="14"/>
+		[Der Friede sei auf Di]r und Gottes Gnade und Segnungen!
+</ab></div>
+</body>
+</text>
+</TEI>

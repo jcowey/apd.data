@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="708" xml:id="Grohmann_EBU_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106789</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم الـ<supplied reason="lost" cert="high">ـلّـ</supplied>ـه الرّحمن الرّحيم 
+<lb n="2"/>  قد جعلت لك يأبا علي حسن 
+<lb n="3"/>  في أرزاقك لشهرين دينارين لحفظ 
+<lb n="4"/>  ما يدخل من حق غسل الصّوف ببرك 
+<lb n="5"/>  دلجة لخراج سنة أربع وستّين ومائتن وكتب 
+<lb n="6"/>  جريج بن يحنّس بخطّه 
+<lb n="7"/>  وأوّل أيّامك <app type="BL"><lem resp="APD">ثلثة </lem><rdg resp="Diem">ثمنية</rdg></app> أيّام خلون 
+<lb n="8"/>  من بوپه من شهور القبط 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qad ǧaʿaltu la ka yā ʾabā ʿaliyy:in ḥasanu 
+ <lb n="3"/>fī ʾarzāqi ka li šahrayni dīnārayni li ḥifẓi 
+ <lb n="4"/>mā yadḫulu min ḥaqqi ġasli ăṣ ṣūfi bi biraki birki 
+ <lb n="5"/>dalǧaẗa li ḫarāǧi sanaẗi ʾarbaʿ:in wa sittīna wa miʾatayni wa kataba 
+ <lb n="6"/>ǧurayǧu bnu yuḥannisa bi ḫaṭṭi hi 
+ <lb n="7"/>wa ʾawwalu ʾayyāmi ka ṯalāṯaẗu ṯamāniyaẗu ʾayyām:in ḫalawna 
+ <lb n="8"/>min baʾuniha min šuhūri ăl qibṭi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im] Namen Go[tt]es, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Ich habe Dir bereits, o Abū ʿAlī Ḥasan,
+			<lb n="3"/>
+		für Deinen Lebensunterhalt für zwei Monate zwei Dīnāre bestimmt zur Beaufsichtigung
+			<lb n="4"/>
+		dessen, was aus der Gebühr der Wollwäscherei in Birk
+		... Gebühr für das Waschen von Wolle in den Teichen
+			<lb n="5"/>
+		Dalǧa für die Steuer des Jahres zweihundertvierundsechzig eingeht; und
+		von Dalǧa ...
+			<lb n="6"/>
+		Ǧuraiǧ b. Yoḥannes hat (es) mit seinem Schriftzuge geschrieben.
+			<lb n="7"/>
+		Und Dein Anfangstermin ist (die Zeit) als drei Tage verstrichen waren
+			<lb n="8"/>
+		vom Payni (Ba&#039;une) von den Monaten der Kopten.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="498" xml:id="Raghib_March_2_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106675</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أكرمك اللّه كرامة من تولّاك وكفاه وأعانه وحفظه ووفّقه وسدّده ورحمه كتابي إليك وأنا ومن قبلي بحال جميل وستر واللّه محمود 
+<lb n="recto 3"/>  مشكور لا إله إلّا هو وصلّى اللّه على محمّد قد <sic n="superfluous">عادوپ</sic> <supplied reason="omitted" cert="high">عاودپ</supplied> الشّيخ أكرمه اللّه في ما كنت كتبت إلي به وجرا بيني وبـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـنه كلام 
+<lb n="recto 4"/>  لا أعلم إلّا أنّي حملت عليه فيه لعلمي بمذاهبه الّتي أحب سترها طلب شأنك فيمن يپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر به ويصنع اللّه له 
+<lb n="recto 5"/>  وكان من قوله إنّك تعلم أنّي لا أخرج لك من رأي وأنا أقبل مشورتك وأسارع إلى مسرّ<supplied reason="lost" cert="high">تـ</supplied>ـك فاعمل بالّذي ترى 
+<lb n="recto 6"/>  لي ولهم قد علم ذلك حسن أبو علي أكرمه اللّه وما أشك أنّه قد كتب إليهم وهذا الشّهر أمشير بارد فأرجوا أن تقدم 
+<lb n="recto 7"/>  إن شا اللّه وأرجوا أن تصير إلى ما تحب ولا تخالفني إن شا اللّه إنّي حريص على سرورك وسرور من يسرّك سروره 
+<lb n="recto 8"/>  وقد كتب إلي بن عمرو بن ثور أبو صلح أكرمه اللّه بأنّه انتظرك لشرا الثّوب الشّطوي فأبطيت عليه 
+<lb n="recto 9"/>  وأنا أحببت عنايتك لتحرّك أبا صلح أكرمه اللّه <app type="BL"><lem resp="APD">ليعجله </lem><rdg resp="“AK”">لتعجّله</rdg></app> فإنّه ربّما مد في الحاجة فلا تدع تعجيلها 
+<lb n="recto 10"/>  مع المكاري ولا توحرها إن شا اللّه 
+<lb n="recto 11"/>  أكرمك اللّه وحفظك وتمّم نعمه عليك وأعانك وحفظك ورحمك وإيّانا برحمته 
+<lb n="verso 1 right"/>  لأبي الحسن أكرمه اللّه 
+<lb n="verso 2 right"/>  أحمد بن محمّد بن عيّاش 
+<lb n="verso 1 left"/>  من جعفر بن أحمد بن عبد المومن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu karāmaẗa man tawallā ka wa kafā hu wa ʾaʿāna hu wa ḥafiẓa hu wa waffaqa hu wa saddada hu wa raḥima hu kitāb ī ʾilay ka wa ʾanā wa man qibal ī bi ḥāl:in ǧamīl:in wa sitr:in wa ăl lāhu maḥmūd:un 
+ <lb n="3"/>maškūr:un lā ʾilāha ʾillā huwa wa ṣallà ăl lāhu ʿalà muḥammad:in qad ʿāwadtu ăš šayḫa ʾakrama hu ăl lāhu fī mā kunta katabta ʾilay ya bi hi wa ǧarā bayn ī wa bayna hu kalām:un 
+ <lb n="4"/>lā ʾaʿlamu ʾillā ʾan nī ḥamaltu ʿalay hi fī hi li ʿilm ī bi maḏāhibi hi ăllatī ʾuḥibbu sitra hā ṭalaba šaʾna ka fī man yB**r bi hi wa yaṣnaʿu ăl lāhu la hu 
+ <lb n="5"/>wa kāna min qawli hi ʾinna ka taʿlamu ʾan nī lā ʾaḫruǧu la ka min raʾy:in wa ʾanā ʾaqbalu mašwarata ka wa ʾusāriʿu ʾilà masarrati ka fa ĭʿmal bi ăllaḏī tarà 
+ <lb n="6"/>l ī wa la hum qad ʿalima ḏālika ḥasan:un ʾabū ʿaliyy:in ʾakrama hu ăl lāhu wa mā ʾašukku ʾanna hu qad kataba ʾilay him wa hāḏā ăš šahru ʾamšīru bārid:un fa ʾarǧū ʾan taqdama 
+ <lb n="7"/>ʾin šāʾa ăl lāhu wa ʾarǧū ʾan taṣīra ʾilà mā tuḥibbu wa lā tuḫālifa nī ʾin šāʾa ăl lāhu ʾin nī ḥarīṣ:un ʿalà surūri ka wa surūri man yasurru ka surūru hu 
+ <lb n="8"/>wa qad kataba ʾilay ya bnu ʿamri bni ṯawr:in ʾabū ṣāliḥ:in ʾakrama hu ăl lāhu bi ʾanna hu ĭntaẓara ka li širāʾi ăṯ ṯawbi ăš šaṭawiyyi fa ʾabṭayta ʿalay hi 
+ <lb n="9"/>wa ʾanā ʾaḥbabtu ʿināyata ka li tuḥarrika ʾabā ṣāliḥ:in ʾakrama hu ăl lāhu li tuʿaǧǧila yaʿǧala hu fa ʾinna hu rubbamā madda fī ăl ḥāǧaẗi fa lā tadaʿ taʿǧīla hā 
+ <lb n="10"/>maʿa ăl mukārī wa lā tuʾaḫḫir hā ʾin šāʾa ăl lāhu 
+ <lb n="11"/>ʾakrama ka ăl lāhu wa ḥafiẓa ka wa tammama niʿama hu ʿalay ka wa ʾaʿāna ka wa ḥafiẓa ka wa raḥima ka wa ʾiyyā nā bi raḥmati hi 
+ <lb n="12"/>li ʾabī ăl ḥasani ʾakrama hu ăl lāhu 
+ <lb n="13"/>ʾaḥmada bni muḥammadi bni ʿayyāša 
+ <lb n="14"/>min ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;honneur (dont jouissent) ceux qu&#039;Il secourt, soulage, aide, garde, seconde, assiste et prend en miséricorde! Je t&#039;écris alors que moi et les miens sont en bel état et protection. Dieu soit loué et
+			<lb n="3"/>
+		remercié, il n&#039;est de divinité que Lui et qu&#039;Il bénisse Muḥammad! J&#039;ai rappelé au šayḫ - que Dieu l&#039;honore! ce au sujet duquel tu m&#039;as écrit et nous avons eu une discussion.
+			<lb n="4"/>
+		Je sais seulement que j&#039;ai supporté (son orgueil) à ce sujet parce que je connais ses positions que je préfère dissimuler. Il s&#039;est enquis de toi [....] que Dieu le favorise!
+			<lb n="5"/>
+		Il a notamment dit que tu sais que je n&#039;abandonnerai pour toi aucune opinion. Moi, j&#039;accepte de te consulter et m&#039;empresse de te réjouir. Fais donc comme tu l&#039;entends
+			<lb n="6"/>
+		pour moi et pour eux. Ḥasan `Abū ʿAlī - que Dieu l&#039;honore!´ a appris cela. Je ne doute pas qu&#039;il leur a écrit. Ce mois d&#039;amšīr est froid. J&#039;espère que tu viendras,
+			<lb n="7"/>
+		si Dieu le veut! J&#039;espère que tu parviendras à ce que tu souhaites et que tu ne me contrarieras pas, si Dieu le veut! Je suis désireux de te réjouir et de réjouir ceux dont la joie te réjouit.
+			<lb n="8"/>
+		Ibn ʿAmr b. Ṯawr Abū Sāliḥ - que Dieu l&#039;honore! m&#039;a écrit qu&#039;il t&#039;a attendu pour acheter la pièce d&#039;étoffe de Šaṭā, mais que tu as tardé à venir auprès de lui.
+			<lb n="9"/>
+		J&#039;aimerais donc que tu prennes soin de secouer Abū Ṣāliḥ - que Dieu l&#039;honore! afin qu&#039;il s&#039;empresse (de l&#039;acheter). Peut-être laisse-t-il traîner la chose demandée. Ne manque donc pas de l&#039;envoyer rapidement
+			<lb n="10"/>
+		avec l&#039;ânier, sans retard, si Dieu le veut!
+			<lb n="11"/>
+		Que Dieu t&#039;honore et te garde, parachève Ses bienfaits envers toi et t&#039;aide, te garde et te prenne en miséricorde! Et que Sa miséricorde soit sur nous!
+			<lb n="12"/>
+		A Abū l-Ḥasan - que Dieu l&#039;honore!
+			<lb n="13"/>
+		Aḥmad b. Muḥammad b. ʿAyyāš.
+			<lb n="14"/>
+		De la part de Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+</ab></div>
+</body>
+</text>
+</TEI>

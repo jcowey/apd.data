@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="454" xml:id="Grohmann_TWAe_20" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 20</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_20</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106644</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّـه الرّحمن الرّحيم 
+<lb n="2"/>  نفّقنا أوّل يوم على القبّة 
+<lb n="3"/>  فى حملان الطّين وعجنه عمل يوم 
+<lb n="4"/>  أربعة من الأجرا 
+<lb n="5"/>  و<supplied reason="omitted" cert="high">الـ</supplied>ـيوم الثّاني بنّاوين وستّة 
+<lb n="6"/>  من الأجرا فى عمودين من طوب 
+<lb n="7"/>  ثم إنّي هدمتهـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا واشتريت 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" />دن </lem><rdg resp="see translation ‹zwei ...› “AK”">ـ <gap reason="illegible" extent="2" unit="character" />ين</rdg></app> بثلث دينر وبنا البنّا 
+<lb n="9"/>  <gap reason="illegible" extent="4" unit="character" /> مع أربعة من الأجرا 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>naffaqnā ʾawwala yawm:in ʿalà ăl qubbaẗi 
+ <lb n="3"/>fī ḥamlāni ăṭ ṭīni wa ʿaǧni hi ʿamala yawm:in 
+ <lb n="4"/>ʾarbaʿaẗ:an mina ăl ʾuǧarāʾi 
+ <lb n="5"/>wa ăl yawma ăṯ ṯāniya bannāwayni wa sittaẗ:an 
+ <lb n="6"/>mina ăl ʾuǧarāʾi fī ʿamūdayni min ṭūb:in 
+ <lb n="7"/>ṯumma ʾin nī hadamtu humā wa ĭštaraytu 
+ <lb n="8"/>**dn **ayni bi ṯulṯi dīnār:in wa banā ăl bannāʾu 
+ <lb n="9"/>**** maʿa ʾarbaʿaẗ:in mina ăl ʾuǧarāʾi 
+ <lb n="10"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+			<lb n="2"/>
+		Wir haben am ersten Tage für die Kuppel aufgewendet:
+			<lb n="3"/>
+		für Tragen und Kneten des Lehms, ein Tagwerk
+			<lb n="4"/>
+		vier Tagelöhner.
+			<lb n="5"/>
+		Und am zweiten Tage: zwei Maurer und sechs
+			<lb n="6"/>
+		Taglöhner für zwei Pfeiler aus Ziegeln,
+			<lb n="7"/>
+		dann habe ich sie abgerissen, und ich kaufte ein
+			<lb n="8"/>
+		zwei ...... für einen Dritteldīnār und der Maurer baute
+			<lb n="9"/>
+		eine ...... mit vier Taglöhnern
+			<lb n="10"/>
+</ab></div>
+</body>
+</text>
+</TEI>

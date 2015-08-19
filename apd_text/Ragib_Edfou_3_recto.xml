@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2330" xml:id="Ragib_Edfou_3_recto" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.RagibEdfou 3a</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Edfou_3_recto</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الـ<supplied reason="lost" cert="high">ـرّحيم</supplied> 
+ <lb n="2"/>  أطال اللّه بقاك وأدام عزّك <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">و</supplied>تأييدك وسلامتك وجعلني فد<supplied reason="lost" cert="high">اك</supplied> 
+ <lb n="4"/>  رقعتي إليك أعزّك اللّه وإلّا تحتشم ممّا أكتب 
+ <lb n="5"/>  به إليك لأنّي ما فعلت ذا قط 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> أعزّك اللّه أن تنفـ<supplied reason="lost" cert="high">ـعـني</supplied> وتبعث 
+ <lb n="7"/>  <supplied reason="lost" cert="high">إليّ</supplied> شي يصلح للمريض من بين 
+ <lb n="8"/>  جرّة عقيد أو شراب فإنّي ما 
+ <lb n="9"/>  <supplied reason="lost" cert="high">شـ</supplied>ـربته منذ أشهر ولكن وصف 
+ <lb n="10"/>  <supplied reason="lost" cert="high">لي</supplied> أن أتناول منه شي قليل لعل ينفعني اللّه به 
+ <lb n="11"/>  لو كان غيرك ما بذلت وجهي له 
+ <lb n="12"/>  بحيلة ولكن قلت أنّك مثل 
+ <lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> أطال اللّه بقاك وأدام 
+ <lb n="14"/>  عزّك وكرامتك وأتم نعمه 
+ <lb n="15"/>  عليك وصلّى اللّه على محمّد النّبي 
+ <lb n="16"/>  وعلى آله وسلّم كثيرا كثيرا 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka *** 
+ <lb n="3"/>wa taʾyīda ka wa salāmata ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="4"/>ruqʿat ī ʾilay ka ʾaʿazza ka ăl lāhu wa ʾillā taḥtašimu mimmā ʾaktubu 
+ <lb n="5"/>bi hi ʾilay ka liʾan nī mā faʿaltu ḏā qaṭṭu 
+ <lb n="6"/>*** ʾaʿazza ka ăl lāhu ʾan tanfaʿa nī wa tabʿaṯa 
+ <lb n="7"/>ʾilay ya šayʾ yaṣluḥu li l marīḍi min bayni 
+ <lb n="8"/>ǧarraẗi ʿaqīd:in ʾaw šarāb:in fa ʾin nī mā 
+ <lb n="9"/>šaribtu hu munḏu ʾašhur:in wa lākin wuṣifa 
+ <lb n="10"/>l ī ʾan ʾatanāwala min hu šayʾ qalīl laʿalla yanfaʿa nī ăl lāhu bi hi 
+ <lb n="11"/>law kāna ġayra ka mā baḏaltu waǧh ī la hu 
+ <lb n="12"/>bi ḥīlaẗ:in wa lākin qultu ʾanna ka miṯlu 
+ <lb n="13"/>*** ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma 
+ <lb n="14"/>ʿizza ka wa karāmata ka wa ʾatamma niʿama hu 
+ <lb n="15"/>ʿalay ka wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi 
+ <lb n="16"/>wa ʿalà ʾāli hi wa sallama kaṯīr:an kaṯīr:an 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément et miséricordieux!
+		 <lb n="2"/>
+ 	  Que Dieu prolonge ta durée, et perpétue ta considération ...,
+		 <lb n="3"/>
+ 	  ta force et ta santé! Puissé-je te servir de rançcon!
+		 <lb n="4"/>
+ 	  Mon billet t&#039;est adressé - que Dieu te considère! Allons, n&#039;aie pas honte de ce au sujet de quoi je t&#039;écris,
+		 <lb n="5"/>
+ 	  parce que je n&#039;ai jamais fait ceci.
+		 <lb n="6"/>
+ 	  ... - que Dieu te considère! - que tu me sois utile et m&#039;envoies
+		 <lb n="7"/>
+ 	  quelque chose qui convienne à un malade:
+		 <lb n="8"/>
+ 	  une jarre de sirop de raisin ou de boisson. Je n&#039;en
+		 <lb n="9"/>
+ 	  ai pas bu depuis des mois. Mais il m&#039;a été prescrit
+		 <lb n="10"/>
+ 	  d&#039;en prendre en petite quantité. Que Dieu m&#039;en fasse profiter!
+		 <lb n="11"/>
+ 	  Si c&#039;était quelqu&#039;un d&#039;autre, je n&#039;aurais abandonné ma dignité
+		 <lb n="12"/>
+ 	  sous aucun prétexte, mais j&#039;ai dit que tu étais comme
+		 <lb n="13"/>
+ 	  ... que Dieu prolonge ta durée, perpétue
+		 <lb n="14"/>
+ 	  ta considération, ton honneur, accomplisse Ses bienfaits
+		 <lb n="15"/>
+ 	  à ton égard! Que Dieu bénisse Muḥammad le prophète
+		 <lb n="16"/>
+ 	  et sa famille, qu&#039;Il répande sur eux la paix à foison!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1634" xml:id="Grohmann_APEL_177" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 177</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_177</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169389</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أشخص إلى ما قبلنا يحنّس ومسيس 
+<lb n="3"/>  ابني قير من ساقية <app type="BL"><lem resp="APD">تلاوة </lem><rdg resp="APD">تلاوة </rdg><rdg resp="APD">سلاوة</rdg></app> ولا ترخّص 
+<lb n="4"/>  لأحد منهم في الخلف إن شا اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾašḫiṣ ʾilà mā qibala nā yuḥannisa wa musīsa 
+ <lb n="3"/>ĭbnay qīra min sāqiyaẗi balāwaẗa talāwaẗa salāwaẗa wa lā turaḫḫiṣ 
+ <lb n="4"/>li ʾaḥad:in min hum fī ăl ḫalafi ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Bring before us Yoḥannes and Moses (Musîs),
+			<lb n="3"/>
+		the sons of Cyrus (Qîr), from Sâkiyat Balâwe, and do not make a concession
+			<lb n="4"/>
+		to either of them in respect to substitution, if God will.
+</ab></div>
+</body>
+</text>
+</TEI>

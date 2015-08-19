@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1765" xml:id="Prag_710" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 71</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_710</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169506</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 2"/>  ‮<gap reason="illegible" precision="low" extent="3"/>په من حساب إردبّين‬ 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">حساب</supplied> إردبّين وربع ويبة بدينر 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> إ<supplied reason="lost" cert="high">ر</supplied>دب ونصف 
+<lb n="recto 6"/>  ‮<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه وثلث وقيراط‬ 
+<lb n="recto 7"/>  <supplied reason="lost" cert="high">إردبّيـ</supplied>ـن من حساب إردبّين وثلث 
+<lb n="recto 8"/>  بدينر 
+<lb n="recto 9"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">حـ</supplied>ـساب إردبّين وثلث بدينر 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> في <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">التّواف</unclear> </lem><rdg resp="Diem">الدّكّان</rdg></app> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـاللّيثيّة كرب 
+<lb n="recto 12"/>  ‮<gap reason="illegible" extent="2" unit="character" />پ‬ 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> ونصف 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">نصـ</supplied>ـف وثلث 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كا</supplied>مل من <app type="BL"><lem resp="APD">الشّعير </lem><rdg resp="Diem">الشّعّار</rdg></app> 
+<lb n="recto 16"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـقمح <app type="BL"><lem resp="APD">بالصّغير </lem><rdg resp="Diem">بالصّغيرة</rdg></app> 
+<lb n="recto 17"/>  <gap reason="illegible" precision="low" extent="3"/> ااا 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> بن بيف إردب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> إسرائل إردب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> بمين فانة إردب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 4"/>  ‮<gap reason="illegible" precision="low" extent="3"/>ري أبو عجوة إردب <gap reason="illegible" precision="low" extent="3"/>‬ 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> إبرهيم إردب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> دقيوا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> يحنّس أنودة إردب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 8"/>  ‮<gap reason="illegible" extent="2" unit="character" />پ بن هرقلام إردب <gap reason="illegible" precision="low" extent="3"/>‬ 
+<lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/> قلي إردب <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***** 
+ <lb n="2"/>***Bh min ḥisābi ʾirdabbayni 
+ <lb n="3"/>min ḥisābi ʾirdabbayni wa rubʿi waybaẗ:in bi dīnār:in 
+ <lb n="4"/>*** 
+ <lb n="5"/>*** ʾirdabb wa niṣf 
+ <lb n="6"/>**Bh wa ṯulṯ wa qīrāṭ 
+ <lb n="7"/>ʾirdabbayni min ḥisābi ʾirdabbayni wa ṯulṯ:in 
+ <lb n="8"/>bi dīnār:in 
+ <lb n="9"/>min ḥisābi ʾirdabbayni wa ṯulṯ:in bi dīnār:in 
+ <lb n="10"/>*** fī ăt ăd tawāfi dukkāni 
+ <lb n="11"/>*** bi ăl layṯiyyaẗi karib kurab kurb 
+ <lb n="12"/>**B 
+ <lb n="13"/>*** wa niṣf 
+ <lb n="14"/>*** niṣf wa ṯulṯ 
+ <lb n="15"/>*** kāmil mina ăš šaʿīri šaʿʿāri 
+ <lb n="16"/>mina ăl qamḥi bi ăṣ ṣaġīri ṣaġīraẗi 
+ <lb n="17"/>*** ʾʾʾ 
+ <lb n="18"/>*** bn bīf:in ʾirdabb *** 
+ <lb n="19"/>*** ʾisrāʾil ʾirdabb *** 
+ <lb n="20"/>*** bamīn fānaẗa ʾirdabb *** 
+ <lb n="21"/>***ry ʾabū ʿaǧwaẗ:in ʾirdabb *** 
+ <lb n="22"/>*** ʾibrāhīm ʾirdabb *** 
+ <lb n="23"/>*** diqayū *** 
+ <lb n="24"/>*** yuḥannis ʾanūdaẗa ʾirdabb *** 
+ <lb n="25"/>**B bn hiraqlāma ʾirdabb *** 
+ <lb n="26"/>*** qalī ʾirdabb *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		].... in Berechnung von zwei Artaben
+			<lb n="3"/>
+		in Berechnung von zwei Artaben und einer Viertel-Waiba um einen Dīnār.
+			<lb n="4"/>
+			<lb n="5"/>
+		] eine und eine halbe A[rt]abe
+			<lb n="6"/>
+		]... und ein Drittel und ein Karat.
+			<lb n="7"/>
+		Zwei Artabe]n in Berechnung von zwei ein Drittel Artaben
+			<lb n="8"/>
+		um einen Dīnār
+			<lb n="9"/>
+		in Berech]nung von zwei ein Drittel Artaben um einen Dīnār.
+			<lb n="10"/>
+		für at-Tawāf (?)
+		im Laden
+			<lb n="11"/>
+		nach] der (Waiba des) al-Laiṯ Karib
+			<lb n="12"/>
+			<lb n="13"/>
+		] und eine halbe
+			<lb n="14"/>
+		eine ha]lbe und ein Drittel
+			<lb n="15"/>
+		Kā]mil an Gerste
+		... vom Händler der Gerste
+			<lb n="16"/>
+		an] Weizen nach der kleinen (Waiba).
+			<lb n="17"/>
+			<lb n="18"/>
+		] b. Bīf eine Artabe [
+			<lb n="19"/>
+		] ʾIsrāʾil eine Artabe [
+			<lb n="20"/>
+		] Bamīn Fāne eine Artabe [
+			<lb n="21"/>
+		]... Abū ʿAǧwah eine Artabe [
+			<lb n="22"/>
+		] Ibrahīm ein Artabe [
+			<lb n="23"/>
+		] Diqayū (?) [
+			<lb n="24"/>
+		] Yoḥannes Anūde eine Artabe [
+			<lb n="25"/>
+		]... b. Hiraqlām eine Artabe [
+			<lb n="26"/>
+		] Qalī eine Artabe [
+</ab></div>
+</body>
+</text>
+</TEI>

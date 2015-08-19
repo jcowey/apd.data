@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1540" xml:id="Khan_Khalili_I_33" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 33 (= P.Khalili II 65)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_33</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169311</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاكما وأدام عزّكما وكرامتكما وأتم <app type="BL"><lem resp="APD">أنعمه </lem><rdg resp="Diem">نعمته</rdg></app> عليكم وزاد <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> 
+<lb n="3"/>  إليكم في الدّنيا والآخرة برحمة أعلمكم أنّي لم أقرأ لكم كتاب من أيّام فغمّـ<supplied reason="lost" cert="high">ـني</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـم </lem><rdg resp="Khan textual notes">ذلك</rdg></app> 
+<lb n="4"/>  فأسل اللّه أن يجمع بيننا وبينكم في عافية إنّه على ذلك قدير وبعد أكرمكم اللّه إنّما <app type="BL"><lem resp="APD">أبطـ<supplied reason="lost" cert="high">ـلت</supplied> </lem><rdg resp="Diem">أبطأت</rdg></app> 
+<lb n="5"/>  كتابي عنكم من كثـ<supplied reason="lost" cert="high">ـر</supplied>ة الشّغل <supplied reason="lost" cert="high">فـ</supplied>ـأسل <supplied reason="omitted" cert="high">ا</supplied>للّه <app type="BL"><lem resp="APD">الرّجوع </lem><rdg resp="Diem">العود</rdg></app> في عافية فأحب أن تكتبي إلي بخبرك 
+<lb n="6"/>  وخبر راصة أبقاه اللّه وخبر أمّك <app type="BL"><lem resp="APD">وأخبرو </lem><rdg resp="Diem">وأخيك</rdg></app> <app type="BL"><lem resp="APD">خبر </lem><rdg resp="Diem">وخبر</rdg></app> <app type="BL"><lem resp="APD">أمين </lem><rdg resp="Diem">أمّي</rdg></app> <app type="BL"><lem resp="bāʾ with two dots below, maybe representing kasra “Khan textual notes” 	">وأخبرو </lem><rdg resp="Diem">وأخي</rdg></app> <app type="BL"><lem resp="APD">خبر </lem><rdg resp="Diem">وخبر</rdg></app> عبّاس أبقاه 
+<lb n="7"/>  اللّه وقد اشتريت لكم منديل واحد ولم أصب إلّا واحد واكتبي إلي بخبرك وحالك 
+<lb n="8"/>  فإنّي أسر بذلك إن شا اللّه وإنّما أغيب عنكم مقدار شهر وهو آخر طوبة فـ<supplied reason="lost" cert="high">ـأسل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="9"/>  أن يجمع بيننا وبينكم في عافية إن شا اللّه <app type="BL"><lem resp="APD">حضر </lem><rdg resp="Diem">خصّ</rdg></app> <app type="BL"><lem resp="APD">ثوبكم </lem><rdg resp="Diem">نفسك</rdg></app> بالسّلام وعلى راصة أبقاه 
+<lb n="10"/>  اللّه السّلام وعلى أمّك وأختك وعبّاس السّلام كثيرا واكتبي إلي بخبر صاحب البيت اليهود<supplied reason="lost" cert="high">يّ</supplied> 
+<lb n="address verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">المصري </lem><rdg resp="Diem">الصّيرف</rdg></app> إلى منزله يدفع إلى أبوا خير من بقام الملّاح 
+<lb n="address verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> يدفع إلى <gap reason="illegible" precision="low" extent="3"/> الحسن بلّغ رحمك اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa kumā wa ʾadāma ʿizza kumā wa karāmata kumā wa ʾatamma ʾanʿuma niʿmaẗa hu ʿalay kum wa zāda fī ʾiḥsāni hi 
+ <lb n="3"/>ʾilay kum fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmaẗ:in ʾuʿlimu kum ʾan nī lam ʾaqraʾ la kum kitāb min ʾayyām:in fa ġamma nī *** ḏālika **m ġamm 
+ <lb n="4"/>fa ʾasalu ăl lāha ʾan yaǧmaʿa bayna nā wa bayna kum fī ʿāfiyaẗ:in ʾinna hu ʿalà ḏālika qadīr:un wa baʿdu ʾakrama kumu ăl lāhu ʾinnamā ʾabṭaltu ʾabṭaʾtu 
+ <lb n="5"/>kitāb ī ʿan kum min kaṯraẗi ăš šuġli fa ʾasalu ăl lāha ăr ruǧūʿa ʿawda fī ʿāfiyaẗ:in fa ʾuḥibbu ʾan taktubī ʾilay ya bi ḫabari ki 
+ <lb n="6"/>wa ḫabari rāṣaẗa ʾabqā hu ăl lāhu wa ḫabari ʾummi ki wa ʾaḫbirū ʾaḫī ø ki ø wa ḫabara ḫabari ʾamīn:in ʾumm ø ī wa ʾaḫbirū ʾaḫ ø ī ø wa ḫabara ḫabari ʿabbās:in ʾabqā hu 
+ <lb n="7"/>ăl lāhu wa qadi ĭštaraytu la kum mindīl wāḥid wa lam ʾuṣib ʾillā wāḥid wa ŭktubī ʾilay ya bi ḫabari ki wa ḥāli ki 
+ <lb n="8"/>fa ʾin nī ʾusarru bi ḏālika ʾin šāʾa ăl lāhu wa ʾinnamā ʾaġību ʿan kum miqdāra šahr:in wa huwa ʾāḫiru ṭūbaẗa fa ʾasalu ăl lāha 
+ <lb n="9"/>ʾan yaǧmaʿa bayna nā wa bayna kum fī ʿāfiyaẗ:in ʾin šāʾa ăl lāhu ḥaḍara ḫuṣṣa ṯawbu nafsa kum ka bi ăs salāmi wa ʿalà rāṣaẗa ʾabqā hu 
+ <lb n="10"/>ăl lāhu ăs salāmu wa ʿalà ʾummi ki wa ʾuḫti ki wa ʿabbās:in ăs salāmu kaṯīr:an wa ŭktubī ʾilay ya bi ḫabari ṣāḥibi ăl bayti ăl yahūdiyyi 
+ <lb n="11"/>*** ăl miṣriyyi ṣayraf ʾilà manzili hi yudfaʿu ʾilà ʾabū ḫayr:in min baqama ăl mallāḥi 
+ <lb n="12"/>*** *** yudfaʿu ʾilà *** ăl ḥasani balliġ raḥima ka ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+		In the name of God, the merciful and compassionate.
+			<lb n="2"/>
+		May God prolong your life, preserve your strength and nobility, give a full measure of his bounty and increase his goodness
+			<lb n="3"/>
+		to you in this world and the next, with mercy! (I am writing to) let you know that I have not read a letter of yours for days and... worried me,
+		to you in this world and the next, with mercy. (I am writing to) let you know that I have not read a letter of yours for days and [...] worried me,
+			<lb n="4"/>
+		and I pray to God that he will bring us together in good health. He has the power to do that. As for what follows - may God show you kindness - I ceased
+		and I pray to God that he will bring us together in good health. He has the power to do that. As for what follows - may God show you kindness! - I ceased
+			<lb n="5"/>
+		writing to you due to my many preoccupations. I pray to God that (I shall) return in good health. I should like you to write to me (and tell me) your news,
+			<lb n="6"/>
+		the news of Rāṣe - may God preserve him - and the news of your mother. Give ma also news of ʾAmīn and ʿAbbās - may God preserve him.
+		the news of Raseh - may God preserve him! - and the news of your mother. Give ma also news of Amin and ʿAbbas - may God preserve him!
+			<lb n="7"/>
+		I have bought a kerchief for you. I acquired only one. Write to me (to tell me) your news and how you are,
+		I have bought for you one kerchief. I acquired only one. Write to me (to tell me) your news and how you are
+			<lb n="8"/>
+		for I shall be given pleasure by that, God willing. I shall only be away from you for a month, that is (to) the end of Tubah. [I pray to God]
+		for I shall be given pleasure by that, God willing. I shall only be away from you for a month, that is (to) the end of Ṭūba. [I pray to God]
+			<lb n="9"/>
+		... Laß Dich ganz speziell grüßen!...
+		that he will bring us together in health. God willing, your garment will have arrived safely. Give my best wishes to Rāṣe - may God preserve him -
+		that He will bring us together in health. God willing, your garment will have arrived safely. Give my best wishes to Raseh - may God preserve him! -
+			<lb n="10"/>
+		and my very best wishes to your mother, your sister and ʿAbbas. Write to me (and tell me) the news of the Jewish landlord.
+		and my very best wishes to your mother, your sister and ʿAbbās. Write to me (and tell me) the news of the Jewish landlord.
+			<lb n="11"/>
+		[...] the Egyptian to his house, let it be delivered to ʾAbū Khayr from Baqām the sailor.
+		... to Abu Khayr from Baqam the Sailor...
+			<lb n="12"/>
+		[...] let it be delivered to... al-Ḥasan, convey the message &#039;may God have mercy upon you.&#039;
+		... Liefere (den Brief beim Empfänger) ab - Gott erbarme sich Deiner!
+</ab></div>
+</body>
+</text>
+</TEI>

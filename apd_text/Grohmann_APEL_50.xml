@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1031" xml:id="Grohmann_APEL_50" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 050</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_50</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168917</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد الشّهود المسمّون في هذا الكتاب شهدوا جميعا 
+<lb n="3"/>  على إقرار قطامة ابنت نصر الفرّان السّاكنة مدينة 
+<lb n="4"/>  أشمون وقد أثبتوها وعرفوها معرفة صحيحة باسمها 
+<lb n="5"/>  <sic n="superfluous">وبَسَبها</sic> <supplied reason="omitted" cert="high">وبنَسَبها</supplied> أنّها قبضت من زوجها موسى بن منصور <supplied reason="lost" cert="high">الا</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عن</supplied> 
+<lb n="6"/>  معجّل صداقها الّذي عقد به إليـ<supplied reason="lost" cert="high">ـها</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi šahidū ǧamīʿ:an 
+ <lb n="3"/>ʿalà ʾiqrāri qaṭāmaẗa ĭbnati naṣr:ini ăl farrāni ăs sākinaẗi madīnaẗa 
+ <lb n="4"/>ʾušmūna wa qad ʾaṯbatū hā wa ʿarafū hā maʿrifaẗ:an ṣaḥīḥaẗ:an bi ĭsmi hā 
+ <lb n="5"/>wa bi nasabi hā ʾanna hā qabaḍat min zawǧi hā mūsà bni manṣūr:ini ăl ʾ*** ʿan 
+ <lb n="6"/>muʿaǧǧali ṣadāqi hā ăllaḏī ʿaqada bi hi ʾilay hā *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		The witnesses named in this act have testified, and have collectively testified,
+			<lb n="3"/>
+		to the acknowledgment by Qaṭâma, daughter of Naṣr, the baker, residing in the town
+			<lb n="4"/>
+		of Ašmûn, whom indeed they know perfectly well both by her name
+			<lb n="5"/>
+		and by her relationship - that she has received from her husband Mûsâ b. Manṣûr the ...[......... from]
+			<lb n="6"/>
+		that which is immediately exigible of her nuptial gift which he has stipulated for [her ............ x ...... dînârs ...].
+</ab></div>
+</body>
+</text>
+</TEI>

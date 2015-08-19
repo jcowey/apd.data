@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1039" xml:id="Kraemer_Nessana_60" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 60 (= P.GrohmannPapyrusprotokoll 2)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Nessana_60</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21490</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="protocol 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="protocol 2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="protocol 3"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">معاوية</supplied> <supplied reason="lost" cert="high">أميـ</supplied>ـر المومپپن 
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">من</supplied> الحرث بن عبد إلى أهل <app type="BL"><lem resp="APD">نصتان </lem><rdg resp="“Grohmann”">نصّان</rdg></app> 
+<lb n="3"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـورة غزّة من إقليم <app type="BL"><lem resp="APD">الخلوص </lem><rdg resp="“Grohmann”">الحلوص</rdg></app> 
+<lb n="4"/>  <supplied reason="lost" cert="high">فأعطـ</supplied>ـوا عسر عدي بن خلد من بني 
+<lb n="5"/>  <supplied reason="lost" cert="high">سعد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـلك رزق ذ<supplied reason="lost" cert="high">ي</supplied> القعد<supplied reason="lost" cert="high">ة</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">المحرم</supplied> <supplied reason="lost" cert="high">وصفر</supplied> و<supplied reason="lost" cert="high">شهـ</supplied>ـري ربيع 
+<lb n="7"/>  <supplied reason="lost" cert="high">سبعين</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـدى <supplied reason="lost" cert="high">قـ</supplied>ـمح ومثله زيتا 
+<lb n="8"/>  <supplied reason="lost" cert="high">كپپ</supplied> أبو سعيد في ذي القعدة 
+<lb n="9"/>  من سنة أربع وخمسين 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  <supplied reason="lost" cert="high">فجمعته</supplied> سبعين مدي قمح ومثله زيتا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>ʿabdu ăl lāhi muʿāwiyaẗu ʾamīru ăl muʾminīna 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>mina ăl ḥāriṯi bni ʿabd:in ʾilà ʾahli naṣtāna naṣṣāna 
+ <lb n="6"/>min kūraẗi ġazzaẗa min ʾiqlīmi ăl ḥalūṣi ḫalūṣi 
+ <lb n="7"/>fa ʾaʿṭū ʿusr ʿadiyya bna ḫālid:in min banī 
+ <lb n="8"/>saʿdi bni mālik:in rizqa ḏī ăl qaʿdaẗi 
+ <lb n="9"/>wa ăl muḥarrami wa ṣafar:in wa šahray rabīʿa 
+ <lb n="10"/>sabʿīna mudya qamḥ:in wa miṯla hu zayt:an 
+ <lb n="11"/>wa kataba ʾabū saʿīd:in fī ḏī ăl qaʿdaẗi 
+ <lb n="12"/>min sanaẗi ʾarbaʿ:in wa ḫamsīna 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+ <lb n="17"/>*** 
+ <lb n="18"/>*** 
+ <lb n="19"/>*** 
+ <lb n="20"/>fa ǧumʿatu hu sabʿīna mudya qamḥ:in wa miṯlu hu zaytan 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="3"/>
+		[Der Diener Gottes Muʿāwiya, Beherrsch]er der Gläubigen.
+			<lb n="4"/>
+		[Im Nam]en Gottes, des Barmherzigen, Gütigen.
+		In the name of God, the Merciful, the Compassionate!
+			<lb n="5"/>
+		From al-Ḥārith ibn ʿAbd to the people of Naṣtān,
+		[Vo]n al-Ḥāriṯ ibn ʿAbd an die Leute von Naṣṣān
+			<lb n="6"/>
+		[gehörig zum Kr]eis Ġazza vom Gebiete von al-Ḥalūṣ
+		of the kūra of Gaza, of the iqlīm of al-Khalūṣ
+			<lb n="7"/>
+		And give quickly to ʿAdī ibn Khālid of the bani 
+		[So gebet] dringend dem ʿAdīyy, Sohn des Ḫālid von den Banū
+			<lb n="8"/>
+		[Saʿd ibn Mā]lik als Unterhalt des (Monats) Ḏū[ ]ʾl-Qaʿda und
+		Saʿd ibn Mālik the rizq of Dhuʾl-Qaʿda and
+			<lb n="9"/>
+		al-Muḥarram and Ṣafar and the two months of Rabīʿ
+		[al-Muḥarram und Ṣa ]far [und der beiden Mona]te Rabīʿ
+			<lb n="10"/>
+		seventy mudd of wheat and the same of oil 
+		[siebzig Mo]dii Weizen und ebensoviel Öl; und
+			<lb n="11"/>
+		[es schri]eb (es) Abū Saʿīd im Ḏūʾl-Qaʿda
+		Written by Abu Saʿīd in Dhuʾl-Qaʿda
+			<lb n="12"/>
+		of the year 54
+		vom Jahre vierundfünfzig.
+			<lb n="20"/>
+		And its total is seventy mudd of wheat and the same of oil
+		(Arabisch) (wohl: 70 modii Weizen und ebensoviel Öl).
+</ab></div>
+</body>
+</text>
+</TEI>

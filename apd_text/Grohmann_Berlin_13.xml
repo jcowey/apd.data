@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1428" xml:id="Grohmann_Berlin_13" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 13 (= Chrest.Khoury I 12)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_13</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169216</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بـسـ<supplied reason="lost" cert="high">ـ</supplied>ـم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  الحمد للّه مولف الفطر على غير مثال سبق ومصرّف القـ<supplied reason="lost" cert="high">ـلوب</supplied> <supplied reason="lost" cert="high">لمشـ</supplied>ـيّته في كل ما خلق أحمده مدمنا وأتوكّل عَليه مذعنا وأشهد 
+ <lb n="3"/>  أن لا إله إلّا اللّه وحده لا شريك له موقنا وأشهد أن مـ<supplied reason="lost" cert="high">ـحمّدا</supplied> <supplied reason="lost" cert="high">عبـ</supplied>ـده ورسوله أرسله ببوالغ الحكم وجلّله بسوابغ النّعم صلّى اللّه عليه وعلى 
+ <lb n="4"/>  آله أهل الفضل والكرم وكان <supplied reason="omitted" cert="high">من</supplied> السّابق في علم اللّه تعالى ما سنقرأه <supplied reason="lost" cert="high">كلّـ</supplied>ـه في كتابنا هذا وهو بسم اللّه الرّحمن الرّحيم 
+ <lb n="6"/>  هذا ما أصدق الشّيخ الخطيـ<supplied reason="lost" cert="high">ـب</supplied> <supplied reason="lost" cert="high">ا</supplied>لـمعروف صدقه من القاضي العدل الأمر <app type="BL"><lem resp="both qāf with two dots above">عقيق </lem><rdg resp="Khoury, see also P.GrohmannBerlin 14.2 “LS”">عفيف</rdg></app> الدّين أبو العبّاس 
+ <lb n="5 (left)"/>  أحمد 
+ <lb n="7"/>  العدل كان بمدينة أخميم بن عثمان نصيرة <app type="BL"><lem resp="Edition Grohmann">ابنت </lem><rdg resp="Grohmann apparatus criticus and Khoury">ابنة</rdg></app> عتيق ا<gap reason="illegible" precision="low" extent="3"/> وتزوّجها به أصدقها على بركة اللّه وعونه وحسن توفيقه ويمنه 
+ <lb n="8"/>  وهو من العين الجيّد المصري خمسة عشـ<supplied reason="lost" cert="high">ـر</supplied> دينارا عجّل لها من ذلك قبل دخوله بها وإصابته إيّاها 
+ <lb n="9"/>  من النّقد المذكور خمسة دنانير قبضتهم الزّوجة المذكو<supplied reason="lost" cert="high">رة</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن الزّوج المذكور وأبرأته من ذلك ومن نقده ووزنه ومن اليمين عليه 
+ <lb n="11"/>  أو على شي منه براه صحيحة براه قبض واستيفا وبالآ<supplied reason="lost" cert="high">خـ</supplied>ـر وهو عشرة دنانير النّـ<supplied reason="omitted" cert="high">ـصـ</supplied>ـف من ذلك خمسة دنانير موحره لها عليه منجّمة 
+ <lb n="10 (left)"/>  في 
+ <lb n="12"/>  كل سنة دينارا واحدا عند سلخها من <sic n="superfluous">اسپهال</sic> <supplied reason="omitted" cert="high">استهلال</supplied> تأرّخه وعـ<supplied reason="lost" cert="high">ـليه</supplied> <supplied reason="lost" cert="high">أ</supplied>ن يتّقي اللّه تعالى جهده فيها ويحسّن عشرتها وصحبتها بالمعروف كما أمره اللّه 
+ <lb n="13 (left)"/>  <sic n="superfluous">پعالى</sic> 
+ <lb n="14"/>  تعالي في كتابه الكريم وسنّة محمّد نبيّه سيّد المرسلـ<supplied reason="lost" cert="high">ـين</supplied> <gap reason="illegible" precision="low" extent="3"/> أقـ<supplied reason="lost" cert="high">ـرّ</supplied> له 
+ <lb n="15"/>  وللرّجال عليهن درجة واللّه عزيز حكيم <app type="BL"><lem resp="APD">وولي </lem><rdg resp="Khoury">وولي</rdg></app> تزويجهـ<supplied reason="lost" cert="high">ـا</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Khoury">إيّاه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Khoury">بأمر</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="16"/>  حجّة الشّريعة <sic n="superfluous">ريئس</sic> <supplied reason="omitted" cert="high">رئيس</supplied> <sic n="superfluous">رؤسأ</sic> <supplied reason="omitted" cert="high">رؤساء</supplied> الأصحاب قطب الدّين ولي أمير المومپپن أبو الفضايل لقمن بن القاضي الفقيه صـ<supplied reason="omitted" cert="high">ـبـ</supplied>ـر الدّين الحسن بن بهرام 
+ <lb n="17"/>  الحكم العزيز بمدينة أخميم وأعمالها عبد المنعم بن عمّار بن عطوس بحق ولايـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـه عليها ولكونها بكر بالغ ولا ولي لها يوميذ سوي مجلس الحكم العزيز بالمدينة المذكورة 
+ <lb n="19"/>  وبإذنها ورضاها وتوكيلها إيّاه في ذلك وهي يومـئذ صحيحة العقل والبدن جايزة الأمر لها وعليها وحضر من الرّجال المسلمين الأحرار البالغين وهم 
+ <lb n="18 (left)"/>  خالها 
+ <lb n="20"/>  <app type="BL"><lem resp="APD">صنو </lem><rdg resp="Khoury">صنوانها</rdg></app> <app type="BL"><lem resp="APD">أمّها </lem><rdg resp="APD">ø</rdg></app> الشّيخ أبو عبد اللّه محمّد بن أبي الفضل والشّيخ عمر بن أبي الفضل وعرفوا بها وأنّها علي القضيّة المشروحة فيه 
+ <lb n="23"/>  فحينئذٍ زوّجها الولي المذكور من هذا الزّوج وقبل الزّوج المذكور هذا النِّكاح لنفسه قبولا صحيحا خا<supplied reason="lost" cert="high">لصا</supplied> <supplied reason="lost" cert="high">ولم</supplied> 
+ <lb n="22 (left)"/>  يزل بـ<supplied reason="lost" cert="high">ـذلك</supplied> 
+ <lb n="21 (left)"/>  وألزمه 
+ <lb n="24"/>  نفسه شهد على <app type="BL"><lem resp="APD">المولّى </lem><rdg resp="Khoury">المتولّي</rdg></app> المدكور العاقد لهدا الپكاح وعلى الروحپن <sic n="superfluous">والمڤرقـپن</sic> <supplied reason="omitted" cert="high">المقربن</supplied> نما پسپ الى كل مپهم 
+ <lb n="25"/>  بعد مخاطبة جرت بينهما على جميعه وذلك لأربع <sic n="superfluous">عران</sic> <supplied reason="omitted" cert="high">عشر</supplied> بقين من شعبان من شهور سنة ثمان وتسعين وخمس ماية 
+ <lb n="26"/>  حضرت العقد المذكور إن اللّه مع الّذين اتّقوا والّذين هـ<supplied reason="lost" cert="high">ـم</supplied> محسـ<supplied reason="lost" cert="high">ـنون</supplied> حضـ<supplied reason="lost" cert="high">ـرت</supplied> العقد المـ<supplied reason="lost" cert="high">ـذكور</supplied> 
+ <lb n="27 (right margin)"/>  عقدت هذا العقد 
+ <lb n="28 (right margin)"/>  وكتب عبد المنعم بن عمّار بن عطوس 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl ḥamdu li l lāhi muʾallifi ăl fiṭari ʿalà ġayri miṯāl:in sabaqa wa muṣarrifi ăl qulūbi li mašiyyati hi fī kulli mā ḫalaqa ʾaḥmadu hu mudmin:an wa ʾatawakkalu ʿalay hi muḏʿin:an wa ʾašhadu 
+ <lb n="3"/>ʾan lā ʾilāha ʾillā ăl lāha waḥda hu lā šarīka la hu mūqin:an wa ʾašhadu ʾanna muḥammad:an ʿabdu hu wa rasūlu hu ʾarsala hu bi bawāliġi ăl ḥikami wa ǧallala hu bi sawābiġi ăn niʿami ṣallà ăl lāhu ʿalay hi wa ʿalà 
+ <lb n="4"/>ʾāli hi ʾahli ăl faḍli wa ăl karami wa kāna mina ăs sābiqi fī ʿilmi ăl lāhi taʿālà mā sa naqraʾu hu kulla hu fī kitābi nā hāḏā wa huwa bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>hāḏā mā ʾaṣdaqa ăš šayḫu ăl ḫaṭību ăl maʿrūfu ṣidqu hu mina ăl qāḍī ăl ʿadli ăl ʾamri ʿaqīqi ʿafīfi ăd dīni ʾabū ăl ʿabbāsi 
+ <lb n="6"/>ʾaḥmada 
+ <lb n="7"/>ăl ʿadli kāna bi madīnaẗi ʾaḫmīma bni ʿuṯmāna naṣiraẗa nuṣayraẗa ĭbnata ĭbnaẗa ʿatīq:in ʿutayq:in *** wa tazawwaǧa hā bi hi ʾaṣdaqa hā ʿalà barakaẗi ăl lāhi wa ʿawni hi wa ḥusni tawfīqi hi wa yumni hi 
+ <lb n="8"/>wa huwa mina ăl ʿayni ăl ǧayyidi ăl miṣriyyi ḫamsaẗa ʿašara dīnār:an ʿaǧǧala la hā min ḏālika qabla duḫūli hi bi hā wa ʾiṣābati hi ʾiyyā hā 
+ <lb n="9"/>mina ăn naqdi ăl maḏkūri ḫamsaẗa danānīra qabaḍat humu ăz zawǧaẗu ăl maḏkūraẗu mina ăz zawǧi ăl maḏkūri wa ʾabraʾat hu min ḏālika wa min naqdi hi wa wazni hi wa mina ăl yamīni ʿalay hi 
+ <lb n="10"/>ʾaw ʿalà šayʾ:in min hu barāʾaẗ:an ṣaḥīḥaẗ:an barāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa bi ăl ʾāḫari wa huwa ʿašaraẗu danānīra ăn niṣfu min ḏālika ḫamsaẗu danānīra muʾaḫḫaraẗ:un la hā ʿalay hi munaǧǧamaẗ:an 
+ <lb n="11"/>fī 
+ <lb n="12"/>kulli sanaẗ:in dīnār:an wāḥid:an ʿinda salḫi hā mini ĭstihlāli taʾarruḫi hi wa ʿalay hi ʾan yattaqiya ăl lāha taʿālà ǧuhda hu fī hā wa yuḥassina ʿišrata hā wa ṣuḥbata hā bi ăl maʿrūfi kamā ʾamara hu ăl lāhu 
+ <lb n="14"/>ø 
+ <lb n="15"/>taʿālà fī kitābi hi ăl karīmi wa sunnaẗi muḥammad:in nabiyyi hi sayyidi ăl mursalīna *** ʾaqarra la hu 
+ <lb n="16"/>wa li r riǧāli ʿalay hinna daraǧaẗ:an daraǧaẗ:un wa ăl lāhu ʿazīz:un ḥakīm:un wa waliya waliyyu tazwīǧa tazwīǧi hā *** ʾiyyā ø hu *** bi ø ʾamri *** 
+ <lb n="17"/>ḥuǧǧaẗi ḥuǧǧaẗu ăš šarīʿaẗi raʾīsi raʾīsu ruʾasāʾi ăl ʾaṣḥābi quṭbi quṭbu ăd dīni waliyyi waliyyu ʾamīri ăl muʾminīna ʾabū ăl faḍāʾili luqmānu bni bnu ăl qāḍī ăl faqīhi ṣabri ăd dīni ăl ḥasani bni bahrāma 
+ <lb n="18"/>ăl ḥakami ḥakamu ăl ʿazīzi ʿazīzu bi madīnaẗi ʾaḫmīma wa ʾaʿmāli hā ʿabdu ăl munʿimi bnu ʿammāri bni ʿaṭūsa bi ḥaqqi walāyati hi ʿalay hā wa li kawni hā bikr bāliġ wa lā waliyya la hā yawma yiḏ:in siwà maǧlisi ăl ḥakami ăl ʿazīzi bi ăl madīnaẗi ăl maḏkūraẗi 
+ <lb n="19"/>wa bi ʾiḏni hā wa riḍā hā wa tawkīli hā ʾiyyā hu fī ḏālika wa hiya yawma ʾiḏ:in ṣaḥīḥaẗu ăl ʿaqli wa ăl badani ǧāyizaẗu ăl ʾamri la hā wa ʿalay hā wa ḥaḍara mina ăr riǧāli ăl muslimīna ăl ʾaḥrāri ăl bāliġīna wa hum 
+ <lb n="20"/>ḫālu hā 
+ <lb n="21"/>ṣinwu ṣinwānu ø hā ʾummi ø hā ø ăš šayḫu ʾabū ʿabdi ăl lāhi muḥammadu bnu ʾabī ăl faḍli wa ăš šayḫu ʿumaru bnu ʾabī ăl faḍli wa ʿarafū bi hā wa ʾanna hā ʿalà ăl qaḍiyyaẗi ăl mašrūḥaẗi fī hi 
+ <lb n="22"/>fa ḥīna ʾiḏ:in zawwaǧa hā ăl waliyyu ăl maḏkūru min hāḏā ăz zawǧi wa qabila ăz zawǧu ăl maḏkūru hāḏā ăn nikāḥa li nafsi hi qubūl:an ṣaḥīḥ:an ḫāliṣ:an wa lam 
+ <lb n="23"/>yazal bi ḏālika 
+ <lb n="24"/>wa ʾalzama hu 
+ <lb n="25"/>nafsu hu šahida ʿalà ăl muwallà mutawallī ăl ʿāqidi li hāḏā ăn nikāḥi wa ʿalà ăz zawǧayni ăl muqirrayni bi mā nusiba ʾilà kull:in min hum fī hi 
+ <lb n="26"/>baʿda muḫāṭabaẗ:in ǧarat bayna humā ʿalà ǧamīʿi hi wa ḏālika li ʾarbaʿa ʿašara baqīna min šaʿbāna min šuhūri sanaẗi ṯamān:in wa tisʿīna wa ḫamsi miyaẗ:in 
+ <lb n="27"/>ḥaḍartu ăl ʿaqda ăl maḏkūra ʾinna ăl lāha maʿa ăllaḏīna ĭttaqaw wa ăllaḏīna hum muḥsinūna ḥaḍartu ăl ʿaqda ăl maḏkūra 
+ <lb n="28"/>ʿaqadtu hāḏā ăl ʿaqda 
+ <lb n="29"/>wa kataba ʿabdu ăl munʿimi bnu ʿammāri bni ʿaṭūsa 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément et miséricordieux !
+ 	  Im Namen Gottes des Barmherzigen, Gütigen!
+ 	  Im Namen Gottes, des Barmherzigen, Gütigen!
+		 <lb n="2"/>
+ 	  Das Lob gebührt Gott, dem Vereiniger der Geschöpfe ohne vorangegangenes Beispiel und dem Wen[der der Herzen nach sei]nem Willen in allem, was er geschaffen hat; ich preise ihn unablässig und vertraue auf ihn in Demut, und ich bezeuge mit
+ 	  Gloire à Dieu conciliateur des créatures sans aucun modèle préalable, et qui a tourné les c[oeurs vers] sa [volon]té dans tout ce qu&#039;il a créé. Je le glorifie de manière incessante, et je me fie, soumis, à lui et j&#039;atteste
+		 <lb n="3"/>
+ 	  en toute conviction qu&#039;il n&#039;y a de Dieu qu&#039;Allah seul, qu&#039;il n&#039;a aucun compagnon, et je témoigne que Mu[ḥammad] est son [servit]eur et son Messager qu&#039;il a envoyé avec les sagesses les plus hautes, et élevé par les bénédictions les plus abondantes, que Dieu le bénisse ainsi que
+ 	  völliger Gewißheit, daß es keinen Gott gibt außer Gott allein, und daß er keinen Genossen hat, und ich bezeuge, daß Mu(ḥammad sein Die)ner und sein Sendbote ist, den er mit den höchsten Weisheiten gesandt und mit den reichsten Gnaden erhöht hat - Gott segne ihn und
+ 	  völliger Gewißheit, daß es keinen Gott gibt außer Gott allein, und daß er keinen Genossen hat, und ich bezeuge, daß Mu[ḥammad sein Die]ner und sein Sendbote ist, den er mit den höchsten Weisheiten gesandt und mit den reichsten Gnaden erhöht hat - Gott segne ihn und
+		 <lb n="4"/>
+ 	  sa famille, gens de mérite et de noblesse. Du domaine &lt;de&gt; la prescience de Dieu, qu&#039;il est grand, est [tout] ce que nous lirons dans notre document-ci dont voici (le contenu): Au nom de Dieu clément et miséricordieux ! 
+ 	  seine Familie, die Leute der Vortrefflichkeit und des Adels. Vorhergewußt von Gott - erhaben ist er - ist, was wir (alles) lesen werden in dieser unserer Urkunde und sie lautet: Im Namen Gottes, des Barmherzigen, Gütigen!
+ 	  seine Familie, die Leute der Vortrefflichkeit und des Adels. Vorhergewußt von Gott - erhaben ist er - ist, was wir [alles] lesen werden in dieser unserer Urkunde und sie lautet: Im Namen Gottes, des Barmherzigen, Gütigen!
+		 <lb n="5"/>
+ 	  Ceci est la dot désignée par le šayḫ, demandeur en mariage et qui est connu pour sa sincérité, de la part du juge intègre ʿAfīf al-Dīn Abū l-ʿAbbās
+ 	  Dies ist, was als Brautgabe bestimmt hat der Šayḫ, der Brautwerb(er, des)sen Aufrichtigkeit bekannt ist, von Seiten des gerechten, gewissenhaften Richters ʿAqīq ad-Dīn Abuʾl-ʿAbbās
+ 	  Dies ist, was als Brautgabe bestimmt hat der Šēḫ, der Brautwerb[er, des]sen Aufrichtigkeit bekannt ist, von Seiten des gerechten, gewissenhaften Richters ʿAqīq ad-Dīn Abuʾl-ʿAbbās
+		 <lb n="6"/>
+ 	  Aḥmad,
+		 <lb n="7"/>
+ 	  ancien notaire dans la ville d&#039;Aḫmīm et fils de ʿUṯmān, pour Nuṣayra, fille de ʿAtīq [...], à l&#039;aide de quoi il se maria à elle. Il lui donna comme dot, avec la bénédiction de Dieu, son secours, son bon soutien et son bienfait,
+ 	  des ehemaligen Notars in der Stadt Aḫmīm, Sohnes des ʿUṯmān, für Nuṣaira, Tochter des ʿAtīq [.......] und wofür er sie geheiratet hat: er hat ihr als Brautgabe bestimmt mit Hilfe des Segens Gottes und seines Beistandes und seiner gütigen Unterstützung und seiner Segnung
+ 	  des ehemaligen Notars in der Stadt Aḫmīm, Sohnes des ʿUṯmān, für Nuṣīra, Tochter des ʿAtīq und wofür er sie geheiratet hat: er hat ihr als Brautgabe bestimmt mit Hilfe des Segens Gottes und seines Beistandes und seiner gütigen Unterstützung und seiner Sendung
+		 <lb n="8"/>
+ 	  quin[ze] dīnārs en excellentes pièces d&#039;or égyptiennes, desquels il lui paya immédiatement au comptant, avant de consommer le mariage et d&#039;avoir des liaisons avec elle,
+ 	  von gutem ägyptischem Goldgeld fünfze[hn] Dīnāre. Davon zahlte er gleich an sie vor seinem Beilager mit ihr und seinem Umgang mit ihr
+ 	  von gutem ägyptischem Goldgeld fünfze(hn) Dīnāre. Davon zahlte er gleich an sie vor seinem Beiwohnen mit ihr und seinem Umgang mit ihr
+		 <lb n="9"/>
+ 	  en cet étalon monétaire mentionné, cinq dīnārs que l&#039;épouse nomm[ée] reçut [d]u mari mentionné et elle l&#039;acquitta de cela, de sa somme payée au comptant, du poids et du serment qui lui incombe au sujet de cette (somme)
+ 	  in dem erwähnten Münzfuße fünf Dīnāre, die die erwä(hnte) Gattin von dem erwähnten Gatten in Zahlung erhielt und von dem und dessen Barbetrage und dessen Gewichte nebst dem darüber
+ 	  in dem erwähnten Münzfuße fünf Dīnāre, die die erwä[hnte] Gattin von dem erwähnten Gatten in Zahlung erhielt und von dem und dessen Barbetrage und dessen Gewichte nebst dem darüber
+		 <lb n="10"/>
+ 	  oder über einen Teil davon zu leistenden Eid sie ihn entlastete mittels gültiger Quittung, einer Quittung über den Empfang und Erhalt; und der (Rest), und das sind zehn Dīnāre, die Hälfte davon fünf Dīnāre, ist ausständig zu ihren Gunsten, zu seinen Lasten und (zu begleichen) ratenweise
+ 	  oder über einen Teil davon zu leistenden Eid sie ihn entlastete mittels gültiger Quittung, einer Quittung über den Empfang und Erhalt; und der [Rest], und das sind zehn Dīnāre, die Hälfte davon fünf Dīnāre, ist ausständig zu ihren Gunsten, zu seinen Lasten und (zu begleichen) ratenweise
+ 	  ou d&#039;une partie d&#039;elle, et cela moyennant une quittance valide, une quittance de libération attestant réception et perception intégrale, et l[e res]te, formé de dix dīnārs dont la moitié est cinq dīnārs, seront repoussés, en sa faveur (à elle) et à sa charge (à lui), payables en termes,
+		 <lb n="11"/>
+ 	  in
+		 <lb n="12"/>
+ 	  chaque année un seul dīnār, à la fin de l&#039;année, à commencer par le début de la date (du mois actuel). Et il lu[i in]combe de craindre Dieu, qu&#039;il est grand, selon ses forces, en ce qui la concerne, et d&#039;avoir avec elle de bons rapports et une bonne compagnie, en ce qui est reconnu (convenable), comme l&#039;a ordonné Dieu,
+ 	  jedem Jahre einen Dīnār, wenn (das Jahr) zu Ende geht, gerechnet vom Beginne des gegenwärtigen Monats. Und es obliegt ihm, Gott  - erhaben ist er - ihr gegenüber nach Kräften zu fürchten und schön zu gestalten den Verkehr und Umgang mit ihr in Wohlwollen, sowie es Gott -
+		 <lb n="15"/>
+ 	  erhaben ist er -  in seinem verehrungswürdigen Buche angeordnet hat und die Handlungsweise seine Propheten Muḥammad, des edelsten der Gesand(ten ...)
+ 	  erhaben ist er -  in seinem verehrungswürdigen Buche angeordnet hat und die Handlungsweise (Sunna) seine Propheten Muḥammad, des edelsten der Gesand[ten .................................]
+ 	  qu&#039;il est grand, dans son Livre honorable, et aussi la Sunna de Muḥammad, son Prophète et seigneur des message[rs], et reconn[u] à lui
+		 <lb n="16"/>
+ 	  die Männer aber haben vor ihnen eine Rangstufe voraus und Gott ist allmächtig, allweise. Als Brautanwalt ist bei (ihrer) Trauung aufgetreten (   )
+ 	  die Männer aber haben vor ihnen eine Rangstufe voraus und Gott ist allmächtig, allweise. Als Brautanwalt ist bei [ihrer] Trauung aufgetreten [                  ]
+ 	  et aux hommes un prééminence sur elles, Dieu est tout puissant et souverainement sage. Ainsi fut chargé de l[a] marier [avec lui sur ordre de]
+		 <lb n="17"/>
+ 	  die Autorität (auf dem Gebiete) des kanonischen Rechts, der Quṭub ad-Dīn, Sachwalter des Beherrschers der Gläubigen, Abu ʾl-Faḍāil Luqmān, Sohn des Richters, des Rechtsgelehrten Ṣabr ad-Dīn al-Ḥasan b. Bahrām
+ 	  die Autorität (auf dem Gebiete) des kanonischen Rechts, der Raʾīs ruʾasāʾ al-Aṣḥāb Quṭb ad-Dīn, Sachwalter des Beherrschers der Gläubigen, Abu ʾl-Faḍāʾil Luqmān, Sohn des Richters, des Rechtsgelehrten Ṣabr ad-Dīn al-Ḥasan b. Bahrām
+ 	  l&#039;autorité dans le domaine de la Loi islamique et Raʾīs Ruʾasāʾ al-Aṣḥāb Quṭb al-Dīn, mandataire du prince des croyants, Abū l-Faḍāyil Luqmān fils du juge jurisconsulte Ṣabr al-Dīn al-Ḥasan Ibn Bahrām
+		 <lb n="18"/>
+ 	  der geehrte Richter in der Stadt Aḫmīm und ihren Verwaltungsbezirken (ʿAbd al-Munʿim b. ʿAmmār b. ʿAṭūs) auf Grund seines Rechtes, sie als Brautanwalt zu vertreten, und weil sie eine volljährige Jungfrau ist und derzeit keinen Brautanwalt hat außer dem geehrten Gerichtshofe in der erwähnten Stadt,
+ 	  der geehrte Richter in der Stadt Aḫmīm und ihren Verwaltungsbezirken ʿAbd al-Munʿim b. ʿAmmār b. ʿAṭṭūs auf Grund seines Rechtes, sie als Brautanwalt zu vertreten, und weil sie eine volljährige Jungfrau ist und derzeit keinen Brautanwalt hat außer dem geehrten Gerichtshofe in der erwähnten Stadt,
+ 	  le juge honorable dans la ville d&#039;Aḫmīm et ses circonscriptions, ʿAbd al-Munʿim Ibn ʿAmmār Ibn ʿAṭūs, en raison de son pouvoir légal de la représenter, et parce qu&#039;elle est vierge et adulte et qu&#039;elle n&#039;a en ce moment-là aucun mandataire d&#039;autre que sa grāce le vénérable juge dans la ville nommée,
+		 <lb n="19"/>
+ 	  et ceci avec son autorisation, son consentement et la délégation de pouvoir qu&#039;elle lui a faite à ce sujet, alors qu&#039;elle était dans la plénitude de ses facultés mentale et physique et sa capacité juridique, en sa faveur et à sa charge personnelles. Etaient présents des hommes musulmans et adultes, à savoir:
+ 	  und zwar mit ihrer Erlaubnis und ihrem Einverständnis und ihrer Vollmachterteilung an ihm in dieser (Sache), während sie dermalen gesunden Verstandes und Körpers, geschäftsfähig zu ihren Gunsten und Lasten ist. Und es waren anwesend muslimische freie volljährige Männer und zwar:
+		 <lb n="20"/>
+ 	  ihr mütterlicher Oheim,
+ 	  son oncle maternel,
+		 <lb n="21"/>
+ 	  der Bruder ihrer Mutter der Šēḫ Abū ʿAbdallāh Muḥammad b. Abiʾl-Faḍl und der Šayḫ ʿUmar b. Abiʾl-Faḍl und sie kennen sie genau und (wissen), daß sie der bereits dargelegten Beschaffenheit entspricht
+ 	  der Bruder ihrer Mutter der Šēḫ Abū ʿAbdallāh Muḥammad b. Abiʾl-Faḍl und der Šēḫ ʿUmar b. Abiʾl-Faḍl und sie kennen sie genau und (wissen), daß sie der bereits dargelegten Beschaffenheit entspricht
+ 	  ses frères le šayḫ Abū ʿAbd Allāh Muḥammad Ibn Abī l-Faḍl et le šayḫ ʿUmar Ibn Abī l-Faḍl; ils la connaissent bien et savent qu&#039;elle est selon l&#039;état décrit dans le document.
+		 <lb n="22"/>
+ 	  Le mandataire susnommé la maria alors à ce mari, et cet époux susmentionné accepta ce mariage pour lui-mēme, d&#039;une manière valide et en[tière],
+ 	  Nun hat der erwähnte Brautanwalt sie diesem Gatten zur Ehe gegeben und der erwähnte Gatte hat diese Ehe in rechtsgültiger und vollständiger Weise für sich angenommen und (nicht
+ 	  Nun hat der erwähnte Brautanwalt sie diesem Gatten zur Ehe gegeben und der erwähnte Gatte hat diese Ehe in rechtsgültiger und vollständiger Weise für sich angenommen und [nicht
+		 <lb n="23"/>
+ 	  damit) aufgehört
+ 	  damit] aufgehört
+ 	  resta là-[dessus]
+		 <lb n="24"/>
+ 	  et s&#039;en fit un devoir.
+ 	  und sich dazu verpflichtet.
+		 <lb n="25"/>
+ 	  Es haben Zeugnis abgelegt für den als Brautanwalt bestellten, der diesen Ehevertrag abschloß, und für diese beiden Gatten, die anerkennen, was sich darin auf jeden von beiden bezieht,
+ 	  On a témoigné en faveur du mandataire qui a exécuté le contrat de ce mariage, et en faveur des deux mariés qui reconnaissent ce qu&#039;on y a attribué à chacun d&#039;entre eux,
+		 <lb n="26"/>
+ 	  après un entretien qui eut lieu entre eux deux concernant tout le contenu du (document), et cela (eut lieu) quatorze nuits restant de šaʿbān, l&#039;un des mois de l&#039;année cinq cent quatre-vingt-dix-huit.
+ 	  nach einer zwischen ihnen beiden abgelaufenen Aussprache über seinen gesamt(en Inhalt) und dies (fand statt) als (noch) vierzehn (Nächte) übrig waren vom Šaʿbān von den Monaten des Jahres fünfhundertachtundneunzig (folgende Zeugen):
+		 <lb n="27"/>
+ 	  Ich war zugegen bei dem erwähnten Vertrage, fürwahr Gott ist mir jenen, die Gott fürchten und denen, die Wohlgefälliges tun. [Ich] war zu[gegen] bei dem er[wähnten] Vertrage.
+ 	  J&#039;ai été présent à (l&#039;exécution) du contrat de mariage susnommé. Certes Dieu est avec ceux qui (le) craignent et ceux qui so[nt] bienfa[isants. J&#039;é]tais présent à (l&#039;exécution) d[u] contr[at] de mariage susm[entionné.]
+		 <lb n="28"/>
+ 	  Ich habe diesen Vertrag abgeschlossen
+ 	  J&#039;ai exécuté ce contrat de mariage,
+		 <lb n="29"/>
+ 	  ʿAbd al-Munʿim Ibn ʿAmmār Ibn ʿAṭūs (l&#039;)écrivit.
+ 	  und geschrieben hat (es) ʿAbd al-Munʿim b. ʿAmmār b. ʿAṭūs.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

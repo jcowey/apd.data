@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1780" xml:id="Prag_810" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 81</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_810</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169521</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮فذلك يوم الثّلثا ‮‪<unclear reason="undefined" cert="high">ιʹ</unclear><supplied reason="lost" cert="high">βʹ</supplied>‬ ‮<gap reason="illegible" precision="low" extent="3"/> ‮<gap reason="illegible" precision="low" extent="3"/> ‮<gap reason="illegible" precision="low" extent="3"/> يوم الــ<supplied reason="lost" cert="high">ـثّلثـ</supplied>ـا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮ <gap reason="illegible" precision="low" extent="3"/> ‮<gap reason="illegible" precision="low" extent="3"/> ‮<gap reason="illegible" extent="6" unit="character" /> ‮‪<unclear reason="undefined" cert="high">ζ</unclear>Χ‬ 
+<lb n="4"/>  بسم <supplied reason="lost" cert="high">اللّـ</supplied>ـه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيـ</supplied>ـم ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">‮</supplied><gap reason="illegible" precision="low" extent="3"/> ‮<gap reason="illegible" extent="4" unit="character" /> أبو ‮الـ<gap reason="illegible" precision="low" extent="3"/> ‮<gap reason="illegible" extent="4" unit="character" /> ‮الـ<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="5"/>  <gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">عشرين</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮إلى عبيد اللّه في قمح ‮‪ηΧ‬ <gap reason="illegible" extent="1" unit="character" /> وفي شعير بجول بهور ‮‪<unclear reason="undefined" cert="high">Χγʹ</unclear>ηʹ‬ وإلى عدي <del rend="erasure" status="unremarkable">ڤى</del> <del rend="erasure" status="unremarkable">المعصره</del> <del rend="erasure" status="unremarkable">ڤى</del> <del rend="erasure" status="unremarkable">رپپ</del> ‮‪<unclear reason="undefined" cert="high">ιη</unclear><gap reason="illegible" extent="1" unit="character" />‬ ‮‪<unclear reason="undefined" cert="high">κδ</unclear>Χ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ‮وإلى بلال بن بركة ‮β ‮<gap reason="illegible" extent="1" unit="character" /> عن ‮‪κʹγʹ‬ وإلى عبيد اللّه بن الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا ‮‪αϛʹηʹ‬ ‮<gap reason="illegible" extent="1" unit="character" /> وإلى عبد الغني فذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ‮بقي من ثقبان ‮β ‮<gap reason="illegible" extent="1" unit="character" /> متقالين وأخذ ‮‪Χδʹ‬ <app type="BL"><lem resp="APD">پعدپد </lem><rdg resp="APD">نقدته</rdg></app> شاركة <app type="BL"><lem resp="APD">عبد </lem><rdg resp="APD">عند</rdg></app> الـ<supplied reason="lost" cert="high">ـغنـ</supplied>ـي ‮<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـة مثاقيل فضل صماح ‮‪ιθ‬ مثاقيل قطع ‮‪<unclear reason="undefined" cert="high">ζ</unclear>Χ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ‮‪κϛΧ‬ إلى محمّد بن هاشم ‮ε‮ ‮<gap reason="illegible" extent="1" unit="character" /> في زيت ‮‪μδ‬ قطع ‮<gap reason="illegible" extent="9" unit="character" /> علي بن سميّة ‮<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـال وإلى <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="10"/>  ‮وإلى <unclear reason="undefined" cert="high">زوجة</unclear> أبي الخير احـ<gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** *** *** 
+ <lb n="2"/>fa ḏālika yawma ăṯ ṯulāṯāʾi 1/12 *** *** *** yawma ăṯ ṯulāṯāʾi *** 
+ <lb n="3"/>*** *** ****** 7+1/2 *** 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi *** *** **** ʾabū ăl *** **** ăl **** 
+ <lb n="5"/>**** ʿišrīna *** 
+ <lb n="6"/>ʾilà ʿubaydi ăl lāhi fī qamḥ:in 8+1/2 * wa fī šaʿīri baǧūli bahūra 1/2+1/3+1/8 wa ʾilà ʿadiyy:in 18+* 24+1/48 *** 
+ <lb n="7"/>wa ʾilà bilāli bni barakaẗa 2 * ʿan 1/23 wa ʾilà ʿubaydi ăl lāhi bni ăl *** *** ***ʾ 1+1/6+1/8 * wa ʾilà ʿabdi ăl ġaniyyi fa ḏālika *** 
+ <lb n="8"/>baqiya min ṯaqbāna 2 * mitqālayni wa ʾaḫaḏa 1/2+1/4 BʿdBd naqadat hu ø šārikaẗu ʿabdi ʿinda ăl ġaniyyi ***aẗ maṯāqīla faḍlu ṣimāḥ:in 19 maṯāqīla qiṭaʿ 7+1/2 *** 
+ <lb n="9"/>26+1/2 ʾilà muḥammadi bni hāšim:in 5 * fī zayt:in 44 qiṭaʿ ********* ʿaliyyu bnu simiyyaẗa **** ***ʾl wa ʾilà ******* 
+ <lb n="10"/>wa ʾilà zawǧaẗi ʾabī ăl ḫayri ʾḥ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Das macht also am Dienstag 1/12... [...] .... [...] Die[ns]tag...[
+			<lb n="3"/>
+		[...] ......... 7 1/2...
+			<lb n="4"/>
+		Im Namen [Gott]es, des Barmherz[igen, Gütig]en! ...[..] ...... Abuʾl-..... al-...[..
+			<lb n="5"/>
+		〚...〛 zwanzig [
+			<lb n="6"/>
+		An ʿUbaid Allāh für Weizen 8 1/2 und für Gerste des Beǧōl Pahar 1/2+1/3+1/8 und an ʿAdīyy 〚für die Presse für Öl〛 18.. 24 1/48 [
+			<lb n="7"/>
+		Und an Bilāl b. Baraka 2 zu 1/23 und an ʿUbaid Allāh b. al-[...] ....[...]ā 1 1/6+1/8 und an ʿAbd al-Ġanī. Das macht..[
+			<lb n="8"/>
+		Es blieb als Rest seitens des Ṯaqbān 2 zwei Miṯqāl und er nahm (?) 1/2+1/4, die ..... bezahlte(?) .... Miṯqāl. Überschuß des Ṣimāḥ 19 Miṯqāl Teilstücke 7 1/2 [
+			<lb n="9"/>
+		26 1/2 an Muḥammad b. Hāšim 5 für Öl 44 Stücke......... ʿAlī b. Simīya..[...]..[...]... und an ......... [
+			<lb n="10"/>
+		und an die Gattin des Abuʾl-Ḫair, A..... 〚28〛.
+</ab></div>
+</body>
+</text>
+</TEI>

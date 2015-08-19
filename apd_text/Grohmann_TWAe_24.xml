@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="470" xml:id="Grohmann_TWAe_24" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 24</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_24</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106657</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  عند أبا أيّوب دينر وربع 
+ <lb n="2"/>  ودينر وثلثي دينر 
+ <lb n="3"/>  وثلثة عشرة درهم 
+ <lb n="4"/>  وقيراط ونصف عند 
+ <lb n="5"/>  إبرهيم ثلثة درهم 
+ <lb n="6"/>  عند <gap reason="illegible" precision="low" extent="3"/> دينر وربع 
+ <lb n="7"/>  وخمسة درهم 
+ <lb n="8"/>  ودرهمين عند امرأته 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʿinda ʾabā ʾayyūba dīnār:un wa rubʿ:un 
+ <lb n="2"/>wa dīnār:un wa ṯulṯay dīnār:in 
+ <lb n="3"/>wa ṯalāṯaẗa ʿašaraẗ dirham 
+ <lb n="4"/>wa qīrāṭ:un wa niṣf:un ʿinda 
+ <lb n="5"/>ʾibrāhīma ṯalāṯaẗu darāhima 
+ <lb n="6"/>ʿinda *** dīnār:un wa rubʿ:un 
+ <lb n="7"/>wa ḫamsaẗu darāhima 
+ <lb n="8"/>wa dirhamayni ʿinda ĭmraʾatihi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Bei Abū Ayyūb stehen ein und ein Viertel Dīnār
+		 <lb n="2"/>
+ 	  und ein und zwei Drittel Dīnār
+		 <lb n="3"/>
+ 	  und dreizehn Dirham
+		 <lb n="4"/>
+ 	  und ein einhalb Karat. Bei
+		 <lb n="5"/>
+ 	  Ibrahīm stehen drei Dirham;
+		 <lb n="6"/>
+ 	  bei (N. N.) ein und ein Viertel Dīnār
+		 <lb n="7"/>
+ 	  und fünf Dirham,
+		 <lb n="8"/>
+ 	  und zwei Dirham bei seiner Frau
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

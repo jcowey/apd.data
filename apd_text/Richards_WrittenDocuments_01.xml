@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2487" xml:id="Richards_WrittenDocuments_01" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.RichardsWrittenDocuments 01</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Richards_WrittenDocuments_01</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  اللّه الرّحمن   
+ <lb n="2"/>  هذا ما أصدق أحمد بن عاصم سكينة ابنت بكر بن محمّد إقرارهما أمورهما حرفا في بجميع من سنة ما وأربعين في  هذا  الكتاب  في  صحّة 
+ <lb n="3"/>  النّكاح بين شهد أحمد الرّ<gap reason="illegible" extent="4" unit="character" />ی زيد إقرارهما بن أحمد    الرّ<gap reason="illegible" extent="4" unit="character" />ی  إقرارهما  بجميعه             
+ <lb n="4"/>  وله عليها مثل الّذي لها عليه من ذلك وولی تزويجها إيّاه أخوها لأبيها محمّد بن بكر بن محمّد بأمرها ورضاها وتوكيلها إيّاه بذلك وإشهادها له علی ذلك الحسن بن أحمد والقسم 
+ <lb n="5"/>  بن جعفر وهما يعرفانها بعينها واسمها ونسبها وأنّها امرأة بالغ بارز صحيحة العقل والبدن جائزة الأمر فزوجها أخوها محمّد بن بكر بن محمّد من أحمد بن عاصم بهذا الصّداق 
+ <lb n="6"/>  المـ<gap reason="illegible" extent="5" unit="character" /> عن ذكر مبلغه في هذا الكتاب علی ما سمّی وذكر فيها وقبل أحمد بن عاصم من محمّد بن بكر بن محمّد هذا النّكاح ورضي به وألزم نفسه بمخاطبة منه إيّاه علی جميع ذلك شهدا علی 
+ <lb n="7"/>  إقرارهما حرفا بجميع ما في هذا الكتاب في صحّة عقولهما وأبدانهما وجواز أمورهما وذلك في صفر من سنة ثمان وأربعين وثلثمائة 
+ <lb n="8"/>  شهد زيد بن أحمد الرّ<gap reason="illegible" extent="4" unit="character" />ی علی إقرارهما بجميعه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa ʾaḥmadu bnu ʿāṣim:in sakīnaẗa ĭbnata bakri bni muḥammad:in wa tazawwaǧa hā bi hi ʾaṣdaqa hā ṣadāq:an musammà maʿlūm:an tarāḍiy:an bi hi bayna humā wa tawāfaqā ʿalay hi wa ʿalà mablaġi hi wufūq:an ṣaḥīḥ:an yaǧrī bi miṯli hi 
+ <lb n="3"/>ăn nikāḥu bayna ăl muslimīna wa ʿalay hi ʾan yattaqiya ăl lāha ǧalla wa ʿazza fī hā wa yuḥsina ṣuḥbata hā wa muʿāšarata hā bi ăl maʿrūfi kamā ʾamara ăl lāhu bi hi ʿazza wa ǧalla fī kitābi hi wa sunnaẗi nabiyyi hi muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama 
+ <lb n="4"/>wa la hu ʿalay hā miṯlu ăllaḏī la hā ʿalay hi min ḏālika wa waliyyu tazwīǧi hā ʾiyyā hu ʾaḫū hā li ʾabī hā muḥammadu bnu bakri bni muḥammad:in bi ʾamri hā wa riḍāʾi hā wa tawkīli hā ʾiyyā hu bi ḏālika wa ʾišhādi hā la hu ʿalà ḏālika ăl ḥasana bna ʾaḥmada wa ăl qāsima 
+ <lb n="5"/>bna ǧaʿfara wa humā yaʿrifāni hā bi ʿayni hā wa ĭsmi hā wa nasabi hā wa ʾanna hā ĭmraʾaẗ:un bāliġ:un bāriz:un ṣaḥīḥaẗu ăl ʿaqli wa ăl badani ǧāʾizaẗu ăl ʾamri fa zawwaǧa hā ʾaḫū hā muḥammadu bnu bakri bni muḥammad:in min ʾaḥmada bni ʿāṣim:in bi hāḏā ăṣ ṣadāqi 
+ <lb n="6"/>ăl m***** ʿan ḏikri mablaġi hi fī hāḏā ăl kitābi ʿalà mā summiya wa ḏukira fī hā wa qabila ʾaḥmadu bnu ʿāṣim:in min muḥammadi bni bakri bni muḥammad:in hāḏā ăn nikāḥa wa raḍiya bi hi wa ʾalzama nafsa hu bi muḫāṭabaẗ:in min hu ʾiyyā hu ʿalà ǧamīʿi ḏālika šahidā ʿalà 
+ <lb n="7"/>ʾiqrāri himā ḥarf:an bi ǧamīʿi mā fī hāḏā ăl kitābi fī ṣiḥḥaẗi ʿuqūli himā wa ʾabdāni himā wa ǧawāzi ʾumūri himā wa ḏālika fī ṣafar:in min sanaẗi ṯamān:in wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="8"/>šahida zaydu bnu ʾaḥmada ăr r****iyyu ʿalà ʾiqrāri himā bi ǧamīʿi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the Merciful, the Compassionate.
+		 <lb n="2"/>
+ 	  This records that Ahmad ibn ʿAsim has given Sakina, daughter of Bakr ibn Muhammad, a bride-price and married her. He gave her a stated and determined bride-price, which both parties accepted and agreed to, in due legal form, and to the amount, such as customarily validates
+		 <lb n="3"/>
+ 	  marriage between Muslims. He must fear God (glorious and mighty is he) in his dealings with her, be a good companian and help-mate to her in all that is good, as God (mighty and glorious is he) commanded in His Book and in the Sunna of His prophet, Muhammad (God bless him and give him peace).
+		 <lb n="4"/>
+ 	  Her obligations to him are the same as his towards her. Her stepbrother, Muhammad, son of Bakr ibn Muhammad, undertook to marry her to him, by her commission, her wish and by her authorizing him thus to act for her and after she had asked him to testify to that before al-Hasan ibn Ahmad and al-Qasim
+		 <lb n="5"/>
+ 	  ibn Jaʿfar, who both knew her in person, by name and by lineage, and that she was a woman of legal age, mature, sound in mind and body, legally competent. Her brother, Muhammad ibn Bakr ibn Muhammad married her to Ahmad ibn ʿAsim for this bride-price,
+		 <lb n="6"/>
+ 	  mention of the amount of which [is unnecessary?] in this document, as it has been stated and alluded to. Ahmad ibn ʿAsim accepted this marriage from Muhammad ibn Bakr ibn Muhammad and consented to it and bound himself to it by his own request, accepting all those conditions. They both testified to
+		 <lb n="7"/>
+ 	  their oral acknowledgement of all the contents of this document in soundness of mind and body and full legal competence, that being in Safar of the year three hundred and forty-eight.
+		 <lb n="8"/>
+ 	  Zaid b. Ahmad al-R...i testified to their acknowledgement in full.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

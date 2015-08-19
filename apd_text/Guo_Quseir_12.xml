@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="841" xml:id="Guo_Quseir_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113620</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم وصلّى اللّه علَى محمّد <app type="BL"><lem resp="APD">واللّه </lem><rdg resp="“AK”">وآله</rdg></app> <app type="BL"><lem resp="APD">سلّم </lem><rdg resp="“AK”">وسلّم</rdg></app> 
+<lb n="recto 2"/>  أعلم الأخ نجيب حفظه اللّه وتولّاه أنّني 
+<lb n="recto 3"/>  سيّرت صحبة أبو سليمان مولا القاضي جمال الدّين 
+<lb n="recto 4"/>  حملين دقيق مغربلة بغربال الشّعير 
+<lb n="recto 5"/>  فيحرص الأخ <app type="BL"><lem resp="Guo erroneously final nūn with a dot above, but see scan of original">أن </lem><rdg resp="“Friedman, Qusayr p. 405”">إن</rdg></app> <sic n="superfluous">لعي</sic><supplied reason="omitted" cert="high">لقي</supplied> لهم بيع تبيعهم لي ما تحتاج 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD">وصّيته </lem><rdg resp="Friedman, Quṣayr p. 405; Diem, P.QuseirArab. p. 166">وصيّة</rdg></app> في ذلك <app type="BL"><lem resp="APD">وتبعذ </lem><rdg resp="“AK”">وتنفذ</rdg></app> لي الإمرة والعرا 
+<lb n="recto 7"/>  وعلامتهم <app type="BL"><lem resp="APD">الحنّا </lem><rdg resp="“AK”">بالحنّاء</rdg></app> مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  واللّه اللّه في البطّتين الّتي سيّرت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  إن <app type="BL"><lem resp="“Guo corrected from ‫لعپپ‬; AK”"><sic n="superfluous">لعپپ</sic><supplied reason="omitted" cert="high">لقيت</supplied> </lem><rdg resp="“Guo”">كتبت </rdg><rdg resp="“Guo”">كفيت</rdg></app> للسّمن سعر في عشرة دراهم وطالع 
+<lb n="recto 10"/>  والزّيت أربع <gap reason="illegible" precision="low" extent="3"/> ونصف و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  وإن لمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  إلى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  موضع <supplied reason="lost" cert="high">جيّد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  لي الموالي <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السّلام</supplied> 
+<lb n="verso 3"/>  عليك ورحمة اللّه <gap reason="illegible" precision="low" extent="3"/>سلم <app type="BL"><lem resp="“Guo; AK”">لى </lem><rdg resp="“AK”">تسلّم</rdg></app> عـ<supplied reason="lost" cert="high">ـلي</supplied> 
+<lb n="verso 4"/>  الأخ سلطان وما ولده وأهله ووالد<supplied reason="lost" cert="high">ه</supplied> 
+<lb n="verso 5"/>  وإخواته إلّا بخير وتعرفه <app type="BL"><lem resp="APD">يجتهد </lem><rdg resp="“AK”">يجتهد</rdg></app> لي في الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 6"/>  الّتي وصّيته عنهَا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 7"/>  السّلام وحضر والدي يسلّم عليك الجميع 
+<lb n="verso 8"/>  وصلّى اللّه على محمّد <app type="BL"><lem resp="APD">واللّه </lem><rdg resp="“AK”">وآله</rdg></app> <app type="BL"><lem resp="APD">سلّم </lem><rdg resp="“AK”">وسلّم</rdg></app> 
+<lb n="verso top down 1"/>  إلى شونة أبو مفرّج يسلّم للأخ نجيب حفظه اللّه 
+<lb n="verso top down 2"/>  من علي بن بدر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ṣallà ăl lāhu ʿalà muḥammad:in wa ăl ʾāli lāhu hi ø wa sallama 
+ <lb n="2"/>ʾuʿlimu ăl ʾaḫa naǧība ḥafiẓa hu ăl lāhu wa tawallā hu ʾanna nī 
+ <lb n="3"/>sayyartu ṣuḥbaẗa ʾabū sulaymāna mawlā ăl qāḍī ǧamāli ăd dīni 
+ <lb n="4"/>ḥimlayni daqīq muġarbalaẗ:an bi ġirbāli ăš šaʿīri 
+ <lb n="5"/>fa yaḥriṣi ăl ʾaḫu ʾan ʾin laqiya la hum bayʿ tabīʿ him l ī mā taḥtāǧu 
+ <lb n="6"/>waṣṣayta waṣiyyaẗ:an hu ø fī ḏālika tunfiḏ wa tabʿaḏ l ī ăl ʾimraẗa wa ăl ʿrʾa 
+ <lb n="7"/>wa ʿalāmatu humu ø bi ăl ḥinnāʾi m*** *** 
+ <lb n="8"/>wa ăl lāhu ăl lāhu fī ăl baṭṭatayni ăllatī sayyartu *** 
+ <lb n="9"/>ʾin laqīta katabta kafayta li s samni siʿr fī ʿašaraẗi darāhima wa ṭāliʿ 
+ <lb n="10"/>wa ăz zayt ʾarbaʿa *** wa niṣf wa *** 
+ <lb n="11"/>wa ʾin lm*** *** 
+ <lb n="12"/>ʾilà *** 
+ <lb n="13"/>mawḍiʿ ǧayyid *** 
+ <lb n="14"/>l ī ăl muwālī *** ăs salāmu 
+ <lb n="15"/>ʿalay ka wa raḥmaẗu ăl lāhi *** sallim tusallim l ī ʿalà 
+ <lb n="16"/>ăl ʾaḫi sulṭāna wa mā waladu hu wa ʾahlu hu wa wālidu hu 
+ <lb n="17"/>wa ʾiḫwātu hu ʾillā bi ḫayr:in wa tuʿrif hu taǧtahid yaǧtahid l ī fī ăl *** 
+ <lb n="18"/>ăllatī waṣṣaytu hu ʿan hā *** 
+ <lb n="19"/>ăs salāmu wa ḥaḍara wālid ī yusallimu ʿalay ka ăl ǧamīʿi 
+ <lb n="20"/>wa ṣallà ăl lāhu ʿalà muḥammad:in wa ăl ʾāli lāhu hi ø wa sallama 
+ <lb n="21"/>ʾilà šūnaẗi ʾabū mufarriǧ:in yusallam li l ʾaḫi naǧība ḥafiẓa hu ăl lāhu 
+ <lb n="22"/>min ʿaliyyi bni badr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. May God bless the Prophet Muḥammad and grant him salvation!
+			<lb n="2"/>
+		I am writing to inform Brother Najīb - may God protect him and take care of him! - that I have
+			<lb n="3"/>
+		dispatched, accompanied by Abū Sulaymān the deputy of the judge Jamāl ad-Dīn,
+			<lb n="4"/>
+		two loads of flour sifted in a sieve used for barley.
+			<lb n="5"/>
+		... if there is an opportunity to sell them ... You do not require
+		Mein Bruder (sc. der Adressat) möge darauf bedacht sein, sie, wenn er für sie eine Verkaufsmöglichkeit findet, für mich zu verkaufen. Du brauchst
+		O brother, make sure to put them on sale. Sell them for me. Whatever you need, 
+			<lb n="6"/>
+		hierbei (sicherlich) keine Ermahnung. ... 
+		instruction for this. ...
+		simply order it; just send me the order (al-imra). ...
+		simply order it; just send me the order forms and [?], 
+			<lb n="7"/>
+		and their mark in henna ...
+		and their mark [ought to be? ...........]
+			<lb n="8"/>
+		O God, O God, [send them] in two baṭṭa-containers which had been dispatched [earlier? ......]
+			<lb n="9"/>
+		If you find [the right] price for clarified butter, at ten dirhams or higher [........]
+			<lb n="10"/>
+		and for oil, at four [dirhams ...........] and a half [.....]
+			<lb n="11"/>
+		even though it hasn&#039;t [..........................]
+			<lb n="12"/>
+		to [..................................................]
+			<lb n="13"/>
+		[Put the goods] in a [safe] place. [....... Say hello]
+			<lb n="14"/>
+		for me to the mayor [and ..........]. [Peace]
+			<lb n="15"/>
+		be upon you and God&#039;s mercy [be upon you]. Send my regards to
+			<lb n="16"/>
+		Brother Sulṭān. [I wish for] his son, his family, his father, 
+		... Seinem Jungen, seiner Familie, seinem Vater
+			<lb n="17"/>
+		and his brothers nothing but blessings. Tell him to work hard for me on the [deal]
+		und seinen Brüdern geht es bestens.
+			<lb n="18"/>
+		I entrusted him to do [........ And upon him to be]
+			<lb n="19"/>
+		peace. My father is here and he says hello to you all.
+			<lb n="20"/>
+		May God bless the Prophet Muḥammad and grant him salvation!
+			<lb n="21"/>
+		To Abū Mufarrij&#039;s warehouse, to the car of Brother Najīb - may God protect him!
+			<lb n="22"/>
+		From ʿAlī ibn Badr.
+</ab></div>
+</body>
+</text>
+</TEI>

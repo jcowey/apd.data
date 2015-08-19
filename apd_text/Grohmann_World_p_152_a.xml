@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="857" xml:id="Grohmann_World_p_152_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 152 a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_152_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113634</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>    الرّحمن الرّحيم 
+<lb n="2"/>  اكتب يا أبا اليمن أعزّك اللّه براه لأبي سهل أعزّه اللّه 
+<lb n="3"/>  بما أدّاه واحتسب بما أنفقه في برمهات 
+<lb n="4"/>  إن شا اللّه 
+<lb n="5"/>  الحمد للّه وصلّى اللّه على سيّدنا محمّد <gap reason="illegible" extent="6" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ŭktub yā ʾabā ăl yumni ʾaʿazza ka ăl lāhu barāʾaẗ:an li ʾabī sahl:in ʾaʿazza hu ăl lāhu 
+ <lb n="3"/>bi mā ʾaddā hu wa ĭḥtasib bi mā ʾanfaqa hu fī baramhāta 
+ <lb n="4"/>ʾin šāʾa ăl lāhu 
+ <lb n="5"/>ăl ḥamdu li l lāhi wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in ****** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		O Abuʾl-Yumn - may God render thee mighty - do write a receipt for Abû Sahl - may God render him mighty -
+			<lb n="3"/>
+		for that which he has paid, and put to his account what he has spent in Baremhât,
+			<lb n="4"/>
+		please God.
+			<lb n="5"/>
+		Praise be to God, and may the blessing of God be upon our lord Muḥammad......
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="658" xml:id="Raghib_March_3_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106745</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أكرمك اللّه بطاعته و<supplied reason="lost" cert="high">هباك</supplied> <supplied reason="lost" cert="high">كرامته</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">الدّنيا</supplied> 
+<lb n="3"/>  والآخرة برحمته وصل إلي كتابك <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وبضاعة</supplied> 
+<lb n="4"/>  فيها أحد اعـ<supplied reason="lost" cert="high">ـشر</supplied> ثوبا پالـ<gap reason="illegible" extent="1" unit="character" />ـالـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  وأرجـ<supplied reason="lost" cert="high">ـو</supplied>ا صار <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6 right margin 1"/>  كثير فرحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7 right margin 2"/>  الدّراهم ونصف <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8 top 3"/>  فهمت ما ذكرت من أمر الشّيخ يعز علي ألّا 
+<lb n="9 top 4"/>  يكون السّوق متحرّك حتّا أتولّا له البيع 
+<lb n="top 1"/>  لأبي هريرة أكرمه <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top 2"/>  جعفر <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+<lb n="top left"/>  بقيت ثمانية وجّهت الا<gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā 
+ <lb n="3"/>wa ăl ʾāḫiraẗi bi raḥmati hi waṣala ʾilay ya kitābu ka *** wa biḍāʿaẗ:un 
+ <lb n="4"/>fī hā ʾaḥada ĭʿšara ṯawb:an bi ăl *ʾl*** *** 
+ <lb n="5"/>wa ʾarǧū ṣāra **** 
+ <lb n="6"/>kaṯīr frḥ*** 
+ <lb n="7"/>ăd darāhimi wa niṣf *** 
+ <lb n="8"/>fahimtu mā ḏakarta min ʾamri ăš šayḫi yaʿizzu ʿalay ya ʾallā 
+ <lb n="9"/>yakūna ăs sūqu mutaḥarrik ḥattā ʾatawallā la hu ăl bayʿa 
+ <lb n="10"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu *** 
+ <lb n="11"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="12"/>baqiyat ṯamāniyaẗ:un waǧǧahtu ăl ʾ*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clé[ment et miséricordieux!]
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et [t&#039;accorde Sa magnanimité dans ce monde] 
+			<lb n="3"/>
+		et dans l&#039;autre par sa miséricorde! Ta lettre m&#039;est parvenue [.... ainsi qu&#039;une balle]
+			<lb n="4"/>
+		contenant onze pièces d&#039;étoffe .... [....]
+			<lb n="5"/>
+		J&#039;espère qu&#039;il est allé .[....]
+			<lb n="6"/>
+		nombreux. .... [
+			<lb n="7"/>
+		dirhams et demi [
+			<lb n="8"/>
+		J&#039;ai compris ce que tu mentionnais au sujet du šayḫ. Il m&#039;est pénible que 
+			<lb n="9"/>
+		le marché ne soit pas en hausse pour que je me charge de vendre pour lui.
+			<lb n="10"/>
+		À Abū Hurayra [- que Dieu] l&#039;honore! [
+			<lb n="11"/>
+		Ǧaʿfar b. [Aḥmad b. ʿAbd al-Muʾmin].
+			<lb n="12"/>
+		Restent huit. J&#039;ai adressé les [
+</ab></div>
+</body>
+</text>
+</TEI>

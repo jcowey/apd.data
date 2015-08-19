@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1675" xml:id="Prag_361" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 36</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_361</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169425</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم جريدة مـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">ا</supplied>ستخرج من الدّ<supplied reason="lost" cert="high">يوان</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـختص في نجم طوبه 
+ <lb n="2"/>  ‮ <expan><ex>پوم</ex></expan> التّلپا الپـ<supplied reason="lost" cert="high">ـسـ</supplied>ـعه عسر من طوپه انو پس واسراكه ‪δγ‮‪ʹ‬‬‬ پسوشه 
+ <lb n="3"/>  ‮ ‪βγ‮‪ʹ‬‬αα‬ 
+ <lb n="4"/>  <app type="BL"><lem resp="APD">‮نهار </lem><rdg resp="APD">بهار</rdg></app> <supplied reason="lost" cert="high">و</supplied>أ<supplied reason="lost" cert="high">شرا</supplied>كه γ قـ<supplied reason="lost" cert="high">ـفـ</supplied>ـرى الخولي ε قلّوص بن بطرس γ  بقطر الغسّال ‪βχδ‮‪ʹ‬‬‬ حروفة β‬ 
+ <lb n="5"/>  ‮<gap reason="illegible" precision="low" extent="3"/> αα ααα <supplied reason="lost" cert="high">α</supplied>αα ‪ααχη<supplied reason="omitted" cert="high">‮‪ʹ</supplied>‬‬‬ β‬ 
+ <lb n="6"/>  ‮يوم الأربعا طوبه κ أبـ<supplied reason="lost" cert="high">ـو</supplied> <supplied reason="lost" cert="high">نشّ</supplied> وشركاه δ قفرى الخولي γ <app type="BL"><lem resp="APD">قلوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> بن بطرس α بشوشة α حروفة χ سرور χ 
+ <lb n="7"/>  ‮ ββ ααα α 
+ <lb n="8"/>  <app type="BL"><lem resp="APD">‮ </lem><rdg resp="APD">بهار</rdg></app> بهار پن سعپد 
+ <lb n="9"/>  ‮ <supplied reason="lost" cert="high">پـ</supplied>ـوم الحمپس طوپه ‪κα‬ 
+ <lb n="10"/>  <app type="BL"><lem resp="APD">‮فلوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> بطرس <supplied reason="lost" cert="high">γ</supplied> <app type="BL"><lem resp="APD">نـ<supplied reason="lost" cert="high">ـهار</supplied> </lem><rdg resp="APD">بهار</rdg></app> بن سعيد δ حروفة χ سرور α بقطر الغسّال β أبو نش وشركاه ‪αχ‬‬ 
+ <lb n="11"/>  ‮‮ααα <supplied reason="lost" cert="high">β</supplied>β‬ ‪γ‮‪ʹ‬‬κ‮‪ʹ‬‬δ‮‪ʹ‬‬χ‬ α ‪αγ‮‪ʹ‬‬ι‮‪ʹ‬‬β‮‪ʹ‬‬η‮‪ʹ‬‬‬ ‪αχ‬‬ 
+ <lb n="12"/>  ‮<gap reason="illegible" precision="low" extent="3"/> يوم الجمعة طوبه ‪κβ‬ <del rend="erasure" status="unremarkable">پوم</del> <del rend="erasure" status="unremarkable">السپت</del> يوم الاثنين طوبه ‪κε‬ <expan><ex>يوم</ex></expan> ‪γʹ‬ طوبه ‪κϛ‬ 
+ <lb n="13"/>  <del rend="erasure" status="unremarkable">پسوسه</del> <del rend="erasure" status="unremarkable">وسرپكه</del> 
+ <lb n="14"/>  <app type="BL"><lem resp="APD">‮<supplied reason="lost" cert="high">فـ</supplied>ـلوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">بطرس</supplied> ‪<gap reason="illegible" extent="1" unit="character" />‮‪ʹ‬‬‬ <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بهار</supplied> </lem><rdg resp="APD">بهار</rdg></app> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سعـ</supplied>ـيد γ بشـ<supplied reason="lost" cert="high">ـو</supplied>شة وشريكه قفرى الخولي α قفري β بو نش α بقطر α‬ 
+ <lb n="15"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">γ</supplied> α α αα α α‬ 
+ <lb n="16"/>  <expan><ex>يوم</ex></expan> السّبت 
+ <lb n="17 left"/>  <app type="BL"><lem resp="APD">‮فلوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> α قفرى α 
+ <lb n="17 right"/>  ‮ پوم الحمپس طوپه 
+ <lb n="18"/>  ‮أبـ<supplied reason="lost" cert="high">ـو</supplied> نش وشركاه <supplied reason="lost" cert="high">γ</supplied> <app type="BL"><lem resp="APD">قلّوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> بن بطرس η قفرى الخولي β بشـ<supplied reason="lost" cert="high">ـو</supplied>شة γ سرور بن <unclear reason="undefined" cert="high">منقاش</unclear> α بشوشة γ‬ 
+ <lb n="19"/>  ‮ ‪<supplied reason="lost" cert="high">α</supplied>β‬ δ ‪βαα‬ β 
+ <lb n="20"/>  ‮ پوم ألاپپپن امـ<supplied reason="lost" cert="high">ـسپر</supplied> <supplied reason="lost" cert="high">β</supplied> ‪ι‪<supplied reason="lost" cert="high">‬β</supplied>‬ ε <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پوم</supplied> <supplied reason="lost" cert="high">ألپلپـ</supplied>ـا امسپر 
+ <lb n="21"/>  ‮بقطر سرور <app type="BL"><lem resp="APD">فلّوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> حروفة قفرى ‪βχ‬ بقطر الغسّال <app type="BL"><lem resp="APD">فلوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> أبو نشّ‬ 
+ <lb n="22"/>  ‮χ χ ‪δʹ‬ χ ‪ααχ‬ ‪δʹ‬ χ <supplied reason="lost" cert="high">α</supplied> 
+ <lb n="23"/>  الجملة 
+ <lb n="24"/>  <app type="BL"><lem resp="APD">‮<supplied reason="lost" cert="high">بـ</supplied>ـهار </lem><rdg resp="APD">بهار</rdg></app> بن سعيد ‪ιγκ‮‪ʹ‬‬δ‮‪ʹ‬‬‬ قفرى الخولي ‪ιζ‬ <app type="BL"><lem resp="APD">قلّوص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> بن بطرس ‪ιηγ‮‪ʹ‬‬κ‮‪ʹ‬‬δ‮‪ʹ‬‬‬ أبو نش ‪ιδχ‬ بشوشة ‪‪<supplied reason="lost" cert="high">‬ι‪</supplied>‬βη‮‪ʹ‬‬‬‬ 
+ <lb n="25"/>  ια‪<gap reason="illegible" extent="1" unit="character" />‬‬ عدد عدد ‪ιζχ‬ عدد ‪ι‮<del rend="erasure" status="unremarkable">‬ηγ‮‪ʹ‬‬κ‮‪ʹ‬‬δ‮‪ʹ‬</del>‬‬ ‪ιδχγ‮‪ʹ‬‬‬ ‪ιγ‮‪‬‬‬‬‬ 
+ <lb n="26"/>  ‮حروفة‬‮ ‪γϛ‮‪ʹ‬‬ϛ‮‪ʹ‬‬η‮‪ʹ‬‬‬ بقطر‬‮ الغسّال‬‮ ‪δχγ‮‪ʹ‬‬κ‮‪ʹ‬‬δ‮‪ʹ‬‬χ‬ سرور‬‮ منقاش‬‮ ‪βχ‬‬ 
+ <lb n="27"/>  ‮‪γχ‬ ‪εϛ‮‪ʹ‬‬‬ ‪βχδ‮‪ʹ‬‬‬‬ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ǧarīdaẗu mā ĭstaḫraǧa mina ăd dīwāni ăl muḫtaṣṣi fī naǧmi ṭūbiha 
+ <lb n="2"/>yawma ăṯ ṯulāṯāʾi ăt tāsiʿaẗa tisʿaẗa ʿašara min ṭūbiha ʾabū našš:in wa ʾašrāku hu 4+1/3 bašūšaẗu 5+1/4 
+ <lb n="3"/>2+1/3+1+1 1+2+1+1 
+ <lb n="4"/>bahāru nahāru wa ʾašrāku hu 3 qufrà ăl ḫawliyyu 5 qullūṣu bnu buṭrusa 3 buqṭuru ăl ġassālu 2+1/2+1/4 ḥurūfaẗu 2 
+ <lb n="5"/>*** 1+1 1+1+1 1+1+1 1+1+1/2+1/8 2 
+ <lb n="6"/>yawma ăl ʾarbaʿāʾi ṭūbiha 20 ʾabū našš:in wa šurakāʾu hu 4 qufrà ăl ḫawliyyu 3 fallūṣu falūṣu filūṣu qullūṣu qulūṣu bnu buṭrusa 1 bašūšaẗu 1 ḥurūfaẗu 1/2 surūr:un 1/2 
+ <lb n="7"/>2+2 1+1+1 1 1 
+ <lb n="8"/>bahāru nahāru bnu saʿīd:in 1 
+ <lb n="10"/>yawma ăl ḫamīsi ṭūbiha 21 1 
+ <lb n="11"/>fallūṣu falūṣu filūṣu qullūṣu qulūṣu buṭrusa 3 bahāru nahāru bnu saʿīd:in 4 ḥurūfaẗu 1/2 surūr:un 1 buqṭuru ăl ġassālu 2 ʾabū našš:in wa šurakāʾu hu 1+1/2 
+ <lb n="12"/>1+1+1 2+2 1/3+1/24+1/48 1 1+1/3+1/12+1/3+1/8 1+1/2 
+ <lb n="13"/>*** yawmu ăl ǧumʿaẗi ṭūbiha 22 yawmu ăl ĭṯnayni ṭūbiha 25 yawmu 3 ṭūbiha 26 
+ <lb n="14"/>bašūšaẗu wa šarīku hu 
+ <lb n="15"/>fallūṣu falūṣu filūṣu qullūṣu qulūṣu bnu buṭrusa 1/* bahāru nahāru bnu saʿīd:in 3 bašūšaẗu wa šarīku hu qufrà ăl ḫawliyyu 1 qufrà 2 bū našš:in 1 buqṭuru 1 
+ <lb n="16"/>*** *** 3 1 1 1+1 1 1 
+ <lb n="17"/>yawma ăs sabti 
+ <lb n="18"/>fallūṣu falūṣu filūṣu qullūṣu qulūṣu 1 qufrà 1 
+ <lb n="19"/>yawma ăl ḫamīsi ṭūbiha 27 
+ <lb n="20"/>ʾabū našš:in wa šurakāʾu hu 3 fallūṣu falūṣu filūṣu qullūṣu qulūṣu bnu buṭrusa 8 qufrà ăl ḫawliyyu 2 bašūšaẗu 3 surūru bnu minqāša 1 bašūšaẗu 3 
+ <lb n="21"/>1+2 4 2+1+1 2 1+1+1 
+ <lb n="22"/>yawma ăl ĭṯnayni ʾamšīra 2 12 5 *** yawma ăṯ ṯulāṯāʾi ʾamšīra 3 
+ <lb n="23"/>buqṭuru surūr:un fallūṣu falūṣu filūṣu qullūṣu qulūṣu ḥurūfaẗu qufrà 2+2/3 buqṭuru ăl ġassālu fallūṣu falūṣu filūṣu qullūṣu qulūṣu ʾabū našš:in 
+ <lb n="24"/>1/2 2/3 1/4 1/2 1+1+2/3 1/4 2/3 1 
+ <lb n="25"/>ăl ǧumlaẗu 
+ <lb n="26"/>bahāru nahāru bnu saʿīd:in 13+1/24 qufrà ăl ḫawliyyu 17 fallūṣu falūṣu filūṣu qullūṣu qulūṣu bnu buṭrusa 18+1/3+1/24 ʾabū našš:in 14+1/2 bašūšaẗu 12+1/8 
+ <lb n="27"/>11+* ʿadad ʿadad 17+2/3 ʿadad 18+1/3+1/24 14+1/2+1/3 13 
+ <lb n="28"/>ḥurūfaẗu 1+1/6+1/6+1/8 buqṭuru ăl ġassālu 4+1/2+1/3+1/24+1/48 surūru minqāš:in 2+2/3 
+ <lb n="29"/>3+1/2 5+1/6 2+1/2+1/4 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen, Gütigen! Aufstellung des[sen], was aus der [Spezialsteuerro]lle bezüglich der Rate des (Monats) Tybi [ausge]zogen worden ist.
+		 <lb n="2"/>
+ 	  Am Dienstag, den [neu]nzehnten Tybi: Abū Našš und seine Partner 4 1/3 Bešūše 5 1/4
+		 <lb n="3"/>
+ 	  2 1/3 1 1 _ 1 2 1 1
+		 <lb n="4"/>
+ 	  Nahar und] seine P[artner] 3 Qu[f]rā, der Gärtner, 5 Qollōṣ b. Buṭrus 3 Boqṭor, der Wäscher 2 1/2+1/4 Ḥrūfe 2
+		 <lb n="5"/>
+ 	  1 1 1 1 1 _ 1 1 [1] _ 1 1 1/2 1/4 _ 2
+		 <lb n="6"/>
+ 	  Mittwoch, 20. Tybi: Ab[ū Našš] und seine Partner 4 _ Qufrā, der Gärtner, 3 _ Qollōṣ b. Buṭrus 1 _ Bešūše 1 _ Ḥrūfe 1/2 _ Surūr 1/2
+		 <lb n="7"/>
+ 	  2 2 _ 1 1 1 _ 1 _ 1
+		 <lb n="8"/>
+ 	  Nahār b. Saʿīd 1
+		 <lb n="10"/>
+ 	  Donnerst[ag], 21. Tybi: 1
+		 <lb n="11"/>
+ 	  Qollōṣ b. [Bu]ṭrus [2 Nahār] b. Saʿīd 4 Ḥrūfe 1/2 Surūr 1 Boqṭor, der Wäscher, 2 Abū Našš und seine Partner 1 1/2
+		 <lb n="12"/>
+ 	  2 [2] _ 1/3 +1/24+1/48 _ 1 _ 1 1/3 1/12 1/3 1/8 _ 1 1/2
+		 <lb n="13"/>
+ 	  [...] Freitag, 22. Tybi: 〚Samstag〛_ Montag, 25. Tybi: _ Dienstag, 26. Tybi:
+		 <lb n="14"/>
+ 	  〚Bešūše und sein Partner〛
+		 <lb n="15"/>
+ 	  [Qo]llōṣ Buṭrus [3] Na[hār b. Saʿ]īd 3 Beš[ū]še und sein Partner 1 Qufrā, der Gärtner, 1 Qufrā 2 Būnašš 1 Boqṭor 1
+		 <lb n="16"/>
+ 	  [2 1] _ [...] 3 _ 1 _ 1 1 _ 1 _ 1
+		 <lb n="17"/>
+ 	  Samstag:
+		 <lb n="18"/>
+ 	  Qollōṣ 1 Qufrā 1
+		 <lb n="19"/>
+ 	  Donnerstag, 27. Tybi:
+		 <lb n="20"/>
+ 	  Ab[ū] Našš und seine Partner [3] Qollō[ṣ] b. Buṭrus 8 Qufrā, der Gärtner, Beš[ū]še 3 Surūr b. Minqāš 1, Bešūše 3
+		 <lb n="21"/>
+ 	  1 2 _ 2 1 1 4 _ 2 _ [1] 1 1
+		 <lb n="22"/>
+ 	  Montag, [2.] Am[šīr:] 1[2] _ 5 [Dienstag,] 3. Amšīr:
+		 <lb n="23"/>
+ 	  Boqṭor _ Surūr _ Qollōṣ _ Ḥrūfe _ Qufrā 2 2/3 _ Boqṭor, der Wäscher, _ Qollōṣ _ Abū Našš
+		 <lb n="24"/>
+ 	  1/2 _ 2/3 _ 1/4 _ 1/2 _ 1 1 2/3 _ 1/4 _ 2/3 _ 1
+		 <lb n="25"/>
+ 	  die Summe:
+		 <lb n="26"/>
+ 	  [Na]hār b. Saʿīd 13 1/24 _ Qufrā, der Gärtner, 17 _ Qollōṣ b.Buṭrus 18 1/3+1/24 _ Abū Našš 14 1/2 _ Bešūše [1]2 1/8
+		 <lb n="27"/>
+ 	  11 gezählte (Dīnāre) _ gezählte (Dīnāre) 17 2/3 _ gezählte (Dīnāre) 1[8 1/3+1/24] _ 14 1/2+1/3 _ 13
+		 <lb n="28"/>
+ 	  Ḥrūfe 3 1/6+1/6+1/8 _ Boqṭor, der Wäscher, 4 1/2+1/3+1/24+1/48+1/48 _ Surūr Minqāš 2 2/3
+		 <lb n="29"/>
+ 	  3 1/2 _ 5 1/6 _ 12 1/2+1/4
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

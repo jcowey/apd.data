@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="737" xml:id="Grohmann_Probleme_06" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_06</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106818</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮وبقي ‪δ‬ بقي 
+<lb n="2"/>  سنة ‪ριζ‬ سنة 
+<lb n="3"/>  بقي ودفعوا من جزية وبقي ودفعوا من جزية 
+<lb n="4"/>  <supplied reason="lost" cert="high">دينـ</supplied>ـر دينر دينر دينر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa baqiya 4 baqiya 
+ <lb n="2"/>sanaẗu 117 sanaẗ:un 
+ <lb n="3"/>baqiya wa dafaʿū min ǧizyaẗ:in wa baqiya wa dafaʿū min ǧizyaẗ:in 
+ <lb n="4"/>dīnār dīnār dīnār dīnār 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		und als Rest bleibt 4        als Rest bleibt
+			<lb n="2"/>
+		Jahr 117        Jahr
+			<lb n="3"/>
+		als Rest bleibt        und sie haben an Kopfsteuer gezahlt        und als Rest bleibt        und sie haben an Kopfsteuer gezahlt
+			<lb n="4"/>
+		[Dīnā]r        Dīnār        Dīnār        Dīnār
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1343" xml:id="Remondon_Edfou_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RémondonEdfou 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Remondon_Edfou_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169144</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وصل إلي من قبل القسم سبعة وسبعين 
+<lb n="2"/>  ‮ڤادوس ζο ولپس لي عنده شي 
+<lb n="3"/>    ‮ڤبل پپده ودلك ڤى شهر رمصان سپه 
+<lb n="4"/>  وكتب أحمد بن محمد بخطه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>waṣala ʾilay ya min qibali ăl qāsimi sabʿaẗ:un wa sabʿīna 
+ <lb n="2"/>qādūs 77 wa laysa l ī ʿinda hu šayʾ:un 
+ <lb n="3"/>qabila bi yadi hi wa ḏālika fī šahri ramaḍāna sanaẗa 289 
+ <lb n="4"/>wa kataba ʾaḥmadu bnu muḥammad:in bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		J&#039;ai reçu de la part d&#039;al Qāsim soixante-dix-sept
+			<lb n="2"/>
+		godets, 77, et il n&#039;y a rien qu&#039;il me doive.
+			<lb n="3"/>
+		Muḥammad b. Aḥmad (ligne 4) a reçu (cela) en main propre, et cela au mois de ramaḍān l&#039;année 289.
+			<lb n="4"/>
+		Et il a écrit [cela] de sa propre main. Signature.
+</ab></div>
+</body>
+</text>
+</TEI>

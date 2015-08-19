@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="485" xml:id="Grohmann_TWAe_26" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 26 (= P.World p. 158)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_26</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106670</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  الّذي عمل <app type="BL"><lem resp="“Grohmann, Wirtsch.”">الخولي </lem><rdg resp="“Grohmann, Wirtsch.”">الحرليّ </rdg><rdg resp="“Grohmann, World”">أبجول</rdg></app> <app type="BL"><lem resp="“Grohmann, Wirtsch.; Grohmann, World”">وهروح </lem><rdg resp="“Grohmann, World”">وهروج </rdg><rdg resp="“Grohmann, Wirtsch.; reading erroneously ‫لڤروح‬, but see plate lines 2 and 6”">ڤروح</rdg></app> 
+ <lb n="3"/>  في قلع حلفا قبل الخليج 
+ <lb n="4"/>  لزرع القصب فدّان واحد 
+ <lb n="5"/>  بربع دينار δʹ‎ 
+ <lb n="6"/>  منه <app type="BL"><lem resp="“Grohmann, Wirtsch.”">لالخولي </lem><rdg resp="“Grohmann, Wirtsch.”">لالحرلىّ </rdg><rdg resp="“Grohmann, World”">لأبجول‬</rdg></app> ηʹ‎ <app type="BL"><lem resp="“Grohmann, Wirtsch.; Grohmann, World”">ولهر<supplied reason="lost" cert="high">و</supplied>ج </lem><rdg resp="“Grohmann, World”">ولهروج </rdg><rdg resp="“Grohmann, Wirtsch.”">ولڤروح</rdg></app> ηʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ʿamila ăl ʾaba ḫawliyyu ḫiwaliyyu ḥrliyyu ǧawl:in wa harūǧu hrwḥu Frwḥu 
+ <lb n="3"/>fī qalʿi ḥalfāʾa qabla ăl ḫalīǧi 
+ <lb n="4"/>li zarʿi ăl qaṣabi faddān:un wāḥid:un 
+ <lb n="5"/>bi rubʿi dīnār:in ‪‪1/4 
+ <lb n="6"/>min hu li ăl ʾaba ḫiwaliyyi ḥrliyyi ǧawl:in 1/8 wa li harūǧa hrwḥa Frwḥa 1/8 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes des Barmherzigen, Gütigen.
+ 	  In the name of God, the Compassionate, the Merciful!
+		 <lb n="2"/>
+ 	  Was al-Ḫiwalī und Hrwḥ (?) gearbeitet haben
+ 	  What Apa Gôl and Harûg (?) have done
+		 <lb n="3"/>
+ 	  an Ausrotten von Ḥalfā vor dem Kanal,
+ 	  respecting the rooting out of ḥalfâ on the opposite bank of the canal
+		 <lb n="4"/>
+ 	  an Säen von Zuckerrohr, 1 Faddān
+ 	  for the cultivating of sugar-cane: one faddân
+		 <lb n="5"/>
+ 	  for a quarter of a dînâr
+ 	  um ein Viertel Dīnār 1/4.
+		 <lb n="6"/>
+ 	  Davon ist für al-Ḫiwalī 1/8 und für Hrwḥ 1/8.
+ 	  of which 1/8 is for Apa Gôl and 1/8 is for Har[û]g.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

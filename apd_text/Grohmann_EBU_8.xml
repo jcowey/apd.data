@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="696" xml:id="Grohmann_EBU_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 08</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106777</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮يوم الثّلثا فمنوت ‪κϛ‬ 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى يوسف بن اللّيث عمّا <unclear reason="undefined" cert="high">يلزمه</unclear> من بقيّة الخراج 
+<lb n="4"/>  عن المدينة ربع دينر داخل أدّاه إلى إسحق بن سمعون 
+<lb n="5"/>  القسطال بحضرة صلح بن الوليد <sic n="superfluous">حلڤته</sic> <supplied reason="omitted" cert="high">خليفة</supplied> عبد اللّه 
+<lb n="6"/>  بن خلف عامل سعيد بن عبد الرّحمن مولى أمير المومپپن 
+<lb n="7"/>  أعزّه اللّه على خراج الأشمونين وأسفل <app type="BL"><lem resp="APD">أنصنا </lem><rdg resp="Diem">أنصنى</rdg></app> 
+<lb n="8"/>  وقوص لخراج <app type="BL"><lem resp="APD">لسنة </lem><rdg resp="Diem">سنة</rdg></app> ثلثة وعشرين ومائتين 
+<lb n="seal"/>  إسحق بن سمعون 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawma ăṯ ṯulāṯāʾi faminūta 16 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà yūsufu bnu ăl layṯi ʿammā yalzamu hu min baqiyyaẗi ăl ḫarāǧi 
+ <lb n="4"/>ʿani ăl madīnaẗi rubʿa dīnār:in dāḫil ʾaddā hu ʾilà ʾisḥāqa bni simʿūna 
+ <lb n="5"/>ăl qusṭāli bi ḥaḍraẗi ṣāliḥi bni ăl walīdi ḫalīfaẗi ʿabdi ăl lāhi 
+ <lb n="6"/>bni ḫalaf:in ʿāmili saʿīdi bni ʿabdi ăr raḥmāni mawlà ʾamīri ăl muʾminīna 
+ <lb n="7"/>ʾaʿazza hu ăl lāhu ʿalà ḫarāǧi ăl ʾušmūnayni wa ʾasfali ʾanṣinā ʾanṣinà 
+ <lb n="8"/>wa qūṣa li ḫarāǧ:in li sanaẗa sanaẗi ṯalāṯaẗ:in wa ʿišrīna wa miʾatayni 
+ <lb n="9"/>ʾisḥāqu bnu simʿūna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Dienstag, 16. Phamenoth.
+			<lb n="2"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="3"/>
+		Gezahlt hat Yūsuf b al-Laiṯ von dem, was ihm aus dem Rest der Grundsteuer
+			<lb n="4"/>
+		von der (Kreis)metropole oblag, einen Viertel-Dīnār als Eingang; er hat ihn gezahlt an den Zahlmeister Isḥāq b. Simʿūn
+			<lb n="5"/>
+		in Gegenwart des Ṣāliḥ b. al-Walīd, des Stellvertreters des ʿAbdallāh
+			<lb n="6"/>
+		b. Ḫalaf, Kreisfinanzdirektors des Saʿīd b. ʿAbd ar-Raḥmān, Freigelassenen des Beherrschers der Gläubigen
+			<lb n="7"/>
+		- Gott stärke ihn - über die Steuer von al-Ušmūnain, Unter-Anṣinā
+			<lb n="8"/>
+		und Qūṣ, für die Grundsteuer für das Jahr zweihundertdreiundzwanzig.
+</ab></div>
+</body>
+</text>
+</TEI>

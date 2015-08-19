@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2067" xml:id="DerenbourgA" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DerenbourgCharte A (= P.ColinCharte A = P.LeonTelloPoblacion version A)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">DerenbourgA</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="basmala"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على محمّد وعلى آله 
+<lb n="1"/>  معرّفة يكون ومحقّقة للكل كيف أنا فراي غيذ داشبراق أميل بريور من الأشبطال دشن جوان دجرشلام أنّبرّة أنتن ديانتاش فزار إبرواباار منافع خير إونور من الأشبطال المذكور 
+<lb n="2"/>  برأي من القمان ددوراش ومن الافرايلين من المذكور بريوارادوا وبرأي اشبيصيال ميانت وإقرار من دون فراي فلكوا دبارا حابس موضعنا في قلجاطش ومن دون فراي 
+<lb n="3"/>  غرسيّة شنجاس دقي بقريه دقلجاطش ومن دون فراي شنس داأطايه ومن فراي رمون دبيرينش قلوير قلجاطش نعطوا ونقرّوا ببلصيون وشلار ومسكن في قريتنا أسران 
+<lb n="4"/>  وجهاتها لكم الجماعة من المسلمين الّذين تكونوا في أسران معلوم من ساعة لكم سعيد الطّرّالي صاحب الصّلاة ولكم محمّد المرابت ولكم أحمد دقريالّة ولكم محمّد قرلّانه ولكم 
+<lb n="5"/>  يوسف <app type="BL"><lem resp="APD">الغوزي </lem><rdg resp="Colin">الغوريّ</rdg></app> ولكم عيسى جنتيل ولكم موسى بن سلامة علي ولجميع جماعتكم ولكل من يجي إلى <app type="BL"><lem resp="APD">عمّار </lem><rdg resp="APD">عمار</rdg></app> أسران في الأمر المتابع وبالشّروط المعترفة أسفال أوّل شي أش أشّبار 
+<lb n="6"/>  لكل عامر منكم أو لكل من يجي للسّكنا من هنا إلى أمام نحتاجوا أن نعطوا نحن والأشبطال المذكور قشال من دار كامل في الموضع المذكور وحومات <app type="BL"><lem resp="as León indicates, this is taken from doc. B">هو </lem><rdg resp="Colin, León">أش</rdg></app> <app type="BL"><lem resp="as León indicates, this is taken from doc. B">معلوم </lem><rdg resp="Colin, León">أشّبارْ</rdg></app> <app type="BL"><lem resp="APD">بلصطة </lem><rdg resp="Colin">بلسطة</rdg></app> إشلار عن ديار 
+<lb n="7"/>  أو أديار دبادش فزار كل عامر منكم لنفقته وثمانية أقفزة مزرعة من مقادير من كيل تطيلة وكل عشرة <app type="BL"><lem resp="APD">رجالة </lem><rdg resp="APD">رجّالة</rdg></app> من كرمات وهذا هو قشال كامل وهذا كل قشال كامل من <app type="BL"><lem resp="APD">المذكور </lem><rdg resp="Colin">المذكورة</rdg></app> <app type="BL"><lem resp="APD">وفوق </lem><rdg resp="Colin">فوق</rdg></app> أن يغرم 
+<lb n="8"/>  ثمانية دنانير ونصف عن مغرم من سكّة نبرّة أش أشّبار الخمسة دنانير عن الدّار والثّلاثة دنانير ونصف عن الكرم وإن كان ويجئ ويريد ويحبس نصف قشال أن ينصف نصف المغرم في المغرم المذكور والخمسة 
+<lb n="9"/>  دنانير المذكورة عن مغرم الدّار أن ينصفها عن كل عام عن طول الأبد في عيد طودش شنطوش والمسمّية الثّلاثة دنانير ونصف عن الكرمات في عيد شن ميكايل من كل عام وكل قشال له أن يعطي زوج 
+<lb n="10"/>  دجاج <app type="BL"><lem resp="APD">للقشطلّان </lem><rdg resp="Colin">للقشتلّان</rdg></app> أو لكل قايد يكون في أسران في كل عام في عيد ندال وهذا كلّه عن شرط أيضا بأن أنتم المذكورة الجماعة وسكّان المسمّية والّذين يكونوا من هنا إلى أمام أن تعطوا للأشبطال المذكور 
+<lb n="11"/>  في هذا الموضع الثّلث من كل ما تجمعوا من طعام ومن عنب ومن زيتون ومن فول ومن جلبّان ومن كل نوع من كل ما تجمعوا ومن كل فاكهة وأجنية جنا فيه وهذا كلّه أن يعملوه في عهد وميثاق وصدق 
+<lb n="12"/>  وكل مسلم <app type="BL"><lem resp="APD">ان </lem><rdg resp="APD">ان</rdg></app> يحبس دار ونار في أسران المذكور أن يغرم لقايد أسران الّذي يكون على الأشبطال المذكور ربع من قمح النّصافة من قمح والنّصافة من شعير في شهر أغشت عن كل عام عن طول الأبد وكل دار 
+<lb n="13"/>  أن يعطي للأشبطال المذكور أربعة مرافق من تبن في كل عام في الأنادر وذالك <app type="BL"><lem resp="APD">نشرط </lem><rdg resp="Colin">بشرط</rdg></app> أنتم وكل عامر مسلم ومسلمين في الموضع المذكور أن تعملوا كل نفقة <app type="BL"><lem resp="APD">ان </lem><rdg resp="APD">ان</rdg></app> يحتاج في الموضع المذكور عن الأميا 
+<lb n="14"/>  كل واحد منكم كما يسقي وفي قلع الكتّان والقنّم هذا هو أن يكون جميع الزّريعة من الكتّان والقنّم من الّذين <app type="BL"><lem resp="APD">يزرعونها </lem><rdg resp="Colin">يزرعوها</rdg></app> ومتى ما يكون الكتّان والقنّم مطبوخ ويابس ومربوط أن يقسموها الثّلث 
+<lb n="15"/>  للأشبطال والثّلثين من كل واحد منهم والأشبطال المذكور <app type="BL"><lem resp="APD">ان </lem><rdg resp="APD">ان</rdg></app> ينصف الثّلث من النّفقة من الدّخول في البرقة والخروج من البرقة أيضا أن يطبخوا المسلمين المذكورة خبزهم في فرن الأشبطال 
+<lb n="16"/>  المذكور عن دايم الدّهر وأن يعطوا من ستّة عشر خبزة واحد وأن لا يقطعوا أشجار ولا يقلعوا كرمات دون أمر قايد أسران وإن كان ويصطلحوا زوج مسلمين أو ثلثة ويتّفقوا في دار واحد وكل واحد 
+<lb n="17"/>  منهم يحبس زوجته ويوقد نار أن يعمل كل واحد منهم حقّه للأشبطال أن يغرم كما كل واحد من الأخر كما يحبس عن دار أيضا للقمنددور <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">ان</rdg></app> يكون في قلجاطش عن زمان أو لمتع أسران ان <app type="BL"><lem resp="APD">يكون </lem><rdg resp="APD">أن</rdg></app> فيه 
+<lb n="18"/>  <app type="BL"><lem resp="APD">قمنددور </lem><rdg resp="Colin. The defective variant is taken from B">قمانددور</rdg></app> أن تحرزوه وتحبسوه عن مول في اسم الأشبطال المذكور وأن يكون هذا حاكمكم ومأموركم وأن يكون جميع خصماتكم لحكمه وإن كان تريدوا تعملوا من حكمه ارتفاع أن تعملوه أمام 
+<lb n="19"/>  كل قاضي <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">ان</rdg></app> يكون مسلم من تطيلة كما <app type="BL"><lem resp="APD">هو </lem><rdg resp="León">و</rdg></app> سنّتكم وشرعكم وأن تكونوا أجسامكم وأموالكم ملتزمة للأشبطال المذكور وذالك بشرط ألّا يمكن لأحد منكم أن تخرجوا من الموضع المذكور إن كان لكم أن تعطوا شي للأشبطال المذكور وإن كان 
+<lb n="20"/>  يعملها أحد منكم أن يكون مردود في أي موضع يمشي وكل واحد منكم لا يبيع ولا يرهن من ميراث الأشبطال <app type="BL"><lem resp="APD">لنصراني </lem><rdg resp="Colin">لنسراني</rdg></app> ولا ليهودي إلّا بينكم في البين من كل عامر مسلم يكون منكم وأيضا أن <app type="BL"><lem resp="APD">تستعملوا </lem><rdg resp="Colin">تستغلّوا</rdg></app> الأميا والرّبيع من الموضع المذكور بدوابّكم 
+<lb n="21"/>  وغنمكم ومن الأشبطال كذالك كما جيران والأشبطال المذكور لا يسوق غنم آخر ولا دواب <app type="BL"><lem resp="APD">اخر </lem><rdg resp="León">من</rdg></app> <app type="BL"><lem resp="APD">ومن </lem><rdg resp="León">موضع</rdg></app> رعآته ونحن نحبسوا عن الاشبطال المذكور السيده العظمى الديات <app type="BL"><lem resp="APD">والجنيات </lem><rdg resp="APD">العضمى</rdg></app> وغصب الطرقات وغصب النسا والاشياه الاخر الذين يكون 
+<lb n="22"/>  في الموضع المذكور وحوماته والأشبطال المذكور أن يحبسوكم في شرعكم وسنّتكم وعوايدكم كما ينبغي لهذا العامرين ونحن الجماعة المذكورة عنّا وعن الّذين يكونوا من بعدنا <app type="BL"><lem resp="APD">ان </lem><rdg resp="APD">ان</rdg></app> يعمروا في الموضع المذكور <app type="BL"><lem resp="APD">نخود </lem><rdg resp="Colin. Derenbourg's readings seems to be correct for B">نخذو</rdg></app> <supplied reason="lost" cert="high">الّـ</supplied>ـعطيّة المذكورة عنكم 
+<lb n="23"/>  مولانا البريور <app type="BL"><lem resp="APD">ونخودكم </lem><rdg resp="Colin. Derenbourg's readings seems to be correct for B">ونخذكم</rdg></app> عن مول لكم <app type="BL"><lem resp="APD">ولجميع </lem><rdg resp="León">وجميع</rdg></app> الافرايلين من الأشبطال <app type="BL"><lem resp="APD">ولآمره </lem><rdg resp="Colin">ولأمرهم</rdg></app> <app type="BL"><lem resp="APD">ونحن </lem><rdg resp="Colin">ø</rdg></app> نكونوا عبيدكم منكم ومن الاشبطال المذكور ونقبلوا ايديـكم كمأ مول ان <app type="BL"><lem resp="APD">نحتاجوا </lem><rdg resp="APD">ان</rdg></app> ان نطيعه <app type="BL"><lem resp="APD">فى </lem><rdg resp="Colin">نطيعوه</rdg></app> كل شى ونحن البريور المذكور والجماعه المذكوره 
+<lb n="24"/>  نرغبوا لدون بطره غرسيّس المتقبّل حابس طابع سيّدنا الملك من نبرّة في تطيلة أن يجعل الطّابع من سيّدنا الملك من نبرّة <app type="BL"><lem resp="APD">معلن </lem><rdg resp="Colin">معلّق</rdg></app> في هذا العقد وأنا دون بطره غرسيّس المذكور لرغبة الجيمة 
+<lb n="25"/>  المذكورة جعلت الطّابع <app type="BL"><lem resp="APD">معلن </lem><rdg resp="Colin">معلّق</rdg></app> في هذا العقد لتثبيت جميع الأشيا المذكورة وأشهد على <app type="BL"><lem resp="APD">ذلك </lem><rdg resp="Colin">ذالك</rdg></app> من سمعه منهم وعرفهم وذالك في شهر فبرير <app type="BL"><lem resp="APD">الثامن </lem><rdg resp="Colin">في</rdg></app> عشر يوم منه الذى من سنه احدا عشر وسبع <app type="BL"><lem resp="APD">مايه </lem><rdg resp="Colin">وسبعة</rdg></app> موسى اللبلى <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">المجتى</unclear> </lem><rdg resp="Colin">البلي</rdg></app> <app type="BL"><lem resp="APD">ودون </lem><rdg resp="Colin">الـ<gap reason="illegible" precision="low" extent="3"/> ـ</rdg></app> يانقه دشوه صيرفى 
+<lb n="26"/>  ولب بارس دريس والمرابت بن وليد <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">بطريج</supplied> وعيسى بن موسى بلّينوا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà muḥammad:in wa ʿalà ʾāli hi 
+ <lb n="2"/>muʿarrafaẗ:an yakūnu wa muḥaqqaqaẗ:an li l kulli kayfa ʾanā firāy ġīḏ:un dā šibirāqa ʾumīl biryūr:un mina ăl ʾušbiṭāli da šan ǧuwāna da ǧarušalāma ʾan nabarraẗa ʾenten diyāntāš fazār ʾi brūŭbāăr manāfiʿa ḫayr ʾi wunūr mina ăl ʾušbiṭāli ăl maḏkūri 
+ <lb n="3"/>bi raʾy:in mina ăl qumān dadūrāši wa mina ăli ĭfrāyilīna mina ăl maḏkūri biriyūŭrādūŭ wa bi raʾy:in ĭšbīṣiyāl mīĭnt wa ʾiqrār:in min dūn firāy falkū da bārā ḥābisi mawḍiʿi nā fī qalǧāṭaša wa min dūn firāy 
+ <lb n="4"/>ġarsiyyaẗa šanǧāsa da qay biqariyuh:in da qalǧāṭaša wa min dūn firāy šansa dā ʾaṭāyuha wa min firāy ramūna da bayrīnaša qalawīri qalǧāṭaša nuʿṭū wa nuqirrū bublaṣyūn wa šulār wa maskan fī qaryati nā ʾusrāna 
+ <lb n="5"/>wa ǧihāti hā la kumu ăl ǧamāʿaẗi mina ăl muslimīna ăllaḏīna takūnū fī ʾusrāna maʿlūm:un min sāʿaẗ:in la kum saʿīd:ini ăṭ ṭurrāliyyi ṣāḥibi ăṣ ṣalāẗi wa la kum muḥammad:ini ăl murābiti wa la kum ʾaḥmada d aqriyāllaẗa wa la kum muḥammad:in qurullānuha wa la kum 
+ <lb n="6"/>yūsufa ăl ġūziyyi ġūriyyi wa la kum ʿīsà ǧantīla wa la kum mūsà bni salāmaẗa ʿaliyy:in wa li ǧamīʿi ǧamāʿati kum wa li kulli man yaǧīʾu ʾilà ʿimāri ʿummāri ʾusrāna fī ăl ʾamri ăl mutābiʿi wa bi ăš šurūṭi ăl muʿtarafaẗi ʾasfāla ʾawwalu šayʾ:in ʾaš ʾa šabār 
+ <lb n="7"/>li kulli ʿāmir:in min kum ʾaw li kulli man yaǧīʾu li s sukanāʾi min hunā ʾilà ʾamām:in naḥtāǧū ʾan nuʿṭū naḥnu wa ăl ʾušbiṭālu ăl maḏkūru qašāl min dār:in kāmil:in fī ăl mawḍiʿi ăl maḏkūri wa ḥawmāt:in huwa ʾaš maʿlūm:un ʾa ø šabār blaṣṭaẗ blasṭaẗ ʾi šulār ʿan diyār:in 
+ <lb n="8"/>ʾaw ʾadyār:in dabādaš fazār kullu ʿāmir:in min kum li nafaqati hi wa ṯamāniyaẗa ʾaqfizaẗi mazraʿaẗ:in min maqādīra min kayli tuṭīlaẗa wa kull ʿašaraẗa raǧǧālaẗ:in riǧālaẗ:in min karamāt:in wa hāḏā huwa qašāl:un kāmil:un wa hāḏā kullu qašāl:in kāmil:in mina ăl maḏkūri maḏkūraẗi wa ø fawqa ʾan yaġrama 
+ <lb n="9"/>ṯamāniyaẗa danānīra wa niṣf ʿan maġram:in min sikkaẗi nabarraẗa ʾaš ʾa šabār ăl ḫamsaẗa danānīra ʿani ăd dāri wa ăṯ ṯalāṯaẗa danānīra wa niṣf ʿani ăl karmi wa ʾin kāna wa yaǧiʾ wa yurīd wa yaḥbis niṣfa qašāl:in ʾan yunṣifa niṣfa ăl maġrami fī ăl maġrami ăl maḏkūri wa ăl ḫamsaẗu 
+ <lb n="10"/>danānīra ăl maḏkūraẗa ʿan maġrami ăd dāri ʾan yunṣifa hā ʿan kulli ʿām:in ʿan ṭūli ăl ʾabadi fī ʿīdi ṭūduš šanṭūš wa ăl musammayaẗu ăṯ ṯalāṯaẗu danānīra wa niṣf:un ʿani ăl karamāti fī ʿīdi šan mīkāyila min kulli ʿām:in wa kullu qašāl:in la hu ʾan yuʿṭiya zawǧa 
+ <lb n="11"/>daǧāǧ:in li l qašṭillāni qaštillāni ʾaw li kulli qāyid:in yakūnu fī ʾusrāna fī kulli ʿām:in fī ʿīdi nadāla wa hāḏā kullu hu ʿan šarṭ:in ʾayḍ:an bi ʾanna ʾantumu ăl maḏkūraẗu ăl ǧamāʿaẗu wa sukkānu ăl musammayaẗi wa ăllaḏīna yakūnū min hunā ʾilà ʾamām:in ʾan tuʿṭū li l ʾušbiṭāli ăl maḏkūra maḏkūri 
+ <lb n="12"/>fī hāḏā ăl mawḍiʿi ăṯ ṯulṯa min kulli mā taǧmaʿū min ṭaʿām:in wa min ʿinab:in wa min zaytūn:in wa min fūl:in wa min ǧulubbān:in wa min kulli nawʿ:in min kulli mā taǧmaʿū wa min kulli fākihaẗ:in wa ʾaǧniyaẗ:in ǧunā fī hi wa hāḏā kullu hu ʾan yaʿmalū hu fī ʿahd:in wa mīṯāq:in wa ṣidq:in 
+ <lb n="13"/>wa kullu muslim:in ʾan ĭn yaḥbisu dār wa nār fī ʾusrāna ăl maḏkūri ʾan yaġrama li qāyidi ʾusrāna ăllaḏī yakūnu ʿalà ăl ʾušbiṭāli ăl maḏkūri rubʿ min qamḥ:in ăn niṣāfaẗa min qamḥ:in wa ăn niṣāfaẗa min šaʿīr:in fī šahri ʾaġušta ʿan kulli ʿām:in ʿan ṭūli ăl ʾabadi wa kullu dār:in 
+ <lb n="14"/>ʾan yuʿṭiya li l ʾušbiṭāli ăl maḏkūri ʾarbaʿaẗa marāfiqa min tibn:in fī kulli ʿām:in fī ăl ʾanādiri wa ḏālika ø bi našriṭu šarṭ:in ʾantum wa kulla ʿāmir:in muslim:in wa muslimīna fī ăl mawḍiʿi ăl maḏkūri ʾan taʿmalū kulla nafaqaẗ:in ʾan ĭn yuḥtāǧu fī ăl mawḍiʿi ăl maḏkūri ʿani ăl ʾamyāʾi 
+ <lb n="15"/>kullu wāḥid:in min kum kamā yasqī wa fī qalʿi ăl kattāni wa ăl qannami hāḏā huwa ʾan yakūna ǧamīʿa ăz zarīʿaẗi mina ăl kattāni wa ăl qannami mina ăllaḏīna yazraʿūna yazraʿū hā wa matà mā yakūnu ăl kattānu wa ăl qannamu maṭbūḫ wa yābis wa marbūṭ ʾan yaqsimū hā ăṯ ṯulṯu 
+ <lb n="16"/>li l ʾušbiṭāli wa ăṯ ṯulṯayni min kulli wāḥid:in min hum wa ăl ʾušbiṭālu ăl maḏkūru ʾan ŭn yunṣifa ăṯ ṯulṯa mina ăn nafaqaẗi mina ăd duḫūli fī ăl birqaẗi wa ăl ḫurūǧi mina ăl birqaẗi ʾayḍ:an ʾan yaṭbuḫū ăl muslimīna ăl maḏkūraẗu ḫubza hum fī furni ăl ʾušbiṭāli 
+ <lb n="17"/>ăl maḏkūri ʿan dāyimi ăd dahri wa ʾan yuʿṭū min sittaẗa ʿašara ḫubzaẗ:an wāḥid wa ʾan lā yaqṭaʿū ʾašǧār wa lā yaqlaʿū karamāt:in dūna ʾamri qāyidi ʾusrāna wa ʾin kāna wa yaṣṭaliḥū zawǧu muslimīna ʾaw ṯalāṯaẗ:un wa yattafiqū fī dār:in wāḥid:in wa kullu wāḥid:in 
+ <lb n="18"/>min hum yaḥbis zawǧata hu wa yūqid nār ʾan yaʿmala kullu wāḥid:in min hum ḥaqqa hu li l ʾušbiṭāli ʾan yaġrama kamā kullu wāḥid:in mina ăl ʾuḫari kamā yaḥbisu ʿan dār:in ʾayḍ:an li l qumandadūri ʾan ĭn yakūnu fī qalǧāṭaša ʿan zamān:in ʾaw li mataʿi ʾusrāna *** ʾan ʾin yakūn yakūna fī hi 
+ <lb n="19"/>qumandadūr:un qumāndadūr:un ʾan taḥruzū hu wa taḥbisū hu ʿan mawl fī ĭsmi ăl ʾušbiṭāli ăl maḏkūri wa ʾan yakūna hāḏā ḥākima kum wa maʾmūra kum wa ʾan yakūna ǧamīʿu ḫuṣamātu kum li ḥukmi hi wa ʾin kāna turīdū taʿmalū min ḥukmi hi ĭrtifāʿ ʾan taʿmalū hu ʾamāma 
+ <lb n="20"/>kulli qāḍī ʾan ĭn yakūnu muslim min tuṭīlaẗa kamā huwa w sunnatu kum wa šarʿu kum wa ʾan takūnū ʾaǧsāma kum wa ʾamwāla kum multazimaẗ:an li l ʾušbiṭāli ăl maḏkūri wa ḏālika bi šarṭi ʾallā yumkina li ʾaḥad:in min kum ʾan taḫruǧū mina ăl mawḍiʿi ăl maḏkūri ʾin kāna la kum ʾan tuʿṭū šayʾ li l ʾušbiṭāli ăl maḏkūri wa ʾin kāna 
+ <lb n="21"/>yaʿmalu hā ʾaḥad:un min kum ʾan yakūna mardūd fī ʾayyi mawḍiʿ:in yamšī wa kullu wāḥid:in min kum lā yabīʿ wa lā yarhan min mīrāṯi ăl ʾušbiṭāli li naṣrāniyy:in nasrāniyy:in wa lā li yahūdiyy:in ʾillā bayna kum fī ăl bayni min kulli ʿāmir:in muslim:in yakūnu min kum wa ʾayḍ:an ʾan tastaʿmilū tastaġillū ăl ʾamyāʾa wa ăr rabīʿa mina ăl mawḍiʿi ăl maḏkūri bi dawābbi kum 
+ <lb n="22"/>wa ġanami kum wa mina ăl ʾušbiṭāli kaḏālika kamā ǧīrān:un wa ăl ʾušbiṭālu ăl maḏkūru lā yasūqu ġanama ʾāḫara wa lā dawābba ø min ø mawḍiʿ:in ʾāḫara wa min ruʿāti hi wa naḥnu naḥbisū ʿani ăl ʾušbiṭāli ăl maḏkūri ăs sayyidaẗa ăl ʿuẓmà ʿuḍmà ăd diyāti wa ăl ǧināyāti wa ġaṣba ăṭ ṭuruqāti wa ġaṣba ăn nisāʾi wa ăl ʾašyāẗa ăl ʾuḫara ăllaḏīna yakūnu 
+ <lb n="23"/>fī ăl mawḍiʿi ăl maḏkūri wa ḥawmāti hi wa ăl ʾušbiṭālu ăl maḏkūru ʾan yaḥbisū kum fī šarʿi kum wa sunnati kum wa ʿawāyidi kum kamā yanbaġī li hāḏā ăl ʿāmirīna wa naḥnu ăl ǧamāʿaẗu ăl maḏkūraẗu ʿan nā wa ʿani ăllaḏīna yakūnū min baʿdi nā ʾan ĭn yaʿmurū fī ăl mawḍiʿi ăl maḏkūri naḫūdu naḫuḏū ăl ʿaṭiyyaẗa ăl maḏkūraẗa min kum 
+ <lb n="24"/>mawlā nā ăl biryūri wa naḫūdu naḫuḏu kum ʿan mawl la kum wa li ø ǧamīʿi ăli ĭfrāyilīna mina ăl ʾušbiṭāli wa li ʾāmir:in ʾamri ø him bi ø hi ø wa naḥnu nakūnū ʿabīda kum min kum wa mina ăl ʾušbiṭāli ăl maḏkūri wa nuqabbilū ʾaydī kum kamā mawl ʾan ĭn naḥtāǧū ʾan nuṭīʿu nuṭīʿū hu fī kulli šayʾ:in wa naḥnu ăl biryūru ăl maḏkūru wa ăl ǧamāʿaẗu ăl maḏkūraẗu 
+ <lb n="25"/>narġabū li dūn baṭruha ġarsiyyasa ăl mutaqabbili ḥābisi ṭābiʿi sayyidi nā ăl maliki min nabarraẗa fī tuṭīlaẗa ʾan yaǧʿala ăṭ ṭābiʿa min sayyidi nā ăl maliki min nabarraẗa muʿlin muʿallaq fī hāḏā ăl ʿaqdi wa ʾanā dūn baṭruhu ġarsiyyasu ăl maḏkūru li raġbaẗi ăl ǧīmaẗi 
+ <lb n="26"/>ăl maḏkūraẗi ǧaʿaltu ăṭ ṭābiʿa muʿlin muʿallaq fī hāḏā ăl ʿaqdi li taṯbīti ǧamīʿi ăl ʾašyāʾi ăl maḏkūraẗi wa ʾašhada ʿalà ḏālika man samiʿa hu min hum wa ʿarafa hum wa ḏālika fī šahri fibrayra ø fī ăṯ ṯāmina ʿašara yawm:in min hu ăllaḏī min sanaẗi ʾiḥdā ʿašara wa sabʿi sabʿaẗi miyaẗ:in mūsà ăl labliyyu ăl *** mǧtà wa dūn yāniquhu d ušwaẗa ṣayrafiyy:un 
+ <lb n="27"/>wa lubb:un bārasu durīsu wa ăl murābitu bnu walīd:in min baṭrīǧa wa ʿīsà bnu mūsà bullīnū 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux! Que Dieu bénisse Mahomet et sa famille!
+			<lb n="2"/>
+		Qu&#039;il soit connu et certifié à tous comment nous, frère Guy de Severac, humble prieur de l&#039;Hôpital de Saint Jean de Jérusalem en Navarre, entendant faire et réaliser le profit, le bien et l&#039;honneur du dit Hôpital,
+			<lb n="3"/>
+		avec l&#039;avis des Commandeurs et des Frères du dit prieuré et avec l&#039;avis, spécialement, et la permission de Don Fray Falco de Barre, notre lieutenant à Calchetas, de Don Fray
+			<lb n="4"/>
+		Garci Sanchez de Cay, vicario de Calchetas, de Don Fray Sanz de Atayo et de Fray Remont de Veyrinas, clavero de Calchetas, nous donnons et accordons le droit de coloniser, l&#039;emplacement pour construire une maison et le droit de s&#039;établir dans notre bourg de Uçrant
+			<lb n="5"/>
+		et dans ses cantons, à vous, communauté de Musulmans qui serez à Uçrant; c&#039;est à savoir dès maintenant à vous: Saʿīd aṭ-Ṭorālī, ṣāḥib aṣ-ṣalā, à vous: Maḥommad al-morābit, à vous: Aḥmed ....griyāla, à vous: Maḥommad Qorollāno[h], à vous:
+			<lb n="6"/>
+		Jūsef al-ġōzī, à vous: ʿAisa Ǧentīl, à vous: Mūsä, fils de Salāma ʿAlī, à toute votre communauté et à quiconque viendra coloniser à Uçrant, de la manière suivante et selon les clauses reconnues ci-dessous: Premièrement, il est à savoir
+			<lb n="7"/>
+		qu&#039;à chaque colon d&#039;entre vous ou à quiconque viendra pour habiter d&#039;ici en avant, nous devrons donner, nous et le dit Hôpital, un casal de maison complet dans le dit lieu et [les dits] cantons; c&#039;est à savoir: un emplacement et un terrain pour des maisons
+			<lb n="8"/>
+		(et les maisons, vous devrez les faire, chaque colon parmi vous [construisant] à ses frais), huit qafīz de sémence .... de la mesure de Tudèle, et dix ouvrées de vigne, ceci constituant un casal complet. Chaque casal complet, parmi ceux qui ont été cités plus haut, devra verser
+			<lb n="9"/>
+		huit dīnār-s et demi de redevance en monnaie de Navarre, c&#039;est à savoir les cinq dīnār-s pour la maison, et les trois dīnār-s et demi pour la vigne; si quelqu&#039;un vient et désire prendre en demi casal, il devra payer une demi-redevance pour ce qui est de la redevance susdite. Les dits cinq
+			<lb n="10"/>
+		dīnār-s qui sont pour la redevance de la maison, il devra les payer, chaque année et pour la durée de l&#039;éternité, à la fête de la Toussaint, et les susnommées trois dīnār-s et demi qui sont pour les vignes à la fête de Saint Michel de chaque année. Chaque casal devra donner une paire
+			<lb n="11"/>
+		de poules au castellan, ou à tout qāyid qui sera à Uçrant, chaque année, à la fête de Noël. Et tout cela, à condition aussi que vous, la susdite communauté et les susnommés habitants ainsi que ceux qui existeront d&#039;ici en avant, vous donniez au dit Hôpital,
+			<lb n="12"/>
+		en ce lieu, le tiers de tout ce que vous récolterez de céréales, de raisins, d&#039;olives, de fèves, de pois et de toutes les espèces que vous récolterez, ainsi que de tous les fruits et légumes qu&#039;on y cueillera. Tout cela, on devra le faire avec fidélité, loyauté et sincerité.
+			<lb n="13"/>
+		Tout musulman qui aura maison et feu au dit Uçrant devra verser, au qāyid d&#039;Uçrant qui sera pour le compte du dit Hôpital, un rubʿ de céréales, moitié blé et moitié orge, au mois d&#039;Août, pour chaque année, pour la durée de l&#039;éternité. Chaque maison
+			<lb n="14"/>
+		devra donner au dit Hôpital quatre marfiqa-s de paille, chaque année, sur les aires. Cela, à condition que vous, chaque colon musulman et les musulmans du dit lieu, devrez faire toute dépense que sera nécessaire au dit lieu pour les eaux,
+			<lb n="15"/>
+		chacun de vous à proportionnellement à ce qu&#039;il irrigue. Pour ce qui est de l&#039;arrachage du lin et du chanvre, toute la sémence de lin et de chanvre sera celle des musulmans qui la sèment et, quand le lin et le chanvre seront rouis, secs et liés, ils devront les partager: le tiers
+			<lb n="16"/>
+		pour l&#039;Hôpital et les deux tiers à chaqun d&#039;entre eux. Le dit Hôpital devra payer le tiers des frais de la mise en fosse et de la sortie de la fosse. Les dits musulmans devront aussi cuire leur pain au four du dit
+			<lb n="17"/>
+		Hôpital pour la durée de l&#039;éternité, et ils devront donner de seize pains un pain. Ils devront ne pas couper d&#039;arbres, ni arracher de vignes sans l&#039;ordre du qāyid d&#039;Uçrant. Si deux ou trois musulmans s&#039;arrangent à l&#039;amiable et s&#039;accordent [pour vivre] dans une seule maison, chacun d&#039;eux
+			<lb n="18"/>
+		d&#039;eux ayant sa femme et allumant un feu, chacun deux devra faire son droit à l&#039;Hôpital, devant verser comme chacun des autres en proportion de ce qu&#039;il possédera de logis. Egalement, pour ce qui est du Commandeur qui sera à Calchetas pour un temps ou celui d&#039;Uçrant [si l&#039;Hôpital veut] qu&#039;il y ait là
+			<lb n="19"/>
+		un Commandeur, vous devrez le revérer et le tenir pour seigneur et maître au nom du dit Hôpital; ce personnage devra être votre juge et votre justicier, et tous vos litiges seront soumis à son jugement. Si vous voulez faire appel de son jugement, vous devrez le faire devant
+			<lb n="20"/>
+		tout qāḍī de Tudèle qui sera musulman, comme c&#039;est votre coutume et votre loi. Vous devrez être, corps et biens, engagés envers le dit Hôpital et cela avec cette clause qu&#039;il ne soit possible à aucun de vous que vous sortiez du dit lieu s&#039;il vous incombe de donner quelque chose au dit Hôpital; si
+			<lb n="21"/>
+		l&#039;un de vous le faisait, il devrait être ramené, en quelque endroit qu&#039;il aille. Aucun de vous ne pourra vendre ni engager une partie du patrimoine de l&#039;Hôpital à un Juif ni à un Chrétien, mais seulement entre vous, avec tout colon musulman comptant parmi vous. Egalement, vous devrez exploiter les eaux et l&#039;herbe du dit lieu avec vos bêtes
+			<lb n="22"/>
+		et vous moutons et ceux de l&#039;Hôpital aussi, en voisins, le dit Hôpital n&#039;amènera pas les moutons d&#039;autrui, ni les bêtes d&#039;autrui [mais seulement les siens] et ceux de ses pâtres. Et nous, nous retenons pour le dit Hôpital la haute seigneurie: les homicides, les calomnies, le brigandage sur les routes, les violences faites aux femmes et les autres choses qui surviendront
+			<lb n="23"/>
+		au dit lieu et dans ses cantons. Le dit Hôpital vous maintiendra dans votre loi, dans votre coutume et dans vos habitudes ainsi qu&#039;il convient à ces colons. Nous, la dite communauté, pour nous et pour ceux qui seront après nous et qui coloniseront en ce lieu, nous recevons la dite donation de vous,
+			<lb n="24"/>
+		notre seigneur le prieur, et nous vous recevon pour seigneur, vous et tous les frères, et nous nous soumettons à leurs ordres. Nous serons vos esclaves, à vous et au dit Hôpital; nous vous baisons les mains comme à un seigneur à qui nous devons obéir en toute chose. Nous, le dit prieur et la dite communauté,
+			<lb n="25"/>
+		nous prion Don Pedro Garceyz, chargé du fisc, gardien du sceau de notre seigneur le roi de Navara, à Tudèle, de suspendre à cet acte le sceau de notre seigneur le roi de Navarre. Moi, Don Pedro Garceyz déjà cité, à la prière de la dite
+			<lb n="26"/>
+		communauté, j&#039;ai suspendu le sceau à cet acte afin de certifier toutes les choses mentionnées. Ont été témoins de cela ceux qui le leru ont entendu dire et les ont connus; et cela, au mois de Février, le dix-huitième jour du dit, qui est de l&#039;année 711: Mūsä al-Lebli (?) ........; Don Yennego de Uxue,
+			<lb n="27"/>
+		banquier; Lope Perezdoriz; Almorābit eben Walīd, de Pedriz, ʿEisä ben Mūsä Pollīno.
+</ab></div>
+</body>
+</text>
+</TEI>

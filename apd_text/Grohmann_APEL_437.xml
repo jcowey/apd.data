@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1940" xml:id="Grohmann_APEL_437" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 437</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_437</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169673</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> پربپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="2"/>  ‮أبو العبّاس ‪π‬ تورس ‪ς‬ 
+<lb n="3"/>  ثمن القمح 
+<lb n="4"/>  ‮ الحالص ‪μγ‬ كپل 
+<lb n="5"/>  ‮الإستخراج من بتوك ‪ιγ‬ 
+<lb n="6"/>  فذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** BrbB* ** 
+ <lb n="2"/>ʾabū ăl ʿabbāsi ‪80 tawrusu ‪6 
+ <lb n="3"/>ṯamanu ăl qamḥi 
+ <lb n="4"/>ăl ḫāliṣu ‪43 kaylu ‪30 
+ <lb n="5"/>ăl ʾistiḫrāǧu min batūka ‪13 
+ <lb n="6"/>fa ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Abu&#039;l-ʿAbbâs 80 Tauros 6
+			<lb n="3"/>
+		The price of the wheat
+			<lb n="4"/>
+		(out) of the produce 43 Chael 30
+			<lb n="5"/>
+		what has been levied from Patouch 13
+			<lb n="6"/>
+		That makes: 300
+</ab></div>
+</body>
+</text>
+</TEI>

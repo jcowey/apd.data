@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1489" xml:id="Sijpesteijn_ArchivalMind_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SijpesteijnArchivalMind 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Sijpesteijn_ArchivalMind_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169267</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم حير الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/>فع 
+<lb n="2"/>  حفظك اللّه وأطال في الخير بقاك إنّي وجدت أصل به فكان مسحت على اسم بن عفيف 
+<lb n="3"/>  وسويرس جملة فلم أحب أن أنسبها إلى المسلمين ولا إلى الفبط لأنّما مسحت عليهما كثيرا 
+<lb n="4"/>  فهل تحب أمتع<del rend="erasure" status="unremarkable">ا</del><gap reason="illegible" extent="1" unit="character" /> اللّه بك أن<del rend="erasure" status="unremarkable">اعطها</del> أقسمها بينهما على ما <app type="BL"><lem resp="APD">أنصفت </lem><rdg resp="APD">استقبلت</rdg></app> كل واحد منهما 
+<lb n="5"/>  فأعلمني رأيك فيها حفظك اللّه وأطال بقاك وكتب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥyr ăl ***fʿ 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾaṭāla fī ăl ḫayri baqāʾa ka ʾin nī waǧadtu ʾaṣl bi hi fa kāna musiḥat ʿalà ĭsmi bni ʿafīf:in 
+ <lb n="3"/>wa sawīrusa ǧumlaẗ:an fa lam ʾuḥibb ʾan ʾansiba hā ʾilà ăl muslimīna wa lā ʾilà ăl qibṭi liʾanna mā masaḥtu ʿalay himā kaṯīr:an 
+ <lb n="4"/>fa hal tuḥibbu ʾamtaʿa ăl lāhu bi ka ʾan ʾaqsima hā bayna humā ʿalà mā ʾanṣaftu ĭstaqbaltu kulla wāḥid:in min humā 
+ <lb n="5"/>fa ʾaʿlim nī raʾya ka fī hā ḥafiẓa ka ăl lāhu wa ʾaṭāla baqāʾa ka wa kutiba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Compassionate, the Merciful. (vac.) ... the [...]...
+			<lb n="2"/>
+		May God preserve you and may He prolong your life in well-being. I found a basic tax assignment/registration in it and it was measured to the debit under the name of Ibn ʿAfīf
+			<lb n="3"/>
+		and Sawīrus together. Now, I do not want to attribute it to the Muslims nor to the Copts, because I have (already) assessed (lit. measured) much to the debit of both.
+			<lb n="4"/>
+		Now do you want, may〚a.〛God give joy with you, that I 〚give it〛\divide it/ among the two of them, according to the way I have treated each one of them equally?
+			<lb n="5"/>
+		Let me know your opinion about this, may God preserve you and may He prolong your life. And it was written.
+</ab></div>
+</body>
+</text>
+</TEI>

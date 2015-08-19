@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1569" xml:id="Diem_Berl_II_58" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 58</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_58</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169327</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وسعادتك وتـ<supplied reason="lost" cert="high">ـأييدك</supplied> <supplied reason="lost" cert="high">وزاد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> <supplied reason="lost" cert="high">إليك</supplied> 
+ <lb n="2"/>  وجميل بلائه لديك وفضله عندك في الدّنيا والآخرة برحمـ<supplied reason="lost" cert="high">ـته</supplied> <supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">أعزّك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+ <lb n="3"/>  ووصل إلي كتابك أعزّك اللّه مع أبو بكر محمّد بن أحمد تذكر أ<supplied reason="lost" cert="high">مر</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـدفعت</supplied> 
+ <lb n="4"/>  إليه دينارين جواز وكنت وجّهت إليك بوصول سفتجة صا<supplied reason="lost" cert="high">حب</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">أدري</supplied> 
+ <lb n="5"/>  وصل إليك الحساب أم لا والّذي صار في الكتّان أحد عشر <supplied reason="lost" cert="high">قنطارا</supplied> <supplied reason="lost" cert="high">ونصف</supplied> <supplied reason="lost" cert="high">وربع</supplied> <supplied reason="lost" cert="high">وهي</supplied> 
+ <lb n="6"/>  عشرة قناطير وربع الثّمن تسعة وأربعين <sic n="superfluous">درا</sic> <expan><ex>دينارا</ex></expan> ونصف قيراط من حساب أربعة <supplied reason="lost" cert="high">دنانير</supplied> <supplied reason="lost" cert="high">ونصف</supplied> <supplied reason="lost" cert="high">وثلث</supplied> <supplied reason="lost" cert="high">وقنطار</supplied> 
+ <lb n="7"/>  ونصف الثّمن دينارين إلّا خمسة قراريط αχηʹ‎ فذلك أحد عشر قنـ<supplied reason="lost" cert="high">ـطارا</supplied> <supplied reason="lost" cert="high">ونصف</supplied> <supplied reason="lost" cert="high">وربع</supplied> <supplied reason="lost" cert="high">الثّمن</supplied> <supplied reason="lost" cert="high">دنانير</supplied> 
+ <lb n="8"/>  ναγʹ‎ خرج من ذلك <supplied reason="omitted" cert="high">ا</supplied>لنّوتي ثلث γʹ‎ والحانوت والحمّالين كلّه ثمن وقيرا<supplied reason="lost" cert="high">ط</supplied> 
+ <lb n="9"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa saʿādata ka wa taʾyīda ka wa zāda fī ʾiḥsāni hi ʾilay ka 
+ <lb n="2"/>wa ǧamīli balāʾi hi laday ka wa faḍli hi ʿinda ka fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi kitāb ī ʾilay ka ʾaʿazza ka ăl lāhu 
+ <lb n="3"/>wa waṣala ʾilay ya kitābu ka ʾaʿazza ka ăl lāhu maʿa ʾabū bakr:in muḥammadi bni ʾaḥmada taḏkuru ʾamra *** fa dafaʿtu 
+ <lb n="4"/>ʾilay hi dīnārayni ǧawāz wa kuntu waǧǧahtu ʾilay ka bi wuṣūli suftaǧaẗi ṣāḥibi *** wa lā ʾadrī 
+ <lb n="5"/>waṣala ʾilay ka ăl ḥisābu ʾam lā wa ăllaḏī ṣāra fī ăl kattāni ʾaḥada ʿašara qinṭār:an wa niṣf:un wa rubʿ:un wa hiya 
+ <lb n="6"/>ʿašaraẗu qanāṭīra wa rubʿ:un ăṯ ṯamanu tisʿaẗ:un wa ʾarbaʿīna dīnār:an wa niṣfu qīrāṭ:in min ḥisābi ʾarbaʿaẗi danānīra wa niṣf:un wa ṯulṯ:un wa qinṭār:un 
+ <lb n="7"/>wa niṣf:un ăṯ ṯamanu dīnārayni ʾillā ḫamsaẗu qarārīṭa ‪1 2/3 1/8 fa ḏālika ʾaḥada ʿašara qinṭār:an wa niṣf:un wa rubʿ:un ăṯ ṯamanu danānīru 
+ <lb n="8"/>‪51 1/3 ḫaraǧa min ḏālika ăn nūtiyyu ṯulṯ:un ‪1/3 wa ăl ḥānūtu wa ăl ḥammālīna kullu hu ṯumn:un wa qīrāṭ:un 
+ <lb n="9"/>**** ******* 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Gott lasse Dich lange leben, lasse Dein Ansehen, Deine ehrenvolle Stellung, Dein Glück und Deine Unter[stützung andauern und gewähre Dir] in seiner Gnade [noch mehr sein Wohlwollen,]
+		 <lb n="2"/>
+ 	  seine Gunst und seine Huld im Diesseits und Jensei[ts. Ich schreibe Dir - Gott stärke Dich,]
+		 <lb n="3"/>
+ 	  nachdem mir durch Abū Bakr Muḥammad ibn Aḥmad Dein Brief - Gott stärke Dich - überbracht worden ist, wobei Du die Ange[legenheit von N.N. erwähnst: nun, ich habe]
+		 <lb n="4"/>
+ 	  ihm zwei gültige Dinare [ausgehändigt]. Die Quittung für die Zahlungsanweisung des Partn[ers von  - - -] habe ich Dir gesandt, [aber ich weiß nicht,]
+		 <lb n="5"/>
+ 	  ob Du die Abrechnung (für den Flachs) erhalten hast oder nicht. Das, was sich beim Flachs ergeben hat, beläuft sich auf elf [Zentner und einen halben und ein viertel (Zentner), und zwar (handelt es sich im einzelnen) um]
+		 <lb n="6"/>
+ 	  zehn Zentner und ein viertel (Zentner) mit einem Erlös von neunundvierzig Dinar und einem halben (Dinar) und einem Qīrāṭ bei einem Verkaufspreis von vier [Dinar und einem halben und einem Drittel (Dinar pro Zentner) bei einem Verkaufspreis von vier [Dinar und einem halben und einem Drittel (Dinar pro Zentner) und um einen Zentner]
+		 <lb n="7"/>
+ 	  und einen halben (Zentner) mit einem Erlös von zwei Dinar abzüglich fünf Qīrāṭ (in Zahlen) 1 2/3 1/8 (Dinar). Dies macht (zusammen) elf Zent[ner und einen halben und ein viertel (Zentner) mit einem Erlös von]
+		 <lb n="8"/>
+ 	  51 1/3 [(Dina)r]. Hiervon gingen (als Unkosten) ab: der Schiffer ein Drittel (in Zahlen) 1/3 (Dinar); der Laden und die Lastträger, alles (zusammen) ein achtel (Dinar) 1 Qīrā[ṭ - - -]
+		 <lb n="9"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

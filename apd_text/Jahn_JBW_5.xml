@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="581" xml:id="Jahn_JBW_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106718</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  إلى أحمد بن راشدة من أبو إسمعيل وأم عمر سلم عليكم فإنّي أحمد إليكم اللّه الّذي لا إله إلّا هو 
+<lb n="recto 3"/>  أمّا بعد 
+<lb n="recto 4"/>  فإنّي <supplied reason="lost" cert="high">أخبـ</supplied>ـركم من خبرنا أنّا <app type="BL"><lem resp="APD">كالّذين </lem><rdg resp="Diem, Review Wien">كالّذي</rdg></app> <app type="BL"><lem resp="APD">تحبّون </lem><rdg resp="Levi della Vida; Diem">تحبّون</rdg></app> أن ينهى إليكم فيه من سلامة وصلاح واللّه محمود نسٮل اللّه 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">پمام</supplied> <supplied reason="lost" cert="high">تعمپه</supplied> علنپا وعليكم والرپاده من ڤصله فاپما پحن نه وله 
+<lb n="recto 6"/>  <app type="BL"><lem resp="“Levi della Vida, Letters p. 130”"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem, Review Wien">وإنّي</rdg></app> <app type="BL"><lem resp="APD">ان </lem><rdg resp="“Levi della Vida, Letters p. 130”">أخبركم</rdg></app> ألدرع <app type="BL"><lem resp="Jahn erroneously ‫الدرح‬, but see translation">ڤد </lem><rdg resp="Levi della Vida">الدرهم</rdg></app> حاپى پها وسامه ڤامپعپى الله پحپاپك <app type="BL"><lem resp="APD">وحباپ </lem><rdg resp="Diem">بحياتك</rdg></app> <app type="BL"><lem resp="APD">ماحده </lem><rdg resp="Diem">وحيات</rdg></app> كپپپ 
+<lb n="recto 7"/>  إليكم وأنا على <app type="BL"><lem resp="APD">أمر </lem><rdg resp="Diem, Review Wien">أثر</rdg></app> كتابي هذا إن شا اللّه وإنّي <app type="BL"><lem resp="Jahn erroneously ‫انتطرت‬, but see translation">انتظرت </lem><rdg resp="Diem, Review Wien">انتضرت</rdg></app> ذاك الشّي فلم أراه 
+<lb n="recto 8"/>  وأمّا ما قدّمه ولا واللّه ما أنتضر إلّا وسامة واكتب إلي مع وسامة إن كانت ولدت 
+<lb n="recto 9"/>  ماجدة أم لا حتّا أعلم <app type="BL"><lem resp="APD">ذاك </lem><rdg resp="Diem, Review Wien">ذلك</rdg></app> وإن أم الحارث وأم جنادة وأم نايله يقرون عليكم السّلام 
+<lb n="recto 10"/>  وإن خدش <app type="BL"><lem resp="APD">الحزّاز </lem><rdg resp="APD">الحزّاز </rdg><rdg resp="APD">الجرّار </rdg><rdg resp="APD">الخزّار</rdg></app> <app type="BL"><lem resp="APD">يسند </lem><rdg resp="Diem, Review Wien">يستديك</rdg></app> <app type="BL"><lem resp="APD">بك </lem><rdg resp="Diem, Review Wien">ø</rdg></app> نوم واقرأ على ما قبلك السّلم ماجدة وأم ماجدة <app type="BL"><lem resp="APD">و<unclear reason="undefined" cert="high">كمول</unclear> </lem><rdg resp="Diem, Review Wien">وجمعة</rdg></app> 
+<lb n="recto 11"/>  ويوسف وحفص والسّلم عليكم ورحمت اللّه وبركاته وأوفاكم <app type="BL"><lem resp="Jahn erroneously ‫حبسة‬, but see original and translation">حسنه </lem><rdg resp="Levi della Vida">حسنه </rdg><rdg resp="Diem, Review Wien">حبسه</rdg></app> <app type="BL"><lem resp="Jahn erroneously ‫بحفصن‬, but see original and translation">بحفص </lem><rdg resp="Diem, Review Wien">حفص</rdg></app> <app type="BL"><lem resp="APD">والسّـ<supplied reason="lost" cert="high">ـلام</supplied> </lem><rdg resp="Diem, Review Wien">والسّلم</rdg></app> 
+<lb n="verso 1"/>  وإلى <app type="BL"><lem resp="APD">عمر </lem><rdg resp="Levi della Vida">أحمد</rdg></app> بن <app type="BL"><lem resp="“Jahn, LR”">راشد </lem><rdg resp="Levi della Vida">راشدة</rdg></app> من أم عمر بركة اللّه بفاك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾilà ʾaḥmada bni rāšidaẗa min ʾabū ʾismāʿīla wa ʾummi ʿumara salām:un ʿalay kum fa ʾinn ī ʾaḥmadu ʾilay kumu ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="3"/>ʾammā baʿdu 
+ <lb n="4"/>fa ʾin nī ʾuḫbiru kum min ḫabari nā ʾanna nā ka ăllaḏīna ăllaḏī tuḥibbūna yuḥibbūna ʾan yunhà ʾilay kum fī hi min salāmaẗ:in wa ṣalāḥ:in wa ăl lāhu maḥmūd:un nasʾalu ăl lāha 
+ <lb n="5"/>tamāma niʿmati hi ʿalay nā wa ʿalay kum wa ăz ziyādaẗa min faḍli hi fa ʾinnamā naḥnu bi hi wa la hu 
+ <lb n="6"/>fa wa ʾin nī *** ʾuḫbiru kum ʾanna ăd dirʿa darāhima qad ǧāʾa nī bi hā wasāmaẗu wusāmaẗu fa ʾamtaʿa nī ăl lāhu bi ǧanābi ḥayāti ka ḥayāti wa ǧanābi māǧidaẗa katabtu 
+ <lb n="7"/>ʾilay kum wa ʾanā ʿalà ʾamri ʾaṯari kitāb ī hāḏā ʾin šāʾa ăl lāhu wa ʾin nī ĭntaẓartu ĭntaḍartu ḏāka ăš šayʾa fa lam ʾarā hu 
+ <lb n="8"/>wa ʾammā mā qaddama hu wa lā wa ăl lāhi mā ʾantaḍiru ʾillā wasāmaẗa wusāmaẗa wa ŭktub ʾilay ya maʿa wasāmaẗa wusāmaẗa ʾin kānat waladat 
+ <lb n="9"/>māǧidaẗu ʾam lā ḥattā ʾaʿlama ḏāka ḏālika wa ʾinna ʾumma ăl ḥāriṯi wa ʾumma ǧanādaẗa ǧunādaẗa wa ʾumma nāʾilaẗa yuqrūna ʿalay kumu ăs salāma 
+ <lb n="10"/>wa ʾinna ḫidāša ăl ǧarrāra ǧazzāra ḫazzāra ḥazzāza yusnidu yastadī ø ka bi ø ka ø ṯūm wa ĭqraʾ ʿalà mā qibala ka ăs salāma māǧidaẗa wa ʾummi māǧidaẗa wa kamūla ǧumʿaẗa 
+ <lb n="11"/>wa yūsufa wa ḥafṣ:in wa ăs salāmu ʿalay kum wa raḥmatu ăl lāhi wa barakātu hu wa ʾawfā kum ḥisbaẗ:an ḥusna ḥabasa hu ø bi ḥafṣ ø ḥafṣ:in wa ăs salāmu 
+ <lb n="12"/>wa ʾilà ʿumara ʾaḥmada bni rāšid:in rāšidaẗa min ʾummi ʿumara barakaẗu ăl lāhi bFʾk 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		An Aḥmad ben Rāšida von Abū Ismaʿīl und Umm ʿUmar. Heil Euch. Ich preise für Euch Gott, außer dem es keinen Gott gibt.
+			<lb n="3"/>
+		Des weitern.
+			<lb n="4"/>
+		[Ich teile] Euch uns betreffend mit, daß wir gleich denen sind, die wünschen, daß Euch demgemäß Wohlbefinden und Gesundheit erreiche. Gott sei gelobt. Wir bitten Gott,
+		... we are in the same state (of welfare) in which you would like to be ...
+			<lb n="5"/>
+		[Seine Gnade] an uns und an Euch zu vollenden, und das Übermaß seiner Gunst; denn wir sind durch ihn und gehören ihm.
+			<lb n="6"/>
+		[...] daß das Frauenhemd das mir Wasāma eben gebracht hat, - Gott lasse mich an Deiner Seite und an Seite Māǧida&#039;s leben - habe ich Euch geschrieben
+		... Gott gebe mir durch dein (Weiter)leben und Māǧidahs (Weiter)leben Freude! ...
+		I inform you that the dirhems which Wusāma brought ...
+			<lb n="7"/>
+		... that thing ...
+		und mit mir steht es so, wie es dieser mein Brief sagt - so Gott will - und ich habe diese Sache erwartet, doch habe ich sie nicht zu Gesicht bekommen.
+			<lb n="8"/>
+		Was aber das anbetrifft, was er geboten hat, so bei Gott, ich erwarte nur den Wasāma; und schreibe mir mit Wasāma, ob Māǧida geboren hat
+		What he brought was not what I expected, except Wasāma
+			<lb n="9"/>
+		oder ob es nicht der Fall ist, damit ich es wisse und ʾUmmal-Ḥāriṯ und ʾUmm Ǧanāda und ʾUmm Nāʾila lassen Euch grüßen.
+			<lb n="10"/>
+		Der Metzger Ḫidāš bittet Dich um die Lieferung von Knoblauch ...
+		Und der Metzger Ḫidāš will Dir zum Tausch Knoblauch geben; und grüße Deine Angehörigen, Māǧida, die Mutter Māǧida&#039;s und Kamūl
+			<lb n="11"/>
+		... may He (sc. God) grant you His bounty through Ḥafṣ ...
+		... und Er gewähre Euch, daß Er (Euch) Ḥafṣ erhält ...
+		und Yūsuf und Ḥafṣ und Heil über Euch und die Barmherzigkeit und Segnungen Gottes, und ich werde Euch eine Rechnung mit Ḥafṣ schicken, und Heil.
+</ab></div>
+</body>
+</text>
+</TEI>

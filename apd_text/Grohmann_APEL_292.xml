@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1748" xml:id="Grohmann_APEL_292" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 292</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_292</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169489</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وجعلني فداك 
+<lb n="3"/>  وصلت رقعتك أعزّك اللّه <app type="BL"><lem resp="APD">الّتي </lem><rdg resp="Diem">ووقفت</rdg></app> <app type="BL"><lem resp="APD">بعثت </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">على </lem><rdg resp="Diem">على</rdg></app> <app type="BL"><lem resp="APD">به </lem><rdg resp="Diem">ما</rdg></app> ذكرت 
+<lb n="4"/>  فيها من <app type="BL"><lem resp="APD">أثمنة </lem><rdg resp="Diem">أمر</rdg></app> الفدادين <app type="BL"><lem resp="sīn with dash">وسئلتك </lem><rdg resp="Diem">ومسئلتك</rdg></app> العزم في 
+<lb n="5"/>  زرعها لك معما أزرعه لنفسي فقد كنت أعلمتك 
+<lb n="6"/>  أعزّك اللّه قبل هذا الوقت أنّي لو لم أزرع إلّا هذه 
+<lb n="7"/>  الفدّانين لكانت لك عندي <app type="BL"><lem resp="APD">قليل </lem><rdg resp="Diem">حطيطة</rdg></app> وقد 
+<lb n="8"/>  تسجّلت أعزّك اللّه في غير بيعة بأسعار شتّى 
+<lb n="9"/>  بدينر ÷÷ ودينر <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" />÷÷÷÷ </lem><rdg resp="Diem">÷÷÷÷÷</rdg></app> ودينر ÷÷÷÷ ودينر ÷÷ 
+<lb n="10"/>  الفدّان فما خلا بقليل من هذه الأسعار 
+<lb n="11"/>  اكتب إلي حتّى أعزم عليك في تلك البيعة 
+<lb n="12"/>  بعينها فواللّه يأخي لو زرعتها لك وأدّيت 
+<lb n="13"/>  الخراج كلّه من مالي وحملته إلى منزلك 
+<lb n="14"/>  ما حمدت <app type="BL"><lem resp="APD">لنفسي </lem><rdg resp="Diem. High nūn like in l. 5">پڤسى </rdg><rdg resp="Diem. High nūn like in l. 5">نفسي</rdg></app> <app type="BL"><lem resp="APD">ڤپر<gap reason="illegible" extent="2" unit="character" />ل </lem><rdg resp="Diem">فرأيك</rdg></app> أعزّك اللّه <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="15"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">موفّقا</rdg></app> إن شا اللّه 
+<lb n="16"/>  أطال اللّه بقاك وأدام عزّك وجعلني فداك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="3"/>waṣalat ruqʿatu ka ʾaʿazza ka ăl lāhu ăllatī wa ø waqaftu baʿaṯta ø ʿalà ʿalay ø ya bi mā hi ø ḏakarta 
+ <lb n="4"/>fī hā min ʾaṯminaẗi ʾamri ăl fadādīni wa saʾaltu masʾalati ka ăl ʿazma fī 
+ <lb n="5"/>zarʿi hā la ka maʿa mā ʾazraʿu hu li nafs ī fa qad kuntu ʾaʿlamtu ka 
+ <lb n="6"/>ʾaʿazza ka ăl lāhu qabla hāḏā ăl waqti ʾan nī law lam ʾazraʿ ʾillā hāḏihi 
+ <lb n="7"/>ăl faddānayni la kānat la ka ʿind ī qalīl:un ḥaṭīṭaẗ:un wa qad 
+ <lb n="8"/>tasaǧǧalta ʾaʿazza ka ăl lāhu fī ġayri bayʿaẗ:in bi ʾasʿār:in šattà 
+ <lb n="9"/>bi dīnār:in ‪4+1/6 wa dīnār:in ‪*+1/2+1/24+1/48 4+1/2+1/24+1/48 wa dīnār:in ‪3+1/3+1/12 wa dīnār:in ‪5+1/3 
+ <lb n="10"/>ăl faddāna fa mā ḫalā bi qalīl:in min hāḏihi ăl ʾasʿāri 
+ <lb n="11"/>ŭktub ʾilay ya ḥattà ʾaʿzama ʿalay ka fī tilka ăl bayʿaẗi 
+ <lb n="12"/>bi ʿayni hā fa wa ăl lāhi yā ʾaḫ ī law zaraʿtu hā la ka wa ʾaddaytu 
+ <lb n="13"/>ăl ḫarāǧa kulla hu min māl ī wa ḥamaltu hu ʾilà manzili ka 
+ <lb n="14"/>mā ḥamidtu li ø nafs ī fa Br**l raʾyu ø ka ʾaʿazza ka ăl lāhu ****** 
+ <lb n="15"/>***** muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="16"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa ǧaʿala nī fidāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May God prolong your life and may He cause your might and honour to continue and may He make me your ransom.
+			<lb n="3"/>
+		Your note - may God exalt you - which you sent to me (and) in which you mentioned
+			<lb n="4"/>
+		some prices for the faddân, has arrived. Now I had asked you to decide about
+			<lb n="5"/>
+		their cultivation on your behalf together with anything that I cultivate for myself; for I have already informed you -
+			<lb n="6"/>
+		may God exalt you - before this (present) time that, if I had only cultivated these
+			<lb n="7"/>
+		... Nachlass, Reduktion...
+		two faddâns, I had (only) little for you at disposal. You had
+			<lb n="8"/>
+		... bei mehr als einem Kauf...
+		- may God exalt you - already decreed decisively about the non-selling for different prices - viz.
+		- may God exalt you - already decreed decisively in more than one sale for different prices - viz.
+			<lb n="9"/>
+		for 4 1/6 dînârs, [.]+1/2+1/24+1/48 of a dînâr,3 1/3+1/12 dînârs and 5 1/3 dînârs
+			<lb n="10"/>
+		per faddân - but whatever varies even by a little from these prices,
+			<lb n="11"/>
+		write to me (about it) so that I may regard your information to me respecting that sale
+			<lb n="12"/>
+		itself as decisive. By God, O my brother, if I had cultivated it for you and had paid
+			<lb n="13"/>
+		the whole land-tax out of my own money and carried it to your house,
+			<lb n="14"/>
+		(dann) würde ich mich nicht loben. Bilde Dir also - Gott stärke Dich - über das, was geschehen soll,
+		I would not have praised myself ......... to you - may God exalt you - ...........
+			<lb n="15"/>
+		.......... if God wills.
+			<lb n="16"/>
+		May God prolong your life and may He cause your might to continue and may He make me your ransom.
+</ab></div>
+</body>
+</text>
+</TEI>

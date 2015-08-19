@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="34" xml:id="Heid_Arab_I_03" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 03</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_03</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106482</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرحمن</supplied> <supplied reason="lost" cert="high">الرحيم</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">ـ[من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شريك</supplied> <supplied reason="lost" cert="high">إلى </supplied>
+ <lb n="3"/>  <unclear reason="undefined" cert="high">بسيل</unclear> <unclear reason="undefined" cert="high">صحب</unclear> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">أشفوه</unclear> </lem><rdg resp="AK">إشقوه</rdg></app> <unclear reason="undefined" cert="high">فإنّي</unclear> 
+ <lb n="4"/>  أحمد اللّه الذي لا إله 
+ <lb n="5"/>  إلّا هو 
+ <lb n="6"/>  أمّا بعد فإنّي قد كنت 
+ <lb n="7"/>  كتبت إليك في 
+ <lb n="8"/>  تعجيل حمل طعام الهري وفي 
+ <lb n="9"/>  كيله بما قد بلغك 
+ <lb n="10"/>  وإنّي لم أرك إلّا 
+ <lb n="11"/>  قد أخذت ذلك 
+ <lb n="12"/>  ولا توحرن منه إردبّـ<unclear reason="undefined" cert="high">ـا</unclear> 
+ <lb n="13"/>  وا<unclear reason="undefined" cert="high">حـ</unclear>ـدا فإنّا قد أمرنا 
+ <lb n="14"/>  <unclear reason="undefined" cert="high">للـ</unclear>ـجند بأرزاقهم فليس 
+ <lb n="15"/>  نحبس أحدا من أهل 
+ <lb n="16"/>  رص قدم ثم قد بارك 
+ <lb n="17"/>  اللّه في غلّة أهل 
+ <lb n="18"/>  رص <app type="BL"><lem resp="APD">العام </lem><rdg resp="“Diem, Aphrodito p. 254”">العام</rdg></app> فليس لأحد علّة 
+ <lb n="19"/>  في شي إلّا أن يعجز العامل 
+ <lb n="20"/>  أو يضيع ولعمري لمن كان 
+ <lb n="21"/>  عاجزا مضيعا لقد استحل 
+ <lb n="22"/>  منّي ما يكره فمر أهل 
+ <lb n="23"/>  كل قرية من كورتك 
+ <lb n="24"/>  فليعجّلوا حمل الّذي عليهم 
+ <lb n="25"/>  وليختاروا <sic n="superfluous">ڤنالا</sic> <supplied reason="omitted" cert="high">قبّالا</supplied> منهم 
+ <lb n="26"/>  يتمنّونه ويرضونه ثم مر 
+ <lb n="27"/>  لكل قبّال بخمسة 
+ <lb n="28"/>  دپ في كل مئة 
+ <lb n="29"/>  إردب يكـ<unclear reason="undefined" cert="high">ـو</unclear>ن منها أجر<unclear reason="undefined" cert="high">ه</unclear> 
+ <lb n="30"/>  وشي إن نقص من الـطّعام 
+ <lb n="31"/>  وضمّنهم ما يستوفون من 
+ <lb n="32"/>  أهل الأرض حتّى 
+ <lb n="33"/>  ڤعويه إلى أصحب 
+ <lb n="34"/>  هرا وليكتال القبّالين 
+ <lb n="35"/>  من أهل الأرض بالكيل 
+ <lb n="36"/>  العدل فإنّي قد أمرت 
+ <lb n="37"/>  أصحب الأهرا أن 
+ <lb n="38"/>  <unclear reason="undefined" cert="high">ڤـ</unclear>ـوا من أهل الأرض كيل 
+ <lb n="39"/>  الـ<unclear reason="undefined" cert="high">ـرز</unclear>ق و<unclear reason="undefined" cert="high">لا</unclear> يزيد<unclear reason="undefined" cert="high">وا</unclear> <unclear reason="undefined" cert="high">علـ</unclear>ـيه 
+ <lb n="40"/>  شيا وتقدّمت إليهم 
+ <lb n="41"/>  ألّا يكتالوا كيل 
+ <lb n="42"/>  <unclear reason="undefined" cert="high">پـ</unclear>ـمو<unclear reason="undefined" cert="high">س</unclear> وقطعت ذلك 
+ <lb n="43"/>  عن أهل الأرض فمر 
+ <lb n="44"/>  القبّالين فليكتالوا بالقنقل 
+ <lb n="45"/>  ثم اجعل عندك 
+ <lb n="46"/>  قنقلا عدلا تجرب به ما 
+ <lb n="47"/>  يستوفي الـقبّالين من أهل 
+ <lb n="48"/>  القرى وإن وجدت أحد<supplied reason="lost" cert="high">ا</supplied> 
+ <lb n="49"/>  من القبّالين اعتدى على 
+ <lb n="50"/>  أهل الأرض في الكيل أ<supplied reason="lost" cert="high">و</supplied> 
+ <lb n="51"/>  ازداد على الذي فرضت 
+ <lb n="52"/>  له شيا فاجلده مية جلدة 
+ <lb n="53"/>  واجزر لحيته ورأسه 
+ <lb n="54"/>  <app type="BL"><lem resp="APD">عرمه </lem><rdg resp="APD">وغرّمه</rdg></app> ثلثين دينرا بعد أن 
+ <lb n="55"/>  تغرمه ما ازداد على 
+ <lb n="56"/>  الذي أمرتك به واعلم 
+ <lb n="57"/>  أنّي إن أجد أحدا من 
+ <lb n="58"/>  لڤپالين اعتدى على أهل 
+ <lb n="59"/>  رص في الكيل أو أخذ 
+ <lb n="60"/>  منهم فوق الذي أمر<unclear reason="undefined" cert="high">ت</unclear> 
+ <lb n="61"/>  له به يبلغك منّي ما <app type="BL"><lem resp="APD">يضيق </lem><rdg resp="APD">يصيّق</rdg></app> عليك 
+ <lb n="62"/>  أرضك فاكفني أمر ما قبلك 
+ <lb n="63"/>  واتق اللّه فيما تلى فإنّما هي 
+ <lb n="64"/>  مأپپك ودينك ثم 
+ <lb n="65"/>  ححر عمّالك و<unclear reason="undefined" cert="high">نفسـ</unclear>ـك 
+ <lb n="66"/>  عن ظلم أهل الأرض فإن 
+ <lb n="67"/>  الأرض لا صبر لها على 
+ <lb n="68"/>  <app type="BL"><lem resp="APD"><sic n="superfluous">الصلم</sic><supplied reason="omitted" cert="high">الظّلم</supplied> </lem><rdg resp="“Diem, Dienstschreiben p. 246”">الضّلم</rdg></app> ولا بقا وإذا 
+ <lb n="69"/>  أتى أهل الأرض الظـ<unclear reason="undefined" cert="high">ـلـ</unclear>ـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="70"/>  والإضاعة من قبل من يلي 
+ <lb n="71"/>  أمرهم فإن ذلك 
+ <lb n="72"/>  خرابهم وتعهد أمر ما قبلك 
+ <lb n="73"/>  ولا تكلن أمانتك و<unclear reason="undefined" cert="high">ما</unclear> 
+ <lb n="74"/>  تلى إلى أحد سوا نفسك 
+ <lb n="75"/>  فإن المحسن معان <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">بأ</unclear><supplied reason="lost" cert="high">رضـ</supplied>ـ<unclear reason="undefined" cert="high">ـك</unclear> </lem><rdg resp="“Diem, Aphrodito p. 254”">مبارك</rdg></app> 
+ <lb n="76"/>  في عمله ثم مر أهل أرضك 
+ <lb n="77"/>  فلا يحملوا إلى الهري إلّا 
+ <lb n="78"/>  طعاما طيّبا فإنّي قد أمرت 
+ <lb n="79"/>  أصحب الهري ألّا يقبلوا من 
+ <lb n="80"/>  أهل الأرض إلّا <unclear reason="undefined" cert="high">ذلك</unclear> 
+ <lb n="81"/>  ثم عجّل حمل ما على أرضك 
+ <lb n="82"/>  من الطعام ولا <app type="BL"><lem resp="APD">تلجيئى </lem><rdg resp="APD">تلحّيـنّى</rdg></app> 
+ <lb n="83"/>  إلى أن أكتب 
+ <lb n="84"/>  إليك فيه بعد كتبي هذ<supplied reason="lost" cert="high">ا</supplied> 
+ <lb n="85"/>  فإنّي إذ<unclear reason="undefined" cert="high">ن</unclear> أ<unclear reason="undefined" cert="high">كـ</unclear><supplied reason="lost" cert="high">ـتب</supplied> 
+ <lb n="86"/>  إليك بالذي <app type="BL"><lem resp="APD">يجزيك </lem><rdg resp="“Diem, Aphrodito p. 254”">يجزيك</rdg></app> 
+ <lb n="87"/>  <unclear reason="undefined" cert="high">و</unclear>السلم على من <unclear reason="undefined" cert="high">ا</unclear>تبع 
+ <lb n="88"/>  الهدى وكتب 
+ <lb n="89"/>  <unclear reason="undefined" cert="high">الـ</unclear>ـصلت في شوال من 
+ <lb n="90"/>  <supplied reason="lost" cert="high">سنـ</supplied>ـه <unclear reason="undefined" cert="high">ا</unclear>حدى 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà 
+ <lb n="3"/>basīla ṣāḥibi ʾašfūha ʾišqawha fa ʾin nī 
+ <lb n="4"/>ʾaḥmadu ăl lāha ăllaḏī lā ʾilāha 
+ <lb n="5"/>ʾillā huwa 
+ <lb n="6"/>ʾammā baʿdu fa ʾin nī qad kuntu 
+ <lb n="7"/>katabtu ʾilay ka fī 
+ <lb n="8"/>taʿǧīli ḥamli ṭaʿāmi ăl huryi wa fī 
+ <lb n="9"/>kayli hi bi mā qad balaġa ka 
+ <lb n="10"/>wa ʾinn ī lam ʾura ka ʾillā 
+ <lb n="11"/>qad ʾaḫaḏta ḏālika 
+ <lb n="12"/>wa lā tuʾaḫḫiranna min hu ʾirdabb:an 
+ <lb n="13"/>wāḥid:an fa ʾin nā qad ʾamarnā 
+ <lb n="14"/>li l ǧundi bi ʾarzāqi him fa laysa 
+ <lb n="15"/>naḥbisu ʾaḥad:an min ʾahli 
+ <lb n="16"/>ăl ʾarḍi qadima ṯumma qad bāraka 
+ <lb n="17"/>ăl lāhu fī ġallaẗi ʾahli 
+ <lb n="18"/>ăl ʾarḍi ăl ʿāma ʿāmmi fa laysa li ʾaḥad:in ʿillaẗ:un 
+ <lb n="19"/>fī šayʾ:in ʾillā ʾan yaʿǧizu ăl ʿāmilu 
+ <lb n="20"/>ʾaw yuḍīʿu wa la ʿamr ī la ø man kāna 
+ <lb n="21"/>ʿāǧiz:an muḍīʿ:an la qadi ĭstaḥalla 
+ <lb n="22"/>minn ī mā yakrahu fa mur ʾahla 
+ <lb n="23"/>kulli qaryaẗ:in min kūrati ka 
+ <lb n="24"/>fa l yuʿaǧǧilū ḥamla ăllaḏī ʿalay him 
+ <lb n="25"/>wa l yaḫtārū qabbāl:an min hum 
+ <lb n="26"/>yatamannawna hu wa yarḍawna hu ṯumma mur 
+ <lb n="27"/>li kulli qabbāl:in bi ḫamsaẗi 
+ <lb n="28"/>ʾarādiba fī kulli miʾaẗi 
+ <lb n="29"/>ʾirdabb:in yakūnu min hā ʾaǧru hu 
+ <lb n="30"/>wa šayʾ:un ʾin naqaṣa mina ăṭ ṭaʿāmi 
+ <lb n="31"/>wa ḍammin hum mā yastawfūna min 
+ <lb n="32"/>ʾahli ăl ʾarḍi ḥattà 
+ <lb n="33"/>yadfaʿūna hu ʾilà ʾaṣḥābi 
+ <lb n="34"/>ăl ʾahrāʾi wa l yaktāli ăl qabbālīna 
+ <lb n="35"/>min ʾahli ăl ʾarḍi bi ăl kayli 
+ <lb n="36"/>ăl ʿadli fa ʾin nī qad ʾamartu 
+ <lb n="37"/>ʾaṣḥāba ăl ʾahrāʾi ʾan 
+ <lb n="38"/>yatawaffaw min ʾahli ăl ʾarḍi kayla 
+ <lb n="39"/>ăr rizqi wa lā yazīdū ʿalay hi 
+ <lb n="40"/>šayʾ:an wa taqaddamtu ʾilay him 
+ <lb n="41"/>ʾallā yaktālū kayla 
+ <lb n="42"/>ăd dīmūsi wa qaṭaʿtu ḏālika 
+ <lb n="43"/>ʿan ʾahli ăl ʾarḍi fa muri 
+ <lb n="44"/>ăl qabbālīna fa l yaktālū bi ăl qanqali 
+ <lb n="45"/>ṯumma ĭǧʿal ʿinda ka 
+ <lb n="46"/>qanqal:an ʿadl:an tuǧarribu bi hi mā 
+ <lb n="47"/>yastawfī ăl qabbālīna min ʾahli 
+ <lb n="48"/>ăl qurà wa ʾin waǧadta ʾaḥad:an 
+ <lb n="49"/>mina ăl qabbālīna ĭʿtadà ʿalà 
+ <lb n="50"/>ʾahli ăl ʾarḍi fī ăl kayli ʾaw 
+ <lb n="51"/>ĭzdāda ʿalà ăllaḏī faraḍta 
+ <lb n="52"/>la hu šayʾ:an fa ĭǧlid hu miyaẗa ǧaldaẗ:in 
+ <lb n="53"/>wa ŭǧzur liḥyata hu wa raʾsa hu 
+ <lb n="54"/>wa wa ʾaġrim ġarrim hu hu ṯalāṯīna dīnār:an baʿda ʾan 
+ <lb n="55"/>tuġrimu hu mā ĭzdāda ʿalà 
+ <lb n="56"/>ăllaḏī ʾamartu ka bi hi wa ĭʿlam 
+ <lb n="57"/>ʾan nī ʾin ʾaǧid ʾaḥad:an mina 
+ <lb n="58"/>ăl qabbālīna ĭʿtadà ʿalà ʾahli 
+ <lb n="59"/>ăl ʾarḍi fī ăl kayli ʾaw ʾaḫaḏa 
+ <lb n="60"/>min hum fawqa ăllaḏī ʾamarta 
+ <lb n="61"/>la hu bi hi yabluġ ka minn ī mā yuḍayyiqu yuḍīqu ʿalay ka 
+ <lb n="62"/>ʾarḍa ka fa ĭkfi nī ʾamra mā qibala ka 
+ <lb n="63"/>wa ĭttaqi ăl lāha fī mā talī fa ʾinnamā hiya 
+ <lb n="64"/>ʾamānatu ka wa dīnu ka ṯumma 
+ <lb n="65"/>ŭḥǧur ʿummāla ka wa nafsa ka 
+ <lb n="66"/>ʿan ẓulmi ʾahli ăl ʾarḍi fa ʾinna 
+ <lb n="67"/>ăl ʾarḍa lā ṣabra la hā ʿalà 
+ <lb n="68"/>ăẓ ăḍ ẓulmi ḍulmi wa lā baqāʾ:un wa ʾiḏā 
+ <lb n="69"/>ʾatà ʾahla ăl ʾarḍi ăẓ ẓulmu 
+ <lb n="70"/>wa ăl ʾiḍāʿaẗu min qibali man yalī 
+ <lb n="71"/>ʾamra hum fa ʾinna ḏālika 
+ <lb n="72"/>ḫarābu hum wa taʿahhad ʾamra mā qibala ka 
+ <lb n="73"/>wa lā takilanna ʾamānata ka wa mā 
+ <lb n="74"/>talī ʾilà ʾaḥad:in siwā nafsi ka 
+ <lb n="75"/>fa ʾinna ăl muḥsina muʿān:un bi mubārak:un ʾarḍi ø ka ø 
+ <lb n="76"/>fī ʿamali hi ṯumma mur ʾahla ʾarḍi ka 
+ <lb n="77"/>fa lā yaḥmilū ʾilà ăl huryi ʾillā 
+ <lb n="78"/>ṭaʿām:an ṭayyib:an fa ʾin nī qad ʾamartu 
+ <lb n="79"/>ʾaṣḥāba ăl huryi ʾallā yaqbalū min 
+ <lb n="80"/>ʾahli ăl ʾarḍi ʾillā ḏālika 
+ <lb n="81"/>ṯumma ʿaǧǧil ḥamla mā ʿalà ʾarḍi ka 
+ <lb n="82"/>mina ăṭ ṭaʿāmi wa lā tulaǧǧiʾan tulǧiʾan nī 
+ <lb n="83"/>ʾilà ʾan ʾaktuba 
+ <lb n="84"/>ʾilay ka fī hi baʿda kitāb ī hāḏā 
+ <lb n="85"/>fa ʾin nī ʾiḏan ʾaktubu 
+ <lb n="86"/>ʾilay ka bi ăllaḏī yuǧzī yuḫzī ka 
+ <lb n="87"/>wa ăs salāmu ʿalà mani ĭttabaʿa 
+ <lb n="88"/>ăl hudà wa kataba 
+ <lb n="89"/>ăṣ ṣaltu fī šawwāl:in min 
+ <lb n="90"/>ʾiḥdà wa tisʿīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes des Barmherzigen, des Erbarmers]
+		 <lb n="2"/>
+ 	  [Von Qorra, dem Sohne des Šarīk, an]
+		 <lb n="3"/>
+ 	  Basilius, den Vorsteher von Ašfūh. Ich
+		 <lb n="4"/>
+ 	  Preise Gott, außer dem es keinen
+		 <lb n="5"/>
+ 	  Gott gibt.
+		 <lb n="6"/>
+ 	  Des Weiteren: Ich hatte
+		 <lb n="7"/>
+ 	  Dir geschrieben,
+		 <lb n="8"/>
+ 	  Die Ablieferung des Getreides für den Staatsspeicher zu beschleunigen und es
+		 <lb n="9"/>
+ 	  In der Dir übermittelten Weise zu vermessen.
+		 <lb n="10"/>
+ 	  Ich muss annehmen, daß
+		 <lb n="11"/>
+ 	  Du dies erhalten hast,
+		 <lb n="12"/>
+ 	  Und nicht sollst Du verzögern von ihm eine einzige
+		 <lb n="13"/>
+ 	  Artabe; denn wir haben Befehl gegeben,
+		 <lb n="14"/>
+ 	  Den Truppen ihre Verpflegung zu erstatten; auch
+		 <lb n="15"/>
+ 	  Halten wir niemand zurück von den Leuten des
+		 <lb n="16"/>
+ 	  ... ferner segnete 
+ 	  Landes, der (zu uns) gekommen ist (Frondienst?); ferner hat Gott
+		 <lb n="17"/>
+ 	  Gesegnet die Frucht des gemeinen Land-
+ 	  Gott die Ernte des Land-
+		 <lb n="18"/>
+ 	  Volkes. Deshalb hat niemand einen Entschuldigungsgrund
+ 	  volkes in diesem Jahr ...
+		 <lb n="19"/>
+ 	  In irgendetwas, sondern Schuld hat bloß das Versagen oder die Pflicht-
+		 <lb n="20"/>
+ 	  Verletzung des Beamten. Bei meinem Leben, wer versagt,
+		 <lb n="21"/>
+ 	  Oder seine Pflicht verletzt, der möge von mir
+		 <lb n="22"/>
+ 	  Erwarten, was ihm nicht angenehm ist. So befiehl den Leuten
+		 <lb n="23"/>
+ 	  Jeder Ortschaft Deines Kreises (kūra),
+		 <lb n="24"/>
+ 	  Daß sie eilends abliefern sollen, was ihnen obliegt,
+		 <lb n="25"/>
+ 	  Und daß sie sich aus ihrer Mitte einen Qabbāl wählen sollen,
+		 <lb n="26"/>
+ 	  Den sie wünschen und mit dem sie zufrieden sind. Dann setze
+		 <lb n="27"/>
+ 	  Aus für jeden Qabbāl fünf Artaben
+		 <lb n="28"/>
+ 	  Auf je hundert Artaben.
+		 <lb n="29"/>
+ 	  Hiervon soll sein Lohn bestritten und
+		 <lb n="30"/>
+ 	  Ein ev. Manko an Getreide gedeckt werden.
+		 <lb n="31"/>
+ 	  Und mache sie verantwortlich für das volle Maß dessen, was sie von
+		 <lb n="32"/>
+ 	  Dem Landvolk erheben, bis sie es
+		 <lb n="33"/>
+ 	  Abliefern an die Beamten der
+		 <lb n="34"/>
+ 	  Staatsspeicher und die Qabbāls
+		 <lb n="35"/>
+ 	  Sollen (das Getreide) von dem Landvolk nach dem rechten
+		 <lb n="36"/>
+ 	  Maß erheben. Auch habe ich schon
+		 <lb n="37"/>
+ 	  Die Beamten der Staatsspeicher angewiesen, daß sie
+		 <lb n="38"/>
+ 	  Von dem Landvolke das Getreidemaß
+		 <lb n="39"/>
+ 	  Voll, aber nicht das Geringste mehr nehmen
+		 <lb n="40"/>
+ 	  Sollten. Auch habe ich sie zuvor angewiesen,
+		 <lb n="41"/>
+ 	  Daß sie nicht mit dem δημόσιον (genannten) Mass
+		 <lb n="42"/>
+ 	  Messen sollten; denn ich habe verboten, dies beim
+		 <lb n="43"/>
+ 	  Landvolke anzuwenden. Vielmehr befiehl
+		 <lb n="44"/>
+ 	  Den Qabbāls, daß sie mit dem Qanqalmass messen sollen;
+		 <lb n="45"/>
+ 	  Ferner deponiere bei Dir
+		 <lb n="46"/>
+ 	  Ein Normal-Qanqalmass, mit dem Du nachprüfst, was
+		 <lb n="47"/>
+ 	  Die Qabbāls von dem Volke der Ortschaften
+		 <lb n="48"/>
+ 	  Nehmen, und, wenn Du einen
+		 <lb n="49"/>
+ 	  Von den Qabbāls dabei ertappst, das Maß zu
+		 <lb n="50"/>
+ 	  Überschreiten gegenüber dem Landvolk, oder
+		 <lb n="51"/>
+ 	  ... als Du ihm 
+ 	  Das Geringste mehr zu nehmen, als Du ihm
+		 <lb n="52"/>
+ 	  Bewilligt hat ...
+ 	  Vorgeschrieben hast, so züchtige ihn mit hundert Hieben
+		 <lb n="53"/>
+ 	  Und schere ihm Bart und Kopfhaar und
+		 <lb n="54"/>
+ 	  Lege ihm eine Strafe von dreissig Dīnār auf, nachdem
+		 <lb n="55"/>
+ 	  Du ihm das abverlangt hast, was er über meine Instruktion an Dich
+		 <lb n="56"/>
+ 	  Hinaus eingezogen hat, und wisse:
+		 <lb n="57"/>
+ 	  Finde ich, daß einer von den
+		 <lb n="58"/>
+ 	  Qabbāls das Mass überschreitet
+		 <lb n="59"/>
+ 	  Gegenüber dem Landvolk, oder mehr
+		 <lb n="60"/>
+ 	  ... als was Du ihm angewiesen hast 
+ 	  Von ihnen nimmt, als was Du ihm geboten
+		 <lb n="61"/>
+ 	  hast ...
+ 	  Hast, so soll Dich von mir treffen, was Dir Dein Land eng werden
+		 <lb n="62"/>
+ 	  Lassen wird. Drum befriedige mich in der Dir obliegenden Angelegenheit
+		 <lb n="63"/>
+ 	  Und fürchte Gott in Deiner Regierung, denn sie ist
+		 <lb n="64"/>
+ 	  Ein Dir anvertrautes Gut und Deine religiöse Pflicht. Ferner
+		 <lb n="65"/>
+ 	  Halte Deine Beamten und Dich selbst zurück
+		 <lb n="66"/>
+ 	  Von der Bedrückung des Landvolkes; denn
+		 <lb n="67"/>
+ 	  Das Land kann Bedrückung weder aushalten
+		 <lb n="68"/>
+ 	  Noch (bei ihr) bestehen. Trifft
+		 <lb n="69"/>
+ 	  Nun das Landvolk Bedrückung
+		 <lb n="70"/>
+ 	  Und Verderben vonseiten seiner eignen
+		 <lb n="71"/>
+ 	  Obrigkeit, so bedeutet das
+		 <lb n="72"/>
+ 	  Seinen Ruin. So erfülle sorgfältig Deine Pflicht
+		 <lb n="73"/>
+ 	  Und überlass das Dir anvertraute Gut und was
+		 <lb n="74"/>
+ 	  Dir untersteht niemandem ausser Dir selber.
+		 <lb n="75"/>
+ 	  Wer gut handelt, dem wird geholfen und seine Arbeit unterstützt 
+ 	  Wer gut handelt, der wird (von Gott) unterstützt in Deinem Lande (?)
+		 <lb n="76"/>
+ 	  Bei seinem Tun. Ferner befiehl Deinem Landvolk,
+		 <lb n="77"/>
+ 	  Daß sie nach dem Staatsspeicher nur
+		 <lb n="78"/>
+ 	  Unverdorbenes Getreide abliefern; denn ich habe die Beamten
+		 <lb n="79"/>
+ 	  Des Staatsspeichers angewiesen, daß sie von dem
+		 <lb n="80"/>
+ 	  Landvolk nur solches nehmen dürfen.
+		 <lb n="81"/>
+ 	  Dann liefere eilends ab, was Deinem Lande obliegt,
+		 <lb n="82"/>
+ 	  An Getreide und zwinge mich nicht,
+		 <lb n="83"/>
+ 	  Dir (nochmals) hierüber zu schreiben
+		 <lb n="84"/>
+ 	  Nach diesem meinem Brief.
+		 <lb n="85"/>
+ 	  Denn dann müßte ich Dir etwas
+		 <lb n="86"/>
+ 	  Mitteilen, was Dich mit Schande bedecken würde.
+ 	  ... was Dir den entsprechenden Lohn zukommen läßt.
+		 <lb n="87"/>
+ 	  Heil über den, welcher der Rechtleitung
+		 <lb n="88"/>
+ 	  Folgt. Es hat (dies) geschrieben
+		 <lb n="89"/>
+ 	  El-Ṣalt im Šawwāl des
+		 <lb n="90"/>
+ 	  Jahres einundneunzig.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

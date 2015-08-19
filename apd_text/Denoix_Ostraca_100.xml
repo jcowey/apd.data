@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2593" xml:id="Denoix_Ostraca_100" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.DenoixOstraca 0100</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Denoix_Ostraca_100</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <app type="BL"><lem resp="APD">عبد </lem><rdg resp="APD">عبد</rdg></app> <app type="BL"><lem resp="APD">غلام </lem><rdg resp="APD">علّام</rdg></app> <unclear reason="undefined" cert="high">الرّ</unclear><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <unclear reason="undefined" cert="high">كثير</unclear> <unclear reason="undefined" cert="high">وحبّـه</unclear> 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʿabd ʿinda ʿallām:in ġulāmi ăr r*** 
+ <lb n="2"/>kaṯīr wa ḥubb h 
+ <lb n="3"/>*** 
+ <lb n="4"/>*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Chez un serviteur (?) [....]; ou bien: ʿAbd ʿAllām (?) [....]
+		 <lb n="2"/>
+ 	  nombreux (?) et son amour (?)
+		 <lb n="3"/>
+		 <lb n="4"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

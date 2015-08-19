@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="917" xml:id="Guo_Quseir_46" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments II 5 (= P.QuseirArab. I 46)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_46</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113677</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المسيّر إلى ساحل القصير إلى شونة أبو مفرّج للشّيخ <app type="BL"><lem resp="APD">تاپع </lem><rdg resp="APD">بالغ </rdg><rdg resp="APD">تالغ </rdg><rdg resp="APD">نابع</rdg></app> والفقيه 
+<lb n="2"/>  عثمان سبعة وعشرين إردب قمح وسبع <app type="BL"><lem resp="APD">براني </lem><rdg resp="AK">مراني</rdg></app> زيت حار 
+<lb n="3"/>  وعشر سلبات والمسلّم علي بن عدّال بتأريخ الرّابع عشر 
+<lb n="4"/>  من صفر سنة ثلاث وثلاثين وستّمائة ويكون المولا يعلم أن الفقيه عثمن 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> الغلّة <gap reason="illegible" precision="low" extent="3"/> لي وله وفي <app type="BL"><lem resp="APD">حملتها </lem><rdg resp="APD">حملتها</rdg></app> المسيّر منّا للفقيه عثمن <app type="BL"><lem resp="APD">في </lem><rdg resp="“AK”">من</rdg></app> ذلك 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>اها <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl musayyaru ʾilà sāḥili ăl quṣayri ʾilà šūnaẗi ʾabū mufarriǧ:in li š šayḫi bāliġ:in nābiġ:in nābiʿ:in tāliġ:in wa ăl faqīhi 
+ <lb n="2"/>ʿuṯmāna sabʿaẗ:un wa ʿišrīna ʾirdabba qamḥ:in wa sabʿu barānī marānī zayt:in ḥārr:in 
+ <lb n="3"/>wa ʿašru salabāt:in wa ăl musallamu musallimu ʿaliyyu bnu ʿaddāla bi taʾrīḫi ăr rābiʿa ʿašara 
+ <lb n="4"/>min ṣafar:in sanaẗa ṯalāṯ:in wa ṯalāṯīna wa sitti miʾaẗ:in wa yakūni ăl mawlā yaʿlamu ʾanna ăl faqīha ʿuṯmāna 
+ <lb n="5"/>*** ăl ġallaẗ *** l ī wa la hu wa fī ḥimlati ǧumlati hā ăl musayyaru min nā li l faqīhi ʿuṯmāna fī min ḏālika 
+ <lb n="6"/>*** ***ʾ hā *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		To be dispatched to the shore of Quseir, the warehouse of Abū Mufarrij, for Shaykh Nābiġ and the jurist
+		To be dispatched to the shore of Quseir, the warehouse of Abū Mufarrij, for Shaykh Nābigh (?) and the jurist
+			<lb n="2"/>
+		ʿUthmān [are  as follows]: twenty-seven irdabbs of wheat, seven bottles (barnīya) of lighting oil (zayt ḥārr),
+		ʿUthmān [are]: twenty-seven irdabbs of wheat, seven bottles of lighting oil,
+			<lb n="3"/>
+		and ten hawsers. He who is to receive it for safekeeping is ʿAlī ibn ʿAddāl. On the 14th,
+		and ten hawsers (salabāt). He who is to receive it for safekeeping (al-musallam) is ʿAlī ibn ʿAddāl. On the 14th,
+			<lb n="4"/>
+		the month of Ṣafar, the year 633. Let the Master (al-mawlā) know that the jurist ʿUthmān
+		the month of Ṣafar, the year six hundred and thirty-three. The Master should know that the jurist ʿUthmān
+			<lb n="5"/>
+		[...] the grains (al-ghalla) [.....] for me and for him; and among its total sum is the [present] dispatched shipment from us to the jurist. And in this regard [...]
+		[...] the grains [.....] for me and for him; and among its total sum is the [present] dispatched shipment from us to the jurist. And in this regard [...]
+			<lb n="6"/>
+		[..................] its [.................]
+</ab></div>
+</body>
+</text>
+</TEI>

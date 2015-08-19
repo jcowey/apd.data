@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1897" xml:id="Grohmann_APEL_421" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 421</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_421</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169634</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮الرّقعة ‪α‬ 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  الّذي صار إلى أبي سعيد أعزّه اللّه من الدّراهم 
+<lb n="4"/>  ‮في منزله ‪ϰβχ‬ ومع غلامتي ساره ‪ϰ‬ 
+<lb n="5"/>  دينر <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="6"/>  ‮وبقا مع <unclear reason="undefined" cert="high">سحوا</unclear> ‪β‬ وبقا دراهم عند <app type="BL"><lem resp="APD">الخشبة </lem><rdg resp="APD">الخشبة </rdg><rdg resp="APD">الحسبة</rdg></app> ‪μ‬ 
+<lb n="7"/>  في ا<gap reason="illegible" extent="4" unit="character" />ـ دينر مع قوريل 
+<lb n="8"/>  ‮إلى بقام القسطال ‪γ‬ 
+<lb n="9"/>  الّذي عند أبو أحمد أعزه اللّه من الدّراهم 
+<lb n="10"/>  ‮إلى <app type="BL"><lem resp="APD">جشم </lem><rdg resp="APD">حشم</rdg></app> غلامه من أعمال أهل قوص ‪ια‬ 
+<lb n="11"/>  ‮إلى <app type="BL"><lem resp="APD">جشم </lem><rdg resp="APD">حشم</rdg></app> أيضا دراهم ‪ιϑ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăr ruqʿaẗu ‪1 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ăllaḏī ṣāra ʾilà ʾabī saʿīd:in ʾaʿazza hu ăl lāhu mina ăd darāhimi 
+ <lb n="4"/>fī manzili hi ‪22 2/3 wa maʿa ġulāmat ġulāmatay ī ø sāraha ‪20 
+ <lb n="5"/>dīnār:un ***** 
+ <lb n="6"/>wa baqā maʿa saḥwā ‪2 wa baqā darāhimu ʿinda ăl ḫašabaẗi ḥasanaẗi ḥisbaẗi ‪40 
+ <lb n="7"/>fī ʾ**** dīnār:un maʿa qūrīla 
+ <lb n="8"/>ʾilà baqāma ăl qusṭāli ‪3 
+ <lb n="9"/>ăllaḏī ʿinda ʾabū ʾaḥmada ʾaʿazza hu ăl lāhu mina ăd darāhimi 
+ <lb n="10"/>ʾilà ḥašam:in ǧušama ġulāmi hi min ʾaʿmāli ʾahli qūṣa ‪11 
+ <lb n="11"/>ʾilà ḥašam:in ǧušama ʾayḍ:an darāhimu ‪19 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Folio 1
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		What has come to Abû Saʿîd - may God exalt him - of dirhams (is):
+			<lb n="4"/>
+		In his house 22 2/3 and with the two slave-girls of Sâra 20
+			<lb n="5"/>
+		dînâr ....
+			<lb n="6"/>
+		and there have remained with Saḥwâ (?) 2; and there have remained in the care of al-Ḥasana (line 7) with Cyril (line 6) dirhams 40
+			<lb n="7"/>
+		for .................... dînâr
+			<lb n="8"/>
+		To Bqâm, the paymaster, 3
+			<lb n="9"/>
+		That which is in the care of Abû Aḥmad - may God exalt him - of dirhams:
+			<lb n="10"/>
+		To his slave Ǧušam, from the financial administration of the people of Qûṣ 11,
+			<lb n="11"/>
+		further to Ǧušam dirhams 19.
+</ab></div>
+</body>
+</text>
+</TEI>

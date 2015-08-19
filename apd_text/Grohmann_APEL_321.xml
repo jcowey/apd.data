@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1801" xml:id="Grohmann_APEL_321" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 321</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_321</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169541</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أنعم اللّه صباحك 
+<lb n="3"/>  وأطال بقاك وجعلني فداك 
+<lb n="4"/>  أحب حبّك اللّه أن 
+<lb n="5"/>  تتفضّل وتوجّه إلي 
+<lb n="6"/>  بهذا الحساب 
+<lb n="7"/>  اليوم فإنّي أحتاج 
+<lb n="8"/>  أن أبعت به إلـ<supplied reason="lost" cert="high">ـى</supplied> 
+<lb n="9"/>  مصر في <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">حقّ </rdg><rdg resp="Diem">صرّة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">مراعي</rdg></app> <app type="BL"><lem resp="APD">ثما<supplied reason="lost" cert="high">نية</supplied> </lem><rdg resp="Diem">فيها</rdg></app> 
+<lb n="10"/>  دنانير <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أبو</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="7" unit="character" /> </lem><rdg resp="APD">إبرهيم</rdg></app> 
+<lb n="11"/>  وقد <supplied reason="lost" cert="high">أر</supplied>دت أن احـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> 
+<lb n="12"/>  اسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾanʿama ăl lāhu ṣabāḥa ka 
+ <lb n="3"/>wa ʾaṭāla baqāʾa ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="4"/>ʾaḥibbu ʾuḥibbu ḥabba ka ăl lāhu ʾan 
+ <lb n="5"/>tatafaḍḍala wa tuwaǧǧiha ʾilay ya 
+ <lb n="6"/>bi hāḏā ăl ḥisābi 
+ <lb n="7"/>ăl yawma fa ʾin nī ʾaḥtāǧu 
+ <lb n="8"/>ʾan ʾabʿata bi hi ʾilà 
+ <lb n="9"/>miṣra fī *** ḥaqqi ṣurraẗ:in *** marāʿī ṯamāniyaẗ fī ø hā 
+ <lb n="10"/>danānīra *** ʾabū ******* ʾibrāhīma 
+ <lb n="11"/>wa qad ʾaradtu ʾan ʾḥ** 
+ <lb n="12"/>ʾs*** k*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May God give you a happy morning
+			<lb n="3"/>
+		and may He prolong your life and make me your ransom.
+			<lb n="4"/>
+		I should like you - may God love you -
+			<lb n="5"/>
+		to be so kind as to send me
+			<lb n="6"/>
+		this account
+			<lb n="7"/>
+		... Denn ich muß
+		to day. For I, indeed, want
+			<lb n="8"/>
+		es nach
+		to send it t[o]
+			<lb n="9"/>
+		Cairo (Miṣr) for pa[s]ture tax (?) ei[ght]
+		Miṣr (sc. Altkairo) in einer Börse senden, in der
+			<lb n="10"/>
+		die Dinare Abū Ibrāhīms (?) sind.
+		dînârs ............
+			<lb n="11"/>
+		And I already de[si]red that .....
+			<lb n="12"/>
+</ab></div>
+</body>
+</text>
+</TEI>

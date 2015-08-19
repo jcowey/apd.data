@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1423" xml:id="Grohmann_Berlin_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169211</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">وألّف</supplied> <supplied reason="lost" cert="high">بين</supplied> <supplied reason="lost" cert="high">قلوبهم</supplied> <supplied reason="lost" cert="high">لو</supplied> <supplied reason="lost" cert="high">أنفقت</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">الأرض</supplied> <supplied reason="lost" cert="high">جميعا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">ألّفت</supplied> <supplied reason="lost" cert="high">بين</supplied> <supplied reason="lost" cert="high">قلوبهم</supplied> <supplied reason="lost" cert="high">ولكنّ</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ألّـ</supplied>ـف <supplied reason="lost" cert="high">بـ</supplied>ـينهم إنّه عزيز حكيم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ويسكنون</supplied> <supplied reason="lost" cert="high">جميعـ</supplied><unclear reason="undefined" cert="high">ـهما</unclear> يومـيذ الضّيعة المعروفة بشدموه من بعض قرى كو<supplied reason="lost" cert="high">رة</supplied> <supplied reason="lost" cert="high">الفيّوم</supplied> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />پهما على فرائض الإيمان وشرائع الإسلام وسنّة نبيّه محمّد صلّى اللّه عليه وسلّـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وجيبة <del rend="erasure" status="unremarkable">الپكا</del> الصّداق وثبت به عقدة النّكاح ممّا يتعامل به مصر وأعمالها من العين المستنصري الوازن دينار واحد أنقدها <supplied reason="lost" cert="high">من</supplied> 
+<lb n="5"/>  ذلك قبل دخوله بها وقبل إصابته إيّاها نصف دينار والباقي لسرية ابنت أقلودة على حسن بن عمر نصف دينار <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  كوامل مـ<supplied reason="lost" cert="high">ـن</supplied> متواليات أوّلهن بتأريخ هذا الكتاب وعليه أن يتّقي اللّه العظيم فيها ويحسّن صحبتها بــ<supplied reason="lost" cert="high">ـالـمعروف</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كما</supplied> 
+<lb n="7"/>  أمره اللّه تبارك وتعالا في كتابه وسنّة نبيّه محمّد صلّى اللّه عليه وسلّم في المتناكحين <app type="BL"><lem resp="APD">وحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وهـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">يضارّ</supplied> 
+<lb n="8"/>  بها ولا يمنعها من زيارة أهلها ولا يمنع <sic n="superfluous">ولا</sic> <sic n="superfluous">پمپع</sic> أهلها من دخول عليها ولا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  عليهن وقال جل وعز إمّا إمساك بمعروف أو تسريح بإحـ<supplied reason="lost" cert="high">ـسان</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  والحقوق الواجبة الاا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/>ا أعلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ʾallafa bayna qulūbi him law ʾanfaqta mā fī ăl ʾarḍi ǧamīʿ:an mā ʾallafta bayna qulūbi him wa lākinna ăl lāha ʾallafa bayna hum ʾinna hu ʿazīz:un ḥakīm:un *** 
+ <lb n="2"/>*** wa yaskunūna ǧamīʿu humā yawma yiḏ:in ăḍ ḍayʿaẗa ăl maʿrūfaẗa bi šidmūha min baʿḍi qurà kūraẗi ăl fayyūmi 
+ <lb n="3"/>*** *** humā ʿalà farāʾiḍi ăl ʾīmāni wa šarāʾiʿi ăl ʾislāmi wa sunnaẗi nabiyyi hi muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama *** 
+ <lb n="4"/>waǧībaẗ ăṣ ṣadāqi wa ṯabata bi hi ʿuqdaẗu ăn nikāḥi mimmā yataʿāmalu bi hi miṣru wa ʾaʿmālu hā mina ăl ʿayni ăl mustanṣiriyyi ăl wāzini dīnār:un wāḥid:un ʾanqada hā min 
+ <lb n="5"/>ḏālika qabla duḫūli hi bi hā wa qabla ʾiṣābati hi ʾiyyā hā niṣfa dīnār:in wa ăl bāqī li saryaẗa ĭbnati ʾaqlūdaẗa ʿalà ḥasani bni ʿumara niṣfu dīnār:in *** *** 
+ <lb n="6"/>kawāmil min mutawāliyāt:in ʾawwalu hunna bi taʾrīḫi hāḏā ăl kitābi wa ʿalay hi ʾan yattaqiya ăl lāha ăl ʿaẓīma fī hā wa yuḥassina ṣuḥbata hā bi ăl maʿrūfi *** kamā 
+ <lb n="7"/>ʾamara hu ăl lāhu tabāraka wa taʿālā fī kitābi hi wa sunnaẗi nabiyyi hi muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama fī ăl mutanākiḥīna wa h*** ḥ*** wa lā yuḍārra 
+ <lb n="8"/>bi hā wa lā yamnaʿa hā min ziyāraẗi ʾahli hā wa lā yamnaʿa ʾahla hā min duḫūl:in ʿalay hā wa lā *** 
+ <lb n="9"/>ʿalay hinna wa qāla ǧalla wa ʿazza ʾimmā ʾimsāk:un bi maʿrūf:in ʾaw tasrīḥ:un bi ʾiḥsān:in *** 
+ <lb n="10"/>wa ăl ḥuqūq ăl wāǧibaẗ ăl ʾʾ*** 
+ <lb n="11"/>***ʾ ʾʿl*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Und er hat ihre Herzen vereinigt; wenn du alles aufwenden würdest, was es auf Erden gibt, möchtest du doch ihre Herzen nicht vereinigen. Gott aber hat sie ver]einigt, fürwahr er ist allmächtig, allweise [.....]
+			<lb n="2"/>
+		[................... und sie bewohnen alle] beide jetzt die unter dem Namen Šidmūh bekannte Domäne, eines der Döfer der Kū[ra von el-Fayyūm ......]
+			<lb n="3"/>
+		[              ] nach den Vorschriften des Glaubens und den Gesetzen des Islams und der Handlungsweise (Sunna) seines Propheten Muḥammad - Gott segne ihn und spende ihm Hei[l -          ]
+			<lb n="4"/>
+		die Pflicht der Brautgabe und durch die der Ehevertrag feststeht, beträgt von dem in Ägypten und seinen Verwaltungsbezirken handelsüblichen, vollwichtigem Goldgelde des al-Mustanṣir einen Dīnār. Er hat in bar an sie [da-]
+			<lb n="5"/>
+		von vor seinem Beilager mit ihr und vor seinem Umgang mit ihr einen halben Dīnār bezahlt, und der zu Gunsten der Sarya, Tochter des Aqlūde, zu Lasten des Ḥasan b. ʿUmar verbleibende Rest beträgt einen halben Dīnā[r .............]
+			<lb n="6"/>
+		volle, aufeinanderfolgende, beginnend mit dem Datum dieser Urkunde. Und es obliegt ihm, Gott, den unvergleichlich Großen, ihr gegenüber zu fürchten und schön zu gestalten den Umgang mit ihr in [Gefälligkeit ............. sowie] es
+			<lb n="7"/>
+		Gott - gesegnet und erhaben ist er - in seinem Buche angeordnet hat, sowie die Sunna seines Propheten Muḥammad - Gott segne ihn und spende ihm Heil - bezüglich derer, die die Ehe miteinander eingehen, und .[......... und ihr nicht Unrecht zu tun]
+			<lb n="8"/>
+		und weder ihr den Besuch ihrer Angehörigen zu verwehren, noch ihren Angehörigen den Zutritt zu ihr, noch [          ]
+			<lb n="9"/>
+		über sie. Und er hat gesagt - er ist herrlich und mächtig - entweder sie in schicklicher Weise zu behalten oder in gefälliger zu entlassen [
+			<lb n="10"/>
+		und die verbindlichen Ansprüche (?) .. [
+			<lb n="11"/>
+</ab></div>
+</body>
+</text>
+</TEI>

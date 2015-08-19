@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2544" xml:id="Little_FivePetitions_060" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.LittleFivePetitions 310 verso</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Little_FivePetitions_060</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  اللّه الموفّق 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  المرسوم العالي المولوي السّيفي سيف 
+ <lb n="4"/>  الدّين ملك أعزّه اللّه تعالى أن يستقرّ 
+ <lb n="5"/>  الشّيخ الصّالح العالم العامل العلّامة برهان 
+ <lb n="6"/>  الدّين النّاصري مُقريًا بتربة المرحوم السّيفي 
+ <lb n="7"/>  المقرّ طَازْ تغمّده اللّه بالرّحمة وَالرّضوان 
+ <lb n="8"/>  وله من المقرّرْ أسوة أمثاله وَالحمد للّه وحده 
+ <lb n="9"/>  وصلواته على سيّدنا وَعلى آله وصحبه <app type="BL"><lem resp="APD">وسلام </lem><rdg resp="UB">وسلّم</rdg></app> كتب 
+ <lb n="10"/>  بتأريخ الخامس عشر <app type="BL"><lem resp="final nūn dotted">لرمظان </lem><rdg resp="UB; final nūn with dot above">لرمضان</rdg></app> المعظّم من شهور 
+ <lb n="11"/>  سنة خمسة وسبعين وسبعمائة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl lāhu ăl muwaffiqu 
+ <lb n="2"/>*** 
+ <lb n="3"/>ăl marsūmu ăl ʿālī ăl mawlawiyyu ăs sayfiyyu sayfu 
+ <lb n="4"/>ăd dīni malik:in ʾaʿazza hu ăl lāhu taʿālà ʾan yastaqirra 
+ <lb n="5"/>ăš šayḫu ăṣ ṣāliḥu ăl ʿālimu ăl ʿāmilu ăl ʿallāmaẗu burhānu 
+ <lb n="6"/>ăd dīni ăn nāṣiriyyu muqriy:an bi turbaẗi ăl marḥūmi ăs sayfiyyi 
+ <lb n="7"/>ăl maqarri ṭāza taġammada hu ăl lāhu bi ăr raḥmaẗi wa ăr riḍwāni 
+ <lb n="8"/>wa la hu mina ăl muqarrari ʾuswaẗu ʾamṯāli hi wa ăl ḥamdu li l lāhi waḥdi hi 
+ <lb n="9"/>wa ṣalawātu hu ʿalà sayyidi nā wa ʿalà ʾāli hi wa ṣaḥbi hi wa salām:un sallama kutiba 
+ <lb n="10"/>bi taʾrīḫi ăl ḫāmisi ʿašara li ramaẓāna ramaḍāna ăl muʿaẓẓami min šuhūri 
+ <lb n="11"/>sanaẗi ḫamsaẗ:in wa sabʿīna wa sabʿi miʾaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  God is the Bestower of success.
+		 <lb n="2"/>
+		 <lb n="3"/>
+ 	  (It is) the decree of the Lofty Lord al-Sayfī Sayf
+		 <lb n="4"/>
+ 	  al-Dīn Malik, may God the Exalted strengthen him, that
+		 <lb n="5"/>
+ 	  the Virtuous, Learned, Efficacious, and Erudite Shaykh Burhān
+		 <lb n="6"/>
+ 	  al-Dīn al-Nāṣirī be established as reciter at the tomb of the late Sayf al-Dīn
+		 <lb n="7"/>
+ 	  the Excellency Ṭāz, may God encompass him with mercy and contentment,
+		 <lb n="8"/>
+ 	  with recompense like that of his peers. Praise be to God alone!
+		 <lb n="9"/>
+ 	  His prayers and blessings for Our Lord (Muḥammad), his family, and his companions, Written
+		 <lb n="10"/>
+ 	  on the fifteenth of Ramaḍān the Exalted among the months
+		 <lb n="11"/>
+ 	  of 775/28 February 1374.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

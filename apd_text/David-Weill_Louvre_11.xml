@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1238" xml:id="David-Weill_Louvre_11" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 11</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_11</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169075</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="verso1"/>  من أبي خالد يزيد بن وليد إلى زيد بن يحيى <gap reason="illegible" extent="5" unit="character" /> مدينة الفيّوم 
+ <lb n="recto1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="recto2"/>  من أبي خالد إلى زيد بن يحيى سلام عليك فإنّي أحمد إليك 
+ <lb n="recto3"/>  اللّه الّذي لا إله إلّا هو 
+ <lb n="recto4"/>  أمّا بعد عافينا اللّه وإيّاك عافية من اختصّه بتمام 
+ <lb n="recto5"/>  كرامته وجعل منازلك إلى كل خير سبيلا فإنّما نحن 
+ <lb n="recto6"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">نسرّ</unclear> </lem><rdg resp="Diem÷ from primary use of papyrus">ø</rdg></app> به وله بلغني كتابك فقرأته وفهمت ما ذكرت 
+ <lb n="recto7"/>  فيه من عافية اللّه إيّاكم فأنعمت بذلك سرورنا 
+ <lb n="recto8"/>  يسرّنا اللّه وإيّاكم بالجنّة جاپي زيدة بالـكتاب 
+ <lb n="recto9"/>  مع العتمة وكتبت إليك كتابي على المصباح وذكرت 
+ <lb n="recto10"/>  أمر الدّ<supplied reason="lost" cert="high">ر</supplied>هم <unclear reason="undefined" cert="high">وزعمت</unclear> زيدة إنّه يسري مع سحر 
+ <lb n="recto11"/>  فلم يكن عندي واللّه تلك اللّيلة درهم حلّفه اللّه وإنّي 
+ <lb n="recto12"/>  قد سألت عن محمّد فأخبرت عنه أنّه بخير كما <app type="BL"><lem resp="APD">تحبّوا </lem><rdg resp="APD">تحبّوا</rdg></app> 
+ <lb n="recto13"/>  وأنّه باع حمارته واشترى جمل فأصاب الجمل 
+ <lb n="recto14"/>  <supplied reason="lost" cert="high">بنبرة</supplied> في ظهره فباعه وبقا <supplied reason="lost" cert="high">عندي</supplied> مع <supplied reason="lost" cert="high">الدّنا</supplied>نير 
+ <lb n="recto15"/>  <supplied reason="lost" cert="high">د</supplied>رهم سالم صالح وتبيّن ما صنعتم <app type="BL"><lem resp="APD">حتّى </lem><rdg resp="APD">حين</rdg></app> لم تقدموا 
+ <lb n="recto16"/>  لقدوم محمّد إنّه يقدم غد أو بعد غد ولا يجد أحد 
+ <lb n="recto17"/>  عند بيتكم وأخبركم أن خديجة ولدت 
+ <lb n="recto18"/>  جارية وهي تقرئكم السّلم على ابنك وعلى حمزة 
+ <lb n="recto19"/>  <app type="BL"><lem resp="APD">وبريكة </lem><rdg resp="APD">وبريدة</rdg></app> وسلسلة وإن زيدة تقرأ على <sic n="superfluous">و</sic>حمزة سيّدتها 
+ <lb n="recto20"/>  السّلم وعلى بريكة وعلى زيد وعلى عاصم 
+ <lb n="recto21"/>  ورقيّة وسلسلة رضي اللّه عنّپا وعنكم والسّلم 
+ <lb n="recto22"/>  عليك ورحمت اللّه وإن نافعة قد غلبتني لم تدفع 
+ <lb n="recto23"/>  إلي شاي وإنّي قد قبضت من أبي سميعة دينر 
+ <lb n="recto24"/>  بالخرّوبتين فأعطيه بيد له فأعطاني بالخرّوبة قبل 
+ <lb n="recto25"/>  كتابي إليك بيوم وأنا أتركه عندي حتّا 
+ <lb n="recto26"/>  يقدم محمّد إن شا اللّه والسّلم انظرني أن تبعثني زيد أو 
+ <lb n="recto27"/>  مبارك مع أوّل إنسان يقدم فإنّك تعلم أن <app type="BL"><lem resp="APD">زيدا </lem><rdg resp="APD">زيدة</rdg></app> <unclear reason="undefined" cert="high">رپده</unclear> 
+ <lb n="recto28"/>  <app type="BL"><lem resp="APD">تقعد </lem><rdg resp="APD">تقعد</rdg></app> عنده كل ساعة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>min ʾabī ḫālid:in yazīda bni walīd:in ʾilà zaydi bni yaḥyà ***** madīnaẗ ăl fayyūmi 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>min ʾabī ḫālid:in ʾilà zaydi bni yaḥyà salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka 
+ <lb n="4"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu ʿāfī nā ăl lāhu wa ʾiyyā ka ʿāfiyaẗ:an mani ĭḫtaṣṣa hu bi tamāmi 
+ <lb n="6"/>karāmati hi wa ǧaʿala manāzila ka ʾilà kulli ḫayr:in sabīl:an fa ʾinnamā naḥnu 
+ <lb n="7"/>nusarru ø bi hi wa la hu balaġa nī kitābu ka fa qaraʾtu hu wa fahimtu mā ḏakarta 
+ <lb n="8"/>fī hi min ʿāfiyaẗi ăl lāhi ʾiyyā kum fa ʾunʿimat bi ḏālika surūru nā 
+ <lb n="9"/>yasurru nā ăl lāhu wa ʾiyyā kum bi ăl ǧannaẗi ǧāʾa nī zaydaẗu bi ăl kitābi 
+ <lb n="10"/>maʿa ăl ʿatamaẗi wa katabtu ʾilay ka kitāb ī ʿalà ăl miṣbāḥi wa ḏakartu 
+ <lb n="11"/>ʾamra ăd dirhami wa zaʿamat zaydaẗu ʾinna hu yasrī maʿa saḥar:in 
+ <lb n="12"/>fa lam yakun ʿind ī wa ăl lāhi tilka ăl laylaẗa dirham:un ḥallafa hu ăl lāhu wa ʾin nī 
+ <lb n="13"/>qad saʾaltu ʿan muḥammad:in fa ʾuḫbirtu ʿan hu ʾanna hu bi ḫayr:in ka mā nuḥibbū tuḥibbū 
+ <lb n="14"/>wa ʾanna hu bāʿa ḥimārata hu wa ĭštarà ǧamal fa ʾaṣāba ăl ǧamalu 
+ <lb n="15"/>bi nabraẗ:in fī ẓahri hi fa bāʿa hu wa baqā ʿind ī maʿa ăd danānīri 
+ <lb n="16"/>dirham:un sālim:un ṣāliḥ:un wa tubayyinu mā ṣanaʿtum ḥattà ḥīna lam taqdamū 
+ <lb n="17"/>li qudūmi muḥammad:in ʾinna hu yaqdamu ġad ʾaw baʿda ġad wa lā yaǧidu ʾaḥad 
+ <lb n="18"/>ʿinda bayti kum wa ʾuḫbiru kum ʾanna ḫadīǧaẗa waladat 
+ <lb n="19"/>ǧāriyaẗ:an wa hiya tuqriʾu kumu ăs salāma ʿalà ĭbni ka wa ʿalà ḥamzaẗa 
+ <lb n="20"/>wa buraykaẗa buraydaẗa wa silsilaẗa wa ʾinna zaydaẗa taqraʾu ʿalà ḥamzaẗa sayyidati hā 
+ <lb n="21"/>ăs salāma wa ʿalà buraykaẗa wa ʿalà zayd:in wa ʿalà ʿāṣim:in 
+ <lb n="22"/>wa ruqayyaẗa wa silsilaẗa raḍiya ăl lāhu ʿan nā wa ʿan kum wa ăs salāmu 
+ <lb n="23"/>ʿalay ka wa raḥmatu ăl lāhi wa ʾinna nāfiʿaẗa qad ġalabat nī lam tadfaʿ 
+ <lb n="24"/>ʾilay ya šāy wa ʾin nī qad qabaḍtu min ʾabī samīʿaẗa dīnār 
+ <lb n="25"/>bi ăl ḫarrūbatayni fa ʾaʿṭī hi bi yad:in la hu fa ʾaʿṭā nī bi ăl ḫarrūbaẗi qabla 
+ <lb n="26"/>kitāb ī ʾilay ka bi yawm:in wa ʾanā ʾatruku hu ʿind ī ḥattā 
+ <lb n="27"/>yaqdama muḥammad:un ʾin šāʾa ăl lāhu wa ăs salāmu ŭnẓur nī ʾan tabʿaṯa nī zayd ʾaw 
+ <lb n="28"/>mubārak maʿa ʾawwali ʾinsān:in yaqdamu fa ʾinna ka taʿlamu ʾanna zayd:an zaydaẗa lā 
+ <lb n="29"/>taqʿudu yaqʿudu ʿinda hu kulla sāʿaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  De la part d&#039;Abu Khālid Yazīd b. Walīd à Zayd b. Yaḥyā(?) ...... Madīnat al-Fayyūm.
+		 <lb n="2"/>
+ 	  Au nom de Dieu clément miséricordieux!
+		 <lb n="3"/>
+ 	  De la part dʾAbu Khālid à Zayd b. Yaḥyā, salut sur toi, je loue pour toi
+		 <lb n="4"/>
+ 	  Dieu qui est le seul Dieu.
+		 <lb n="5"/>
+ 	  Gott erhalte uns und Dich so gesund, wie er diejenigen, die er mit seiner vollständigen
+ 	  Puis: Que Dieu nous préserve et te préserve de la préservation particulière quʾil dispense par la perfection
+		 <lb n="6"/>
+ 	  de sa générosité, et quʾil constitue de tes séjours une voie vers tout bien, car nous
+ 	  Gnade bevorzugt, gesund erhält (...). Denn wir
+		 <lb n="7"/>
+ 	  existieren nur duch ihn und für dich. (...)
+ 	  nous en réjouirons ainsi quʾà son égard. Il mʾest parvenu ta lettre et je lʾai lue et jʾai compris ce que tu as mentionné
+		 <lb n="8"/>
+ 	  de la faveur de Dieu à votre égard, et notre satisfaction sʾen est renforcée
+		 <lb n="9"/>
+ 	  Que Dieu nous réjouisse et vous donne le Paradis. Zayda est venu chez moi avec la lettre
+		 <lb n="10"/>
+ 	  au crépucsule, et jʾai écrit ma lettre à la lumière de la lampe, et jʾai mentionné
+		 <lb n="11"/>
+ 	  lʾaffaire du dirham (?), et Zayda a prétendu quʾil était venu à lʾaube
+		 <lb n="12"/>
+ 	  et il nʾy avait chez moi par Dieu cette nuit-là aucun dirham, que Dieu assure ce serment (?). Jʾai
+		 <lb n="13"/>
+ 	  demandé des nouvelles de Muḥammad et on mʾa informé que cela allait bien pour lui comme nous le souhaitons (vous le souhaitez?)
+		 <lb n="14"/>
+ 	  et quʾil a vendu son ânesse et acheté un chameau, mais le chameau a été atteint
+		 <lb n="15"/>
+ 	  dʾune tumeur (?) dans le dos et il lʾa vendu; et il reste chez moi (?) avec les dinars
+		 <lb n="16"/>
+ 	  un dirham saint et sauf. Expliquez ce que vous avez fait puisque vous nʾêtes pas venus
+		 <lb n="17"/>
+ 	  pour lʾarrivée de Muḥammad: il viendra demain ou après-demain et ne trouvera personne
+		 <lb n="18"/>
+ 	  chez vous. Je vous informe que Khadīdja a accouché
+		 <lb n="19"/>
+ 	  dʾune fille, et elle tʾenvoie le salut pour ton fils et pour Hamza
+		 <lb n="20"/>
+ 	  et Burayka et Silsila, et Zayda tʾenvoie pour sa maîtresse (à elle?)
+		 <lb n="21"/>
+ 	  le salut et pour Burayka et Zayd et Ḥamza et ʿĀṣim
+		 <lb n="22"/>
+ 	  et Ruqayya et Silsila, que Dieu soit satisfait de nous et de vous, et salut
+		 <lb n="23"/>
+ 	  sur toi et miséricorde de Dieu. Et Nāfiʿa mʾa dominé, ne mʾayant payé
+		 <lb n="24"/>
+ 	  rien; et jʾai reçu dʾAbu Samiʿa un dinar
+		 <lb n="25"/>
+ 	  avec deux kharūba, et donne-le lui en mains propres, et il mʾa donné une kharūba avant
+		 <lb n="26"/>
+ 	  que ma lettre te soit adressée, un jour avant, et je le laisserai chez moi jusquʾà ce quʾarrive
+		 <lb n="27"/>
+ 	  Muḥammad, sʾil plait à Dieu, et salut. Fais-moi savoir que tu mʾenverras Zayd ou
+		 <lb n="28"/>
+ 	  Mubārak avec le premier homme qui viendra, car tu sais que Zayd (Zayda?) ne
+		 <lb n="29"/>
+ 	  séjournera pas chez lui tout le temps (?).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

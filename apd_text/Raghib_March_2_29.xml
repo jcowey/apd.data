@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="489" xml:id="Raghib_March_2_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106674</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه عمرك في عـ<supplied reason="lost" cert="high">ـطا</supplied>ئه ونعمه وسلّمك وسلّم لك دينك 
+<lb n="3"/>  وأعانك ولا أعان عليك أعلمك أكرمك اللّه أن أبا عدي أخي 
+<lb n="4"/>  ذكر لي أن أعوام من جـ<supplied reason="lost" cert="high">ـير</supplied>ته وثبوا عليه وخرقوا ثيابه 
+<lb n="5"/>  <gap reason="illegible" extent="6" unit="character" />ا<gap reason="illegible" extent="6" unit="character" /> بأسماهم فأحب أكرمك اللّه أن تبعث 
+<lb n="6"/>  إليهم حتّى تتقدّم إليهم في حجاهم عن أذاه فإن عادوا إلى أذاه 
+<lb n="7"/>  <unclear reason="undefined" cert="high">احبـ</unclear><supplied reason="lost" cert="high">ـسـ</supplied><unclear reason="undefined" cert="high">ـوهـ</unclear><supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">و</supplied>ا<supplied reason="lost" cert="high">لـ</supplied>ـسّـ<supplied reason="lost" cert="high">ـلـ</supplied>ـم عليك أطال اللّه عمرك وتولّاك <supplied reason="omitted" cert="high">و</supplied>حفظك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu ʿumra ka fī ʿaṭāʾi hi wa niʿami hi wa sallama ka wa sallama la ka dīna ka 
+ <lb n="3"/>wa ʾaʿāna ka wa lā ʾaʿāna ʿalay ka ʾuʿlimu ka ʾakrama ka ăl lāhu ʾanna ʾabā ʿadiyy:in ʾaḫ ī 
+ <lb n="4"/>ḏakara l ī ʾanna ʾaʿwāmm min ǧīrati hi waṯabū ʿalay hi wa ḫaraqū ṯiyāba hu 
+ <lb n="5"/>******ʾ****** bi ʾasmāʾi him fa ʾuḥibbu ʾakrama ka ăl lāhu ʾan tabʿaṯa 
+ <lb n="6"/>ʾilay him ḥattà tataqaddama ʾilay him fī ḥaǧā hum ʿan ʾaḏā hu fa ʾin ʿādū ʾilà ʾaḏā hu 
+ <lb n="7"/>ĭḥbisū hum *** **** wa ăs salāmu ʿalay ka ʾaṭāla ăl lāhu ʿumra ka wa tawallā ka wa ḥafiẓa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu prolonge ta vie dans Ses dons et bienfaits, te préserve et préserve pour toi ta religion,
+			<lb n="3"/>
+		t&#039;aide et n&#039;aide (personne) contre toi! Je t&#039;informe - que Dieu t&#039;honore! qu&#039;Abū ʿAdī mon frère
+			<lb n="4"/>
+		m&#039;a déclaré que des gens du commun de ses voisins ont fondu sur lui et lacéré ses vêtements. 
+			<lb n="5"/>
+		.... par leur nom. J&#039;aimerais - que Dieu t&#039;honore! que tu leur envoies (quelqu&#039;un)
+			<lb n="6"/>
+		afin que tu leur ordonnes de les empêcher de le molester. Et s&#039;ils le molestent à nouveau, 
+			<lb n="7"/>
+		emprisonnez-les (?) [....] Que le salut soit sur toi! Que Dieu prolonge ta vie, te secoure &lt;et&gt; te garde!
+</ab></div>
+</body>
+</text>
+</TEI>

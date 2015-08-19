@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1296" xml:id="P_Ragib_SaufConduits_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibSauf-conduits 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Ragib_SaufConduits_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">109999</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  معيشته وأجّلته خمـ<supplied reason="lost" cert="high">ـسة</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">أ</supplied>شهـ<supplied reason="lost" cert="high">ـر</supplied> من مستهل شعبان سنة <supplied reason="lost" cert="high">ثـ</supplied>ـلث و<supplied reason="lost" cert="high">مئة</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">انسلاخ</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">ذ</supplied>ي الحجّة تمام سنة ثلث ومئة وطبـ<supplied reason="lost" cert="high">ـقـ</supplied><gap reason="illegible" extent="1" unit="character" /> 
+<lb n="4"/>  بيده فمن لقيه بعد الأجل الّذي أجّلته 
+<lb n="5"/>  فليردده إلى مدينة والسّلم على من اتّبع 
+<lb n="6"/>  الهدى وكتب <unclear reason="undefined" cert="high">حدأ</unclear> في <supplied reason="lost" cert="high">مستهـ</supplied>ـل 
+<lb n="7"/>  شعبان سنة ثلث ومئة 
+<lb n="seal"/>  <gap reason="illegible" precision="low" extent="3"/> عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>maʿīšat hu wa ʾaǧǧaltu hu ḫamsaẗa 
+ <lb n="2"/>ʾašhur:in min mustahalli šaʿbāna sanaẗa ṯalāṯ:in wa miʾaẗ:in ʾilà ĭnsilāḫi 
+ <lb n="3"/>ḏī ăl ḥiǧǧaẗi tamāmi sanaẗi ṯalāṯ:in wa miʾaẗ:in wa ṭbq* 
+ <lb n="4"/>bi yadi hi fa man laqiya hu baʿd ăl ʾaǧali ăllaḏī ʾaǧǧaltu hu 
+ <lb n="5"/>fa l yardud hu ʾilà madīnaẗ:in wa ăs salāmu ʿalà man ĭttabaʿa 
+ <lb n="6"/>ăl hudà wa kataba ḥadāʾu fī mustahalli 
+ <lb n="7"/>šaʿbāna sanaẗa ṯalāṯ:in wa miʾaẗ:in 
+ <lb n="9"/>*** ʿabd ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		sa subsistance. Je lui ai fixé un délai de cinq
+			<lb n="2"/>
+		mois, du premier jour de la lune de šaʿbān l&#039;année [cent] trois [à la fin]
+			<lb n="3"/>
+		de ḏū l-ḥiǧǧa achèvement de l&#039;année cent trois. [...].
+			<lb n="4"/>
+		en sa main. Qui donc le rencontrera après ce délai que j&#039;ai fixé,
+			<lb n="5"/>
+		qu&#039;il le ramène à une ville. Que le salut soit sur celui qui suit
+			<lb n="6"/>
+		la direction! Écrit par Ḥadāʾ (?) le premier jour de la lune
+			<lb n="7"/>
+		de šaʿbān l&#039;année cent trois.
+			<lb n="9"/>
+		ʿAbd Allāh...
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="958" xml:id="Guo_Quseir_65" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 65</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_65</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113707</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  على عشرين درهم رهن 
+<lb n="2"/>  وهي كتبت بيد الرّيّس 
+<lb n="3"/>  وكتب نجيب الفيّومي 
+<lb n="4"/>  عدد ست أجرام 
+<lb n="left margin"/>  <gap reason="illegible" precision="low" extent="3"/> المالك الرق العرّپف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿalà ʿišrīna dirhama rahn:in 
+ <lb n="2"/>wa hiya kutibat bi yadi ăr rayyisi 
+ <lb n="3"/>wa kataba naǧību ăl fayyūmiyyu 
+ <lb n="4"/>ʿadad:un sittu ʾaǧrām:in 
+ <lb n="5"/>*** ăl mālik ăr riqq ăl ʿarīf 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[O]n a twenty-dirham loan deposit,
+			<lb n="2"/>
+		it is underwritten by the head of merchants.
+			<lb n="3"/>
+		Najīb al-Fayyūmī has written down
+			<lb n="4"/>
+		the numbers: six Nile barges.
+			<lb n="5"/>
+		[......] the slave owner, the head of merchants. 
+</ab></div>
+</body>
+</text>
+</TEI>

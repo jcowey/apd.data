@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1202" xml:id="Diem_CPR_16_35" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 35</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_35</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169040</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وأبقاك 
+<lb n="3"/>  وأبقا النّعمة عليك 
+<lb n="4"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="5"/>  حفظك اللّه يا سيّدي 
+<lb n="6"/>  وجعلني اللّه فداك 
+<lb n="7"/>  أعلم سيّدي جعلني اللّه 
+<lb n="8"/>  فداه <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" extent="11" unit="character" /> 
+<lb n="9"/>  فيه <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">أنّ </rdg><rdg resp="APD">إن</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ولا يقول عليه أحد 
+<lb n="11"/>  حفظك وجعلني <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+ <lb n="3"/>wa ʾabqā ăn niʿmaẗa ʿalay ka 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>ḥafiẓa ka ăl lāhu yā sayyid ī 
+ <lb n="6"/>wa ǧaʿala niya ăl lāhu fidāʾa ka 
+ <lb n="7"/>ʾuʿlimu sayyid ī ǧaʿala niya ăl lāhu 
+ <lb n="8"/>fidāʾa hu ʾan ʾanna *********** kitāba kitābi kitābu ka 
+ <lb n="9"/>fī hi ʾan ʾanna ʾin *** 
+ <lb n="10"/>wa lā yaqūlu ʿalay hi ʾaḥad:un 
+ <lb n="11"/>ḥafiẓa ka wa ǧaʿala nī *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott beschütze und erhalte Dich
+			<lb n="3"/>
+		und erhalte Dir seine Gnade!
+			<lb n="4"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="5"/>
+		Gott beschütze Dich, oh mein Herr,
+			<lb n="6"/>
+		und Gott mache mich zu Deinem Lösegeld!
+			<lb n="7"/>
+		Ich teile meinem Herrn mit - Gott mache mich zu
+			<lb n="8"/>
+		seinem Lösegeld-, daß - - -
+			<lb n="9"/>
+		darin, daß (?) [
+			<lb n="10"/>
+		und niemand sage (?) (etwas) gegen ihn.
+			<lb n="11"/>
+		Er beschütze Dich (?) und mache mich [
+</ab></div>
+</body>
+</text>
+</TEI>

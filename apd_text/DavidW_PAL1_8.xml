@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="742" xml:id="DavidW_PAL1_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 08 (= P.Marchands V/1 03)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">DavidW_PAL1_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106821</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وأمتع بك كتبت إليك يوم الخميس وقد بعثت إليك مع 
+<lb n="3"/>  هرون <app type="BL"><lem resp="APD">اليوم </lem><rdg resp="“Rāġib”">النّوتيّ</rdg></app> صرّة فيها اثنا عشر <app type="BL"><lem resp="APD">دينر </lem><rdg resp="“Rāġib”">دينرا</rdg></app> قائمة <app type="BL"><lem resp="APD">فتشتر </lem><rdg resp="“Rāġib”">فشتر</rdg></app> لي بها بضاعة 
+<lb n="4"/>  أصلح ما ترى <app type="BL"><lem resp="APD">وعجّله </lem><rdg resp="“Rāġib”">وأعجله</rdg></app> إن شا اللّه وقد <app type="BL"><lem resp="APD"><sic n="superfluous">أبطت</sic><supplied reason="omitted" cert="high">اپطپپ</supplied> </lem><rdg resp="“AK”">أبطيت</rdg></app> على السّبعة وعشرين 
+<lb n="5"/>  دينرا الّتي قدم بها عليك شريح وبعثت إليك يوم الثّلثا مع 
+<lb n="6"/>  <app type="BL"><lem resp="APD">لپحاس </lem><rdg resp="“Rāġib”">النّخّاس</rdg></app> ثلثة <app type="BL"><lem resp="APD">الدّنانير </lem><rdg resp="“Rāġib”">دننير</rdg></app> تمام السّبعة حتّا تكون عشرة دينر فعجّل علي بوصو 
+<lb n="7"/>  لمها والسلم علپكم ورحمپ <app type="BL"><lem resp="APD">الله </lem><rdg resp="“Rāġib”">وزاد</rdg></app> <app type="BL"><lem resp="APD">واداك </lem><rdg resp="“Rāġib”">الماء</rdg></app> ذلك اليوم 
+<lb n="8"/>  <app type="BL"><lem resp="APD">الخميس </lem><rdg resp="“Rāġib”">يوم</rdg></app> الأربعا عشرين إصبعا فاعلم ذلك عشر أصابع من اثنا 
+<lb n="9"/>  عشر <app type="BL"><lem resp="APD">قيراط </lem><rdg resp="“Rāġib, reading ‪ذ©ر®اعا”">ذراعا</rdg></app> وكتب 
+<lb n="11 right (David-Weill), 1 address right (Rāġib)"/>  <app type="BL"><lem resp="APD">پعڤوپ </lem><rdg resp="“Rāġib”">لأبي</rdg></app> اسحاق پن ابرهنم 
+<lb n="12 right (David-Weill), 2 address right (Rāġib)"/>  من 
+<lb n="11 left (David-Weill), 1 address left (Rāġib)"/>  أبي <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">صـ</unclear><supplied reason="omitted" cert="high">ـلـ</supplied><unclear reason="undefined" cert="high">ـح</unclear> </lem><rdg resp="“Rāġib”">إبرهيم</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">المدپپى</unclear> </lem><rdg resp="APD">المدينيّ</rdg></app> <app type="BL"><lem resp="APD">عپد </lem><rdg resp="APD">عند</rdg></app> <app type="BL"><lem resp="APD">مسحد </lem><rdg resp="APD">مسجد</rdg></app> 
+<lb n="12 left (David-Weill), 2 address left (Rāġib)"/>  لحامع بـ<supplied reason="lost" cert="high">ـا</supplied>لفيّوم إن <supplied reason="lost" cert="high">شـ</supplied>ـا اللّه 
+<lb n="10 (David-Weill), upside down (Rāġib)"/>  حساب <app type="BL"><lem resp="APD">على </lem><rdg resp="APD">عليّ</rdg></app> <app type="BL"><lem resp="APD">فلج </lem><rdg resp="“Rāġib”">فلح</rdg></app> <app type="BL"><lem resp="APD">بن </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">سلمة </lem><rdg resp="“Rāġib”">وسلمة</rdg></app> وعاصم <app type="BL"><lem resp="APD">وعيسى </lem><rdg resp="“Rāġib”">غنيم</rdg></app> <app type="BL"><lem resp="APD">بن </lem><rdg resp="“Rāġib”">و<gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾamtaʿa bi ka katabtu ʾilay ka yawma ăl ḫamīsi wa qad baʿaṯtu ʾilay ka maʿa 
+ <lb n="3"/>hārūna ăl ăn yawma nūtiyyi ṣurraẗ:an fī hā ĭṯnā ʿašara dīnār dīnār:an qāʾimaẗ:an fa taštari štari l ī bi hā biḍāʿaẗ:an 
+ <lb n="4"/>ʾaṣlaḥa mā tarà wa ʿaǧǧil ʾaʿǧala hu hu ʾin šāʾa ăl lāhu wa qad ʾabṭatu ʾabṭaytu ʿalà ăs sabʿaẗi wa ʿišrīna 
+ <lb n="5"/>dīnār:ani ăllatī qadima bi hā ʿalay ka šurayḥ:un wa baʿaṯtu ʾilay ka yawma ăṯ ṯulāṯāʾi maʿa 
+ <lb n="6"/>ăn naḥḥāsi naḫḫāsi ṯalāṯaẗa ăd ø danānīri danānīra tamāma ăs sabʿaẗi ḥattā takūna ʿašaraẗa dīnār fa ʿaǧǧil ʿalay ya bi wuṣūli himā 
+ <lb n="7"/>wa ăs salāmu ʿalay kum wa raḥmatu ăl lāhi wa ʾuddā zāda ka ø ø ăl ø māʾu ḏālika ăl yawma 
+ <lb n="8"/>ăl yawma ḫamīsa ø ăl ʾarbaʿāʾa ʾarbaʿāʾi ʿišrīna ʾiṣbaʿ:an fa ĭʿlam ḏālika ʿašru ʾaṣābiʿa mini ĭṯnā 
+ <lb n="9"/>ʿašara qīrāṭ ḏirāʿ:an wa kutiba 
+ <lb n="10"/>ø li ø ʾabī yaʿqūb yaʿqūba ʾisḥāqa bni ʾibrāhīma 
+ <lb n="11"/>min 
+ <lb n="12"/>ʾabī ṣāliḥ:in ʾibrāhīma ******* ăl ø madīniyyi ø ʿinda ø masǧidi 
+ <lb n="13"/>ăl ǧāmiʿi bi ăl fayyūmi ʾin šāʾa ăl lāhu 
+ <lb n="14"/>ḥisābu ḥisāb:un ʿalà ʿaliyyi falaḥ:in fāliǧi bni ø ø wa salamaẗa wa ʿāṣim:in wa ʿīsà ġunaym:in bni wa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+		Au nom de Dieu clément, miséricordieux!
+			<lb n="2"/>
+		Dieu te préserve et te fasse jouir des biens de ce monde. Je t&#039;ai écrit le jeudi et je t&#039;avais envoyé par
+		Que Dieu te garde et laisse jouir (de ta présence)! Je t&#039;ai écrit le jour du jeudi et je t&#039;ai envoyé avec
+			<lb n="3"/>
+		Harûn aujourd&#039;hui une bourse contenant douze dinars légaux et achète moi avec cette somme de la marchandise
+		Hārūn le batelier une bourse contenant douze dinars du poids requis. Achète-moi avec cette somme de la marchandise,
+			<lb n="4"/>
+		de la meilleure qualité que tu verras et presse-toi de le faire, s&#039;il plaît à Dieu, et j&#039;ai subi du retard pour les vingt sept
+		la meilleure que tu verras et la plus rapide (à écouler), si Dieu le veut! J&#039;ai reçu avec retard les vingt-sept
+			<lb n="5"/>
+		dinars avec lesquels Shuraiḥ était venu chez toi et je t&#039;ai expédié mardi par
+		dinars avec lesquels Šurayḥ est venu chez toi. Je t&#039;ai envoyé le jour du mardi avec
+			<lb n="6"/>
+		al-Naḥḥâs les trois (dinars) qui manquaient sur les sept dinars pour arriver à dix dinars et presse-toi (de m&#039;avertir) de leur arrivée
+		le maquignon trois dinars, complément des sept pour faire dix. Envoie-moi rapidement (une lettre pour m&#039;informer) qu&#039;ils te sont parvenus. 
+			<lb n="7"/>
+		et le salut sur vous et miséricorde de Dieu et je te donnerai ce même
+		Que le salut soit sur vous, ainsi que la miséricorde de Dieu! L&#039;eau a augmenté aujourd&#039;hui,
+			<lb n="8"/>
+		jeudi les vingt quatre pouces (?) et sache que cela est dix pouces
+		jour du mercredi, de vingt doigts, sache ceci. (Il manque encore) dix doigts pour faire
+			<lb n="9"/>
+		de douze qirat et ceci a été écrit.
+		douze coudées. (Ceci a été) écrit.
+			<lb n="10"/>
+		[À Abū] Yaʿqūb Isḥāq b. Ibrāhīm.
+		...(Abu) Yaʾqûb Ishaq ibn Ibrahim
+			<lb n="11"/>
+		de la part
+		De la part
+			<lb n="12"/>
+		d&#039;Abū Ibrāhīm al-Madīnī (?). Près
+		d&#039;Abu Sâliḥ.....
+			<lb n="13"/>
+		de la grande mosquée au Fayyoum, si Dieu [le veut]!
+			<lb n="14"/>
+		Facture dûe par F(â)lidj (?) ibn Salama ʾAsim ibn ʾIsâ....
+		Le compte de ʿAlī Falaḥ, de Salama, de ʿĀṣim, de Ġunaym et [de ....]
+</ab></div>
+</body>
+</text>
+</TEI>

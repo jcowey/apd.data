@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1681" xml:id="Prag_380" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 38</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_380</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169431</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  ثبت 
+<lb n="recto 3"/>  ما تحصّل من سنة الحا<gap reason="illegible" extent="1" unit="character" />ـل على يد مينا بن قلال 
+<lb n="recto 4"/>  من الفول 
+<lb n="recto 5"/>  <app type="BL"><lem resp="APD">‮نهار </lem><rdg resp="APD">‮بهار</rdg></app> بن سعيد ‮‪ϛʹ‬ بشوشة ‪ιʹβʹ‬‬‬ 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD">‮فلّوص </lem><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص </rdg><rdg resp="APD">فلوص</rdg></app> ‮‪<gap reason="illegible" extent="2" unit="character" />ιʹβʹ‬ <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر ‪ϛʹ‬‬‬ 
+<lb n="recto 7"/>  ‮سرور ‮‪<gap reason="illegible" extent="2" unit="character" />ιʹβʹ‬ <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">حـ</supplied>ـرو<supplied reason="lost" cert="high">فـ</supplied>ـة بن المشّاط ‪ιʹβʹ‬‬‬ 
+<lb n="recto 8"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  ‮بقطر الغسّال وأبو اليمن ‮‪αχγʹηʹχ‬ عبد العزيز ‪γηʹ‬ ‪<gap reason="illegible" extent="1" unit="character" />‬‬‬ 
+<lb n="verso 2"/>  β 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ṯabatu 
+ <lb n="3"/>mā taḥaṣṣala min sanaẗa ăl ḥʾ*li ʿalà yadi mīnā bni qilāla 
+ <lb n="4"/>mina ăl fūli 
+ <lb n="5"/>bahāru nahāru bnu saʿīd:in 1/6 bašūšaẗu 1/12 
+ <lb n="6"/>falūṣu filūṣu qalūṣu qulawṣu qullūṣu **+1/12 ***r 1/6 
+ <lb n="7"/>surūr:un **+1/12 *** ḥurūfaẗu bnu ăl maššāṭi 1/12 
+ <lb n="8"/>***** *** 
+ <lb n="9"/>buqṭuru ăl ġassālu wa ʾabū ăl yumni 1+1/2+1/3+1/8+1/48 ʿabdu ăl ʿazīzi 3+1/8 * 
+ <lb n="10"/>2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Aufstellung dessen,
+			<lb n="3"/>
+		was von Sana, dem ...., durch Mīnā b. Qlāl eingesammelt worden ist
+			<lb n="4"/>
+		aus der Bohnen(steuer):
+			<lb n="5"/>
+		Nahār b. Saʿīd 1/6 Bešūše 1/12
+			<lb n="6"/>
+		1/12 [...].. . 1/6
+			<lb n="7"/>
+		Surūr 1/12 [... Ḥ]rū[f]e b. al-Maššāṭ 1/12
+			<lb n="8"/>
+			<lb n="9"/>
+		Boqṭor, der Wäscher, und Abu&#039;l-Yumn 1 1/2+1/3+1/8+1/48, ʿAbd al-ʿAzīz 3 1/8
+			<lb n="10"/>
+		2
+</ab></div>
+</body>
+</text>
+</TEI>

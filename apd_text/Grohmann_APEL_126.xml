@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="339" xml:id="Grohmann_APEL_126" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 126</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_126</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106570</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <unclear reason="undefined" cert="high">شهد</unclear> <unclear reason="undefined" cert="high">على</unclear> <unclear reason="undefined" cert="high">ذلك</unclear> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> وهذا المنز</supplied>ل في حارة كنيسة تدعا ا<supplied reason="lost" cert="high">پـ</supplied>ـو قـ<supplied reason="lost" cert="high">زمـ</supplied>ـان 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> سنة</supplied> σκε ويحيى بن <gap reason="illegible" extent="4" unit="character" /> الخولا<supplied reason="lost" cert="high">نـ</supplied>ـى وكـ<supplied reason="lost" cert="high">ـتب</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـهادته 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> على رائح في ذي الحجّة سنة خمس وعشرين ومائتن 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> مولى <unclear reason="undefined" cert="high">بكير</unclear> بن <app type="BL"><lem resp="APD">كنيز </lem><rdg resp="APD">كثيّر </rdg><rdg resp="APD">كبير </rdg><rdg resp="APD">كنيز </rdg><rdg resp="APD">كنيز</rdg></app> بجميع ما في هذا الكتا پ 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر بن يحيى السّنجرجي وهذا المـ<supplied reason="lost" cert="high">ـنز</supplied>ل في حارة كنيسة <sic n="superfluous">اپو</sic> أبي قزمان <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  مـ]ـائتن 
+ <lb n="9"/><supplied reason="lost" cert="high">  وكتـ</supplied>ـب شهادته في ذي الححه سنة σ<supplied reason="lost" cert="high">κ</supplied>ε 
+ <lb n="10"/>  و]كپپ شهادته بخطّه 
+ <lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>د اللّه الاردى 
+ <lb n="12"/>  شها]دته على إقرار رائح وعمر بن عبد الملك بجميع ما في هذا الكتاب 
+ <lb n="13"/>  وكتب شهادته في ذي الحجّة سنة] خمس وعشرين ومأتي سنة σκε 
+ <lb n="14"/>  شـ]ـهادته بجميع ما في هذا الكتاب 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ***** šahida ʿalà ḏālika 
+ <lb n="2"/>*** *** 
+ <lb n="3"/>*** wa hāḏā ăl manzilu fī ḥāraẗi kanīsaẗ:in tudʿā ʾabū quzmāna 
+ <lb n="4"/>*** sanaẗ 225‬ wa yaḥyà bnu ***** ăl ḫawlāniyyu wa kataba šahādata hu 
+ <lb n="5"/>*** ʿalà rāʾiḥ:in fī ḏī ăl ḥiǧǧaẗi sanaẗa ḫams:in wa ʿišrīna wa miʾatayni 
+ <lb n="6"/>*** mawlà bukayri bni kabīr:in kaṯīr:in kanīz:in kuṯayyir:in kunayz:in bi ǧamīʿi mā fī hāḏā ăl kitābi * 
+ <lb n="7"/>***r bn yaḥyà ăs sinǧirǧī wa hāḏā ăl manzilu fī ḥāraẗi kanīsaẗi ʾabī quzmāna **** 
+ <lb n="8"/>miʾatayni 
+ <lb n="9"/>wa kataba šahādata hu fī ḏī ăl ḥiǧǧaẗi sanaẗa 225 
+ <lb n="10"/>wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="11"/>***d ăl lāhi ăl ʾazadī 
+ <lb n="12"/>šahādata hu ʿalà ʾiqrāri rāʾiḥ:in wa ʿumara bni ʿabdi ăl maliki bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="13"/>wa kataba šahādata hu fī ḏī ăl ḥiǧǧaẗi sanaẗa ḫams:in wa ʿišrīna wa miʾatay sanaẗa 225 
+ <lb n="14"/>šahādata hu bi ǧamīʿi mā fī hāḏā ăl kitābi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  .....]... (The following witnesses) have testified to it:
+		 <lb n="2"/>
+		 <lb n="3"/>
+ 	  and this dewlling hou]se (is to be found) in the quarter of the church named Abû Quzmân
+		 <lb n="4"/>
+ 	  year] 225. And Yaḥyâ b. ..... the Ḫaulâ[ni]te, and he has wr[itten his te]stimony
+		 <lb n="5"/>
+ 	  to (the acknowledgment of) Râʾiḥ in Ḏuʾl-Ḥiǧǧa of the year two hundred and twenty five.
+		 <lb n="6"/>
+ 	  ] freedman of Bukair b. Kaṯîr respecting all that (is contained) in this deed
+		 <lb n="7"/>
+ 	  ]r b. Yaḥyâ as-Sinǧirǧî, and this dwel[ling] house (is to be found) in the quarter of the church of Abû Quzmân
+		 <lb n="8"/>
+ 	  t]wo hundred.
+		 <lb n="9"/>
+ 	  and he has writt]en his testimony in Ḏu&#039;l-Ḥiǧǧa of the year 2[2]5.
+		 <lb n="10"/>
+ 	  and] he has written his testimony in his (own) handwriting (handmark).
+		 <lb n="11"/>
+ 	  ]d Allâh, the Azdite.
+		 <lb n="12"/>
+ 	  and his testi]mony (has been given) to the acknowledgment by Râ&#039;iḥ and ʿUmar b. ʿAbd al-Malik respecting all that (is contained) in this deed,
+		 <lb n="13"/>
+ 	  [and he has written his testimony in Ḏu&#039;l Ḥiǧǧa of the year] two hundred and twenty five. 225.
+		 <lb n="14"/>
+ 	  his tes]timony respecting all that (is contained) in this deed.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2010" xml:id="Grohmann_APEL_270" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 270</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_270</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169738</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> المعروفة بأبي عمر قبالة <sic n="superfluous">پلاه</sic> <supplied reason="omitted" cert="high">بلا مساحة</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>ن ÷÷÷ بجوش بن أبي بنة ÷÷÷ 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى <unclear reason="undefined" cert="high">÷</unclear> زرع 
+<lb n="4"/>  القبالة <supplied reason="lost" cert="high">المـ</supplied>ـمعزة الّتي بيد إسحق بن حمدان البادسي شرقي 
+<lb n="5"/>  الـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> قـ<supplied reason="lost" cert="high">ـبـ</supplied>ـالة <supplied reason="lost" cert="high">بـ</supplied>ـلا مساحة 
+<lb n="6"/>  وزيادة فدّان ÷ من قبالة <app type="BL"><lem resp="APD">الجنّان </lem><rdg resp="APD">الجنّان </rdg><rdg resp="APD">الحنّان</rdg></app> في عدرة الخليج البحريّة 
+<lb n="7"/>  <gap reason="illegible" extent="1" unit="character" /> صح وأيضا زيادة فدّان ÷ من هذه البقعة 
+<lb n="8"/>  بولة الطّـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" />لا<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـي <gap reason="illegible" precision="low" extent="3"/>ا<gap reason="illegible" extent="1" unit="character" /> <app type="BL"><lem resp="APD">الجـ<supplied reason="lost" cert="high">ـنّـ</supplied>ـان </lem><rdg resp="APD">الجنّان </rdg><rdg resp="APD">الحنّان</rdg></app> <gap reason="illegible" extent="1" unit="character" />÷<gap reason="illegible" extent="1" unit="character" /> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـن <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="11"/>  بين هذه البقعة وبين منهلاوة قبالة بلا مساحة 
+<lb n="12"/>  سيسنّة بن <app type="BL"><lem resp="APD">بشي </lem><rdg resp="APD">بشي</rdg></app> ÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="13"/>  الـ<supplied reason="lost" cert="high">ـقـ</supplied>ـبالة المعروفة بپورا الّتي كانت بيده في العام الماضي 
+<lb n="14"/>  <supplied reason="lost" cert="high">قبـ</supplied>ـالة بلا مساحة 
+<lb n="15"/>  تلفس بن ببسطلس ÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="16"/>  القطعة البور الّتي في الخليج الجديد حدّها القبلي القبالة 
+<lb n="17"/>  المعروفة بعبد الجبّا<supplied reason="lost" cert="high">ر</supplied> في الـ<gap reason="illegible" extent="6" unit="character" /> والبحـ<supplied reason="lost" cert="high">ـريّ</supplied> <supplied reason="lost" cert="high">القبالـ</supplied>ـة 
+<lb n="18"/>  الّتي بيد قا<supplied reason="lost" cert="high">سم</supplied> <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ا</supplied>لـ<supplied reason="lost" cert="high">ـعـ</supplied>ـا<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">الماضي</supplied> <supplied reason="lost" cert="high">والشّـ[ـرقيّ</supplied> <supplied reason="lost" cert="high">الخـ</supplied>ـليج 
+<lb n="19"/>  بين هذه القطعـ<supplied reason="lost" cert="high">ـة</supplied> ا<supplied reason="lost" cert="high">لـ</supplied>ـبور وبين <supplied reason="lost" cert="high">قـ</supplied>ـبالة قزمان القبلي والغربي 
+<lb n="20"/>  الخليج الجديد <supplied reason="lost" cert="high">قبـ</supplied>ـالة بلا مساحة 
+<lb n="21"/>  قزمان الخولي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="22"/>  ما كان بـ<supplied reason="lost" cert="high">ـيـ</supplied>ـد <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">في</supplied> العا<supplied reason="lost" cert="high">م</supplied> الماضي قبالة بلا مساحة وله أسهم 
+<lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">اپپى</unclear> بلا راعي ولا قبّال غلّته 
+<lb n="24"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ولا جبر ولا مصادرة 
+<lb n="25"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> الطّـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـلموني 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** **** ăl maʿrūfaẗ bi ʾabī ʿumara qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="2"/>***n 11+1/2 baǧūšu bnu ʾabī banaẗa 11+1/2 
+ <lb n="3"/>***y 20 zarʿ:un 
+ <lb n="4"/>ăl qabālaẗu ăl mumʿizaẗu ăllatī bi yadi ʾisḥāqa bni ḥamdāna ăl bādisiyyi šarqiyya 
+ <lb n="5"/>ăl *** *** *** *** qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="6"/>wa ziyādaẗu faddān:in 4 min qabālaẗi ăl ǧabbāni ǧannāni ḥannāni fī ʿdraẗi ăl ḫalīǧi ăl baḥriyyaẗi 
+ <lb n="7"/>* ṣaḥḥa wa ʾayḍ:an ziyādaẗu faddān:in 1 min hāḏihi ăl buqʿaẗi 
+ <lb n="8"/>būlaẗu ăṭ ṭ*lā*iyyu ***ʾ* ăl ǧabbānu ǧannānu ḥannānu *+20+* 
+ <lb n="9"/>*** 
+ <lb n="10"/>**n ******* * ***** *** ** 
+ <lb n="11"/>bayna hāḏihi ăl buqʿaẗi wa bayna manhalāwaẗa qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="12"/>sīsinnaẗu bnu bisay bišay 10+2/3 * 
+ <lb n="13"/>ăl qabālaẗu ăl maʿrūfaẗu bi Bwrʾ ăllatī kānat bi yadi hi fī ăl ʿāmi ăl māḍī 
+ <lb n="14"/>qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="15"/>tilifusu bnu babusṭulusa 8 * 
+ <lb n="16"/>ăl qiṭʿaẗu ăl būru ăllatī fī ăl ḫalīǧi ăl ǧadīdi ḥaddu hā ăl qibliyyu ăl qabālaẗu 
+ <lb n="17"/>ăl maʿrūfaẗu bi ʿabdi ăl ǧabbāri fī ăl ***** wa ăl baḥriyyu ăl qabālaẗu 
+ <lb n="18"/>ăllatī bi yadi qāsim:in ***** fī ăl ʿāmi ăl māḍī wa ăš šarqiyyu ăl ḫalīǧu 
+ <lb n="19"/>bayna hāḏihi ăl qiṭʿaẗi ăl būri wa bayna qabālaẗi quzmāna ăl qibliyyu wa ăl ġarbiyyu 
+ <lb n="20"/>ăl ḫalīǧu ăl ǧadīdu qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="21"/>quzmānu ăl ḫawliyyu *** 
+ <lb n="22"/>mā kāna bi yadi ***** fī ăl ʿāmi ăl māḍī qabālaẗ:un bi lā misāḥaẗ:in wa la hu ʾashum:un 
+ <lb n="23"/>*** *** ʾBBy bi lā rāʿī wa lā qabbāli ġallati hi 
+ <lb n="24"/>*** *** wa lā ǧabr:in wa lā muṣādaraẗ:in 
+ <lb n="25"/>*** *** *** ăṭ ṭ***lamūniyyu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] ...... known as (the property of) Abû ʿUmar, a tenancy with(out re-surv)ey
+			<lb n="2"/>
+		[...]n 11 1/2 Beǧôš, son of Abû Bane 11 1/2
+			<lb n="3"/>
+		[...].î 20 seed land
+			<lb n="4"/>
+		The [ma]nured tenancy, which (is) in the hand of Isḥâq b. Ḥamdân, originating from Bâdis, easterly of
+			<lb n="5"/>
+		the .......................... a ten[an]cy without (re-)survey,
+			<lb n="6"/>
+		and a surplus of 4 faddâns of the &#034;tenancy of the cheese-monger&#034; on the northern bank of the canal.
+			<lb n="7"/>
+		... correct. And furthermore a surplus of 1 faddân of this plot.
+			<lb n="8"/>
+		Bûle, origination from Ṭ...lâ......., the che[ese-mo]nger, .2[. ...]
+			<lb n="9"/>
+			<lb n="10"/>
+			<lb n="11"/>
+		between this plot and between Manhalâw, a tenancy withous (re-)survey.
+			<lb n="12"/>
+		Sîsinne, son of Psai, 10 2/3
+			<lb n="13"/>
+		The [tene]ment known as Baurâ (?), which was in his hand during the past year,
+			<lb n="14"/>
+		[a ten]ancy without (re-)survey.
+			<lb n="15"/>
+		Telefos, son of Papostolos, 8
+			<lb n="16"/>
+		The plot of fallow land which (is situated) on the &#034;new Canal&#034; whose southern boundary (is formed by) the tenement,
+			<lb n="17"/>
+		known as (the property of) ʿAbd al-Ǧabbâ[r] in al-z........... and the north[ern is the tenemen]t
+			<lb n="18"/>
+		which (was) in the hand(s) of Qâ[sim ......... during t]he past [year]; and the eas[tern (is formed by) the ca]nal
+			<lb n="19"/>
+		between this plo[t of] fallow-land and between and between the [te]nement of Quzmân; the southern and western (is formed by)
+			<lb n="20"/>
+		the &#034;new Canal&#034;, a [ten]ancy without (re-)survey.
+			<lb n="21"/>
+		Quzmân, the gardener [...]
+			<lb n="22"/>
+		what was in [the han]d ...[...... during] the pas yea[r], a tenancy withour (re-)survey; an he own some sahm
+			<lb n="23"/>
+		[............]...... without any controller or qabbâl of his harvest
+			<lb n="24"/>
+		... ...[... ] or constraint or exacting of a fine.
+			<lb n="25"/>
+		[So and so ]... originating from Ṭ[.]lamûn [...]
+</ab></div>
+</body>
+</text>
+</TEI>

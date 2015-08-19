@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1872" xml:id="Grohmann_APEL_415" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 415</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_415</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169609</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  پوم δ طـ<supplied reason="lost" cert="high">ـيفه</supplied> ις بقطر بلتس ις 
+ <lb n="2"/>  پوم δ <supplied reason="lost" cert="high">طـ</supplied>ـيـ<supplied reason="lost" cert="high">ـفه</supplied> <supplied reason="lost" cert="high">ι[ς</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">پ</supplied> <supplied reason="lost" cert="high">ς </supplied>
+ <lb n="3"/>  <supplied reason="lost" cert="high">پـ</supplied>ـوم <supplied reason="lost" cert="high">[δ</supplied> <supplied reason="lost" cert="high">طيفه</supplied> <supplied reason="lost" cert="high">[ι</supplied>ς <unclear reason="undefined" cert="high">سپد</unclear> لاپام <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">[ς </supplied>
+ <lb n="4"/>  پوم δ طيفه ις سليمن پدسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">[ς </supplied>
+ <lb n="5"/>  پوم γ طيفه ϰϑ سطـ<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  پوم γ طيفه ϰϑ سـ<gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="7"/>  پوم γ طيفه ϰϑ <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  پوم γ طيفه ϰϑ أبو الحنا ςʹ‎ 
+ <lb n="9"/>  پوم ε طيفه κδ أبدر بجوش κα μʹ‎ηʹ‎ 
+ <lb n="10"/>  پوم γ طيفه ϰϑ إلى أجير كان مع ثيدر <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  السماك في إخراج ألواح الخشب فلس ς μʹ‎ηʹ‎ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  پوم γ طيفه ϰϑ المنصور العطّار α <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="13"/>  پوم δ طيفه ις هلس الهما <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/>ا <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>yawmu ‪4 ṭīfihu ‪16 buqṭuru bilatusa ‪16 
+ <lb n="2"/>yawmu ‪4 ṭīfihu ‪16 ***B ‪6 
+ <lb n="3"/>yawmu ‪4 ṭīfihu ‪16 sBd lʾBʾm *** ‪6 
+ <lb n="4"/>yawmu ‪4 ṭīfihu ‪16 sulaymānu Bds*** ‪6 
+ <lb n="5"/>yawmu ‪3 ṭīfihu ‪29 siṭ**** *** 
+ <lb n="6"/>yawmu ‪3 ṭīfihu ‪29 s**** 
+ <lb n="7"/>yawmu ‪3 ṭīfihu ‪29 ******* *** 
+ <lb n="8"/>yawmu ‪3 ṭīfihu ‪29 ʾabū ăl ḥanāʾi ‪1/6 
+ <lb n="9"/>yawmu ‪5 ṭīfihu ‪‪24 ʾabadiru baǧūša ‪1/48 ‪21 
+ <lb n="10"/>yawmu ‪3 ṭīfihu ‪29 ʾilà ʾaǧīr:in kāna maʿa ṯiyudura *** 
+ <lb n="11"/>ăs sammāku fī ʾiḫrāǧi ʾalwāḥi ăl ḫašabi filsu ‪6 ‪1/48 *** 
+ <lb n="12"/>yawmu ‪3 ṭīfihu ‪29 ăl manṣūru ăl ʿaṭṭāru ‪1 *** 
+ <lb n="13"/>yawmu ‪4 ṭīfihu ‪16 halisu ăl hamā *** 
+ <lb n="14"/>***ʾ *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Wednesday, Tube 16th, Boqṭor Pilatos 16
+		 <lb n="2"/>
+ 	  Wednesday, Tube 16th, ... ... ... ... ...b(?) 6
+		 <lb n="3"/>
+ 	  [Wednesd]ay, Tube 16th, ... ... ... ... ... ..... [... 6]
+		 <lb n="4"/>
+ 	  Wednesday, Tube 16th, Sulaimân ... ... [... 6]
+		 <lb n="5"/>
+ 	  Tuesday, Tube 29th, Siṭ (?) ... ... ... [
+		 <lb n="6"/>
+ 	  Tuesday, Tube 29th, ... ... ... ... [
+		 <lb n="7"/>
+ 	  Tuesday, Tube 29th, ... ... ... ... ... ... [
+		 <lb n="8"/>
+ 	  Tuesday, Tube 29th, Abuʾl-Ḥanâ 1/6 [
+		 <lb n="9"/>
+ 	  Thursday, Tube 24th, Apater Peǧôš 21 1/48 [
+		 <lb n="10"/>
+ 	  Tuesday, Tube 29th, to a journeyman who was with Theodor, [
+		 <lb n="11"/>
+ 	  the fisherman, for clearing away the wooden planks, fils 6 1/48 [
+		 <lb n="12"/>
+ 	  Tuesday, Tube 29th, al-Manṣûr, the druggist, 1 [
+		 <lb n="13"/>
+ 	  Wednesday, Tube 16th, Helis, originating from Hamâ [......
+		 <lb n="14"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

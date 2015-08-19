@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="301" xml:id="Grohmann_APEL_101" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 101 (= Chrest.Khoury I 28)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_101</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106543</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ذكر حق لرقاد بن وقدان الفسطاطي على أحمد بن <app type="BL"><lem resp="APD">خلد </lem><rdg resp="Khoury">عبد</rdg></app> <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Khoury">اللّه</rdg></app> 
+<lb n="2"/>  أن له عليه خمسة وأربعين دينار طرا مثاقيل وازنة مستنـ<supplied reason="lost" cert="high">ـصريّة</supplied> 
+<lb n="3"/>  خمسة الدّ<sic n="superfluous">نـ</sic>ـپانير لكل شهر وأوّل <sic n="superfluous">پحمل</sic> <supplied reason="omitted" cert="high">محلّ</supplied> يحل له عليـ<supplied reason="lost" cert="high">ـه</supplied> ا<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="4"/>  <supplied reason="lost" cert="high">هـ</supplied>ـتور من عدد القبط من سنة ثلث وسبعين ومپپى <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">يدا</supplied> 
+<lb n="5"/>  ڤع پدلك ولا بلپوى په ولا ححه له <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ḏikru ḥaqq:in li ruqāda bni waqdāna ăl fusṭāṭiyyi ʿalà ʾaḥmada bni ḫālid:in ʿabdi ăl ăl *** lāhi 
+ <lb n="2"/>ʾanna la hu ʿalay hi ḫamsaẗ:an wa ʾarbaʿīna dīnār ṭirāʾ maṯāqīla wāzinaẗ:an mustanṣiriyyaẗ:an 
+ <lb n="3"/>ḫamsaẗa ăd danānīri li kulli šahr:in wa ʾawwalu maḥill:in yaḥillu la hu ʿalay hi ʾ**** 
+ <lb n="4"/>hatūra min ʿadadi ăl qibṭi min sanaẗi ṯalāṯ:in wa sabʿīna wa miʾatay ***** lā yudāfiʿu 
+ <lb n="5"/>bi ḏālika wa lā yaltawī bi hi wa lā ḥuǧǧaẗa la hu *** ** **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Record of what is due to Ruqâd b. Waqdân, originating from al-Fusṭâṭ, from Aḥmad b. Ḫâlid or[iginating from .....:
+		Titre d’obligation établissant le droit de Ruqād Ibn Waqdān al-Fusṭāṭī sur Aḥmad Ibn ʿAbd Allā[h]:
+			<lb n="2"/>
+		he owes to him forty five dînârs miṯqâlî, newly minted, full weight, of al-Mustan[ṣir,]
+		Il lui doit quarante-cinq dīnārs nouvellement frappes, bien pesés en miṯqāl-s et d’al-Mustan[ṣir],
+			<lb n="3"/>
+		cinq dīnārs chaque mois, et le début de l’échéance en faveur (de Ruqād) et au débit (d’Aḥmad) est [...]
+		five dînârs monthly, and the first due date (for the payment of the debt) to his (Ruqâd&#039;s) credit (and) to [his (Aḥmad&#039;s)] debit is the ...[
+			<lb n="4"/>
+		[ha]thyr (= hator), (l’un des mois) de l’ère copte, de l’an deux cent soixante-treize. [Il ne cherchera pas à ajour] –
+		[of Ha]thyr, according to the computation of the Copts, of the year two hundred and seventy three. He will not de-
+			<lb n="5"/>
+		-lay the payment thereof nor will he prevaricate in respect thereto seeing that there is no argument in his favour with regard to him (i.e. Ruqâd).
+		ner cela, ni à s’y dérober, ni à invoquer à son égard un argument quelcon que [....]
+</ab></div>
+</body>
+</text>
+</TEI>

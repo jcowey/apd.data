@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2206" xml:id="Thung_CPR_10_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 02 II</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_10_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  تزوّجت المذكورة يَوْمئِذ بأبي بكر بن جـ<supplied reason="lost" cert="high">ـا</supplied>بر بن خزعل الأ<supplied reason="lost" cert="high">شـ</supplied>ـموني 
+<lb n="2"/>  على صداق مبلغه من العين الذّهب المصري خمسة وعشرين دينارا 
+<lb n="3"/>  من ذلك ما هو حال خمسة دنانير اعترفت بقبضها من الزّوج المذكور ويبقى 
+<lb n="4"/>  الّذي هو عشرون دينارا منجّما عنه عليه إلى انقضا عشرين سنة 
+<lb n="5"/>  في كل سنة دينار واحد دينـ<supplied reason="lost" cert="high">ـار</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـثقال سليم وولي تزويجها إيّاه بذلك 
+<lb n="6"/>  وعقد نكاحها عليه ولد أخيها شقيقها لأبويها حسام بن 
+<lb n="7"/>  إبراهيم بن برهن بحق ولايته عليها وبإذنها ورضاها في ذلك بمحضر شهوده 
+<lb n="8"/>  وقبل الزّوج المذكور عقد هذا النّكاح ورضي قبولا صحيحا شرعيّا 
+<lb n="9"/>  وألزمه نفسه وبذلك شهد بتأريخ السّابع عشر من جمادى 
+<lb n="10"/>  الآخرة من سنة تسع وثلثين وستّمأية 
+<lb n="11 right"/>  حضرت العقد المذكور 
+<lb n="12 right"/>  <supplied reason="lost" cert="high">وشـ</supplied>ـهدت به وشهدت على 
+<lb n="13 right"/>  الـ<supplied reason="lost" cert="high">ـزّو</supplied>جـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـقبض الحال 
+<lb n="14 right"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> و<supplied reason="lost" cert="high">كـ</supplied>ـتب 
+<lb n="15 right"/>  <supplied reason="lost" cert="high">إبراهيم</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبـ</supplied>ـد الصّمد 
+<lb n="16 right"/>  <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عمر</supplied>وس <expan><ex>بتأ</ex><abbr>ريخه</abbr></expan> 
+<lb n="11 left"/>  حضرت العقد المذكور وشهدت به 
+<lb n="12 left"/>  وشهدت على الزّوجة بقبض 
+<lb n="13 left"/>  الحال فيه وهو خمسة دنانير 
+<lb n="14 left"/>  عينا وكتب 
+<lb n="15 left"/>  صادق بن عمروس 
+<lb n="16 left"/>  بن محمّد بن عمروس في <expan><ex>تأر</ex><abbr>يخه</abbr></expan> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>tazawwaǧat ăl maḏkūraẗu yawma ʾiḏ:in bi ʾabī bakr:ini bni ǧābiri bni ḫazʿala ăl ʾušmūniyyi 
+ <lb n="2"/>ʿalà ṣadāq:in mablaġu hu mina ăl ʿayni ăḏ ḏahabi ăl miṣriyyi ḫamsaẗ:un wa ʿišrīna dīnār:an 
+ <lb n="3"/>min ḏālika mā huwa ḥāll:un ḫamsaẗu danānīra ĭʿtarafat bi qabḍi hā mina ăz zawǧi ăl maḏkūri wa yabqà 
+ <lb n="4"/>ăllaḏī huwa ʿišrūna dīnār:an munaǧǧam:an ʿan hu ʿalay hi ʾilà ĭnqiḍāʾi ʿišrīna sanaẗ:an 
+ <lb n="5"/>fī kulli sanaẗ:in dīnār:un wāḥid:un dīnār:un miṯqāl:un salīm:un wa waliya tazwīǧa hā ʾiyyā hu bi ḏālika 
+ <lb n="6"/>wa ʿaqda nikāḥi hā ʿalay hi waladu ʾaḫī hā šaqīqi hā li ʾabaway hā ḥusāmu bnu 
+ <lb n="7"/>ʾibrāhīma bni burhāna bi ḥaqqi walāyaẗi hi ʿalay hā wa bi ʾiḏni hā wa riḍā hā fī ḏālika bi maḥḍari šuhūdi hi 
+ <lb n="8"/>wa qabila ăz zawǧu ăl maḏkūru ʿaqda hāḏā ăn nikāḥi wa raḍiya qubūl:an ṣaḥīḥ:an šarʿiyy:an 
+ <lb n="9"/>wa ʾalzama hu nafsa hu wa bi ḏālika šuhida bi taʾrīḫi ăs sābiʿa ʿašara min ǧumādà 
+ <lb n="10"/>ăl ʾāḫiraẗi min sanaẗi tisʿ:in wa ṯalāṯīna wa sitti miʾaẗ:in 
+ <lb n="11"/>ḥaḍartu ăl ʿaqda ăl maḏkūra 
+ <lb n="12"/>wa šahidtu bi hi wa šahidtu ʿalà 
+ <lb n="13"/>ăl zawǧaẗi bi qabḍi ăl ḥālli 
+ <lb n="14"/>*** *** wa kataba 
+ <lb n="15"/>ʾibrāhīmu bnu ʿaliyyi bni ʿabdi ăṣ ṣamadi 
+ <lb n="16"/>bni muḥammadi bni ʿumrūsa bi taʾrīḫi hi 
+ <lb n="17"/>ḥaḍartu ăl ʿaqda ăl maḏkūra wa šahidtu bi hi 
+ <lb n="18"/>wa šahidtu ʿalà ăz zawǧaẗi bi qabḍi 
+ <lb n="19"/>ăl ḥālli fī hi wa huwa ḫamsaẗu danānīra 
+ <lb n="20"/>ʿayn:an wa kataba 
+ <lb n="21"/>ṣādiqu bnu ʿumrūsa 
+ <lb n="22"/>bni muḥammadi bni ʿumrūsa fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Die erwähnte (Frau) hat sich an jenem Tag verheiratet mit Abū Bakr b. Ǧābir(?) b. Ḫazʿal al-Ušmūnī
+			<lb n="2"/>
+		für eine Brautgabe, deren Geldsumme fünfundzwanzig ägyptische Golddinare beträgt.
+			<lb n="3"/>
+		Der fällige Teil davon beträgt fünf Dinar, die sie vom erwähnten Ehemann empfangen zu haben anerkennt, und es bleibt
+			<lb n="4"/>
+		ein Betrag von zwanzig Dinar, die ihm in Raten zu seinen Lasten gestundet wurden, bis zum Ablauf von zwanzig Jahren,
+			<lb n="5"/>
+		(wobei von ihm) in jedem Jahr ein Dinar des vollständigen Miṯqālgewichts (zu zahlen ist). Es hat sie an ihn verheiratet
+			<lb n="6"/>
+		und ihre Ehe unter diesen Bedingungen geschlossen der Sohn ihres vollen Bruders, väterlicher- und mütterlicherseits, Ḥusām b.
+			<lb n="7"/>
+		Ibrāhīm b. Burhān, gemäß dem Recht seiner Muntgewalt über sie, mit ihrer Erlaubnis und ihrem Einverständnis in dieser Sache, und in Anwesenheit der Zeugen.
+			<lb n="8"/>
+		Und der erwähnte Ehemann hat dieser Eheschließung zugestimmt und sich mit ihr einverstanden erklärt durch eine rechtsgültige Zustimmung,
+			<lb n="9"/>
+		und er hat sich dies als Verbindlichkeit auferlegt. Es wurde bezeugt am Datum des siebzehnten Ǧumādā {al-Āḫirah}
+			<lb n="10"/>
+		al-Āḫirah des Jahres sechshundertneununddreißig.
+			<lb n="11"/>
+		Ich war bei der Eheschließung anwesend
+			<lb n="12"/>
+		und habe Zeugnis darüber abgelegt, und ich habe
+			<lb n="13"/>
+		gegen die Ehefrau den Empfang des fälligen (Brautgeldes) bezeugt
+			<lb n="14"/>
+		[... ..] Es schrieb
+			<lb n="15"/>
+		[Ibrāhīm b. ʿAlī b. ʿAb]daṣṣamad
+			<lb n="16"/>
+		[b. Muḥammad b. ʿUmrūs] am Datum dieser Urkunde.
+			<lb n="17"/>
+		Ich war bei der Eheschließung anwesend und habe Zeugnis darüber abgelegt,
+			<lb n="18"/>
+		und ich bezeuge gegen die Ehefrau den Empfang
+			<lb n="19"/>
+		des fälligen (Brautgeldes) und dieses beträgt fünf Dinar
+			<lb n="20"/>
+		in barem Gold. Es schrieb
+			<lb n="21"/>
+		Ṣādiq b. ʿUmrūs
+			<lb n="22"/>
+		b. Muḥammad b. ʿUmrūs am Datum der Urkunde.
+</ab></div>
+</body>
+</text>
+</TEI>

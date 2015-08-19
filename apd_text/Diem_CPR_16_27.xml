@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1160" xml:id="Diem_CPR_16_27" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 27</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_27</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169009</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/>پـص <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فأسل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـليه </lem><rdg resp="APD">عليه</rdg></app> وأن يتم عليك وعليـ<supplied reason="lost" cert="high">ـنا</supplied> <supplied reason="lost" cert="high">نعمته</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أمّا</supplied> <supplied reason="lost" cert="high">بعد</supplied> 
+<lb n="3"/>  فقد بلغني كتابك تذكر <supplied reason="lost" cert="high">فـ</supplied>ـيه أنّك <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وفهمت</supplied> <supplied reason="lost" cert="high">ما</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ذكرت</supplied> </lem><rdg resp="APD">تذكر</rdg></app> 
+<lb n="4"/>  من استبطاك أمر عبد الرّحمن وتأخيرنا الـ<supplied reason="lost" cert="high">ـغـ</supplied>ـالي <supplied reason="lost" cert="high">لـ</supplied>ـجوابك <supplied reason="lost" cert="high">فـ</supplied>ـيـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">مرّة</supplied> <supplied reason="lost" cert="high">أخـ</supplied>ـرى 
+<lb n="5"/>  فأمّا جوابك فإنّه لم يكون له قبلنا حبس حتّى أعجلنا به إليك مع <sic n="superfluous">اپك</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">أنّى</supplied> </lem><rdg resp="APD">أنّي</rdg></app> قد كنت 
+<lb n="6"/>  <supplied reason="lost" cert="high">كتبـ</supplied>ـت إليك فيه مرّة أخرى فبعثنا إليك بالجواب مع عبد اللّه 
+<lb n="7"/>  وبعثنا بالجواب الثّاني مع بقام المطالي الّذي قدم بكتابك فيه ولم تجاب فيه إلى ما سألته 
+<lb n="8"/>  وأمّا عبد الرّحمن واللّه ما كنّا نقدر على أن نخلّصه منهم حتّى يكو<supplied reason="lost" cert="high">نـ</supplied>ـوا هم 
+<lb n="9"/>  الّذين يخلّوا سبيله وقد واللّه اجتهدت فيه قبل يأتيني كتابك 
+<lb n="10"/>  و<supplied reason="lost" cert="high">بعـ</supplied>ـد ما أتاني كتابك مع فرقد فما خلّى سبيله إلّا بعد العنا 
+<lb n="11"/>  حتّى ظمنّا له أن تقدّم به معك 
+<lb n="12"/>  <gap reason="illegible" extent="7" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>**** ***Bṣ *** fa ʾasalu ăl lāha *** 
+ <lb n="2"/>*** *lay ʿalay hi wa ʾan yutimma ʿalay ka wa ʿalay nā niʿmata hu *** ʾammā baʿdu 
+ <lb n="3"/>fa qad balaġa nī kitābu ka taḏkuru fī hi ʾanna ka *** wa fahimtu mā ḏakarta taḏkuru 
+ <lb n="4"/>mina ĭstibṭā ka ʾamra ʿabdi ăr raḥmāni wa taʾḫīri nā ăl ġālī li ǧawābi ka fī hi marraẗ:an ʾuḫrà 
+ <lb n="5"/>fa ʾammā ǧawābu ka fa ʾinna hu lam yakūn la hu qibala nā ḥabs:un ḥattà ʾaʿǧalnā bi hi ʾilay ka maʿa ʾanna ʾan ka nī qad kuntu 
+ <lb n="6"/>katabtu ʾilay ka fī hi marraẗ:an ʾuḫrà fa baʿaṯnā ʾilay ka bi ăl ǧawābi maʿa ʿabdi ăl lāhi 
+ <lb n="7"/>wa baʿaṯnā bi ăl ǧawābi ăṯ ṯānī maʿa baqāma ăl mṭālī ăllaḏī qadima bi kitābi ka fī hi wa lam tuǧāb fī hi ʾilà mā saʾalta hu 
+ <lb n="8"/>wa ʾammā ʿabdu ăr raḥmāni wa ăl lāhi mā kunnā naqdiru ʿalà ʾan nuḫalliṣa hu min hum ḥattà yakūnū humu 
+ <lb n="9"/>ăllaḏīna yuḫallū sabīla hu wa qad wa ăl lāhi ĭǧtahadtu fī hi qabla yaʾtī nī kitābu ka 
+ <lb n="10"/>wa baʿda mā ʾatā nī kitābu ka maʿa farqada fa mā ḫallà sabīla hu ʾillā baʿda ăl ʿanāʾi 
+ <lb n="11"/>ḥattà ẓaminnā la hu ʾan tuqaddima bi hi maʿa ka 
+ <lb n="12"/>******* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... So bitte ich Gott, er möge
+			<lb n="2"/>
+		- - - und er möge an Dir und an [uns seine Gnade] vollenden [... Aber danach:]
+			<lb n="3"/>
+		Dein Brief hat mich erreicht, in dem Du erwähnst, daß Du [... und ich habe Deine Mitteilung verstanden,]
+			<lb n="4"/>
+		daß Du den Fortgang der Angelegenheit von ʿAbdarraḥmān für zu langsam hältst und wir erneut (?) die diesbezügliche (?) Antwort an Dich übermäßig (?) hinauszögerten.
+			<lb n="5"/>
+		Was nun die Antwort an Dich betrifft, so ist sie unsererseits nicht verzögert worden, sondern wir haben sie Dir schnellstens übersandt, wobei hinzukommt, daß ich
+			<lb n="6"/>
+		Dir wegen der Angelegenheit noch ein zweites Mal geschrieben habe, und zwar haben wir Dir die (erste) Antwort durch ʿAbdallāh
+			<lb n="7"/>
+		und die zweite Antwort durch Baqām den  - - -, der Deinen (jetzigen?) diesbezüglichen Brief gebracht hat, übersandt; sie (sc. Antwort) enthielt übrigens keinen positiven Bescheid Deiner Bitte.
+			<lb n="8"/>
+		Was ʿAbdarraḥmān betrifft, so vermochten wir bei Gott nicht, ihn vor ihnen (sc. den Gläubigern) zu retten; vielmehr sind sie es,
+			<lb n="9"/>
+		die die Entscheidung über seine Freilassung treffen. Bei Gott, ich habe mich seinetwegen, bevor mich Dein (letzter) Brief erreicht hat
+			<lb n="10"/>
+		und nachdem mich Dein Brief erreicht hat, sehr bei Farqad eingesetzt. Aber er hat ihn erst nach einiger Mühe freigelassen,
+			<lb n="11"/>
+		als wir uns ihm gegenüber dafür verbürgten, daß Du persönlich für sein (sc. ʿAbdarraḥmāns) Erscheinen sorgen würdest.
+			<lb n="12"/>
+</ab></div>
+</body>
+</text>
+</TEI>

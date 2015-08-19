@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="692" xml:id="Grohmann_EBU_4" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 04</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_4</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106773</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  ثلثة ساقـ<supplied reason="omitted" cert="high">ـيات</supplied> بيد يحنّس بن إسحق يزرعوا ما أحبّوا بـ<unclear reason="undefined" cert="high">ـغاطس</unclear> بلا مـ<supplied reason="lost" cert="high">ـسـ</supplied>ـا<supplied reason="lost" cert="high">حة</supplied> 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  هذا كتاب سجل من الأمير أبي الحسن <app type="BL"><lem resp="APD">عزيز </lem><rdg resp="Diem">مجري</rdg></app> الخاصّة الإخشيد<supplied reason="lost" cert="high">يّة</supplied> <gap reason="illegible" extent="16" unit="character" /> 
+ <lb n="4"/>  وملكه كتبه لعثمان بن سعيد ومحمّد بن عبد الرّحمان وعبد السّـ<supplied reason="lost" cert="high">ـلام</supplied> <gap reason="illegible" extent="13" unit="character" /> <supplied reason="lost" cert="high">إنّك</supplied> 
+ <lb n="5"/>  سألتني وطلبت إلي أن أسجّلكم ثلثة ساقيات كانت بيد يحنّس بن إسحق <app type="BL"><lem resp="APD">لعولا<gap reason="illegible" extent="10" unit="character" /> </lem><rdg resp="APD">لعرلا </rdg><rdg resp="APD">لڤولا </rdg><rdg resp="APD">لڤرلا</rdg></app> 
+ <lb n="6"/>  بـ<unclear reason="undefined" cert="high">ـغاطس</unclear> بلا مساحة بخمسة دنانير مثاقيل معسولة نقد الخراج ووزنه <app type="BL"><lem resp="APD"><gap reason="illegible" extent="16" unit="character" /> </lem><rdg resp="APD">لا<gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+ <lb n="7"/>  المساحة فأجبتكم إلى ذلك <sic n="superfluous">و</sic>على أن تودون خراجكم مع أنجم السّلـ<supplied reason="lost" cert="high">ـطان</supplied> <supplied reason="lost" cert="high">أعزّه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">فازرعوا</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">بركة</supplied> 
+ <lb n="8"/>  اللّه وعونه ولكم الوفا بذلك وذلك لخراج سنة تسع وثلثين وثلثمائة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  دينر 
+ <lb n="10"/>  ثلثة ساقيات بيد يحنّس بن إسحق بجميع قدورها ε 
+ <lb n="11"/>  يزرعوا ما أحبّوا بلا مساحة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ṯalāṯaẗu sāqiyā:tin bi yadi yuḥannisa bni ʾisḥāqa yazraʿū mā ʾaḥabbū bi ġāṭisa bi lā misāḥaẗ:in 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitābu siǧill:in mina ăl ʾamīri ʾabī ăl ḥasani ʿazīzi muǧrī ăl ḫāṣṣaẗi ăl ʾiḫšīdiyyaẗi **************** 
+ <lb n="4"/>wa milki hi kataba hu li ʿuṯmāna bni saʿīd:in wa muḥammadi bni ʿabdi ăr raḥmāni wa ʿabdi ăs salāmi ************* ʾinna ka 
+ <lb n="5"/>saʾalta nī wa ṭalabta ʾilay ya ʾan ʾusaǧǧila kum ṯalāṯaẗa sāqiyāt:in kānat bi yadi yuḥannisa bni ʾisḥāqa lʿwlʾ lʿrlʾ lFwlʾ lFrlʾ ********* 
+ <lb n="6"/>bi ġāṭisa bi lā misāḥaẗ:in bi ḫamsaẗi danānīra maṯāqīla maʿsūlaẗ:in naqdi ăl ḫarāǧi wa wazni hi ***** lʾ*** *********** 
+ <lb n="7"/>ăl misāḥaẗ fa ʾaǧabtu kum ʾilà ḏālika wa ʿalà ʾan tuʾaddūna ḫarāǧa kum maʿa ʾanǧumi ăs sulṭāni ʾaʿazza hu ăl lāhu fa ĭzraʿū ʿalà barakaẗi 
+ <lb n="8"/>ăl lāhi wa ʿawni hi wa la kumu ăl wafāʾu bi ḏālika wa ḏālika li ḫarāǧi sanaẗi tisʿ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in *** 
+ <lb n="9"/>dīnār:un 
+ <lb n="10"/>ṯalāṯaẗu sāqiyāt:in bi yadi yuḥannisa bni ʾisḥāqa bi ǧamīʿi qudūri hā 5 
+ <lb n="11"/>yazraʿū mā ʾaḥabbū bi lā misāḥaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Drei Bewässerungsmaschinen im Besitz des Yoḥannes b. Isḥāq; sie mögen säen, was sie wollen in Ġāṭis(?) ohne Ver[messung].
+		 <lb n="2"/>
+ 	  Im Namen Gottes, des Barmherzigen, Gütigen!
+		 <lb n="3"/>
+ 	  Dies ist der Pachtvertrag seitens des Amīr Abu ʾl-Ḥasan, des Verwesers der Privatdomänen der Iḫšīd[en ........]
+		 <lb n="4"/>
+ 	  und seines Besitzes, den er geschrieben hat für ʿUṯmān b. Saʿīd und Muḥammad b. ʿAbd ar-Raḥmān und ʿAbd as-Sa[lām .......... Fürwahr]
+		 <lb n="5"/>
+ 	  Du hast mich gebeten und von mir verlangt, daß ich Euch drei Bewässerungsmaschinen (amtlich) eintrage, die sich im Besitze des Yoḥannes b. Isḥāq befanden, .........[...]
+		 <lb n="6"/>
+ 	  in Ġāṭis(?) ohne Vermessung um fünf richtige Dīnāre des Miṯqālfußes, vollwichtiges Steuergeld ..... [...]
+		 <lb n="7"/>
+ 	  die Vermessung. So habe ich Euch dies gewährt unter der Bedingung, daß Ihr Eure Grundsteuer zusammen mit den dem Statt[halter - Gott stärke ihn -] geschuldeten Raten [und zu den (von ihm bestimmten) Fälligkeitsterminen] bezahlt. [So säet denn mit dem Segen]
+		 <lb n="8"/>
+ 	  und der Hilfe Gottes, und Euch obliegt die Durchführung hievon, und dies für die Steuer des Jahres dreihundertneununddreißig. [...]
+		 <lb n="9"/>
+ 	  Dīnār
+		 <lb n="10"/>
+ 	  Drei Bewässerungsmaschinen im Besitze des Yoḥannes b. Isḥāq mit all ihren Töpfen.     5
+		 <lb n="11"/>
+ 	  Sie mögen säen, was sie wollen, ohne Vermessung.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

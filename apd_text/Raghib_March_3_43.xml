@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="725" xml:id="Raghib_March_3_43" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 43</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_43</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106806</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أكرمك اللّه بطاعته وصل إلي كتابك وسرّني <app type="BL"><lem resp="APD">علم </lem><rdg resp="Diem">صلح</rdg></app> خبرك 
+<lb n="3"/>  وثلاثة أثواب لأبي شبر <gap reason="illegible" extent="6" unit="character" /> بعتهم له بعشـ<supplied reason="lost" cert="high">ـر</supplied>ين درهم 
+<lb n="4"/>  وثلث فيها قـ<supplied reason="lost" cert="high">ـطـ</supplied>ـع بعثت إليك دينر شهري باثنين وعشرين 
+<lb n="5"/>  درهم غير ثلث فضل درهم وثلث بعـ<supplied reason="lost" cert="high">ـثت</supplied> إليك سبع الدّراهم 
+<lb n="6"/>  إلّا ثلث فضل نصف دينر 
+<lb n="7 right margin"/>  <supplied reason="lost" cert="high">پعـ</supplied>ـپپ البك دپپر الدي لك مپڤدم 
+<lb n="8 right margin"/>  الباقي لك سدس دينر 
+<lb n="9 right margin"/>  وقد وصل إلي الدّرا<supplied reason="lost" cert="high">هم</supplied> القطع 
+<lb n="10 top"/>  كتابي إليك على <supplied reason="lost" cert="high">عـ</supplied>ـجلة اعذر 
+<lb n="top upside down 1 right"/>  لأبي علي أكرمه اللّه بطاعته 
+<lb n="top upside down 2 right"/>  حسن بن <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+<lb n="top upside down 1 left"/>  من محمّد بن عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi waṣala ʾilay ya kitābu ka wa sarra nī ʿilmu ṣāliḥu ḫabari ka 
+ <lb n="3"/>wa ṯalāṯaẗu ʾaṯwāb:in li ʾabī šibr:in ****** biʿtu hum la hu bi ʿišrīna dirham 
+ <lb n="4"/>wa ṯulṯ:in fī hā qiṭaʿ:un baʿaṯtu ʾilay ka dīnār šahriyy bi ĭṯnayni wa ʿišrīna 
+ <lb n="5"/>dirham ġayra ṯulṯ:in faḍala dirham:un wa ṯulṯ:un baʿaṯtu ʾilay ka sabʿa ăd darāhimi 
+ <lb n="6"/>ʾillā ṯulṯ faḍala niṣfu dīnār:in 
+ <lb n="7"/>baʿaṯtu ʾilay ka dīnāra ăllaḏī la ka mutaqaddim:uni 
+ <lb n="8"/>ăl bāqī la ka sudsu dīnār:in 
+ <lb n="9"/>wa qad waṣala ʾilay ya ăd darāhimu ăl qiṭaʿu 
+ <lb n="10"/>kitāb ī ʾilay ka ʿalà ʿaǧalaẗ:ini ĭʿḏir 
+ <lb n="11"/>li ʾabī ʿaliyy:in ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="12"/>ḥasani bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="13"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due)! Ta lettre m&#039;est parvenue (me donnant) de tes nouvelles qui m&#039;ont réjoui,
+			<lb n="3"/>
+		ainsi que trois pièces d&#039;étoffe appartenant à Abū Šibr .... Je les ai vendues pour lui pour vingt dirhams
+			<lb n="4"/>
+		un tiers comprenant des fractions découpées. Je t&#039;ai envoyé un dinar ayant cours pour vingt-deux
+			<lb n="5"/>
+		dirhams moins un tiers. Il reste un dirham un tiers. Je t&#039;ai envoyé sept dirhams
+			<lb n="6"/>
+		moins un tiers. Il reste un demi-dinar.
+			<lb n="7"/>
+		Je t&#039;ai envoyé un dinar qui t&#039;était dû précédemment. 
+			<lb n="8"/>
+		Il te rest un sixième de dinar.
+			<lb n="9"/>
+		Les dirhams découpés me sont parvenus.
+			<lb n="10"/>
+		Je t&#039;écris en hâte. Excuse-(moi).
+			<lb n="11"/>
+		À Abū ʿAlī - que Dieu l&#039;honore par l&#039;obéissance (qui Lui es due)! 
+			<lb n="12"/>
+		Ḥasan b. [Aḥmad b. ʿAbd al-Muʾmin].
+			<lb n="13"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr. 
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2386" xml:id="Diem_Heid_III_48" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 48</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_48</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ی <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  <supplied reason="lost" cert="high">ا</supplied><gap reason="illegible" extent="4" unit="character" /> الكريم الأعز الأخص 
+<lb n="3"/>  دامت نعمته وينهي أن المولی الشّيخ 
+<lb n="4"/>  النّجيب وصل <supplied reason="lost" cert="high">و</supplied>سأل <supplied reason="lost" cert="high">عـ</supplied>ـن المولی والمولی 
+<lb n="5"/>  الشّيخ الأجل الأعز مكين الدّين 
+<lb n="6"/>  دام عزّه وأن سـ<supplied reason="lost" cert="high">ـوا</supplied>له من تفضّله 
+<lb n="7"/>  أن يكلّم الشّيخ <gap reason="illegible" extent="5" unit="character" /> بن <gap reason="illegible" extent="5" unit="character" /> المجلّد 
+<lb n="8"/>  بأن يصلّح النّسخة وغلا<supplied reason="lost" cert="high">فـ</supplied>ـها جـ<supplied reason="lost" cert="high">ـمـ</supplied>ـيعها 
+<lb n="9"/>  ولا يعمله مرقّع بل جديد جيّد 
+<lb n="10"/>  ويزيده خمسة دراهم أخری لعل 
+<lb n="11"/>  يجی <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> فالشّـ<supplied reason="lost" cert="high">ـيخ</supplied> النّجيب 
+<lb n="right margin"/>  <gap reason="illegible" precision="low" extent="3"/> لا ول<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">دنانير</unclear> والسّلام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** * *** ***y ***** 
+ <lb n="2"/>ʾ**** ăl karīm ăl ʾaʿazz ăl ʾaḫaṣṣ 
+ <lb n="3"/>dāmat naʿmatu hu wa yunhī ʾanna ăl mawlà ăš šayḫa 
+ <lb n="4"/>ăn naǧība waṣala wa saʾala ʿani ăl mawlà wa ăl mawlà 
+ <lb n="5"/>ăš šayḫi ăl ʾaǧalli ăl ʾaʿazzi makīni ăd dīni 
+ <lb n="6"/>dāma ʿizzu hu wa ʾanna suʾāla hu min tafaḍḍuli hi 
+ <lb n="7"/>ʾan yukallima ăš šayḫa ***** bna ***** ăl muǧallida 
+ <lb n="8"/>bi ʾan yuṣalliḥa ăn nusḫaẗa wa ġilāfa hā ǧamīʿa hā 
+ <lb n="9"/>wa lā yaʿmalu hu muraqqaʿ bal ǧadīd ǧayyid 
+ <lb n="10"/>wa yazīda hu ḫamsaẗa darāhima ʾuḫrà laʿalla 
+ <lb n="11"/>yaǧīʾa ****** *** fa ăš šayḫu ăn naǧību 
+ <lb n="12"/>*** lā wa li ø *** l*** *** * *** danānīra wa ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...] ... dem edlen, hochangesehenen, ganz besonderen
+			<lb n="3"/>
+		- möge sein Wohlergehen andauern -, und tut kund, daß der Patron, der Scheich
+			<lb n="4"/>
+		an-Naǧīb, eingetroffen ist [und] sich nach dem Patron und dem Patron,
+			<lb n="5"/>
+		dem hochangesehenen, hochgeehrten Scheich Makīn ad-Dīn
+			<lb n="6"/>
+		- möge sein Ansehen andauern - erkundigt hat. Seine Bi[tt]e gegenüber seinem Wohlwollen ist,
+			<lb n="7"/>
+		den Scheich ... ibn ..., den Buchbinder, darauf anzusprechen,
+			<lb n="8"/>
+		daß jener die Abschrift und ihren Einba[nd] vollständig in Stand setzt
+			<lb n="9"/>
+		und diesen nicht zusammengeflickt, sondern neu und von ausgezeichneter Qualität macht,
+			<lb n="10"/>
+		und ihm fünf Dirham zusätzlich zu geben. Vielleicht
+			<lb n="11"/>
+		kommt ... [...] denn der Sch[eich] an-Naǧīb
+			<lb n="12"/>
+		[...] ... [...]..[...] Dinare (?). Gruß!
+</ab></div>
+</body>
+</text>
+</TEI>

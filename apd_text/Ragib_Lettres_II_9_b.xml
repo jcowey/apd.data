@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1408" xml:id="Ragib_Lettres_II_9_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 09 b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Lettres_II_9_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169198</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso 2"/>  من سعيد بن سعد إلى زياد بن سعد سلم عليك فإنّي أحمد إليك اللّه الّذي 
+<lb n="verso 3"/>  لا إله إلّا هو أمّا بعد فإنّي أخبرك من خبرنا أنّا سالمين 
+<lb n="verso 4"/>  صالحين كالّذي يسرّك بحمد اللّه علينا ونعمتـه فنسأل 
+<lb n="verso 5"/>  اللّه تمام النّعمة لنا ولكم بعافية الدّنيا وكرامة 
+<lb n="verso 6"/>  الآخرة وأمّك تقرأ عليك السّلم وأن عمران 
+<lb n="verso 7"/>  بن سعيد يقرأ عليك السّلم ومحمّد بن <app type="BL"><lem resp="APD">مجدي </lem><rdg resp="APD">محيي</rdg></app> السّلم ومنصور بن 
+<lb n="verso 8"/>  <app type="BL"><lem resp="APD">هلال </lem><rdg resp="APD">جلال</rdg></app> يقرأ عليك السّلم و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">يقرأ</supplied> <supplied reason="lost" cert="high">عليك</supplied> السّلم 
+<lb n="verso 9"/>  وكتب سعيد بن سعد 
+<lb n="verso top 1"/>  من سعيد بن سعد إلى زياد بن سعد يرحم اللّه من بلّغها آمين والسّلم 
+<lb n="verso top 2 bottom up"/>  من سعيد بن سعد إلى زياد ابن سعد فتا قيس ابن 
+<lb n="verso top 3 bottom up"/>  عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min saʿīdi bni saʿd:in ʾilà ziyādi bni saʿd:in salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī 
+ <lb n="3"/>lā ʾilāha ʾillā huwa ʾammā baʿdu fa ʾin nī ʾuḫbiru ka min ḫabari nā ʾan nā sālimīna 
+ <lb n="4"/>ṣāliḥīna ka ăllaḏī yasurru ka bi ḥamdi ăl lāhi ʿalay nā wa niʿmati hi fa nasʾalu 
+ <lb n="5"/>ăl lāha tamāma ăn niʿmaẗi la nā wa la kum bi ʿāfiyaẗi ăd dunyā wa karāmaẗi 
+ <lb n="6"/>ăl ʾāḫiraẗi wa ʾummu ka taqraʾu ʿalay ka ăs salāma wa ʾanna ʿimrāna 
+ <lb n="7"/>bna saʿīd:in yaqraʾu ʿalay ka ăs salāma wa muḥammadu bnu maǧdiyy:ini muḥyī ăs salāma wa manṣūru bnu 
+ <lb n="8"/>hilāl:in ǧalāl:in yaqraʾu ʿalay ka ăs salāma wa *** yaqraʾu ʿalay ka ăs salāma 
+ <lb n="9"/>wa kataba saʿīdu bnu saʿd:in 
+ <lb n="10"/>min saʿīdi bni saʿd:in ʾilà ziyādi bni saʿd:in yarḥamu ăl lāhu man ballaġa hā ʾāmīn wa ăs salāmu 
+ <lb n="11"/>min saʿīdi bni saʿd:in ʾilà ziyādi ĭbni saʿd:in fatā qaysi ĭbni 
+ <lb n="12"/>ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		De la part de Saʿīd b. Saʿd à Ziyād b. Saʿd. Salut sur toi! Je loue pour toi Dieu qui est
+			<lb n="3"/>
+		la seule divinité! Puis je t&#039;informe de nos nouvelles: nous sommes sains
+			<lb n="4"/>
+		et saufs comme cela te réjouira, grâce à la bonté de Dieu envers nous et Sa faveur! Nous demandons
+			<lb n="5"/>
+		à Dieu la plénitude de la faveur pour nous et pour vous, avec la santé dans ce monde et l&#039;honneur
+			<lb n="6"/>
+		dans l&#039;autre. Ta mère t&#039;adresse le salut. ʿImrān
+			<lb n="7"/>
+		b. Saʿīd t&#039;adresse le salut. Muḥammad b. Maǧdī [t&#039;adresse] le salut. Manṣūr
+			<lb n="8"/>
+		b. Hilāl t&#039;adresse le salut. Et ... t&#039;adresse le salut.
+			<lb n="9"/>
+		Ecrit par Saʿīd b. Saʿd.
+			<lb n="10"/>
+		De la part de Saʿīd b. Saʿd à Ziyād b. Saʿd. Que Dieu prenne en miséricorde celui qui fera parvenir [cette lettre]! Amen! Et salut!
+			<lb n="11"/>
+		De la part de Saʿīd b. Saʿd à Ziyād b. Saʿd, serviteur de Qays b.
+			<lb n="12"/>
+		ʿAbd Allāh.
+</ab></div>
+</body>
+</text>
+</TEI>

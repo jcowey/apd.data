@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2501" xml:id="Little_FivePetitions_010" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.LittleFivePetitions 25 recto</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Little_FivePetitions_010</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="right margin 1"/>  المماليك 
+ <lb n="right margin 2"/>  بنو <unclear reason="undefined" cert="high">السّلم</unclear> من نابلس 
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  يقبّلون الأرض وينهون أن على المماليك وقفا 
+ <lb n="3"/>  من سلفهم شرط الواقف فيه أن يكون على ذكور ذريّته 
+ <lb n="4"/>  دون إناثهم وللمماليك مدّة طويلة يتناولوا ريعه 
+ <lb n="5"/>  الذّكور منهم دون الإناث وبأيديهم <unclear reason="undefined" cert="high">أجاير</unclear> <app type="BL"><lem resp="APD">أيضا </lem><rdg resp="APD">أجائز</rdg></app> متوافرة 
+ <lb n="6"/>  ومحضر شرعي مثبوت على الحكّام يشهد لهم بصحّة ذلك 
+ <lb n="7"/>  ثم أن شخصا في هذا الوقت نازع المماليك 
+ <lb n="8"/>  وادّعى أن الوقف على الذّكور والإناث وليس معه ما 
+ <lb n="9"/>  يدل على صحّة دعواه ولكن أشاع ذلك فيمن لا يثبت 
+ <lb n="10"/>  بقوله شي وسوال المماليك من الصّدقات العميمة مولانا 
+ <lb n="11"/>  وسيّدنا قاضي القضاة وخطيب خطبا المسلمين منحهم اللّه ببقائه 
+ <lb n="12"/>  مرسوما كريما إلى الحاكم بالنّاحية بالتّروّي في ذلك 
+ <lb n="13"/>  وتحرير قضيّتهم صدقة عليهم وإحسانا إليهم 
+ <lb n="14"/>  أنهوا المماليك والحمد للّه وحده 
+ <lb n="15"/>  وصلّى اللّه على سيّدنا محمّد وآله وسلّم 
+ <lb n="16"/>  تم 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl mamālīku 
+ <lb n="2"/>banū ăs slm min nābulusa 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>yuqabbilūna ăl ʾarḍa wa yunhūna ʾanna ʿalà ăl mamālīki waqf:an 
+ <lb n="5"/>min salafi him šaraṭa ăl wāqifu fī hi ʾan yakūna ʿalà ḏukūri ḏurriyyaẗi hi 
+ <lb n="6"/>dūna ʾināṯi him wa li l mamālīki muddaẗ:un ṭawīlaẗ:un yatanāwalū rayʿa hu 
+ <lb n="7"/>ăḏ ḏukūru min hum dūna ăl ʾināṯi wa bi ʾaydī him ʾayḍ:an ʾaǧāʾiru ʾaǧāʾizu mutawāfiraẗ:un 
+ <lb n="8"/>wa maḥḍar:un šarʿiyy:un maṯbūt:un ʿalà ăl ḥukkāmi yašhadu la hum bi ṣiḥḥaẗi ḏālika 
+ <lb n="9"/>ṯumma ʾanna šaḫṣ:an fī hāḏā ăl waqti nāzaʿa ăl mamālīka 
+ <lb n="10"/>wa ĭddaʿà ʾanna ăl waqfa ʿalà ăḏ ḏukūri wa ăl ʾināṯi wa laysa maʿa hu mā 
+ <lb n="11"/>yadullu ʿalà ṣiḥḥaẗi daʿwā hu wa lākin ʾašāʿa ḏālika fī man lā yaṯbutu 
+ <lb n="12"/>bi qawli hi šayʾ:un wa suʾālu ăl mamālīki mina ăṣ ṣadaqāti ăl ʿamīmaẗi mawlā nā 
+ <lb n="13"/>wa sayyida nā qāḍiya ăl quḍāẗi wa ḫaṭība ḫuṭabāʾi ăl muslimīna manaḥa humu ăl lāhu bi baqāʾi hi 
+ <lb n="14"/>marsūm:an karīm:an ʾilà ăl ḥākimi bi ăn nāḥiyaẗi bi ăt tarawwī fī ḏālika 
+ <lb n="15"/>wa taḥrīra qaḍiyyaẗi him ṣadaqaẗ:an ʿalay him wa ʾiḥsān:an ʾilay him 
+ <lb n="16"/>ʾanhaw ăl mamālīku wa ăl ḥamdu li l lāhi waḥdi hi 
+ <lb n="17"/>wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa sallama 
+ <lb n="18"/>tamma 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  The slaves
+		 <lb n="2"/>
+ 	  the Banū al-S-l-m from Nablus
+		 <lb n="3"/>
+ 	  In the name of God the Compassionate the Merciful
+		 <lb n="4"/>
+ 	  kiss the ground and report that they have an endowment
+		 <lb n="5"/>
+ 	  in their favor from their ancestors, in which the endower stipulated that it be in favor of his male progeny,
+		 <lb n="6"/>
+ 	  excluding their females. For a long time the slaves have received the income,
+		 <lb n="7"/>
+ 	  the males among them, excluding the females. In their possession are also
+		 <lb n="8"/>
+ 	  cumulative authorizations (?) and a legal court record binding on magistrates, attesting to them the validity of that.
+		 <lb n="9"/>
+ 	  Subsequently a person has currently been disputing (the claim of) the slaves,
+		 <lb n="10"/>
+ 	  claiming that the endowment is in favor of the males and the females, but he has nothing
+		 <lb n="11"/>
+ 	  to prove the validity of his claim. Rather he has circulated that among people who cannot corroborate
+		 <lb n="12"/>
+ 	  his word in any way. The slaves request from the all-embracing bounties of Our Lord
+		 <lb n="13"/>
+ 	  and Master, Chief Judge and Chief Preacher of the Muslims, may God grant them his preservation,
+		 <lb n="14"/>
+ 	  a gracious decree to the magistrate in the district, to reflect on that
+		 <lb n="15"/>
+ 	  and to clarify this case as an act of charity and kindness to them.
+		 <lb n="16"/>
+ 	  The slaves reported (that). Praise be to God alone.
+		 <lb n="17"/>
+ 	  May God bless our Master Muḥammad and his family and give them peace.
+		 <lb n="18"/>
+ 	  The End.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

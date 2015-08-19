@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2297" xml:id="Diem_Heid_III_28a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 28a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_28a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  أعلم القاضي أطال الله بقاه وأدام عزّه وتأييد<supplied reason="lost" cert="high">ه</supplied> <supplied reason="lost" cert="high">وعلوّه</supplied> 
+<lb n="2"/>  وتمكينه وكبت عدوّه <gap reason="illegible" precision="low" extent="3"/> أنّي رجل ضعيف <supplied reason="lost" cert="high">وقد</supplied> 
+<lb n="3"/>  سرقت منّي منذ <gap reason="illegible" precision="low" extent="3"/> بنتي وتملّكت بالرّق وأنّي و<supplied reason="lost" cert="high">جدتها</supplied> 
+<lb n="4"/>  مع رجل من أهل الأشمونين يحاول بيعها فر<supplied reason="lost" cert="high">فعت</supplied> <supplied reason="lost" cert="high">إلی</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">أ</supplied>بي إسحق إبرهيم بن محمّد بن <supplied reason="lost" cert="high">إ</supplied>برهيم النّسای أيّده الله <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <unclear reason="undefined" cert="high">الـ</unclear><supplied reason="lost" cert="high">ـسّر</supplied><unclear reason="undefined" cert="high">اح</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="7" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾuʿlimu ăl qāḍī ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa taʾyīda hu wa ʿuluwwa hu 
+ <lb n="2"/>wa tamkīna hu wa kabata ʿaduwwa hu *** ʾan nī raǧul:un ḍaʿīf:un wa qad 
+ <lb n="3"/>suriqat min nī munḏu *** bint ī wa tumullikat bi ăr riqqi wa ʾan nī waǧadtu hā 
+ <lb n="4"/>maʿa raǧul:in min ʾahli ăl ʾušmūnayni yuḥāwilu bayʿa hā fa rafaʿtu ʾilà 
+ <lb n="5"/>ʾabī ʾisḥāqa ʾibrāhīma bni muḥammadi bni ʾibrāhīma ăn nasāʾiyyi ʾayyada hu ăl lāhu *** 
+ <lb n="6"/>ăs sarāḥ *** *** ******* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ich teile dem Richter - Gott lasse ihn lange leben und gewähre ihm weiterhin Ansehen, Unterstützung, [Erhabenheit]
+			<lb n="2"/>
+		und Amtsgewalt und unterdrücke seinen Feind (Folgendes) mit: (Vacat) Ich bin ein schwacher Mann, und
+			<lb n="3"/>
+		es ist mir vor [1 Wort] meine Tochter gestohlen worden und in Form der Sklaverei in Besitz genommen worden. Ich [habe sie (nunmehr)]
+			<lb n="4"/>
+		bei einem Mann von den Einwohnern von al-Ušmūnayn vorge[funden], der sie zu verkaufen versuchte. Ich erhob deshalb [Klage bei]
+			<lb n="5"/>
+		Abū Isḥāq Ibrāhīm ibn Muḥammad ibn [I]brāhīm an-Nasāʾī - Gott stütze ihn [1 Wort]
+			<lb n="6"/>
+		Frei[lass]ung (?) [...]
+</ab></div>
+</body>
+</text>
+</TEI>

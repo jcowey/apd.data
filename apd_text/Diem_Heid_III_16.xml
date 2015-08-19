@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2242" xml:id="Diem_Heid_III_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">سيّـ</supplied>ـدي و<supplied reason="lost" cert="high">عـ</supplied>ـمّي <supplied reason="lost" cert="high">أ</supplied>يّد<supplied reason="lost" cert="high">ه</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه وجهدت <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> وسألت الخلق وكلّهـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>   <supplied reason="lost" cert="high">ا</supplied>لحبس وڤد عرمت علی پپع دلك قليلا ڤلپل اپپدى ڤبه پحمسپن اردپ لسپدى 
+<lb n="3"/>  <supplied reason="lost" cert="high">سيّـ</supplied>ـدي أيّده اللّه بالقرب بما عمل عليه إن شا الله 
+<lb n="4"/>  <supplied reason="lost" cert="high">دينـ</supplied>ـرا وقيرط والآخر بسبعة دنانير وثمن فذلك سبعين دينرا وسدس مغسولة 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> وكنت عزمت علی الخروج إلی طحا لشری شی ثم ورد علی ما قد غمّني وأنا أكتب 
+<lb n="6"/>  <supplied reason="lost" cert="high">أنعـ</supplied>ـم وهـ<gap reason="illegible" precision="low" extent="3"/> فعل إن شا اللّه قرأت على سيّدي وعمّي أدام اللّه پاپپده السلم الكثپر 
+<lb n="7"/>   <supplied reason="lost" cert="high">ان</supplied> <supplied reason="lost" cert="high">سا</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>sayyid ī wa ʿamm ī ʾayyada hu ăl lāhu wa ǧahadtu *** ***** wa saʾaltu ăl ḫalqa wa kullu hum * *** 
+ <lb n="2"/>ăl ḥabs wa qad ʿazamtu ʿalà bayʿi ḏālika qalīl:an qalīl ʾabtadiʾu fī hi bi ḫamsīna ʾirdabb li sayyid ī wa ʿamm ī 
+ <lb n="3"/>sayyid ī ʾayyada hu ăl lāhu bi ăl qurbi bi mā ʿumila ʿalay hi ʾin šāʾa ăl lāhu 
+ <lb n="4"/>dīnār:an wa qīrāṭ wa ăl ʾāḫara bi sabʿaẗi danānīra wa ṯumn:in fa ḏālika sabʿīna dīnār:an wa suds:un maġsūlaẗ:un 
+ <lb n="5"/>*** wa kuntu ʿazamtu ʿalà ăl ḫurūǧi ʾilà ṭaḥā li širà šayʾ:in ṯumma warada ʿalay ya mā qad ġamma nī wa ʾanā ʾaktubu 
+ <lb n="6"/>ʾanʿama wa h*** faʿala ʾin šāʾa ăl lāhu qaraʾtu ʿalà sayyid ī wa ʿammi ī ʾadāma ăl lāhu taʾyīda hu ăs salāma ăl kaṯīra 
+ <lb n="7"/>ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] mein [He]rr und [On]kel, sandte ich [...]............... und fragte die Leute, und sie alle [ca. 2 Wörter]
+			<lb n="2"/>
+		] zurückzuhalten. Ich habe mich (deshalb) entschlossen, dies nach und nach, indem ich hierbei mit fünfzig Irdabb anfangen werde, für meinen Herr und Onkel zu verkaufen
+			<lb n="3"/>
+		] meinen [He]rrn - Gott stütze ihn - in Bälde, wie verfahren worden ist, so Gott will.
+			<lb n="4"/>
+		Dina]r  und einen Karat und den anderen für sieben und ein achtel Dinar. Dies ergibt genau siebzig und ein sechstel Dinar
+			<lb n="5"/>
+		] und ich hatte mich entschlossen, nach Ṭaḥā zu reisen, um etwas (davon) zu kaufen. Dann aber traf bei mir etwas ein, das mich bekümmert hat, und ich werde schreiben
+			<lb n="6"/>
+		er ger]uht und ..[ | , t]ue er (dies bitte), so Gott will. (vacat) Ich grüße meinen Herrn und Onkel - Gott stütze ihn weiterhin - vielmals
+			<lb n="7"/>
+		 | so] Gott [will].
+</ab></div>
+</body>
+</text>
+</TEI>

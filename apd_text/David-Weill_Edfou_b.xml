@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1210" xml:id="David-Weill_Edfou_b" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillEdfou B</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Edfou_b</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169048</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> الرّحيم 
+ <lb n="recto 2"/>  جـ<supplied reason="lost" cert="high">ـعـ</supplied>ـلتفداك <app type="BL"><lem resp="APD">وأدام </lem><rdg resp="Hopkins, Early Arabic p. 72; AK">ودام</rdg></app> اللّه عزّك وكرامتك 
+ <lb n="recto 3"/>  <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نعمته</supplied> <supplied reason="lost" cert="high">عليك</supplied> وزاد في إحسانه عليك 
+ <lb n="recto 4"/>  وعـ<supplied reason="lost" cert="high">ـندك</supplied> في الدنيا والآخرة برحمته 
+ <lb n="recto 5"/>  كتابي إليك جعلني اللّه فداك وأنا وأبو علي 
+ <lb n="recto 6"/>  وجميع ما قبلي بحال عافية أحمد اللّه عليها 
+ <lb n="recto 7"/>  وأسـ<supplied reason="lost" cert="high">ـل</supplied> <supplied reason="lost" cert="high">دوا</supplied>مها بإحسان وصلّى اللّه على محمّد النّبي 
+ <lb n="recto 8"/>  وعلى آ<supplied reason="lost" cert="high">لـه</supplied> وسلّم جعلني اللّه فداك يا أبا عقيل 
+ <lb n="recto 9"/>  ما أخبر كتابي عنك إلّا الأخبار الّتي تبلغنا 
+ <lb n="recto 10"/>  عـ<supplied reason="lost" cert="high">ـنـ</supplied>ـكم أن متاعكم في المراكب حتّى أخبرني أبو عبيد 
+ <lb n="recto 11"/>  اللّه <supplied reason="lost" cert="high">خـ</supplied>ـليفتك إن ليس ثم إلّا خير فسرّني ذلك يتمّم اللّه 
+ <lb n="recto 12"/>  ما بـ<supplied reason="lost" cert="high">ـكـ</supplied>ـم من نعمه ولا أرانا فيكم سوا ولا مكروها 
+ <lb n="recto 13"/>  برحمته ولا في أحد من المسلمين 
+ <lb n="recto 14"/>  جعلتفداك يا أبا عقيل الرّقعة الّتي كانت معي 
+ <lb n="recto 15"/>  ضاعت إلّا أنّي ذكرت بعضه ووجّهت به إليك 
+ <lb n="recto 16"/>  على يدي أبي عبيد اللّه وإلى إخوتي وإخوتك 
+ <lb n="recto 17"/>  وقد توجّه إلى ما قبلك أبي الرّازي أبقاه اللّه ومعه 
+ <lb n="recto 18"/>  جميع ما تحتاجوا إليه وهو إن شا اللّه قليل الخلاف 
+ <lb n="recto 19"/>  لكم لا تدع جعلتفداك يا أبا عقيل الكتاب إلي بخبرك وحالك 
+ <lb n="recto 20"/>  وجميع حوائجك وجميع نعمة اللّه عندك فإني أسر <app type="BL"><lem resp="APD">به </lem><rdg resp="Diem">ø</rdg></app> 
+ <lb n="recto 21"/>  <app type="BL"><lem resp="APD">لك </lem><rdg resp="Diem “see also line 20”">بذلك</rdg></app> جعلتفداك وأطال اللّه بقاك وأعزّك وأكرمك 
+ <lb n="recto 22"/>  وأبو علي يقرئك السّلم وصلّى اللّه على محمّد النّبي وعلى آله وسلّم 
+ <lb n="recto right margin"/>  إ<supplied reason="lost" cert="high">بـ</supplied>ـن جعفر <supplied reason="lost" cert="high">يقـ</supplied>ـرئك السّلم <supplied reason="lost" cert="high">كثيرا</supplied> وهو في جواري 
+ <lb n="verso 1"/>  لأبي عقيل أطا<supplied reason="omitted" cert="high">ل</supplied> اللّه بقاه من <supplied reason="lost" cert="high">عـ</supplied>ـبيد بن محـ<supplied reason="lost" cert="high">ـمّد</supplied> 
+ <lb n="verso 2"/>  جرير بن محمّد بن سعدان أدام اللّه عزّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧuʿiltu fidāʾa ka wa ʾadāma dāma ăl lāhu ʿizza ka wa karāmata ka 
+ <lb n="3"/>wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʿalay ka 
+ <lb n="4"/>wa ʿinda ka fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi 
+ <lb n="5"/>kitāb ī ʾilay ka ǧaʿala nī ăl lāhu fidāʾa ka wa ʾanā wa ʾabū ʿaliyy:in 
+ <lb n="6"/>wa ǧamīʿu mā qibal ī bi ḥāli ʿāfiyaẗ:in ʾaḥmadu ăl lāha ʿalay hā 
+ <lb n="7"/>wa ʾasalu dawāma hā bi ʾiḥsān:in wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi 
+ <lb n="8"/>wa ʿalà ʾāli hi wa sallama ǧaʿala nī ăl lāhu fidāʾa ka yā ʾabā ʿaqīl:in 
+ <lb n="9"/>mā ʾaḫbara kitāb ī ʿan ka ʾillā ăl ʾaḫbāra ăllatī tabluġu nā 
+ <lb n="10"/>ʿan kum ʾanna matāʿa kum fī ăl marākibi ḥattà ʾaḫbara nī ʾabū ʿubaydi 
+ <lb n="11"/>ăl lāhi ḫalīfatu ka ʾin laysa ṯamma ʾillā ḫayr:un fa sarra nī ḏālika yutammimu ăl lāhu 
+ <lb n="12"/>mā bi kum min niʿami hi wa lā ʾarā nā fī kum sūʾ:an wa lā makrūh:an 
+ <lb n="13"/>bi raḥmati hi wa lā fī ʾaḥad:in mina ăl muslimīna 
+ <lb n="14"/>ǧuʿiltu fidāʾa ka yā ʾabā ʿaqīl:in ăr ruqʿaẗu ăllatī kānat maʿ ī 
+ <lb n="15"/>ḍāʿat ʾillā ʾan nī ḏakartu baʿḍa hu wa waǧǧahtu bi hi ʾilay ka 
+ <lb n="16"/>ʿalà yaday ʾabī ʿubaydi ăl lāhi wa ʾilà ʾiḫwat ī wa ʾiḫwati ka 
+ <lb n="17"/>wa qad tawaǧǧaha ʾilà mā qibala ka ʾabī ăr rāzī ʾabqā hu ăl lāhu wa maʿa hu 
+ <lb n="18"/>ǧamīʿu mā taḥtāǧū ʾilay hi wa huwa ʾin šāʾa ăl lāhu qalīlu ăl ḫilāfi 
+ <lb n="19"/>la kum lā tadaʿ ǧuʿiltu fidāʾa ka yā ʾabā ʿaqīl:ini ăl kitāba ʾilay ya bi ḫabari ka wa ḥāli ka 
+ <lb n="20"/>wa ǧamīʿi ḥawāʾiǧi ka wa ǧamīʿu niʿmaẗi ăl lāhi ʿinda ka fa ʾin nī ʾusarru bi ø hi ø 
+ <lb n="21"/>la bi ka ḏālika ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka 
+ <lb n="22"/>wa ʾabū ʿaliyy:in yuqriʾu ka ăs salāma wa ṣallà ăl lāhu ʿalà muḥammad:in ăn nabīʾi wa ʿalà ʾāli hi wa sallama 
+ <lb n="23"/>ĭbnu ǧaʿfara yuqriʾu ka ăs salāma kaṯīr:an wa huwa fī ǧiwār ī 
+ <lb n="24"/>li ʾabī ʿaqīl:in ʾaṭāla ăl lāhu baqāʾa hu min ʿubaydi bni muḥammad:in 
+ <lb n="25"/>ǧarīru bnu muḥammadi bni saʿdāna ʾadāma ăl lāhu ʿizza hu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Au nom de Dieu clément], miséricordieux,
+		 <lb n="2"/>
+ 	  que je te serve de rançon, Dieu fasse durer ton bonheur et ta gloire,
+		 <lb n="3"/>
+ 	  [parfasse sa faveur à ton égard], accroisse sa bienveillance envers toi
+		 <lb n="4"/>
+ 	  et les tiens, pour ce monde et pour lʾautre en sa miséricorde.
+		 <lb n="5"/>
+ 	  Voici la lettre que je tʾadresse. Dieu fasse que je te serve de rançon, Abū ʿAlī,
+		 <lb n="6"/>
+ 	  moi-même et tous ceux qui mʾentourent, nous sommes en bonne santé, ce dont je rends grâce à Dieu et le prie
+		 <lb n="7"/>
+ 	  quʾil la [fasse durer] en sa bonté. Bénédiction de Dieu sur le prophète Mahomet,
+		 <lb n="8"/>
+ 	  sur sa famille, et salut. Dieu fasse que je te serve de rançon, ô Abū ʿAqīl!
+		 <lb n="9"/>
+ 	  la lettre que jʾai reçue de ta part ne mʾa pas donnée dʾautres nouvelles que celles qui nous parviennent
+		 <lb n="10"/>
+ 	  de vous: à savoir que vos marchandises sont (chargées) dans les bateaux ainsi que mʾen a informé Abū ʿUbaid
+		 <lb n="11"/>
+ 	  Allah, ton représentant; sʾil nʾy a là que de bonnes nouvelles, je mʾen réjouirai; Dieu parfasse sa faveur
+		 <lb n="12"/>
+ 	  envers vous et ne nous fasse voir à votre égard
+		 <lb n="13"/>
+ 	  ni à celui dʾaucun musulman rien de mauvais ni de désagréable.
+		 <lb n="14"/>
+ 	  Que je te serve de rançcon, ô Abū ʿAqīl! le billet que jʾavais avec moi
+		 <lb n="15"/>
+ 	  a été perdu, sauf une partie dont je me suis souvenu et que je tʾai envoyée
+		 <lb n="16"/>
+ 	  par lʾintermédiaire dʾAbū ʿUbaid Allah ainsi quʾà mes frères et  à tes frères.
+		 <lb n="17"/>
+ 	  Abū al Rāzī, Dieu le garde! est déjà parti de ton côté avec
+		 <lb n="18"/>
+ 	  tout ce qui vous est nécessaire; (jʾespère), grâce à Dieu, que cʾest un homme qui ne vous fera pas dʾopposition.
+		 <lb n="19"/>
+ 	  Nʾoublie pas, que je te serve de rançon, ô Abū ʿAqīl! de mʾécrire des nouvelles de toi et de ton état
+		 <lb n="20"/>
+ 	  (...) Denn ich freue mich
+ 	  et (de me dire) tout ce qui tʾest nécessaire, et que toutes les grâces de Dieu te comblent, je mʾen réjouirai
+		 <lb n="21"/>
+ 	  darüber. (...)
+ 	  pour toi, que je te serve de rançon, Dieu prolonge ta durée, te favorise et te glorifie;
+		 <lb n="22"/>
+ 	  Abū ʿAlī te fait donner le salut. Bénédictions de Dieu sur le prophète Mahomet, sur sa famille et salut.
+		 <lb n="23"/>
+ 	  Ibn Djaʿfar te fait donner le salut [grandement (?)] et il est auprès de moi.
+		 <lb n="24"/>
+ 	  À Abū ʿAqīl, que Dieu prolonge sa durée!, de la part de ʿUbaid ibn Muḥammad.
+		 <lb n="25"/>
+ 	  Djarīr ibn Muḥammad ibn Saʿdān, Dieu perpétue sa gloire!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

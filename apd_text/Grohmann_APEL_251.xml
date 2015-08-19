@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2029" xml:id="Grohmann_APEL_251" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 251 (incl. Grohmann, P.Cair.Arab. IV p. 247-248; 253)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_251</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  دسيوه الڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" />ر<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  إصطفن سيـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/>پهپوه بپسطلس <gap reason="illegible" extent="1" unit="character" /> ÷÷ 
+<lb n="recto 3"/>  إسحق بن إبرهيم ÷ <gap reason="illegible" precision="low" extent="3"/> دويد بهيوه ÷ 
+<lb n="recto 4"/>  إصطفن حول ÷ ÷ زكري بن عبد اللّه ÷÷ 
+<lb n="recto 5"/>  أبشا قريل <gap reason="illegible" extent="1" unit="character" /> دروا أنه ÷÷ 
+<lb n="recto 6"/>  إبرهيم بن كليب ÷ ÷ ورثة قريقوس ÷ ÷ 
+<lb n="recto 7"/>  أبلّوا مسيس ÷ ورثة سهل ÷÷÷ ÷ 
+<lb n="recto 8"/>  أيّوب پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ÷÷ ÷÷ قزمان <unclear reason="undefined" cert="high">لقاس</unclear> ÷ ÷ 
+<lb n="recto 9"/>  أحمد بن عبد الغـ<supplied reason="lost" cert="high">ـنـ</supplied>ـي ÷÷ ÷÷ ورثة غثمة ÷÷ ÷÷÷ 
+<lb n="recto 10"/>  أيّوب بهيره ÷ ÷ قلته الحمّال ÷ ÷ 
+<lb n="recto 11"/>  أسبغ بن كليب ÷÷ ÷÷ فليمن بسدره ÷ ÷ 
+<lb n="recto 12"/>  لسهيوه الأرملة ÷÷ كليب بن علي ÷ ÷ 
+<lb n="recto 13"/>  بلوته أبلّوا ÷÷ ÷÷ 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/><supplied reason="lost" cert="high">  بهيو</supplied>ه بنوب <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ÷÷ 
+<lb n="verso 3"/>  بهيوه النّجّار ÷÷ موسـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـان ÷÷ 
+<lb n="verso 4"/>  بمين ببسطلس ÷÷ بطـ<supplied reason="lost" cert="high">ـلس</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـلمن ÷÷ 
+<lb n="verso 5"/>  بكر بن زكري ÷ مرون بـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـمول ÷÷ 
+<lb n="verso 6"/>  ثيدر نفسطه ÷ مرقوره <supplied reason="lost" cert="high">الشّـ</supplied>ـمّاس ÷ 
+<lb n="verso 7"/>  يحنّس زكري ÷÷ مينا لپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـده ÷ 
+<lb n="verso 8"/>  حـ<supplied reason="lost" cert="high">ـسـ</supplied>ـن بن سعيد ÷÷ محمّد بن پـ<supplied reason="lost" cert="high">ــــ</supplied>ـكه ÷÷÷ 
+<lb n="verso 9"/>  حمدون بن مساور ÷÷ سعيد بن نافع ÷ 
+<lb n="verso 10"/>  خلف التّاجر ÷ سيديّة الأرملة ÷÷ 
+<lb n="verso 11"/>  <app type="BL"><lem resp="APD">ربّان </lem><rdg resp="APD">ربّان </rdg><rdg resp="APD">زبّان </rdg><rdg resp="APD">زبان </rdg><rdg resp="APD">زيّان</rdg></app> بن خلد ÷÷ شهاب بن أبي إسحق ÷÷÷÷÷÷ 
+<lb n="verso 12"/>  <app type="BL"><lem resp="APD">ربيعة </lem><rdg resp="APD">ربيّعة</rdg></app> بن سعه ÷ سلمون الشّمّاس ÷÷ 
+<lb n="verso 13"/>  رمّاح بن عتبة ÷ سعيد بن سعد ÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dasyūhu ăl F*** *** ****r** *** 
+ <lb n="2"/>ʾiṣṭafanu siyaha *** bihyūh babusṭulusa * 1/12 
+ <lb n="3"/>ʾisḥāqu bnu ʾibrāhīma 6 *** dawīdu bihyūha 1/8 
+ <lb n="4"/>ʾiṣṭafanu ḥawla 6 1/6 zikrī bnu ʿabdi ăl lāhi 1 1/6+1/8 
+ <lb n="5"/>ʾabšā qirīla * darwā ʾanaha 1/24 
+ <lb n="6"/>ʾibrāhīmu bnu kulayb:in 1/6 1/12 waraṯaẗu qurīqūsa 1/24 1/24 
+ <lb n="7"/>ʾabullū musīsa 1/8 waraṯaẗu sahl:in 1/6+1/24 1/6 
+ <lb n="8"/>ʾayyūbu B*** 1/6+1/8 1/6+1/8 quzmānu luqāsa 1/8 1/8 
+ <lb n="9"/>ʾaḥmadu bnu ʿabdi ăl ġaniyyi 1/24 1/24 waraṯaẗu ġaṯmaẗa 1/6+1/8 3 1/24 
+ <lb n="10"/>ʾayyūbu bihyūha 1/8 1/8 qultahu ăl ḥammālu 1/8 1/8 
+ <lb n="11"/>ʾasbaġu bnu kulayb:in 1/24 1/24 filaymūnu basadraha 1/4 1/4 
+ <lb n="12"/>lisihyūhu ăl ʾarmalaẗu 1/24 kulaybu bnu ʿaliyy:in 1/8  1/8  
+ <lb n="13"/>bilūtahu ʾabullū 1/12 1/12 
+ <lb n="14"/>*** **** *** 
+ <lb n="15"/>bihyūhu banūba *** ***l*** 1/12 
+ <lb n="16"/>bihyūhu ăn naǧǧāru 1/12 mūsà bnu ***ʾn 1/12 
+ <lb n="17"/>bamīnu babusṭulusa 1/12 baṭalasu salmāna 1/24 
+ <lb n="18"/>bakru bnu zikrī 1/6 marūnu bnu samūla 1/24 
+ <lb n="19"/>ṯiyuduru nafasṭaha 1/6 marqūrahu ăš šammāsu 1/8 
+ <lb n="20"/>yuḥannisu zikrī 1/24 mīnā lb*** bni ***dh 1/8 
+ <lb n="21"/>ḥasanu bnu saʿīd:in 1/24 muḥammadu bnu Bkh 3 1/12 
+ <lb n="22"/>ḥamdūnu bnu musāwir:in 1/3+1/8 saʿīdu bnu nāfiʿ:in 1/4 
+ <lb n="23"/>ḫalaf:uni ăt tāǧiru 1/8 saydiyyaẗu ăl ʾarmalaẗu 1/24 
+ <lb n="24"/>rabbānu rayyānu zabbānu zayyānu zibānu bnu ḫālid:in 1/6+1/8 šihābu bnu ʾabī ʾisḥāqa 1/3+1/12 1/3+1/12 
+ <lb n="25"/>rabīʿaẗu rubayyiʿaẗu bnu sʿh 1/6 salmūnu ăš šammāsu 1/24 
+ <lb n="26"/>rammāḥu bnu ʿutbaẗa 1/8 saʿīdu bnu saʿd:in 1/6 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Daseheu, the ...[...] .....[...]
+			<lb n="2"/>
+		Stephen Siy[a ...] Piheu Papostolos [...] 1/12
+			<lb n="3"/>
+		Isḥâq b. Ibrahîm 6 David Piheu 1/8
+			<lb n="4"/>
+		Stephen Ḥôl 6 1/6 Zikrî b. ʿAbdallâh 1/6+1/8
+			<lb n="5"/>
+		Abšâ Cyril [...] Darwâ Ana 1/24
+			<lb n="6"/>
+		Ibrahîm b. Kulaib 1/6 1/12 the heirs of Kyrikos 1/24 1/24
+			<lb n="7"/>
+		Apollo Mosîs 1/8 the heirs of Sahl 1/6+1/24 1/6
+			<lb n="8"/>
+		Ayyûb ...[...] 1/6+1/8 1/6+1/8 Quzmân Lucas (?) 1/8 1/8
+			<lb n="9"/>
+		Aḥmad b. ʿAbd al-Ġa[n]î 1/24 1/24 the heirs of Ġaṯma 1/6+1/8 3 1/24
+			<lb n="10"/>
+		Job Piheu 1/8 1/8 Qolte, the porter 1/8 1/8
+			<lb n="11"/>
+		Aṣbaġ b. Kulaib 1/24 1/24 Philemon Psatre 1/4 1/4
+			<lb n="12"/>
+		Lisiheu, the widow 1/24 Kulaib b. ʿAlî 1/8 1/8
+			<lb n="13"/>
+		Pilote Apollo 1/12 1/12
+			<lb n="14"/>
+			<lb n="16"/>
+		Biheu, the carpenter 1/12  Mûs[â b. ...]ân 1/12
+			<lb n="17"/>
+		Pamîn Papostolos 1/12  Paṣ[alos ...] 1/24
+		Pamîn Papostolos 1/12  Paṭ[alos Sa]lmān 1/24
+			<lb n="18"/>
+		Bakr b. Zikrî 1/6 Marôn, s[on of Sa]mûl 1/24
+			<lb n="19"/>
+		Theodor Nafasṭe 1/6 Merqûre, [the dea]con 1/8
+			<lb n="20"/>
+		Yoḥannes Zikrî 1/24 Mînâ L.[.. b. ..]de 1/8
+			<lb n="21"/>
+		Ḥa[sa]n b. Saʿîd 1/24 Muḥammad b. ...[...]ka 3 1/12
+			<lb n="22"/>
+		Ḥamdûn b. Musâwir 1/3+1/8 Saʿîd b. Nâfiʿ 1/4
+			<lb n="23"/>
+		Ḫalaf, the merchant 1/8 Saidîya, the widow 1/24
+			<lb n="24"/>
+		Rayyân b. Ḫâlid 1/6+1/8 Šihâb b. Abû Isḥâq 1/3+1/12  1/3+1/12
+			<lb n="25"/>
+		Rabîʿa b. S...... 1/6 Salmôn, the deacon 1/24
+			<lb n="26"/>
+		Rammâḥ b. ʿUtba 1/8 Saʿîd b. Saʿd 1/6
+</ab></div>
+</body>
+</text>
+</TEI>

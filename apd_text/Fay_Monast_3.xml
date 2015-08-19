@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1452" xml:id="Fay_Monast_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Fay.Monast. 3 (= Chrest.Khoury I 74)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Fay_Monast_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169237</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 = Khoury 2 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2 = Khoury 3"/>  <supplied reason="lost" cert="high">هذ</supplied>ا ما تصدّقت به <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> ابنت بسنت <app type="BL"><lem resp="The two words following the name of Bisanti here and on line 12 “13” might be ‹a Coptic titular phrase ≤...± obscure to ≤the scribe±› according to Abbott, or a place name according to Khoury."><unclear reason="undefined" cert="high">سد</unclear> </lem><rdg resp="Khoury">شدّ</rdg></app> <unclear reason="undefined" cert="high">قهد</unclear> على كنيـ<supplied reason="lost" cert="high">ـسة</supplied> <supplied reason="lost" cert="high">دير</supplied> <supplied reason="lost" cert="high">النّقـ</supplied>ـلون 
+<lb n="3 = Khoury 4"/>  وميكائل <app type="BL"><lem resp="APD">شلّا </lem><rdg resp="Khoury">شلا</rdg></app> الدّيرين اللّذين في الصّحرا وهما يعرفان بالنّقلون <app type="BL"><lem resp="APD">وشلّا </lem><rdg resp="Khoury">وشلا</rdg></app> من كورة 
+<lb n="4 = Khoury 5"/>  الفيّوم <app type="BL"><lem resp="APD">العرفة </lem><rdg resp="APD">الغرفة</rdg></app> الّتي طباق قصر دركن ابنت بسنت بحدّه وحدوده ونقضه 
+<lb n="5 = Khoury 6"/>  وبنائه وأبوابه <app type="BL"><lem resp="APD">وجنينته </lem><rdg resp="reading preferred by Khoury">وخشبه </rdg><rdg resp="APD">وحسنه </rdg><rdg resp="APD">وجبسه </rdg><rdg resp="APD">وحبسه</rdg></app> وجميع مرافقه وطرقه وجميع حقوقه كلّها وعلوه 
+<lb n="6 = Khoury 7"/>  وما اشتملـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">حدوده</supplied> وأحاطت به جدرانه صدقة لوجه اللّه عز وجل 
+<lb n="7 = Khoury 8"/>  بتّة بتلا لا تريد بذلك جزا ولا شكورا إلّا من اللّه وحده لا شريك له شهّد على إقرار 
+<lb n="8 = Khoury 9"/>  <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> ابنت بسنت بجميع ما في هذا الكتاب شهودا يعرفونها نفسها واسمها 
+<lb n="9 = Khoury 10"/>  <app type="BL"><lem resp="APD">وأبيها </lem><rdg resp="Khoury">وأبيها</rdg></app> في صحّة من عقلها وبدنها وجواز من أمرها وهي صدقة مقبوضة محوزة 
+<lb n="10 = Khoury 11"/>  لهذين الدّيرين بتّة بتلا لا رجعة <app type="BL"><lem resp="APD">لتوسانة </lem><rdg resp="Thung">لتوساقة </rdg><rdg resp="Thung">لتوسافة</rdg></app> ابنت بسنت في هذا الصّدقة ولا 
+<lb n="11 = Khoury 12"/>  <sic n="superfluous">ولا</sic> مپپوپه <sic n="superfluous">الا</sic> وهده العرڤه <app type="BL"><lem resp="APD">وعلوها </lem><rdg resp="LS">الغرفة</rdg></app> صدڤه لوحه الله لهدپن الدپرپن پپه 
+<lb n="12 = Khoury 13"/>  بتلا شهد على إقرار <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> ابنت بسنت <app type="BL"><lem resp="see ref. on line 2 = Khoury 3"><unclear reason="undefined" cert="high">شدّ</unclear> </lem><rdg resp="Khoury">شدّ</rdg></app> <unclear reason="undefined" cert="high">قهد</unclear> في صحّة من عقلها 
+<lb n="13 = Khoury 14"/>  وبدنها وجواز من أمرها طائعة طالبة راغبة غير مكرهة ولا مجبرة 
+<lb n="14 = Khoury 15"/>  بلا علّة بها من مرض ولا غيره وذلك في شهر جمادى الأوّل من سنة ست 
+<lb n="15 = Khoury 16"/>  وثلاثين وثلثمائة شهد على ذلك 
+<lb n="16 = Khoury 17"/>  شهد بولس بن إسمعيل على جميع ما في هذا الكتاب وكتب شهادته بخطّه 
+<lb n="17 = Khoury 18"/>  شهد يوسف بن إسمعيل على إقرار <app type="BL"><lem resp="APD">توسانة </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> ابنت بسنت بجميع ما في هذا الكتاب وكتب 
+<lb n="18 = Khoury 19"/>  شهادته بخطّه وحسبه اللّه ونعم الوكيل 
+<lb n="upper left corner 1 = Khoury 1 left"/>  صح هذا الوثيقة بحضرة محمّد بن عبد اللّه وذلك في 
+<lb n="upper left corner 2 = Khoury 2 left"/>  شهر شوّال من سنة <app type="BL"><lem resp="APD">پلاپپن </lem><rdg resp="added by Khoury">ستّ</rdg></app> <app type="BL"><lem resp="APD">وثلپماثه </lem><rdg resp="Khoury, و added.">وثلاثين</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā taṣaddaqat bi hi tūsānaẗu tūsāfaẗu tūsāqaẗu ĭbnatu bisanta šadd sd qahd qhd ʿalà kanīsaẗi dayri ăn naqlūni 
+ <lb n="3"/>wa mīkāʾili šalā šallā ăd dayrayni ăllaḏayni ăllaḏīna fī ăṣ ṣaḥrāʾi wa humā yuʿrafāni bi ăn naqlūni wa šalā šallā min kūraẗi 
+ <lb n="4"/>ăl fayyūmi ăl ʿarfaẗa ġurfaẗa ʿurfaẗa ăllatī ṭibāqu qaṣri darkuna ĭbnati bisanta bi ḥaddi hi wa ḥudūdi hi wa naqḍi hi 
+ <lb n="5"/>wa bināʾi hi wa ʾabwābi hi wa ǧunaynati ḫašabi ḥasani ḥabsi ǧibsi ḥubsi hi wa ǧamīʿi marāfiqi hi wa ṭuruqi hi wa ǧamīʿi ḥuqūqi hi kulli hā wa ʿulwi hi 
+ <lb n="6"/>wa mā ĭštamalat ʿalay hi ḥudūdu hu wa ʾaḥāṭat bi hi ǧudrānu hu ṣadaqaẗ:an li waǧhi ăl lāhi ʿazza wa ǧalla 
+ <lb n="7"/>battaẗ:an batl:an lā turīdu bi ḏālika ǧazāʾan wa lā šukūr:an ʾillā mina ăl lāhi waḥdi hi lā šarīka la hu šuhhida ʿalà ʾiqrāri 
+ <lb n="8"/>tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta bi ǧamīʿi mā fī hāḏā ăl kitābi šuhūd:an yaʿrifūna hā nafsa hā wa sma hā 
+ <lb n="9"/>wa ʾabī ʾanna hā fī ṣiḥḥaẗ:in min ʿaqli hā wa badani hā wa ǧawāz:in min ʾamri hā wa hiya ṣadaqaẗ:un maqbūḍaẗ:un maḥūzaẗ:un 
+ <lb n="10"/>li hāḏayni ăd dayrayni battaẗ:an batl:an lā raǧʿaẗa li tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta fī hāḏā ăṣ ṣadaqaẗi wa lā 
+ <lb n="11"/>wa lā maṯnawiyyaẗa wa hāḏihi ăl ʿarfaẗu ġurfaẗu ʿurfaẗu wa ʿulwu hā ṣadaqaẗ:un li waǧhi ăl lāhi li hāḏayni ăd dayrayni battaẗ:an 
+ <lb n="12"/>batl:an šuhida ʿalà ʾiqrāri tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta šadd sd qahd qhd fī ṣiḥḥaẗ:in min ʿaqli hā 
+ <lb n="13"/>wa badani hā wa ǧawāz:in min ʾamri hā ṭāʾiʿaẗ:an ṭālibaẗ:an rāġibaẗ:an ġayra mukrahaẗ:in wa lā muǧbaraẗ:an 
+ <lb n="14"/>bi lā ʿillaẗ:in bi hā min maraḍ:in wa lā ġayri hi wa ḏālika fī šahri ǧumādà ăl ʾawwali min sanaẗi sitt:in 
+ <lb n="15"/>wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in šuhida ʿalà ḏālika 
+ <lb n="16"/>šahida būlusu bnu ʾismāʿīla ʿalà ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="17"/>šahida yūsufu bnu ʾismāʿīla ʿalà ʾiqrāri tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba 
+ <lb n="18"/>šahādata hu bi ḫaṭṭi hi wa ḥasbu hu ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="19"/>ṣaḥḥa hāḏā ăl waṯīqaẗu bi ḥaḍraẗi muḥammadi bni ʿabdi ăl lāhi wa ḏālika fī 
+ <lb n="20"/>šahri šawwāl:in min sanaẗi ø sitt:in ø wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+		In the name of God, the merciful, the compassionate.
+			<lb n="2"/>
+		Ceci est ce que donna comme fondation charitable Tusāna, fille de Basint (Pasynte) (de) Šadd Qahd (?), à l&#039;égl[ise des monastères] d&#039;al-[N]aqlūn
+		This is what Tūsānah, daughter of Bisanti .... (?) gave as a charitable grant to the church of the monastery of Naḳlūn
+			<lb n="3"/>
+		and (to that of) Mikail (of) Shallā - the two monasteries that are in the desert and are known as al-Naḳlūn and Shallā in the district (kurah)
+		et de Mīkāʾīl Šalā, les deux couvents qui se trouvent dans le désert et sont connus (sous le nom) d&#039;al-Naqlūn et de Ša[lā] et [appar]tenant à la circonscription
+			<lb n="4"/>
+		d&#039;al-Fayyūm: (elle donna) l&#039;étendue de la région avoisinante au chāteau de Darkan, fille de Basint, avec sa frontière et sa limitation, ses poutres
+		of the Fayyūm: the chamber that is in the upper floor of the hall of Darkun...
+		of the Fayyūm: the fertile tract (of land) that adjoins the residence of Darkun, daughter of Bisanti, to the limits of all its boundaries, with its timber beams
+			<lb n="5"/>
+		... and its gates and its wood / benefits / gypsum / prison or pond / inalienable rights and all its accessories...
+		and its structure and its gates and its small garden and all its accessories and its paths and the sum total of its rights in their entirety and its loft (?)
+		... its gates and its wood... in their entirety and its upper part
+		son bâtiment, ses portes, son bois, toutes ses dépendances et rues, tous ses droits, son étage supérieur
+			<lb n="6"/>
+		and all that is contained within its boundaries and inclosed within its walls. (This is) an irrevocable charitable grant for the sake of God, to whom be glory and majesty.
+		et tout ce qu&#039;englobe[nt] ses [f]rontières et entourent ses murs, comme fondation charitable pour l&#039;amour de Dieu, il est puissant et grand,
+			<lb n="7"/>
+		de manière irrévocablement définitive; elle ne veut là ni récompense, ni rémunération sauf de Dieu seul qui n&#039;a pas d&#039;associé. Ont témoigné de la reconnaissance
+		She desires for this neither reward nor praise except from God alone without any associate. The acknowledgement of
+			<lb n="8"/>
+		de Tusāna, fille de Basint, de tout le contenu de ce document, des témoins qui la connaissent personellement et connaissent son nom
+		Tūsānah, daughter of Bisanti, to all the contents of this deed was testified to by witnesses who know her in person and by name
+			<lb n="9"/>
+		and that she is in sound mind and body and in control of her affairs. And it is a charitable grant seized and possessed
+		et son père, alors qu&#039;elle était dans la plénitude de ses facultés mentale et physique et sa capacité juridique, à savoir une fondation charitable, prise et possédée,
+			<lb n="10"/>
+		for these two monasteries irrevocably. Tūsānah, daughter of Bisanti, can neither revoke this charitable grant
+		pour ces deux monastères, irrévocablement et définitivement. Tusāna, fille de Basint, n&#039;a (aucun droit) de révocation, ni
+			<lb n="11"/>
+		de réserve. Et cette étendue de terre et son étage supérieur sont une fondation charitable, pour l&#039;amour de Dieu, pour ces deux couvents irrévocable-
+		... For this chamber and its loft are an irrevocable charitable grant...
+		nor make any condition or reservations (regarding it). For this fertile tract of land and its loft are an irrevocable charitable grant for the sake of God to these two monasteries.
+			<lb n="12"/>
+		ment et définitivement. On a témoigné de la reconnaissance te Tusāna, fille de Basint (de) Šadd Qahd (?), alors qu&#039;elle était dans la plénitude de ses facultés mentale
+		Testimony is given to the acknowledgement of Tūsānah, daughter of Bisanti, .... (?) made in sound mind
+			<lb n="13"/>
+		and body and in control of her affairs, of her own volition, seeking, and desire, neither constrained nor forced,
+		et physique et sa capacité juridique, de son gré, (le) désirant et souhaitant, non contrainte, ni forcée,
+			<lb n="14"/>
+		sans souffrance d&#039;une maladie (quelconque) ou d&#039;autre chose, et ceci au mois de ǧumādā I de l&#039;année
+		without any defect of disease or of anything else. And that in the month of Jumādā I of the year six
+			<lb n="15"/>
+		and thirty and three hundred. Witness is given to these (facts):
+		trois cent trente-six. A témoigné de cela
+			<lb n="16"/>
+		Būlus Ibn Ismāʿīl, de tout le contenu de ce document, et il écrivit son témoignage de sa main.
+		Būlus, son of Ismaʿīl, gave witness to all that is in this document and wrote his testimony with his own hand.
+			<lb n="17"/>
+		A témoigné Yūsuf Ibn Ismāʿīl de la reconnaissance de Tusāna, fille de Basint, de tout le contenu de ce document, et il écrivit
+		Yūsuf, son of Ismaʿīl, gave witness to the acknowledgement of Tūsānah, daughter of Bisanti, of all that is in this deed and wrote
+			<lb n="18"/>
+		his testimony with his own hand. God is his sufficiency, and the best of guardians is he.
+		son témoignage de sa main, Dieu lui suffit et quel excellent défenseur il est.
+			<lb n="19"/>
+		Ce document a été authentifié en présence de Muḥammad Ibn ʿAbd Allāh, et ceci au
+		This (written) document was certified in the presence of Muḥammad, son of ʿAbd-Allāh, and that in the
+			<lb n="20"/>
+		mois de šawwāl de l&#039;année trois cent trente-&lt;six&gt;.
+		month of Shawwāl of the year (six and?) thirty and three hundred.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2089" xml:id="Ragib_Lettre_Fam" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettreFamiliale</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Lettre_Fam</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  من يعفر بن عمران الرّعيني ثم <app type="BL"><lem resp="APD">الغني </lem><rdg resp="APD">العمّيّ</rdg></app> إلى أم عبد اللّه ابنت 
+<lb n="3"/>  الحرث وإلى الحسن ابنت عمران وإلى 
+<lb n="4"/>  كنود ابنت الحرث وإلى عبيدة ابنت عبيد 
+<lb n="5"/>  سلم عليكم فإنّي أحمد إليكم اللّه الّذي لا 
+<lb n="6"/>  إله إلّا هو أمّا بعد 
+<lb n="7"/>  فإنّي أخبركم من خبرنا إ<supplied reason="lost" cert="high">نّـ</supplied>ـا سالمين صالحين بحمد اللّه 
+<lb n="8"/>  علينا وستر نعمته أسل اللّه تمام النّعمة 
+<lb n="9"/>  لنا ولكم أمّا على أثر ذلك فإنّي أ<del rend="erasure" status="unremarkable">حپر</del>وصّيكم 
+<lb n="10"/>  بتّقا اللّه فإنّه من يتّق اللّه يجعل له من أمره 
+<lb n="11"/>  مخرجا ويرزقه من حـ<sic n="superfluous">ـيـ</sic>ـثپ لا يحتسب اكتبوا إلينا 
+<lb n="12"/>  بخبركم وسلامتكم ولا تغفلوا عن الكتب 
+<lb n="13"/>  أصلحكم اللّه وأمتع بكم في خير وإلى 
+<lb n="14"/>  خير والسّلم عليكم ورحمت اللّه وبركته 
+<lb n="15"/>  كتبت إليكم كتبي هذا في ستّة ليا<sic n="superfluous">ا</sic>لي بقين من ذي 
+<lb n="16"/>  القعدة سنة اثنين ومائة 
+<lb n="verso 1"/>  من يعفر بن عمران الرّعيني ثم الغني إلى أم عبد اللّه ابنت الحرث 
+<lb n="verso 2"/>  رحم اللّه من بلّغها إليهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min yaʿfura yaʿufura yuʿfira yuʿufura bni ʿimrāna ăr ruʿayniyyi ṯumma ăl ġaniyyi ʿammiyyi ʾilà ʾummi ʿabdi ăl lāhi ĭbnati 
+ <lb n="3"/>ăl ḥāriṯi wa ʾilà ăl ḥusni ĭbnati ʿimrāna wa ʾilà 
+ <lb n="4"/>kanūda ĭbnati ăl ḥāriṯi wa ʾilà ʿubaydaẗa ĭbnati ʿabīd:in ʿubayd:in 
+ <lb n="5"/>salām:un ʿalay kum fa ʾin nī ʾaḥmadu ʾilay kumu ăl lāha ăllaḏī lā 
+ <lb n="6"/>ʾilāha ʾillā huwa ʾammā baʿdu 
+ <lb n="7"/>fa ʾin nī ʾuḫbiru kum min ḫabari nā ʾin nā sālimīna ṣāliḥīna bi ḥamdi ăl lāhi 
+ <lb n="8"/>ʿalay nā wa sitri niʿmati hi ʾasalu ăl lāha tamāma ăn niʿmaẗi 
+ <lb n="9"/>la nā wa la kum ʾammā ʿalà ʾaṯari ḏālika fa ʾin nī ʾuwaṣṣī kum 
+ <lb n="10"/>bi ttiqāʾi ăl lāhi fa ʾinna hu man yattaqi ăl lāha yaǧʿal la hu min ʾamri hi 
+ <lb n="11"/>maḫraǧ:an wa yarzuq hu min ḥayṯu lā yaḥtasibu ŭktubū ʾilay nā 
+ <lb n="12"/>bi ḫabari kum wa salāmati kum wa lā taġfulū ʿani ăl katbi 
+ <lb n="13"/>ʾaṣlaḥa kumu ăl lāhu wa ʾamtaʿa bi kum fī ḫayr:in wa ʾilà 
+ <lb n="14"/>ḫayr:in wa ăs salāmu ʿalay kum wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="15"/>katabtu ʾilay kum kitāb ī hāḏā fī sittaẗi layālī baqīna min ḏī 
+ <lb n="16"/>ăl qaʿdaẗi sanaẗa ĭṯnayni wa miʾaẗ:in 
+ <lb n="17"/>min yaʿfura bni ʿimrāna ăr ruʿayniyyi ṯumma ăl ġaniyyi ʾilà ʾummi ʿabdi ăl lāhi ĭbnati ăl ḥāriṯi 
+ <lb n="18"/>raḥima ăl lāhu man ballaġa hā ʾilay him 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		De la part de Yaʿfur b. ʿImrān al-Ruʿaynī puis al-Ġanī, à Umm ʿAbd Allāh ibnat
+			<lb n="3"/>
+		al-Ḥāriṯ, al-Ḥusn ibnat ʿImrān,
+			<lb n="4"/>
+		Kanūd ibnat al-Ḥāriṯ et ʿUbayda ibnat ʿUbayd.
+			<lb n="5"/>
+		Salut sur vous! Je loue pour vous Dieu
+			<lb n="6"/>
+		qui est la seule divinité!
+			<lb n="7"/>
+		Je vous informe de nos nouvelles: nous sommes bien et en bonne santé, par la grâce de Dieu
+			<lb n="8"/>
+		à notre égard et la protection de Son bienfait! Je demande à Dieu le parachèvement de Son bienfait
+			<lb n="9"/>
+		pour nous et pour vous. Ensuite, je vous 〚informe〛 recommande
+			<lb n="10"/>
+		d&#039;être pieuses envers Dieu. En vérité, à quiconque est pieux envers Dieu, Celui-ci donne à son sort
+			<lb n="11"/>
+		une issue et lui accorde une attribution, par des voies sur lesquelles il ne comptait pas. Êcrivez-nous (pour nous informer)
+			<lb n="12"/>
+		de vos nouvelles et de votre santé. Ne manquez pas d&#039;écrire.
+			<lb n="13"/>
+		Que Dieu vous fasse du bien, qu&#039;Il fasse jouir de votre présence dans le bien et vers
+			<lb n="14"/>
+		le bien! Que le salut soit sur vous, ainsi que la miséricorde de Dieu et Ses bénédictions!
+			<lb n="15"/>
+		Je vous ai écrit cette lettre six nuits restantes de ḏū l-
+			<lb n="16"/>
+		qaʿda l&#039;année cent deux.
+			<lb n="17"/>
+		De la part de Yaʿfūr b. ʿImrān al-Ruʿaynī puis al-Ġanī. À Umm ʿAbd Allāh ibnat al-Ḥāriṯ.
+			<lb n="18"/>
+		Que Dieu prenne en miséricorde celui qui leur fera parvenir (la lettre)!
+</ab></div>
+</body>
+</text>
+</TEI>

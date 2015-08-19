@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1813" xml:id="Grohmann_APEL_326" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 326</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_326</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169552</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  تتقدّم يا سيّدي وشيخي <app type="BL"><lem resp="APD"><gap reason="illegible" extent="8" unit="character" /> </lem><rdg resp="APD">ومن</rdg></app> <app type="BL"><lem resp="APD">اطال </lem><rdg resp="APD">أعزّ</rdg></app> <app type="BL"><lem resp="APD">الله </lem><rdg resp="APD">وأجلّ</rdg></app> 
+<lb n="3"/>  بقاك وأدام عزّك وجعلني فداك إلى <app type="BL"><lem resp="APD">الفلع </lem><rdg resp="Diem">الغلام</rdg></app> 
+<lb n="4"/>  بأن <app type="BL"><lem resp="APD">يدفع </lem><rdg resp="“EG”">تدفع</rdg></app> إلى أبي طاهر ثمن جلبّان وحوائج ابتعناها 
+<lb n="5"/>  منه لسيّدي الشّريف أدام اللّه عزّه ثلثة دنانير 
+<lb n="6"/>  ونصف وقيراطين من ثمن العسل المحمول 
+<lb n="7"/>  من عندنا إن شا اللّه 
+<lb n="8"/>  الحمد للّه وسلم على مختاره الّذي اصطفى 
+<lb n="9"/>  <app type="BL"><lem resp="APD">وحسبنا </lem><rdg resp="Diem">وحسبي</rdg></app> اللّه <unclear reason="undefined" cert="high">وحده</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>tataqaddamu yā sayyid ī wa šayḫ ī ******** wa ø man ø ʾaʿazzu ø ø wa ʾaǧallu ʾaṭāla ăl lāhu 
+ <lb n="3"/>baqāʾa ka wa ʾadāma ʿizza ka wa ǧaʿala nī fidāʾa ka ʾilà ăl falaʿi ġulāmi 
+ <lb n="4"/>bi ʾan tadfaʿa yadfaʿa ʾilà ʾabī ṭāhir:in ṯamana ǧulubbāna wa ḥawāʾiǧa ĭbtaʿnā hā 
+ <lb n="5"/>min hu li sayyid ī ăš šarīfi ʾadāma ăl lāhu ʿizza hu ṯalāṯaẗa danānīra 
+ <lb n="6"/>wa niṣf wa qīrāṭayni min ṯamani ăl ʿasali ăl maḥmūli 
+ <lb n="7"/>min ʿindi nā ʾin šāʾa ăl lāhu 
+ <lb n="8"/>ăl ḥamdu li l lāhi wa salām:un ʿalà muḫtāri hi ăllaḏī ĭṣṭafà 
+ <lb n="9"/>wa ḥasbu nā ī ăl lāhu waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Betake yourself, O my lord and master ........................... - may God prolong
+		Gib, o mein Herr und Scheich und (mir) Hochgeehrter und Hochverehrter - Gott lasse Dich lange
+			<lb n="3"/>
+		leben, gewähre Dir weiterhin Ansehen und mache mich zu Deinem Lösegeld -, dem Burschen (sc. dem Schreiber) Anweisung,
+		your life and may He cause your might to continue, and may He make me your ransom - to al-Falaʿ (?)
+			<lb n="4"/>
+		daß er Abū Ṭāhir den Preis von Platterbsen und (anderen) Dingen, die wir
+		that you may pay to Abû Ṭâhir the price for the chickling pea and the articles which we have bought
+			<lb n="5"/>
+		from him for my noble lord, whose might God cause to continue, three dînârs
+		von ihm für meinen edlen Herrn (sc. den Adressaten) - Gott gewähre ihm weiterhin Ansehen - gekauft haben, aushändigt, drei Dinar
+			<lb n="6"/>
+		and a half and two carats of the price for the honey, which was carried away
+		und einen halben (oder und ein halber) und zwei Karat als Preis des
+			<lb n="7"/>
+		aus unserem Bestand gelieferten Honigs, so Gott will.
+		from what we have, if God wills.
+			<lb n="8"/>
+		Praise be to God and safety to His elected, who has been chosen
+		Preis sei Gott! Er spende seinem Auserwählten, den er erkoren hat, Heil!
+			<lb n="9"/>
+		and my sufficiency is God alone (?) ...
+		Mein Genüge ist Gott allein!
+</ab></div>
+</body>
+</text>
+</TEI>

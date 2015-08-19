@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2304" xml:id="Diem_Heid_III_32" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 32</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_32</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="10" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـی ولا عندي من هذه القصّة خبر ولا واللّه 
+ <lb n="3"/>  وقفت عليها إلّا في وقتي هذ<supplied reason="omitted" cert="high">ا</supplied> وسيّدي وشيخي أدام اللّه 
+ <lb n="4"/>  عـ<sic n="superfluous">ـ</sic><gap reason="illegible" extent="1" unit="character" /><sic n="superfluous">ـ</sic>ـزّه يعلم أنّي لا آخذ لأحد شی ولا أدخل في محضور فكتـ<supplied reason="omitted" cert="high">ـبـ</supplied>ـت 
+ <lb n="5"/>  لمولاي الشّريف أدام اللّه عزّه وأنها وليد بن يحـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـا أسيرا 
+ <lb n="6"/>  يصل من الـ<gap reason="illegible" extent="1" unit="character" />ـد<gap reason="illegible" extent="1" unit="character" />ـی مع أن <app type="BL"><lem resp="APD">فورا </lem><rdg resp="APD">فودا</rdg></app> <app type="BL"><lem resp="APD">نمرّه </lem><rdg resp="APD">نصره</rdg></app> إلی د<supplied reason="omitted" cert="high">يـ</supplied>ـوان الأمير أدام 
+ <lb n="7"/>  <supplied reason="lost" cert="high">اللّه</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ه</supplied> </lem><rdg resp="APD">عزّه </rdg><rdg resp="APD">علوّه</rdg></app> <gap reason="illegible" precision="low" extent="3"/> إلی هذه الغاية ما 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> ا پهد<supplied reason="omitted" cert="high">ه</supplied> الپپپه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ********** *** 
+ <lb n="2"/>*** ** ** **By wa lā ʿind ī min hāḏihi ăl qiṣṣaẗi ḫabar:un wa lā wa ăl lāhi 
+ <lb n="3"/>waqaftu ʿalay hā ʾillā fī waqt ī hāḏā wa sayyid ī wa šayḫ ī ʾadāma ăl lāhu 
+ <lb n="4"/>ʿizza hu yaʿlamu ʾan nī lā ʾāḫuḏu li ʾaḥad:in šayʾ wa lā ʾadḫulu fī maḥḍūr:in fa katabtu 
+ <lb n="5"/>li mawlā ya ăš šarīfi ʾadāma ăl lāhu ʿizza hu wa ʾanhā walīdu bnu yaḥyā ʾasīr:an 
+ <lb n="6"/>yaṣilu mina ăl BdBy maʿa ʾanna fawr:an fwdʾ numirru nṣr hu hu ʾilà dīwāni ăl ʾamīri ʾadāma 
+ <lb n="7"/>ăl lāhu *** ***h ʿizza ʿuluwwa h ø hu hu *** ʾilà hāḏihi ăl ġāyaẗi mā 
+ <lb n="8"/>***ʾ bi hāḏihi ăl bayyinaẗi ăl ʿādilaẗi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  [...] und ich habe über diese Eingabe keine Nachricht (gehabt), und ich habe sie, bei Gott,
+		 <lb n="3"/>
+ 	  erst in diesem Augenblick eingesehen. Mein Herr und Scheich - Gott gewähre
+		 <lb n="4"/>
+ 	  ihm weiterhin Ansehen - weiß doch, daß ich niemand etwas wegnehme und auch nicht in eingefriedete Grundstücke eindringe. Ich habe deshalb
+		 <lb n="5"/>
+ 	  an meinen edlen Patron - Gott gewähre ihm weiterhin Ansehen - geschrieben. Walīd ibn Yaḥ&lt;y&gt;ā hat (mir) einen Gefangenen avisiert.
+		 <lb n="6"/>
+ 	  der von al-... eintreffen wird. Wir werden ihn sofort zum Dīwān des Emirs -
+		 <lb n="7"/>
+ 	  [Gott] gewähre [ihm] weiterhin [...] - hinbringen [...] bis jetzt nicht
+		 <lb n="8"/>
+ 	  [...] mit diesem rechtmäßigen Beweismittel
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

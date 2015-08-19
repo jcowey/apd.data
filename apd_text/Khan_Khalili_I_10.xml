@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1280" xml:id="Khan_Khalili_I_10" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 10 (= P.Khalili II 98)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_10</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169103</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـلّه الرّحمن الرّحيم 
+ <lb n="2"/>  براه <supplied reason="lost" cert="high">لـ</supplied>ـرضة بن يزيد من أحد وعشرين دينرا 
+ <lb n="3"/>  ونصف وثمن و<supplied reason="omitted" cert="high">نصف</supplied> سدس مثاقيل 
+ <lb n="4"/>  دفعها عنه <app type="BL"><lem resp="APD">فأبين </lem><rdg resp="Diem">فانيق</rdg></app> بعد دخوله 
+ <lb n="5"/>  إلى الفسطاط وهو ممّا عليه من خراج 
+ <lb n="6"/>  أرضه الّتي زرع <app type="BL"><lem resp="APD">مثمون </lem><rdg resp="Diem">ميمون</rdg></app> لها سنة 
+ <lb n="7"/>  <supplied reason="lost" cert="high">أربع</supplied> وتسعين ومائة وكتب 
+ <lb n="8"/>  <supplied reason="lost" cert="high">في</supplied> شهر رمضان من سنة أربع وتسعين 
+ <lb n="9"/>  <supplied reason="lost" cert="high">ومـ</supplied>ـائة 
+ <lb n="10"/>  καχηʹιβʹ دپپر مپڤال 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li riḍaẗa bni yazīda min ʾaḥad:in wa ʿišrīna dīnār:an 
+ <lb n="3"/>wa niṣf:in wa ṯumn:in wa niṣfi suds:in maṯāqīla 
+ <lb n="4"/>dafaʿa hā ʿan hu fa ʾubīna fānīqu baʿd duḫūli hi 
+ <lb n="5"/>ʾilà ăl fusṭāṭi wa huwa mimmā ʿalay hi min ḫarāǧi 
+ <lb n="6"/>ʾarḍi hi ăllatī zarʿ:un maṯmūn:un maymūn:un la hā sanaẗa 
+ <lb n="7"/>ʾarbaʿ:in wa tisʿīna wa miʾaẗ:in wa kutiba 
+ <lb n="8"/>fī šahri ramaḍāna min sanaẗi ʾarbaʿ:in wa tisʿīna 
+ <lb n="9"/>wa miʾaẗ:in 
+ <lb n="10"/>dīnār:un miṯqāl:un 21+1/2+1/8+1/12 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [In the name of God] the merciful and compassionate.
+		 <lb n="2"/>
+ 	  (This is) a quittance for Riḍa ibn Yazīd for twenty one dīnārs
+ 	  (This is) a quittance for Ridah ibn Yazid for 21 dīnārs
+		 <lb n="3"/>
+ 	  and a half and an eighth and half a sixth (i.e. a twelfth) of the mithqālī type
+ 	  and one half and one eighth and one half of one sixth (i.e. one twelfth) of the mithqālī type.
+		 <lb n="4"/>
+ 	  It ist confirmed that he paid them (and acquitted) himself (of it) after he entered
+ 	  It ist confirmed that he paid them (and acquitted) himself (of them) after he entered
+ 	  welche Fānīq für ihn bezahlt hat, nachdem er nach al-Fusṭāṭ gekommen war
+		 <lb n="5"/>
+ 	  al-Fusṭāṭ. This is what he owes of the ḵarāj tax on
+ 	  Fustat. This is what he owed as kharāj on
+		 <lb n="6"/>
+ 	  his land, as assessed in the year
+ 	  his land, the tax on the crops of which was fixed, in the year
+ 	  seines Landes, das eine vielversprechende Saat hat
+		 <lb n="7"/>
+ 	  19[4]. This was written
+ 	  one hundred and ninety [four]. It was written
+		 <lb n="8"/>
+ 	  in the month of Ramaḍān of the year one hundred and ninety
+ 	  in the month of Ramadan of the 194.
+		 <lb n="9"/>
+ 	  four.
+		 <lb n="10"/>
+ 	  21 1/2, 1/8, 1/12 miṯqālī dīnārs.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

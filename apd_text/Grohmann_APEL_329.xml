@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1820" xml:id="Grohmann_APEL_329" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 329</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_329</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169557</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يأبا بكر أطال اللّه بقاك وجعلني فداك 
+<lb n="3"/>  اكتب لمحمّد النّضيف بأن لمحمّد بن عبد اللّه 
+<lb n="4"/>  ثلثة دنانير معسولة بوزن سوا رزقا للنّقل 
+<lb n="5"/>  لثلثة أشهر واحتسب بها إن 
+<lb n="6"/>  شا اللّه 
+<lb n="7"/>  الحمد للّه وصلّى اللّه على <app type="BL"><lem resp="APD">سيّدنا </lem><rdg resp="Diem">سيّدي</rdg></app> محمّد النّبي 
+<lb n="8"/>  وآله <app type="BL"><lem resp="APD">الغر </lem><rdg resp="Diem">الطّيّبين</rdg></app> وسلّم <app type="BL"><lem resp="APD">تسليما </lem><rdg resp="Diem">كثيرا</rdg></app> حسبنا اللّه وحده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā ʾabā bakr:in ʾaṭāla ăl lāhu baqāʾa ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="3"/>ŭktub li muḥammad:ini ăn naḍīfi bi ʾanna li muḥammadi bni ʿabdi ăl lāhi 
+ <lb n="4"/>ṯalāṯaẗu danānīra maʿsūlaẗ:un bi wazn:in sawāʾ:in rizq:an li n naqli 
+ <lb n="5"/>li ṯalāṯaẗi ʾašhur:in wa ĭḥtasib bi hā ʾin 
+ <lb n="6"/>šāʾa ăl lāhu 
+ <lb n="7"/>ăl ḥamdu li l lāhi wa ṣallà ăl lāhu ʿalà sayyidi nā ī muḥammad:ini ăn nabiyyi 
+ <lb n="8"/>wa ʾāli hi ăl ăṭ ġurri ṭayyibīna wa sallama taslīm:an kaṯīr:an ḥasbu nā ăl lāhu waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		O Abû Bakr - may God prolong your life and make me your ransom -
+			<lb n="3"/>
+		write to Muḥammad, the pure, that to the credit of Muḥammad b. ʿAbdallâh
+			<lb n="4"/>
+		are three dînârs, correctly counted out, of equal weight, as allowance for transport (copying)
+			<lb n="5"/>
+		for three months, and put it to the account, if
+			<lb n="6"/>
+		God wills.
+			<lb n="7"/>
+		Praise be to God, and may the blessing of God be upon our lord Muḥammad, the Prophet,
+			<lb n="8"/>
+		and upon his family, the nobles, and may He give him peace. Our sufficiency is God alone.
+</ab></div>
+</body>
+</text>
+</TEI>

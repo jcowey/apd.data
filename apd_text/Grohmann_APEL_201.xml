@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1674" xml:id="Grohmann_APEL_201" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 201</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_201</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169424</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـابو هرميس شنـ<supplied reason="lost" cert="high">ـو</supplied>ده يحنّس 
+<lb n="2"/>  بولس أبا برمود<supplied reason="lost" cert="high">ه</supplied> بهـ<supplied reason="lost" cert="high">ـيو</supplied>ه بداود 
+<lb n="3"/>  أسيم <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپوه تو<supplied reason="lost" cert="high">نـ</supplied>ـه بتوك 
+<lb n="4"/>  ببنوده أبلّوا أ<supplied reason="lost" cert="high">بر</supplied>هم هرميس 
+<lb n="5"/>  ثيدر أبنيله <gap reason="illegible" precision="low" extent="3"/>س ببنوت 
+<lb n="6"/>  يعقو<supplied reason="lost" cert="high">ب</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>ف</rdg></app> بـ<supplied reason="lost" cert="high">ـقـ</supplied>ـطر ها<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  بجوش ثيدر <supplied reason="lost" cert="high">بسـ</supplied>ـنده أ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  أبو <gap reason="illegible" extent="6" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـرقس رمياس 
+<lb n="9"/>  ساره <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">أبيوس</unclear> </lem><rdg resp="APD">أبيوس</rdg></app> <gap reason="illegible" precision="low" extent="3"/>ك بناريه 
+<lb n="10"/>  قزمان أبا قير <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـينا رفنه 
+<lb n="11"/>  أبيمك أبا يحنّس <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="12"/>  قلته أبهور <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا <unclear reason="undefined" cert="high">بقطر</unclear> 
+<lb n="13"/>  شنوده بجو<supplied reason="lost" cert="high">ش</supplied> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/>س 
+<lb n="14"/>  هرميس القس <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ـپه 
+<lb n="15"/>  أببوله <app type="BL"><lem resp="APD">أنوب </lem><rdg resp="APD">أنوب</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  بجوش قلته <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">رپـ<gap reason="illegible" extent="1" unit="character" /></rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="17"/>  دنيل ببا يحنّس <gap reason="illegible" extent="5" unit="character" />ق پحودر أبلّو 
+<lb n="18"/>  هلڤره أمون <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> أقيس 
+<lb n="19"/>  ببا جريج بلوتس پرمك 
+<lb n="20"/>  مسمر مينا <gap reason="illegible" precision="low" extent="3"/> أبقيره شنوده 
+<lb n="21"/>  پراوپوه يحنّس <supplied reason="lost" cert="high">بتـ</supplied>ـوك مرقس 
+<lb n="22"/>  ببا أبيمك أيّوب بتوك فيلون 
+<lb n="23"/>  <supplied reason="lost" cert="high">جـ</supplied>ـريج <unclear reason="undefined" cert="high">هلريه</unclear> <supplied reason="lost" cert="high">هــ</supplied>ـرميس <supplied reason="lost" cert="high">بـ</supplied>ـبا إصطفن 
+<lb n="24"/>  <del rend="erasure" status="unremarkable">پپدر</del> <del rend="erasure" status="unremarkable">پمو</del>ن ساره 
+<lb n="25"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">پطپ</unclear> </lem><rdg resp="APD">پطس </rdg><rdg resp="APD">بطرس</rdg></app> ونافر هليه حانه <gap reason="illegible" precision="low" extent="3"/> حلّوته 
+<lb n="26"/>  پمر<gap reason="illegible" extent="2" unit="character" />ـ بقطر يحنّس <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*ʾbw hurmīs šanūdah yuḥannis 
+ <lb n="2"/>būlus ʾabā barmūdah bihyūh badāwūd 
+ <lb n="3"/>ʾasīm *Būh tūnah batūk 
+ <lb n="4"/>babnūdah ʾabullū ʾabraham hurmīs 
+ <lb n="5"/>ṯiyudur ʾabanīlah ***s babnūt 
+ <lb n="6"/>yaʿqūb **** ***f buqṭur hʾ*** 
+ <lb n="7"/>baǧūš ṯiyudur basindah ʾa*** 
+ <lb n="8"/>ʾabū ****** murqus ramiyās 
+ <lb n="9"/>sārah ʾababūs ʾabayūs ***k banāriyah 
+ <lb n="10"/>quzmān ʾabā qīr ** mīnā rufinah 
+ <lb n="11"/>ʾabīmak ʾabā yuḥannis * ******** 
+ <lb n="12"/>qultah ʾabahūr *** ***ʾ buqṭur 
+ <lb n="13"/>šanūdah baǧūš ***** ***s 
+ <lb n="14"/>hurmīs ăl qiss *** ***Bh ***yah 
+ <lb n="15"/>ʾababūlah ʾanūb ʾayyūb *** *** 
+ <lb n="16"/>baǧūš qultah *** rB* *** ***** 
+ <lb n="17"/>daniyal babā yuḥannis *****q Bḥwdr ʾabullū 
+ <lb n="18"/>hlfrah ʾamūn *** **** ʾaqyus 
+ <lb n="19"/>babā ǧurayǧ balūtas Brmak 
+ <lb n="20"/>msmr mīnā *** ʾabaqīrah šanūdah 
+ <lb n="21"/>BrʾwBwh yuḥannis batūk murqus 
+ <lb n="22"/>babā ʾabīmak ʾayyūb batūk fīlūn 
+ <lb n="23"/>ǧurayǧ hilariyah hurmīs babā ʾiṣṭafan 
+ <lb n="24"/>sārah h*fs 
+ <lb n="25"/>BṭB Bṭs buṭrus wināfir hiliyah ḥānah *** ḥallūtah 
+ <lb n="26"/>Bmr** buqṭur yuḥannis * 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...]...... Jeremiah (Hormîs) Šan[û]da [Yo]ḥannes
+			<lb n="2"/>
+		Paul (Bûlus) Apa Barmûde Pih[eu] Pa-Dâwid
+			<lb n="3"/>
+		Asîm [...]...ûh Tô[n]e Petuch (Batûk)
+			<lb n="4"/>
+		Papnute Apollo [Abra]ham Hormîs
+			<lb n="5"/>
+		Theodor Apanîle [...]s Papnut(ios Babnût)
+			<lb n="6"/>
+		Jaco[b] ......... Bo[q]ṭor Hâ......
+			<lb n="7"/>
+		Peǧôš Theodor [Pise]nte ([Bas]inde) A......
+			<lb n="8"/>
+		Abû ............ [Ma]rc ([Mo]rqos) Jeremiah (Remiyâs)
+			<lb n="9"/>
+		Sâra Ababûs (?) [......]k Panarie (Banâriya)
+			<lb n="10"/>
+		Quzmân Abâ Qîr [.. M]înâ Rufine
+			<lb n="11"/>
+		Ebîmak Abâ Yoḥannes [...] ...............
+			<lb n="12"/>
+		Qolte Apa Hôr [...]â Boqṭor
+			<lb n="13"/>
+		Šanûda Peǧôš [...] ............s
+			<lb n="14"/>
+		Hormîs, the priest [...] ......ya
+			<lb n="15"/>
+		Apa Bûle Job (Ayûb) [...]...
+			<lb n="16"/>
+		Peǧôš Qolte ...... [...]............
+			<lb n="17"/>
+		Daniel Abâ Yoḥannes [...]...q ......... Apollo
+			<lb n="18"/>
+		Hlfre Amûn [...] ...... Akkios (Aqyos)
+			<lb n="19"/>
+		Babâ Ǧuraiǧ Pilotes [...] ...rmak
+			<lb n="20"/>
+		............... Mînâ [...]... Abaqîre Šanûda
+			<lb n="21"/>
+		......... Yoḥannes [.. Pet]uch Morqos
+			<lb n="22"/>
+		Babâ Ebîmak Job [...] Petuch Philon (Fîlôn)
+			<lb n="23"/>
+		[Ǧu]raiǧ Hilariya (?) [.. Ho]rmîs [Ba]bâ Stephen (Iṣṭafan)
+			<lb n="24"/>
+		〚Theodor Pamû〛n [...] Sâra H [...].........
+			<lb n="25"/>
+		...... Wenâfer Helia Ḥâne[...] ...... Hellôte
+			<lb n="26"/>
+		......... Boqṭor Yoḥannes
+</ab></div>
+</body>
+</text>
+</TEI>

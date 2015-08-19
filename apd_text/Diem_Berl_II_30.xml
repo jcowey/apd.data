@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1511" xml:id="Diem_Berl_II_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169283</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">جعـ</supplied>ـلت فداك وأطال اللّه بقا<supplied reason="lost" cert="high">ك</supplied> 
+<lb n="3"/>  وأعزّك وأكرمك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">وصلت</supplied> رقعتك جعلت فداك 
+<lb n="6"/>  <supplied reason="lost" cert="high">وا</supplied>لرّسول مقيم وهو نازل عند 
+<lb n="7"/>  صاحب الخـ<supplied reason="lost" cert="high">ـيـ</supplied>ـل وإنّما قدم في 
+<lb n="8"/>  أبي معوية أطال اللّه بقاه ومعه 
+<lb n="9"/>  كتاب ومنشور ولم <app type="BL"><lem resp="APD">يوصّل </lem><rdg resp="APD">يوصل</rdg></app> 
+<lb n="10"/>  الكتاب إلى هذه الغاية وقد 
+<lb n="11"/>  حرصت أن أقرأ منشوره فلم 
+<lb n="12"/>  <app type="BL"><lem resp="APD">يظـ<supplied reason="lost" cert="high">ـهـ</supplied>ـر<supplied reason="lost" cert="high">ه</supplied> </lem><rdg resp="APD">يظهره</rdg></app> لي وإذا قرأته كتبت 
+<lb n="13"/>  إليك بنسخته وقد كان أبو 
+<lb n="14"/>  الفضل أعزّه <supplied reason="lost" cert="high">اللّـ</supplied>ـه وجّهني البار 
+<lb n="15"/>  <supplied reason="lost" cert="high">حه</supplied> <supplied reason="lost" cert="high">ألـ</supplied>ـى <supplied reason="lost" cert="high">اپـ</supplied>ـى معوپه اكرمه الله 
+<lb n="16"/>  <supplied reason="lost" cert="high">قد</supplied>وم الرّسول فصرت إليه 
+<lb n="17"/>  <supplied reason="lost" cert="high">فكا</supplied>ن في منزل أبي توبة فأخبرته 
+<lb n="18"/>  <supplied reason="lost" cert="high">بالـ</supplied>ـخبر وليس <gap reason="illegible" extent="1" unit="character" />ـلو<gap reason="illegible" precision="low" extent="3"/> فلمّا <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="19"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> وأنا كاتب 
+<lb n="20"/>  <supplied reason="lost" cert="high">إليك</supplied> يأخي بما يكون من خبره 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="16" unit="character" /> فما <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="22"/>  <gap reason="illegible" extent="18" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إليك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">منشوره</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="23"/>  <gap reason="illegible" extent="1" unit="character" />ما <gap reason="illegible" extent="19" unit="character" /> <gap reason="illegible" precision="low" extent="3"/>ـا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="24"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">على</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أبي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">محمّد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">السّلم</rdg></app> 
+<lb n="upper margin"/>  لأبي عبد اللّه أعزّه <supplied reason="lost" cert="high">اللّه</supplied> وأكرمه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="3"/>wa ʾaʿazza ka wa ʾakrama ka *** 
+ <lb n="4"/>*** 
+ <lb n="5"/>waṣalat ruqʿatu ka ǧuʿiltu fidāʾa ka 
+ <lb n="6"/>wa ăr rasūlu muqīm:un wa huwa nāzil:un ʿinda 
+ <lb n="7"/>ṣāḥibi ăl ḫayli wa ʾinnamā qadima fī 
+ <lb n="8"/>ʾabī muʿāwiyaẗa ʾaṭāla ăl lāhu baqāʾa hu wa maʿa hu 
+ <lb n="9"/>kitāb:un wa manšūr:un wa lam yūṣil yuwaṣṣil 
+ <lb n="10"/>ăl kitāba ʾilà hāḏihi ăl ġāyaẗi wa qad 
+ <lb n="11"/>ḥaraṣtu ʾan ʾaqraʾa manšūra hu fa lam 
+ <lb n="12"/>yuẓahhir yuẓhir hu l ī wa ʾiḏā qaraʾtu hu katabtu 
+ <lb n="13"/>ʾilay ka bi nusḫati hi wa qad kāna ʾabū 
+ <lb n="14"/>ăl faḍli ʾaʿazza hu ăl lāhu waǧǧaha nī ăl bāriḥaẗa 
+ <lb n="15"/>ʾilà ʾabī muʿāwiyaẗa ʾakrama hu ăl lāhu bi ḫabari 
+ <lb n="16"/>qudūmi ăr rasūli fa ṣirtu ʾilay hi 
+ <lb n="17"/>fa kāna fī manzili ʾabī tawbaẗa fa ʾaḫbartu hu 
+ <lb n="18"/>bi ăl ḫabari wa laysa *lw*** fa lammā **** 
+ <lb n="19"/>*** ******** wa ʾanā kātib:un 
+ <lb n="20"/>ʾilay ka yā ʾaḫ ī bi mā yakūnu min ḫabari hi 
+ <lb n="21"/>*** **************** fa fmʾ mā ø **** 
+ <lb n="22"/>******************* *** ʾilay ø ka *** *** manšūr manšūri ø hi hu *** 
+ <lb n="23"/>*mʾ ******************* ***ʾ*** 
+ <lb n="24"/>*** ʿalà *** ʾabī *** muḥammad:ini ***** ăs ø salāmu 
+ <lb n="25"/>li ʾabī ʿabdi ăl lāhi ʾaʿazza hu ăl lāhu wa ʾakrama hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Würde ich doch als Dein Lösegeld [gege]ben, und möge Gott [Dir] gewähren langes Leben,
+			<lb n="3"/>
+		Dich stärken und ehren [- - -]
+			<lb n="4"/>
+			<lb n="5"/>
+		Dein Schreiben [ist angekommen] - möge ich zu Deinem Lösegeld gemacht werden -,
+			<lb n="6"/>
+		[während] sich der Abgesandte (hier) aufhält; er ist beim
+			<lb n="7"/>
+		Befehlshaber der Reiterei abgestiegen. Er ist speziell wegen
+			<lb n="8"/>
+		Abū Muʿāwiyah - Gott lasse ihn lange leben - gekommen; er hat
+			<lb n="9"/>
+		einen Brief und einen manšūr dabei, aber er hat
+			<lb n="10"/>
+		den Brief bis zum jetzigen Zeitpunkt noch nicht abgeliefert.
+			<lb n="11"/>
+		Mir lag sehr daran, seinen manšūr zu lesen, aber
+			<lb n="12"/>
+		er hat mir in [ihn] keinen Einblick gewährt. Sobald ich ihn lese, teile ich
+			<lb n="13"/>
+		Dir seinen Wortlaut mit. Abū
+			<lb n="14"/>
+		l-Faḍl - Gott stärke ihn - hat mich ge-
+			<lb n="15"/>
+		[stern z]u [Ab]ū Muʿāwiyah - Gott ehre ihn - gesandt, um (ihm)
+			<lb n="16"/>
+		die [Ank]unft des Abgesandten mitzuteilen (?). Als ich zu ihm hinkam,
+			<lb n="17"/>
+		war er im Haus von Abū Tawbah. Ich teilte ihm
+			<lb n="18"/>
+		[die] Neuigkeiten mit, und es ist nicht - - -. Aber als [- - -]
+			<lb n="19"/>
+		- - -. Ich werde
+			<lb n="20"/>
+		[Dir], o Bruder, mitteilen, was sich hierbei Neues ergibt
+			<lb n="21"/>
+			<lb n="22"/>
+			<lb n="23"/>
+			<lb n="24"/>
+			<lb n="25"/>
+		An Abū ʿAbdallāh  - [Gott] stärke und ehre ihn!
+</ab></div>
+</body>
+</text>
+</TEI>

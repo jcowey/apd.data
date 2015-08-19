@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1658" xml:id="Grohmann_APEL_189" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 189</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_189</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169409</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أدّى يحنّس بن أتناس وسلهوه بن يحنّس 
+<lb n="3"/>  عمّا يلزمهما من الخراج عمّا زرعا على <unclear reason="undefined" cert="high">مروان</unclear> 
+<lb n="4"/>  بن أحمد بسپوا دينارين وثلثي وثمن دينر 
+<lb n="5"/>  مثاقيل بلا صرف ولا أجرة إلى أبهيوه 
+<lb n="6"/>  بن ماعه ومنا بن شنوده الجهبذين بحضـ<supplied reason="lost" cert="high">ـرة</supplied> 
+<lb n="7"/>  خليفة علي بن الحسن عامل أبي النّجم 
+<lb n="8"/>  أيّده اللّه لخراج سنة سبع وثمنين وماتين 
+<lb n="9"/>  وكتب مينا بن شنوده بخطّه 
+<lb n="seal 1"/>  باللّه يثق 
+<lb n="seal 2"/>  مينا بن شنوده 
+<lb n="12"/>  دينر 
+<lb n="13"/>  ‮‪βΧηʹ‬ بلا صرف ولا أجرة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaddà yuḥannisu bnu ʾatanāsa wa silahwahu bnu yuḥannisa 
+ <lb n="3"/>ʿammā yalzamu humā mina ăl ḫarāǧi ʿammā zaraʿā ʿalà marwāna 
+ <lb n="4"/>bni ʾaḥmada bi sBwʾ dīnārayni wa ṯulṯay wa ṯumna dīnār:in 
+ <lb n="5"/>maṯāqīla bi lā ṣarf:in wa lā ʾaǧraẗ:in ʾilà ʾabahiyūha 
+ <lb n="6"/>bni māʿaha wa minā bni šanūdaha ăl ǧahbaḏayni bi ḥaḍraẗi 
+ <lb n="7"/>ḫalīfaẗi ʿaliyyi bni ăl ḥasani ʿāmili ʾabī ăn naǧmi 
+ <lb n="8"/>ʾayyada hu ăl lāhu li ḫarāǧi sanaẗi sabʿ:in wa ṯamānīna wa mitayni 
+ <lb n="9"/>wa kataba mīnā bnu šanūdaha bi ḫaṭṭi hi 
+ <lb n="10"/>bi ăl lāhi yaṯiqu 
+ <lb n="11"/>mīnā bnu šanūdaha 
+ <lb n="12"/>dīnār 
+ <lb n="13"/>‮‪2 2/3+1/8 bi lā ṣarf:in wa lā ʾaǧraẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In] the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Yoḥannes b. Atanâs and Silaheu b. Yoḥanne[s] have paid
+			<lb n="3"/>
+		on account of that which was due from them for the land-tax for what they have sown on behalf of Marwân (?)
+			<lb n="4"/>
+		b. Aḥmad in S...... two dînârs and two thirds and an eighth of a dînâr
+			<lb n="5"/>
+		miṯqâlî without any discount or compensation to Apaheu
+			<lb n="6"/>
+		b. Mâʿa and Minâ b. Šanûda, the two paymasters, in the presen[ce] of
+			<lb n="7"/>
+		the deputy of ʿAlî b. al-Ḥasan, the administrator of Abu ʾn-Naǧm
+			<lb n="8"/>
+		- may God strengthen him - for the impost of the year two hundred and eighty-seven.
+			<lb n="9"/>
+		And Mînâ b. Šanûda has written (it) in his (own) handwriting.
+			<lb n="10"/>
+		In God trusts
+			<lb n="11"/>
+		Mînâ b. Šanûda
+			<lb n="12"/>
+		Dînâr
+			<lb n="13"/>
+		2 1/3+1/8 without discount or compensation.
+</ab></div>
+</body>
+</text>
+</TEI>

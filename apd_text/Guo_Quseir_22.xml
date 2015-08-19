@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="878" xml:id="Guo_Quseir_22" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 22</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_22</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113643</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <app type="BL"><lem resp="APD"><expan><ex>بسم</ex></expan> </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">ولى</rdg></app> <app type="BL"><lem resp="APD"><expan><ex>اللّه</ex></expan> </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">ø</rdg></app> <app type="BL"><lem resp="APD"><expan><ex>الرّحمن</ex></expan> </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">ø</rdg></app> <app type="BL"><lem resp="APD"><expan><ex>الرّحيم</ex></expan> </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">ø</rdg></app> مملوكه أبو عثمان 
+<lb n="recto 2"/>  <sic n="superfluous">پسم</sic> <sic n="superfluous">الله</sic> <sic n="superfluous">الرحمن</sic> <sic n="superfluous">الرحپم</sic> 
+<lb n="recto 3"/>  <app type="BL"><lem resp="APD">يحيّي </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">يخدم</rdg></app> حضرة الشّيخ الأجل الموفّق السّعيد الموقّر 
+<lb n="recto 4"/>  أبو إسحاق <app type="BL"><lem resp="APD">إبراهپم </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">إبراهيم</rdg></app> سلّمه <app type="BL"><lem resp="APD">تعال </lem><rdg resp="AK">تعالى</rdg></app> وتولّاه 
+<lb n="recto 5"/>  <app type="BL"><lem resp="APD">ساعـ<supplied reason="lost" cert="high">ـت</supplied> </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">ساعة</rdg></app> وقوفك علي هذه الأحرف 
+<lb n="recto 6"/>  تبيع الفخّار الّذي عندك بما طعّم اللّه 
+<lb n="recto 7"/>  <app type="BL"><lem resp="APD">تعال </lem><rdg resp="“Diem, P.QuseirArab. p. 167; AK”">تعالى</rdg></app> ورزق وتسلّم الثّمن إلي يد الشّيخ 
+<lb n="recto 8"/>  عبد المحسن <app type="BL"><lem resp="APD">ليثمّر </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">يستثمر </rdg><rdg resp="AK">يستعين</rdg></app> بها علي <app type="BL"><lem resp="final qāf with two dots above">السّو<supplied reason="lost" cert="high">ق</supplied> </lem><rdg resp="AK">السّوء</rdg></app> 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  تفضّل <app type="BL"><lem resp="APD">بيك </lem><rdg resp="Diem, P.QuseirArab. p. 167; AK">منك</rdg></app> وإحسان كما جرت 
+<lb n="recto 11"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">به</rdg></app> <app type="BL"><lem resp="APD">حمپع </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">ـ<gap reason="illegible" precision="low" extent="3"/>ـتك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> اصحاپ 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> على المولا معرم حصر الكل الى 
+<lb n="recto right margin 1-3"/>  الحمد للّه <supplied reason="omitted" cert="high">و</supplied>حده <app type="BL"><lem resp="APD">وعل </lem><rdg resp="final yāʾ with one dot below “AK”">علي</rdg></app> صغارك وكـ<supplied reason="lost" cert="high">ـبار</supplied>ك السّلام <app type="BL"><lem resp="APD">بركاته </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">وبركاته</rdg></app> <app type="BL"><lem resp="APD">عل </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">وعلى </rdg><rdg resp="“AK”">وعلي</rdg></app> الوالدة العزيز<supplied reason="lost" cert="high">ة</supplied> 
+<lb n="recto right margin 4-5"/>  <supplied reason="lost" cert="high">ورحـ</supplied>ـماپه عل <app type="BL"><lem resp="APD">الحلاله </lem><rdg resp="“AK”">علي</rdg></app> حمد لله مملوكه پپارك الله پعال السلام 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi wly smi ø ăl ø lāhi ø ăr ø raḥmāni ø ăr ø raḥīmi ø mamlūku hu ʾabū ʿuṯmāna 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>yuḥayyī yaḫdimu ḥaḍraẗa ăš šayḫi ăl ʾaǧalli ăl muwaffaqi ăs saʿīdi ăl muwaqqari 
+ <lb n="4"/>ʾabū ʾisḥāqa ʾibrāhīma sallama hu taʿāla wa tawallā hu 
+ <lb n="5"/>sāʿata sāʿaẗa wuqūfi ka ʿalà hāḏihi ăl ʾaḥrufi 
+ <lb n="6"/>tabīʿi tabīʿu ăl faḫḫāra ăllaḏī ʿinda ka bi mā ṭaʿʿama ăl lāhu 
+ <lb n="7"/>taʿāla wa razaqa wa tusallimi ăṯ ṯamana ʾilà yadi ăš šayḫi 
+ <lb n="8"/>ʿabdi ăl muḥsini li yuṯammira yastaṯmiru yastaʿīnu bi hā ʿalà ăs ăs sūqi sūʾi 
+ <lb n="9"/>*** 
+ <lb n="10"/>ø tafaḍḍul bī min ka wa ʾiḥsān kamā ǧarat 
+ <lb n="11"/>ø bi ø hi *** ***tu *** ka ǧamīʿ *** ʾaṣḥāb 
+ <lb n="12"/>*** ʿalà ăl mawlā maġram:un ḥaḍara ăl kullu ʾilà 
+ <lb n="13"/>ăl ḥamdu li l lāhi waḥda hu wa ʿala ṣiġāri ka wa kibāri ka ăs salāmu ø wa barakātu hu ø wa ʿala ʿalà ăl wālidaẗi ăl ʿazīzaẗi 
+ <lb n="14"/>wa raḥmātu hu ʿala ăl ǧalālaẗi ḥamd:un li l lāhi mamlūku hu tabāraka ăl lāhu taʿāla ăs salāmu 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. His servant Abū ʿUṯmān
+			<lb n="3"/>
+		greets the most noble, successful, auspicious, and revered Shaykh
+			<lb n="4"/>
+		Abū Isḥāq Ibrāhīm - may [God] Almighty give him peace and secure him
+			<lb n="5"/>
+		... in dem Augenblick, da Du diese Zeilen (Buchstaben oder Wörtchen) liest
+		prosperity! Upon receiving this letter,
+			<lb n="6"/>
+		sell the pottery at your disposal - as God
+		verkaufe ... für den Preis, den Gott, 
+			<lb n="7"/>
+		Almighty has fed and provided! - and give the payment to Shaykh
+		der Erhabene, (eben) als Nahrung und Lebensunterhalt gibt
+			<lb n="8"/>
+		ʿAbd al-Muḥsin so he may invest the money in the marked (?).
+			<lb n="9"/>
+			<lb n="10"/>
+		[by] your grace and benevolence. It so happened that
+		... wie es Deiner
+			<lb n="11"/>
+		[.....] all the [.......] owners of [...]
+		... entspricht ...
+			<lb n="12"/>
+		.....] a liability was [brought on] against [you,] the Master. All have come to [......].
+			<lb n="13"/>
+		Praise to be God alone! Peace be upon your children and elders. God&#039;s blessing on the dear mother. 
+			<lb n="14"/>
+		God&#039;s mercy on [your] majesty. Praise be to God alone. [From] His servant. God bless. Greetings.
+</ab></div>
+</body>
+</text>
+</TEI>

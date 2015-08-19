@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="726" xml:id="Raghib_March_3_44" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 44</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_44</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106807</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أكرمك اللّه بطاعته وهباك كرامته وصل إلي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3 right margin"/>  وقد وجّهـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">إليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4 right margin"/>  بثمن أربعـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5 right margin"/>  أحد <supplied reason="omitted" cert="high">و</supplied>عشرين <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6 top"/>  من العشرة فاكتب ما <supplied reason="lost" cert="high">رأ</supplied>يك وأ<supplied reason="lost" cert="high">نـ</supplied>ـا علـ<supplied reason="lost" cert="high">ـى</supplied> بيعهـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top upside down 1 right"/>  لأبي علي أكرمه اللّه بطاعته 
+<lb n="top upside down 2 right"/>  حسن بن أحمد بن عبد المومن 
+<lb n="top upside down 1 left"/>  من محمّد بن عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu waṣala ʾilay ya *** 
+ <lb n="3"/>wa qad waǧǧahtu ʾilay ka *** 
+ <lb n="4"/>bi ṯamani ʾarbaʿaẗ *** 
+ <lb n="5"/>ʾaḥad wa ʿišrīna *** 
+ <lb n="6"/>mina ăl ʿašaraẗi fa ŭktub mā raʾyu ka wa ʾanā ʿalà bayʿi hā *** 
+ <lb n="7"/>li ʾabī ʿaliyy:in ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="8"/>ḥasani bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="9"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et t&#039;accorde Sa manganimité! Il m&#039;est parvenu [
+			<lb n="3"/>
+		Je [t]&#039;ai adressé [
+			<lb n="4"/>
+		le prix de quatre [
+			<lb n="5"/>
+		vingt-et-un [
+			<lb n="6"/>
+		des dix. Écris quelle est ton opinion. Je suis sur le point de les vendre [
+			<lb n="7"/>
+		À Abū ʿAlī - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+			<lb n="8"/>
+		Ḥasan b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="9"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr. 
+</ab></div>
+</body>
+</text>
+</TEI>

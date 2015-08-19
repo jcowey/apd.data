@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="709" xml:id="Grohmann_EBU_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106790</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم الحمد للّه حق حمده 
+<lb n="2"/>  <app type="BL"><lem resp="APD">ارفع </lem><rdg resp="Diem">ادفع</rdg></app> إلى الدّيوان يا عبد مولانا عليه السّلم جولي 
+<lb n="3"/>  بانوب ليودى ما عليه من <app type="BL"><lem resp="APD">الـ<unclear reason="undefined" cert="high">ـڤپم</unclear> </lem><rdg resp="Diem">الڤپم</rdg></app> والبرك إن شا اللّه 
+<lb n="4"/>  وكتب يوم الجمعة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăl ḥamdu li l lāhi ḥaqqa ḥamdi hi 
+ <lb n="2"/>ĭrfaʿ ĭdfaʿ ʾilà ăd dīwāni yā ʿabda mawlā nā ʿalay hi ăs salāmu ǧawliyya 
+ <lb n="3"/>bānūba li yuʾaddiya mā ʿalay hi mina ăl Fym qaṯmi wa ăl biraki birki ʾin šāʾa ăl lāhu 
+ <lb n="4"/>wa kutiba yawma ăl ǧumʿaẗi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen! Lob sei Gott, sein schönstes Lob!
+			<lb n="2"/>
+		Führe dem Finanzamte (Dīwān), o Sklave unseres Herrn, Friede sei mit ihm, den Ǧōle (Ǧōlī)
+			<lb n="3"/>
+		Panub (Bānūb) vor, damit er bezahle, was er von (den Einnahmen aus) al-Qaṯm (?) und al-Birk schuldet, so Gott will.
+			<lb n="4"/>
+		Und man schrieb (es) am Freitag.
+</ab></div>
+</body>
+</text>
+</TEI>

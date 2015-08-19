@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1145" xml:id="Grohmann_APEL_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 012</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168996</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> اللّه وحده لا شريك له 
+<lb n="5"/>  <supplied reason="lost" cert="high">لم</supplied> <supplied reason="lost" cert="high">يلد</supplied> <supplied reason="lost" cert="high">ولم</supplied> <supplied reason="lost" cert="high">يولد</supplied> ولم يكن له كفوا أحد 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">رسول</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أرسله</supplied> بالهدى ودين الحق 
+<lb n="9"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الوليد</supplied> أمير المومپپن 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ممّا</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">الأمير</supplied> عبد اللّه بن عبد الملك 
+<lb n="13"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سنة</supplied> ستّة وثمنين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="5"/>lam yalid wa lam yūlad wa lam yakun la hu kufuʾ:an ʾaḥad:un 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+ <lb n="8"/>muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="9"/>ʿabdu ăl lāhi ăl walīdu ʾamīru ăl muʾminīna 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>hāḏā mimmā ʾamara bi hi ăl ʾamīru ʿabdu ăl lāhi bnu ʿabdi ăl maliki 
+ <lb n="13"/>fī sanaẗi sittaẗ:in wa ṯamānīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God], the Compassionate, the Merciful.
+			<lb n="4"/>
+		[There is no god but] God alone, He has no associate;
+			<lb n="5"/>
+		[He has not begotten, neither was He begotten] and He has none that is like unto Him.
+			<lb n="8"/>
+		[Muḥammad is the Messenger of God, He has sent him] with guidance and true religion.
+			<lb n="9"/>
+		[The servant of God al-Walîd,] Commander of the faithful.
+			<lb n="12"/>
+		[This belongs to that which was decreed by the Amîr] ʿAbdallâh b. ʿAbd al-Malik
+			<lb n="13"/>
+		[in the year] eighty six.
+</ab></div>
+</body>
+</text>
+</TEI>

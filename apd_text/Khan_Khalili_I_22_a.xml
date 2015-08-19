@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1513" xml:id="Khan_Khalili_I_22_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 22 (= P.Khalili II 58)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_22_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169284</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤدپپـ</supplied>ـك </lem><rdg resp="Diem">يا</rdg></app> <app type="BL"><lem resp="APD">اطال </lem><rdg resp="Diem">أبا</rdg></app> <app type="BL"><lem resp="APD">الله </lem><rdg resp="Diem">بكر</rdg></app> پڤأك پدڤع الى حسن إلڤراس ما ڤپلك 
+<lb n="3"/>  من الثّياب <app type="BL"><lem resp="APD">للزّبون </lem><rdg resp="Diem">البزيون</rdg></app> وهي أربعة وخرقة 
+<lb n="4"/>  لترد على صاحبها إن شا اللّه <app type="BL"><lem resp="APD">وإنّك </lem><rdg resp="APD">فإنّك</rdg></app> غد تدفع إلى صاحب 
+<lb n="5"/>  الثّوب الّذي <app type="BL"><lem resp="APD">بلّغك </lem><rdg resp="Diem">بلغك</rdg></app> ثمنه إن شا اللّه 
+<lb n="6"/>  حسبنا اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ø yā ø ʾabā fadaytu bakr:in ka ø ʾaṭāla ăl lāhu baqāʾa ka tadfaʿ ʾilà ḥasan:ini ăl farrāši mā qibala ka 
+ <lb n="3"/>mina ăṯ ṯiyābi li z ăl zabūni buzyūni wa hiya ʾarbaʿaẗ:un wa ḫirqaẗ:un 
+ <lb n="4"/>li turadda ʿalà ṣāḥibi hā ʾin šāʾa ăl lāhu wa fa ʾinna ka ġad tadfaʿ ʾilà ṣāḥibi 
+ <lb n="5"/>ăṯ ṯawbi ăllaḏī balaġa ballaġa ka ṯamana hu ʾin šāʾa ăl lāhu 
+ <lb n="6"/>ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+			<lb n="2"/>
+		... die bei Dir befindlichen
+		[May I be made your ransom,] God prolong your life. Give to Ḥasan the attendant the cloth you owe
+		May I be made your ransom - May God prolong your life! Give to Hasan the attendant the cloth you owe
+			<lb n="3"/>
+		Brokatkleider...
+		to the costumer, that is four (lengths) and a small piece,
+			<lb n="4"/>
+		so that they may be returned to their owner, God willing. Tomorrow deliver (it) to the owner of
+		so that they may be returned to their owner, God willing. Tomorrow deliver to the owner of
+		... und morgen sollst du dem Eigentümer
+			<lb n="5"/>
+		des Gewandes, das Du erhalten hast, den Kaufpreis aushändigen.
+		the cloth, who has conveyed its price to you.
+			<lb n="6"/>
+		Our sufficiency is God and he is a fine support to those who trust in him.
+		Our sufficiency is God and He is a fine support to those who trust in Him.
+</ab></div>
+</body>
+</text>
+</TEI>

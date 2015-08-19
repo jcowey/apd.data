@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1812" xml:id="Rodriguez_Masari_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 1a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169551</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بِسْمِ اللّه الرّحمن الرّحيمِ صلّى اللّه على سيّدنا محمّد وآله وسلّم 
+<lb n="2"/>  اشترى المكرّم أبو <supplied reason="lost" cert="high">عـ</supplied>ـلي حسين بن علي المالقي من عائشة بنت محمّـ<supplied reason="lost" cert="high">ـد</supplied> 
+<lb n="3"/>  الأبدي جميع المصريّة بالحطّابين المحروقة من داخل الحضرة قبليّها فند<supplied reason="lost" cert="high">ق</supplied> 
+<lb n="4"/>  لأبي ستّة جوفيّها الزّقاق شرقيّها الحسُّو غربيّها الصّمّودي بحقوقها وحرمها 
+<lb n="5"/>  <unclear reason="undefined" cert="high">ومدخلها</unclear> <unclear reason="undefined" cert="high">ومخرجها</unclear> <unclear reason="undefined" cert="high">اشترا</unclear> تامّا بثمن قدره عشرون دينرا من الذّهب بالصّرف 
+<lb n="6"/>  المعتاد شطرها الواحد يتدفّع بالحلول وحكمه والشّطر الآخر يتدفّع عند انقضا عا<supplied reason="lost" cert="high">م</supplied> 
+<lb n="7"/>  واحد من تأريخه وخلص بذلك للمشتري تملّك مشتراه خلوصا تامّا على السّنّة 
+<lb n="8"/>  في ذلك والمرجع بالدّرك ولم يبق للبائعة في المبيع بقيّة حق بوجه ولا بحال وقد 
+<lb n="9"/>  قلّب المشتري مشتراه ونظره وعلم بأنّه بشق وبق مجرف مركوب فرضيه بذلك 
+<lb n="10"/>  والتزمه وهو معقول في الثّمن لا يصح فيه بيع ولا تفويت ولا خروج عن ملك مصـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  حتّى يقع التّخلّص من جميع الثّمن وبيعه قبل ذلك مفسوخ وتفويته مردود وعرفا 
+<lb n="12"/>  قدره وأشهدا به من عرفهما بحال صحّة وجواز وله بتأريخ السّادس عشر لشهر شعبان 
+<lb n="13"/>  المكرّم من عام ستّة وأربعين وثماني مائة ثم أشهد المشتري أن اشتراه لما ذكر هو 
+<lb n="14"/>  لبنته الصّغيرة في حجره قمر بمال موهوب لها من قبله بوجه اللّه وذلك من الإشهاد عليه في تأريخه 
+<lb n="15"/>  وحضر زوج البائعة المعلّم أحمد وهو شقيق المشتري وتسلّم في المبيع 
+<lb n="16"/>  المذكور التّسليم التّام وأشهدا بذلك من عرفه بحال صحّة وجواز في تأريخه 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa sallama 
+ <lb n="2"/>ĭštarà ăl mukarramu ʾabū ʿaliyy:in ḥusaynu bnu ʿaliyy:in ăl mālaqiyyu min ʿāʾišaẗa binti muḥammad:in 
+ <lb n="3"/>ăl ʾubadiyyi ǧamīʿa ăl maṣriyyaẗi bi ăl ḥaṭṭābīna ăl maḥrūqaẗi min dāḫili ăl ḥaḍraẗi qibliyyu hā funduq:un 
+ <lb n="4"/>li ʾabī sittaẗ:in ǧawfiyyu hā ăz zuqāqu šarqiyyu hā ăl ḥassū ġarbiyyu hā ăṣ ṣammūdiyyu bi ḥuqūqi hā wa ḥurumi hā 
+ <lb n="5"/>wa madḫali hā wa maḫraǧi hā ĭštirāʾ:an tāmm:an bi ṯaman:in qadru hu ʿišrūna dīnār:an mina ăḏ ḏahabi bi ăṣ ṣarfi 
+ <lb n="6"/>ăl muʿtādi šaṭru hā ăl wāḥidu yatadaffaʿu bi ăl ḥulūli wa ḥukmi hi wa ăš šaṭru ăl ʾāḫaru yatadaffaʿu ʿinda ĭnqiḍāʾi ʿām:in 
+ <lb n="7"/>wāḥid:in min taʾrīḫi hi wa ḫalaṣa bi ḏālika li l muštarī tamalluku muštarā hu ḫulūṣ:an tāmm:an ʿalà ăs sunnaẗi 
+ <lb n="8"/>fī ḏālika wa ăl marǧiʿi bi ăd daraki wa lam yabqa li l bāʾiʿaẗi fī ăl mabīʿi baqiyyaẗu ḥaqq:in bi waǧh:in wa lā bi ḥāl:in wa qad 
+ <lb n="9"/>qallaba ăl muštarī muštarā hu wa naẓara hu wa ʿalima bi ʾanna hu bi šaqq:in wa baqq:in maǧrafa markūbi farḍay hi bi ḏālika 
+ <lb n="10"/>wa ĭltazama hu wa huwa maʿqūl:un fī ăṯ ṯamani lā yaṣiḥḥu fī hi bayʿ:un wa lā tafwīt:un wa lā ḫurūǧ:un ʿan milki maṣ*** 
+ <lb n="11"/>ḥattà yaqiʿa ăt taḫalluṣu min ǧamīʿi ăṯ ṯamani wa bayʿu hu qabla ḏālika mafsūḫ:un wa tafwītu hu mardūd:un wa ʿarafā 
+ <lb n="12"/>qadra hu wa ʾašhadā bi hi man ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in wa la hu bi taʾrīḫi ăs sādisa ʿašara li šahri šaʿbāna 
+ <lb n="13"/>ăl mukarrami min ʿāmi sittaẗ:in wa ʾarbaʿīna wa ṯamānī miʾaẗ:in ṯumma ʾašhada ăl muštarī ʾan ĭštarā hu li mā ḏakara huwa 
+ <lb n="14"/>li binti hi ăṣ ṣaġīraẗi fī ḥaǧri hi qamara bi māl:in mawhūb:in la hā min qibali hi bi waǧhi ăl lāhi wa ḏālika mina ăl ʾišhādi ʿalay hi fī taʾrīḫi hi 
+ <lb n="15"/>wa ḥaḍara zawǧu ăl bāʾiʿaẗi ăl muʿallimu ʾaḥmadu wa huwa šaqīqu ăl muštarī wa tasallama fī ăl mabīʿi 
+ <lb n="16"/>ăl maḏkūri ăt taslīma ăt tāmma wa ʾašhadā bi ḏālika man ʿarafa hu bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī taʾrīḫi hi 
+ <lb n="17"/>*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Bienfaiteur et Miséricordieux. Que Dieu bénisse et sauve notre Seigneur Muḥammad et sa famille.
+			<lb n="2"/>
+		L&#039;honnête Abū [ʿA]lī Ḥusayn ibn ʿAlī al-Mālaqī achète de ʿĀʾiša bint Muḥamma[d]
+			<lb n="3"/>
+		al-Ubadī la totalité de la maṣriya (située) dans al-Ḥaṭṭābīn al-Maḥrūqa, dans l&#039;enceinte de la capitale, (délimitée) aus Sud par le fundu[q]
+			<lb n="4"/>
+		d&#039;Abū Sitta, au Nord par la ruelle (zuqāq), à l&#039;Est par al-Ḥassū et à l&#039;Ouest par al-Ṣammūdī, avec les droits et les dépendances
+			<lb n="5"/>
+		inhérents ou provenant de la propriété. Il s&#039;agit d&#039;un achat accompli (stipulé) par un prix dont la quantité s&#039;élève à vingt dinars d&#039;or au taux de change
+			<lb n="6"/>
+		habituel, qui devra être payé en sa moitié sur demande et ordre (de la vendeuse), et en son autre moitié dans un délai d&#039;une année
+			<lb n="7"/>
+		à compter depuis ce moment. En vertu de ceci (le paiement du prix, la vendeuse) livre à l&#039;acheteur d&#039;une manière accomplie la propriété citée conformément à ce que stipule la loi
+			<lb n="8"/>
+		en ces cas, avec indemnisation pour dommage, sans réserve d&#039;aucun droit de le vendeuse sur ce qui est vendu, d&#039;aucune façon ni manière. L&#039;acheteur
+			<lb n="9"/>
+		L&#039;acheteur a examiné son achat, il l&#039;a inspecté, et il sait (que l&#039;objet de son acquisition a besoin de réformes) pour installer la double canalisation des eaux, (dommage) qu&#039;il accepte
+			<lb n="10"/>
+		et s&#039;oblige de respecter. Il est d&#039;accord en ce qui concerne le prix, dont la vente ne sera pas correcte, ne elle sera aliénée, ni (la propriétaire) se détachera de la propriété [de sa maṣriyya?]
+			<lb n="11"/>
+		jusqu&#039;à ce qu&#039;on procède au règlement de la totalité du prix, c&#039;est pourqoui la vente avant ceci sera (considérée) nulle et son aliénation rejetée. Les deux (parties) connaissent
+			<lb n="12"/>
+		la portée (de l&#039;accord adopté), et demandent le témoignage (qu&#039;émettent les témoins instrumentaires), qui les connaissent et (savent qu&#039;elles jouissent) de capacité physique et légale (suffisante). À la date de 16 du mois šaʿbān,
+			<lb n="13"/>
+		le vénéré, de l&#039;année 846 (= 20 décembre 1442). Postérieurement l&#039;acheteur demande témoignage du fait que son achat est, comme il a rappelé,
+			<lb n="14"/>
+		pour sa fille Qamar, mineure soumise à sa tutelle, avec ses propres fonds dont il fait don à la bénéficiaire, intuitu Dei. Le témoignage sur se point (figure) ainsi à la même date.
+			<lb n="15"/>
+		Comparaît le mari de la vendeuse, le maître Aḥmad, qui est frère de l&#039;acheteur, il donne son plein consentement
+			<lb n="16"/>
+		à cette opération de transaction, et il demande le témoignage (des témoins instrumentaires), qui le connaissent (et savent qu&#039;il jouit) de capacité physique et légale (suffisante), à la même date.
+			<lb n="17"/>
+		[Deux signatures illisibles et paraphées].
+</ab></div>
+</body>
+</text>
+</TEI>

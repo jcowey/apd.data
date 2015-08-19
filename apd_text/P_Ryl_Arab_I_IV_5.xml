@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1340" xml:id="P_Ryl_Arab_I_IV_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I IV 5 (= P.RagibLettresdeService 5 = P.Ryl.Arab. II 07)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Ryl_Arab_I_IV_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169143</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">الرّحيم</rdg></app> 
+<lb n="2"/>  من عبد الملك بن <app type="BL"><lem resp="APD">هر<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Rāġib">يزيد </rdg><rdg resp="Smith/al-Moraekhi">مروان</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">إلى</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">صحب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">بريد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">أشمون</rdg></app> 
+<lb n="3"/>  فاحمل عبد الحميد <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">رسول</supplied> </lem><rdg resp="Rāġib">رسول </rdg><rdg resp="Smith/al-Moraekhi">رسولي</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">وهو</rdg></app> 
+<lb n="4"/>  شاب <app type="BL"><lem resp="APD">جيّد </lem><rdg resp="Ragib">جيتر </rdg><rdg resp="Smith/al-Moraekhi">حسن</rdg></app> أ<supplied reason="lost" cert="high">بيـ</supplied>ـض <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">على</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">دابّتين</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">من</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">البريد</rdg></app> 
+<lb n="5"/>  إحديهما دابّة <app type="BL"><lem resp="APD">ا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">الفقرانق</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">وكتب</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">في</rdg></app> 
+<lb n="6"/>  شوّال سنة <app type="BL"><lem resp="APD">أحد </lem><rdg resp="Rāġib; Smith/al-Moraekhi">إحدى</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">وأربعين </rdg><rdg resp="Smith/al-Moraekhi">وثلاثين</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">ومائة</rdg></app> 
+<lb n="handmark"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso (adress)"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">من</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">عبد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">الملك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">بن</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">يزيد </rdg><rdg resp="Smith/al-Moraekhi">مروان</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib; Smith/al-Moraekhi">إلى</rdg></app> صحب بريد أشمون 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ø ăr *** raḥīmi 
+ <lb n="2"/>min ʿabdi ăl maliki bni hr** yazīda marwāna *** ʾilà *** ṣāḥibi *** barīdi *** ʾušmūna 
+ <lb n="3"/>fa ĭḥmal ʿabda ăl ḥamīdi *** rasūla ī rasūl ø *** *** *** wa ø huwa 
+ <lb n="4"/>šābb:un ǧayyid:un ǧaytir:un ḥasan:un ʾabyaḍu *** ʿalà *** dābbatayni *** mina *** ăl barīdi ø 
+ <lb n="5"/>ʾiḥdā humā dābbaẗu *** ăl ø furāniqi *** wa ø kataba *** *** fī 
+ <lb n="6"/>šawwāl:in sanaẗa ʾaḥad ʾiḥdà wa ʾarbaʿīna *** ṯalāṯīna wa miʾaẗ:in *** 
+ <lb n="7"/>* 
+ <lb n="8"/>*** min *** ʿabdi *** ăl ø maliki *** bni *** yazīda marwāna *** ʾilà ṣāḥibi barīdi ʾušmūna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément [et miséricordieux !]
+		In the name of God, the Compassionate, [the Merciful].
+			<lb n="2"/>
+		De la part de ʿAbd al-Malik b. Ya[zīd. Au maître  de poste d&#039;Ašmūn].
+		From ʿAbd al-Malik bn Mar[wān to the postmaster of Ashmūn].
+			<lb n="3"/>
+		Donne à ʿAbd al-Ḥamīd [le messager de ... b. ...]
+		Give ʿAbd al-Ḥamīd, [my messenger, … who is]
+			<lb n="4"/>
+		a fair, handsome youth, t[wo post mounts],
+		jeune homme, petit et b[lan]c, deux montures de la poste],
+			<lb n="5"/>
+		dont l&#039;une est celle [du courrier. ... a écrit en]
+		one of them the [post guide’s] mount. [Written by … in the month]
+			<lb n="6"/>
+		of Shawwāl, in the year [one hundred and thirty-]one.
+		šawwāl l&#039;année [cent quarante-et]-un.
+			<lb n="8"/>
+		[De la part de ʿAbd al-Malik b. Yazīd. Au]     maître de poste d&#039;Ašmūn.
+		[From ʿAbd al-Malik bn Marwān to] the post master of Ashmūn.
+</ab></div>
+</body>
+</text>
+</TEI>

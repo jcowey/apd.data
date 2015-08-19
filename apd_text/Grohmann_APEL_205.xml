@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1684" xml:id="Grohmann_APEL_205" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 205</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_205</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169434</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="1" unit="character" /> أنتناس منا لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="1" unit="character" /> هميسه مونه ا<supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" extent="1" unit="character" /> أبرسه مونه <app type="BL"><lem resp="APD">الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="UB">الحارس </rdg><rdg resp="UB">الحمّال</rdg></app> 
+<lb n="4"/>  <gap reason="illegible" extent="1" unit="character" /> قوريل سيه الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" extent="1" unit="character" /> بامون يعقـ<unclear reason="undefined" cert="high">ـو</unclear><supplied reason="lost" cert="high">ب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" extent="1" unit="character" /> قزمان مونه الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" extent="1" unit="character" /> كيل بسور <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" extent="1" unit="character" /> بن لقاس الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  أبي يحنّس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  يحنّس بمون پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<unclear reason="undefined" cert="high">ـڤـ</unclear>ـپه الجبّان <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  ‮‪ιςχή ιβ<unclear reason="undefined" cert="high">χ</unclear>ϰʹ<unclear reason="undefined" cert="high">δ</unclear>ʹ‬ مات لقاس الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>* ʾantanāsu minā l*** 
+ <lb n="2"/>* humīsahu mūnaha ăl ***u 
+ <lb n="3"/>* ʾabrusahu mūnaha ăl ḥ***u ḥārisu ḥammālu 
+ <lb n="4"/>* qūrīlu siyaha ăl ***u 
+ <lb n="5"/>* bāmūnu yaʿqūba *** 
+ <lb n="6"/>* quzmānu mūnaha ăl ḥ***u 
+ <lb n="7"/>* kaylu basūra *** 
+ <lb n="8"/>* bnu luqāsa ăl ḥ***u 
+ <lb n="9"/>ʾabī yuḥannisa *** 
+ <lb n="10"/>yuḥannisu bamūna B***fBh ăl ǧabbānu *** 
+ <lb n="11"/>12 1/2+1/24 ‮‪16 1/2+1/8 māta luqāsu ăl ḥ***u 
+ <lb n="12"/>* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Antanâs Minâ [
+			<lb n="2"/>
+		Homîse Mône, t[he
+			<lb n="3"/>
+		A(m)brose Mône, the .[
+			<lb n="4"/>
+		Cyril Siya, the [
+			<lb n="5"/>
+		Bâmûn Jaco[b (?)
+			<lb n="6"/>
+		Quzmân Mône, the .[
+			<lb n="7"/>
+		Chael Psûr [...
+			<lb n="8"/>
+		b. Lucas, the .[
+			<lb n="9"/>
+		of Abû Yoḥannes [
+			<lb n="10"/>
+		Yoḥannes Pamûn ...[...]..., cheesemonger [
+			<lb n="11"/>
+		12 1/2+1/24 deceased 16 1/2+1/8, Lucas, the ...[
+</ab></div>
+</body>
+</text>
+</TEI>

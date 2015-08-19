@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="347" xml:id="Grohmann_APEL_136" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 136</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_136</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106578</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2 right"/>  شهد إبرهيم بن عبيد اللّه بن جعفر على 
+<lb n="3 right"/>  إقرار المقر بما فيه في تأريخه 
+<lb n="4 right"/>  شهد <supplied reason="lost" cert="high">نـ</supplied>ـعمان بن يوسف بن طيب على إقرار 
+<lb n="5 right"/>  المقر بما فيه وكتب بخطّه في تأريخه 
+<lb n="2 left"/>  ما فيه وكتب بخطّه في تأريخه 
+<lb n="3 left"/>  شهد عبد الرّحمن بن محمّد بن هرون على إقرار 
+<lb n="4 left"/>  المقر المسمّا بما فيه وكتب بخطّه في تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>**** **** **** **** 
+ <lb n="2"/>šahida ʾibrāhīmu bnu ʿubaydi ăl lāhi bni ǧaʿfara ʿalà 
+ <lb n="3"/>ʾiqrāri ăl muqirri bi mā fī hi fī taʾrīḫi hi 
+ <lb n="4"/>šahida nuʿmānu bnu yūsufa bni ṭīb:in ʿalà ʾiqrāri 
+ <lb n="5"/>ăl muqirri bi mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="6"/>mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="7"/>šahida ʿabdu ăr raḥmāni bnu muḥammadi bni hārūna ʿalà ʾiqrāri 
+ <lb n="8"/>ăl muqirri ăl musammā bi mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Ibrahîm b. ʿUbaid Allâh b. Ǧaʿfar is witness to
+			<lb n="3"/>
+		the acknowledgment by the acknowledger respecting that which (is contained) herein on its date.
+			<lb n="4"/>
+		Nuʿmân b. Yûsuf b. Ṭîb is witness to the acknowledgment
+			<lb n="5"/>
+		by the acknowledger respecting that which (is contained) herein, and he has written (it) in his (own) handwriting on its date.
+			<lb n="6"/>
+		what is contained herein, and he has written (it) in his (own) handwriting on its date.
+			<lb n="7"/>
+		ʿAbd ar-Raḥmân b. Muḥammad b. Harûn is witness to the acknowledgment
+			<lb n="8"/>
+		by the acknowledger named respecting that which (is contained) herein, and he has written (it) in his (own) handwriting on its date.
+</ab></div>
+</body>
+</text>
+</TEI>

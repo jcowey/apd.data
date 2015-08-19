@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1873" xml:id="Grohmann_APEL_416" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 416</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_416</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169610</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> بسم اللّه الرّحمن الرّحيم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> إلى <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">ا</supplied>لخولي مرّة درهم <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> وأيضا إلى البنّا ‪αγʹ‬ ‪ηχ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> وإلى زين ‪χ‬ <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="5"/>  ‮وأيضا إلى زين ‪η‬ <del rend="erasure" status="unremarkable">‪β‬</del><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮وإلى بروش ‪χ‬ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> ‪α‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  عن النّجّار 
+<lb n="8"/>  ‮فذلك <supplied reason="lost" cert="high">أربـ</supplied>ـعة الدّراهم غير دانق ʹ‪γχγ‬ 
+<lb n="9"/>  وأيضا دفع إليك حسن ابني أربعة الدّراهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** bi smi ăl lāhi ăr raḥmāni ăr raḥīmi *** 
+ <lb n="2"/>*** ʾilà **** ăl ḫawliyy marraẗ:an dirham:un *** *** 
+ <lb n="3"/>*** wa ʾayḍ:an ʾilà ăl bannāʾi ‪1 1/3 ‪8 1/48 *** 
+ <lb n="4"/>*** wa ʾilà zayn:in ‪1/2 ***** 
+ <lb n="5"/>wa ʾayḍ:an ʾilà zayn:in ‪2/3 *** 
+ <lb n="6"/>wa ʾilà barūša ‪2/3 *** * ‪1 *** 
+ <lb n="7"/>ʿani ăn naǧǧāri 
+ <lb n="8"/>fa ḏālika ʾarbaʿaẗu ăd darāhimi ġayru dāniq:in 3 1/2+1/3 
+ <lb n="9"/>wa ʾayḍ:an dafaʿa ʾilay ka ḥasan:uni ĭbn ī ʾarbaʿaẗa ăd darāhimi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] In the name of God, the Compassionate, the Merciful. [
+			<lb n="2"/>
+		] To [... t]he overseer, once | dirham(s) [
+			<lb n="3"/>
+		] and further to the builder 1 1/3 8 1/48 [
+			<lb n="4"/>
+		] and to Zain 1/2 .. [
+			<lb n="5"/>
+		and further to Zain 2/3〚2〛[
+			<lb n="6"/>
+		and to Paroš (Barôš) 2/3 ... 1 [.] [
+			<lb n="7"/>
+		from the carpenter
+			<lb n="8"/>
+		That makes [fo]ur dirhams less one dâniq 3 1/2+1/3
+			<lb n="9"/>
+		And further my son Ḥasan has paid to you four dirhams.
+</ab></div>
+</body>
+</text>
+</TEI>

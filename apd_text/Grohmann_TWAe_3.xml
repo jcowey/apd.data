@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="438" xml:id="Grohmann_TWAe_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 03 (= P.Marchands V/1 05)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106630</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم بصرّة فيها 
+<lb n="recto 2"/>  حفظك اللّه وأبقاك وأتم النّعمة <gap reason="illegible" extent="1" unit="character" /> عليك في الدّنيا والآخره <gap reason="illegible" extent="1" unit="character" /> قد <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="recto 3"/>  وجّهت إليك حفظك اللّه <app type="BL"><lem resp="Grohmann erroneously, see text line 5 and translation lines 3 and 5">بسبعة </lem><rdg resp="Rāġib; Diem">بتسعة</rdg></app> الدّنانير إلّا سبع الدّراهم 
+<lb n="recto 4"/>  منها ثمانية الدّنانير عين وثمانية اعشر درهم والثّمانية الدّنانير 
+<lb n="recto 5"/>  بنقص قيراطين وعندك قيراطين لي فذلك تسعة الدّنانير إلّا سبع 
+<lb n="recto 6"/>  الدّراهم فانظر حفظك اللّه أن تشتـ<supplied reason="lost" cert="high">ـري</supplied> لي بها متاع شقاق ورياط وتوجّها 
+<lb n="recto 7"/>  إلى فى هذه الجمعة فإنّى قد أكلت كل ما فى <app type="BL"><lem resp="APD">يدى </lem><rdg resp="APD">يديّ</rdg></app> وقد أعطيت هذه الدّنانير 
+<lb n="recto 8"/>  على أن أحج بها إلى مكّة وقد أكلت منها دينرين فعجّل بها على لعل اللّه يرزقنى 
+<lb n="recto 9"/>  فيها شي وأخبرك أن الأزر عندى لم أبيع منها شي فلا توجّه إلى منها إيزار 
+<lb n="recto 10"/>  فإنّى <app type="BL"><lem resp="APD">أشترى </lem><rdg resp="Diem">ليس</rdg></app> <app type="BL"><lem resp="“Rāġib”">أخرة </lem><rdg resp="Diem">آخذه</rdg></app> وعجّل بها على فى هذه الجـ<supplied reason="lost" cert="high">ـمعة</supplied> إن شا اللّه <app type="BL"><lem resp="APD">واحضر </lem><rdg resp="“Rāġib”">أخصّ</rdg></app> نفسك منّى بالسّلم والسّلم 
+<lb n="recto 11"/>  عليك ورحمت وكتب 
+<lb n="verso 1 right"/>  لأبى يعقوب حفظه اللّه من <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 1 left"/>  أحمد بن كلّيس يدفع بالفيوم عند مسجد الجامع 
+<lb n="verso 2 right"/>  إسحق بن إبرهيم السّمسار 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi bi ṣurraẗ:in fī hā 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾatamma ăl niʿmaẗa * ʿalay ka fī ăd dunyā wa ăl ʾāḫiraẗi * qad * 
+ <lb n="3"/>waǧǧahtu ʾilay ka ḥafiẓa ka ăl lāhu bi sabʿaẗi tisʿaẗi ăd danānīri ʾillā sabʿi ăd darāhimi 
+ <lb n="4"/>min hā ṯamāniyaẗu ăd danānīri ʿayn wa ṯamāniyaẗa ĭʿšara dirham wa ăṯ ṯamāniyaẗu ăd danānīri 
+ <lb n="5"/>bi naqṣi qīrāṭayni wa ʿinda ka qīrāṭayni l ī fa ḏālika tisʿaẗu ăd danānīri ʾillā sabʿa 
+ <lb n="6"/>ăd darāhimi fa ŭnẓur ḥafiẓa ka ăl lāhu ʾan taštariya l ī bi hā matāʿa šiqāq:in wa riyāṭ:in wa tuwaǧǧih hā 
+ <lb n="7"/>ʾilay ya fī hāḏihi ăl ǧumʿaẗi fa ʾin nī qad ʾakaltu kulla mā fī yad yaday ī ya wa qad ʾaʿṭayta hāḏihi ăd danānīra 
+ <lb n="8"/>ʿalà ʾan ʾaḥuǧǧa bi hā ʾilà makkaẗa wa qad ʾakaltu min hā dīnārayni fa ʿaǧǧil bi hā ʿalay ya laʿalla ăl lāha yarzuqu nī 
+ <lb n="9"/>fī hā šayʾ wa ʾuḫbiru ka ʾanna ăl ʾuzura ʿind ī lam ʾabīʿ min hā šayʾ fa lā tuwaǧǧih ʾilay ya min hā ʾīzār 
+ <lb n="10"/>fa ʾin nī ʾaštarī laysa ʾuḫraẗ ʾāḫuḏu hu ø wa ʿaǧǧil bi hā ʿalay ya fī hāḏihi ăl ǧumʿaẗi ʾin šāʾa ăl lāhu wa ø ʾaḥḍir ʾaḫiṣṣi ø nafsa ka minn ī bi ăs salāmi wa ăs salāmu ʿalay ka 
+ <lb n="11"/>ʿalay ka wa raḥmat:un wa kutiba 
+ <lb n="12"/>li ʾabī yaʿqūba ḥafiẓa hu ăl lāhu min * 
+ <lb n="13"/>ʾaḥmada bni killīsa yudfaʿ bi ăl fayyūmi ʿinda masǧidi ăl ǧāmiʿi 
+ <lb n="14"/>ʾisḥāqa bni ʾibrāhīma ăs simsāri 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+		Im Namen Gottes des Barmherzigen, Gütigen. Mit einem Beutel, in dem.
+			<lb n="2"/>
+		Gott behüte Dich und erhalte Dich und vollende die Gnade an Dir in dieser und jener Welt. Schon,
+		Que Dieu te garde, te conserve et parachève le bienfait envers toi dans ce monde et dans l&#039;autre!
+			<lb n="3"/>
+		habe ich Dir - Gott behüte Dich - neun Dīnāre weniger sieben Dirham zugesandt,
+		Je t&#039;ai adressé - que Dieu te garde! `une bourse contenant´ neuf dinars moins sept dirhams
+			<lb n="4"/>
+		comprenant huit dinars en or et dix-huit dirhams. Les huit dinars
+		wovon acht Dīnāre in Gold und achtzehn Dirham, und zwar die acht Dīnāre
+			<lb n="5"/>
+		mit einem Manko von zwei Karaten, während ich bei Dir ein Guthaben von zwei Karaten habe; das macht also neun Dīnāre weniger sieben
+		ont deux qīrāṭ-s de moins. Tu as deux qīrāṭ-s qui m&#039;appartiennent. Cela fait neuf dinars moins sept
+			<lb n="6"/>
+		Dirham. So siehe zu - Gott behüte Dich -, daß Du mir darum Kleiderstoffe und Linnengewänder kaufest und sie
+		dirhams. Tâche - que Dieu te garde! de m&#039;acheter (avec cette somme) de la marchandise, des šiqqa-s et des rayṭa-s, et de me les adresser
+			<lb n="7"/>
+		cette semaine, car j&#039;ai mangé tout ce qui se trouvait en ma possession. On m&#039;avait donné ces dinars
+		mir noch in dieser Woche zusendest. Denn ich habe schon alles, was ich zur Hand hatte, verbraucht, und Du hattest mir diese Dīnāre doch gegeben,
+			<lb n="8"/>
+		damit ich mit ihnen nach Mekka pilgere; ich habe aber schon zwei Dīnāre davon verzehrt. So sende mir sie eilends, vielleicht wird Gott mich etwas
+		pour que j&#039;aille en pèlerinage à La Mekke. Mais j&#039;en ai mangé deux. Envoie-moi donc rapidement (la marchandise). Peut-être que Dieu m&#039;attribuera
+			<lb n="9"/>
+		daran verdienen lassen. Ich teile Dir auch mit, daß ich von den Iḏārs, die ich habe, noch nichts verkauft habe. So sende mir denn davon keinen Iḏār mehr;
+		par sa vente quelque profit. Je t&#039;informe que les voiles sont chez moi. Je n&#039;en ai vendu aucun. Ne m&#039;en adresse donc pas, 
+		... Sende mir unter diesen (Kleidungsstücken) keinen ʾizār,
+			<lb n="10"/>
+		car j&#039;en achèterai d&#039;autres. Envoie-moi donc rapidement (la marchandise) cette semaine, si Dieu le veut! Je t&#039;adresse le salut. Que le salut soit sur toi,
+		denn ich kaufe nur anderes, und sende es mir eilends noch in dieser Wo[che], so Gott will. Laß Dich von mir grüßen und Heil Dir
+		denn ich werde ihn (Dir) nicht abnehmen ...
+			<lb n="11"/>
+		ainsi que la miséricorde (de Dieu)! (Ceci a été) écrit.
+		und Barmherzigkeit (Gottes), und man schrieb&#039;s.
+			<lb n="12"/>
+		À Abū Yaʿqūb - que Dieu le garde! De la part
+		An Abū Ya&#039;qūb - Gott behüte ihn - von
+			<lb n="13"/>
+		Aḥmed b. Killīs übergibt (es) in al-Fayyūm bei der Hauptmoschee.
+		d&#039;Aḥmad b. Killīs. À délivrer au Fayyoum, près de la grande mosquée.
+			<lb n="14"/>
+		Isḥāq b. Ibrahīm, dem Sensalen,
+		Isḥāq b. Ibrāhīm le commissionnaire.
+</ab></div>
+</body>
+</text>
+</TEI>

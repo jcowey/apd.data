@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1199" xml:id="Diem_CPR_16_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 31</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169037</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  جعلت فداك وأطال اللّه بقاك وأعزّك 
+<lb n="3"/>  لم أعرف لك أعزّك اللّه خبر من ساعة فارقتنا 
+<lb n="4"/>  فاكتب إلي بخبرك وما عملت فإن احتجت 
+<lb n="5"/>  إليّه صرت إليك فقد واللّه <unclear reason="undefined" cert="high">غممتني</unclear> حتّى 
+<lb n="6"/>  لم أدري ما أكتب به إليك فعرّفني خبرك 
+<lb n="7"/>  إن شا اللّه 
+<lb n="8"/>  جعلت فداك وأطال اللّه بقاك وأعزّك 
+<lb n="9"/>  صلّى اللّه على محمّد النّبي وآله وسلّم كثيرا 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أبدا </rdg><rdg resp="APD">إنّك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="sīn with dash above">پطسا </rdg><rdg resp="sīn with dash above">طسا </rdg><rdg resp="APD">أبطيت</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top margin"/>  <gap reason="illegible" precision="low" extent="3"/> بن موسى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka 
+ <lb n="3"/>lam ʾaʿrif la ka ʾaʿazza ka ăl lāhu ḫabar min sāʿaẗi fāraqta nā 
+ <lb n="4"/>fa ŭktub ʾilay ya bi ḫabari ka wa mā ʿamilta fa ʾini ĭḥtaǧta 
+ <lb n="5"/>ʾilay yah ṣirtu ʾilay ka fa qad wa ăl lāhi ġamamta nī ḥattà 
+ <lb n="6"/>lam ʾadrī mā ʾaktubu bi hi ʾilay ka fa ʿarrif nī ḫabara ka 
+ <lb n="7"/>ʾin šāʾa ăl lāhu 
+ <lb n="8"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka 
+ <lb n="9"/>ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama kaṯīr:an 
+ <lb n="10"/>*** ʾabad:an ʾinna ø ø ka *** Bṭsā ṭsā ʾabṭayta ḫabara ka *** ø 
+ <lb n="11"/>*** bn mūsà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Möge ich zu Deinem Lösegeld gemacht werden, möge Gott Dich lange leben lassen und möge er Dich stärken!
+			<lb n="3"/>
+		Ich habe von Dir - Gott stärke Dich - keine Nachricht erfahren, seit Du uns verlassen hast.
+			<lb n="4"/>
+		Teile mir also brieflich die Neuigkeiten über Dich und das, was Du getan hast, mit; wenn Du mich aber brauchst,
+			<lb n="5"/>
+		komme ich zu  Dir. Denn Du hast mich bei Gott so sehr betrübt, daß
+			<lb n="6"/>
+		ich (fast) nicht mehr wußte, was ich Dir schreiben sollte. Laß mich also die Neuigkeiten über Dich wissen,
+			<lb n="7"/>
+		so Gott will!
+			<lb n="8"/>
+		Möge ich zu Deinem Lösegeld gemacht werden, möge Gott Dich lange leben lassen und möge er Dich stärken!
+			<lb n="9"/>
+		Gott segne Muḥammad den Propheten und seine Familie und spende (ihnen) vielmals Heil!
+			<lb n="10"/>
+			<lb n="11"/>
+		[...] ibn Mūsā.
+</ab></div>
+</body>
+</text>
+</TEI>

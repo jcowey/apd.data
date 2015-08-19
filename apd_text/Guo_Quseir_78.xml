@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="978" xml:id="Guo_Quseir_78" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 78</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_78</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113723</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">الد</supplied>ى اعلّم په الوالده العرپره الموڤقه السعپده اطال ألله 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">پڤاهـ</supplied>ـا وادام عزها ونعماها وحعل <app type="BL"><lem resp="APD">الپوڤپق </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">ومن</rdg></app> لا احلاها 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">وسوى</supplied> دلك وصلنى كپابك لى علي پد حليفه پن الحاوى 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> لى اپك مپوحعه فضاق كل پدلك سكربا الله پعالى 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> لكم الحمپع ڤى عافيه ولا يرونكم سوي پحمد ولا ان 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> پپنى وبينكم رپپ وپصلى ما پالله وسوا 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/>سوه علـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> شي جاب لكم <unclear reason="undefined" cert="high">طالـ</unclear><supplied reason="lost" cert="high">ـما</supplied> 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> في شده 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> سعر على <sic n="superfluous">دريهيم</sic> <supplied reason="omitted" cert="high">درهمپن</supplied> <gap reason="illegible" precision="low" extent="3"/> للحمپع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> على حپراپكم اجمد ألحنى پن كربمه 
+<lb n="verso 3"/>  <gap reason="illegible" extent="2" unit="character" /> الاح پپا ڤربن ان سإ <supplied reason="lost" cert="high">الله</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـل وعلى عمى اپو أسحق إلسلم 
+<lb n="verso 4 upside down"/>  <gap reason="illegible" precision="low" extent="3"/> سلم الى سإڤع للبپاع رپعه الپى پدفعه 
+<lb n="verso 5 upside down"/>  <gap reason="illegible" precision="low" extent="3"/> بلع <app type="BL"><lem resp="APD">بوح </lem><rdg resp="“Friedman, Quṣayr p. 409; AK”">بلّغ</rdg></app> <app type="BL"><lem resp="APD">امانپه </lem><rdg resp="“Friedman, Quṣayr p. 409; AK”">تؤجر</rdg></app> <app type="BL"><lem resp="APD">مولأه </lem><rdg resp="“Friedman, Quṣayr p. 409; AK”">أمانة</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ʾuʿlimu bi hi ăl wālidaẗa ăl ʿazīzaẗa ăl muwaffaqaẗa ăs saʿīdaẗa ʾaṭāla ăl lāhu 
+ <lb n="3"/>baqāʾa hā wa ʾadāma ʿizza hā wa naʿmāʾa hā wa ǧaʿala mina ăt tawfīqa tawfīqi lā ʾaḫlā hā 
+ <lb n="4"/>wa siwà ḏālika waṣala nī kitābu ki l ī ʿalà yadi ḫalīfaẗa bni ăl ḥāwī 
+ <lb n="5"/>*** l ī ʾanna ka mutawaǧǧiʿaẗ:un fa ḍāqa kull:un bi ḏālika šakarnā ăl lāha taʿālà 
+ <lb n="6"/>*** la kumu ăl ǧamīʿi fī ʿāfiyaẗ:in wa lā yarawna kum siw:an bi ḥamd:in wa lā ʾan 
+ <lb n="7"/>*** bayn ī wa bayna kum rayb:un wa nuṣallī mā bi ăl lāhi wa siwā 
+ <lb n="8"/>***swh ʿl*** *** šayʾ ǧāba la kum ṭālamā 
+ <lb n="9"/>*** fī šiddaẗ:in 
+ <lb n="10"/>*** siʿr ʿalà dirhamayni *** li l ǧamīʿi *** 
+ <lb n="11"/>*** ʿalà ǧīrāni kum ʾaḥmada ăl ǧinniyyi bni karīmaẗa 
+ <lb n="12"/>** ăl ʾaḫ bi nā qarīb ʾin šāʾa ăl lāhu ***l wa ʿalà ʿamm ī ʾabū ʾisḥāqa ăs salāmu 
+ <lb n="13"/>*** sallim ʾilà šāfiʿ:in li l bayyāʿi rubʿa hu ăllatī yadfaʿu hu 
+ <lb n="14"/>*** balaġa balliġ nūḥ:un tuʾǧar ʾamānaẗ:un ʾamāniyaẗa mawlā muʾaddāẗ:un hu ø 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		That which I am writing to inform the dear, successful, and auspicious mother - may God
+			<lb n="3"/>
+		prolong her life, make her strength and happiness everlasting, and assure that success will never elude her! -
+			<lb n="4"/>
+		is the following: Your letter to me arrived. It was delivered by Khalīfa ibn al-Ḥāwī.
+			<lb n="5"/>
+		[From it we learned that] you have been ill. Everyone was very upset about that. We thank God Almighty
+			<lb n="6"/>
+		[for granting] you all good health, for seeing to it that you will only be in thankfully [improved conditions], and that there will be no
+			<lb n="7"/>
+		[more] mistrust between you and me. We pray to God that nothing but 
+			<lb n="8"/>
+		[good will come out of this; and He] will bring [good] things to you as long as 
+			<lb n="9"/>
+		[you are in need; and as long as your are] in hardship [..........].
+			<lb n="10"/>
+		[.....] the price [has risen?] over two dirhams [.......] for all [......].
+			<lb n="11"/>
+		[Greetings to] your neighbors Aḥmad al-Jinnī ibn Karīma [and ............]
+			<lb n="12"/>
+		[Hope that] the brother [will visit with] us soon. [Greetings] to my uncle Abū Isḥāq.
+			<lb n="13"/>
+		[......] To be delivered to Shāfiʿ for sale is a quarter [of ....], which will be paid for
+			<lb n="14"/>
+		[by ......]. Nūḥ has fulfilled his master&#039;s wishes.
+</ab></div>
+</body>
+</text>
+</TEI>

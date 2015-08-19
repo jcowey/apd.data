@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2467" xml:id="Grohmann_Mird_25" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Mird 25</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_25</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="6" unit="character" />ص لحپـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" precision="low" extent="3"/> اپى <gap reason="illegible" extent="5" unit="character" /> لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  قد اپڤـ<unclear reason="undefined" cert="high">ـل</unclear> <gap reason="illegible" extent="5" unit="character" /> ود<gap reason="illegible" precision="low" extent="3"/> پعپـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> طپپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <app type="BL"><lem resp="APD">لبا<supplied reason="lost" cert="high">د</supplied>ر </lem><rdg resp="APD">لبادر</rdg></app> بن أبي الـڤـ<gap reason="illegible" precision="low" extent="3"/> مد<gap reason="illegible" precision="low" extent="3"/>ى <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـڤـ<gap reason="illegible" extent="2" unit="character" /> پداپر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  عرفت <app type="BL"><lem resp="APD">الكـ<supplied reason="lost" cert="high">ـتب</supplied> </lem><rdg resp="Diem">أنّك</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الّتي</supplied> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">تنـ</supplied>ـفّذني </lem><rdg resp="Diem">تنفذ</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">لي</rdg></app> الپاس ان پدهپ الي 
+<lb n="5"/>  بكتب ينـ<supplied reason="lost" cert="high">ـفـ</supplied>ـع اللّه به وبك كـ<unclear reason="undefined" cert="high">ـو</unclear>كد هر<gap reason="illegible" extent="4" unit="character" />رپى الأمر پـ<gap reason="illegible" extent="7" unit="character" /> 
+<lb n="6"/>  وأن يجلسني مجلس پڤا<gap reason="illegible" precision="low" extent="3"/>ك <gap reason="illegible" extent="2" unit="character" />د<gap reason="illegible" extent="2" unit="character" />ا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  يقال القيل وأرض الـپـ<gap reason="illegible" precision="low" extent="3"/> فلا تعرّض لهم إلّا <supplied reason="lost" cert="high">بخير</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  وعلى اهـ<gap reason="illegible" precision="low" extent="3"/>ـپك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  اپپا <gap reason="illegible" precision="low" extent="3"/> يمنعك للحـ<unclear reason="undefined" cert="high">ـسـ</unclear>ـوان <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  كاتب <unclear reason="undefined" cert="high">سليم</unclear> ذاعـه وتمتد كتبي منه قبل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <app type="BL"><lem resp="APD">ممّا </lem><rdg resp="APD">فما</rdg></app> له ما نقلنا إن اسـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـطعت <app type="BL"><lem resp="APD">أقبل </lem><rdg resp="Diem">أحسن</rdg></app> اللّه لك الـ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  في الدّنيا وكرامة الآخرة پد<gap reason="illegible" extent="1" unit="character" /> <app type="BL"><lem resp="APD">كپپ </lem><rdg resp="Diem">اكتب</rdg></app> <app type="BL"><lem resp="APD">الّتي </lem><rdg resp="Diem">إليّ</rdg></app> <app type="BL"><lem resp="APD">پحـ<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">بحالك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="13"/>  وما ينتهي إليك من <app type="BL"><lem resp="APD">الــ<unclear reason="undefined" cert="high">ـحـ</unclear>ـة </lem><rdg resp="Diem">الخبر</rdg></app> والسّلم عليك <supplied reason="lost" cert="high">ورحمت</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>******ṣ lḥB*** ***** **** ʾby ***** l*** *** 
+ <lb n="2"/>qad ʾBFl ***** wd*** BʿB*** *** ṭBB*** 
+ <lb n="3"/>li bādiri nādiri bni ʾabī ăl F*** md***y ***F** BdʾBr *** 
+ <lb n="4"/>ʿaraftu ăl ʾanna kutuba ka ăllatī ø tunaffaḏu tanfuḏu nī ø ø l ø ī mina ăn nāsi ʾan yaḏhaba ʾilay ya 
+ <lb n="5"/>bi kutub:in yanfaʿu ăl lāhu bi hi wa bi ka kwkd hr****rBy ăl ʾamr B******* 
+ <lb n="6"/>wa ʾan yuǧlisa nī maǧlisa Bfʾ***k **d**ʾ *** 
+ <lb n="7"/>yuqālu ăl qīlu wa ʾarḍ ăl B*** fa lā tuʿarriḍ la hum ʾillā bi ḫayr:in *** 
+ <lb n="8"/>wa ʿalà ʾh***Bk *** 
+ <lb n="9"/>ʾBBʾ *** yamnaʿu ka li l ḥswʾn ******* *** 
+ <lb n="10"/>kātibu sulaym:in ḏāʿa hu wa tamtaddu kutub ī min hu qabla *** 
+ <lb n="11"/>mimmā fa ø mā la hu mā naqalnā ʾini ĭstaṭaʿta ʾaqbala ʾaḥsana ăl lāhu la ka ăl *** 
+ <lb n="12"/>fī ăd dunyā wa karāmaẗ ăl ʾāḫiraẗi Bd* kBB ŭktub ăllatī ʾilay ø ya Bḥ*** bi *** ḥāli ka *** *** ø 
+ <lb n="13"/>wa mā yantahī ʾilay ka mina ăl ḥẗ ḫabari wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="3"/>
+		for Nā[di]r ibn Abi ʾl-Q[...] ..... [...] ... [...] ........ [
+			<lb n="4"/>
+		I have taken cognizance of the let[ters which were s]ent to me from the people that he might come to me
+			<lb n="5"/>
+		... Gott gebe (uns) durch ihn und Dich Nutzen! ...
+		with letters - may God profit him and you - ............... the matter ..... [...]
+			<lb n="6"/>
+		and that he might let me sit in the tribunal (? assembly ?) .... [...] ........ [...]
+			<lb n="7"/>
+		is said the saying and the land (?) of ...... [...] Thus do not behave towards them otherwise than [well ...]
+			<lb n="8"/>
+			<lb n="9"/>
+		...... [...] may protect you ..... ... [...]
+			<lb n="10"/>
+		the scribe of Sulaim needs it, and our letters are expected from him for a long time, before [...]
+			<lb n="11"/>
+		of that which belongs to him (?) what we have transmitted, if you can bring yourself (to do it),may God accept you kindly the [...]
+			<lb n="12"/>
+		in this world and the generosity of the world to come ..... [...]
+		... Schreib mir, wie es [Dir] es geht
+			<lb n="13"/>
+		and that which ultimately reached you from (of) the ... and hail u[n]to you [and mercy of God]
+		und welche Nachrichten zu Dir gelangen. ...
+</ab></div>
+</body>
+</text>
+</TEI>

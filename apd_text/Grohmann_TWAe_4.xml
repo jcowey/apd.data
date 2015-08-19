@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="439" xml:id="Grohmann_TWAe_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106631</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="4" unit="character" /> أعزّه اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="2"/>  من أبي إبرهيم البزّاز 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أطال اللّه بقاك وأعزّك وأكرمك 
+<lb n="5"/>  وتمّم نعمته عليك 
+<lb n="6"/>  قد وجّهت إليك أكرمك اللّه بالغلالة وثمنها 
+<lb n="7"/>  أحد عشر قيراطا ونصف وعندك غلالتين 
+<lb n="8"/>  <del rend="erasure" status="unremarkable">پمپهما</del> شراهما أحد وعشرين قيراطا <app type="BL"><lem resp="APD">ولخيّاة </lem><rdg resp="Diem">وعمل</rdg></app> قيراط 
+<lb n="9"/>  فصار اثنين وعشرين قيراط فذلك 
+<lb n="10"/>  دينر وثلث وقيراطين فامر له أكرمك اللّه فيه 
+<lb n="11"/>  فإنّه صاحب بضاعة وليس عليه محتمل 
+<lb n="12"/>  أطال اللّه بقاك وأعزّك وأكرمك وأتم 
+<lb n="13"/>  نعمته عليك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>**** ʾaʿazza hu ăl lāhu 
+ <lb n="2"/>min ʾabī ʾibrāhīma ăl bazzāzi 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka 
+ <lb n="5"/>wa tammama niʿmata hu ʿalay ka 
+ <lb n="6"/>qad waǧǧahtu ʾilay ka ʾakrama ka ăl lāhu bi ăl ġilālaẗi wa ṯamanu hā 
+ <lb n="7"/>ʾaḥada ʿašara qīrāṭ:an wa niṣf:un wa ʿinda ka ġilālatayni 
+ <lb n="8"/>širā humā ʾaḥad:un wa ʿišrīna qīrāṭ:an wa ʿamal:un li ḫayyāẗ:in qīrāṭ 
+ <lb n="9"/>fa ṣāra ĭṯnayni wa ʿišrīna qīrāṭ fa ḏālika 
+ <lb n="10"/>dīnār:un wa ṯulṯ:un wa qīrāṭayni fa ŭʾmur la hu ʾakrama ka ăl lāhu fī hi 
+ <lb n="11"/>fa ʾinna hu ṣāḥibu biḍāʿaẗ:in wa laysa ʿalay hi muḥtamil:un 
+ <lb n="12"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾatamma 
+ <lb n="13"/>niʿmata hu ʿalay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[An N. N. Sohn des N. N.], Gott stärke ihn,
+			<lb n="2"/>
+		von Abū Ibrahīm, dem Linnenhändler.
+			<lb n="3"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+			<lb n="4"/>
+		Gott lasse Dich lange leben und stärke Dich und erweise sich Dir wohltätig
+			<lb n="5"/>
+		und vollende seine Gnade an Dir {und bei Dir.}
+			<lb n="6"/>
+		Ich habe Dir - Gott erweise sich Dir wohltätig - bereits eine Robe zum Preise
+		Ich sandte Dir (Gott möge sich Dir wohlthätig erweisen) die Robe; ihr Preis beträgt 
+			<lb n="7"/>
+		beträgt 11 1/2 Karat. Geliefert sind Dir weiters noch zwei Roben; 
+		von elf einhalb Karat zugesandt, während sich bei Dir noch zwei Roben
+			<lb n="8"/>
+		ihr Kaufpreis beträgt 21 Karat, der Lohn des Schneiders 1 Karat, 
+		zum Kaufpreise von einundzwanzig Karat befinden, und für den Schneider ein Karat,
+			<lb n="9"/>
+		das macht 22 Karat - Summa 
+		das macht also zweiundzwanzig Karat, Summa
+			<lb n="10"/>
+		1 1/3 Dînâr und 2 (-1/2) Karat. Befiehl ihm doch (Gott möge sich Dir wohlthätig erweisen), er möge bezahlen! 
+		ein ein Drittel Dīnār und zwei Karat. So gib ihm - Gott erweise sich Dir wohltätig - diesbezüglich (Zahlungs)auftrag;
+			<lb n="11"/>
+		denn er ist ja der Besitzer der Ware, und es ist niemand, der die Verantwortung für ihn übernimmt.
+		Er ist ja der Besitzer der Waare, es ist ihm dies doch nicht zulässig!
+			<lb n="12"/>
+		Gott lasse Dich lange leben und stärke Dich und erweise sich Dir wohltätig und vollende
+			<lb n="13"/>
+		seine Gnade an Dir.
+</ab></div>
+</body>
+</text>
+</TEI>

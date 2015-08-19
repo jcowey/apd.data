@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1697" xml:id="Grohmann_APEL_213" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 213</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_213</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169447</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم فشن 
+<lb n="verso 3"/>  ‮يوسف وأخوه ‪γιʹβʹ‬ 
+<lb n="verso 4"/>  ‮جرجه وأنه ‪γιʹβʹ‬ 
+<lb n="verso 5"/>  ‮بقام بن سور ‪ςϰʹδʹ‬ 
+<lb n="verso 6"/>  ‮بسطس <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 7"/>  ‮بهيوه بن جوش ‪ςϰʹδʹ‬ 
+<lb n="verso 8"/>  ‮جرجه ‪αχϰʹδʹ ιʹβʹ‬ 
+<lb n="verso 9"/>  سروبو 
+<lb n="verso 10"/>  ‮قلته ‪ςϰʹδʹ ϰʹδʹ‬ أتناس ‪χιʹβʹ‬ 
+<lb n="verso 11"/>  ‮قلته وقزمان 
+<lb n="verso 12"/>  ‮إسحق ‮‪ςϰʹδʹ‬ سهمه ‪<unclear reason="undefined" cert="high">ς</unclear>ϰʹδʹ‬ 
+<lb n="verso 13"/>  ‮بحلبس وأصحابه ‪αχ γιʹβʹ‬ 
+<lb n="verso 14"/>  ‮بمون ‪ιʹβʹ‬ 
+<lb n="verso 15"/>  ‮قزمان البنّا ‪ςϰʹδʹ‬ 
+<lb n="verso 16"/>  ‮يحنّس وبهيوه ‪ς‬ 
+<lb n="verso 17"/>  ‮بن فيلامو ‪γγʹ‬ 
+<lb n="verso 18"/>  فذلك 
+<lb n="recto 1"/>  <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="recto 2"/>  ‮سور ‪χ‬ قزمان <supplied reason="omitted" cert="high">ا</supplied>لبنّا ‪ς‬ هميسه ‪ςϰʹδʹ‬ أتناس وقلته ‪μʹηʹχ‬ 
+<lb n="recto 3"/>  ‮سورس ‪ς‬ 
+<lb n="recto 4"/>  ‮إسحق ‪ς‬ 
+<lb n="recto 5"/>  ‮هميسه ‪μʹηʹ‬ قلته ‪μʹηʹ‬ بمين بن ‪ϰε‬ 
+<lb n="recto 6"/>  ‮قلته وأنتناس ‪ϰβηʹ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi fašn:un 
+ <lb n="3"/>yūsufu wa ʾaḫū hu ‪3 1/12 
+ <lb n="4"/>ǧirǧahu wa ʾanahu ‪3 1/12 
+ <lb n="5"/>baqāmu bnu sūra ‪6 1/24 
+ <lb n="6"/>bisṭusu ‪6  1/24 
+ <lb n="7"/>bihyūhu bnu ǧūša ‪6 1/24 
+ <lb n="8"/>ǧirǧahu 1/12 ‪1 1/2+1/24 
+ <lb n="9"/>sarwabū 
+ <lb n="10"/>qultahu 1/24 ‪6 1/24 ʾatanāsu ‪2/3+1/12 
+ <lb n="11"/>qultahu wa quzmānu 
+ <lb n="12"/>ʾisḥāqu ‮‪6 1/24 sahmahu ‪6 1/24 
+ <lb n="13"/>baḥalbasu wa ʾaṣḥābu hu 3 1/12 1 2/3 
+ <lb n="14"/>bamūnu ‪1/12 
+ <lb n="15"/>quzmānu ăl bannāʾu ‪6 1/24 
+ <lb n="16"/>yuḥannisu wa bihyūhu ‪6 
+ <lb n="17"/>bnu fīlāmū ‪3 1/3 
+ <lb n="18"/>fa ḏālika 
+ <lb n="19"/>******* 
+ <lb n="20"/>sūr:un ‪1/2 quzmānu ăl bannāʾu ‪6 humīsahu ‪6 1/24 ʾatanāsu wa qultahu ‪2 /3  1/48 
+ <lb n="21"/>sūrusu ‪6 
+ <lb n="22"/>ʾisḥāqu ‪6 
+ <lb n="23"/>humīsahu 1/48 qultahu ‪1/48 bamīnu bnu ‪25 
+ <lb n="24"/>qultaha wa ʾantanāsu ‪22 1/8 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[In] the name of God, the Compassionate, the Merciful. Fašn.
+			<lb n="3"/>
+		Joseph and his brother 3 1/12
+			<lb n="4"/>
+		Ǧirǧe and Ana 3 1/12
+			<lb n="5"/>
+		Pqâm b. Sôr 6 1/24
+			<lb n="6"/>
+		Pistos 〚.〛 6 1/24
+			<lb n="7"/>
+		Piheu b. Ǧôš 6 1/24 〚1 [..] 1/8〛
+			<lb n="8"/>
+		Ǧirǧe 1/12 1 1/2+1/24
+			<lb n="9"/>
+		Sarwabû (?)
+			<lb n="10"/>
+		Qolte 1/24, 6 1/24 Atanâs 2/3+1/12
+			<lb n="11"/>
+		Qolte and Quzmân 〚6 1/24 (?) ......... 〛
+			<lb n="12"/>
+		Isaac 6 1/24, Sahma (?) 6 1/24
+			<lb n="13"/>
+		Pa-Ḥalbas (?) and his mates 3 1/12 1 2/3
+			<lb n="14"/>
+		Pamûn 1/12
+			<lb n="15"/>
+		Quzmân, the builder 6 1/24
+			<lb n="16"/>
+		Yoḥannes and Piheu 6
+			<lb n="17"/>
+		b. Philamon (Fîlâmû) 3 1/3
+			<lb n="18"/>
+		This makes:
+			<lb n="19"/>
+			<lb n="20"/>
+		Sôr 1/2, Quzmân, the builder, 6, Homîse 6 1/24, Atanâs and Qolte 2/3, 1/48
+			<lb n="21"/>
+		Syros (Sûros) 6
+			<lb n="22"/>
+		Isaac 6
+			<lb n="23"/>
+		Homîse 1/48, Qolte 1/48 Pamîn, son of 25
+			<lb n="24"/>
+		Qolte, and Antanâs 22 1/8
+</ab></div>
+</body>
+</text>
+</TEI>

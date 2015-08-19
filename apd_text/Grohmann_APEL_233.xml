@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1987" xml:id="Grohmann_APEL_233" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 233</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_233</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169719</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  دينر 
+<lb n="recto 2"/>  محمّد بن يوسف ÷÷÷ <gap reason="illegible" extent="5" unit="character" /> فرج الأسود ÷÷÷ 
+<lb n="recto 3"/>  ÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷ مراعي ÷÷÷ ÷÷÷÷ ÷ 
+<lb n="recto 4"/>  <gap reason="illegible" extent="1" unit="character" /> ÷ ÷ نخل 
+<lb n="recto 5"/>  شنوده إصطفن <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">لمـ</supplied>ـلّاح </lem><rdg resp="APD">الفلّاح </rdg><rdg resp="APD">الحلّاج </rdg><rdg resp="APD">الثلّاج</rdg></app> ÷÷÷ يحيى بن يعقوب ÷÷÷÷÷÷ 
+<lb n="recto 6"/>  ÷÷÷÷ ÷÷÷÷ ÷÷÷ 
+<lb n="recto 7"/>  بطرس بهيف ÷÷÷÷÷ 
+<lb n="recto 8"/>  ÷÷÷÷÷ 
+<lb n="recto 9"/>  المصايد أبماله الصّيّاد ÷÷÷÷ بلتوس الصّيّاد ÷÷÷÷ 
+<lb n="recto 10"/>  ÷÷÷ ÷ ÷÷÷ ÷÷÷ 
+<lb n="recto 11"/>  إسحق العسر ÷÷ هروره الصّـ<supplied reason="lost" cert="high">ـيّـ</supplied>ـا<supplied reason="lost" cert="high">د</supplied> ÷÷÷ 
+<lb n="recto 12"/>  <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">÷</supplied><gap reason="illegible" extent="1" unit="character" /> 
+<lb n="recto 13"/>  جعفر بن <app type="BL"><lem resp="APD">رمضـ<supplied reason="lost" cert="high">ـان</supplied> </lem><rdg resp="APD">زمطرة</rdg></app> ÷÷÷÷ القاسم بن اللّيث <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷÷ 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> جبريل الصّـ<supplied reason="lost" cert="high">ـيّاد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  إلى مقران دينر دينر 
+<lb n="verso 2"/>  أبيمه الجبّاش ÷÷÷÷ كيل ڤپصاص ÷÷÷÷ 
+<lb n="verso 3"/>  ÷<unclear reason="undefined" cert="high">÷</unclear> ÷ 
+<lb n="verso 4"/>  هميسه سمبره ÷÷ <app type="BL"><lem resp="APD">طلمى </lem><rdg resp="APD">طلمى</rdg></app> الرّاعي ÷÷ 
+<lb n="verso 5"/>  بضمان يحيى 
+<lb n="verso 6"/>  بجوش الغسّال ÷÷ إبشايه إسحق ÷÷ 
+<lb n="verso 7"/>  <supplied reason="lost" cert="high">شـ</supplied>ـنوده ساره ÷÷ بن <app type="BL"><lem resp="APD">جرمنه </lem><rdg resp="APD">حرميه </rdg><rdg resp="APD">جرمنه</rdg></app> أخو <app type="BL"><lem resp="APD">حرمنـ<supplied reason="lost" cert="high">ـه</supplied> </lem><rdg resp="APD">حرميه </rdg><rdg resp="APD">جرمنه</rdg></app> <supplied reason="lost" cert="high">بـ</supplied>ـلوطس ÷÷ 
+<lb n="verso 8"/>  مراعي مقران مراعي 
+<lb n="verso 9"/>  الحسين بن طلـ<supplied reason="lost" cert="high">ـيـ</supplied>ـب ÷÷ محمّد بن موسى ÷÷÷ 
+<lb n="verso 10"/>  ÷÷÷ 
+<lb n="verso 11"/>  <supplied reason="lost" cert="high">مـ</supplied>ـرقوره الحارس ÷ ÷÷<supplied reason="lost" cert="high">÷</supplied> <gap reason="illegible" extent="2" unit="character" />ا <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد الحارس ÷÷ 
+<lb n="verso 12"/>  <supplied reason="lost" cert="high">÷÷</supplied>÷ 
+<lb n="verso 13"/>  موسى بن حسّا<supplied reason="lost" cert="high">ن</supplied> ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 14"/>  ÷÷÷ <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso 15"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 16"/>  <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="right margin 1"/>  ابن <unclear reason="undefined" cert="high">جبيرة</unclear> ÷ 
+<lb n="right margin 2"/>  ÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dīnār:un 
+ <lb n="2"/>muḥammadu bnu yūsufa 3 1/12 ***** faraǧ:uni ăl ʾaswadu 2 1/12 
+ <lb n="3"/>2/3+1/8+1/6 2/3+1/24 * 1/6+1/8+1/48 marāʿī 1/3+1/8+1/3 1 1/2+1/8 1/3 
+ <lb n="4"/>* 1/2 1/8 naḫl:un 
+ <lb n="5"/>šanūdahu ʾiṣṭafana ăl mallāḥu fallāḥu ḥallāǧu ṯallāǧu 5 1/6+1/8 yaḥyà bnu yaʿqūba 1 1/3+1/8+1/12+1/4 
+ <lb n="6"/>1 1/3+1/12 1 1/2+1/12 1 1/2+1/8 
+ <lb n="7"/>buṭrusu bahīfa 5 2/3+1/24+1/6 
+ <lb n="8"/>1 1/2+1/24+1/48 
+ <lb n="9"/>ăl maṣāyidu ʾabamālahu ăṣ ṣayyādu 2 1/2+1/24+1/48 bilatūsu ăṣ ṣayyādu 4 1/24+1/48 
+ <lb n="10"/>1/2+1/4+1/6 1/48 1/2+1/4+1/6 2/3+1/48+1/3 
+ <lb n="11"/>ʾisḥāqu ăl ʿasiru 1 2/3 harūrahu ăṣ ṣayyādu 3 1/24 
+ <lb n="12"/>* 1/8+* 
+ <lb n="13"/>ǧaʿfaru bnu ramaḍāna zamṭaraẗa 6 1/2+1/8+1/48 ăl qāsimu bnu ăl layṯi *** 
+ <lb n="14"/>*** 1 1/12+1/6 
+ <lb n="15"/>*** * ** ǧibrīlu ăṣ ṣayyādu *** 
+ <lb n="16"/>ʾilà miqrāna dīnār:un dīnār:un 
+ <lb n="17"/>ʾabīmahu ăl ǧabbāšu 1/2+1/24+1/6 kaylu fBṣʾṣ 2 1/6+1/8+1/42 
+ <lb n="18"/>10 1/8 1/6 
+ <lb n="19"/>humīsahu sambraha 1 1/8 ẓalmà ṭulmà ăr rāʿī 2 1/4 
+ <lb n="20"/>bi ḍamāni yaḥyà 
+ <lb n="21"/>baǧūšu ăl ġassālu 1 1/4 ʾibšāyahu ʾisḥāqa 1 1/8 
+ <lb n="22"/>šanūdahu sāraha 1 1/8 bnu ǧarmanaha ḥarminaha ḥarmiyaha ʾaḫū ǧarmanaha ḥarminaha ḥarmiyaha bilūṭisa 1 1/8 
+ <lb n="23"/>marāʿī miqrāna marāʿī 
+ <lb n="24"/>ăl ḥusaynu bnu ṭulayb:in 10 1/48 muḥammadu bnu mūsà 1/24+1/48 
+ <lb n="25"/>1/24+1/48 
+ <lb n="26"/>marqūrahu ăl ḥārisu 1/8 1/24+1/28 ***ʾ ***d ăl ḥārisu 1/24 
+ <lb n="27"/>1/24+1/48 
+ <lb n="28"/>mūsà bnu ḥassān:in 1/8 *** 
+ <lb n="29"/>1/24+1/48 ***** 
+ <lb n="30"/>***s *** 
+ <lb n="31"/>*** 10 *** 
+ <lb n="32"/>ĭbnu ǧubayraẗa 1/8 
+ <lb n="33"/>1/8 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Dînâr
+			<lb n="2"/>
+		Muḥammad b. Yûsuf 3 1/12  [...].. Faraǧ, the black, 2 1/12
+			<lb n="3"/>
+		2/3+1/8+1/6 carat, [.]2/3+1/24, pasture-tax 1/6+1/8+1/48  1/3+1/8+1/3 carat, 1 1/2+1/8  1/3 carat
+			<lb n="4"/>
+		1/2+[.] tax on palms 1/8 carat
+			<lb n="5"/>
+		Šanûda Stephen, th[e s]ailor, 5 1/6+1/8 Yaḥyâ b. Yaʿqûb 1 1/3+1/8+1/12+1/4 carat
+			<lb n="6"/>
+		1 1/3+1/12  1 1/2+1/12  1 1/2+1/8
+			<lb n="7"/>
+		Buṭrus Bahîf 5 2/3+1/24+1/6 carat
+			<lb n="8"/>
+		1 1/2+1/24+1/48
+			<lb n="9"/>
+		fishing-tax Abamâle, the fisherman, 2 1/2+1/24+1/48 Bilatûs, the fisherman, 4 1/24+1/48
+			<lb n="10"/>
+		1/2+1/4+1/6 carat 1/48  1/2+1/4+1/6 carat, 2/3+1/48+1/3 carat
+			<lb n="11"/>
+		Isḥâq, the ill-tempered, 1 2/3 Harûre, the fi[sh]er[man], 3 1/24
+			<lb n="12"/>
+		[. 1/8] [...]
+			<lb n="13"/>
+		Ǧaʿfar b. Ramaḍ[ân] 6 1/2+1/8+1/48 al-Qâsim b. al-Laiṯ [...]
+			<lb n="14"/>
+		[...] 1/12+1/6 carat
+			<lb n="15"/>
+		[...] ..... Ǧibrîl, the fis[herman, ...]
+			<lb n="16"/>
+		To Miqrân. Dînâr Dînâr
+			<lb n="17"/>
+		Abîme, the barber, 1/2+1/24+1/6 carat Chael .................. 2 1/6+1/8+1/42
+			<lb n="18"/>
+		10 1/8+1/6 carat
+			<lb n="19"/>
+		Homîse Sembre 1 1/8 Ẓalmâ, the shepherd, 2 1/4
+			<lb n="20"/>
+		on Yaḥyâ&#039;s bail
+			<lb n="21"/>
+		Beǧôš, the washerman, 1 1/4 Ibšâye Isḥâq 1 1/8
+			<lb n="22"/>
+		[Ša]nûda Sâre 1 1/8 The son of Ḥermine, brother of Ḥermin[e Be]lôṭes, 1 1/8
+			<lb n="23"/>
+		pasture-tax of Miqrân, pasture-tax
+			<lb n="24"/>
+		al-Ḥusain b. Ṭula[i]b 10 1/48 Muḥammad b. Mûsâ 1/24+1/48
+			<lb n="25"/>
+		1/24+1/48
+			<lb n="26"/>
+		[Me]rqûre, the guardian, [. 1/8] 1/24+1/28 [......]d, the guardian, 1/24
+			<lb n="27"/>
+		1/24[+1/48]
+			<lb n="28"/>
+		Mûsâ b. Ḥassâ[n] [.]1/8 [...]
+			<lb n="29"/>
+		1/24+1/48 .. [...]
+			<lb n="30"/>
+		[..........]s [...]
+			<lb n="31"/>
+		[...] 10 [...]
+			<lb n="32"/>
+		Ibn Ǧubaira (?) 1/8
+			<lb n="33"/>
+		1/8
+</ab></div>
+</body>
+</text>
+</TEI>

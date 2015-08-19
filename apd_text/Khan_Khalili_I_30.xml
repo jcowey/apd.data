@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1534" xml:id="Khan_Khalili_I_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 30 (=P.Khalili II 76)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169305</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـح بن <app type="BL"><lem resp="APD">باشر </lem><rdg resp="APD">باشر </rdg><rdg resp="APD">ناشر</rdg></app> <gap reason="illegible" precision="low" extent="3"/> بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أستودع اللّه لك خير مستودع وأستأمنه عليك كتابي هذا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  كثيرا ووصل كتابك إلي وسررت بعلم سلامتك وسألت اللّه <unclear reason="undefined" cert="high">زيادتك</unclear> 
+<lb n="5"/>  وقد أنفذت جميع ما كان قبلي من القمح <app type="BL"><lem resp="APD">والحمد </lem><rdg resp="LS">فالحمد</rdg></app> للّه على عونه 
+<lb n="6"/>  وأرجوا أن أكون عندكم بعد كتابي <app type="BL"><lem resp="APD">يومين </lem><rdg resp="Diem">بيومين</rdg></app> أو ثلثة أيّام <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">على</unclear> 
+<lb n="7"/>  أستودع اللّه لك خير مستودع 
+<lb n="8"/>  وصلّى اللّه على محمّد وآله وسلّم تسليم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***ḥ bn bāšir:in nāšir:in yāsir:in *** bni *** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾastawdiʿu ăl lāha la ka ḫayra mustawdaʿ:in wa ʾastaʾminu hu ʿalay ka kitāb ī hāḏā *** 
+ <lb n="4"/>kaṯīr:an wa waṣala kitābu ka ʾilay ya wa surirtu bi ʿilmi salāmati ka wa saʾaltu ăl lāha ziyādata ka *** 
+ <lb n="5"/>wa qad ʾanfaḏtu ǧamīʿa mā kāna qibal ī mina ăl qamḥi wa fa ăl ḥamdu li l lāhi ʿalà ʿawni hi *** 
+ <lb n="6"/>wa ʾarǧū ʾan ʾakūna ʿinda kum baʿda kitāb ī ø bi yawmayni ʾaw ṯalāṯaẗa ṯalāṯaẗi ʾayyām:in *** ʿly 
+ <lb n="7"/>ʾastawdiʿu ăl lāha la ka ḫayra mustawdaʿ:in 
+ <lb n="8"/>wa ṣallà ăl lāhu ʿalà muḥammad:in wa ʾāli hi wa sallama taslīm 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		... son of Yasir ...
+		[...] ... son of Yāsir [...] son of [...].
+			<lb n="2"/>
+		In the name of God the merciful and compassionate.
+			<lb n="3"/>
+		Ich gebe Dich in die Obhut Gottes als des besten, in dessen Obhut etwas gegeben werden kann...
+		I commend you to God&#039;s good protection and ask him to grant you safety. I am writing to you (literally: this letter of mine) [...]
+			<lb n="4"/>
+		a lot. I have received your letter. I was glad to hear that you were well and I asked God to give you increase.
+		I have received your letter. I was glad to hear that you are well and I asked God to give you increase.
+			<lb n="5"/>
+		I have sent all the wheat I have, God be praised for his help.
+		I have sent all the wheat I have, God be praised for His help!
+			<lb n="6"/>
+		I hope I shall be with you two or three days after writing (this) letter [...] ... [...].
+			<lb n="7"/>
+		I commend you to God&#039;s good protection.
+			<lb n="8"/>
+		May God give abundant blessings to Muḥammad and his family and save them.
+		May God give abundant blessings to Muhammad and his family and save them.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1588" xml:id="Prag_080" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 08</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_080</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169346</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">سـ</supplied>ـپه σμγ 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> بن رياح وقاسم بن يحيى وياسـ<supplied reason="lost" cert="high">ـر</supplied> بن 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> بهذا الكتاب وذلك في ذي الحجّة 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> وعلى شهادة قاسم بن يحيى 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> محمّد بجميع ما في هذا <supplied reason="lost" cert="high">الكتاب</supplied> وذلك في 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>sanaẗi 243 
+ <lb n="2"/>*** bn riyāḥa wa qāsim bn yaḥyà wa yāsir bn 
+ <lb n="3"/>*** *** bi hāḏā ăl kitābi wa ḏālika fī ḏī ăl ḥiǧǧaẗi 
+ <lb n="4"/>*** wa ʿalà šahādaẗi qāsimi bni yaḥyà 
+ <lb n="5"/>*** muḥammad:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  des Jah]res 243.
+		 <lb n="2"/>
+ 	  ] b. Riyāḥ und Qāsim b. Yaḥyā und Yāsi[r] b.
+		 <lb n="3"/>
+ 	  ] in dieser Urkunde und dies im Ḏu&#039;l-Ḥiǧǧa
+		 <lb n="4"/>
+ 	  ] und für das Zeugnis des Qāsim b. Yaḥyā
+		 <lb n="5"/>
+ 	  ] Muḥammad hinsichtlich allem was in dieser [Urkunde] (steht), und zwar im
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

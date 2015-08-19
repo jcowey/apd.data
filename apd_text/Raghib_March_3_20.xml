@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="675" xml:id="Raghib_March_3_20" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 20</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_20</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106760</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  وصل إلي كتابك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  جنازة مرة عمران <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  كتابي ستّة <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="5"/>  أشتري و<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وباعث إلى أبي علـ<supplied reason="lost" cert="high">ـيّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  منهم <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8 right margin 1"/>  ولم تذكر في كتابك الدّينر 
+<lb n="9 right margin 2"/>  الشّهري والثّلاث الدّراهم 
+<lb n="10 right margin 3"/>  ونصف لأبي علي 
+<lb n="top 1"/>  لأبي هريرة أكرمه اللّه بطا<supplied reason="lost" cert="high">عته</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top 2"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="top left 1"/>  عنده عشرة و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top left 2"/>  ولم يكتب بوصول <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top left 3"/>  <gap reason="illegible" precision="low" extent="3"/> وعشرة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top left 4"/>  فذلك خمسة و<unclear reason="undefined" cert="high">سـ</unclear><supplied reason="lost" cert="high">ـتّـ</supplied><unclear reason="undefined" cert="high">ـة</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi *** 
+ <lb n="2"/>waṣala ʾilay ya kitābu ka *** 
+ <lb n="3"/>ǧanāzaẗ maraẗi ʿimrāna *** 
+ <lb n="4"/>kitāb ī sittaẗ **** 
+ <lb n="5"/>ʾaštarī wa ** *** 
+ <lb n="6"/>wa bāʿiṯ:un ʾilà ʾabī ʿaliyy:in *** 
+ <lb n="7"/>min hum **** *** 
+ <lb n="8"/>wa lam taḏkur fī kitābi ka ăd dīnāra 
+ <lb n="9"/>ăš šahriyya wa ăṯ ṯalāṯa ăd darāhima 
+ <lb n="10"/>wa niṣf li ʾabī ʿaliyy:in 
+ <lb n="11"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi *** 
+ <lb n="12"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="13"/>ʿinda hu ʿašaraẗ:un wa *** 
+ <lb n="14"/>wa lam yaktub bi wuṣūli *** 
+ <lb n="15"/>*** wa ʿašaraẗ *** 
+ <lb n="16"/>fa ḏālika ḫamsaẗ:un wa sittaẗ *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricor[dieux!
+			<lb n="2"/>
+		Ta lettre m&#039;est parvenue [
+			<lb n="3"/>
+		les funérailles de la femme de ʿImrān [
+			<lb n="4"/>
+		ma lettre six . [
+			<lb n="5"/>
+		J&#039;achète et .. [
+			<lb n="6"/>
+		et l&#039;enverrai à Abū ʿAlī [
+			<lb n="7"/>
+		d&#039;eux .... [
+			<lb n="8"/>
+		Tu n&#039;as pas mentionné dans ta lettre le dinar
+			<lb n="9"/>
+		ayant cours et les trois dirhams
+			<lb n="10"/>
+		et demi appartenant à Abū ʿAlī.
+			<lb n="11"/>
+		À Abū Hurayra - que Dieu l&#039;honore par l&#039;obéissance [(qui Lui est due)!
+			<lb n="12"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="13"/>
+		Il a chez lui dix et [
+			<lb n="14"/>
+		Il n&#039;a pas écrit sur l&#039;arrivée de [
+			<lb n="15"/>
+		[...] et dix [
+			<lb n="16"/>
+		Cela fait cinq et six (?) ...[
+</ab></div>
+</body>
+</text>
+</TEI>

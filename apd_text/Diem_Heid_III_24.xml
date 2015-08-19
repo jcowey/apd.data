@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2276" xml:id="Diem_Heid_III_24" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_24</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> <supplied reason="lost" cert="high">يعذر</supplied> <supplied reason="lost" cert="high">سيّد</supplied>ي ومولاي في القرطاس فلم يحضر غيره 
+<lb n="2"/>  <supplied reason="lost" cert="high">وصلت</supplied> <supplied reason="lost" cert="high">رقعتك</supplied> يا سيّدي ومولاي ورئسي أطال اللّه بقاك وفهمتها وسرّنی 
+<lb n="3"/>  <supplied reason="lost" cert="high">علم</supplied> <supplied reason="lost" cert="high">خبرك</supplied> <supplied reason="lost" cert="high">أ</supplied>طابه اللّه وأنا أمتثل ما رسمته ولا أتأخّر ولو كنت واللّه 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـك غير أنّي أتحمّل لك كل مشقّة وقد انفذت الثّياب 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">مع</supplied> حسن فكون أنت أيّدك اللّه حسن كامل بانفاذ 
+<lb n="6"/>  <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إلـ</supplied>ـی </lem><rdg resp="APD">ولا</rdg></app> و<supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">پـ</supplied>ـوحره عپى مپڤصلإ ان سا 
+<lb n="7"/>  وحسبي اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi yaʿḏiru sayyid ī wa mawlā ya fī ăl qirṭāsi fa lam yaḥḍur ġayru hu 
+ <lb n="2"/>waṣalat ruqʿaẗu ka yā sayyid ī wa mawlā ya wa raʾīs ī ʾaṭāla ăl lāhu baqāʾa ka wa fahimtu hā wa sarra nī 
+ <lb n="3"/>ʿilmu ḫabari ka ʾaṭāba hu ăl lāhu wa ʾanā ʾamtaṯilu mā rasamta hu wa lā ʾataʾaḫḫaru wa law kuntu wa l lāhi 
+ <lb n="4"/>**k ġayr ʾan nī ʾataḥammalu la ka kulla mašaqqaẗ:in wa qad ʾanfaḏtu ăṯ ṯiyāba 
+ <lb n="5"/>*** ʾilay ka maʿa ḥasan:in fa kūn ʾanta ʾayyada ka ăl lāhu ḥasan kāmil bi ʾinfāḏi 
+ <lb n="6"/>ăl **** *** ʾilay wa ya lā tuʾaḫḫir hu ʿan nī mutafaḍḍil:an ʾin šāʾa ăl lāhu 
+ <lb n="7"/>wa ḥasb ī ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Erbarmungsvollen! Es entschuldige] mein [He]rr und Patron das Papier, aber es war nichts anderes da!
+			<lb n="2"/>
+		[Dein Brief ist angekommen], o mein Herr, Patron und Oberhaupt - Gott lasse Dich lange leben-, und ich habe ihn verstanden. Es hat mich gefreut,
+			<lb n="3"/>
+		[Nachricht über Dich zu erfahren] - Gott lasse sie (stets) gut sein -, und ich werde unverzüglich befolgen, was auch immer Du befiehlst, selbst wenn ich, bei Gott,
+			<lb n="4"/>
+		[...] .., aber ich nehme für Dich jede Mühe auf mich! - Ich habe die Kleidungsstücke
+			<lb n="5"/>
+		[... Dir durch] Ḥasan (&#034;Gut&#034;) übersandt. So habe denn Du - Gott stütze Dich - die vollkommene Güte,
+			<lb n="6"/>
+		[m]ir freundlicherweise [un]verzüglich [Bezeichnung von Gegenstand oder Geldbetrag] zu übersenden, so Gott will.
+			<lb n="7"/>
+		Gott ist mein Genüge.
+</ab></div>
+</body>
+</text>
+</TEI>

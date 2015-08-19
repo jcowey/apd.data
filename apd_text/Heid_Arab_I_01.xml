@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="31" xml:id="Heid_Arab_I_01" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 01 (= P.World p. 124 = Chrest.Khoury I 90)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_01</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">45353</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <unclear reason="undefined" cert="high">الّله</unclear> <unclear reason="undefined" cert="high">الرّحمن</unclear> <unclear reason="undefined" cert="high">الرّحيم</unclear> 
+ <lb n="2"/>  من قرّة بن شريك إلى بسيل 
+ <lb n="3"/>  صحب <app type="BL"><lem resp="APD">إشقوه </lem><rdg resp="“Grohmann, World”">إشقوه</rdg></app> فـإنّي أحمد 
+ <lb n="4"/>  اللّه الّذي لا إله إلّا هو 
+ <lb n="5"/>  أمّا بعد فإنّه قد ذهب 
+ <lb n="6"/>  من الزمن ما قد علمت 
+ <lb n="7"/>  وقد استأخرت الـجز 
+ <lb n="8"/>  په <unclear reason="undefined" cert="high">وحـ</unclear>ـصر عطا 
+ <lb n="9"/>  عطا عيالهم وخروج الجيو 
+ <lb n="10"/>  س ان سا الله ڤادا 
+ <lb n="11"/>  كتبي هذا فخذ فيما على ارضك 
+ <lb n="12"/>  من الجزية وعجّل بالأول 
+ <lb n="13"/>  فالاوّل ممّا جمعت 
+ <lb n="14"/>  ولا أعرفن ما أخّر<unclear reason="undefined" cert="high">ت</unclear> 
+ <lb n="15"/>  ما قبلك ولا كان له حبس 
+ <lb n="16"/>  فإن أهل أرضك 
+ <lb n="17"/>  قد فرغوا من زراعهم 
+ <lb n="18"/>  <supplied reason="lost" cert="high">ثمّ</supplied> <supplied reason="lost" cert="high">إنّ</supplied> اللّه معينهم على 
+ <lb n="19"/>  ما <unclear reason="undefined" cert="high">كـ</unclear>ـان عليهم من حق أمير 
+ <lb n="20"/>  المومپپن فلا يكونن فى أمر 
+ <lb n="21"/>  ك عحر ولا پاحير 
+ <lb n="22"/>  تحبّسا بما قبلك فإنّه لو 
+ <lb n="23"/>  قد <sic n="superfluous">لو</sic> <sic n="superfluous">ڤد</sic> اجتمع عندي مال 
+ <lb n="24"/>  قد أ<unclear reason="undefined" cert="high">عـ</unclear>ـطيت الجند 
+ <lb n="25"/>  عطاهم إن شا الّله فاكتب 
+ <lb n="26"/>  إلي بما اجتمع عندك 
+ <lb n="27"/>  مما جبيت من الجزية 
+ <lb n="28"/>  وكيف فعلت في ذلك 
+ <lb n="29"/>  والسّلم على من اتّبع الهدى 
+ <lb n="30"/>  وكتب جرير في شهر ربيع 
+ <lb n="31"/>  لاول سنة إحدى وتسعين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà basīla 
+ <lb n="3"/>ṣāḥibi ʾašfūha ʾišqawha fa ʾin nī ʾaḥmadu 
+ <lb n="4"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu fa ʾinna hu qad ḏahaba 
+ <lb n="6"/>min ăz zamani mā qad ʿalimta 
+ <lb n="7"/>wa qadi ĭstaʾḫarta ăl ǧizyaẗa 
+ <lb n="8"/>wa ḥaḍara ʿaṭāʾu ăl ǧundi 
+ <lb n="9"/>wa ʿaṭāʾu ʿiyāli him wa ḫurūǧu ăl ǧuyūši 
+ <lb n="10"/>ʾin šāʾa ăl lāhu fa ʾiḏā ǧāʾa ka 
+ <lb n="11"/>kitāb ī hāḏā fa ḫuḏ fī mā ʿalà ʾarḍi ka 
+ <lb n="12"/>mina ăl ǧizyaẗi wa ʿaǧǧil bi ăl ʾawwali 
+ <lb n="13"/>fa ăl ʾawwali mimmā ǧamaʿta 
+ <lb n="14"/>wa lā ʾaʿrifanna mā ʾaḫḫarta 
+ <lb n="15"/>mā qibala ka wa lā kāna la hu ḥabs:un 
+ <lb n="16"/>fa ʾinna ʾahla ʾarḍi ka 
+ <lb n="17"/>qad faraġū min zirāʿi him 
+ <lb n="18"/>ṯumma ʾinna ăl lāha muʿīnu hum ʿalà 
+ <lb n="19"/>mā kāna ʿalay him min ḥaqqi ʾamīri 
+ <lb n="20"/>ăl muʾminīna fa lā yakūnanna fī ʾamri ka 
+ <lb n="21"/>ʿaǧz:un wa lā taʾḫīr:un wa lā 
+ <lb n="22"/>taḥabbus:an bi mā qibala ka fa ʾinna hu law 
+ <lb n="23"/>qadi ĭǧtamaʿa ʿind ī māl:un 
+ <lb n="24"/>qad ʾaʿṭaytu ăl ǧunda 
+ <lb n="25"/>ʿaṭāʾa hum ʾin šāʾa ăl lāhu fa ŭktub 
+ <lb n="26"/>ʾilay ya bi mā ĭǧtamaʿa ʿinda ka 
+ <lb n="27"/>mimmā ǧabayta mina ăl ǧizyaẗi 
+ <lb n="28"/>wa kayfa faʿalta fī ḏālika 
+ <lb n="29"/>wa ăs salāmu ʿalà mani ĭttabaʿa ăl hudà 
+ <lb n="30"/>wa kataba ǧarīr:un fī šahri rabīʿa 
+ <lb n="31"/>ăl ʾawwali sanaẗa ʾiḥdà wa tisʿīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Au nom] de Dieu clément et miséricordieux!
+ 	  Im Namen Gottes, des Barmherzigen, des Erbarmers!
+ 	  In the name of God, the Compassionate, the Merciful!
+		 <lb n="2"/>
+ 	  De Qurra Ibn Ṣarīk à Basile,
+ 	  From Qorra ibn Sharîk to Basil,
+ 	  Von Qorra, dem Sohne des Šarīk, an Basilius,
+		 <lb n="3"/>
+ 	  Den Vorsteher (ṣāḥib) von Ašfūh. Ich preise
+ 	  pagarch of Eshqauh. I praise
+ 	  pagarque d&#039;Ašqawh. Je loue
+		 <lb n="4"/>
+ 	  Dieu qui est la seule divinité.
+ 	  God unto thee, besides whom there is no god.
+ 	  Gott, außer dem es keinen Gott gibt.
+		 <lb n="5"/>
+ 	  Des weiteren: Es ist vergangen
+ 	  Maintenant passons aux affaires: Il s&#039;est écoulé
+ 	  Thereafter: There has already passed
+		 <lb n="6"/>
+ 	  le temps que tu sais
+ 	  of the time what thou knowest,
+ 	  Von der Zeit, was Du weißt,
+		 <lb n="7"/>
+ 	  et tu as retardé (l&#039;envoi) du tri-
+ 	  Und Du hast noch immer die Geldsteuer (ǵizja) nicht geschickt.
+ 	  whilst thou art in arrear with the tribute, although the allowance for the troops
+		 <lb n="8"/>
+ 	  and the allowance for their families is due as well as the departure
+ 	  but, et le temps est venu de payer la solde aux troupes et
+ 	  Nun ist aber herangekommen der Termin für die Geldgratifikation der Truppen und
+		 <lb n="9"/>
+ 	  à leurs familles, et celui de la sorties des ar-
+ 	  Die ihrer Familien und für den Auszug der Heere,
+		 <lb n="10"/>
+ 	  mées, s&#039;il plaît à Dieu. Sitôt que t&#039;arrive
+ 	  of the army, if God wills! When therefore this
+ 	  So Gott will. Drum, wenn dieser mein Brief
+		 <lb n="11"/>
+ 	  letter comes unto thee, begin with (the transfer) of what is incumbent upon thy district
+ 	  ma lettre-ci, prends ce qui incombe à ton district
+ 	  Zu Dir kommt, mache Dich an das, was Deinem Lande obliegt
+		 <lb n="12"/>
+ 	  An Geldsteuer, und schicke eilends Sendung auf
+ 	  comme tribut et hâte-toi (d&#039;expédier) envoi
+ 	  of the tribute, and hasten to send (at the earliest convenience) remittance upon remittance
+		 <lb n="13"/>
+ 	  of what thou hast collected
+ 	  Sendung von dem, was Du zusammengebracht hast.
+ 	  sur envoi de ce que tu as ramassé.
+		 <lb n="14"/>
+ 	  and I will not learn that thou art in arrear with that
+ 	  En vérité je ne vourdrais pas savoir que tu as expédié tardivement
+ 	  ich will nicht erfahren, daß da zu spät schickst, 
+ 	  Und wahrlich, nicht will ich erfahren, daß Du zu spät schickst,
+		 <lb n="15"/>
+ 	  ce qui est disponible chez toi, et ceci ne doit pas être retenu (chez toi),
+ 	  und nicht (daß) es zurückgehalten wird
+ 	  Was bei Dir ist, und nicht soll es zurückgehalten werden,
+ 	  Was du schuldest ...
+ 	  what thou owest, and there may be no holding back.
+		 <lb n="16"/>
+ 	  car les gens de ton district
+ 	  Denn die Leute Deines Landes
+ 	  The peope of thy district
+		 <lb n="17"/>
+ 	  Haben ihre Aussaat beendigt.
+ 	  have already finished their agricultural work.
+ 	  on terminé leurs semailles;
+		 <lb n="18"/>
+ 	  [de plus] Dieu est leur aide dans
+ 	  [Ferner ist] Gott ihr Helfer in dem,
+ 	  So may God help them respecting
+		 <lb n="19"/>
+ 	  ce qui leur incombe du droit du prince
+ 	  that which is incumbent upon them of the claim of the Commander
+ 	  Was ihnen obliegt von dem Anspruch (ḥaqq) des Beherrschers
+		 <lb n="20"/>
+ 	  Der Gläubigen. Drum soll nicht vorkommen in Deiner Sache
+ 	  des croyants (sur eux); ainsi qu&#039;il n&#039;arrive dans
+ 	  of the Faithful. So there may not be in thy activity
+		 <lb n="21"/>
+ 	  and deficiency, arrear or
+ 	  Ein Manko, noch eine Verzögerung noch
+ 	  ton affaire ni manque, ni retard, ni
+		 <lb n="22"/>
+ 	  Eine Zurückhaltung dessen, was bei Dir ist. Wenn ich
+ 	  holding back, respecting what thou owest. For, if
+ 	  retenue de ce qui est chez toi. Car si
+		 <lb n="23"/>
+ 	  Geld zur Hand gehabt hätte,
+ 	  j&#039;avais de l&#039;argent entre mes mains,
+ 	  the money had been accumulated with me
+		 <lb n="24"/>
+ 	  I should have already paid the allowance
+ 	  j&#039;aurais donné aux troupes
+ 	  So hätte ich den Truppen ihre Geldgratifikation
+		 <lb n="25"/>
+ 	  Ausgezahlt, wenn Gott will. So schreibe
+ 	  leur solde, s&#039;il plaît à Dieu. Ainsi écris-
+ 	  to the army, if God wills! So write to
+		 <lb n="26"/>
+ 	  me what has been accumulated with thee
+ 	  Mir, wieviel bei Dir zusammengekommen ist
+ 	  moi ce qui s&#039;est ramassé chez toi
+		 <lb n="27"/>
+ 	  de ce que tu as perçu comme tribut
+ 	  of what thou hast collected of the tribute,
+ 	  Von dem, was Du von der Geldsteuer erhoben hast,
+		 <lb n="28"/>
+ 	  and how thou hast disposed of it.
+ 	  et comment tu as agi à cet égard.
+ 	  Und wie Du dabei zu Werke gegangen bist.
+		 <lb n="29"/>
+ 	  And hail to those who follow the right guidance,
+ 	  Heil über den, welcher der Rechtleitung folgt.
+ 	  Que le salut soit sur celui qui suit la Direction!
+		 <lb n="30"/>
+ 	  And Garîr has written (it) in the month of Rabîʿ
+ 	  (L&#039;) a écrit Ǧarīr au mois de rabīʿ
+ 	  Und es hat (dies) geschrieben Ǧarīr im Monat Rabīʿ
+		 <lb n="31"/>
+ 	  I de l&#039;année quatre-vingt-onze.
+ 	  I im Jahre einundneunzig.
+ 	  I of the year ninety one.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

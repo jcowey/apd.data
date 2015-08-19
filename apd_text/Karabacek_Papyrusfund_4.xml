@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="62" xml:id="Karabacek_Papyrusfund_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusfund 4</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Karabacek_Papyrusfund_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106499</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  تأخذ إحدى وعشرين هليلجة 
+<lb n="3"/>  وعشرة درهم خيار شمبر 
+<lb n="4"/>  وعشرة درهم وثلث 
+<lb n="5"/>  يبروع العجم وعشرة درهم 
+<lb n="6"/>  أبثمون ودرهمين <app type="BL"><lem resp="APD">أغريقون </lem><rdg resp="APD">أغريقون</rdg></app> 
+<lb n="7"/>  ‮اجمعه في قدر وطبّـ<supplied reason="lost" cert="high">ـق</supplied> 
+<lb n="8"/>  رأسـها وصب فيها من 
+<lb n="9"/>  الما قدر ثلثة أقداح 
+<lb n="10"/>  اطپحه حتّى يبقا من الما 
+<lb n="11"/>  قدح صلح ولو حضر له 
+<lb n="12"/>  نوم وصعبه بالعشى 
+<lb n="13"/>  فإذا كان مع الأذان اشربه 
+<lb n="14"/>  ولا تأكل شي إلى نصف النّهار 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taʾḫuḏu ʾiḥdà wa ʿišrīna halīlaǧaẗ:an 
+ <lb n="3"/>wa ʿašaraẗa darāhima ḫiyāri šambar:in 
+ <lb n="4"/>wa ʿašaraẗa darāhima wa ṯulṯa 
+ <lb n="5"/>yabrūʿi ăl ʿaǧami wa ʿašaraẗa darāhima 
+ <lb n="6"/>ʾabiṯimūna wa dirhamayni ʾaġarīqūna ʾaġārīqūna 
+ <lb n="7"/>ĭǧmaʿ hu fī qidr:in wa ṭabbiq 
+ <lb n="8"/>raʾsa hā wa ṣubbu fī hā mina 
+ <lb n="10"/>ăl māʾi qadra ṯalāṯaẗi ʾaqdāḥ:in 
+ <lb n="11"/>wa ŭṭbuḫ hu ḥattà yabqā mina ăl māʾi 
+ <lb n="12"/>qadaḥ:un ṣāliḥ:un wa law ḥaḍara la hu 
+ <lb n="13"/>nawm:un wa ṣaʿuba hu bi ăl ʿašà 
+ <lb n="14"/>fa ʾiḏā kāna maʿa ăl ʾaḏāni ĭšrab hu 
+ <lb n="15"/>wa lā taʾkul šayʾ ʾilà niṣfi ăn nahāri 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Allbarmherzigen!
+			<lb n="2"/>
+		Du nimmst ein und zwanzig Myrobalan
+			<lb n="3"/>
+		und zehn Drachmen Cassia
+			<lb n="4"/>
+		und zehn und ein drittel Drachmen
+			<lb n="5"/>
+		persischer Alraunwurzel und zehn Drachmen 
+			<lb n="6"/>
+		Epithymon und zwei Drachmen Agarikon; 
+			<lb n="7"/>
+		gieb alles zusammen in einen Topf und schliesse 
+			<lb n="8"/>
+		dessen Oeffnung, giess (vorher) in denselben 
+			<lb n="10"/>
+		Wasser im Betrage von drei Bechern und 
+			<lb n="11"/>
+		verkoche es, bis von dem Wasser übrig bleibt 
+			<lb n="12"/>
+		ein guter Becher voll. Wenn nun den Betreffenden (dich) der Schlaf 
+			<lb n="13"/>
+		überkömmt und das Abendessen ihm (dir) denselben beschwerlich macht: 
+			<lb n="14"/>
+		so trinke - falls es mit dem Adsân-Gebet geschieht - den Trank aus 
+			<lb n="15"/>
+		und iss nichts bis zum (nächsten) halben Tag.
+</ab></div>
+</body>
+</text>
+</TEI>

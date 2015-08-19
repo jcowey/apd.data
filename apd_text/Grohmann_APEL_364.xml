@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1846" xml:id="Grohmann_APEL_364" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 364</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_364</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169583</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 verso"/>  تذكرة ما لمحمّد بن علي عند حسن بن مرقو<supplied reason="lost" cert="high">رة</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر المراعـ<supplied reason="lost" cert="high">ـي</supplied> 
+<lb n="2 verso"/>  ‮من عند هدري الرّاعي ‮κ صارت إلى <supplied reason="lost" cert="high">مـ</supplied>ـحمّد بن زكير <gap reason="illegible" extent="1" unit="character" />‬‬ 
+<lb n="3 verso"/>  ‮الإناث الكبار ‮‪ιδ‬ الصّغار ‮γ الذّكور الكبار ‮ϛ تيس ‮β نقصه ε‬‬‬‬‬ 
+<lb n="4 verso"/>  ‮ الصعار 
+<lb n="5 verso"/>  ‮بسم اللّه الرّحمن الرّحيم خلف ‮<del rend="erasure" status="unremarkable">γ</del> الإناث ‪ιβ‬‬‬ 
+<lb n="6 verso"/>  اللّه <del rend="erasure" status="unremarkable">حپر</del> <del rend="erasure" status="unremarkable">حڤطا</del> <del rend="erasure" status="unremarkable">وهو</del> <del rend="erasure" status="unremarkable">ارحم</del> <del rend="erasure" status="unremarkable">الراحمپن</del> <del rend="erasure" status="unremarkable">وما</del> <del rend="erasure" status="unremarkable">پپڤڤوا</del> 
+<lb n="7 verso"/>  من <del rend="erasure" status="unremarkable">سى</del> <del rend="erasure" status="unremarkable">ڤهو</del> <del rend="erasure" status="unremarkable">پحلڤه</del> <del rend="erasure" status="unremarkable">وهو</del> <del rend="erasure" status="unremarkable">حپر</del> <del rend="erasure" status="unremarkable">الرارڤپن</del> <del rend="erasure" status="unremarkable">پدكـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـره</del></supplied> 
+<lb n="8 verso"/>  <del rend="erasure" status="unremarkable">ما</del> <del rend="erasure" status="unremarkable">لمحمد</del> <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">على</del> <del rend="erasure" status="unremarkable">عپد</del> <del rend="erasure" status="unremarkable">حسن</del> <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">مرڤور</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ه</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">من</del></supplied> 
+<lb n="9 verso"/>  <del rend="erasure" status="unremarkable">العپم</del> <del rend="erasure" status="unremarkable">ڤى</del> <del rend="erasure" status="unremarkable">رحپ</del> <del rend="erasure" status="unremarkable">وهو</del> <del rend="erasure" status="unremarkable">اول</del> <del rend="erasure" status="unremarkable">پوم</del> <del rend="erasure" status="unremarkable">من</del> <del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">پوپ</del></supplied> 
+<lb n="10 verso"/>  <del rend="erasure" status="unremarkable">سپه</del> <del rend="erasure" status="unremarkable">سپعه</del> <del rend="erasure" status="unremarkable">عسره</del> <del rend="erasure" status="unremarkable">وپلپـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـماپه</del></supplied> 
+<lb n="11 verso"/>  ‮<del rend="erasure" status="unremarkable">ثلاثة</del> <del rend="erasure" status="unremarkable">وعسرپن</del> <del rend="erasure" status="unremarkable">راس</del> <del rend="erasure" status="unremarkable">من</del> <del rend="erasure" status="unremarkable">العپم</del> <del rend="erasure" status="unremarkable">‮‪κγ‬</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12 verso"/>  ‮<del rend="erasure" status="unremarkable">إناثها</del> <del rend="erasure" status="unremarkable">‮‪ια‬</del> <del rend="erasure" status="unremarkable">ومن</del> <del rend="erasure" status="unremarkable">الاپاپ</del> <del rend="erasure" status="unremarkable">الصعار</del> <del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">γ</del></supplied> 
+<lb n="13 verso"/>  ‮<del rend="erasure" status="unremarkable">وتيسين</del> <del rend="erasure" status="unremarkable">‮β</del> <del rend="erasure" status="unremarkable">وحصپپن</del> <del rend="erasure" status="unremarkable">‮β</del> <del rend="erasure" status="unremarkable">ڤدلك</del> <del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">δ</del></supplied> 
+<lb n="14 verso"/>  ‮<del rend="erasure" status="unremarkable">ومن</del> <del rend="erasure" status="unremarkable">الدكور</del> <del rend="erasure" status="unremarkable">الصعار</del> <del rend="erasure" status="unremarkable">‮ι</del> <del rend="erasure" status="unremarkable">پپسپن</del> <del rend="erasure" status="unremarkable">‮β</del> <del rend="erasure" status="unremarkable">ڤدلك</del> 
+<lb n="15 verso"/>  <del rend="erasure" status="unremarkable">پلاپه</del> <del rend="erasure" status="unremarkable">وعسرپن</del> <del rend="erasure" status="unremarkable">راس</del> <del rend="erasure" status="unremarkable">حعل</del> <del rend="erasure" status="unremarkable">الله</del> <del rend="erasure" status="unremarkable">ڤثـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـها</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">الـ</del></supplied><del rend="erasure" status="unremarkable">ـپركـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـ</del></supplied><del rend="erasure" status="unremarkable">ـه</del> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="16 verso"/>  <del rend="erasure" status="unremarkable">وحپسها</del> <del rend="erasure" status="unremarkable">پرحمپه</del> <del rend="erasure" status="unremarkable">اپه</del> <del rend="erasure" status="unremarkable">ولى</del> <del rend="erasure" status="unremarkable">دلك</del> <del rend="erasure" status="unremarkable">والڤادر</del> <app type="BL"><lem resp="APD"><del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">علپه</del></supplied> </lem><rdg resp="Diem">وحبسها</rdg></app> 
+<lb n="17 verso"/>  <del rend="erasure" status="unremarkable">وكپپ</del> <del rend="erasure" status="unremarkable">محمد</del> <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">على</del> <del rend="erasure" status="unremarkable">پحطه</del> <del rend="erasure" status="unremarkable">ڤى</del> <del rend="erasure" status="unremarkable">رحپ</del> <del rend="erasure" status="unremarkable">وهو</del> <del rend="erasure" status="unremarkable">پوم</del> <del rend="erasure" status="unremarkable">الپلـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـپا</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ڤى</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">سلح</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">رحپ</del></supplied> <supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">سبه</del> </supplied>
+<lb n="18 verso"/>  ‮سبعة عشرة وثلثمائة ‮‪ια‬ ‮‪ιγ‬ β 
+<lb n="19 verso"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="20 verso"/>  اللّه خير حفظا وهو أرحم الرّاحمين وما تنفقوا من شي 
+<lb n="21 verso"/>  فهو يخلفه وهو خير الرّازقين تذكرة ما لمحمد بن علي عند حسن بن 
+<lb n="22 verso"/>  ‮مرقورة من الغنم في كهيك وهو ذي القعدة من سنة ‪τιη 
+<lb n="23 verso"/>  ‮ستّة وعشرين رأس ‮‪κϛ‬ جملة إناثها ثلاثة عشر <supplied reason="lost" cert="high">‪ιγ‬</supplied> 
+<lb n="24 verso"/>  ‮إناث صغار أربعة ‮δ وذكوره صغار سبعة ζ 
+<lb n="25 verso"/>  ‮وفحل واحد ‮α وعبور كبير α فذلك ستّة وعشرين ‪κϛ 
+<lb n="26 verso"/>  جعل اللّه فيها البركة <app type="BL"><lem resp="APD">وحبشها </lem><rdg resp="Diem">وحبسها</rdg></app> برحمته إنّه ولي ذلك والقادر عليه 
+<lb n="27 verso"/>  ‮وعند هدري ثمانية أروس جملة إناثها ‮γ وفحل α 
+<lb n="28 verso"/>  ‮وثلاث بهمات ‮γ وجدي ذكر ‮α غير رأس في آخر مسرى 
+<lb n="29 recto"/>  ‮بسم اللّه الرّحمن الرّحيم عند سليمن لسنة ثمان ‮‪τιη‬ بهمتين ‮β وعبور α 
+<lb n="30 recto"/>  ‮<supplied reason="lost" cert="high">مات</supplied> <supplied reason="lost" cert="high">منها</supplied> <supplied reason="lost" cert="high">‮α</supplied> α β من شاة واحدة 
+<lb n="31 recto"/>  ‮<unclear reason="undefined" cert="high">α</unclear> <unclear reason="undefined" cert="high">‮α</unclear> <unclear reason="undefined" cert="high">‮α</unclear> <unclear reason="undefined" cert="high">‮α‮</unclear> <unclear reason="undefined" cert="high">‮α</unclear> <unclear reason="undefined" cert="high">‮α</unclear> فـذلك δ 
+<lb n="32 recto between l. 15 and 16 of primary text"/>  ‮مرون الآبت ‮‪οϛΧ‬ وأيضا لسنة ثمان ‮‪μα‬ خرج من ذلك ‪ιγΧ 
+<lb n="33 recto between l. 15 and 16 of primary text"/>  ‮ الپاڤى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>taḏkiraẗu mā li muḥammadi bni ʿaliyy:in ʿinda ḥasani bni marqūraẗa **Br ăl marāʿī 
+ <lb n="2"/>min ʿinda hadrī ăr rāʿī 20 ṣārat ʾilà muḥammadi bni zukayr:in * 
+ <lb n="3"/>ăl ʾināṯu ăl kibāru 14 ăṣ ṣiġāru 3 ăḏ ḏukūru ăl kibāru 6 tays:un 2 naqṣu hu 5 
+ <lb n="4"/>ăṣ ṣiġāru 4 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḫalaf:un 3 ăl ʾināṯu 12 
+ <lb n="6"/>ăl lāhu ḫayru ḥufaẓāʾa wa huwa ʾarḥamu ăr rāḥimīna wa mā tunfiqū 
+ <lb n="7"/>min šayʾ:in fa huwa yaḫlufu hu wa huwa ḫayru ăr rāziqīna taḏkiraẗu 
+ <lb n="8"/>mā li muḥammadi bni ʿaliyy:in ʿinda ḥasani bni marqūraẗa mina 
+ <lb n="9"/>ăl ġanami fī raǧaba wa huwa ʾawwalu yawm:in min tūti 
+ <lb n="10"/>sanaẗi sabʿaẗa ʿašraẗa wa ṯalāṯi miʾaẗ:in 
+ <lb n="11"/>ṯalāṯaẗ:un wa ʿišrīna raʾs mina ăl ġanami 23 *** 
+ <lb n="12"/>ʾināṯu hā 11 wa mina ăl ʾināṯi ăṣ ṣiġāri 3 
+ <lb n="13"/>wa taysayni 2 wa ḫaṣiyyayni 2 fa ḏālika 4 
+ <lb n="14"/>wa mina ăḏ ḏukūri ăṣ ṣiġāri 10 taysayni 2 fa ḏālika 
+ <lb n="15"/>ṯalāṯaẗ:un wa ʿišrīna raʾs ǧaʿala ăl lāhu fī hā ăl barakaẗa * 
+ <lb n="16"/>wa ḥabasa ḥabaša hā bi raḥmati hi ʾinna hu waliyyu ḏālika wa ăl qādiru ʿalay hi 
+ <lb n="17"/>wa kataba muḥammadu bnu ʿaliyy:in bi ḫaṭṭi hi fī raǧaba wa huwa yawmu ăṯ ṯulāṯāʾi fī salḫi raǧabi sanaẗi 
+ <lb n="18"/>sabʿaẗa ʿašraẗa wa ṯalāṯi miʾaẗ:in 11 13 2 
+ <lb n="19"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="20"/>ăl lāhu ḫayru ḥufaẓāʾa wa huwa ʾarḥamu ăr rāḥimīna wa mā tunfiqū min šayʾ:in 
+ <lb n="21"/>fa huwa yaḫlufu hu wa huwa ḫayru ăr rāziqīna taḏkiraẗu mā li muḥammadi bni ʿaliyy:in ʿinda ḥasani bni 
+ <lb n="22"/>marqūraẗa mina ăl ġanami fī kahīka wa huwa ḏī ăl qaʿdaẗi min sanaẗi 318 
+ <lb n="23"/>sittaẗ:un wa ʿišrīna raʾs 26 ǧumlaẗ:an ǧumlaẗu ʾināṯi ʾināṯu hā ṯalāṯaẗa ʿašara 13 
+ <lb n="24"/>ʾināṯ:un ṣiġār:un ʾarbaʿaẗ:un 4 wa ḏukūru hu ṣiġār:un sabʿaẗ:un 7 
+ <lb n="25"/>wa faḥl:un wāḥid:un 1 wa ʿubūr:un kabīr:un 1 fa ḏālika sittaẗ:un wa ʿišrīna 26 
+ <lb n="26"/>ǧaʿala ăl lāhu fī hā ăl barakaẗa wa ḥabasa ḥabaša hā bi raḥmati hi ʾinna hu waliyyu ḏālika wa ăl qādiru ʿalay hi 
+ <lb n="27"/>wa ʿinda hadrī ṯamāniyaẗu ʾarʾus:in ǧumlaẗ:an ǧumlaẗu ʾināṯi ʾināṯu hā 3 wa faḥl:un 1 
+ <lb n="28"/>wa ṯalāṯu bahamāt:in 3 wa ǧady:un ḏakar:un 1 ġayra raʾs:in fī ʾāḫiri misrà 
+ <lb n="29"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʿinda sulaymāna li sanaẗi ṯamān:in 318 bahmatayni 2 wa ʿubūr:un 1 
+ <lb n="30"/>māta min hā 1 1 2 min šāẗ:in wāḥidaẗ:in 
+ <lb n="31"/>1 1 1 1 1 1 fa ḏālika 4 
+ <lb n="32"/>marwānu ăl ʾābitu 76+2/3 wa ʾayḍ:an li sanaẗi ṯamān:in 41 ḫaraǧa min ḏālika 13+1/2 
+ <lb n="33"/>ăl bāqī 97 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Memorandum of sheep belonging to Muḥammad b. ʿAlî (and) in the care of Ḥasan b. Merqû[re.....] The pastur[e...]
+			<lb n="2"/>
+		from (what was) in the care of Hatre (Hadrî), the shepherd, 20, there has come to [Mu]ḥammad b. Zukair [...]
+			<lb n="3"/>
+		big females 14, small (ones) 3, big males 6, he-goat(s) 2 deficiency 5
+			<lb n="4"/>
+		small (ones) 4
+			<lb n="5"/>
+		In the name of God, the Compassionate, the Merciful. Young animals 〚3〛, females 13
+			<lb n="6"/>
+		God 〚is the best preserver (of all things) and He is the most Charitable of the Charitables, and what yee give〛
+			<lb n="7"/>
+		〚He will restore (it); He is the great Maintenor. Memoran[dum]〛
+			<lb n="8"/>
+		〚[of] sheep belonging to Muḥammad b. ʿAlî (and) in the care of Ḥasan b. Merqūr[e]〛
+			<lb n="9"/>
+		〚in (the month of) Raǧab, and even on the first day of [Thot of the]〛
+			<lb n="10"/>
+		〚year threee [hundred] and seventeen〛
+			<lb n="11"/>
+		〚twenty-three head of sheep 23[...]〛
+			<lb n="12"/>
+		〚Thereof females 11 and small females [3〛
+			<lb n="13"/>
+		〚and two he-goats 2 and castrated goats 2, that makes [4]〛
+			<lb n="14"/>
+		〚and of small males 10 two he-goats, that makes〛
+			<lb n="15"/>
+		〚twenty-three head. May [they] with God&#039;s bless[ing] increase and multiply〛
+			<lb n="16"/>
+		〚and may He keep them together in His mercy. Verily, He is the master thereof, and He is mighty [thereof]〛
+			<lb n="17"/>
+		〚And Muḥammd b. ʿAlî has written it in his own handwriting in Raǧab, and even on Tues[day, last Raǧab of the year]〛
+			<lb n="18"/>
+		threehundred and seventeen. 11 13 2
+			<lb n="19"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="20"/>
+		God is the best Preserver of (all things) and He is the most Charitable of the Charitables, and what yee give
+			<lb n="21"/>
+		He will restore (it); He is the great Maintenor. Memorandum of sheep belonging to Muḥammad b. ʿAlî and in the care of Ḥasan b.
+			<lb n="22"/>
+		Merqûre in (the month of) Choiak, which corresponds to Ḏu&#039;l-Qaʿda of the year 318. 
+			<lb n="23"/>
+		Twenty-six head 26, the total of the females thereof (are) thirteen [13]
+			<lb n="24"/>
+		small females four 4, and small males seven 7.
+			<lb n="25"/>
+		and one (great) male 1, and one great lamb 1, and that makes twenty-six 26
+			<lb n="26"/>
+		May they with God&#039;s blessing increase and multiply, and may He keep them together in His mercy. Verily He is the master thereof and He is mighty thereof.
+			<lb n="27"/>
+		And in the care of Hatre are eight head. The total of the females thereof is three 3 and one (great) male 1
+			<lb n="28"/>
+		and three lambs 3, and a male kid 1, less one head on the last (day) of Mesori.
+			<lb n="29"/>
+		In the name of God, the Compassionate, the Merciful. In the care of Sulaimân are for the year eight 318: two lambs 2, small lamb 1
+			<lb n="30"/>
+		[there have died thereof 1+]1 2 of sheep one 1
+			<lb n="31"/>
+		1+1+1+1+1+1+1 that makes 4
+			<lb n="32"/>
+		Marwān the insolent: 76 2/3, and further for the year 8 (i.e. 318) 41. The result thereof (are) 13 1/2
+			<lb n="33"/>
+		The remainder 97
+</ab></div>
+</body>
+</text>
+</TEI>

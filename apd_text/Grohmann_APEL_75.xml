@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="365" xml:id="Grohmann_APEL_75" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 075</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_75</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106593</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الـ<supplied reason="lost" cert="high">ـرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم </supplied>
+<lb n="2"/>  هذا ما اشترت سيب الدّار ا<supplied reason="lost" cert="high">بنت</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <gap reason="illegible" extent="9" unit="character" /> <supplied reason="lost" cert="high">من</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بهار</supplied> </lem><rdg resp="APD">بهار</rdg></app> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سليمن</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ابنت</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وحبّ</supplied> الدّر ابنت أحمد <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">نوح</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  اشترت منهم أجمعيـ<supplied reason="lost" cert="high">ـن</supplied> جميع المنزل <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـر</supplied> المعروف بعيسى بن منخل <supplied reason="lost" cert="high">ويحـ</supplied>ـيط بهذا المنـ<supplied reason="lost" cert="high">ـزل</supplied> 
+<lb n="4"/>  ويشتمل عـ<supplied reason="lost" cert="high">ـليه</supplied> <supplied reason="lost" cert="high">حدو</supplied>د أربعة <supplied reason="lost" cert="high">حدّه</supplied> <supplied reason="lost" cert="high">الأوّل</supplied> <supplied reason="lost" cert="high">وهو</supplied> <supplied reason="lost" cert="high">القبليّ</supplied> <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لا سڤل وعلو ا<supplied reason="lost" cert="high">لپا</supplied>پى وهو اليحرى 
+<lb n="5"/>  إلى الدرو<supplied reason="lost" cert="high">ة</supplied> ا<supplied reason="lost" cert="high">لّتـ</supplied>ـي بـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن سلوك بن <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وبين</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">حـ</supplied>ـاصل من هده العرصه وپپن 
+<lb n="6"/>  <unclear reason="undefined" cert="high">المجيزة</unclear> <unclear reason="undefined" cert="high">للـكفل</unclear> الملـ<unclear reason="undefined" cert="high">ـك</unclear> لحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> هدا الحد پپپهى 
+<lb n="7"/>  هذا المنزل پحول پهـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ وإلى عرة فاشترت سيب 
+<lb n="8"/>  الدّار بنت علي بن محمّد من <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">نهـ</unclear>ـار </lem><rdg resp="APD">بهار</rdg></app> بن سليمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ابنت</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وحبّ</supplied> <supplied reason="lost" cert="high">الدّرّ</supplied> <supplied reason="lost" cert="high">ابنت</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">نوح</supplied> <supplied reason="lost" cert="high">لنفسها</supplied> <supplied reason="lost" cert="high">بمـ</supplied>ـالها جميع ما وقع عـ<supplied reason="lost" cert="high">ـليه</supplied> هـ<supplied reason="lost" cert="high">ـذا</supplied> 
+<lb n="9"/>  البيع المذكور في هذا الكتاب ڤد<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> على معرفة <supplied reason="lost" cert="high">منهم</supplied> <supplied reason="lost" cert="high">لما</supplied> <supplied reason="lost" cert="high">وقع</supplied> <supplied reason="lost" cert="high">عليه</supplied> 
+<lb n="10"/>  البيع المذكور في هذا الكتاب وعرفت المـ<supplied reason="lost" cert="high">ـشترية</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والدى</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">باعه</supplied> </lem><rdg resp="APD">بهار</rdg></app> <supplied reason="lost" cert="high">بهار</supplied> <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">سلپمن</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">حمپع</supplied> هدا المپرل المدكور عسره 
+<lb n="11"/>  ونصف سهم من أربعة وعشرين سهما شائعـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">غير</supplied> <supplied reason="lost" cert="high">مقسومة</supplied> <supplied reason="lost" cert="high">والّذ</supplied>ي <supplied reason="lost" cert="high">قبض</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الثّمن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دنانير</supplied> <supplied reason="lost" cert="high">والّذي</supplied> <supplied reason="lost" cert="high">باعه</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن علي من جميع هذا المنزل الثّمن ثلثة أسهم 
+<lb n="12"/>  من أربعة وعشرين سهما شائعة غير مقسومة <supplied reason="lost" cert="high">والّذي</supplied> <supplied reason="lost" cert="high">قبض</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـثّمن دينـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">واحد</supplied> <supplied reason="lost" cert="high">والّذي</supplied> <supplied reason="lost" cert="high">باعته</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ابنت</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">خمسة</supplied> <supplied reason="lost" cert="high">أسهم</supplied> <supplied reason="lost" cert="high">وربع</supplied> <supplied reason="lost" cert="high">سهم</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">أربعة</supplied> <supplied reason="lost" cert="high">و</supplied>عشرين سهما شائعة غير مقسومة من جميع المنزل 
+<lb n="13"/>  المذكور والّذي قبضت من الثّمن نصف و<sic n="superfluous">دپاپپر</sic>ربع وثمن د<supplied reason="lost" cert="high">ينر</supplied> <supplied reason="lost" cert="high">و</supplied>الّذي باعته حب الدّر ابنت أحمد بن نوح <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">المنزل</supplied> المذكور خمسة أسهم وربع سهم من أربعة وعشرين سهما 
+<lb n="14"/>  شائعة غير مقسومة والّذي قبضت من الثّمن نصـ<supplied reason="lost" cert="high">ـف</supplied> <supplied reason="lost" cert="high">وربـ</supplied>ـع وثمن دينار فما أدرك سيب الدّار ابنت عـ<supplied reason="lost" cert="high">ـليّ</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">في</supplied> هذا البيع المذكور في هذا الكتاب من درك من أحد 
+<lb n="15"/>  <sic n="superfluous">من</sic> <sic n="superfluous">احد</sic> من النّاس كلّهم فعلى هاولى النّاس المسمّين في هذا الكتاب <app type="BL"><lem resp="APD">تسلّم </lem><rdg resp="Thung p. 51">تسليم</rdg></app> جميع <app type="BL"><lem resp="APD">الثّمـ<supplied reason="lost" cert="high">ـن</supplied> </lem><rdg resp="Thung p. 51">الّذي</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">المقبوض</supplied> </lem><rdg resp="Thung p. 51">يجب</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الپـ</supplied>ـهم </lem><rdg resp="Thung p. 51">عليهم</rdg></app> <app type="BL"><lem resp="APD">پسپپ </lem><rdg resp="Thung p. 51">في</rdg></app> <app type="BL"><lem resp="APD">هدا </lem><rdg resp="Thung p. 51">ذلك</rdg></app> <app type="BL"><lem resp="APD">الپپع </lem><rdg resp="Thung p. 51">من</rdg></app> <app type="BL"><lem resp="APD">المدكور </lem><rdg resp="Thung p. 51">حقّ</rdg></app> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="Thung p. 51">ويلزمهم</rdg></app> هدا الكپاپ حپى پحلصوا 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> لپ على ما يوجبه الحق والحكم من رد ثمن <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بـ</supplied>ـه </lem><rdg resp="Thung p. 65">وقيمة</rdg></app> وقليل وكثير ولم يبق لهاولى الـ<supplied reason="lost" cert="high">ـبائعين</supplied> <supplied reason="lost" cert="high">المسمّيـ</supplied>ـن في جميع هذا المنزل الّذي وقع عليه هذا <supplied reason="lost" cert="high">البيع</supplied> 
+<lb n="17"/>  <supplied reason="lost" cert="high">لا</supplied> يد ولا ملك ولا مورث ولا شركة ولا <sic n="superfluous">عڤله</sic> <supplied reason="lost" cert="high">علقة</supplied> ثمن ولا استثنى ولا قليل ولا كثير ولا قـ<supplied reason="lost" cert="high">ـول</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">يمين</supplied> ولا حجّة شهد على إقرار البائعين المسمّين 
+<lb n="18"/>  في هذا الكتاب بـ<supplied reason="lost" cert="high">ـالـبيـ</supplied>ـع وقبض الثّمن المذكـ<supplied reason="lost" cert="high">ـو</supplied>ر فيه وعلى المشترية بالتّسليم والـحـ<supplied reason="lost" cert="high">ـوز</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">أن</supplied> قرئ عليهم فأقرّو<supplied reason="omitted" cert="high">ا</supplied> بفهمه ومعرفته حرفا 
+<lb n="19"/>  حر<supplied reason="lost" cert="high">فا</supplied> في صحّة عـ<supplied reason="lost" cert="high">ـقولهم</supplied> وأبدانهم وجواز أمورهم طائعـ<supplied reason="lost" cert="high">ـين</supplied> <supplied reason="lost" cert="high">غير</supplied> <supplied reason="lost" cert="high">مكرهين</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">مجبرين</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أر</supplied>بع مائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarat saybu ăd dāri ĭbnatu ʿaliyyi bni muḥammad:in ********* min bahāra nahāra bni sulaymāna wa *** bni ʿaliyy:in wa *** ĭbnati *** wa ḥabbi ăd durri ĭbnati ʾaḥmada bni nūḥ:in *** 
+ <lb n="3"/>ĭštarat min hum ʾaǧmaʿīna ǧamīʿa ăl manzili *** ***r ăl maʿrūf bi ʿīsà bni munḫula wa yuḥīṭu bi hāḏā ăl manzili 
+ <lb n="4"/>wa yaštamilu ʿalay hi ḥudūd:un ʾarbaʿaẗ:un ḥaddu hu ăl ʾawwalu wa huwa ăl qibliyyu yantahī ʾilà *** lā sufl:un wa ʿalw:uni ăṯ ṯānī wa huwa ăl baḥriyyu yantahī 
+ <lb n="5"/>ʾilà ăd dirwaẗi ăllatī bayna salūka bni *** wa bayna *** bni *** *** ḥāṣil min hāḏihi ăl ʿarṣaẗi wa bayna *** 
+ <lb n="6"/>ăl mǧyzẗ li l kfl ăl milku li ḥ*** *** hāḏā ăl ḥaddu yantahī ʿalwu hu min fawqi 
+ <lb n="7"/>hāḏā ăl manzili Bḥwl Bh*** *** ***B wa ʾilà ʿrẗ fa ĭštarat saybu 
+ <lb n="8"/>ăd dāri bintu ʿaliyyi bni muḥammad:in min bahāra nahāra bni sulaymāna wa *** bni ʿaliyy:in wa *** ĭbnati *** wa ḥabbi ăd durri ĭbnati ʾaḥmada bni nūḥ:in li nafsi hā bi māli hā ǧamīʿa mā waqaʿa ʿalay hi hāḏā 
+ <lb n="9"/>ăl bayʿu ăl maḏkūru fī hāḏā ăl kitābi Fd*** **** ʿalà maʿrifaẗ:in min hum li mā waqaʿa ʿalay hi 
+ <lb n="10"/>ăl bayʿu ăl maḏkūru fī hāḏā ăl kitābi wa ʿarafati ăl muštariyaẗu *** wa ăllaḏī bāʿa hu bahāru nahāru bnu sulaymāna min ǧamīʿi hāḏā ăl manzili ăl maḏkūri ʿašaraẗu ʾashum:in 
+ <lb n="11"/>wa niṣfu sahm:in min ʾarbaʿaẗ:in wa ʿišrīna sahm:an šāʾiʿaẗ:in ġayri maqsūmaẗ:in wa ăllaḏī qabaḍa min ăṯ ṯamani *** danānīra wa ăllaḏī bāʿa hu *** bnu ʿaliyyi min ǧamīʿi hāḏā ăl manzili ăṯ ṯamanu ṯalāṯaẗu ʾashum:in 
+ <lb n="12"/>min ʾarbaʿaẗ:in wa ʿišrīna sahm:an šāʾiʿaẗ:in ġayri maqsūmaẗ:in wa ăllaḏī qabaḍa min ăṯ ṯamani dīnār:un wāḥid:un wa ăllaḏī bāʿat hu *** ĭbnatu *** ḫamsaẗu ʾashum:in wa rubʿu sahm:in min ʾarbaʿaẗ:in wa ʿišrīna sahm:an šāʾiʿaẗ:in ġayri maqsūmaẗ:in min ǧamīʿi ăl manzili 
+ <lb n="13"/>ăl maḏkūri wa ăllaḏī qabaḍat mina ăṯ ṯamani niṣfu wa rubʿu wa ṯumnu dīnār:in wa ăllaḏī bāʿat hu ḥabbu ăd durri ĭbnatu ʾaḥmada bni nūḥ:in min ǧamīʿi ăl manzili ăl maḏkūri ḫamsaẗu ʾashum:in wa rubʿu sahm:in min ʾarbaʿaẗ:in wa ʿišrīna sahm:an 
+ <lb n="14"/>šāʾiʿaẗ:in ġayri maqsūmaẗ:in wa ăllaḏī qabaḍat mina ăṯ ṯamani niṣfu wa rubʿu wa ṯumnu dīnār:in fa mā ʾadraka sayba ăd dāri ĭbnata ʿaliyyi bni muḥammad:in fī hāḏā ăl bayʿi ăl maḏkūri fī hāḏā ăl kitābi min darak:in min ʾaḥad:in 
+ <lb n="15"/>mina ăn nāsi kulli him fa ʿalà hāʾulàʾi ăn nāsi ăl musammayna fī hāḏā ăl kitābi tasallumu taslīmu ǧamīʿi ăṯ ṯamani ăllaḏī ăl maqbūḍi yaǧibu ø ʿalay ø him ø fī ø ḏālika ø min ø ḥaqq:in ø wa ʾilay yalzamu him hum bi sababi hāḏā ăl bayʿi ăl maḏkūri fī hāḏā ăl kitābi ḥattà yuḫalliṣū 
+ <lb n="16"/>*** lB ʿalà mā yūǧibu hu ăl ḥaqqu wa ăl ḥukmu min raddi ṯaman:in bi wa hi qīmaẗ:in wa qalīl:in wa kaṯīr:in wa lam yabqa li hāʾulàʾi ăl bāʾiʿīna ăl musammayna fī ǧamīʿi hāḏā ăl manzili ăllaḏī waqaʿa ʿalay hi hāḏā ăl bayʿu 
+ <lb n="17"/>lā yad:un wa lā milk:un wa lā mawraṯ:un wa lā širkaẗ:un wa lā ʿulqaẗu ṯaman:in wa lā ĭstiṯn:an wa lā qalīl:un wa lā kaṯīr:un wa lā qawl:un wa lā yamīn:un wa lā ḥuǧǧaẗ:un šahida ʿalà ʾiqrāri ăl bāʾiʿīna ăl musammayna 
+ <lb n="18"/>fī hāḏā ăl kitābi bi ăl bayʿi wa qabḍi ăṯ ṯamani ăl maḏkūri fī hi wa ʿalà ăl muštariyaẗi bi ăt taslīmi wa ăl ḥawzi baʿda ʾan quriʾa ʿalay him fa ʾaqarrū bi fahmi hi wa maʿrifati hi ḥarf:an 
+ <lb n="19"/>ḥarf:an fī ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him ṭāʾiʿīna ġayra mukrahīna wa lā muǧbarīna *** ʾarbaʿi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is what Saib ad-Dâr, d[aughter of ʿAlî b. Muḥammad, has bought from Nahâr b. Sulaimân and So and So, son of ʿAlî, and So and So, daughter of So and So, and Ḥabb] ad-Durr, daughter of Aḥmad [b. Nûḥ ...................]
+			<lb n="3"/>
+		she has bought from them al[l] the whole dwelling house [..................] known as (the property of) ʿÎsâ b. Munḫul. [Now] four [boundar]ies enclose
+			<lb n="4"/>
+		and surround this dwelling [house: its first boundary, viz. the southern, extends to ..................] below and above; the se[co]nd, viz. the northern, exten[ds]
+			<lb n="5"/>
+		to the dividing wall w[hic]h (is) bet[ween] Salûk b. [So and So ...... the re]maining (portion) of this open area and between [the one (?)]
+			<lb n="6"/>
+		....................................................., the possession (?) for Ḥ[.................] of this boundary, the upper part of which extends from the top
+			<lb n="7"/>
+		of this dwelling house ............ [........................] and to .................. Thus Saib
+			<lb n="8"/>
+		ad-Dâr, daughter of ʿAlî b. Muḥammad, has bought from Nahâr b. Sulaimâ[n and So and So, son of ʿAlî, and So and So, daughter of So and So, and Ḩabb ad-Durr, daughter of Aḥmad b. Nûḥ, for herself from her] own money all that in regard to which
+			<lb n="9"/>
+		this sale mentioned in this deed was effected ... [........................] according to their being [aware of that about which]
+			<lb n="10"/>
+		the sale mentioned in this deed [was effected], and the bu[yer] has taken cognizance [of ......................... and that which Nahâr b. Sulaimân has sold of the who]le of this (above) mentioned dwelling house (are) ten shares
+			<lb n="11"/>
+		and the half of a share of twenty four shares, shared in comm[on, undivided, and that which he has received of the price (amounts to) x dînârs; and that which So and So, s]on of ʿAlî, [has sold] of the whole of this dwelling house (are) three shares [o]f
+			<lb n="12"/>
+		twenty four shares, shared in common, undivided, [and that which he has received of the] price (amounts to) one (?) dînâ[r; and that which So and So, daughter of So and So has sold, are five shares and the quarter of a share of] twenty [four] shares, shared in common, undivided of the whole (above) mentioned dwelling house
+			<lb n="13"/>
+		and that which she has received of the price (amounts to) a half and a quarter and an eighth of a d[înâr]; and that which Ḥabb ad-Durr, daughter of Aḥmad b. Nûḥ has sold [of the whole] (above) mentioned [dwelling house] (are) five shares and a quarter of a share of twenty four shares,
+			<lb n="14"/>
+		shared in common, undivided, and that which she has received of the price (amounts to) a hal[f and a quar]ter and an eighth of a dînâr.  But should any evil consequence (vindicatio) ensue to Saib ad-Dâr, daughter of ʿA[lî b. Muḥammad respecting] this sale mentioned in this deed from any
+			<lb n="15"/>
+		person whatever, it is incumbent upon these persons named in this deed to hand over the whole of the [received] pri[ce to] them because of this sale mentioned in this deed, so that they indemnify
+			<lb n="16"/>
+		[...............] ... according to what equity and the prescription (of the Holy Law) make obligatory concerning the return of the price [......] both little and much; and there has not remained in favour of these [named sellers] in respect to the whole of this dwelling house, about which this [sale] was effected,
+			<lb n="17"/>
+		[any] right of possession, any property right, any right of succession, any common ownership, any dispute about the price, any reservation, whether little or much, any sta[tement or oath] or proof for evidence. There have testified to the acknowledgment by the sellers named
+			<lb n="18"/>
+		in this deed respecting [the sa]le and the receipt of the price mentioned herein, and by the buyer respecting the taking over and the taking posse[ssion after, (it) had been] read to them, so that they have acknowledged that they have understood and comprehended it word
+			<lb n="19"/>
+		[by word], they being in a state of sound mi[nd] and body and capable of transacting their business, voluntari[ly, without compulsion and not against their will in ......... of the year] four hundred [..............].
+</ab></div>
+</body>
+</text>
+</TEI>

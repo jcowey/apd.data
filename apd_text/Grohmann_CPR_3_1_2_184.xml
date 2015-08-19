@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1184" xml:id="Grohmann_CPR_3_1_2_184" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR III 1 184 (= P.Cair.Arab. 033)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_3_1_2_184</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169023</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمـ</supplied>ـن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> إلّا اللّه وحده لا شريـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">له</supplied> 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">الفضل</supplied> <supplied reason="lost" cert="high">جـ</supplied>ـعفر الإمام المقتدر باللّه <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاه</supplied> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">ممّا</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">الأمـ</supplied>ـير عيسـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يدي</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الحسين</supplied> </lem><rdg resp="“Grohmann, P.Cair.Arab. I 33”">عبد </rdg><rdg resp="“Grohmann, P.Cair.Arab. I 33”">عبيد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بن</supplied> </lem><rdg resp="“Grohmann, P.Cair.Arab. I 33”  	">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أحمـ</supplied>ـد </lem><rdg resp="“Grohmann, P.Cair.Arab. I 33”  	">اللّه</rdg></app> <app type="BL"><lem resp="APD">بن </lem><rdg resp="“Grohmann, P.Cair.Arab. I 33”  	">ø</rdg></app> <app type="BL"><lem resp="APD">المذر<unclear reason="undefined" cert="high">ئيّ</unclear> </lem><rdg resp="“Grohmann, P.Cair.Arab. I 33”">التمّام</rdg></app> صنعة الحسين <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="recto 7"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">خمس</supplied> <supplied reason="lost" cert="high">وتسعيـ</supplied>ـن ومـ<supplied reason="lost" cert="high">ـائتين</supplied> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> الحمد للّه 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> بن هدمى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="3"/>ʿabdu ăl lāhi ʾabū ăl faḍli ǧaʿfaru ăl ʾimāmu ăl muqtadiru bi ăl lāhi ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="4"/>mimmā ʾamara bi hi ăl ʾamīru ʿīsà bnu muḥammad:in 
+ <lb n="5"/>ʿalà yaday yadayi ăl ʿabdi ʿubaydi ḥusayni bni ø ʾaḥmada ăl ø lāhi bni ø ăl ăt māḏarāʾiyyi tammāmi ṣanʿaẗu ăl ḥusayni bni *** 
+ <lb n="6"/>* 
+ <lb n="7"/>fī sanaẗi ḫams:in wa tisʿīna wa miʾatayni 
+ <lb n="8"/>*** ăl ḥamdu li l lāhi 
+ <lb n="9"/>*** bnu hdmy 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		[There is no god] but God alone, He has no associ[ate].
+			<lb n="3"/>
+		[The servant of God Abuʾl-Faḍl Ǧa]ʿfar, the Imâm, al-Muqtadir billâh, [may God prolong his life].
+			<lb n="4"/>
+		[Of what was decreed by the Am]îr ʿIs[â b. Muḥammad]
+			<lb n="5"/>
+		[under the direction of ...] ......... Manufacture of al-Ḥusain [b. .........].
+			<lb n="7"/>
+		[In the year two]hundred and ninety[five].
+			<lb n="8"/>
+		Praise be to God
+			<lb n="9"/>
+		(i)bn .........
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="964" xml:id="Grohmann_APEL_37" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 037 (= P.World p. 189 = Chrest.Khoury I 21)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_37</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113711</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  هذا الكتاب صحيح وكتب إبرهيم بن علي 
+<lb n="2"/>  وكتب بخطّه 
+<lb n="3"/>  <gap reason="illegible" extent="1" unit="character" /> بسم اللّه الرّحمن الرّحيم توكّلت على اللّه 
+<lb n="4"/>  يقول إسطورهيوه ابنت سرجه بن أبليدة في صحّة عقلها و 
+<lb n="5"/>  بدنها وجواز أمرها طايعة غير مكره ولا مجبرة طيّبة 
+<lb n="6"/>  بذلك نفسها صحيحة البدن كاملة العقل أنّها أعتقت 
+<lb n="7"/>  صفراه بالعربيّة واسمها بالقبطيّة دجاشه ابنت 
+<lb n="8"/>  <app type="BL"><lem resp="APD">أرينه </lem><rdg resp="“Grohmann, World”">أرينة</rdg></app> جارية إسطورهيوه أعتقت هذه الصّبيّة 
+<lb n="9"/>  عتاقة العبيد من مواليهم وملكت نفسها <sic n="superfluous">فتما</sic><supplied reason="omitted" cert="high">ڤمتا</supplied> ادّعا 
+<lb n="10"/>  ولد لإسطورهيوه أو أحد من تركتها على هذه الصّبيّة 
+<lb n="11"/>  دجاشه بشي بعد هذا الكتاب بشي من الخدمة أو شي 
+<lb n="12"/>  من المملكة فدعواه باطل وزور وافك وعدوان 
+<lb n="13"/>  وكتب ذلك في سلخ رمضان سنة تلات وتسعين وتلتمائة 
+<lb n="14"/>  شهد اللّه وملائكته وكفا باللّه شهيد<supplied reason="lost" cert="high">ا</supplied> 
+<lb n="15"/>  شهد الحسن بن إبرهيم بن علي بن جبريل بن الحسن بن رزق 
+<lb n="16"/>  بجميع ما في هذا الكتاب وكتب بخطّه 
+<lb n="17"/>  شهد عبد الرّحمن بن الشّارك بجميع ما في هذا الكتا<supplied reason="lost" cert="high">ب</supplied> 
+<lb n="18"/>  وكتب بخطّه 
+<lb n="19"/>  شهد فضالة بن علي بجميع ما في هذا الكتاب وكتب 
+<lb n="20"/>  بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>hāḏā ăl kitābu ṣaḥīḥ:un wa kataba ʾibrāhīmu bnu ʿaliyy:in 
+ <lb n="2"/>wa kataba bi ḫaṭṭi hi 
+ <lb n="3"/>* bi smi ăl lāhi ăr raḥmāni ăr raḥīmi tawakkaltu ʿalà ăl lāhi 
+ <lb n="4"/>yaqūlu ʾisṭūrhiyūhu ĭbnatu sirǧaha bni ʾablīdaẗa fī ṣiḥḥaẗi ʿaqli hā wa 
+ <lb n="5"/>badani hā wa ǧawāzi ʾamri hā ṭāyiʿaẗ:an ġayra mukrah:in wa lā muǧbaraẗ:in ṭayyibaẗ:an 
+ <lb n="6"/>bi ḏālika nafsa hā ṣaḥīḥaẗa ăl badani kāmilaẗa ăl ʿaqli ʾanna hā ʾaʿtaqat 
+ <lb n="7"/>ṣafrāha bi ăl ʿarabiyyaẗi wa ĭsmu hā bi ăl qibṭiyyaẗi daǧāšahu ĭbnata 
+ <lb n="8"/>ʾaryanaha ʾaryanaẗa ǧāriyaẗa ʾisṭūrhiyūha ʾaʿtaqat hāḏihi ăṣ ṣabiyyaẗa 
+ <lb n="9"/>ʿitāqaẗa ăl ʿabīdi min mawālī him wa malakat nafsa hā fa matā ĭddaʿā 
+ <lb n="10"/>walad:un li ʾisṭūrhiyūha ʾaw ʾaḥadu man tarakat hā ʿalà hāḏihi ăṣ ṣabiyyaẗi 
+ <lb n="11"/>daǧāšaha bi šayʾ:in baʿda hāḏā ăl kitābi bi šayʾ:in mina ăl ḫidmaẗi ʾaw šayʾ:in 
+ <lb n="12"/>mina ăl mamlakaẗi fa daʿwā hu bāṭil:un wa zūr:un wa ʾifk:un wa ʿudwān:un 
+ <lb n="13"/>wa kutiba ḏālika fī salḫi ramaḍāna sanaẗa talāt:in wa tisʿīna wa talāti miʾaẗ:in 
+ <lb n="14"/>šahida ăl lāhu wa malāʾikatu hu wa kafā bi ăl lāhi šahīd:an 
+ <lb n="15"/>šahida ăl ḥasanu bnu ʾibrāhīma bni ʿaliyyi bni ǧibrīla bni ăl ḥasani bni rizq:in 
+ <lb n="16"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="17"/>šahida ʿabdu ăr raḥmāni bnu ăš šāriki bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="18"/>wa kataba bi ḫaṭṭi hi 
+ <lb n="19"/>šahida faḍālaẗu bnu ʿaliyy:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba 
+ <lb n="20"/>bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ce document est valide, et Ibrāhīm Ibn ʿAlī (l&#039;)a écrit,
+		This document is valid and Ibrahîm b. ʿAlî has written it
+			<lb n="2"/>
+		and he has written (it) in his (own) handwriting.
+		et il a écrit de sa main.
+			<lb n="3"/>
+		Au nom de Dieu clément et miséricordieux! Je fais confiance à Dieu !
+		In the name of God, the Compassionate, the Merciful! I trust in God.
+			<lb n="4"/>
+		Isṭurheu, daughter of Serge ibn Ablîde, declares - she being in sound mind and
+		Isṭūrheu, fille de Serge Ibn Ablīde, a déclaré, étant dans la plénitude de ses facultés mentale et
+			<lb n="5"/>
+		body and capable of transacting her business, voluntarily without compulsion and not against her will, of her own
+		physique et sa capacité juridique, de bon gré, non contrainte ou forcée, de
+			<lb n="6"/>
+		bon coeur, étant en bonne santé corporelle et mentale, qu&#039;elle a affranchi
+		good pleasure, healthy in body, fully in possession of her reason - that she has emancipated
+			<lb n="7"/>
+		Ṣafra, as her name is in Arabic, and in Coptic Daǧâsha, daughter of
+		Ṣafrā (comme et son nom) en arabe et en copte Daǧāša, fille
+			<lb n="8"/>
+		Aryana, the female slave of Isṭurheu. She has emancipated this slave girl
+		d&#039;Aryana esclave d&#039;Isṭūrheu. Elle a affranchi cette esclave
+			<lb n="9"/>
+		de la manière avec laquelle sont affranchis les esclaves par leurs seigneurs, de la sorte qu&#039;elle est entrée en possession d&#039;elle-même. Ainsi si
+		in the manner in which slaves are emancipated by their masters, so she becomes her own mistress. But if
+			<lb n="10"/>
+		a son of Isṭurheu or one of her (relatives) left behind (after her death) should make any claim with regard to this slave-girl
+		a son of Isṭurheu or one of her relicts should make any claim with regard to this slave-girl
+		un fils d&#039;Isṭūrheu ou l&#039;un de ses descendants revendiquait de cette esclave
+			<lb n="11"/>
+		Daǧāša quelque chose, après (l&#039;exécution de) ce document, concernant quelque service ou
+		Daǧâsha after (the completion) of this act, be it any service or any
+			<lb n="12"/>
+		proprietory rights (over her) then his claim is vain and false, a fiction and an unjust proceeding.
+		titre de possession, alors son action en justice est de nulle valeur et fausse, mensonge et action illégitime.
+			<lb n="13"/>
+		And this has been written at the end of Ramaḍân of the year three hundred and ninety three.
+		Et l&#039;on écrivit cela à la fin de ramaḍān, trois cent quatre-vingt-treize.
+			<lb n="14"/>
+		God and his angels know it and God suffices as witness.
+		Témoins sont Dieu et ses anges, et Dieu est suffisant comme témoin.
+			<lb n="15"/>
+		Al-Ḥasan b. Ibrahîm b. ʿAlî b. Ǧibrîl b. al-Ḥasan b. Rizq is witness
+		A témoigné al-Ḥasan Ibn Ibrāhīm Ibn ʿAlī Ibn Ǧibrīl Ibn al-Ḥasan Ibn Rizq
+			<lb n="16"/>
+		de tout ce qui est dans ce document, et il écrivit de sa main.
+		to all that (is contained) in this act, and he has written (it) in his (own) handwriting.
+			<lb n="17"/>
+		ʿAbd ar-Raḥmân b. ash-Shârik is witness to all that (is contained) in this ac[t]
+		A témoigné ʿAbd al-Raḥmān Ibn al-Šārik de tout ce qui est dans ce documen[t],
+			<lb n="18"/>
+		and he has written (it) in his (own) handwriting.
+		et il écrivit de sa main.
+			<lb n="19"/>
+		A témoigné Faḍāla Ibn ʿAlī de tout le contenu de ce document, et il écrivit
+		Faḍâla b. ʿAlî is witness to all that (is contained) in this act and he has written (it)
+			<lb n="20"/>
+		de sa main.
+		in his (own) handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

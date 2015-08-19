@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="730" xml:id="Grohmann_Probleme_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106811</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أدّى سليمن بن داود بن ثدراق على يديه عمّا يلزمه <supplied reason="lost" cert="high">من</supplied> 
+<lb n="3"/>  الجزية ربع دينر مثقال طري نقد بيـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">المال</supplied> <supplied reason="lost" cert="high">إلى</supplied> 
+<lb n="4"/>  قوريل بن عيسى وإبرهيم بن مينا القسطالين <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  بن الفرج والحسين بن أحمد <app type="BL"><lem resp="APD">عاملين </lem><rdg resp="Diem">عاملي</rdg></app> أبي العبّا<supplied reason="lost" cert="high">س</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">خلد</supplied> <supplied reason="lost" cert="high">أعزّه</supplied> 
+<lb n="6"/>  اللّه على خراج <app type="BL"><lem resp="APD">كورتين </lem><rdg resp="Diem">كورتي</rdg></app> الأشمونين وأسفل <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أنصنا</supplied> </lem><rdg resp="Grohmann, Probleme I p. 387">أنصنى</rdg></app> 
+<lb n="7"/>  لخراج سنة أربع وأربعين ومائتـ<supplied reason="lost" cert="high">ـن</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaddà sulaymānu bnu dāwūda bni ṯidurāqa ʿalà yaday hi ʿammā yalzamu hu min 
+ <lb n="3"/>ăl ǧizyaẗi rubʿa dīnār:in miṯqāl ṭariyy:in naqda bayti ăl māli ʾilà 
+ <lb n="4"/>qūrīla bni ʿīsà wa ʾibrāhīma bni mīnā ăl qusṭālayni *** 
+ <lb n="5"/>bni ăl faraǧi wa ăl ḥusayni bni ʾaḥmada ʿāmilayni ʿāmilay ʾabī ăl ʿabbāsi bni ḫālid:in ʾaʿazza hu 
+ <lb n="6"/>ăl lāhu ʿalà ḫarāǧi kūratayni kūratay ăl ʾušmūnayni wa ʾasfali ʾanṣinā ʾanṣinà 
+ <lb n="7"/>li ḫarāǧi sanaẗi ʾarbaʿ:in wa ʾarbaʿīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Gezahlt hat Salomon b. Dawid b. Theodorak(ios) eigenhändig von seiner Schuldigkeit [an]
+			<lb n="3"/>
+		Kopfsteuer einen Vierteldīnār nach dem Miṯqālfuße frischer Prägung, vollwertiger Münze des Sch[atzhauses an]
+			<lb n="4"/>
+		Kyrill b. ʿĪsā und Ibrahīm b. Mīnā, die beiden Qusṭāle [des N.N.]
+			<lb n="5"/>
+		b. al-Faraǧ und al-Ḥusain b. Aḥmad, die beiden Finanzdirektoren des Abū ʾl-ʿAbbā[s b. Ḫālid - Gott stärke ihn -]
+			<lb n="6"/>
+		über die Grundsteuer der beiden Kreise al-Ušmūnain und Unter[-Anṣinā]
+			<lb n="7"/>
+		für die Steuer des Jahres zweihundertvierundvierzig.
+</ab></div>
+</body>
+</text>
+</TEI>

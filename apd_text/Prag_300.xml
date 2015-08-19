@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1650" xml:id="Prag_300" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_300</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169404</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮جر<supplied reason="lost" cert="high">جـ</supplied>ـة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ون ‮‪ʹ‬‬<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮عن كفالة ‮‪ʹ‬‬<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> ‪ιϛχ 
+<lb n="3"/>  ‮المسّاح ‪κηγ‮‪ʹ‬‬‬ ثيدر بن يحنّس γ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="4"/>  ‮<unclear reason="undefined" cert="high">أليد</unclear> <unclear reason="undefined" cert="high">بن</unclear> <unclear reason="undefined" cert="high">سية</unclear> γ <gap reason="illegible" extent="1" unit="character" /> سمعون بن سورس ‪η‮‪ʹ‬‬‬ ‪<gap reason="illegible" extent="1" unit="character" />‬ 
+<lb n="5"/>  ‮بـ<supplied reason="lost" cert="high">ـقـ</supplied>ـطر بن جريج ‪δχη‮‪ʹ‬‬‬ البقلون ‪υϛχ‬ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="6"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />لده ϛ من ببهرام κ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ǧirǧaẗu *** *** ***ūn ‮‪**+1/* 
+ <lb n="2"/>ʿan kafālaẗ:in ‮‪**+1/* * 16+1/2 
+ <lb n="3"/>ăl massāḥu 28+1/3 ṯiyuduru bnu yuḥannisa 3 * 
+ <lb n="4"/>ʾalīdu bnu siyaẗa 3 * simʿūnu bnu sūrusa 1/8 * 
+ <lb n="5"/>buqṭuru bnu ǧurayǧ:in 4+2/3+1/8 ăl baqlūn 406+2/3 * 
+ <lb n="6"/>*** **lidaẗa 6 min babahrāma 20 *** 
+ <lb n="7"/>**** ** ******* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ǧir[ǧ]e .....[...]..ūn ..[...]
+			<lb n="2"/>
+		aus einer Bürgschaft..[...] 16 1/2
+			<lb n="3"/>
+		der Feldmesser 28 1/3 Theodor b. Joḥannes 3
+			<lb n="4"/>
+		Alīd b. Siya 3 Simʿōn b. Sūros 1/8
+			<lb n="5"/>
+		Bo[q]ṭor b. Ǧuraiǧ 4 2/3+1/8 al-Baqlūn 406 2/3
+			<lb n="6"/>
+		[...]lide 6 von Ba-Bahrām 2[...]
+			<lb n="7"/>
+</ab></div>
+</body>
+</text>
+</TEI>

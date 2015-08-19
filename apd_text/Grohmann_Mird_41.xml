@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2500" xml:id="Grohmann_Mird_41" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 41</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_41</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  من النّحاس وثلثة إقـ<supplied reason="lost" cert="high">ـنزة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  وقرنيط وهو <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <app type="BL"><lem resp="APD">وجو<supplied reason="lost" cert="high">نا</supplied> </lem><rdg resp="APD">وجونة</rdg></app> <supplied reason="lost" cert="high">و</supplied>طبق صـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  ومد<supplied reason="lost" cert="high">خنة</supplied> للـبـ<supplied reason="lost" cert="high">ـيت</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  ومـ<gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  وهـ<gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  و<gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">د</unclear> لحا<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  ونـ<gap reason="illegible" precision="low" extent="3"/>ـاح ڤـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  و<gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  و<gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  ومن الحديد مـ<gap reason="illegible" precision="low" extent="3"/>ـر <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كـ</supplied>ـبا<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـر</supplied> </lem><rdg resp="APD">كبار</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كـ</supplied>ـ<unclear reason="undefined" cert="high">ـبـ</unclear>ـا<supplied reason="lost" cert="high">ر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>mina ăn nuḥāsi wa ṯalāṯaẗ ʾaqnizaẗ:in *** 
+ <lb n="2"/>wa qarnīṭ:un wa huwa *** 
+ <lb n="3"/>wa ǧūnāʾ:un ǧūnaẗ:un wa ṭabaq ṣ*** 
+ <lb n="4"/>wa madḫanaẗ li l bayti *** 
+ <lb n="5"/>wa m****** 
+ <lb n="6"/>wa h****** 
+ <lb n="7"/>wa ***d li ḥā*** 
+ <lb n="8"/>wa n***āḥ F*** 
+ <lb n="9"/>wa ****** 
+ <lb n="10"/>wa ****** 
+ <lb n="11"/>wa mina ăl ḥadīdi m***r *** kibā*r kibār *** 
+ <lb n="12"/>wa *** kibār *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Of copper: and three gob[lets ...]
+		 <lb n="2"/>
+ 	  and a qarnīṭ (pair of tongs?) which (is) [...]
+		 <lb n="3"/>
+ 	  and a kett[le and] lid ...... [...]
+		 <lb n="4"/>
+ 	  and a fumig[atory cencer] for the hou[se? ...]
+		 <lb n="5"/>
+ 	  and a ....[.....].....[...]
+		 <lb n="6"/>
+ 	  and a ....[.....].....[...]
+		 <lb n="7"/>
+ 	  and [a...]..for...[...]
+		 <lb n="8"/>
+ 	  and a ...[...]...[...]
+		 <lb n="9"/>
+ 	  and a .[.....]...[...]
+		 <lb n="10"/>
+ 	  and a [.]......[...]
+		 <lb n="11"/>
+ 	  and of iron: [gr]ea[t]....[...]....
+		 <lb n="12"/>
+ 	  and [....] gre[at?....]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

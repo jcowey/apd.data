@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1517" xml:id="Diem_Berl_II_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 32</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169288</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  واليوم ثلثين <gap reason="illegible" extent="2" unit="character" />لا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> في بقيّة غرمـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ألز<supplied reason="lost" cert="high">مـ</supplied>ـوه <app type="BL"><lem resp="APD">فـإن </lem><rdg resp="APD">فإنّ</rdg></app> ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> في جميع أوقاتي فأمّا دعواي بـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  فباللّه ثم باللّه ا<supplied reason="lost" cert="high">لـ</supplied>ـرّ<supplied reason="lost" cert="high">حـ</supplied>ـمن ا<supplied reason="lost" cert="high">لرّ</supplied>حـ<supplied reason="lost" cert="high">ـيـ</supplied>ـم <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">أ</supplied>عرف أشرد <supplied reason="lost" cert="high">فيطـ</supplied>ـلب معه ولّا في موضع 
+<lb n="4"/>  هو فيه وأرجوا أن يكون قولك حق بمشيه اللّه فأمّا قيّم كنيسة 
+<lb n="5"/>  أبو منا فقد وقفت علـ<supplied reason="lost" cert="high">ـى</supplied> ما <supplied reason="lost" cert="high">ر</supplied>سمته في بابه وقد كان إن شرد بين جاليتي 
+<lb n="6"/>  وطالب قيّم كنيسة مكانك بني <app type="BL"><lem resp="APD">حرپن </lem><rdg resp="APD">حسرپن</rdg></app> راضي أن أدفع إليه عنه دينار 
+<lb n="7"/>  وإ<supplied reason="lost" cert="high">نّـ</supplied>ـي <supplied reason="lost" cert="high">قد</supplied> سيّر<supplied reason="lost" cert="high">ت</supplied> <supplied reason="lost" cert="high">إلـ</supplied>ـى أبو القسم العامل أيّده اللّه عن الحال فإن 
+<lb n="8"/>  كان قد أذن له باستخراج شي أحضرته وتضمّنت ما يجب عليه كما 
+<lb n="9"/>  رسمت ولم أخالفه وأنا أصير إلى حضرتك عن فراغي من الجريدة <app type="BL"><lem resp="APD">العشى </lem><rdg resp="APD">العشى</rdg></app> 
+<lb n="10"/>  أو <sic n="superfluous">لا</sic><gap reason="illegible" extent="2" unit="character" /><sic n="superfluous">ه</sic> الغداة <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="11"/>  وحسبي اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ăl yawma ṯulṯayni **lʾ *** *** fī baqiyyaẗi ġurmi hi *** 
+ <lb n="2"/>ʾalzamū hu fa ʾin ʾinna ʾ*** **** fī ǧamīʿi ʾawqāt ī fa ʾammā daʿwā ya *** bi 
+ <lb n="3"/>fa bi ăl lāhi ṯumma bi ăl lāhi ăr raḥmāni ăr raḥīmi lā ʾaʿrifu ʾa šarada fa yuṭlabu maʿa hu wallā fī mawḍiʿ:in 
+ <lb n="4"/>huwa fī hi wa ʾarǧū ʾan yakūna qawlu ka ḥaqq bi mašīʾaẗi ăl lāhi fa ʾammā qayyimu kanīsaẗi 
+ <lb n="5"/>ʾabū minā fa qad waqaftu ʿalà mā rasamta hu fī bābi hi wa qad kāna ʾin šarada bayna ǧāliyat ī 
+ <lb n="6"/>wa ṭālibu qayyimi kanīsaẗi makāni ka banī ḥrBn ḥsrBn rāḍī ʾan ʾadfaʿa ʾilay hi ʿan hu dīnār 
+ <lb n="7"/>wa ʾin nī qad sayyartu ʾilà ʾabū ăl qāsimi ăl ʿāmili ʾayyada hu ăl lāhu ʿani ăl ḥāli fa ʾin 
+ <lb n="8"/>kāna qad ʾaḏina la hu bi ĭstiḫrāǧi šayʾ:in ʾaḥḍartu hu wa taḍammantu mā yaǧibu ʿalay hi ka mā 
+ <lb n="9"/>rasamta wa lam ʾuḫālif hu wa ʾanā ʾaṣīru ʾilà ḥaḍrati ka ʿan farāġ ī mina ăl ǧarīdaẗi ăl ʿašiyya ʿišà 
+ <lb n="10"/>ʾaw ăl ġadāẗa * 
+ <lb n="11"/>wa ḥasb ī ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		und heute zwei Drittel (Dinar) - - - [- - -] wegen des Restes seiner Geldschuld [- - -]
+			<lb n="2"/>
+		sie zwangen ihn, denn [- - -. Ich - - -] zu jeder Zeit. Was nun meine Vorladung wegen [N.N.] betrifft,
+			<lb n="3"/>
+		so weiß ich bei Gott und abermals bei Gott, dem Barmherzigen und Gnädigen, nicht, ob er geflohen ist, [so daß nach ihm] zusammen mit jenem [gef]ahndet werden muß (?), oder ob (er) sich an einem
+			<lb n="4"/>
+		bestimmten Ort aufhält. Ich kann nur hoffen, daß das, was Du sagst, richtig ist, so Gott will. Was den Küster der Kirche
+			<lb n="5"/>
+		von Abū Minā betrifft, so habe ich zur Kenntnis genommen, was Du in Bezug auf ihn angeordnet hast. Er befindet sich nun (jedenfalls), falls er geflohen ist, unter meinen Abgängen.
+			<lb n="6"/>
+		Der Häscher des Küsters der Kirche Deines (gegenwärtigen) Aufenthaltsortes, Banū - - -, gibt sich damit zufrieden, daß ich ihm für ihn einen Dinar bezahle.
+			<lb n="7"/>
+		Ich habe sofort Abū l-Qāsim, dem Finanzdirektor - Gott stärke ihn -, Bescheid gegeben. Falls
+			<lb n="8"/>
+		er ihm erlaubt hat, etwas einzutreiben, lade ich ihn vor und bürge für seine (Steuer)schuld, wie
+			<lb n="9"/>
+		Du es angeordnet hast, und widersetze mich ihm nicht. Sobald ich das Verzeichnis beendet habe, werde ich mich bei Deiner Exzellenz einfinden, heute Abend
+			<lb n="10"/>
+		oder {- - -} morgen früh.
+			<lb n="11"/>
+		Mein Genüge ist Gott!
+</ab></div>
+</body>
+</text>
+</TEI>

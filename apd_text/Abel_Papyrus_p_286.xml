@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1474" xml:id="Abel_Papyrus_p_286" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. I 08 (= P.KarabacekBerlin p. 13 = P.AbelPapyrus p. 286)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abel_Papyrus_p_286</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169256</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  ادفع إلى عبّاس 
+ <lb n="3"/>  ربع درهم إن 
+ <lb n="4"/>  شا اللّه وكتب 
+ <lb n="5"/>  سعد بن إسحق 
+ <lb n="6"/>  <unclear reason="undefined" cert="high">بيده</unclear> 
+ <lb n="7"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Karabacek; Abel, Papyrus">سنة</rdg></app> 
+ <lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Karabacek; Abel, Papyrus">٢٧٥</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ ʾilà ʿabbāsa 
+ <lb n="3"/>rubʿa dirham:in ʾin 
+ <lb n="4"/>šāʾa ăl lāhu wa kataba 
+ <lb n="5"/>saʿdu bnu ʾisḥāqa 
+ <lb n="6"/>bi yadi hi 
+ <lb n="7"/>*** sanaẗa 
+ <lb n="8"/>*** 275 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Allbarmherzigen!
+ 	  Im Namen Gottes des barmherzigen und gnädigen!
+		 <lb n="2"/>
+ 	  Übergieb dem Abbas
+ 	  Uebergieb an ʿAbbâs
+		 <lb n="3"/>
+ 	  eine Viertel-Dirhem, so
+ 	  eine Viertel-Drachme, so
+		 <lb n="4"/>
+ 	  Gott will! Geschrieben von
+		 <lb n="5"/>
+ 	  Saad, Sohn Ishak&#039;s,
+ 	  Saʿd, Sohne des Ishâḳ,
+		 <lb n="6"/>
+ 	  eigenhändig
+		 <lb n="7"/>
+ 	  im Jahr
+ 	  Jahr
+		 <lb n="8"/>
+ 	  275
+ 	  275 (= 888/9 n. Chr.)
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

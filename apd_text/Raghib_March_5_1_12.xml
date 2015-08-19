@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="764" xml:id="Raghib_March_5_1_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands V/1 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_1_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106834</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  إليه إن شا اللّه واعلم <app type="BL"><lem resp="APD">أن </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" extent="2" unit="character" />ـا منديل شقاق وكسا 
+<lb n="recto 2"/>  كتّان وقد أراد الشّيخ حفظه اللّه الخروج مع بن سلم 
+<lb n="recto 3"/>  إذا ذـ<supplied reason="lost" cert="high">ـهـ</supplied>ـب فاشتغل في حمل طعام لنا في شونة 
+<lb n="recto 4"/>  وهو <gap reason="illegible" extent="1" unit="character" />ا<gap reason="illegible" extent="2" unit="character" /> عليكم إن شا اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـع ميـ<supplied reason="lost" cert="high">ـمـ</supplied>ـون إذا رجع إن شا 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">الـ</supplied>ـله <unclear reason="undefined" cert="high">راپك</unclear> ڤى پپع المبديل لا پرد ريح المپاع حپد 
+<lb n="recto 6"/>  <gap reason="illegible" extent="4" unit="character" /> الله سعپك وعرمك عن حساپ الپعرپم 
+<lb n="recto 7"/>  خص نفسك بالسّلم كثيرا وعلى خالتي وحارث السّلم 
+<lb n="recto 8"/>  <unclear reason="undefined" cert="high">ور</unclear><supplied reason="lost" cert="high">حمـ</supplied><unclear reason="undefined" cert="high">ـه</unclear> وعپد الرحپم والحارّپه السلم واكپپ الى إلعمه 
+<lb n="recto 9"/>  حفظها اللّه بالسّلام منّي وأبلغ وهبة <unclear reason="undefined" cert="high">وحمدونة</unclear> منّي 
+<lb n="recto 10"/>  السّلم عمّي وأبي يقروك السّلم كثيرا وعلى جميع العيال 
+<lb n="recto 11"/>  <supplied reason="lost" cert="high">السلم</supplied> والسّلم علپك 
+<lb n="verso"/>  الحسن بن عبد السّلم لأبي علي من عمر بن محمّد يدفع <sic n="superfluous">پاليڤوم</sic> <supplied reason="omitted" cert="high">بالفيّوم</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾilay hi ʾin šāʾa ăl lāhu wa ĭʿlam ʾan ʾanna **ʾ mandīl šiqāq:in wa kisāʾ 
+ <lb n="2"/>kattān wa qad ʾarāda ăš šayḫu ḥafiẓa hu ăl lāhu ăl ḫurūǧa maʿa bni salam:in 
+ <lb n="3"/>ʾiḏā ḏahaba fa ĭštaġala fī ḥamli ṭaʿām:in la nā fī šūnaẗ:in 
+ <lb n="4"/>wa huwa *ʾ** ʿalay kum ʾin šāʾa ăl lāhu maʿa maymūn:in ʾiḏā raǧaʿa ʾin šāʾa 
+ <lb n="5"/>ăl lāhu raʾyu ka fī bayʿi ăl mandīli lā yaruddu ribḥ:uni ăl matāʿu ǧayyid:un 
+ <lb n="6"/>**** ăl lāhu saʿya ka wa ʿazma ka ʿan ḥisābi ăt taġrīmi 
+ <lb n="7"/>ḫuṣṣi nafsa ka bi ăs salāmi kaṯīr:an wa ʿalà ḫālat ī wa ḥāriṯ:ini ăs salāmu 
+ <lb n="8"/>wa raḥmaẗa wa ʿabdi ăr raḥīmi wa ăl ǧāriyaẗi ăs salāmu wa ŭktub ʾilà ăl ʿammaẗi 
+ <lb n="9"/>ḥafiẓa hā ăl lāhu bi ăs salāmi minn ī wa ʾabliġ wahbaẗa wa ḥamdūnaẗa minn ī 
+ <lb n="10"/>ăs salāma ʿamm ī wa ʾab ī yuqrū ka ăs salāma kaṯīr:an wa ʿalà ǧamīʿi ăl ʿiyāli 
+ <lb n="11"/>ăs salāmu wa ăs salāmu ʿalay ka 
+ <lb n="12"/>ăl ḥasan bn ʿabdi ăs salāmi li ʾabī ʿaliyy:in min ʿumara bni muḥammad:in yudfaʿ bi ăl fayyūmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		vers lui, si Dieu le veut! Sache que .... un mouchoir šiqqa et un manteau
+			<lb n="2"/>
+		de lin. Le šayḫ - que Dieu le garde! a voulu partir avec Ibn Salam,
+			<lb n="3"/>
+		s&#039;il [s&#039;en va]. Il s&#039;est alors occupé à transporter pour nous la nourriture dans le grenier.
+			<lb n="4"/>
+		Il [....] sur vous, si Dieu le veut! avec Maymūn, lorsqu&#039;il reviendra, si
+			<lb n="5"/>
+		Dieu le veut! Tu penses (?) que la vente du mouchoir n&#039;apportera pas de bénéfice. La marchandise est de bonne qualité.
+			<lb n="6"/>
+		Que Dieu [....] ton zèle et ton effort de tout compte débiteur!
+			<lb n="7"/>
+		Je t&#039;adresse le salut à foison! Sur ma tante maternelle et Ḥāriṯ, le salut!
+			<lb n="8"/>
+		Sur Ra[ḥma ?], ʿAbd al-Raḥīm et l&#039;esclave, le salut! Écris à la tante paternelle -
+			<lb n="9"/>
+		que Dieu la garde! pour la saluer de ma part. Transmets à Wahba et Ḥamdūna (?) de ma part
+			<lb n="10"/>
+		le salut. Mon oncle paternel et mon père t&#039;envoient le salut à foison. Sur la totalité de la famille
+			<lb n="11"/>
+		[le salut] et que le salut soit sur toi!
+			<lb n="12"/>
+		À Abū ʿAlī al-Ḥasan b. ʿAbd al-Salām. De la part de ʿUmar b. Muḥammad. À délivrer au Fayyoum.
+</ab></div>
+</body>
+</text>
+</TEI>

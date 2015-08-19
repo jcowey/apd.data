@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2003" xml:id="Grohmann_APEL_266" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 266</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_266</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169731</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> وعشرون نفرا 
+<lb n="2"/>  ÷÷<supplied reason="lost" cert="high">÷÷</supplied>     
+<lb n="3"/>  <supplied reason="lost" cert="high">اللّه</supplied> الرّحـ<supplied reason="lost" cert="high">ـ</supplied>ـمن الرّ<supplied reason="lost" cert="high">حـ</supplied>ـيم <gap reason="illegible" extent="1" unit="character" /> حفظك <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/>  
+<lb n="4"/>  <supplied reason="lost" cert="high">عليك</supplied>   
+<lb n="5"/>  مبلغ ما بنت الحاج قاسم الوطّاسي بيده بحكم ما بيده في ذالك 
+<lb n="6"/>    <gap reason="illegible" precision="low" extent="3"/> في الا<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دعـ</supplied>ـاپى دعاپى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  منه الخضر منه ÷<supplied reason="lost" cert="high">÷</supplied>÷÷÷÷ نصف وربع وثـ<supplied reason="lost" cert="high">ـمن</supplied>   
+<lb n="8"/>  ثلثي من عام ثمانية وتسعين وثماني مائة <gap reason="illegible" precision="low" extent="3"/> والثّمن هو بزيادة نصف دينار 
+<lb n="9"/>  من الموصوف هذا الصّحيح هو الصّحيح وفي تأريخه والإشهاد  <gap reason="illegible" precision="low" extent="3"/>  
+<lb n="10"/>  منه من الكروم مبلغ ما ارتفعت به أسـ<supplied reason="lost" cert="high">ـ</supplied>ـفل أ<supplied reason="lost" cert="high">شمـ</supplied>ـو<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="11"/>  ما ا<supplied reason="lost" cert="high">ر</supplied>تفعـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">به</supplied> <gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">ركدرس</unclear> ارتفعت كلّه على يـ<supplied reason="lost" cert="high">ـدي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  مبلغ ما ار<supplied reason="lost" cert="high">تفعت</supplied> <supplied reason="lost" cert="high">به</supplied> مساحة أعلى أشمون و<supplied reason="omitted" cert="high">أ</supplied>على أنصنى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  أيضا عن دينـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">ونصف</supplied> <supplied reason="lost" cert="high">وربـ</supplied>ـع وثمن دينر ألف وأربعين <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" extent="7" unit="character" /> أربعة وأربعين دينرا وثلثي وثمن دينر خمسة دينر و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  أحد وأربعين دينرا <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** wa ʿišrūna nafar:an 
+ <lb n="2"/>*** ḥafiẓa ka *** 312+1/2+1/3+1/8 5812 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi * ḥafiẓa ka ăl lāhu *** 
+ <lb n="4"/>wa tamma niʿmata hu ʿalay ka 
+ <lb n="5"/>mablaġu mā ĭrtafaʿat bi hi misāḥaẗu ʾasfali ʾušmūna li mʾBB**h 74 56312+1/2+1/3+1/8 16326+1/2+1/3 *** 
+ <lb n="6"/>*** ***** *** fī ăl ʾ*** dʿʾBà dʿʾBà *** 
+ <lb n="7"/>min 3 min hu ăl ḫuḍaru *** 1812+1/3+1/8 niṣf:un wa rubʿ:un wa ṯumn:un 
+ <lb n="8"/>ṯulṯay wa rubʿ wa ṯumn *** ʾarbaʿaẗ wa ṯalāṯīna mablaġu mā ĭrtafaʿat bi hi ʾasfalu ʾušmūna wa *** 
+ <lb n="9"/>min 4 min hu mina ăl kurūmi 178+1/2+1/4 ʿalà yaday ʾismāʿīla bni yazīda *** 
+ <lb n="10"/>min hu mina ăl kurūmi mablaġu mā ĭrtafaʿat bi hi ʾasfalu ʾušmūna 
+ <lb n="11"/>mā ĭrtafaʿat bi hi **** rkdrs ĭrtafaʿat kulla hu ʿalà yaday *** 
+ <lb n="12"/>mablaġu mā ĭrtafaʿat bi hi misāḥaẗu ʾaʿlà ʾušmūna wa ʾaʿlà ʾanṣinà *** 
+ <lb n="13"/>ʾayḍ:an ʿan dīnār:in wa niṣf:in wa rubʿ:in wa ṯumni dīnār:in ʾalf:un wa ʾarbaʿīna *** 
+ <lb n="14"/>******* ʾarbaʿaẗ wa ʾarbaʿīna dīnār:an wa ṯulṯay wa ṯumn dīnār:in ḫamsaẗu dīnār:in wa *** 
+ <lb n="15"/>ʾaḥad wa ʾarbaʿīna dīnār:an ***** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] and twenty persons [
+			<lb n="2"/>
+		] protect you [...] 312 1/2+1/3+1/8 [58]12
+			<lb n="3"/>
+		In [the name of God], the Compassionate, the Mer[ci]ful. May [God] protect you [
+			<lb n="4"/>
+		and fulfil His loving [kindness unto you
+			<lb n="5"/>
+		Amount of that which has resulted from the survey of Lower-Ašmûn for ..[....].. 74 56312 1/2+1/3+1/8 16326 1/2+1/3 A[
+			<lb n="6"/>
+		[...]................[..] in the ...... [...] ...................... [
+			<lb n="7"/>
+		(Rated) at 3 (dînârs per faddân). Thereof belongs to leguminous plants [...] in ... 182 [1/3+]1/8 one half and a quarter and [an eighth
+			<lb n="8"/>
+		[........]....... two thirds and a quarter and an eighth [...] thirty-four. Amount of that which was yielded by Lower-Ašmûn and [
+			<lb n="9"/>
+		(Rated) at 4 (dînârs per faddân). Thereof belongs to vine(-nand) 178 1/2+1/4. Through Ismaʿîl b. Yazîd[
+			<lb n="10"/>
+		Thereof belongs to vine(-land). Amount of that which was yielded by Lo[we]r-Ašm[ûn]...[
+			<lb n="11"/>
+		Amount of that which was yield[ed by .....]d Kodros(?) All this was yielded through [
+			<lb n="12"/>
+		Amount of that which has re[sulted from] the survey of Upper-Ašmûn and Upper-Anṣinâ...[
+			<lb n="13"/>
+		Furthermore of (a rate of) one dînâ[r and a half and a quart]er and an eighth of a dînâr one thousand and forty [
+			<lb n="14"/>
+		forty-four dînârs and two thirds and an eighth of a dînâr five dînârs and [
+			<lb n="15"/>
+		forty-one dînâr ... [
+</ab></div>
+</body>
+</text>
+</TEI>

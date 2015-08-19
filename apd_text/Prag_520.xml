@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1716" xml:id="Prag_520" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 52</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_520</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169463</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأعزّك</supplied> <supplied reason="lost" cert="high">و</supplied>أ<supplied reason="lost" cert="high">كر</supplied>مك <supplied reason="lost" cert="high">و</supplied>أتم نعمته عليك 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> وهو <app type="BL"><lem resp="APD">يحدق </lem><rdg resp="Diem">مخدوم</rdg></app> <app type="BL"><lem resp="APD">به </lem><rdg resp="Diem">ø</rdg></app> النّاس كلّهم فأنا أحب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> في هذه القطعة الأرض الّتي في منقومس 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> استمر على قضاها فلا تنفصل عن حاجته إن شا اللّه 
+<lb n="6"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـقاك وأعزّك وأكرمك وأتم نعمته عليك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾatamma niʿmata hu ʿalay ka 
+ <lb n="3"/>*** wa huwa yuḥdiqu maḫdūmu bi ø hi ø ăn nāsi nāsu kulli kullu him hum fa ʾanā ʾuḥibbu *** 
+ <lb n="4"/>*** fī hāḏihi ăl qiṭʿaẗi ăl ʾarḍi ăllatī fī manqūmisa 
+ <lb n="5"/>*** ĭstamarra ʿalà qaḍāʾi hā fa lā tanfaṣil ʿan ḥāǧati hi ʾin šāʾa ăl lāhu 
+ <lb n="6"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾatamma niʿmata hu ʿalay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		[Gott lasse Dich lange leben und stärke Dich und] er[weise] sich Dir wohltätig [und] vollende seine Gnade an Dir.
+			<lb n="3"/>
+		denn er ist der Gebieter aller Leute
+		[...] und alle Menschen schließen ihn ein. Ich wünsche also
+			<lb n="4"/>
+		[...] hinsichtlich dieses Grundstücks, das in Manqūmis (liegt).
+			<lb n="5"/>
+		[...] er auf seiner Durchführung (Bezahlung?) beharrte; so trenn Dich nicht von dieser Angelegenheit, so Gott will!
+			<lb n="6"/>
+		[Gott lasse] Dich [lange le]ben und stärke Dich und erweise sich Dir wohltätig und vollende seine Gnade an Dir.
+</ab></div>
+</body>
+</text>
+</TEI>

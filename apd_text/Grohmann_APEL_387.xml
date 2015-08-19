@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1916" xml:id="Grohmann_APEL_387" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 387</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_387</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169653</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  تاج الدّين <del rend="erasure" status="unremarkable">ارپعه</del> خمس تنول 
+<lb n="2"/>  أبو توتة عبد الملك نول عمر ابن 
+<lb n="3"/>  الوحيد نول شرف بن سد 
+<lb n="4"/>  الدّرويطي نول داود ابن 
+<lb n="5"/>  منصور نول <sic n="superfluous">لپن</sic> <supplied reason="omitted" cert="high">ابن</supplied> يوسف 
+<lb n="6"/>  نولين ابن الحيط نول 
+<lb n="7"/>  إبرهيم ابن راضي نول عبد 
+<lb n="8"/>  القوي بن <sic n="superfluous">خصور</sic> <supplied reason="omitted" cert="high">حضور</supplied> نول 
+<lb n="9"/>  محمّد ابن طي تلت تنوال 
+<lb n="10"/>  <del rend="erasure" status="unremarkable">و</del>أبو سعد ابن خصيب نول 
+<lb n="11"/>  أبو بكر نول مسعود أخو 
+<lb n="12"/>  قرّة نولين فخر الدّين ثلث 
+<lb n="13"/>  تنول الخطيب أربعة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>tāǧu ăd dīni ḫamsu tanwāl:in 
+ <lb n="2"/>ʾabū tūtaẗa ʿabdu ăl maliki nawl:un ʿumaru ĭbnu 
+ <lb n="3"/>ăl waḥīdi nawl:un šarafu bnu sidd:ini 
+ <lb n="4"/>ăd darwīṭiyyu nawl:un dāwidu ĭbnu 
+ <lb n="5"/>manṣūr:in nawl:un ĭbnu yūsufa 
+ <lb n="6"/>nawlayni ĭbnu ăl ḥayṭi nawl:un 
+ <lb n="7"/>ʾibrāhīmu ĭbnu rāḍiyy:in nawl:un ʿabdu 
+ <lb n="8"/>ăl qawiyyi bnu ḥaḍūra nawl:un 
+ <lb n="9"/>muḥammadu ĭbnu ṭayy:in talātu tanwāl:in 
+ <lb n="10"/>ʾabū saʿd:ini ĭbnu ḫaṣīb:in nawl:un 
+ <lb n="11"/>ʾabū bakr:in nawl:un masʿūd:un ʾaḫū 
+ <lb n="12"/>qurraẗa nawlayni faḫru ăd dīni ṯalāṯu 
+ <lb n="13"/>tanwāl:in ăl ḫaṭību ʾarbaʿaẗu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Tâǧ ad-Dîn 〚four〛 five weaving-looms,
+			<lb n="2"/>
+		Abû Tûteh ʿAbd al-Malik one weaving-loom. ʿUmar b.
+			<lb n="3"/>
+		al-Waḥîd one weaving-loom. Šaraf b. Sidd,
+			<lb n="4"/>
+		originating from Dairûṭ, one weaving-loom. Dâwid b.
+			<lb n="5"/>
+		Manṣûr one weaving-loom. Yûsuf
+			<lb n="6"/>
+		two weaving-looms. Ibn al-Ḥaiṭ one weaving-loom.
+			<lb n="7"/>
+		Ibrâhîm b. Râḍî one weaving-loom. ʿAbd
+			<lb n="8"/>
+		al-Qawî b. Ḥaḍûr one weaving-loom.
+			<lb n="9"/>
+		Muḥammad b. Ṭayy three weaving-looms.
+			<lb n="10"/>
+		Abû Saʿd Ḫaṣîb one weaving-loom.
+			<lb n="11"/>
+		Abû Bakr one weaving-loom. Masʿûd, brother
+			<lb n="12"/>
+		of Qorra, two weaving-looms. Faḫr ad-Dīn three
+			<lb n="13"/>
+		weaving-looms. al-Ḫaṭîb four.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1264" xml:id="Khan_Khurasan_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169091</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما أعتق غالب بن نافع أعتق زرن 
+<lb n="3"/>  أم ولد سعيد مولاه وولدها أم عبد 
+<lb n="4"/>  اللّه بنت سعيد وعمر بن سعيد 
+<lb n="5"/>  ومسلم بن سعيد ونصر <supplied reason="lost" cert="high">بن</supplied> سعيد 
+<lb n="6"/>  عتقهم لوجه <supplied reason="omitted" cert="high">اللّه</supplied> ليس لأحد عليهم 
+<lb n="7"/>  سبيل إلّا سبيل الولا شهد 
+<lb n="8"/>  طلحة بن خليد وعمير بن سليم ويحيى بن 
+<lb n="9"/>  عارض والحكم بن الطّل ويحيى بن طلحة 
+<lb n="10"/>  وسام مولى غالب <app type="BL"><lem resp="APD">وجريب </lem><rdg resp="APD">وحريب </rdg><rdg resp="APD">وجريب</rdg></app> بن <app type="BL"><lem resp="APD">أعين </lem><rdg resp="APD">أغبن</rdg></app> 
+<lb n="11"/>  وعبد اللّه بن طرخان وكتب 
+<lb n="12"/>  في صفر سنة ثمان وثلثين ومية 
+<lb n="seal 1"/>  <supplied reason="lost" cert="high">عبـ</supplied>ـد اللّه 
+<lb n="seal 2"/>  <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">طـ</supplied>ـرخان 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaʿtaqa ġālibu bnu nāfiʿ:in ʾaʿtaqa zirana 
+ <lb n="3"/>ʾumma waladi saʿīd:in mawlā hu wa walada hā ʾumma ʿabdi 
+ <lb n="4"/>ăl lāhi binta saʿīd:in wa ʿumara bna saʿīd:in 
+ <lb n="5"/>wa muslima bna saʿīd:in wa naṣra bna saʿīd:in 
+ <lb n="6"/>ʿitqa hum li waǧhi ăl lāhi laysa li ʾaḥad:in ʿalay him 
+ <lb n="7"/>sabīl:un ʾillā sabīla ăl walāʾi šahida 
+ <lb n="8"/>ṭalḥaẗu bnu ḫulayd:in wa ʿumayru bnu salīm:in wa yaḥyà bnu 
+ <lb n="9"/>ʿāriḍ:in wa ăl ḥakamu bnu ăṭ ṭalli wa yaḥyà bnu ṭalḥaẗa 
+ <lb n="10"/>wa sām:un mawlà ġālib:in wa ḥarīṯu ǧuraybu ḥuraybu bnu ʾaġbana ʾaʿyana 
+ <lb n="11"/>wa ʿabdu ăl lāhi bnu ṭarḫāna wa kutiba 
+ <lb n="12"/>fī ṣafar:in sanaẗa ṯamān:in wa ṯalāṯīna wa miyaẗ:in 
+ <lb n="13"/>ʿabdu ăl lāhi 
+ <lb n="14"/>bnu ṭarḫāna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is what Ġālib ibn Nāfiʿ emancipated. He emancipated Zeran,
+			<lb n="3"/>
+		the ʾumm walad of Saʿīd, his client, and her children, ʾUmm ʿAbd
+			<lb n="4"/>
+		Allāh the daughter of Saʿīd, ʿUmar the son of Saʿīd,
+			<lb n="5"/>
+		Muslim the son of Saʿīd and Naṣr [the son] of Saʿīd.
+			<lb n="6"/>
+		He emancipated them for the sake of God. Nobody has
+			<lb n="7"/>
+		any right over them except the right of patronage. It has been witnessed
+			<lb n="8"/>
+		by Ṭalḥa ibn Khulayd, ʿUmar ibn Salīm, Yaḥyā ibn
+			<lb n="9"/>
+		ʿĀriḍ, al-Ḥakam ibn al-Ṭall, Yaḥyā ibn Ṭalḥa,
+			<lb n="10"/>
+		Sām, the client of Ġālib, Ḥārith ibn ʾAʿyan
+			<lb n="11"/>
+		and ʿAbd Allāh ibn Ṭarḫān. It has been written
+			<lb n="12"/>
+		in Ṣafar of the year one hundred and thirty-eight.
+			<lb n="13"/>
+		ʿAbd Allāh
+			<lb n="14"/>
+		ibn Ṭarḫān
+</ab></div>
+</body>
+</text>
+</TEI>

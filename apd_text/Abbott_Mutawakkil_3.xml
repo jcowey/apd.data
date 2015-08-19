@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1207" xml:id="Abbott_Mutawakkil_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AbbottMutawakkil 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Mutawakkil_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169045</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  <gap reason="illegible" extent="13" unit="character" /> أجل وـ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto2"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">الأرض</unclear> الدّور العذي 
+<lb n="recto3"/>  <gap reason="illegible" extent="5" unit="character" /> ولهم أرض دور عذي عشرة أجل في ستّة أجل <supplied reason="lost" cert="high">ستّين</supplied> <supplied reason="lost" cert="high">جلّا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto4"/>  <supplied reason="lost" cert="high">مسا</supplied>حة الأرض الوسط العذي 
+<lb n="recto5"/>  <supplied reason="lost" cert="high">ولهم</supplied> أرض وسط عذي ستّة أجل وجزا رابع <supplied reason="omitted" cert="high">في</supplied> خمسة أجل اثـ<supplied reason="lost" cert="high">ـنين</supplied> <supplied reason="lost" cert="high">وثلاثين</supplied> <supplied reason="lost" cert="high">جلّا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto6"/>  ولهم أرض وسط عذي عشرة أجل في أربعة أجل أربعـ<supplied reason="lost" cert="high">ـين</supplied> <supplied reason="lost" cert="high">جلّا</supplied> 
+<lb n="recto7"/>  الأرض الدور العذي 
+<lb n="recto8"/>  ولهم أرض دور عذي ثمنية أجل وجزا رابع في ستّة أجل وسدس أحد وخمسين جلّا 
+<lb n="recto9"/>  ولهم أرض <unclear reason="undefined" cert="high">جدو</unclear> عذي عشرة أجل وجزا واپع في جلّين أحد وعشرين جلّا 
+<lb n="recto10"/>  فيها <supplied reason="omitted" cert="high">مـ</supplied><unclear reason="undefined" cert="high">ـن</unclear> الزّيتون التّام أربعين أصلا وتول الزّيتون عشرة أصول 
+<lb n="recto11"/>  ولهم الأقوز جل في جـ<supplied reason="lost" cert="high">ـلّ</supplied> جـ<supplied reason="lost" cert="high">ـلّ</supplied> 
+<lb n="recto12"/>  ولهم من عد لا يكن أعد له عشرة أجل في عشرة <supplied reason="lost" cert="high">أجـ</supplied>ـل مائة جل 
+<lb n="recto13"/>  <sic n="superfluous">ولهم</sic> <sic n="superfluous">عسره</sic> <sic n="superfluous">اررپا</sic> <sic n="superfluous">عسرپن</sic> <sic n="superfluous">حلا</sic> <sic n="superfluous">ڤى</sic> 
+<lb n="recto14"/>  و<supplied reason="lost" cert="high">لهم</supplied> <gap reason="illegible" extent="5" unit="character" /> ثلثة عشر جلّا في عشرة أجل مائة جل <sic n="superfluous">وپاپپن</sic> وثلثين 
+<lb n="verso1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso2"/>  <gap reason="illegible" extent="10" unit="character" /> دن 
+<lb n="verso3"/>  <gap reason="illegible" extent="5" unit="character" /> مائتين وعشرين لجزية رفعة 
+<lb n="verso4"/>  <gap reason="illegible" precision="low" extent="3"/> مائتين دن 
+<lb n="verso5"/>  <gap reason="illegible" precision="low" extent="3"/> جزى 
+<lb n="verso6"/>  <gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">ى</unclear> مائتين دن 
+<lb n="verso7"/>  <gap reason="illegible" precision="low" extent="3"/> مائتين وثمنية وعشرين دنا 
+<lb n="verso8"/>  <supplied reason="lost" cert="high">عـ</supplied>ـدد الشّجر خمسة وعشرين أصلا 
+<lb n="verso9"/>  <supplied reason="lost" cert="high">الزّيتون</supplied> <supplied reason="lost" cert="high">ثلـ</supplied>ـثة أصول غرس الزّيتون عشرين أصلن 
+<lb n="verso10"/>  <gap reason="illegible" extent="5" unit="character" /> عشرين أصلا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>************* ʾaǧull:in wa *** 
+ <lb n="2"/>*** ăl ʾarḍ ăd dūr ăl ʿaḏī 
+ <lb n="3"/>***** wa la hum ʾarḍ:un dūr:un ʿaḏiyy:un ʿašaraẗu ʾaǧull:in fī sittaẗi ʾaǧull:in sittīna ǧall:an *** 
+ <lb n="4"/>misāḥaẗu ăl ʾarḍi ăl wasaṭi ăl ʿaḏiyyi 
+ <lb n="5"/>wa la hum ʾarḍ:un wasaṭ:un ʿaḏiyy:un sittaẗu ʾaǧull:in wa ǧizā rābiʿ:in fī ḫamsaẗi ʾaǧull:in ĭṯnayni wa ṯalāṯīna ǧall:an *** 
+ <lb n="6"/>wa la hum ʾarḍ:un wasaṭ:un ʿaḏiyy:un ʿašaraẗu ʾaǧull:in fī ʾarbaʿaẗi ʾaǧull:in ʾarbaʿīna ǧall:an 
+ <lb n="7"/>ăl ʾarḍu ăl dūru ăl ʿaḏiyyu 
+ <lb n="8"/>wa la hum ʾarḍ:un dūr:un ʿaḏiyy:un ṯamāniyaẗu ʾaǧull:in wa ǧizā rābiʿ:in fī sittaẗi ʾaǧull:in wa suds:un ʾaḥad:un wa ḫamsīna ǧall:an 
+ <lb n="9"/>wa la hum ʾarḍ:un ǧadw:un ʿaḏiyy:un ʿašaraẗu ʾaǧull:in wa ǧizā rābiʿ:in fī ǧallayni ʾaḥad:un wa ʿišrīna ǧall:an 
+ <lb n="10"/>fī hā mina ăz zaytūni ăt tāmmi ʾarbaʿīna ʾaṣl:an wa tūlu ăz zaytūni ʿašaraẗu ʾuṣūl:in 
+ <lb n="11"/>wa la humu ăl ʾaqūzu ǧall:un fī ǧall:in ǧall:un 
+ <lb n="12"/>wa la hum min ʿadd:in lā yakunu ʾuʿidda la hu ʿašaraẗu ʾaǧull:in fī ʿašaraẗi ʾaǧull:in miʾaẗu ǧall:in 
+ <lb n="13"/>wa la hum ʿašaraẗu ʾarzun:an ʿišrīna ǧall:an fī 
+ <lb n="14"/>wa la hum ***** ṯalāṯaẗa ʿašara ǧall:an fī ʿašaraẗi ʾaǧull:in miʾaẗu ǧall:in wa ṯalāṯīna 
+ <lb n="15"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="16"/>********** dan 
+ <lb n="17"/>***** miʾatayni wa ʿišrīna li ǧizyaẗ:in rafʿaẗ:in 
+ <lb n="18"/>*** miʾatayni dan:in 
+ <lb n="19"/>*** ǧizà 
+ <lb n="20"/>***ī miʾatayni dan:in 
+ <lb n="21"/>*** miʾatayni wa ṯamāniyaẗ:un wa ʿišrīna dan:an 
+ <lb n="22"/>ʿadadu ăš šaǧari ḫamsaẗ:un wa ʿišrīna ʾaṣl:an 
+ <lb n="23"/>ăz zaytūnu ṯalāṯaẗ:un ʾuṣūl:in ġarsu ăz zaytūni ʿišrīna ʾaṣlan 
+ <lb n="24"/>***** ʿišrīna ʾaṣl:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		............ ǧalls and .....
+			<lb n="2"/>
+		........ rain-watered wide valley lands.
+			<lb n="3"/>
+		And they have rain-watered wide valley lands, ten ǧalls into six ǧalls - [sixty ǧalls].
+			<lb n="4"/>
+		[Area of] the choice rain-watered lands.
+			<lb n="5"/>
+		And they have choice rain-watered lands, six-and one-quarter ǧalls &lt;into&gt; five ǧalls - tw[o and thirty ǧalls].
+			<lb n="6"/>
+		And they have choice rain-watered lands, ten ǧalls into four ǧalls - for[ty ǧalls].
+			<lb n="7"/>
+		Rain-watered wide valley lands.
+			<lb n="8"/>
+		And they have rain-watered wide valley lands, eight and one-quarter ǧalls into six and one-sixth ǧalls - fifty-one ǧalls.
+			<lb n="9"/>
+		And they have rain-watered pasture lands ten and one-quarter ǧalls into two ǧalls - twenty-one ǧalls.
+			<lb n="10"/>
+		in it?? And forty full-grown olive trees, and twenty young olive trees (or shoots).
+			<lb n="11"/>
+		And they have (of) high round sand-hills (one) ǧall into (one) ǧall - (one) [ǧa]ll.
+			<lb n="12"/>
+		And they have a number of ǧalls not to be counted for taxes, ten ǧalls into ten [ǧa]lls - one hundred ǧalls.
+			<lb n="13"/>
+		And they have ten elevated terraces(?), twenty ǧalls into - - - -
+			<lb n="14"/>
+		[And they have ....] thirteen ǧalls into ten ǧalls - one hundred and thirty ǧalls.
+			<lb n="15"/>
+		In the name of God, the Merciful, the Compassionate,
+			<lb n="16"/>
+		.......... dan
+			<lb n="17"/>
+		..... two-hundred and twenty of the produce of the ground, reported (for record).
+			<lb n="18"/>
+		..... two-hundred dans.
+			<lb n="19"/>
+		..... produce of the ground (land products).
+			<lb n="20"/>
+		..... two-hundred dans.
+			<lb n="21"/>
+		..... two-hundred and twenty-eight dans.
+			<lb n="22"/>
+		..... Number of trees, twenty-five stems (trees).
+			<lb n="23"/>
+		..... Olives, three trees, (young) olive shoots, twenty trees.
+			<lb n="24"/>
+		..... Fruit, twenty trees.
+</ab></div>
+</body>
+</text>
+</TEI>

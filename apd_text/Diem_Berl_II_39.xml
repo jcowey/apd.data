@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1527" xml:id="Diem_Berl_II_39" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 39</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_39</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169298</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="recto 2"/>  أطال اللّه بقاك وأعزّك وأكرمك وأسعدك وأتم نعمته عليك وزاد في إحسانه إليك وأدامها لك 
+ <lb n="recto 3"/>  كتابي إليك أعزّك اللّه وأنا في عافية والحمد للّه رب العلمين وصلّى اللّه على محمّد النّبي وآله وسلّم كثيرا 
+ <lb n="recto 4"/>  قد كتبت إليك أعزّك اللّه عدّة كتب أرجوا وصولها إليك إن شا اللّه وقد وصلت كتبك مع 
+ <lb n="recto 5"/>  <supplied reason="omitted" cert="high">أبي</supplied> الـ<supplied reason="lost" cert="high">ـحـ</supplied>ـجّاج أعزّه <supplied reason="omitted" cert="high">اللّه</supplied> وقد دفعت إلى أبي الحجّاج خمسة وعشرين <sic n="superfluous">در</sic> <expan><ex>دينار</ex></expan> κε في شهر ربيع الآخر برقع 
+ <lb n="recto 6"/>  والى شبر بن مر ستّة <sic n="superfluous">دپپر</sic> <expan><ex>دنانير</ex></expan> ς وإلى <supplied reason="lost" cert="high">عـ</supplied>ـلى بن مقرن تسعة فأثبت ذلك عندك إ<supplied reason="lost" cert="high">ن</supplied> شا اللّه 
+ <lb n="recto 7"/>  وأنفذت إليك كتاب أبي الحجّاج وكتاب فيه فاعلم ذلك مع كتا<supplied reason="lost" cert="high">بـ</supplied>ـك أعزّك اللّه بخبرك <supplied reason="lost" cert="high">و</supplied>حالك 
+ <lb n="recto 8"/>  وجميع حـ<supplied reason="lost" cert="high">ـو</supplied>ائجك إن شا اللّه وعرّفني ما عملت مع هرون بن بشّار ولا تقصّر في أمره إن شـ<supplied reason="lost" cert="high">ـا</supplied> الـ<supplied reason="lost" cert="high">ـلّـ</supplied>ـه 
+ <lb n="recto 9"/>  أطـ<supplied reason="lost" cert="high">ـا</supplied>ل اللّه بـ<supplied reason="lost" cert="high">ـقـ</supplied>ـاك و<supplied reason="lost" cert="high">أ</supplied>عزّك و<supplied reason="lost" cert="high">أ</supplied>كرمك <supplied reason="lost" cert="high">وأسعدك</supplied> <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نعمته</supplied> <supplied reason="lost" cert="high">عليـ</supplied>ـك وزا<supplied reason="lost" cert="high">د</supplied> في إحسانه إليك 
+ <lb n="verso 1 right"/>  لأبي عبد اللّه أطال اللّه بقاه وأعزّه 
+ <lb n="verso 2 right"/>  محمّد بن جروة وليه اللّه 
+ <lb n="verso 1 left"/>  من عبد الرّحمن بن محمّد 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾasʿada ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ʾadāma hā la ka 
+ <lb n="3"/>kitāb ī ʾilay ka ʾaʿazza ka ăl lāhu wa ʾanā fī ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama kaṯīr:an 
+ <lb n="4"/>qad katabtu ʾilay ka ʾaʿazza ka ăl lāhu ʿiddaẗa kutub:in ʾarǧū wuṣūla hā ʾilay ka ʾin šāʾa ăl lāhu wa qad waṣalat kutubu ka maʿa 
+ <lb n="5"/>ʾabī ăl ḥaǧǧāǧi ʾaʿazza hu ăl lāhu wa qad dafaʿtu ʾilà ʾabī ăl ḥaǧǧāǧi ḫamsaẗ:an wa ʿišrīna dīnār ‪25 fī šahri rabīʿa ăl ʾāḫari bi ruqaʿ:in 
+ <lb n="6"/>wa ʾilà šibri bni murr:in sittaẗa danānīra ‪6 wa ʾilà ʿaliyyi bni muqrin:in tisʿaẗ:an fa ʾaṯbit ḏālika ʿinda ka ʾin šāʾa ăl lāhu 
+ <lb n="7"/>wa ʾanfaḏtu ʾilay ka kitāba ʾabī ăl ḥaǧǧāǧi wa kitāb fī hi fa ăʿlim ḏālika maʿa kitābi ka ʾaʿazza ka ăl lāhu bi ḫabari ka wa ḥāli ka 
+ <lb n="8"/>wa ǧamīʿi ḥawāʾiǧi ka ʾin šāʾa ăl lāhu wa ʿarrif nī mā ʿamilta maʿa hārūna bni baššār:in wa lā tuqaṣṣir fī ʾamri hi ʾin šāʾa ăl lāhu 
+ <lb n="9"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾasʿada ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka 
+ <lb n="11"/>li ʾabī ʿabdi ăl lāhi ʾaṭāla ăl lāhu baqāʾa hu wa ʾaʿazza hu 
+ <lb n="12"/>muḥammadi bni ǧirwaẗa waliya hu ăl lāhu 
+ <lb n="13"/>min ʿabdi ăr raḥmāni bni muḥammad:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Gnädigen!
+		 <lb n="2"/>
+ 	  Gott lasse Dich lange leben, stärke Dich, ehre Dich, mache Dich glücklich, vollende seine Gnade an Dir, spende Dir noch mehr sein Wohlwollen und gewähre sie Dir auch weiterhin!
+		 <lb n="3"/>
+ 	  Ich schreibe Dir - Gott stärke Dich - bei Gesundheit; Preis sei Gott, dem Herrn der Welten! Gott segne Muḥammad den Propheten und seine Sippe und spende (ihnen) vielmals Heil!
+		 <lb n="4"/>
+ 	  Ich habe Dir - Gott stärke Dich - eine Reihe von Briefen geschrieben, von denen ich hoffe, daß Du sie erhalten hast, so Gott will. Deine Briefe sind durch
+		 <lb n="5"/>
+ 	  &lt;Abū&gt; l-Ḥaǧǧāǧ - &lt;Gott&gt; stärke ihn - überbracht worden. Ich habe an Abū l-Ḥaǧǧāǧ im Monat Rabīʿ al-ʾāḫir auf Grund von Zahlungsanweisungen fünfundzwanzig Dinar (in Zahlen) 25 ausgezahlt,
+		 <lb n="6"/>
+ 	  ferner an Šibr ibn Murr sechs Dinar (in Zahlen) 6 und an ʿAlī ibn Muqrin neun (Dinar). Verbuche dies also bei Dir, so Gott will!
+		 <lb n="7"/>
+ 	  Ich übersende Dir (anbei) den Brief Abū l-Ḥaǧǧāǧs und darin (eingefaltet noch) einen (anderen) Brief; nimm dies also zur Kenntnis! Teile - Gott stärke Dich - die Dich betreffenden Neuigkeiten, Dein Befinden
+		 <lb n="8"/>
+ 	  und alle Deine Anliegen mit, so Gott will! Laß mich ferner wissen, wie Du mit Hārūn ibn Baššār verfahren bist; vernachlässige seine Angelegenheit nicht, so Gott will!
+		 <lb n="9"/>
+ 	  Gott lasse Dich lange leben, stärke Dich, ehre Dich, mache Dich glücklich, vollende seine Gnade an Dir und spende Dir noch mehr sein Wohlwollen!
+		 <lb n="11"/>
+ 	  An Abū ʿAbdallāh - Gott lasse ihn lange leben und stärke ihn -
+		 <lb n="12"/>
+ 	  Muḥammad ibn Ǧirwah - Gott sei ihm gewogen -
+		 <lb n="13"/>
+ 	  von ʿAbdarraḥmān ibn Muḥammad.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

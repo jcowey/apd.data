@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2472" xml:id="Richards_MamlukPetition_010" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.RichardsMamlukPetition a</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Richards_MamlukPetition_010</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  المماليك الرّهبان المقيمين بدير طور سينا يقبّلون الأرض وينهون أنّهم منقطعون 
+ <lb n="3"/>  بهذا الجبل للأدعية الصّالحة لهذه الدّولة القاهرة خلّد اللّه سلطانها 
+ <lb n="4"/>  وخدمة السّادة الحجّاج عند عودهم من الحجاز الشّريف وبيدهم تواقيع شر<supplied reason="lost" cert="high">يفة</supplied> 
+ <lb n="5"/>  من السّادة الخلفا والملوك الشّهدا تغمّدهم اللّه برحمته بالوصيّة عليهم 
+ <lb n="6"/>  وعلي ديرهم وأوقافهم ونخلهم وأن لا يعارضوا في شي من تعلّقاتهم 
+ <lb n="7"/>  وأسبابهم بوجه من الوجوه وتواقيعهم ثابتة بالدّواوين المعمورة وفي 
+ <lb n="8"/>  هذه الوقت تعرّض المقطع على رسوم الولاية بالطّور إلي نخل المماليك 
+ <lb n="9"/>  الوقف عليهم وقصد أن يحدث عليهم حادث لم تجر به عادة وسوال 
+ <lb n="10"/>  المماليك من الصّدقات العميمة إخراج حال من ديوان الجيوش <supplied reason="lost" cert="high">المنصورة</supplied> 
+ <lb n="11"/>  بما يشهد به الدّيوان المعمور فيه ليصل إلى حقّه ويرفع يده عن المماليك 
+ <lb n="12 right"/>  صدقة عليهم وإحسانًا إليهم 
+ <lb n="12 left"/>  أنهوا المماليك ذلك 
+ <lb n="13 right"/>  والرّأي أعلا 
+ <lb n="13 left"/>  إن شا اللّه تعالى وحسبنا اللّه ونعم الوكيل 
+ <lb n="above line 1, upside down"/>  إخراج حال النّخل بالسّاحل 
+ <lb n="right margin, opposite l. 2"/>  ويخرج الحال في <unclear reason="undefined" cert="high">ذلك</unclear> 
+ <lb n="to the left of l. 1"/>  <unclear reason="undefined" cert="high">ينظر</unclear> 
+ <lb n="between ll. 2 and 3"/>  يمتثل مرسوم 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl mamālīku ăr ruhbānu ăl muqīmīna bi dayri ṭūri sīnā yuqabbilūna ăl ʾarḍa wa yunhūna ʾanna hum munqaṭiʿūna 
+ <lb n="3"/>bi hāḏā ăl ǧabali li l ʾadʿiyaẗi ăṣ ṣāliḥaẗi li hāḏihi ăd dawlaẗi ăl qāhiraẗi ḫallada ăl lāhu sulṭāna hā 
+ <lb n="4"/>wa ḫidmaẗi ăs sādaẗi ăl ḥuǧǧāǧi ʿinda ʿawdi him mina ăl ḥiǧāzi ăš šarīfi wa bi yadi him tawāqīʿu šarīfaẗ:un 
+ <lb n="5"/>mina ăs sādaẗi ăl ḫulafāʾi wa ăl mulūki ăš šuhadāʾi taġammada humu ăl lāhu bi raḥmati hi bi ăl waṣiyyaẗi ʿalay him 
+ <lb n="6"/>wa ʿalà dayri him wa ʾawqāfi him wa naḫli him wa ʾan lā yuʿāraḍū fī šayʾ:in min taʿalluqāti him 
+ <lb n="7"/>wa ʾasbābi him bi waǧh:in mina ăl wuǧūhi wa tawāqīʿu hum ṯābitaẗ:un bi ăd dawāwīni ăl maʿmūraẗi wa fī 
+ <lb n="8"/>hāḏihi ăl waqti taʿarraḍa ăl muqṭaʿu ʿalà rusūmi ăl wilāyaẗi bi ăṭ ṭūri ʾilà naḫli ăl mamālīki 
+ <lb n="9"/>ăl waqfi ʿalay him wa qaṣada ʾan yuḥdiṯa ʿalay him ḥādiṯ lam taǧri bi hi ʿādaẗ:un wa suʾālu 
+ <lb n="10"/>ăl mamālīki mina ăṣ ṣadaqāti ăl ʿamīmaẗi ʾiḫrāǧu ḥāl:in min dīwāni ăl ǧuyūši ăl manṣūraẗi 
+ <lb n="11"/>bi mā yašhadu bi hi ăd dīwānu ăl maʿmūru fī hi li yaṣila ʾilà ḥaqqi hi wa yarfaʿa yada hu ʿani ăl mamālīki 
+ <lb n="12"/>ṣadaqaẗ:an ʿalay him wa ʾiḥsān:an ʾilay him 
+ <lb n="13"/>ʾanhū ăl mamālīku ḏālika 
+ <lb n="14"/>wa ăr raʾyu ʾaʿlā 
+ <lb n="15"/>ʾin šāʾa ăl lāhu taʿālà wa ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="16"/>ʾiḫrāǧu ḥāli ăn naḫli bi ăs sāḥili 
+ <lb n="17"/>wa yuḫraǧu ăl ḥālu fī ḏālika 
+ <lb n="18"/>yunẓaru 
+ <lb n="19"/>yumtaṯalu marsūm 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God, the Merciful, the Compassionate.
+		 <lb n="2"/>
+ 	  The slaves, the monks who dwell in the monastery of Mount Sinai (Ṭūr) kiss the earth and report that they devote themselves
+		 <lb n="3"/>
+ 	  at this mountain to pious prayers for this conquering dynasty (may God perpetuate its authority)
+		 <lb n="4"/>
+ 	  and to the service of pilgrims on their return from the Holy Ḥijāz; that they possess noble rescripts
+		 <lb n="5"/>
+ 	  from their lords, the Caliphs, and the martyr Princes (may God encompass them with His mercy), enjoining solicitude for them
+		 <lb n="6"/>
+ 	  their monastery, their charitable trusts, and their date-palms, and that they should be subject to no hindrance in any of their affairs
+		 <lb n="7"/>
+ 	  and interests in any way whatsoever. Their rescripts are recorded in the Bureaux.
+		 <lb n="8"/>
+ 	  Recently, the person allotted (muqṭaʿ) the dues of the governorship in Ṭūr has laid hands on the date-palms of the humble petitioners,
+		 <lb n="9"/>
+ 	  the charitable trust they benefit from, and has intended that they suffer a new imposition, unsanctioned by any custom.
+		 <lb n="10"/>
+ 	  The humble petitioners request from [your] all-embracing charity the issuing of a report from the Bureau of the Vitcorious Army,
+		 <lb n="11"/>
+ 	  giving the evidence of the Bureau on this matter, so that he [the muqṭaʿ] may attain his due and withhold his hand from the humble petitioners -
+		 <lb n="12"/>
+ 	  this as an act of charity and kindness to them.
+		 <lb n="13"/>
+ 	  The humble petitioners have reported this,
+		 <lb n="14"/>
+ 	  yet [your Honour&#039;s] opinion is superior.
+		 <lb n="15"/>
+ 	  If God Almighty wills; God is our sufficiency and an excellent steward is He!
+		 <lb n="16"/>
+ 	  A report on the date-palms at the coast.
+		 <lb n="17"/>
+ 	  Let the facts of this matter be set forth.
+		 <lb n="18"/>
+ 	  Let it be considered (?).
+		 <lb n="19"/>
+ 	  Let the decree .... be carried out ... (?).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

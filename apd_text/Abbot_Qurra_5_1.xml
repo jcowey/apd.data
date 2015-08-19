@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="401" xml:id="Abbot_Qurra_5_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Qurra 5</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbot_Qurra_5_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106606</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ما قبض ر<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  منذ كان بها <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="3"/>  بن عبد الملك <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الجزية</supplied> 
+<lb n="4"/>  اپوأب المال و<supplied reason="lost" cert="high">الفضول</supplied> 
+<lb n="5"/>  في ذلك <app type="BL"><lem resp="APD">إذا </lem><rdg resp="“Diem, Aphrodito p. 260”">أداء</rdg></app> الّذي <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 260”">بقي</rdg></app> 
+<lb n="6"/>  من الجزية و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ثابت في الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  لا خفا به <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  جبى من الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  الجزية فا<supplied reason="lost" cert="high">لّذي</supplied> 
+<lb n="11"/>  من سماك أخو فر<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  ومن صالح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  كتاب ذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  فإذا جاك كتبي هذ<supplied reason="lost" cert="high">ا</supplied> 
+<lb n="15"/>  فأرسل إلي <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 260”">بكتب</rdg></app> 
+<lb n="16"/>  كل دينر دفعته <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 260”">أنت</rdg></app> 
+<lb n="17"/>  أو من كان قبلك عـ<supplied reason="lost" cert="high">ـلى</supplied> 
+<lb n="18"/>  كورتك إلى <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="19"/>  عبد الملك من <supplied reason="lost" cert="high">الجزية</supplied> 
+<lb n="20"/>  الڤصول والغرامات <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 260”">ø</rdg></app> 
+<lb n="21"/>  <app type="BL"><lem resp="“Diem, Aphrodito p. 260”">والمواريث </lem><rdg resp="dot of zāy shifted to the two dots of tāʾ “Abbot”">والموازيت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 260”">وغير</rdg></app> 
+<lb n="22"/>  ذلك ممّا <app type="BL"><lem resp="APD">كتب </lem><rdg resp="“Diem, Aphrodito p. 260”">كتبت </rdg><rdg resp="“Diem, Aphrodito p. 260”">كنت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر </lem><rdg resp="“Diem, Aphrodito p. 260”">دفعت </rdg><rdg resp="“Diem, Aphrodito p. 260”">كتبت</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بن</supplied> </lem><rdg resp="“Diem, Aphrodito p. 260”">ø</rdg></app> 
+<lb n="23"/>  الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> منذ كان بمصر 
+<lb n="24"/>  إلى يو<supplied reason="lost" cert="high">مـ</supplied>ـي هذ<supplied reason="lost" cert="high">ا</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">واكپپ</supplied> </lem><rdg resp="“Diem, Aphrodito p. 260”">واكتب</rdg></app> <app type="BL"><lem resp="APD">دلك </lem><rdg resp="“Diem, Aphrodito p. 260”">ذلك</rdg></app> 
+<lb n="25"/>  كتابا بيّنا مـ<supplied reason="lost" cert="high">ـثبتا</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پڤا</supplied>ايا </lem><rdg resp="“Diem, Aphrodito p. 260”">بقايا</rdg></app> 
+<lb n="26"/>  <supplied reason="lost" cert="high">الفضول</supplied> <app type="BL"><lem resp="APD">الّذي </lem><rdg resp="“Diem, Aphrodito p. 260”">والّذي</rdg></app> دفعت 
+<lb n="27"/>  إلى <app type="BL"><lem resp="APD">خزّان </lem><rdg resp="“Diem, Aphrodito p. 260”">خزّان</rdg></app> عبـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> بن 
+<lb n="28"/>  عبد الملك <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">پپ</supplied> </lem><rdg resp="“Diem, Aphrodito p. 260”">أنت</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">او</supplied> </lem><rdg resp="“Diem, Aphrodito p. 260”">أو</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="“Diem, Aphrodito p. 260”">من</rdg></app> 
+<lb n="28 a"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="29"/>  العمّال ثم لا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="30"/>  ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="30 a"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 260”">دينرا</rdg></app> 
+<lb n="31"/>  واحدا إلّا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="32"/>  كتابه ونـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="33"/>  <supplied reason="lost" cert="high">والسّلم</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">اتّبع</supplied> 
+<lb n="34"/>  الهد<supplied reason="lost" cert="high">ى</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="35"/>  <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="35 a"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>mā qabaḍa r*** 
+ <lb n="2"/>munḏu kāna bi hā ʿabdu ăl lāhi 
+ <lb n="3"/>bnu ʿabdi ăl maliki mina ăl ǧizyaẗi 
+ <lb n="4"/>wa ʾabwābi ăl māli wa ăl fuḍūli 
+ <lb n="5"/>fī ḏālika ʾadāʾ ʾiḏā ăllaḏī *** baqiya 
+ <lb n="6"/>mina ăl ǧizyaẗi wa *** 
+ <lb n="7"/>ṯābit fī ăl *** 
+ <lb n="8"/>lā ḫafāʾa bi hi *** 
+ <lb n="9"/>ǧubiya mina ăl *** 
+ <lb n="10"/>ăl ǧizyaẗ fa ăllaḏī 
+ <lb n="11"/>min samāka ʾaḫū fr*** 
+ <lb n="12"/>wa min ṣāliḥ:in *** 
+ <lb n="13"/>kitāb ḏālika *** 
+ <lb n="14"/>fa ʾiḏā ǧāʾa ka kitāb ī hāḏā 
+ <lb n="15"/>fa ʾarsil ʾilay ya *** bi ø kitābi ø *** 
+ <lb n="16"/>kull kulli dīnār:in dafaʿta hu *** ʾanta ø nafsu ø ka 
+ <lb n="17"/>ʾaw man kāna qabla ka ʿalà 
+ <lb n="18"/>kūrati ka ʾilà ʿabdi ăl lāhi bni 
+ <lb n="19"/>ʿabdi ăl maliki mina ăl ǧizyaẗi 
+ <lb n="20"/>wa ăl fuḍūli wa ăl ġarāmāti *** ø 
+ <lb n="21"/>wa ăl mawārīṯ mawāzīt *** wa ø ġayri 
+ <lb n="22"/>ḏālika mimmā kataba katabta kunta ***r dafaʿta katabta ĭbnu ø 
+ <lb n="23"/>ăl ** munḏu kāna bi miṣra 
+ <lb n="24"/>ʾilà yawm ī hāḏā ø wa ø ŭktub wa ø ḏālika ḏālika 
+ <lb n="25"/>kitāb:an bayyin:an muṯbit:an ʾlʾ baqāyā 
+ <lb n="26"/>ăl fuḍūla fuḍūli ø wa ăllaḏī dafaʿta 
+ <lb n="27"/>ʾilà ḫazzāni ḫizāni ʿabdi ăl lāhi bni 
+ <lb n="28"/>ʿabdi ăl maliki ʾ*** ʾanta ø ʾaw ø man 
+ <lb n="29"/>*** 
+ <lb n="30"/>ăl ʿummāl ṯumma lā *** 
+ <lb n="31"/>ʾ*** 
+ <lb n="32"/>*** dīnār:an 
+ <lb n="33"/>wāḥid:an ʾillā *** 
+ <lb n="34"/>kitāb hu wa n*** 
+ <lb n="35"/>wa ăs salāmu ʿalà mani ĭttabaʿa 
+ <lb n="36"/>ăl hudà wa kataba *** bnu *** 
+ <lb n="37"/>fī *** 
+ <lb n="38"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		What he received .... 
+			<lb n="2"/>
+		since ʿAbd Allāh 
+			<lb n="3"/>
+		ibn ʿAbd al-Malik was in it, of the gold tax and 
+			<lb n="4"/>
+		the imposts and the extraordinary taxes 
+			<lb n="5"/>
+		in that. If what .... 
+			<lb n="6"/>
+		of the gold tax and .... 
+			<lb n="7"/>
+		established in the .... 
+			<lb n="8"/>
+		no secret in it .... 
+			<lb n="9"/>
+		collected from the .... 
+			<lb n="10"/>
+		the gold tax, for what ... 
+			<lb n="11"/>
+		from Samāk, the brother of F r .. 
+			<lb n="12"/>
+		and from Ṣāliḥ .... 
+			<lb n="13"/>
+		letter for that .... 
+			<lb n="14"/>
+		Therefore, when this present letter reaches you, 
+		Wenn Dich also die[ser] mein Brief erreicht, 
+			<lb n="15"/>
+		so übersende mir [das Buch über] 
+		then send me .... 
+			<lb n="16"/>
+		every dinar which you have paid .... 
+		jeden Dinar, den Du [selbst] bezahlt hast 
+			<lb n="17"/>
+		oder wer vor Dir Lei[ter] 
+		or he who was before you over 
+			<lb n="18"/>
+		Deiner Kūra war an [ʿAbdallāh ibn] 
+		your district, to ʿAbd Allāh ibn 
+			<lb n="19"/>
+		ʿAbd al-Malik, of the gold tax and 
+		ʿAbdalmalik von [der Ǧizya und] 
+			<lb n="20"/>
+		den außerordentlichen Steuern und den Geldstraf[en] 
+		the extraordinary taxes and the fines .... 
+			<lb n="21"/>
+		and the mawārīth (?) (or mawāzīt) ..... 
+		und den Erbschaften [und and]
+			<lb n="22"/>
+		erem, und zwar das, was Du [...] hast 
+		That is what has written ....r ibn 
+			<lb n="23"/>
+		al-.... since he was in Egypt 
+		a[n ihn], seitdem er in Ägypten war, 
+			<lb n="24"/>
+		bis zum heut[igen] Tag. [Und schreibe] dies 
+		to this my day. And that 
+			<lb n="25"/>
+		auf deutliche Weise, welche zei[gt die Rück]stände 
+		is a clear document affirming 
+			<lb n="26"/>
+		der außerordentlichen Steuern] und das (oder: und dessen was, oder neuer Satz: Und das), was Du gezahlt hast 
+		the extraordinary taxes which you paid 
+			<lb n="27"/>
+		an den Schatzmeister von ʾAbd[allāh] ibn 
+		into the treasuries of ʿAbd Allāh ibn 
+			<lb n="28"/>
+		ʿAbd al-Malik .... 
+		ʿAbdalmalik [Du selbst oder wer] 
+			<lb n="29"/>
+			<lb n="30"/>
+		the finance officers. Then do not .... 
+			<lb n="31"/>
+			<lb n="32"/>
+			<lb n="33"/>
+		one except .... 
+			<lb n="34"/>
+		his letter and ..... 
+			<lb n="35"/>
+		Peace be to those who follow 
+			<lb n="36"/>
+		the guidance. Written by .... 
+			<lb n="37"/>
+		in .................. 
+			<lb n="38"/>
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1973" xml:id="Grohmann_APEL_224-225" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 224-225</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_224-225</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169705</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1 right"/>  بوصير أيضا 
+ <lb n="recto 1 left"/>  فدّان بدينر بور من <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 2 left"/>  دينـ<supplied reason="lost" cert="high">ـر</supplied> 
+ <lb n="recto 3"/>  η <app type="BL"><lem resp="APD">بادي </lem><rdg resp="APD">باذي</rdg></app> مولى اللّيث من الزّرع <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="recto 4"/>  χ يحنّس الأجير من الزّرع <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="recto 5"/>  γ الوليد بن إسحق من الزّرع <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="recto 6"/>  χ <app type="BL"><lem resp="APD">دحنة </lem><rdg resp="APD">دحنة</rdg></app> بن عبد الواحد من الزّرع <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="recto 7"/>  α عبد العزيز بن قاسم من الزّرع <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 1 left"/>  ڤرموپه ϰη فرموته ϰϑ 
+ <lb n="verso 2 right"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـدّان 
+ <lb n="verso 2 left"/>  دينر دينر 
+ <lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> α سويد بن موسى χδʹ‎ <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> δʹ‎ محمّد بن عبد الواحد <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> χ مسكين الأسود <gap reason="illegible" extent="1" unit="character" /> γϰʹ‎δʹ‎ 
+ <lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> α مرقس بلونه <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> α صالح بن حسّان <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> γʹ‎ شنوده طلفس <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="9" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>būṣīru ʾayḍ:an 
+ <lb n="2"/>faddān:un bi dīnār:in būr:un min *** 
+ <lb n="3"/>dīnār:un 
+ <lb n="4"/>‮‪8 bādī bāḏī mawlà ăl layṯi mina ăz zarʿi * * 
+ <lb n="5"/>‮‪1/2 yuḥannisu ăl ʾaǧīru mina ăz zarʿi * * 
+ <lb n="6"/>‮‪3 ăl walīdu bnu ʾisḥāqa mina ăz zarʿi * * 
+ <lb n="7"/>‮‪1/2 daḥnaẗu daḥyaẗu diḥyaẗu bnu ʿabdi ăl wāḥidi mina ăz zarʿi * * 
+ <lb n="8"/>‮‪1 ʿabdu ăl ʿazīzi bnu qāsim:in mina ăz zarʿi * * 
+ <lb n="9"/>farmūtihu ‪28 farmūtihu ‪29 
+ <lb n="10"/>*** faddān:un 
+ <lb n="11"/>dīnār:un dīnār:un 
+ <lb n="12"/>*** ‪1 suwaydu bnu mūsà ‪1/2+1/4 * 
+ <lb n="13"/>*** ‪1/4 muḥammadu bnu ʿabdi ăl wāḥidi * * 
+ <lb n="14"/>*** ‪1/2 miskīnu ăl ʾaswadu * ‪3 1/24 
+ <lb n="15"/>*** ‪1 murqusu balūnaha * * 
+ <lb n="16"/>*** ‪1 ṣāliḥu bnu ḥassān:in * * 
+ <lb n="17"/>*** ‪1/3 šanūdahu ṭilufasa * * 
+ <lb n="18"/>*** ********* 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Bûṣîr, once more.
+		 <lb n="2"/>
+ 	  Faddân for dînârs, fallow land of [?
+		 <lb n="3"/>
+ 	  dînâ[r
+		 <lb n="4"/>
+ 	  8, Bâdî, freed-man of al-Laiṯ, of seed land . .
+		 <lb n="5"/>
+ 	  1/2, Yoḥannes, the journeyman, of seed land . .
+		 <lb n="6"/>
+ 	  3, al-Walîd b. Isḥâq, of seed land . .
+		 <lb n="7"/>
+ 	  1/2, Daḥya b. ʿAbd al-Wāḥid, of seed land . .
+		 <lb n="8"/>
+ 	  1, ʿAbd al-ʿAzîz b. Qâsim, of seed land . .
+		 <lb n="9"/>
+ 	  Farmûte, 28th  farmûte, 29th
+		 <lb n="10"/>
+ 	  Fa]ddân
+		 <lb n="11"/>
+ 	  Dînâr  Dînâr
+		 <lb n="12"/>
+ 	  ] 1, Suwaid b. Mûsâ 1/2+1/4 .
+		 <lb n="13"/>
+ 	  ] 1/4, Muḥammad b. ʿAbd al-Wâḥid . .
+		 <lb n="14"/>
+ 	  ] 1/2, Miskîn, the black . 3 1/24
+		 <lb n="15"/>
+ 	  ] 1, Morqos Balône . .
+		 <lb n="16"/>
+ 	  ] 1, Ṣâliḥ b. Ḥassân . .
+		 <lb n="17"/>
+ 	  ] 1/3, Šanûda Ṭelofas . .
+		 <lb n="18"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

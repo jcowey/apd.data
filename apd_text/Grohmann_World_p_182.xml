@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="948" xml:id="Grohmann_World_p_182" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 182</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_182</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113700</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أمتعني اللّه بك 
+<lb n="3"/>  قد كنت وضعت 
+<lb n="4"/>  البارحة رقعة خلف 
+<lb n="5"/>  الوسادة وفيها رقعة 
+<lb n="6"/>  أخرا ونسيت 
+<lb n="7"/>  أن <app type="BL"><lem resp="APD">آخذ </lem><rdg resp="Diem">آخذها</rdg></app> <app type="BL"><lem resp="APD">ما </lem><rdg resp="Diem">ø</rdg></app> معي اليوم 
+<lb n="8"/>  فابعث بها إلي السّاعة 
+<lb n="9"/>  مع هذا الحارس 
+<lb n="10"/>  إن شا اللّه 
+<lb n="11"/>  أمتعني اللّه بك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾamtaʿa nī ăl lāhu bi ka 
+ <lb n="3"/>qad kuntu waḍaʿtu 
+ <lb n="4"/>ăl bāriḥaẗa ruqʿaẗ:an ḫalfa 
+ <lb n="5"/>ăl wisādaẗi wa fī hā ruqʿaẗ:un 
+ <lb n="6"/>ʾuḫrā wa nasītu 
+ <lb n="7"/>ʾan ʾāḫuḏa ø hā mā ø maʿ ī ăl yawma 
+ <lb n="8"/>fa ĭbʿaṯ bi hā ʾilay ya ăs sāʿaẗa 
+ <lb n="9"/>maʿa hāḏā ăl ḥārisi 
+ <lb n="10"/>ʾin šāʾa ăl lāhu 
+ <lb n="11"/>ʾamtaʿa nī ăl lāhu bi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, des Erbarmenden!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Gott erhalte Dich am Leben! 
+		May God cause me to profit by thee.
+			<lb n="3"/>
+		Gestern hatte ich 
+		I have already deposited
+			<lb n="4"/>
+		ein Briefchen hinter 
+		yesterday a (short) note behind
+			<lb n="5"/>
+		das Kissen gelegt, und in diesem Briefchen war ein anderes 
+		the cushion and therein was enclosed another
+			<lb n="6"/>
+		eingeschlossen. Auch vergaß ich 
+		note. I have forgotten
+			<lb n="7"/>
+		das, was ich heute bei mir hatte, mitzunehmen. 
+		to take what I had to-day with me,
+			<lb n="8"/>
+		Sende es also mit 
+		so send it to me at once
+			<lb n="9"/>
+		diesem Boten mir augenblicklich zurück, 
+		with this guard,
+			<lb n="10"/>
+		if God wills.
+		so Gott will! 
+			<lb n="11"/>
+		Gott erhalte Dich am Leben!
+		May God cause me to profit by thee.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="912" xml:id="Guo_Quseir_41" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 41</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_41</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113672</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  يسلّم للشّيخ أبو مفرّج و<supplied reason="lost" cert="high">فّقـ</supplied>ـه اللّه لطاعته 
+<lb n="2"/>  وخضوعه حمل دقيق وهو لأبو عروس 
+<lb n="3"/>  فسلّمه لعلي بن مرّة والمسيّر سبع 
+<lb n="4"/>  والسّلام عليكم <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> هو پسلم علـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـك وعلي الاح نحپب 
+<lb n="right margin"/>  السّلام وكتب <app type="BL"><lem resp="“AK”"><sic n="superfluous">با</sic><supplied reason="omitted" cert="high">يا</supplied> </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">أ</supplied>خي </lem><rdg resp="“AK”">يأخي</rdg></app> يا نجيب إن كان <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yusallam li š šayḫi ʾabū mufarriǧ:in waffaqa hu ăl lāhu li ṭāʿati hi 
+ <lb n="2"/>wa ḫuḍūʿi hi ḥimlu daqīq:in wa huwa li ʾabū ʿarūs:in 
+ <lb n="3"/>fa sallim hu li ʿaliyyi bni murraẗa wa ăl musayyaru sabʿ:un 
+ <lb n="4"/>wa ăs salāmu ʿalay kum ******** 
+ <lb n="5"/>*** huwa yusallimu ʿalay ka wa ʿalà ăl ʾaḫi naǧība 
+ <lb n="6"/>ăs salāmu wa kataba yā ʾaḫ ī yā naǧību ʾin kāna *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		To be delivered to Shaykh Abū Mufarrij - may God make him successful on account of his obedience
+			<lb n="2"/>
+		and humility! - is one load of flour. It is for Abū ʿArūs.
+			<lb n="3"/>
+		Hand it over to ʿAlī ibn Murra. The shipment comprises seven [units?].
+			<lb n="4"/>
+		Peace be upon you. [......]
+			<lb n="5"/>
+		[... is here and] says hello to you. And upon Brother Najīb
+			<lb n="6"/>
+		be peace! And he wrote, &#034;O my dear brother Najīb, if [......].&#034;
+</ab></div>
+</body>
+</text>
+</TEI>

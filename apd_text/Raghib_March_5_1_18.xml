@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="776" xml:id="Raghib_March_5_1_18" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands V/1 18</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_1_18</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106841</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">پسم</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">الر</supplied>حمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">حڤطك</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">واپڤا</supplied>ك وأمبع پك ودڤع السو عپك وعنا پرحمپه 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">كپاپى</supplied> <supplied reason="lost" cert="high">الپك</supplied> <supplied reason="lost" cert="high">حڤطك</supplied> الله واپا ڤى عافيه وسلاه والله محمود 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">وصل</supplied> <supplied reason="lost" cert="high">الى</supplied> <supplied reason="lost" cert="high">كپإپك</supplied> <supplied reason="lost" cert="high">حڤـ</supplied>ـطك الله وڤهمپ ما كپپپ په الى من سلامه الله اپاك 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ڤـحمد</supplied>پ الله علپه حمدا كپپرا ما ادرى مأ الدى مپعك 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كما</supplied> وعدپپى ڤى كپاپك عپر مره ولولا علپ غرصپ 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">كسى</unclear> <unclear reason="undefined" cert="high">احمر</unclear> مپد اپام ڤألحمد للـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso"/>  لأبي يزيد بلال بن عيسى من أحمد بن الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾamtaʿa bi ka wa dafaʿa ăs sūʾa ʿan ka wa ʿan nā bi raḥmati hi 
+ <lb n="3"/>kitāb ī ʾilay ka ḥafiẓa ka ăl lāhu wa ʾanā fī ʿāfiyaẗ:in wa salāmaẗ:in wa ăl lāhu maḥmūd:un 
+ <lb n="4"/>waṣala ʾilay ya kitābu ka ḥafiẓa ka ăl lāhu wa fahimtu mā katabta bi hi ʾilay ya min salāmaẗi ăl lāhi ʾiyyā ka 
+ <lb n="5"/>*** fa ḥamidtu ăl lāha ʿalay hi ḥamd:an kaṯīr:an mā ʾadrī mā ăllaḏī manaʿa ka 
+ <lb n="6"/>*** kamā waʿadta nī fī kitābi ka ġayra marraẗ:in wa law lā ġalat ʿaraḍtu 
+ <lb n="7"/>*** kisà ʾaḥmar munḏu ʾayyām:in fa ăl ḥamdu li l lāhi *** 
+ <lb n="8"/>li ʾabī yazīda bilāli bni ʿīsà min ʾaḥmada bni ăl ḥ*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, clément et misé]ricordieux!
+			<lb n="2"/>
+		[Que Dieu te garde, te conserve], laisse jouir de (ta présence) et écarte de toi et de nous le mal par Sa miséricorde!
+			<lb n="3"/>
+		[Je t&#039;écris - que] Dieu [te garde!], alors que je suis (en état) de paix et en santé. Dieu soit loué!
+			<lb n="4"/>
+		[Ta lettre m&#039;est parvenue] - Que Dieu te [garde!] J&#039;ai compris ce que tu m&#039;as écrit au sujet de ta santé grâce à Dieu.
+			<lb n="5"/>
+		[.... J&#039;ai loué] Dieu pour cela à foison. Je ne sais ce qui t&#039;a empêché
+			<lb n="6"/>
+		[...., comme] tu me l&#039;as promis dans ta lettre, plus d&#039;une fois, même si le prix en a augmenté. J&#039;aurais proposé
+			<lb n="7"/>
+		[....] un manteau (?) rouge depuis quelques jours. Dieu soit loué! [....]
+			<lb n="8"/>
+		À Abū Yazīd Bilāl b. ʿĪsā. De la part d&#039;Aḥmad b. al-Ḥ[
+</ab></div>
+</body>
+</text>
+</TEI>

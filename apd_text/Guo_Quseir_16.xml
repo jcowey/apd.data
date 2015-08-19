@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="851" xml:id="Guo_Quseir_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113628</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  عساكر 
+<lb n="recto 2"/>  علي <app type="BL"><lem resp="APD">المملوكي </lem><rdg resp="APD">المملوك</rdg></app> 
+<lb n="recto 3"/>  <expan><ex>بسم</ex> <ex>اللّه</ex> <ex>الرّحمن</ex> <ex>الرّحيم</ex></expan> 
+<lb n="recto 4"/>  يعلم الأخ عرفات وفّقه اللّه تعالى أن 
+<lb n="recto 5"/>  علي <app type="BL"><lem resp="APD">المملوكي </lem><rdg resp="“AK”">المملوك</rdg></app> سيّر قطعتين دقيق ونصف 
+<lb n="recto 6"/>  حمل <app type="BL"><lem resp="APD">تمر </lem><rdg resp="APD">ثمر</rdg></app> إلى <app type="BL"><lem resp="APD">عند </lem><rdg resp="“AK”">عند</rdg></app> الحضرة وحان الولد 
+<lb n="recto 7"/>  وأبو الملاح واصل فعاقوا الحمّال بسبـ<supplied reason="lost" cert="high">ـب</supplied> 
+<lb n="recto 8"/>  لزمة فأستحي من إنعامك تجبي لي عن 
+<lb n="recto 9"/>  <app type="BL"><lem resp="APD">التّمر </lem><rdg resp="APD">الثّمر</rdg></app> وتسيّره لي ساعة بالقطعتين 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> شونة أبو مفرّج لحملهـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="omitted" cert="high">تـ</supplied>ـسئلهم أي دليلا وله 
+<lb n="verso 2"/>  <unclear reason="undefined" cert="high">السّيرفيّ</unclear> ولا تتّكل على <sic n="superfluous">مپكال</sic><supplied reason="omitted" cert="high">مكيال</supplied> فهل له 
+<lb n="verso 3"/>  <sic n="superfluous">الإنشغالي</sic><supplied reason="omitted" cert="high">الانشعال</supplied> والفضّة أتت بها كل 
+<lb n="verso 4"/>  والسّلام عليكم 
+<lb n="verso 5"/>  والقطعين أربعين درهم 
+<lb n="verso top upside down 1"/>  إلى ساحل <supplied reason="lost" cert="high">القصير</supplied> <supplied reason="lost" cert="high">شونة</supplied> <supplied reason="lost" cert="high">الشّيخ</supplied> 
+<lb n="verso top upside down 2"/>  <supplied reason="omitted" cert="high">أ</supplied>بي مفرّج القفطي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿasākiru 
+ <lb n="2"/>ʿaliyy:uni ăl mamlūkiyyu mamlūka 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>yuʿlimu ăl ʾaḫa ʿarafāta waffaqa hu ăl lāhu taʿālà ʾanna 
+ <lb n="5"/>ʿaliyya ăl mamlūkiyya mamlūka sayyara qiṭʿatayni daqīq wa niṣfa 
+ <lb n="6"/>ḥimli ṯamar:in tamr:in ʾilà ʿabdi ʿindi ăl ḥaḍraẗi wa ḥāna ăl waladu 
+ <lb n="7"/>wa ʾabū ăl milāḥi wāṣil fa ʿāqū ăl ḥammāla bi sababi 
+ <lb n="8"/>lazmaẗ:in fa ʾastaḥī min ʾinʿāmi ka taǧbī l ī ʿani 
+ <lb n="9"/>ăt ṯamari tamri wa tusayyir hu l ī sāʿaẗ:an bi ăl qiṭʿatayni 
+ <lb n="10"/>*** šūnaẗ ʾabū mufarriǧ:in li ḥamli him 
+ <lb n="11"/>*** tasʾalu hum ʾayya dalīl:an wa la hu 
+ <lb n="12"/>ăs sayrafiyyu wa lā tattakil ʿalà mikyāl:in fa hal la hu 
+ <lb n="13"/>ăl ʾinšiġālu wa ăl fiḍḍaẗu ʾutit bi hā kull 
+ <lb n="14"/>wa ăs salāmu ʿalay kum 
+ <lb n="15"/>wa ăl qiṭʿayni ʾarbaʿīna dirham 
+ <lb n="16"/>ʾilà sāḥili ăl quṣayri šūnaẗi ăš šayḫi 
+ <lb n="17"/>ʾabī mufarriǧ:ini ăl qifṭiyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The servant ʿAsākir ʿAlī
+			<lb n="3"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="4"/>
+		is writing to inform Dear Brother ʿArafāt - may God Almighty make him successful! - that
+			<lb n="5"/>
+		this servant ʿAlī has dispatched two qiṭʿa-sacks of flour and a half
+			<lb n="6"/>
+		load of dried dates to the slave boy of [your] noble presence. [However,] once the young man
+			<lb n="7"/>
+		and Abū al-Milāḥ arrived, they detained the cargo on account of
+			<lb n="8"/>
+		... I am hereby ashamedly begging for a favor from you to pay for
+		its license. I am hereby ashamedly begging for a favor from you to pay for the release
+			<lb n="9"/>
+		of the dried dates, and to dispatch them, on my behalf, immediately in two qiṭʿa-sacks
+		the dried dates, and then dispatch them, on my behalf, to ...
+			<lb n="10"/>
+		and send them to the warehouse of Abū Mufarrij [......].
+			<lb n="11"/>
+		[...... You] may ask them for some verification. Together with him is
+			<lb n="12"/>
+		the cashier. Do not trust the scale, [because one is not sure] whether it
+			<lb n="13"/>
+		works [or not]. The cash has already arrived in sum.
+			<lb n="14"/>
+		Peace be upon you.
+			<lb n="15"/>
+		The two qiṭʿa-sacks are [worth] forty dirhams.
+			<lb n="16"/>
+		To the shore [of Quseir, the warehouse of Shaykh]
+			<lb n="17"/>
+		Abū Mufarrij al-Qifṭī
+</ab></div>
+</body>
+</text>
+</TEI>

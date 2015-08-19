@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1886" xml:id="Grohmann_APEL_407" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 407</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_407</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169623</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ا <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـن <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عـ</supplied>ـلي بن <supplied reason="lost" cert="high">مـ</supplied>ـحمّد <supplied reason="lost" cert="high">الـ</supplied>ـ<gap reason="illegible" extent="2" unit="character" />لي <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="2"/>  إلّا ثلثي قيراط 
+<lb n="3"/>  أسما القمّاحين الّذين قبضوا الدّنانير 
+<lb n="4"/>  الأطروش عشرين دينار <supplied reason="lost" cert="high">عقبـ</supplied>ـة عشرة الدّنانير موسى أربعة الدّنانير بن عرفة خمـ<supplied reason="lost" cert="high">ـسـ</supplied>ـة الدّنانير 
+<lb n="5"/>  على يد سيـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied> <supplied reason="lost" cert="high">خمسـ</supplied>ـة الدّنانير الأعرج بن <unclear reason="undefined" cert="high">يعـ</unclear><supplied reason="lost" cert="high">ـقو</supplied><unclear reason="undefined" cert="high">ب</unclear> خمسة الدّنانير إسحق ا<supplied reason="lost" cert="high">لخو</supplied>لا<supplied reason="lost" cert="high">نيّ</supplied> خمسة الدّنانير فذلك 
+<lb n="6"/>  الجملة ثمانين دينار وثلثين خمسة وخمسين دينارا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾ *n *** ʿaliyy bn muḥammad:ini ăl **liyy ******* 
+ <lb n="2"/>ʾillā ṯulṯay qīrāṭ:in 
+ <lb n="3"/>ʾasmāʾu ăl qammāḥīna ăllaḏīna qabaḍū ăd danānīra 
+ <lb n="4"/>ăl ʾaṭrūšu ʿišrīna dīnār ʿuqbaẗu ʿašaraẗu ăd danānīri mūsà ʾarbaʿaẗu ăd danānīri bn ʿarafaẗa ḫamsaẗu ăd danānīri 
+ <lb n="5"/>ʿalà yadi say** ḫamsaẗu ăd danānīra ăl ʾaʿraǧu bnu yaʿqūba ḫamsaẗu ăd danānīri ʾisḥāqu ăl ḫawlāniyyu ḫamsaẗu ăd danānīri fa ḏālika 
+ <lb n="6"/>ăl ǧumlaẗu ṯamānīna dīnār wa ṯulṯayni ḫamsaẗ:un wa ḫamsīna dīnār:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		A[...]n[... ʿA]lî [ib]n [Mu]ḥammad, [the ......] ...............
+			<lb n="2"/>
+		less two thirds of a carat.
+			<lb n="3"/>
+		the names of the corn-dealers who have received the dînârs
+			<lb n="4"/>
+		The deaf twenty dînârs ʿ[Uqb]a ten dînârs Mûsâ four dînârs Ibn ʿArafa five dînârs
+			<lb n="5"/>
+		Through Sai[... fiv]e dînârs, al-Aʿraǧ b. Yaʿ[qû]b five dînârs. Isḥâq al-[Ḫau]lâ[nî] five dînârs. That makes
+			<lb n="6"/>
+		The total (is) eighty dînârs and two thirds, fifty-five dînârs
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1082" xml:id="Ragib_Letters_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Letters_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168948</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  بسم اللّه الرّحمن الرحيم إلى أم راشدة 
+<lb n="verso 2"/>  من أم مكينة ومكينة وابنتها ومن سيفة 
+<lb n="verso 3"/>  سلم عليك فإنّي أحمد إليك اللّه أمّا بعد 
+<lb n="verso 4"/>  فإنّي أخبركم من خبرنا أنّپا بخير سالمين 
+<lb n="verso 5"/>  صالحين لم يحدث على أحد منا إلّا 
+<lb n="verso 6"/>  خير الأمر قد كتبنا به إليكم وإنّي 
+<lb n="verso 7"/>  حبرك أنّي نقلت مكينة إلى 
+<lb n="verso 8"/>  وأنّي واللّه الّذي لا <sic n="superfluous">إلپه</sic><supplied reason="omitted" cert="high">اله</supplied> إلّا هو 
+<lb n="verso 9"/>  <supplied reason="lost" cert="high">مـ</supplied>ـا ممنعني بأن أرسل إليك شاي إلّا 
+<lb n="verso 10"/>  قلّة اليد وابشري إن شا اللّه بكل 
+<lb n="verso 11"/>  شاي يسرّك واقرئ منّي على يزيد 
+<lb n="verso 12"/>  السلم واستخبريه ما فعل الدي 
+<lb n="verso 13"/>  وصپته به ثم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 1"/>  إلى أم راشدة رحم اللّه من بلّغها 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾilà ʾummi rāšidaẗa 
+ <lb n="2"/>min ʾummi makīnaẗa wa makīnaẗa wa ĭbnati hā wa min sayfaẗa 
+ <lb n="3"/>salām:un ʿalay ki fa ʾin nī ʾaḥmadu ʾilay ki ăl lāha ʾammā baʿdu 
+ <lb n="4"/>fa ʾin nī ʾuḫbiru kum min ḫabari nā ʾan nā bi ḫayr:in sālimīna 
+ <lb n="5"/>ṣāliḥīna lam yaḥduṯ ʿalà ʾaḥad:in min nā ʾillā 
+ <lb n="6"/>ḫayru ăl ʾamri qad katabnā bi hi ʾilay kum wa ʾin nī 
+ <lb n="7"/>ʾuḫbiru ki ʾan nī naqaltu makīnaẗa ʾilay ya 
+ <lb n="8"/>wa ʾan nī wa ăl lāhi ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="9"/>mā manaʿa nī bi ʾan ʾursila ʾilay ki šāy ʾillā 
+ <lb n="10"/>qillaẗu ăl yadi wa ĭbširī ʾin šāʾa ăl lāhu bi kulli 
+ <lb n="11"/>šāy:in yasurru ki wa ʾaqriʾ min nī ʿalà yazīda 
+ <lb n="12"/>ăs salāma wa ĭstaḫbirī hi mā faʿala ăllaḏī 
+ <lb n="13"/>ʾawṣaytu hu bi hi ṯumma *** 
+ <lb n="14"/>ʾilà ʾummi rāšidaẗa raḥima ăl lāhu man ballaġa hā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! A Umm Rāšida,
+			<lb n="2"/>
+		de la part d&#039;Umm Makīna, Makīna et de sa fille, et de la part de Sayfa.
+			<lb n="3"/>
+		Salut sur toi! Je loue pour toi Dieu, puis
+			<lb n="4"/>
+		je vous informe de nos nouvelles: nous sommes en bonne santé, sains
+			<lb n="5"/>
+		et saufs. Il nʾest arrivé à personne dʾentre nous que
+			<lb n="6"/>
+		le meilleur des choses, nous vous lʾavons écrit. Je
+			<lb n="7"/>
+		t&#039;informe que j&#039;ai transporté Makīna auprès de moi.
+			<lb n="8"/>
+		Par Dieu qui n&#039;a d&#039;autre divinité que Lui!
+			<lb n="9"/>
+		si je n&#039;ai rien pu t&#039;envoyer, c&#039;est que j&#039;en ai été empêchée par
+			<lb n="10"/>
+		le manque des moyens. Attends-toi, si Dieu le veut! à toute
+			<lb n="11"/>
+		chose qui te réjouira. Adresse de ma part à Yazīd le
+			<lb n="12"/>
+		salut et informe-toi auprès de lui s&#039;il a fait ce que je
+			<lb n="13"/>
+		lui avais recommandé. Puis ...
+			<lb n="14"/>
+		A Umm Rāšida - que Dieu prenne en miséricorde celui qui fera parvenir [cette lettre]!
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2223" xml:id="Thung_CPR_70" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 07</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_70</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> الله الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+<lb n="2"/>  هذا ما اشتـ<supplied reason="lost" cert="high">ـر</supplied>ى محمّد بن المكنّا بأبي القسم المعروف بابن أقوس السّاكن مدينة أشمون من محمّد بن الحسن بن أحمد 
+<lb n="3"/>  بن جعفر اشترى منه دار له بمدينة أشمون في الجانب الغربي من سوقها الأعظم بخط يعرف بمسجد بني الغزّال وحبس الحرا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ويحيط بهذه الدّار ويجمعها ويشتمـ<supplied reason="lost" cert="high">ـل</supplied> <supplied reason="lost" cert="high">عليها</supplied> حدود أربعة أحد حدود جماعتها الأوّل وهو القبلي ينتهي إلى طريق المارّة و<supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">يشـ</supplied>ـرع 
+<lb n="5"/>  باب هذه الدّار وحدّها البحري ينتهي إلى <supplied reason="lost" cert="high">منز</supplied>ل لمحمّد بن إبراهيم بن <gap reason="illegible" extent="4" unit="character" /> الزّيّات والمستقا من البئر الما وحدّها الشّرقي منزل 
+<lb n="6"/>  لعيسى بن جعفر بن عطا الله وحدّها الغربي منزل <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> اشترى محمّد بن المكنّا بأبي القسم المعروف بابن 
+<lb n="7"/>  أقوس من محمّد بن الحسن بن أحمد بن جعفر جميع هذه الدّار المحدودة <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> الكتاب بـ<supplied reason="lost" cert="high">ـحـ</supplied>ـدو<supplied reason="omitted" cert="high">د</supplied>ها كلّها وأرضها وبناها وسفلها وعلوها 
+<lb n="8"/>  ومرفقها ومسايلها في حقوقها وكل قليل وكثير هو لها فيها ومنها من حقوقها وكل حق هو لها <supplied reason="lost" cert="high">دا</supplied>خل فيها وكل حق هو لها خارج منها من حقوقها 
+<lb n="9"/>  بستّة دنانير مثاقيل ذهبا وازنة جياد النّقود شرا صحيحا لا شرط فيه ولا <supplied reason="lost" cert="high">عـ</supplied>ـدة <supplied reason="omitted" cert="high">لا</supplied> لـردّ<supplied reason="lost" cert="high">ه</supplied> <supplied reason="lost" cert="high">و</supplied>لا <supplied reason="lost" cert="high">لفسخه</supplied> <supplied reason="lost" cert="high">لا</supplied> لأجل ولا لأبد ودفع 
+<lb n="10"/>  محمّد بن المكنّا بأبي القسم إلى محمّد بن الحسن بن أحمد بن جعفر جميع هذا الثّمن المذكور في هذا الكتـ<supplied reason="lost" cert="high">ـاب</supplied> <supplied reason="lost" cert="high">تامّا</supplied> <supplied reason="lost" cert="high">وا</supplied>فيا وأ<supplied reason="lost" cert="high">بـ</supplied>ـرأ<supplied reason="lost" cert="high">ه</supplied> من جميعه بعد قبضه 
+<lb n="11"/>  إيّاه منه واستيفائه وهو ستّة دنانير مثاقيل ذهبا وازنة جياد النّقود وسلّم محمّد بن الحسن <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> جميع ما 
+<lb n="12"/>  وقع عليه هذا البيع <supplied reason="lost" cert="high">فما</supplied> <supplied reason="lost" cert="high">أد</supplied>رك محمّد بن المكنّا بأبي القسم فيما وقع عليه هذا البيع المذكور في هذا الكتـ<supplied reason="lost" cert="high">ـاب</supplied> <supplied reason="lost" cert="high">وفي</supplied> شئ منه من حقوقه من درك 
+<lb n="13"/>  من أحد من النّاس كلّهم فعلى محمّد بن الحسن بن أحمد تسليم ما يجب عليه من حق ويلزمه بسبب هذا البيع المذكور <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـكتاب شهد على إقرار محمّد 
+<lb n="14"/>  بن الحسن بن أحمد البائع وعلى إقرار محمّد المكبا پاپى الڤسم <gap reason="illegible" precision="low" extent="3"/> پحمپع ما ڤى هدا الكپاپ پعد ان ڤرى <supplied reason="lost" cert="high">علپهما</supplied> حمپع ما ڤپه من اوله ألى إحره ڤآڤرا 
+<lb n="15"/>  أن <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">فهـ</supplied>ـما وعرفا جميع ما فيه في صحّة عقولهم وأ<supplied reason="lost" cert="high">بدانهم</supplied> <supplied reason="lost" cert="high">وجواز</supplied> أمورهما طائعين غير مكرهين ولا مجبرين وعلى معر<supplied reason="lost" cert="high">فتهما</supplied> بأعيانهما وأسمائهما 
+<lb n="16"/>  وأنسـ<supplied reason="lost" cert="high">ـابـ</supplied>ـهما وذلك في رجب من سنة ثـ<supplied reason="lost" cert="high">ـلثة</supplied> <supplied reason="lost" cert="high">وثلثـ</supplied>ـين وثلثمائة شهد على ذلك شهد عمر بن حمدي بن محمّد الـ<gap reason="illegible" precision="low" extent="3"/>ـي على إقرار <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">الحسن</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـبائع 
+<lb n="17 left"/>  بجميع ما في هذا الكتاب وكتب <supplied reason="lost" cert="high">شها</supplied>دته في رجب <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ثلثة</supplied> <supplied reason="lost" cert="high">وثلثين</supplied> <supplied reason="lost" cert="high">و</supplied>ثلـ<supplied reason="lost" cert="high">ـثمـ</supplied>ـائـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="17 right"/>  شهد أحمد بن محمّد بن أحمد <unclear reason="undefined" cert="high">العقّاد</unclear> على إقرار 
+<lb n="18 right"/>  محمّد بن الحـ<supplied reason="lost" cert="high">ـسـ</supplied>ـن البائع بما فيه وكتب في تأر<supplied reason="lost" cert="high">يخه</supplied> 
+<lb n="18 left"/>  شهد رجا بن محمّد بن أحـ<supplied reason="lost" cert="high">ـمد</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـل ا<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="19 left"/>  ا<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> الكتاب 
+<lb n="20 left"/>  وكتب شهادته بخطّه في تأريخه 
+<lb n="23"/>  <supplied reason="lost" cert="high">شهد</supplied> عيسى بن عبد اللّه البزّاز على إقرار محمّد يكنّا أبا <gap reason="illegible" precision="low" extent="3"/> بن الحسن بن <supplied reason="omitted" cert="high">أحمد بن</supplied> جعفر البائع بجميع ما في هذا الكتاب <expan><abbr>وكـ</abbr><ex>ـتب</ex> <ex>شـ</ex><abbr>ـهادته</abbr></expan> في رجب من سنة ثلثة وثلثن وثلثمائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ištarà muḥammadu bnu ăl mukannā bi ʾabī ăl qāsimi ăl maʿrūfi bi ĭbni ʾaqwasa ăs sākini madīnaẗa ʾušmūna min muḥammadi bni ăl ḥasani bni ʾaḥmada 
+ <lb n="3"/>bni ǧaʿfara ištarà min hu dār la hu bi madīnaẗi ʾušmūna fī ăl ǧānibi ăl ġarbiyyi min sūqi hā ăl ʾaʿẓami bi ḫaṭṭ:in yuʿrafu bi masǧidi banī ăl ġazzāli wa ḥubsi ăl ḥrā*** 
+ <lb n="4"/>wa yuḥīṭu bi hāḏihi ăd dāri wa yaǧmaʿu hā wa yaštamilu ʿalay hā ḥudūd:un ʾarbaʿaẗ:un ʾaḥadu ḥudūdi ǧamāʿati hā ăl ʾawwalu wa huwa ăl qibliyyu yantahī ʾilà ṭarīqi ăl mārraẗi wa fī hi yašraʿu 
+ <lb n="5"/>bābu hāḏihi ăd dāri wa ḥaddu hā ăl baḥriyyu yantahī ʾilà manzil:in li muḥammadi bni ʾibrāhīma bni **** ăz zayyāti wa ăl mustaqā mina ăl biʾri ăl māʾi wa ḥaddu hā ăš šarqiyyu manzil:un 
+ <lb n="6"/>li ʿīsà bni ǧaʿfara bni ʿaṭāʾi ăl lāhi wa ḥaddu hā ăl ġarbiyyu manzilu **** **** **** ištarà muḥammadu bnu ăl mukannā bi ʾabī ăl qāsimi ăl maʿrūfi bi ĭbni 
+ <lb n="7"/>ʾaqwasa min muḥammadi bni ăl ḥasani bni ʾaḥmada bni ǧaʿfara ǧamīʿa hāḏihi ăd dāri ăl maḥdūdaẗi fī hāḏā ăl kitābi bi ḥudūdi hā kulli hā wa ʾarḍi hā wa bināʾi hā wa sufli hā wa ʿulwi hā 
+ <lb n="8"/>wa mirfaqi hā wa masāyili hā fī ḥuqūqi hā wa kulli qalīl:in wa kaṯīr:in huwa la hā fī hā wa min hā min ḥuqūqi hā wa kulli ḥaqq:in huwa la hā dāḫil fī hā wa kulli ḥaqq:in huwa la hā ḫāriǧ min hā min ḥuqūqi hā 
+ <lb n="9"/>bi sittaẗi danānīra maṯāqīla ḏahab:an wāzinaẗ:in ǧiyādi ăn nuqūdi širāʾ:an ṣaḥīḥ:an lā šarṭa fī hi wa lā ʿidaẗa lā li raddi hi wa lā li fasḫi hi lā li ʾaǧal:in wa lā li ʾabad:in wa dafaʿa 
+ <lb n="10"/>muḥammadu bnu ăl mukannā bi ʾabī ăl qāsimi ʾilà muḥammadi bni ăl ḥasani bni ʾaḥmada bni ǧaʿfara ǧamīʿa hāḏā ăṯ ṯamani ăl maḏkūri fī hāḏā ăl kitābi tāmm:an wāfiy:an wa ʾabraʾa hu min ǧamīʿi hi baʿda qabḍi hi 
+ <lb n="11"/>ʾiyyā hu min hu wa ǐstīfāʾi hi wa huwa sittaẗu danānīra maṯāqīla ḏahab:an wāzinaẗ:in ǧiyādi ăn nuqūdi wa sallama muḥammadu bnu ăl ḥasani bni ʾaḥmada *** *** ǧamīʿa mā 
+ <lb n="12"/>waqaʿa ʿalay hi hāḏā ăl bayʿu fa mā ʾadraka muḥammada bna ăl mukannā bi ʾabī ăl qāsimi fī mā waqaʿa ʿalay hi hāḏā ăl bayʿu ăl maḏkūru fī hāḏā ăl kitābi wa fī šayʾ:in min hu min ḥuqūqi hi min darak:in 
+ <lb n="13"/>min ʾaḥad:in min ăn nāsi kulli him fa ʿalà muḥammadi bni ăl ḥasani bni ʾaḥmada taslīmu mā yaǧibu ʿalay hi min ḥaqq:in wa yalzamu hu bi sababi hāḏā ăl bayʿi ăl maḏkūri fī hāḏā ăl kitābi šuhida ʿalà ʾiqrāri muḥammadi 
+ <lb n="14"/>bni ăl ḥasani bni ʾaḥmada ăl bāʾiʿi wa ʿalà ʾiqrāri muḥammadi bni ăl mukannā bi ʾabī ăl qāsimi *** bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay himā ǧamīʿu mā fī hi min ʾawwali hi ʾilà ʾāḫiri hi fa ʾaqarrā 
+ <lb n="15"/>ʾan qad fahimā wa ʿarafā ǧamīʿa mā fī hi fī ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri himā ṭāʾiʿayni ġayra mukrahayni wa lā muǧbarayni wa ʿalà maʿrifati himā bi ʾaʿyāni himā wa ʾasmāʾi himā 
+ <lb n="16"/>wa ʾansābi himā wa ḏālika fī raǧab:in min sanaẗi ṯalāṯaẗ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in šuhida ʿalà ḏālika šahida ʿumaru bnu ḥamdiyyi bni muḥammadi ăl ***iyyu ʿalà ʾiqrāri muḥammadi bni ăl ḥasani bni ʾaḥmada ăl bāʾiʿi 
+ <lb n="17"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu fī raǧab:in min sanaẗi ṯalāṯaẗ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="18"/>šahida ʾaḥmadu bnu muḥammadi bni ʾaḥmada ăl ʿaqqādu ʿalà ʾiqrāri 
+ <lb n="19"/>muḥammadi bni ăl ḥasani ăl bāʾiʿi bi mā fī hi wa kataba fī taʾrīḫi hi 
+ <lb n="20"/>šahida raǧāʾu bnu muḥammadi bni ʾaḥmada *** ***l ʾ**** 
+ <lb n="21"/>ʾ** *** *** ăl kitābi 
+ <lb n="22"/>wa kataba šahādata hu bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="23"/>šahida ʿīsà bnu ʿabdi ăl lāhi ăl bazzāzu ʿalà ʾiqrāri muḥammad:in yukannā ʾabā *** bni ăl ḥasani bni ʾaḥmada bni ǧaʿfara ăl bāʾiʿi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu fī raǧab:in min sanaẗi ṯalāṯaẗ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen] Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Dies ist, was Muḥammad, Sohn des mit der Kunya Abū l-Qāsim Benannten, bekannt als Ibn Aqwas und wohnhaft in der Stadt Ušmūn, von Muḥammad b. al-Ḥasan b.
+			<lb n="3"/>
+		b. Ǧaʿfar gekauft hat. Er hat von ihm ein ihm gehörendes Haus gekauft in der Stadt Ušmūn im Stadtteil westlich vom großen Markt, im Viertel, welches als das (Viertel) der Moschee der Banū l-Ġazzāl und der Stiftung al-...[...] bekannt ist.
+			<lb n="4"/>
+		Es umfassen und umschließen dieses Haus vier Grenzen. Eine dieser Grenzen, die erste und südliche, reicht bis zur Durchgangsstraße, [zu der]
+			<lb n="5"/>
+		die Tür dieses Hauses Zugang bietet. Seine nördliche Grenze reicht bis zu einem Haus von Muḥammad b. Ibrāhīm b. [...]..., dem Ölhändler, und dem vom Wasserbrunnen ausgehenden Bewässerungskanal. Seine östliche Grenze wird gebildet durch ein Haus
+			<lb n="6"/>
+		von ʿĪsā b. Ǧaʿfar b. ʿAṭāʾ allāh, und seine westliche Grenze wird gebildet durch das Haus von [...]... . Es hat Muḥammad, Sohn des mit der Kunya Abū l-Qāsim Benannten, bekannt als Ibn
+			<lb n="7"/>
+		Aqwas, von Muḥammad b. al-Ḥasan b. Aḥmad b. Ǧaʿfar dieses ganzes Haus, dessen Grenzen [in dieser] Urkunde festgelegt sind, gekauft mit allen seinen Grenzen, das Grundstück, das Gebäude mit seinem oberen und unteren Teil,
+			<lb n="8"/>
+		den Nebenraum, die Wasserrinnen, die zu den Rechten dieses Hauses gehören und alles, es sei wenig oder viel, innerhalb und außerhalb des Hauses, das zu den Rechten dieses Hauses gehört und jedes Recht innerhalb und außerhalb des Hauses, das zu dessen Rechten gehört,
+			<lb n="9"/>
+		für sechs vollwichtige Golddinare des Miṯqālgewichts, aus guten Münzen bestehend, als rechtsgültigen Kauf, ohne Bedingung und ohne Versprechen zur Zurückgabe [oder Nichtigerklärung des Kaufs], weder zeitweise noch für immer.
+			<lb n="10"/>
+		Muḥammad, Sohn des mit der Kunya Abū l-Qāsim Benannten, hat den ganzen in dieser Urkunde erwähnten Preis vollständig an Muḥammad b. al-Ḥasan b. Aḥmad b. Ǧaʿfar bezahlt, und jener hat ihn vom ganzen (Preis) entlastet, nachdem
+			<lb n="11"/>
+		er ihn von ihm genommen und vollständig empfangen hatte, und dieser beträgt sechs vollwichtige Golddinare des Miṯqālgewichts, aus guten Münzen bestehend. Muḥammad b. al-Ḥasan [ibn Aḥmad...]... hat (ihm) alles, was
+			<lb n="12"/>
+		zu diesem Kauf gehört, geliefert, [und wenn] an Muḥammad , Sohn des mit der Kunya Abū l-Qāsim Benannten, irgendein Anspruch gestellt wird, bezüglich dessen, was zu diesem in dieser Urkunde erwähnten Kauf gehört, oder [bezüglich] irgendeiner Sache, die zu dessen Rechten gehört,
+			<lb n="13"/>
+		von irgendeinem Menschen, dann hat Muḥammad b. al-Ḥasan b. Aḥmad die Pflicht, dasjenige zu liefern, was ihm als Verpflichtung obliegt und woran er gebunden ist aufgrund des [in dieser] Urkunde erwähnten Kaufs. Es wurde bezeugt, daß Muḥammad
+			<lb n="14"/>
+		b. al-Ḥasan b. Aḥmad, der Verkäufer, und Muḥammad, Sohn des mit der Kunya Abū l-Qāsim Benannten ..., all das, was in dieser Urkunde steht, anerkannt haben, nachdem [den beiden] alles, was darin steht, vom Anfang bis zum Ende vorgelesen wurde. Und sie haben beide anerkannt,
+			<lb n="15"/>
+		daß sie alles, was darin steht, verstanden und zur Kenntnis genommen haben und dies im Zustand ihrer geistigen und [körperlichen] Gesundheit und ihrer Geschäftsfähigkeit, freiwillig, nicht gezwungen und nicht genötigt, wobei man sie kannte nach ihren Personen, ihren Namen
+			<lb n="16"/>
+		und ihrer Abstammung, und dies im Monat Raǧab des Jahres dreihundertdreiunddreißig. Es wurde bezeugt. Es bezeugt ʿUmar(?) b. Ḥamdī(?) b. Muḥammad(?) al-..., daß [Muḥammad b. al-Ḥasan b. Aḥmad], der Verkäufer,
+			<lb n="17"/>
+		all das, was in dieser Urkunde steht, anerkannt hat, und er hat sein Zeugnis geschrieben im (Monat) Raǧab [des Jahres dreihundertdreiunddreißig].
+			<lb n="18"/>
+		Es bezeugt Aḥmad b. Muḥammad b. Aḥmad al-ʿAqqād(?), daß
+			<lb n="19"/>
+		Muḥammad b. al-Ḥasan, der Verkäufer, all das, was in dieser Urkunde steht, anerkannt hat, und er hat mit seinem Schriftzug am Datum dieser Urkunde unterschrieben.
+			<lb n="20"/>
+		Es bezeugt Raǧāʾ b. Muḥammad b. Aḥmad [...] ...
+			<lb n="21"/>
+		... [...] in dieser Urkunde ...
+			<lb n="22"/>
+		und er hat sein Zeugnis mit seinem Schriftzug am Datum dieser Urkunde geschrieben.
+			<lb n="23"/>
+		Es bezeugt ʿĪsā b. ʿAbdallāh, der Stoffhändler, daß Muḥammad, der mit der Kunya Abū ... Benannte, Sohn von al-Ḥasan &lt;b. Aḥmad&gt; b. Gaʿfar, der Verkäufer, all das, was in dieser Urkunde steht, anerkannt hat, und er hat sein Zeugnis mit seinem Schriftzug im (Monat) Raǧab des Jahres dreihundertdreiunddreißig geschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

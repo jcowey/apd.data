@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="429" xml:id="Raghib_March_2_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106624</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم أكرم اللّه وجهك برحمته وأبقاك وكفاك ما همّك برحمته كتابي إليك 
+<lb n="2"/>  بعد الكتاب الّذي مع<del rend="erasure" status="unremarkable">ـه</del> هذا الكتاب وقد واللّه كلّمـ<supplied reason="lost" cert="high">ـت</supplied> موسى في الرّدا <supplied reason="lost" cert="high">فـ</supplied>ـقال نعم وذلك بحضرة العطّار الّذي 
+<lb n="3"/>  عند أصحاب العدس <unclear reason="undefined" cert="high">واڤپپه</unclear> وعلّته الشّاكي مـ<gap reason="illegible" extent="7" unit="character" /> قلت له فمتى كم تطوّل سبحن اللّه العظيم إنّما هو حظ 
+<lb n="4"/>  نفسك واللّه ما سألتك أن تعطي شي من مـ<gap reason="illegible" extent="5" unit="character" /> أنـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> قد أوعدت <app type="BL"><lem resp="APD">فلكم </lem><rdg resp="Diem">فإلى</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ـا </lem><rdg resp="Diem">متا</rdg></app> تطوّل اعتثم يأخي فقال لي قد واللّه 
+<lb n="5"/>  نفّذ الّذي <gap reason="illegible" extent="4" unit="character" />ـه ولاكنّي أصرف وآ<sic n="superfluous">عط</sic>خذ لها الرّدا وأرجوا أن أعـ<gap reason="illegible" extent="1" unit="character" />ـوا إليه من يخذ كتابي وزيح علّته والصّبي 
+<lb n="6"/>  في عافية وبعـ<supplied reason="lost" cert="high">ـثـ</supplied>ـت سيّدة مع عائشة قالت القراريط انظر أن تأخذ بهم بطط ستّة لعلّى آخذ واحد 
+<lb n="7"/>  وجبّة <unclear reason="undefined" cert="high">خالها</unclear> والمقانع واشتري لي خفّين لرجلي و<gap reason="illegible" extent="4" unit="character" /> باللّه لو لا ما أوجب اللّه من حقّها علينا بوجوبه 
+<lb n="8"/>  عليك ما كتبت إليك بحرف ممّا قالت من ذلك إن لها أهل <del rend="erasure" status="unremarkable">ارحوا</del> وقد كان منهم ما كان 
+<lb n="9"/>  فعلمي بأنّـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا من لا د<supplied reason="lost" cert="high">يـ</supplied>ـن له والمومن ينبغي له أن يستخف بحق من لا دين <supplied reason="omitted" cert="high">له</supplied> ويـ<gap reason="illegible" extent="5" unit="character" /> به والمومن عزيز 
+<lb n="10"/>  أما ظنّوا <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">أنّنـ</supplied>ـا مجهولين لا نعرف وهم حقّا الّذين لا يعرفوا لأن المعروف من عرف اللّه ومن 
+<lb n="11"/>  عرف اللّه <gap reason="illegible" extent="7" unit="character" />ـل بل يتهاون بمن لا يعرف اللّه ويهون عليه ويترك سلامه وبرّه عامّا حتّى 
+<lb n="12"/>  يكون <gap reason="illegible" extent="10" unit="character" />ه من عنده أو يرزق نفسه القيام بنصرتها ولو <app type="BL"><lem resp="APD">سيّلت </lem><rdg resp="AK">سئلت</rdg></app> عن عامّتهم 
+<lb n="13"/>  ما <gap reason="illegible" extent="10" unit="character" /> <supplied reason="lost" cert="high">منـ</supplied>ـهم لأن قنع منهم ولأف منع والمومن في نفسه كبير عزيز <gap reason="illegible" extent="4" unit="character" /> في غير نفسه 
+<lb n="14"/>  <gap reason="illegible" extent="11" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> اللّه لم يكن عليه <gap reason="illegible" extent="4" unit="character" /> ذلك السّاكن وما مومن ببلدة بغريب إنّما الغربا 
+<lb n="15"/>  <gap reason="illegible" extent="8" unit="character" />س إنّي مـ<gap reason="illegible" extent="4" unit="character" /> بهم ومنهم لقد أصبحت بها وأمسيت وما أبالي من كلّمت منهم 
+<lb n="16"/>  <gap reason="illegible" extent="8" unit="character" /> أكلّم الـ<gap reason="illegible" extent="2" unit="character" /> كـ<gap reason="illegible" extent="4" unit="character" /> منهم ليسلّم <gap reason="illegible" precision="low" extent="3"/> ا<gap reason="illegible" extent="7" unit="character" /> على سلامه وكلامه إنّما يجب على 
+<lb n="17"/>  <gap reason="illegible" extent="11" unit="character" /> أحب <gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">خلطته</unclear> و<gap reason="illegible" precision="low" extent="3"/>ـته انظر أن <sic n="superfluous">پكپپ</sic> <sic n="superfluous">الى</sic> تبعث إلي بقرطاس 
+<lb n="18"/>  <gap reason="illegible" extent="9" unit="character" /> توجّه با<gap reason="illegible" extent="4" unit="character" /> إن شا اللّه على ا<gap reason="illegible" extent="6" unit="character" /> فانظر أن تحضر حتّى ترى أنّي حـ<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso"/>  لأبي جعفر أكرمه اللّه من جعفر بن أحمد بن عبد المومن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾakrama ăl lāhu waǧha ka bi raḥmati hi wa ʾabqā ka wa kafā ka mā hamma ka bi raḥmati hi kitāb ī ʾilay ka 
+ <lb n="2"/>baʿda ăl kitābi ăllaḏī maʿa hāḏā ăl kitābi wa qad wa ăl lāhi kallamtu mūsà fī ăr ridāʾi fa qāla naʿam wa ḏālika bi ḥaḍraẗi ăl ʿaṭṭāri ăllaḏī 
+ <lb n="3"/>ʿinda ʾaṣḥābi ăl ʿadasi wʾFBh wa ʿillatu hu ăš šākī mڑ****** qultu la hu fa matà kam tuṭawwilu subḥāna ăl lāhi ăl ʿaẓīmi ʾinnamā huwa ḥaẓẓu 
+ <lb n="4"/>nafsi ka wa ăl lāhi mā saʾaltu ka ʾan tuʿṭiya šayʾ min m***** ʾan*** qad ʾawʿadta fa li ʾilà kam ø ***ʾ matā tuṭawwilu ĭʿtaṯim yā ʾaḫ ī fa qāla l ī qad wa ăl lāhi 
+ <lb n="5"/>nuffiḏa ăllaḏī ****h wa lākin nī ʾaṣrifu wa ʾāḫuḏu la hā ăr ridāʾa wa ʾarǧū ʾan ʾʿ*ū ʾilay hi man yaḫuḏu kitāb ī wa zīḥa ʿillata hu wa ăṣ ṣabiyyu 
+ <lb n="6"/>fī ʿāfiyaẗ:in wa baʿaṯat sayyidaẗu maʿa ʿāʾišaẗa qālati ăl qarārīṭu ŭnẓur ʾan taʾḫuḏa bi him baṭaṭ sittaẗ:an laʿall ī ʾāḫuḏu wāḥid 
+ <lb n="7"/>wa ǧubbaẗa ḫāli hā wa ăl maqāniʿa wa ĭštarī l ī ḫuffayni li riǧl ī wa **** bi ăl lāhi law lā mā ʾawǧaba ăl lāhu min ḥaqqi hā ʿalay nā bi wuǧūbi hi 
+ <lb n="8"/>ʿalay ka mā katabtu ʾilay ka bi ḥarf:in mimmā qālat min ḏālika ʾinna la hā ʾahl wa qad kāna min hum mā kāna 
+ <lb n="9"/>fa ʿilm ī bi ʾanna hā man lā dīna la hu wa ăl muʾminu yanbaġī la hu ʾan yastaḫiffa bi ḥaqqi man lā dīna la hu wa y***** bi hi wa ăl muʾminu ʿazīz:un 
+ <lb n="10"/>ʾa mā ẓannū ***** ʾanna nā maǧhūlīna lā naʿrifu wa hum ḥaqq:ani ăllaḏīna lā yaʿrifū li ʾanna ăl maʿrūfa man ʿarafa ăl lāha wa man 
+ <lb n="11"/>ʿarafa ăl lāha *******l bal yatahāwanu bi man lā yaʿrifu ăl lāha wa yahūnu ʿalay hi wa yatruku salāma hu wa birra hu ʿāmm:an ḥattà 
+ <lb n="12"/>yakūnu **********h min ʿindi hi ʾaw yarzuqu nafsa hu ăl qiyāma bi nuṣrati hā wa law sayyalta suʾilta ʿan ʿāmmati him 
+ <lb n="13"/>mā ********** min hum li ʾann:in qaniʿa min hum wa li ʾuff manaʿa wa ăl muʾminu fī nafsi hi kabīr:un ʿazīz:un **** fī ġayri nafsi hi 
+ <lb n="14"/>*********** ** ăl lāh lam yakun ʿalay hi **** ḏālika ăs sākin wa mā muʾmin:un bi baldaẗ:in bi ġarīb:in ʾinnamā ăl ġurabāʾu 
+ <lb n="15"/>********s ʾin nī m**** bi him wa min hum la qad ʾaṣbaḥtu bi hā wa ʾamsaytu wa mā ʾubālī man kallamtu min hum 
+ <lb n="16"/>******** ʾukallimu ăl ** k**** min hum li yusallima *** ʾ******* ʿalà salāmi hi wa kalāmi hi ʾinnamā yaǧibu ʿalay ya 
+ <lb n="17"/>*********** ʾuḥibbu **** ḫalaṭtu hu wa ***tu hu ŭnẓur ʾan tabʿaṯa ʾilay ya bi qirṭās:in 
+ <lb n="18"/>********* tuwaǧǧihu bi ʾ**** ʾin šāʾa ăl lāhu ʿalà ʾ****** fa ŭnẓur ʾan taḥḍura ḥattà tarà ʾan nī ḥ**** 
+ <lb n="19"/>li ʾabī ǧaʿfara ʾakrama hu ăl lāhu min ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! Que Dieu honore ton visage par Sa miséricorde, te conserve et te soulage de tes soucis par Sa miséricorde! Je t&#039;écris
+			<lb n="2"/>
+		après la lettre qui accompagne celle-ci. Par Dieu! [j]&#039;ai parlé à Mūsā de la cape. Il a dit: «oui» et ceci en présence du droguiste qui se trouve
+			<lb n="3"/>
+		près des marchands de lentilles .... Son prétexte est qu&#039;il se plaint de (?) .. [..] .. Je lui ai dit: «Jusqu&#039;à quand vas-tu différer? Dieu puissant! Mais c&#039;est ta propre part.
+			<lb n="4"/>
+		Par Dieu! je ne t&#039;ai pas demandé `de´ me donner quelque chose de .... [...] ce que tu as promis. A quand [....] vas-tu différer? Fais de ton mieux, mon frère! Il m&#039;a répondu: «Par Dieu!
+			<lb n="5"/>
+		a été écécuté (?) ce que ..... Mais j&#039;expédierai mon affaire (?) et 〚donnerai〛 prendrai pour elle la cape. J&#039;espère que je .... vers lui celui qui prendra ma lettre et que son prétexte sera dissipé. Le gamin
+			<lb n="6"/>
+		est (en état) de paix. Sayyida a envoyé dire avec ʿĀʾiša : «Avec les qirāṭ-s, tâche de prendre des mules, six (paires), peut-être en prendre-je une,
+			<lb n="7"/>
+		le manteau de son oncle maternel et les voiles. Achète-moi deux bottines pour mes pieds.» 〚....〛 Par Dieu! si Dieu ne nous avait pas imposé  pour devoir de lui témoigner quelque égard par devoir
+			<lb n="8"/>
+		envers toi, je ne t&#039;aurais pas écrit une lettre de ce qu&#039;elle a dit de cela. Elle a de la famille 〚J&#039;espère〛 et ils sont ce qu&#039;ils sont,
+			<lb n="9"/>
+		car je sais qu&#039;elle est de ceux qui n&#039;ont pas de religion. Il convient au croyant de prendre à la légère tout égard pour ceux qui n&#039;ont pas de religion et .... Le croyant est fort.
+			<lb n="10"/>
+		Aussurément, ils ont pensé que [....] nous sommes des inconnus et que nous ne connaissons pas. Ce sont eux, en vérité, ceux qui ne connaissant pas, parce que le connu est celui qui connaît Dieu. Et celui qui
+			<lb n="11"/>
+		connaît Dieu [....}; bien plus, il dédaigne celui qui ne connaît pas Dieu, le méprise, cesse de le saluer et d&#039;être bienveillant envers lui, en général, jusqu&#039;à ce
+			<lb n="12"/>
+		qu&#039;il soit [....] de sa part ou s&#039;accorde (la tâche) de veiller sur sa victoire. Si tu t&#039;enquiers de la majorité d&#039;entre eux,
+			<lb n="13"/>
+		.. [....] pour un gémissement, il supplie et pour un fi! il refuse. Le croyant est en lui-même grand et fort .... en d&#039;autre qui lui-même.
+			<lb n="14"/>
+		. [....] Dieu qui ne soit pour lui .... cet habitant. Le croyant n&#039;est en aucune cité étranger. Mais les étrangers
+			<lb n="15"/>
+		[....] je suis .... d&#039;eux. J&#039;y ai passé matin et soir et je ne me soucie pas de ceux d&#039;entre eux à qui je parle.
+			<lb n="16"/>
+		[....] je parle .... d&#039;entre eux afin qu&#039;il salue .... à le saluer et lui parler. Mais je dois
+			<lb n="17"/>
+		[....] j&#039;aimerais .... je l&#039;ai mélangé (?) et .... Tâche de 〚m&#039;écrire〛 de m&#039;envoyer du papyrus
+			<lb n="18"/>
+		[....] d&#039;adresser ...., si Dieu le veut! .... Tâche de venir, afin que tu voies que je ....
+			<lb n="19"/>
+		A Abū Ǧaʿfar - que Dieu l&#039;honore! De la part de Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+</ab></div>
+</body>
+</text>
+</TEI>

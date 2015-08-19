@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1781" xml:id="Grohmann_APEL_309" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 309</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_309</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169522</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> <supplied reason="lost" cert="high">حـ</supplied>ـسبنا اللّه ونعم الوكيل 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّك</supplied> <supplied reason="lost" cert="high">وكرامتك</supplied> <supplied reason="lost" cert="high">و</supplied>تأييدك وسعادتك 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نعمته</supplied> <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">وزاد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/>ر وجميل مواهبه لديك وفضله <supplied reason="lost" cert="high">عند</supplied>ك 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والـ</supplied>ـحمد للّه رب العلمين كثيرا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  أحب منك أكرمك اللّه أن تتفضّل <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">تو</supplied>جّه </lem><rdg resp="Diem">وتوجّه</rdg></app> إلي دفاتر <app type="BL"><lem resp="APD">ملاح </lem><rdg resp="Diem">ملاح</rdg></app> أكون 
+<lb n="recto 6"/>  أقرأ فيها وتوجّه إلي قليل إستر<supplied reason="lost" cert="high">ك</supplied> <supplied reason="lost" cert="high">و</supplied>قليل لبان ذكر خالص ومصطكا 
+<lb n="recto 7"/>  ذكر خالص وتوجّه إلي دفاتر <app type="BL"><lem resp="APD">فـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر </lem><rdg resp="APD">قصص </rdg><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD">لك </lem><rdg resp="APD">الملك </rdg><rdg resp="Diem">تلك</rdg></app> الّذي أعرف أنّها عندك 
+<lb n="recto 8"/>  حتّى أقرأ فيها وأنا أعزم على الخروج <app type="BL"><lem resp="APD">اليوم </lem><rdg resp="Diem">إلى</rdg></app> <app type="BL"><lem resp="APD">اڤپلك </lem><rdg resp="Diem">ما</rdg></app> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="Diem">قبلك</rdg></app> هده الاپام ادا قدم <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى 
+<lb n="recto 9"/>  من عندك إن شا اللّه خص نفسك منّي بأفضل السّلم كثيرا وعلى والديك 
+<lb n="recto 10"/>  السّلم كثيرا وعلى الصّبيّة وعلى جدّتك السّلم كثيرا الدّعا مثل <app type="BL"><lem resp="APD">الصّبر </lem><rdg resp="Diem, P.Heid.Arab. II p. 177, Diem, Review P.Cair.Arab. V p. 46">الصّدر</rdg></app> <app type="BL"><lem resp="APD">وهو </lem><rdg resp="Diem">وخير</rdg></app> 
+<lb n="recto 11"/>  منه 
+<lb n="verso 1"/>  لأبي <app type="BL"><lem resp="APD">الخيـ<supplied reason="lost" cert="high">ـر</supplied> </lem><rdg resp="APD">الخيّر </rdg><rdg resp="APD">الحبر</rdg></app> أطال اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">بقاه</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّه</supplied> <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka 
+ <lb n="3"/>wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ***r wa ǧamīli mawāhibi hi laday ka wa faḍli hi ʿinda ka 
+ <lb n="4"/>*** wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna kaṯīr:an *** 
+ <lb n="5"/>ʾuḥibbu min ka ʾakrama ka ăl lāhu ʾan tatafaḍḍala ø wa tuwaǧǧihu ʾilay ya dafātira mallāḥ:in milāḥ ʾakūnu 
+ <lb n="6"/>ʾaqraʾu fī hā wa tuwaǧǧihu ʾilay ya qalīla ʾisturaka wa qalīla lubān:in ḏakar:in ḫāliṣ:in wa maṣṭikā 
+ <lb n="7"/>ḏakar ḫāliṣ wa tuwaǧǧihu ʾilay ya dafātira f***r qiṣaṣi min la ăl tilka ka maliki ø ăllaḏī ʾaʿrifu ʾanna hā ʿinda ka 
+ <lb n="8"/>ḥattà ʾaqraʾa fī hā wa ʾanā ʾaʿzimu ʿalà ăl ḫurūǧi ăl ø yawma ʾilà ø mā ʾaqbalu qibala ka fī hāḏihi ăl ʾayyāmi ʾiḏā qadima ***y ʾaḫ ø ī 
+ <lb n="9"/>min ʿindi ka ʾin šāʾa ăl lāhu ḫuṣṣi nafsa ka min nī bi ʾafḍali ăs salāmi kaṯīr:an wa ʿalà wāliday ka 
+ <lb n="10"/>ăs salāmu kaṯīr:an wa ʿalà ăṣ ṣabiyyaẗi wa ʿalà ǧaddati ka ăs salāmu kaṯīr:an ăd duʿāʾu miṯlu ăṣ ṣabri ṣadri wa huwa ḫayr:un 
+ <lb n="11"/>min hu 
+ <lb n="12"/>li ʾabī ăl ḫayri ḫayyiri ḥibri ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu min *** bni *** 
+ <lb n="13"/>****** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.] Our [sufficien]cy is God, and He is the best trustee.
+			<lb n="2"/>
+		[May God prolong your life and may He cause your might, honour,] strength and happiness [to continue]
+			<lb n="3"/>
+		[and complete his favours towards you and increase His benefits unto you and ......] pleasing favours before you and His bounty [upon] you.
+			<lb n="4"/>
+		[... and] praise be often to God, the Lord of all created beings [...]
+			<lb n="5"/>
+		I wish from you that you would have the kindness to [dis]patch to me a sailor&#039;s (?) books in which I want
+		... schöne Hefte...
+			<lb n="6"/>
+		to read, and dispatch to me some styra[x] (isturak) and some pure frankincense (lubân ḏakar) and pure
+			<lb n="7"/>
+		mastic (maṣṭikâ ḏakar), and dispatch to me the books of the K[ing&#039;s] Ta[les] (?) which, I know, are in your possession,
+		... und (daß) Du mir Hefte von jenen (Heften) sendest, von denen ich weiß, daß Du sie hast.
+			<lb n="8"/>
+		Ich habe die Absicht, mich dieser Tage zu Dir zu begeben, sobald mein Bru[der] von Dir
+		so that I may read therein. And I decided to go out so that I (can) meet you in these days .........
+			<lb n="9"/>
+		of your own, if God wills. Assign specially to yourself hearty greetings, and many
+		(wieder zurück)gekommen ist, so Gott will. ...
+			<lb n="10"/>
+		... Der Segenswunsch sei wie der Briefanfang und noch
+		greetings to your parents and to the girl, and to your grandmother many greetings. The salutation is like the beginning and is taken
+			<lb n="11"/>
+		besser.
+		from it.
+		than it.
+			<lb n="12"/>
+		To Abu&#039;l-Ḫai[r] - May God prolong his life [and may He cause his might to continue - from So and So, son of So and So,] ................................... [
+</ab></div>
+</body>
+</text>
+</TEI>

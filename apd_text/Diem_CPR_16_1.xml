@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="413" xml:id="Diem_CPR_16_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106613</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب من الحسن بن سعيد عامل الأمير أيّده اللّه <supplied reason="lost" cert="high">مـ</supplied>ـحمّد بن السّري على 
+<lb n="3"/>  كورة الفيّوم و<gap reason="illegible" precision="low" extent="3"/>ك <app type="BL"><lem resp="APD">موا </lem><rdg resp="APD">مولى</rdg></app> <gap reason="illegible" extent="2" unit="character" /> ولاپپه <gap reason="illegible" extent="5" unit="character" /> و<gap reason="illegible" extent="1" unit="character" />ا <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high"> </supplied>
+<lb n="4"/>  إنّي قبضت منك مائتين و<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـك 
+<lb n="5"/>  <supplied reason="lost" cert="high">فـ</supplied>ـمن لقيه من عمّالي أو أعواني <app type="BL"><lem resp="APD">فلا </lem><rdg resp="Khan">ولا</rdg></app> يعرض لـه إلا بخير إن شا اللّه و<supplied reason="lost" cert="high">كتب</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">جمادى</supplied> <supplied reason="lost" cert="high">ا</supplied>لأولى 
+<lb n="6"/>  سنة ست ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un mina ăl ḥasani bni saʿīd:in ʿāmili ăl ʾamīri ʾayyada hu ăl lāhu muḥammadi bni ăs sariyyi ʿalà 
+ <lb n="3"/>kūraẗi ăl fayyūmi wa ***k mwā mawlà ** wa li ʾBBh ***** wa *ʾ ** 
+ <lb n="4"/>ʾin nī qabaḍtu min ka miʾatayni wa ***k 
+ <lb n="5"/>fa man laqiya hu min ʿummāl ī ʾaw ʾaʿwān ī fa wa lā yaʿriḍ la hu ʾillā bi ḫayr:in ʾin šāʾa ăl lāhu wa kutiba fī ǧumādà ăl ʾūlà 
+ <lb n="6"/>sanaẗa sitt:in wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Dies ist ein Schreiben von al-Ḥasan b. Saʿīd, dem Statthalter des Amīr - Gott stütze ihn - Muḥammad b. as-Sarīy über
+			<lb n="3"/>
+		die Provinz al-Fayyūm [..., für den Soundso.]
+			<lb n="4"/>
+		Ich erhielt von Dir zweihundert und [... Dinare
+			<lb n="5"/>
+		Wer ihm also von meinen Beamten oder Gehilfen begegnet, soll ihm nur Gutes erweisen, so Gott will. [Geschrieben im E]rsten [Ǧumādā]
+			<lb n="6"/>
+		im Jahre Zweihundertundsechs.
+</ab></div>
+</body>
+</text>
+</TEI>

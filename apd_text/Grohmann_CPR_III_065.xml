@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2585" xml:id="Grohmann_CPR_III_065" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR III 1 065 (= P.GrohmannPaläographie I p. 83 = Chrest.Khoury I 04)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_065</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إلـ</supplied>ـه إلّا اللّه <supplied reason="lost" cert="high">وحده</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">شريك</supplied> <supplied reason="lost" cert="high">له</supplied> 
+ <lb n="5"/>  لم يلد ولم يولد <supplied reason="lost" cert="high">ولم</supplied> <supplied reason="lost" cert="high">يكن</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">كفوا</supplied> <supplied reason="lost" cert="high">أحد</supplied> 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  محمّد رسول اللّه <supplied reason="lost" cert="high">أرسله</supplied> <supplied reason="lost" cert="high">بالهدى</supplied> <supplied reason="lost" cert="high">ودين</supplied> <supplied reason="lost" cert="high">الحقّ</supplied> 
+ <lb n="9"/>  عبد اللّه سليمن <supplied reason="lost" cert="high">أمير</supplied> <supplied reason="lost" cert="high">المومپپن</supplied> 
+ <lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  هذا ممّا أمر <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الملك</supplied> 
+ <lb n="13"/>  في سنة <supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> 
+ <lb n="14"/>  نصب على <app type="BL"><lem resp="APD">د </lem><rdg resp="Karabacek">يدي </rdg><rdg resp="Grohmann, Paläographie; Khoury “translation”">ديقوس</rdg></app> <app type="BL"><lem resp="APD">پموس </lem><rdg resp="Karabacek">تموس </rdg><rdg resp="Grohmann, Paläographie; Khoury “translation”">ø</rdg></app> بن <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="5"/>lam yalid wa lam yūlad wa lam yakun la hu kufuʾ:an ʾaḥad:un 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+ <lb n="8"/>muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="9"/>ʿabdu ăl lāhi sulaymānu ʾamīru ăl muʾminīna 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>hāḏā mimmā ʾamara bi hi ăl ʾamīru ʿabdu ăl maliki 
+ <lb n="13"/>fī sanaẗi *** wa tisʿīna 
+ <lb n="14"/>naṣaba ʿalà d yaday dīqūsa Bmws tamūsa ø bn bni *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Au nom de Dieu clément et miséricordieux!]
+ 	  [Im Namen Gottes, des Barmherzigen, Gütigen.]
+		 <lb n="2"/>
+ 	  [Au nom de Dieu clément et miséricordieux!]
+ 	  [Im Namen Gottes, des Barmherzigen, Gütigen.]
+		 <lb n="3"/>
+ 	  [Es gibt keinen Gott außer Gott allein.]
+ 	  [Il n’y a de Dieu qu’Allah seul.]
+		 <lb n="4"/>
+ 	  Es gibt keinen Go]tt außer Gott [allein; Er hat keinen Genossen.]
+ 	  [Il n’y a de Die]u qu’Allah [seul, il n’a pas de compagnon.]
+		 <lb n="5"/>
+ 	  Er hat nicht gezeugt und ist nicht gezeugt worden, [und niemand ist Ihm gleich.]
+ 	  Il n’a pas engendré, n’a pas été engendré [et personne ne lui est égal.]
+		 <lb n="6"/>
+ 	  [Il n’y a pas eu un seul aussi véné]ré. Maamet (est) le Messager de Dieu.
+ 	  [Nicht ist ein Gleichgeehr]ter entstanden. Maamet ist der Sendbote Gottes;
+		 <lb n="7"/>
+ 	  [er wurde mit dem wahren W]orte begabt zu den Rechtgläubigen [gesandt].
+ 	  [Il a été envoyé] aux (croyants) orthodoxes, doté [de la pa]role [de vérité.]
+		 <lb n="8"/>
+ 	  Muḥammad est le Messager de dieu. [Il l’a envoyé avec la direction par excellence et la religion vraie.]
+ 	  Muḥammad ist der Sendbote Gottes; [Er sandte ihn mit der Rechtleitung und wahren Religion.]
+		 <lb n="9"/>
+ 	  Der Diener Gottes Sulaimān, [Beherrscher der Gläubigen.]
+ 	  Le serviteur de Dieu Sulaymān, [prince des croyants.]
+		 <lb n="10"/>
+ 	  [Der Diener Gottes Suleiman,] Beherrscher der Gläubigen.
+ 	  [Le serviteur de Dieu Suleiman], prince des croyants.
+		 <lb n="11"/>
+ 	  [Abdelmalik gouverneur], Ethia [D]ux.
+ 	  [Abdelmalik Statthalter.] Dux Ethia.
+		 <lb n="12"/>
+ 	  Ceci appartient à [se qu‘] ordonna [l’émir ʿAbd al-Malik]
+ 	  Dies gehört zu dem, was angeordnet hat [der Amīr ʿAbd al-Malik]
+		 <lb n="13"/>
+ 	  en l’an [quatre-vingt-dix-...]
+ 	  im Jahre [... und neunzig.]
+		 <lb n="14"/>
+ 	  Erigé sur l’ordre de Dīqūs Ibn [...]
+ 	  Hergestellt im Auftrage des Dīqōs, Sohnes des [...]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

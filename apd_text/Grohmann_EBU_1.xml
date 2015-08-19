@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="686" xml:id="Grohmann_EBU_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 01 (= Chrest.Khoury II 29)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106768</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  قبالة كانت بيد روح بن عبد الرّحمن <app type="BL"><lem resp="APD">تجمع </lem><rdg resp="Khoury; Diem">بجميع</rdg></app> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="left out by scribe according to Khoury">ما</rdg></app> <app type="BL"><lem resp="APD">حدودها </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="2"/>  في السّنة الماضية قبالة بلا مساحة 
+<lb n="3"/>  دينر 
+<lb n="4"/>  κ 
+<lb n="5"/>  بسم اللّه الرّحمن الرّحيم الحمد للّه رب <app type="BL"><lem resp="APD">العلمين </lem><rdg resp="Khoury">العالمين</rdg></app> 
+<lb n="6"/>  هذا كتاب علي بن محمّد بن أحمد <app type="BL"><lem resp="APD">المقبل </lem><rdg resp="Khoury">المتقبّل</rdg></app> بجزيرة <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">سيلة</unclear> </lem><rdg resp="Khoury">مقبلة</rdg></app> 
+<lb n="7"/>  لسنة ست وعشرين <app type="BL"><lem resp="APD">وثلثمائة </lem><rdg resp="Khoury">وثلاثمائة</rdg></app> كتبه لمحمّد بن إبرهيم الفوّال 
+<lb n="8"/>  إنّك سألتني وطلبت إلّي أن أقبلك القبالة المعروفة 
+<lb n="9"/>  بقبالة روح بن عبد الرّحمن من أرض <app type="BL"><lem resp="Grohmann erroneously ‫سيله‬">سيلة </lem><rdg resp="Khoury">مقبلة</rdg></app> تزرع 
+<lb n="10"/>  ذلك ما أحببت قبالة بلا مساحة بعشرين دينرا 
+<lb n="11"/>  مثاقيل معسولة سوى الصّرف على الرّسم الجاري 
+<lb n="12"/>  بهذه العرصة <app type="BL"><lem resp="APD">زرعت </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">أم </lem><rdg resp="Khoury">إن</rdg></app> عطّلت فخراجه لازم 
+<lb n="13"/>  لك وعلى أن تودى خراجك مع أنجم السّلطان 
+<lb n="14"/>  أعزّه اللّه وأوقاته فأجبتك إلى ذلك فازرع على 
+<lb n="15"/>  بركة اللّه وعونه ولك الوفا بذلك وذلك في ذي 
+<lb n="16"/>  ‮القعدة من <app type="BL"><lem resp="APD">سپ </lem><rdg resp="Khoury">سنة</rdg></app> وعسرین وپلپماپه <app type="BL"><lem resp="APD">‪τκϛ‬ </lem><rdg resp="Khoury">وثلاثمائة</rdg></app> 
+<lb n="17"/>  قبالة روح في السّنة الماضية قبالة بلا مساحة 
+<lb n="18"/>  دينر 
+<lb n="19"/>  κ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>qabālaẗ:un kānat bi yadi rawḥi bni ʿabdi ăr raḥmāni taǧmaʿu bi ø ǧamīʿi ø mā fī ø ḥudūdi hā 
+ <lb n="2"/>fī ăs sanaẗi ăl māḍiyaẗi qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="3"/>dīnār:un 
+ <lb n="4"/>20 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="6"/>hāḏā kitābu ʿaliyyi bni muḥammadi bni ʾaḥmada ăl muqbali mutaqabbali bi ǧazīraẗi sīlaẗa maqbalaẗa 
+ <lb n="7"/>li sanaẗi sitt:in wa ʿišrīna wa ṯalāṯi miʾaẗ:in kataba hu li muḥammadi bni ʾibrāhīma ăl fawwāli 
+ <lb n="8"/>ʾinna ka saʾalta nī wa ṭalabta ʾilay ya ʾan ʾuqbila ka ăl qabālaẗa ăl maʿrūfaẗa 
+ <lb n="9"/>bi qabālaẗi rawḥi bni ʿabdi ăr raḥmāni min ʾarḍi sīlaẗa maqbalaẗa tazraʿa 
+ <lb n="10"/>ḏālika mā ʾaḥbabta qabālaẗ:an bi lā misāḥaẗ:in bi ʿišrīna dīnār:an 
+ <lb n="11"/>maṯāqīla maʿsūlaẗ:an siwà ăṣ ṣarfi ʿalà ăr rasmi ăl ǧārī 
+ <lb n="12"/>bi hāḏihi ăl ʿarṣaẗi zaraʿta ø ʾam ʾin ʿaṭṭalta fa ḫarāǧu hu lāzim:un 
+ <lb n="13"/>la ka wa ʿalà ʾan tuʾaddiya ḫarāǧa ka maʿa ʾanǧumi ăs sulṭāni 
+ <lb n="14"/>ʾaʿazza hu ăl lāhu wa ʾawqāti hi fa ʾaǧabtu ka ʾilà ḏālika fa ĭzraʿ ʿalà 
+ <lb n="15"/>barakaẗi ăl lāhi wa ʿawni hi wa la ka ăl wafāʾu bi ḏālika wa ḏālika fī ḏī 
+ <lb n="16"/>ăl qaʿdaẗi min ø sanaẗi sitt:in wa ʿišrīna wa ṯalāṯi miʾaẗ:in 326 
+ <lb n="17"/>qabālaẗu rawḥ:in fī ăs sanaẗi ăl māḍiyaẗi qabālaẗ:un bi lā misāḥaẗ:in 
+ <lb n="18"/>dīnār:un 
+ <lb n="19"/>20 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Eine Pachtung, die sich im Besitz (in der Hand) des Rauḥ Ibn ʿAbd ar-Raḥmān war mit allem, &lt;was&gt; innerhalb ihrer Grenzen (lag)
+		Pachtung, die sich im Besitze des Rauḥ b. ʿAbd ar-Raḥmān (befand), wie sie in ihren Grenzen umschlossen wurde
+			<lb n="2"/>
+		im vergangenen Jahre, eine Pachtung ohne Vermessung.
+			<lb n="3"/>
+		Dīnār
+			<lb n="4"/>
+		20
+			<lb n="5"/>
+		Im Namen des barmherzigen und gütigen Gottes. Lob sei dem Herrn der Welten!
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="6"/>
+		Dies ist die Urkunde des ʿAlī b. Muḥammad b. Aḥmad, des Pächters in Ǧazīrat Sīla
+		Dies ist die Urkunde des ʿAlī Ibn. Muḥammad Ibn Aḥmad, des Pächters in Ǧazīrat Maqbala,
+			<lb n="7"/>
+		für das Jahr dreihundertsechsundzwanzig, die er geschrieben hat für Muḥammad b. Ibrahīm, den Bohnenhändler.
+		für das Jahr dreihundertsechsundzwanzig, er schrieb sie für Muḥammad Ibn Ibrahīm, den Bohnenhändler.
+			<lb n="8"/>
+		Fürwahr Du hast mich gebeten und von mir verlangt, daß ich Dir die unter dem Namen
+		Fürwahr Du hast mich gebeten und von mir verlangt, daß ich Dir verpachte die Pachtung, bekannt
+			<lb n="9"/>
+		&#034;Pachtung des Rauḥ b. ʿAbd ar-Raḥmān&#034; bekannte Pachtung vom Boden von Sīla verpachte, auf daß Du darauf
+		unter (dem Namen) Pachtung des Rauḥ Ibn ʿAbd ar-Raḥmān vom Boden von Maqbala. Du besäest
+			<lb n="10"/>
+		dies(e), mit dem, was Du willst, als eine Pachtung ohne Vermessung um zwanzig Dīnāre
+		säest, was Du willst, als Pachtung ohne Vermessung, um zwanzig richtige Dīnāre
+			<lb n="11"/>
+		des Miṯqālfusses außer der Gutstehungsgebühr gemäß dem in dieser Gegend
+		miṯqālī, richtige ohne Gestehungsgebühr nach üblichen Brauch
+			<lb n="12"/>
+		bei diesem Angebot;  du säest, wenn Du (es aber) unbeackert läßt, so obliegt seine Grundsteuer
+		üblichen Brauche; (ob) Du (nun) säest oder vernachlässigst, obliegt Dir doch
+			<lb n="13"/>
+		Dir, und unter der Bedingung, daß Du Grundsteuer zugleich mit den vom Statthalter - Gott mache ihn hochgeehrt - festgesetzten Ratenzahlungen
+		seine Grundsteuer, und unter der Bedingung, daß Du Deine Grundsteuer zusammen mit den dem Statthalter
+			<lb n="14"/>
+		- Gott stärke ihn - geschuldeten Raten und zu den (von ihm bestimmten) Fälligkeitsterminen bezahlest. So habe ich Dir denn dies bewilligt. Säe also mit
+		und Zahlungsterminen bezahlst. Ich habe Dir also hierzu meine Zustimmung erteilt. So säe denn mit
+			<lb n="15"/>
+		dem Segen und der Hilfe Gottes, und Dir obliegt die Durchführung hievon, und dies (fand statt) im Ḏū
+		dem Segen und der Hilfe Gottes, und Dir obliegt die Erfüllung davon. Und dies im Ḏū
+			<lb n="16"/>
+		ʾl-Qaʿda vom Jahre dreihundertsechsundzwanzig. 326.
+		l-Qaʿda vom Jahre dreihundertsechsundzwanzig. 326.
+			<lb n="17"/>
+		Pachtung des Rauḥ im vergangenen Jahre, eine Pachtung ohne Vermessung
+		Pachtung des Rauḥ im vergangenen Jahre, eine Pachtung ohne Vermessung.
+			<lb n="18"/>
+		Dīnār
+			<lb n="19"/>
+		20
+		20.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2422" xml:id="Grohmann_Mird_36" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Mird 36</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_36</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ثلـ</supplied>ـثي ونصف وقيـ<supplied reason="lost" cert="high">ـر</supplied>اط 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وربـ</supplied>ـع ودانق 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">درهـ</supplied>ـمين إلّا دانق 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">درهـ</supplied>ـم 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">د</supplied>رهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ṯulṯay wa niṣf wa qīrāṭ 
+ <lb n="2"/>*** wa rubʿ wa dāniq 
+ <lb n="3"/>*** dirhamayni ʾillā dāniq 
+ <lb n="4"/>*** dirham 
+ <lb n="5"/>*** dirham 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] two thirds and a half and one ca[r]at
+			<lb n="2"/>
+		[... and a quar]ter and one dāniq
+			<lb n="3"/>
+		two [dirhams] less one dāniq
+			<lb n="4"/>
+		[... dirha]m
+			<lb n="5"/>
+		[... di]rham
+</ab></div>
+</body>
+</text>
+</TEI>

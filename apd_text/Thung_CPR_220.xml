@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2279" xml:id="Thung_CPR_220" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 22</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_220</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حقّ</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">النسع</supplied> </lem><rdg resp="APD">النسع</rdg></app> <supplied reason="lost" cert="high">بـ</supplied>ـن إدريس بن خروف الخبّاز السّاكن مدينة أشمـ<supplied reason="lost" cert="high">ـون</supplied> <supplied reason="lost" cert="high">على</supplied> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپن السّاكن مدينة 
+<lb n="3"/>  أشمون له عليه دينار واحد مثقال طري جيّد حال له عليه متا شا <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـنسع</supplied> </lem><rdg resp="APD">النسع</rdg></app> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">إدريس</supplied> <supplied reason="lost" cert="high">أ</supplied>خذه بهذ]ا 
+<lb n="4"/>  الدّينار الواحد من ليل أو نهار لا يدافع بذلك ولا يحتج بحجّة <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بوجه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الوجوه</supplied> <supplied reason="lost" cert="high">ولا</supplied> 
+<lb n="5"/>  سبب من الأسباب إلّا بالخروج من هذا الدّينار الواحد إلى <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">ليسع</supplied> </lem><rdg resp="APD">النسع</rdg></app> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">إدريس </supplied>
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> ومن أحاله <app type="BL"><lem resp="APD">النسع </lem><rdg resp="APD">النسع</rdg></app> بن إدريـ<supplied reason="lost" cert="high">ـس</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">أقرّ</supplied> <supplied reason="lost" cert="high">له </supplied>
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> شهد عبد الرّحمن بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ăl ăn nasaʿi yasaʿi bni ʾidrīsa bni ḫarūfa ăl ḫabbāzi ăs sākini madīnaẗa ʾušmūna ʿalà **Bn ăs sākini madīnaẗa 
+ <lb n="3"/>ʾušmūna la hu ʿalay hi dīnār:un wāḥid:un miṯqāl:un ṭarīʾ:un ǧayyid:un ḥāll:un la hu ʿalay hi matā šāʾa ăl ăn nasaʿu yasaʿu bnu ʾidrīsa ʾaḫaḏa hu bi hāḏā 
+ <lb n="4"/>ăd dīnāri ăl wāḥidi min layl:in ʾaw nahār:in lā yudāfiʿu bi ḏālika wa lā yaḥtaǧǧu bi ḥuǧǧaẗ:in *** bi waǧh:in mina ăl wuǧūhi wa lā 
+ <lb n="5"/>sabab:in mina ăl ʾasbābi ʾillā bi ăl ḫurūǧi min hāḏā ăd dīnāri ăl wāḥidi ʾilà ăl ăn nasaʿi yasaʿi bni ʾidrīsa 
+ <lb n="6"/>*** wa man ʾaḥāla hu ăl ăn nasaʿu yasaʿu bnu ʾidrīsa ʿalay hi ʾaqarra la hu 
+ <lb n="7"/>*** šahida ʿabdu ăr raḥmāni bnu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen] Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[Verpflichtungsschein von al-Yasaʿ] b. Idrīs b. H̱arūf, dem Bäcker, wohnhaft in der Stadt Ušmūn [zu Lasten von] .. [...] ., wohnhaft in der Stadt
+			<lb n="3"/>
+		Ušmūn. Ihm steht zu dessen Lasten ein gut neugeprägter Dinar des Miṯqālgewichts, fällig zu seinen Gunsten und dessen Lasten, zu. Wann auch immer [al-Yasaʿ b. Idrīs] will, kann er [diesen] einen Dinar von ihm einfordern,
+			<lb n="4"/>
+		sei es bei Nacht oder Tag. Er (sc. der Schuldner) wird ihn damit nicht hinhalten und keine Einsprüche erheben .[... in irgendeiner Hinsicht oder aus]
+			<lb n="5"/>
+		irgendwelchem Grund, sondern [al-Yasaʿ ibn Idrīs] den einen Dinar zahlen [
+			<lb n="6"/>
+		[...] und wenn al-Yasaʿ ibn Idrīs jemandem den Schein überträgt, [so erkennt er (sc. der Schuldner) ihm sein Recht an.]
+			<lb n="7"/>
+		[...] Es bezeugt ʿAbdarraḥmān b. [
+</ab></div>
+</body>
+</text>
+</TEI>

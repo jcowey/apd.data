@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2613" xml:id="Grohmann_Mird_44" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 44</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_44</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/>ـپ مڤـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> كتابنا فی 
+ <lb n="3"/>  <app type="BL"><lem resp="APD">كناظر </lem><rdg resp="Diem">كنّا</rdg></app> <app type="BL"><lem resp="APD">بتا </lem><rdg resp="Diem">طربنا</rdg></app> وطـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  أقری يوسف وجميع <app type="BL"><lem resp="APD">ولدهـ<supplied reason="lost" cert="high">ـم</supplied> </lem><rdg resp="Diem">ولدك</rdg></app> <supplied reason="lost" cert="high">منّي</supplied> <supplied reason="lost" cert="high">السّلم</supplied> 
+ <lb n="5"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">حـ</unclear>ـفل </lem><rdg resp="APD">جفل</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عنـ</supplied>ـك </lem><rdg resp="APD">منك </rdg><rdg resp="APD">عتك</rdg></app> لنـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  يوم السّبت <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  ربيع الآخـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>***B mF*** 
+ <lb n="2"/>** *** kitāb nā fī 
+ <lb n="3"/>ka kunnā nāẓiri ø butā ṭaribnā wa ṭ*** 
+ <lb n="4"/>ʾaqriʾ yūsufa wa ǧamīʿa waladi ø him ka min nī ăs salāma 
+ <lb n="5"/>ḥafala ǧafala ʿan min ʿataka ka ø ln*** 
+ <lb n="6"/>yawm ăs sabti *** 
+ <lb n="7"/>rabīʿa ăl ʾāḫari *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  [...] our letter in
+		 <lb n="3"/>
+ 	  like an inspector of Butā (?) and ..... [...]
+		 <lb n="4"/>
+ 	  Greet Yūsuf and all the[ir (?)] children [from me....]
+		 <lb n="5"/>
+ 	  has collected [from] you the .... [...]
+		 <lb n="6"/>
+ 	  On Saturday [...] of
+		 <lb n="7"/>
+ 	  Rabīʿ II.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

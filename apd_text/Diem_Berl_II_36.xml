@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1524" xml:id="Diem_Berl_II_36" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 36</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_36</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169295</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  أ<supplied reason="lost" cert="high">شـ</supplied>ـهـ<supplied reason="lost" cert="high">ـا</supplied>ده شاهدين <supplied reason="lost" cert="high">قـ</supplied>ـبـ<supplied reason="lost" cert="high">ـلـ</supplied>ـت شهادتهما بعد <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">عرفتهما</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="7" unit="character" /> </lem><rdg resp="APD">بأعيانهما</rdg></app> <gap reason="illegible" extent="9" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> سأل <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" extent="7" unit="character" /> <supplied reason="lost" cert="high">ثبـ</supplied>ـوت الكفالتين بجميع ما ذكر ووصـ<supplied reason="lost" cert="high">ـف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="10" unit="character" /> على <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="6"/>  <supplied reason="lost" cert="high">ذ</supplied>كرت ذلك في ظهر <supplied reason="lost" cert="high">الكتاب</supplied> <unclear reason="undefined" cert="high">بنسخ</unclear> <unclear reason="undefined" cert="high">ثابت</unclear> <unclear reason="undefined" cert="high">الكتا</unclear><supplied reason="lost" cert="high">بة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  شاهدين قبلت شهادتهما بعد أن عرفتهمـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ابنة حُسين الموكّلة وو<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ـلپ غير <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">نّ</supplied> </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> علما <supplied reason="lost" cert="high">بـ</supplied>ـرجوع الموكّلة عن هذه الوكـ<supplied reason="lost" cert="high">ـالة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  وسألني <unclear reason="undefined" cert="high">عن</unclear> ذلك وسواله إيّاي يغرب <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="11"/>  فأنهيته إليه بكتابي هذا وله أعلى ا<supplied reason="lost" cert="high">لرّأي</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="12"/>  وكتب لثلـ<supplied reason="lost" cert="high">ـث</supplied> خلو<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">من</supplied> جمدى الأو<supplied reason="lost" cert="high">لى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **** 
+ <lb n="2"/>ʾašhād hu šāhidayni qabiltu šahādata humā baʿda ʾan ʿaraftu humā *** 
+ <lb n="3"/>******* bi ø ʾaʿyāni ø himā ********* *** ***** saʾala ***** 
+ <lb n="4"/>******* ṯubūt ăl kafālatayni bi ǧamīʿi mā ḏukira wa wuṣifa *** 
+ <lb n="5"/>*** ********** ʿalà ***** 
+ <lb n="6"/>ḏakartu ḏālika fī ẓahri ăl kitābi bi nasḫ:in ṯābiti ăl kitābaẗi *** 
+ <lb n="7"/>šāhidayni qabiltu šahādata humā baʿda ʾan ʿaraftu humā *** 
+ <lb n="8"/>ĭbnaẗ ḥusayn:in ăl muwakkilaẗu wa w** *** **lB ġayra ʾan ʾanna *** 
+ <lb n="9"/>*** ʿilm:an bi ruǧūʿi ăl muwakkilaẗi ʿan hāḏihi ăl wakālaẗi *** 
+ <lb n="10"/>wa saʾala nī ʿan ḏālika wa suʾālu hu ʾiyyā ya yaġrubu **** 
+ <lb n="11"/>fa ʾanhaytu hu ʾilay hi bi kitāb ī hāḏā wa la hu ʾaʿlà ăr raʾyi fī ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="12"/>wa kutiba li ṯalāṯ:in ḫalawna min ǧumādà ăl ʾūlà *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		dessen Zeugen zwei Zeugen sind, deren Zeugnis ich akzeptierte, nach[dem ich mich ihrer vergewissert hatte - - -]
+			<lb n="3"/>
+		- - - er fragte - - - [- - -]
+			<lb n="4"/>
+		[- - - die Regi]strierung der beiden Bürgschaften bezüglich allem, das erwähnt und beschrieben worden ist [- - -]
+			<lb n="5"/>
+			<lb n="6"/>
+		ich vermerkte dies auf der Rückseite des [Dokuments] in einer sorgfältig geschriebenen (?) Abschrift (?) [- - -]
+			<lb n="7"/>
+		zwei Zeugen, deren Zeugnis ich akzeptierte, nachdem ich mich ihrer vergewissert hatte [- - -]
+			<lb n="8"/>
+		Ibnat Ḥusayn, die Mandantin, und - - - abgesehen davon, da[ß - - -]
+			<lb n="9"/>
+		[- - -] in Kenntnis des Umstandes, daß die Mandantin dieses (von ihr erteilte) Mandat zurückgezogen hatte [- - -.]
+			<lb n="10"/>
+		Er hat mich nach diesem (Vorgang) gefragt, wobei (mir) seine an mich gerichtete Frage befremdlich war [- - -,]
+			<lb n="11"/>
+		und so habe ich ihm dies(en Vorgang) in diesem meinem Brief gemeldet, aber ihm steht die maßgebliche [Entscheidung hierbei zu, so Gott will.]
+			<lb n="12"/>
+		Geschrieben, da drei (Nächte) vergangen sind von (dem Monat) Ǧumādā l-ʾū[lā- - -.]
+</ab></div>
+</body>
+</text>
+</TEI>

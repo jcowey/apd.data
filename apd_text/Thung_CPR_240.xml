@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2286" xml:id="Thung_CPR_240" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_240</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ذكر حق لمحمّد بن الحـ<supplied reason="lost" cert="high">ـسـ</supplied>ـن بن الرّبّان الرّافعي السّاكن يومئذ مدينة الأشمونين من أرض صعيد مصر 
+<lb n="3"/>  على صلح الأسود الرّاجل مولى الهاشمي السّاكن ا<supplied reason="lost" cert="high">لـ</supplied>ـمدينة المذكورة في هذا <supplied reason="lost" cert="high">الكتا</supplied>ب له عليه 
+<lb n="4"/>  <app type="BL"><lem resp="APD">سبعة </lem><rdg resp="Diem">سبع</rdg></app> ويبات <supplied reason="omitted" cert="high">و</supplied>خمسة أ<supplied reason="omitted" cert="high">ر</supplied>ا<supplied reason="omitted" cert="high">د</supplied>ب قمح سمين جيّـ<supplied reason="lost" cert="high">ـد</supplied> الحبّة يوفيه <supplied reason="lost" cert="high">ذ</supplied>لك بالويبة الإبراهـ<supplied reason="lost" cert="high">ـيـ</supplied>ـميّة بهذه المدينة 
+<lb n="5"/>  المذكورة في هذ<supplied reason="lost" cert="high">ا</supplied> <supplied reason="lost" cert="high">ا</supplied>لكتاب في برموده الجاري في أهلّة سنة خمس <supplied reason="lost" cert="high">وثـ</supplied>ـلثين وثلثــ<supplied reason="lost" cert="high">ـمائة</supplied> لا يدافعه بذلك ولا 
+<lb n="6"/>  يحتج عليه بحجّة بـوجه من الوجوه ولا سبب من الأسباب إلّا بالخروج من هذه السّبع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  عند محل أجلها وذلك في جمدى الآخر من سنة خمس وثلثين وثلثمائة شهد على ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqq:in li muḥammadi bni ăl ḥasani bni ăr rabbāni ăr rāfiʿiyyi ăs sākini yawma ʾiḏ:in madīnaẗa ăl ʾušmūnayni min ʾarḍi ṣaʿīdi miṣra 
+ <lb n="3"/>ʿalà ṣāliḥi ăl ʾaswadi ăr rāǧili mawlà ăl hāšimiyyi ăs sākini ăl madīnaẗa ăl maḏkūraẗa fī hāḏā ăl kitābi la hu ʿalay hi 
+ <lb n="4"/>sabʿaẗu sabʿu waybāt:in wa ḫamsaẗu ʾarādibi qamḥ:in samīn:in ǧayyidi ăl ḥabbaẗi yūfī hi ḏālika bi ăl waybaẗi ăl ʾibrāhīmiyyaẗi bi hāḏihi ăl madīnaẗi 
+ <lb n="5"/>ăl maḏkūraẗi fī hāḏā ăl kitābi fī barmūdiha ăl ǧārī fī ʾahillaẗi sanaẗi ḫams:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in lā yudāfiʿu hu bi ḏālika wa lā 
+ <lb n="6"/>yaḥtaǧǧu ʿalay hi bi ḥuǧǧaẗ:in bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi ʾillā bi ăl ḫurūǧi min hāḏihi ăs sabʿi *** 
+ <lb n="7"/>ʿinda maḥilli ʾaǧali hā wa ḏālika fī ǧumādà ăl ʾāḫiri min sanaẗi ḫams:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in šahida ʿalà ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Verpflichtungsschein zugunsten von Muḥammad b. al-Ḥa[s]an (?) b. ar-Rabbān ar-Rāfiʿī, zu jener Zeit wohnhaft in der Stadt al-Ušmunayn in Oberägypten,
+			<lb n="3"/>
+		zu Lasten von Ṣāliḥ al-Aswad, dem Fußsoldaten und Freigelassenen von al-Hāšimī, wohnhaft in der in dieser Urkunde erwähnten Stadt. Ihm stehen zu dessen Lasten
+			<lb n="4"/>
+		sieben Waybas(?) und fünf Artaben fetten Weizens mit hervorragenden Körnern zu, die er ihm in Form der Waybah Ibrāhīmīyah in der in dieser Urkunde erwähnten Stadt
+			<lb n="5"/>
+		im Monat Barmūdah des Jahres dreihundertfünfunddreißig vollständig auszuhändigen hat. Er soll ihn damit nicht hinhalten und keine
+			<lb n="6"/>
+		Einwände gegen ihn erheben, in irgendeiner Hinsicht, oder aus irgendwelchem Grund, sondern diese sieben
+			<lb n="7"/>
+		an ihrem Fälligkeitstermin aushändigen. Und dies (wurde geschrieben) im Monat Ǧumādā al-Āḫir des Jahres dreihundertfünfunddreißig. Es wurde bezeugt
+</ab></div>
+</body>
+</text>
+</TEI>

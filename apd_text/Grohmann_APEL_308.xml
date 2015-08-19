@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1779" xml:id="Grohmann_APEL_308" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 308</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_308</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169520</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم أحب أن تشتري لي أعزّك اللّه إذا رزقك اللّه السّلامة وبلغك <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">الآمال</rdg></app> 
+<lb n="recto 2"/>  بأربعة طرز حفّيّة مليح الرّقعة رطب خليع فيه بقيا <app type="BL"><lem resp="Diem÷ this adjective refers to persons, not to clothes">ألبس </lem><rdg resp="proposal by Diem. Maġribī fā?">أنفس</rdg></app> اپراسى بثلثة دنانير 
+<lb n="recto 3"/>  كل أعجب إلي إن شا اللّه وثوب شي جديد خفيف واسع العرض 
+<lb n="recto 4"/>  من تسعة أشبار بوجه ولا <app type="BL"><lem resp="APD">سبب </lem><rdg resp="Diem">سبب</rdg></app> خفيف الوقع رقيق الحواشي مليح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <app type="BL"><lem resp="APD">مطوّر </lem><rdg resp="Diem">مطرّز</rdg></app> بسواد أو بحمرة طراز <app type="BL"><lem resp="APD">رقيق </lem><rdg resp="Diem">دقيق</rdg></app> شطوي إن شا اللّه وثوب تربولي <app type="BL"><lem resp="APD">عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">بـ<gap reason="illegible" precision="low" extent="3"/>ـة</rdg></app> 
+<lb n="recto 6"/>  معسولة إن شا اللّه وحسبي اللّه ونعم الوكيل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  حاجة أبو جعفر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾuḥibbu ʾan taštariya l ī ʾaʿazza ka ăl lāhu ʾiḏā razaqa ka ăl lāhu ăs salāmaẗa wa ballaġa ka *** ăl ø ʾāmāla ø ṯawb:an 
+ <lb n="2"/>bi ʾarbaʿaẗi ṭuruz:in ḥaffiyyaẗ:in ḥāffiyyaẗ:in malīḥa ăr ruqʿaẗi raṭb ḫalīʿ fī hi bāqiy:an ʾalbasa ʾanfasa ʾbrʾsy bi ṯalāṯaẗi danānīra ø maġsūlaẗ:in ø wa ø yakūnu 
+ <lb n="3"/>kull ʾaʿǧaba ʾilay ya ʾin šāʾa ăl lāhu wa ṯawb:un šayʾ:un ǧadīd:un ḫafīf:un wāsiʿu ăl ʿarḍi ø lā ø ʾaqallu 
+ <lb n="4"/>min tisʿaẗi ʾašbār:in bi waǧh:in wa lā sabab:in šabiṯ:un ḫafīfu ăl waqʿi raqīqu ăl ḥawāšī malīḥ:un *** 
+ <lb n="5"/>muṭawwar:un muṭarraz:un bi sawād:in ʾaw bi ḥumraẗ:in ṭirāz ṭirāz:un raqīq:un daqīq šaṭawiyy šaṭawiyy:un ʾin šāʾa ăl lāhu wa ṯawb:un tarbūliyy:un ʿ*** bi عڑ** ـ ***aẗi ø danānīra 
+ <lb n="6"/>maʿsūlaẗ ʾin šāʾa ăl lāhu wa ḥasb ī ăl lāhu wa niʿma ăl wakīlu *** 
+ <lb n="7"/>ḥāǧaẗu ʾabū ǧaʿfara 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. I should like you to buy [....] for me - may God exalt you -, when God grants you his protection, and bestows upon you [
+			<lb n="2"/>
+		... [ ... und es soll]
+		with four ṭirâz (borders) from Ḥaffa, with pretty trimmings, soft, worn, durable, completely wrapping, ... ... for three dînârs
+			<lb n="3"/>
+		all that astonishes me greatly, if God wills; further a garment, a new article, light, full in wid[th
+		mir in jeder Hinsicht sehr gut gefallen. ... sehr breit, [und zwar]
+			<lb n="4"/>
+		nine spans in front, not clinging (but) easily flowing, from ......... with fine seams, pretty [
+		unter gar keinen Umständen weniger als neun Spannen. ...
+			<lb n="5"/>
+		versehen mit einer feinen Borte in Schwarz oder Rot aus Šaṭā. ... für [Zahlwort] Dinar
+		with black or red borders, soft to the touch, delicate, made in Šaṭâ, if God wills. And a garment from Tarbûla for an eighth [
+			<lb n="6"/>
+		correctly counted out, if God wills. And my sufficiency is God, and He is the best trustee. [
+			<lb n="7"/>
+		Matter of Abû Gaʿfar.
+</ab></div>
+</body>
+</text>
+</TEI>

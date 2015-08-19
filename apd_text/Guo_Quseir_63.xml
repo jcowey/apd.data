@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="956" xml:id="Guo_Quseir_63" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments II 7 recto (= P.QuseirArab. I 63)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_63</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113705</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">عر</supplied><unclear reason="undefined" cert="high">پف</unclear> <unclear reason="undefined" cert="high">الحكار</unclear> سعر ارپعه وعسرپن وپصف 
+<lb n="2"/>  مفرح محمّد <sic n="superfluous">واسمعل</sic> <supplied reason="omitted" cert="high">وإسمعيل</supplied> 
+<lb n="3"/>  إردب ونصف أربعة ويبات 
+<lb n="4"/>  وأم <unclear reason="undefined" cert="high">جفاني</unclear> أم <sic n="superfluous">اسمعل</sic> <supplied reason="omitted" cert="high">إسمعيل</supplied> 
+<lb n="5"/>  أحد عشر ويبة ويبة 
+<lb n="6"/>  القيمة 
+<lb n="7"/>  <app type="BL"><lem resp="APD">مايتي </lem><rdg resp="“EG”">مايتين</rdg></app> وثمانية دراهم 
+<lb n="8"/>  <supplied reason="lost" cert="high">د</supplied><unclear reason="undefined" cert="high">اله</unclear> <app type="BL"><lem resp="APD">العرپف </lem><rdg resp="APD">دللة </rdg><rdg resp="APD">حوالة </rdg><rdg resp="APD">إحالة
+</rdg></app> صفا سعر پلپه وثلاثپن الارد<supplied reason="lost" cert="high">پ</supplied> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/>ساس عپد الرحيم الوالى 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه وپپاپ ويبپپن اردب 
+<lb n="11"/>  خلف مرزوق نجيب 
+<lb n="12"/>  أحد عشر ويبة إردب ستّة <sic n="superfluous">أرداب</sic><supplied reason="omitted" cert="high">ارادب</supplied> 
+<lb n="13 left"/>  ونصف 
+<lb n="14"/>  <supplied reason="lost" cert="high">الڤپمـ</supplied>ـه 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> ماية وأحد وخمسين درهم 
+<lb n="16"/>  <supplied reason="lost" cert="high">عرپف</supplied> <supplied reason="lost" cert="high">الحـ</supplied>ـكار <unclear reason="undefined" cert="high">وعلايڤه</unclear> 
+<lb n="17"/>  سـ<supplied reason="lost" cert="high">ـتّما</supplied>ئة تسعة وخمسين درهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿarīfu ăl ḥukkāri siʿr:un ʾarbaʿaẗ:un wa ʿišrīna wa niṣf:un 
+ <lb n="2"/>mufriḥ:un muḥammad:un wa ʾismāʿīlu 
+ <lb n="3"/>ʾirdabb:un wa niṣf:un ʾarbaʿaẗu waybāt:in 
+ <lb n="4"/>wa ʾummu ǧafānī ʾummu ʾismāʿīla 
+ <lb n="5"/>ʾaḥada ʿašara waybaẗ:an waybaẗ:un 
+ <lb n="6"/>ăl qīmaẗu 
+ <lb n="7"/>miyatay miyatayni wa ṯamāniyaẗu darāhima 
+ <lb n="8"/>dāllaẗu dilālaẗu ḥawālaẗu ʾiḥālaẗu ăl ʿarīfi ṣafā siʿr:un ṯalāṯaẗu wa ṯalāṯīna ăl ʾirdabba 
+ <lb n="9"/>***sās ʿabdu ăr raḥīmi ăl wālī 
+ <lb n="10"/>***ẗu waybāt:in waybatayni ʾirdabb:un 
+ <lb n="11"/>ḫalaf:un marzūq:un naǧību 
+ <lb n="12"/>ʾaḥada ʿašara waybaẗ:an ʾirdabb:un sittaẗu ʾarādiba 
+ <lb n="13"/>wa niṣf:un 
+ <lb n="14"/>ăl qīmaẗu 
+ <lb n="15"/>*** miyaẗ:in wa ʾaḥad:un wa ḫamsīna dirham 
+ <lb n="16"/>ʿarīfu ăl ḥukkāri wa ʿalāyyiqu hu 
+ <lb n="17"/>sittu miʾaẗ:in tisʿaẗ:un wa ḫamsīna dirham:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Owed to? paid to?] the head of the hoarders [are] the costs of twenty-four and a half [waybas of wheat]:
+		[Owed to? paid to?] the head of the hoarders (? ʿarīf al-ḥukkār) [are] the costs of twenty-four and a half [waybas of wheat]:
+			<lb n="2"/>
+		Mufriḥ:	| Muḥammad and Ismāʿīl:
+		Mufriḥ (Mufarrij?):	| Muḥammad and Ismāʿīl:
+			<lb n="3"/>
+		one and a half irdabbs; | four waybas;
+			<lb n="4"/>
+		And Umm Jafānī (?): | Umm Ismāʿīl:
+			<lb n="5"/>
+		eleven waybas; | one wayba.
+			<lb n="6"/>
+		The total costs:
+			<lb n="7"/>
+		Two hundred and eighty dirhams.
+			<lb n="8"/>
+		Brokerage comission (? dālla) [owed to? paid to?] the head [of the hoarders] is cleaned (ṣafā); [and] the costs of thiry-three irdabbs [of wheat] are:
+		Brokerage comission [owed to? paid to?] the head [of the hoarders] is cleared; [and] the costs of thiry-three irdabbs [of wheat] are:
+			<lb n="9"/>
+		[...]sās: | ʿAbd al-Raḥīm: | The mayor:
+		[...]sās: | ʿAbd al-Raḥīm: | The mayor (al-wālī):
+			<lb n="10"/>
+		[three?] waybas; | two waybas; | one irdabb;
+			<lb n="11"/>
+		Khalaf:	| Marzūq: | Najīb:
+			<lb n="12"/>
+		eleven waybas; | one irdabb; | six irdabbs
+			<lb n="13"/>
+		| | and a half.
+			<lb n="14"/>
+		The total costs:
+			<lb n="15"/>
+		[Eight?] hundred and fifty-one dirhams.
+			<lb n="16"/>
+		[Owed to, or paid to, the head of?] the hoarders and his associates:
+		[Owed to, or paid to, the head of?] the hoarders and his associates (ʿalāʾiqih):
+			<lb n="17"/>
+		Six hundred and fifty-nine dirhams.
+</ab></div>
+</body>
+</text>
+</TEI>

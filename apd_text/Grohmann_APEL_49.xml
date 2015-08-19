@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1030" xml:id="Grohmann_APEL_49" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 049 (= Chrest.Khoury I 13)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_49</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168916</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  نـ<supplied reason="lost" cert="high">ـسخـ</supplied>ـت 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  <supplied reason="lost" cert="high">شهـ</supplied>ـد <supplied reason="lost" cert="high">مـ</supplied>ـن أ<supplied reason="lost" cert="high">ثبت</supplied> شـ<supplied reason="lost" cert="high">ـهـ</supplied>ـدته في آخر <app type="BL"><lem resp="APD">هذا </lem><rdg resp="“Dietrich”">هذه</rdg></app> البراه على إقرار أم عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> زوجة جبريل بن جعفر الجدّي أنّها 
+<lb n="4"/>  قبضت من زوجها جبريل بن جعفر دينارين مثاقيل <supplied reason="lost" cert="high">طـ</supplied>ـري <supplied reason="lost" cert="high">جيا</supplied>د عن معجّل صداقها وحازت وأبرت زوجها جبريل بن جعفر 
+<lb n="5"/>  من هاذين الدّينارين براه قبض واستيفا وذلك في رجب من سنة سبع وتسعين ومائتن شهد على ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>nusiḫat 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>šahida man ʾaṯbata šahādata hu fī ʾāḫiri hāḏā hāḏihi ăl barāʾaẗi ʿalà ʾiqrāri ʾummi ʿa** zawǧaẗi ǧibrīla bni ǧaʿfara ăl ǧaddiyyi ǧuddiyyi ʾanna hā 
+ <lb n="4"/>qabaḍat min zawǧi hā ǧibrīla bni ǧaʿfara dīnārayni maṯāqīla ṭarī ǧiyād ʿan muʿaǧǧali ṣadāqi hā wa ḥāzat wa ʾabrat zawǧa hā ǧibrīla bna ǧaʿfara 
+ <lb n="5"/>min hāḏayni ăd dīnārayni barāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa ḏālika fī raǧab:in min sanaẗi sabʿ:in wa tisʿīna wa miʾatayni šahida ʿalà ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Co[pi]é.
+		[Copi]ed.
+			<lb n="2"/>
+		Au nom de Dieu clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		Ceux [qui ont apposé] leurs té[moig]nages à la fin de cette quittance de décharge ont [témoig]né qu&#039;Umm ʿA[...], femme de Ǧibrīl Ibn Ǧaʿfar al-Ǧuddī, a reconnu
+		[Tho]se who have s[et] their sig[na]tures at the end of this receipt [have been witnesses] to the acknowledgment by Umm ʿA[...], the wife of Ǧibrîl b. Ǧaʿfar, originating from Ǧudda, that she has
+			<lb n="4"/>
+		avoir reçu de son mari, Ǧibrīl Ibn Ǧaʿfar, deux dīnārs (pesés) en miṯqāl-s, [nouvel]lement monnayés et [excellen]ts, de la partie de sa dot payable immédiatement, (les avoir) possédés et acquitté son mari Ǧibrīl Ibn Ǧaʿfar
+		taken over from her husband, Ǧibrîl b. Ǧaʿfar, two dînârs miṯqâlî [newly minted, good pieces], from that which is immediately exigible of her nuptial gift, she has taken it into her possession, and has given a quittance to her husband, Ǧibrîl b. Ǧaʿfar,
+			<lb n="5"/>
+		de ces deux dīnārs, par le moyen d&#039;une quittance de libération attestant réception et perception intégrale, et ceci en raǧab de l&#039;année deux cent quatre-vingt-dix-sept. On a témoigné de cela.
+		for these two dînârs by means of a receipt, (acknowledging that she has) received and taken (them) over fully, and this in Raǧab of the year two hundred and ninety seven. (The following witnesses) have testified to it.
+</ab></div>
+</body>
+</text>
+</TEI>

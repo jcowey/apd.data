@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="48" xml:id="Heid_Arab_I_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106490</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  حق أمير ا]لمومپپن أصلحه وحفظه 
+<lb n="2"/>  اللّه ] بسپعحلن پحمل إلمال 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ḥaqq ʾamīri ăl muʾminīna ʾaṣlaḥa hu wa ḥafiẓa hu 
+ <lb n="2"/>ăl lāhu tastaʿǧilanna bi ḥamli ăl māli ʾilay hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		-- [Anspruch des Beherrschers de]r Gläubigen [Gott] gebe ihm Wohlsein und schütze ihn
+			<lb n="2"/>
+		-- fürwahr Du sollst eilends das Geld zu ihm schicken --
+</ab></div>
+</body>
+</text>
+</TEI>

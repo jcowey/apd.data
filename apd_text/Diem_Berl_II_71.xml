@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1584" xml:id="Diem_Berl_II_71" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 71</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_71</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169342</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  رقـ<supplied reason="lost" cert="high">ـعـ</supplied>ـتي إليك يا أخي والعزيز علي أطال <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقـ</supplied>ـاك وأدام عـ<supplied reason="lost" cert="high">ـزّ</supplied>ك <supplied reason="lost" cert="high">و</supplied>نعماك وقد كان خاطبك 
+<lb n="3"/>  أخي عبد العزيز على الدّينار وقد <supplied reason="lost" cert="high">بـ</supplied>ـطـ<supplied reason="lost" cert="high">ـو</supplied>پ عـ<supplied reason="lost" cert="high">ـنّـ</supplied>ـي كل الشّـ<supplied reason="lost" cert="high">ـهـ</supplied>ـر وقلت له يحضر أخوك ويأخذ ديناره 
+<lb n="4"/>  فساعة وقوفك على هذه الأحر<supplied reason="lost" cert="high">ف</supplied> تسلّم الدّينار إلى أخي أبو الوفا حنّاط 
+<lb n="5"/>  فعلـ<supplied reason="lost" cert="high">ـت</supplied> خدمة لا <unclear reason="undefined" cert="high">تـ</unclear><supplied reason="lost" cert="high">ـوحـ</supplied><unclear reason="undefined" cert="high">ـر</unclear> <supplied reason="lost" cert="high">ا</supplied><unclear reason="undefined" cert="high">لـ</unclear><supplied reason="lost" cert="high">ـدّ</supplied><unclear reason="undefined" cert="high">ينار</unclear> <gap reason="illegible" extent="7" unit="character" /> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أيـ</supplied>ـش </lem><rdg resp="APD">الخيش </rdg><rdg resp="APD">العيش</rdg></app> ما صار إلـ<supplied reason="lost" cert="high">ـيه</supplied> <unclear reason="undefined" cert="high">منـ</unclear>]<unclear reason="undefined" cert="high">ـه</unclear> فـ<supplied reason="lost" cert="high">ـقـ</supplied>ـد صار <supplied reason="lost" cert="high">إ</supplied>لي وتكتب 
+<lb n="6"/>  رقعة تعرّفني فيه <supplied reason="lost" cert="high">بـ</supplied>ـحقّي عـ<supplied reason="lost" cert="high">ـليك</supplied> فعلـ<supplied reason="lost" cert="high">ـت</supplied> اللّه اللّه لا توحر <supplied reason="lost" cert="high">الدّينا</supplied>ر إن شا اللّه 
+<lb n="7"/>  فالحاجة إليه ماسّة وتعرّفني بخبر<supplied reason="lost" cert="high">ك</supplied> <supplied reason="lost" cert="high">و</supplied>حاجتك فإنّي أسر بقضاهـ<supplied reason="lost" cert="high">ـا</supplied> إن شا اللّه 
+<lb n="8"/>  قرأت عليك السّلام حسبي <supplied reason="lost" cert="high">اللّـ</supplied>ـه ونعم الوكيل 
+<lb n="upper margin"/>  أخي العزيز علي منير غلام مولاي <supplied reason="lost" cert="high">أ</supplied>بو السّر مكتوم من حاتم بـ<supplied reason="lost" cert="high">ـن</supplied> عـ<supplied reason="lost" cert="high">ـبد</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ruqʿat ī ʾilay ka yā ʾaḫ ī wa ăl ʿazīza ʿalay ya ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa naʿmāʾa ka wa qad kāna ḫāṭaba ka 
+ <lb n="3"/>ʾaḫ ī ʿabdu ăl ʿazīzi ʿalà ăd dīnāri wa qad baṭuʾta ʿan nī kulla ăš šahri wa qulta la hu yaḥḍur ʾaḫū ka wa yaʾḫuḏ dīnāra hu 
+ <lb n="4"/>fa sāʿaẗa wuqūfi ka ʿalà hāḏihi ăl ʾaḥrufi tusallimi ăd dīnāra ʾilà ʾaḫ ī ʾabū ăl wafāʾi ḥannāṭa 
+ <lb n="5"/>faʿalta ḫidmaẗ:an lā tuʾaḫḫiri ăd dīnāra ******* ʾayš ăl ăl ø ḫayšu ʿayšu mā ṣāra ʾilay hi min hu fa qad ṣāra ʾilay ya wa taktub 
+ <lb n="6"/>ruqʿaẗ:an tuʿarrif nī fī hi bi ḥaqq ī ʿalay ka faʿalta ăl lāhu ăl lāhu lā tuʾaḫḫiri ăd dīnāra ʾin šāʾa ăl lāhu 
+ <lb n="7"/>fa ăl ḥāǧaẗu ʾilay hi māssaẗ:un wa tuʿarrif nī bi ḫabari ka wa ḥāǧati ka fa ʾin nī ʾusarru bi qaḍā hā ʾin šāʾa ăl lāhu 
+ <lb n="8"/>qaraʾtu ʿalay ka ăs salāma ḥasb iya ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="9"/>ʾaḫ ī ăl ʿazīzu ʿalay ya munīr:un ġulāmu mawlā ya ʾabū ăs sirri maktūm:in min ḥātimi bni ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Mein Brief geht an Dich, o Bruder und Teurer - Gott lasse Dich lange leben und möge Dir weiterhin Ansehen und Wohlbefinden geben -, nachdem Dich
+			<lb n="3"/>
+		mein Bruder ʿAbdalʿazīz bereits auf den (bewußten) Dinar hin angesprochen hat, (dies), \nachdem/ Du \mir gegenüber einen ganzen Monat/ im Rückstand bist und Du zu ihm gesagt hast: &#034;Dein Bruder soll kommen und seinen Dinar in Empfang nehmen!&#034;
+			<lb n="4"/>
+		Händige also bitte sofort, wenn Du diese Zeilen liest, den Dinar meinem Bruder Abū l-Wafāʾ Ḥannāṭ aus,
+			<lb n="5"/>
+		(dies) als Dienst (Deinerseits)! Verzögere (?) (die Übergabe) des Dinars (?) nicht - - - - [- - - wa]s auch immer er hiervon (?) erhält, habe ich (gewissermaßen) erhalten - und schreibe (mir sodann)
+			<lb n="6"/>
+		bitte, bei meinem Anspruch geg[en Dich], einen Brief, um mir darüber Mitteilung zu machen! Bei Gott (und abermals bei) Gott: Verzögere nicht (die Übergabe) [des Dina]rs, so Gott will,
+			<lb n="7"/>
+		denn er wird dringend benötigt. Teile mir ferner die Dich betreffenden Neuigkeiten und Deine Anliegen mit, denn ich freue mich, wenn ich sie (für Dich) erledigen kann, so Gott will.
+			<lb n="8"/>
+		Ich grüße Dich.  Mein Genüge ist Gott; er ist der beste Sachwalter.
+			<lb n="9"/>
+		(An) meinen teuren Bruder Munīr, Bursche meines Gebieters [A]bū s-Sirr Maktūm, von Ḥātim ib[n] ʿA[bdallā]h.
+</ab></div>
+</body>
+</text>
+</TEI>

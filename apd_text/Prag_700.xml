@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1761" xml:id="Prag_700" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 70</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_700</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169502</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  عبد الأحد وأحمد بن حجّاج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بن تنوس بن عمر ذكير الحار<supplied reason="lost" cert="high">س</supplied> 
+<lb n="3"/>  ‮ببنودة ‮‪οβ‬ ميمون ‮‪ρν‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮قلتة ‮‪ρξη‬ بلبة ‮‪<supplied reason="lost" cert="high">ρ‪</supplied>‬δ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮يرد محمّد ‮‪υϛ‬ الكتّان الّتي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  محمّد البوصيري ثيدر 
+<lb n="7"/>  بن حنين أبو الحارث عبد اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> ا<gap reason="illegible" precision="low" extent="3"/> بن شجا<supplied reason="lost" cert="high">ع</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿabdu ăl ʾaḥadi wa ʾaḥmadu bnu ḥaǧǧāǧ:in *** 
+ <lb n="2"/>bni tanūsa bni ʿumara ḏukayr:unu ăl ḥārisu 
+ <lb n="3"/>babnūdaẗu 72 maymūn:un 150 *** 
+ <lb n="4"/>qultaẗu 168 balbaẗu 104 *** 
+ <lb n="5"/>yaruddu muḥammad:un 406 ăl kattānu ăllatī *** 
+ <lb n="6"/>muḥammad:unu ăl būṣīriyyu ṯiyuduru 
+ <lb n="7"/>bnu ḥunayn:in ʾabū ăl ḥāriṯi ʿabdu ăl lāhi *** 
+ <lb n="8"/>*** ʾ*** bnu šuǧāʿa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		ʿAbd al-Aḥad und Aḥmad b. Ḥaǧǧāǧ ...[
+			<lb n="2"/>
+		b. Tanōs, ibn ʿOmar, Ḏukair, der Wäch[ter
+			<lb n="3"/>
+		Papnute 72, Maimūn 150 [
+			<lb n="4"/>
+		Qolte 168, Balbe [10]4 [
+			<lb n="5"/>
+		Muḥammad gibt zurück 406, der Flachs, der [
+			<lb n="6"/>
+		Muḥammad aus Būṣīr, Theodor [
+			<lb n="7"/>
+		b. Ḥunain, Abuʾl-Ḥāriṯ, ʿAbdallāh [
+			<lb n="8"/>
+		[....]..[...] b. Šuǧā[ʿ
+</ab></div>
+</body>
+</text>
+</TEI>

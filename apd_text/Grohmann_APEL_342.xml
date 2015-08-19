@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1839" xml:id="Grohmann_APEL_342" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 342</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_342</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169576</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـيم 
+<lb n="2"/>  إلى صاحب <app type="BL"><lem resp="APD">السّوق </lem><rdg resp="Diem">المون</rdg></app> 
+<lb n="3"/>  فادفع إلى <app type="BL"><lem resp="APD">زبان </lem><rdg resp="APD">ربّان </rdg><rdg resp="APD">زبّان </rdg><rdg resp="APD">زبان </rdg><rdg resp="APD">زيّان</rdg></app> 
+<lb n="4"/>  ‮وأصحابه ‪ς‬ من الخل 
+<lb n="5"/>  ‮قسط ‪<supplied reason="lost" cert="high">α</supplied>χ‬ واحد ونصف 
+<lb n="6"/>  إن شا اللّه وكتب يوم 
+<lb n="7"/>  ‮‪ε‬ أمشير ‪ϰγ‬ 
+<lb n="8"/>  ‮من الخل قسط ‪αχ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾilà ṣāḥibi ăs ăl sūqi mawni 
+ <lb n="3"/>fa ĭdfaʿ ʾilà rabbāna rayyān zabbāna zayyāna zibāna 
+ <lb n="4"/>wa ʾaṣḥābi hi ‪6 mina ăl ḫalli 
+ <lb n="5"/>qisṭa ‪1 1/2 wāḥid wa niṣf 
+ <lb n="6"/>ʾin šāʾa ăl lāhu wa kutiba yawma 
+ <lb n="7"/>‮‪4 ʾamšīru ‪23 
+ <lb n="8"/>mina ăl ḫalli qisṭu ‪1 1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merci]ful.
+			<lb n="2"/>
+		An den Proviantverwalter
+		To the market inspector.
+			<lb n="3"/>
+		Hand over to Rayyân
+			<lb n="4"/>
+		and his 6 mates xestes [1]1/2
+			<lb n="5"/>
+		of vinegar, one and a half,
+			<lb n="6"/>
+		if God wills. Written on Thurs-
+			<lb n="7"/>
+		day, Amšîr 23rd.
+			<lb n="8"/>
+		Of vinegar: xestes 1 1/2.
+</ab></div>
+</body>
+</text>
+</TEI>

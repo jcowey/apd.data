@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2266" xml:id="Martinez_030" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MartinezRuizRecibos 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Martinez_030</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="upper margin"/>  ÷÷ 
+<lb n="1"/>  يدفع جرنمه السّبتني ولد جوان السّبتني عن دار 
+<lb n="2"/>  الشّمع متى الحلوي من شن غرغريه تسع وتسعون درهم ونصف 
+<lb n="3"/>  عمّا قسّط عليه في عام ÷÷÷÷ 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>9+9 
+ <lb n="2"/>yadfaʿu ǧirunimuhu ăs sabtiniyyu waladu ǧuwāna ăs sabtiniyyi ʿan dāri 
+ <lb n="3"/>ăš šamʿi matà ăl ḥalawiyyi min šan ġirġuryuha tisʿa wa tisʿūna dirham wa niṣf 
+ <lb n="4"/>ʿammā qussiṭa ʿalay hi fī ʿāmi 1549 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		9 pesantes y 9 dineros
+			<lb n="2"/>
+		Pague Gerónimo al-Sabtini, hijo de Juan al-Sabtini de la casa
+			<lb n="3"/>
+		de la cera de al-Ḥalawī de San Gregorio noventa y nueve dirhemes y medio,
+			<lb n="4"/>
+		que le corresponden del año 1549. [...]
+</ab></div>
+</body>
+</text>
+</TEI>

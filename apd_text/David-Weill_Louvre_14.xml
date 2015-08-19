@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1240" xml:id="David-Weill_Louvre_14" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 14 (= Chrest.Khoury I 07)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_14</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169076</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  شهد جعفر بن أحمد بن عبد <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الوارث</unclear> </lem><rdg resp="Khoury">المؤمن</rdg></app> على إقرار بنّان ابنت محمّد بن عبد الوارث أنّها وكّلت أحمد بن عبد الوارث 
+ <lb n="3"/>  عمّها بتزويجها من وهب بن الوزير وأجازت فعله ورضيت بما رضي من النّكاح 
+ <lb n="4"/>  فأزوجها أحمد بن عبد الوارث عمّها بأمرها ورضاها بعد أن أشهد عليها شاهدان 
+ <lb n="5"/>  وذلك في مستهل رمضان من سنة ستّة وخمسين ومائتين <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="6"/>  وشهد محمّد بن سعد <app type="BL"><lem resp="APD">الماري </lem><rdg resp="Khoury">المازنيّ</rdg></app> على إقرار بنّان ابنت محمّد بن عبد الوارث أنّها وكّلت 
+ <lb n="7"/>  عمّها أحمد بن عبد الوارث بزوجها من وهب بن الوزير وذلك في شهر رمضان سنة ست وخمسين ومائتين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ǧaʿfaru bnu ʾaḥmada bni ʿabdi ăl wāriṯi muʾmini ʿalà ʾiqrāri bannāna ĭbnati muḥammadi bni ʿabdi ăl wāriṯi ʾanna hā wakkalat ʾaḥmada bna ʿabdi ăl wāriṯi 
+ <lb n="3"/>ʿamma hā bi tazwīǧi hā min wahbi bni ăl wazīri wa ʾaǧāzat fiʿla hu wa raḍiyat bi mā raḍiya mina ăn nikāḥi 
+ <lb n="4"/>fa ʾazwaǧa hā ʾaḥmadu bnu ʿabdi ăl wāriṯi ʿammu hā bi ʾamri hā wa riḍā hā baʿda ʾan ʾašhada ʿalay hā šāhidāni 
+ <lb n="5"/>wa ḏālika fī mustahalli ramaḍāna min sanaẗi sittaẗ:in wa ḫamsīna wa miʾatayni * 
+ <lb n="6"/>wa šahida muḥammadu bnu saʿd:ini ăl māriyyu māziniyyu ʿalà ʾiqrāri bannāna ĭbnati muḥammadi bni ʿabdi ăl wāriṯi ʾanna hā wakkalat 
+ <lb n="7"/>ʿamma hā ʾaḥmada bna ʿabdi ăl wāriṯi bi zawāǧi hā min wahbi bni ăl wazīri wa ḏālika fī šahri ramaḍāna sanaẗa sitt:in wa ḫamsīna wa miʾatayni 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au no[m de Di]eu clément et miséricordieux!
+ 	  Au nom de Dieu clément, miséricordieux!
+ 	  Im Na[men Got]tes, des Barmherzigen, des Gütigen!
+		 <lb n="2"/>
+ 	  Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin bezeugte die Anerkennung von Bunān, Tochter des Muḥammad b. ʿAbd al-Wāriṯ, die als Muntwalt Aḥmad b. ʿAbd al-Wāriṯ ernannte,
+ 	  Ǧaʿfar Ibn Aḥmad Ibn ʿAbd al-Muʾmin a témoigné de la reconnaissance de Bunān, fille de Muḥammad Ibn ʿAbd al-Wāriṯ, qu’elle a désigné comme mandataire Aḥmad Ibn ʿAbd al-Wāriṯ,
+ 	  A témoigné Djaʿfar ibn Aḥmad (ibn ʿAbd al-Wārith) de la reconnaisance de Bannân ibnat Muḥammad ibn ʿAbd al-Wārith qu&#039;elle a pris pour représentant Aḥmad ibn ʿAbd al-Wārith,
+		 <lb n="3"/>
+ 	  ihren Onkel väterlicherseits, um sie mit Wahb b. al-Wazīr zu vermählen, die sein Handeln als gültig erklärte und die Ehe, die er (für sie) akzeptierte, (ebenfalls) akzeptierte.
+ 	  son oncle paternel, pour épouser Wahb ibn al-Wazīr et elle l&#039;a autorisé à agir et elle a été satisfaite de ce qui l&#039;a satisfait au sujet du mariage.
+ 	  son oncle paternel, pour la marier à Wahb Ibn al-Wazīr, qu’elle a déclaré son action comme valide et qu’elle a accepté le marriage que lui (= oncle) a accepté (pour elle).
+		 <lb n="4"/>
+ 	  Ainsi son oncle Aḥmad Ibn ʿAbd al-Wāriṯ l’a mariée, sur son ordre [et avec] son [con]sentement, après lui avoir pris deux personnes à témoins,
+ 	  Et Aḥmad ibn ʿAbd-al-Wārith son oncle paternel l&#039;a mariée selon son ordre et à sa satisfaction après que deux témoins eussent témoigné pour elle
+ 	  So verheiratete ihr Onkel Aḥmad b. ʿAbd al-Wāriṯ sie, nach ihrem Auftrag [und mit] ihrem [Ein]verständnis, nachdem zwei Personen für ihn Zeugnis abgelegt hatten,
+		 <lb n="5"/>
+ 	  am Anfang des Ramaḍān zweihundertsechsundfünfzig.
+ 	  au début de ramaḍān deux cent-cinquante six.
+ 	  et cela au début de ramadhan de l&#039;an 256 début d&#039;août 870.
+		 <lb n="6"/>
+ 	  A témoigné Muhammad ibn Saʿd al-Mārī de la reconnaissance par Bannân ibnat Muḥammad ibn ʿAbd al Wārith qu&#039;elle a pris pour représentant
+ 	  Muḥammad b. Saʿd al-Māzinī bezeugte die Anerkennung von Bunān, Tochter des Muḥammad b. ʿAbd al-Wāriṯ, zur Beauftragten
+ 	  Muḥammad Ibn Saʿd al-Māzinī e témiogné de la reconaissance de Bunān, fille de Muḥammad Ibn ʿAbd al-Wāriṯ, d’avoir chargé
+		 <lb n="7"/>
+ 	  ihres Onkels väterlicherseits Aḥmad b. ʿAbd al-Wāriṯ, sie mit Wahb b. al-Wazir zu vermählen, und die im Monat Ramaḍān des Jahres zweihundertsechsundfünfzig.
+ 	  son oncle paternel Aḥmad Ibn ʿAbd al-Wāriṯ de la marier à Wahb Ibn al-Wazīr, et ceci au mois de ramaḍān de l’an deux cent cinquante-six.
+ 	  son oncle paternel Aḥmad ibn ʿAbd al Wārith pour épouser Wahb ibn al-Wazīr et ceci au mois de ramadhan de l&#039;an 256/août 870.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

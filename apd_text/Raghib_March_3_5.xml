@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="610" xml:id="Raghib_March_3_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106729</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أكرمـ</supplied>ـك اللّه وحفظك وأتم نعمه عليك لم أقرأ لك 
+<lb n="3"/>  كتاب في هذه الجمعة فأسل اللّه أن يسترك وإيّانا بالعافية 
+<lb n="4"/>  أنا على اقتضا ما لك <unclear reason="undefined" cert="high">توّا</unclear> وموجّهـ<supplied reason="omitted" cert="high">ـه</supplied> إليك في هذه الجمعة وقد كنت 
+<lb n="5"/>  كتبت إليك بوصول الثّوبين والثّوب العـ<gap reason="illegible" precision="low" extent="3"/>ـا الّذي 
+<lb n="6"/>  صيّرت به إلي منذ الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> تولّا اللّه حفظك اعذر في القرطاس 
+<lb n="7"/>  فكتابي إليك على عجـ<supplied reason="lost" cert="high">ـلة</supplied> 
+<lb n="top 1 right"/>  لأبي هريرة أكرمه اللّه 
+<lb n="top 2 right"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="top 1 left"/>  من محمّد بن عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu wa ḥafiẓa ka wa ʾatamma niʿama hu ʿalay ka lam ʾaqraʾ la ka 
+ <lb n="3"/>kitāb fī hāḏihi ăl ǧumʿaẗi fa ʾasalu ăl lāha ʾan yastura ka wa ʾiyyā nā bi ăl ʿāfiyaẗi 
+ <lb n="4"/>ʾanā ʿalà ĭqtiḍāʾi mā la ka taww:an wa muwaǧǧihu hi ʾilay ka fī hāḏihi ăl ǧumʿaẗi wa qad kuntu 
+ <lb n="5"/>katabtu ʾilay ka bi wuṣūli ăṯ ṯawbayni wa ăṯ ṯawbi ăl ʿ***ʾ ăllaḏī 
+ <lb n="6"/>ṣayyarta bi hi ʾilay ya munḏu ăl *** tawallā ăl lāhu ḥifẓa ka ĭʿḏir fī ăl qirṭāsi 
+ <lb n="7"/>fa kitāb ī ʾilay ka ʿalà ʿaǧalaẗ:in 
+ <lb n="8"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu 
+ <lb n="9"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="10"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;[honore], te garde et parachève Ses bienfaits envers toi! Je n&#039;ai pas lu de toi
+			<lb n="3"/>
+		de lettre cette semaine. Je demande à Dieu qu&#039;Il te protège, ainsi que nous par la paix!
+			<lb n="4"/>
+		Je suis sur le point d&#039;obtenir le paiement de ce qui t&#039;est dû directement (?) et de te l&#039;adresser cette semaine. Je t&#039;ai
+			<lb n="5"/>
+		écrit que les deux pièces d&#039;étoffe me sont parvenues, ainsi que la pièce d&#039;étoffe .... que
+			<lb n="6"/>
+		tu m&#039;as expédiée depuis [....] Que Dieu te secoure en te gardant! Excuse le payprus,
+			<lb n="7"/>
+		car je t&#039;écris en hâte.
+			<lb n="8"/>
+		À Abū Hurayra - que Dieu l&#039;honore 
+			<lb n="9"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="10"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr
+</ab></div>
+</body>
+</text>
+</TEI>

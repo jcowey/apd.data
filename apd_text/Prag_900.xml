@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1829" xml:id="Prag_900" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 90</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_900</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169566</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  <unclear reason="undefined" cert="high">وپ</unclear> κγϛʹ‎ 
+ <lb n="recto 2"/>  <gap reason="illegible" extent="8" unit="character" /> وأبواب <supplied reason="lost" cert="high">شتّـ</supplied>ـى 
+ <lb n="recto 3"/>  الحراح σμθδʹ‎ <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="recto 4"/>  σν<unclear reason="undefined" cert="high">γ</unclear>ϛʹ‎ηʹ‎Χ <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="recto 5"/>  الحوالى ξεΧηʹ‎Χ 
+ <lb n="recto 6"/>  ξϛγʹ‎ <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="recto 7"/>  من ذلك 
+ <lb n="recto 8"/>  الحراح بالحمديّة σιη<unclear reason="undefined" cert="high">γʹ‎</unclear>δʹ‎ 
+ <lb n="recto 9"/>  σιη<unclear reason="undefined" cert="high">γʹ‎</unclear>ηʹ‎ <gap reason="illegible" extent="2" unit="character" /> Χ 
+ <lb n="recto 10"/>  عما من الضّيعة المعروفة بقلفاو ρΧ <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="recto 11"/>  ραΧ 
+ <lb n="recto 12"/>  <gap reason="illegible" extent="1" unit="character" />δʹ‎<gap reason="illegible" extent="1" unit="character" />ʹ‎ 
+ <lb n="verso"/>  عما من الضّيعة المعروفة بقلفـ]ـاو ρϙϛΧ<unclear reason="undefined" cert="high">γʹ‎ηʹ‎</unclear> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>wB 23+1/6 
+ <lb n="2"/>******** wa ʾabwāb:un šattà 
+ <lb n="3"/>ăl ḫarāǧu 249+1/4 ** 
+ <lb n="4"/>253+1/6+1/8+1/48 ** 
+ <lb n="5"/>ăl ǧawālī 65+1/2+1/8+1/48 
+ <lb n="6"/>66+1/3 ** 
+ <lb n="7"/>min ḏālika 
+ <lb n="8"/>ăl ḫarāǧu bi ăl ḥamadiyyaẗi ḥamdiyyaẗi 218+1/3+1/4 
+ <lb n="9"/>218+1/3+1/8 ** 1/48 
+ <lb n="10"/>ʿammā mina ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi qilfāw 100+1/48 ** 
+ <lb n="11"/>101+1/2 
+ <lb n="12"/>*+1/4+1/* 
+ <lb n="13"/>ʿammā mina ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi qilfāw 196+1/2+1/3+1/8 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  .. 23 1/6
+		 <lb n="2"/>
+ 	  ............... und [verschiedene] (Steuer)posten
+		 <lb n="3"/>
+ 	  Die Grundsteuer 249 1/4
+		 <lb n="4"/>
+ 	  253 1/6+1/8+1/48
+		 <lb n="5"/>
+ 	  Die Kopfsteuern 65 1/2+1/8+1/48
+		 <lb n="6"/>
+ 	  66 1/3
+		 <lb n="7"/>
+ 	  Hiervon:
+		 <lb n="8"/>
+ 	  die Grundsteuer in al-Ḥamadīya 218 1/3+1/4
+		 <lb n="9"/>
+ 	  218 1/3+1/8+1/48
+		 <lb n="10"/>
+ 	  Von dem, was aus der unter (dem Namen) Qilfāu bekannten Domäne (stammt) 100 1/48
+		 <lb n="11"/>
+ 	  101 1/2
+		 <lb n="12"/>
+ 	  . 1/4 [..]
+		 <lb n="13"/>
+ 	  [Von dem, was aus der unter (dem Namen] Qilf]āu [bekannten Domäne stammt,] 196 1/2+1/3+1/8
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

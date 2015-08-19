@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2333" xml:id="Delattre_Entagion" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.DelattreEntagion</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Delattre_Entagion</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">العزيز</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">مرون</supplied> <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">أهل</supplied> 
+ <lb n="3"/>  أقريوس مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">كورة</supplied> <supplied reason="lost" cert="high">أنصنى</supplied> <supplied reason="lost" cert="high">فأعطوا</supplied> <supplied reason="lost" cert="high">لنواتية</supplied> <supplied reason="lost" cert="high">سفن</supplied> <supplied reason="lost" cert="high">أمير</supplied> 
+ <lb n="4"/>  المومپپن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لجيـ<supplied reason="lost" cert="high">ـش</supplied> 
+ <lb n="6"/>  الشّام مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">نوتيّين</supplied> <supplied reason="lost" cert="high">ومعيشة</supplied> 
+ <lb n="8"/>  شهرين <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وثلث</supplied> 
+ <lb n="9"/>  <supplied reason="lost" cert="high">إ</supplied>ردب قـ<supplied reason="lost" cert="high">ـطنيّة</supplied> <supplied reason="lost" cert="high">وقسـ</supplied>ـطين زيت 
+ <lb n="10"/>  وقسطين خل ونصف <supplied reason="lost" cert="high">قسط</supplied> <supplied reason="lost" cert="high">وكتب</supplied> يزيد 
+ <lb n="11"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">ذ</supplied>ي الحجّة لسـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">أر</supplied>بع وسبعين 
+ <lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl ʿazīzi bni marwāna ăl ʾamīri ʾilà ʾahli 
+ <lb n="3"/>ʾaquryūsa min kūraẗi ʾanṣinà fa ʾaʿṭū li nawātiyaẗi sufuni ʾamīri 
+ <lb n="4"/>ăl muʾminīna *** *** 
+ <lb n="5"/>*** *** li ǧayši 
+ <lb n="6"/>ăš šāmi m** *** 
+ <lb n="7"/>****** **** nūtiyyayni wa maʿīšaẗa 
+ <lb n="8"/>šahrayni *** wa ṯulṯa 
+ <lb n="9"/>ʾirdabbi quṭniyyaẗ:in wa qisṭayni zayt:in 
+ <lb n="10"/>wa qisṭayni ḫall:in wa niṣfa qisṭ:in wa kataba yazīdu 
+ <lb n="11"/>fī šahri ḏī ăl ḥiǧǧaẗi li sanaẗi ʾarbaʿ:in wa sabʿīna 
+ <lb n="12"/>*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, le clément, le miséricordieux.
+		 <lb n="2"/>
+ 	  de la per de ʿAbd al-ʿAzīz ibn Marwān, le gouverneur, aux gens
+		 <lb n="3"/>
+ 	  d&#039;Aquryūs de la pagarchie d&#039;Antinoé: fournissez pour les marins des navires de l&#039;Émir
+		 <lb n="4"/>
+ 	  des Croyants ...
+		 <lb n="5"/>
+ 	  ... ... pour le cursus
+		 <lb n="6"/>
+ 	  du Levant ...
+		 <lb n="7"/>
+ 	  ... deux marins et les frais d&#039;entretien
+		 <lb n="8"/>
+ 	  pour deux mois ... un tiers
+		 <lb n="9"/>
+ 	  d&#039;artabe de légumes secs, deux xestes d&#039;huile,
+		 <lb n="10"/>
+ 	  deux xestes de vinaigre, un demi ... de salaison. Écrit par Yazīd,
+		 <lb n="11"/>
+ 	  au mois de ḏū al-ḥiǧǧa 74 h.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

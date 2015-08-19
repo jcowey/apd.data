@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="960" xml:id="Grohmann_World_p_186" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 186</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_186</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113709</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  لأبي الحسن عافاه اللّه وأمتع به وأعانه على ما ولّاه من أمور دنياه وآخرته وحفظه 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">و</supplied>أ<supplied reason="lost" cert="high">بقاه</supplied> <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نعمه</supplied> <supplied reason="lost" cert="high">عليـ</supplied>ـه في الدّنيا والآخرة حتّا مصيره إلى الجنّة برحمته 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> أ<supplied reason="lost" cert="high">صـ</supplied>ـلحك اللّه إنّي يتيم مسكين <supplied reason="lost" cert="high">فـ</supplied>ـدنت إلى اللّه وإليك أسألك 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> وما لي أحد إلّا اللّه وأنت يسيّدي وأنّه يوم توفّي والدي كنت 
+<lb n="recto 6"/>  أنا صبي صغير ومات والدي وله أربعة دننر كانوا على إلياس 
+<lb n="recto 7"/>  وبـ<supplied reason="lost" cert="high">ـها</supplied> سبب لي فذهب سببي فأخذ الأربعة دننير من تلك 
+<lb n="recto 8"/>  <supplied reason="lost" cert="high">الفلو</supplied>س ولم يدفع إلي منها فلس لا أبا لا <app type="BL"><lem resp="APD">والدي </lem><rdg resp="“Hopkins, Grammar p. 151”">والد</rdg></app> لي وأنا إنسان مسكين 
+<lb n="recto 9"/>  <supplied reason="lost" cert="high">كلّها</supplied>  على <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كلّها</supplied> 
+<lb n="recto 10"/>  ولـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپن وأسلم ولـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپن وأسلم أن لا إله إلّا اللّه وأنت 
+<lb n="recto 11"/>  آمر به يسيّدي وأرسل إلى ذاك الرّجل الّذي أخذ مـ<supplied reason="lost" cert="high">ـنـ</supplied>ـه الأربعة دننير 
+<lb n="recto 12"/>  اسئله حتّا تعرف القف من ذلك أسئل اللّه لك حياة طيّبة 
+<lb n="recto 13"/>  وا<supplied reason="lost" cert="high">لسّلـ</supplied>ـم عليك <supplied reason="lost" cert="high">ورحـ</supplied>ـمت اللّه وبركاته 
+<lb n="verso 1"/>  للأمير أصلحه اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li ʾabī ăl ḥasani ʿāfā hu ăl lāhu wa ʾamtaʿa bi hi wa ʾaʿāna hu ʿalà mā wallā hu min ʾumūri dunyā hu wa ʾāḫirati hi wa ḥafiẓa hu 
+ <lb n="3"/>wa ʾabqā hu wa ʾatamma niʿama hu ʿalay hi fī ăd dunyā wa ăl ʾāḫiraẗi ḥattā maṣīri hi ʾilà ăl ǧannaẗi bi raḥmati hi 
+ <lb n="4"/>*** ʾaṣlaḥa ka ăl lāhu ʾin nī yatīm:un miskīn:un fa danattu ʾilà ăl lāhi wa ʾilay ka ʾasʾalu ka 
+ <lb n="5"/>*** wa mā l ī ʾaḥad:un ʾillā ăl lāhu wa ʾanta yā sayyid ī wa ʾanna hu yawma tuwuffiya wālid ī kuntu 
+ <lb n="6"/>ʾanā ṣabī ṣaġīr wa māta wālid ī wa la hu ʾarbaʿaẗu danānīra kānū ʿalà ʾilyāsa 
+ <lb n="7"/>wa bi hā sabab:un l ī fa ḏahaba sabab ī fa ʾaḫaḏa ăl ʾarbaʿaẗa danānīra min tilka 
+ <lb n="8"/>ăl fulūsi wa lam yadfaʿ ʾilay ya min hā fils lā ʾabā lā wālid wālida ī ø l ī wa ʾanā ʾinsān:un miskīn:un 
+ <lb n="9"/>*** ăllaḏī ʿalà *** kulli hā 
+ <lb n="10"/>*** ḥrʾ wa l **Bn wa ʾuslimu ʾanna lā ʾilāha ʾillā ăl lāhu wa ʾanta 
+ <lb n="11"/>ʾāmir:un bi hi yā sayyid ī wa ʾarsil ʾilà ḏāka ăr raǧuli ăllaḏī ʾaḫaḏa min hu ăl ʾarbaʿaẗa danānīra 
+ <lb n="12"/>ĭsʾal hu ḥattā taʿrifa ăl ḥaqqa min ḏālika ʾasʾalu ăl lāha la ka ḥayāẗ:an ṭayyibaẗ:an 
+ <lb n="13"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="14"/>li l ʾamīri ʾaṣlaḥa hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		An Abû-l-Hasan ...
+		To Abu&#039;l-Ḥasan - may God give him health - and may He cause us to profit by him, and may He help him respecting that, which he has to administer of the affairs of this His world and His world to come, and may He preserve him
+			<lb n="3"/>
+		[and] pro[long his life and may He fulfil His loving kindness upon] him in this world and the world to come, until his entrance into the paradise through His mercy
+			<lb n="4"/>
+		[...] may God p[ro]sper thee. Verily I am a poor orphan, [tri]fling before God and before thee, I ask thee
+			<lb n="5"/>
+		[...] and I have nobody but God and thee, o my lord. Verily on the day, on which my father passed away,
+		... Ich habe Niemanden (auf dieser Welt) außer Gott und Dich, o mein Herr! Heute starb mein Vater,
+			<lb n="6"/>
+		I was a little boy; and when my father died, there were four dînârs to his credit, to the debit of Elias,
+		während ich ein kleiner Knabe bin. Und als mein Vater starb, hatter er vier Dînâre (Goldstücke), die oberhalb der beiden Türen aufbewahrt waren ......
+			<lb n="7"/>
+		Da kam der Samba und nahm diese vier Dînâre von jenem
+		whereby he made a means of sustenance for me. But my (means of) sustenance has vanished; for he took away the four dînârs from this
+			<lb n="8"/>
+		... I have no father, no parent ...
+		[money] and has not paid a penny (fals) thereof to me. I have no father, no parents, and I am a poor man
+		Orte weg und gab mir gar nichts davon. Nun habe ich keinen Vater, keine Eltern mehr und bin ein armer Mensch.
+			<lb n="9"/>
+		[............] which is on [......] entirely
+			<lb n="10"/>
+		[......] ...... and ......, and I confess that there is no god but God, and thou art he
+			<lb n="11"/>
+		Bitte, befiehl daher, o mein Herr, und sende zu jenem Manne, der die vier Dînâre von jenem Orte genommen hat,
+		who orders it, o my lord, and send to that man, who has taken away the four dînârs fr[o]m him (i.e. from my father);
+			<lb n="12"/>
+		ask him, so that thou mightest know the truth thereof. I pray God to grant thee a good life.
+		auf daß er dieserwegen Recht und Wahrheit anerkenne. Ich flehe zu Gott für Dich um ein langes Leben,
+			<lb n="13"/>
+		And h[ai]l unto thee [and mer]cy of God.
+		sowie um seine Segnungen!
+			<lb n="14"/>
+		An den Statthalter, dem Gott Wohlthaten erweisen möge!
+		To the Amîr, may God prosper him
+</ab></div>
+</body>
+</text>
+</TEI>

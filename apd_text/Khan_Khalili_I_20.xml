@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1499" xml:id="Khan_Khalili_I_20" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 20 recto (= P.Khalili II 73 recto)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_20</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169275</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <app type="BL"><lem resp="APD">والـ<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">والسّكنكبين</rdg></app> والورد <app type="BL"><lem resp="APD">المردا </lem><rdg resp="Diem">المربّا</rdg></app> وذكرت <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أمر</rdg></app> الكباش وأن ليس فيها 
+ <lb n="2"/>  شي <app type="BL"><lem resp="APD">وكيف </lem><rdg resp="Diem">فكيف</rdg></app> تجد الكباش تأكّل ومعها ألف رأس تعتلف 
+ <lb n="3"/>  لا أهل القرية وغيرهم فكيف تجدوا فيها خروف سمين والتّبّان 
+ <lb n="4"/>  فقد اشترا من أهل القرية أربع مراكب تبن ولا تطلق له منهم شي إلّا 
+ <lb n="5"/>  بأ<sic n="superfluous">ا</sic>مري وبـكتابي وقد سألني ذالك وقال قد خرج عمل التّبن وما عندي منه <app type="BL"><lem resp="APD">خبر </lem><rdg resp="APD">خير</rdg></app> 
+ <lb n="6"/>  وقد عرّفتك <app type="BL"><lem resp="APD">وعلّمتك </lem><rdg resp="Diem">وأعلمتك</rdg></app> أن القمح نافق بأربعين ولو <app type="BL"><lem resp="APD">لم </lem><rdg resp="Diem">تركونا</rdg></app> يكون <app type="BL"><lem resp="APD">البغشا </lem><rdg resp="Diem">لبعنا</rdg></app> بخمسة 
+ <lb n="7"/>  وأربعين <app type="BL"><lem resp="APD">والجلبان </lem><rdg resp="APD">والجلبان</rdg></app> بسبعة وعشرين <unclear reason="undefined" cert="high">ولم</unclear> تعرّفني ما بقي من الأرض 
+ <lb n="8"/>  نقيت ولا ما نقي وأنا أعلم أنّك غير مقصّر وقد وصل الجدي 
+ <lb n="9"/>  ولم تذكر لي أن الكباش ولدت أم لا قرأت عليكم <app type="BL"><lem resp="APD">أمّي </lem><rdg resp="Diem">منّي</rdg></app> أكثر السّلم 
+ <lb n="10"/>  وقد خرج الرّجل إلى <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">بغداد</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ادفع</unclear> </lem><rdg resp="Diem">فغمّنا</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">منه</unclear> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">إن </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">شا </lem><rdg resp="Diem">شأنه</rdg></app> اللّه <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أطال</rdg></app> اللّه 
+ <lb n="margin"/>  <gap reason="illegible" precision="low" extent="3"/> بقيراط ونصف وكرهت <app type="BL"><lem resp="APD">أخبر </lem><rdg resp="Diem">أن</rdg></app> <app type="BL"><lem resp="APD">أكلّم </lem><rdg resp="Diem">أحبس</rdg></app> الحارس <app type="BL"><lem resp="APD">مجرا </lem><rdg resp="Diem÷ assuming if the scribe wrote one alif to much at the next word">عن</rdg></app> النّقل وأنا أوخّه إليكم 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>wa ăl ăs *** sikankabīn wa ăl ward wurd ăl mardāʾ murabbā wa ḏakarta *** ʾamra ăl kibāš kibāši wa ʾan laysa fī hā 
+ <lb n="2"/>šayʾ:un wa fa kayfa taǧidu ăl kibāšu taʾakkul wa maʿa hā ʾalfu raʾs:in taʿtalifu 
+ <lb n="3"/>lā ʾahlu ăl qaryaẗi wa ġayru hum fa kayfa taǧidū fī hā ḫarūf samīn wa ăt tabbānu 
+ <lb n="4"/>fa qad ĭštarā min ʾahli ăl qaryaẗi ʾarbaʿa marākibi tibn:in wa lā tuṭliqa la hu min hum šayʾ ʾillā 
+ <lb n="5"/>bi ʾamr ī wa bi kitāb ī wa qad saʾala nī ḏālika wa qāla qad ḫaraǧa ʿamalu ăt tibni wa mā ʿind ī min hu ḫabara ḫayra 
+ <lb n="6"/>wa qad ʿarraftu ka wa ʾaʿlamtu ʿallamtu ka ʾanna ăl qamḥa nāfiq:un bi ʾarbaʿīna wa law lam tarakū ø nā yakūn ăl la baġšā biʿnā bi ḫamsaẗ:in 
+ <lb n="7"/>wa ʾarbaʿīna wa ăl ǧilbānu ǧilibbānu ǧulabānu ǧulbānu ǧulubbānu bi sabʿaẗ:in wa ʿišrīna wa lam tuʿarrif nī mā baqiya mina ăl ʾarḍi 
+ <lb n="8"/>naqiyat wa lā mā naqiya wa ʾanā ʾaʿlamu ʾanna ka ġayru muqaṣṣir:in wa qad waṣala ăl ǧadyu 
+ <lb n="9"/>wa lam taḏkur l ī ʾanna ăl kibāša waladat ʾam lā qaraʾat qaraʾtu ʿalay kum ʾumm minn ī ʾakṯara ăs salāmi 
+ <lb n="10"/>wa qad ḫaraǧa ăr raǧulu ʾilà *** baġdāda ĭdfaʿ fa ø ġamma ø nā min ø hu ø ʾin ø šāʾa šaʾna ø hu ăl lāhu *** ʾaṭāla ăl lāhu 
+ <lb n="11"/>*** bi qīrāṭ:in wa niṣf:in wa karihtu ʾuḫbiru ʾan ʾukallimu ʾaḥbisa ăl ḥārisa maǧrā ʿani ăn naqli wa ʾanā ʾuwaǧǧihu ʾilay kum 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ... bays without fetlocks. You mentioned ... the sheep and that there is not a good one among them.
+ 	  ... the horses without fetlocks. You mentioned... the sheep and that there is not a good one among them.
+ 	  und das Oxymel (Sauerhonig) und die Rosenkonfitüre...
+		 <lb n="2"/>
+ 	  How can the sheep find food when there are thousand of them requiring fodder.
+		 <lb n="3"/>
+ 	  The people, both of the village and from outside (cannot find food), so how do you expect to find a fat lamb among them. The straw dealer
+		 <lb n="4"/>
+ 	  has bought four boat loads of straw from the people of the village. Do not permit him to buy anything from them except
+		 <lb n="5"/>
+ 	  with my written authority. He asked me about this and said that the account for the straw had been sent, but we have no knowledge of it.
+		 <lb n="6"/>
+ 	  und wenn man uns gelassen hätte, hätten wir (ihn) für 45 verkaufen können.
+ 	  We have informed you that the wheat is selling at forty (waybas per dīnār) and if it were not for the rain (it would have sold) at forty five.
+		 <lb n="7"/>
+ 	  Vetch (is selling) at twenty seven (waybas per dīnār). You have not let me know what land remains
+		 <lb n="8"/>
+ 	  neither the (land which is) cultivable nor (that which is) uncultivable. I know that you are not remiss. The kid has arrived.
+		 <lb n="9"/>
+ 	  You did not mention to me whether the sheep have given birth or not. My mother sends you her best wishes.
+		 <lb n="10"/>
+ 	  Der (bewußte) Mann ist nach Baġdād abgereist; die Sache mit ihm tat uns leid - Gott [schütze ihn]
+ 	  The courier has gone out to... God willing...
+		 <lb n="11"/>
+ 	  [   ] for a qīrāṭ and a half. I do not wish to speak to the guard informing him about the way of transport. I will send to you...
+ 	  [   ] for a qīrāṭ and a half. I do not wish to speak to the guard informing him of the course to be taken. I will send to you...
+ 	  ... Ich wollte den Wächter nicht aufhalten...
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

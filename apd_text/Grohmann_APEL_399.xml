@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1958" xml:id="Grohmann_APEL_399" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 399</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_399</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169690</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">يوم</supplied> <supplied reason="lost" cert="high">الأحد</supplied> <supplied reason="lost" cert="high">لتسع</supplied> <supplied reason="lost" cert="high">خلـ</supplied>ـون <supplied reason="lost" cert="high">مـ</supplied>ـنه <supplied reason="lost" cert="high">خـ</supplied>ـمسة عشر <supplied reason="lost" cert="high">أبلوجة</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">يوم</supplied> <supplied reason="lost" cert="high">الا</supplied>ثنين لعشر خلون منه خمسة عشر أبلوجـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="3"/>  يوم الثّلثا لإحدى عشر خلون منه عشرة أباليج 
+<lb n="4"/>  سمويل بن هلياس يوم الأربعا لاثنا عشر خلون منه ستّة عشر أبلوجة 
+<lb n="5"/>  الخميس لثلث عشر خلون منه خمسة عشر <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ستّة</rdg></app> أبلوجة 
+<lb n="6"/>  الجمعة ورثة متوس لأربع عشر خلون منه ثلثة عشر أبلوجة 
+<lb n="7"/>  السّبت لخمس عشر خلون منه ثلثة عشر أبلوجة 
+<lb n="8"/>  محمّد السّلموني يوم <sic n="superfluous">الاپپپن</sic> الأحد لست عشر خلون منه حد عشر أ<supplied reason="lost" cert="high">بـ</supplied>ـلـ<supplied reason="lost" cert="high">ـوجة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawma ăl ʾaḥadi li tisʿ:in ḫalawna min hu ḫamsaẗa ʿašara ʾublūǧaẗ:an 
+ <lb n="2"/>yawma ăli ĭṯnayni li ʿašr:in ḫalawna min hu ḫamsaẗa ʿašara ʾublūǧaẗ:an 
+ <lb n="3"/>yawma ăṯ ṯulāṯāʾi li ʾiḥdà ʿašara ḫalawna min hu ʿašaraẗu ʾabālīǧa 
+ <lb n="4"/>samawīlu bnu hilyāsa yawma ăl ʾarbaʿāʾi li ĭṯnā ʿašara ḫalawna min hu sittaẗa ʿašara ʾublūǧaẗ:an 
+ <lb n="5"/>ăl ḫamīsa li ṯalāṯa ʿašara ḫalawna min hu ḫamsaẗa ʿašara *** sittaẗu ʾublūǧaẗ:an 
+ <lb n="6"/>ăl ǧumʿaẗa waraṯaẗu matawusa li ʾarbaʿa ʿašara ḫalawna min hu ṯalāṯaẗa ʿašara ʾublūǧaẗ:an 
+ <lb n="7"/>ăs sabta li ḫamsa ʿašara ḫalawna min hu ṯalāṯaẗa ʿašara ʾublūǧaẗ:an 
+ <lb n="8"/>muḥammad:un ăs salamūniyyu yawma ăl ʾaḥadi li sitta ʿašara ḫalawna min hu ḥadu ʿašara ʾublūǧaẗ:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[(on) Sunday, when nine (nights) had passed there]of, [fi]fteen [sugar-loaves];
+			<lb n="2"/>
+		[(on) Mon]day, when ten (nights) had passed thereof, fifteen sugar-loav[es];
+			<lb n="3"/>
+		on Tuesday, when eleven (nights) had passed thereof, ten sugar-loaves;
+			<lb n="4"/>
+		Samawîl b. Helias, (on) Wednesday, when twelve (nights) had passed thereof, sixteen sugar-loaves;
+			<lb n="5"/>
+		(on) Thursday, when thirteen (nights) had passed thereof, fifteen 〚six〛 sugar-loaves;
+			<lb n="6"/>
+		(on) Friday, the heirs of Matawus, when fourteen (nights) had passed thereof, thirteen sugar-loaves;
+			<lb n="7"/>
+		(on Saturday), when fifteen (nights) had passed thereof, thirteen sugar-loaves;
+			<lb n="8"/>
+		Muḥammad, originating from Salamûn, (on) Sunday, when sixteen (nights) had passed thereof, eleven sugar-l[o]a[ves]
+</ab></div>
+</body>
+</text>
+</TEI>

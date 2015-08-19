@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1272" xml:id="David-WeillCahen_Louvre_25" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 25</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_25</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169097</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">يو</supplied>نس أبي نيزك <unclear reason="undefined" cert="high">الوليد</unclear> و<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  عند<supplied reason="lost" cert="high">كم</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">محدمكم</supplied> </lem><rdg resp="“UB”">مخدّمكم</rdg></app> فليـ<supplied reason="lost" cert="high">ـكـ</supplied>ـتب إلى سعيد أمير 
+ <lb n="3"/>  الإسكندريّة بقضاه فيقضي بيني وبين شدّاد <supplied reason="omitted" cert="high">بن</supplied> 
+ <lb n="4"/>  سعيد في ذلك عن نحو قضا يونس في 
+ <lb n="5"/>  <app type="BL"><lem resp="APD">الأمّة </lem><rdg resp="“UB”">الأمة</rdg></app> إن كان حبسها يونس عنكم وإن 
+ <lb n="6"/>  كانت <app type="BL"><lem resp="APD">الأمّة </lem><rdg resp="“UB”">الأمة</rdg></app> عندك فاصلح إليها ولا 
+ <lb n="7"/>  يعترض لها أحد حتّى أقدم وأعلم <sic n="superfluous">علمها</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">عملها</supplied> </lem><rdg resp="APD">علمها</rdg></app> فأحضـ<supplied reason="lost" cert="high">ـر</supplied> 
+ <lb n="8"/>  <app type="BL"><lem resp="APD">صحبتها </lem><rdg resp="LR">صحبها</rdg></app> أنا بعد أن نحضرا جميعا عند يونس 
+ <lb n="9"/>  والسّلم عليك ورحمت اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>yūnus ʾabī nīzaka ăl walīd wa *** 
+ <lb n="2"/>ʿinda kum mḥdmu muḫaddimu kum fa l yaktub ʾilà saʿīd:in ʾamīri 
+ <lb n="3"/>ăl ʾiskandariyyaẗi bi qaḍā hu fa yaqḍī bayn ī wa bayna šaddādi bni 
+ <lb n="4"/>saʿīd:in fī ḏālika ʿan naḥwi qaḍā yūnusa fī 
+ <lb n="5"/>ăl ʾamaẗi ʾummaẗi ʾin kāna ḥabasa hā yūnusu ʿan kum wa ʾin 
+ <lb n="6"/>kānati ăl ʾamaẗu ʾummaẗu ʿinda ka fa ŭṣluḥ ʾilay hā wa lā 
+ <lb n="7"/>yaʿtariḍ la hā ʾaḥad:un ḥattà ʾaqdama wa ʾaʿlama ʿamala ʿilma hā fa ʾaḥḍura 
+ <lb n="8"/>ṣuḥbata ṣāḥiba hā ʾanā baʿda ʾan naḥḍura ǧamīʿ:an ʿinda yūnusa 
+ <lb n="9"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ..... Yū)nus abu Nīzak al-Walīd (?) et ......
+		 <lb n="2"/>
+ 	  ..... et qu&#039;il écrive à Saʿīd émir
+		 <lb n="3"/>
+ 	  d&#039;Alexandrie au sujet de son jugement et Saʿīd jugera entre moi et entre Shaddād (b.)
+		 <lb n="4"/>
+ 	  Saʿīd à ce sujet par rapport à la décision de Yūnus concernant
+		 <lb n="5"/>
+ 	  la mère si Yūnus la retient prisonnière loin de vous, et si
+		 <lb n="6"/>
+ 	  elle es auprès de toi, traite-la bien et que personne
+		 <lb n="7"/>
+ 	  ne lui cherche noise jusque ce que j&#039;arrive, que j&#039;apprenne son affaire et me présente
+		 <lb n="8"/>
+ 	  avec elle, moi après que nous aurons été ensemble auprès de Yūnus.
+		 <lb n="9"/>
+ 	  Salut à toi et miséricorde de Dieu.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

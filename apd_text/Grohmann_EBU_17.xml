@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="710" xml:id="Grohmann_EBU_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106791</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  دينر 
+<lb n="2"/>  ‮بسم اللّه الرّحمن الرّحيم ‪θ‬ 
+<lb n="3"/>  قبضت من الحسين بن علي الفيّومي عن ثمن الزّيتون لسنة <app type="BL"><lem resp="APD">اثنين </lem><rdg resp="Diem">اثنتين</rdg></app> وأربعين وثلثمائة تسعة 
+<lb n="4"/>  دنانير معسول وأبرأته منها وكتب <app type="BL"><lem resp="APD">سالم </lem><rdg resp="Diem">يحنّس</rdg></app> بن مونس بن <app type="BL"><lem resp="APD">ثور </lem><rdg resp="Diem">ثيدر</rdg></app> بخطّه 
+<lb n="5"/>  حسبي ثقتي باللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dīnār:un 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 9 
+ <lb n="3"/>qabaḍtu mina ăl ḥusayni bni ʿaliyy:ini ăl fayyūmiyyi ʿan ṯamani ăz zaytūni li sanaẗi ĭṯnayni ĭṯnatayni wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in tisʿaẗa 
+ <lb n="4"/>danānīra maʿsūl:in wa ʾabraʾtu hu min hā wa kataba sālimu yuḥannisu bnu mūnisi bni ṯawr:in ṯiyudura bi ḫaṭṭi hi 
+ <lb n="5"/>ḥasb ī ṯiqat ī bi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Dīnār
+			<lb n="2"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!  9
+			<lb n="3"/>
+		Ich habe von al-Ḥusain b. ʿAlī aus dem Fayyūm aus dem Kaufpreise der Oliven für das Jahr dreihundertzweiundvierzig neun
+			<lb n="4"/>
+		richtige Dīnāre empfangen und ich habe ihn davon entlastet. Und es schrieb (es) Sālim b. Mūnis b. Ṯaur mit seinem Schriftzuge.
+			<lb n="5"/>
+		Mein Genüge ist mein Vertrauen auf Gott!
+</ab></div>
+</body>
+</text>
+</TEI>

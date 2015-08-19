@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2048" xml:id="Diem_Privatbriefe_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemPrivatbriefe 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Privatbriefe_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  اللّه المستعان 
+<lb n="right margin"/>  المملوك محمّد بن يحيي 
+<lb n="2"/>  يا سيّدنا جمال الدّين عبد اللّه أحسن 
+<lb n="3"/>  إليك تحضر نجتمع في عنده 
+<lb n="4"/>  للغدى ومنزلك قريب من منزله 
+<lb n="5"/>  وتحضر صحبة مبارك ونحن منتظرين 
+<lb n="6"/>  حضورك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl lāhu ăl mustaʿānu 
+ <lb n="2"/>ăl mamlūku muḥammadu bnu yaḥyà 
+ <lb n="3"/>yā sayyida nā ǧamālu ăd dīni ʿabdu ăl lāhi ʾaḥsana 
+ <lb n="4"/>ʾilay ka taḥḍuru naǧtamiʿu fī ʿindi hi 
+ <lb n="5"/>li l ġadà wa manzilu ka qarīb:un min manzili hi 
+ <lb n="6"/>wa taḥḍur ṣuḥbaẗa mubārak:in wa naḥnu muntaẓirīna 
+ <lb n="7"/>ḥuḍūra ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Gott ist der, den man um Hilfe bittet.
+			<lb n="2"/>
+		Der Sklave Muḥammad b. Yaḥyā.
+			<lb n="3"/>
+		Oh unser Herr! Ǧamāladdīn ʿAbdallāh erweist
+			<lb n="4"/>
+		Dir die Freundlichkeit, daß Du kommst, damit wir uns bei ihm
+			<lb n="5"/>
+		zum Frühstück treffen. Dein Haus liegt in der Nähe seines Hauses.
+			<lb n="6"/>
+		Komme zusammen mit Mubārak! Wir warten auf
+			<lb n="7"/>
+		Dein Kommen.
+</ab></div>
+</body>
+</text>
+</TEI>

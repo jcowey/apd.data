@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1690" xml:id="Fahmi_090" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.FahmiTaaqud 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Fahmi_090</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169440</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى مينا بن سوط البنّا من قزمان بن بقطر بن سويرس من سكّان ططون من كـ<supplied reason="lost" cert="high">ـورة</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">الفيّوم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">اشترى</rdg></app> 
+<lb n="3"/>  منه حصّته من الغرفة المشاع بينه وسوط بن أبيمة مع علوه وهو الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  بحدّهما وحدودهما وعلوهما بلا سفل حدّه القبلي طريق المارّة وحدّه ا<supplied reason="lost" cert="high">لبحريّ</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">طريق</rdg></app> 
+<lb n="5"/>  المارّة وحدّه الشّرقي دار لبني فليكة وحدّه الغربي السّلّم اشترى ذلك منه <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">بـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">دنانير</rdg></app> 
+<lb n="6"/>  معسولة عينا ذهبا وازن بالجديد قد قبض قزمان بن بقطر الثّمن تامّا وافيا وبرئ مـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="7"/>  هذه الغرفة وعلوها وسلّم ذلك إلى مينا بن سوط وقبضه وجازه وملكـ<supplied reason="lost" cert="high">ـه</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">وصار</rdg></app> 
+<lb n="8"/>  ذلك مال من ماله وملك من ملكه إن شا باع وإن شا بنا وإن شا وهب <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ڤلم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">پپق</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">لڤرمان</rdg></app> 
+<lb n="9"/>  بن بقطر في هذه الغرفة وعلوها بعد هذا الكتاب دعوى ولا طلبة بوجه من <supplied reason="lost" cert="high">الوجوه</supplied> 
+<lb n="10"/>  ولا سبب من الأسباب باع ذلك على شرط بيع الإسلام وعهدته فما كا<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="11"/>  من علقة أو بياعة أو طارئ بدين فنفاذ ذلك وخلاصه على قزمان بن بقطر بالغ ما بلغ 
+<lb n="12"/>  من خالص ماله شهد على إقرار قزمان بن بقطر بجميع ما في هذا الكتاب بعد أن 
+<lb n="13"/>  قرئ عليه بالعربيّة وفسّر له بالعجميّة في صحّة عقله وبدنه وجو<supplied reason="lost" cert="high">از</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">أمره</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">طائعا</rdg></app> 
+<lb n="14"/>  غير مكره ولا مجبر ولا مضطهد طالب راغب وذلك في ذي القعدة 
+<lb n="15"/>  سنة ثلاثة وخمسين وثلثمائة شهد سعد بن عبد القاهر على 
+<lb n="15b"/>  إقرارها بجميع ما في هذا الكتاب 
+<lb n="16"/>  شهد إسماعيل 
+<lb n="below line 14"/>  شهد إبراهيم بن أحمد بن رجب على جميع ما في هذا الكتاب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà mīnā bnu sawṭ:ini sūṭ:ini ăl bannāʾu min quzmāna bni buqṭura bni sawīrisa min sukkāni ṭuṭūna min kūraẗi *** ăl ø fayyūmi *** ĭštarà 
+ <lb n="3"/>min hu ḥiṣṣata hu mina ăl ġurfaẗi ăl mušāʿi bayna hu wa sawṭi sūṭi bni ʾabīmaẗa maʿa ʿulwi hi wa huwa ăl **** *** 
+ <lb n="4"/>bi ḥaddi himā wa ḥudūdi himā wa ʿulwi himā bi lā sufl:in ḥaddu hu ăl qibliyyu ṭarīqu ăl mārraẗi wa ḥaddu hu ăl baḥriyyu *** ṭarīqu 
+ <lb n="5"/>ăl mārraẗi wa ḥaddu hu ăš šarqiyyu dār:un li banī falīkaẗa wa ḥaddu hu ăl ġarbiyyu ăs sullamu ĭštarà ḏālika min hu ø bi *** *** danānīra 
+ <lb n="6"/>maʿsūlaẗ:in ʿayn:an ḏahab:an wāzin bi ăl ǧadīdi qad qabaḍa quzmānu bnu buqṭura ăṯ ṯamana tāmm:an wāfiy:an wa bariʾa min 
+ <lb n="7"/>hāḏihi ăl ġurfaẗi wa ʿulwi hā wa sallama ḏālika ʾilà mīnā bni sawṭ:in sūṭ:in wa qabaḍa hu wa ǧāza hu wa malaka hu *** wa *** ṣāra 
+ <lb n="8"/>ḏālika māl min māli hi wa milk min milki hi ʾin šāʾa bāʿa wa ʾin šāʾa banā wa ʾin šāʾa wahaba ø fa *** lam *** yabqa ø li *** quzmāna 
+ <lb n="9"/>bni buqṭura fī hāḏihi ăl ġurfaẗi wa ʿulwi hā baʿda hāḏā ăl kitābi daʿw:an wa lā ṭalibaẗ:un bi waǧh:in mina ăl wuǧūhi 
+ <lb n="10"/>wa lā sabab:un mina ăl ʾasbābi bāʿa ḏālika ʿalà šarṭi bayʿi ăl ʾislāmi wa ʿuhdati hi fa mā kāna 
+ <lb n="11"/>min ʿulqaẗ:in ʾaw biyāʿaẗ:in ʾaw ṭāriʾ:in bi dayn:in fa nafāḏu ḏālika wa ḫalāṣu hu ʿalà quzmāna bni buqṭura bāliġ mā balaġa 
+ <lb n="12"/>min ḫāliṣi māli hi šuhida ʿalà ʾiqrāri quzmāna bni buqṭura bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan 
+ <lb n="13"/>quriʾa ʿalay hi bi ăl ʿarabiyyaẗi wa fussira la hu bi ăl ʿaǧamiyyaẗi fī ṣiḥḥaẗi ʿaqli hi wa badani hi wa ǧawāzi *** ʾamri *** hi *** ṭāʾiʿ:an 
+ <lb n="14"/>ġayra mukrah:in wa lā muǧbar:in wa lā muḍṭahad:in ṭālib rāġib wa ḏālika fī ḏī ăl qaʿdaẗi 
+ <lb n="15"/>sanaẗa ṯalāṯaẗ:in wa ḫamsīna wa ṯalāṯi miʾaẗ:in šahida saʿdu bnu ʿabdi ăl qāhiri ʿalà 
+ <lb n="16"/>ʾiqrāri hā bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="17"/>šahida ʾismāʿīlu 
+ <lb n="18"/>šahida ʾibrāhīmu bnu ʾaḥmada bni raǧab:in ʿalà ǧamīʿi mā fī hāḏā ăl kitābi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		 In the name of God, the merciful and compassionate.
+			<lb n="2"/>
+		This is, what Mīnā b. Sōṭas, the builder, has bought from Quzmān b. Buqṭur b. Sawīris of the inhabitants of Ṭuṭūn in the district of [the Fayyūm. He bought]
+			<lb n="3"/>
+		from him his share in the chamber which is shared between him and Sōtas b. Abīme, along with its upper part, this being the [...]
+			<lb n="4"/>
+		with its border and its boundaries and its upper part without a lower part. Its southern boundary is the passing lane, its [nothern] boundary is
+			<lb n="5"/>
+		the passing [lane], its eastern boundary is a house of the Banī Falīke (?), and its eastern boundary is the stair. He bought this from him [for x dīnārs]
+			<lb n="6"/>
+		counted out, cold currency, full weight according to the new (weight). Quzmān b. Buqṭur has received the price fully and entirely, and he has separated himself from
+			<lb n="7"/>
+		this chamber and its upper part, and he delivered that to Mīnā b. Sōtas, so that he received and ? it and took possession of it, and [that became]
+			<lb n="8"/>
+		a property in his property and an estate in his estate. If he wants, he may sell, and if he wants, he may build (on it), and if he wants, he may donate (it). [Nothing has remained to Quzmān]
+			<lb n="9"/>
+		b. Buqṭur in this chamber by way of a claim or a pretension in any way,
+			<lb n="10"/>
+		nor (by) any reason. He sold that according to the condition of the islamic sale and its contractual obligation, so that whatever there may b[e]
+			<lb n="11"/>
+		by way of an impediment or a ? or (someone) claiming a debt, then the execution of that and its indemnification will be at the expense of Quzmān b. Buqṭur, to whatever it might amount, 
+			<lb n="12"/>
+		out of his personal property. Witness has been given to the acknowledgement by Quzmān b. Buqṭur of everything in this document after
+			<lb n="13"/>
+		it was read to him in arabic and explained to him in non-Arabic (Coptic), he being in good health of his mind and body and capable [of transacting his affair, wanting it]
+			<lb n="14"/>
+		not coerced, compulsed nor under coercion, asking and desiring it. That (took place) in Ḏū ăl Qaʿdaẗ
+			<lb n="15"/>
+		during the year three hundred and fifty three. Saʿd b. ʿAbd al-Qāhir witnessed to
+			<lb n="16"/>
+		her [sic] acknowledgement to everything in this document.
+			<lb n="17"/>
+		ʾIsmāʿīl witnessed (to it).
+			<lb n="18"/>
+		ʾIbrāhīm b. ʾAḥmad b. Raǧab witnessed to everything in this document.
+</ab></div>
+</body>
+</text>
+</TEI>

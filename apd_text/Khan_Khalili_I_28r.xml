@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1528" xml:id="Khan_Khalili_I_28r" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 28 recto (= P.Khalili II 55 second letter = P.DiemKhalili 1 verso)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_28r</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169299</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">پمپپه </lem><rdg resp="Diem translation ‫درهما‬ but see corrigendum p. 60 	">دينارا</rdg></app> اعسر ورا من سپه 
+ <lb n="2"/>  <app type="BL"><lem resp="APD">ستّة </lem><rdg resp="APD">بستّة</rdg></app> <app type="BL"><lem resp="APD">زبل </lem><rdg resp="Diem">وثلثين</rdg></app> <app type="BL"><lem resp="APD">ورا </lem><rdg resp="‭Diem translation ‫درهما‬ but see corrigendum p. 60">دينارا</rdg></app> من سنة ثلث وذكر 
+ <lb n="3"/>  أنّك وعدته <app type="BL"><lem resp="APD">أن </lem><rdg resp="Diem">بأن</rdg></app> تعجّل له قبضها وهو 
+ <lb n="4"/>  <supplied reason="lost" cert="high">يحـ</supplied>ـتاج أن يخرج إلى أسفل الأرض ويحتاج 
+ <lb n="5"/>  إلى نفقة فإن تهيّأ لك أعزّك اللّه <app type="BL"><lem resp="APD">رفع </lem><rdg resp="Diem">دفع</rdg></app> 
+ <lb n="6"/>  <app type="BL"><lem resp="APD">غرمي </lem><rdg resp="Diem">عشرين</rdg></app> <app type="BL"><lem resp="APD">ورا </lem><rdg resp="‭Diem translation ‫درهما‬ but see corrigendum p. 60">دينارا</rdg></app> منها فلك في ذلك ثواب 
+ <lb n="7"/>  وإن لم يتهيّأ لك ردت الكتب 
+ <lb n="8"/>  إليه ليعمل فيها بحسب ما يرى 
+ <lb n="9"/>  إن شا الله <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">وصانك</supplied> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">الله</supplied> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">الضّرر </lem><rdg resp="Diem">الصّدر</rdg></app> <app type="BL"><lem resp="APD">والضّل </lem><rdg resp="Diem">وأفضل</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ṯamāniyaẗa ĭʿšara warāʾa dīnāran min sanaẗi ʾarbaʿaẗin illā wa 
+ <lb n="2"/>bi ø sittaẗa sittaẗ:in zubul:in wa ø ṯalāṯīna warāʾa dīnār:an min sanaẗi ṯalāṯ:in wa ḏakara 
+ <lb n="3"/>ʾanna ka waʿadta hu bi ø ʾan tuʿaǧǧila la hu qabḍa hā wa huwa 
+ <lb n="4"/>yaḥtāǧu ʾan yaḫruǧa ʾilà ʾasfali ăl ʾarḍi wa yaḥtāǧu 
+ <lb n="5"/>ʾilà nafaqaẗ:in fa ʾin tahayyaʾa la ka ʾaʿazza ka ăl lāhu rafʿu dafʿu 
+ <lb n="6"/>ġurm ʿišrīna ī ø warāʾa dīnār:an min hā fa la ka fī ḏālika ṯawāb:un 
+ <lb n="7"/>wa ʾin lam yatahayyaʾ la ka radatta ăl kutuba 
+ <lb n="8"/>ʾilay hi li yaʿmala fī hā bi ḥasabi mā yarà 
+ <lb n="9"/>ʾin šāʾa ăl lāhu wa ṣāna ka ø ăl lāhu ăḍ ăṣ ḍarara ṣadru wa wa ăḍ ʾafḍalu ḍulla ø 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [das eine von ihn]en über achtzehn Dirham aus dem Jahre vier und das and[ere]
+ 	  for eighteen dīnār from the year four.
+ 	  [remit my debt of] eighteen until after year four or if this is not possible,
+		 <lb n="2"/>
+ 	  for 36 dīnār from year three. He mentioned
+ 	  (remit my debt of) six baskets until after year three. He mentioned
+ 	  über sechsunddreißig (?) Dirham aus dem Jahre drei. Er erwähnte,
+		 <lb n="3"/>
+ 	  Du hättest ihm versprochen, sie für ihn schnell zu kassieren, denn er
+ 	  that you promised to send its (the year&#039;s ?) revenue quickly for he
+		 <lb n="4"/>
+ 	  muß nach Unterägypten reisen und benötigt
+ 	  needs to go to the North and requires
+		 <lb n="5"/>
+ 	  Geld für seinen Lebensunterhalt. Wenn es Dir - Gott stärke Dich - möglich ist
+ 	  maintenance. If you - may god give you strenght are in a position to remit
+		 <lb n="6"/>
+ 	  (ihm) davon zwanzig Dirham auzuzahlen, so wirst Du dafür (von Gott) belohnt werden.
+ 	  my debt until after it, you will be rewarded for this.
+ 	  to pay (him) twenty dīnārs out of (the amount of the bills in advance), you will be rewarded for this.
+		 <lb n="7"/>
+ 	  If you are not in a position (to do this) return the documents
+ 	  Wenn es Dir nicht möglich ist, gibst Du ihm die Dokumente zurück,
+		 <lb n="8"/>
+ 	  damit er mit ihnen nach seinem Gutdünken verfährt,
+ 	  to him so that he may act as he thinks best with regard to them,
+		 <lb n="9"/>
+ 	  God willing, (may he protect you) from harm and misfortune
+ 	  so Gott will. (Die Segnungen seien wie der Briefanfang und noch vortrefflicher.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1300" xml:id="Krackovskij_dokument" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Kratchkovski</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Krackovskij_dokument</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169122</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم <supplied reason="lost" cert="high">ا</supplied>للّه الرّ<supplied reason="lost" cert="high">حمن</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم 
+<lb n="2"/>  للأمير الجرّاح <supplied reason="lost" cert="high">بـ</supplied>ـن عبد <supplied reason="lost" cert="high">اللّـ</supplied>ـه من مولاه ديوا 
+<lb n="3"/>  ستى السلم علپك اپها 
+<lb n="4"/>  <supplied reason="lost" cert="high">ور</supplied>حمت الـ<supplied reason="lost" cert="high">ـلّـ</supplied>ـه فإنّي أحمد إليك 
+<lb n="5"/>  <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّذ</supplied>ي لا إله <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="6"/>  أمّا <supplied reason="lost" cert="high">بعد</supplied> <gap reason="illegible" extent="6" unit="character" /> <supplied reason="lost" cert="high">أصلـ</supplied>ـح اللّه الأمير وأمتع 
+<lb n="7"/>  به فإنّي <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="8"/>  للأمير حاجتي وحاجة ابني طرخون وإن 
+<lb n="9"/>  مپر أمتع اللّه به ذكر ابني طرخون بخير 
+<lb n="10"/>  فـإن را الأمير من الرّأي أن يـ<supplied reason="lost" cert="high">ـكتب</supplied> 
+<lb n="11"/>  إلى سليمن ابن بي السّري فـيبعث بهمـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">الأمير</supplied> 
+<lb n="12"/>  فليفعل أو يأمر لي الأمير بدابّة من دواب 
+<lb n="13"/>  البريد فابعث عليها غلامي يأت بهما 
+<lb n="14"/>  <supplied reason="lost" cert="high">ا</supplied>لأمير فـإن اللّه جعل <unclear reason="undefined" cert="high">قدم</unclear> الأمير لأهل 
+<lb n="15"/>  <supplied reason="lost" cert="high">ا</supplied>لمطـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="7" unit="character" /> غياث ورحمة 
+<lb n="16"/>  أسل اللّه لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="6" unit="character" /> والسّلم عليك أيّـ<supplied reason="lost" cert="high">ـها</supplied> <supplied reason="lost" cert="high">الأمـ</supplied>ـير ورحمت اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li ăl ʾamīri ăl ǧarrāḥi bni ʿabdi ăl lāhi min mawlā hu dīwāstī 
+ <lb n="4"/>ăs salāmu ʿalay ka ʾayyuhā ăl ʾamīru 
+ <lb n="5"/>wa raḥmatu ăl lāhi fa ʾin nī ʾaḥmadu ʾilay ka 
+ <lb n="6"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="7"/>ʾammā baʿdu ****** ʾaṣlaḥa ăl lāhu ăl ʾamīra wa ʾamtaʿa 
+ <lb n="8"/>bi hi fa ʾin nī ********* 
+ <lb n="9"/>li ăl ʾamīri ḥāǧat ī wa ḥāǧaẗa ĭbn ī ṭarḫūna wa ʾinna 
+ <lb n="10"/>ăl ʾamīra ʾamtaʿa ăl lāhu bi hi ḏakara ĭbn ī ṭarḫūna bi ḫayr:in 
+ <lb n="11"/>fa ʾin rā ăl ʾamīru mina ăr raʾyi ʾan yaktuba 
+ <lb n="12"/>ʾilà sulaymāna ĭbni bī ăs sariyyi fa yabʿaṯa bi himā ʾilà ăl ʾamīri 
+ <lb n="13"/>fa l yafʿal ʾaw yaʾmur l ī ăl ʾamīru bi dābbaẗ:in min dawābbi 
+ <lb n="14"/>ăl barīdi fa ĭbʿaṯ ʿalay hā ġulām ī yaʾti bi himā 
+ <lb n="15"/>ăl ʾamīru fa ʾinna ăl lāha ǧaʿala qidma ăl ʾamīri li ʾahli 
+ <lb n="16"/>ăl mṭ******* ġiyāṯ:in wa raḥmaẗ:in 
+ <lb n="17"/>ʾasalu ăl lāha ****** li wa ăs salāmu ʿalay ka ʾayyuhā ăl ʾamīru wa raḥmatu ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="4"/>
+			<lb n="5"/>
+			<lb n="6"/>
+			<lb n="7"/>
+			<lb n="8"/>
+			<lb n="9"/>
+			<lb n="10"/>
+			<lb n="11"/>
+			<lb n="12"/>
+			<lb n="13"/>
+			<lb n="14"/>
+			<lb n="15"/>
+			<lb n="16"/>
+			<lb n="17"/>
+</ab></div>
+</body>
+</text>
+</TEI>

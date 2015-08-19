@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2292" xml:id="Thung_CPR_280" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 28</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_280</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">أ</supplied>قر شـ<supplied reason="lost" cert="high">ـعبـ</supplied>ـان بن مزاحم و<supplied reason="lost" cert="high">عقيـ</supplied>ـل <supplied reason="lost" cert="high">بـ</supplied>ـن <supplied reason="lost" cert="high">عبيـ</supplied>ـد <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عنـ</supplied>ـد <supplied reason="lost" cert="high">شـ</supplied>ـهود هذا الكتـ<supplied reason="lost" cert="high">ـاب</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">صحّة</supplied> 
+<lb n="3"/>  من عقلهما وبدنهما وجواز أمورهما أن للأمير أبي الحـ<supplied reason="lost" cert="high">ـسن</supplied> <supplied reason="lost" cert="high">عزيز</supplied> 
+<lb n="4"/>  الخاصّة الإخشيدي أطال اللّه بقاه <gap reason="illegible" extent="1" unit="character" /> عپدهما وعلپهما 
+<lb n="5"/>  ذمّتهما إردبّين وسدس إردب قمح نقي جيّد هما بنقص <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">ويبة</rdg></app> إذا 
+<lb n="6"/>  غربلت <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">مدحـ</unclear>ـيـ<unclear reason="undefined" cert="high">ـن</unclear> </lem><rdg resp="Diem">قدحين</rdg></app> يدفعا ذلك إلى وكيله بهذه النّاحية أي وقت 
+<lb n="7"/>  طلب منهما من ليل أو نهار وذلك عمّا أطلقه لهما ببووپه لعمارة 
+<lb n="8"/>  سنة خمس وخمسين وثلثماية لا يدافعا بذلك ولا يحتجّا فيه بحجّـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="9"/>  إلّا بالخروج من هذا الـ<supplied reason="lost" cert="high">ـقمـ</supplied>ـح في <supplied reason="omitted" cert="high">أ</supplied>ي وقت طلب منهما وكتب في ذي 
+<lb n="10"/>  القعدة من سنـ<supplied reason="lost" cert="high">ـة</supplied> ست وخمسين وثلثمائة شهد على ذلك 
+<lb n="11"/>  شهد هبة اللّه بن محبوب بن علي بن إسمعيل على إقرار شعبان بن 
+<lb n="12"/>  مزاحم وعقيل بن <supplied reason="lost" cert="high">عبـ</supplied>ـيد بجـ<supplied reason="lost" cert="high">ـميـ</supplied>ـع ما في هذا الكتاب وكتب بخطّه 
+<lb n="13"/>  شهد عبيـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">بن</supplied> علـ<supplied reason="lost" cert="high">ـيّ</supplied> <supplied reason="lost" cert="high">بن</supplied> إسمعيل على إقرارهما بما في هذا الكتاب 
+<lb n="14"/>  وكتب بخطّه في <supplied reason="lost" cert="high">تأريخه</supplied> 
+<lb n="15"/>  شهد يو<supplied reason="lost" cert="high">سـ</supplied>ـف بن حمدان <supplied reason="lost" cert="high">بـ</supplied>ـجميع ما في هذا الكتاب وكتب عنه حمدان 
+<lb n="16"/>  بن الـ<gap reason="illegible" extent="2" unit="character" />ـپري بأمره ومحضره 
+<lb n="17"/>  شهد إسحق بن حمدان بن سليمن بن <app type="BL"><lem resp="APD">بشّار </lem><rdg resp="APD">يسار</rdg></app> بجميع ما في هذا الكتاب 
+<lb n="18"/>  و<supplied reason="lost" cert="high">كـ</supplied>ـتب بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra šaʿbānu bnu muzāḥim:in wa ʿaqīlu bnu ʿubayd:in *** *** ʿinda šuhūdi hāḏā ăl kitābi fī ṣiḥḥaẗ:in 
+ <lb n="3"/>min ʿaqli himā wa badani himā wa ǧawāzi ʾumūri himā ʾanna li l ʾamīri ʾabī ăl ḥasani ʿazīzi 
+ <lb n="4"/>ăl ḫāṣṣaẗi ăl ʾiḫšīdiyyi ʾaṭāla ăl lāhu baqāʾa hu ʿinda humā wa ʿalay himā wa fī 
+ <lb n="5"/>ḏimmati himā ʾirdabbayni wa sudsa ʾirdabbi qamḥ:in naqiyy:in ǧayyid:in humā bi naqṣi *** waybaẗ:in ʾiḏā 
+ <lb n="6"/>ġurbilat mdḥyn qadaḥayni yadfaʿā ḏālika ʾilà wakīli hi bi hāḏihi ăn nāḥiyaẗi ʾayya waqt:in 
+ <lb n="7"/>ṭalaba min humā min layl:in ʾaw nahār:in wa ḏālika ʿammā ʾaṭlaqa hu la humā bi baʾūniha li ʿamāraẗi 
+ <lb n="8"/>sanaẗi ḫams:in wa ḫamsīna wa ṯalāṯi miyaẗ:in lā yudāfiʿā bi ḏālika wa lā yaḥtaǧǧā fī hi bi ḥuǧǧaẗ:in 
+ <lb n="9"/>ʾillā bi ăl ḫurūǧi min hāḏā ăl qamḥi fī ʾayyi waqt:in ṭalaba min humā wa kutiba fī ḏī 
+ <lb n="10"/>ăl qaʿdaẗi min sanaẗi sitt:in wa ḫamsīna wa ṯalāṯi miʾaẗ:in šuhida ʿalà ḏālika 
+ <lb n="11"/>šahida hibaẗu ăl lāhi bnu maḥbūbi bni ʿaliyyi bni ʾismāʿīla ʿalà ʾiqrāri šaʿbāna bni 
+ <lb n="12"/>muzāḥim:in wa ʿaqīli bni ʿubayd:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="13"/>šahida ʿubaydu bnu ʿaliyyi bni ʾismāʿīla ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="14"/>wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="15"/>šahida yūsufu bnu ḥamdāna bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba ʿan hu ḥamdānu 
+ <lb n="16"/>bnu ăl **Briyyi bi ʾamri hi wa maḥḍari hi 
+ <lb n="17"/>šahida ʾisḥāqu bnu ḥamdāna bni sulaymāna bni baššār:in yasāra bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="18"/>wa kataba bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Gnädigen!]
+			<lb n="2"/>
+		Es haben Šaʿbān b. Muzāḥim und [ʿAqī]l b. [ʿUbay]d [...]... in Anwesenheit der Zeugen dieser Urkunde
+			<lb n="3"/>
+		im Zustand ihrer geistigen und körperlichen Gesundheit und Geschäftsfähigkeit anerkannt, daß sie dem Emir Abū l-Ḥasan, dem obersten Verwalter
+			<lb n="4"/>
+		der iḫšīdischen Domänen, - Gott lasse ihn lange leben - {...}
+			<lb n="5"/>
+		zweieinsechstel Artaben hervorragenden reinen Weizens schulden, mit dem Manko [...] ... wenn sie
+			<lb n="6"/>
+		gesiebt werden. Dies werden sie seinem (sc. des Abū l-Ḥasan) Stellvertreter in diesem Distrikt aushändigen,
+			<lb n="7"/>
+		wann auch immer er dies von ihnen verlangt, sei es bei Nacht oder am Tag, und zwar für das, was er ihnen ausgezahlt hat für die ʿamārah
+			<lb n="8"/>
+		des Jahres dreihundertfünfundfünfzig. Sie werden ihn damit nicht hinhalten und keine Einsprüche dagegen erheben.
+			<lb n="9"/>
+		sondern ihm diesen Weizen aushändigen, wann auch immer er dies von ihnen verlangt. Es wurde geschrieben im (Monat) Ḏū
+			<lb n="10"/>
+		l-Qaʿdah des Jahres dreihundertsechsundfünfzig, und es wurde bezeugt.
+			<lb n="11"/>
+		Es bezeugt Hibatallāh b. Maḥbūb b. ʿAlī b. Ismaʿīl, daß Šaʿbān b.
+			<lb n="12"/>
+		Muzāḥim und ʿAqīl b. [ʿUba]yd all das, was in dieser Urkunde steht, anerkannt haben. Und er hat mit seinem Schriftzug unterschrieben.
+			<lb n="13"/>
+		Es bezeugt ʿUbay[d b.] ʿAl[ī b.] Ismaʿīl, daß sie beide all das, was in dieser Urkunde steht, anerkannt haben.
+			<lb n="14"/>
+		Und er hat mit seinem Schriftzug am [Datum dieser Urkunde] unterschrieben.
+			<lb n="15"/>
+		Es bezeugt Yū[su]f b. Hamdān all das, was in dieser Urkunde steht. Und es hat an seiner Stelle Ḥamdān
+			<lb n="16"/>
+		b. al-. [..]..ī auf seinen Befehl und in seiner Gegenwart geschrieben.
+			<lb n="17"/>
+		Es bezeugt Isḥāq b. Ḥamdān b. Sulaymān b. Baššār all das, was in dieser Urkunde steht.
+			<lb n="18"/>
+		Und er hat mit seinem Schriftzug unterschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

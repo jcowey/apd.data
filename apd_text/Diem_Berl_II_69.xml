@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1582" xml:id="Diem_Berl_II_69" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 69</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_69</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169340</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أعلم مولاتي وستّي أطال اللّه بقاها وأدام علوّها وكبت بالذّل 
+<lb n="3"/>  عدوّه أنّي ما أخليت سادتي من الدّعا في تلك المشاهد وأنّي 
+<lb n="4"/>  اعتمرت عنهم ودفعت الرّ<sic n="superfluous">قـ</sic>ـقاع إلى الخدم حين زمانها فحضرتم 
+<lb n="5"/>  عند رسول اللّه صلّى اللّه عليه استجاب اللّه من عبدتها بما داعاه 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>اپه في أمر هذه العرضيّة واللّه وما بقيت 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> وأغطيتها كتبت عمّتي أم القاسم أعرضتها 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـله لأن ما يطلب غير<del rend="erasure" status="unremarkable">هدا</del> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">فـ</unclear><supplied reason="lost" cert="high">ـي</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـقـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="upper margin 1"/>  من <app type="BL"><lem resp="sīn with two “three?” dots below">سترتها </lem><rdg resp="sīn with two “three?” dots below">ستريها</rdg></app>  <sic n="superfluous">وأغطيها</sic><supplied reason="omitted" cert="high">واعطتپها</supplied> 
+<lb n="upper margin 2"/>  لم <app type="BL"><lem resp="ʿayn with dot below">تعرضها </lem><rdg resp="ʿayn with dot below">نعرضها</rdg></app> عليهم ولمولاتـ<supplied reason="lost" cert="high">ـي</supplied> <gap reason="illegible" precision="low" extent="3"/> حسبي اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾuʿlimu mawlāt ī wa sitt ī ʾaṭāla ăl lāhu baqāʾa hā wa ʾadāma ʿuluwwa hā wa kabata bi ăḏ ḏulli 
+ <lb n="3"/>ʿaduwwa hu ʾan nī mā ʾaḫlaytu sādat ī mina ăd duʿāʾi fī tilka ăl mašāhidi wa ʾan nī 
+ <lb n="4"/>ĭʿtamartu ʿan hum wa dafaʿtu ăr riqāʿa ʾilà ăl ḫadami ḥīna zamāni hā fa ḥaḍartum 
+ <lb n="5"/>ʿinda rasūli ăl lāhi ṣallà ăl lāhu ʿalay hi ĭstaǧāba ăl lāhu min ʿabdati hā bi mā dāʿā hu 
+ <lb n="6"/>*** ***ʾBh fī ʾamri hāḏihi ăl ʿarḍiyyaẗi wa ăl lāhi wa mā baqītu baqiyat 
+ <lb n="7"/>*** *** wa ʾaġṭiyat hā katabat ʿammat ī ʾummu ăl qāsimi ʾaʿraḍat hā 
+ <lb n="8"/>*** *** ***lh li ʾan mā yuṭlabu ġayra 
+ <lb n="9"/>*** **** fī ***q**** 
+ <lb n="10"/>min sitrati sitray sutrati hā wa ʾaġṭiyati hā 
+ <lb n="11"/>lam nuʿriḍ tuʿriḍ hā ʿalay him wa li mawlāt ī *** ḥasb iya ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Ich teile meiner Herrin und Gebieterin - Gott lasse sie lange leben und wolle sie weiterhin mit ihrer hohen Stellung beglücken und seinen (!) Feind schmählich
+			<lb n="3"/>
+		unterdrücken - mit, daß ich meine Herren nicht in der Fürbitte an jenen Wallfahrtsstätten habe entbehren lassen, und daß ich
+			<lb n="4"/>
+		die kleine Pilgerfahrt in ihrer Vertretung unternommen habe und {das} die Schreiben zu dem vorgesehenen Zeitpunkt den Dienern übergeben habe, so daß ihr (gewissermaßen)
+			<lb n="5"/>
+		beim Gesandten Gottes - Gott segne ihn - (mit) anwesend wart - Gott erhöre von ihrer Sklavin die Fürbitte, die er (!) Ihm gegenüber äußerte!
+			<lb n="6"/>
+		[- - -] in Hinblick auf diese ʿarḍīyah, bei Gott. Und sie ist nicht geblieben
+		(...) Und ich bin nicht geblieben
+		(...) Und sie sind nicht geblieben
+			<lb n="7"/>
+		[- - - Was ihre (?) - - - und] ihre Decken betrifft: Tante Umm al-Qāsim hat (mir) geschrieben, sie habe sie angeboten
+			<lb n="8"/>
+		[- - -], denn man verlangt nur 〚dies〛
+			<lb n="9"/>
+		[- - -] in (?) - - - [- - -]
+			<lb n="10"/>
+		was ihren Schleier und ihre Decken betrifft,
+			<lb n="11"/>
+		so haben wir ihnen diese nicht angeboten. (...)
+		so hat sie ihnen diese nicht angeboten. Aber meiner Gebieterin [steht die Entscheidung zu (?).] Mein Genüge ist Gott!
+</ab></div>
+</body>
+</text>
+</TEI>

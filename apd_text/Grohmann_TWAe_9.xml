@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="448" xml:id="Grohmann_TWAe_9" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 09 (= P.World p. 142 a)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_9</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106638</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  قد عرضتها <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“Grohmann, World”">بنقد</rdg></app> إن شا اللّه 
+ <lb n="2"/>  لقسطنطين 
+ <lb n="3"/>  فى حلوم قلّة χ 
+ <lb n="4"/>  إلى فيف بن مينا 
+ <lb n="5"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="6"/>  ادفع إلى قسطنطين الفرّاش 
+ <lb n="7"/>  لنفقته لشهر 
+ <lb n="8"/>  <del rend="erasure" status="unremarkable">من</del> <del rend="erasure" status="unremarkable">الحپن</del> <del rend="erasure" status="unremarkable">α</del> ومن الحالوم χ إن 
+ <lb n="9"/>  شا اللّه 
+ <lb n="10"/>  <app type="BL"><lem resp="APD">كپپڤی </lem><rdg resp="“Grohmann, World”">وكتب</rdg></app> اپپفه <app type="BL"><lem resp="APD">κγ </lem><rdg resp="“Grohmann, World”">أبيفة</rdg></app> سپه ση 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>qad ʿaraḍtu hā **** bi naqd:in ʾin šāʾa ăl lāhu 
+ <lb n="2"/>li qusṭanṭīna 
+ <lb n="3"/>fī ḥālūmin qullaẗ 1/2 
+ <lb n="4"/>ʾilà fīfi bni mīnā 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>ĭdfaʿ ʾilà qusṭanṭīna ăl farrāši 
+ <lb n="7"/>li nafaqati hi li šahr:in 
+ <lb n="8"/>wa mina ăl ḥālūmi 1/2 ʾin 
+ <lb n="9"/>šāʾa ăl lāhu 
+ <lb n="10"/>wa kutiba fī ʾabīfaẗa ʾabīfiha 23 sanaẗa 208 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Ich habe es schon im Austausch für Barzahlung (?) gegeben, so Gott will,
+ 	  I have already given in exchange for cash-money, please God,
+		 <lb n="2"/>
+ 	  für Constantin:
+ 	  to Constantine
+		 <lb n="3"/>
+ 	  An Ḥalūmkäse 1/2 Krug 〚und 1 Käse. 〛
+ 	  for Ḥâlûm-cheese 1/2 jar (qulla) 〚and cheese 1〛
+		 <lb n="4"/>
+ 	  An Fīf b. Mīnā.
+ 	  to Fîf b. Mînâ.
+		 <lb n="5"/>
+ 	  Im Namen Gottes des Barmherzigen, Gütigen.
+ 	  In the name of God, the Compassionate, the Merciful!
+		 <lb n="6"/>
+ 	  Hand over to Constantine, the valet,
+ 	  Übergib an Constantin, den Teppichaufbereiter,
+		 <lb n="7"/>
+ 	  for his maintenance for one month
+ 	  für einen einmonatlichen Unterhalt
+		 <lb n="8"/>
+ 	  〚of cheese 1〛 and of Ḥâlûm-cheese 1/2, plea-
+ 	  〚von Käse 1 〛und von Ḥalūmkäse 1/2, so
+		 <lb n="9"/>
+ 	  Gott will.
+ 	  se God!
+		 <lb n="10"/>
+ 	  And it has been written on the 23rd of Epiphi of the year 208.
+ 	  Und man schrieb (es) am 23. Epiphi des Jahres 208.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

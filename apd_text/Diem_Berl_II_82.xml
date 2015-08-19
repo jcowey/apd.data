@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1613" xml:id="Diem_Berl_II_82" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 82</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_82</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169369</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـذ<supplied reason="lost" cert="high">كـ</supplied>ـروا </lem><rdg resp="APD">فذكروا </rdg><rdg resp="APD">يذكروا</rdg></app> الضّغاين فإنّها <unclear reason="undefined" cert="high">جهرت</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">فإن</supplied> <supplied reason="lost" cert="high">رأى</supplied> <supplied reason="lost" cert="high">مولاي</supplied> <supplied reason="lost" cert="high">الشّيخ</supplied> 
+<lb n="2"/>  أيّده اللّه أن يخاطبه بخطاب يزيل ما بقلبه علي من حقد <supplied reason="lost" cert="high">إ</supplied>ذ <supplied reason="lost" cert="high">كـ</supplied>ـنت <supplied reason="lost" cert="high">أ</supplied>تبيّن 
+<lb n="3"/>  من الموضع ما <unclear reason="undefined" cert="high">يَحفل</unclear> <supplied reason="lost" cert="high">بـ</supplied><unclear reason="undefined" cert="high">ـحظّي</unclear> <supplied reason="lost" cert="high">فيـ</supplied>ـتلطّف لي في رجوع أخلاقه الجميلة الّتي 
+<lb n="4"/>  كنت أعهدها في قديم الوقت <supplied reason="lost" cert="high">فـ</supplied>ـليكون ذلك ببركة مولاي الشّيخ وجارٍ على يده 
+<lb n="5"/>  فإن مولاي القائد حرسه اللّه يرى لسواله ويرعي حقّه ولم أر لقصدي إليه 
+<lb n="6"/>  طريقا إلّا بمعونة سيّدي الشّيخ فيفعل في هذا ما يقرّبه إلى اللّه <app type="BL"><lem resp="APD">منّانا </lem><rdg resp="APD">مثابا</rdg></app> إن شا اللّه 
+<lb n="7"/>  الحمد للّه وحده وصلّى اللّه على محمّد وآله الطّاهرين 
+<lb n="right margin"/>  <supplied reason="lost" cert="high">ولم</supplied> <supplied reason="lost" cert="high">أسل</supplied> <supplied reason="lost" cert="high">مولاي</supplied> <supplied reason="lost" cert="high">الشّيخ</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">دكّان</supplied> <supplied reason="lost" cert="high">أبي</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لأنّه</supplied> <supplied reason="lost" cert="high">في</supplied> الدّكّان تجّار فيبكّتني بحضرتهم فاحتشمت لذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ø fa ø *ḏkrū ḏakarū yaḏkurū ăḍ ḍaġāʾina fa ʾinna hā ǧaharat *** **** fa ʾin raʾà mawlā ya ăš šayḫu 
+ <lb n="2"/>ʾayyada hu ăl lāhu ʾan yuḫāṭiba hu bi ḫiṭāb:in yuzīlu mā bi qalbi hi ʿalay ya min ḥiqd:in ʾiḏ kuntu ʾatabayyanu 
+ <lb n="3"/>mina ăl mawḍiʿi mā yaḥfilu bi ḥaẓẓ ī fa yatalaṭṭaf l ī fī ruǧūʿi ʾaḫlāqi hi ăl ǧamīlaẗi ăllatī 
+ <lb n="4"/>kuntu ʾaʿhadu hā fī qadīmi ăl waqti fa l yakūn ḏālika bi barakaẗi mawlā ya ăš šayḫi wa ǧār:in ʿalà yadi hi 
+ <lb n="5"/>fa ʾinna mawlā ya ăl qāʾidu ḥarasa hu ăl lāhu yarà li suʾāli hi wa yarʿà ḥaqqa hu wa lam ʾara li qaṣd ī ʾilay hi 
+ <lb n="6"/>ṭarīq:an ʾillā bi maʿūnaẗi sayyid ī ăš šayḫi fa yafʿal fī hāḏā mā yuqarribu hu ʾilà ăl lāhi mannān:an muṯāb:an ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ăl ḥamdu li l lāhi waḥda hu wa ṣallà ăl lāhu ʿalà muḥammad:in wa ʾāli hi ăṭ ṭāhirīna 
+ <lb n="8"/>wa lam ʾasal mawlā ya ăš šayḫa fī dukkāni ʾabī *** li ʾanna hu fī ăd dukkāni tuǧǧār:un fa yubakkit nī bi ḥaḍrati him fa ĭḥtašamtu li ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[- - -] sie erwähnten die Haßgefühle, denn diese sind offenbar geworden (?) [- - -. Wenn also mein Gebieter, der Scheich, der Meinung ist]
+			<lb n="2"/>
+		- Gott stütze ihn -, jenen auf eine Weise anzusprechen, die den Haß, den jener gegen mich hegt, beseitigt - [de]nn ich habe (ja)
+			<lb n="3"/>
+		bei gegebenem Anlaß deutlich erkannt, wie sehr er an meinem Schicksal (?) Anteil nimmt (?)-, [so daß] jener mir freundlicherweise seinen guten Charakter, wie
+			<lb n="4"/>
+		ich ihn früher gekannt habe, erneut zeigt, dann möge dies durch das segensreiche Wirken meines Gebieters, des Scheichs, geschehen und durch ihn durchgeführt werden,
+			<lb n="5"/>
+		denn mein Gebieter, der Kommandant - Gott schütze ihn - wird seiner Bitte Aufmerksamkeit schenken und sein Anrecht (ihm gegenüber) beachten. Ich sehe keine
+			<lb n="6"/>
+		Möglichkeit für mein Anliegen ihm gegenüber, es sei denn mit Hilfe meines Herrn, des Scheichs. So möge er denn in dieser Angelegenheit gnädigerweise tun, was ihn Gott näher bringen wird, so Gott will!
+			<lb n="7"/>
+		Preis sei Gott allein! Gott segne Muḥammad und seine reine Sippe!
+			<lb n="8"/>
+		[Im Laden von N. N. habe ich meinen Gebieter, den Scheich, nur deshalb nicht (darum) gebeten, weil im] Laden Kaufleute waren, so daß er mich (vielleicht) in ihrer Gegenwart getadelt hätte. Deshalb hatte ich Hemmungen, (ihn zu bitten).
+</ab></div>
+</body>
+</text>
+</TEI>

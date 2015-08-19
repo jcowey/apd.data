@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2025" xml:id="Grohmann_APEL_275" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 275</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_275</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 and 2"/>  وذلك ومن جالية <supplied reason="lost" cert="high">كـ</supplied>ـفر <supplied reason="lost" cert="high">دير</supplied> شنودة وـكفور بني عيسى ÷÷ ÷÷ <gap reason="illegible" extent="1" unit="character" />÷ <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="2"/>  ÷÷÷ وذلك ÷<supplied reason="lost" cert="high">÷</supplied> 
+<lb n="3"/>  بقي ÷÷÷ ÷<gap reason="illegible" extent="1" unit="character" />÷ 
+<lb n="4"/>  التّلت ÷÷÷÷ 
+<lb n="5"/>  دينر ÷ محمّد بن <supplied reason="lost" cert="high">هـ</supplied>ـرون 
+<lb n="6"/>  ÷÷<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> الرّشـ<supplied reason="lost" cert="high">ـيـ</supplied>ـدة ومندوحة وسنجرج <gap reason="illegible" extent="1" unit="character" />÷ 
+<lb n="7"/>  ÷÷ وربع سرممارس وكفورها ولڤون ودپسپرة ÷÷ ÷÷÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="8"/>  التّلت 
+<lb n="9"/>  ÷ ÷<unclear reason="undefined" cert="high">÷</unclear> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="10"/>  جعفر بن أحمد بن أسامة 
+<lb n="11"/>  ÷ ڤصكى ÷÷÷÷ عن ملكه بالمدينة ÷ ÷÷ ÷÷÷ 
+<lb n="12"/>  المنية ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> جلفه ڤصكى <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="13"/>  أحمد بن جعفر بن الرّبيع 
+<lb n="14"/>  قطعة 
+<lb n="15"/>  ÷ البدرمون ÷÷÷ ÷÷÷ ملكه بالبدرمون وسديـ<supplied reason="lost" cert="high">ـرة</supplied> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="16"/>  ÷÷ ڤصكى ÷<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="17"/>  سديرة ÷÷ ÷÷ 
+<lb n="18"/>  المدينة بأسـ<supplied reason="lost" cert="high">ـرها</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ḏālika wa min ǧāliyaẗi kafri dayri šanūdaẗa wa kufūri banī ʿīsà 36 18 10+* ** 
+ <lb n="2"/>234 wa ḏālika 380 
+ <lb n="3"/>baqiya 146 40+*+2/3 
+ <lb n="4"/>ăt taltu 126+2/3 
+ <lb n="5"/>dīnār 8 muḥammadu bnu hārūna 
+ <lb n="6"/>***+1/26 *** *** *** ăr rašaydaẗu wa mandūḥaẗu wa sinǧirǧu 100+* 
+ <lb n="7"/>1/3+1/8 wa rubʿ:un srmmārs wa kufūru hā wa lFūn wa dBsBraẗu 55 29+1/3+1/12 3+1/2+1/8 * 
+ <lb n="8"/>ăt taltu 
+ <lb n="9"/>5 25 * 
+ <lb n="10"/>ǧaʿfaru bnu ʾaḥmada bni ʾusāmaẗa 
+ <lb n="11"/>6 Fṣky 1/3+1/8+1/48+1/48 ʿan milki hi bi ăl madīnaẗi 50 13 17+1/48 
+ <lb n="12"/>ăl minyaẗu 31+2/3 * ǧalafa hu Fṣky * 
+ <lb n="13"/>ʾaḥmadu bnu ǧaʿfara bni ăr rabīʿi 
+ <lb n="14"/>qiṭʿaẗ:un 
+ <lb n="15"/>1 ăl badramūnu 47+1/3 26+2/3 milku hu bi ăl badramūni wa sudayraẗa * * 
+ <lb n="16"/>1+1/2 Fṣky **+1 
+ <lb n="17"/>sudayraẗu 1+1/2 38 
+ <lb n="18"/>ăl madīnaẗu bi ʾasri hā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		And that makes _ And from the poll-tax of the [ha]mlet of [Dair] Šanûda and the hamlets of Benû ʿIsâ 36 18 1[ ] [
+			<lb n="2"/>
+		234 and that makes [3]80
+			<lb n="3"/>
+		Arrear 146 4[ ]2/3
+			<lb n="4"/>
+		at-Talt 126 2/3
+			<lb n="5"/>
+		Dînâr 8 Muḥammad b. [Ha]rûn
+			<lb n="6"/>
+		...1/26 [...].......ar-Raša[i]da and Mandûḥa and Sinǧirǧ 10[...]
+			<lb n="7"/>
+		1/3+1/8 and a quarter S.r.fmâr.s and its hamlets and L.qûn() and D.s.ra 55 29 1/3+1/12 3 1/2+1/8 •
+			<lb n="8"/>
+		at-Talt
+			<lb n="9"/>
+		5 25
+			<lb n="10"/>
+		Ǧaʿfar b. Aḥmad b. Usâma
+			<lb n="11"/>
+		6 ...... 1/3+1/8 for his property in the capital 50 13 17 1/48
+			<lb n="12"/>
+		al-Miniya 31 2/3 • he has swept it away .......
+			<lb n="13"/>
+		Aḥmad b. Ǧaʿfar b. ar-Rabîʿ
+			<lb n="14"/>
+		a plot
+			<lb n="15"/>
+		1 al-Badramûn 47 1/3  26 2/3 his property in al-Badramûn and Sudai[ra ...] • •
+			<lb n="16"/>
+		1 1/2 .....1 [
+			<lb n="17"/>
+		Sudaira 1 1/2 38
+			<lb n="18"/>
+		The wh[ole] capital
+</ab></div>
+</body>
+</text>
+</TEI>

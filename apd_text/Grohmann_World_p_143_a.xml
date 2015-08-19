@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="828" xml:id="Grohmann_World_p_143_a" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.World p. 143 a</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_143_a</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">113609</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  ادفع إلى هذا الرّجل من 
+ <lb n="3"/>  الشّـ<supplied reason="lost" cert="high">ـعير</supplied> <supplied reason="lost" cert="high">والـقـ</supplied>ـمح ويبة 
+ <lb n="4"/>  <supplied reason="lost" cert="high">عشرين</supplied> <supplied reason="lost" cert="high">صغيرة</supplied> إن شا اللّه 
+ <lb n="5"/>  <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">فى</supplied> أبيفة κ سنة 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">δ</supplied>ρϙ 
+ <lb n="7"/>  من شعير ويبة 
+ <lb n="8"/>  عشرين صغيرة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ ʾilà hāḏā ăr raǧuli mina 
+ <lb n="3"/>ăš šaʿīri wa ăl qamḥi waybaẗ:an 
+ <lb n="4"/>ʿišrīna ṣaġīraẗ:an ʾin šāʾa ăl lāhu 
+ <lb n="5"/>wa kutiba fī ʾabīfaẗa 20 sanaẗa 
+ <lb n="6"/>*** 194 
+ <lb n="7"/>min šaʿīr:in waybaẗ:un 
+ <lb n="8"/>ʿišrīna ṣaġīraẗ:un 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God, the Compassionate, the Merciful!
+		 <lb n="2"/>
+ 	  Hand over to this man of
+		 <lb n="3"/>
+ 	  ba[rley and wh]eat [twenty]
+		 <lb n="4"/>
+ 	  [small] waibas, if God wills.
+		 <lb n="5"/>
+ 	  And it has been written on the 20th of Epiphi of the year
+		 <lb n="6"/>
+ 	  ... 19[4].
+		 <lb n="7"/>
+ 	  Of barley twenty
+		 <lb n="8"/>
+ 	  small waibas.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

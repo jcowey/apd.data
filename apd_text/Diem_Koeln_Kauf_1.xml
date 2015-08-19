@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="382" xml:id="Diem_Koeln_Kauf_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KölnKauf.</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Koeln_Kauf_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106594</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  صح عندي ما في هذه الوثيقة وكتب علي بن هبة اللّه 
+<lb n="2"/>  <supplied reason="lost" cert="high">بـ</supplied>ـن خلف بن محمّد بن شرف <app type="BL"><lem resp="APD">المضري </lem><rdg resp="APD">المصرىّ</rdg></app> بخطّه في تأريخه 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  هذا ما اشترا مرقوره بن مينا المزيّن من <app type="BL"><lem resp="APD">بفام </lem><rdg resp="APD">بفام</rdg></app> <supplied reason="omitted" cert="high">و</supplied>مدريه <supplied reason="omitted" cert="high">و</supplied>قريهو أولاد ألكوه <app type="BL"><lem resp="APD">وتتوص </lem><rdg resp="APD">وتتوص</rdg></app> وألكوه <sic n="superfluous">والاد</sic> <supplied reason="omitted" cert="high">أولاد</supplied> شنوده بن ألكوه 
+<lb n="5"/>  وكيل وهليه ويحنّس وقرسيه أولاد أسطاسه بن ألكوه ودركـه ابنت شنوده وبينه ومريه ابنت شلاد ابنت ثيد <app type="BL"><lem resp="APD">وپسهذ </lem><rdg resp="Diem">تسهد</rdg></app> 
+<lb n="6"/>  زوجة ثيدر وهليه بن أدوين وقرا ابنت سبيه ابنت أدوين ويهنّس <supplied reason="omitted" cert="high">بن سبيه</supplied> ابنت أدوين وهما جميعا من سكّّان الضيعة المعر<supplied reason="omitted" cert="high">و</supplied><supplied reason="lost" cert="high">فة</supplied> 
+<lb n="7"/>  <supplied reason="lost" cert="high">پـ</supplied>ــپرپپوده من كوره الڤپوم اسپرا مپهم <sic n="superfluous">پمتية</sic> <supplied reason="omitted" cert="high">پمنية</supplied> عسر سهما وپلپ سهم من <sic n="superfluous">الربع</sic> <supplied reason="omitted" cert="high">الاربع</supplied> وعسرون سهما مساع عپر مڤسوم 
+<lb n="8"/>  من المنزل المعر<supplied reason="omitted" cert="high">و</supplied>ف بمنزل أبوپش بحدّه وبحدوده ومدخله ومخرجه و<sic n="superfluous">عليه</sic> <supplied reason="omitted" cert="high">علوه</supplied> وسفله وحشپه 
+<lb n="9"/>  وطوبه وحجارته وكل حق له <supplied reason="omitted" cert="high">داخل</supplied> فيـه وخارج منه بدينا<supplied reason="lost" cert="high">ر</supplied> وربع دينار وثمن دينار ونصف قير<supplied reason="omitted" cert="high">ا</supplied>ط قبضا جميعا هذا الـ<supplied reason="omitted" cert="high">ـثّـ</supplied>ـمن 
+<lb n="10"/>  تامّا وافيا وسلّمون إلى مرقوره بن مينا المزيّن هذا المنزل وحازه وملكه وصار مال من ماله وملك 
+<lb n="11"/>  من ملكه يـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـحكّم فيه تحكّم <sic n="superfluous">الرباب</sic> <supplied reason="omitted" cert="high">الأرباب</supplied> في ملكهم إن شا باع وإن شا وهب وإن شا صدّق وتبرّو<supplied reason="omitted" cert="high">ا</supplied> منه براه قبض واستيفا فمتا 
+<lb n="12"/>  ما ادّعا أحد من النّاس على مرقوره بن مينا في هذا المنزل طارئ بدين <sic n="superfluous">وا</sic> <supplied reason="omitted" cert="high">أو</supplied> مستحق بميراث كان خلاصه ونفاذه 
+<lb n="13"/>  على <sic n="superfluous">هالى</sic> <supplied reason="omitted" cert="high">هاولى</supplied> النّفر المسمّون في هذا <supplied reason="omitted" cert="high">ا</supplied>لـكتاب كائن ما كان وبالغ ما بلغ ولهذا <supplied reason="omitted" cert="high">ا</supplied>لـمنزل <sic n="superfluous">حدپد</sic> <supplied reason="omitted" cert="high">حدود</supplied> أربع الحد الأول 
+<lb n="14"/>  وهو القبلي ينتهي إلى الطّريق المعر<supplied reason="omitted" cert="high">و</supplied>فة بالصّليب ومنها يشرع الباب والمدخل والمخرج والحد الثّاني وهو البحري 
+<lb n="15"/>  ينتهي إلى منزل ابڤتڤيه بن قلته والحد الثّالث الغربي ينتهي إلى منزل لاقپده بن قرهوه الحد الرّ<supplied reason="omitted" cert="high">ا</supplied>بع وهو الشّرقي ينتهي إلى الّكوم وبذلك 
+<lb n="16"/>  أشهدو<supplied reason="omitted" cert="high">ا</supplied> على أنفسـهم في صحّة عقلهم وأبدانهم و<sic n="superfluous">ا</sic>جواز أمورهم طائعين غير مكرهين ولا مجبرين طيّبة بذلك 
+<lb n="17"/>  أنفسهم و<supplied reason="omitted" cert="high">كتب</supplied> في يوم الأربعا لثلاث عشر بقين من أمشير سنة ثلث عشر وأربع ما<supplied reason="omitted" cert="high">ئة</supplied> الخراجيّة الموافق 
+<lb n="18"/>  سلخ ذو القعدة سنة أربع عشر وأربع مائة الهلالـ<supplied reason="omitted" cert="high">ـيّـ</supplied>ـة 
+<lb n="19 right"/>  شهد ميمون بن محمّد بن <app type="BL"><lem resp="APD">المحروم </lem><rdg resp="APD">المجزوم</rdg></app> 
+<lb n="20 right"/>  بما في هذا <supplied reason="omitted" cert="high">ا</supplied>لكتاب وكتب عنه علي بن 
+<lb n="21 right"/>  <sic n="superfluous">پن</sic> هبة اللّه بن خلف بأمره ومحضره 
+<lb n="22 right"/>  شهد المكنا <sic n="superfluous">ناپا</sic> <supplied reason="omitted" cert="high">بأبا</supplied> القاسم بن رمضان بن يحيى 
+<lb n="23 right"/>  بن قريش بما في هذا <supplied reason="omitted" cert="high">ا</supplied>لكتاب وكتب عنه 
+<lb n="24 right"/>  علي بن هبة اللّه بن خلف بأمره 
+<lb n="19 middle"/>  شهد سلكة بن إبراهيم بن بابويه 
+<lb n="20 middle"/>  بما في هذا الكتاب وكتب عنه علي 
+<lb n="21 middle"/>  بن هبة اللّه بن خلف بأمره ومحضره 
+<lb n="19 left"/>  شهد محمّد بن <app type="BL"><lem resp="APD">البوسري </lem><rdg resp="APD">البوسريّ</rdg></app> 
+<lb n="20 left"/>  بما في هذا <supplied reason="omitted" cert="high">ا</supplied>لـكتاب وكتب عنه 
+<lb n="21 left"/>  علي بن هبة اللّه بن خلف 
+<lb n="22 left"/>  بأمره ومحضره 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṣaḥḥa ʿind ī mā fī hāḏihi ăl waṯīqaẗi wa kataba ʿaliyyu bnu hibaẗi ăl lāhi 
+ <lb n="2"/>bni ḫalafi bni muḥammadi bni šaraf:ini ăl muḍariyyu miṣriyyu bi
+ ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>hāḏā mā ĭštarā marqūrahu bnu mīnā ăl muzayyinu min bifāma buqāma wa madriyyaha wa qryhw ʾawlādi ʾalakūha wa tanūṣa titūṣa wa ʾalakūha ʾawlādi šanūdaha bni ʾalakūha 
+ <lb n="5"/>wa kayl:in wa haliyaha wa yuḥannisa wa qarisiyaha ʾawlādi ʾasṭāsaha bni ʾalakūha wa darakaha ĭbnati šanūdaha wa bīnaha wa mariyaha ĭbnati šalāda ĭbnati ṯiyudura wa Bshḏ tshd 
+ <lb n="6"/>zawǧaẗi ṯiyudura wa haliyaha bni ʾadwīna wa qirā ĭbnati sbyh ĭbnati ʾadwīna wa yuhannisa bni sbyh ĭbnati ʾadwīna wa humā ǧamīʿ:an min sukkāni ăḍ ḍayʿaẗi ăl maʿrūfaẗi 
+ <lb n="7"/>bi barbanūdaha min kūraẗi ăl fayyūmi ĭštarā min hum ṯamāniyaẗa ʿašara sahm:an wa ṯulṯa sahm:in mina ăl ʾarbaʿi wa ʿišrūna sahm:an mušāʿ ġayra maqsūm:in 
+ <lb n="8"/>mina ăl manzili ăl maʿrūfi bi manzili ʾabwBša bi ḥaddi hi wa bi ḥudūdi hi wa madḫali hi wa maḫraǧi hi wa ʿalwi hi wa sufli hi wa ḫašabi hi wa ʾabwābi hi 
+ <lb n="9"/>wa ṭūbi hi wa ḥiǧārati hi wa kulli ḥaqq:in la hu dāḫil fī hi wa ḫāriǧ min hu bi dīnār:in wa rubʿi dīnār:in wa ṯumni dīnār:in wa niṣfi qīrāṭ:in qabaḍā ǧamīʿ:an hāḏā ăṯ ṯamana 
+ <lb n="10"/>tāmm:an wāfiy:an wa sallamūna ʾilà marqūraha bni mīnā ăl muzayyini hāḏā ăl manzila wa ḥāza hu wa malaka hu wa ṣāra māl min māli hi wa milk 
+ <lb n="11"/>min milki hi yataḥakkamu fī hi taḥakkuma ăl ʾarbābi fī milki him ʾin šāʾa bāʿa wa ʾin šāʾa wahaba wa ʾin šāʾa ṣaddaqa wa tabarrū min hu barāʾaẗ:an qabaḍa wa ĭstayfā fa matā 
+ <lb n="12"/>mā ĭddaʿā ʾaḥad:un mina ăn nāsi ʿalà marqūraha bni mīnā fī hāḏā ăl manzili ṭāriʾ:un bi dayn:in ʾaw mustaḥiqq:un bi mīrāṯ:in kāna ḫalāṣu hu wa nafāḏu hu 
+ <lb n="13"/>ʿalà hāʾulàʾi ăn nafari ăl musammawna fī hāḏā ăl kitābi kāʾin:un mā kāna wa bāliġ:un mā balaġa wa li hāḏā ăl manzili ḥudūd:un ʾarbaʿ:uni ăl ḥaddu ăl ʾawwalu 
+ <lb n="14"/>wa huwa ăl qibliyyu yantahī ʾilà ăṭ ṭarīqi ăl maʿrūfaẗi bi ăṣ ṣalībi wa min hā yašraʿu ăl bābu wa ăl madḫalu wa ăl maḫraǧu wa ăl ḥaddu ăṯ ṯānī wa huwa ăl baḥriyyu 
+ <lb n="15"/>yantahī ʾilà manzili ʾbFtFyha bni qultaha wa ăl ḥaddu ăṯ ṯāliṯu ăl ġarbiyyu yantahī ʾilà manzili lāqidaha bni qrhwh ăl ḥaddu ăr rābiʿu wa huwa ăš šarqiyyu yantahī ʾilà ăl kawmi wa bi ḏālika 
+ <lb n="16"/>ʾašhadū ʿalà ʾanfusi him fī ṣiḥḥaẗi ʿaqli him wa ʾabdāni him wa ǧawāzi ʾumūri him ṭāʾiʿīna ġayra mukrahīna wa lā muǧbarīna ṭayyibaẗ:an bi ḏālika 
+ <lb n="17"/>ʾanfusu hum wa kutiba fī yawmi ăl ʾarbaʿāʾi li ṯalāṯa ʿašara baqīna min ʾamšīra sanaẗa ṯalāṯa ʿašara wa ʾarbaʿi miʾaẗ:in ăl ḫarāǧiyyaẗi ăl muwāfiqi 
+ <lb n="18"/>salḫa ḏū ăl qaʿdaẗi sanaẗa ʾarbaʿa ʿašara wa ʾarbaʿi miʾaẗ:ini ăl hilāliyyaẗi 
+ <lb n="19"/>šahida maymūnu bnu muḥammadi bni ăl maḥrūmi maǧzūmi 
+ <lb n="20"/>bi mā fī hāḏā ăl kitābi wa kataba ʿan hu ʿaliyyu bnu 
+ <lb n="21"/>hibaẗi ăl lāhi bni ḫalaf:in bi ʾamri hi wa maḥḍari hi 
+ <lb n="22"/>šahida ăl mukannā bi ʾabā ăl qāsimi bnu ramaḍāna bni yaḥyà 
+ <lb n="23"/>bni qurayš:in bi mā fī hāḏā ăl kitābi wa kataba ʿan hu 
+ <lb n="24"/>ʿaliyyu bnu hibaẗi ăl lāhi bni ḫalaf:in bi ʾamri hi 
+ <lb n="25"/>šahida silkaẗu bnu ʾibrāhīma bni bābawayha 
+ <lb n="26"/>bi mā fī hāḏā ăl kitābi wa kataba ʿan hu ʿaliyyu 
+ <lb n="27"/>bnu hibaẗi ăl lāhi bni ḫalaf:in bi ʾamri hi wa maḥḍari hi 
+ <lb n="28"/>šahida muḥammadu bnu ăl būsiriyyu Bwsrī 
+ <lb n="29"/>bi mā fī hāḏā ăl kitābi wa kataba ʿan hu 
+ <lb n="30"/>ʿaliyyu bnu hibaẗi ăl lāhi bni ḫalaf:in 
+ <lb n="31"/>bi ʾamri hi wa maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Der Inhalt dieser Urkunde wurde von mir als richtig festgestellt. Von ʿAlī ibn Hibat Allāh
+			<lb n="2"/>
+		ibn Ḫalaf ibn Muḥammad ibn Šaraf al-Miṣrī eigenhändig an dem Datum dieses (Dokuments) geschrieben.
+			<lb n="3"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmenden!
+			<lb n="4"/>
+		Dies ist das, was Merqūre ibn Minā der Barbier von Pqām, Madrīya und Qryhw, den Kindern von Alakū, Tanūṣ und Alakū, den Kindern von Šenūda ibn Alakū,
+			<lb n="5"/>
+		Kayl, Heliya, Yuḥannis und Qarisiya, den Kindern von Asṭāsa ibn Alakū, Daraka bint Šenūda, Bīne, Maria bint Šalād bint Theodor, پسهذ‬,
+			<lb n="6"/>
+		der Gattin von Theodor, Heliya ibn Adwīn, Qirā bint Sbyh bint Adwīn und Yuhannis &lt;ibn Sbyh&gt; (?) bint Adwīn gekauft hat, wobei sie alle Bewohner des Weilers sind, der bekannt ist (unter dem Namen)
+			<lb n="7"/>
+		Barbanūda von der Provinz al-Fayyūm, und zwar kaufte er von ihnen achtzehn Anteile und ein Drittel Anteil von vierundzwanzig ungeteilten gemeinschaftlichen Anteilen
+			<lb n="8"/>
+		an dem Haus, das bekannt ist als (das von) Ab.š, mit seiner Eingrenzung und seinen Grenzen, seinem Eingang und seinem Ausgang, seinem oberen Teil und seinem unteren Teil, seinem Holz und seinen Türen,
+			<lb n="9"/>
+		seinen Ziegelsteinen und seinen Natursteinen und jedem ihm zugehörenden Recht &lt;innerhalb&gt; und außerhalb, um einen Dinar und ein Viertel Dinar und ein Achtel Dinar und einen halben Karat. Sie empfingen alle diesen Kaufpreis
+			<lb n="10"/>
+		ganz und vollständig und übergaben Merqūre ibn Mīnā dem Barbier dieses Haus, und er erlangte es und nahm es in Besitz, und es wurde zu seinem Eigentum und
+			<lb n="11"/>
+		Besitz, so daß er darüber so verfügen kann, wie es Eigentümer mit ihrem Besitz tun: wenn er will, kann er (es) verkaufen, wenn er will, kann er (es) verschenken, und wenn er will, kann er (es) als Almosen geben. Sie sagten sich von diesem (Haus) in der Form einer Bestätigung los, daß sie (den Kaufpreis) in voller Höhe empfangen haben. Wann auch immer also
+			<lb n="12"/>
+		jemand gegen Merqūre ibn Mīnā einen Anspruch bezüglich dieses Hauses erhebt, sei es, daß er plötzlich eine Geldforderung vorweist, oder daß er erbberechtigt ist, so obliegt die Durchführung und Bezahlung dieses (Anspruchs)
+			<lb n="13"/>
+		den in diesem Dokument genannten Personen, was es auch sein mag und wieviel es auch betragen mag. Dieses Haus hat vier Grenzen. Die erste Grenze
+			<lb n="14"/>
+		- es ist die südliche - reicht zu dem als &#034;Kreuz(weg)&#034; bekannten Weg; auf ihn öffnet sich die Tür, und von ihm betritt und verläßt man (das Haus). Die zweite Grenze - es ist die nördliche -
+			<lb n="15"/>
+		reicht zu dem Haus von ‫ابڤتڤيه‬ ibn Qulta. Die dritte Grenze, die westliche, reicht zu dem Haus von Lāqīda ibn Qrhw. Die vierte Grenze - es ist die östliche - reicht zum Schutthügel. Dies
+			<lb n="16"/>
+		ließen sie gegen sich bezeugen bei körperlicher und geistiger Gesundheit und Rechtsfähigkeit, freiwillig, weder gezwungen noch genötigt, sondern zufrieden damit.
+			<lb n="17"/>
+		&lt;Geschrieben&gt; am Mittwoch, da dreizehn (Nächte) vom (Monat) Amšīr des Grundsteuerjahres vierhundertunddreizehn blieben, der
+			<lb n="18"/>
+		dem Ende des (Monats) Ḏū l-Qaʿda des Mondjahres vierhundertundvierzehn entspricht.
+			<lb n="19"/>
+		Es bezeugte Maymūn ibn Muḥammad ibn al-Maḥrūm
+			<lb n="20"/>
+		den Inhalt dieses Dokumentes. Es schrieb für ihn ʿAlī ibn
+			<lb n="21"/>
+		{ibn} Hibat Allah ibn Ḫalaf auf seinen Befehl und in seiner Gegenwart.
+			<lb n="22"/>
+		Es bezeugte der mit der Kunya Abū l-Qāsim benannte Ibn Ramaḍān ibn Yaḥyā
+			<lb n="23"/>
+		ibn Qurayš den Inhalt dieses Dokuments. Es schrieb für ihn
+			<lb n="24"/>
+		ʿAlī ibn Hi&lt;ba&gt;t Allāh ibn Ḫalaf auf seinen Befehl.
+			<lb n="25"/>
+		Es bezeugte Silka ibn Ibrāhīm ibn Bābawayh
+			<lb n="26"/>
+		den Inhalt dieses Dokuments. Es schrieb für ihn ʿAlī
+			<lb n="27"/>
+		ibn Hibat Allāh ibn Ḫalaf auf seinen Befehl und in seiner Gegenwart.
+			<lb n="28"/>
+		Es bezeugte Muḥammad ibn ‫الپوسرى 
+			<lb n="29"/>
+		den Inhalt dieses Dokuments. Es schrieb für ihn
+			<lb n="30"/>
+		ʿAlī ibn Hibat Allāh ibn Ḫalaf
+			<lb n="31"/>
+		auf seinen Befehl und in seiner Gegenwart.
+</ab></div>
+</body>
+</text>
+</TEI>

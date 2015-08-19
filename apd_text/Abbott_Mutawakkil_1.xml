@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1203" xml:id="Abbott_Mutawakkil_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AbbottMutawakkil 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Mutawakkil_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169041</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="recto2"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حال</supplied> <supplied reason="lost" cert="high">ينجمع</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">مساحة</supplied> <supplied reason="lost" cert="high">قرية</supplied> <supplied reason="lost" cert="high">تد</supplied>عى الجباب من إقليم جبل الجليل من كروم صنمـ<supplied reason="lost" cert="high">ـين</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">جعفر</supplied> 
+<lb n="recto3"/>  <supplied reason="lost" cert="high">الإمام</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـتوكّل على اللّه أمير المومپپن أطال اللّه بقاه وجرى على يد أحمد بن محمّد عامل <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">إبراهيم</supplied> 
+<lb n="recto4"/>  الموپد باللّه ولي عهد المسلمين وأمير المومپپن أعزّهما اللّه بجند دمشق في سنة إحدى وأربعين ومائتـ<supplied reason="lost" cert="high">ـين</supplied> 
+<lb n="recto5"/>  <supplied reason="lost" cert="high">والأمر</supplied> لأمير الأبنيا والشّاهدين أحمد بن يزيد وعمرو بن محمّد والحد الأوّل من القبلة القرية <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto6"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أر</supplied>ما </lem><rdg resp="APD">أدماء</rdg></app> والحد الثّالث من قبل ظهر القبلة القرية بريج والحد الرّابع من قبل المغرب القر<supplied reason="lost" cert="high">ية</supplied> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto7"/>  مساحة أرض العذي 
+<lb n="recto8"/>  <supplied reason="omitted" cert="high">و</supplied>أهل أرما خمسة عذي ثلثة عشر جلّا في <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto9"/>  ولهم أرض وسط عذي ثمنية عشر جلّا <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto10"/>  ولهم رزن عذي مقطل مكر بما له عشرة أجل <supplied reason="lost" cert="high">في</supplied> عشرة أجل <supplied reason="lost" cert="high">مائة</supplied> <supplied reason="lost" cert="high">جلّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto11"/>  ولهم غير أرزن عشرة <supplied reason="omitted" cert="high">في</supplied> أربعة أجل <supplied reason="lost" cert="high">أربعين</supplied> <supplied reason="lost" cert="high">جلّا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto12"/>  <gap reason="illegible" extent="17" unit="character" /> في خمسة أجل <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto13"/>  <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">ذ</supplied>لك يكن ثمان وسبع مائة جل أرض رزن 
+<lb n="verso1"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حال</supplied> <supplied reason="lost" cert="high">ينجمع</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">مساحة</supplied> قرية تدعى الجباب من إقليم جبل الجليل 
+<lb n="verso2"/>  فائق بن عبد اللّه بن هرون 
+<lb n="verso3"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">بپده</unclear> </lem><rdg resp="APD">بيده </rdg><rdg resp="Handmark?"><gap reason="illegible" extent="1" unit="character" /></rdg></app> 
+<lb n="verso4"/>  <app type="BL"><lem resp="APD">محمّد </lem><rdg resp="APD">عمر</rdg></app> بن هرون 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥāl:in yanǧamiʿu min misāḥaẗi qaryaẗ:in tudʿà ăl ǧibāba min ʾiqlīmi ǧabali ăl ǧalīli min kurūmi ṣanamayna ʾamara bi hi ʿabdu ăl lāhi ǧaʿfaru 
+ <lb n="3"/>ăl ʾimāmu ăl mutawakkilu ʿalà ăl lāhi ʾamīru ăl muʾminīna ʾaṭāla ăl lāhu baqāʾa hu wa ǧarà ʿalà yadi ʾaḥmada bni muḥammad:in ʿāmili ăl ʾamīri ʾibrāhīma 
+ <lb n="4"/>ăl muʾayyadi bi ăl lāhi waliyyi ʿahdi ăl muslimīna wa ʾamīri ăl muʾminīna ʾaʿazza humā ăl lāhu bi ǧundi dimašqa fī sanaẗi ʾiḥdà wa ʾarbaʿīna wa miʾatayni 
+ <lb n="5"/>wa ăl ʾamru li ʾamīri ăl ʾabniyāʾi wa ăš šāhidayni ʾaḥmadu bnu yazīda wa ʿamru bnu muḥammad:in wa ăl ḥaddu ăl ʾawwalu mina ăl qiblaẗi ăl qaryaẗu ***** 
+ <lb n="6"/>ʾarmā ʾudmāʾ wa ăl ḥaddu ăṯ ṯāliṯu min qibali ẓahri ăl qiblaẗi ăl qaryaẗu burayǧu wa ăl ḥaddu ăr rābiʿu min qibali ăl maġribi ăl qaryaẗu ***** 
+ <lb n="7"/>misāḥaẗu ʾarḍi ăl ʿaḏī 
+ <lb n="8"/>wa ʾahlu ʾarmā ḫamsaẗ:un ʿaḏiyy:un ṯalāṯaẗa ʿašara ǧall:an fī ***** 
+ <lb n="9"/>wa la hum ʾarḍu wasaṭ:in ʿaḏiyy:in ṯamāniyaẗa ʿašara ǧall:an fī ***** 
+ <lb n="10"/>wa la hum razn:un ʿaḏiyy:un muqṭall:un mukarr:un bi māʾ:in la hu ʿašaraẗu ʾaǧull:in fī ʿašaraẗi ʿaǧull:in miʾaẗu ǧall:in *** 
+ <lb n="11"/>wa la hum ġayru ʾarzun:in ʿašaraẗu fī ʾarbaʿaẗi ʾaǧull:in ʾarbaʿīna ǧall:an *** 
+ <lb n="12"/>***************** fī ḫamsaẗi ʾaǧull:in ***** 
+ <lb n="13"/>***** ḏālika yakunu ṯamān:in wa sabʿu miʾaẗi ǧalli ʾarḍi razn:in 
+ <lb n="14"/>ḏikru ḥāl:in yanǧamiʿu min misāḥaẗi qaryaẗ:in tudʿà ăl ǧibāba min ʾiqlīmi ǧabali ăl ǧalīli 
+ <lb n="15"/>fāʾiqu bnu ʿabdi ăl lāhi bni hārūna 
+ <lb n="16"/>bi * ḫaṭṭi yadi hi 
+ <lb n="17"/>muḥammadu ʿumaru bnu hārūna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Merciful, the Compassionate.]
+			<lb n="2"/>
+		[Report of a statement of account of the total area of the village cal]led al-Ǧibāb, in the district of Ǧabal al-Ǧalīl, belonging to the vineyards of Ṣanam]ain. Ordered by ʿAbd Allāh Ǧaʿfar,
+			<lb n="3"/>
+		[the Imām, al-]Mutawakkil ʿala-llāh, Commander of the Faithful - may God prolong his life. Issued by the order of Aḥmad ibn Muḥammad, financial governor [for the Amīr Ibrāhīm]
+			<lb n="4"/>
+		al-Muʾayyad Billāh, Crown Prince of the Muslims, and for the Commander of the Faithful - may God strengthen them - in the province of Damascus in the year one and forty and two hund[red].
+			<lb n="5"/>
+		[And (the execution of) the order (was deldgated)] to the director of constructions. And the witnesses (are) Aḥmad ibn Yazīd, and ʿAmr ibn Muḥammad. And the first boundary, to the south (is) the vill[age ... and the second boundary, to the east (is) the village]
+			<lb n="6"/>
+		[Ar]mā(?) and the third boundary, to the north, (is) the village Buraiǧ and the fourth boundary, to the west, (is) the vill[age ....]
+			<lb n="7"/>
+		Area of the rain-watered land.
+			<lb n="8"/>
+		[And] the peolpe of Armā(?), five; rain-watered land, thirteen ǧalls into [......]
+			<lb n="9"/>
+		And they have choice rain-watered land, eighteen ǧalls [into .....]
+			<lb n="10"/>
+		And they have an elevated plain of rain-watered land, separate and irrigated by its (own) water, ten ǧalls [into] ten ǧalls - [one hundred ǧalls.]
+			<lb n="11"/>
+		And they have other elevated plain land, ten &lt;into&gt; four ǧalls - [forty ǧalls.]
+			<lb n="12"/>
+		[........... into] five ǧalls [....]
+			<lb n="13"/>
+		[.....] and that is (in all) eight and seven hundred ǧalls of elevated plain land.
+			<lb n="14"/>
+		[Report of a statement of account of the total area] of the village called al-Ǧibāb in the district of Ǧabal al-Ǧalīl.
+			<lb n="15"/>
+		Fāʾiq ibn ʿAbd Allāh ibn Hārūn
+			<lb n="16"/>
+			<lb n="17"/>
+		Muḥammad ibn Hārūn
+</ab></div>
+</body>
+</text>
+</TEI>

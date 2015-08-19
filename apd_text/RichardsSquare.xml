@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2108" xml:id="RichardsSquare" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RichardsSquareDecree</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">RichardsSquare</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto i 1"/>  الحمد للّه سبحانه 
+<lb n="recto i 2"/>  المرسوم بالأمر الكريم السّامي الموْلوي الأميري 
+<lb n="recto i 3"/>  الكبيري العضدي الذّخري السّيّدي المالكي المخدومي 
+<lb n="recto i 4"/>  السّيفي دلنجي النَّاصري أسبغ اللَّه ظلّه أن يستقر الأب 
+<lb n="recto i 5"/>  الرّاهب القس إبرهيم المعروف <unclear reason="undefined" cert="high">بالڤلويّ</unclear> جرّانا 
+<lb n="recto ii 1"/>  باـلنّاحية المعروفة بسمَاطس الجارية في الخَاص السّعيد المشار إليه شريك 
+<lb n="recto ii 2"/>  لمن تقَدّمه بحق النّصف وأن يأخذ من المعلوم ما جرت 
+<lb n="recto ii 3"/>  العادة به لمن تقدّمه فسبيل النّوّاب والمباشرين 
+<lb n="recto ii 4"/>  وكل من وقف عليه الاعتماد ما رسم به <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto ii 5"/>  <gap reason="illegible" precision="low" extent="3"/> وأن لا يبدّئ عليه أحدا 
+<lb n="recto ii 6"/>  معتمدا على العلامة الكريمة المخدوميّة السّيفيّة على ظاهره حجّة 
+<lb n="recto ii 7"/>  إن شا اللّه تعالى 
+<lb n="verso i"/>  الحمد للّه 
+<lb n="verso ii 1"/>  كتب في تأريخ سلخ شهر شعبان المبارك سنة ثلث <unclear reason="undefined" cert="high">وثلثين</unclear> وسبع مائة 
+<lb n="verso ii 2"/>  الحمد للّه وحده 
+<lb n="verso ii 3"/>  وصلواته على سيّدنا محمّد وآله وصحبه وسلامه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi subḥāna hu 
+ <lb n="2"/>ăl marsūmu bi ăl ʾamri ăl karīmi ăs sāmī ăl mawlawiyyi ăl ʾamīriyyi 
+ <lb n="3"/>ăl kabīriyyi ăl ʿaḍudiyyi ăḏ ḏuḫriyyi ăs sayyidiyyi ăl mālikiyyi ăl maḫdūmiyyi 
+ <lb n="4"/>ăs sayfiyyi dilanǧī ăn nāṣiriyyi ʾasbaġa ăl lāhu ẓilla hu ʾan yustaqarra ăl ʾabu 
+ <lb n="5"/>ăr rāhibu ăl qassu ʾibrāhīmu ăl maʿrūfu bi ăl Flwiyyi ǧarrān:an 
+ <lb n="6"/>bi ăn nāḥiyaẗi ăl maʿrūfaẗi bi sumāṭisa ăl ǧāriyaẗi fī ăl ḫāṣṣi ăs saʿīdi ăl mušāri ʾilay hi šarīk 
+ <lb n="7"/>li man taqaddama hu bi ḥaqqi ăn niṣfi wa ʾan yaʾḫuḏa mina ăl maʿlūmi mā ǧarati 
+ <lb n="8"/>ăl ʿādaẗu bi hi li man taqaddama hu fa sabīlu ăn nuwwābi wa ăl mubāširīna 
+ <lb n="9"/>wa kulli man waqafa ʿalay hi ăli ĭʿtimādu mā rasama bi hi *** 
+ <lb n="10"/>*** wa ʾan lā yubaddiʾa ʿalay hi ʾaḥad:an 
+ <lb n="11"/>muʿtamid:an ʿalà ăl ʿalāmaẗi ăl karīmaẗi ăl maḫdūmiyyaẗi ăs sayfiyyaẗi ʿalà ẓāhiri hi ḥuǧǧaẗ:an 
+ <lb n="12"/>ʾin šāʾa ăl lāhu taʿālà 
+ <lb n="13"/>ăl ḥamdu li l lāhi 
+ <lb n="14"/>kutiba fī taʾrīḫi salḫi šahri šaʿbāna ăl mubāraki sanaẗa ṯalāṯ:in wa ṯalāṯīna wa sabʿi miʾaẗ:in 
+ <lb n="15"/>ăl ḥamdu li l lāhi waḥdi hi 
+ <lb n="16"/>wa ṣalāwātu hu ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa ṣaḥbi hi wa salāmu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Praise be to God. Glory be to Him.
+			<lb n="2"/>
+		The decree by the noble, exalted command of the lord, the great
+			<lb n="3"/>
+		emir ... 
+			<lb n="4"/>
+		Saif al-Dīn Dilenjī al-Nāṣirī (may God spread amply his shadow) [is] that the Father,
+			<lb n="5"/>
+		monk and priest, Ibrahim, known as al-[..lwī], should be established as jarrān
+			<lb n="6"/>
+		in the locality known as Sumāṭis, currently under the auspicious khāṣṣ [of] the aforementioned, as a partner
+			<lb n="7"/>
+		of his predecessor, with half share, and that he should receive such salary as has been
+			<lb n="8"/>
+		customary for his predecessor. The [right] course [of action] for deputies and officials
+			<lb n="9"/>
+		and all who peruse this is to carry out what is hereby ordered ............
+			<lb n="10"/>
+		and not to give anyone precedence over him,
+			<lb n="11"/>
+		relying on the noble motto signature of the master Saif al-Din on the verso of this as authorization.
+			<lb n="12"/>
+		If God Almighty wills.
+			<lb n="13"/>
+		PRAISE BE TO GOD.
+			<lb n="14"/>
+		Written on the last day of Shaʿbān the Blessed, the year three and thirty(?) and seven hundred [15 May, 1333].
+			<lb n="15"/>
+		Praise be to God alone.
+			<lb n="16"/>
+		And His blessings be upon our Lord Muḥammad and his family and his Companions, and His peace.
+</ab></div>
+</body>
+</text>
+</TEI>

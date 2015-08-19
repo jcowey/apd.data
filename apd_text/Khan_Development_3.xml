@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1292" xml:id="Khan_Development_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KhanPetitions 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Development_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169115</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـا أكتب هذه الرّقعة إلّا من 
+<lb n="recto2"/>  <gap reason="illegible" precision="low" extent="3"/> وأعلمك سيّدي أن السّوّاس 
+<lb n="recto3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـموپى أشد مطالبة وأنا أعدهم 
+<lb n="recto4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـا بقي لي شي أنفقه عليهم 
+<lb n="recto5"/>  <gap reason="illegible" precision="low" extent="3"/> على كنّا ننفق به فـإن را الأستاذ 
+<lb n="recto6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ننـ</supplied>ـفقه عليهم فعل إن شا اللّه 
+<lb n="verso1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso2"/>  أطال الله بقا سيّدي 
+<lb n="verso3"/>  دوابّنا بلا تبن وجيت لأكلّمك 
+<lb n="verso4"/>  وكان عندك أخوك أعزّه اللّه 
+<lb n="verso5"/>  فلم يتهيّأ لي ذلك وكتبت 
+<lb n="verso6"/>  إلى سيّدي لأعلمه ذلك إن شا اللّه 
+<lb n="verso7"/>  فـإن رأى سيّدي أنصره اللّه أن تأمر لها 
+<lb n="verso8"/>  بأخذ التّبن فإنّها بلا علف فعل إن شا اللّه 
+<lb n="verso9"/>  أطال اللّه بقا سيّدي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** mā ʾaktubu hāḏihi ăr ruqʿaẗa ʾillā min 
+ <lb n="2"/>*** wa ʾuʿlimu ka sayyid ī ʾanna ăs suwwāsa 
+ <lb n="3"/>*** ***mū nī ʾašadda muṭālabaẗ:in wa ʾanā ʾaʿidu hum 
+ <lb n="4"/>*** mā baqiya l ī šayʾ:un ʾunfiqu hu ʿalay him 
+ <lb n="5"/>*** ʿalà kunnā nunfiqu bi hi fa ʾin rā ăl ʾustāḏu 
+ <lb n="6"/>*** nunfiqu hu ʿalay him faʿala ʾin šāʾa ăl lāhu 
+ <lb n="7"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="8"/>ʾaṭāla ăl lāhu baqāʾa sayyid ī 
+ <lb n="9"/>dawābbu nā bi lā tibn:in wa ǧiʾtu li ʾukallima ka 
+ <lb n="10"/>wa kāna ʿinda ka ʾaḫū ka ʾaʿazza hu ăl lāhu 
+ <lb n="11"/>fa lam yatahayyaʾ l ī ḏālika wa katabtu 
+ <lb n="12"/>ʾilà sayyid ī li ʾuʿlima hu ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="13"/>fa ʾin raʾà sayyid ī ʾanṣara hu ăl lāhu ʾan taʾmura la hā 
+ <lb n="14"/>bi ʾaḫḏi ăt tibni fa ʾinna hā bi lā ʿalaf:in faʿala ʾin šāʾa ăl lāhu 
+ <lb n="15"/>ʾaṭāla ăl lāhu baqāʾa sayyid ī 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] I am only writing this petition
+			<lb n="2"/>
+		[...] and I inform you, my lord, that the grooms
+			<lb n="3"/>
+		[...] ... the most pressing request and I promise them
+			<lb n="4"/>
+		[...] I have nothing left to expend on them
+			<lb n="5"/>
+		[...] ... which we may expend. If the honourable lord should resolve to
+			<lb n="6"/>
+		[... which we] might expend on them, let him do so, if God wills.
+			<lb n="7"/>
+		In the name of God the merciful and compassionate.
+			<lb n="8"/>
+		May God prolong the life of my lord.
+			<lb n="9"/>
+		Our animals are without straw. I came to speak to you
+			<lb n="10"/>
+		but your brother, may God give him strength, was with you
+			<lb n="11"/>
+		and it was not possible for me to do so. I have written
+			<lb n="12"/>
+		to my lord to inform him of this, if God wills.
+			<lb n="13"/>
+		If my lord, may God give him succour, should resolve to order the
+			<lb n="14"/>
+		provision of straw for them, for they are without straw, let him do so, if God wills.
+			<lb n="15"/>
+		May God prolong the life of my lord.
+</ab></div>
+</body>
+</text>
+</TEI>

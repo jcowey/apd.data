@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1895" xml:id="Grohmann_APEL_413" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 413</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_413</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169632</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم تذكرة ما أدّاه إسحق <app type="BL"><lem resp="APD">النّوبي </lem><rdg resp="UB">النّوتيّ</rdg></app> 
+<lb n="2"/>  عن عجالة الرّاهب لسنة أربع وثلثين وأربعمائة 
+<lb n="3"/>  ‮ـ<del rend="erasure" status="unremarkable">مينا</del> <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">پروس</del> <del rend="erasure" status="unremarkable">‪β‬</del> <del rend="erasure" status="unremarkable">پپپوده</del> <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">اسموا</del> <del rend="erasure" status="unremarkable">‪α‬</del> 
+<lb n="4"/>  من الدّين 
+<lb n="5"/>  ‮إسطوروس المنهلاوي ‪ α‬ اپو السر 
+<lb n="6"/>  من الدّين من الدّين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi taḏkiraẗu mā ʾaddā hu ʾisḥāqu ăn nūbiyyu nūtiyyu 
+ <lb n="2"/>ʿan ʿiǧālaẗa ăr rāhibi li sanaẗi ʾarbaʿ:in wa ṯalāṯīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="3"/>mīnā bnu barūsa ‪2 babnūdaẗu bnu ʾasmū ‪1 
+ <lb n="4"/>mina ăd dayni 
+ <lb n="5"/>ʾisiṭūrūsu ăl manhalāwiyyu ‪1 ʾabū ăs sarri ‪1 
+ <lb n="6"/>mina ăd dayni mina ăd dayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. Memory-note of what Isḥâq, the Nubian, has paid
+		In the name of God, the Compassionate, the Merciful. Memory-note of what Isḥâq, the sailor, has paid
+			<lb n="2"/>
+		on behalf of ʿIǧâla, the monk, for the year four hundred and thirty-four.
+			<lb n="3"/>
+		〚Mînâ b. Parûs 2 | Papnute (Babnûde), son of Asmû 1〛
+			<lb n="4"/>
+		from the debt
+			<lb n="5"/>
+		Isidoros (Isiṭôrôs), originating from Manhalâ 1 | Abuʾs-Sarr 1
+			<lb n="6"/>
+		from the debt | from the debt.
+</ab></div>
+</body>
+</text>
+</TEI>

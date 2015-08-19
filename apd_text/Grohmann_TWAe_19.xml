@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="524" xml:id="Grohmann_TWAe_19" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 19</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_19</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106694</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  پـ<supplied reason="lost" cert="high">ـسم</supplied> ا<supplied reason="lost" cert="high">للّه</supplied> الرّحمن الرّحيم الّذي <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">صرّفنا</rdg></app> پپاس من الدراهم دپپار 
+ <lb n="2"/>  <supplied reason="lost" cert="high">حرح</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن دلك پوم الا<supplied reason="lost" cert="high">حد</supplied> <app type="BL"><lem resp="APD">لحم </lem><rdg resp="Diem">الخميس </rdg><rdg resp="Diem">الجمعة</rdg></app> α حواپح ς سعپر δʹ‎ رپپ γʹ‎ سله <app type="BL"><lem resp="APD">χ </lem><rdg resp="APD">سلة</rdg></app> 
+ <lb n="3"/>  يوم السّبت لحم α حوائج ςʹ‎ شعير δʹ‎ النّحّاس αχ خبز αςʹ‎ <app type="BL"><lem resp="APD">سلّة </lem><rdg resp="APD">سلة</rdg></app> χ 
+ <lb n="4"/>  يوم الأحد <supplied reason="lost" cert="high">لحم</supplied> <gap reason="illegible" extent="4" unit="character" /> αςʹ‎ عدس κʹ‎δʹ‎ شعير δʹ‎ حسين واللّيث δʹ‎ فول γʹ‎ 
+ <lb n="5"/>  <app type="BL"><lem resp="APD">سلّة </lem><rdg resp="APD">سلة</rdg></app> χ الغسّال <supplied reason="lost" cert="high">α</supplied> يوم الاثنين <app type="BL"><lem resp="APD">سلة </lem><rdg resp="APD">سلة</rdg></app> χ تمر محمّرة وطفل βχιʹ‎βʹ‎ خبز γʹ‎ 
+ <lb n="6"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـعر δʹ‎ الدلال βςʹ‎ كپور αχιʹ‎βʹ‎ سعپر δʹ‎ ما <supplied reason="lost" cert="high">ςʹ‎</supplied> الپلپا لحم α حواپح ςʹ‎ 
+ <lb n="7"/>  <supplied reason="lost" cert="high">سـ</supplied>ـلـ<supplied reason="lost" cert="high">ـه</supplied> <app type="BL"><lem resp="APD">χ </lem><rdg resp="APD">سلة</rdg></app> <supplied reason="lost" cert="high">سـ</supplied>ـعپر δʹ‎ رپپ γʹ‎ پوم الاريعا سله <app type="BL"><lem resp="APD">χ </lem><rdg resp="APD">سلة</rdg></app> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">ر</supplied>پپ ςʹ‎ الصاپع <app type="BL"><lem resp="APD">α </lem><rdg resp="Diem">الصّانع</rdg></app> 
+ <lb n="8"/>  خبز α خبز χδʹ‎ شعير δʹ‎ <app type="BL"><lem resp="APD">سلّة </lem><rdg resp="APD">سلة</rdg></app> χ ما <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">يـ</supplied>ـوم الخميس خبز αδʹ‎ عدس ης 
+ <lb n="9"/>  <app type="BL"><lem resp="“LR”"><supplied reason="lost" cert="high">عـ</supplied>ـطب </lem><rdg resp="Diem">حطب</rdg></app> ςʹ‎ شعير γʹ‎ عبد الرّحمن عرس <app type="BL"><lem resp="APD">ا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أحمد</rdg></app> <unclear reason="undefined" cert="high">ο</unclear>β يوم الجمعة لحم α حوائج δʹ‎ 
+ <lb n="10"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">خبز</rdg></app> δʹ‎ شعير γʹ‎ ما ςʹ‎ سكّر ςʹ‎ زيت γʹ‎ <app type="BL"><lem resp="APD">موزسار </lem><rdg resp="APD">برتقان</rdg></app> βχδʹ‎ فراريج βςʹ‎ الحمّال ιʹ‎ 
+ <lb n="11"/>  <supplied reason="lost" cert="high">سـ</supplied>ـكر <app type="BL"><lem resp="APD">αχ </lem><rdg resp="Diem">خبز</rdg></app> پڤول ςʹ‎ <supplied reason="lost" cert="high">سـ</supplied>ـله <app type="BL"><lem resp="APD">χ </lem><rdg resp="APD">سلة</rdg></app> ما ςʹ‎ پوم السيپ لحم α حواپح ςʹ‎ حپطه ςʹ‎ سله <app type="BL"><lem resp="APD">χ </lem><rdg resp="APD">سلة</rdg></app> 
+ <lb n="12"/>  أبزار <unclear reason="undefined" cert="high">α</unclear>γʹ‎ مسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> الطّحّان χ برطقان γ 
+ <lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăllaḏī *** ṣarrafnā BBʾs mina ăd darāhimi dīnār:un 5 
+ <lb n="2"/>‫ ḫaraǧa min ḏālika yawma ăl ʾaḥadi ḫamīsi ǧumʿaẗi laḥm:un 1 ḥawāʾiǧu 1/6 šaʿīr:un 1/4 zayt:un 1/3 sallaẗ:un silaẗu 1/2 
+ <lb n="3"/>yawma ăs sabti laḥm:un 1 ḥawāʾiǧu 1/6 šaʿīr:un 1/4 ăl naḥḥāsu 1 1/2 ḫubz:un 1 1/6 sallaẗ:un silaẗu 1/2 
+ <lb n="4"/>yawma ăl ʾaḥadi laḥm:un **** 1 1/6 ʿadas:un 1/24 šaʿīr:un 1/4 ḥusayn:un wa ăl layṯu 1/4 fūl:un 1/3 
+ <lb n="5"/>sallaẗ:un silaẗu 1/2 ăl ġassālu 1 yawma ăl ĭṯnayni sallaẗ:un silaẗu 1/2 tamr:un muḥammaraẗ:un wa ṭafl:un 2 1/2+1/12 ḫubz:un 1/3 
+ <lb n="6"/>**ʿr 1/4 ăd dallālu 2 1/6 kubūr:un 1 1/2+1/12 šaʿīr:un 1/4 māʾ:un 1/6 ăṯ ṯulāṯāʾu laḥm:un 1 ḥawāʾiǧu 1/6 
+ <lb n="7"/>sallaẗ:un silaẗu 1/2 šaʿīr:un 1/4 zayt:un 1/3 yawmu ăl ʾarbaʿāʾi sallaẗ:un silaẗu 1/2 **** zayt:un 1/6 ăṣ ṣāʾiġu ṣāniʿu 1 
+ <lb n="8"/>ḫubz:un 1 ḫubz:un 1/2+1/4 šaʿīr:un 1/4 sallaẗ:un silaẗu 1/2 māʾ:un * yawmu ăl ḫamīsi ḫubz:un 1 1/4 ʿadas:un 26 
+ <lb n="9"/>quṭn:un ḥaṭab:un 1/6 šaʿīr:un 1/3 ʿabdu ăr raḥmāni ʿirsu ʿursu ʾ*** ʾaḥmada 72 yawmu ăl ǧumʿaẗi laḥm:un 1 ḥawāʾiǧu 1/4 
+ <lb n="10"/>*** ḫubz:un 1/4 šaʿīr:un 1/3 māʾ:un 1/6 sukkar:un 1/6 zayt:un 1/3 mawzsār burtuqān:un 2 1/2+1/4 farārīǧu 2 1/6 ăl ḥammālu 1/10 
+ <lb n="11"/>sukkar:un ḫubz:un 1 1/2 buqūl:un 1/6 sallaẗ:un silaẗu 1/2 māʾ:un 1/6 yawmu ăs sabti laḥm:un 1 ḥawāʾiǧu 1/6 ḥinṭaẗ:un 1/6 sallaẗ:un silaẗu 1/2 
+ <lb n="12"/>ʾabzār:un 1 1/3 ms*** ăṭ ṭaḥḥānu 1/2 burṭuqān:un 3 
+ <lb n="13"/>*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes des Barmherzigen, Gütigen. Was [...] an Geld: Dīnār(e) 5.
+		 <lb n="2"/>
+ 	  Davon [wurde bestritten]: [Sonn]tag: Fleisch 1, Bedarfsartikel 1/6, Gerste 1/4, Öl 1/3, Korb 1/2.
+ 	  Davon wurde bestritten: Sonn[tag:] Fleisch 1, Bedarfsartikel 1/6, Gerste 1/4, Öl 1/3, Korb 1/2.
+		 <lb n="3"/>
+ 	  Samstag: Fleisch 1, Bedarfsartikel 1/6, Gerste 1/4, der Kupferschmied 1 1/2, Brot 1 1/6, Korb 1/2.
+		 <lb n="4"/>
+ 	  Sonntag: [Fleisch .....] 1 1/6, Linsen 1 /24, Gerste 1/4, Ḥusain und al-Laiṯ 1/4, Bohnen 1/3,
+		 <lb n="5"/>
+ 	  ... Bleicherde (ṭafl) ...
+ 	  Korb 1/2, der Wäscher 1. Montag: Korb 1/2, rote milde Datteln 2 1/2+1/12, Brot 1/3,
+		 <lb n="6"/>
+ 	  .... 1/4, der Sensal 2 1/6, Kapern 1 1/2+1/12, Gerste 1/4, Wasser [1/6]. Dienstag: Fleisch 1, Bedarfsartikel 1/6,
+		 <lb n="7"/>
+ 	  [K]or[b] 1/2, Gerste 1/4, Öl 1/3. Mittwoch: Korb 1/2, [.... Ö]l 1/6, der Goldschmied 1.
+		 <lb n="8"/>
+ 	  Brot 1, Brot 1/2+1/4, Gerste 1/4, Korb 1/2, Wasser .. D[onnerst]ag: Brot 1 1/4, Linsen 26 (?),
+		 <lb n="9"/>
+ 	  [Bau]mwolle 1/6, Gerste 1/3, ʿAbd ar-Raḥmān der Bräutigam von A[...] 72. Freitag: Fleisch 1, Bedarfsartikel 1/4,
+ 	  [Bau]mwolle 1/6, Gerste 1/3, ʿAbd ar-Raḥmān, ʿUrs, A[...] 62. Freitag: Fleisch 1, Bedarfsartikel 1/4,
+		 <lb n="10"/>
+ 	  .... (?) 1/4, Gerste 1/3, Wasser 1/6, Zucker 1/6, Öl 1/3, Bananen ...... 2 1/2+1/4, junge Hühner 2 1/6, der Lastträger 1/10,
+		 <lb n="11"/>
+ 	  [Zu]cker 1 1/2, Gemüse 1/6, [K]orb 1/2, Wasser 1/6. Samstag: Fleisch 1, Bedarfsartikel 1/6, Weizen 1/6, Korb 1/2.
+		 <lb n="12"/>
+ 	  Gemüsesamen 1 1/3 ...... [...], der Müller 1/2, Orangen 3.
+		 <lb n="13"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

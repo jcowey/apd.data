@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1235" xml:id="David-Weill_Louvre_6" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 06 b</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_6</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169072</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  شهد قاسم بن عبد اللّه الحميري أن سكّرة الجارية السّودا اشتراها محمّد بن يعقوب 
+ <lb n="2"/>  ومات وتركها ميراث 
+ <lb n="3"/>  شهد محمّد بن عيسى بن <app type="BL"><lem resp="APD">خفيف </lem><rdg resp="APD">حبيب</rdg></app> التجيبي أني لا أعرف 
+ <lb n="4"/>  سكّرة السّودا الّتي لمحمّد بن يعقوب وكتب 
+ <lb n="5"/>  شهادته في ذي الحجّة من سنة أحد عشر ومائتي 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="6"/>šahida qāsimu bnu ʿabdi ăl lāhi ăl ḥimyariyyu ʾanna sukkaraẗa ăl ǧāriyaẗa ăs sawdāʾa ĭštarā hā muḥammadu bnu yaʿqūba 
+ <lb n="7"/>wa māta wa taraka hā mīrāṯ 
+ <lb n="8"/>šahida muḥammadu bnu ʿīsà bni ḫafīf:in ḥabīb:in ăt tuǧībiyyu ʾan nī lā ʾaʿrifu 
+ <lb n="9"/>sukkaraẗa ăs sawdāʾa ăllatī li muḥammadi bni yaʿqūba wa kataba 
+ <lb n="10"/>šahādata hu fī ḏī ăl ḥiǧǧaẗi min sanaẗi ʾaḥada ʿašara wa miʾatay 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="6"/>
+ 	  A témoigné Qâsim ibn ʿAbd allah al Ḥimyarî que Sukkara, la jeune esclave noire a été achetée par Muhammad ibn Yaʿqûb 
+		 <lb n="7"/>
+ 	  puis il est mort et l&#039;a laissée en héritage. 
+		 <lb n="8"/>
+ 	  A témoigné Muhmammad ibn ʿIsâ ibn Khafîf (?) al Tudjîbî (?): je ne connais pas
+		 <lb n="9"/>
+ 	  Sukkara la noire qui appartient à Muhammad ibn Yaʿqûb et il a écrit 
+		 <lb n="10"/>
+ 	  son témoignage en dhû-l-ḥidjdja de l&#039;an deux cent onze/mars-avril 827
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

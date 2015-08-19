@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2137" xml:id="Umari_Khuyul_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر المجلس العالي <unclear reason="undefined" cert="high">يشكر</unclear> الظّاهري من طبقة 
+<lb n="3"/>  الإقرار الصّحيح الشّرعي أنّه قبض وتسلّم من المجلس العالي السّيفي جانيم من آقبردي من طبقة الرّكّابيّة 
+<lb n="4"/>  من الذّهب الأشرفي والظّاهري الطّيّب السّالم من العيب الشّرعي إحدى عشر <supplied reason="omitted" cert="high">د</supplied>ينار مصاري 
+<lb n="5"/>  وهو ثمن ما باعه وسلّمه له واعترف بتسلّمه وهو جميع فحل شاته أحمر اللّون محجّل 
+<lb n="6"/>  الشّقّة اليسرى أغر عصفور بجهته شامة به داغ المقام الشّريف معلوم عندهما العلم 
+<lb n="7"/>  الشّرعي النّافي للجهالة <gap reason="illegible" extent="4" unit="character" /> بالنّار والبيع في حينه 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> بشرط البرا من العيب الشّرعي لا ضمان سوى درك الحال 
+<lb n="9"/>  وأكل العليق المعتاد <gap reason="illegible" precision="low" extent="3"/> شهر جمادى الآخر سنة إحدى عشر وتسعمائة 
+<lb n="10"/>  شهد بذلك شهد بذلك 
+<lb n="11"/>  محمّد بن أحمد <gap reason="illegible" extent="5" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ăl maǧlisu ăl ʿālī yaškuru ăẓ ẓāhiriyyu min ṭabaqaẗi *** ăl ø ʾašrafiyyaẗi *** 
+ <lb n="3"/>ăl ʾiqrāra ăṣ ṣaḥīḥa ăš šarʿiyya ʾanna hu qabaḍa wa tasallama mina ăl maǧlisi ăl ʿālī ăs sayfiyyi ǧānīma min ʾāqbirdī min ṭabaqaẗi ăr rukkābiyyaẗi 
+ <lb n="4"/>mina ăḏ ḏahabi ăl ʾašrafiyyi wa ăẓ ẓāhiriyyi ăṭ ṭayyibi ăs sālimi mina ăl ʿaybi ăš šarʿiyyi ʾiḥdà ʿašara dīnār maṣāriya 
+ <lb n="5"/>wa huwa ṯamanu mā bāʿa hu wa sallama hu la hu wa ĭʿtarafa bi tasallumi hi wa huwa ǧamīʿu faḥl:in šātu hu ʾaḥmaru ăl lawni muḥaǧǧali 
+ <lb n="6"/>ăš šiqqaẗi ăl yusrà ʾaġarra ʿuṣfūr:in bi ǧihati hi šāmaẗ:un bi hi dāġu ăl maqāmi ăš šarīfi maʿlūm:in ʿinda humā ăl ʿilma 
+ <lb n="7"/>ăš šarʿiyya ăn nāfiya li l ǧahālaẗi **** bi ăl nāri wa ăl bayʿu fī ḥīni hi 
+ <lb n="8"/>*** *** *** bi šarṭi ăl barāʾi mina ăl ʿaybi ăš šarʿiyyi lā ḍamāna siwà daraki ăl ḥāli 
+ <lb n="9"/>wa ʾakli ăl ʿalīqi ăl muʿtādi *** šahr ǧumādà ăl ʾāḫiri sanaẗa ʾiḥdà ʿašara wa tisʿi miʾaẗ:in 
+ <lb n="10"/>šahida bi ḏālika šahida bi ḏālika 
+ <lb n="11"/>muḥammadu bnu ʾaḥmada ***** 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

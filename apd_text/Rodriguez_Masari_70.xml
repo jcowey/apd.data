@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1908" xml:id="Rodriguez_Masari_70" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 7a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_70</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169645</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على سيّدنا محمّد وعلى آله وصحبه وسلَّم 
+<lb n="2"/>  وجب للمباركة المصونة أم الفتح ابنة المكرّم الأفضل أبي إسحق 
+<lb n="3"/>  إبرهيم بن عبدون قبل المباركة المصونة أم الفتح بنت عثمن المدْيوني وفي مالها و 
+<lb n="4"/>  ذمّتها لها ثلاثة أرطال من غزل الحرير اللّفائفي المتوسّط الطّيّب في جنسه و 
+<lb n="5"/>  وقيمته تدفعها لَها عند انقضاء عام واحد من الآن ترتّبت لها قبلها من سام صحيح 
+<lb n="6"/>  مقبوض بيدها رأس ما<supplied reason="lost" cert="high">لها</supplied> قدره خمسون دينارا من الدّنانير العشريّة الجديدة ورهنت 
+<lb n="7"/>  بيدها في ذلك جميع المصريّة الكائنة بزنقة المحراب من سوق الخميس حومة بابِ 
+<lb n="8"/>  المزدع داخل الحضرة المحروسة قبليُّها ابن الكاتب شرقيّها بل جوفيّها الزّنقة 
+<lb n="9"/>  حيث بابها شرقيّها غريط كان غربيّها الجَلّيسُ لما لها من الحقوق والحرم والمنافع 
+<lb n="10"/>  والمرافق رهنا تامّا تحوّزا بيدها لانقضاء الأمد مشترطة المنفَعَةِ في أصْل الصّفقةِ 
+<lb n="11"/>  بطول المدّة وتخلّت لها عنها فقبضتها منها واحتازتها من يدها كما يجب و 
+<lb n="12"/>  عرفتا قدره وشهد عليهما بذلك من عرفهما بالتّعريف الكافي وهما بحال صحّة و 
+<lb n="13"/>  جواز في الحادي والعشرين لرجب الفرد المبارك عام أحَدٍ وتسعين وثماني مائة 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʿalà ʾāli hi wa ṣaḥbi hi wa sallama 
+ <lb n="2"/>waǧaba li l mubārakaẗi ăl maṣūnaẗi ʾummi ăl fatḥi ĭbnaẗi ăl mukarrami ăl ʾafḍali ʾabī ʾisḥāqa 
+ <lb n="3"/>ʾibrāhīma bni ʿabdūna qabla ăl mubārakaẗi ăl maṣūnaẗi ʾummi ăl fatḥi binti ʿuṯmāna ăl madyūniyyi wa fī māli hā wa 
+ <lb n="4"/>ḏimmati hā la hā ṯalāṯaẗu ʾarṭāl:in min ġazli ăl ḥarīri ăl lafāʾifiyyi ăl mutawassiṭi ăṭ ṭayyibi fī ǧinsi hi wa 
+ <lb n="5"/>qīmati hi tadfaʿu hā la hā ʿinda ĭnqiḍāʾi ʿām:in wāḥid:in mina ăl ʾāni tarattabat la hā qabla hā min sām:in ṣaḥīḥ:in 
+ <lb n="6"/>maqbūḍ:in bi yadi hā raʾsa māli hā qadru hu ḫamsūna dīnār:an mina ăd danānīri ăl ʿušriyyaẗi ăl ǧadīdaẗi wa rahanat 
+ <lb n="7"/>bi yadi hā fī ḏālika ǧamīʿa ăl maṣriyyaẗi ăl kāʾinaẗi bi zanaqaẗi ăl miḥrābi min sūqi ăl ḫamīsi ḥawmaẗa bābi 
+ <lb n="8"/>ăl mazdaʿi dāḫila ăl ḥaḍraẗi ăl maḥrūsaẗi qibliyyu hā ĭbnu ăl kātibi šarqiyyu hā bal ǧawfiyyu hā ăz zanaqaẗu 
+ <lb n="9"/>ḥayṯu bābu hā šarqiyyu hā ġarīṭ:un kāna ġarbiyyu hā ăl ǧallīsu li mā la hā mina ăl ḥuqūqi wa ăl ḥurumi wa ăl manāfiʿi 
+ <lb n="10"/>wa ăl marāfiqi rahn:an tāmm:an taḥawwuz:an bi yadi hā li ĭnqiḍāʾi ăl ʾamuddi muštaraṭaẗa ăl manfaʿaẗi fī ʾaṣli ăṣ ṣafqaẗi 
+ <lb n="11"/>bi ṭūli ăl muddaẗi wa taḫallat la hā ʿan hā fa qabaḍat hā min hā wa ĭḥtāzat hā min yadi hā kamā yaǧibu wa 
+ <lb n="12"/>ʿarafatā qadra hu wa šahida ʿalay himā bi ḏālika man ʿarafa humā bi ăt taʿrīfi ăl kāfī wa humā bi ḥāli ṣiḥḥaẗ:in wa 
+ <lb n="13"/>ǧawāz:in fī ăl ḥādī wa ăl ʿišrīna li raǧaba ăl fardi ăl mubāraki ʿāma ʾaḥad:in wa tisʿīna wa ṯamānī miʾaẗ:in 
+ <lb n="14"/>*** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Bienfaiteur et Miséricordieux. Que Dieu bénisse et sauve notre Seigneur Muḥammad, sa famille et ses compagnons.
+			<lb n="2"/>
+		La vertueuse et bénie Umm al-Fatḥ bint ʿUṯmān al-Madyūnī s&#039;engage
+			<lb n="3"/>
+		à répondre avec ses fonds et sa responsabilité
+			<lb n="4"/>
+		de trois livres de fil de soie lafāʾifī, de qualité et valeurs moyens,
+			<lb n="5"/>
+		dans un délai d&#039;une année à compter depuis ce moment, à la bénie et vertueuse Umm al-Fatḥ, fille de l&#039;honnête et très vertueux Abū Isḥāq Ibrāhīm ibn ʿAbdūn. (La créancière) impose (à la débitrice) une taxation correcte
+			<lb n="6"/>
+		recevable par elle, d&#039;un capital évalué à cinquante dinars d&#039;à dix de nouveau monnayage. Pour ce motif (la débitrice) a laissé en gage
+			<lb n="7"/>
+		la totalité de la maṣriyya située dans la Zanaqat al-Miḥrāb (Rue du Miḥrāb), dans le Sūq al-Ḫamīs (le Souk du Jeudi) du quartier (ḥawma) de Bāb
+			<lb n="8"/>
+		al-Maṣdaʿ (Porte du Petit Cercle), à l&#039;intérieur de la capitale, que Dieu la garde!, (qui est délimitée) au Sud par Ibn al-Kātib, à l&#039;Est, je dis au Nord par la rue (zanaqa)
+			<lb n="9"/>
+		où se trouve sa porte, à l&#039;Est là où Ġarīṭ vivait et a l&#039;Ouest par le ǧallīs, y compris ses droits, dépendances, profits
+			<lb n="10"/>
+		et utilités. Il s&#039;agit d&#039;une hypothèque accomplie qui contient dans l&#039;accord initial une clause d&#039;intérêt,
+			<lb n="11"/>
+		au moyen de laquelle on transmettrait la possession/propriété (de la maṣriyya à la créancière-hypothécaire si) le terme du délai décidé (était négligé) pendant une période de temps prolongée, ce qui lui porterait préjudice. (En ce cas) elle recevrait (la maṣriyya), qui deviendrait sa propriété, comme il se doit.
+			<lb n="12"/>
+		Les deux (parties) connaissent la portée (de l&#039;accord adopté), et (les témoins instrumentaires) qui les connaissent suffisamment portent témoignage à propos d&#039;elles, (et ils savent qu&#039;elles jouissent) de capacité physique
+			<lb n="13"/>
+		et légale (suffisante). Le 21 raǧab, l&#039;isolé et sacré, de l&#039;année 891 (= 23 juillet 1486).
+			<lb n="14"/>
+		[Signatures illisibles et paraphées].
+</ab></div>
+</body>
+</text>
+</TEI>

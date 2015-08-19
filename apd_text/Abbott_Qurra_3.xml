@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="396" xml:id="Abbott_Qurra_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Qurra 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Qurra_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">45363</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم <supplied reason="lost" cert="high">من</supplied> 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">قرّة</supplied> بن شريك إلى 
+<lb n="recto 3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">صاحب</supplied> </lem><rdg resp="“Diem, Aphrodito p. 259”">صحب</rdg></app> إشقوه فإنّي أحـ<supplied reason="lost" cert="high">ـمد</supplied> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ا</supplied>لّذي لا إله إلّا 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">هو</supplied> فإن إبشـا<unclear reason="undefined" cert="high">د</unclear>ه بن أ<supplied reason="lost" cert="high">بنيله</supplied> 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">أ</supplied>خبرني أن له على 
+<lb n="recto 7"/>  <supplied reason="lost" cert="high">أنباط</supplied> من أهل كورتك 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> عشر دينرا فيزعم 
+<lb n="recto 9"/>  <supplied reason="lost" cert="high">أنّهم</supplied> غلبوه على حقّه 
+<lb n="recto 10"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وإذآ</supplied> </lem><rdg resp="“Diem, Aphrodito p. 259”">فإذا</rdg></app> جاك كتبي هذا 
+<lb n="recto 11"/>  <unclear reason="undefined" cert="high">وأقا</unclear>م البيّنة على ما 
+<lb n="recto 12"/>  <supplied reason="lost" cert="high">أخبرني</supplied> فاستخرج له 
+<lb n="recto 13"/>  <unclear reason="undefined" cert="high">ولا</unclear> تظلمن <unclear reason="undefined" cert="high">عبد</unclear>ك 
+<lb n="recto 14"/>  <supplied reason="lost" cert="high">إلّا</supplied> أن <app type="BL"><lem resp="APD">بيّناته </lem><rdg resp="APD">شأنه</rdg></app> غيـ<unclear reason="undefined" cert="high">ـر</unclear> 
+<lb n="recto 15"/>  <unclear reason="undefined" cert="high">ذ</unclear>لك فاكتب <supplied reason="lost" cert="high">إليّ</supplied> 
+<lb n="recto 16"/>  <supplied reason="lost" cert="high">والـ</supplied>ـسّلم <supplied reason="lost" cert="high">عـ</supplied>ـلى من اتّبع 
+<lb n="recto 17"/>  لهدى وكتب مسلم <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="recto 18"/>  <app type="BL"><lem resp="APD">لبنن </lem><rdg resp="AK">لبنن</rdg></app> ونسخ الصّلت 
+<lb n="recto 19"/>  في <supplied reason="lost" cert="high">صـ</supplied>ـفر سنة إحدى 
+<lb n="recto 20"/>  <supplied reason="lost" cert="high">وتسـ</supplied>ـعين 
+<lb n="verso 1"/>  من قرّة بن شريك إلى بسـ<supplied reason="lost" cert="high">يل</supplied> 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">في</supplied> إبشاده بن أبنيـ<supplied reason="lost" cert="high">ـلـ</supplied>ـه في نبطـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi min 
+ <lb n="2"/>qurraẗa qurraẗu bni bnu šarīka ʾilà 
+ <lb n="3"/>ṣāḥibi ʾišqawha fa ʾin nī ʾaḥmadu 
+ <lb n="4"/>ăl lāha ăllaḏī lā ʾilāha ʾillā 
+ <lb n="5"/>huwa fa ʾinna ʾibšādaha bna ʾabnīlaha 
+ <lb n="6"/>qad ʾaḫbara nī ʾanna la hu ʿalà 
+ <lb n="7"/>ʾanbāṭ:in min ʾahli kūrati ka 
+ <lb n="8"/>*** ʿašara dīnār:an fa yazʿumu 
+ <lb n="9"/>ʾanna hum ġalabū hu ʿalà ḥaqqi hi 
+ <lb n="10"/>wa fa ʾiḏā ǧāʾa ka kitāb ī hāḏā 
+ <lb n="11"/>wa ʾaqāma ăl bayyinaẗa ʿalà mā 
+ <lb n="12"/>ʾaḫbara nī fa ĭstaḫriǧ la hu 
+ <lb n="13"/>wa lā taẓlimanna ʿabda ka 
+ <lb n="14"/>ʾillā ʾanna bayyināti šaʾna hi hu ġayru 
+ <lb n="15"/>ḏālika fa ŭktub ʾilay ya 
+ <lb n="16"/>wa ăs salāmu ʿalà mani ĭttabaʿa 
+ <lb n="17"/>ăl hudà wa kataba muslimu bnu 
+ <lb n="18"/>labnana labnāna wa nasaḫa ăṣ ṣaltu 
+ <lb n="19"/>fī ṣafar:in sanaẗa ʾiḥdà 
+ <lb n="20"/>wa tisʿīna 
+ <lb n="21"/>min qurraẗa bni šarīka ʾilà basīla 
+ <lb n="22"/>fī ʾibšādaha bni ʾabnīlaha fī nabaṭi hi 
+ <lb n="23"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. 
+			<lb n="2"/>
+		Ḳurrah ibn Sharīk to 
+			<lb n="3"/>
+		the ṣāḥib of Ashḳau. I praise 
+			<lb n="4"/>
+		God, than whom there is no other 
+			<lb n="5"/>
+		God. Now, Ibshādah ibn Abnīlah
+			<lb n="6"/>
+		has informed me that there are owed to him 
+			<lb n="7"/>
+		by farmers of the people of your district  
+			<lb n="8"/>
+		.... and ten dinars, and he claims 
+			<lb n="9"/>
+		that they have denied him his right. 
+			<lb n="10"/>
+		When this my letter has reached you
+			<lb n="11"/>
+		and he has established the proof of what 
+			<lb n="12"/>
+		he has told me, then secure (it) for him, 
+			<lb n="13"/>
+		and do not oppress your slave. 
+			<lb n="14"/>
+		But should his case prove other than 
+			<lb n="15"/>
+		that, then write me. 
+			<lb n="16"/>
+		Peace be with those who follow 
+			<lb n="17"/>
+		the guidance. Written by Muslim ibn 
+			<lb n="18"/>
+		Labnan and copied by al-Ṣalt 
+			<lb n="19"/>
+		in Ṣafar of the year one 
+			<lb n="20"/>
+		and ninety. 
+			<lb n="21"/>
+		From Ḳurrah ibn Sharīk to Basil
+			<lb n="22"/>
+		regarding Ibshādah ibn Abnīlah about his farmers (?)
+			<lb n="23"/>
+</ab></div>
+</body>
+</text>
+</TEI>

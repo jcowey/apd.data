@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="299" xml:id="Grohmann_APEL_99" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 099</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_99</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106541</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم 
+<lb n="2"/>  أقر دورثة المرتـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـن سكنة قرية تدعى ببلوه 
+<lb n="3"/>  وأشهد من أثبـ<supplied reason="lost" cert="high">ـت</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـهادته في هذا الكتاب على 
+<lb n="4"/>  نفسه أن لعثمن بن أحمد ا<gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـن سكنة سرپها عليهم 
+<lb n="5"/>  عشرة دراهم <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">جـ</supplied>ـياد حالّة له عليه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  الاحره پها كپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">يدافع</supplied> <supplied reason="lost" cert="high">بذلك</supplied> ولا يحتج فيها بحجّة على الوجوه 
+<lb n="7"/>  والأسباب كلّها إ<supplied reason="lost" cert="high">لّا</supplied> <supplied reason="lost" cert="high">بالخرو</supplied>ج منها إليه وذلكفي شهر 
+<lb n="8"/>  ربيع الآخر من سنـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">اثنتي</supplied> <supplied reason="lost" cert="high">و</supplied>سبعين ومائى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra dawraṯaẗu ăl mʾrt* **** min sakanaẗi qaryaẗ:in tudʿà biblawha 
+ <lb n="3"/>wa ʾašhada man ʾaṯbata šahādaẗa hu fī hāḏā ăl kitābi ʿalà 
+ <lb n="4"/>nafsi hi ʾanna li ʿuṯmāna bni ʾaḥmada ʾ**** min sakanaẗi srBhʾ ʿalay him 
+ <lb n="5"/>ʿašaraẗa darāhima **** ǧiyād:in ḥāllaẗ:in la hu ʿalay hi *** 
+ <lb n="6"/>ʾlʾHrh Bhʾ kB*** lā yudāfiʿu bi ḏālika wa lā yaḥtaǧǧu fī hā bi ḥuǧǧaẗ:in ʿalà ăl wuǧūhi 
+ <lb n="7"/>wa ăl ʾasbābi kulli hā ʾillā bi ăl ḫurūǧi min hā ʾilay hi wa ḏālika fī šahri 
+ <lb n="8"/>rabīʿa ăl ʾāḫari min sanaẗi ĭṯnatay wa sabʿīna wa miʾatay 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of Go[d, the Compassionate, the] Merciful.
+			<lb n="2"/>
+		Dauraṯa (?) the Mart[........, numbering am]ong the inhabitants of the village named Biblauh, has acknowledged
+			<lb n="3"/>
+		and called to witness those who have set their signature to this deed as to his
+			<lb n="4"/>
+		obligation that he owes to ʿOṯmân b. Aḥmad t[he ..... numbering amo]ng the inhabitants of .........
+			<lb n="5"/>
+		ten dirhams [...... good] pieces, which will fall due to his (ʿOṯmân&#039;s) credit, (and are) to his (Dauraṯa&#039;s) debit, ......
+			<lb n="6"/>
+		...............[...... he will not delay (the payment) thereof] nor will he bring forward any pretext in respect thereto for whatever cause
+			<lb n="7"/>
+		or reason there may be, be[yond the payin]g thereof to him and this in the month of
+			<lb n="8"/>
+		Rabîʿ II of the year two hundred and seventy two.
+</ab></div>
+</body>
+</text>
+</TEI>

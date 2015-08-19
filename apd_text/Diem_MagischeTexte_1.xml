@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2031" xml:id="Diem_MagischeTexte_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemMagischeTexte 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_MagischeTexte_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  لا أبقاك اللّه ولا حفضـ<supplied reason="lost" cert="high">ـك</supplied> 
+<lb n="3"/>  ولا صنع لك 
+<lb n="4"/>  ولا سترك ولا أحسن 
+<lb n="5"/>  السّتر لك 
+<lb n="6"/>  ولا أدخلك الجنّة 
+<lb n="7"/>  ولا صنع لك يا فرسيّة 
+<lb n="8"/>  ولا أثواك الجنّة أبدا 
+<lb n="9"/>  إلّا النّار <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="10"/>  ولم أقرأ لأحد غير فرسيّة 
+<lb n="11"/>  <unclear reason="undefined" cert="high">واللّعن</unclear> <unclear reason="undefined" cert="high">ظهر</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>lā ʾabqā ki ăl lāhu wa lā ḥafiḍa ki 
+ <lb n="3"/>wa lā ṣanaʿa la ki 
+ <lb n="4"/>wa lā satara ki wa lā ʾaḥsana 
+ <lb n="5"/>ăs sitra la ki 
+ <lb n="6"/>wa lā ʾadḫala ki ăl ǧannaẗa 
+ <lb n="7"/>wa lā ṣanaʿa la ki yā farasiyyaẗa 
+ <lb n="8"/>wa lā ʾaṯwā ki ăl ǧannaẗa ʾabad:an 
+ <lb n="9"/>ʾillā ăn nāra * 
+ <lb n="10"/>wa lam ʾaqraʾ li ʾaḥad:in ġayri farasiyyaẗa 
+ <lb n="11"/>wa ăl laʿnu ẓahara 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gott[es, des Barmherzigen und Gnädigen!]
+			<lb n="2"/>
+		Gott erhalte und beschütze Dich nicht,
+			<lb n="3"/>
+		er erweise Dir nichts Gutes,
+			<lb n="4"/>
+		er beschirme Dich nicht und gewähre
+			<lb n="5"/>
+		Dir keinen guten Schutz,
+			<lb n="6"/>
+		er lasse Dich das Paradies nicht betreten,
+			<lb n="7"/>
+		er erweise Dir nichts Gutes, Farasīya,
+			<lb n="8"/>
+		und er lasse Dich niemals im Paradies wohnen,
+			<lb n="9"/>
+		sondern im Höllenfeuer *.
+			<lb n="10"/>
+		Ich habe (sc. diesen Spruch) ausschließlich für Farasīya rezitiert.
+			<lb n="11"/>
+		Der Fluch (?) ist hiermit hervorgekommen (?).
+</ab></div>
+</body>
+</text>
+</TEI>

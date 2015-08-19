@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1601" xml:id="Prag_150" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_150</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169357</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮في الرّقعة β يوم <supplied reason="lost" cert="high">ζ</supplied> ‪χγ‪ʹ‬κ‪ʹ‬δ‪ʹ͵γ‪ʹ‬‬ 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى بقطر عن سرمادة <app type="BL"><lem resp="APD">الخزّاز </lem><rdg resp="APD">الجرّار </rdg><rdg resp="APD">الخرّاز </rdg><rdg resp="APD">الخزّاز</rdg></app> نصف وربع وثمن دينر 
+<lb n="4"/>  وثلث قيراط <supplied reason="lost" cert="high">مـ</supplied>ـروّج عمّا يجب عليه من الجالية <app type="BL"><lem resp="APD">بططون </lem><rdg resp="Diem">بططن</rdg></app> 
+<lb n="5"/>  جرى <app type="BL"><lem resp="APD">الآن </lem><rdg resp="Diem">ذلك</rdg></app> على يدي أبي جعفر أعزّه اللّه 
+<lb n="6"/>  لخراج سنة <app type="BL"><lem resp="APD">اثني </lem><rdg resp="Diem">إحدى</rdg></app> وثلثمائة 
+<lb n="7 right"/>  دينر 
+<lb n="8 right"/>  χγ‪ʹ‬κ‪ʹ‬δ‪ʹ͵γ‪ʹ 
+<lb n="7 middle"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="7 left"/>  لخراج سنة 
+<lb n="8 left"/>  <app type="BL"><lem resp="APD">τβ </lem><rdg resp="Diem">τα</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fī ăr ruqʿaẗi 2 yawm 7 1/2+1/3+1/24+(1/24×1/3) 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà buqṭuru ʿan sarmādaẗa ăl ǧarrāri ḫarrāzi ǧazzāri ḫazzāzi niṣfa wa rubʿa wa ṯumna dīnār:in 
+ <lb n="4"/>wa ṯalāṯa ṯulṯa qīrāṭ:in murawwaǧ:in ʿammā yaǧibu ʿalay hi mina ăl ǧāliyaẗi bi ṭuṭūna ṭuṭuna 
+ <lb n="5"/>ǧarà ăl ḏālika ʾāna ʿalà yaday ʾabī ǧaʿfara ʾaʿazza hu ăl lāhu bi ăl ḥaḍraẗi 
+ <lb n="6"/>li ḫarāǧi sanaẗi ĭṯnay ʾiḥdà wa ṯalāṯi miʾaẗ:in 
+ <lb n="7"/>dīnār 
+ <lb n="8"/>1/2+1/3+1/24+(1/24×1/3) 
+ <lb n="9"/>* 
+ <lb n="10"/>li ḫarāǧi sanaẗ:i 
+ <lb n="11"/>302 301 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Auf Folio 2, [Sams]tag, 1/2+1/3+1/24 (Dīnār)+1/3 (Karat).
+			<lb n="2"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="3"/>
+		Gezahlt hat Viktor für Sarmāde, den Metzger, einen halben und ein Viertel und ein Achtel-Dīnār
+			<lb n="4"/>
+		and a third of a circulating carat out of what he owes of the poll-tax in Ṭuṭūn
+		und drei Karat gangbar(er Münze) von dem, was ihm oblag von der Kopfsteuer in Ṭuṭūn,
+			<lb n="5"/>
+		das jetzt unter der Verwaltung des Abū Ǧaʿfar - Gott stärke ihn - steht,
+			<lb n="6"/>
+		für die Steuer des Jahres dreihundertundzwei.
+			<lb n="7"/>
+		Dīnār
+			<lb n="8"/>
+		1/2+1/3+1/24+1/3 (Karat)
+			<lb n="10"/>
+		für die Steuer des Jahres
+			<lb n="11"/>
+		302
+</ab></div>
+</body>
+</text>
+</TEI>

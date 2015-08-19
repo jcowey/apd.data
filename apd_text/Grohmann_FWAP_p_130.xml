@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="685" xml:id="Grohmann_FWAP_p_130" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 130 (= P.DiemAphrodito p. 261)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_FWAP_p_130</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">23743</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2 (Diem 2 right)"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">هدا</supplied> </lem><rdg resp="“Diem”">هذا</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كپپ</supplied> </lem><rdg resp="“Diem”">كتب</rdg></app> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شريك</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إلى</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بطرس</supplied> </lem><rdg resp="“Diem”">لبطرس</rdg></app> 
+<lb n="3 (Diem 2 left)"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">جرجه</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">القسطال</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="“Grohmann, World p. XIV”"><supplied reason="lost" cert="high">ڤد</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="“Grohmann, World p. XIV”"><supplied reason="lost" cert="high">ڤپصپ</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="“Grohmann, World p. XIV”"><supplied reason="lost" cert="high">منك</supplied> </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـمال </lem><rdg resp="“Diem”">قبّال</rdg></app> <app type="BL"><lem resp="APD">الّذي </lem><rdg resp="“Diem”">الذّهب</rdg></app> من مد<supplied reason="lost" cert="high">ينة</supplied> 
+<lb n="4 (Diem 3)"/>  أهناس <app type="BL"><lem resp="APD">عمّا </lem><rdg resp="“Diem”">إنّه</rdg></app> <app type="BL"><lem resp="APD">بقا </lem><rdg resp="“Diem”">أصابك</rdg></app> <app type="BL"><lem resp="APD">لك </lem><rdg resp="“Diem”">ø</rdg></app> من الغرامة ممّا أدرك عليك من 
+<lb n="5 (Diem 4)"/>  الجباية <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وهو</supplied> </lem><rdg resp="“Diem”">سنة</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="“Diem”">ثمان</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">العيـ</supplied>ـن </lem><rdg resp="“Diem”">وثمنين</rdg></app> ستّة دننير وكتب <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">في</supplied> </lem><rdg resp="“Rémondon”"><gap reason="illegible" precision="low" extent="3"/> </rdg><rdg resp="“Diem”">ø</rdg></app> 
+<lb n="6 (Diem 5)"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ذي</supplied> </lem><rdg resp="“Rémondon, Diem”">في</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـقـ<supplied reason="lost" cert="high">ـعـ</supplied>ـدة </lem><rdg resp="“Rémondon, Diem”">صفر</rdg></app> <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">سنـ</supplied>ـة إ<supplied reason="lost" cert="high">حدى</supplied> وتسعين <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ø hāḏā ø kitāb:un min qurraẗa bni šarīka ʾilà ø ø li buṭrusa 
+ <lb n="3"/>ǧirǧaha ø ăl ø qusṭāli ʾinna ø hu ʾaṣāba ø ka mina ø ø māli qabbāli ø ăllaḏī ḏahabi min madīnaẗi 
+ <lb n="4"/>ʾahnāsa ʿammā ʾinna ø hu baqā ʾaṣāba ø ka la ø ka ø mina ăl ġarāmaẗi mimmā ʾadraka ʿalay ka mina 
+ <lb n="5"/>ăl ǧibāyaẗi wa sanaẗa huwa ø mina ṯamān:in ăl wa ʿayni ṯamānīna sittaẗu danānīra wa kataba kutiba fī *** ø 
+ <lb n="6"/>ḏī fī ăl ø qaʿdaẗi ṣafar:in min sanaẗi ʾiḥdà wa tisʿīna *** 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen des barmherzigen und erbarmenden Gottes] 
+		[In the name of God, the Compassionate, the Merciful!] 
+			<lb n="2"/>
+		[Dies ist ein Schreiben von Qurra b. Šarīk für Petros,] 
+		From Qorra ibn Sharîk to Petrus 
+			<lb n="3"/>
+		den Goldeinnehmer aus der Sta[dt] 
+		[Girge, the paymaster. Verily, it has fallen upon thee of the] money which is (due) from the capital of 
+			<lb n="4"/>
+		Ahnās. Auf Dich ent[fa]llen von der Geldstrafe auf Grund dessen, was Dir vorgeworfen wurde hinsichtlich 
+		Ehnâs of that which has remained unto thee of the tax-quota that has fallen unto thee on behalf of the 
+			<lb n="5"/>
+		assessment [viz. six dînârs of gold] money. And it has been written [in] 
+		(au titre de) la répartition, soit six dinars d&#039;or. Et ---
+		der Steuereinnahme, [im Jahre(?) a]cht[unda]ch[tzig se]chs Dinare. Geschrieben von [...] 
+			<lb n="6"/>
+		a écrit en Ṣafar de l&#039;année quatre-vingt onze.
+		[Dhuʾl]-Qa[ʿ]da [o]f the [yea]r ninety o[ne]. 
+		i[m] Ṣa[far d]es [Jah]res [ei]nundneunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

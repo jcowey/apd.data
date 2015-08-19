@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1866" xml:id="Grohmann_APEL_356" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 356</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_356</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169603</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن ا<supplied reason="lost" cert="high">لرّحيم</supplied> 
+<lb n="recto 2"/>  أطال اللّه بقاك وأدا<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـزّ<supplied reason="lost" cert="high">ك</supplied> 
+<lb n="recto 3"/>  وكرامتك وأتم نعمته عليك وزاد في 
+<lb n="recto 4"/>  إحسانه إليك 
+<lb n="recto 5"/>  احسب لأبي قير بن طورس 
+<lb n="recto 6"/>  عني دينر واحد مثقال 
+<lb n="recto 7"/>  ولبقام بن مرقوره <unclear reason="undefined" cert="high">دينارين</unclear> 
+<lb n="recto 8"/>  مثقالين لا تجعل <app type="BL"><lem resp="APD">بهما </lem><rdg resp="Diem, Review P.Cair.Arab. V">لهما</rdg></app> <app type="BL"><lem resp="APD">عليه </lem><rdg resp="Diem, Review P.Cair.Arab. V 	">علّة</rdg></app> 
+<lb n="recto 9"/>  إن شا اللّه 
+<lb n="recto 10"/>  الدّعا مثل <app type="BL"><lem resp="APD">الصّبر </lem><rdg resp="Diem “both emendations”">الصّدر</rdg></app> 
+<lb n="recto 11"/>  الحمد للّه شكر<supplied reason="lost" cert="high">ا</supplied> <app type="BL"><lem resp="APD">للّه </lem><rdg resp="Diem, Review P.Cair.Arab. V">له</rdg></app> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> من عمران بن عيسى 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ الحدّاد 
+<lb n="verso 3"/>  دينر 
+<lb n="verso 4"/>  ‮‪β‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="3"/>wa karāmata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī 
+ <lb n="4"/>ʾiḥsāni hi ʾilay ka 
+ <lb n="5"/>ŭḥsub li ʾabī qīra bni ṭūrusa 
+ <lb n="6"/>ʿan nī dīnār wāḥid miṯqāl 
+ <lb n="7"/>wa li baqāma bni marqūraha dīnārayni 
+ <lb n="8"/>miṯqālayni lā taǧʿal bi la himā humā ʿalay ʿillaẗ:an hi ø 
+ <lb n="9"/>ʾin šāʾa ăl lāhu 
+ <lb n="10"/>ăd duʿāʾu miṯla ăṣ ṣabri ṣadri 
+ <lb n="11"/>ăl ḥamdu li l lāhi šukr:an li la l hu lāhi ø 
+ <lb n="13"/>*** *** min ʿumrāna bni ʿīsà 
+ <lb n="14"/>***B ăl ḥaddād 
+ <lb n="15"/>dīnāru 
+ <lb n="16"/>‮‪2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, t[he Merciful].
+			<lb n="2"/>
+		May God prolong your life and may He cau[se] your might
+			<lb n="3"/>
+		and honour to continue, and complete His favour towards you and increase
+			<lb n="4"/>
+		His benefits unto you.
+			<lb n="5"/>
+		Charge my account to the credit of Abû Qîr b. Ṭauros
+			<lb n="6"/>
+		with one dînâr miṯqâlî,
+			<lb n="7"/>
+		and to the credit of Bqâm b. Merqûre with two dînârs
+			<lb n="8"/>
+		... Mache den beiden gegenüber (bei der Auszahlung des Geldes) keine Ausflüchte!
+		miṯqâlî, do not put them to his debit,
+			<lb n="9"/>
+		if God wills.
+			<lb n="10"/>
+		Der Gruß sei wie der Beginn (des Briefes).
+		Der Segenswunsch sei wie der (am) Briefanfang!
+		The salutation is like the perseverance.
+			<lb n="11"/>
+		Praise be to God (and) thanks be to God.
+		Preis sei Gott als Dank an Ihn!
+			<lb n="13"/>
+		...] ... from ʿUmrān b. ʿĪsā
+			<lb n="14"/>
+		... the blacksmith
+			<lb n="15"/>
+		dīnār
+			<lb n="16"/>
+		2
+</ab></div>
+</body>
+</text>
+</TEI>

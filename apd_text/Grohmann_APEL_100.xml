@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="300" xml:id="Grohmann_APEL_100" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 100</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_100</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106542</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">الشّهود</supplied> <supplied reason="lost" cert="high">المسمّون</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سكّا</supplied>ن نواية أقر عندهم وأشهدهم على 
+<lb n="3"/>  <supplied reason="lost" cert="high">نفسه</supplied> <supplied reason="lost" cert="high">أنّه</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـل <supplied reason="lost" cert="high">وقـ</supplied>ـبض من يحنّس وإبرهيم ابني موسى متقبّلي 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">أوّ</supplied>ل <app type="BL"><lem resp="APD">بونه </lem><rdg resp="APD">توبه</rdg></app> من سنة أربع وثمانين ومائتن يدفع ذلك 
+<lb n="5"/>  <supplied reason="lost" cert="high">إليهما</supplied> <supplied reason="lost" cert="high">أو</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">يقـ</supplied>ـوم مقامهما في هـ<supplied reason="lost" cert="high">ـذه</supplied> الضّياع لا يحتج في ذلك بحجّة على الوجوه والأسباب كلّها إلّا بالخروج 
+<lb n="6"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">هذا</supplied> الدّينار تامّا وافيا وذلك لخراج سنة أربع وثمانين ومائتن 
+<lb n="7"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـلمة على إقرا<supplied reason="lost" cert="high">ر</supplied> محـ<supplied reason="lost" cert="high">ـمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="9" unit="character" /> وكتب شهادته بخطّه وذلك 
+<lb n="8"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شوّال</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">أربع</supplied> <supplied reason="lost" cert="high">وثمانين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" extent="4" unit="character" /> يونس بن <gap reason="illegible" extent="5" unit="character" /> بن سلمة على إقرار محمّد 
+<lb n="9"/>  <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> بخطّه <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">سو</supplied>ال </lem><rdg resp="Diem">ربيع</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">الأوّل</rdg></app> سپه ارپع وپمأپپن وماثپن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʾanna muḥammada bna *** min sukkāni nawāyaẗa ʾaqarra ʿinda hum wa ʾašhada hum ʿalà 
+ <lb n="3"/>nafsi hi ʾanna hu **** ***l wa qabaḍa min yuḥannisa wa ʾibrāhīma ĭbnay mūsà mutaqabbilay 
+ <lb n="4"/>*** fī ʾawwali būnaha tūbiha min sanaẗi ʾarbaʿ:in wa ṯamānīna wa miʾatayni yadfaʿu ḏālika 
+ <lb n="5"/>ʾilay himā ʾaw ʾilà man yaqūmu maqāma humā fī hāḏihi ăḍ ḍiyāʿi lā yaḥtaǧǧu fī ḏālika bi ḥuǧǧaẗ:in ʿalà ăl wuǧūhi wa ăl ʾasbābi kulli hā ʾillā bi ăl ḫurūǧi 
+ <lb n="6"/>min hāḏā ăd dīnāri tāmm:an wāfiy:an wa ḏālika li ḫarāǧi sanaẗi ʾarbaʿ:in wa ṯamānīna wa miʾatayni 
+ <lb n="7"/>šahida *** bnu salamaẗa ʿalà ʾiqrāri muḥammadi bni *** ********* wa kataba šahādaẗa hu bi ḫaṭṭi hi wa ḏālika 
+ <lb n="8"/>fī šawwāl:in min sanaẗi ʾarbaʿ:in wa ṯamānīna wa miʾatayni šahida **** yūnusa bni ***** bni salamaẗa ʿalà ʾiqrāri muḥammadi 
+ <lb n="9"/>bni *** *** wa kataba šahādaẗa hu bi ḫaṭṭi hi wa ḏālika fī ø rabīʿa ø ăl šawwāl:in ʾawwali min sanaẗi ʾarbaʿ:in wa ṯamānīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[The witnesses named in this deed have testified that Muḥammad b. So and So, one of the inhabit]ants of Nawâye, has acknowledged in their presence and has called them to witness as to his
+			<lb n="3"/>
+		[obligation, that ........................] . [and he has re]ceived from Yoḥannes and Ibrahîm, the two sons of Mûsâ, the two lessees
+			<lb n="4"/>
+		[......... in the firs]t (day) of Bûne of the year two hundred and eighty four; he will pay this
+			<lb n="5"/>
+		[to both of them or to those whoever should] stand in their stead in the[se] domains, he will not bring forward any pretext in respect thereto for whatever cause or reason there may be, beyond the paying to them
+			<lb n="6"/>
+		[this] dînâr full entire, and this for the impost of the year two hundred and eighty four.
+			<lb n="7"/>
+		[Witness is So and So, son of Sa]lama to the acknowledg[ment] by Muḥammad b. So and So ......] .................., and he has written his testimony in his (own) handwriting and this
+			<lb n="8"/>
+		[in Šawwâl of the year two hundred and eighty four. Witness is] ..... Yûnus b. ............ b. Salama to the acknowledgment by Muḥammad
+			<lb n="9"/>
+		[b. So and So, .........., and he has written his testimony] in his (own) handwriting [and this in Rabīʿ al-Aww]al of the year two hundred and eighty four.
+		[b. So and So, .........., and he has written his testimony] in his (own) handwriting [and this in Šaww]âl of the year two hundred and eighty four.
+</ab></div>
+</body>
+</text>
+</TEI>

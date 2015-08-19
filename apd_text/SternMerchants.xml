@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2111" xml:id="SternMerchants" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SternItalianMerchants</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">SternMerchants</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  صلوات اللّه وبركاته ونوامي زكواته وأفضل سلامه وتحيّاته على 
+<lb n="3"/>  مولانا وسيّدنا الإمام الآمر بأحكام اللّه أمير المومنپن 
+<lb n="4"/>  وعلى آبائه الطّاهرين وأبنائه الأكرمين صلاة دائمة باقية 
+<lb n="5"/>  إلى يوم الدّين المملوك يقبّل الأرض أمام المواقف 
+<lb n="6"/>  الشّريفة المعظّمة النّبويّة ضاعف اللّه أنوارها وأعلى 
+<lb n="7"/>  اللّه منارها وينهي تواصل حضور تجّار الرّوم الواصلين 
+<lb n="8"/>  بالأخشاب الّذين كان المملوك أنهى وصولهم وهم سرجه 
+<lb n="9"/>  بن قسطنطين وسر<gap reason="illegible" extent="1" unit="character" /> <app type="BL"><lem resp="APD">نقولا </lem><rdg resp="LS">نقولا</rdg></app> بن هحلم وغرس بن <app type="BL"><lem resp="APD">لبّن </lem><rdg resp="APD">لبّن</rdg></app> الملفطاني 
+<lb n="10"/>  والرّواح وبون سنيون الجنوي ومن معهم من 
+<lb n="11"/>  أصحابهم ذاكرين أنّهم إلى حين تسطير المملوك لم يتقرّر 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> هذه <gap reason="illegible" extent="4" unit="character" /> الأخشاب الّتي <gap reason="illegible" extent="5" unit="character" /> إليها ولا وصل إليهم من 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ṣalawātu ăl lāhi wa barakātu hu wa nawāmī zakawāti hi wa ʾafḍalu salāmi hi wa taḥiyyāti hi ʿalà 
+ <lb n="3"/>mawlā nā wa sayyidi nā ăl ʾimāmi ăl ʾāmiri bi ʾaḥkāmi ăl lāhi ʾamīri ăl muʾminīna 
+ <lb n="4"/>wa ʿalà ʾābāʾi hi ăṭ ṭāhirīna wa ʾabnāʾi hi ăl ʾakramīna ṣalāẗ:an dāʾimaẗ:an bāqiyaẗ:an 
+ <lb n="5"/>ʾilà yawmi ăd dīni ăl mamlūku yuqabbilu ăl ʾarḍa ʾamāma ăl mawāqifi 
+ <lb n="6"/>ăš šarīfaẗi ăl muʿaẓẓamaẗi ăn nabawiyyaẗi ḍāʿafa ăl lāhu ʾanwāra hā wa ʾaʿlà 
+ <lb n="7"/>ăl lāhu manāra hā wa yunhī tawāṣula ḥuḍūri tuǧǧāri ăr rūmi ăl wāṣilīna 
+ <lb n="8"/>bi ăl ʾaḫšābi ăllaḏīna kāna ăl mamlūku ʾanhà wuṣūla hum wa hum sarǧuhu 
+ <lb n="9"/>bnu qusṭanṭīna wa sr* BFwlʾ niqūlā bnu hḥlm wa ġrassu bnu liyuna lubbina ăl malfiṭāniyyu 
+ <lb n="10"/>wa ăr rwʾḥ wa būn:un snywn ăl ǧanwiyyu wa man maʿ hum min 
+ <lb n="11"/>ʾaṣḥābi him ḏākirīna ʾanna hum ʾilà ḥīni tasṭīri ăl mamlūki lam yataqarrar 
+ <lb n="12"/>*** hāḏihi **** ăl ʾaḫšāb ăllatī ***** ʾilay hā wa lā waṣla ʾilay him min 
+ <lb n="13"/>*** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		The benediction of God and his blessings, his increasing benefactions and most excellent peace and greetings, be upon
+			<lb n="3"/>
+		our Master and Lord, the Imām al-Āmir bi-Aḥkām Allāh, Commander of the Faithful,
+			<lb n="4"/>
+		and his pure ancestors and noble descendants - benedictions that should last and remain
+			<lb n="5"/>
+		till the Day of Judgement. The slave kisses the earth before the noble
+			<lb n="6"/>
+		and exalted prophetical presence, may God double its light and may God extoll
+			<lb n="7"/>
+		its beacon, and reports the continued arrival of the Rūm merchants, who came
+			<lb n="8"/>
+		bringing the timber and whose coming the slave had reported. They are: Sergius
+			<lb n="9"/>
+		the son of Constantine, ..... the son of ......, Grasso (?) the son of Leo (?) the Amalfitan,
+			<lb n="10"/>
+		......., and Bon .... the Genoese, and their companions
+			<lb n="11"/>
+		who are with them. They say that up to the time of the slave&#039;s writing it has not been established
+			<lb n="12"/>
+		....... the timber ..... reached them
+			<lb n="13"/>
+</ab></div>
+</body>
+</text>
+</TEI>

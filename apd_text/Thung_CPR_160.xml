@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2246" xml:id="Thung_CPR_160" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.ThungWrittenObligations 1 (= CPR XXVI 16)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_160</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ذكر حق <app type="BL"><lem resp="APD">تكيش </lem><rdg resp="Thung, CPR XXVI">بكيش</rdg></app> مولي طليب بن أ<supplied reason="lost" cert="high">بـ</supplied>ـي صائم علي <app type="BL"><lem resp="APD">غفيـ<supplied reason="lost" cert="high">ـلة</supplied> </lem><rdg resp="Thung, CPR XXVI">غفيلة</rdg></app> 
+<lb n="3"/>  ابنت يوسف عليها دينر قائم من ثمن قمح <supplied reason="lost" cert="high">اشـ</supplied>ـترته من <app type="BL"><lem resp="APD">بكـ<supplied reason="lost" cert="high">ـيـ</supplied>ـش </lem><rdg resp="Thung, CPR XXVI">بكيش</rdg></app> 
+<lb n="4"/>  وفد <supplied reason="lost" cert="high">قـ</supplied>ـبضت القمح ورضيت ومحل الدّيـ<supplied reason="lost" cert="high">ـنر</supplied> لـ<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لـ</supplied>ـيال تمضي 
+<lb n="5"/>  من شهر ربيع الآخر من سنة ثلث وسبعين ومائـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">ومن</supplied> <supplied reason="lost" cert="high">قام</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـذكر 
+<lb n="6"/>  الحق اقتضا به ومن أحال عليها أقرّت له إن شـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـهـ<supplied reason="lost" cert="high">ـ</supplied>ـد عبد الرّحـ<unclear reason="undefined" cert="high">ـمـ</unclear>ـن 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi bākīša tikīša mawlà ṭulaybi bni ʾabī ṣāʾim:in ʿalà ʿaqīlaẗa ġufaylaẗa ʿuqaylaẗa 
+ <lb n="3"/>ĭbnati yūsufa ʿalay hā dīnār:un qāʾim:un min ṯamani qamḥ:ini ĭštarat hu min bākīša tikīša 
+ <lb n="4"/>wa qad qabaḍati ăl qamḥa wa raḍiyat wa maḥillu ăd dīnāri li *** layāl:in tamḍī 
+ <lb n="5"/>min šahri rabīʿa ăl ʾāḫari min sanaẗi ṯalāṯ:in wa sabʿīna wa miʾaẗ:in wa man qāma bi ḏikri 
+ <lb n="6"/>ăl ḥaqqi ĭqtaḍā bi hi wa man ʾaḥāla ʿalay hā ʾaqarrat la hu ʾin šāʾa ăl lāhu šahida ʿabdu ăr raḥmāni 
+ <lb n="7"/>*** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Verpflichtungsschein von Bākīš, dem Freigelassenen von Ṭulayb b. Abī Ṣāʾim, zu Lasten von ʿAqīlah,
+			<lb n="3"/>
+		Tochter von Yūsuf. Zu ihren Lasten ist ein Dinar vorschriftsmäßigen Gewichts wegen des Preises des Weizen, den sie von Bākīš gekauft hat.
+			<lb n="4"/>
+		Sie hat den Weizen bereits in Empfang genommen und war einverstanden. Der Zahlungstermin des Dinars ist, wenn [...] Nächte
+			<lb n="5"/>
+		des Monats Rabīʿ al-Āẖir des Jahres hundertdreiundsiebzig vergangen sind. [Und wer] diesen Verpflichtungsschein [vorweist,]
+			<lb n="6"/>
+		der kann ihn (sc. den Betrag) einfordern. Und wenn er (sc. der Gläubiger) jemandem (den Schein) überträgt, so wird sie ihm (sein Recht) anerkennen, so [Gott es will.] Es bezeugt ʿAbdarraḥmān (?)
+			<lb n="7"/>
+</ab></div>
+</body>
+</text>
+</TEI>

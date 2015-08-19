@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1561" xml:id="Prag_040" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 04 (= Chrest.Khoury I 69 = CPR XXI 11)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_040</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169326</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">عبـ</supplied>ـد العزيز بن عبد الغفّار الكريدي ومحمّد بن أ<supplied reason="lost" cert="high">بي</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">يعقوب</supplied> البزّاز لهاشم بن سليمن صاحب الأكسية من سكّان المدينة 
+<lb n="4"/>  إنّك سـ<supplied reason="lost" cert="high">ـألتنا</supplied> وطلبت <app type="BL"><lem resp="APD">ان </lem><rdg resp="Khoury; Frantz-Murphy “but see also Grohmann's translation”">إلينا</rdg></app> پكرپك ڤدانپن من الارص المعروڤه پارص برأ<gap reason="illegible" extent="1" unit="character" /> 
+<lb n="5"/>  بن <app type="BL"><lem resp="APD">سيه </lem><rdg resp="APD">سنه</rdg></app> من السّلقس ضيعة عبد الـ<supplied reason="lost" cert="high">ـعـ</supplied>ـزيـ<supplied reason="lost" cert="high">ـز</supplied> <supplied reason="lost" cert="high">بن</supplied> عبد الغفّار الكريد<supplied reason="lost" cert="high">يّ</supplied> 
+<lb n="6"/>  وورثة المطلّة وورثة محمّد بن أبي يعقوب بـد<supplied reason="lost" cert="high">ينـ</supplied>ـرين ونصف وسدس حساب 
+<lb n="7"/>  بفدّان بدينر وثلث نقد بيت المال ووزنه لخراج سنة ست وأربعين ومائتين 
+<lb n="8"/>  على أن تزرعها ما أحببت من أصناف الغلّات خلا خطر وقصب سكّر وتودى 
+<lb n="9"/>  خراجك مع طبول السّلطان فأجبناك إلى ذلك وأكريناك هذين الفدّانين بهذيـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="10"/>  الدّينرين والنّصف والسّدس <del rend="erasure" status="unremarkable">ڤاررع</del> وما تزيّدت فبحساب ما في 
+<lb n="11"/>  سجلّك وما بوّرت فخراجه لازم لك فازرع على بركة اللّه وعونه فلك الوفا بمـ<supplied reason="lost" cert="high">ـا</supplied> 
+<lb n="12"/>  أسجلناك شهد على ذلك اللّه وكفا باللّه شهيدا 
+<lb n="13"/>  فدّانين بدينرين ونصف وسد<supplied reason="omitted" cert="high">س</supplied> 
+<lb n="14"/>  حساب الفدّان بدينر وثلث 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min ʿabdi ăl ʿazīzi bni ʿabdi ăl ġaffāri ăl kuraydiyyi wa muḥammadi bni ʾabī 
+ <lb n="3"/>yaʿqūba ăl bazzāzi li hāšimi bni sulaymāna ṣāḥibi ăl ʾaksiyaẗi min sukkāni ăl madīnaẗi 
+ <lb n="4"/>ʾinna ka saʾalta nā wa ṭalabta ø ʾilay ø nā ʾan nukriya ka faddānayni mina ăl ʾarḍi ăl maʿrūfaẗi bi ʾarḍi tirā* tirāsa 
+ <lb n="5"/>bni saniha siyaha mina ăs salqusi ḍayʿaẗi ʿabdi ăl ʿazīzi bni ʿabdi ăl ġaffāri ăl kuraydiyyi 
+ <lb n="6"/>wa waraṯaẗi ăl muṭallaẗi wa waraṯaẗi muḥammadi bni ʾabī yaʿqūba bi dīnārayni wa niṣf:in wa suds:in ḥisāb 
+ <lb n="7"/>bi faddān:in bi dīnār:in wa ṯulṯ:in naqda bayti ăl māli wa wazni hi li ḫarāǧi sanaẗi sitt:in wa ʾarbaʿīna wa miʾatayni 
+ <lb n="8"/>ʿalà ʾan tazraʿa hā mā ʾaḥbabta min ʾaṣnāfi ăl ġallāti ḫalā ḫiṭrin wa qaṣabi sukkar:in wa tuʾaddiya 
+ <lb n="9"/>ḫarāǧa ka maʿa ṭubūli ăs sulṭāni fa ʾaǧabnā ka ʾilà ḏālika wa ʾakraynā ka hāḏayni ăl faddānayni bi hāḏayni 
+ <lb n="10"/>ăd dīnārayni wa ăn niṣfi wa ăs sudsi wa mā tazayyadta fa bi ḥisābi mā fī 
+ <lb n="11"/>siǧilli ka wa mā bawwarta fa ḫarāǧu hu lāzim:un la ka fa ĭzraʿ ʿalà barakaẗi ăl lāhi wa ʿawni hi fa la ka ăl wafāʾu bi mā 
+ <lb n="12"/>ʾasǧalnā ka šahida ʿalà ḏālika ăl lāhu wa kafā bi ăl lāhi šahīd:an 
+ <lb n="13"/>faddānayni bi dīnārayni wa niṣf:in wa suds:in 
+ <lb n="14"/>ḥisāba ăl faddāni bi dīnār:in wa ṯulṯ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu clément et misé]ricordieux !
+		[Im Namen Gottes des Barmherzigen, Güt]igen!
+		In the name of God the merciful and compassionate
+			<lb n="2"/>
+		[Ceci est un document de ʿAb]d al-ʿAzīz Ibn ʿAbd al-Ġaffār al-Kuraydī et Muḥammad Ibn A[bī]
+		[Dies ist eine Urkunde von Seiten des ʿAb]d al-ʿAzīz b. ʿAbd al-Ġaffār al-Kuraidī und Muḥammad b. A[bū]
+		[This is a writing from ʿAb]d al-ʿAzīz ibn ʿAbd al-Ghafār al-Kuraydī an Muḥammad ibn A[bī]
+			<lb n="3"/>
+		[Yaʿqūb], des Linnenhändlers, für Hāšim b. Sulaimān, den Kleiderhändler, gehörig zu den Einwohnern der (Distrikts)hauptstadt
+		[Yaʿqūb], le marchand d&#039;étoffes, à Hāšim Ibn Sulaymān, le marchand d&#039;habits, des habitants de la ville (=chef-lieu de la circonscription):
+		[Yaʿqūb] the cloth dealer for Hāshim ibn Sulayman, director of the ceremonial robe factories, one of the residents of the city.
+			<lb n="4"/>
+		Fürwahr, [Du hast uns] gebeten und von uns verlangt, daß wir Dir verpachten zwei Faddān vom Land(gute), das unter dem Namen Land(gut) des Terâ(?)
+		Tu [nous as) de[mandé] et sollicité de t&#039;affermer deux faddān-s de la terre connue (sous le nom) de terre de Terā[s] (?)
+		Verily you a[sked us] an you requested of us that we rent to you two faddans of the known as the land of Tera[s
+			<lb n="5"/>
+		b. Sia bekannt ist (und) zu as-Salqos(?), der Domäne des ʿAbd al-ʿAzīz b. ʿAbd al-Ġaffār al-Kuraid[ī]
+		Ibn Sia appartenant au Salqos (?), domaine de ʿAbd al-ʿAzīz Ibn ʿAbd al-Ġaffār al-Kurayd[ī]
+		ibn Sia part of al-(Salqus), an estate of ʿAbd al-ʿAzīz ibn ʿAbd al-Ghafār al-Kurayd[ī]
+			<lb n="6"/>
+		and the h[ei]rs of al-Muṭṭalah and the heirs of Muḥammad ibn Abī Yaʿqūb, for two di[na]rs and a half and a sixth at the rate
+		et des [hé]ritiers d&#039;al-Muṭalla et de ceux de Muḥammad Ibn Abī Yaʿqūb, (et cela) pour deux dīnārs et demi et un sixième, comptant
+		und der Erben des al-Muṭalla und der Erben des Muḥammad b. Abū Yaʿqūb, für zwei Dīnāre und einen halben und einen Sechstel(dīnār) in Berechnung
+			<lb n="7"/>
+		of a faddan for a dinar and a third, cash of the treasury, and it was weighed out for the kharāj of the year six and forty and two hundred,
+		un dīnār et un tiers par faddān, comme argent comptant du trésor public et selon le poids de celui-ci, pour l&#039;impôt de l&#039;année deux cent quarante-six,
+		von ein ein Drittel Dīnār per Faddān in Bargeld des Schatzhauses und nach dessen Gewicht für die Steuer des Jahres zweihundertsechsundvierzig,
+			<lb n="8"/>
+		à condition que tu y sèmes ce que tu désires des produits de sémences à l&#039;exception de l&#039;indigo et de la canne à sucre, et que tu paies
+		on condition that you sow it with whatever you like by way of kinds of crops, except indigo and sugar cane, and that you fulfill
+		unter der Bedingung, daß Du darauf säest, was an Saatprodukten Du willst mit Ausnahme von Indigo und Zuckerrohr, und Du
+			<lb n="9"/>
+		Deine Grundsteuer zugleich mit den vom Statthalter (festgesetzten) (Steuer)raten zahlest. So habe ich dem zugestimmt und Dir diese zwei Faddāne um diese zwei
+		ton impôt foncier aux termes de paiement des parts du gouverneur. Nous avons répondu à ta demande et t&#039;avons affermé ces deux faddān-s, pour ces deu[x]
+		your kharāj together with the sulṭān’s installments (ṭubūl). Herewith we grant you that and we rented to you these two faddans for these
+			<lb n="10"/>
+		Dīnāre und einen halben und einen Sechstel(dīnār) verpachtet, und was Du mehr leistest, dies (erfolgt) nach der Berechnung dessen was in
+		dīnārs et un demi et un sixième; 〚sème〛, et ce que tu cultives en plus sera calculé selon le contenu
+		two dinars and a half and a sixth.〚So sow〛and whatever you increased will be by reckoning of what is in
+			<lb n="11"/>
+		Deinem Pachtvertrage (steht), und was Du brach läßt, dessen Grundsteuer obliegt Dir. So säe denn mit Gottes Barmherzigkeit und Hilfe, und Dir obliegt die Durchführung dessen, [was]
+		de ton contrat de bail ; et ce que tu laisses en friche, son impôt t&#039;incombe. Sème einsi avec la bénédiction et l&#039;aide de Dieu ; à toi incombe l&#039;accomplissement de [ce que]
+		your register. And whatever you fallowed, its kharāj is incumbent upon you. So sow with the blessing of God and his aid. And you are responsible for the fulfillment of what
+			<lb n="12"/>
+		nous t&#039;avons garanti par écrit. On a témoigné de cela, et Dieu suffit comme témoin.
+		we registered you for. God bore witness to that, and God suffices as witness. 
+		wir Dir verbrieft haben. Gott ist hierfür Zeuge, und Gott genügt als Zeuge.
+			<lb n="13"/>
+		Deux faddān-s à deux dīnārs et demi et un sixiè[me],
+		Two faddans for two dinars and a half and a sixt&lt;h&gt;
+		Zwei Faddān um zwei Dīnāre und einen halben und ein Sechstel
+			<lb n="14"/>
+		in Berechnung eines Faddān für einen und ein Dritteldīnār.
+		le faddān compté à und dīnār et un tiers.
+		reckoning at the faddan for a dinar and a third.
+</ab></div>
+</body>
+</text>
+</TEI>

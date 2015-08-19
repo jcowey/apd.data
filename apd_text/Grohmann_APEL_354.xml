@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1864" xml:id="Grohmann_APEL_354" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 354</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_354</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169601</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطلق يا سيّدي أطال اللّه بقاك لأبي القسم <app type="BL"><lem resp="APD">جزئه </lem><rdg resp="Diem">جراية</rdg></app> دينار واحد جواز إلى أن يسترجعه 
+<lb n="3"/>  من أهل الضّياع إن شا اللّه والحمد للّه أبدا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭliq yā sayyid ī ʾaṭāla ăl lāhu baqāʾa ka li ʾabī ăl qāsimi ǧuzʾa ǧirāyaẗa hu ø dīnār dīnār:in wāḥid wāḥid:in ǧawāz ǧawāz:in ʾilà ʾan yastarǧiʿa hu 
+ <lb n="3"/>min ʾahli ăḍ ḍiyāʿi ʾin šāʾa ăl lāhu wa ăl ḥamdu li l lāhi ʾabad:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Grant, O my lord - may God prolong your life - to Abu&#039;l-Qâsim as his portion one current dînâr, until he can get it back
+		Zahle, oh mein Herr - Gott lasse Dich lange leben - dem Abū l-Qāsim als Gehalt einen gängigen Dinar (oder das Gehalt eines gängigen Dinars) aus.
+			<lb n="3"/>
+		from the people of the estate, if God wills. And praise be to God evermore.
+</ab></div>
+</body>
+</text>
+</TEI>

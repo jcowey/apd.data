@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1597" xml:id="Diem_Berl_II_77" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 77</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_77</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169353</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+ <lb n="2"/>  <supplied reason="lost" cert="high">أبـ</supplied>ـقاك اللّه وحـ<supplied reason="lost" cert="high">ـفظـ</supplied>ـك قد كتبت إليك كتابا قبل هذا ولـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">أ</supplied>قر<supplied reason="lost" cert="high">أ</supplied> لـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">جواب</supplied> <supplied reason="lost" cert="high">كتابي</supplied> 
+ <lb n="3"/>  إليك وقد وجّهت إليك مع أبي علي <unclear reason="undefined" cert="high">المكري</unclear> أعزّه اللّـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  وعمامتي البغدادي لهلل ولـ<sic n="superfluous">ـهـ</sic>ـ<supplied reason="omitted" cert="high">ـمـ</supplied>ـحمّد دينار تنفقه عليه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  وانظري الشّقّة الصّدف الهندي والثّوب الـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الّذي</supplied> 
+ <lb n="6"/>  خلفته وجّهي بهما إلي مع إنسان ثقـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ونفّذي</supplied> 
+ <lb n="7"/>  إلي التّرس فانظري لا تدفعيهم <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">إنسان</supplied> <supplied reason="lost" cert="high">ثقة</supplied> <supplied reason="lost" cert="high">مثل</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">المكري</supplied> <supplied reason="lost" cert="high">وأبي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  أعزّهما اللّه وقد كتبت إلـ<supplied reason="lost" cert="high">ـى</supplied> أ<supplied reason="lost" cert="high">بي</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ki ăl lāhu wa ḥafiẓa ki qad katabtu ʾilay ki kitāb:an qabla hāḏā wa lam ʾaqraʾ la ki ǧawāba kitāb ī 
+ <lb n="3"/>ʾilay ki wa qad waǧǧahtu ʾilay ki maʿa ʾabī ʿaliyy:in ăl mukrī ʾaʿazza hu ăl lāhu *** 
+ <lb n="4"/>wa ʿimāmat ī ăl baġdādiyya li hilāl:in wa li muḥammad:in dīnār tunfiqu hu ʿalay hi *** 
+ <lb n="5"/>wa ŭnẓurī ăš šiqqaẗa ăṣ ṣadafa ăl hindiyya wa ăṯ ṯawba ăl *** *** ăllaḏī 
+ <lb n="6"/>ḫalaftu hu waǧǧihī bi himā ʾilay ya maʿa ʾinsān:in ṯiqaẗ:in *** wa naffiḏī 
+ <lb n="7"/>ʾilay ya ăt tursa fa ŭnẓurī lā tadfaʿī him ʾillā ʾilà ʾinsān:in ṯiqaẗ:in miṯli ʾabī ʿaliyy:in ăl mukrī wa ʾabī *** 
+ <lb n="8"/>ʾaʿazza humā ăl lāhu wa qad katabtu ʾilà ʾabī *** *** 
+ <lb n="9"/>**** *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes], des Barmherzigen und Gnädigen!
+		 <lb n="2"/>
+ 	  Gott [er]halte und schü[tz]e Dich! Ich habe Dir vor diesem Brief schon einen anderen geschrieben, ohne von D[ir Antwort auf meinen (damaligen)]
+		 <lb n="3"/>
+ 	  an Dich gerichteten [Brief zu erhalten.] Ich habe (damals) Abū ʿAlī dem Transporteur (?) - Gott stärke ihn - für Dich (folgendes) mitgegeben: [- - -]
+		 <lb n="4"/>
+ 	  und meinen bagdadischen Turban für Hilāl und einen Dinar für {Hi}&lt;Mu&gt;ḥammad, damit Du für ihn ausgibst [- - - .]
+		 <lb n="5"/>
+ 	  Sieh zu, daß Du mir das Gewand, (das) mit dem indischen Perlmutt (verziert ist), und das [- - -] Gewand, [welches]
+		 <lb n="6"/>
+ 	  ich zurückgelassen habe, durch einen zuverlässigen Menschen überbringen läßt. [- - -. Und übersende]
+		 <lb n="7"/>
+ 	  mir (auch) den Schild. Sieh aber zu, daß Du sie [nur einem zuverlässigen Menschen] aushändigst [wie zum Beispiel Abū ʿAlī dem Transporteur (?) und Abū N. N.]
+		 <lb n="8"/>
+ 	  - Gott stärke sie! Ich habe an A[bū N. N.] geschrieben, [daß - - -]
+		 <lb n="9"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

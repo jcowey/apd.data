@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1882" xml:id="Grohmann_APEL_406" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 406</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_406</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169619</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  الّذي أنّه من <app type="BL"><lem resp="APD">ثبيت </lem><rdg resp="APD">نبيت</rdg></app> القوصي 
+<lb n="3"/>  أربعة الدّنانير من دنيال ومن 
+<lb n="4"/>  راعيه دينارين ونصف 
+<lb n="5"/>  ومن الغلام الّذي شج <app type="BL"><lem resp="APD">جببته </lem><rdg resp="APD">جبينه</rdg></app> 
+<lb n="6"/>  دينار ومن <app type="BL"><lem resp="APD">حمار </lem><rdg resp="APD">حمار </rdg><rdg resp="APD">حماز </rdg><rdg resp="APD">خمار </rdg><rdg resp="APD">خمّار</rdg></app> مثله <unclear reason="undefined" cert="high">وره</unclear> 
+<lb n="7"/>  دينار 
+<lb n="left margin 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">كرامتك</supplied> وتأييدك وسعادتك وأتم نعمته عليك وزاد 
+<lb n="left margin 2"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> <supplied reason="lost" cert="high">إليك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ʾanna hu min nabīt:ini ṯubayt:ini ăl qūṣiyyi 
+ <lb n="3"/>ʾarbaʿaẗu ăd danānīri min danyāla wa min 
+ <lb n="4"/>rāʿī hi dīnārayni wa niṣf:un 
+ <lb n="5"/>wa mina ăl ġulāmi ăllaḏī šuǧǧa ǧabīnu ǧanbu hu 
+ <lb n="6"/>dīnār:un wa min ḥammār:in ḫammār:in ḥimār:in ḥimāz:in ḫumār:in miṯlu hu wrh 
+ <lb n="7"/>dīnār:un 
+ <lb n="8"/>*** karāmata ka wa taʾyīda ka wa saʿādata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda 
+ <lb n="9"/>fī ʾiḥsāni hi ʾilay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		That which (came in) from Ṯubait, originating from Qûṣ,
+			<lb n="3"/>
+		(amounts to) four dînârs, from Daniel (Danyâl) and from
+			<lb n="4"/>
+		his shepherd two dînârs and a half.
+			<lb n="5"/>
+		And from the slave, who has a scar on his side (or: on the side of his fore head)
+			<lb n="6"/>
+		one dînâr, and from Ḥammâr ditto and ... ...
+			<lb n="7"/>
+		................ dînârs
+			<lb n="8"/>
+		your honour], strength, happiness (to continue) and complete His favours towards you and increase
+			<lb n="9"/>
+		[His benefits unto you].
+</ab></div>
+</body>
+</text>
+</TEI>

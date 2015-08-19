@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="310" xml:id="Grohmann_APEL_109" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 109</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_109</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106551</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر شبيب بن مقاره المزارع ببلجسوق <app type="BL"><lem resp="APD">أقر </lem><rdg resp="Diem p. 71">إقرار</rdg></app> <app type="BL"><lem resp="APD">له </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="3"/>  طوع راغب <expan><abbr>و</abbr><ex>طا</ex><abbr>لب</abbr></expan> وأشهد على نفسه في صحّة من <app type="BL"><lem resp="APD">عقله </lem><rdg resp="Thung p. 152">وجواز</rdg></app> 
+<lb n="4"/>  <app type="BL"><lem resp="APD">أقر </lem><rdg resp="Thung p. 152">أمر</rdg></app> طائعا غير مكره ولا مجبر ولا مضطهد ولا جاهلا 
+<lb n="5"/>  بما أقر به فيه أن عنده وقبله وفي ذمّته خلص ماله 
+<lb n="6"/>  دينا ثابتا وحقّا لازما <app type="BL"><lem resp="APD">له </lem><rdg resp="Thung p. 38">لزمه</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Thung">ø</rdg></app> الإقرار به لزمزم 
+<lb n="7"/>  بن <app type="BL"><lem resp="APD">نضر </lem><rdg resp="APD">نضر</rdg></app> من القمح الطّيّب <app type="BL"><lem resp="APD">الصّل </lem><rdg resp="Levi della Vida, confirmed by Thung p. 100 and 104 and Diem p. 71 and 112">النّصيل</rdg></app> السّالم 
+<lb n="8"/>  من العلث أرپعه <expan><abbr>أ</abbr><ex>ر</ex><abbr>ا</abbr><ex>د</ex><abbr>ب</abbr></expan> وثلث النّصف من ذلك 
+<lb n="9"/>  إردبّين <supplied reason="omitted" cert="high">و</supplied>سدس يقوم بذلك في <app type="BL"><lem resp="APD">صفر </lem><rdg resp="Diem p. 71/77">صيفة</rdg></app> سنة ستّة وعشرين وخمسمائة 
+<lb n="10"/>  بغير مدافعة ولا ممانعة ولا احتجاج بحجّة دون 
+<lb n="11"/>  الخروج من المبلغ المذكور على تمامه وكماله 
+<lb n="12"/>  <app type="BL"><lem resp="APD">ولذلك </lem><rdg resp="Diem p. 71">وبذلك</rdg></app> أقر وأشهد على نفسه في العشر الثّاني 
+<lb n="13"/>  من محرّم سنة سبع وعشرين وخمسمائة 
+<lb n="14"/>  شهدت عليه بذلك وكتب 
+<lb n="15"/>  إسمعيل بن زيد بن أحمد بن عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra šabību bnu maqāraha ăl muzāriʿu bi bulǧusūqa ʾaqarra ʾiqrār la ø hu 
+ <lb n="3"/>ṭawʿ:un rāġib:un wa ṭālib:un wa ʾašhada ʿalà nafsi hi fī ṣiḥḥaẗ:in min ʿaqli wa hi ǧawāzi 
+ <lb n="4"/>ʾaqarra ʾamr:in ṭāʾiʿ:an ġayra mukrah:in wa lā muǧbar:in wa lā muḍṭahad:in wa lā ǧāhil:an 
+ <lb n="5"/>bi mā ʾaqarra bi hi fī hi ʾanna ʿinda hu wa qibala hu wa fī ḏimmaẗi hi ḫāliṣi māli hi 
+ <lb n="6"/>dayn:an ṯābit:an wa ḥaqq:an lāzim:an la lazima hu mina ø ø ăl ʾiqrāri ʾiqrāru bi hi li zamzama 
+ <lb n="7"/>bni naṣar:in naḍr:in naṣr:in mina ăl qamḥi ăṭ ṭayyibi ăṣ ăn ṣalli naṣīli ăs sālimi 
+ <lb n="9"/>mina ăl ʿalaṯi ʾarbaʿaẗa ʾarādiba wa ṯulṯ:uni ăn niṣfu min ḏālika 
+ <lb n="10"/>ʾirdabbayni wa suds:un yaqūmu bi ḏālika fī ṣafar:in ṣayfaẗi sanaẗa sanaẗi sittaẗ:in wa ʿišrīna wa ḫamsi miʾaẗ:in 
+ <lb n="11"/>bi ġayri mudāfaʿaẗ:in wa lā mumānaʿaẗ:in wa lā ĭḥtiǧāǧ:in bi ḥuǧǧaẗ:in dūna 
+ <lb n="12"/>ăl ḫurūǧi mina ăl mablaġi ăl maḏkūri ʿalà tamāmi hi wa kamāli hi 
+ <lb n="13"/>wa li bi ḏālika ʾaqarra wa ʾašhada ʿalà nafsi hi fī ăl ʿašri ăṯ ṯānī 
+ <lb n="14"/>min muḥarram:in sanaẗa sabʿ:in wa ʿišrīna wa ḫamsi miʾaẗ:in 
+ <lb n="15"/>šahidtu ʿalay hi bi ḏālika wa kataba 
+ <lb n="16"/>ʾismāʿīlu bnu zaydi bni ʾaḥmada bni ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Šabīb b. Maqâre, the farmer in Bulǧusûq, has acknowledged, (viz.) he has acknowledged for him(self)
+			<lb n="3"/>
+		voluntarily, desiring and demanding (it) and has called witnesses to testify to his obligation, he being in a state of sound mind:
+			<lb n="4"/>
+		he has acknowledged voluntarily, without compulsion and not against his will and not under constraint, and not ignorant
+			<lb n="5"/>
+		of what he has acknowledged herein, viz. that he has in his possession, is in debt and under obligation for, with his undiminished property,
+			<lb n="6"/>
+		as an obligatory debt and an obligation incumbent upon him on the basis of the acknowledgment thereto, to Zamzam
+			<lb n="7"/>
+		b. Naṣr of good, cleansed wheat, free
+			<lb n="9"/>
+		 from any admixture four artabas and a third (of an artaba) - the half thereof being
+			<lb n="10"/>
+		two artabas and a sixth (of an artaba) - with which he will present himself in Ṣafar of the year five hundred and twenty six
+			<lb n="11"/>
+		without any delay, or pretext for refusal, or by bringing forward any argument beyond
+			<lb n="12"/>
+		the paying of the afore-mentioned amount completely and fully.
+			<lb n="13"/>
+		And thereto he has acknowledged and has called witnesses to testify to his obligation in the second decade
+			<lb n="14"/>
+		of Muḥarram of the year five hundred and twenty seven.
+			<lb n="15"/>
+		I have testified thereto for him and
+			<lb n="16"/>
+		Ismaʿîl b. Zaid b. Aḥmad b. ʿAbdallâh has written (it).
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2032" xml:id="Margoliouth_Rylands_XIII_6" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I XIII 6 (= P.DiemMagischeTexte 2)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_Rylands_XIII_6</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1 = Diem a 1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2 = Diem a 2"/>  لا صنع اللّه لك ولا 
+ <lb n="3 = Diem a 3"/>  رزقك العافية في 
+ <lb n="4 = Diem a 4"/>  بدنك <app type="BL"><lem resp="APD">وأسله </lem><rdg resp="APD">وأسل</rdg></app> اللّه 
+ <lb n="5 = Diem a 5"/>  أن ينقم منك 
+ <lb n="6 = Diem b 1"/>  <app type="BL"><lem resp="APD">إنّي </lem><rdg resp="APD">فرأيك</rdg></app> <app type="BL"><lem resp="APD">أسل </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">جعل </lem><rdg resp="APD">جعلت</rdg></app> <app type="BL"><lem resp="APD">عداك </lem><rdg resp="APD">فداءك</rdg></app> في <app type="BL"><lem resp="APD">الأمن </lem><rdg resp="APD">الأمر</rdg></app> 
+ <lb n="7 = Diem b 2"/>  <app type="BL"><lem resp="APD">لا </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">قسم </lem><rdg resp="APD">بالسّفر</rdg></app> إليك <app type="BL"><lem resp="APD">شيا </lem><rdg resp="APD">فعلت</rdg></app> <app type="BL"><lem resp="APD">منه </lem><rdg resp="APD">ø</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>lā ṣanaʿa ăl lāhu la ka wa lā 
+ <lb n="3"/>razaqa ka ăl ʿāfiyaẗa fī 
+ <lb n="4"/>badani ka wa ʾasalu hu ø ăl lāha 
+ <lb n="5"/>ʾan yanqima min ka 
+ <lb n="6"/>ʾin fa nī ka raʾyu ø ʾasalu ø ǧaʿla ǧuʿiltu ʿidā fidāʾa ka fī ăl ăl ʾamni ʾamri 
+ <lb n="7"/>lā ø qasama bi ø ø ăs ø safari ʾilay ka šayʾ:an faʿalta min ø hu ø 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Gnädigen!
+ 	  In the Name &amp;c.
+		 <lb n="2"/>
+ 	  Gott erweise Dir nichts Gutes und
+ 	  May Allah do thee no good neither
+		 <lb n="3"/>
+ 	  bestow on thee health in
+ 	  schenke Dir keine Gesundheit an
+		 <lb n="4"/>
+ 	  Deinem Körper! Ich bitte {ihn} Gott,
+ 	  thy body, and I ask Him - Allah -
+		 <lb n="5"/>
+ 	  daß er Dich strafen möge!
+ 	  to take vengeance on thee.
+		 <lb n="6"/>
+ 	  I ask that He place thy enemies in security.
+ 	  Sei also so freundlich, anzuordnen,
+		 <lb n="7"/>
+ 	  daß ich zu Dir reise!
+ 	  May He not allot thee any portion thereof.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

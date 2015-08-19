@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="886" xml:id="Guo_Quseir_26" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 26</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_26</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113650</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم مملوكه عثمان النّاجي 
+<lb n="recto 2"/>  حضرة سيّدي ومولاي ومن لا <app type="BL"><lem resp="APD">غلوت </lem><rdg resp="“Friedman, Quṣayr p. 407; AK”">عدمت</rdg></app> حياته ولا خلوت مكانه 
+<lb n="recto 3"/>  الشّيخ الأجل الأفضل الأكمل الأمين أبو <app type="BL"><lem resp="APD">عل </lem><rdg resp="“AK”">علي</rdg></app> حسين وفّقه <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="recto 4"/>  لطاعته ولا أخلاه من حسن توفيقه والّذي نعلمك 
+<lb n="recto 5"/>  وفّقك اللّه أن من يوم خرجت من عندك ما وصلني كتاب 
+<lb n="recto 6"/>  فواللّه يا مولاي <app type="BL"><lem resp="“Friedman, Quṣayr p. 407”"><sic n="superfluous">أعاقني</sic><supplied reason="omitted" cert="high">اعڤاپى</supplied> </lem><rdg resp="APD">أعفاني </rdg><rdg resp="APD">عافاني</rdg></app> <supplied reason="lost" cert="high">الـ</supplied>ـلّه <supplied reason="omitted" cert="high">بكلّ</supplied> الحال وأنا متّكل عل اللّه 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> في شي <gap reason="illegible" precision="low" extent="3"/> عليه 
+<lb n="recto right margin 1"/>  سمعت أن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 2"/>  لنا ملاية حرم مرصّعة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 3"/>  عندي حملين وتسلّم 
+<lb n="recto right margin 4"/>  لي <app type="BL"><lem resp="APD">عل </lem><rdg resp="“AK”">على</rdg></app> سرحان <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 5"/>  و<gap reason="illegible" precision="low" extent="3"/> ومختار وهو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 6"/>  ربع <app type="BL"><lem resp="APD">مبياع </lem><rdg resp="APD">مبياع </rdg><rdg resp="APD">متاع</rdg></app> ما يعلم 
+<lb n="recto right margin 7"/>  فا<gap reason="illegible" precision="low" extent="3"/> إليه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 8"/>  رسومها محتاج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin 9"/>  يا مولاي ترسل لي كتاب 
+<lb n="recto right margin 10"/>  <gap reason="illegible" precision="low" extent="3"/> پعمى نحارپكم 
+<lb n="verso 1"/>  يصل هذا الكتاب إلى <supplied reason="lost" cert="high">ساحل</supplied> القصير <app type="BL"><lem resp="“AK”">فسلّم </lem><rdg resp="APD">فيسلّم</rdg></app> للشّيخ الأجل الأفضل الأكمل أبو <app type="BL"><lem resp="APD">عل </lem><rdg resp="APD">عليّ</rdg></app> حسين 
+<lb n="verso 2"/>  إلى <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi mamlūku hu ʿuṯmānu ăn nāǧī 
+ <lb n="2"/>ḥaḍraẗu sayyid ī wa mawlā ya wa man lā ʿadimtu ġalwat ḥayāta ḥayātu hu wa lā ḫalawtu ḫalwat makāna makānu hu 
+ <lb n="3"/>ăš šayḫu ăl ʾaǧallu ăl ʾafḍalu ăl ʾakmalu ăl ʾamīnu ʾabū ʿali ʿaliyy:in ḥusayn:un waffaqa hu ăl lāhu 
+ <lb n="4"/>li ṭāʿati hi wa lā ʾaḫlā hu min ḥusni tawfīqi hi wa ăllaḏī nuʿlimu ka 
+ <lb n="5"/>waffaqa ka ăl lāhu ʾanna min yawmi ḫaraǧtu min ʿindi ka mā waṣala nī kitāb:un 
+ <lb n="6"/>fa wa ăl lāhi yā mawlā ya ʾaʿāqa ʾaʿfā ʿāfā nī ăl lāhu bi kulli ăl ḥāli wa ʾanā muttakil:un ʿala ăl lāhi 
+ <lb n="7"/>*** fī šayʾ:in *** ʿalay hi 
+ <lb n="8"/>samiʿtu ʾanna *** 
+ <lb n="9"/>la nā milāyaẗu ḥuram:in muraṣṣaʿaẗ:un *** 
+ <lb n="10"/>ʿind ī ḥimlayni wa tusallim 
+ <lb n="11"/>l ī ʿala ʿalà sirḥāna *** 
+ <lb n="12"/>wa *** wa muḫtār:in wa huwa *** 
+ <lb n="13"/>rubʿ mubtāʿ mubyāʿ matāʿ:in mā yaʿlamu 
+ <lb n="14"/>fʾ*** ʾilay hi *** 
+ <lb n="15"/>rusūmu hā muḥtāǧ:un *** 
+ <lb n="16"/>yā mawlā ya tursil l ī kitāb 
+ <lb n="17"/>*** nuʿmà tiǧārati kum 
+ <lb n="18"/>yaṣil hāḏā ăl kitābu ʾilà sāḥili ăl quṣayri fa sallim yusallam li š šayḫi ăl ʾaǧalli ăl ʾafḍali ăl ʾakmali ʾabū ʿali ʿaliyy:in ḥusayn:in 
+ <lb n="19"/>ʾilà *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. [From] His servant ʿUthmān al-Nājī.
+			<lb n="2"/>
+		... May I never be deprived of your life and miss your lofty position.
+		[To] my master and lord - whose life will not be spent in excess and whose lofty position will not be void - 
+			<lb n="3"/>
+		and the most noble, virtuous, perfect, and trustworthy shaykh Abū ʿAlī Ḥusayn - may God make him successful 
+			<lb n="4"/>
+		on account of his obedience! [May God] not deprive him from the wonder of his success! That which I am writing to inform you -
+			<lb n="5"/>
+		may God make you successful! - is the following: since the day I left you, I have yet received any letters [from you].
+			<lb n="6"/>
+		By God, O my master! May God protect me under every circumstance and in God I place my trust. 
+			<lb n="7"/>
+		[...] as regards [.....................]
+			<lb n="8"/>
+		I heard that [.....]
+			<lb n="9"/>
+		We have women&#039;s wraps decorated with gold and gems [...]
+			<lb n="10"/>
+		at my disposal are two loads. Send regards
+			<lb n="11"/>
+		for me to Sirḥān [......]
+			<lb n="12"/>
+		and [...] and Mukhtār; he is to [...]
+			<lb n="13"/>
+		a quarter to be sold. He did not know
+			<lb n="14"/>
+		[......] to him [......]
+			<lb n="15"/>
+		Its tax due is being demanded [.......].
+			<lb n="16"/>
+		O my master, send me a letter.
+			<lb n="17"/>
+		[May God] bless your business.
+			<lb n="18"/>
+		This letter is to be delivered to the shore of Quseir, to be handed over to the most noble, virtuous, and perfect shaykh Abū ʿAlī Ḥusayn.
+			<lb n="19"/>
+		To [........................]
+</ab></div>
+</body>
+</text>
+</TEI>

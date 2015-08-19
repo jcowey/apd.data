@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1234" xml:id="David-Weill_Louvre_5" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 05</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_5</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169071</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+ <lb n="2"/>  حفظك اللّه و<unclear reason="undefined" cert="high">عافاك</unclear> 
+ <lb n="3"/>  <unclear reason="undefined" cert="high">وأعزّك</unclear> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وزاد</supplied> </lem><rdg resp="APD"><gap reason="illegible" extent="5" unit="character" /></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤى</supplied> </lem><rdg resp="APD">في</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">احساپه</supplied> </lem><rdg resp="APD">إحسانه</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الپك</supplied> </lem><rdg resp="APD">إليك</rdg></app> <app type="BL"><lem resp="APD">عپد<supplied reason="lost" cert="high">ك</supplied> </lem><rdg resp="APD">وعندك</rdg></app> 
+ <lb n="4"/>  <app type="BL"><lem resp="APD">برّأكم </lem><rdg resp="APD">براءة</rdg></app> <app type="BL"><lem resp="APD">عن </lem><rdg resp="APD">لكم </rdg><rdg resp="APD">ø</rdg></app> ما يلزم القستل من حفظه 
+ <lb n="5"/>  فكلّم أبي القسم أبقاه اللّه 
+ <lb n="6"/>  يختم له الكتب جا خليفته 
+ <lb n="7"/>  يمنعه من الدّخول في قريته وإلى 
+ <lb n="8"/>  أصحاب المراعي بالكف 
+ <lb n="9"/>  عنه وعجّل ذلك متّعني 
+ <lb n="10"/>  اللّه بك السّاعة فإن رسوله 
+ <lb n="11"/>  عندي 
+ <lb n="12"/>  حفظك اللّه وعافاك وكتب 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʿāfā ka 
+ <lb n="3"/>wa ʾaʿazza ka wa ***** ø zāda ø fī ø ʾiḥsāni hi ø ø ʾilay ka ø ø wa ʿinda ø ka ø 
+ <lb n="4"/>barraʾa barāʾaẗ:un kum ʿan kum la ø mā yulzimu ăl qustāla min ḥifẓi hi 
+ <lb n="5"/>fa kallama ʾabī ăl qāsimi ʾabqā hu ăl lāhu 
+ <lb n="6"/>yaḫtimu la hu ăl kitāba kutuba ǧāʾa ḫalīfatu hu 
+ <lb n="7"/>yamnaʿu hu mina ăd duḫūli fī qaryati hi wa ʾilà 
+ <lb n="8"/>ʾaṣḥābi ăl marāʿī bi ăl kaffi 
+ <lb n="9"/>ʿan hu wa ʿaǧǧil ḏālika mattaʿa nī 
+ <lb n="10"/>ăl lāhu bi ka ăs sāʿaẗa fa ʾinna rasūla hu 
+ <lb n="11"/>ʿind ī 
+ <lb n="12"/>ḥafiẓa ka ăl lāhu wa ʿāfā ka wa kutiba 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément, miséricordieux,
+		 <lb n="2"/>
+ 	  Dieu te garde et te donne la santé
+		 <lb n="3"/>
+ 	  et te chérisse ............... chez (toi)
+		 <lb n="4"/>
+ 	  Vous tient quitte de ce qu&#039;il incombe au qustâl de conserver
+		 <lb n="5"/>
+ 	  et Abu-l-Qâsim a dit, que Dieu le fasse durer!
+		 <lb n="6"/>
+ 	  en lui terminant ainsi ses lettres, que son représentant est venu
+		 <lb n="7"/>
+ 	  pour l&#039;empêcher de pénetrer dans son village et chez les propriétaires
+		 <lb n="8"/>
+ 	  des prés en l&#039;en écartant
+		 <lb n="9"/>
+ 	  et presse toi pour celà, que Dieu me fasse jouir de toi!
+		 <lb n="10"/>
+ 	  sur l&#039;heure, car son messager est chez moi
+		 <lb n="12"/>
+ 	  Dieu te garde et te donne la santé et (cela) a été écrit.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

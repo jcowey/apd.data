@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1460" xml:id="Khan_Khalili_I_3" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 03 (= P.Khalili II 10)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_3</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169244</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  ‮من ‪'‬γα قمح باق χδ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 2"/>  ‮من ‪χ‬ <app type="BL"><lem resp="APD">مقاتي </lem><rdg resp="APD">مقاتي‪</rdg></app> ‪χγ'ιβ'‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 3"/>  ‮من χ قرط بربية ‪α‬ ‪ιβ‪'‬‬<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 4"/>  ‮من ‪αϛ'‬ قمح برو<supplied reason="lost" cert="high">بيّة</supplied> ‪βχγ'‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 5"/>  ‮من ‪αχ‬ كتّان باق ‪βϛ'η'‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 6"/>  ‮‮من‬ // كتّان باق ‪βιβ'‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 7"/>  ‮من ‪χ‬ قرط بروبيّة ‪βϛ'η'‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 8"/>  ‮من // شعير باق كتّان ‪βχδ'‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 9"/>  ‮من β كتّان مقاثئ 'δ<gap reason="illegible" extent="2" unit="character" /> 'γ<gap reason="illegible" extent="1" unit="character" />ι 
+ <lb n="recto 10"/>  ‮من χ قرط بروبيّة χβ χ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 11"/>  ‮من β كتّان باق 'βιβ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso 1"/>  ‮من 'ϛα قمـ<supplied reason="lost" cert="high">ـ</supplied>ـح بقماهة γ χγ 
+ <lb n="verso 2"/>  ‮من χα كتّان باق 'ηχγ 'ακχε 
+ <lb n="verso 3"/>  ‮<supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> كتّان مقا<supplied reason="lost" cert="high">ثئ</supplied> χ<gap reason="illegible" extent="2" unit="character" /> χβι 
+ <lb n="verso 4"/>  ‮من // كتّان برش χα γ 
+ <lb n="verso 5"/>  ‮من χα كتّان باق 'γδ χ<gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="verso 6"/>  ‮من 'ϛα قمح باق كتّان χγ 'βιδ 
+ <lb n="verso 7"/>  من 'η'γχ مقاثئ <unclear reason="undefined" cert="high">ζ</unclear> 'δχϛ 
+ <lb n="verso 8"/>  ‮من χα كتّان باق α χα 
+ <lb n="verso 9"/>  ‮من χ قرط بروبيّة 'η'γβ 'ηχα 
+ <lb n="verso 10"/>  ‮<supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">قـ</supplied>ـمح 'δκα 'ακ'ϛα 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>min ‪1+1/3 qamḥu bāq:in 4+1/2 *** 
+ <lb n="2"/>min 1/2 maqāṯiʾu maqātī 1/2+1/3+1/12 *** 
+ <lb n="3"/>min 2/3 qurṭu barūbiyyaẗ:in 1+*** ***+1/12 
+ <lb n="4"/>min 1+1/6 qamḥu barūbiyyaẗ:in 2+1/2+1/3 *** 
+ <lb n="5"/>min 1+1/2 kattānu bāq:in 2+1/6+1/8 *** 
+ <lb n="6"/>min ‪//‬ kattānu bāq:in 1+1/12 *** 
+ <lb n="7"/>min 2/3 qurṭu barūbiyyaẗ:in 2+1/6+1/8 *** 
+ <lb n="8"/>min ‪//‬ šaʿīru bāq:in kattān:un 2+1/2+1/4 *** 
+ <lb n="9"/>min 2 kattān:un maqāṯiʾu *** + 1/4 1* + 1/3 
+ <lb n="10"/>min 2/3 qurṭu barūbiyyaẗ:in 2+1/2 ***+1/2 
+ <lb n="11"/>min 2 kattānu bāq:in 2+1/12 *** 
+ <lb n="12"/>min 1+1/6 qamḥu buqmāhaẗ:in 3 3+1/2 
+ <lb n="13"/>min 1+1/2 kattānu bāq:in 3+1/2+1/8 5+1/2+1/21 
+ <lb n="14"/>min *** kattānu maqāṯiʾu ***+1/2 12+1/2 
+ <lb n="15"/>min ‪//‬ kattānu barš:in 1+1/2 3 
+ <lb n="16"/>min 1+1/2 kattānu bāq:in 4+1/3 ***+1/2 
+ <lb n="17"/>min 1+1/6 qamḥu bāq:in kattān:un 3+1/2 4+1/12 
+ <lb n="18"/>min 1/2+1/3+1/8 maqāṯiʾu 7 6+1/2+1/4 
+ <lb n="19"/>min 1+1/2 kattānu bāq:in 1 1+1/2 
+ <lb n="20"/>min 2/3 qurṭu barūbiyyaẗ:in 2+1/3+1/8 1+1/2+1/8 
+ <lb n="21"/>min *** qamḥ *** 1+1/24 1+1/6+1/21 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Rented at 1+1/3 Wheat grown after legumes 4+1/2 [
+		 <lb n="2"/>
+ 	  Rented at 1/2 Cucurbitales 1/2+1/3+1/12 [
+		 <lb n="3"/>
+ 	  Rented at 2/3 Trefoil grown after grasses 1[ ] [ ]1/12
+		 <lb n="4"/>
+ 	  Rented at 1+1/6 Wheat grown after grasses 2+1/2+1/3 [
+		 <lb n="5"/>
+ 	  Rented at 1+1/2 Flax grown after legumes 2+1/6+1/8
+		 <lb n="6"/>
+ 	  Rented at // Flax grown after legumes 2+1/12
+		 <lb n="7"/>
+ 	  Rented at 2/3 Trefoil grown after grasses 2+1/6+1/8
+		 <lb n="8"/>
+ 	  Rented at // Barley grown after legumes, together with flax 2+1/2+1/4
+		 <lb n="9"/>
+ 	  Rented at 2 Flax with cucurbitales [ ]1/4 10(?)[ ]1/3
+		 <lb n="10"/>
+ 	  Rented at 2/3 Trefoil grown after grasses 2+1/2 [ ]1/2
+		 <lb n="11"/>
+ 	  Rented at 2 Flax grown after legumes 2+1/12 [
+		 <lb n="12"/>
+ 	  Rented at 1+1/6 Wheat grown after flax 3 3+1/2
+		 <lb n="13"/>
+ 	  Rented at 1+1/2 Flax grown after legumes 3+1/2+1/8 5+1/2+1/21
+		 <lb n="14"/>
+ 	  [Rented at      ] Flax and cucurbitales [ ]+1/2    12+1/2
+		 <lb n="15"/>
+ 	  Rented at // Flax grown after cucurbitales 1+1/2 3
+		 <lb n="16"/>
+ 	  Rented at 1+1/2 Flax grown after legumes 4+1/3   [ ]1/2
+		 <lb n="17"/>
+ 	  Rented at 1+1/6 Wheat grown after legumes, together with flax 3+1/2 4+1/12
+		 <lb n="18"/>
+ 	  Rented at 1/2+1/3+1/8 Cucurbitales 7 6+1/2+1/4
+		 <lb n="19"/>
+ 	  Rented at 1+1/2 Flax grown after legumes 1 1+1/2
+		 <lb n="20"/>
+ 	  Rented at 2/3 Trefoil grown after legumes 2+1/3+1/8 1+1/2+1/8
+		 <lb n="21"/>
+ 	  [Rented at        Wheat] ... 1+1/24 1+1/6+1/21
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

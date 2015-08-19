@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="689" xml:id="Grohmann_EBU_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106770</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذ</supplied>ا كتاب سجل من] بدر بن أستراده الكاتب كتبه لجريج بن 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإنّك</supplied> <supplied reason="lost" cert="high">سألتنا</supplied> وطلبت إلينا أن نقبلك <app type="BL"><lem resp="APD">البقالتين </lem><rdg resp="Diem÷ scribe inverted erroneously qāf and bāʾ">القبالتين</rdg></app> <app type="BL"><lem resp="APD">المفرّقتين </lem><rdg resp="Diem">المعرفتين</rdg></app> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" extent="5" unit="character" /> <app type="BL"><lem resp="APD">ببلنوره </lem><rdg resp="Diem">ببلنسورة</rdg></app> قبالة بلا مساحة تزرع ما أحببت وتزرع 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بخـ</supplied>ـمسين دينار معسول وزن سوا فأجبتك إلى ذلك على أن تودى 
+<lb n="6"/>  خراجك مع أنجم السّلطان أعزّه اللّه وأوقاته فازرع على بركة اللّه وعونه فلك 
+<lb n="7"/>  ‮الوفا بذلك وذلك لخراج سنة سبع وثلثين وثلثمپه ‪τκζ‬ 
+<lb n="8"/>  وكتب <app type="BL"><lem resp="APD">يعقوب </lem><rdg resp="Diem">پوڤرپ </rdg><rdg resp="Diem">پوڤوپ</rdg></app> ونوفير ابن ثيدر بخطّه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="9"/>  دينر 
+<lb n="10"/>  ‮قبالتي أبلاسي وبقعة حليم بلا مساحة ν لسنة ‪τλζ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitābu siǧill:in min badri bni ʾastrādaha ăl kātibi kataba hu li ǧurayǧi bni 
+ <lb n="3"/>*** *** fa ʾinna ka saʾalta nā wa ṭalabta ʾilay nā ʾan nuqbila ka ăl biqālatayni qabālatayni ăl mufarraqatayni maʿrufatayni ***** 
+ <lb n="4"/>***** bi balinūraha balansūraẗa qabālaẗ:an bi lā misāḥaẗ:in tazraʿu mā ʾaḥbabta wa tazraʿu 
+ <lb n="5"/>*** bi ḫamsīna dīnār maʿsūl:in wazn sawāʾ fa ʾaǧabtu ka ʾilà ḏālika ʿalà ʾan tuʾaddiya 
+ <lb n="6"/>ḫarāǧa ka maʿa ʾanǧumi ăs sulṭāni ʾaʿazza hu ăl lāhu wa ʾawqāti hi fa ĭzraʿ ʿalà barakaẗi ăl lāhi wa ʿawni hi fa la ka 
+ <lb n="7"/>ăl wafāʾu bi ḏālika wa ḏālika li ḫarāǧi sanaẗi sabʿ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 337 
+ <lb n="8"/>wa kataba yaʿqūbu BwFrB BwFwB wanūfīra ĭbni ṯīyudura bi ḫaṭṭi hi * 
+ <lb n="9"/>dīnār:un 
+ <lb n="10"/>qabālaẗay ʾablāsiyya wa buqʿaẗu ḥalīma bi lā misāḥaẗ:in 50 li sanaẗi 337 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		[Dies ist der Pachtvertrag seitens des] Schreibers Badr b. Astrāde, den er geschrieben hat für Ǧuraiǧ b.
+			<lb n="3"/>
+		[....... Fürwahr Du hast uns gebeten] und von uns verlangt, daß wir Dir verpachten die beiden getrennten Gemüsegärten .....
+			<lb n="4"/>
+		[...] in Palinūre als Pachtung ohne Vermessung, (auf daß) Du säest, was Du willst, und Du säst
+			<lb n="5"/>
+		[... um f]ünfzig richtige Dīnāre gleichen Gewichts. So habe ich Dir dies gewährt unter der Bedingung, daß du
+			<lb n="6"/>
+		Deine Grundsteuer zusammen mit den dem Statthalter - Gott stärke ihn - geschuldeten Raten und zu den (von ihm bestimmten) Fälligkeitsterminen bezahlest. So säe denn mit dem Segen und der Hilfe Gottes, und Dir
+			<lb n="7"/>
+		obliegt die Durchführung hievon und dies für die Steuer des Jahres dreihundertsiebenunddreißig. 337.
+			<lb n="8"/>
+		Und Yaʿqūb Wenofre (Wanūfīr) ibn Theodor hat es mit seinem Schriftzuge geschrieben (Handzeichen).
+			<lb n="9"/>
+		Dīnār
+			<lb n="10"/>
+		Die beiden Pachtungen des Ablāsī und das Grundstück des Ḥalīm ohne Vermessung für das Jahr 337.    50
+</ab></div>
+</body>
+</text>
+</TEI>

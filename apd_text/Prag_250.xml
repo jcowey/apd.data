@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1626" xml:id="Prag_250" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 25</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_250</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169382</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  ‮‪βχ‬ من دورثة الخبّـ<supplied reason="lost" cert="high">ـاز</supplied> <supplied reason="lost" cert="high">و[هـ[ـو</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يسار</supplied> </lem><rdg resp="APD">يسار</rdg></app> <supplied reason="lost" cert="high">قمح</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  ‮‪βχ‬ من بهيوه الأجير وهو <app type="BL"><lem resp="APD">يـ<supplied reason="lost" cert="high">ـسار</supplied> </lem><rdg resp="APD">يسار</rdg></app> <supplied reason="lost" cert="high">قمـ</supplied>ـح <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  ‮‪βχ‬ من هدري وشنودة الأجيريـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">وهو</supplied> <app type="BL"><lem resp="APD">يـ<supplied reason="lost" cert="high">ـسا</supplied>ر </lem><rdg resp="APD">يسار</rdg></app> قمح <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  ‮‪βχ‬ من <app type="BL"><lem resp="APD">فنّس </lem><rdg resp="APD">قتّس </rdg><rdg resp="APD">فنس </rdg><rdg resp="APD">فنّس</rdg></app> الجزّار وهو <app type="BL"><lem resp="APD">يسـ<supplied reason="lost" cert="high">ـار</supplied> </lem><rdg resp="APD">يسار</rdg></app> <supplied reason="lost" cert="high">قمـ</supplied>ـح χ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="6"/>  ‮من ‪βχ‬ زكري الثّوّار وهو <app type="BL"><lem resp="APD">يسا<supplied reason="lost" cert="high">ر</supplied> </lem><rdg resp="APD">يسار</rdg></app> <supplied reason="lost" cert="high">قـ</supplied>ـمح <supplied reason="lost" cert="high">‪ιχ‬</supplied> ‪<supplied reason="lost" cert="high">‪</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">‬</supplied>χ 
+ <lb n="7"/>  ‮من ‪βχ‬ إبرهيم الأجير وهو <app type="BL"><lem resp="APD">بشّار </lem><rdg resp="APD">يسار</rdg></app> قمـ<supplied reason="lost" cert="high">ـح</supplied> ‪ζχ‬ ‪ηγʹ‬ χ<gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="8"/>  ‮من ‪βχ‬ هرّي البذّار وهو <app type="BL"><lem resp="APD">يسار </lem><rdg resp="APD">يسار</rdg></app> قمح ‪ργχ‬ ‪ιδχ‬ ‪<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">δ</supplied> 
+ <lb n="9"/>  ‮من ‪βχ‬ أيّوب الأجير وهو <app type="BL"><lem resp="APD">يسار </lem><rdg resp="APD">يسار</rdg></app> قمح ‪λδ‬ ‪λδ‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  ‮ وله ڤمح ‪κα‬ ‪κα‬ 
+ <lb n="11"/>  ‮ وله حرپ α β 
+ <lb n="12"/>  ‮ وله حرت ‪δα‬ ‪δα‬ 
+ <lb n="13"/>  من‮ ‪βχ‬ نست وثيدرة وهو <app type="BL"><lem resp="APD">يسار </lem><rdg resp="APD">يسار</rdg></app> خردل ‪ζ‬ ‪ϛ‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14"/>  ‮‪βχ‬ من قمل <supplied reason="omitted" cert="high">ا</supplied>لأجير وهو <app type="BL"><lem resp="APD">بشّار </lem><rdg resp="APD">يسار</rdg></app> قمح ‪ιαχ‬ ‪ιγ‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="15"/>  ‮‪βχ‬ من <app type="BL"><lem resp="probably Orri “Preisigke col. 243”, ‹h› being added to several names.">هرّي </lem><rdg resp="Grohmann excludes this reading for l.8 because it is a female name, but see translation">هري</rdg></app> وشنودة الأجيرين وهو <app type="BL"><lem resp="APD">بشّار </lem><rdg resp="APD">يسار</rdg></app> ‪ια‬ ‪ιχ‬ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="16"/>  ‮ ولهما حرپ δ δ 
+ <lb n="17"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> الثّوّا<supplied reason="lost" cert="high">ر</supplied> <supplied reason="lost" cert="high">و</supplied>هـ<supplied reason="lost" cert="high">ـو</supplied> <app type="BL"><lem resp="APD">يـ<supplied reason="lost" cert="high">ـسـ</supplied>ـار </lem><rdg resp="APD">يسار</rdg></app> قـ<supplied reason="lost" cert="high">ـمح</supplied> ‪ϛχ‬ ‪<gap reason="illegible" extent="2" unit="character" />χ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>** min *** *** 
+ <lb n="2"/>2+1/2 min dawraṯaẗa ăl ḫabbāzi wa huwa baššār:in yasāra qamḥ *** *** 
+ <lb n="3"/>2+1/2 min bihīwha ăl ʾaǧīri wa huwa baššār:in yasāra qamḥ *** 
+ <lb n="4"/>2+1/2 min hadrī wa šanūdaẗa ăl ʾaǧīrayni wa huwa baššār:in yasāra qamḥ *** 
+ <lb n="5"/>2+1/2 min fanisa fannisa fannusa qannasa qannisa qunnusa quttusa ăl ǧazzāri wa huwa baššār:in yasāra qamḥ ***+ 1/2 ** 
+ <lb n="6"/>min 2+1/2 zikrī ăṯ ṯawwāri wa huwa baššār:in yasāra qamḥ 10+1/2 **+1/2 
+ <lb n="7"/>min 2+1/2 ʾibrāhīma ăl ʾaǧīri wa huwa baššār:in yasāra qamḥ 7+1/2 8+1/3 **+1/2 
+ <lb n="8"/>min 2+1/2 hurrī ăl baḏḏāri wa huwa baššār:in yasāra qamḥ 103+2/3 14+1/2 *+4 
+ <lb n="9"/>min 2+1/2 ʾayyūba ăl ʾaǧīri wa huwa baššār:in yasāra qamḥ 34 34 *** 
+ <lb n="10"/>wa la hu qamḥ:un 21 21 *** 
+ <lb n="11"/>wa la hu ḥarṯ:un 1 2 **+5 
+ <lb n="12"/>wa la hu ḥarṯ:un 4+1 4+1 *** 
+ <lb n="13"/>min 1+1/2 nasti wa ṯiyuduraẗa wa huwa baššār:in yasāra ḫardal 7 6 *** 
+ <lb n="14"/>2+1/2 min qamula ăl ʾaǧīri wa huwa baššār:in yasāra qamḥ 11+2/3 13 *** 
+ <lb n="15"/>2+1/2 min hiray hurrī wa šanūdaẗa ăl ʾaǧīrayni wa huwa baššār:in yasāra 11 10+2/3 *** 
+ <lb n="16"/>wa la humā ḥarṯ:un 4 4 *** 
+ <lb n="17"/>*** *** ăṯ ṯawwāri wa huwa baššār:in yasāra qamḥ 6+2/3 **+1/2 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [(verpachtet) z]u [
+		 <lb n="2"/>
+ 	  (verpachtet) zu 2 1/2 Dauraṯa, der Bäck[er, und] e[s (ist) Baššār, Weizen
+		 <lb n="3"/>
+ 	  (verpachtet) zu 2 1/2 Piheu, der Taglöhner, und es (ist) Ba[ššār, Weizen
+		 <lb n="4"/>
+ 	  (verpachtet) zu 2 1/2 Hatre und Šanūda, die beiden Taglöhn[er und es (ist)] Ba[ššā]r, Weizen [
+		 <lb n="5"/>
+ 	  (verpachtet) zu 2 1/2 Kannas, der Metzger, und es (ist) Bašš[ār, Weiz]en [.]1/2
+		 <lb n="6"/>
+ 	  (verpachtet) zu 2 1/2 Zikrī, der Rinderhirt, und es (ist) Baššā[r, Wei]zen [10 1/2] [.]1/2 [
+		 <lb n="7"/>
+ 	  (verpachtet) zu 2 1/2 Ibrahīm, der Taglöhner, und es (ist) Baššār, Weize[n] 7 1/2 8 1/3 [.] 1/2 [
+		 <lb n="8"/>
+ 	  (verpachtet) zu 2 1/2 Horri, der Sämann, und es (ist) Baššār, Weizen 103 2/3 14 1/2 [4
+		 <lb n="9"/>
+ 	  (verpachtet) zu 2 1/2 Job, der Taglöhner, und es (ist) Baššār, Weizen 34 34 [
+		 <lb n="10"/>
+ 	  und er hat Weizen 21 21 [
+		 <lb n="11"/>
+ 	  und er hat Ackerland 1 2 [5
+		 <lb n="12"/>
+ 	  und er hat Ackerland 4 1 4 1 [
+		 <lb n="13"/>
+ 	  (verpachtet) zu 2 1/2 Nest(os) und Theodore, und es (ist) Baššār, Ackersenf 7 6 [5
+		 <lb n="14"/>
+ 	  (verpachtet) zu 2 1/2 Kamul, der Taglöhner, und es (ist) Baššār, Weizen 11 1/2 13 [
+		 <lb n="15"/>
+ 	  (verpachtet) zu 2 1/2 Herai und Šanūda, die beiden Taglöhner, und es (ist) Baššār,  11 10 2/3
+		 <lb n="16"/>
+ 	  und sie haben Ackerland 4 4 [
+		 <lb n="17"/>
+ 	  [(verpachtet) zu .......]., der [Rind]derhirt, und es (ist) Ba[šš]ār, Wei[zen] 6 2/3 [.]1/2 [
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

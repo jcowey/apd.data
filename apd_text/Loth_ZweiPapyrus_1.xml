@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1593" xml:id="Loth_ZweiPapyrus_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Loth 1</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Loth_ZweiPapyrus_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169349</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> دفع <app type="BL"><lem resp="APD">فرمان </lem><rdg resp="APD">قزمان </rdg><rdg resp="UB">فرمان</rdg></app> بن تموس من أهل المدينة دفع إلى نافع مولى يحيى بن هلل أرضه 
+ <lb n="3"/>  الّتي في <unclear reason="undefined" cert="high">تنهدروپة</unclear> على أن يزرعها كلّها مشارطة ليس عليه 
+ <lb n="4"/>  من خراجها ولا نوائبها قليل ولا كثير و<gap reason="illegible" extent="1" unit="character" />ا<gap reason="illegible" extent="2" unit="character" />ح عليها من ذلك 
+ <lb n="5"/>  فعلى <app type="BL"><lem resp="APD">فرمان </lem><rdg resp="APD">فرمان </rdg><rdg resp="APD">قزمان</rdg></app> <gap reason="illegible" extent="4" unit="character" /> مـ<gap reason="illegible" extent="1" unit="character" /> شطره والصّر<supplied reason="lost" cert="high">فـ</supplied>ـة فيما سـ<gap reason="illegible" extent="1" unit="character" />م من رأس <unclear reason="undefined" cert="high">الأندر</unclear> 
+ <lb n="6"/>  وكذا الـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" />س من ر<supplied reason="lost" cert="high">أ</supplied>س الأنـ<supplied reason="lost" cert="high">ـد</supplied>ر وعلى نافع <supplied reason="lost" cert="high">سـ</supplied>ـقيها وحراستها 
+ <lb n="7"/>  والقيام عليها وبذرها وحصادها وعملها كلّه إلّا ما كان 
+ <lb n="8"/>  من الخراج والنّوائب على ذلك دفع إليه <app type="BL"><lem resp="APD">فرمان </lem><rdg resp="APD">قزمان </rdg><rdg resp="APD">فرمان</rdg></app> ورضيا جميعا 
+ <lb n="9"/>  دفع ذلك إليه لمـ<gap reason="illegible" extent="1" unit="character" />ـا سنة تسع وستّين ومائة 
+ <lb n="10"/>  شهد على ذلك حمّاد بن يوسف <unclear reason="undefined" cert="high">الفرس</unclear> وكتب سعيد شهادته بيده 
+ <lb n="11"/>  و<gap reason="illegible" extent="5" unit="character" />ن ط<gap reason="illegible" extent="4" unit="character" />س <gap reason="illegible" precision="low" extent="3"/> في صفر سنة <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** dafaʿa faramānu farammānu quzmānu bnu tamūsa min ʾahli ăl madīnaẗi dafaʿa ʾilà nāfiʿi mawlà yaḥyà bni hilāl:in ʾarḍa hu 
+ <lb n="3"/>ăllatī fī tnhdrūyaẗa ʿalà ʾan yazraʿa hā kulla hā mušāraṭaẗ:an laysa ʿalay hi 
+ <lb n="4"/>min ḫarāǧi hā wa lā nawāʾibi hā qalīl:un wa lā kaṯīr:un wa *ʾ**ḥ ʿalay hā min ḏālika 
+ <lb n="5"/>fa ʿalà faramāna farramāna quzmāna **** m* šaṭr hu wa ăṣ ṣarfaẗ fī mā s*m min raʾsi ăl ʾandari 
+ <lb n="6"/>wa kaḏā ăl *** ****s min raʾsi ăl ʾandari wa ʿalà nāfiʿ:in saqyu hā wa ḥirāsatu hā 
+ <lb n="7"/>wa ăl qiyāmu ʿalay hā wa baḏru hā wa ḥiṣādu hā wa ʿamalu hā kullu hu ʾillā mā kāna 
+ <lb n="8"/>mina ăl ḫarāǧi wa ăn nawāʾibi ʿalà ḏālika dafaʿa ʾilay hi faramānu farammānu quzmānu wa raḍiyā ǧamīʿ:an 
+ <lb n="9"/>dafaʿa ḏālika ʾilay hi lm*ʾ sanaẗa tisʿ:in wa sittīna wa miʾaẗ:in 
+ <lb n="10"/>šahida ʿalà ḏālika ḥammādu bnu yūsufa ăl fārisu wa kataba saʿīdu šahādata hu bi yadi hi 
+ <lb n="11"/>w*****n ṭ****s *** fī ṣafari sanaẗi *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Allbarmherzigen.
+		 <lb n="2"/>
+ 	  ..., Parammōn, Sohn des Tamūs aus al-Madînah hat dem Nâfiʿ, Clienten des Yaḥya ibn Hilâl sein Grundstück
+		 <lb n="3"/>
+ 	  in Tnhdrūya (?) übergeben, auf dass er es vollständig bebaue unter Stipulationen. Er hat weder
+		 <lb n="4"/>
+ 	  von der Grundsteuer noch von den ausserordentlichen Auslagen für das Grundstück irgend etwas zu tragen . . .
+		 <lb n="5"/>
+		 <lb n="6"/>
+ 	  . . . . . . . . Nâfiʿ aber ist verpflichtet, das Grundstück zu bewässern, zu hüten,
+		 <lb n="7"/>
+ 	  zu verwalten, zu besäen und abzuerndten und alle Arbeit dafür zu leisten, ausgenommen was
+		 <lb n="8"/>
+ 	  zur Grundsteuer und den ausserordentlichen Auslagen gehört. Unter diesen Bedingungen hat ihm Parammōn sein Grundstück übergeben, und sie haben sich zusammen für einverstanden erklärt.
+		 <lb n="9"/>
+ 	  Er (Par.) hat ihm dies übergeben . . . Jahr einhundertneunundsechzig.
+		 <lb n="10"/>
+ 	  So bezeugt Ḥammâd ibn Yûsuf al-Fâris (?), und Saʿîd schreibt sein Zeugniss eigenhändig bei.
+		 <lb n="11"/>
+ 	  . . . . . . im Ṣafar des Jahres . . .
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

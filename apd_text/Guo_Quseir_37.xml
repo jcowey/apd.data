@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="908" xml:id="Guo_Quseir_37" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 37</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_37</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113668</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <sic n="superfluous">لى</sic> <expan><ex>بسم</ex> <ex>اللّه</ex> <ex>الرّحمن</ex> <ex>الرّحيم</ex></expan> أخوه مرتضى بن الكعبي 
+<lb n="recto 2"/>  الّذي <app type="BL"><lem resp="APD">أعلم </lem><rdg resp="“EG”">أعلمه</rdg></app> <app type="BL"><lem resp="APD">به </lem><rdg resp="“EG”">ø</rdg></app> الأخ هبة <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">المنعم</supplied> </lem><rdg resp="AK">ø</rdg></app> أدام اللّه عزّه <supplied reason="lost" cert="high">سيّرت</supplied> 
+<lb n="recto 3"/>  نصف حمل خضر الغلّة <app type="BL"><lem resp="APD">لـ<supplied reason="omitted" cert="high">ـأ</supplied>بو </lem><rdg resp="AK">وعشرين</rdg></app> <app type="BL"><lem resp="APD">بكر </lem><rdg resp="AK">ø</rdg></app> <app type="BL"><lem resp="APD">وبط </lem><rdg resp="AK">مطر</rdg></app> 
+<lb n="recto 4"/>  <sic n="superfluous">صغر</sic><supplied reason="omitted" cert="high">صغير</supplied> <app type="BL"><lem resp="APD">وثلثمائة </lem><rdg resp="AK">وثمانية</rdg></app> <app type="BL"><lem resp="APD"><sic n="superfluous">بالرّحابه</sic><supplied reason="omitted" cert="high">بالركابة</supplied> </lem><rdg resp="AK">بادنجان</rdg></app> <app type="BL"><lem resp="APD">فرحل </lem><rdg resp="AK">ورضل</rdg></app> دقيق <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 5"/>  وقفّة تفّاح ثلاث <app type="BL"><lem resp="Guo in commentary erroneously ‫ورپاپ‬, but differently in footnote in edition and on scan of original"><unclear reason="undefined" cert="high">وزنات</unclear> </lem><rdg resp="AK">وزّات</rdg></app> <app type="BL"><lem resp="APD">بطيخة </lem><rdg resp="AK">وبطّيخة</rdg></app> خضرا تبيعها عند <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 6"/>  فهي سالمة وفيها <app type="BL"><lem resp="APD">ركب </lem><rdg resp="AK">زلت</rdg></app> <app type="BL"><lem resp="APD">سيّرت </lem><rdg resp="AK">كثير</rdg></app> للصّلاح هو له ولا إبطال 
+<lb n="recto 7"/>  في البيع فأنا خلف هذه الحمولة والسّلام 
+<lb n="verso 1"/>  إلى القصير يسلّم لهبة <app type="BL"><lem resp="APD">المنعم </lem><rdg resp="AK">المبلّغ</rdg></app> من <app type="BL"><lem resp="Guo">عبد </lem><rdg resp="Guo; AK">عند
+</rdg></app> مرتضى 
+<lb n="verso 2"/>  بن الكعبي <app type="BL"><lem resp="APD">السّلام </lem><rdg resp="“AK”">بلّغ</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾaḫū hu murtaḍà bnu ăl kaʿbiyyi 
+ <lb n="2"/>ăllaḏī ʾuʿlimu ø hu bi ø hi ø ăl ʾaḫa hibaẗa ăl ø munʿimi ʾadāma ăl lāhu ʿizza hu sayyartu 
+ <lb n="3"/>niṣfa ḥimli ḫuḍari ăl ġallaẗi li wa ʾabū ʿišrīna bakr:in ø wa maṭar baṭṭ ø 
+ <lb n="4"/>ṣaġīr wa ṯalāṯa ṯamāniyaẗa miʾaẗ:in wa bi bādinǧāna ăr ø rikābaẗi ø fa wa raḥala raḍla daqīq:in daqīqu **** 
+ <lb n="5"/>wa quffaẗu ø tuffāḥ:in ṯalāṯu wazanāti wazzāt:in ø wa biṭṭīḫaẗ:in biṭṭīḫaẗun ḫaḍrāʾa ḫaḍrāʾu tabīʿ hā ʿinda ** 
+ <lb n="6"/>fa hiya sālimaẗ:un wa fī hā rakb:un zalat:un sayyartu kaṯīr:un li ṣ ṣalāḥi huwa la hu wa lā ʾibṭāla 
+ <lb n="7"/>fī ăl bayʿi fa ʾanā ḫalfa hāḏihi ăl ḥumūlaẗi wa ăs salāmu 
+ <lb n="8"/>ʾilà ăl quṣayri yusallam li hibaẗa hibaẗi ăl munʿimi muballiġi min ʿabdi ʿindi murtaḍà 
+ <lb n="9"/>bni ăl kaʿbiyyi ăs balliġ salāmu ø ø tuʾǧar 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. From his brother Murtaḍā ibn al-Kaʿbī:
+			<lb n="2"/>
+		This is to inform Brother Hibat [al-Munʿim] - may God make his glory last forever! - that [I have dispatched]
+			<lb n="3"/>
+		a half load of green grain, for Abū Bakr, and a small
+			<lb n="4"/>
+		baṭṭa-container, and three hundred [units of...], all in a camel load. The flour was dispatched [together with...],
+			<lb n="5"/>
+		and a basket of apples, and three wazn-units of green watermelons. Please put them on sale at [...]
+			<lb n="6"/>
+		when they remain in good condition. Along with it (i.e., this shipment) there is [another] camel load which I dispatched to al-Ṣalāḥ. It is for him only. Don&#039;t delay
+			<lb n="7"/>
+		the sale. I am traveling behind this cargo. Peace.
+			<lb n="8"/>
+		To the shore of Quseir, to be delivered to Hibat al-Munʿim, by the servant of Murtaḍā
+			<lb n="9"/>
+		ibn al-Kaʿbī. Peace.
+</ab></div>
+</body>
+</text>
+</TEI>

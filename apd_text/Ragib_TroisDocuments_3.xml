@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1326" xml:id="Ragib_TroisDocuments_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibTroisDocuments 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_TroisDocuments_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169136</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  براه 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى إسحق القزّاز بططون عمّا يجب عليه عن واجب النّطرون 
+<lb n="4"/>  لأربع شهور آخرها ذي الحجّة سنة خمس وثلثين وأربع 
+<lb n="5"/>  مائة أربعة دراهم ونصف وكتب يوحنّا بن مرقورة الكاتب 
+<lb n="6"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">عن</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">الضّمناء</rdg></app> بخطّه في تأريخه 
+<lb n="7"/>  وهو آخر ما <app type="BL"><lem resp="APD">علپه </lem><rdg resp="Diem">يجب</rdg></app> حسپى <sic n="superfluous">پع</sic> <expan><ex>پعالى</ex></expan> <app type="BL"><lem resp="APD">تالله </lem><rdg resp="Diem">ثقتي</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>barāʾaẗ:un 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà ʾisḥāqu ăl qazzāzu bi ṭuṭūna ʿammā yaǧibu ʿalay hi ʿan wāǧibi ăn naṭrūni 
+ <lb n="4"/>li ʾarbaʿi šuhūr:in ʾāḫiru hā ḏī ăl ḥiǧǧaẗi sanaẗa ḫams:in wa ṯalāṯīna wa ʾarbaʿi 
+ <lb n="5"/>miʾaẗ:in ʾarbaʿaẗa darāhima wa niṣf wa kataba yūḥannā bnu marqūraẗa ăl kātibu 
+ <lb n="6"/>*** ʿani *** ăḍ *** ḍumanāʾi bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="7"/>wa huwa ʾāḫiru mā ø yaǧibu ʿalay hi ḥasb ī taʿālà ṯiqat ø ī bi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Quittance
+			<lb n="2"/>
+		Au nom de Dieu, clément et miséricordieux !
+			<lb n="3"/>
+		Isḥāq al-Qazzāz a payé à Ṭuṭūn sur ce qui lui est imposé du droit sur le natron,
+			<lb n="4"/>
+		pour quatre mois, dont le dernier est ḏū-l-ḥiǧǧa l&#039;année 435 :
+			<lb n="5"/>
+		... Es schrieb (dies) Yūḥanna ibn Marqūra der Beamte
+		quatre dirhams et demi. Yuḥannā b. Marqūra le scribe a écrit
+			<lb n="6"/>
+		... de sa main à sa date.
+		namens der (Steuer)pächter eigenhändig am (oben genannten) Datum dieses (Dokuments).
+			<lb n="7"/>
+		Et c&#039;est la fin de ce qu&#039;il doit. Dieu Très haut me suffit!
+</ab></div>
+</body>
+</text>
+</TEI>

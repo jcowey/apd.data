@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1947" xml:id="Grohmann_APEL_396" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 396</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_396</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169679</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم دفع يوم الخميس سبع مكاف لأبي الفضل 
+<lb n="2"/>  فيه ويبات الثّمن دينار 
+<lb n="3"/>  الطّماوي شعير أربعة وعشرة أقداح الكيل ستّة إلّا ثلت 
+<lb n="4"/>  الطّلّاع شعـ<supplied reason="lost" cert="high">ـيـ</supplied>ـر خمسة ويبات الكيل خمسة الثّمن دينار 
+<lb n="5"/>  أخو قلول شعير خمسة إلّا قدحين الكيل خمسة ويبات الثّمن دينار ونصف قيراط 
+<lb n="6"/>  موسى مقاص <supplied reason="lost" cert="high">شـ</supplied>ـعير خمسة ويبات الكيل خمسة الثّمن دينار 
+<lb n="7"/>  عبّاس بن حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> شعير ستّة إلّا ربع الكيل خمسة إلّا <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<unclear reason="undefined" cert="high">ـه</unclear> الثّمن د<supplied reason="lost" cert="high">ينـ</supplied>ـر 
+<lb n="8"/>  بن جابر شعـ<supplied reason="lost" cert="high">ـير</supplied> <supplied reason="lost" cert="high">خمسـ</supplied>ـة إلّا ثلث أقداح الكيل خمسة الثّمن دينار 
+<lb n="9"/>  محمّد بن علي شعير <supplied reason="lost" cert="high">خمسـ</supplied>ـة وثلثة أ<supplied reason="lost" cert="high">قدا</supplied>ح الكيل خمسة وثلثة أقداح الثّمن دينار 
+<lb n="10"/>  علامة بركة 
+<lb n="11"/>  محمّد بن علي شعير خمسة إلّا خمسة الكيل خمسة ويبات الثّمن دينار وقيراط ونصف 
+<lb n="12"/>  أبو العبّاس بن الغوغا شعير أربعة وعشرة الكيل أربعة ويبات الثّمن أحد وعشرين فضّة 
+<lb n="13"/>  عبد العزيز السّمسار قفّتين لبن الثّمن دينارين معسولين 
+<lb n="14"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپر بن الخلّال قفّتين دينارين وقيراطين معسولين 
+<lb n="15"/>  سمعون بن الخلّال قفّتين الثّمن دينارين إلّا ربع 
+<lb n="16"/>  سمعون بن الخلّال قفّتين الثّمن دينارين وقيراط 
+<lb n="17"/>  محمّد بن علي قفّتين الثّمن دينارين وقيراط 
+<lb n="18"/>  سد بن الخلّال قفّتين الثّمن دينارين وقيراط 
+<lb n="19"/>  بن حسنون البيّاع شعير خمسة ونصف الكيل <sic n="superfluous">حمسه</sic> <supplied reason="omitted" cert="high">أربعة</supplied> ويبات ونصف الثّمن دينار وربع <unclear reason="undefined" cert="high">الثّمن</unclear> <unclear reason="undefined" cert="high">دينا</unclear><supplied reason="lost" cert="high">ر</supplied><unclear reason="undefined" cert="high">ين</unclear> 
+<lb n="20"/>  بن خلوقة شعير أربعة وعشرة أقداح الكيل ستّة ويبات إلّا قدحين نصف 
+<lb n="21"/>  مينا شعير أربعة ونصف الكيل ستّة إلّا قدحين الثّمن دينار وثلث قداح 
+<lb n="22"/>  عبد العزيز الطّلّاع شعير خمسة ويبات وسبع أقداح الكيل خمسة ونصف 
+<lb n="23"/>  <unclear reason="undefined" cert="high">پڤين</unclear> الثّمن دينار 
+<lb n="24"/>  بن المكبرة شعير خمسة ويبات الكيل ستّة الثّمن دينار وسدس ونصف قيراط 
+<lb n="25"/>  مينا <sic n="superfluous">و</sic> <supplied reason="omitted" cert="high">بن</supplied> شعب خمسة إلّا ربع الكيل ستّة إلّا ربع وفيها ويبة لبن البصري 
+<lb n="26"/>  الثّمن دينار وخمسة قراريط 
+<lb n="27"/>  محمّد بن علي مقبل قفّة لبن الثّمن اثنين وعشرين قيراط معسول 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi dafʿu yawmi ăl ḫamīsi sabʿu mkʾf li ʾabī ăl faḍli 
+ <lb n="2"/>fī hi waybāt:in ăṯ ṯamanu dīnār:un 
+ <lb n="3"/>ăṭ ṭimāwiyyu šaʿīr:un ʾarbaʿaẗ:un wa ʿašaraẗu ʾaqdāḥ:in ăl kaylu sittaẗ:un ʾillā ṯult:un 
+ <lb n="4"/>ăṭ ṭallāʿu šaʿīr:un ḫamsaẗu waybāt:in ăl kaylu ḫamsaẗ:un ăṯ ṯamanu dīnār:un 
+ <lb n="5"/>ʾaḫū qalūla šaʿīr:un ḫamsaẗ:un ʾillā qadaḥayni ăl kaylu ḫamsaẗu waybāt:in ăṯ ṯamanu dīnār:un wa niṣfu qīrāṭ:in 
+ <lb n="6"/>mūsà maqāṣa šaʿīr:un ḫamsaẗu waybāt:in ăl kaylu ḫamsaẗ:un ăṯ ṯamanu dīnār:un 
+ <lb n="7"/>ʿabbāsu bnu ḥ*** šaʿīr:un sittaẗ:un ʾillā rubʿ:un ăl kaylu ḫamsaẗ:un ʾillā ***h ăṯ ṯamanu dīnār:un 
+ <lb n="8"/>bnu ǧābir:in šaʿīr:un ḫamsaẗ:un ʾillā ṯalāṯu ʾaqdāḥ:in ăl kaylu ḫamsaẗ:un ăṯ ṯamanu dīnār:un 
+ <lb n="9"/>muḥammadu bnu ʿaliyy:in šaʿīr:un ḫamsaẗ:un wa ṯalāṯaẗu ʾaqdāḥ:in ăl kaylu ḫamsaẗ:un wa ṯalāṯaẗu ʾaqdāḥ:in ăṯ ṯamanu dīnār:un 
+ <lb n="10"/>ʿalāmaẗu barakaẗa 
+ <lb n="11"/>muḥammadu bnu ʿaliyy:in šaʿīr:un ḫamsaẗ:un ʾillā ḫamsaẗ:un ăl kaylu ḫamsaẗu waybāt:in ăṯ ṯamanu dīnār:un wa qīrāṭ:un wa niṣf:un 
+ <lb n="12"/>ʾabū ăl ʿabbāsi bni ăl ġawġā šaʿīr:un ʾarbaʿaẗ:un wa ʿašaraẗ:un ăl kaylu ʾarbaʿaẗu waybāt:in ăṯ ṯamanu ʾaḥad:un wa ʿišrīna fiḍḍaẗ:an 
+ <lb n="13"/>ʿabdu ăl ʿazīzi ăs simsāru quffatayni laban ăṯ ṯamanu dīnārayni maʿsūlayni 
+ <lb n="14"/>**Br bnu ăl ḫallāli quffatayni dīnārayni wa qīrāṭayni maʿsūlayni 
+ <lb n="15"/>simʿūnu bnu ăl ḫallāli quffatayni ăṯ ṯamanu dīnārayni ʾillā rubʿ:un 
+ <lb n="16"/>simʿūnu bnu ăl ḫallāli quffatayni ăṯ ṯamanu dīnārayni wa qīrāṭ:un 
+ <lb n="17"/>muḥammadu bnu ʿaliyy:in quffatayni ăṯ ṯamanu dīnārayni wa qīrāṭ:un 
+ <lb n="18"/>BBd bnu ăl ḫallāli quffatayni ăṯ ṯamanu dīnārayni wa qīrāṭ:un 
+ <lb n="19"/>bnu ḥasnūna ăl bayyāʿu šaʿīr:un ḫamsaẗ:un wa niṣf:un ăl kaylu ʾarbaʿaẗu waybāt:in wa niṣf:un ăṯ ṯamanu dīnār:un wa rubʿ:un ăṯ ṯamanu dīnārayni 
+ <lb n="20"/>bnu ḫalūqaẗa šaʿīr:un ʾarbaʿaẗ:un wa ʿašaraẗu ʾaqdāḥ:in ăl kaylu sittaẗu waybāt:in ʾillā qadaḥayni niṣf 
+ <lb n="21"/>mīnā šaʿīr:un ʾarbaʿaẗ:un wa niṣf:un ăl kaylu sittaẗ:un ʾillā qadaḥayni ăṯ ṯamanu dīnār:un wa ṯulṯ:un qadāḥ 
+ <lb n="22"/>ʿabdu ăl ʿazīzi ăṭ ṭallāʿu šaʿīr:un ḫamsaẗu waybāt:in wa sabʿu ʾaqdāḥ:in ăl kaylu ḫamsaẗ:un wa niṣf:un 
+ <lb n="23"/>BFayni ăṯ ṯamanu dīnār:un 
+ <lb n="24"/>bnu ăl mukbiraẗi šaʿīr:un ḫamsaẗu waybāt:in ăl kaylu sittaẗ:un ăṯ ṯamanu dīnār:un wa suds:un wa niṣfu qīrāṭ:in 
+ <lb n="25"/>mīnā bnu šaʿb:in ḫamsaẗ:un ʾillā rubʿ:un ăl kaylu sittaẗ:un ʾillā rubʿ:un wa fī hā waybaẗu laban:in ăl baṣriyyi 
+ <lb n="26"/>ăṯ ṯamanu dīnār:un wa ḫamsaẗu qarārīṭa 
+ <lb n="27"/>muḥammadu bnu ʿaliyy:in muqbil:un quffaẗu laban:in ăṯ ṯamanu ĭṯnayni wa ʿišrīna qīrāṭ maʿsūl 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. Delivery of Thursday seven ........ for Abu&#039;l-Faḍl
+			<lb n="2"/>
+		therein _ waibas, the price one dînâr.
+			<lb n="3"/>
+		aṭ-Ṭimâwî: barley fourteen qadaḥ, (the correct) measure (being) six less a third.
+		aṭ-Ṭimāwī: barley four (waibas) and ten qadaḥ...
+			<lb n="4"/>
+		aṭ-Ṭallâʿ: ba[rl]ey five waibas, (the correct) measure (being) five, the price one dînâr.
+			<lb n="5"/>
+		The brother of Qelôl: barley five (waibas) less two qadaḥ, (the correct) measure (being) five waibas, the price one dînâr and a half carat.
+			<lb n="6"/>
+		Mûsâ Maqâṣ: [b]arley five waibas, (the correct) measure being five, the price one dînâr.
+			<lb n="7"/>
+		ʿAbbâs b. Ḥ[...]: barley six (waibas) less a quarter, (the correct) measure (being) five less [...]....., the price one d[înâ]r.
+			<lb n="8"/>
+		Ibn Ǧâbir: bar[ley fiv]e (waibas) less three qadaḥ, (the correct) measure (being) five, the price one dînâr.
+			<lb n="9"/>
+		Muḥammad b. ʿAlî: bar[ley fi]ve (waibas) and three q[ada]ḥ, the (correct) measure (being) five and three qadaḥ, the price one dînâr.
+			<lb n="10"/>
+		Signature of Baraka
+			<lb n="11"/>
+		Muḥammad b. ʿAlî: barley five (waibas) less five (qadaḥ), the (correct) measure (being) five waibas, the price one dînâr and one and a half carat.
+			<lb n="12"/>
+		Abū ăl ʿAbbās bni ăl-Ġawġā: barley four (waybas) and ten (qadaḥ)...
+		Abu&#039;l-ʿAbbâs b. al-Ġauġâ: barley fourteen, the (correct) measure (being) four waibas, the price twenty-one silver (coins).
+			<lb n="13"/>
+		ʿAbd al-ʿAzîz, the broker, two baskets of selected dates (?), the price two good dînârs.
+			<lb n="14"/>
+		[...]..r b. al-Ḫallâl: two baskets two dînârs and two good carats.
+			<lb n="15"/>
+		Simʿûn b. al-Ḫallâl: two baskets, the price (being) two dînârs less a quarter.
+			<lb n="16"/>
+		Simʿûn b. al-Ḫallâl: two baskets, the price (being) two dînârs and one carat.
+			<lb n="17"/>
+		Muḥammad b. ʿAlî: two baskets, the price (being) two dînârs and one carat.
+			<lb n="18"/>
+		... ... b. al-Ḫallâl: two baskets, the price (being) two dînârs and one carat.
+			<lb n="19"/>
+		Ibn Ḥasnûn, the merchant: barley five and a half (waibas), the (correct) measure (being) four and a half waibas, the price (being) one dînâr and a quarter, the price (being) two dînâ[r]s.
+			<lb n="20"/>
+		Ibn Ḫalûqa: barley fourteen qadaḥ, the (correct) measure (being) six waibas less two qadaḥ.
+		Ibn Ḫalūqa: barley four (waibas) and ten qadaḥ...
+			<lb n="21"/>
+		Mînâ: barley four and a half (waibas), the (correct) measure (being) six less two qadaḥ, the price one dînâr and a third.
+			<lb n="22"/>
+		ʿAbd al-ʿAzîz aṭ-Ṭallâʿ: barley five waibas and seven qadaḥ, the (correct) measure (being) five and a half
+			<lb n="23"/>
+		two ... ..., the price (being) one dînâr.
+			<lb n="24"/>
+		Ibn al-Mukbira: barley five waibas, the (correct) measure (being) six, the price one dînâr and a sixth and half a carat.
+			<lb n="25"/>
+		Mînâ b. Šaʿb: five (waibas) less a quarter, the (correct) measure (being) six less a quarter, and therein (is) a waiba selected Baṣrî dates,
+			<lb n="26"/>
+		the price (being) one dînâr and five carats.
+			<lb n="27"/>
+		Muḥammad b. ʿAlî Muqbil: a basket of selected dates, the price twenty-two good carats.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="970" xml:id="Guo_Quseir_70" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 70</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_70</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113715</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> اپو ألرضى پن طاهر پن سبدهم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه عپد <app type="BL"><lem resp="APD">الڤاصى </lem><rdg resp="APD">عبد</rdg></app> القڤپه رپن الدپن الپاپپ ڤى الحـ<supplied reason="lost" cert="high">ـكـ</supplied>ـم 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السـ</supplied>ـاحل المدكور پطرپق البڤل عن الڤاصى الاحل الڤڤپه 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>حال العلما الپاپپ ڤى الحكم 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> وحانوتين في السّوق <app type="BL"><lem resp="APD">المشـ<supplied reason="lost" cert="high">ـيّد</supplied> </lem><rdg resp="APD">المشهور </rdg><rdg resp="APD">المشار</rdg></app> 
+<lb n="verso 2"/>  وغيره بالسّاحل المذكور وحلف قسـ<supplied reason="lost" cert="high">ـما</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  ذلك <app type="BL"><lem resp="Guo erroneously ‫محصرت‬, but see scan “EG”">لمحضرت </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">بمحضر</rdg></app> <app type="BL"><lem resp="APD">الشهود </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">من</rdg></app> المعدلپن الو<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 4"/>  أجرة بمبلغ من الورق الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="2"/>*** ʾabū ăr riḍà bnu ṭāhiri bni sayyidi sayyidihim him ø *** 
+ <lb n="3"/>*** ***h ʿabd ʿinda ăl qāḍī ăl faqīhi zayni ăd dīni ăn nāʾibi fī ăl ḥukmi 
+ <lb n="4"/>*** ăs sāḥil ăl maḏkūr bi ṭarīqi ăn naqli ʿani ăl qāḍī ăl ʾaǧalli ăl faqīhi 
+ <lb n="5"/>*** ***ḥāl ăl ʿulamāʾ ăn nāʾib fī ăl ḥukmi 
+ <lb n="6"/>*** wa ḥānūtayni fī ăs sūqi ăl mušayyadi mašhūri mušāri ʾilay hi 
+ <lb n="7"/>wa ġayr hu bi ăs sāḥili ăl maḏkūri wa ḥalafa qasam:an *** 
+ <lb n="8"/>ḏālika li bi maḥḍarati maḥḍar:in ø mina ăš šuhūdi ăl muʿdilīna ăl w*** *** 
+ <lb n="9"/>ʾuǧraẗ bi mablaġ:in mina ăl waraqi ăl *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		[.....] Abū al-Riḍā ibn Ṭāhir ibn Sayyidihim [......]
+			<lb n="3"/>
+		[.....] in the presence of the qāḍī, the jurist Zayn al-Dīn, the municipal judge, 
+			<lb n="4"/>
+		[......] of the aforesaid port, by means of transfer from the most notable qāḍī and jurist
+			<lb n="5"/>
+		[................] the ʿulamāʾ, the municipal judge [...............].
+			<lb n="6"/>
+		[......] and the two stores at the roofed (?) marketplace [.....]
+			<lb n="7"/>
+		and others at the aforesaid port. He swore that [......].
+			<lb n="8"/>
+		Hereby is the court report [signed by] the legal witnesses [......].
+			<lb n="9"/>
+		His fees [will be paid] in sum, in waraq silver coins [......].
+</ab></div>
+</body>
+</text>
+</TEI>

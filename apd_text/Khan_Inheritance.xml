@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2332" xml:id="Khan_Inheritance" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.KhanInheritance</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Inheritance</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  العبد المملوك 
+ <lb n="2"/>  منصور بن سلامة من أهل سنديون 
+ <lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  صلوات اللّه وبركاته ونوامي زكواته وأفضل سلامه وتحيّاته على مولانا وسيّدنا الإمام الآمر 
+ <lb n="5"/>  بأحكام اللّه أمير المومپپن وعلى آبائه الطّاهرين وأبنائه الأكرمين المملوك يقبّل الأرض 
+ <lb n="6"/>  أمام الموقف الأشرف ضاعف اللّه أنواره وأعلا مناره وينهي أن الرّحمة والرّأفة قد شملت 
+ <lb n="7"/>  كل أحد<del rend="erasure" status="unremarkable">وكان</del> <del rend="erasure" status="unremarkable">والد</del> <del rend="erasure" status="unremarkable">المملوك</del> <del rend="erasure" status="unremarkable">صامپا</del> <del rend="erasure" status="unremarkable">پالرپف</del> 
+ <lb n="8"/>  بالنّاحية المعروفة بسنديون من أعمال المزاحميّة دار كانت لوالدته وتوفّيت وخلفها المملوك<del rend="erasure" status="unremarkable">وهو</del> 
+ <lb n="9"/>  فسكنها وأقام عليها ولم يوجد أحق منه بها وهو يسل ويضرع إلى المراحم العميمة والعواطف الكريمة بالتّوقيع الكريم على ظهر رقعته إلى القاضي الموفّق 
+ <lb n="10"/>  متولّي الحكم بالمحلّة وما معها ونسخته تقر بيده<del rend="erasure" status="unremarkable">پپپپپپ</del> <del rend="erasure" status="unremarkable">ملك</del> <del rend="erasure" status="unremarkable">المملوك</del>حسبما يثبت عنده من صحّة الملك وإيصاله إلى حقّه ليحيى في هذه الأيّام الزّاهرة 
+ <lb n="11"/>  إنعاما عليه وإحسانا إليه ولمولانا صلوات اللّه عليه الرّأي العالي في ذلك إن شا اللّه 
+ <lb n="12"/>  الحمد للّه وحده وصلواته على سيّدنا محمّد نبيّنا وآله وسلامه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl ʿabdu ăl mamlūku 
+ <lb n="2"/>manṣūru bnu salāmaẗa min ʾahli sindiyūna 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ṣalawātu ăl lāhi wa barakātu hu wa nawāmī zakawāti hi wa ʾafḍalu salāmi hi wa taḥiyyāti hi ʿalà mawlā nā wa sayyidi nā ăl ʾimāmi ăl ʾāmiri 
+ <lb n="5"/>bi ʾaḥkāmi ăl lāhi ʾamīri ăl muʾminīna wa ʿalà ʾābāʾi hi ăṭ ṭāhirīna wa ʾabnāʾi hi ăl ʾakramīna ăl mamlūku yuqabbilu ăl ʾarḍa 
+ <lb n="6"/>ʾamāma ăl mawqifi ăl ʾašrafi ḍāʿafa ăl lāhu ʾanwāra hu wa ʾaʿlā manāra hu wa yunhī ʾanna ăr raḥmaẗa wa ăr raʾfaẗa qad šamilat 
+ <lb n="7"/>kulla ʾaḥad:in wa li l mamlūki 
+ <lb n="8"/>bi ăn nāḥiyaẗi ăl maʿrūfaẗi bi sindiyūna min ʾaʿmāli ăl muzāḥamiyyaẗi dār:un kānat li wālidati hi wa tuwuffiyat wa ḫalafa hā ăl mamlūku 
+ <lb n="9"/>fa sakana hā wa ʾaqāma ʿalay hā wa lam yūǧad ʾaḥaqqu min hu bi hā wa huwa yasalu wa yaḍraʿu ʾilà ăl marāḥimi ăl ʿamīmaẗi wa ăl ʿawāṭifi ăl karīmaẗi bi ăt tawqīʿi ăl karīmi ʿalà ẓahri ruqʿati hi ʾilà ăl qāḍī ăl muwaffaqi 
+ <lb n="10"/>mutawallī ăl ḥukmi bi ăl maḥallaẗi wa mā maʿa hā wa nusḫatu hu taqirru bi yadi hi ḥasba mā yaṯbutu ʿinda hu min ṣiḥḥaẗi ăl milki wa ʾīṣāli hi ʾilà ḥaqqi hi li yaḥyà fī hāḏihi ăl ʾayyāmi ăz zāhiraẗi 
+ <lb n="11"/>ʾinʿām:an ʿalay hi wa ʾiḥsān:an ʾilay hi wa li mawlā nā ṣalawātu ăl lāhi ʿalay hi ăr raʾyu ăl ʿālī fī ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="12"/>ăl ḥamdu li l lāhi waḥda hu wa ṣalawātu hu ʿalà sayyidi nā muḥammad:in nabiyyi nā wa ʾāli hi wa salāmu hu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  The servant and slave
+		 <lb n="2"/>
+ 	  Manṣūr ibn Salāma from among the people of Sindiyūn.
+		 <lb n="3"/>
+ 	  In the name of God, the Merciful and Compassionate.
+		 <lb n="4"/>
+ 	  The blessings and benedictions of God, and his increasing benefactions and most excellent greetings upon our lord and master the Imām al-Āmir
+		 <lb n="5"/>
+ 	  bi-Aḥkām Allāh, Commander of the Faithful, and upon his pure ancestors and his noble sons. The slave kisses the ground
+		 <lb n="6"/>
+ 	  before the most noble presence, may God double its lights and exalt its beacon, and reports that mercy and compassion embraces
+		 <lb n="7"/>
+ 	  everybody and that the father of the slave has been silent in the countryside in Maḥallat Salīm ibn Sahl and has gone away from his hometown. The slave has
+		 <lb n="8"/>
+ 	  in the district known as Sindiyūn of the province of al-Muzāḥamiyya a house enclosure, which used to belong to his mother. She has died and the slave has succeeded her〚and he asks〛
+		 <lb n="9"/>
+ 	  and he has continued to dwell in it, and nobody has been found who has a greater right to it than he. So, he makes a request in humility from the all-embracing mercies and gracious kindnesses for a noble rescript (to be written) on the back of his petition to the prosperous judge
+		 <lb n="10"/>
+ 	  in charge of jurisdiction in al-Maḥalla and the surrounding region, with a copy being deposited in his (i.e. the petitioner&#039;s) hand, (instructing him) to register (the house enclosure) as the property of the slave, in the way of property that has been certified as valid with him, thus vindicating his right so that he may live in these splendid days,
+		 <lb n="11"/>
+ 	  thus showing him beneficence and kindness. To our Lord, God&#039;s blessings be upon him, belongs the exalted opinion in this matter, if God wills.
+		 <lb n="12"/>
+ 	  Praise be to God alone and His blessings and peace be upon our Lord Muḥammad our prophet and his family.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

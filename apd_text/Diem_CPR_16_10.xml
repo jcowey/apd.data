@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1122" xml:id="Diem_CPR_16_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168978</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  إن رأ<supplied reason="lost" cert="high">يـ</supplied>ـت عافاك اللّه أن تصلّح 
+<lb n="3"/>  ما أوعد عـ<supplied reason="lost" cert="high">ـنـ</supplied>ـا به على أ<supplied reason="lost" cert="high">سـ</supplied>ـما من 
+<lb n="4"/>  قد سمّيت لك في هذا الكتا<supplied reason="lost" cert="high">ب</supplied> 
+<lb n="5"/>  عبيد الـ<supplied reason="lost" cert="high">ـلّه</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن سفين مائة فدّان ونصف 
+<lb n="6"/>  عبد الوهّاب بن عبد اللّه ثمانية فدادين 
+<lb n="7"/>  جبير بن سويرة أحد وعشرين فدّان 
+<lb n="8"/>  عاصم بن سوير<supplied reason="lost" cert="high">ة</supplied> أحد وعشرين فدّا<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="9"/>  علي بن عبد اللّه ثلثة فدادين 
+<lb n="10"/>  يحيى مولى عبيد اللّه ثلثة فدادين 
+<lb n="11"/>  الأسود بن أيمن أربعة فدادين 
+<lb n="12"/>  حفص بن <gap reason="illegible" extent="5" unit="character" /> خـ<supplied reason="lost" cert="high">ـمسـ</supplied>ـة فدادين 
+<lb n="13"/>  فذلـ<supplied reason="lost" cert="high">ـك</supplied> <supplied reason="lost" cert="high">مائة</supplied> <supplied reason="lost" cert="high">وخمسة</supplied> <supplied reason="lost" cert="high">وستّين</supplied> <supplied reason="lost" cert="high">ونصـ</supplied>ـف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾin raʾayta ʿāfā ka ăl lāhu ʾan tuṣalliḥa tuṣliḥa 
+ <lb n="3"/>mā ʾūʿida ʿan nā bi hi ʿalà ʾasmāʾi man 
+ <lb n="4"/>qad sammaytu la ka fī hāḏā ăl kitābi 
+ <lb n="5"/>ʿubaydu ăl lāhi bnu sufyāna miʾaẗu faddān:in wa niṣf:un 
+ <lb n="6"/>ʿabdu ăl wahhābi bnu ʿabdi ăl lāhi ṯamāniyaẗu fadādīna 
+ <lb n="7"/>ǧubayru bnu sawīraẗa ʾaḥad:un wa ʿišrīna faddān 
+ <lb n="8"/>ʿāṣimu bnu sawīraẗa ʾaḥad:un wa ʿišrīna faddān 
+ <lb n="9"/>ʿaliyyu bnu ʿabdi ăl lāhi ṯalāṯaẗu fadādīna 
+ <lb n="10"/>yaḥyà mawlà ʿubaydi ăl lāhi ṯalāṯaẗu fadādīna 
+ <lb n="11"/>ăl ʾaswadu bnu ʾaymana ʾarbaʿaẗu fadādīna 
+ <lb n="12"/>ḥafṣu bnu ***** ḫamsaẗu fadādīna 
+ <lb n="13"/>fa ḏālika miʾaẗ:un wa ḫamsaẗ:un wa sittīna wa niṣf:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Sei so gut - Gott erhalte Dich gesund -,
+			<lb n="3"/>
+		die in unserem Namen gemachten Zusagen gemäß den Namen derjenigen Personen, die
+			<lb n="4"/>
+		ich Dir in diesem Schreiben nenne, zu korrigieren:
+			<lb n="5"/>
+		ʿUbaydallāh b. Sufyān: einhunderteinhalb Faddān;
+			<lb n="6"/>
+		ʿAbdalwahhāb b. ʿAbdallāh: acht Faddān;
+			<lb n="7"/>
+		Ǧubayr b. Severus: einundzwanzig Faddān; 
+			<lb n="8"/>
+		ʿĀṣim b. Severus: einundzwanzig Faddān;
+			<lb n="9"/>
+		ʿAlī b. ʿAbdallāh: drei Faddān;
+			<lb n="10"/>
+		Yaḥyā, der Klient von ʿUbaydallāh: drei Faddān;
+			<lb n="11"/>
+		al-Aswad b. Ayman: vier Faddān;
+			<lb n="12"/>
+		Ḥafṣ b. [...]: fünf Faddān.
+			<lb n="13"/>
+		Das macht [einhundertundfünfundsechzigeinha]lb Faddān.
+</ab></div>
+</body>
+</text>
+</TEI>

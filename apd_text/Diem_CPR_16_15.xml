@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1130" xml:id="Diem_CPR_16_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168985</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أبقاك اللّه وحفظك <supplied reason="lost" cert="high">وأتمّ</supplied> 
+<lb n="3"/>  نعمه عليك وقدّمـ<supplied reason="lost" cert="high">ـني</supplied> <supplied reason="lost" cert="high">قبلك</supplied> 
+<lb n="4"/>  إن رأيت أبقاك اللّه أن تأ<supplied reason="lost" cert="high">مر</supplied> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="5"/>  ببلاو المنبّه بالإذن لوكيلنـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="6"/>  التّذرية والحمل وترك العـ<supplied reason="lost" cert="high">ـصافة</supplied> <supplied reason="lost" cert="high">حتّى</supplied> 
+<lb n="7"/>  آمن إن احتاج إليه <app type="BL"><lem resp="APD">فيه </lem><rdg resp="Khan">فعلت</rdg></app> <app type="BL"><lem resp="APD">بعـ<supplied reason="lost" cert="high">ـد</supplied> </lem><rdg resp="Khan">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الحصاد</supplied> </lem><rdg resp="Khan">ø</rdg></app> 
+<lb n="8"/>  والّذي علينا أكرمك اللّه <supplied reason="lost" cert="high">في</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">الغلّة </rdg><rdg resp="APD">الأرض</rdg></app> 
+<lb n="9"/>  فإن رأيت أن توقف إ<supplied reason="lost" cert="high">ليّ</supplied> <supplied reason="lost" cert="high">ذلك</supplied> 
+<lb n="10"/>  وإن رأيت غير ذلك <app type="BL"><lem resp="APD">صـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">صرت</rdg></app> 
+<lb n="11"/>  فلو كان الّذي علينا فيها <app type="BL"><lem resp="APD">مـ<supplied reason="lost" cert="high">ـوقف</supplied> </lem><rdg resp="APD">مؤخّر</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">لي </rdg><rdg resp="APD">إِلَيَّ </rdg><rdg resp="APD">لنا </rdg><rdg resp="APD">إلينا</rdg></app> 
+<lb n="12"/>  وأحب أبقاك اللّه أن تكوـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> 
+<lb n="13"/>  بعيد وتوكد على صاحبك <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ذلك</supplied> 
+<lb n="14"/>  موفّقا إن شا اللّه 
+<lb n="15"/>  أبقاك اللّه وحفظك و<supplied reason="lost" cert="high">أتمّ</supplied> <supplied reason="lost" cert="high">نعمه</supplied> 
+<lb n="16"/>  عليك وعندك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾatamma 
+ <lb n="3"/>niʿama hu ʿalay ka wa qaddama nī qibala ka 
+ <lb n="4"/>ʾin raʾayta ʾabqā ka ăl lāhu ʾan taʾmura fī 
+ <lb n="5"/>biblāwa ăl munabbiha bi ăl ʾiḏni li wakīli nā fī 
+ <lb n="6"/>ăt taḏriyaẗi wa ăl ḥamli wa tarki ăl ʿuṣāfaẗi ḥattà 
+ <lb n="7"/>ʾāmana ʾini ĭḥtāǧa ʾilay hi fī faʿalta hi baʿda ăl ḥiṣādi 
+ <lb n="8"/>wa ăllaḏī ʿalay nā ʾakrama ka ăl lāhu fī **** ăl ø ġallaẗi ăl ʾarḍi 
+ <lb n="9"/>fa ʾin raʾayta ʾan tūqifa ʾilay ya ḏālika 
+ <lb n="10"/>wa ʾin raʾayta ġayra ḏālika ṣ*** ṣirtu *** bi hi *** ʾilay ka 
+ <lb n="11"/>fa law kāna ăllaḏī ʿalay nā fī hā mūqaf muʾaḫḫar *** li ʾilay la ʾilay ī ya nā nā 
+ <lb n="12"/>wa ʾuḥibbu ʾabqā ka ăl lāhu ʾan takūna min ḏālika 
+ <lb n="13"/>baʿīd wa tuʾakkida ʿalà ṣāḥibi ka fī ḏālika 
+ <lb n="14"/>muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="15"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾatamma niʿama hu 
+ <lb n="16"/>ʿalay ka wa ʿinda ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzi[gen und Gnädigen!]
+			<lb n="2"/>
+		Gott erhalte und beschütze Dich [, vollende]
+			<lb n="3"/>
+		seine Gnadenerweise an Dir und gebe [mir bei Dir den Vorrang!]
+			<lb n="4"/>
+		Wenn Du doch so freundlich wärst - Gott erhalte Dich -, [in]
+			<lb n="5"/>
+		Biblāw dem Munabbih zu befehlen, uns[erem] Bevollmächtigten zu gestatten,
+			<lb n="6"/>
+		zu worfeln, (das Getreide) wegzubringen und die Sp[reu] dazulassen, [damit]
+			<lb n="7"/>
+		ich beruhigt bin, falls er dies na[ch der Ernte] dort zu tun genötigt ist.
+			<lb n="8"/>
+		Was unsere Schuld - Gott ehre Dich - [bezüglich ... betrifft:]
+			<lb n="9"/>
+		Wenn Du der Meinung bist, mir (?) [hierfür (?)] Stundung zu gewähren, dann ist es gut;
+			<lb n="10"/>
+		wenn Du aber anderer Meinung bist, dann [
+			<lb n="11"/>
+		Wenn also doch das, was wir diesbezüglich schulden, ge[stundet würde!]
+			<lb n="12"/>
+		Und ich möchte - Gott erhalte Dich -,daß Du [davon (sc. sofortiger Zahlung)]
+			<lb n="13"/>
+		Abstand nimmst und daß du deinem Partner [diesbezüglich]
+			<lb n="14"/>
+		mit Erfolg nachdrücklich Anweisung erteilst, so Gott will.
+			<lb n="15"/>
+		Gott erhalte und beschütze Dich und [vollende seine Gnadenerweise]
+			<lb n="16"/>
+		an und bei Dir!
+</ab></div>
+</body>
+</text>
+</TEI>

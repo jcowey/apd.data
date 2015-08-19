@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="687" xml:id="Grohmann_EBU_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 02</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106769</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  قد أنفذت لك هذا السّجل فلك الوفا بذلك 
+<lb n="2"/>  فازرع على بركة اللّه وعونه 
+<lb n="3"/>  فدّان بدينر 
+<lb n="4"/>  ‮‪ιε ϛ‬ 
+<lb n="5"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="6"/>  <supplied reason="lost" cert="high">هذ</supplied>ا كتاب سجل من الأمير أبي المظفّر الحسن طڤح 
+<lb n="7"/>  <supplied reason="lost" cert="high">مولى</supplied> <supplied reason="lost" cert="high">أمير</supplied> المومپپن أطال اللّه بقاه كتبه لمحمّد بن ربيعة 
+<lb n="8"/>  <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> الوارث الوكيل <supplied reason="lost" cert="high">فـإنّـ</supplied>ـكما سألتماني وطلبتم 
+<lb n="9"/>  <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">أكريكما</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـتّة فداديـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">أرض</supplied> <supplied reason="lost" cert="high">طين</supplied> سودا من أراضي 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الخراجيّة</supplied> </lem><rdg resp="“LR”">خراجيّة </rdg><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <supplied reason="lost" cert="high">لسنة</supplied> <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">وثلثمائة</supplied> <supplied reason="lost" cert="high">بخمسة</supplied> <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">دينرا</supplied> مثاقـ<supplied reason="lost" cert="high">ـيل</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>qad ʾanfaḏtu la ka hāḏā ăs siǧilla fa la ka ăl wafāʾu bi ḏālika 
+ <lb n="2"/>fa ĭzraʿ ʿalà barakaẗi ăl lāhi wa ʿawni hi 
+ <lb n="3"/>faddān:un bi dīnār:in 
+ <lb n="4"/>6 15 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>hāḏā kitābu siǧill:in mina ăl ʾamīri ʾabī ăl muẓaffari ăl ḥasani bni ṭuqaǧa 
+ <lb n="7"/>mawlà ʾamīri ăl muʾminīna ʾaṭāla ăl lāhu baqāʾa hu kataba hu li muḥammadi bni rabīʿaẗa 
+ <lb n="8"/>wa *** bni ʿabdi ăl wāriṯi ăl wakīli fa ʾinna kumā saʾaltumā nī wa ṭalabtum 
+ <lb n="9"/>ʾilay ya ʾan ʾukriya kumā sittaẗa fadādīna ʾarḍa ṭīn:in sawdāʾa min ʾarāḍī 
+ <lb n="10"/>ăl ø *** ḫarāǧiyyaẗi ḫarāǧiyyaẗ:in li sanaẗi *** wa ṯalāṯi miʾaẗ:in bi ḫamsaẗa ʿašara dīnār:an maṯāqīla 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ich habe Dir bereits diesen Pachtvertrag bestätigt; Dir obliegt also die Durchführung hievon.
+			<lb n="2"/>
+		So säe denn mit Gottes Segen und Hilfe.
+			<lb n="3"/>
+		Faddān           um Dīnāre
+			<lb n="4"/>
+		6           15
+			<lb n="5"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="6"/>
+		[Die]s ist der Pachtvertrag von Seiten des Amīr Abu&#039;l-Muẓaffar al-Ḥasan b.Ṭuqaǧ,
+			<lb n="7"/>
+		[des Freigelassenen des Beherrschers] der Gläubigen - Gott lasse ihn lange leben -, den er geschrieben hat für Muḥammad b.Rabīʿa
+			<lb n="8"/>
+		[und N. N. b.ʿAbd] al-Wāriṯ, den Sachwal[ter. Fürwahr] ihr beide habt mich gebeten und von mir verlangt,
+			<lb n="9"/>
+		[daß ich Euch verpachte se]chs Faddā[n] schwarzen [Lehmbodens] von den [Ḫarāǧī] Ländereien
+			<lb n="10"/>
+		[für das Jahr dreihundert ..... unddreissig um fünfzehn Dīnāre] des Miṯq[āl]fußes
+</ab></div>
+</body>
+</text>
+</TEI>

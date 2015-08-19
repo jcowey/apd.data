@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="801" xml:id="Grohmann_Apercu_p_85_neu" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme III p. 143 (= P.GrohmannAperçu p. 85 = P.Cair.Arab. II p. 70 = CPR XXI 02 a)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Apercu_p_85_neu</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106854</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">أ</supplied>رض معطّلة لم تكن <app type="BL"><lem resp="APD">من </lem><rdg resp="“Grohmann, Aperçu; Frantz-Murphy”">في</rdg></app> الخراج فدان بدينر 
+ <lb n="2"/>  <supplied reason="lost" cert="high">نشف</supplied> ماها <app type="BL"><lem resp="Gohmann; Diem">وتنتّف </lem><rdg resp="Frantz-Murphy">تنتّف</rdg></app> حلفاها وهي μ λ 
+ <lb n="3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فدّان</supplied> </lem><rdg resp="Frantz-Murphy">فدّن</rdg></app> ι <app type="BL"><lem resp="APD">من </lem><rdg resp="“Grohmann, Aperçu”">في</rdg></app> أرض <app type="BL"><lem resp="APD">فريسي </lem><rdg resp="Diem÷ scribe omitted alif maqsura">قرى</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾarḍ:un muʿaṭṭalaẗ:un lam takun mina fī ăl ḫarāǧi faddān:un bi dīnār:in 
+ <lb n="2"/>našifa māʾu hā wa ø tanattafa tanattafa ḥalfāʾu hā wa hiya 40 30 
+ <lb n="3"/>faddān:un 10 min fī ʾarḍi farīsī farīsiyy:in qur:àn ø šatt:àn 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [ter]re inculte, non-comprise dans l&#039;impôt foncier | feddân | dînâr
+ 	  uncultivated land, which is not taxable | faddân(s) | for dînâr(s)
+ 	  uncultivated [l]and, which will not be included in the kharāj | faddans | for dinars
+ 	  unkultiviertes Land, das nicht in die Grundsteuer einbezogen ist | Feddān | Dīnār
+		 <lb n="2"/>
+ 	  [dessé]chée et dont le jonc a été arraché, c&#039;est | 40 | 30
+ 	  dessen Wasser vertrocknet ist und dessen Schilf ausgerissen ist, es ist dies | 40 | 30
+ 	   its water [dried out] and its esparto grass pulled out and it is | 40 | 30
+ 	  the water thereof being [exsiccated] and the reeds removed, viz. | 40 | 30
+		 <lb n="3"/>
+ 	  10 [feddâns] dans le district Farîsî.
+ 	  [... faddân] 10 in the district of Farîsî.
+ 	   faddans] 10 in reed land
+ 	  Feddān 10 im Distrikte Farīsī
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

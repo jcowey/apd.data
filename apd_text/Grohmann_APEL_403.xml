@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1965" xml:id="Grohmann_APEL_403" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 403</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_403</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169697</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" extent="12" unit="character" /> 
+<lb n="recto 2"/>  عليك 
+<lb n="recto 3"/>  بسم اللّه الرّحمن الرّحيم وحسبنا اللّه ونعم الوكيل 
+<lb n="recto 4"/>  الّذي صار إلي من قبل أصحاب أبي علي بن البكري أعزّه اللّه 
+<lb n="recto 5"/>  ثلثة وعشرين دينارا وسدس منها ستّة معسولة ودينارين 
+<lb n="recto 6"/>  مشرقيّة 
+<lb n="recto 7"/>  بسم اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="verso 1"/>  <gap reason="illegible" extent="9" unit="character" /> أحد وعشرين الّتي أحدا عشر <supplied reason="omitted" cert="high">د</supplied>ينارا وثلث 
+<lb n="verso 2"/>  منها سبعة معسولة ودينرين مشرقيّة والباقي قطع 
+<lb n="verso 3"/>  بسم اللّـ<supplied reason="lost" cert="high">ـه</supplied> الـ<supplied reason="lost" cert="high">ـرّ</supplied>حمـ<supplied reason="lost" cert="high">ـن</supplied> الرّحيـ<supplied reason="lost" cert="high">ـم</supplied> لأبـ<supplied reason="lost" cert="high">ـي</supplied> <gap reason="illegible" precision="low" extent="3"/> الهو<gap reason="illegible" extent="4" unit="character" />ي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>************ 
+ <lb n="2"/>ʿalay ka 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="4"/>ăllaḏī ṣāra ʾilay ya min qibali ʾaṣḥābi ʾabī ʿaliyy:ini bni ăl bakriyyi ʾaʿazza hu ăl lāhu 
+ <lb n="5"/>ṯalāṯaẗ:un wa ʿišrīna dīnār:an wa suds:un min hā sittaẗ:un maʿsūlaẗ:un wa dīnārayni 
+ <lb n="6"/>mašriqiyyaẗ:un 
+ <lb n="7"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="8"/>********* ʾaḥad wa ʿišrīna ăllatī ʾaḥadā ʿašara dīnār:an wa ṯulṯ:un 
+ <lb n="9"/>min hā sabʿaẗ:un maʿsūlaẗ:un wa dīnārayni mašriqiyyaẗ:un wa ăl bāqī qiṭaʿ:un 
+ <lb n="10"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi li ʾabī *** ăl hw****yyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		... you.
+			<lb n="3"/>
+		In the name of God, the Compassionate, the Merciful, and our sufficiency is God, and He is the best trustee.
+			<lb n="4"/>
+		What has reached me from the mates of Abû ʿAlî b. al-Bakrî - may God exalt him -
+			<lb n="5"/>
+		(amounts to) twenty-three dînârs and a sixth (of a dînâr), six thereof being good (coins), and two dînârs (are)
+			<lb n="6"/>
+		eastern (dînârs).
+			<lb n="7"/>
+		In the name of Go[d, the Compassionate, the Merciful.]
+			<lb n="8"/>
+		... ... ... twenty-one, which comes to eleven dînârs and a third (of a dînâr),
+			<lb n="9"/>
+		seven thereof being good (coins), and two dînârs eastern (dînârs), and the remainder (are) clippings.
+			<lb n="10"/>
+		In the name of God, the [Comp]assi[onate], the Merci[ful]. To the credit of Ab[û] ... ..., the ... ... ...
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1032" xml:id="Grohmann_APEL_51" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 051</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_51</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168918</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">الهمداني </lem><rdg resp="APD">الهمذانىّ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا المكر<sic n="superfluous">مـ</sic>ـي شڤپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا البقّال بن ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> بن راشـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ابنة عبيدة بن عبـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شعبان</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">خمس</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> 
+<lb n="6"/>  ومائة وشهد حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  القرشي على مثل ذلـ<supplied reason="lost" cert="high">ـك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ولا يعرفان بنات عبد <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ولم يدفعها بنو عـ<supplied reason="lost" cert="high">ـبيدة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  هولا لم يكن لهم مال وا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  إن تركه إليهن عـ <unclear reason="undefined" cert="high">ـ</unclear><supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="12"/>  لهن قدار القاضي عمرو <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  من ذلك ما عمل وأنفذ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  عبد اللّه بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  ممّا <supplied reason="lost" cert="high">في</supplied> هذا الكتاب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  بني عبيدة بن عبد اللّـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  هذا في شعبان من سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">خمس</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> <supplied reason="lost" cert="high">ومائة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  شهد حمزة بن زياد بن سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بأمر</supplied> <supplied reason="lost" cert="high">القاضي</supplied> 
+<lb n="19"/>  عمرو بن أبي بكر وعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20"/>  وكتبه بأمر القاضي عمرو بـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="21"/>  <app type="BL"><lem resp="APD">وسر </lem><rdg resp="“Littmann”">ويسر </rdg><rdg resp="APD">وبشر </rdg><rdg resp="APD">وبسر </rdg><rdg resp="APD">ونسر </rdg><rdg resp="APD">ونشر </rdg><rdg resp="APD">وشبر </rdg><rdg resp="APD">وشتّر </rdg><rdg resp="APD">وشتر </rdg><rdg resp="APD">وشير</rdg></app> بن المعمّر الپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتبه</supplied> <supplied reason="lost" cert="high">بأمر</supplied> <supplied reason="lost" cert="high">القاضي</supplied> <supplied reason="lost" cert="high">عمرو</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> 
+<lb n="22"/>  ويوسف بن يربع الپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> 
+<lb n="23"/>  بأمر القاضي <sic n="superfluous">ا</sic> عمرو <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="24"/>  القرشي وكتب شهـ<supplied reason="lost" cert="high">ـادته</supplied> <supplied reason="lost" cert="high">بأمر</supplied> <supplied reason="lost" cert="high">القاضي</supplied> <supplied reason="lost" cert="high">عمرو</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> 
+<lb n="25"/>  في شعبان من سنة <supplied reason="lost" cert="high">خمس</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> <supplied reason="lost" cert="high">ومائة</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="26"/>  بن مسلم السّلمي وكتب شهاد<supplied reason="lost" cert="high">ته</supplied> <supplied reason="lost" cert="high">بأمر</supplied> <supplied reason="lost" cert="high">القاضي</supplied> <supplied reason="lost" cert="high">عمرو</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شعبان</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+<lb n="27"/>  خمس وتسعين ومائة و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> 
+<lb n="28"/>  بأمر القاضي عمرو بن أبي بـ<supplied reason="lost" cert="high">ـكر</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> 
+<lb n="29"/>  شهادته بأمر القاضي عمـ<supplied reason="lost" cert="high">ـرو</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">بكر</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="30"/>  أبي <app type="BL"><lem resp="APD">عبّاب </lem><rdg resp="APD">غيّاث </rdg><rdg resp="APD">عباب </rdg><rdg resp="APD">عبّاب </rdg><rdg resp="APD">عتّاب </rdg><rdg resp="APD">عنّاب</rdg></app> الأزدي و<supplied reason="lost" cert="high">كتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بأمر</supplied> <supplied reason="lost" cert="high">القاضي</supplied> <supplied reason="lost" cert="high">عمرو</supplied> <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="31"/>  أبي بكر <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ăl hamaḏānī hamdānī *** wa kataba *** bnu 
+ <lb n="2"/>***ʾ ăl mukārī mukrī šahādata hu bi ʾamri hi wa maḥḍari hi *** 
+ <lb n="3"/>***ʾ ăl baqqāl bn ʾ*** *** 
+ <lb n="4"/>šahida *** bnu rāšid:ini ăl *** ʿalà ʾiqrāri *** wa ʿalà ʾiqrāri *** 
+ <lb n="5"/>ĭbnaẗi ʿubaydaẗa bni ʿabdi ăl lāhi *** fī šaʿbāna min sanaẗi ḫams:in wa tisʿīna 
+ <lb n="6"/>wa miʾaẗ:in wa šahida ḥ*** 
+ <lb n="7"/>ăl qurašiyyu ʿalà miṯli ḏālika *** 
+ <lb n="8"/>wa lā yaʿrifāni banāti ʿabdi ăl lāhi bni *** 
+ <lb n="9"/>wa lam yadfaʿ hā banū ʿubaydaẗa bni ʿabdi ăl lāhi *** 
+ <lb n="10"/>hāʾulāʾi lam yakun la hum māl:un wa ʾ*** 
+ <lb n="11"/>ʾin taraka hu ʾilay hinna ʿan *** 
+ <lb n="12"/>la hunna qadār ăl qāḍī ʿamri bni ʾabī bakr:in *** 
+ <lb n="13"/>min ḏālika mā ʿumila wa ʾunfiḏa *** 
+ <lb n="14"/>ʿabd ăl lāh bn *** 
+ <lb n="15"/>mimmā fī hāḏā ăl kitābi *** 
+ <lb n="16"/>banī ʿubaydaẗa bni ʿabdi ăl lāhi *** 
+ <lb n="17"/>hāḏā fī šaʿbāna min sanaẗi ḫams:in wa tisʿīna wa miʾaẗ:in *** 
+ <lb n="18"/>šahida ḥamzaẗu bnu ziyādi bni s*** wa kataba šahādata hu bi ʾamri ăl qāḍī 
+ <lb n="19"/>ʿamri bni ʾabī bakr:in wa ʿ*** bnu *** ăl *** 
+ <lb n="20"/>wa kataba hu bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in *** 
+ <lb n="21"/>wa sirru yusru bišru busru nasru našru šabru šatru šattaru šibru šīru bnu ăl muʿammari ăl B*** wa kataba hu bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in 
+ <lb n="22"/>wa yūsufu bnu yarbuʿa ăl B*** wa kataba šahādata hu 
+ <lb n="23"/>bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in wa *** bnu *** 
+ <lb n="24"/>ăl qurašiyyu wa kataba šahādata hu bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in 
+ <lb n="25"/>fī šaʿbāna min sanaẗi ḫams:in wa tisʿīna wa miʾaẗ:in wa *** 
+ <lb n="26"/>bnu muslim:ini ăs sulamiyyu wa kataba šahādata hu bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in fī šaʿbāna min sanaẗi 
+ <lb n="27"/>ḫams:in wa tisʿīna wa miʾaẗ:in wa *** bnu *** ăl *** wa kataba šahādata hu 
+ <lb n="28"/>bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in wa *** bnu *** wa kataba 
+ <lb n="29"/>šahādata hu bi ʾamri ăl qāḍī ʿamri bni ʾabī bakr:in wa *** bnu 
+ <lb n="30"/>ʾabī ʿabāba ʿabbāb:ini ʿannāb:ini ʿattāb:ini ġayyāṯ:ini ġiyāṯ:ini ăl ʾazdiyyu wa kataba šahādata hu bi ʾamri ăl qāḍī ʿamri bni 
+ <lb n="31"/>ʾabī bakr:in * 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] al-Hamdânî [...]
+			<lb n="2"/>
+		[...]â, hirer out of beasts ... [...]
+			<lb n="3"/>
+		[...]â, the greengrocer, son of [...]
+			<lb n="4"/>
+		[So and So], son of Râši[d, is witness to the acknowledgment by So and So and by So and So,]
+			<lb n="5"/>
+		daughter of ʿUbaida b. ʿAb[dallâh ... in Šaʿbân of the year one hundred and]
+			<lb n="6"/>
+		ninety five and Ḥ[...]
+			<lb n="7"/>
+		the Qoraišite, is witness to the sam[e ...]
+			<lb n="8"/>
+		and they (both) have no acquaintance with the daughters of ʿAbdallâh b. [...]
+			<lb n="9"/>
+		and the sons of ʿU[baida b. ʿAbdallâh] did not pay it [...]
+			<lb n="10"/>
+		these, they have no property ..[...]
+			<lb n="11"/>
+		if he has left it to them fr[om(?) ...]
+			<lb n="12"/>
+		for them the decision of the Qâḍî ʿAmr [b. Abî Bakr ...]
+			<lb n="13"/>
+		about what has been done and accomplished [...]
+			<lb n="14"/>
+		ʿAbdallâh b. [...]
+			<lb n="15"/>
+		of what (is contained) in this act [...]
+			<lb n="16"/>
+		The sons of ʿUbaida b. ʿAbdallâ[h ...]
+			<lb n="17"/>
+		this in Šaʿbân of the ye[ar one hundred and ninety five].
+			<lb n="18"/>
+		Ḥamza b. Ziyâd b. S[...] is witness (to it) and he has written his testimony by order of the Qâḍî,
+			<lb n="19"/>
+		ʿAmr b. Abî Bakr. And ʿ[... son of So and So,]
+			<lb n="20"/>
+		and he has written it by order of the Qâḍî ʿAmr b. [Abî Bakr]
+			<lb n="21"/>
+		And Sirr b. al-Muʿammar, the ...[... and he has written it by order of the Qâ]dî ʿAmr b. Abî Bakr].
+			<lb n="22"/>
+		And Yûsuf b. Yarbuʿ, the ... [and he has written his testimony]
+			<lb n="23"/>
+		by order of the Qâḍî ʿAmr [b. Abî Bakr. And So and So,]
+			<lb n="24"/>
+		the Quraišite, and he has written [his] tes[timony by order of the Qâḍî ʿAmr b. Abî Bakr]
+			<lb n="25"/>
+		in Šaʿbân of the year [one hundred and ninety five. And So and So]
+			<lb n="26"/>
+		b. Muslim, the Sulamite, and he has written his testimon[y by order of the Qâḍî ʿAmr b. Abî Bakr in Šaʿbân of the year]
+			<lb n="27"/>
+		one hundred and ninety five. And [So and So, son of So and So, the ... and he has written his testimony]
+			<lb n="28"/>
+		by order of the Qâḍî ʿAmr b. Abî B[akr. And So and So, son of So and So, and he has written]
+			<lb n="29"/>
+		his testimony by order of the Qâḍî ʿAm[r b. Abî Bakr. And So and So, son of]
+			<lb n="30"/>
+		Abû Ġiyâṯ, the Azdite, and [he has written his testimony by order of the Qâḍî ʿAmr b.]
+			<lb n="31"/>
+		Abî Bakr. (Handmark).
+</ab></div>
+</body>
+</text>
+</TEI>

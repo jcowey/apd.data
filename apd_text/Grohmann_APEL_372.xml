@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1879" xml:id="Grohmann_APEL_372" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 372</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_372</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169616</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  الّذي خرج من الّجلبّان للزّرع بلبسودة <del rend="erasure" status="unremarkable">والى</del> <del rend="erasure" status="unremarkable">الحسن</del> وإلى ان الحق له <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  وخمسة وستّين ثمانية أرادب ومع بيفانة الأعرج د<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وما خرج للزّرع دميوه أوّل يوم وهو يوم الأربعا ستّة أرا<supplied reason="lost" cert="high">دب</supplied> 
+<lb n="5"/>  وأيضا إردب يوم الثّلثا وأيضا ثلثة ويبات و<gap reason="illegible" precision="low" extent="3"/> وأيضا خمسة أر<supplied reason="lost" cert="high">ادب</supplied> 
+<lb n="6"/>  وأيضا ثلثة ويبات وأيضا ويبتين وإلى يحيى مولـ<supplied reason="lost" cert="high">ـى</supplied> ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <supplied reason="lost" cert="high">وأيضا</supplied> <supplied reason="lost" cert="high">يوم</supplied> <supplied reason="lost" cert="high">الأربـ</supplied>ـعا أ<supplied reason="lost" cert="high">ر</supplied>بعة أرادب وذلك أربع <unclear reason="undefined" cert="high">و</unclear><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ḫaraǧa mina ăl ǧulubbāni li z zarʿi bilibsūdaẗa wa ʾilà ăl ḥasani wa ʾilà ʾanna ăl ḥaqqa la hu *** 
+ <lb n="3"/>wa ḫamsaẗ:un wa sittīna ṯamāniyaẗu ʾarādiba wa maʿa bīfānaẗa ăl ʾaʿraǧi d*** 
+ <lb n="4"/>wa mā ḫaraǧa li z zarʿi damiyūha ʾawwala yawm:in wa huwa yawmu ăl ʾarbaʿāʾi sittaẗu ʾarādiba 
+ <lb n="5"/>wa ʾayḍ:an ʾirdabb:un yawma ăṯ ṯulāṯāʾi wa ʾayḍ:an ṯalāṯaẗu waybāt:in wa *** wa ʾayḍ:an ḫamsaẗu ʾarādiba 
+ <lb n="6"/>wa ʾayḍ:an ṯalāṯaẗu waybāt:in wa ʾayḍ:an waybatayni wa ʾilà yaḥyà mawlà ʾ*** 
+ <lb n="7"/>wa ʾayḍ:an yawma ăl ʾarbaʿāʾi ʾarbaʿaẗu ʾarādiba wa ḏālika ʾarbaʿu ʾarbaʿ:un ø wa *** w*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the na]me of God, [the Compassionate, the Merciful.]
+			<lb n="2"/>
+		The issue of chickling vetch for sowing (on the grounds) of Pilipsûde (?) 〚and to al-Ḥasan〛, and that there is to his credit...[ ?
+			<lb n="3"/>
+		and sixty-five eight artabas. And with Epiphane (Bîfâne), the lame, [
+			<lb n="4"/>
+		and the issue for sewing (on the grounds) of Damieu on the first day (of the month) viz. Wednesday, six ar[tabas;
+			<lb n="5"/>
+		and further one artaba on Tuesday, and further three waibas, and further five ar[tabas,
+			<lb n="6"/>
+		and further three waibas, and further two waibas, and to Yaḥyâ, freed[man] of A[
+			<lb n="7"/>
+		[and further on Wed]nes[day] f[o]ur artabas; and this (makes) four and [......
+</ab></div>
+</body>
+</text>
+</TEI>

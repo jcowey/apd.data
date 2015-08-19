@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1393" xml:id="Diem_Heid_II_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169185</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أطال</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">اللّه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بقاءك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وأتمّ </rdg><rdg resp="APD">وتمّم </rdg><rdg resp="APD">وأبقا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">النّعمة </rdg><rdg resp="APD">نعمته</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>پك </lem><rdg resp="APD">عليك </rdg><rdg resp="APD">لك</rdg></app> في الدّنيا والآخرة 
+<lb n="recto 2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">كتابي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إليك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وأنا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">في</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">عافية</rdg></app> والحمد للّه كثيرا 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> وسلّم المتاع ووقع 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> وأعلمك 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إ</supplied>ليك شي أجاد 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD"><gap reason="illegible" extent="1" unit="character" />ـه<gap reason="illegible" extent="2" unit="character" /></rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وكنت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">قد</rdg></app> <supplied reason="lost" cert="high">كـ</supplied>ـتبت إلي لا أتعب 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إن</supplied> كان لي عليك سلطان 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>لكرا ويكون الكتّان 
+<lb n="recto 9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">جيّد</rdg></app> <gap reason="illegible" precision="low" extent="3"/> بعثنا إليك الدّينر 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> وما كان الكتّان بجيّد خم 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تـ</supplied>ـشتري كتّان جيّد لا أجود 
+<lb n="recto 12"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">منه</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <del rend="erasure" status="unremarkable">وپحپا</del> <del rend="erasure" status="unremarkable">بعپنه</del>وهو 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> لتسعة اعشر ولقد 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> رپر <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">سـببـ</unclear>ـه لا <app type="BL"><lem resp="APD">پوجد </lem><rdg resp="APD">پوخذ </rdg><rdg resp="APD">پوجد</rdg></app> 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكّـ</supplied><unclear reason="undefined" cert="high">ـلت</unclear> غيرك بحاجتنا 
+<lb n="recto 16"/>  <gap reason="illegible" precision="low" extent="3"/> عنك 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> عنك 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /><unclear reason="undefined" cert="high">سـ</unclear>ـل <gap reason="illegible" extent="1" unit="character" /><unclear reason="undefined" cert="high">لا</unclear> <gap reason="illegible" extent="2" unit="character" />ـ<unclear reason="undefined" cert="high">ـسـ</unclear>ـا ومتاع 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> وأقرئ أبو محمّد 
+<lb n="verso 4"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">منّي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">السّلام</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وعليك</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">السّلام</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso lower margin"/>  لأبي <app type="BL"><lem resp="APD">عـ<gap reason="illegible" extent="2" unit="character" />ـ </lem><rdg resp="APD">عبد </rdg><rdg resp="APD">عمر </rdg><rdg resp="APD">عمرو</rdg></app> اللّه <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">بقّاه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">اللّه</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ʾaṭāla *** ăl ø lāhu *** baqāʾa ø ka *** wa ʾabqā ø ʾatamma tammama *** ăn ø niʿmaẗa niʿmata ø hu ***B ʿalay la ka ka fī ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="2"/>*** kitāb ø ī *** ʾilay ø ka *** wa ø ʾanā *** fī *** ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an 
+ <lb n="3"/>*** wa sallama ăl matāʿa wa waqaʿa 
+ <lb n="4"/>*** wa ʾuʿlimu ka 
+ <lb n="5"/>*** ʾilay ka šayʾ ʾaǧāda 
+ <lb n="6"/>*** ø ***a hu *** wa ø kunta *** qad katabta ʾilay ya lā ʾatʿaba 
+ <lb n="7"/>*** ʾin kāna l ī ʿalay ka sulṭān:un 
+ <lb n="8"/>*** ăl kirāʾ wa yakūnu ăl kattānu 
+ <lb n="9"/>*** ǧayyid *** baʿaṯnā ʾilay ka ăd dīnāra 
+ <lb n="10"/>*** wa mā kāna ăl kattānu bi ǧayyid:in ḫamm:in 
+ <lb n="11"/>*** ʾan taštariya kattān ǧayyid lā ʾaǧwada 
+ <lb n="12"/>*** min hu ø *** wa huwa 
+ <lb n="13"/>*** li tisʿaẗa ĭʿšara wa la qad 
+ <lb n="14"/>*** *** rBr *** sbbh lā Bwḫḏ Bwǧd Bwḥd 
+ <lb n="15"/>*** wakkaltu ġayra ka bi ḥāǧati nā 
+ <lb n="16"/>*** ʿan ka 
+ <lb n="17"/>*** ******** ʿan ka 
+ <lb n="18"/>*** *sl *lā **sʾ wa matāʿ 
+ <lb n="19"/>*** wa ʾaqriʾ ʾabū muḥammad:in 
+ <lb n="20"/>*** minn ø ī *** ăs ø salāma *** wa ø ʿalay ø ka *** ăs ø salāmu *** 
+ <lb n="21"/>li ʾabī ʿ** ʿabdi ʿumar:in ʿamr:in ăl lāh lāhi lāhu **** baqqā ø hu ***** ăl ø lāhu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] Dir im Diesseits und im Jenseits
+			<lb n="2"/>
+		] Lob sei Gott vielmals!
+			<lb n="3"/>
+		] und er übergab die Ware und fiel
+			<lb n="4"/>
+		] Ferner teile ich Dir mit
+			<lb n="5"/>
+		] an Dich eine Sache, die er ganz ausgezeichnet
+			<lb n="6"/>
+		] Du hattest mir geschrieben, ich solle mich nicht abmühen
+			<lb n="7"/>
+		wenn] ich über Dich Autorität habe,
+			<lb n="8"/>
+		] die Miete (?), und das Leinen sei
+			<lb n="9"/>
+		] wir haben Dir den Dinar gesandt
+			<lb n="10"/>
+		] und das Leinen war nicht von bester Qualität und im Rohzustand
+			<lb n="11"/>
+		daß] Du Leinen von absolut bester Qualität kaufst
+			<lb n="12"/>
+		] 〚......〛, und zwar
+			<lb n="13"/>
+		] neunzehn, und fürwahr
+			<lb n="14"/>
+			<lb n="15"/>
+		] beauftrage ich jemand anderen mit unserem Anliegen
+			<lb n="16"/>
+		...] von Dir
+			<lb n="17"/>
+		] - - - von Dir
+			<lb n="18"/>
+		] - - - nicht - - - und Ware
+			<lb n="19"/>
+		] - - - und richtet an Abū Muḥammad
+			<lb n="20"/>
+			<lb n="21"/>
+		An Abū - - -
+</ab></div>
+</body>
+</text>
+</TEI>

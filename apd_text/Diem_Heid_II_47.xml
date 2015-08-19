@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1433" xml:id="Diem_Heid_II_47" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 47</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_47</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169221</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="2" unit="character" /> شأنها من سيّدي أبي طاهر وأن تعرّ<unclear reason="undefined" cert="high">فـ</unclear>ـونا إن شا اللّه . لپمس <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="2"/>  خمسة منّا <gap reason="illegible" extent="5" unit="character" /> والأخبار على جملتها إن خرج پاررف فأوقع بمقدّمة 
+<lb n="3"/>  القوم وقتل منهم عدّة وليس جماعة ونسل اللّه خير ما يجري به عواقب 
+<lb n="4"/>  الأمور السّبب أذكر لك أمر سهام وأن تتقدّم إلى عيسى 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <unclear reason="undefined" cert="high">فـ</unclear>ـالـ<supplied reason="lost" cert="high">ـرّ</supplied><unclear reason="undefined" cert="high">جـ</unclear>ـل <gap reason="illegible" extent="2" unit="character" /> اعلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>** šaʾn hā min sayyid ī ʾabī ṭāhir:in wa ʾan tuʿarrifū nā ʾin šāʾa ăl lāhu lBms ******* fī 
+ <lb n="2"/>ḫamsaẗ:in min nā ***** wa ăl ʾaḫbāru ʿalà ǧumlati hā ʾinna ḫaraǧa Bʾrrf fa ʾawqaʿa bi muqaddimaẗi 
+ <lb n="3"/>ăl qawmi wa qatala min hum ʿiddaẗ:an wa laysa ǧamāʿaẗ:an wa nasalu ăl lāha ḫayra mā yuǧrī bi hi ʿawāqiba 
+ <lb n="4"/>ăl ʾumūri ăs sababu ʾaḏkuru la ka ʾamra sihām:in wa ʾan tataqaddama ʾilà ʿīsà 
+ <lb n="5"/>*** ***** fa ăr raǧulu ** ʾʿl*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] ihre (Fem.Sing.) Angelegenheit von Herrn Abū Ṭāhir und daß Ihr uns informiert, so Gott will.  - - - in
+			<lb n="2"/>
+		Fünf von uns  - - -. Die Neuigkeiten sind in aller Kürze, daß - - - (Personennamen) ausgerückt ist, worauf er über die Vorhut
+			<lb n="3"/>
+		der Leute herfiel und eine gewisse Zahl von ihnen, allerdings keinen ganzen Trupp tötete. Wir bitten Gott, er möge die Dinge auf die beste
+			<lb n="4"/>
+		Weise enden lassen. - Der Grund (für diesen Brief) ist der, Dir die Angelegenheit von Sihām in Erinnerung zu rufen, sowie, daß Du ʿĪsà Anweisung gibst
+			<lb n="5"/>
+		[...] denn der Mann (?) [
+</ab></div>
+</body>
+</text>
+</TEI>

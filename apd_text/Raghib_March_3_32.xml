@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="699" xml:id="Raghib_March_3_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 32</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106780</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">پسم</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">الر</supplied>حمن الرّحپم 
+<lb n="2"/>  <supplied reason="lost" cert="high">اكرمك</supplied> <supplied reason="lost" cert="high">ألله</supplied> <supplied reason="lost" cert="high">پطا</supplied>عپه وهباك كرامپه اعلمك 
+<lb n="3"/>  أنّي <gap reason="illegible" extent="14" unit="character" /> في توجيه هذا السّاج هو لرجل 
+<lb n="4"/>  غير الرّجل الّذي ا<supplied reason="lost" cert="high">شتر</supplied>يت منه شرا هذا دينر إلّا قيراط 
+<lb n="5"/>  وذلك إنّي كنت <supplied reason="lost" cert="high">اعتر</supplied>ضت ساج مثله شراه اثنا عشر درهم 
+<lb n="6"/>  <gap reason="illegible" extent="5" unit="character" />ـا <gap reason="illegible" precision="low" extent="3"/> كلمپ <supplied reason="lost" cert="high">الر</supplied>حل پوم الاريعا ڤڤال لي اپا أنپك 
+<lb n="7"/>  به يوم الخميس فلمّا كان غداة الخميس بكرت إلى سوق 
+<lb n="8"/>  الحمّام في قبضه فا<gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا<gap reason="illegible" extent="2" unit="character" />ـة مودعه فأتا ابن الرّجل فحل 
+<lb n="9"/>  المتاع فـرأيت <supplied reason="lost" cert="high">السّاج</supplied> الّذي <gap reason="illegible" extent="1" unit="character" />عـ<gap reason="illegible" extent="5" unit="character" />ـا<gap reason="illegible" extent="1" unit="character" /> المكاري فقلت 
+<lb n="10"/>  له أعطني هذا الـ<supplied reason="lost" cert="high">ـسّا</supplied>ج أظنّه السّاج الّذي اعترضته <unclear reason="undefined" cert="high">فتريّب</unclear> 
+<lb n="11"/>  بن الرّجل بي ظن أنّي اعترضته من أبيه فأعطاني السّاج وشريته 
+<lb n="12"/>  من ساعتي وجّهت به إليك فلمّا قام المكاري جاپى أبو الغلام 
+<lb n="13"/>  بجماعة الحانوت <supplied reason="lost" cert="high">فـ</supplied>ـقال لي لم <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> المكاري قبضه 
+<lb n="14"/>  وعلينا أن نوجّه إليه السّاج ا<gap reason="illegible" extent="6" unit="character" /> 
+<lb n="15 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> پعد كلام <gap reason="illegible" extent="5" unit="character" /> سپه اپام وأصيّپ الدى 
+<lb n="16 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" />ـا<gap reason="illegible" extent="1" unit="character" /> وارحوا اڤع لك على ساح صالح ڤلا پپواپا 
+<lb n="17 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> الا إن سرأ<supplied reason="lost" cert="high">ه</supplied> پدپپر <gap reason="illegible" extent="2" unit="character" />ـا <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="top 1 right"/>  <supplied reason="lost" cert="high">لاپى</supplied> <supplied reason="lost" cert="high">هرپره</supplied> <supplied reason="lost" cert="high">اكرمه</supplied> <supplied reason="lost" cert="high">ألله</supplied> <supplied reason="lost" cert="high">پطا</supplied>عپه 
+<lb n="top 2 right"/>  <supplied reason="lost" cert="high">حعڤر</supplied> <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">احمد</supplied> <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+<lb n="top 1 left"/>  من محمّد بن عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu ʾuʿlimu ka 
+ <lb n="3"/>ʾan nī ************** fī tawǧīhi hāḏā ăs sāǧi huwa li raǧuli 
+ <lb n="4"/>ġayri ăr raǧuli ăllaḏī ĭštaraytu min hu širāʾu hāḏā dīnār:un ʾillā qīrāṭ 
+ <lb n="5"/>wa ḏālika ʾin nī kuntu ĭʿtaraḍtu sāǧ miṯla hu širāʾu hu ĭṯnā ʿašara dirham 
+ <lb n="6"/>*****ʾ *** kallamtu ăr raǧula yawma ăl ʾarbaʿāʾi fa qāla l ī ʾanā ʾātī ka 
+ <lb n="7"/>bi hi yawma ăl ḫamīsi fa lammā kāna ġadāẗu ăl ḫamīsi bakartu ʾilà sūqi 
+ <lb n="8"/>ăl ḥammāmi fī qabḍi hi fa ʾ****ʾ**ẗ mūdaʿ hu fa ʾatā ĭbnu ăr raǧuli fa ḥalla 
+ <lb n="9"/>ăl matāʿa fa raʾaytu ăs sāǧa ăllaḏī *ʿ*****ʾ* ăl mukārī fa qultu 
+ <lb n="10"/>la hu ʾaʿṭi nī hāḏā ăs sāǧa ʾaẓunnu hu ăs sāǧa ăllaḏī ĭʿtaraḍtu hu fa tarayyaba 
+ <lb n="11"/>bnu ăr raǧuli b ī ẓanna ʾan nī ĭʿtaraḍtu hu min ʾabī hi fa ʾaʿṭā nī ăs sāǧa wa šaraytu hu 
+ <lb n="12"/>min sāʿat ī waǧǧahtu bi hi ʾilay ka fa lammā qāma ăl mukārī ǧāʾa nī ʾabū ăl ġulāmi 
+ <lb n="13"/>bi ǧamāʿaẗ:in ăl ḥānūta fa qāla l ī lam li ma ø ******* **** ăl mukārī qabaḍa hu 
+ <lb n="14"/>wa ʿalay nā ʾan nuwaǧǧiha ʾilay hi ăs sāǧa ʾ****** 
+ <lb n="15"/>*** baʿda kalām:in ***** sittaẗ ʾayyām:in wa ʾaṣabtu ăllaḏī 
+ <lb n="16"/>*** **ʾ wa ʾarǧū ʾaqaʿu la ka ʿalà sāǧ:in ṣāliḥ:in fa lā tatawānā 
+ <lb n="17"/>*** **** ʾillā ʾanna širāʾa hu bi dīnār:in **ʾ **** 
+ <lb n="18"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="19"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="20"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu], clément et miséricordieux!
+			<lb n="2"/>
+		[Que Dieu t&#039;honore par l&#039;obéissance] (qui Lui est due) et t&#039;accorde Sa magnanimité! Je t&#039;informe
+			<lb n="3"/>
+		que j&#039;ai .. [....] au sujet de l&#039;envoi de ce manteau à collet. Il appartient à un homme
+			<lb n="4"/>
+		autre que celui duquel je l&#039;ai [acheté]. L&#039;achat de ceci s&#039;est élevé à un dinar moins un qīrāṭ.
+			<lb n="5"/>
+		Ceci (parce que) j&#039;avais retenu un manteau à collet similaire dont l&#039;achat s&#039;est élevé à douze dirhams.
+			<lb n="6"/>
+		.. .... J&#039;ai parlé à l&#039;homme le jour du mercredi. Il m&#039;a dit : «Je te l&#039;apporterai
+			<lb n="7"/>
+		le jour du jeudi.» Lorsque le matin du jeudi fut venu, je me suis rendu de bonne heure au marché
+			<lb n="8"/>
+		du bain pour en prendre possession. [....] son magasin. Le fils de l&#039;homme est alors venu et il a déballé
+			<lb n="9"/>
+		la marchandise. J&#039;ai alors vu [le manteau à collet] que .... l&#039;ânier. Je lui ai dit :
+			<lb n="10"/>
+		«Donne-moi ce manteau à collet. Je pense que c&#039;est celui que j&#039;avais retenu.»
+			<lb n="11"/>
+		Le fils de l&#039;homme conçut des soupçons à mon égard. Il pensa que j&#039;avais retenu (le manteau à collet) de son père. Il ma l&#039;a alors donné et je l&#039;ai acheté. 
+			<lb n="12"/>
+		Aussitôt je te l&#039;ai adressé. Lorsque l&#039;ânier fut parti, le père de l&#039;adolescent est venu me trouver
+			<lb n="13"/>
+		avec des gens dans la boutique. Il m&#039;a dit : «.... [....] l&#039;ânier en a pris possession.»
+			<lb n="14"/>
+		Nous devons lui adresser le manteau à collet ....
+			<lb n="15"/>
+		] après une discussion [..] .. six jours et j&#039;ai obtenu celui
+			<lb n="16"/>
+		] J&#039;espère tomber pour toi sur un manteau à collet convenable. Ne tarde pas
+			<lb n="17"/>
+		] .. [..] Seulement son achat s&#039;est élevé à un dinar .... [....]
+			<lb n="18"/>
+		[À Abū Hurayra - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due!)].
+			<lb n="19"/>
+		[Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin].
+			<lb n="20"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr.
+</ab></div>
+</body>
+</text>
+</TEI>

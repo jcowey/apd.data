@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1706" xml:id="Gayangos_Poblet" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GayangosPoblet (= P.DagornPoblet = P.LettresAlmohades 105 mukarrar)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Gayangos_Poblet</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169456</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بِسْمِ اللَّه الرّحمنِ الرَّحيم وَصلَّى اللّه علَى محمَّدٍ نبيّه الْكريم وعلى آله <app type="BL"><lem resp="APD">سلّم </lem><rdg resp="Dagorn">وسلّم</rdg></app> تسليما <sic n="superfluous">پع</sic> <app type="BL"><lem resp="APD"><expan><ex>تعالى</ex></expan> </lem><rdg resp="Dagorn “written as abbreviation ـه ”	">انتهى</rdg></app> 
+<lb n="2"/>  والحمد للّه وحْده <sic n="superfluous">تع</sic> <app type="BL"><lem resp="APD"><expan><ex>تعالى</ex></expan> </lem><rdg resp="Dagorn “written as abbreviation ـه ”">انتهى</rdg></app> 
+<lb n="3"/>  هذَا ظَهِيرٌ كَريمٌ أَمَر بهِ أَمِيرُ المومنينَ بْنُ أَمير المُومنينَ بْنِ أَميرِ الْمومنين 
+<lb n="4"/>  أَمِير الْمومپينَ أَيَّدهُم اللَّهُ بِنصْرِه وَأَمدَّهُم بِمعُونَته لِرُهْبَانِ بوبلات الَّتِي بِجهةِ لارِدةَ 
+<lb n="5"/>  وفّقَهم اللَّه وَسدَّدهم وَأَنار بصَايرَهم وَأرْشدَهُمْ وَجعلَ ما يقرِّبُ منْ رَحْمَتِهِ 
+<lb n="6"/>  مُعْتَملهم ومُعْتمدَهم أباح بهِ لماشِيتهِمْ والقَائمينَ عَليْها أن لا يُذادُوا 
+<lb n="7"/>  في بِلادِ المسْلِمينَ في زَمن حَرْبٍ أوْ <app type="BL"><lem resp="APD">سلْمٍ </lem><rdg resp="Dagorn">سلْمٍ</rdg></app> عَنْ مَكْرَعٍ ولا مَرْعَى رَعْيًا لما <app type="BL"><lem resp="APD">سعَوْا </lem><rdg resp="Dagorn">سَعَوا </rdg><rdg resp="LS">سعَوْا</rdg></app> لَهُ 
+<lb n="8"/>  وَانتدَبوا إلَيْه من المأْخَذِ الَّتي حَسبُوا له أنْفُسَهم والمسْعَى فليُحْفظ حفظتها فِي 
+<lb n="9"/>  إِيرادِها وَإِسامَتِهَا ولا يتعرّض أحَدٌ من المسْلِمينَ لتنْغِيضِ <app type="BL"><lem resp="APD">إِنَاحتهَا </lem><rdg resp="Dagorn">إنَاخَتهَا</rdg></app> تَأمِينًا مدّ بِه عَليهُم 
+<lb n="10"/>  كثِيفَ ظلالِه وأوْرَدَهُمْ غَيْرَ مرنَّق ولا مُصرَّدٍ <app type="BL"><lem resp="APD">نَاقِعَ </lem><rdg resp="Dagorn">نَاقِعَ</rdg></app> زُلَالِهِ فمنْ وقَف عَليْه فليمتثِل 
+<lb n="11"/>  حدّه ولا يتجاوزْ رَسْمه الْكريمَ ولا يتعدَّهُ إنْ شَآ اللّه تعالى وهُو الْمُسْتَعان لا ربّ غيره ولَا 
+<lb n="12"/>  <app type="BL"><lem resp="APD">حر </lem><rdg resp="Dagorn">جبر </rdg><rdg resp="Monsalvo, LS">خير</rdg></app> إلّا <app type="BL"><lem resp="APD">حرّه </lem><rdg resp="Dagorn">جبره</rdg></app> وَكتِبَ في الموفّي عشْرين منْ شَهْرِ ربيعِ الْأخرِ سنَةَ أربعَ عشْرةَ وَسِتّمِائةٍ <sic n="superfluous">پع</sic> <app type="BL"><lem resp="APD"><expan><ex>تعالى</ex></expan> </lem><rdg resp="Dagorn “written as abbreviation ـه ” 	">انتهى</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ṣallà ăl lāhu ʿalà muḥammad:in nabiyyi hi ăl karīmi wa ʿalà ʾāli hi ø wa sallama taslīm:an taʿālà ĭntahà 
+ <lb n="2"/>wa ăl ḥamdu li l lāhi waḥda hu taʿālà ĭntahà 
+ <lb n="3"/>hāḏā ẓahīr:un karīm:un ʾamara bi hi ʾamīru ăl muʾminīna bnu ʾamīri ăl muʾminīna bni ʾamīri ăl muʾminīna bni ø ʾamīri ăl ø muʾminīna ø ø bni 
+ <lb n="4"/>ʾamīri ăl muʾminīna ʾayyada humu ăl lāhu bi naṣri hi wa ʾamadda hum bi maʿūnati hi li ruhbāni būbulāta ăllatī bi ǧihaẗi lāridaẗa 
+ <lb n="5"/>waffaqa humu ăl lāhu wa saddada hum wa ʾanāra baṣāyira hum wa ʾaršada hum wa ǧaʿala mā yuqarribu min raḥmati hi 
+ <lb n="6"/>muʿtamila hum wa muʿtamida hum ʾabāḥa bi hi li māšiyati him wa ø ăl qāʾimīna ʿalay hā ʾan lā yuḏādū 
+ <lb n="7"/>fī bilādi ăl muslimīna fī zamani ḥarb:in ʾaw silm:in sulm:in ʿan makraʿ:in wa lā marʿà raʿy:an li mā saʿū saʿaw la hu 
+ <lb n="8"/>wa ĭntadabū ʾilay hi mina ăl maʾḫaḏi ăllatī ḥasabū la hu ʾanfusa hum wa ăl masʿà fa l yuḥfaẓ ḥifẓatu hā fī 
+ <lb n="9"/>ʾīrādi hā wa ʾisāmati hā wa lā yataʿarraḍ ʾaḥad:un mina ăl muslimīna li tanġīṣi ʾināḥati ʾināḫati hā taʾmīn:an madda bi hi ʿalay him 
+ <lb n="10"/>kaṯīfa ẓilāli hi wa ʾawrada hum ġayra murannaq:in wa lā muṣarrad:in nāfiʿa nāqiʿa zulāli hi fa man waqafa ʿalay hi fa l yamtaṯil 
+ <lb n="11"/>ḥadda hu wa lā yataǧāwaz rasma hu ăl karīma wa lā yataʿadda hu ʾin šāʾa ăl lāhu taʿālà wa huwa ăl mustaʿānu lā rabba ġayra hu wa lā 
+ <lb n="12"/>ḥurra ǧabra ʾillā ḥurra ǧabra hu wa kutiba fī ăl muwaffī ʿišrīna min šahri rabīʿa ăl ʾāḫari sanaẗa ʾarbaʿa ʿašraẗa wa sitti miʾaẗ:in taʿālà ĭntahà 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux. Qu&#039;Allâh répande ses bénédictions sur Muḥammad, son noble Prophète et sur sa famille et leur accorde le salut!
+		En el nombre de Alá piadoso, de piedad : la bendicion de Alá sea sobre su profeta Mohammad el honrado, y sobre los suyos salutation verdadera.
+			<lb n="2"/>
+		Los loores á Dios, el único, ¡ensalzado sea!
+		Louanges à Dieu, Seul!
+			<lb n="3"/>
+		Ceci est un noble édit, ordonné par Amîr al-Muʾminîn, fils de Amîr al-Muʾminîn, fils de Amîr al-Muʾminîn, fils de Amîr al-Muʾminîn, fils
+		Esta es una escritura honrada que Amír-el-momenin, hijo de Amír-el-momenin, hijo de Amír-el-momenin, hijo de Amír-el-momenin, hijo
+			<lb n="4"/>
+		de Amîr al-Muʾminîn, Dieu leur accorde le soutien de son aide et leur confère son assistance!  en faveur des moines de Poblet, qui se trouve du côté de Lérida,
+		de Amír-el-momenin (ampárelos Dios á todos con su gracia, y asistalos con su poderoso auxilio) mandó [facer] para los monges de Bobelet (Poblet), en el territorio de Lérida
+			<lb n="5"/>
+		(¡dígnese Dios protegerlos, dirigirlos, iluminar su entendimento y guiarlos por el camino de la salvacion; y reciba en su graciosa misericordia
+		veuille Dieu leur accorder la réussite, les diriger, illuminer leurs intelligences, les conduire dans la voie droite et qu&#039;il fasse que ce qui se rapproche de sa miséricorde
+			<lb n="6"/>
+		á aquel de entre ellos que obra y confia!). Por ella se permite á los ganados [de los dichos monges] y á los que de ellos cuidan, el circular libremente (Literalmente, que no sean contrariados ó molestados)
+		soit ce à quoi ils s&#039;emploient et ce qu&#039;ils se proposent! [édit] par lequel il accorde à leur troupeau et à ceux qui s&#039;en occupent de n&#039;être pas repoussés
+			<lb n="7"/>
+		por tierras de los muzlimes, asi en tiempo de paz come de guerra, sin que se les pueda impedir el uso de los abrevaderos y pastos, á donde los dichos ganados se dirijan
+		sur le territoire des Musulmans, en temps de guerre ou en temps de paix, loin des abreuvoirs et des pâturages. En considération de ce à quoi ils se sont appliqués
+			<lb n="8"/>
+		et voués comme voie à laquelle ils ont consacré leurs personnes et leur activité.  Que donc on veille sur eux comme celà doit être fait, tant
+		ó se ayunten por razon de su sustento, aquellos á que mas les convenga acudir. Y que sean respetados y protegidos en
+			<lb n="9"/>
+		lorsqu&#039;on les conduit à l&#039;aiguade que lorsqu&#039;on les lâche dans les prés, et que personne parmi les Musulmans n&#039;entreprenne de troubler leurs moments de repos dans la sécurité. Par [cet édit] il étend sur eux
+		sus bajadas y subidas, y que ninguno de los muzlimes sea osado á contrariar sus movimientos mientras durare esta carta de seguro, con la cual el Amír estiende sobre ellos
+			<lb n="10"/>
+		la sombra ú manto de su poderosa proteccion; y les concede benéficamente enturbiarlas, ni amenguarlas, las corrientes de sus límpidas aguas. Y el que esta carta viere cumpla desde luego
+		son ombre tutélaire et leur fait boire, ni troublée ni insuffisante, son eau limpide qui étanche la soif. Donc, que celui qui en aura connaissance se conforme
+			<lb n="11"/>
+		à ce qu&#039;il définit, ne passe pas outre à son noble tracé et ne le transgresse pas, s&#039;il plaît à Dieu Très-Hau. Il est celui dont nous implorons l&#039;aide. Il n&#039;y a pas de Seigneur en dehors de Lui, ni
+		su objeto, y no traslimite su mandato honrado, y no vaya en manera alguna contra ello, si Dios excelso quiere, pues él es aquel cuyo auxilio debemos [todos] implorar. No hay mas señor que él, ni mas
+			<lb n="12"/>
+		de contrainte en dehors de la sienne. Cet [édit] a été écrit le vingtième du mois de rabiʿ II de l&#039;année 614 H. = 26 juillet 1217 A.D.
+		hombre libre que los suyos. Escribióse á 20 de la luna de Rabi postrera del año 614.
+</ab></div>
+</body>
+</text>
+</TEI>

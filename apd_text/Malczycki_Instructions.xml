@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2296" xml:id="Malczycki_Instructions" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MalczyckiInstructions</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Malczycki_Instructions</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  من الصّلاة حسن الوضو هو منها فـ<supplied reason="omitted" cert="high">تـ</supplied>ـحها يحلّها التّسليم ويحرّمها التّكبير 
+<lb n="recto 3"/>  علي كل مسلم إذا قام إلى الصّلوة أن يقوم للّه قانتا والقنوت 
+<lb n="recto 4"/>  الرّكوع والرّكوع والخشوع والخشوع من رهبة اللّه ثم يكون أوّل 
+<lb n="recto 5"/>  ما يقول حين يقوم وهو رافع يديه <supplied reason="lost" cert="high">حـ</supplied>ـذا منكبيه من غير تجاوزان أذنيه فيقول اللّه هو أكبر 
+<lb n="recto 6"/>  سبحنك اللّهم وتبارك أسمايك وتعلي جدّك ولا إله غيرك وجّهت وجهي للّذي فطر 
+<lb n="recto 7"/>  السّموت والأرض حنيفا مسلما وما أنا من المشركين إن صلاتي ونسكي ومحياي 
+<lb n="recto 8"/>  مماتي للّه رب العلمين لا شريك له بذالك أمرت وأن أكون من المسلمين ثم يفتتح 
+<lb n="recto 9"/>  فيقول القروان فإذا فرغ من قراپه قا<supplied reason="lost" cert="high">ل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">هـ</supplied>ـو أكبر وهو رافع يديه حذ 
+<lb n="recto 10"/>  ا منكبيه من غير تجأ<supplied reason="lost" cert="high">ور</supplied>ان اذنيه ثم ركع <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">لپـ</supplied>ـطل راسه ولم يعينه بما 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  ثم يرفع رأسه ويجعل مرجع كفّتيه على ركبتيه <app type="BL"><lem resp="APD">يشرع </lem><rdg resp="omitted by ed., but see translation and plate “UB”">ثمّ</rdg></app> اصابعه قبل <sic n="superfluous">ا</sic> 
+<lb n="verso 2"/>  القبلة ويقيم إبهامه <app type="BL"><lem resp="APD">ثم </lem><rdg resp="UB">تمّ</rdg></app> يصلّي الصّلوة كلّها على هذا فإذا جلست 
+<lb n="verso 3"/>  في الرّكعتين فتشهد ولا تزيدن فيه شيّا ولا تنقّصه حتّي تفرغ من شها 
+<lb n="verso 4"/>  دتك فادا فرغت فقل ما شيت ان الكلم الطيب كبيرا 
+<lb n="verso 5"/>  <supplied reason="omitted" cert="high">ا</supplied>بن مسعود يقول في شهادته قل بسم اللّه فيقول الكلم الطّيّب 
+<lb n="verso 6"/>  هكذا <supplied reason="lost" cert="high">التّحيّات</supplied> <supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">والصّلوات</supplied> <supplied reason="lost" cert="high">والطّيّبات</supplied> <supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">السّلام</supplied> <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">أيّها</supplied> <supplied reason="lost" cert="high">النّبيّ</supplied> <supplied reason="lost" cert="high">ورحمة</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وبركاته</supplied> <supplied reason="lost" cert="high">السّلام</supplied> <supplied reason="lost" cert="high">علينا</supplied> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">عباد</supplied> 
+<lb n="verso 7"/>  اللّه الصّالحين أشهد <supplied reason="lost" cert="high">أن</supplied> لا إله <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وأشهد</supplied> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">عبده</supplied> <supplied reason="lost" cert="high">ورسوله</supplied> 
+<lb n="verso 8"/>  منه <gap reason="illegible" extent="28" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>mina ăṣ ṣalāẗi ḥusn:un ăl wuḍūʾu huwa min hā fatḥu hā yuḥillu hā ăt taslīmu wa yuḥarrimu hā ăt takbīru 
+ <lb n="3"/>ʿalà kulli muslim:in ʾiḏā qāma ʾilà ăṣ ṣalāẗi ʾan yaqūma li l lāhi qānit:an wa ăl qunūtu 
+ <lb n="4"/>ăr rukūʿu wa ăr rukūʿu wa ăl ḫušūʿu wa ăl ḫušūʿu min rahbaẗi ăl lāhi ṯumma yakūnu ʾawwalu 
+ <lb n="5"/>mā yaqūlu ḥīna yaqūmu wa huwa rāfiʿ:un yaday hi ḥiḏāʾa mankibay hi min ġayri tuǧāwizāni ʾuḏunay hi fa yaqūlu ăl lāhu huwa ʾakbaru 
+ <lb n="6"/>subḥāna ka ăllāhumma wa tabāraka ʾasmāyi ka wa taʿālà ǧiddu ka wa lā ʾilāha ġayra ka waǧǧahtu waǧh ī li llaḏī faṭara 
+ <lb n="7"/>ăs samawāti wa ăl ʾarḍa ḥanīf:an muslim:an wa mā ʾanā mina ăl mušrikīna ʾinna ṣalāt ī wa nusuk ī wa maḥyā ya 
+ <lb n="8"/>wa mamāt ī li l lāhi rabbi ăl ʿālamīna lā šarīka la hu bi ḏālika ʾumirtu wa ʾan ʾakūna mina ăl muslimīna ṯumma yaftatiḥu 
+ <lb n="9"/>fa yaqūlu ăl qurʾāna fa ʾiḏā fariġa min qirāʾati hi qāla ăl lāhu huwa ʾakbaru wa huwa rāfiʿu yaday hi ḥiḏāʾa 
+ <lb n="10"/>mankibay hi min ġayri tuǧāwizāni ʾuḏunay hi ṯumma rakaʿa **** li yuṭil raʾsa hu wa lam yuʿayyin hu bi mā wa kaffay hi 
+ <lb n="11"/>*** 
+ <lb n="12"/>ṯumma yarfaʿu raʾsa hu wa yaǧʿalu marǧiʿa kaffatay hi ʿalà rukbatay hi ø ṯumma yašraʿu ʾaṣābiʿa hu qibala 
+ <lb n="13"/>ăl qiblaẗi wa yuqīmu ʾibhāma hu ṯumma tumma yuṣallī ăṣ ṣalāẗa kulla hā ʿalà hāḏā fa ʾiḏā ǧalasta 
+ <lb n="14"/>fī ăr rakʿatayni fa tašhadu wa lā tazīdanna fī hi šayy:an wa lā tunaqqiṣ hu ḥattà tafraġa min šahādati ka 
+ <lb n="15"/>fa ʾiḏā fariġta fa qul mā šiʾta ʾinna ăl kalāma ăṭ ṭayyiba kabīr:an kāna 
+ <lb n="16"/>ĭbnu masʿūd:in yaqūlu fī šahādati hi qul bi smi ăl lāhi fa yaqūlu ăl kalāma ăṭ ṭayyiba 
+ <lb n="17"/>hākaḏā ăt taḥiyyātu li l lāhi wa ăṣ ṣalāwātu wa ăṭ ṭayyibātu li l lāhi ăs salāmu ʿalay ka ʾayyuhā ăn nabiyyu wa raḥmaẗu ăl lāhi wa barakātu hu ăs salāmu ʿalay nā wa ʿalà ʿibādi 
+ <lb n="18"/>ăl lāhi ăṣ ṣāliḥīna ʾašhadu ʾan lā ʾilāha ʾillā ăl lāhu wa ʾašhadu ʾanna muḥammad ʿabdu hu wa rasūlu hu 
+ <lb n="19"/>min hu **************************** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, Most Gracious, Most Merciful.
+			<lb n="2"/>
+		From prayer there is goodness. The ablution is its opening, the salutation of peace makes it licit, and the exclamation of God&#039;s greatness makes it sacred.
+			<lb n="3"/>
+		It is incumbent on every Muslim when he comes to prayer that he come before God standing reverently. And the qunūt
+			<lb n="4"/>
+		is the repetitious bowing and prostrating in awe of God. Then there is the first
+			<lb n="5"/>
+		of what one says while standing and raising his hands up to his shoulders without passing his ears: &#034;God is the Greatest!
+			<lb n="6"/>
+		Praise be to You, God, and blessed be your names! Exalted is your sovereignity! There is no god but you! I have turned my face, being a ḥanīf and a Muslim, to Him who cleft
+			<lb n="7"/>
+		the Heavens and the Earth. I am not one of the polytheists. Verily, my prayers and piety, my life
+			<lb n="8"/>
+		and death are all for God, the Master of all Worlds. He has no partner. By that I was ordered to become Muslim.&#034; Then he opens
+			<lb n="9"/>
+		by reciting from the Qurʾān. When he has finished his recitation he says &#034;God is Greatest!,&#034; and he raises his hands up to
+			<lb n="10"/>
+		his shoulders and without passing his ears. Then a bow ... so let him extend his head and he has not designated where (he will put his head) and his two palms...
+			<lb n="11"/>
+			<lb n="12"/>
+		Then he raises his head and he places his palms on his knees. Then he points his finger toward
+			<lb n="13"/>
+		the Qibla, and he arranges his toes. He prays all of the prayer in this manner. When you sit
+			<lb n="14"/>
+		after the two prostrations you say the profession of faith, being very careful not to add anything to it or leave anything out until you finish
+			<lb n="15"/>
+		profession of faith. When you finish, say what you wish. Verily, the good words are great!
+			<lb n="16"/>
+		Ibn Masʿūd used to say in his profession of faith, &#034;Say &#039;In the name of God,&#039;&#034; and then he says the good words
+			<lb n="17"/>
+		thus: [&#034;Greetings to God and prayers and righteousness. Peace be upon you, oh Prophet, and the mercy of God and His blessings. Peace be upon us and on]
+			<lb n="18"/>
+		God&#039;s pious servants. I witness that there is no god [except God and I witness that Muḥammad is His servant.]
+			<lb n="19"/>
+		From him ...&#034;
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1851" xml:id="Grohmann_APEL_369" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 369</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_369</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169588</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّ<supplied reason="lost" cert="high">حيم</supplied> 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">تذكرة</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">حر<gap reason="illegible" extent="1" unit="character" />پ</rdg></app> إلى متقدّمين بابه يوم الثّـ<supplied reason="lost" cert="high">ـلثا</supplied> وهو أربعة وعشرين من بابه 
+<lb n="3"/>  من شهور العجم 
+<lb n="4"/>  <unclear reason="undefined" cert="high">كـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> عپام اا<gap reason="illegible" precision="low" extent="3"/> سوى 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إرد</supplied>ب <gap reason="illegible" precision="low" extent="3"/> إردب درهم 
+<lb n="6"/>  البرسيم ثمن من الملش 
+<lb n="7"/>  ‮يو<supplied reason="lost" cert="high">م</supplied> ‮δ بـ<supplied reason="lost" cert="high">ـابـ</supplied>ـه ‮‪κε‬ ‮‪αΧ‬ <supplied reason="lost" cert="high">در</supplied>هم <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="8"/>  ‮يو<supplied reason="lost" cert="high">م</supplied> ‮ε بابه ‮‪κϛ‬ ‮Χ <supplied reason="lost" cert="high">درهم</supplied> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="9"/>  ‮<supplied reason="lost" cert="high">يوم</supplied> ‮ϛ بابه ‮‪κζ‬ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="10"/>  يو<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">‮ζ</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـابه ‮‪κη‬ <gap reason="illegible" precision="low" extent="3"/> ‮‪Χιʹβʹ‬ α 
+<lb n="11"/>  ‮ <supplied reason="lost" cert="high">پو</supplied>م ‮γ هپور ‮α ‮α 
+<lb n="12"/>  ‮ويوم ‮δ هتور ‮β ‪γιʹβʹ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** taḏkiraẗ *** *** ḥr*B ʾilà mutaqaddimīna bābiha yawma ăṯ ṯulāṯāʾi wa huwa ʾarbaʿaẗ:un wa ʿišrīna min bābiha 
+ <lb n="3"/>min šuhūri ăl ʿaǧami 
+ <lb n="4"/>k*** ʿBʾm ʾʾ*** siwà 
+ <lb n="5"/>*** ʾirdabb *** ʾirdabb dirham 
+ <lb n="6"/>ăl birsīm ṯaman mina ăl mlš 
+ <lb n="7"/>yawma 4 bābiha 25 1+1/2 dirham * 
+ <lb n="8"/>yawma 5 bābiha 26 1/2 dirham:in * * 
+ <lb n="9"/>yawma 6 bābiha 27 *** * * 
+ <lb n="10"/>yawma 7 bābiha 28 *** 1/2+1/12 1 
+ <lb n="11"/>yawma 3 hātūra 1 1 2 
+ <lb n="12"/>wa yawma 4 hātūra 2 3+1/12 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		......... until the preceding (days) of Bâbe, on Tu[es]day, which is the twenty-fourth of Bâbe
+			<lb n="3"/>
+		of the months of the Copts.
+			<lb n="4"/>
+		......[...]............[...] except (?)
+			<lb n="5"/>
+		[...] [arta]bas [...] artabas dirhams
+			<lb n="6"/>
+		clover costs of pickling
+			<lb n="7"/>
+		Wednesda[y] B[âb]e 25 _ 1 1/2 [dir]ham • •
+			<lb n="8"/>
+		Thursda[y] Bâbe 26 _ 1/2 [di]rham • •
+			<lb n="9"/>
+		Fri[day] Bâbe 27 [...] • •
+			<lb n="10"/>
+		[Saturd]ay [B]âbe 28 [...] 1/2+1/12 _ 1
+			<lb n="11"/>
+		[...] Tues[da]y Hathor 1 1 2
+			<lb n="12"/>
+		and Wednesday Hathor 2 _ 3 1/12
+</ab></div>
+</body>
+</text>
+</TEI>

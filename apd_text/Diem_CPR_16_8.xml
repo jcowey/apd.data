@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1120" xml:id="Diem_CPR_16_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 08</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168976</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وأتم نعـ<supplied reason="lost" cert="high">ـمته</supplied> <supplied reason="lost" cert="high">عليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  قد كنت أدام اللّه عزّك أمرتني أن أحمل إلى ما قبلـ<supplied reason="lost" cert="high">ـك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  في الجباية أوّل يوم رحل امحيه وهود أيضـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  وأمّا ركن البربر فما لهم عندنا <supplied reason="lost" cert="high">شي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  واكتب إلي أدام اللّه عزّك بما أعمل على حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  النّزل فعلت ذلك وإن أمرتني <sic n="superfluous">عن</sic> <supplied reason="omitted" cert="high">أن</supplied> أقف عن ذلك <supplied reason="lost" cert="high">فعلت</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  وبلغني أدام اللّه عزّك أن المشرف رحل طحـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  والصّند<supplied reason="omitted" cert="high">و</supplied>ق وقد أخذت الصّانع وضربته ثم شـ<supplied reason="lost" cert="high">ـفقت</supplied> <supplied reason="lost" cert="high">عليه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  من المسلمين بأن ليس عنده <app type="BL"><lem resp="APD">حلود </lem><rdg resp="APD">جلود</rdg></app> ودـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa ʾatamma niʿmata hu ʿalay ka *** 
+ <lb n="3"/>qad kunta ʾadāma ăl lāhu ʿizza ka ʾamarta nī ʾan ʾaḥmila ʾilà mā qibala ka *** 
+ <lb n="4"/>fī ăl ǧibāyaẗi ʾawwala yawm:in raḥala ʾmḥyha wa hūda ʾayḍ:an *** 
+ <lb n="5"/>wa ʾammā ruknu ăl barbari fa mā la hum ʿinda nā šayʾ:un *** 
+ <lb n="6"/>wa ŭktub ʾilay ya ʾadāma ăl lāhu ʿizza ka bi mā ʾaʿmalu ʿalà ḥ*** 
+ <lb n="7"/>ăn nuzul faʿalta ḏālika wa ʾin ʾamarta nī ʾan ʾaqifa ʿan ḏālika faʿalta ḏālika *** 
+ <lb n="8"/>wa balaġa nī ʾadāma ăl lāhu ʿizza ka ʾanna ăl mušrifa raḥala ṭaḥā *** 
+ <lb n="9"/>wa ăṣ ṣundūq wa qad ʾaḫaḏtu ăṣ ṣāniʿa wa ḍarabtu hu ṯumma šafaqtu ʿalay hi *** 
+ <lb n="10"/>mina ăl muslimīna bi ʾan laysa ʿinda hu ḥlwn ǧulūd:un wa d*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barm[herzigen und Gnädigen!]
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen und Deine ehrenvolle Stellung andauern, vollende seine Gna[de an Dir
+			<lb n="3"/>
+		Du hattest mir - Gott lasse Dein Ansehen andauern - befohlen, ich solle zu [Dir] bringen [
+			<lb n="4"/>
+		- - - Steuereintreibung am ersten Tag, reiste er nach - - - und auch Hūd (?) [
+			<lb n="5"/>
+		was aber Rukn al-Barbar betrifft, so haben sie bei uns kein [Guthaben
+			<lb n="6"/>
+		Schreibe mir - Gott lasse Dein Ansehen andauern - was ich tun soll - - - [ - - - wenn Du mir befiehlst, ich solle
+			<lb n="7"/>
+		die Gasthäuser [...], dann tu dies; und wenn Du mir befiehlst, dies zu verhindern, [dann ist es ebenfalls recht
+			<lb n="8"/>
+		Ferner habe ich erfahren  - Gott lasse Dein Ansehen andauern -, daß der Aufseher nach Ṭaḥ[ā] gereist ist [
+			<lb n="9"/>
+		und den Kasten. Ich habe den Handwerker zur Rechenschaft gezogen und ihn geschlagen; dann be[kam ich Mitleid mit ihm
+			<lb n="10"/>
+		von den Muslimen, daß er kein - - - hat, und [
+</ab></div>
+</body>
+</text>
+</TEI>

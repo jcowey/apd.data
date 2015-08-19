@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="579" xml:id="Jahn_JBW_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106716</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">يحيـ</supplied>ـى <supplied reason="lost" cert="high">بـ</supplied>ـن <supplied reason="lost" cert="high">هلل</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">ميمون</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">ميسرة</supplied> <supplied reason="lost" cert="high">سلم</supplied> <supplied reason="lost" cert="high">عليك</supplied> 
+<lb n="3"/>  فإنّي أحمد إليك اللّه الّذي <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">ـ</supplied> 
+<lb n="4"/>  أمّا بعد عافپنا اللّه وإيّاك من السّو كلّه 
+<lb n="5"/>  كتبت إليك ونحن كالّذي <app type="BL"><lem resp="APD">تحب </lem><rdg resp="Levi della Vida; Diem">تحبّ</rdg></app> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">ينهى</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إليكم</supplied> </lem><rdg resp="Diem">إليك</rdg></app> <supplied reason="lost" cert="high">فيه</supplied> 
+<lb n="6"/>  من السّلامة والصّلاح واللّه محمود أسئل اللّه 
+<lb n="7"/>  والسّلم عليك ورحمت اللّه <supplied reason="lost" cert="high">و</supplied>كتب <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">جمادى</supplied> الأ<supplied reason="lost" cert="high">وّ</supplied>ل <supplied reason="lost" cert="high">سـ</supplied>ـنة سبع <supplied reason="lost" cert="high">وعـ</supplied>ـشرين 
+<lb n="9"/>  <supplied reason="lost" cert="high">ومآپه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min yaḥyà bni hilāla ʾilà maymūni bni maysaraẗa salām:un ʿalay ka 
+ <lb n="3"/>fa ʾinn ī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʿāfà nā ăl lāhu wa ʾiyyā ka mina ăs sūʾi kulli hi 
+ <lb n="5"/>katabtu ʾilay ka wa naḥnu ka ăllaḏī tuḥibbu yuḥibbu ʾan yunhà ʾilay kum ka fī hi 
+ <lb n="6"/>mina ăs salāmaẗi wa ăṣ ṣalāḥi wa ăl lāhu maḥmūd:un ʾasʾalu ăl lāha 
+ <lb n="7"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa kataba *** bnu *** 
+ <lb n="8"/>fī šahri ǧumādà ăl ʾawwali sanaẗa sabʿ:in wa ʿišrīna 
+ <lb n="9"/>wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes des Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		Von Yaḥyā b. Hilāl an Maymūn b. Maysara. Heil Dir]
+			<lb n="3"/>
+		Ich preise für Dich Gott, [außer dem es keinen Gott gibt.]
+			<lb n="4"/>
+		Des weitern: Gott bewahre uns und Dich vor allem Übel.
+			<lb n="5"/>
+		Ich habe Dir geschrieben - während wir jenem gleichen, der wünscht, [daß Euch demgemäß]
+		... we are in the same state (of welfare) in which you would like to be
+			<lb n="6"/>
+		Wohlbefinden und Gesundheit erreiche - und Gott sei gelobt - ich bitte Gott [darum]
+			<lb n="7"/>
+		und Heil Dir und die Barmherzigkeit Gottes. [Und] er schrieb&#039;s [N.N.]
+			<lb n="8"/>
+		[Im Monate Ǧumādā] I, des [Jah]res einhundert und
+			<lb n="9"/>
+		siebenundzwanzig
+</ab></div>
+</body>
+</text>
+</TEI>

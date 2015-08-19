@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1087" xml:id="Grohmann_APEL_60" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 060</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_60</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168953</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="APD">أعرفا </lem><rdg resp="Thung p. 204">اعترفا</rdg></app> البائعيـ<sic n="superfluous">ـنـ</sic>ـن بقبض الثّمن من المشتريان بالإحازة وكتب سليمن بن إدريس في تأريخه 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  هذا ما اشترا <app type="BL"><lem resp="APD">منوس </lem><rdg resp="APD">منوس</rdg></app> بن ثيدر الأجير وزوجته سرنه ابنت سلة بن هرمينه من بلهيوا ابنت قوريل ومن والدتها قرهيوه ابنت قري وهما جميعا من أهل الضّيعة المعروفة ببلجسوق قرية من قرا كورة 
+<lb n="4"/>  الفيّوم اشتروا منها بصفقة واحد وعقد واحد جميع المنزل الّذي هو ملكها إرثًا عن والدها قوريل وعمّها ببنوده الشّمّاس في القبلة المعترفة بحارة الكلّابين من شرقي هذه الضّيعة في 
+<lb n="5"/>  الوجه القبلي ويشتمل على ذلك حدود أربع الحد الأوّل القبلي ينتهي إلى منزل <unclear reason="undefined" cert="high">أبو</unclear> <gap reason="illegible" extent="7" unit="character" /> والحد الثّاني البحري ينتهي إلى معصرة ورثته أولاد أرون والحد الثّالث الشّرقي 
+<lb n="6"/>  المجاز ومنه يشرع باب هذا المنزل ومنه المدخل إليه والمخرج منه والحد الرّابع الغربي ينتهي إلى الطّريق المارّة <app type="BL"><lem resp="APD">اشترا </lem><rdg resp="“Dietrich”">اشتروا</rdg></app> <app type="BL"><lem resp="APD">متوس </lem><rdg resp="APD">منوس</rdg></app> بن ثيدر وزوجته سرنه ابنت سله بن هرمينه 
+<lb n="7"/>  جميع هذا المنزل المحدود الموصوف في باطن هذه الحجّة بحدّه وحدوده وعيونه وسبله وأرضه وسمائه وطوبه وخشبه وأبوابه وحجارته وكل حق هو له داخل فيه وخارج منه شرا ثابت 
+<lb n="8"/>  صحيح لا شرط فيه ولا وعد ولا رهينة ولا وديعة بثمن مبلغه من العين الوازن خمس دنانير عينا ذهبا وازنة جيادا قبضت <unclear reason="undefined" cert="high">بلهيوا</unclear> ابنت قوريل ووالدتها قرهيوا ابنت قري 
+<lb n="9"/>  جميع هذا الثّمن تامّا وافيا وأبرأوا من ذلك براه قبض واستيفا <del rend="erasure" status="unremarkable">وسلما</del> <del rend="erasure" status="unremarkable">پلهپوا</del> <del rend="erasure" status="unremarkable">اپپپ</del> <del rend="erasure" status="unremarkable">ڤورپل</del> <del rend="erasure" status="unremarkable">ووالدپها</del> <del rend="erasure" status="unremarkable">ڤرهپوا</del> <del rend="erasure" status="unremarkable">اپپپ</del> <del rend="erasure" status="unremarkable">قرى</del><supplied reason="omitted" cert="high">ڤبضا</supplied> <app type="BL"><lem resp="APD">متوس </lem><rdg resp="APD">منوس</rdg></app> بن ثيدر بزوجته سرنه ابنت سيله بن <app type="BL"><lem resp="APD"><sic n="superfluous">هرمه</sic><supplied reason="omitted" cert="high">هرمپه</supplied> </lem><rdg resp="APD">هرمنه</rdg></app> هذا المنزل المذكور المحدود وحازا ذلك وملكاه 
+<lb n="10"/>  وصار مال من مالهما يتحكّما فيه حكم الملّاك في ملكهم إن شا باعا وإن شا وهبا وإن شا صدّقا فمتى ما أدركا هولاى النّفر المسمّون في شرائهما درك علقة أو خصومة 
+<lb n="11"/>  من النّاس كلّهم قريب أو بعيد شاهد أو غائب طارئ بدين أو مستحق بميراث <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">فإ</supplied>نقاذ </lem><rdg resp="“Frantz-Murphy”">فإنفاذ </rdg><rdg resp="“Diem”">فنفاذ</rdg></app> ذلك وخلاصه وفكاكه على بلهوا ابنت قوريل ووالدتها قرهوا ابنت قري من خالص أموالهما كائن 
+<lb n="12"/>  ما كان وبالغ ما بلغ وعلى بيع الإسلام وعهدتهم ذلك في صحّة عقلهم وأبدانهم وجواز أمورهم طائعين غير مكرهين ولا مجبرين طيّبة بذلك أنفسهم وكتب في رجب سنة ست 
+<lb n="13"/>  وأربع مائة وشهد على ذلك في السّطر الأوّل أمثاله ابنت سيله بن هرمنه وهو صحيح وكتب في تأريخه وفيه إصلاح متوس بن ثيدر وزوجته سرنه ابنت سله بن هرمنه <gap reason="illegible" extent="2" unit="character" /> صح 
+<lb n="14 right"/>  شهد علي بن السّمّاك بجميع ما فيه وكتب عنه بأمره ومحضره في تأريخه 
+<lb n="14 left"/>  شهد بو الطّيّب بن عامر بجميع ما فيه 
+<lb n="15 left"/>  وكتب عنه سليمن بن إدريس بأمره ومحضره في تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaʿrafā ĭʿtarafā ăl bāʾiʿayni bi qabḍi ăṯ ṯamani mina ăl muštariyāni bi ăl ʾiḥāzaẗi wa kataba sulaymānu bnu ʾidrīsa fī taʾrīḫi hi 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā mā ĭštarā matawusu minūsu bnu ṯiyudura ăl ʾaǧīru wa zawǧatu hu sirinahu ĭbnatu silaẗa bni hirmīnaha min bilihīw ĭbnati qūrīla wa min wālidati hā qarhīwha ĭbnati qiriyya wa humā ǧamīʿ:an min ʾahli ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi bulǧusūqa qaryaẗ:in min qurā kūraẗi 
+ <lb n="4"/>ăl fayyūmi ĭštaraw min hā bi ṣafqaẗ:in wāḥid:in wa ʿaqd:in wāḥid:in ǧamīʿa ăl manzili ăllaḏī huwa milku hā ʾirṯ:an ʿan wālidi hā qūrīla wa ʿammi hā babnūdaha ăš šammāsi fī ăl qiblaẗi ăl muʿtarafaẗi bi ḥāraẗi ăl kallābīna min šarqiyyi hāḏihi ăḍ ḍayʿaẗi fī 
+ <lb n="5"/>ăl waǧhi ăl qibliyyi wa yaštamilu ʿalà ḏālika ḥudūd:un ʾarbaʿ:uni ăl ḥaddu ăl ʾawwalu ăl qibliyyu yantahī ʾilà manzili ʾabū ******* wa ăl ḥaddu ăṯ ṯānī ăl baḥriyyu yantahī ʾilà miʿṣaraẗi waraṯati hi ʾawlādi ʾarūna wa ăl ḥaddu ăṯ ṯāliṯu ăš šarqiyyu 
+ <lb n="6"/>ăl maǧāzu wa min hu yašraʿu bābu hāḏā ăl manzili wa min hu ăl madḫalu ʾilay hi wa ăl maḫraǧu min hu wa ăl ḥaddu ăr rābiʿu ăl ġarbiyyu yantahī ʾilà ăṭ ṭarīqi ăl mārraẗi ĭštarā ĭštaraw matawusu minūsu bnu ṯiyudura wa zawǧatu hu sirinahu ĭbnatu sīlaẗa bni hirmīnaha 
+ <lb n="7"/>ǧamīʿa hāḏā ăl manzili ăl maḥdūdi ăl mawṣūfi fī bāṭini hāḏihi ăl ḥuǧǧaẗi bi ḥaddi hi wa ḥudūdi hi wa ʿuyūni hi wa subuli hi wa ʾarḍi hi wa samāʾi hi wa ṭūbi hi wa ḫašabi hi wa ʾabwābi hi wa ḥiǧārati hi wa kulli ḥaqq:in huwa la hu dāḫil fī hi wa ḫāriǧ min hu širāʾ ṯābit 
+ <lb n="8"/>ṣaḥīḥ lā šarṭa fī hi wa lā waʿd:un wa lā rahīnaẗ:un wa lā wadīʿaẗ:un bi ṯaman:in mablaġu hu mina ăl ʿayni ăl wāzini ḫamsu danānīra ʿayn:an ḏahab:an wāzinaẗ:an ǧiyād:an qabaḍat bilihīw ĭbnatu qūrīla wa wālidatu hā qarhīw ĭbnatu qiriyya 
+ <lb n="9"/>ǧamīʿa hāḏā ăṯ ṯamani tāmm:an wāfiy:an wa ʾabraʾū min ḏālika barāʾaẗa qabḍ:in wa ĭstīfāʾ:in qabaḍā matawusu minūsu bnu ṯiyudura bi zawǧati hi sirinaha ĭbnati sīlaha bni hirmiha hirminaha hāḏā ăl manzila ăl maḏkūra ăl maḥdūda wa ḥāzā ḏālika wa malakā hu 
+ <lb n="10"/>wa ṣāra māl min māli himā yataḥakkamā fī hi ḥukma ăl mullāki fī milki him ʾin šāʾa bāʿā wa ʾin šāʾa wahabā wa ʾin šāʾa ṣaddaqā fa matà mā ʾadrakā hāʾulāʾi ăn nafara ăl musammawna fī širāʾi himā daraku ʿulqaẗ:in ʾaw ḫuṣūmaẗ:in 
+ <lb n="11"/>mina ăn nāsi kulli him qarīb:in ʾaw baʿīd:in šāhid:in ʾaw ġāʾib:in ṭāriʾ:in bi dayn:in ʾaw mustaḥiqq:in bi mīrāṯ:in fa ʾinfāḏu ʾinqāḏu nafāḏu ḏālika wa ḫalāṣu hu wa fikāku hu ʿalà bilihiw ĭbnati qūrīla wa wālidati hā qarhiw ĭbnati qiriyya min ḫāliṣi ʾamwāli himā kāʾin 
+ <lb n="12"/>mā kāna wa bāliġ mā balaġa wa ʿalà bayʿi ăl ʾislāmi wa ʿuhdati him ḏālika fī ṣiḥḥaẗi ʿaqli him wa ʾabdāni him wa ǧawāzi ʾumūri him ṭāʾiʿayni ġayra mukrahayni wa lā muǧbarayni ṭayyibaẗ:an bi ḏālika ʾanfusu hum wa kutiba fī raǧab:in sanaẗa sitt:in 
+ <lb n="13"/>wa ʾarbaʿi miʾaẗ:in wa šahida ʿalà ḏālika fī ăs saṭri ăl ʾawwali ʾamṯālu hu ĭbnatu sīlaha bni hirminaha wa huwa ṣaḥīḥ:un wa kutiba fī taʾrīḫi hi wa fī hi ʾiṣlāḥ:un matawusu bnu ṯiyudura wa zawǧatu hu sirinahu ĭbnatu silaha bni hirminaha ** ṣaḥḥa 
+ <lb n="14"/>šahida ʿaliyyu bnu ăs sammāki bi ǧamīʿi mā fī hi wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi fī taʾrīḫi hi 
+ <lb n="15"/>šahida bū ăṭ ṭayyibi bnu ʿāmir:in bi ǧamīʿi mā fī hi 
+ <lb n="16"/>wa kataba ʿan hu sulaymānu bnu ʾidrīsa bi ʾamri hi wa maḥḍari hi fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Both the sellers have acknowledged that they have received the price from both the buyers on (their) taking over (the property), and Sulaimân b. Idrîs has written (it) on its date.
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		This is what Matawûs b. Theodor, the journeyman, and his wife Serena, daughter of Sila b. Hermîne have bought from Biliheu, daughter of Cyril, and from her mother Qarheu, daughter of Qerî, who both are jointly numbered among the people of the domain known as Bulǧusûq, one of the villages of the district
+			<lb n="4"/>
+		of al-Fayyûm: they have bought from her in one striking (of hands) and one contract the whole house, which is her property by inheritance from her father Cyril and her paternal uncle Babnûde, the deacon, in the southern part known as the dogtrainers&#039; quarter, of the eastern part of this domain, in
+			<lb n="5"/>
+		the southern region, and it is surrounded by four boundaries: the first, the southern boundary, extends to the dwelling house of Abu&#039;s-Sarî .................., the second, the northern boundary, extends to the press of his heirs, the sons of Arôn, the third, the eastern boundary (extends)
+			<lb n="6"/>
+		to the way with which the door of this dwelling house communicates and affords entrance to and exit from it, the fourth, the western boundary, extends to the main thoroughfare. Matawûs b. Theodor and his wife Serena, daughter of Sîla b. Hermîne, have bought
+			<lb n="7"/>
+		the whole of this dwelling house, defined and described in this instrument, to its limit and its boundaries and its springs and public drinking fountains, and its land and its sky, and its baked bricks and its timbers and its wooden doors and its stones, and every right connected with it within and without, in form of a right,
+			<lb n="8"/>
+		valid purchase, in which is no condition and no promise and no pledge and no deposit, for a price, which in gold-coins of full weight amounts to five dînârs, gold-coins, full weight, good pieces. Biliheu, daughter of Cyril, and her mother Qarheu, daughter of Qerî, have received
+			<lb n="9"/>
+		the whole of this price fully and entirely, and have given (him) a quittance for it by means of a receipt (acknowledging that they have) received and taken it over fully, and Matawûs b. Theodor and his wife Serena, daughter of Sîla b. Herme (sic) (have taken over) this (above) mentioned and defined dwelling house, and they both have acquired and taken possession of it
+			<lb n="10"/>
+		and it has become their own property, they both having free disposition of it according to the free disposition of proprietors over their property, (so that) if they will, they may sell it, and if they will, they may give it away, and if they will, they may give it as an alms. But if any evil consequence (vindicatio) with regard to their purchase should ensue to these named persons on the basis of any contention or litigation,
+			<lb n="11"/>
+		on the part of any persons, be they near or far, present or absent, (be it) one who suddenly appears with a debt or one who makes a claim on the basis of any inheritance, then the recuperation, indemnification and redemption therefor are incumbent upon Biliheu, daughter of Cyril, and her mother Qarheu, daughter of Qerî, out of their own means, whatever
+			<lb n="12"/>
+		it might be or amount to, and according to Islamic law of sale, and their (the Muslims) covenant, and this while they are in a state of sound mind and body and capable of transacting their business, voluntarily, without compulsion and not against their will, but of their own good pleasure, and it has been written in Raǧab of the year four hun-
+			<lb n="13"/>
+		dred and six; (the following witnesses) have testified to it. In the first line there is an addition, viz. &#034;daughter of Sîla b. Hermine&#034; which is right and has been written on its date, and herein is (to be found sc. l. 9) a correction &#034;Matawûs b. Theodor and his wife Serena, daughter of Sila b. Herme (sic).&#034; Correct.
+			<lb n="14"/>
+		ʿAlî b. as-Sammâk is witness to all that (is contained) herein, and it has been written for him at his order and in his presence on its date.
+			<lb n="15"/>
+		Bû&#039;ṭ-Ṭayyib b. ʿÂmir is witness to all that (is contained) herein,
+			<lb n="16"/>
+		and Sulaimân b. Idrîs has written for him at his order and in his presence on its date.
+</ab></div>
+</body>
+</text>
+</TEI>

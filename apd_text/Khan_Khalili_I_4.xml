@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1461" xml:id="Khan_Khalili_I_4" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 04 (= P.Khalili II 17 recto)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_4</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169245</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />κ νγχ καδ' <gap reason="illegible" extent="1" unit="character" />δ' 
+ <lb n="2"/>  پور δ كامل بن زياد وهو جا<supplied reason="lost" cert="high">بـ</supplied>ـر ومحمّد قـ<supplied reason="lost" cert="high">ـمح</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ϛλ</supplied> <supplied reason="lost" cert="high">ρνε</supplied> <supplied reason="lost" cert="high">νδχ</supplied> <supplied reason="lost" cert="high">ρνε</supplied> <supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">α</unclear>κ </supplied>
+ <lb n="3"/>  وله قمح <gap reason="illegible" precision="low" extent="3"/> // νβ ε χη'χ 
+ <lb n="4"/>  <supplied reason="lost" cert="high">پـ</supplied>ـور <supplied reason="omitted" cert="high">'</supplied>δδ محمّد بن يحيى وأحمد بن إسمعيل قمح ρ<gap reason="illegible" precision="low" extent="3"/> ρλ ρκβ ρκϛ ρλθ μγχη' 
+ <lb n="5"/>  پور γδ' جابر بن زياد قمـ<supplied reason="lost" cert="high">ـح</supplied> <gap reason="illegible" precision="low" extent="3"/> ρνε ρνε ρνζ νβχ κχιβ' 
+ <lb n="6"/>  <supplied reason="lost" cert="high">پور</supplied> β<unclear reason="undefined" cert="high">'</unclear> عمرو بن عبد اللّه وهو جابر 
+ <lb n="7"/>  ومحمد قمح <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> νε α ξγ ζχδ'η' 
+ <lb n="8"/>  على بن زكّار وهو جابر ومحمّد قمح <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> // κβ ζ δ'η'χ 
+ <lb n="9"/>  بور ιβ' وله قمح <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> κζ ιβχ κβχ βγ'ιβ' 
+ <lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> δχ ϝι'β 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** *** *** 20+*** ‪53+1/2 ‪21+1/4 ‪‪‬***+1/4 
+ <lb n="2"/>būr:un 4 kāmilu bnu ziyāda wa huwa ǧābir:in wa muḥammad:in qamḥ:un *** 36+*** ‪155 155 54+1/2 21 
+ <lb n="3"/>wa la hu qamḥ:un *** // ‪52 5 ‪1/2+1/8+1/48 
+ <lb n="4"/>būr:un 4+1/4 muḥammadu bnu yaḥyà wa ʾaḥmadu bnu ʾismāʿīla qamḥ:un ‪100+*** ‪130 122 126 ‪139 ‪43+1/2+1/8 
+ <lb n="5"/>būr:un ‪3+1/4 ǧābiru bnu ziyāda qamḥ:un *** 155 155 157 52+1/2 20+1/2+1/12 
+ <lb n="6"/>būr:un 2 ʿamru bnu ʿabdi ăl lāhi wa huwa ǧābir:in 
+ <lb n="7"/>wa muḥammad:in qamḥ:un *** *** ‪55 1 ‪63 ‪7+1/2+1/4+1/8 
+ <lb n="8"/>ʿaliyyu bnu zakkār:in wa huwa ǧābir:in wa muḥammad:in qamḥ:un // 22 7 1/3+1/8+1/48 
+ <lb n="9"/>būr:un ‪1/12 wa la hu qamḥ:un *** ** * 27 12+1/2 22+1/2 ‪2+1/3+1/12 
+ <lb n="10"/>*** *** *** *** *** ‪4+1/2 ‪90+1/12 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [            [ ] [ ] [ ] 20[ ] 53+1/2 21 +1/4 [ ]1/4
+		 <lb n="2"/>
+ 	  Fallow 4; Kāmil ibn Ziyād, he being the tenant of Jābir and Muḥammad, wheat: [ ] [ ] 36 155 155 54+1/2 21
+ 	  Fallow 4; Kamil ibn Ziyad, he being the tenant of Jabir and Muhammad, wheat: [ ] [ ] 36 155 155 54+1/2 21
+		 <lb n="3"/>
+ 	  Cultivated by the same, wheat: [ ] [ ] [ ] // 52 5 1/2+1/8+1/48
+		 <lb n="4"/>
+ 	  Fallow 4+1/4: Muḥammad ibn Yaḥyā and ʾAḥmad ibn ʾIsmaʿīl, wheat: [ ] 1[..] 130 122 126 139 43+1/2+1/8
+ 	  Fallow 4+1/4: Muhammad ibn Yahya and Ahmad ibn Ismaʿil, wheat: [ ] 1[..] 130 122 126 139 43+1/2+1/8
+		 <lb n="5"/>
+ 	  Fallow 3+1/4: Jabir ibn Ziyad, wheat: [ ] [ ] 155 155 157 52+1/2 20+1/2+1/12
+		 <lb n="6"/>
+ 	  [Fallow] 2: ʿAmr ibn ʿAbdallah, he being the tenant of Jabir
+ 	  [Fallow] 2: ʿAmr ibn ʿAbdallāh, he being the tenant of Jābir
+		 <lb n="7"/>
+ 	  and Muḥammad, wheat: [ ] [ ] [ ] 55 1 63 7+1/2+1/4+1/8
+ 	  and Muhammad, wheat: [ ] [ ] [ ] 55 1 63 7+1/2+1/4+1/8
+		 <lb n="8"/>
+ 	  ʿAli ibn Zakkar, he being the tenant of Jabir and Muhammad: [ ] [ ] [ ] // 22 7 1/4+1/8+1/48
+ 	  ʿAlī ibn Zakkār, he being the tenant of Muḥammad and Jābir: [ ] [ ] [ ] // 22 7 1/4+1/8+1/48
+		 <lb n="9"/>
+ 	  Fallow 1/12: Cultivated by the same, wheat: [ ] [ ] [ ] 27 12+1/2 22+1/2 2+1/3+1/12
+		 <lb n="10"/>
+ 	  [            [ ] [ ] [ ] [ ] [ ] 4+1/2 90+1/12(?)
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

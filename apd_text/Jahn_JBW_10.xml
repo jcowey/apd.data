@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="621" xml:id="Jahn_JBW_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106737</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أخبرك <app type="BL"><lem resp="“AK”">يا<supplied reason="omitted" cert="high">أ</supplied>با </lem><rdg resp="“AK”">يأبا</rdg></app> يزيد من خبر يهودا <app type="BL"><lem resp="APD">ختنك </lem><rdg resp="“Levi della Vida, Letters p. 132”">ختني</rdg></app> أنّه وحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـن ما بيني 
+<lb n="3"/>  وبينك من يوم صحبتي إلا يوم فرقتي صائم متعاهد <app type="BL"><lem resp="APD">لضالّته </lem><rdg resp="“Levi della Vida, Letters p. 132”">لصلاته</rdg></app> راغب 
+<lb n="4"/>  في <app type="BL"><lem resp="APD">ا<sic n="superfluous">لـ</sic>ـتّقا </lem><rdg resp="“Levi della Vida, Letters p. 132”">التقاء</rdg></app> <app type="BL"><lem resp="APD">باعص </lem><rdg resp="“Levi della Vida, Letters p. 132”">بوجه </rdg><rdg resp="“Levi della Vida, Letters p. 132”">باحباء</rdg></app> <app type="BL"><lem resp="APD">إليه </lem><rdg resp="“Levi della Vida, Letters p. 132”">اللّه</rdg></app> <app type="BL"><lem resp="APD">أشر </lem><rdg resp="“Levi della Vida, Letters p. 132”">أثير</rdg></app> <del rend="erasure" status="unremarkable">و</del>أهل <app type="BL"><lem resp="APD">أشر </lem><rdg resp="“Levi della Vida, Letters p. 132”">أثير</rdg></app> واللّه ما <app type="BL"><lem resp="APD">يهب </lem><rdg resp="“Levi della Vida, Letters p. 132”">تهب</rdg></app> <app type="BL"><lem resp="APD">أحسبه </lem><rdg resp="“Levi della Vida, Letters p. 132”">احسبه</rdg></app> 
+<lb n="5"/>  على ذلك ولا <app type="BL"><lem resp="APD">بد </lem><rdg resp="“Levi della Vida, Letters p. 132”">بذلك</rdg></app> <app type="BL"><lem resp="APD">بك </lem><rdg resp="“LR”">بك</rdg></app> فالحمد للّه <app type="BL"><lem resp="APD">الّذي </lem><rdg resp="“Levi della Vida, Letters p. 132”">إلّا</rdg></app> <app type="BL"><lem resp="APD">لم </lem><rdg resp="“Levi della Vida, Letters p. 132”">ما</rdg></app> يخلف ظنك 
+<lb n="6"/>  <app type="BL"><lem resp="APD">فاستوصى </lem><rdg resp="APD">فاستوص</rdg></app> به خيرا وأوعده من نفسك خيرا فأنا 
+<lb n="7"/>  أهل كل ما صنع إليه من خير وانظر أمتع اللّه بك إن كان 
+<lb n="8"/>  وقع <app type="BL"><lem resp="APD">ورود </lem><rdg resp="“Levi della Vida, Letters p. 133”">ودود</rdg></app> فأبيع لنا منه بدرهم واحد وخذ <app type="BL"><lem resp="APD">ا<supplied reason="omitted" cert="high">لـ</supplied>ـدرهم </lem><rdg resp="“LR”">ø</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="“LR”">ادرهم</rdg></app> پهودا 
+<lb n="9"/>  واقرأ لنا السّلم على أبي يحيى <app type="BL"><lem resp="APD">العدني </lem><rdg resp="“Levi della Vida, Letters p. 133”">العرينيّ</rdg></app> و<gap reason="illegible" extent="10" unit="character" /> 
+<lb n="10"/>  إن رأيك أن تبعث إلينا بالغلم فعلت فـ<supplied reason="lost" cert="high">ـإ</supplied>نّي إليه محنج 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾuḫbiru ka yā ʾabā yazīda min ḫabari yahūdā ḫatani ḫatan ka ī ʾanna hu waḥ*** min mā bayn ī 
+ <lb n="3"/>wa bayna ka min yawmi ṣuḥbat ī ʾilā yawmi furqat ī ṣāʾim:un mutaʿāhid:un li ḍāllati ṣalāti hi rāġib:un 
+ <lb n="4"/>fī ĭttiqāʾ:in ĭltiqāʾ:in bʾʿṣ bi ø waǧhi ʾaḥibbāʾi ʾilay ăl hi lāhi ʾašarru ʾaṯīru ʾahl:in ʾahl:un ʾašarru ʾaṯīr:in wa ăl lāhi mā tahibu yahibu ʾaḥsubu ŭḥsub hu 
+ <lb n="5"/>ʿalà ʿalay ya ḏālika wa lā budda bi ḏālika la bi ka fa ăl ḥamdu li l lāhi ăllaḏī ʾillā ø mā lam yuḫlif ẓanna ka 
+ <lb n="6"/>fa ʾastawṣī ĭstawṣi bi hi ḫayr:an wa ʾawʿid ʾūʿidu hu min nafsi ka ḫayr:an fa ʾanā 
+ <lb n="7"/>ʾahlu kulli mā ṣuniʿa ʾilay hi min ḫayr:in wa ŭnẓur ʾamtaʿa ăl lāhu bi ka ʾin kāna 
+ <lb n="8"/>waqaʿa wrwd wadūd:un fa ʾabīʿ ʾabīʿu la nā min hu bi dirham:in wāḥid:in wa ḫuḏi 1 ĭd dirham dirhama min yahūdā 
+ <lb n="9"/>wa ĭqraʾ la nā ăs salāma ʿalà ʾabī yaḥyà ăl ʿadaniyyi ʿarīniyyi wa *** 
+ <lb n="10"/>ʾin raʾyu ka ʾan tabʿaṯa ʾilay nā bi ăl ġulāmi faʿalta fa ʾin nī ʾilay hi muḥtāǧ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Ich benachrichtige Dich, oh Abū Yazīd, betreffs Deines Schwagers Yahūdā, daß er [...] von dem, was zwischen mir
+		... my son-in-law is well aware ...
+			<lb n="3"/>
+		... assiduous in his prayer and longs ...
+		und Dir, seit dem Tage, da ich bei Dir weilte, bis zum Tage meiner Trennung, fastend, inständig (zum Gott) flehend
+			<lb n="4"/>
+		(he longs) for the vision of god/the blessed ones. He is noble, and of noble descent. And - by God! - put the money which you will give to Yahūdā on (my account)
+		in Gottesfurcht, sich hinneigend zu ihm; ........ bei Gott, was er geben wird, das werde ich
+			<lb n="5"/>
+		hinzurechnen, und es bleibt Dir kein Ausweg. Gott sei Lob, der Deine Meinung nicht ändern möge,
+		on my account. That&#039;s that. And - God be praised - nothing in it will disappoint you.
+			<lb n="6"/>
+		so werde ich ihn also mit einem Legat bedenken, und ich habe ihm ein Legat Deinerseits versprochen, denn
+		Therefore be kind to him and let him hope for good from you because
+			<lb n="7"/>
+		er verdiente Alles, was ihm (bisher) an Gutem erwiesen wurde, und schon, - Gott lasse Dich leben - wenn es
+		everything good which will be done to him will be as if it were done to me. ... If there happens
+			<lb n="8"/>
+		...... so kaufe ich davon für uns um einen Dirham, und nimm den Dirham von Yahūdā
+		to be (with you) some wadūd, sell us some of it for a dirhem. ...
+			<lb n="9"/>
+		... from al-ʿArīn ...
+		und grüß uns Abū Yaḥyā aus ʿAden, und ...........
+			<lb n="10"/>
+		Sei so gut und schicke uns den Burschen, denn ich benötige ihn.
+		Wenn Du der Meinung bist, daß Du den Burschen zu uns schickst, so mögest Du es tun; denn ich benötige ihn.
+</ab></div>
+</body>
+</text>
+</TEI>

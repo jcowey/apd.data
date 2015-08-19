@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1742" xml:id="Prag_670" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 67</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_670</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169485</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  ثبت رحل إقبال 
+<lb n="recto 3"/>  وذلك 
+<lb n="recto 4"/>  كسى كحل معلّم فراش محشوا 
+<lb n="recto 5"/>  قميص درّاعة صوف خلقة قميص كتّان 
+<lb n="recto 6"/>  طنفسة إزار ومخاد برموز مخدّة بيضا 
+<lb n="recto 7"/>  ثبت رحل <app type="BL"><lem resp="omitted by ed. but see transl."><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">سارى</rdg></app> 
+<lb n="recto 8"/>  كسى معلّم <del rend="erasure" status="unremarkable">اسود</del> ردى أبرم دلى 
+<lb n="recto 10 and 9"/>  قميص كتّان قديم مبطّنة بيضا إزار أبرم 
+<lb n="recto 11"/>  منديل للوجه منديل دبيقي سرابيل 
+<lb n="recto 12"/>  مطرح برموز مخدّة برموز سودا سارپ 
+<lb n="recto 13"/>  سراويل خلق قميص كسى معلّم خلق 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  كسى أزرق خلق <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="verso 2"/>  طنفسة طسيت 
+<lb n="verso 3"/>  منارة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ṯabatu raḥli ʾiqbāl:in 
+ <lb n="3"/>wa ḏālika 
+ <lb n="4"/>kisà kaḥil:un muʿallam:un firāš:un maḥšū 
+ <lb n="5"/>qamīṣ:un durrāʿaẗu ṣūf:in ḫalaqaẗ:un qamīṣu kattān:in 
+ <lb n="6"/>ṭinfisaẗ:un ʾizār:un wa maḫāddu bi rumūz:in miḫaddaẗ:un bayḍāʾu 
+ <lb n="7"/>ṯabatu raḥli *** sʾry 
+ <lb n="8"/>kisà muʿallam:un ridà ʾabramu dilà 
+ <lb n="9"/>qamīṣu kattān:in qadīm:un mubaṭṭinaẗ:un bayḍāʾu ʾizār:un ʾabramu 
+ <lb n="10"/>mandīl:un li l waǧhi mandīl:un dabīqiyy:un sarābīlu 
+ <lb n="11"/>miṭraḥ:un bi rumūz:in miḫaddaẗ:un bi rumūz:in sawdāʾu sʾrB 
+ <lb n="12"/>sarāwīlu ḫalaq:un qamīṣ:un kisà muʿallam:un ḫalaq:un 
+ <lb n="13"/>*** *** *** 
+ <lb n="14"/>kisà ʾazraqu ḫalaq:un ****** 
+ <lb n="15"/>ṭinfisaẗ:un ṭusayt:un 
+ <lb n="16"/>manāraẗ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Liste der Waren des Iqbāl
+			<lb n="3"/>
+		und zwar:
+			<lb n="4"/>
+		Ein gesäumter schwarzer Mantel _ eine gestopfte Matratze
+			<lb n="5"/>
+		ein Hemd _ eine abgetragene Tunika _ ein Linnenhemd
+			<lb n="6"/>
+		ein (grober) Teppich _ ein Schurz und gemustertes (?) Kissen _ ein weißes Kissen
+			<lb n="7"/>
+		Liste der Waren des ............
+			<lb n="8"/>
+		ein gesäumter 〚schwarzer〛 Mantel _ ein gewundener Schal _ Eimer
+		ein gesäumter 〚schwarzer〛 Mantel _ ein gewundener Schal _ Gefäße(?)
+			<lb n="9"/>
+		ein altes Linnenhemd _ weißes Futter _ ein gewundener Schurz
+			<lb n="10"/>
+		Gesichtsschleier _ ein Kopftuch aus Dabīq _ Gewänder
+			<lb n="11"/>
+		eine gemusterte (?) Matratze _ ein schwarz gemustertes (?) Kissen
+			<lb n="12"/>
+		abgetragene Hosen _ ein Hemd _ ein gesäumter abgetragener Mantel
+			<lb n="13"/>
+			<lb n="14"/>
+		ein blauer abgetragener Mantel 〚........〛
+			<lb n="15"/>
+		ein grober Teppich _ ein Täßchen
+			<lb n="16"/>
+		ein Leuchter.
+</ab></div>
+</body>
+</text>
+</TEI>

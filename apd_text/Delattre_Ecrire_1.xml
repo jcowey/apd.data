@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2115" xml:id="Delattre_Ecrire_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DelattreEcrire 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Delattre_Ecrire_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بـ<supplied reason="lost" cert="high">ـسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أكرمك اللّه وأعزّك وأتم نعمته عـ<supplied reason="lost" cert="high">ـليك</supplied> <supplied reason="lost" cert="high">وزاد</supplied> في إحسانه إلـ<supplied reason="lost" cert="high">ـيـ</supplied>ـك 
+<lb n="3"/>  <supplied reason="lost" cert="high">كتـ</supplied>ـا<supplied reason="lost" cert="high">بـ</supplied>ـي إليك أكرمك اللّه عـ<supplied reason="lost" cert="high">ـن</supplied> سلـ<supplied reason="lost" cert="high">ـامة</supplied> <supplied reason="lost" cert="high">والـ</supplied>ـحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـد للّه كـ<supplied reason="lost" cert="high">ـثير</supplied>ا و<supplied reason="lost" cert="high">صل</supplied> <supplied reason="lost" cert="high">إلـ</supplied>ـي 
+<lb n="4"/>  كتابك أكرمك اللّه وسـ<supplied reason="lost" cert="high">ـرّتني</supplied> <supplied reason="lost" cert="high">سلامتك</supplied> <supplied reason="lost" cert="high">وحمد</supplied>ت اللّه على 
+<lb n="5"/>  ذلك 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="address 1"/>  من داود بن إبرهيم <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="address 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu wa ʾaʿazza ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka 
+ <lb n="3"/>kitāb ī ʾilay ka ʾakrama ka ăl lāhu ʿan salāmaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an waṣala ʾilay ya 
+ <lb n="4"/>kitābu ka ʾakrama ka ăl lāhu wa sarrat nī salāmatu ka wa ḥamidtu ăl lāha ʿalà 
+ <lb n="5"/>ḏālika 
+ <lb n="6"/>*** 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>min dāwuda bni ʾibrāhīma ** 
+ <lb n="15"/>*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(en arabe) Au nom de Dieu, le clément, le miséricordieux.
+			<lb n="2"/>
+		Que Dieu t&#039;honore, qu&#039;Il te fortifie et qu&#039;Il accomplisse Sa faveur à ton égard et qu&#039;Il accroisse Sa bienveillance envers toi!
+			<lb n="3"/>
+		Cette lettre que voici - que Dieu t&#039;honore! - pour te dire que je vais bien - louange à Dieu grandement pour cela! Ta lettre m&#039;est parvenue
+			<lb n="4"/>
+		- que Dieu te fortifie! J&#039;ai été fort heureux d&#039;apprendre que tu vas bien et j&#039;ai loué Dieu pour
+			<lb n="5"/>
+		cette raison. (en copte) ...
+			<lb n="14"/>
+		(addrese, en arabe) De la part de Dāwud fils d&#039;Ibrahīm à ...
+			<lb n="15"/>
+</ab></div>
+</body>
+</text>
+</TEI>

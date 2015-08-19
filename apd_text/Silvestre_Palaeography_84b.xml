@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1319" xml:id="Silvestre_Palaeography_84b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SilvestrePalaeography p. 84 (= P.RagibSauf-conduits 5)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Silvestre_Palaeography_84b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169133</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذ</supplied>ا كتب من <app type="BL"><lem resp="APD">جادم </lem><rdg resp="APD">خازم </rdg><rdg resp="APD">جارم </rdg><rdg resp="Rāġib">حازم</rdg></app> مولى أبي موسى <app type="BL"><lem resp="APD">سس </lem><rdg resp="APD">وشبيث </rdg><rdg resp="Rāġib">وشبيب</rdg></app> بن <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">عاملي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">الأمير</rdg></app> 
+<lb n="3"/>  <supplied reason="lost" cert="high">عبـ</supplied>ـد الملك بن يزيد علـى كورة منف لـ<supplied reason="lost" cert="high">ـقلّنـ</supplied>ـيك و<supplied reason="lost" cert="high">نا</supplied>فر أشمط الـلّحيـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="4"/>  <app type="BL"><lem resp="APD">أغثم </lem><rdg resp="Rāġib">جسيم</rdg></app> أبيض بوجـ<supplied reason="lost" cert="high">ـهـ</supplied>ـه خيلان من أهل دير أبي <app type="BL"><lem resp="APD">هرمس </lem><rdg resp="Rāġib">هرميس</rdg></app> من كورة <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">منف</rdg></app> 
+<lb n="5"/>  <supplied reason="lost" cert="high">إنّـ</supplied>ـا أذنّا له <app type="BL"><lem resp="APD">بعمل </lem><rdg resp="Rāġib">يعمل</rdg></app> بالفسطاط في <app type="BL"><lem resp="APD">حـ<supplied reason="lost" cert="high">ـرمه</supplied> </lem><rdg resp="Rāġib">جزيته</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">والتماس</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">معيشته</rdg></app> 
+<lb n="6"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Rāġib">وأجّلناه</rdg></app> إلى انسلخ شهر ربيع <app type="BL"><lem resp="APD">الأوّل </lem><rdg resp="Rāġib">الآخر</rdg></app> سنة <supplied reason="lost" cert="high">ثـ</supplied>ـلث و<supplied reason="lost" cert="high">ثلثـ</supplied>ـين و<supplied reason="lost" cert="high">مـ</supplied>ـا<supplied reason="lost" cert="high">ئة</supplied> 
+<lb n="7"/>  <supplied reason="lost" cert="high">فـمـ</supplied>ـن لقيه من عمّال الأمير أ<supplied reason="lost" cert="high">صـ</supplied>ـلحه اللّه فلا يعرض له إلى ذلـ<supplied reason="lost" cert="high">ـك</supplied> 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">من</rdg></app> الأجل <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">إلّا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Rāġib">بخير</rdg></app> وكتب إ<supplied reason="lost" cert="high">بـ</supplied>ـر<supplied reason="lost" cert="high">هيم</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">في</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">مستهلّ</rdg></app> 
+<lb n="9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">ربيع</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">الأوّل</rdg></app> سنـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">ثـ</supplied>ـلـ<supplied reason="lost" cert="high">ـث</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">وثلثين</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>ما<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Rāġib">ومائه</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min ǧārim:in ḫāzim:in ḥʾdm ḥāzim:in mawlà ʾabī mūsà ss wa ø šubayṯi šabībi bni *** *** ʿāmilay *** ăl ø ʾamīri 
+ <lb n="3"/>ʿabdi ăl maliki bni yazīda ʿalà kūraẗi manfa li qallinīka wanāfira ʾašmaṭi ăl liḥyaẗi 
+ <lb n="4"/>ʾaġṯama ǧasīm:in ʾabyaḍa bi waǧhi hi ḫīlān:un min ʾahli dayri ʾabī harmisa harmīsa min kūraẗi *** manfa 
+ <lb n="5"/>ʾin nā ʾaḏinnā la hu bi ø ʿamal:in yaʿmalu bi ăl fusṭāṭi fī ḥurami ǧizyati hi ø wa *** ĭltimāsi *** maʿīšati ø hi 
+ <lb n="6"/>ø wa *** ʾaǧǧalnā * hu ʾilà ĭnsilāḫi šahri rabīʿa ăl ʾawwali ʾāḫari sanaẗa ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in 
+ <lb n="7"/>fa man laqiya hu min ʿummāli ăl ʾamīri ʾaṣlaḥa hu ăl lāhu fa lā yaʿriḍ la hu ʾilà ḏālika 
+ <lb n="8"/>*** mina ăl ʾaǧali *** ʾillā * bi *** ḫayr:in wa kataba ʾibrāhīmu *** fī *** mustahalli 
+ <lb n="9"/>*** rabīʿa ø ăl *** ʾawwali sanaẗa ṯalāṯ:in ø wa *** ṯalāṯīna wa mʾ** miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de] Dieu, clément et miséricordieux !
+		In the name of the merciful and gracious God.
+			<lb n="2"/>
+		A writing of... the freedman of Abu-Moussa and of... (overseers of)
+		[Ceci] est une lettre de Ḥāẓim client d&#039;Abū Mūsā et de Šabīb b. [..., agents de l&#039;émir]
+			<lb n="3"/>
+		Abd-Almalek, son of Yezyd, in the province of Memphis (for...) a man with a grey beard,
+		[ʿAb]d al-Malik b. Yazīd sur le district de Manf à [Qallin]īk Wanāfir, à la barbe grisonnante,
+			<lb n="4"/>
+		[corpu]lent, blanc, ayant deux grains de beauté au visage, des gens du monastère d&#039;Abū Harmīs du district [de Manf.]
+		having white and black hair, of a pale complexion, with red spots on his person, dwelling at Deyr Abu-Hermes, in the province of ....
+			<lb n="5"/>
+		Nous lui avons permis de travailler à Fusṭāṭ pour sa ca[pitation et gagner sa subsistance]
+		we have permitted him to travel to Fosthath, with his family...
+			<lb n="6"/>
+		et nous lui avons fixé pour délai la fin de rabīʿ II l&#039;année cent trente-trois.
+		... until the end of the month of the first Rebi, in the year 133.
+			<lb n="7"/>
+		[Qui donc] le rencontrera des agents de lémir - que Dieu lui donne probité ! ne devra lui montrer jusqu&#039;à ce
+		The agent of the Emir (whom may God favor), who may meet with this man, must not trouble him in his occupations.
+			<lb n="8"/>
+		... at... written by Ibrahim...
+		délai que du bien: Écrit par Ibrāhīm [le premier jour de la lune de]
+			<lb n="9"/>
+		[rabīʿ] I l&#039;année cent [trente-trois].
+		... the year...
+</ab></div>
+</body>
+</text>
+</TEI>

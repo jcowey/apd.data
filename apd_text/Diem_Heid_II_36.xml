@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1414" xml:id="Diem_Heid_II_36" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 36</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_36</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169203</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أطال اللّه بقاك وأدام عزّك وأتم <unclear reason="undefined" cert="high">نعمتـه</unclear> <supplied reason="lost" cert="high">عليك</supplied> 
+<lb n="recto 3"/>  وزاد في إحسانه إليك وجمع لك خير ا<supplied reason="lost" cert="high">لدّنيا</supplied> 
+<lb n="recto 4"/>  <supplied reason="omitted" cert="high">و</supplied>الآخرة فإنّه ولي ذلك وأعلمك أعزّك اللّه أ<supplied reason="lost" cert="high">نّي</supplied> 
+<lb n="recto 5"/>  سالم فللّه الحمد على ذلك وبعت ا<supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 6"/>  بستّين ونصف القنطار معسولة <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">جواز</unclear> </lem><rdg resp="Diem, P.Vind.Arab. III">جدد</rdg></app> وقمع بـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 7"/>  ونصف الرّطل وأسر به والمخا<unclear reason="undefined" cert="high">دّ</unclear> <supplied reason="lost" cert="high">بـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 8"/>  <app type="BL"><lem resp="APD">معسولة </lem><rdg resp="Rāġib">مغسولة</rdg></app> واشتري <app type="BL"><lem resp="APD"><sic n="superfluous"><unclear reason="undefined" cert="high">بـ</unclear>ـلا<unclear reason="undefined" cert="high">لـ</unclear>ـين</sic><supplied reason="omitted" cert="high">ملاپين</supplied> </lem><rdg resp="UB">بلالين</rdg></app> <sic n="superfluous">القريانيه</sic><supplied reason="omitted" cert="high">القرياتيّة</supplied> و<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 9"/>  ولا تشتري إلّا الجيّد والملفّات الجياد <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 10"/>  بخمس الدّنانير المائة معسولة <unclear reason="undefined" cert="high">فإنّك</unclear> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 11"/>  واكتب <sic n="superfluous">إلپك</sic> إلينا بخبرك وخبر والدتي و<supplied reason="lost" cert="high">خبر</supplied> 
+<lb n="recto 12"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" />ـك </lem><rdg resp="APD">خالك</rdg></app> وخبر الشّيخ بن أبي عمران حفظه <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="recto 13"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">أ</unclear>خي </lem><rdg resp="APD">أخي </rdg><rdg resp="APD">أختي</rdg></app> حمر <app type="BL"><lem resp="APD">تركب </lem><rdg resp="APD">تركب</rdg></app> إلينا من <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="upper left margin 1"/>  والنّوايا <gap reason="illegible" precision="low" extent="3"/>ـپه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="upper left margin 2"/>  وعنـ<unclear reason="undefined" cert="high">ـدي</unclear> <gap reason="illegible" precision="low" extent="3"/> أن الما<unclear reason="undefined" cert="high">يـ</unclear>ـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="upper left margin 3"/>  <unclear reason="undefined" cert="high">و</unclear>ما أصبت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="upper left margin 4"/>  <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa ʾatamma niʿmata hu ʿalay ka 
+ <lb n="3"/>wa zāda fī ʾiḥsāni hi ʾilay ka wa ǧamaʿa la ka ḫayra ăd dunyā 
+ <lb n="4"/>wa ăl ʾāḫiraẗi fa ʾinna hu waliyyu ḏālika wa ʾuʿlimu ka ʾaʿazza ka ăl lāhu ʾan nī 
+ <lb n="5"/>sālim:un fa li l lāhi ăl ḥamdu ʿalà ḏālika wa biʿtu ăl ***** 
+ <lb n="6"/>bi sittīna wa niṣf:ini ăl qinṭāra maʿsūlaẗ:in ǧawāz:in ǧudud:in wa qamʿ bi **** 
+ <lb n="7"/>wa niṣf:ini ăr raṭla wa ʾusarru bi hi wa ăl maḫādda bi **** 
+ <lb n="8"/>maġsūlaẗ:in maʿsūlaẗ:in wa ĭštirī mulāʾatayni balālīna ăl qaryātiyyaẗa wa ***** 
+ <lb n="9"/>wa lā taštarī ʾillā ăl ǧayyida ăl wa milaffāti ăl ǧiyāda ***** 
+ <lb n="10"/>bi ḫamsi ăd danānīra ăl miʾaẗa maʿsūlaẗ:in fa ʾinna ka ***** 
+ <lb n="11"/>wa ŭktub ʾilay nā bi ḫabari ka wa ḫabari wālidat ī wa ḫabari 
+ <lb n="12"/>**** ḫāli ka wa ḫabari ăš šayḫi bni ʾabī ʿimrāna ḥafiẓa hu ăl lāhu 
+ <lb n="13"/>ʾaḫ ʾḥy ʾuḫt ī ø ḥmr  tarkabu yarkabu ʾilay nā min *** 
+ <lb n="14"/>wa ăn nawāyā **Bh *** 
+ <lb n="15"/>wa ʿind ī *** ʾanna ăl miʾaẗa *** 
+ <lb n="16"/>wa mā ʾaṣabtu *** 
+ <lb n="17"/>********** 
+ <lb n="18"/>*** 
+ <lb n="19"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Deine ehrenvolle Stellung andauern, vollende seine Gnade [an Dir],
+			<lb n="3"/>
+		erweise Dir noch mehr sein Wohlwollen und vereinige Dir das Gute [des Diesseits]
+			<lb n="4"/>
+		&lt;und&gt; des Jenseits, denn er ist dazu imstande. Ich teile Dir mit - Gott stärke Dich -, daß [ich]
+			<lb n="5"/>
+		wohlbehalten bin; Gott sei dafür Preis! Ich verkaufte [...]
+			<lb n="6"/>
+		um sechzigeinhalb richtig gezählte gültige (Dinare) den Zentner und die Fruchthüllen [um ...]
+			<lb n="7"/>
+		und einen halben (Dinar) das Pfund, und ich freue mich darüber, und (ich verkaufte ferner) die Kopfkissen (?) [um ...]
+			<lb n="8"/>
+		richtig gezählte (Dinare). Kaufe ein dörfliches und ein [...] Umschlagtuch (?),
+			<lb n="9"/>
+		und kaufe nur vorzügliche Ware, und (kaufe) vorzügliche Einwickeltücher [...]
+			<lb n="10"/>
+		um fünf richtig gezählte Dinare das Hundert, denn Du (?) [... .]
+			<lb n="11"/>
+		Gib uns brieflich Nachricht über Dich, Nachricht über meine Mutter, [Nachricht]
+			<lb n="12"/>
+		über Deinen - - - und Nachricht über den Šayḫ Ibn Abī ʿImrān - [Gott] beschütze ihn!
+			<lb n="13"/>
+		- - - reitet zu uns (?) von (?) [
+			<lb n="14"/>
+		und die Absichten - - - [
+			<lb n="15"/>
+		- - - daß die hundert (?)
+			<lb n="16"/>
+		und ich habe nicht erreicht [
+			<lb n="17"/>
+</ab></div>
+</body>
+</text>
+</TEI>

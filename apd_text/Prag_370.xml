@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1680" xml:id="Prag_370" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 37</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_370</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169430</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮بسم اللّه الرّحمن الرّحيم بيدي يوم الاثنين لسبعة بقين من <supplied reason="lost" cert="high">ذي</supplied> <supplied reason="lost" cert="high">الحجّة</supplied> <app type="BL"><lem resp="APD">تنو<supplied reason="lost" cert="high">ص</supplied> </lem><rdg resp="APD">تنوص</rdg></app> العصّار ورق ‪εʹ 
+<lb n="2 right"/>  ‮مبلغ 
+<lb n="3 right"/>  ما قبضه كركوا الغلام من القطعة وهو الورق 
+<lb n="4 right"/>  منه 
+<lb n="3 center"/>  بندلـ<supplied reason="lost" cert="high">ـوس</supplied> <supplied reason="lost" cert="high">يوم</supplied> الخميس 
+<lb n="5 center"/>  <supplied reason="lost" cert="high">لتسعة</supplied> <supplied reason="lost" cert="high">بقين</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذي</supplied> <supplied reason="lost" cert="high">الحجّـ</supplied>ـة 
+<lb n="2 left"/>  ‮سنوش وبشا البلجسوقي ورق ‪εʹ 
+<lb n="3 left"/>  ‮بلو البلجسوقي ورق ‪αχ 
+<lb n="5"/>  ‮حميد بيّاع أهناس وأصحابه ورق ‮‪ιζχ‬ كركوا الغسّال ورق ‪δχ 
+<lb n="6"/>  ‮حسنون بيّاع أهناس ورق ‮‪καχ‬ ‪<gap reason="illegible" precision="low" extent="3"/>‬ <gap reason="illegible" precision="low" extent="3"/> قوريل القرموسي ورق ‪βδʹ 
+<lb n="7"/>  ‮شعبان البلجسوقي ورق <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـصـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">وربع</supplied> قلتة بن أبو نش ورق ‪δχ 
+<lb n="8"/>  ‮حسنون بيّاع أهناس ورق <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">بسـ</supplied>ـاوة نصف وربع بشوشة الأجير ورق ‪δχ 
+<lb n="9"/>  ‮ثيدر بيّاع أطفيح ورق <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">سـ</supplied>ـرور خمسـ<supplied reason="lost" cert="high">ـ</supplied>ـة وربع <app type="BL"><lem resp="APD">عناد </lem><rdg resp="APD">عباد </rdg><rdg resp="APD">عناد </rdg><rdg resp="APD">عيّاد </rdg><rdg resp="APD">عياذ</rdg></app> بيّاع دشطوط ‪βχ 
+<lb n="10"/>  ‮قفرى سني ورق ‮‪<gap reason="illegible" extent="1" unit="character" />χ‬ <gap reason="illegible" extent="2" unit="character" /><unclear reason="undefined" cert="high">پمپى</unclear> إبرهيم بيّاع صربو و<supplied reason="lost" cert="high">ر</supplied>ق ‪ϛδʹ 
+<lb n="11"/>  ‮بقطر الغسّال ورق ‮‪<gap reason="illegible" extent="1" unit="character" />χ‬ <gap reason="illegible" precision="low" extent="3"/> مهـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ثلثي بيد أقليطة الخولي 
+<lb n="12"/>  ‮إصطفن الشّمّاس البلجسوقي ورق ‮‪<gap reason="illegible" extent="1" unit="character" />κʹδʹ‬ <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه 
+<lb n="13"/>  ‮هميسة الطّحّان <supplied reason="lost" cert="high">ور</supplied>ق ϛ إسطورس موسى ‪<supplied reason="lost" cert="high">ϛ‪</supplied>χ‬ 
+<lb n="14"/>  ‪‮سمويل الحاجب ورق ‮‪αδʹ‬ دري بن إسطورس ‪γγʹ 
+<lb n="15"/>  ‮دنائيل الخيّاط القيمن الصّائغ ‮‪βδʹ‬ مختار الطّوّاب ‪βδʹ 
+<lb n="16"/>  ‮هميسة بن الطّويل ورق ‮γ خيرون ‪δχ 
+<lb n="17"/>  ‮القاضي ورق ‮ε ثيدر الجبّان γ 
+<lb n="18"/>  ‮بشوشة الأجير ورق ‮γ تيتي وثيدر بن جرجة ‪αδʹ 
+<lb n="19"/>  ‮محمّد بن أبو طيب ورق ‮‪ϛχ‬ أبو الحر بيّاع بلجسوق عين ‮α سمويل القسّيس ‪βδʹ 
+<lb n="20"/>  ‮ثيدر العرج ورق ‮‪δχ‬ <app type="BL"><lem resp="APD">جماد </lem><rdg resp="APD">جماد</rdg></app> الأهناسي عين ‮α بقطر النّجّار ‪βδʹ 
+<lb n="21"/>  ‮منصور الرّاجل ورق ‮‪δχ‬ أبو الحر البيّاع <gap reason="illegible" precision="low" extent="3"/> θ 
+<lb n="22"/>  ‮أبطورس جرجة ورق ‮‪βδʹ‬ <supplied reason="lost" cert="high">پـ</supplied>ـهـ<gap reason="illegible" extent="2" unit="character" /> الهـ<supplied reason="lost" cert="high">ـجّـ</supplied>ـا<supplied reason="lost" cert="high">ن</supplied> ‪βχ 
+<lb n="23"/>  ‮بهيف بن <app type="BL"><lem resp="APD">موية </lem><rdg resp="APD">موية</rdg></app> ورق ‮γ <app type="BL"><lem resp="APD">مونة </lem><rdg resp="APD">موية</rdg></app> ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـلع</unclear> ‪βδʹ 
+<lb n="22 center"/>  مبلـ<supplied reason="lost" cert="high">ـغ</supplied> 
+<lb n="23 center"/>  <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">قـ</supplied>ـبضه النّقّا<supplied reason="lost" cert="high">ش</supplied> بن النّظّـ<supplied reason="lost" cert="high">ـام</supplied> 
+<lb n="24"/>  ‮شبيب البلجسوقي ورق ‮‪δχ‬ <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">قلّو</supplied>ص </lem><rdg resp="APD">فلوص </rdg><rdg resp="APD">قلوص </rdg><rdg resp="APD">فلّوص</rdg></app> حبيب بـ<supplied reason="lost" cert="high">ـن</supplied> عبد اللّه <gap reason="illegible" precision="low" extent="3"/> ‪αχ 
+<lb n="25"/>  ‮أبليدة بن مينا الشّـ<supplied reason="lost" cert="high">ـمّـ</supplied>ـاس و<supplied reason="lost" cert="high">ر</supplied>ق ‮α <supplied reason="lost" cert="high">إبر</supplied>هـ<supplied reason="lost" cert="high">ـيم</supplied> الرّاجـ<supplied reason="lost" cert="high">ـل</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="26"/>  ‮حروفة بن المشّاط ورق ‮α شارك بن الپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـه ونـ<supplied reason="lost" cert="high">ـصيـ</supplied>ـر 
+<lb n="27"/>  ‮جرجة النّوبي ورق ‮α يحنّس <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـدل وبشوشة حبيش 
+<lb n="28"/>  سـ<supplied reason="lost" cert="high">ـمـ</supplied>ـو<supplied reason="lost" cert="high">يل</supplied> الأ<supplied reason="lost" cert="high">جير</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi bi yad ī yawma ăl ĭṯnayni li sabʿaẗ:in baqīna min ḏī ăl ḥiǧǧaẗi batūṣu tanūṣu ăl ʿaṣṣāru waraq 5 
+ <lb n="2"/>mablaġu 
+ <lb n="3"/>mā qabaḍa hu karakū ăl ġulāmu mina ăl qiṭʿaẗi wa huwa ăl waraqu 
+ <lb n="4"/>min hu 
+ <lb n="5"/>bandalūsu yawma ăl ḫamīsi 
+ <lb n="6"/>li tisʿaẗ:in baqīna min ḏī ăl ḥiǧǧaẗi 
+ <lb n="7"/>sanūšu wa bišā ăl bulǧusūqiyyu waraq 5 
+ <lb n="8"/>balū ăl bulǧusūqiyyu waraq 1+1/2 
+ <lb n="9"/>ḥamīd:un ḥumayd:un bayyāʿu ʾahnāsa wa ʾaṣḥābu hu waraq 17+1/2 karakū ăl ġassālu waraq 4+1/2 
+ <lb n="10"/>ḥasnūnu bayyāʿu ʾahnāsa waraq 21+1/2 *** *** qūrīlu ăl qiramūsiyyu waraq 2+1/4 
+ <lb n="11"/>šaʿbānu ăl bulǧusūqiyyu waraq ** ***ṣ* wa rubʿ:un qultaẗu bnu ʾabū našš:in waraq 4+1/2 
+ <lb n="12"/>ḥasnūnu bayyāʿu ʾahnāsa waraq ** bisāwaẗu niṣf:un wa rubʿ:un bašūšaẗu ăl ʾaǧīru waraq 4+1/2 
+ <lb n="13"/>ṯiyuduru bayyāʿu ʾaṭfīḥa waraq ** surūr:un ḫamsaẗ:un wa rubʿ:un ʿabbād:un ʿanādu ʿayāḏu ʿayyād:un ʿibād:un ʿubādu bayyāʿu dašṭūṭa 2+1/2 
+ <lb n="14"/>qufrà sanī waraq *+1/2 **Bmnī ʾibrāhīmu bayyāʿu ṣarabū waraq 6+1/4 
+ <lb n="15"/>buqṭuru ăl ġassālu waraq *+1/2 *** mah*** ṯulṯay bi yadi ʾaqlīṭaẗa ăl ḫawliyyi 
+ <lb n="16"/>ʾiṣṭafanu ăš šammāsu ăl bulǧusūqiyyu waraq **+1/24 ***h 
+ <lb n="17"/>humīsaẗu ăṭ ṭaḥḥānu waraq 6 ʾisiṭūrusu mūsà 6+1/2 
+ <lb n="18"/>samawīlu ăl ḥāǧibu waraq 1+1/4 darī bnu ʾisiṭūrusa 3+1/3 
+ <lb n="19"/>danāʾīlu ăl ḫayyāṭu ăl qīmanu ăṣ ṣāʾiġu 2+1/4 muḫtār:unu ăṭ ṭawwābu 2+1/4 
+ <lb n="20"/>humīsaẗu bnu ăṭ ṭawīli waraq 3 ḫayrūna 4+1/2 
+ <lb n="21"/>ăl qāḍī waraq 5 ṯiyuduru ăl ǧabbānu 3 
+ <lb n="22"/>bašūšaẗu ăl ʾaǧīru waraq 3 taytī wa ṯiyuduru bnu ǧirǧaẗa 1+1/4 
+ <lb n="23"/>muḥammadu bnu ʾabū ṭīb:in waraq 6+1/2 ʾabū ăl ḥurri bayyāʿu bulǧusūqa ʿayn 1 samawīlu ăl qissīsu 2+1/4 
+ <lb n="24"/>ṯiyuduru ăl ʿrǧ waraq 4+1/2 ḥammād:unu ǧimād:unu ăl ʾahnāsiyyu ʿayn 1 buqṭuru ăn naǧǧāru 2+1/4 
+ <lb n="25"/>manṣūr:unu ăr rāǧilu waraq 4+1/2 ʾabū ăl ḥurri ăl bayyāʿu *** 9 
+ <lb n="26"/>ʾabṭawrusu ǧirǧaẗa waraq 2+1/4 Bh** ăl haǧǧānu 2+1/2 
+ <lb n="27"/>bahīfu bnu mūnaẗa muwayaẗa waraq 3 mūnaẗu muwayaẗu ʾ*** **lʿ 2+1/4 
+ <lb n="28"/>mablaġu 
+ <lb n="29"/>mā qabaḍa hu ăn naqqāšu bnu ăn naẓẓāmi 
+ <lb n="30"/>šabību ăl bulǧusūqiyyu waraq 4+1/2 falūṣu filūṣu fullūṣu qalūṣu qullūṣu ḥabību bnu ʿabdi ăl lāhi *** 1+1/2 
+ <lb n="31"/>ʾablīdaẗu bnu mīnā ăš šammāsu waraq 1 ʾibrāhīmu ăr rāǧilu **** 
+ <lb n="32"/>ḥurūfaẗu bnu ăl maššāṭi waraq 1 šāriku bnu ăl B**h wa naṣīr:un nuṣayr:un 
+ <lb n="33"/>ǧirǧaẗu ăn nūbiyyu waraq 1 yuḥannisu **dl wa bašūšaẗu ḥubayš:in 
+ <lb n="34"/>samawīlu ăl ʾaǧīru *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen! Durch mich am Montag, als sieben (Nächte) übrig waren vom Ḏu&#039;l-Ḥiǧǧa _ Batūṣ, der Ölpresser, Silbergeld 5
+			<lb n="2"/>
+		Gesamtbetrag dessen,
+			<lb n="3"/>
+		was der Diener Karakū an Münzteilstücken, d.h. Silbergeld in Zahlung genommen hat.
+			<lb n="4"/>
+		Hierzu gehört:
+			<lb n="5"/>
+		Bandal[ūs ...] Donners[tag]
+			<lb n="6"/>
+		als neun [(Nächte) übrig waren vom Ḏu&#039; l-Ḥiǧǧ]a.
+			<lb n="7"/>
+		Sanōš u. Bšā aus Bulǧusūq, Silbergeld 5
+			<lb n="8"/>
+		Balō aus Bulǧusūq, Silbergeld 1 1/2
+			<lb n="9"/>
+		Ḥumaid, der Händler von Ahnās, und seine Gefährten, Silbergeld 17 1/2 _ Karakū, der Wäscher, Silbergeld 4 1/2
+			<lb n="10"/>
+		Ḥasnūn, der Händler von Ahnās, Silbergeld 21 1/2 ........[...] Cyrill, der Töpfer, Silbergeld 2 1/4
+			<lb n="11"/>
+		Šaʿbān aus Bulǧusūq, Silbergeld [...] [...] .... [...] ... und ein Viertel Qolte b. Abū Našš, Silbergeld 4 1/2
+			<lb n="12"/>
+		Ḥasnūn, der Händler von Aṭfīḥ, Silbergeld [..] [Bs]āwa, ein halb und ein Viertel _ Bešōše, der Taglöhner, Silbergeld 4 1/2
+			<lb n="13"/>
+		Theodor, der Händler von Aṭfīḥ, Silbergeld [..] [Su]rūr fünf und ein Viertel _ ʿAbbād, der Händler von Dašṭūṭ 2 1/2
+			<lb n="14"/>
+		Qufrā Sanī _ Silbergeld [..]1/2 [...]mnī(?) _ Ibrahīm, der Händler von Sarabū, Silbergeld 6 1/4
+			<lb n="15"/>
+		Boqṭor, der Wäscher, Silbergeld [..]1/2 [...]..... Mah[......] zwei Drittel durch den Gärtner Aqlīte.
+			<lb n="16"/>
+		Stephan, d. Diakon aus Bulǧusūq, Silbergeld [..]1/24 [.......h
+			<lb n="17"/>
+		Homīse, der Müller, [Silber]geld 6 Isiṭōros Mūsā 6 1/2
+			<lb n="18"/>
+		Samawīl, der Türwart, Silbergeld 1 1/4 _ Darī b. Isiṭōros 3 1/3
+			<lb n="19"/>
+		Danāʾīl, d. Schneider, Alqīman, d. Goldschmied, 2 1/4 _ Muḫtār, der Ziegelbrenner, 2 1/4
+			<lb n="20"/>
+		Homīse b. aṭ-Ṭawīl, Silbergeld 3 _ Ḫairūn 4 1/2
+			<lb n="21"/>
+		der Richter Silbergeld 5 _ Theodor, der Käsehändler, 3
+			<lb n="22"/>
+		Bešōše, der Taglöhner, Silbergeld 3 _ Taitī und Theodor Ǧirǧe 1 1/4
+			<lb n="23"/>
+		Muḥammad b. Abu&#039;ṭ-Ṭīb, Silbergeld 6 1/2 Abu&#039;l-Ḥurr, der Händler von Bulǧusūq, Goldgeld 1 Samawīl, der Priester, 2 1/4
+			<lb n="24"/>
+		Theodor, der Heitere, Silbergeld 4 1/2 Ḥammad aus Ahnās, Goldgeld 1 _ Boqṭor, der Tischler, 2 1/4
+			<lb n="25"/>
+		Manṣūr, der Eilbote, Silbergeld 4 1/2 Abu&#039;l-Ḥurr, der Händler [...]9
+			<lb n="26"/>
+		Abṭauros Ǧirǧe, Silbergeld 2 1/4 [Bi]h...., der Dromedarreiter 2 1/2
+			<lb n="27"/>
+		Bahīf b. Mōne, Silbergeld 3 _ _ Mōne ..[....].... 2 1/4
+			<lb n="28"/>
+		Gesamtbetr[ag] dessen,
+			<lb n="29"/>
+		was an-Naqqā[š] b. an-Naẓẓ[ām .......] in Zahlung genommen hat.
+			<lb n="30"/>
+		Šabīb aus Bulǧusūq, Silbergeld 4 1/2 [Qollō]ṣ Ḥabīb b[en] ʿAbdallāh [...]... 1 1/2
+			<lb n="31"/>
+		Ablīde b. Mīnā, der Di[ak]on, Si[lber]geld 1 _ [Ibra]īm, der Eilb[ote, ]....[...]
+			<lb n="32"/>
+		Ḥrūfe b. al-Maššāṭ, Silbergeld 1 _ Šarīk b. Al..[...]e und Nu[ṣai]r
+			<lb n="33"/>
+		Ǧirǧe, der Nubier, Silbergeld 1 _  Joḥannes [...]..dal und Bešōše Ḥubayš
+			<lb n="34"/>
+		Sa[ma]w[īl], der Ta[gl]öh[ner,
+</ab></div>
+</body>
+</text>
+</TEI>

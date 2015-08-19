@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1842" xml:id="Prag_940" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 94</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_940</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169579</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="recto 2"/>  حفظك اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  كتبت إليك كتابي <supplied reason="lost" cert="high">هذا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  عن أبي العبّاس أبقاه <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  قد بعثت إليك حفظك اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD">ڤلپ </lem><rdg resp="Diem">فكتب</rdg></app> <app type="BL"><lem resp="APD">ڤپدا </lem><rdg resp="Diem">قنداق</rdg></app> <app type="BL"><lem resp="APD">ور </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">أمرني </lem><rdg resp="Diem">وأمرني</rdg></app> بتعجـ<supplied reason="lost" cert="high">ـيل</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  ثلث أيّام في دپپپوه ورحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <app type="BL"><lem resp="APD">أفصّل </lem><rdg resp="Diem">أتّصل </rdg><rdg resp="Diem">اتّصل</rdg></app> إليك وإلى سعيد بن ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  رفعتها من المساحة رڤعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  أحدهما في الطّبل والآخر فـ<supplied reason="lost" cert="high">ـي</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="address (verso)"/>  برد بن شاكر الخليفة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu *** 
+ <lb n="3"/>katabtu ʾilay ka kitāb ī hāḏā *** 
+ <lb n="4"/>ʿan ʾabī ăl ʿabbāsi ʾabqā hu ăl lāhu *** 
+ <lb n="5"/>qad baʿaṯtu ʾilay ka ḥafiẓa ka ăl lāhu *** 
+ <lb n="6"/>FlB fa ø kataba FBdʾ qundāq wr ø ø wa ʾamara nī bi taʿǧīli *** *** 
+ <lb n="7"/>ṯalāṯ ʾayyām:in fī dBBBwh wa rḥ** *** 
+ <lb n="8"/>ʾufaṣṣilu ʾattaṣilu ĭttaṣala ʾilay ka wa ʾilà saʿīdi bni ʾ*** 
+ <lb n="9"/>rafaʿtu hā mina ăl misāḥaẗi rFʿ** *** 
+ <lb n="10"/>ʾaḥadu humā fī ăṭ ṭabli wa ăl ʾāḫaru fī *** *** 
+ <lb n="11"/>ʾ*** *** 
+ <lb n="12"/>bardu bnu šākir:ini ăl ḫalīfaẗu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen [Gottes, des Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		Gott behüte Dich [
+			<lb n="3"/>
+		Ich habe an Dich [diesen] meinen Brief geschrieben [...]
+			<lb n="4"/>
+		von Abuʾl-ʿAbbās - [Gott] erhalte ihn - [
+			<lb n="5"/>
+		Schon habe ich an Dich  - Gott behüte Dich - geschickt [...]
+			<lb n="6"/>
+		............... hat mir die beschleunigte Einsendung aufgetragen [...]
+			<lb n="7"/>
+		drei Tage(n) in D...... und .... [...]
+			<lb n="8"/>
+		ich (dies) Dir genau auseinandersetze und dem Saʿīd b. A[...]
+		ich komme bei Dir an / er / es kam bei Dir an...
+			<lb n="9"/>
+		die ich von der Vermessung vorgelegt habe ........ [...]
+			<lb n="10"/>
+		eine von beiden im Steuerkataster und die andere im [...]
+			<lb n="11"/>
+			<lb n="12"/>
+		Bard b. Šākir, der Stellvertreter.
+</ab></div>
+</body>
+</text>
+</TEI>

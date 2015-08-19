@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="923" xml:id="Guo_Quseir_49" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 49</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_49</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113681</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <sic n="superfluous">الحاملپن</sic>	<supplied reason="omitted" cert="high">الكاملپن</supplied> دقاق وسعپر 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">الـ</supplied>ـكپل عپها پلاپه احمال وپصف 
+<lb n="recto 3"/>  البدل عنها أحد <app type="BL"><lem resp="APD">عشر </lem><rdg resp="“EG”">اعشر</rdg></app> إردب 
+<lb n="recto 4"/>  <app type="BL"><lem resp="APD">وسپپن </lem><rdg resp="APD">أو</rdg></app> <app type="BL"><lem resp="APD">ورپع </lem><rdg resp="APD">ستّين</rdg></app> ويپه 
+<lb n="recto 5"/>  <unclear reason="undefined" cert="high">خمس</unclear> <unclear reason="undefined" cert="high">وتسعين</unclear> <unclear reason="undefined" cert="high">بطّة</unclear> 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">سو</supplied>په <supplied reason="lost" cert="high">سو</supplied>په اپوا مڤرح 
+<lb n="verso"/>  نقص تلاته <sic n="superfluous">أرداپ</sic><supplied reason="omitted" cert="high">ارادب</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ăl kāmilayni diqāq duqāq wa šaʿīr 
+ <lb n="2"/>ăl kaylu ʿan hā ṯalāṯaẗu ʾaḥmāl:in wa niṣf:un 
+ <lb n="3"/>ăl badalu ʿan hā ʾaḥada ʿašara ĭʿšara ʾirdabb 
+ <lb n="4"/>ø ʾaw wa ø sittīna wa rubʿu waybaẗ:in 
+ <lb n="5"/>ḫams:un wa tisʿīna baṭṭaẗ:an 
+ <lb n="6"/>ʾilà šūnaẗi ʾabū mufarriǧ:in 
+ <lb n="7"/>naqṣ:un talātaẗu ʾarādiba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[.....] two full [loads?] of flour and barley,
+			<lb n="2"/>
+		[I have dispatched] three and a half ḥimls [of grain], 
+		in three and a half ḥimls,
+			<lb n="3"/>
+		which equal (badal ʿanhā) eleven irdabbs 
+		which weigh eleven irdabbs,
+			<lb n="4"/>
+		[or] sixty and a quarter waybas.
+		or sixty and a quarter waybas,
+			<lb n="5"/>
+		in ninety-five baṭṭa containers.
+			<lb n="6"/>
+		To Abū Mufarrij&#039;s warehouse.
+			<lb n="7"/>
+		Balance: three irdabbs.
+</ab></div>
+</body>
+</text>
+</TEI>

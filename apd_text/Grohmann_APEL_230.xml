@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1984" xml:id="Grohmann_APEL_230" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 230</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_230</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169716</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الأوسـ<supplied reason="lost" cert="high">ـ</supplied>ـيّة قمح ÷ ÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  قمح ÷÷ <gap reason="illegible" extent="2" unit="character" /> ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  قمح ÷÷ ÷÷÷ ÷÷ ÷<supplied reason="lost" cert="high">÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  يباغ الأجير قمح ÷÷÷ ÷÷÷ ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  بنوبه الأجير قمح ÷÷ ÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  دمونه بهيوه من أبي مقران خردل <unclear reason="undefined" cert="high">÷÷</unclear> <unclear reason="undefined" cert="high">÷</unclear><gap reason="illegible" extent="2" unit="character" /> ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  بقام الأجير من <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ʾūsiyyaẗu qamḥ:un 6 5 21 *** 
+ <lb n="2"/>qamḥ:un 26 ** 12 *** 
+ <lb n="3"/>qamḥ:un 10 1/2 14 1/2 29 28 *** 
+ <lb n="4"/>yubāġu ăl ʾaǧīru qamḥ:un 16 1/2 14 1/2 21 6 1/2 *** 
+ <lb n="5"/>banūbahu ăl ʾaǧīru qamḥ:un 12 8 1/2 2 *** 
+ <lb n="6"/>damūnahu bihyūha min ʾabī miqrāna ḫardal:un 15 **1/48 8 1/2 *** 
+ <lb n="7"/>baqāmu ăl ʾaǧīru min **** **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The est[a]te. wheat: 6  5  21  [
+			<lb n="2"/>
+		wheat: 26  ,,  12  .[
+			<lb n="3"/>
+		wheat: 10 1/2  14 1/2  29 [2]8 [
+			<lb n="4"/>
+		Yubâġ, the journeyman, wheat: 16 1/2  14 1/2  21  6 1/2 [
+			<lb n="5"/>
+		Banûbe, the journeyman, wheat: 12  8 1/2  2 [
+			<lb n="6"/>
+		Damûne Baheu from Abû Miqrân, charlock: 15 [.]1/48  8 1/2[
+			<lb n="7"/>
+		Pqâm, the journeyman, from [...].[
+</ab></div>
+</body>
+</text>
+</TEI>

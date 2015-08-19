@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2076" xml:id="Frantz-MurphyContracts020" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyContracts 2</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz-MurphyContracts020</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> لخراج سنة إحدى وستّين ومائتين المنسوبة على التّأريج <supplied reason="lost" cert="high">لـ</supplied>ـخراج 
+ <lb n="3"/>  سنة اثنتين وستّين وعلى أن هولى النّفر المسمّون في هذا الكتب هم على أن هذه 
+ <lb n="4"/>  الضّيعة المعروفة بدمشا شهد على ذلك وكفا باللّه شهيدا 
+ <lb n="5"/>  وقد قبّلتكم هذه الضّيعة على الّذي <unclear reason="undefined" cert="high">فار</unclear> فليس عليكم عمارة وكتب 
+ <lb n="6"/>  في ذي القعدة لخراج سنة إحدا وستّين ومائتين 
+ <lb n="left lower corner 1"/>  يوسف ابن محمّد ويوسف بن أحمد بن محمّد فدّان ÷ 
+ <lb n="left lower corner 2"/>  محمّد بن علي بن أبي تميم فدّان ÷÷ 
+ <lb n="right margin 1"/>  أحمد بن محمّد يوسف بن يعقب ÷÷ 
+ <lb n="right margin 2"/>  صالح بن جعفر دينر ÷÷ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** *** *** 
+ <lb n="2"/>*** li ḫarāǧi sanaẗi ʾiḥdà wa sittīna wa miʾatayni ăl mansūbaẗi ʿalà ăt taʾrīǧi li ḫarāǧi 
+ <lb n="3"/>sanaẗi ĭṯnatayni wa sittīna wa ʿalà ʾanna hāʾulà ăn nafara ăl musammawna fī hāḏā ăl kitābi hum ʿalà ʾanna hāḏihi 
+ <lb n="4"/>ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi damšā šuhida ʿalà ḏālika wa kafā bi ăl lāhi šahīd:an 
+ <lb n="5"/>wa qad qabbaltu kum hāḏihi ăḍ ḍayʿaẗa ʿalà ăllaḏī fʾr fa laysa ʿalay kum ʿamāraẗ:un wa kutiba 
+ <lb n="6"/>fī ḏī ăl qaʿdaẗi li ḫarāǧi sanaẗi ʾiḥdā wa sittīna wa miʾatayni 
+ <lb n="7"/>yūsufu ĭbnu muḥammad:in wa yūsufu bnu ʾaḥmada bni muḥammad:in faddān 3 
+ <lb n="8"/>muḥammadu bnu ʿaliyyi bni ʾabī tamīm:in faddān 1+1/3 
+ <lb n="9"/>ʾaḥmadu bnu muḥammad:in yūsufu bnu yaʿquba 18 
+ <lb n="10"/>ṣāliḥu bnu ǧaʿfara dīnār 18 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="2"/>
+ 	  [8 letters] for the tax of the year 261 ascribed to the difference for the tax
+		 <lb n="3"/>
+ 	  of the year 62 provided that these persons named in this document and are still on this
+		 <lb n="4"/>
+ 	  estate known as Damshā. And witness was given to that. God suffice as a witness.
+		 <lb n="5"/>
+ 	  And I contracted this estate to those (...) and they are not responsible for the assessment. It was written
+		 <lb n="6"/>
+ 	  at the end of the month of dhū al-qaʿda for the year 261.
+		 <lb n="7"/>
+ 	  [names following in another hand and probably from another document.] Yūsuf ibn Muḥammad and Yūsuf ibn Aḥmad faddān 3
+		 <lb n="8"/>
+ 	  Muḥammad and ʿAlī ibn Abī Tamīm faddān 1 1/3
+		 <lb n="9"/>
+ 	  Aḥmad ibn Muḥammad, Yūsuf ibn Yaʿqūb faddān 10 1/8
+		 <lb n="10"/>
+ 	  Ṣāliḥ ibn Jaʿfar dinar 10 1/8
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

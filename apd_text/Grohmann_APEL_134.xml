@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="345" xml:id="Grohmann_APEL_134" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 134</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_134</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106576</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> الثّمـ</supplied>ـن <supplied reason="lost" cert="high">ا</supplied>لمذكورة في هذا الكتاب وكتب بخطّه في تأريخه 
+<lb n="3"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپه قبض من محمّد <supplied reason="lost" cert="high">بن</supplied> طاهر بن عبد الرّزّاق دينارين وسبع عشر قيراطا 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> من ما<supplied reason="lost" cert="high">ل</supplied> النّخل وأبرأه منها براه قبض واستيفا ولم يبق له 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> وكتب في شهر شعبان <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">سـ</supplied>ـنة <sic n="superfluous">من</sic> <sic n="superfluous">سپة</sic> ثلث وخمسين وثلثمائة 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> على إقرار فاتك الجندي الأخرم بجميع ما نص في هذا الكتاب 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> شعبا</supplied>ن من سنـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">ثـ</supplied>ـلـ<supplied reason="lost" cert="high">ـث</supplied> <supplied reason="lost" cert="high">و</supplied>خمسين وثلثمائة 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> جعفر <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـان على إقرار فاتك الجندي الأخرم 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> وكتب شهادته ليومين من شعبان سنة ثلاث 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> على إ</supplied>قرار فاتك الجند<supplied reason="lost" cert="high">يّ</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">و</supplied>خمسين وثلاث مائة 
+<lb n="11"/><supplied reason="lost" cert="high">  وكتب شهدته بـ</supplied>ـخطّه في تأ<supplied reason="lost" cert="high">ريخـ</supplied>ـه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ******** 
+ <lb n="2"/>*** ăṯ ṯaman ăl maḏkūraẗ fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="3"/>**Bh qabaḍa min muḥammadi bni ṭāhiri bni ʿabdi ăr razzāqi dīnārayni wa sabʿa ʿašara qīrāṭ:an 
+ <lb n="4"/>*** ** min māli ăn naḫli wa ʾabraʾa hu min hā barāʾaẗ:an qabaḍa wa ĭstayfā wa lam yabqa la hu 
+ <lb n="5"/>*** wa kataba fī šahri šaʿbāna min sanaẗi ṯalāṯ:in wa ḫamsīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="6"/>*** ʿalà ʾiqrāri fātik:ini ăl ǧundiyyi ăl ʾaḫrami bi ǧamīʿi mā nuṣṣa fī hāḏā ăl kitābi 
+ <lb n="7"/>*** šaʿbāna min sanaẗi ṯalāṯ:in wa ḫamsīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="8"/>*** ǧaʿfar bn ***ʾn ʿalà ʾiqrāri fātik:ini ăl ǧundiyyi ăl ʾaḫrami 
+ <lb n="9"/>*** wa kataba šahādata hu li yawmayni min šaʿbāna sanaẗa ṯalāṯ:in 
+ <lb n="10"/>*** ʿalà ʾiqrāri fātik:ini ăl ǧundiyyi **** wa ḫamsīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="11"/>wa kataba šahādata hu bi ḫaṭṭi hi fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		.... the pri]ce mentioned in this deed, and he has written (it) in his (own) handwriting on its date.
+			<lb n="3"/>
+		] .. has taken over from Muḥammad [b.] Ṭâhir b. ʿAbd ar-Razzâq two dînârs and seventeen carats
+			<lb n="4"/>
+		] ... of the ren[t ?] of the date palms and he has given him a quittance for it by means of a receipt (acknowledging that he has) received (it) and taken (it) over fully, and there does not remain to his credit [
+			<lb n="5"/>
+		], and he has written (it) in the month of Šaʿbân [o]f the [yea]r three hundred and fifty three.
+			<lb n="6"/>
+		] to the acknowledgment by Fâtik al-Ǧundî al-Aḫram respecting all that is mentioned particularly in this deed
+			<lb n="7"/>
+		Šaʿbâ]n of the year[r] three hundred [and] fifty thr[ee].
+			<lb n="8"/>
+		] Ǧaʿfar [b. ...]ân to the acknowledgment by Fâtik al-Ǧundî al-Aḫram
+			<lb n="9"/>
+		], and he has written his testimony two days having passed (?) of Šaʿbân of the year (10) [three hundred and fifty] (9) three.
+			<lb n="10"/>
+		to ]the acknowledgment by Fâtik al-Ǧund[î ......]
+			<lb n="11"/>
+		and he has written his testimony in] his (own) handwriting on its d[at]e.
+</ab></div>
+</body>
+</text>
+</TEI>

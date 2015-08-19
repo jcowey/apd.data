@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2308" xml:id="Diem_Heid_III_35" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 35</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_35</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  مملوكها ابن عمّها 
+ <lb n="2"/>  <gap reason="illegible" extent="1" unit="character" />ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  مملوكها ابن عمّها يسلها قطع محاسبات 
+ <lb n="5"/>  مزارعين خراب مقاتل إلي آخر <supplied reason="omitted" cert="high">ا</supplied>نقضي 
+ <lb n="6"/>  سبع وخمسين وخمس مية وإنفاذها 
+ <lb n="7"/>  فقد كان لها من الأمر فتصطنع المملوك 
+ <lb n="8"/>  من الشّكر والثّنا بما أقر عيني وأشرح صدري 
+ <lb n="9"/>  واللّه تعالی يجعلها كذلك أبدا 
+ <lb n="10"/>  وأمّا المناديل فهو يحضر بهم إليها صحبته 
+ <lb n="11"/>  باكر غد أو <supplied reason="omitted" cert="high">بعد</supplied> غد وإن كان لها حاجة 
+ <lb n="12"/>  لشی آخر<del rend="erasure" status="unremarkable">پحرح</del>عپر دلك پپعم 
+ <lb n="right margin"/>  بإعلامي به والسّلم 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>mamlūku hā ĭbnu ʿammi hā 
+ <lb n="2"/>B***B 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>mamlūku hā ĭbnu ʿammi hā yasalu hā qaṭʿa muḥāsabāti 
+ <lb n="5"/>muzāriʿīna ḫarābi muqātil:in ʾilà ʾāḫiri ĭnqiḍà 
+ <lb n="6"/>sabʿ:in wa ḫamsīna wa ḫamsi miyaẗ:in wa ʾinfāḏa hā 
+ <lb n="7"/>fa qad kāna la hā mina ăl ʾamri fa taṣṭaniʿu ăl mamlūka 
+ <lb n="8"/>mina ăš šukri wa ăṯ ṯanāʾi bi mā ʾaqarra ʿayn ī wa ʾašraḥa ṣadr ī 
+ <lb n="9"/>wa ăl lāhu taʿālà yaǧʿalu hā kaḏālika ʾabad:an 
+ <lb n="10"/>wa ʾammā ăl manādīlu fa huwa yaḥḍuru bi him ʾilay hā ṣuḥbata hu 
+ <lb n="11"/>bākira ġad:in ʾaw baʿda ġad:in wa ʾin kāna la hā ḥāǧaẗ:un 
+ <lb n="12"/>li šayʾ:in ʾāḫara ġayri ḏālika tunʿimu 
+ <lb n="13"/>bi ʾiʿlām ī bi hi wa ăs salāmu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Ihr Sklave, der Sohn ihres Onkels.
+		 <lb n="2"/>
+		 <lb n="3"/>
+ 	  Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+		 <lb n="4"/>
+ 	  Ihr Sklave, der Sohn Ihres Onkels, bittet sie, die Abrechnungen mit
+		 <lb n="5"/>
+ 	  den Vertragsbauern von Ḫarāb Muqātil bis zum Ende des Ablaufs
+		 <lb n="6"/>
+ 	  (des Jahres) fünfhundertsiebenundfünfzig abzuschließen und sie (ihm) zu übersenden,
+		 <lb n="7"/>
+ 	  denn es gab in ihrer Hinsicht eine Anordnung. Sie würde den Sklaven (damit)
+		 <lb n="8"/>
+ 	  mit einem Dank und Lob für sich gewinnen, die mich froh und heiter stimmen würden
+		 <lb n="9"/>
+ 	  - möge Gott, der Erhabene, sie auf ewig in eben diese Lage versetzen!
+		 <lb n="10"/>
+ 	  Was die Tücher betrifft, so wird er sie ihr
+		 <lb n="11"/>
+ 	  bald, morgen oder &lt;über&gt;morgen, mitbringen. Wenn sie (noch)
+		 <lb n="12"/>
+ 	  etwas anderes braucht〚wir werden abreisen〛außer jenem, möge sie die Güte haben,
+		 <lb n="13"/>
+ 	  es mir mitzuteilen. Gruß.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

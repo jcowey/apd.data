@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="739" xml:id="Grohmann_Probleme_05" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 05</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_05</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106820</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  على يدى عبد الملك بن حـ<supplied reason="lost" cert="high">ــ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  الطّبل الأوّل الطّبل الثّا<supplied reason="lost" cert="high">نـ</supplied>ـى 
+ <lb n="3"/>  <supplied reason="lost" cert="high">ـ</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن 
+ <lb n="4"/>  على يدى الجرج بن <gap reason="illegible" extent="8" unit="character" /> وعبد الملك <unclear reason="undefined" cert="high">قييد</unclear> الطّبل الأوّل جزية روسهم 
+ <lb n="5"/>  بـ<supplied reason="lost" cert="high">ـوش</supplied> <supplied reason="lost" cert="high">أيضا</supplied> <supplied reason="lost" cert="high">عليهم</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">جزية</supplied> <supplied reason="lost" cert="high">روسهم</supplied> <supplied reason="lost" cert="high">جزية</supplied> <supplied reason="lost" cert="high">روسهم</supplied> <supplied reason="lost" cert="high">جزية</supplied> <supplied reason="lost" cert="high">[ر</supplied>وسهم 
+ <lb n="6"/>  دينر دينر دينر دينر دينر 
+ <lb n="7"/>  يحنّس أرماهه ηʹ‎ κʹ‎δʹ‎ <gap reason="illegible" extent="1" unit="character" /> κʹ‎δʹ‎ χʹ‎ 
+ <lb n="8"/>  سمعون يحنّس ηʹ‎ κʹ‎δʹ‎ <gap reason="illegible" extent="1" unit="character" /> κʹ‎δʹ‎ χʹ‎ 
+ <lb n="9"/>  جرجه موسيس ηʹ‎ κʹ‎δʹ‎ <gap reason="illegible" extent="1" unit="character" /> κʹ‎δʹ‎ χʹ‎ 
+ <lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> ηʹ‎ κʹ‎δʹ‎ <gap reason="illegible" extent="1" unit="character" /> κʹ‎δʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʿalà yaday ʿabdi ăl maliki bni ḥ*** 
+ <lb n="2"/>ăṭ ṭablu ăl ʾawwalu ăṭ ṭablu ăṯ ṯānī 
+ <lb n="3"/>mina ăn naqṣi 
+ <lb n="4"/>ʿalà yadayi ăl ǧirǧi bni *** wa ʿabdi ăl maliki qyyd ăṭ ṭablu ăl ʾawwalu ǧizyaẗu ruʾūsi him 
+ <lb n="5"/>būšu ʾayḍ:an ʿalay him min ǧizyaẗi ruʾūsi him ǧizyaẗu ruʾūsi him ǧizyaẗu ruʾūsi him 
+ <lb n="6"/>dīnār:un dīnār:un dīnār:un dīnār:un dīnār:un 
+ <lb n="7"/>yuḥannisu ʾarmāhaha 2/3 1/24 * 1/24 1/8 
+ <lb n="8"/>simʿūnu yuḥannisa 2/3 1/24 * 1/24 1/8 
+ <lb n="9"/>ǧirǧahu mūsīsa 2/3 1/24 * 1/24 1/8 
+ <lb n="10"/>*** ø 1/24 * ‬1/24 1/8 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  durch ʿAbd al-Malik b. Ḥ[...]
+		 <lb n="2"/>
+ 	  die erste Steuerrolle      die zweite Steuerrolle
+		 <lb n="3"/>
+ 	  [a]us [den] Abgängen
+		 <lb n="4"/>
+ 	  durch al-Ǧirǧ b. .... und ʿAbd al-Malik      Eintragung der ersten Steuerrolle     ihre Kopfsteuer
+		 <lb n="5"/>
+ 	  Nochmals B[ū]š     Ihnen obliegt von ihrer Kopfsteuer     ihre Kopfsteuer     ihre [K]opfsteuer
+		 <lb n="6"/>
+ 	  Dīnār     Dīnār     Dīnār     Dīnār     Dīnār
+		 <lb n="7"/>
+ 	  Johannes Armāhe     2/3     1/24     ●     1/24     1/8
+		 <lb n="8"/>
+ 	  Simʿōn Johannes     2/3     1/24     ●     1/24     1/8
+		 <lb n="9"/>
+ 	  Ǧirǧe Mūsīs     2/3     1/24     ●     1/24     1/8
+		 <lb n="10"/>
+ 	  [...]     1/24     ●     1/24     1/8
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

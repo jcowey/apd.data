@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2007" xml:id="Grohmann_APEL_268" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 268</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_268</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169735</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  قرية تد<supplied reason="lost" cert="high">عـ</supplied>ـى محلّـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">ا</supplied>لأپـ<supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـ</supplied>ـم ÷<unclear reason="undefined" cert="high">÷</unclear><gap reason="illegible" precision="low" extent="3"/>÷÷ 
+<lb n="3"/>  منه من القمح ÷÷÷÷ <supplied reason="lost" cert="high">ومن</supplied> <supplied reason="lost" cert="high">ا</supplied>لشّعير ÷÷ 
+<lb n="4"/>  ومن القطا<supplied reason="lost" cert="high">نـ</supplied>ـي ÷÷ ومن الـ<supplied reason="lost" cert="high">ـكر</supplied>م <unclear reason="undefined" cert="high">÷</unclear>÷ 
+<lb n="5"/>  ومن القرط ÷÷÷ و<supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ا</supplied>لحـ<supplied reason="lost" cert="high">ـزر</supplied> ÷ 
+<lb n="6"/>  <gap reason="illegible" extent="1" unit="character" />پرـ<supplied reason="lost" cert="high">ــ</supplied>ـپه ÷ 
+<lb n="7"/>  ومن الكروم ÷÷÷÷÷ <supplied reason="lost" cert="high">ومـ</supplied>ـن قضب الكرم ÷ 
+<lb n="8"/>  و<supplied reason="lost" cert="high">منـ</supplied>ـه خراب ÷÷ 
+<lb n="9"/>  قرية تدعى پطوا ÷÷÷ 
+<lb n="10"/>  ومن ذلك للمزارعـ<supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن ÷÷÷÷÷÷ 
+<lb n="11"/>  منه من الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ÷÷ <gap reason="illegible" extent="4" unit="character" /> ÷÷ 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/>الل منه <supplied reason="lost" cert="high">÷</supplied>÷ 
+<lb n="13"/>  ومن الكروم ÷÷ ومن قضب الكرم ÷ 
+<lb n="14"/>  والخضر ÷÷÷÷ 
+<lb n="15"/>  و<gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـصل <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه 
+<lb n="17"/>  قرية تدعى پوحـ<supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـ</supplied>ـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />÷÷<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />÷ <gap reason="illegible" extent="7" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** *** 
+ <lb n="2"/>qaryaẗ:un tudʿà maḥallaẗa ăl ʾaBm 15**+*+1/4+1/8 
+ <lb n="3"/>min hu mina ăl qamḥi 1379 wa mina ăš šaʿīri 53 
+ <lb n="4"/>wa mina ăl qaṭāniyyi 35 wa mina ăl karmi 22 
+ <lb n="5"/>wa mina ăl qurṭi 68+1/2 wa mina ăl ḥazri 2 
+ <lb n="6"/>*BrBh 30 
+ <lb n="7"/>wa mina ăl kurūmi 26+1/24+1/48 wa min qaḍbi ăl karmi 2 
+ <lb n="8"/>wa min hu ḫarāb:un 2/3+1/8 
+ <lb n="9"/>qaryaẗ:un tudʿà Bṭwʾ 681 
+ <lb n="10"/>wa min ḏālika li l muzāriʿīna 631+1/2+1/12 
+ <lb n="11"/>min hu mina ăl *** 1/*+1/* **** 36 
+ <lb n="12"/>***ʾll min hu 13 
+ <lb n="13"/>wa mina ăl kurūmi 3+1/4 wa min qaḍbi ăl karmi  1/4 
+ <lb n="14"/>wa ăl ḫuḍaru 1+1/3+1/12 
+ <lb n="15"/>wa **ṣl ***ʾ 
+ <lb n="16"/>***h 
+ <lb n="17"/>qaryaẗ:un tudʿà Bwh*** **27+1/* 
+ <lb n="18"/>*** *** 300+** ******* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		The village ca[lle]d Maḥallat al-A...[.].....m : 15[..].1/4+1/8
+			<lb n="3"/>
+		thereof (belongs to land sown with) corn 1379 and of barley 53.
+			<lb n="4"/>
+		and of pul[s]e 35 and of v[in]e 22
+			<lb n="5"/>
+		and of trefoil 68 1/2 and [of chick-pea]s 2
+			<lb n="6"/>
+		...... 30
+			<lb n="7"/>
+		and of vine 26 1/24+1/48 [and o]f vine-shoots 2
+			<lb n="8"/>
+		and there[of] is uncultivated 2/3+1/8
+			<lb n="9"/>
+		The village called Naṭwâ (?) 681
+			<lb n="10"/>
+		thereof belongs to corn(-land) 631 1/2+1/12
+			<lb n="11"/>
+		thereof belongs to (land sown with) ..[...]...[.|]36
+			<lb n="12"/>
+		.... thereof 1[3]
+			<lb n="13"/>
+		and of vine(-land) 3 1/4 and of vine-shoots 1/4
+			<lb n="14"/>
+		and leguminous plants 1 1/3+1/12
+			<lb n="15"/>
+		and ...............
+			<lb n="16"/>
+			<lb n="17"/>
+		The village called ........... 27[..]
+			<lb n="18"/>
+		3. [..]..[
+</ab></div>
+</body>
+</text>
+</TEI>

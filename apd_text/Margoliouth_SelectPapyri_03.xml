@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1331" xml:id="Margoliouth_SelectPapyri_03" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MargoliouthSelectPapyri 3 (= P.Ryl.Arab. I IV 4 = P.RagibLettresdeService 4)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_SelectPapyri_03</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169139</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="Rāġib 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="1 = Rāġib 2"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الملك</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">يزد</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">صحب</supplied> <supplied reason="lost" cert="high">بر</supplied>يد أشمون 
+<lb n="2= Rāġib 3"/>  <supplied reason="lost" cert="high">فاحمل</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">رسول</supplied> <supplied reason="lost" cert="high">السّـ</supplied>ـمط بن عبد اللّه 
+<lb n="3= Rāġib 4"/>  وهو <app type="BL"><lem resp="APD">أسـ<supplied reason="lost" cert="high">ـمر</supplied> </lem><rdg resp="Rāġib">أسمّ</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وأ</supplied>نفه </lem><rdg resp="Rāġib">أشفه</rdg></app> أبيض <supplied reason="lost" cert="high">إ</supplied>لى السّمط بن عبد الـ<supplied reason="lost" cert="high">ـلّه</supplied> 
+<lb n="4= Rāġib 5"/>  على <supplied reason="lost" cert="high">دابّتيـ</supplied>ـن من البريد إحديهما دابّـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="5 = Rāġib 6"/>  الفرا<supplied reason="lost" cert="high">نق</supplied> <app type="BL"><lem resp="APD">وكتبه </lem><rdg resp="Margoliouth, P.Ryl.Arab. I">كتب </rdg><rdg resp="Rāġib">وكتب</rdg></app> سليمن في رجب سنة 
+<lb n="6= Rāġib 7"/>  أربع وثلثين ومائة 
+<lb n="handmark"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso (adress)"/>  من عبد الملك بن يزيد <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Margoliouth, P.Ryl.Arab. I; Rāġib">إلى</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">صحب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">بريد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">أشمون</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl maliki bni yazīda ʾilà ṣāḥibi barīdi ʾušmūna 
+ <lb n="3"/>fa ĭḥmal *** rasūla ăs sāmiṭi simṭi bni ʿabdi ăl lāhi 
+ <lb n="4"/>wa huwa ʾasmaru ʾasammu wa ø ʾanfu ʾašfahu hu ø ʾabyaḍu ʾilà ăs sāmiṭi simṭi bni ʿabdi ăl lāhi 
+ <lb n="5"/>ʿalà dābbatayni min ăl barīdi ʾiḥdā humā dābbaẗu 
+ <lb n="6"/>ăl furāniqi wa ø kataba hu ø sulaymānu fī raǧab:in sanaẗa 
+ <lb n="7"/>ʾarbaʿ:in wa ṯalāṯīna wa miʾaẗ:in 
+ <lb n="8"/>* 
+ <lb n="9"/>min ʿabdi ăl maliki bni yazīda *** ʾilà *** ṣāḥibi *** barīdi *** ʾušmūna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, clément et miséricordieux !]
+		[In the name, etc.]
+			<lb n="2"/>
+		[De la part de ʿAbd al-Malik b. Yazīd. Au maître de pos]te d&#039;Ašmūn.
+		[From ʿAbd al-Malik b. Yazīd to the postmas]ter of Ushmūn.
+			<lb n="3"/>
+		[Donne à... le messager d&#039;al-Si]mṭ b. ʿAbd Allāh,
+		[Mount... messenger of al-Sā]miṭ b. ʿAbdallah
+		[Mount... messenger of al-Sim]ṭ b. ʿAbdallah
+			<lb n="4"/>
+		qui a le nez [étroit et la bouche] grande (pour le porter) jusqu&#039;à al-Simṭ b. ʿAbd Allāh
+		who is br[own, only his n]ose is white, to al-Sāmiṭ b. ʿAbdallāh
+		who is br[own] white [no]sed to al-Simṭ b. ʿAbdallah
+			<lb n="5"/>
+		deux montures de la poste, dont l&#039;une est celle du
+		[on two beasts] of the post, one of them a beast
+		upon two post[horse]s, one of them
+			<lb n="6"/>
+		a furāniḳ&#039;s horse. Written by Sulaiman in Rajab of the year
+		courrier. Sulayman a écrit en raǧab l&#039;année
+		of the courier. Written by Sulaiman in Rajab of the year 134.
+			<lb n="7"/>
+		cent trente-quatre.
+		one hundred and thirty-four.
+			<lb n="8"/>
+		[handmark]
+			<lb n="9"/>
+		De la part de ʿAbd al-Malik b. Yazīd. Au       [maître de poste d&#039;Ašmūn].
+		From ʿAbd al-Malik b. Yazīd.
+		From ʿAbd al-Malik b. Yazīd...
+</ab></div>
+</body>
+</text>
+</TEI>

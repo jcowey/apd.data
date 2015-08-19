@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2498" xml:id="Grohmann_Mird_39" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 39</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_39</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" extent="1" unit="character" /> ونـ<supplied reason="lost" cert="high">ـصيـ</supplied>ـف <gap reason="illegible" extent="4" unit="character" />ـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" extent="1" unit="character" /> ونمطين <gap reason="illegible" extent="6" unit="character" /> 
+ <lb n="3"/>  ومحبس <gap reason="illegible" precision="low" extent="3"/> ڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="9" unit="character" /> 
+ <lb n="4"/>  واثنا عشر خما<supplied reason="lost" cert="high">ر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <gap reason="illegible" extent="1" unit="character" /> ودرع <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بط</supplied>ـانة أثوا<supplied reason="lost" cert="high">ب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>* wa naṣīf ******* 
+ <lb n="2"/>* wa namaṭayni ****** 
+ <lb n="3"/>wa miḥbas *** F*** *** *** 
+ <lb n="4"/>wa ĭṯnā ʿašara ḫimār *** 
+ <lb n="5"/>* wa dirʿ *** 
+ <lb n="6"/>*** biṭānaẗ ʾaṯwāb:in *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  and a head [cover]ing .... [...] .... [...]
+		 <lb n="2"/>
+ 	  and an ou[ter covering of a] bed ... [...] .... [...]
+		 <lb n="3"/>
+ 	  and an embroidered cover ... [...] .... [...]
+		 <lb n="4"/>
+ 	  and twelve veil[s ...]
+		 <lb n="5"/>
+ 	  and a woolen woman&#039;s shirt [...]
+		 <lb n="6"/>
+ 	  [... inner cov]er (lining) of garment[s ...]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

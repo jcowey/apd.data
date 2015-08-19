@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1127" xml:id="Grohmann_APEL_71" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 071</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_71</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">168983</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">اشترت</supplied> <supplied reason="lost" cert="high">ساره</supplied> <supplied reason="lost" cert="high">ابنة</supplied> <supplied reason="lost" cert="high">قلته</supplied> <supplied reason="lost" cert="high">القزّاز</supplied> <supplied reason="lost" cert="high">زوجة</supplied> <supplied reason="lost" cert="high">إيـ</supplied>ـسدط <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">بييسة</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">التّنّيسيّ</supplied> <supplied reason="lost" cert="high">السّاكنة</supplied> <supplied reason="lost" cert="high">يومئذ</supplied> <supplied reason="lost" cert="high">بمدينة</supplied> <supplied reason="lost" cert="high">الأشمونيـ</supplied>ـن من المكنّا بأبو اليمن وأخوه 
+ <lb n="4"/>  جميل <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـهما <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سـ</supplied>ـكريس بن السّفطي ووالدتهم // 
+ <lb n="5"/>  قرا ابنة جريج جميع النّصـ<supplied reason="lost" cert="high">ـف</supplied> <supplied reason="lost" cert="high">من</supplied> المنزل الّذي بهذه ا<supplied reason="lost" cert="high">لمـ</supplied>ـدينة المـ<supplied reason="lost" cert="high">ـعـ</supplied>ـروفة 
+ <lb n="6"/>  إرتهم عن والدهم سكريس بن <supplied reason="lost" cert="high">السّفـ</supplied>ـطي المتوفّا وهو اثنا عشر سهما من 
+ <lb n="7"/>  أ<supplied reason="lost" cert="high">ربعة</supplied> <supplied reason="lost" cert="high">وعشـ</supplied>ـر<supplied reason="lost" cert="high">يـ</supplied>ـن سهما شائعة غير مقسومة من جميع المنزل المقدّم 
+ <lb n="8"/>  <supplied reason="lost" cert="high">ذكره</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـي الوجه البحري من هذه المدينة شهدت  بمضمونه  
+ <lb n="9"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مامليـ</supplied>ـن </lem><rdg resp="“AK”">بن</rdg></app> والدّار المعروفة <supplied reason="lost" cert="high">كانت</supplied> <supplied reason="lost" cert="high">كانت</supplied> <supplied reason="lost" cert="high">تعـ</supplied>ـرف بأبي الطّيّب بن أبي الوزير 
+ <lb n="10"/>  <supplied reason="lost" cert="high">ثمّ</supplied> <supplied reason="lost" cert="high">عرفت</supplied> <supplied reason="lost" cert="high">بغطارف</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">مفلح</supplied> <supplied reason="lost" cert="high">و</supplied>يحيـ<supplied reason="lost" cert="high">ـط</supplied> <supplied reason="lost" cert="high">بهذا</supplied> <supplied reason="lost" cert="high">المنزل</supplied> ويشتمل عليه حدود أربعة 
+ <lb n="11"/>  <supplied reason="lost" cert="high">فالحدّ</supplied> <supplied reason="lost" cert="high">القبليّ</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">ا</supplied><gap reason="illegible" precision="low" extent="3"/> ملك لأحمد <sic n="superfluous">البنّاذ</sic><supplied reason="omitted" cert="high">الپپاد</supplied> والحد // 
+ <lb n="12"/>  البحري منه <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">منزل</supplied> <gap reason="illegible" extent="6" unit="character" /> <supplied reason="lost" cert="high">إرثهم</supplied> <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">والدهم</supplied> <supplied reason="lost" cert="high">سكريس</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">هميسه </supplied>
+ <lb n="13"/>  المعروف بالسّـ<supplied reason="lost" cert="high">ـفطيّ</supplied> <supplied reason="lost" cert="high">والحدّ</supplied> <supplied reason="lost" cert="high">الشّـ</supplied>ـرقي منه ينتهي إلى طرق <supplied reason="omitted" cert="high">الـ</supplied>ـمارّة وفيه يشرع 
+ <lb n="14"/>  بابه والحد الغربي منه ينتهي إلى اصطبل المكنّا بأبو السّري الخيّاط 
+ <lb n="15"/>  مع البئر الما المعينة الّتي في هذا الحد من حقوق هذا المنزل الّذي وقع 
+ <lb n="16"/>  البيع على النّصف منه بحد ذلك وحدوده وأرضه وبنائه وسفله 
+ <lb n="17"/>  وعلوه ونقضه ومرافقه كلّها وكل حق هو له داخل فيه وكل 
+ <lb n="18"/>  حق هو له خارج منه وجميع ما يعرف له وينسب إليه ظاهره 
+ <lb n="19"/>  وباطنه عامره وغامره بثمن مبلغه دينار واحد ونصف دينار بالـ<supplied reason="lost" cert="high">ـصّـ</supplied>ـحـ<supplied reason="lost" cert="high">ـيح</supplied> 
+ <lb n="20"/>  عينا ذهبا <app type="BL"><lem resp="dot of ǧīm misplaced under yāʾ">جيادا </lem><rdg resp="“Dietrich”">جياد</rdg></app> النّقد شرى صحيحا وبيعا نافذا ماضيا لا شرط 
+ <lb n="21"/>  <supplied reason="lost" cert="high">فـ</supplied>ـيه ولا عدة ولا خـ<supplied reason="lost" cert="high">ـيار</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">اسـ</supplied>ـتتنـ<supplied reason="lost" cert="high">ـى</supplied> ولا هو على سبيل رهن ودفعت 
+ <lb n="22"/>  <supplied reason="lost" cert="high">ا</supplied>لمشترية ساره ا<supplied reason="lost" cert="high">بنة</supplied> <supplied reason="lost" cert="high">قلته</supplied> <supplied reason="lost" cert="high">القزّاز</supplied> <supplied reason="lost" cert="high">زوجة</supplied> <supplied reason="lost" cert="high">إيسد</supplied>ط بن <sic n="superfluous">ييسبه</sic><supplied reason="omitted" cert="high">يييسة</supplied> التّنّيسي إلى البايعين 
+ <lb n="23"/>  <supplied reason="lost" cert="high">الـ</supplied>ـمكنّا بأبو اليـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">وأخوه</supplied> <supplied reason="lost" cert="high">جميل</supplied> <gap reason="illegible" extent="10" unit="character" /> 
+ <lb n="24"/>  بن السّفطي <gap reason="illegible" precision="low" extent="3"/> مع د<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="25"/>  ومبلغه د<supplied reason="lost" cert="high">ينار</supplied> <supplied reason="lost" cert="high">واحد</supplied> <supplied reason="lost" cert="high">ونصف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="26"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وحازته</supplied> <supplied reason="lost" cert="high">لـ</supplied>ـنفسها <supplied reason="lost" cert="high">وصـ</supplied>ـار في يدها ومالا من 
+ <lb n="27"/>  <supplied reason="lost" cert="high">مالها</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فما</supplied> <supplied reason="lost" cert="high">أد</supplied>رك هذه المشترية من درك 
+ <lb n="28"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">أحـ</supplied>ـد من النّاس كلّهم و<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن البائعين خلاصها في ذمّتهم ومحياهـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="29"/>  <supplied reason="lost" cert="high">ومماتهم</supplied> <supplied reason="lost" cert="high">وخـ</supplied>ـالص مالهم على ما <supplied reason="lost" cert="high">يـ</supplied>ـوجبه حكم بيع الإسلام وعهدته 
+ <lb n="30"/>  <supplied reason="lost" cert="high">وضمان</supplied> <supplied reason="lost" cert="high">دركه</supplied> <supplied reason="lost" cert="high">و</supplied>تضمّنوا بها جميع الدّرك في ذلك كلّه شهد على 
+ <lb n="31"/>  <supplied reason="lost" cert="high">إقـ</supplied>ـرار <supplied reason="lost" cert="high">البائعين</supplied> <supplied reason="lost" cert="high">با</supplied>لبيع وقبضهم جميع الثّمن والمشترية بالحوز لنفسها 
+ <lb n="32"/>  في صحّة عقو<supplied reason="lost" cert="high">لهـ</supplied>ـم وأبدانهم وجواز أمورهم طائعين غير مكرهين 
+ <lb n="33"/>  ولا مجبرين وذلك في العشر الأوسط من شوّال سنة تسع // 
+ <lb n="34"/>  وخمسين وأربعمائة وفيه لحق حرف مثاله النّصف وأيضا تكرير حرف 
+ <lb n="35"/>  منهم وبذلك وقعت الشّهادة شهد أحمد بن الحسين بن محمّد بن سواهل على إقرار 
+ <lb n="36 left"/>  <sic n="superfluous">الرحلپن</sic> الرّجل والثلثة نسوة البائعين بالبيع وقبض جميع 
+ <lb n="37 left"/>  الثّمن المذكور وضمانهم عن جميل الطّفل وحوز المشترية 
+ <lb n="38 left"/>  بما فيه في تأريخه 
+ <lb n="36 right"/>  شهد حكم بن عبد الحميد بن صباح بن جميل 
+ <lb n="37 right"/>  علـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">إ</supplied>قرار الرّجل للبيع والنّسوة المسمّين 
+ <lb n="38 right"/>  <app type="BL"><lem resp="APD">وضمانهم </lem><rdg resp="“Dietrich”">البائعين</rdg></app> عن جميل الطّفل وحوز المشترية  
+ <lb n="39 right"/>  <supplied reason="lost" cert="high">فيـ</supplied>ـه وكتب بخطّه في تأريخه  
+ <lb n="39 left"/>  شهد محمّد بن الحسين الكتاب الصّداق   وكتب 
+ <lb n="40 left"/>  وشهد حمدون بن ميمو<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> 
+ <lb n="41 left"/>  وكتب عنه خضر بن عبـ<supplied reason="lost" cert="high">ـد</supplied> <gap reason="illegible" precision="low" extent="3"/>  
+ <lb n="42 left"/>  المشترية بما فيه في تأريخه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarat sārahu ĭbnaẗu qultaha ăl qazzāzi zawǧaẗu ʾīsiduṭa bni bīyisaẗa 
+ <lb n="3"/>ăt tinnīsiyyi ăs sākinaẗu yawma ʾiḏ:in bi madīnaẗi ăl ʾušmūnayni mina ăl mukannā bi ʾabū ăl yamani yumni wa ʾaḫū hu 
+ <lb n="4"/>ǧamīli *** himā *** sakrīsa bni ăs safṭiyyi wa wālidati him // 
+ <lb n="5"/>qirā ĭbnaẗi ǧurayǧ:in ǧamīʿa ăn niṣfi mina ăl manzili ăllaḏī bi hāḏihi ăl madīnaẗi ăl maʿrūfaẗi 
+ <lb n="7"/>ʾirta hum ʿan wālidi him sakrīsa bni ăs safṭiyyi ăl mutawaffā wa huwa ĭṯnā ʿašara sahm:an min 
+ <lb n="9"/>ʾarbaʿaẗ:in wa ʿišrīna sahm:an šāʾiʿaẗ:in ġayri maqsūmaẗ:in min ǧamīʿi ăl manzili ăl muqaddami 
+ <lb n="10"/>ḏikru hu fī ăl waǧhi ăl baḥriyyi min hāḏihi ăl madīnaẗi bi ḫuṭṭi ăl bannādīna wa ǧiwāri masǧidi 
+ <lb n="11"/>bni yn māmalīna wa ăd dāri ăl maʿrūfaẗi kānat tuʿrafu bi ʾabī ăṭ ṭayyibi bni ʾabī ăl wazīri 
+ <lb n="12"/>ṯumma ʿurifat bi ġaṭārifa bni mufliḥ:in wa yuḥīṭu bi hāḏā ăl manzili wa yaštamilu ʿalay hi ḥudūd:un ʾarbaʿaẗ:un 
+ <lb n="13"/>fa ăl ḥaddu ăl qibliyyu min hu yantahī ʾilà ʾ*** milk:in li ʾaḥmada ăl bannādi wa ăl ḥaddu // 
+ <lb n="14"/>ăl baḥriyyu min hu yantahī ʾilà manzili ****** ʾirṯi him ʿan wālidi him sakrīsa bni humīsaha 
+ <lb n="15"/>ăl maʿrūfi bi ăs safṭiyyi wa ăl ḥaddu ăš šarqiyyu min hu yantahī ʾilà ṭuruqi ăl mārraẗi wa fī hi yašraʿu 
+ <lb n="16"/>bābu hu wa ăl ḥaddu ăl ġarbiyyu min hu yantahī ʾilà ĭṣṭabli ăl mukannā bi ʾabū ăs sariyyi ăl ḫayyāṭi 
+ <lb n="17"/>maʿa ăl biʾri ăl māʾi ăl maʿīnaẗi ăllatī fī hāḏā ăl ḥaddi min ḥuqūqi hāḏā ăl manzili ăllaḏī waqaʿa 
+ <lb n="18"/>ăl bayʿu ʿalà ăn niṣfi min hu bi ḥaddi ḏālika wa ḥudūdi hi wa ʾarḍi hi wa bināʾi hi wa sufli hi 
+ <lb n="19"/>wa ʿulwi hi wa naqḍi hi wa marāfiqi hi kulli hā wa kulli ḥaqq:in huwa la hu dāḫil fī hi wa kulli 
+ <lb n="20"/>ḥaqq:in huwa la hu ḫāriǧ min hu wa ǧamīʿi mā yuʿrafu la hu wa yunsabu ʾilay hi ẓāhira hu 
+ <lb n="21"/>wa bāṭina hu ʿāmira hu wa ġāmira hu bi ṯaman:in mablaġu hu dīnār:un wāḥid:un wa niṣfu dīnār:in bi ăṣ ṣaḥīḥi 
+ <lb n="22"/>ʿayn:an ḏahab:an ǧiyād:ani ǧiyāda ăn naqda naqdi šir:an ṣaḥīḥ:an wa bayʿ:an nāfiḏ:an māḍiy:an lā šarṭa 
+ <lb n="23"/>fī hi wa lā ʿidaẗ:un wa lā ḫiyār:un wa lā ĭstitn:an wa lā huwa ʿalà sabīli rahn:in wa dafaʿati 
+ <lb n="24"/>ăl muštariyaẗu sārahu ĭbnaẗu qultaha ăl qazzāzi zawǧaẗu ʾīsiduṭa bni bīyisaẗa ăt tinnīsiyyi ʾilà ăl bāyiʿayni 
+ <lb n="25"/>ăl mukannā bi ʾabū ăl yamani yumni wa ʾaḫū hu ǧamīl ********** 
+ <lb n="26"/>bni ăs safṭiyyi *** maʿa d*** 
+ <lb n="27"/>wa mablaġu hu dīnār:un wāḥid:un wa niṣf:un *** 
+ <lb n="28"/>*** wa ḥāzat hu li nafsi hā wa ṣāra fī yadi hā wa māl:an min 
+ <lb n="29"/>māli hā *** fa mā ʾadraka hāḏihi ăl muštariyaẗa min darak:in 
+ <lb n="30"/>min ʾaḥad:in mina ăn nāsi kulli him wa ***n ăl bāʾiʿayni ḫalāṣu hā fī ḏimmati him wa maḥyā hum 
+ <lb n="31"/>wa mamāti him wa ḫāliṣi māli him ʿalà mā yūǧibu hu ḥukmu bayʿi ăl ʾislāmi wa ʿuhdatu hu 
+ <lb n="32"/>wa ḍamānu daraki hi wa taḍammanū bi hā ǧamīʿa ăd daraki fī ḏālika kulli hi šahida ʿalà 
+ <lb n="33"/>ʾiqrāri ăl bāʾiʿayni bi ăl bayʿi wa qabḍi him ǧamīʿa ăṯ ṯamani wa ăl muštariyaẗi bi ăl ḥawzi li nafsi hā 
+ <lb n="34"/>fī ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him ṭāʾiʿīna ġayra mukrahīna 
+ <lb n="35"/>wa lā muǧbarayni wa ḏālika fī ăl ʿašri ăl ʾawsaṭi min šawwāl:in sanaẗa tisʿ:in // 
+ <lb n="36"/>wa ḫamsīna wa ʾarbaʿi miʾaẗ:in wa fī hi laḥiqa ḥarf:un miṯālu hu ăn niṣfu wa ʾayḍ:an takrīru ḥarf:in 
+ <lb n="37"/>min hum wa bi ḏālika waqaʿati ăš šahādaẗu šahida ʾaḥmadu bnu ăl ḥusayni bni muḥammadi bni sawāhila ʿalà ʾiqrāri 
+ <lb n="38"/>ăr riǧāli wa ăl ṯalāṯaẗi niswaẗ:in ăl bāʾiʿīna bi ăl bayʿi wa qabḍi ǧamīʿi 
+ <lb n="39"/>ăṯ ṯamani ăl maḏkūri wa ḍamāni him ʿan ǧamīl:ini ăṭ ṭifli wa ḥawzi ăl muštariyaẗi 
+ <lb n="40"/>bi mā fī hi fī taʾrīḫi hi 
+ <lb n="41"/>šahida ḥakamu bnu ʿabdi ăl ḥamīdi bni ṣabāḥa bni ǧamīl:in 
+ <lb n="42"/>ʿalà ʾiqrāri ăr riǧāli li ăl bayʿi wa ăn niswaẗi ăl musammayna 
+ <lb n="43"/>*** ăl ø bāʾiʿīna wa ḍamāni him ʿan ǧamīl:ini ăṭ ṭifli wa ḥawzi ăl muštariyaẗi 
+ <lb n="44"/>bi mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="45"/>šahida muḥammadu bnu ăl ḥusayni bni ʿīsà ʿalà ʾiqrāri ăr riǧāli 
+ <lb n="46"/>wa ăṯ ṯalāṯaẗi ăl bāʾiʿīna bi ăl bayʿi wa qabḍi ǧamīʿi ăṯ ṯamani 
+ <lb n="47"/>ăl maḏkūri fī hi wa ḍamāni him ʿan ǧamīl:ini ăṭ ṭifli wa ḥawzi 
+ <lb n="48"/>ăl muštariyaẗi bi mā fī hi fī taʾrīḫi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [In the name of God, the Compassionate, the Merciful.]
+		 <lb n="2"/>
+ 	  [This is what Sâra, daughter of Qolte, the silk-mercer, the wife of I]sidoṭos, son [of Bîsa]
+		 <lb n="3"/>
+ 	  [originating from Tinnîs, residing at this time in the town of al-Ušmûnai]n, [has bought] from the surnamed Abuʾl-Yumn and his brother
+		 <lb n="4"/>
+ 	  [Ǧamîl .............................. Sa]krîs b. as-Safṭî and their mother
+		 <lb n="5"/>
+ 	  Qerâ, daughter of Ǧuraiǧ, the whole ha[lf o]f the dwelling house, which is in this well known town,
+		 <lb n="7"/>
+ 	  their inheritance from their deceased father Sakrîs b. [as-Saf]ṭî, and these are twelve shares of
+		 <lb n="9"/>
+ 	  [twenty four] shares, shared in common, undivided, of the whole afore[said] dwelling house
+		 <lb n="10"/>
+ 	  ... in the neighbourhood of the Mosque of 
+ 	  [in] the northern region of this town, in the quarter of the standard-makers and in the neighbourhood of the two ...............................
+		 <lb n="11"/>
+ 	  [Ibn Mâmalî]n and the well-known house ...
+ 	  [............] mosques and the well-known house was [formerly] known under (the name of) Abuʾṭ-Ṭayyib b. Abiʾl-Wazîr
+		 <lb n="12"/>
+ 	  [(and) then was known under (the name of) Ġaṭârif b. Mufliḥ]. [Now] four boundaries enclo[se] and surround [this dwelling house]:
+		 <lb n="13"/>
+ 	  [the southern boundary thereof extends to .........] the property of Aḥmad, the standard-maker; and the northern
+		 <lb n="14"/>
+ 	  boundary thereof [extends to the dwelling house ...............] their [inheritance] from their father Sakrîs b. Homîse,
+		 <lb n="15"/>
+ 	  known as as-Sa[fṭî; and the eastern boundary] thereof extends to the main thoroughfares with which its door
+		 <lb n="16"/>
+ 	  communicates; and the western boundary thereof extends to the stable of the surnamed Abuʾs-Sarî, the tailor,
+		 <lb n="17"/>
+ 	  including the well of running water, situated within this boundary, being part of the rights of this dwelling house, of the half
+		 <lb n="18"/>
+ 	  of which the sale has been effected, to the limit thereof and its boundaries, and its land and its building(s) and (including what is) below
+		 <lb n="19"/>
+ 	  and above the surface, and its beams and all its appurtenances, and every right connected with it within and every
+		 <lb n="20"/>
+ 	  right connected with it without, and all that is known as appertaining and relating to it, (be it) outside
+		 <lb n="21"/>
+ 	  or inside, inhabited or empty, for a price which amounts to one and a half dînârs, [cor]rect[ly] minted,
+		 <lb n="22"/>
+ 	  good gold-coins, in cash, in form of a valid purchase and an effectal (fully) completed sale, in which is no condition
+		 <lb n="23"/>
+ 	  and no promise and op[tion (of return) and no reser]vation, and it is not in the way of a pledge; and the buyer
+		 <lb n="24"/>
+ 	  Sâra, d[aughter of Qolte, the silk-mercer, the wife of Isido]tos, son of Bîsa, originating of Tinnîs, has paid to the sellers,
+		 <lb n="25"/>
+ 	  the surnamed Abuʾl-Yu[mn and his brother Ǧamîl .................. daughter of Sakrîs]
+		 <lb n="26"/>
+ 	  b. as-Safṭî [........................]
+		 <lb n="27"/>
+ 	  which amounts [to one and a half dînârs ........................]
+		 <lb n="28"/>
+ 	  [.............................. and she has acquired possession of it for] herself, [and it has pas]sed into her hand(s) and become her own
+		 <lb n="29"/>
+ 	  [property ............... . But should any evil] consequence (vindicatio) ensue to this buyer
+		 <lb n="30"/>
+ 	  [from a]ny person whatever [.................. it is incumbent upon] the sellers to indemnify her according to their responsibility, be [they] alive
+		 <lb n="31"/>
+ 	  [or dead, and out of their o]wn means; according to what the rule of Islamic law of sale and covenant
+		 <lb n="32"/>
+ 	  [and the guarantee of its indeminity makes obligatory, and] they have guaranteed her against all claims respecting all this. (The following witnesses) have testified to the
+		 <lb n="33"/>
+ 	  [ackn]owledgment [by the sellers respecting the ]sale and their having received the whole price, and by the buyer respecting her having taken possession of it for herself,
+		 <lb n="34"/>
+ 	  they being in a state of sound mind and body and capable of transacting their business, voluntarily, without compulsion
+		 <lb n="35"/>
+ 	  and not against their will, and this in the middle decade of Šawwâl of the year four
+		 <lb n="36"/>
+ 	  hundred and fifty nine. And herein has been added a word, viz. &#034;the half&#034;, and also there (is to be found) the repetition of a word, viz.
+		 <lb n="37"/>
+ 	  &#034;minhum&#034;, and testimony has been given to it. Aḥmad b. al-Ḥusain b. Muḥammad b. Sawâhil is witness to the acknowledgment
+		 <lb n="38"/>
+ 	  by the men and the three women, who have sold, respecting the sale and the taking over the whole of
+		 <lb n="39"/>
+ 	  the (above) mentioned price and their guarantee for the infant Ǧamîl, and the taking possession by the buyer
+		 <lb n="40"/>
+ 	  of what (is contained) herein on its date.
+		 <lb n="41"/>
+ 	  Ḥakam b. ʿAbd al-Ḥamîd b. Ṣabâḥ b. Ǧamîl is witness
+		 <lb n="42"/>
+ 	  to the ackno[wledg]ment by the men respecting the sale and by the aforesaid women,
+		 <lb n="43"/>
+ 	  [...] and their guarantee for the infant Ǧamîl, and the taking possession by the buyer
+		 <lb n="44"/>
+ 	  [of what (is contained) here]in, and he has written (it) in his (own) handwriting.
+		 <lb n="45"/>
+ 	  Muhammad b. al-Ḥusain b. ʿĪsâ is witness to the acknowledgment by the men
+		 <lb n="46"/>
+ 	  and the three sellers respecting the sale and the receipt of the whole price
+		 <lb n="47"/>
+ 	  mentioned herein, and their guarantee for the infant Ǧamîl, and the taking possession
+		 <lb n="48"/>
+ 	  by the buyer of what (is contained) herein on its date.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

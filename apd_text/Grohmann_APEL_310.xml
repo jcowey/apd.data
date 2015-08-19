@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1785" xml:id="Grohmann_APEL_310" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 310</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_310</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169526</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الــ</supplied>ـرّ<supplied reason="lost" cert="high">حيـ</supplied>ـم 
+<lb n="2"/>  جعلت فداك ومد اللّه عمرك وأتم نعمتك 
+<lb n="3"/>  لو كان أعزّك اللّه عندنا <app type="BL"><lem resp="APD">رسولي </lem><rdg resp="Diem">رسول</rdg></app> 
+<lb n="4"/>  لم <app type="BL"><lem resp="APD">نحمّلك </lem><rdg resp="Diem">نحمّلك</rdg></app> مثل هذا ورجونا أيّدك 
+<lb n="5"/>  اللّه أن تصيب من بعض <app type="BL"><lem resp="APD">حاجتك </lem><rdg resp="APD">حاجتنا</rdg></app> 
+<lb n="6"/>  وقد بلغنا أن عند رجل يقال له حپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  شي جيّد بثمن دينر وقد وجّهنا <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">إليك</rdg></app> 
+<lb n="8"/>  بالثّمن <app type="BL"><lem resp="Diem">فنحب </lem><rdg resp="Diem">فنحبّ</rdg></app> <app type="BL"><lem resp="APD">أهل </lem><rdg resp="Diem">أيّدك</rdg></app> <app type="BL"><lem resp="APD">المد<supplied reason="lost" cert="high">ينة</supplied> </lem><rdg resp="Diem">اللّه</rdg></app> <supplied reason="lost" cert="high">أ</supplied>ن تتفضّل 
+<lb n="9"/>  بأن <app type="BL"><lem resp="APD">تأمر<unclear reason="undefined" cert="high">ني</unclear> </lem><rdg resp="Diem">تأخذ</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">لي</rdg></app> پعص حاحبپا الساعـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="10"/>  ولا تبطئ عنّا فإنّي أنا <app type="BL"><lem resp="APD">أعني </lem><rdg resp="Diem">أعزم</rdg></app> على الشّخوص 
+<lb n="11"/>  إلى أبي القسم وقد سأل مجيك 
+<lb n="12"/>  السّاعة ولا <app type="BL"><lem resp="APD">تتخلّـ<supplied reason="lost" cert="high">ـص</supplied> </lem><rdg resp="APD">تتخلّف</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">عنه</rdg></app> 
+<lb n="13"/>  تخر<supplied reason="lost" cert="high">ج</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">إليه</rdg></app> ا<gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧuʿiltu fidāʾa ka wa madda ăl lāhu ʿumra ka wa ʾatamma naʿmata ka 
+ <lb n="3"/>law kāna ʾaʿazza ka ăl lāhu ʿinda nā rasūl rasūl:un ī ø 
+ <lb n="4"/>lam naḥmil nuḥammil ka miṯla hāḏā wa raǧawnā ʾayyada ka 
+ <lb n="5"/>ăl lāhu ʾan tuṣība min baʿḍi ḥāǧati ka nā 
+ <lb n="6"/>wa qad balaġa nā ʾanna ʿinda raǧul:in yuqālu la hu ḥB*** 
+ <lb n="7"/>šayʾ:un ǧayyid:un bi ṯumni dīnār:in wa qad waǧǧahnā *** ʾilay ø ka 
+ <lb n="8"/>bi ăṯ ṯamani ṯumni fa nuḥibbu yuḥibbu ʾahlu ʾayyada ø ka ăl madīnaẗi lāhu ʾan tatafaḍḍala 
+ <lb n="9"/>bi ʾan taʾmura taʾḫuḏa nī ø l ø ī min baʿḍi ḥāǧati nā ăs sāʿaẗa 
+ <lb n="10"/>wa lā tubṭiʾ ʿan nā fa ʾin nī ʾanā ʾaʿnī ʾaʿzimu ʿalà ăš šuḫūṣi 
+ <lb n="11"/>ʾilà ʾabī ăl qāsimi wa qad saʾala maǧī ka 
+ <lb n="12"/>ăs sāʿaẗa wa lā tataḫallaṣ tataḫallaf *** ʿan ø hu ø ʾillā 
+ <lb n="13"/>taḫruǧu ** ʾilay ø hi ʾ*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May I be made your ransom and may God lengthen your life and complete your benefits.
+			<lb n="3"/>
+		If - may God exalt you - our messenger had been with us,
+		Wenn wir - Gott stärke Dich - einen Boten da hätten,
+			<lb n="4"/>
+		we should not have delivered such a thing to you, and we hope - may God
+		würden wir Dir derartiges (wie die folgende Bitte) nicht aufbürden. Wir haben nämlich die Hoffnung gefaßt - Gott stütze Dich -,
+			<lb n="5"/>
+		daß Du (uns) etwas von unserem Bedarf besorgst.
+		strengthen you - that you have got a portion of your wants.
+			<lb n="6"/>
+		We have already been informed that there is with a man, called Ḥ. [...]
+		Wir haben nämlich erfahren, daß ein Mann namens [...]
+			<lb n="7"/>
+		eine hervorragende Sache (dieser Art) für ein Achtel Dinar hat, und wir übersenden [Dir] hiermit
+		something excellent for an eighth of a dînâr, and we have already dispatched [...]
+			<lb n="8"/>
+		das Achtel (Dinar). Wir möchten also - G[ott] stütze Dich -, daß Du so freundlich bist,
+		for the price. Now the townspeople would like you to be kind enough
+			<lb n="9"/>
+		mir umgehend etwas von unserem Bedarf zu besorgen.
+		to give me orders, at once, concerning some of our wants,
+			<lb n="10"/>
+		and do not conceal (anything) from us; for, indeed, I allude to the going
+		and do not delay it towards us; for, indeed, I allude to the going
+		Verzögere (dies) uns gegenüber nicht, denn ich beabsichtige, mich
+			<lb n="11"/>
+		to Abu&#039;l-Qâsim. He has already demanded that you should come
+		zu Abū l-Qāsim zu begeben. Er hat um Dein
+			<lb n="12"/>
+		at once, and do not sa[ve (yourself) (?) ...]
+		sofortiges Kommen gebeten. Laß Dir also nicht einfallen, nicht [bei ihm] zu erscheinen, [sondern]
+			<lb n="13"/>
+		and go [...]
+		mach Dich auf den Weg [zu ihm
+</ab></div>
+</body>
+</text>
+</TEI>

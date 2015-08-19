@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="727" xml:id="Grohmann_Probleme_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106808</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮بسم اللّه الرّحمن الرّحيم يوم α مسرى ι 
+<lb n="2"/>  ‮براه لسليمن بن داود وزبيدة <app type="BL"><lem resp="APD">ابنت </lem><rdg resp="Diem">ابنة</rdg></app> <app type="BL"><lem resp="APD">زيد </lem><rdg resp="Diem">يزيد</rdg></app> من ثمن دينار η نقد بيت المال ووزنه أدّى‬ 
+<lb n="3"/>  <app type="BL"><lem resp="APD">زيد </lem><rdg resp="Diem">ذلك</rdg></app> على يدي سهل بن داود جهبذ كورة الفيّوم وهو عمّا يلزمه من الخراج عن مدينة 
+<lb n="4"/>  الفيّوم وذلك بمحضر من خليفتي القابلين لخراج سنة تسعة وأربعـ<supplied reason="lost" cert="high">ـين</supplied> ومائـ<supplied reason="lost" cert="high">ـتن</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi yawmu 1 misrà 10 
+ <lb n="2"/>barāʾaẗ:un li sulaymāna bni dāwūda wa zubaydaẗa ĭbnati ĭbnaẗi zayd:in yazīda min ṯumni dīnār:in 1/8 naqda bayti ăl māli wa wazna hu ʾaddà 
+ <lb n="3"/>zayd:un ḏālika ʿalà yaday sahli bni dāwūda ǧahbaḏi kūraẗi ăl fayyūmi wa huwa ʿammā yalzamu hu mina ăl ḫarāǧi ʿan madīnaẗi 
+ <lb n="4"/>ăl fayyūmi wa ḏālika bi maḥḍar:in min ḫalīfaẗayi ăl qābilayni li ḫarāǧi sanaẗi tisʿaẗ:in wa ʾarbaʿīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen! (Wochen)tag 1 (= Sonntag) Mesore 10.
+			<lb n="2"/>
+		Quittung für Sulaimān b. Dāwid und Zubaida Tochter des Zaid über ein Achtel Dīnār 1/8 vollwertiger und vollwichtiger Münze des Schatzhauses, (die) erlegt hat
+			<lb n="3"/>
+		Zaid zu Händen des Sahl b. Dāwid, Säckelwarts des Kreises al-Fayyūm und zwar von ihrer Schuldigkeit an der Grundsteuer von Madīnat
+			<lb n="4"/>
+		al-Fayyūm und dies in Gegenwart der beiden Stellvertreter der beiden Steuereinnehmer für die Steuer des Jahres zweihund[ert]neunund[vier]zig.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1349" xml:id="FrantzMurphy_Comparison_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyComparison I 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">FrantzMurphy_Comparison_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169150</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترت حرميذة ابنت ببسطلس بن هنوفة من أختها فنورة ابنت ببسطلس من 
+<lb n="3"/>  سكّن ططون من كورة الفيّوم اشترت منها حصّتها من منزل والدهما وهو ثمانية أ<supplied reason="lost" cert="high">سـ</supplied>ـهم 
+<lb n="4"/>  من أربعة وعشرين سهما <app type="BL"><lem resp="APD">پحدوده </lem><rdg resp="Diem">بحدّه</rdg></app> <app type="BL"><lem resp="APD">وسڤـه </lem><rdg resp="Diem">وحدوده</rdg></app> وعلوه داحل وحارح مپه <supplied reason="lost" cert="high">وحـ</supplied>ـده 
+<lb n="5"/>  القبلي منزل ورثة مونة الأصم وحدّه البحري منزل موسى أبو ستار وحدّه الـ<supplied reason="lost" cert="high">ـشّر</supplied>قـ<supplied reason="lost" cert="high">ـيّ</supplied> منزل ورثة <app type="BL"><lem resp="APD">دمينى </lem><rdg resp="APD">دمينى</rdg></app> 
+<lb n="6"/>  بن تانوا وحدّه الغربي منزل ورثة أبو الحسين اشترت ذلك منها بثلاثة الدّنانير معسولة عينا 
+<lb n="7"/>  ذهبا وازن بالـجديد قد قبضت فنورة ابنت ببسطلس الثّمن تامّا وافيا وبر<unclear reason="undefined" cert="high">ئت</unclear> مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">حصّتـ</supplied>ــها 
+<lb n="8"/>  من هذا المنزل الموصوف في هذا الكتاب وسلّمت ذلك إلى <app type="BL"><lem resp="APD">حرميدة </lem><rdg resp="APD">حرميذة</rdg></app> ابنت 
+<lb n="9"/>  ببسطلس وقبضته وحازته وملكته وصار ذلك مالها وملك من ملكها إن <app type="BL"><lem resp="APD">شيت </lem><rdg resp="APD">شئت</rdg></app> 
+<lb n="10"/>  باعيت وإن <app type="BL"><lem resp="APD">شيت </lem><rdg resp="APD">شئت</rdg></app> بنيت وإن <app type="BL"><lem resp="APD">شئت </lem><rdg resp="APD">شئت</rdg></app> سكنت ليس لفنورة ابنت ببسطلس في 
+<lb n="11"/>  هذا المنزل بعد هذا الكتاب دعوى ولا طلبة بوجه من الوجوه ولا سبب من الأسباب 
+<lb n="12"/>  باعيت ذلك على شرط بيع الإسلام وعهدته فما كان من علقة أو <supplied reason="lost" cert="high">طارئ</supplied> 
+<lb n="13"/>  بدين <app type="BL"><lem resp="APD">فإنفاذ </lem><rdg resp="Diem">فنفاذ</rdg></app> ذلك وخلاصه على فنورة ابنت ببسطلس بالغ ما <supplied reason="lost" cert="high">بلغ</supplied> من خالص مالها 
+<lb n="14"/>  شهد على إ<supplied reason="omitted" cert="high">قرار</supplied> فنورة ابنت ببسطلس بن هنوفة بجميع ما في هذا الكتاب بعد أن قرئ 
+<lb n="15"/>  عليها بالعربيّة وفسّر لها بالعجميّة في صحّة عقلها وبدنها وجواز أمرها طائعة 
+<lb n="16"/>  غير مكرهة ولا مجبرة ولا مضطهدة طالبة راغبة وذلك في <sic n="superfluous">المحرم</sic> صفر من سنة 
+<lb n="17"/>  خمسين وثلثمائة شهد عمر بن موسى شهادتهم على إقرار<supplied reason="lost" cert="high">هم</supplied> بجميعه <unclear reason="undefined" cert="high">في</unclear> <unclear reason="undefined" cert="high">تأريخه</unclear> <unclear reason="undefined" cert="high">وتأريخها</unclear> <unclear reason="undefined" cert="high">صفر</unclear> <unclear reason="undefined" cert="high">وكتب</unclear> <unclear reason="undefined" cert="high">شهادته</unclear> في تأريخه بخطّه 
+<lb n="18"/>  شهد إسمعيل بن عبد القاهر على إقرار فنورة ابنت ببسطلس بجميع <unclear reason="undefined" cert="high">ما</unclear> في هذا الكتاب وكتب شهادته في تأريخه 
+<lb n="19"/>  شهد <unclear reason="undefined" cert="high">المنسا</unclear> <unclear reason="undefined" cert="high">بن</unclear> <unclear reason="undefined" cert="high">مقرّ</unclear> بجميع ما في هذا الكتاب وكتب شهادته بخطّه في تأريخ <supplied reason="lost" cert="high">إقـ</supplied>ـرارهم شهاداتهم وكتب عنها <app type="BL"><lem resp="written above the end of line 19"><supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">اليسع</rdg></app> <app type="BL"><lem resp="written above the end of line 19"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بن</rdg></app> عمر <supplied reason="lost" cert="high">بن</supplied> <app type="BL"><lem resp="written above the end of line 20"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">موسى</rdg></app> 
+<lb n="20"/>  شهد علي بن جبريل بجميع ما في هذا الكتاب وكتب بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarat ḥurmīḏaẗu ĭbnatu babasṭalasa bni hanūfaẗa min ʾuḫti hā fanūraẗa ĭbnati babasṭalasa min 
+ <lb n="3"/>sukkāni ṭuṭūna min kūraẗi ăl fayyūmi ĭštarat min hā ḥiṣṣata hā min manzili wālidi himā wa huwa ṯamāniyaẗu ʾashum:in 
+ <lb n="4"/>min ʾarbaʿaẗi wa ʿišrīna sahm:an ø bi ø ḥaddi ø hi bi wa ḥudūdi hi wa sufli hi wa ʿulwi hi dāḫil wa ḫāriǧ min hu wa ḥaddu hu 
+ <lb n="5"/>ăl qibliyyu manzilu waraṯaẗi mūnaẗa ăl ʾaṣammi wa ḥaddu hu ăl baḥriyyu manzilu mūsà ʾabū satāra sutāra wa ḥaddu hu ăš šarqiyyu manzilu waraṯaẗi damiyanà damiyanī 
+ <lb n="6"/>bni tānū wa ḥaddu hu ăl ġarbiyyu manzilu waraṯaẗi ʾabū ăl ḥusayni ĭštarat ḏālika min hā bi ṯalāṯaẗi ăd danānīri maʿsūlaẗ:in ʿayn:an 
+ <lb n="7"/>ḏahab:an wāzin:in bi ăl ǧadīdi qad qabaḍat fanūraẗu ĭbnatu babasṭalasa ăṯ ṯamana tāmm:an wāfiy:an wa bariʾat min ḥiṣṣati hā 
+ <lb n="8"/>min hāḏā ăl manzili ăl mawṣūfi fī hāḏā ăl kitābi wa sallamat ḏālika ʾilà ḥurmīḏaẗa ḥurmīdaẗa ĭbnati 
+ <lb n="9"/>babasṭalasa wa qabaḍat hu wa ḥāzat hu wa malakat hu wa ṣāra ḏālika māla hā wa milk min milki hā ʾin šāyat šiʾti 
+ <lb n="10"/>bāʿayat bāʿayti wa ʾin šāyat šiʾti banayat banayti wa ʾin šāyat šiʾti sakanat sakanti laysa li fanūraẗa ĭbnati babasṭalasa fī 
+ <lb n="11"/>hāḏā ăl manzili baʿda hāḏā ăl kitābi daʿw:an wa lā ṭalibaẗ:un bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi 
+ <lb n="12"/>bāʿayat ḏālika ʿalà šarṭi bayʿi ăl ʾislāmi wa ʿuhdati hi fa mā kāna min ʿulqaẗ:in ʾaw ṭāriʾ:in 
+ <lb n="13"/>bi dayn:in fa ʾinfāḏu nafāḏu ḏālika wa ḫalāṣu hu ʿalà fanūraẗa ĭbnati babasṭalasa bāliġ:un mā balaġa min ḫāliṣi māli hā 
+ <lb n="14"/>šuhida ʿalà ʾiqrāri fanūraẗa ĭbnati babasṭalasa bni hanūfaẗa bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa 
+ <lb n="15"/>ʿalay hā bi ăl ʿarabiyyaẗi wa fussira la hā bi ăl ʿaǧamiyyaẗi fī ṣiḥḥaẗi ʿaqli hā wa badani hā wa ǧawāzi ʾamri hā ṭāʾiʿaẗ:an 
+ <lb n="16"/>ġayra mukrahaẗ:in wa lā muǧbaraẗ:in wa lā muḍṭahadaẗ:in ṭālibaẗ:an rāġibaẗ:an wa ḏālika fī ṣafar:in min sanaẗi 
+ <lb n="17"/>ḫamsīna wa ṯalāṯi miʾaẗ:in šahida ʿumaru bnu mūsà šahādata hum ʿalà ʾiqrāri him bi ǧamīʿi hi fī taʾrīḫi hi wa taʾrīḫu hā ṣafar:un wa kataba šahādata hu fī taʾrīḫi hi bi ḫaṭṭi hi 
+ <lb n="18"/>šahida ʾismāʿīlu bnu ʿabdi ăl qāhiri ʿalà ʾiqrāri fanūraẗa ĭbnati babasṭalasa bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu fī taʾrīḫi hi 
+ <lb n="19"/>šahida ăl munasā bnu maqarr:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi fī taʾrīḫi ʾiqrāri him šahādāti him wa kataba ʿan hā ăl *** yasaʿu *** bnu ʿumara bni *** mūsà 
+ <lb n="20"/>šahida ʿaliyyu bnu ǧabrayala ǧabrayla ǧabrīla ǧibrīla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Merciful, the Compassionate.
+			<lb n="2"/>
+		This is what Ḥurmīdha daughter of Babasṭalas son of Hanūfah bought from her sister, Fanūra daughter of Babasṭalas, from among
+			<lb n="3"/>
+		the residents of Ṭuṭūn in the District of the Fayyūm. She bought from her her right in the residence from their father, and that is eight p[ar]ts
+			<lb n="4"/>
+		of four and twenty parts, with its boudaries, and below and above it, and inside and outside of it.
+			<lb n="5"/>
+		Its southern [bounda]ry is the residence of the heirs of Mūnah the Deaf. Its northern boundary is the residence of Mūsā the father of Sutār. Its eastern boudary is the residence of the heirs of Damiyani
+			<lb n="6"/>
+		son of Tānū. Its western boundary is the residence of the heirs of the father of al-Ḥusayn. She bought that from her for three dinars unadulterated, minted
+			<lb n="7"/>
+		gold of full, new weight. Fanūra daughter of Babasṭalas has taken (lit. &#034;with the hands&#034;) the price without any remainder and in full. And she has re[moved herself] fr[om] her [share]
+			<lb n="8"/>
+		in that residence descirbed in this document. And she delivered that to Ḥurmīda daughter
+			<lb n="9"/>
+		of Babasṭalas. She took it, and she took property of it, and she took ownership of it and that became her property, possessed out of her right of possession. If she wishes
+			<lb n="10"/>
+		she may sell, and if she wishes she may build, and if she wishes she may reside. There is not belonging to Fanūra daughter of Babasṭalas in
+			<lb n="11"/>
+		that residence after this recording any claim and no demand, not for any cause, not for any reason.
+			<lb n="12"/>
+		She sold that residence according to the stipulation of the sale of Islam and its contract. And whatever there may be by way of an attachment to the property, or should [someone come adventitiously]
+			<lb n="13"/>
+		because of a loan, the execution of that and the clearance of that will be the obligation of Fanūra daughter of Babasṭalas for the worth to which it amounts, out of her clear property.
+			<lb n="14"/>
+		Testimony was given to the a&lt;ffirmation&gt; of Fanūra daughter of Babasṭalas son of Hanūfah as to all that is in this document, after it was read
+			<lb n="15"/>
+		to her in Arabic and explained to her in the foreign language, she being of sound mind and body and her action legal, being willing,
+			<lb n="16"/>
+		without being averse, not being compelled, not being treated injustly, she being the petitioner and the one desiring. And that is in Muḥa/rram Ṣafar of the year
+			<lb n="17"/>
+		fifty and three hundred. (2nd hand) ʿUmar son of Mūsā witnessed their testimony with respect to their affirmation in its entirety (on its date [written above the line:] and its date is Ṣafar) and he wrote with his hand.
+			<lb n="18"/>
+		(3d hand) Ismaʿīl son of ʿAbd al-Qāhir testified respecting the affirmation of Fanūra daughter of Babasṭalas to all (that which) is in this document, and he wrote his testimony on its date.
+			<lb n="19"/>
+		(4th hand) (Al-Munasā son of Maqarr) bore witness to all that is in this document and he wrote his testimony with his own hand on the date of their [affir]mation. [above the line:] al-[   ] their testimony (5th hand) And wrote on her behalf [above the end of line 20:] ʿUmar [son of    ]
+		(4th hand) (Al-Munasā son of Maqarr) bore witness to all that is in this document and he wrote his testimony with his own hand on the date of their [affir]mation. [above the line:] their testimony (5th hand) And wrote on her behalf wrote [above the line:] al-[Yasaʿ b.] [above the end of line 20:] ʿUmar [son of Mūsā]
+			<lb n="20"/>
+		(6th hand) ʿAlī son of Jabrayal bore witness to all that which is in this document and he wrote with his hand.
+</ab></div>
+</body>
+</text>
+</TEI>

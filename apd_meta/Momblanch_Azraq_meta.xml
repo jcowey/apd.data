@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- declare languages as per TEI -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2057" xml:id="Momblanch_Azraq_meta" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>P.MomblanchAzraq (= P.BarceloAzraq 1 = P.BurnsRendicio = P.BurnsAzraq = P.GuichardValence 68a = P.BurnsTreaties 1)</title>
+	</titleStmt>
+         <publicationStmt>
+            <authority>The Arabic Papyrology Database</authority>
+            <idno type="filename">Momblanch_Azraq</idno>
+            <idno type="ddb-perseus-style"></idno>
+            <idno type="ddb-hybrid"></idno>
+            <idno type="HGV"></idno>
+            <idno type="TM"></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+		<msIdentifier>
+			<placeName>
+				<settlement>Data carta apud Puteulum, Font del Pouet / El Poet, Alcalà</settlement>
+			</placeName>
+		</msIdentifier>
+		<physDesc>
+			<objectDesc>
+				<supportDesc>
+					<support>
+						<material>parchment</material>
+					</support>
+				</supportDesc>
+			</objectDesc>
+		</physDesc>
+		<history>
+			<origin>
+					<origPlace ref="http://www.trismegistos.org/place/19746">Valle de Alcalà</origPlace>
+					<origDate notBefore="1245" >15 ḏu ăl qaʿdaẗ 642 AH [latin version: XVI die aprilis era MCCLXXXII]</origDate>
+			</origin>
+			<provenance type="located">
+					<placeName ref="http://www.trismegistos.org/place/19746">Valle de Alcalà</placeName>
+			</provenance>
+		</history>
+	   </msDesc>
+         </sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>
+			This file is encoded to comply with EpiDoc Guidelines and Schema version 8
+			<ref>http://www.stoa.org/epidoc/gl/5/</ref>
+		</p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="fr">Französisch</language>
+			<language ident="en">Englisch</language>
+			<language ident="de">Deutsch</language>
+			<language ident="it">Italienisch</language>
+			<language ident="es">Spanisch</language>
+			<language ident="la">Latein</language>
+			<language ident="el">Griechisch</language>
+		</langUsage>
+		<textClass>
+			<keywords scheme="apd">
+				<term></term>
+			</keywords>
+		</textClass>
+	</profileDesc>
+	<revisionDesc>
+			<change who="apd" when="2015-02-23">Record created</change>
+	</revisionDesc>
+   </teiHeader>
+<text>
+	<body>
+		<div type="bibliography" subtype="principalEdition">
+			<listBibl>
+					<bibl type="publication">
+						<title>Momblanch y Gonzálbez / Barceló Torres, Azraq</title>
+					</bibl>
+			</listBibl>
+		</div>
+		<div type="bibliography" subtype="principalEdition">
+			<listBibl>
+					<bibl type="publication">
+						<title>Barceló Torres, Azraq 1</title>
+					</bibl>
+			</listBibl>
+		</div>
+		<div type="bibliography" subtype="principalEdition">
+			<listBibl>
+					<bibl type="publication">
+						<title>Burns / Chevedden, Rendició</title>
+					</bibl>
+			</listBibl>
+		</div>
+		<div type="bibliography" subtype="principalEdition">
+			<listBibl>
+					<bibl type="publication">
+						<title>Burns / Chevedden, Al-Azraq</title>
+					</bibl>
+			</listBibl>
+		</div>
+		<div type="bibliography" subtype="principalEdition">
+			<listBibl>
+					<bibl type="publication">
+						<title>Guichard, Valence 68a</title>
+					</bibl>
+			</listBibl>
+		</div>
+		<div type="bibliography" subtype="principalEdition">
+			<listBibl>
+					<bibl type="publication">
+						<title>Burns / Chevedden, Treaties, Chapter Three</title>
+					</bibl>
+			</listBibl>
+		</div>
+	</body>
+</text>
+</TEI>

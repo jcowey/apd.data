@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="466" xml:id="Grohmann_TWAe_22" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 22 (= P.World p. 154 a)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_22</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106653</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  زيت كتّان 
+ <lb n="2"/>  ام <app type="BL"><lem resp="APD">عبّسيه </lem><rdg resp="“Grohmann, World p. 154 a”">عبّٰسيّة</rdg></app> قسط β 
+ <lb n="3"/>  ورپپ فجل قسط δʹ‎ 
+ <lb n="4"/>  زيت فجل 
+ <lb n="5"/>  <app type="BL"><lem resp="APD">حدحه </lem><rdg resp="“Grohmann, World p. 154 a”">‮خديجة‬</rdg></app> قسط <app type="BL"><lem resp="APD">χδʹ‎ </lem><rdg resp="“Grohmann, World p. 154 a”">δʹ</rdg></app> 
+ <lb n="6"/>  ورپپ كتّان قسط δʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>zaytu kattān:in 
+ <lb n="2"/>ʾummu ʿabbāsiyyaẗa ʿabsiyyaẗa qisṭ 2 
+ <lb n="3"/>wa zaytu fuǧl:in qisṭ 1/4 
+ <lb n="4"/>zaytu fuǧl:in 
+ <lb n="5"/>ḥadaǧaẗu ḫadīǧaẗu qisṭ 1/2+1/4 1/4 
+ <lb n="6"/>wa zaytu kattān:in qisṭ 1/4 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Leinöl
+ 	  Linseed-oil
+		 <lb n="2"/>
+ 	  Umm ʿAbbâsîya xestes 2
+ 	  Umm ʿAbsīya 2
+		 <lb n="3"/>
+ 	  and radish-oil xestes 1/4
+ 	  und Rettichöl Xestes 1/4
+		 <lb n="4"/>
+ 	  radish-oil
+ 	  Rettichöl
+		 <lb n="5"/>
+ 	  Ḥadaǧa(?) Xestes 1/2 + 1/4
+ 	  Khadîga xestes 1/4
+		 <lb n="6"/>
+ 	  and linseed-oil xestes 1/4
+ 	  und Leinöl Xestes 1/4.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

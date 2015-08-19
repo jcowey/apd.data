@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2094" xml:id="HanafiTwoArabicDocuments020" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HanafiTwoArabicDocuments 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">HanafiTwoArabicDocuments020</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لم</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـعلمني <unclear reason="undefined" cert="high">خـ</unclear>ـبرا كما هو أهله 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فلا</supplied> <supplied reason="lost" cert="high">تر</supplied>ك جوابا ولا آثار خلفه 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> بل وخرج <unclear reason="undefined" cert="high">خاليا</unclear> إنّه الطّريق 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> وأنا بذلك يأبا مغموم بأمرك 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> ما في لا شي في الأمر أعلمني خبرك 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">وأسرار</unclear> ذلك بعد إن شا اللّه 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أتمّ</supplied> نعمته عليك وزاد في إحسانه إليك عبدك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** 
+ <lb n="2"/>*** lam yuʿlim nī ḫabar:an kamā huwa ʾahlu hu 
+ <lb n="3"/>*** fa lā taraka ǧawāb:an wa lā ʾāṯār ḫalfa hu 
+ <lb n="4"/>*** bal wa ḫaraǧa ḫāliy:an ʾinna hu ăṭ ṭarīqu 
+ <lb n="5"/>*** wa ʾanā bi ḏālika yā ʾabā maġmūm:in maġmūm:un bi ʾamri ka 
+ <lb n="6"/>*** mā fī lā šayʾa fī ăl ʾamri ʾaʿlim nī ḫabara ka 
+ <lb n="7"/>*** wa ʾasrāra ḏālika baʿdu ʾin šāʾa ăl lāhu 
+ <lb n="8"/>*** ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka ʿabdu ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		He did not write me any news as he himself used to do.
+			<lb n="3"/>
+		] So, neither he sent a letter nor even left any traces behind him.
+			<lb n="4"/>
+		] But he also went out with nothing. It is the was (i.e. he took the way of the mystics).
+			<lb n="5"/>
+		Therefore, I] feel sory, O father, for your condition.
+			<lb n="6"/>
+		] There is nothing in this case. Write to me about your news
+			<lb n="7"/>
+		] And the mysteries of this later, if Allah wills.
+			<lb n="8"/>
+		] May he fulfill His loving kindness unto you, and may He increase His bounty unto you. Your obedient.
+</ab></div>
+</body>
+</text>
+</TEI>

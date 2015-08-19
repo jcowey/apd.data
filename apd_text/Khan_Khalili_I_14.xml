@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1471" xml:id="Khan_Khalili_I_14" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 14 (= P.Khalili II 34)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_14</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169253</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّ<supplied reason="lost" cert="high">حمن</supplied> الــ<supplied reason="lost" cert="high">ـرّحيم</supplied> 
+ <lb n="2"/>  لأبي يعفر عافاه اللّه من مكيس بن صمون سلم عليك فإنّي <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">عليك</supplied> 
+ <lb n="3"/>  اللّه الّذي لا إله إلّا هو <supplied reason="lost" cert="high">تعالى</supplied> 
+ <lb n="4"/>  أمّا بعد أصلحك وحفظك وأتم عليك في الأمور كلّها 
+ <lb n="5"/>  نعمته كتبت إليك عافاك اللّه وما قبلنا مـ<supplied reason="lost" cert="high">ـن</supplied> ضيعتك على ما 
+ <lb n="6"/>  يسرّك واللّه محمود بلغـني كتابك أطال اللّه بقاك فسرّني سلامتك <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وأ</supplied>سل </lem><rdg resp="Diem">فأسل</rdg></app> اللّه الرّحمن الرّحيم 
+ <lb n="7"/>  أن <app type="BL"><lem resp="APD">يسقيك </lem><rdg resp="Diem">يبقيك</rdg></app> و<supplied reason="lost" cert="high">أ</supplied>ن يرينا فيك العافية ولا يريـنا فيك شاي نكرهه أبدا فإن 
+ <lb n="8"/>  بقاك لنا بقا 
+ <lb n="9"/>  وكتـ<supplied reason="lost" cert="high">ـبـ</supplied>ـت <app type="BL"><lem resp="APD">إليـ<supplied reason="omitted" cert="high">ـنـ</supplied>ـا </lem><rdg resp="APD">إليّا</rdg></app> أنّك لا تدري ما منعني من البعثة بما <supplied reason="lost" cert="high">كـ</supplied>ـنت أوصيتني 
+ <lb n="10"/>  من المتاع وإنّه أوّل ما قدمت القرية قدم زياد <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>لعزيز على 
+ <lb n="11"/>  الّذي <app type="BL"><lem resp="APD">والي </lem><rdg resp="LS">والى</rdg></app> على بو كبير <app type="BL"><lem resp="APD">فأسعاني </lem><rdg resp="APD">فأشغلني</rdg></app> في الغرم والـسّجن <gap reason="illegible" precision="low" extent="3"/> لي وألقاني 
+ <lb n="12"/>  بإيد صلح بن البنا<supplied reason="lost" cert="high">نيّ</supplied> <gap reason="illegible" precision="low" extent="3"/> عر<gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">ابن</unclear> <gap reason="illegible" precision="low" extent="3"/> دينر واحـ<supplied reason="lost" cert="high">ـژ</supplied> <supplied reason="lost" cert="high">أسـ</supplied>ـعاني بعت 
+ <lb n="13"/>  فيها كل شاي <supplied reason="lost" cert="high">أ</supplied>ملكه لي أو لأهلي ثم أنّه لم يمنعني من <unclear reason="undefined" cert="high">ذ</unclear><supplied reason="lost" cert="high">لك</supplied> 
+ <lb n="14"/>  أن <app type="BL"><lem resp="APD">أنسا </lem><rdg resp="Diem">أنسا </rdg><rdg resp="Diem">أنسأ</rdg></app> شاي ممّا وكّلتني به إلّا أنّي <app type="BL"><lem resp="APD">أردت </lem><rdg resp="Diem">لبثب</rdg></app> أن أدب في <supplied reason="lost" cert="high">أسـ</supplied>ـقيتنا الكبيرة 
+ <lb n="15"/>  لأنّهم أحفض لمـ<supplied reason="lost" cert="high">ـسـ</supplied>ـقا من غيرهم 
+ <lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> الّتي بعثت <app type="BL"><lem resp="APD">بها </lem><rdg resp="APD">بما</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">عمـپى</unclear> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/>ه واما 
+ <lb n="verso"/>  لأبي يعفر عافاه اللّه من مكيس بن صـ<supplied reason="lost" cert="high">ـمو</supplied>ن 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li ʾabī yaʿfura ʿāfā hu ăl lāhu min mikīsa bni ṣamūna salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʿalay ka 
+ <lb n="3"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa taʿālà 
+ <lb n="4"/>ʾammā baʿdu ʾaṣlaḥa ka wa ḥafiẓa ka wa ʾatamma ʿalay ka fī ăl ʾumūri kulli hā 
+ <lb n="5"/>niʿmata hu katabtu ʾilay ka ʿāfā ka ăl lāhu wa mā qibala nā min ḍayʿati ka ʿalà mā 
+ <lb n="6"/>yasurru ka wa ăl lāhu maḥmūd:un balaġa nī kitābu ka ʾaṭāla ăl lāhu baqāʾa ka fa sarra nī salāmatu ka wa fa ʾasalu ăl lāha ăr raḥmāna ăr raḥīma 
+ <lb n="7"/>ʾan yasqiya yubqiya ka wa ʾan yuriya nā fī ka ăl ʿāfiyaẗa wa lā yuriya nā fī ka šāy nakrahu hu ʾabad:an fa ʾinna 
+ <lb n="8"/>baqāʾa ka la nā baqāʾ:un 
+ <lb n="9"/>wa katabta ʾilay nā yā ʾanna ka lā tadrī mā manaʿa nī mina ăl baʿṯaẗi bi mā kunta ʾawṣayta nī 
+ <lb n="10"/>mina ăl matāʿi wa ʾinna hu ʾawwala mā qadimtu ăl qaryaẗa qadima ziyādu *** ăl ʿazīzu ʿalà 
+ <lb n="11"/>ăllaḏī wālà wālī ʿalà bū kabīr:in fa ʾasʿā ʾašġala nī fī ăl ġurmi wa ăs siǧni *** l ī wa ʾalqā nī 
+ <lb n="12"/>bi ʾīdi ṣāliḥi bni ăl bunāniyyi *** ʿr*** ĭbni *** dīnār wāḥ* ʾasʿā nī biʿtu 
+ <lb n="13"/>fī hā kulla šāy:in ʾamliku hu l ī ʾaw li ʾahl ī ṯumma ʾanna hu lam yamnaʿ nī min ḏālika 
+ <lb n="14"/>ʾan ʾansā ʾansaʾa ʾnšʾ šāy mim mā wakkalta nī bi hi ʾillā ʾan nī ʾaradtu labiṯtu ʾan ʾadaba fī ʾasqiyati nā ăl kabīraẗi 
+ <lb n="15"/>liʾanna hum ʾaḥfaḍu li misqā min ġayri him 
+ <lb n="16"/>*** ăllatī baʿaṯtu bi bi hā mā ø *** ġamma nī ***ẗ wa ʾammā 
+ <lb n="17"/>li ʾabī yaʿfura ʿāfā hu ăl lāhu min mikīsa bni ṣamūna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the merciful and compassionate.
+		 <lb n="2"/>
+ 	  To ʾAbū Yaʿfur, may God give him health, from Mikis ibn Samūn. Peace be upon you. I praise for your sake God,
+		 <lb n="3"/>
+ 	  other than Whom there is no other god, He is exalted.
+		 <lb n="4"/>
+ 	  As for what follows, may He grant you well being, preserve you and give you your full measure of his favours in all matters,
+		 <lb n="5"/>
+ 	  I am writing to you, may God grant you health, while your estate here is as you
+		 <lb n="6"/>
+ 	  ... [So] bitte ich denn Gott...
+ 	  wish, God be praised. Your letter reached me, may God prolong your life, and I was pleased (to hear of) your good health. I ask God, the merciful and compassionate,
+		 <lb n="7"/>
+ 	  dich weiter am Leben zu erhalten... , denn
+ 	  to send down rain to you and to cause us to see you in health and never to see you in a state which displeases us, for
+		 <lb n="8"/>
+ 	  daß Du weiterlebst bedeutet (auch) für uns Weiterleben.
+ 	  your life is our life.
+		 <lb n="9"/>
+ 	  You wrote to me that you do not know what prevented me from sending the goods which you had commissioned me with.
+		 <lb n="10"/>
+ 	  As soon as I reached the village Ziyād [   ] al-ʿAzīz went to
+		 <lb n="11"/>
+ 	  the head of Bū Kabīr and he imposed upon me a fine and a prison sentence [   ] and threw me
+ 	  to the one who protects Bū Kabīr...
+ 	  ... und er ließ mich meinen Lebensunterhalt wegen der Strafe und des Gefängnisses verdienen. / ... und er bewirkte, daß ich mit der Geldstrafe und dem Gefängnis voll in Anspruch genommen war.
+		 <lb n="12"/>
+ 	  into the hands of Ṣāliḥ ibn al-Bunā[nī   ]...[  ]...[  ]dīnār and...[   ]... and I sold
+		 <lb n="13"/>
+ 	  for it (i.e. the fine (?)) every thing which I and my family own. Then none of this prevented me from
+		 <lb n="14"/>
+ 	  addressing anything which you commissioned me with, except that I wanted to pursue the journey with our large water-skins
+ 	  etwas von den mir von Dir erteilten Aufträgen zu vergessen (bzw. aufzuschieben); vielmehr zögerte ich, ...
+		 <lb n="15"/>
+ 	  since they are more retentive of water than the others
+		 <lb n="16"/>
+ 	  [....] which I sent, troubles me [   ] and as for...
+		 <lb n="17"/>
+ 	  To ʾAbū Yaʿfur, may God grant him health, from Mikis ibn Samūn.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

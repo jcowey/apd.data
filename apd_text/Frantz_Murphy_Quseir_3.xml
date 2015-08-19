@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1022" xml:id="Frantz_Murphy_Quseir_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyQuseir 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz_Murphy_Quseir_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168909</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> عماد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> وهو محمّد العبّاس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إلى</supplied> دعا له يا مغفرة <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> أيقن بأن الموت لا شكر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> كاملو وكان الفروغ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وسبعين وثمان مـ<supplied reason="lost" cert="high">ـائة</supplied> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ʿimād *** 
+ <lb n="2"/>*** wa huwa muḥammad:uni ăl ʿabbāsu *** 
+ <lb n="3"/>*** ʾilà duʿāʾ:in la hu yā maġfiraẗu mina ăl lāhi *** 
+ <lb n="4"/>*** ʾayqana bi ʾanna ăl mawta lā šukra *** 
+ <lb n="5"/>*** kāmalū wa kāna ăl furūġu *** 
+ <lb n="6"/>wa sabʿīna wa ṯamāni miʾaẗ:in 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		support
+			<lb n="2"/>
+		and he is Muḥammad al ʿAbbās
+			<lb n="3"/>
+		(to) a call for him, oh forgiveness (from God ...)
+			<lb n="4"/>
+		it is certain that death without doubt
+			<lb n="5"/>
+		they completed and the expiration was
+			<lb n="6"/>
+		seventy and eight hundred
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="82" xml:id="Grohmann_APEL_79" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 079</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_79</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106505</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> فـ<supplied reason="lost" cert="high">ـدّان</supplied> <supplied reason="lost" cert="high">بدينر </supplied>
+<lb n="4"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> ‪λ‬ ‪κε‬ من ‪χγʹ‬ 
+<lb n="5"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيـ</supplied>ـم 
+<lb n="6"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> من محمّد بن عيسى مولى أمير المومپپن متقبّل البقط والمقبوض 
+<lb n="7"/>  <supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" extent="4" unit="character" />ان مولى أمير المومپپن أطال اللّه بقاهما 
+<lb n="8"/>  <supplied reason="lost" cert="high">وهما</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سكّان</supplied> <supplied reason="lost" cert="high">مد</supplied>ينة أشمون إنّك سألتنى وطلبت إلى أن أكريك 
+<lb n="9"/>  <supplied reason="lost" cert="high">ثلاثين</supplied> <supplied reason="lost" cert="high">فدّانا</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ا</supplied>لبقط المعروف بسفط من الـ<supplied reason="lost" cert="high">ضّيـ</supplied>ـعة الّتي شرقي 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن مسيس ارض معاني وپدوپية ممّـ<supplied reason="lost" cert="high">ـا</supplied> كان في يدي أهل 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا لـ<gap reason="illegible" precision="low" extent="3"/> ـ<gap reason="illegible" extent="1" unit="character" />ـن <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا والعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ ڤإحپـ<supplied reason="lost" cert="high">ـپك</supplied> <supplied reason="lost" cert="high">الى</supplied> ما 
+<lb n="12"/>  <supplied reason="lost" cert="high">منّى</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>********** 
+ <lb n="2"/>********** 
+ <lb n="3"/>*** faddān:un bi dīnār:in 
+ <lb n="4"/>*** 30 25 min 1/2+1/3 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>hāḏā kitāb:un min muḥammadi bni ʿīsà mawlà ʾamīri ăl muʾminīna mutaqabbili ăl baqṭi wa ăl maqbūḍi 
+ <lb n="7"/>li *** bni ****āna mawlà ʾamīri ăl muʾminīna ʾaṭāla ăl lāhu baqāʾa humā 
+ <lb n="8"/>wa humā min sukkāni madīnaẗi ʾušmūna ʾinna ka saʾalta nī wa ṭalabta ʾilay ya ʾan ʾukriya ka 
+ <lb n="9"/>ṯalāṯīna faddān:an mina ăl baqṭi ăl maʿrūfi bi safṭ:in min ăḍ ḍayʿaẗi ăllatī šarqiyya 
+ <lb n="10"/>*** bni musīsa ʾarḍ:un mʿʾny wa BdwByẗ mimmā kāna fī yaday ʾahli 
+ <lb n="11"/>***ā l****n ***ā wa ăl ʿ*B fa ʾaǧabtu ka ʾilà mā ṭalabta 
+ <lb n="12"/>minn ī *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="3"/>
+		[Fa]ddân for dînâr(s)
+			<lb n="4"/>
+		30   25   reckoning at a half and a third (of a dînâr per faddân).
+			<lb n="5"/>
+		[In the name of God, the Compassionate, the Mercifu]l.
+			<lb n="6"/>
+		[This is a document] from Muḥammad b. ʿÎsâ, the freedman of the Commander of the Faithful, the lessee of the land-holding and of revenue, 
+			<lb n="7"/>
+		[for So and So, son of .... ]ân, freedman of the Commander of the Faithful, - may God prolong their life -
+			<lb n="8"/>
+		[who both are numbered among the inhabitants of the to]wn of Ašmûn: Verily thou hast asked and petitioned, that I lease unto thee
+			<lb n="9"/>
+		[thirty faddâns of th]e holding known as Safṭ of the [dom]ain, which lies easterly
+			<lb n="10"/>
+		[of ..............., so]n of Moses, land of .................., (which) had been in the hands of the people 
+			<lb n="11"/>
+		[of ...] ............... I have, therefore, granted [thee] what thou hast petitioned 
+			<lb n="12"/>
+		[of me ...] ...
+</ab></div>
+</body>
+</text>
+</TEI>

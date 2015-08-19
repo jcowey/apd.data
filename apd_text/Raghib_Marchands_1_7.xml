@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="393" xml:id="Raghib_Marchands_1_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands I 07</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_Marchands_1_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106601</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  ذكر حق أبي هريرة على شعيب له عليه ثمانية 
+<lb n="3"/>  خيشات سداسيّة يدفع إليه في 
+<lb n="4"/>  كل جمعة خيشة وأوّل جمعة 
+<lb n="5"/>  ليومين من طوبه من أشهر العجم من سنة 
+<lb n="6"/>  ثمان وخمسين ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ʾabī hurayraẗ:in ʿalà šuʿayb:in la hu ʿalay hi ṯamāniyaẗu 
+ <lb n="3"/>ḫayšāt:in sudāsiyyaẗ:in yadfaʿu ʾilay hi fī 
+ <lb n="4"/>kulli ǧumʿaẗ:in ḫayšaẗ:an wa ʾawwalu ǧumʿaẗ:in 
+ <lb n="5"/>li yawmayni min ṭūbiha min ʾašhuri ăl ʿaǧami min sanaẗi 
+ <lb n="6"/>ṯamān:in wa ḫamsīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Titre établissant le droit d&#039;Abū Hurayra sur Šuʿayb : il lui doit huit
+			<lb n="3"/>
+		pièces de toile de six coudées. Il lui livrera
+			<lb n="4"/>
+		chaque semaine une pièce de toile. La première semaine (commence)
+			<lb n="5"/>
+		le 2 ṭūba des mois étrangers de l&#039;année
+			<lb n="6"/>
+		258.
+</ab></div>
+</body>
+</text>
+</TEI>

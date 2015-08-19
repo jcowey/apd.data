@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1021" xml:id="Frantz_Murphy_Quseir_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyQuseir 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz_Murphy_Quseir_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168908</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <app type="BL"><lem resp="APD">لأعلم </lem><rdg resp="“AK”">أعلم</rdg></app> <app type="BL"><lem resp="APD">الولة </lem><rdg resp="“AK”">الولد</rdg></app> أبو الحسن علي <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="3"/>  الشّيخ عبد الرّحمن <app type="BL"><lem resp="APD">وڤڤپه </lem><rdg resp="“AK”">وفّقه</rdg></app> <app type="BL"><lem resp="APD">الشّريف </lem><rdg resp="“AK”">اللّه</rdg></app> 
+<lb n="4"/>  إنّي قد <app type="BL"><lem resp="APD">سفّرت </lem><rdg resp="Guo">سيّرت</rdg></app> لك صحبة 
+<lb n="5"/>  زيد رحل دقيق فتتفضّل 
+<lb n="6"/>  <app type="BL"><lem resp="APD">پپسلمه </lem><rdg resp="“AK”">پپسلمه</rdg></app> <app type="BL"><lem resp="APD">مينة </lem><rdg resp="“AK”">مينه</rdg></app> <app type="BL"><lem resp="APD">وتكري </lem><rdg resp="“AK”">وتكري</rdg></app> 
+<lb n="7"/>  لي جر <supplied reason="lost" cert="high">الكرى</supplied> دقيق <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  في المركب و<gap reason="illegible" precision="low" extent="3"/> فيها 
+<lb n="9"/>  جـ<supplied reason="lost" cert="high">ـميـ</supplied>ـع <app type="BL"><lem resp="“Frantz-Murphy; AK”">رحلة </lem><rdg resp="“AK”">رحله</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ما <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="right margin"/>  وصلّى اللّه على سيّدنا 
+<lb n="left margin 1"/>  من أبي محمّد 
+<lb n="left margin 2"/>  أحمد ابن يوسف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>la ø ʾuʿlimu ăl wulāẗa walada ʾabū ăl ḥasani ʿaliyya bna 
+ <lb n="3"/>ăš šayḫi ʿabdi ăr raḥmāni wa waffaqa faqīha hu ăš ăl šarīfi lāhu 
+ <lb n="4"/>ʾinn ī qad sayyartu saffartu la ka ṣuḥbaẗa 
+ <lb n="5"/>zayd:in raḥla daqīq:in fa tatafaḍḍal 
+ <lb n="6"/>bi tasallumi tatasallamu hi hu mīn mīnaẗ hu ø wa takrī yakrī 
+ <lb n="7"/>l ī ǧarra ăl kirà daqīq *** 
+ <lb n="8"/>fī ăl markabi wa *** fī hā 
+ <lb n="9"/>ǧamīʿ raḥli riḥlaẗ hi ø *** 
+ <lb n="10"/>mā *** 
+ <lb n="11"/>wa ṣallà ăl lāhu ʿalà sayyidi nā 
+ <lb n="12"/>min ʾabī muḥammad:in 
+ <lb n="13"/>ʾaḥmada ĭbni yūsufa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Compassionate, the Merciful.
+			<lb n="2"/>
+		To the leader of the most learned, the father of al-Hasan ʿAli (the son of)
+			<lb n="3"/>
+		the Sh(aykh and honored religious scholar) ʿAbd al-Raḥman.
+			<lb n="4"/>
+		Verily I have dispatched to you in the care of
+			<lb n="5"/>
+		Zayd a shipment of flour. Be so kind as
+			<lb n="6"/>
+		to deliver it to the port and to rent
+			<lb n="7"/>
+		for me (haulage ... for flour)
+			<lb n="8"/>
+		in the ship and (...) in it
+			<lb n="9"/>
+		(for the whole journey ...)
+			<lb n="11"/>
+		And God bless our lord /Muḥammad/
+			<lb n="12"/>
+		From the father of Muḥammad, 
+			<lb n="13"/>
+		Aḥmad the son of Yūsuf.
+</ab></div>
+</body>
+</text>
+</TEI>

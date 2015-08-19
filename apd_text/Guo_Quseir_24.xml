@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="881" xml:id="Guo_Quseir_24" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_24</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113646</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  فينعم له <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  حسين أطال اللّه بقـ<supplied reason="lost" cert="high">ـاه</supplied> 
+<lb n="recto 3"/>  وأدام عزّه ونعماه و<supplied reason="lost" cert="high">من</supplied> 
+<lb n="recto 4"/>  حسن توفيقه لا أخلاه 
+<lb n="recto 5"/>  وسوي ذلك يا مولاي تحرص أنّك 
+<lb n="recto 6"/>  تبيع لي العمامة وقد أباع 
+<lb n="recto 7"/>  نعمان الذّيل بستّة 
+<lb n="recto 8"/>  وعشرين درهما الباقي له 
+<lb n="recto 9"/>  ثمانية وبااله العظيم 
+<lb n="recto 10"/>  أمّا أنا فجميع ما معي 
+<lb n="recto 11"/>  انقضاه ونقصد 
+<lb n="recto 12"/>  كسوة للصّغار 
+<lb n="recto 13"/>  ولنا ذهب أصفر 
+<lb n="recto 14"/>  ننتهزها هر تالله 
+<lb n="recto 15"/>  وتعالى يفرّحنا <app type="BL"><lem resp="APD">بخلاها </lem><rdg resp="APD">بخلاءها </rdg><rdg resp="APD">تحلّاها </rdg><rdg resp="APD">تغلّاها</rdg></app> 
+<lb n="recto 16"/>  فلـ<unclear reason="undefined" cert="high">ـلّه</unclear> <unclear reason="undefined" cert="high">الحمد</unclear> <unclear reason="undefined" cert="high">على</unclear> ذلك 
+<lb n="recto right margin "/>  <gap reason="illegible" precision="low" extent="3"/>ول إلي اللّه تعالي وقد سيّرت للمولا صحبة سيّدهم ثلثة أرطال 
+<lb n="verso 1"/>  ولما بين واللّه العظيم 
+<lb n="verso 2"/>  لقد بلانا خراب <sic n="superfluous">والعمى</sic><supplied reason="omitted" cert="high">والعمر</supplied> 
+<lb n="verso 3"/>  في البلد ما بدا إلّا قليل 
+<lb n="verso 4"/>  إلّا أن سيّدهم قال لي إن 
+<lb n="verso 5"/>  دفع لي معين الدّين خليل 
+<lb n="verso 6"/>  قضيت والمولا كان قال لي 
+<lb n="verso 7"/>  تأخذ من زيتون أحد 
+<lb n="verso 8"/>  عشر درهم إلّا ربع فما دفع 
+<lb n="verso 9"/>  لي شي ولا قلت أنا شي خص 
+<lb n="verso 10"/>  <expan><abbr><sic n="superfluous">ع</sic></abbr><ex>عليك</ex></expan> السّلام وعلى والدك 
+<lb n="verso 11"/>  أفضل السّلام وعلى الفقيه 
+<lb n="verso 12"/>  السّلام وعلى محمّد ومعـ<supplied reason="lost" cert="high">ـين</supplied> <supplied reason="lost" cert="high">الدّين</supplied> 
+<lb n="verso 13"/>  <supplied reason="lost" cert="high">السّـ</supplied>ـلا<supplied reason="lost" cert="high">م</supplied> وعلى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right margin"/>  السّلام وعلى الوفي وأخوه السّلام وعلى فخر السّلام وعلى عبد <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السّلام</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fa yunʿimu la hu *** 
+ <lb n="2"/>ḥusayn ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="3"/>wa ʾadāma ʿizza hu wa naʿmāʾa hu wa min 
+ <lb n="4"/>ḥusni tawfīqi hi lā ʾaḫlā hu 
+ <lb n="5"/>wa siwà ḏālika yā mawlā ya taḥriṣ ʾanna ka 
+ <lb n="6"/>tabīʿu tubīʿu l ī ăl ʿimāmaẗa wa qad ʾabāʿa 
+ <lb n="7"/>nuʿmānu ăḏ ḏayla bi sittaẗ:in 
+ <lb n="8"/>wa ʿišrīna dirham:ani ăl bāqī la hu 
+ <lb n="9"/>ṯamāniyaẗ:un wa bi ăl lāhi ăl ʿaẓīmi 
+ <lb n="10"/>ʾammā ʾanā fa ǧamīʿu mā maʿ ī 
+ <lb n="11"/>ĭnqaḍāh wa naqṣidu 
+ <lb n="12"/>kiswaẗ:an li ṣ ṣiġāri 
+ <lb n="13"/>wa la nā ḏahab:un ʾaṣfaru 
+ <lb n="14"/>nantahizu hā bi ăl lāhi tabāraka 
+ <lb n="15"/>wa taʿālà yufarriḥu nā bi ø ḫalāʾi taḥallā taḫallā taġallā hā 
+ <lb n="16"/>fa li l lāhi ăl ḥamdu ʿalà ḏālika 
+ <lb n="17"/>***wl ʾilà ăl lāhi taʿālà wa qad sayyartu li l mawlā ṣuḥbaẗa sayyidi sayyidihim him ø ṯalāṯaẗa ʾarṭāl:in 
+ <lb n="18"/>wa li mā bayna wa ăl lāhi ăl ʿaẓīmi 
+ <lb n="19"/>la qad balā nā ḫarāb:un wa ăl ʿumru 
+ <lb n="20"/>fī ăl baladi mā badā ʾillā qalīl 
+ <lb n="21"/>ʾillā ʾanna sayyida sayyidahum hum ø qāla l ī ʾin 
+ <lb n="22"/>dafaʿa l ī muʿīnu ăd dīni ḫalīlu 
+ <lb n="23"/>qaḍaytu wa ăl mawlā kāna qāla l ī 
+ <lb n="24"/>taʾḫuḏ min zaytūna ʾaḥada 
+ <lb n="25"/>ʿašara dirham ʾillā rubʿ fa mā dafaʿa 
+ <lb n="26"/>l ī šayʾ wa lā qultu ʾanā šayʾ ḫuṣṣi 
+ <lb n="27"/>ʿalay ka ăs salāma wa ʿalà wālidi ka 
+ <lb n="28"/>ʾafḍalu ăs salāmi wa ʿalà ăl faqīhi 
+ <lb n="29"/>ăs salāmu wa ʿalà muḥammad:in wa muʿīni ăd dīni 
+ <lb n="30"/>ăs salāmu wa ʿalà *** 
+ <lb n="31"/>ăs salāmu wa ʿalà ăl wafiyyi wa ʾaḫū hu ăs salāmu wa ʿalà faḫr:ini ăs salāmu wa ʿalà ʿabdi *** ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		So let [God] grant His bounty to him [...............]
+			<lb n="2"/>
+		Ḥusayn - may God prolong his life,
+			<lb n="3"/>
+		make his strength and wealth everlasting, and
+			<lb n="4"/>
+		never deprive him from good fortune! -
+			<lb n="5"/>
+		and all that. Now: O my master, make sure that you
+			<lb n="6"/>
+		sell the turbans on my behalf. Nuʿmān
+			<lb n="7"/>
+		has sold long coats for
+			<lb n="8"/>
+		twenty-six dirhams; and he still has
+			<lb n="9"/>
+		eight [long coats?] left, by God Almighty!
+			<lb n="10"/>
+		As for me, all [the items] in my [storage]
+			<lb n="11"/>
+		are sold out, and we need [more]
+			<lb n="12"/>
+		children&#039;s clothes.
+			<lb n="13"/>
+		We have pure gold,
+			<lb n="14"/>
+		which we will use [to pay for them], by God&#039;s blessing.
+			<lb n="15"/>
+		O God, the Sublime! we will be happy to spend all of it [on this].
+			<lb n="16"/>
+		Thank God for that.
+			<lb n="17"/>
+		[.......] to God, the Sublime. I have dispatched to [you,] the Master, accompanied by Sayyiduhum, three pounds of [.......]
+			<lb n="18"/>
+		[A]nd in between, by Mighty God!
+			<lb n="19"/>
+		We suffered from a disaster, and life
+			<lb n="20"/>
+		in town has not shown [signs of recovery] very much.
+			<lb n="21"/>
+		Nevertheless, Sayyiduhum said to me,
+			<lb n="22"/>
+		&#034;If Muʿīn al-Dīn Khalīl paid me the money
+			<lb n="23"/>
+		I would have spent [it].&#034; O master! he (Sayyiduhum?) told me
+			<lb n="24"/>
+		&#034;Take from  Zaytūn eleven
+			<lb n="25"/>
+		minus one quarter dirhams&#034;; but [the truth is,] he (Zaytūn?) did not give
+			<lb n="26"/>
+		me a dime! Neither did I say a thing about it.
+			<lb n="27"/>
+		Greetings. Best regards to your father,
+			<lb n="28"/>
+		and to the judge.
+			<lb n="29"/>
+		Greetings to Muḥammad and M[uʿīn al-Dīn?].
+			<lb n="30"/>
+		Greetings to [..............].
+			<lb n="31"/>
+		Greetings to al-Wafī and his brother. Greetings to Fakhr. Greetings to ʿAbd [.......].
+</ab></div>
+</body>
+</text>
+</TEI>

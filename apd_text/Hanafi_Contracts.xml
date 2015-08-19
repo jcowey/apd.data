@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2349" xml:id="Hanafi_Contracts" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HanafiContracts 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Hanafi_Contracts</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم وما توفيقـ<supplied reason="omitted" cert="high">ـي</supplied> إلّا باللّه عليه توكّلت وهو رب <supplied reason="omitted" cert="high">العرش</supplied> العظيم <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">أصـ</supplied>ـدق نجيم بن حذوفة الواني زوجته ملكة ابنت حسين ولـ<sic n="superfluous">ـپـ</sic>ـو<sic n="superfluous">ا</sic>ليّها <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الضّويديّ</unclear> </lem><rdg resp="APD">الصّيداويّ </rdg><rdg resp="UB">الصّفوديّ</rdg></app> وهما يوميذ اجتمعوا بالـ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> بصعيد مصر أصدقها صداق تزوّجها وتملّك به عصمتها و<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دنانـ</supplied>ـير وازنة جيادا بالّذي ذهب به النّكاح وتبّت <app type="BL"><lem resp="APD">العڤده </lem><rdg resp="UB">به</rdg></app> ڤپل دحوله علپها واصاپپه اپا<supplied reason="lost" cert="high">ها</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">نقدها</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دينارا</supplied> <supplied reason="lost" cert="high">و</supplied>ازنة نقدا بالجديد حـ<supplied reason="omitted" cert="high">ـا</supplied>لّا معجّلا مقبوضا قبضت <app type="BL"><lem resp="APD">منذ </lem><rdg resp="UB">منه</rdg></app> ذلك وأخّرت <app type="BL"><lem resp="APD">ثمانية </lem><rdg resp="APD">عليه</rdg></app> دنانير إلى انقضا سنين <supplied reason="omitted" cert="high">مـ</supplied>ـتو<supplied reason="omitted" cert="high">ا</supplied>ليات أوّلهن سنة ثما<supplied reason="lost" cert="high">نيـ</supplied>ـة 
+<lb n="6"/>  <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">وأربعمائة</supplied> <supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">وسلّمهـ</unclear>ـ</supplied>ـا إليه وعليه أن يتّقي اللّه العظيم فيها وتكون عنده في أمان اللّه وأمان نبيّه محمّد صلّى اللّه عليه وسلّم تسليما سلّـ<supplied reason="lost" cert="high">ـمت</supplied> إليك بخير وحسن الـ<supplied reason="lost" cert="high">ـصّحبة</supplied> <supplied reason="lost" cert="high">بالمعروف</supplied> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">صحّة</supplied> <supplied reason="lost" cert="high">عقولهما</supplied> <supplied reason="lost" cert="high">وأبدا</supplied>نهما و<supplied reason="lost" cert="high">جواز</supplied> <supplied reason="lost" cert="high">أمورهمـ</supplied>ـا طائعين في الدّين راغبين غير مكرهين ولا مجبرين <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">مضطهدين</supplied> 
+<lb n="8"/>  <supplied reason="lost" cert="high">طيّبة</supplied> <supplied reason="lost" cert="high">بذلك</supplied> <app type="BL"><lem resp="APD">نفسها </lem><rdg resp="LS">نفسمها</rdg></app> وذلك في العشر الأخير من رجب سنة <supplied reason="lost" cert="high">ثلاث</supplied> <unclear reason="undefined" cert="high">عشر</unclear> <unclear reason="undefined" cert="high">وأربعمائة</unclear> شهد على إقرار الولي والزّوج والشّاهدين جميعا <supplied reason="lost" cert="high">الشّيخ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  وكفا باللّه شهـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـدا 
+<lb n="10"/>  فشهدوا شهد على إقرار الولي والزّو<supplied reason="lost" cert="high">ج</supplied> 
+<lb n="11"/>  عنها قنيد<supplied reason="omitted" cert="high">ـة</supplied> <app type="BL"><lem resp="APD">كبيبة </lem><rdg resp="UB">كتب</rdg></app> <app type="BL"><lem resp="APD">عيد </lem><rdg resp="UB">عنه</rdg></app> الذّيل <supplied reason="lost" cert="high">عقد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ثلاث</supplied> <supplied reason="lost" cert="high">عشر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  شهد <app type="BL"><lem resp="APD">أبو </lem><rdg resp="UB">إبرهيم</rdg></app> <app type="BL"><lem resp="APD">حليم </lem><rdg resp="UB">ø</rdg></app> بن حسين على إقرار <supplied reason="lost" cert="high">الوليّ</supplied> <supplied reason="lost" cert="high">والزّوج</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <supplied reason="lost" cert="high">عنها</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">بن</unclear> عبدون اليسـ<gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">عقد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ثلاث</supplied> <supplied reason="lost" cert="high">عشر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  شهد أبو بكر بن بعـ<supplied reason="omitted" cert="high">ـثـ</supplied>ـر على إقرا<supplied reason="lost" cert="high">ر</supplied> <supplied reason="lost" cert="high">الولـ</supplied>ـي والزّوج 
+<lb n="15"/>  عنها عبد اللّه بن حسن <unclear reason="undefined" cert="high">عقد</unclear> في ثـ<supplied reason="lost" cert="high">ـلاث</supplied> <supplied reason="lost" cert="high">عشر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> بن <gap reason="illegible" precision="low" extent="3"/> على إقرا<supplied reason="lost" cert="high">ر</supplied> <supplied reason="lost" cert="high">الولـ</supplied>ـي والزّوج 
+<lb n="17"/>  شهد قاسم بن محمّد بن عامر على إقرار الولي والزّوج 
+<lb n="18"/>  عنها عبد اللّه بن أحمد عقد في ثلاث عشر 
+<lb n="19"/>  <supplied reason="lost" cert="high">شهد</supplied> عبد الملك بن العمير <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">الوليّ</supplied> <supplied reason="lost" cert="high">والزّوج</supplied> 
+<lb n="20"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="15" unit="character" /> 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> عنها عثر <unclear reason="undefined" cert="high">بن</unclear> أحمد بن حسن <unclear reason="undefined" cert="high">عقد</unclear> في ثلاث عشر 
+<lb n="22"/>  <supplied reason="lost" cert="high">شهد</supplied> بن ثمير<supplied reason="omitted" cert="high">ا</supplied> بن بكر بن سوار 
+<lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> عنـها <gap reason="illegible" extent="11" unit="character" /> عقد في ثلاث عشر 
+<lb n="24"/>  شهد ماشا اللّه بن بكر بن الجواز <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">الوليّ</supplied> <supplied reason="lost" cert="high">والزّوج</supplied> 
+<lb n="25"/>  عنها <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عقد</supplied> في ثلاث عشر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa mā tawfīq ī ʾillā bi ăl lāhi ʿalay hi tawakkaltu wa huwa rabbu ăl ʿarši ăl ʿaẓīmi **** 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa nuǧaymu bnu ḥaḏūfaẗa ăl wānī zawǧata hu malikaẗa ĭbnata ḥusayn:in wa li waliyyi hā ăḍ ăṣ ḍuwaydiyyi ṣaydāwiyyi ṣafwadiyyi wa humā yawmayiḏ:ini ĭǧtamaʿū bi ăl *** 
+ <lb n="3"/>*** ******** bi ṣaʿīdi miṣra ʾaṣdaqa hā ṣadāqa tazawwuǧi hā wa tamallaka bi hi ʿiṣmata hā wa *** *** 
+ <lb n="4"/>*** danānīra wāzinaẗ:an ǧiyād:an bi ăllaḏī ḏahaba bi hi ăn nikāḥu wa tabbata ø bi ø hi ăl ʿuqdaẗa qabla duḫūli hi ʿalay hā wa ʾiṣābati hi ʾiyyā hā *** 
+ <lb n="5"/>naqada hā min ḏālika *** dīnār:an wāzinaẗ:an naqd:an bi ăl ǧadīdi ḥāll:an muʿaǧǧal:an maqbūḍ:an qabaḍat munḏu min ø hu ḏālika wa ʾaḫḫarat ṯamāniyaẗa ʿalay ø hi danānīra ʾilà ĭnqiḍāʾi sinīna mutawāliyāt:in ʾawwalu hunna sanaẗu ṯamāniyaẗa 
+ <lb n="6"/>ʿašara wa ʾarbaʿi miʾaẗ:in wa sallama hā ʾilay hi wa ʿalay hi ʾan yattaqiya ăl lāha ăl ʿaẓīma fī hā wa takūna ʿinda hu fī ʾamāni ăl lāhi wa ʾamāni nabiyyi hi muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama taslīm:an sullimat ʾilay ka bi ḫayr:in wa ḥusni ăṣ ṣuḥbaẗi bi ăl maʿrūfi 
+ <lb n="7"/>*** fī ṣiḥḥaẗi ʿuqūli himā wa ʾabdāni himā wa ǧawāzi ʾumūri himā ṭāʾiʿayni fī ăd dīni rāġibayni ġayra mukrahayni wa lā muǧbarayni wa lā muḍṭahadayni 
+ <lb n="8"/>ṭayyibaẗ:an bi ḏālika nafsu hā humā wa ḏālika fī ăl ʿašri ăl ʾaḫīri min raǧab:in sanaẗa ṯalāṯa ʿašara wa ʾarbaʿi miʾaẗ:in šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi wa ăš šāhidīna ǧamīʿ:an ăš šayḫu *** 
+ <lb n="9"/>wa kafā bi ăl lāhi šahīd:an 
+ <lb n="10"/>fa šahidū šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="11"/>ʿan hā qunīdaẗu kubībaẗu kataba ʿīd:unu ʿan ø hu ăḏ ḏīlu ʿuqida fī ṯalāṯa ʿašara *** 
+ <lb n="12"/>šahida ʾabū ʾibrāhīmu ḥalīm:ini ø bnu ḥusayn:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi *** 
+ <lb n="13"/>ʿan hā *** *** bnu ʿabdūna ăl ys* ʿuqida fī ṯalāṯa ʿašara *** 
+ <lb n="14"/>šahida ʾabū bakr:ini bnu buʿṯura ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="15"/>ʿan hā ʿabdu ăl lāhi bnu ḥasan:in ʿuqida fī ṯalāṯa ʿašara *** 
+ <lb n="16"/>šahida *** bnu *** ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="17"/>šahida qāsimu bnu muḥammadi bni ʿāmir:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="18"/>ʿan hā ʿabdu ăl lāhi bnu ʾaḥmada ʿuqida fī ṯalāṯa ʿašara 
+ <lb n="19"/>šahida ʿabdu ăl maliki bnu ăl ʿumayri ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="20"/>*** *************** 
+ <lb n="21"/>*** ʿan hā ʿaṯru bnu ʾaḥmada bni ḥasan:in ʿuqida fī ṯalāṯa ʿašara 
+ <lb n="22"/>šahida bnu ṯumayrā bni bakri bni siwāra 
+ <lb n="23"/>*** ʿan hā *********** ʿuqida fī ṯalāṯa ʿašara 
+ <lb n="24"/>šahida mā šāʾa ăl lāhu bnu bakri bni ăl ǧawāzi ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="25"/>ʿan hā *** bnu *** ʿuqida fī ṯalāṯa ʿašara 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of Allah, the Compassionate, the Merciful, and my success is only with Allah, in Him do I trust, and He ist the Lord of the Mighty [Throne].
+			<lb n="2"/>
+		This is what Nûgeim son of Hadhûfah al-Wany has assigned as a dowry to his wife Malakah daughter of Hussein and her guardian, al-Dûaydy, and in that date they assembled in ....
+			<lb n="3"/>
+		[...] ........ in Upper Egypt. He has assigned to her in exchange for her marriage a dowry, and with it he holds her prevention and .......
+			<lb n="4"/>
+		[.......] dinars, full weight, good pieces in exchange of the marriage and of declaring that the marriage is valid, before going into and obtaining his enjoyment from her .....
+			<lb n="5"/>
+		[He paid cash down from this ... dinars] full weight, cash according to the new (standard), an immediate payment cash down, taken now and she has taken over in the same time and eight dinars, the reminder of her dowry are outstanding to his debit till the expiration of successive years reckoning from the year [four hundred and] eighteenth
+			<lb n="6"/>
+		[... and he gave her?] to him, and it is obligation in respect of her to fear Allah, the most High and to be in his home in the safety of Allah, and of His Prophet Muhammed - may the blessing of Allah be upon him and may He give peace, with full peace. She was given to you in good state, and to render relation with pleasure in kindness?]
+			<lb n="7"/>
+		[........ They, being in a state of (sound) mind, and] body, and [capable of transacting their business,] voluntarily according to the religious, willingly, without compulsion and not against their will, [and not under constrain]
+			<lb n="8"/>
+		[and with her consent she gave] herself, and this is in the last decade of Ragab of the year four hundred and thirteenth. [So-and-So] has testified to the acknowledgment
+			<lb n="9"/>
+		and Allah is sufficient as Witness.
+			<lb n="10"/>
+		They testified. He has testified to the acknowledgment of the trustee and the husband.
+			<lb n="11"/>
+		On behalf of her, Qunida Kubibah Eed al-Dil, [(the contract of marriage) has been written in thirteenth.
+			<lb n="12"/>
+		Abû Halîm ben Hîssein has testified to the acknowledgment of [the trustee and the husband.
+			<lb n="13"/>
+		On behalf of her] ... ben? Abdûn al-Sa[, (the contract of marriage has been written in thirteenth].
+			<lb n="14"/>
+		Abû Bakr ben Buʾthur has testified to [the acknowledgment of the trustee] and the husband.
+			<lb n="15"/>
+		On behalf of her, Abdou-Allah son of Hassan, (the contract of marriage) has been written in [thirteenth].
+			<lb n="16"/>
+		[So and So] has testified to the acknowledgment of [the trustee] and the husband.
+			<lb n="17"/>
+		Kasim ben Muhammed ben ʾAmer has testified to the acknowledgment of the trustee and the husband.
+			<lb n="18"/>
+		On behalf of her, &#039;Abdu-Allah ben Ahmed, (the contract of marriage) has been written in thirteenth.
+			<lb n="19"/>
+		ʿAbdel-Malîke ben Al-Omîr [has testified to the acknowledgment of the trustee and the husband.
+			<lb n="20"/>
+			<lb n="21"/>
+		] On behalf of her, ʿAthr ben Ahmed ben Hassan, (the contract of marriage) has been written in thirteenth.
+			<lb n="22"/>
+		] ben Thûmeira ben Bakr ben Swar [has testified to the acknowledgment of the trustee and the husband].
+			<lb n="23"/>
+		] On behalf of her ........., (the contract of marriage) has been written in thirteenth.
+			<lb n="24"/>
+		Mashāʾ Allah ben Bakr ben al-Guāz has testified [to the acknowledgment of the trustee and the husband].
+			<lb n="25"/>
+		On behalf of her, [So and So], (the contract of marriage) has been written in thirteenth.
+</ab></div>
+</body>
+</text>
+</TEI>

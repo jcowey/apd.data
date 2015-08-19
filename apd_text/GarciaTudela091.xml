@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2053" xml:id="GarciaTudela091" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 7 (= P.Garcia-ArenalTudelaTarazona 09)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">GarciaTudela091</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه <app type="BL"><lem resp="APD">الرّحمن </lem><rdg resp="García-Arenal">الرّحمان</rdg></app> الرّحيم وصلّى اللّه على محمّد وآله والسّلام 
+<lb n="2"/>  <app type="BL"><lem resp="APD">ها </lem><rdg resp="García-Arenal">ما</rdg></app> تذكيرة ولما أعمل البرير دن رمنض دشنت مريّة 
+<lb n="3"/>  وليصحبيه كلّهم مع شمن غصّلبس <app type="BL"><lem resp="APD">دبلتيرّة </lem><rdg resp="García-Arenal">ذبلتيرّة</rdg></app> 
+<lb n="4"/>  وأعطيه البرير <app type="BL"><lem resp="APD">إلى </lem><rdg resp="García-Arenal">إلا</rdg></app> شمن غصّلبس الفدّن 
+<lb n="5"/>  من بيّة دالري يلصق القرم دغرسي إشطلبة 
+<lb n="6"/>  والقبلة القرم شمن غصّلبس وأعطيه شمن 
+<lb n="7"/>  غصّلبس <app type="BL"><lem resp="APD">إلى </lem><rdg resp="García-Arenal">إلا</rdg></app> البرير <app type="BL"><lem resp="APD">وإلى </lem><rdg resp="García-Arenal">وإلا</rdg></app> اشريكه سعيده 
+<lb n="8"/>  جمع الفدّن في بضحة الرّيال يلصق محمّد القتبه 
+<lb n="9"/>  والقبلة الفدّن درطريق دبلتيرّة <app type="BL"><lem resp="APD">وأدخل </lem><rdg resp="García-Arenal">وأذخل</rdg></app> ضامنا 
+<lb n="10"/>  من جيهت اشريكه ومن جيهت البرير 
+<lb n="11"/>  وليصحبيه محمّد بن خيرن <app type="BL"><lem resp="APD">وأدخال </lem><rdg resp="García-Arenal">وأذخال</rdg></app> ضامنا من 
+<lb n="12"/>  من جيهت شمن غصّلبس دن فرتون 
+<lb n="13"/>  <app type="BL"><lem resp="APD">ذبلير </lem><rdg resp="García-Arenal">ذبلير</rdg></app> وذالك من <app type="BL"><lem resp="APD">سمع </lem><rdg resp="García-Arenal">سميع</rdg></app> منهما وعرفهما 
+<lb n="14"/>  وذالك في شهر من شتينبر المقبل الأدنا 
+<lb n="15"/>  إلينا من وجه صحيح جائز <app type="BL"><lem resp="APD">ولهذا </lem><rdg resp="García-Arenal">ولهذ</rdg></app> لازم <app type="BL"><lem resp="APD">وشاهد </lem><rdg resp="García-Arenal">وشاهيد</rdg></app> 
+<lb n="16"/>  موسا الفرّاره ودن ألغره وذالك في شهر 
+<lb n="17"/>  شتينبر الموافق عام خمس عشر 
+<lb n="18"/>  <app type="BL"><lem resp="APD">وستّمائة </lem><rdg resp="APD">وستّ</rdg></app> <app type="BL"><lem resp="APD">صاحپ </lem><rdg resp="APD">ماية</rdg></app> الصلاه سعپد 
+<lb n="19"/>  <unclear reason="undefined" cert="high">عطرور</unclear> البحني كتب عنه بأمره 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ṣallà ăl lāhu ʿalà muḥammad:in wa ʾāli hi wa ăs salāmu 
+ <lb n="2"/>hā mā taḏkīraẗ:un wa li mā ʾaʿmala ʾaʿmalu ăl biriyuru dun ramunḍu di šanta mariyyaẗa 
+ <lb n="3"/>wa lī ṣaḥbī hi kulli him maʿa šimana ġuṣṣalbisa di ḏi baltiyarraẗa 
+ <lb n="4"/>wa ʾaʿṭayh ăl biriyuru ʾilà ʾilā šimana ġuṣṣalbisa ăl faddana 
+ <lb n="5"/>min biyyaẗa dālray yalṣaqu ăl qarma di ġarsiyya ʾištlabaẗa 
+ <lb n="6"/>wa ăl qiblaẗu ăl qarmu šimana ġuṣṣalbisa wa ʾaʿṭayh šimanu 
+ <lb n="7"/>ġuṣṣalbisa ʾilà ʾilā ăl biriyuri wa ʾilà ʾIā ĭšarīki hi saʿīduha 
+ <lb n="8"/>ǧamiʿa ăl faddani fī bḍḥaẗi ăr riyāli yalṣaqu muḥammad ăl qatibuhi 
+ <lb n="9"/>wa ăl qiblaẗu ăl faddanu di ruṭrīqu di baltiyarraẗa wa ʾaḏḫala ʾadḫala ḍāmin:an 
+ <lb n="10"/>min ǧīhati ĭšarīki hi wa min ǧīhati ăl biriyuri 
+ <lb n="11"/>wa lī ṣaḥbī hi muḥammada bna ḫayrāna wa ʾaḏḫāla ʾadḫāla ḍāmin:an min 
+ <lb n="12"/>min ǧīhati šimana ġuṣṣalbisa dun furtūna 
+ <lb n="13"/>di ḏi balyari wa ḏālika man samiʿa samīʿa min humā wa ʿarafa humā 
+ <lb n="14"/>wa ḏālika fī šahr:in min šitīnbara ăl muqbili ăl ʾadnā 
+ <lb n="15"/>ʾilay nā min waǧh:in ṣaḥīḥ:in ǧāʾiz:in wa li hāḏā hāḏa lāzim:un wa šāhida šāhīda 
+ <lb n="16"/>mūsā ăl farrāruhu wa dun ʾaliġrihu wa ḏālika fī šahri 
+ <lb n="17"/>šitīnbara ăl muwāfiqi ʿāma ḫamsa ʿašara 
+ <lb n="18"/>wa sitti miʾaẗ:in ø ø miyaẗ:in ṣāḥibu ăṣ ṣalāẗi saʿīd:un 
+ <lb n="19"/>ʿuṭrūru ăl baḥniyyu kutiba ʿan hu bi ʾamri hi 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

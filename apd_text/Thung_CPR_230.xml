@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2284" xml:id="Thung_CPR_230" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.ThungWrittenObligations 4 (= CPR XXVI 23)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_230</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ذكر حق توساقة ابنت ببسطلس الخيّاط السّاكنة مدينة أشمون على المعروف بأبي الحديد 
+<lb n="3"/>  الأصفر النّوبي بن أبي الأسود الخيّاط الفسطاطي ومسكنه يومئذ مدينة أشمون لها عليه 
+<lb n="4"/>  ثمانية <expan><abbr>دنا</abbr><ex>نيـ</ex><abbr>ـر</abbr></expan> مثاقيل ذهبا قطع جياد دينا ثابتا لازما له في ذمّته وماله ومحياه ومماته منجّمة لها 
+<lb n="5"/>  عليه اثنين وثلثين شهرا متوالية لكل شهر منها ربع <expan><abbr>د</abbr><ex>ينا</ex><abbr>ر</abbr></expan> وأوّل شهر يحل عليه فيه دفع أوّل ربع <expan><abbr>د</abbr><ex>ينا</ex><abbr>ر</abbr></expan> 
+<lb n="6"/>  سلخ الشّهر المعروف ببشنس من شهور القبط من سنة إحدى وثلثين وثلثمائة وفي سلخ كل شهر 
+<lb n="7"/>  يلي هذا الشّهر يدفع إليها ربع <expan><abbr>د</abbr><ex>ينا</ex><abbr>ر</abbr></expan> حتّى يوفيها هذه الثّمانية <expan><abbr>الدّنا</abbr><ex>نيـ</ex><abbr>ـر</abbr></expan> المذكورة في هذا الكتاب لا يدافع بذلك 
+<lb n="8"/>  ولا يحتج عليها بحجّة من جميع الوجوه والأسباب كلّها وذلك بأمر حق واجب لازم عرفه المعروف بأبي الحديد 
+<lb n="9"/>  <supplied reason="lost" cert="high">ا</supplied>لأصفر النّوبي بن أبي الأسود فأقر به لتوسا<unclear reason="undefined" cert="high">قـ</unclear>ـة ابنت ببسطلس ولزمه الإقرار لها وأقر أنّه ملي 
+<lb n="10"/>  <supplied reason="lost" cert="high">و</supplied>لي هذه الثّمانية <expan><abbr>الدّنا</abbr><ex>نيـ</ex><abbr>ـر</abbr></expan> المذكور أمرها ونجومها في هذا الكتاب وأضعافها بمخاطبة منه إيّاها 
+<lb n="11"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ذ</supplied>لك وكان إقراره بكل ما سمّي ووصف في هذا الكتاب في صحّة عقله وبدنه وجواز أمره طائع غير 
+<lb n="12"/>  <supplied reason="lost" cert="high">مكره</supplied> على معرفته بعينه وإسمه ونسبه وذلك في برموده وهو من شعبان من سنة إحدى وثلثين وثلثمائة 
+<lb n="13"/>  <supplied reason="lost" cert="high">شهد</supplied> عبد اللّه بن محمّد بن عبد العزيز على إقرار المعروف بأبي الحديد الأصفر بن أبي الأسود الخيّاط الفسطاطي 
+<lb n="14 right"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> في شعبان من سنة إحدى وثلثين وثلثمائة 
+<lb n="14 left"/>  شهد إبرهيم بن <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">خدر</unclear> </lem><rdg resp="Thung, CPR XXVI">حمد</rdg></app> بن أحمد بن رجا على إقرار المعروف 
+<lb n="15 left"/>  بأبي الحديد الأصـ<supplied reason="lost" cert="high">ـفر</supplied> 
+<lb n="15 right"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> بن محمّد بن بشر البصري على إقرار 
+<lb n="16 right"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi tūsāqaẗa ĭbnati babusṭulusa ăl ḫayyāṭi ăs sākinaẗi madīnaẗa ʾušmūna ʿalà ăl maʿrūfi bi ʾabī ăl ḥudaydi 
+ <lb n="3"/>ăl ʾaṣfari ăn nūbiyyi bni ʾabī ăl ʾaswadi ăl ḫayyāṭi ăl fusṭāṭiyyi wa maskanu hu yawma ʾiḏ:in madīnaẗu ʾušmūna la hā ʿalay hi 
+ <lb n="4"/>ṯamāniyaẗu danānīra maṯāqīlu ḏahab:an qiṭaʿ:un ǧiyād:un dayn:an ṯābit:an lāzim:an la hu fī ḏimmati hi wa māli hi wa maḥyā hu wa mamāti hi munaǧǧamaẗ:an la hā 
+ <lb n="5"/>ʿalay hi ĭṯnayni wa ṯalāṯīna šahr:an mutawāliyaẗ:an li kulli šahr:in min hā rubʿu dīnār:in wa ʾawwalu šahr:in yaḥillu ʿalay hi fī hi dafʿu ʾawwali rubʿi dīnār:in 
+ <lb n="6"/>salḫu ăš šahri ăl maʿrūfi bi bašansa min šuhūri ăl qibṭi min sanaẗi ʾiḥdà wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in wa fī salḫi kulli šahr:in 
+ <lb n="7"/>yalī hāḏā ăš šahra yadfaʿu ʾilay hā rubʿa dīnār:in ḥattà yūfiya hā hāḏihi ăṯ ṯamāniyaẗa ăd danānīri ăl maḏkūraẗa fī hāḏā ăl kitābi lā yudāfiʿu bi ḏālika 
+ <lb n="8"/>wa lā yaḥtaǧǧu ʿalay hā bi ḥuǧǧaẗ:in min ǧamīʿi ăl wuǧūhi wa ăl ʾasbābi kulli hā wa ḏālika bi ʾamri ḥaqq:in wāǧib:in lāzim:in ʿarafa hu ăl maʿrūfu bi ʾabī ăl ḥudaydi 
+ <lb n="9"/>ăl ʾaṣfaru ăn nūbiyyu bnu ʾabī ăl ʾaswadi fa ʾaqarra bi hi li tūsāqaẗa ĭbnati babusṭulusa wa lazima hu ăl ʾiqrāru la hā wa ʾaqarra ʾanna hu malīʾ:un 
+ <lb n="10"/>waliyyu hāḏihi ăṯ ṯamāniyaẗi ăd danānīri ăl maḏkūri ʾamru hā wa nuǧūmu hā fī hāḏā ăl kitābi wa ʾaḍʿāfi hā bi muḫāṭabaẗ:in min hu ʾiyyā hā 
+ <lb n="11"/>ʿalà ḏālika wa kāna ʾiqrāru hu bi kulli mā summiya wa wuṣifa fī hāḏā ăl kitābi fī ṣiḥḥaẗi ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ ġayra 
+ <lb n="12"/>mukrah:in ʿalà maʿrifati hi bi ʿayni hi wa ĭsmi hi wa nasabi hi wa ḏālika fī barmūdiha wa huwa min šaʿbāna min sanaẗi ʾiḥdà wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="13"/>šahida ʿabdu ăl lāhi bnu muḥammadi bni ʿabdi ăl ʿazīzi ʿalà ʾiqrāri ăl maʿrūfi bi ʾabī ăl ḥudaydi ăl ʾaṣfari bni ʾabī ăl ʾaswadi ăl ḫayyāṭi ăl fusṭāṭiyyi 
+ <lb n="14"/>*** *** fī šaʿbāna min sanaẗi ʾiḥdà wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="15"/>šahida ʾibrāhīmu bnu ḫidri ḥamdi bni ʾaḥmada bni raǧāʾa ʿalà ʾiqrāri ăl maʿrūfi 
+ <lb n="16"/>bi ʾabī ăl ḥudaydi ăl ʾaṣfari 
+ <lb n="17"/>šahida *** bnu muḥammadi bni bišr:ini ăl baṣriyyu ʿalà ʾiqrāri 
+ <lb n="18"/>*** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Verpflichtungsschein von Tūsāqah(?), Tochter von Babusṭulus, dem Schneider, wohnhaft in der Stadt Ušmūn, zu Lasten des als Abū l-Ḥudayd
+			<lb n="3"/>
+		al-Aṣfar b. Abī l-Aswad an-Nūbī, der Schneider aus Fuṣṭāṭ, bekannten (Mannes), zu dieser Zeit wohnhaft in der Stadt Ušmūn. Ihr stehen zu dessen Lasten
+			<lb n="4"/>
+		acht Golddinar des Miṯqālgewichts in Form hervorragender Münzbruchstücke zu, als feststehende und verbindliche Verpflichtung, in seiner Schuld, von seinem Geld, bei seinen Lebzeiten oder nach seinem Tode, in Raten zu ihren Gunsten
+			<lb n="5"/>
+		und seinen Lasten über zweiunddreißig aufeinanderfolgende Monate zu zahlen. Für jeden Monat (zahlt er) einen viertel Dinar, und der erste Monat, in dem er den ersten viertel Dinar zu zahlen hat,
+			<lb n="6"/>
+		ist am Ende des Monats, der als Bašans von den Monaten der Kopten bekannt ist, des Jahres dreihundertunddreißig. Und am Ende jedes folgenden Monats
+			<lb n="7"/>
+		wird er ihr einen viertel Dinar zahlen, bis er ihr die in dieser Urkunde erwähnten acht Dinar völlig bezahlt hat. Er wird sie damit nicht hinhalten
+			<lb n="8"/>
+		und keine Einsprüche gegen sie erheben in irgendeiner Hinsicht und aus irgendwelchen Gründen. Und dies aufgrund eines verbindlichen obligatorischen Rechtsanspruchs, von dem der als Abū l-Ḥudayd
+			<lb n="9"/>
+		al-Aṣfar an-Nūbī b. Abī l-Aswad Bekannte Kenntnis genommen hat, und den er zugunsten von Tūsāqah, Tochter von Babusṭulus, anerkannt hat, wobei sein Anerkenntnis zu ihren Gunsten für ihn verbindlich ist. Und er hat anerkannt, daß er zahlungsfähig ist,
+			<lb n="10"/>
+		und daß er über die acht Dinar, deren Angelegenheit und Zahlungsraten in dieser Urkunde erwähnt sind, und über das Vielfache dieses verfügt, indem er ihr eine entsprechende mündliche Mitteilung
+			<lb n="11"/>
+		gemacht hat. Und sein Anerkenntnis von all dem, was in dieser Urkunde genannt und beschrieben ist, erfolgte im Zustand seiner geistigen und körperlichen Gesundheit und seiner Geschäftsfähigkeit, freiwillig und ohne
+			<lb n="12"/>
+		[Zwang,] wobei man ihn kannte nach Person, Name und Abstammung, und dies im (Monat) Barmūdah, das ist im (Monat) Šaʿbān des Jahres dreihundertdreißig
+			<lb n="13"/>
+		[Es bezeugt] ʿAbdallāh b. Muḥammad b. ʿAbdalʿazīz das Anerkenntnis des als Abū l-Ḥudayd al-Aṣfar b. Abī l-Aswad, der Schneider aus Fusṭāṭ, bekannten (Mannes)
+			<lb n="14"/>
+		[....] ... im (Monat) Šaʿbān des Jahres dreihunderteinunddreißig.
+			<lb n="15"/>
+		Es bezeugt Ibrāhīm b. Ḥamd b. Aḥmad b. Raǧāʾ das Anerkenntnis des bekannten (Mannes)
+			<lb n="16"/>
+		als Abū l-Ḥudayd al-Aṣfar [
+			<lb n="17"/>
+		[Es bezeugt ....] b. Muḥammad b. Bišr al-Baṣrī das Anerkenntnis
+			<lb n="18"/>
+</ab></div>
+</body>
+</text>
+</TEI>

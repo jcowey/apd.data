@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2518" xml:id="Aguilo_Tractat_de_pau" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.AguiloTractatDePau</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Aguilo_Tractat_de_pau</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  الحمد للّه حق حمده تعرّف جميع ما بهاذا العقد من أمور الصّلح المبارك بين مولانا السّلطان أبو يحيى أبو بكر أيّده اللّه تعالى وينصره وبين سلطان ميورقة الشّنيور دن صانجه 
+ <lb n="2"/>  أرشده اللّه تعالى وعلمت بجميع ما فيه من الشّروط وعدد الذّهب وهي خمسة عشر ألف دينارا ذهبا من نصف عشر ما يجلبوه تجّار ميورقة إلى بلاد مولانا 
+ <lb n="3"/>  السّلطان أعزّه اللّه تعالى ومقتضي التّوكيل الّذي بـيدي وكتب بيده محّمّد بن عبد اللّه ابن السّت العلي تأريخ أواخر شهر رجب الفرد عام اثنى عشر وسبعمائة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li lāhi ḥaqqa ḥamdi hi taʿarrufu ǧamīʿi mā bi hāḏā ăl ʿaqdi min ʾumūri ăṣ ṣulḥi ăl mubāraki bayna mawlā nā ăs sulṭāni ʾabū yaḥyà ʾabū bakr:in ʾayyada hu ăl lāhu taʿālà wa yanṣuru hu wa bayna sulṭāni mayūrqaẗa ăš šinyūri dun ṣānǧuha 
+ <lb n="2"/>ʾaršada hu ăl lāhu taʿālà wa ʿalimtu ǧamīʿi bi mā fī hi mina ăš šurūṭi wa ʿadadi ăḏ ḏahabi wa hiya ḫamsaẗa ʿašara ʾalfa dīnār:an ḏahab:an min niṣfi ʿušri mā yaǧlibū hu tuǧǧāru mayūrqaẗa ʾilà bilādi mawlā nā 
+ <lb n="3"/>ăs sulṭāni ʾaʿazza hu ăl lāhu taʿālà wa muqtaḍà ăt tawkīli ăllaḏī bi yad ī wa kataba bi yadi hi muḥammadu bnu ʿabdi ăl lāhi ĭbni ăs sitti ăl ʿaliyyi taʾrīḫa ʾawāḫiri šahri raǧaba ăl fardi ʿāma ĭṯnà ʿašara wa sabʿa miʾaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ¡Loado sea Dios como merece! Reconocimiento (es decir, confirmación) de todo cuanto contiene esto documento, es decir, de negocios concernientes á la paz bendita entre Nuestro Señor el Sultán Abu Yahya Abu Béquer (á quien el Altisimo Dios ayude y otorgue su protección!) y entre el rey de Mallorca el Señor Don Sancho
+		 <lb n="2"/>
+ 	  (á quien el Altisimo Dios enderece hacia el camino recto!). Yo me doy por enterado todo lo que en él se contiene, es decir, de las estipulaciones y de la suma de dinero, que es 15 mil dineros de oro, de la mitad del diezmo de lo que introduzean los mercaderes de Mallorca en el reino de nuestro Señor
+		 <lb n="3"/>
+ 	  el Sultán (á quien el Altisimo Dios ensalce!) y me doy por enterado de las exigencias del encargo de procurador que poseo. Lo escribió de su puño y letra M´hamed Ben Abdala Ben Açet el noble. Fecha de fines del mes de Recheb el único, año de 712 (1312 de J. C.).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="922" xml:id="Guo_Quseir_48" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 48</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_48</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113680</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  يتسلّم الشّيخ نجيب <app type="BL"><lem resp="APD">بن </lem><rdg resp="“Thayer”">عزّ</rdg></app> <app type="BL"><lem resp="APD">مبادي </lem><rdg resp="“Thayer”">مبادئ</rdg></app> <app type="BL"><lem resp="APD">السّيّدى </lem><rdg resp="APD">الفيّوميّ</rdg></app> 
+<lb n="2"/>  حملين دقيق وهم <app type="BL"><lem resp="APD">لحمد </lem><rdg resp="“AK”">لمحمّد</rdg></app> بن عبد <app type="BL"><lem resp="qāf with one dot above “Maġribī”">العقّال </lem><rdg resp="“earlier Thayer”">العقار </rdg><rdg resp="UB">الغفّار</rdg></app> 
+<lb n="3"/>  واللّه اللّه تكون تحطّهم في موضع جيّد 
+<lb n="4"/>  إلى شونة أبو مفرّج والسّلام عليك ورحمة <supplied reason="omitted" cert="high">اللّه</supplied> 
+<lb n="5"/>  وحضر إسماعيل وهو يسلّم عليك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yatasallami ăš šayḫu naǧību bnu ʿizzu mabādī mabādiʾa ăs ăl sayyidiyyu fayyūmiyyu 
+ <lb n="2"/>ḥimlayni daqīq wa hum li ḥamdi muḥammadi bni ʿabdi ăl ʿaqqāli ʿaqāri ġaffāri 
+ <lb n="3"/>wa ăl lāhu ăl lāhu takūn taḥuṭṭu hum fī mawḍiʿ:in ǧayyid:in 
+ <lb n="4"/>ʾilà šūnaẗi ʾabū mufarriǧ:in wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi 
+ <lb n="5"/>wa ḥaḍara ʾismāʿīlu wa huwa yusallimu ʿalay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Shaykh Najīb ibn Mabādī al-Sayyidī (al-Fayyūmī?) is to receive
+		Shaykh Najib `Izz Mabadi has delivered 
+			<lb n="2"/>
+		two loads of flour, which are for Ḥamd ibn ʿAbd al-ʿAqqāl.
+		two loads of flour which are for Hamad b. `Abd al-`Aqar. 
+			<lb n="3"/>
+		By God, weigh them and put them in a good place, 
+		O God! O God! put them in a safe place.
+			<lb n="4"/>
+		to the shuna of Abu Mufarrij. Peace be upon you [familiar form] and blessings. 
+		To the warehouse of Abū Mufarrij. Peace be upon you. God&#039;s mercy [be upon you].
+			<lb n="5"/>
+		Isma`il is here and greets you!
+		Ismāʿīl is here and sends his regards to you.
+</ab></div>
+</body>
+</text>
+</TEI>

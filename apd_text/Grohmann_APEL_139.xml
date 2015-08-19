@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="354" xml:id="Grohmann_APEL_139" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 139 (= Chrest.Khoury I 08)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_139</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106584</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد من أثبت شهادته آخره أنّهم يعرفون فاطمة البكر البالغ ابنت أبو بكر بن علي الرّديني 
+<lb n="3"/>  يشهدون أنّها يومئذ بكر بالغ حرّة مسلمة خالية من موانع النّكاح ولم يعقد عليها عقد 
+<lb n="4"/>  نكاح إلى يوم تأريخه وأن أخاها شقيقها أحمد مستحق ولاية تزويجها وأن الزّوج الرّاغب 
+<lb n="5"/>  في عقد نكاحها عبد الملك بن شجاع بن طرخان كفوها وذلك بتأريخ السّابع من جمادى 
+<lb n="6"/>  الآخر سنة أربعين وستّمائة 
+<lb n="7 right"/>  شهد بمضمونه <app type="BL"><lem resp="APD">ناصر </lem><rdg resp="APD">ناضر</rdg></app> بن <app type="BL"><lem resp="APD">نصير </lem><rdg resp="APD">بصير </rdg><rdg resp="APD">نضير</rdg></app> 
+<lb n="8 right"/>  بن <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">اولاد </lem><rdg resp="Khoury">من</rdg></app> <app type="BL"><lem resp="APD">عرڤه </lem><rdg resp="Khoury"><gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+<lb n="9 right"/>  وكتب عنه <expan><abbr>بأمر</abbr><ex>ه</ex></expan> في <expan><ex>تـ</ex><abbr>ـأريخه</abbr></expan> 
+<lb n="7 middle"/>  شهد بمضمونه عمران بن 
+<lb n="8 middle"/>  إسمعيل بن <app type="BL"><lem resp="APD">عرڤه </lem><rdg resp="APD">غرفة </rdg><rdg resp="APD">عَرَقَةَ</rdg></app> وكتب عنه 
+<lb n="9 middle"/>  بأمره في <expan><ex>تـ</ex><abbr>ـأ</abbr><ex>ريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="7 left"/>  شهد بمضمونه يوسف بن 
+<lb n="8 left"/>  <app type="BL"><lem resp="APD">بركان </lem><rdg resp="APD">تركان</rdg></app> بن منصور وكتب عنه 
+<lb n="9 left"/>  بأمره في <expan><ex>تـ</ex><abbr>ـأ</abbr><ex>ريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="10"/>  جملة الصّداق ثمانون دينارا الحال عشرة دنانير الوصل سبعون دينار 
+<lb n="11"/>  سبعة دنانير في سلخ كل سنة من <app type="BL"><lem resp="APD">انتقال </lem><rdg resp="Thung">استقبال</rdg></app> تأريخه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="12"/>  عقد بولا أخيها المذكور في <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">الـ</supplied>ـتّأريخ </lem><rdg resp="Khoury">تأريخ</rdg></app> المذكور أعلاه 
+<lb n="13 right"/>  حضرت العقدة 
+<lb n="14 right"/>  وكتب عبد <unclear reason="undefined" cert="high">العزيز</unclear> بن عبد الحي 
+<lb n="15 right"/>  في <expan><abbr>تأ</abbr><ex>ريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="13 middle"/>  حضر ذلك 
+<lb n="14 middle"/>  <gap reason="illegible" extent="4" unit="character" /> <app type="BL"><lem resp="APD">حمرة </lem><rdg resp="APD">جمرة </rdg><rdg resp="APD">حمرة</rdg></app> بن شمر في تأريخه 
+<lb n="13 left"/>  حضر ذلك 
+<lb n="14 left"/>  أحمد بن صالح الصّابث 
+<lb n="15 left"/>  في <expan><ex>تأريخـ</ex><abbr>ـه</abbr></expan> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida man ʾaṯbata ʾuṯbita šahādata šahādatu hu ʾāḫira hu ʾanna hum yaʿrifūna fāṭimaẗa ăl bikra ăl bāliġa ĭbnata ʾabū bakri bni ʿaliyy:ini ăr rudayniyyi 
+ <lb n="3"/>yašhadūna ʾanna hā yawma ʾiḏ:in bikr:un bāliġ:un ḥurraẗ:un muslimaẗ:un ḫāliyaẗ:un min mawāniʿi ăn nikāḥi wa lam yuʿqad ʿalay hā ʿaqdu 
+ <lb n="4"/>nikāḥ:in ʾilà yawmi taʾrīḫi hi wa ʾanna ʾaḫā hā šaqīqa hā ʾaḥmada mustaḥiqqu walāyaẗi tazwīǧi hā wa ʾanna ăz zawǧa ăr rāġiba 
+ <lb n="5"/>fī ʿaqdi nikāḥi hā ʿabda ăl maliki bna šuǧāʿa bni ṭarḫāna kufuʾu hā wa ḏālika bi taʾrīḫi ăs sābiʿi min ǧumādà 
+ <lb n="6"/>ăl ʾāḫiri sanaẗa ʾarbaʿīna wa sitti miʾaẗ:in 
+ <lb n="7"/>šahida bi maḍmūni hi nāḍiru nāṣiru bnu baṣīri naḍīri nuḍayri nuṣayri 
+ <lb n="8"/>bni *** ø min ø *** ʾawlād ʿarafaẗa ʿaraqaẗa ġarafaẗa 
+ <lb n="9"/>wa kutiba ʿan hu bi ʾamri hi fī taʾrīḫi hi 
+ <lb n="10"/>šahida bi maḍmūni hi ʿimrānu bnu 
+ <lb n="11"/>ʾismāʿīla bni ʿarafaẗa ʿaraqaẗa ġarafaẗa wa kutiba ʿan hu 
+ <lb n="12"/>bi ʾamri hi fī taʾrīḫi hi 
+ <lb n="13"/>šahida bi maḍmūni hi yūsufu bnu 
+ <lb n="14"/>burkāna turkāna bni manṣūr:in wa kutiba ʿan hu 
+ <lb n="15"/>bi ʾamri hi fī taʾrīḫi hi 
+ <lb n="16"/>ǧumlaẗu ăṣ ṣadāqi ṯamānūna dīnār:ani ăl ḥāllu ʿašaraẗu danānīra ăl waṣlu sabʿūna dīnār 
+ <lb n="17"/>sabʿaẗu danānīra fī salḫi kulli sanaẗ:in mini ĭntiqāli ĭstiqbāli taʾrīḫi hi * 
+ <lb n="18"/>ʿuqida bi walāʾi ʾaḫī hā ăl maḏkūri fī ăt ø taʾrīḫi ăl maḏkūri ʾaʿlā hu 
+ <lb n="19"/>ḥaḍartu ăl ʿuqdaẗa 
+ <lb n="20"/>wa kataba ʿabdu ăl ʿazīzi bnu ʿabdi ăl ḥayyi 
+ <lb n="21"/>fī taʾrīḫi hi 
+ <lb n="22"/>ḥaḍara ḏālika 
+ <lb n="23"/>**** ǧamraẗ ḥamzaẗ ḥumraẗ bn šamir:in fī taʾrīḫi hi 
+ <lb n="24"/>ḥaḍara ḏālika 
+ <lb n="25"/>ʾaḥmadu bnu ṣāliḥ:ini ăṣ ṣābiṯu 
+ <lb n="26"/>fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Ceux qui ont apposé leurs témoignages au bas (du document) ont témoigné qu&#039;ils connaissent Fāṭima, vierge et adulte, fille d&#039;Abū Bakr Ibn ʿAlī al-Rudaynī;
+		Those who have set their signatures at the end hereof have born witness that they know Fâṭima, the adult virgin, daughter of Abû Bakr b. ʿAlî ar-Rudainî
+			<lb n="3"/>
+		and they testify that she is at this time an adult, freeborn virgin of Muslim faith, free from (legal) impediments to marriage, and that no marriage contract
+		ils témoignent qu&#039;elle était en ce moment-là une musulmane vierge, adulte, libre et exempte de tout empêchement de mariage, qu&#039;il ne lui a été conclu aucun contrat
+			<lb n="4"/>
+		de mariage jusqu&#039;à sa date (=date du contrat), que son frère germain Aḥmad dispose du pouvoir légal de la marier et que le mari désirant
+		has been concluded with regard to her until the day of the date hereof, and that her full brother Aḥmad possesses the right of wilâya to give her in marriage, and that he who solicited
+			<lb n="5"/>
+		conclure le contrat de mariage avec elle, ʿAbd al-Malik Ibn Šuǧāʿ Ibn Ṭarḫān, lui est égal, et ceci le sept ǧumādā
+		her in marriage, ʿAbd al-Malik b. Šuǧâʿ b. Ṭarḫân, is equal to her in respect of his social rank, and this (took place) on the seventh of Ǧumâdâ
+			<lb n="6"/>
+		II de l&#039;an six cent quarante.
+		II of the year six hundred and forty.
+			<lb n="7"/>
+		A témoigné de son contenu Nāṣir Ibn Nuṣayr
+		Witness to its tenor is Nâṣir b. Nuṣair
+			<lb n="8"/>
+		b. Yûsuf? ...... the children of ʿArafa
+		Ibn [...] de ... des enfants de ʿArafa
+			<lb n="9"/>
+		and it has been written for him at (his) order on its date.
+		et l&#039;on écrivit pour lui, sur son ordre et à sa date.
+			<lb n="10"/>
+		A témoigné de son contenu ʿImrān Ibn
+		Witness to its tenor is ʿImrân b.
+			<lb n="11"/>
+		Ismaʿîl b. ʿArafa and it has been written for him
+		Ismāʿīl Ibn ʿArafe et l&#039;on écrivit pour lui
+			<lb n="12"/>
+		at his order on its date.
+		sur son ordre et à sa date.
+			<lb n="13"/>
+		A témoigné de son contenu Yūsuf Ibn
+		Witness to its tenor is Yûsuf b.
+			<lb n="14"/>
+		Burkân b. Manṣûr and it has been written for him
+		Burkān Ibn Manṣūr et l&#039;on écrivit pour lui
+			<lb n="15"/>
+		at his order on its date.
+		sur son ordre et à sa date.
+			<lb n="16"/>
+		La somme de la dot est de quatre-vingt dīnārs: la partie payable immédiatement est de dix dīnārs, celle repoussée est de soixante-dix dīnārs,
+		The whole nuptial gift (amounts to) eighty dînârs, the (part) falling due (is) ten dînârs, the balance seventy dînârs
+			<lb n="17"/>
+		sept dīnārs à la fin de chaque année, dès l&#039;expiration de sa date.
+		seven dînârs (falling due) at the end of each year reckoning from the expiration of the date hereof.
+			<lb n="18"/>
+		Le contrat fut conclu par le moyen du mandat de son susnommé frère à la susmentionnée date.
+		The marriage contract was concluded under the wilâya of her (above) mentioned brother on the above mentioned date.
+			<lb n="19"/>
+		I was present at the conclusion of the contract
+		J&#039;ai assisté à la conclusion du contrat,
+			<lb n="20"/>
+		and ʿAbd al-ʿAzîz (?) b. ʿAbd al-Ḥayy has written (it)
+		et ʿAbd al-ʿAzīz Ibn ʿAbd al-Ḥayy (l&#039;)a écrit
+			<lb n="21"/>
+		à sa date.
+		on its date.
+			<lb n="22"/>
+		A assisté à cela
+		There was present at it
+			<lb n="23"/>
+		...... Ḥamza b. Šamir (15) on its date.
+		[...] Ḥamza Ibn Šamir à sa date.
+			<lb n="24"/>
+		A assisté à cela
+		There was present at it
+			<lb n="25"/>
+		Aḥmad b. Ṣāliḥ le couturier-raccommodeur
+		Aḥmad b. Ṣâliḥ, the botcher,
+			<lb n="26"/>
+		à sa date.
+		on its date.
+</ab></div>
+</body>
+</text>
+</TEI>

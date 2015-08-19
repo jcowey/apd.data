@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="390" xml:id="Raghib_Marchands_1_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands I 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_Marchands_1_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106599</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  ذكر حق <supplied reason="lost" cert="high">حسن</supplied> <supplied reason="lost" cert="high">وأ</supplied>خيه جعفر على قاسم 
+<lb n="3"/>  لهما <supplied reason="lost" cert="high">عليه</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">خيـ</supplied>ـشة وربع خيشة 
+<lb n="4"/>  سد<supplied reason="lost" cert="high">اسيّة</supplied> <supplied reason="lost" cert="high">يدفع</supplied> إلى الحسن وجعفر 
+<lb n="5"/>  في كل جمعة خيشة وأوّل جمعة لعشرة 
+<lb n="6"/>  أيّام مضين من شعبان سنة ستّة وخمسين 
+<lb n="7"/>  ومائتين ليس لقاسم أن <sic n="superfluous">پپطا</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">يبطّئ</supplied> </lem><rdg resp="Diem">يعطّل</rdg></app> حسن و<supplied reason="lost" cert="high">جـ</supplied>ـعفر 
+<lb n="8"/>  فهو حق ولا <app type="BL"><lem resp="APD">بد </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">دفعه </lem><rdg resp="Diem">مدافعة</rdg></app> عند محل الأجل المسمّى 
+<lb n="9"/>  في هذا الكتاب عن دفع ذلك إليهما على ما سمّي 
+<lb n="10"/>  وقبض قد <app type="BL"><lem resp="APD">قبض </lem><rdg resp="Diem">فسّر</rdg></app> ثمن هذا الخيش من حسن وجعفر تامّا 
+<lb n="11"/>  وافيا وبرئا پن ذلك إليه شهد على ذلك 
+<lb n="12"/>  محمّد بن الرّبيع بن سليمن المودن وشهادته بخطّه على إقرار قاسم بأهنسية 
+<lb n="13"/>  بجميع ما <supplied reason="lost" cert="high">في</supplied> هذا الكتاب 
+<lb n="14"/>  وشهد قشّاش بن مسكين على إقرار قاسم الخيّاش 
+<lb n="15"/>  بجميع ما في هذا الكتاب وكتب شهادته حسن بأمره ومحضره 
+<lb n="16"/>  في شعبان من سنة ستّة وخمسين ومائتي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ḥasan:in wa ʾaḫī hi ǧaʿfara ʿalà qāsim:in 
+ <lb n="3"/>la humā ʿalay hi **** **** ḫayšaẗ wa rubʿu ḫayšaẗ:in 
+ <lb n="4"/>sudāsiyyaẗ:in yadfaʿu ʾilà ăl ḥasani wa ǧaʿfara 
+ <lb n="5"/>fī kulli ǧumʿaẗ:in ḫayšaẗ:an wa ʾawwalu ǧumʿaẗ:in li ʿašaraẗi 
+ <lb n="6"/>ʾayyām:in maḍayna min šaʿbāna sanaẗa sittaẗ:in wa ḫamsīna 
+ <lb n="7"/>wa miʾatayni laysa li qāsim:in ʾan yubaṭṭiʾa yuʿaṭṭila ḥasan wa ǧaʿfara 
+ <lb n="8"/>fa huwa ḥaqq:un wa lā budda ø dafʿu mudāfaʿaẗa hu ø ʿinda maḥilli ăl ʾaǧali ăl musammà 
+ <lb n="9"/>fī hāḏā ăl kitābi ʿan dafʿi ḏālika ʾilay himā ʿalà mā summiya 
+ <lb n="10"/>wa qubiḍa qad qabaḍa fussira ṯamana hāḏā ăl ḫayši min ḥasan:in wa ǧaʿfara tāmm:an 
+ <lb n="11"/>wāfiy:an wa bariʾā min ḏālika ʾilay hi šahida ʿalà ḏālika 
+ <lb n="12"/>muḥammadu bnu ăr rabīʿi bni sulaymāna ăl muʾaḏḏinu wa šahādatu hu bi ḫaṭṭi hi ʿalà ʾiqrāri qāsim:in bi ʾahnāsiyyaẗa 
+ <lb n="13"/>bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="14"/>wa šahida qaššāšu bnu miskīna ʿalà ʾiqrāri qāsim:ini ăl ḫayyāši 
+ <lb n="15"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu ḥasan:un bi ʾamri hi wa maḥḍari hi 
+ <lb n="16"/>fī šaʿbāna min sanaẗi sittaẗ:in wa ḫamsīna wa miʾatay 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Titre établissant le droit [de Ḥasan et] de son frère Ǧaʿfar sur Qāsim :
+			<lb n="3"/>
+		Il leur doit [....] pièces et quart de toile
+			<lb n="4"/>
+		de six coudées. [Il livrera] à al-Ḥasan et à Ǧaʿfar
+			<lb n="5"/>
+		chaque semaine une pièce de toile. La primière semaine (commence) le 10
+			<lb n="6"/>
+		šaʿbān l&#039;année 256.
+			<lb n="7"/>
+		Qāsim hat nicht das Recht, (die Arbeit von) Ḥasan und Ǧaʿfar ruhen zu lassen,
+		Qāsim ne doit pas tarder envers Ḥasan et Ǧaʿfar.
+			<lb n="8"/>
+		Ceci est un droit et il faut le livrer à l&#039;échéance du term nommé
+		denn es ist ein Rechtsanspruch, noch gibt es einen Einspruch etc. gegen die Lieferung von diesem (sc. der Ware) an Ḥasan und Ǧaʿfar. (...)
+			<lb n="9"/>
+		en cet écrit, les leur livrer comme il a été nommé
+			<lb n="10"/>
+		et touché. (Qāsim) a touché le prix de ces pièces de toile de Ḥasan et de Ǧaʿfar, pleinement
+			<lb n="11"/>
+		et entièrement, qui se sont llibérés de ceci envers lui. A témoigné de ceci
+			<lb n="12"/>
+		Muḥammad b. al-Rabīʿ b. Sulaymān le muezzin; son témoignage est de sa main, de la reconnaissance par Qāsim d&#039;Ihnāsya
+		(...) Qāsim (wohnhaft) in I. (...)
+			<lb n="13"/>
+		de tout le contenu de cet écrit.
+			<lb n="14"/>
+		A témoigné Qaššāš b. Miskīn de la reconnaissance par Qāsim le tisseur de toiles
+			<lb n="15"/>
+		de tout le contenu de cet écrit. Ḥasan a écrit son témoignage sur son ordre et en sa présence
+			<lb n="16"/>
+		en šaʿbān de l&#039;année 256.
+</ab></div>
+</body>
+</text>
+</TEI>

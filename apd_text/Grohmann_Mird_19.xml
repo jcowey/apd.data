@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2445" xml:id="Grohmann_Mird_19" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Mird 19</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_19</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="2"/>  إلى <del rend="erasure" status="unremarkable">پـ</del>ـد ڤبس <app type="BL"><lem resp="APD">پن </lem><rdg resp="APD">حزم </rdg><rdg resp="APD">خرّم</rdg></app> حرم اما پعد 
+<lb n="3"/>  <app type="BL"><lem resp="APD">زيت </lem><rdg resp="Diem">زيت</rdg></app> في قرية من <app type="BL"><lem resp="APD">كـ<supplied reason="lost" cert="high">ـورة</supplied> </lem><rdg resp="APD">كورتك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  عدا على <app type="BL"><lem resp="APD">ريته </lem><rdg resp="Diem">ريته</rdg></app> ذلك فأخذه <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Diem">منه</rdg></app> 
+<lb n="5"/>  <del rend="erasure" status="unremarkable">ڤاپطر</del> <del rend="erasure" status="unremarkable">ڤان</del> <del rend="erasure" status="unremarkable">كان</del> <del rend="erasure" status="unremarkable">احد</del> <del rend="erasure" status="unremarkable">دلك</del> <del rend="erasure" status="unremarkable">الرپـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـن</del></supplied> 
+<lb n="6"/>  فانظر فيما ذكر لي ثم خذ له ما و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  عدل فإن أنكر فإنّك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <app type="BL"><lem resp="APD">و<gap reason="illegible" precision="low" extent="3"/>ر </lem><rdg resp="Diem">ø</rdg></app> أمرهم على حقّه وصدقه إن شا ا<supplied reason="lost" cert="high">للّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ذكر فطـ<supplied reason="lost" cert="high">ـريـ</supplied>ـق <unclear reason="undefined" cert="high">أيضا</unclear> أن <supplied reason="lost" cert="high">بـ</supplied>ـعض حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپه <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>******** 
+ <lb n="2"/>ʾilà qaysi bni ǧarm:in ḥazm:in ḫurram:in ʾammā baʿdu *** 
+ <lb n="3"/>rBB zayt fī qaryaẗ:in min kūraẗi kūrati ø ka *** 
+ <lb n="4"/>ʿadā ʿalà zayni zayti hi ḏālika fa ʾaḫaḏa hu **** min **** hu *** 
+ <lb n="5"/>fa ŭnẓur fa ʾin kāna ʾaḫaḏa ḏālika ăz zayna zayta 
+ <lb n="6"/>fa ŭnẓur fī mā ḏakara l ī ṯumma ḫuḏ la hu mā w*** 
+ <lb n="7"/>ʿadl fa ʾin ʾankara fa ʾinna ka *** 
+ <lb n="8"/>w***r ø ʾamr hum ʿalà ḥaqqi hi wa ṣidqi hi ʾin šāʾa ăl lāhu *** 
+ <lb n="9"/>ḏakara faṭrīqu ʾayḍ:an ʾanna baʿḍa ḥ***Bh *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		... Aber danach: [Ein Mann namens N.N. hat mir mitgeteilt, daß er]
+		To〚....〛d Qais ibn Ǧarm. Thereafter. [
+			<lb n="3"/>
+		........ in a village belonging to the dis[trict ....
+		Öl hatte in einem Dorf der Pro[vinz N.N. und daß ein Mann namens N.N.]
+			<lb n="4"/>
+		has robbed him of those ornaments. So arrest him ... [
+		sich an dieses sein Öl herangemacht hat und es [ihm] weggenommen hat [...]
+			<lb n="5"/>
+		〚So take steps to ascertain (it). But if he has really taken those ornaments〛
+		〚Untersuche (dies also)!. Wenn er jenes Öl (tatsächlich) weggenommen hat, [dann ...]〛
+			<lb n="6"/>
+		Thus search for that which he has mentioned to me. Then take for him, what .... [
+		Untersuche also, was er (sc. der Kläger) mir gegenüber erwähnt hat und verschaffe ihm darauf das, was [ihm weggenommen worden ist und verfahre hierbei nach]
+			<lb n="7"/>
+		Gerechtigkeit. Wenn er (sc. der Beschuldigte) leugnet, dann wirst du [... und]
+		justice. But if he disownes, verily, you [should ......
+			<lb n="8"/>
+		ihre Angelegenheit nach Recht und Billigkeit entscheiden, so Gott will!
+		.... their affair according to his right and his sincerity, if G[od] wills.
+			<lb n="9"/>
+		Faṭrīq has also mentioned that some .......
+</ab></div>
+</body>
+</text>
+</TEI>

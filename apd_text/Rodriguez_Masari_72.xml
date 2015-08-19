@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1910" xml:id="Rodriguez_Masari_72" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 7c</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_72</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169647</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الحمد للّه أَشهَد الشّيخ بشير بن خير اللّه للخانب العلي الدّلّال للأملاك بالحضرة على نفسه شهيديه 
+<lb n="2"/>  أنّه سوّق المصريّة المرتهنة في الرّسم عرضه والمحدودة فيه مدّة من نحو ثلاثة أشهر قبل شهر عن تأريخه في أماكن 
+<lb n="3"/>  الرّغتة ومظان الزّيادة ولم <unclear reason="undefined" cert="high">يلف</unclear> لها طالبا ولا راغبا إشهادا تامّا عرف قدره وشهد عليه بذلك من عرفه بحال صحّة 
+<lb n="4"/>  وجواز في العشر الأخير لشعبان عام أربعة وتسعين وثمانمائة 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi ʾašhada ăš šayḫu bašīru bnu ḫayri ăl lāhi li l ǧānibi ăl ʿaliyyi ăd dallāli li l ʾamlāki bi ăl ḥaḍraẗi ʿalà nafsi hi šahīday hi 
+ <lb n="2"/>ʾanna hu sawwaqa ăl maṣriyyaẗa ăl murtahanaẗa fī ăr rasmi ʿarḍa hu wa ăl maḥdūdaẗa fī hi muddaẗ:an min naḥwi ṯalāṯaẗi ʾašhur:in qabla šahr:in ʿan taʾrīḫi hi fī ʾamākini 
+ <lb n="3"/>ăr raġbaẗi wa maẓānni ăz ziyādaẗi wa lam yulfi la hā ṭālib:an wa lā rāġib:an ʾišhād:an tāmm:an ʿarafa qadra hu wa šahida ʿalay hi bi ḏālika man ʿarafa hu bi ḥāli ṣiḥḥaẗ:in 
+ <lb n="4"/>wa ǧawāz:in fī ăl ʿašri ăl ʾaḫīri li šaʿbāni ʿāmi ʾarbaʿaẗ:in wa tisʿīna wa ṯamāni miʾaẗ:in 
+ <lb n="5"/>*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Louange à Dieu. Le cheik Bašīr ibn Ḫayr Allāh, en représentation de l&#039;illustre courtier immobilier de la capitale, a demandé le témoignage à propos de lui
+			<lb n="2"/>
+		du bien qu&#039;il a mis en vente aux enchères: la maṣriyya livrée en gage dans l&#039;acte précédemment exposé, où on indique ses limites, sur une durée d&#039;à peu près trois mois jusqu&#039;à un mois avant cette date,
+			<lb n="3"/>
+		sans que personne ne se soit décidé à l&#039;enchérir. Il s&#039;agit d&#039;une demande de témoignage complète dont (la personne qui requiert le témoignage) connaît la portée, en témoignant à sa faveur (les témoins instrumentaires) qui la connaissent (et savent qu&#039;il jouit) de capacité physique
+			<lb n="4"/>
+		et légale (suffisante). Le 20 šaʿbān de l&#039;année 894 (= 19 juillet 1489).
+			<lb n="5"/>
+		[Signatures illisibles et paraphées].
+</ab></div>
+</body>
+</text>
+</TEI>

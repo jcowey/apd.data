@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1529" xml:id="Diem_Berl_II_40" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 40</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_40</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169300</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حيم 
+<lb n="recto 2"/>  أكرمك <supplied reason="lost" cert="high">اللّـ</supplied>ـه وأبقاك وأتم نعمته عـ<supplied reason="lost" cert="high">ـلـ</supplied>ـيك و<supplied reason="lost" cert="high">ز</supplied>اد في إحسانه إليك كتـ<supplied reason="lost" cert="high">ـابي</supplied> <supplied reason="lost" cert="high">إليك</supplied> أكـ<supplied reason="lost" cert="high">ـرمك</supplied> الـ<supplied reason="lost" cert="high">ـلّه</supplied> <supplied reason="lost" cert="high">و</supplied>نحن في عافية والحمد للّه كثيرا وصلّى 
+<lb n="recto 3"/>  اللّه على محمّد النّبي وآله وسلّم قد كـ<supplied reason="lost" cert="high">ـنـ</supplied>ـت كتبت إليك كتابا و<supplied reason="lost" cert="high">قـ</supplied>ـد أعلمتك <supplied reason="lost" cert="high">أنّي</supplied> <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">بعثت</supplied> <supplied reason="lost" cert="high">إليك</supplied> بحوائجك كلّها مع أبي هيثم النّوتي سلّمه اللّه 
+<lb n="recto 4"/>  ‮في عافية والّذي حملت إليك معه قنطار صبون جيّد جد الثّمن <sic n="superfluous">دپپر</sic> <expan><ex>دنانير</ex></expan> ‪εδʹ‬ وإلى النّوتي عن كراه ‪ιʹβʹ‬ 
+<lb n="recto 5"/>  ‮ومعه جراب صابون صنع جـ<supplied reason="lost" cert="high">ـيّـ</supplied>ـد وزنه خالص رطل ‪ρπβχ‬ الثّمن <sic n="superfluous">دپپر</sic> <expan><ex>دنانير</ex></expan> ‪γχ‬ بكرى النّوتي والحمّال 
+<lb n="recto 6"/>  ‮النّوتي ‪ηʹ‬ وقلّة زيت فلسطيني كيلها قلّة ما <sic n="superfluous">پدپپر</sic> <expan><ex>بدنانير</ex></expan> ‪αδʹ‬ ثمن جرّة والحمّال والنّوتي لهم ‪ιʹβ‬ ومع النّوتي 
+<lb n="recto 7"/>  ‮قلّة قند <sic n="superfluous">دپپر</sic> <expan><ex>دنانير</ex></expan> ‪αλςʹ‬ بثمن الجرّة <supplied reason="omitted" cert="high">و</supplied>النّوتي ‪λςʹ‬ فذلك <sic n="superfluous">دپپر</sic> <expan><ex>دنانير</ex></expan> ‪ιαχ<del rend="erasure" status="unremarkable">χ</del>ιʹβʹ‬ فإذا سلّمه اللّه 
+<lb n="recto 8"/>  فاقبض ذلك <supplied reason="lost" cert="high">منـ</supplied>ـه وأثـ<sic n="superfluous">ـبـ</sic>ـتپ ذلك عندك وقد ورد كتابك في قنطار آخر صبون وأنا آخذه لك 
+<lb n="recto 9"/>  وأوجّه به إليك إن شا اللّه أكرمك اللّه وأبقاك وأتم نعمته عليك وزاد في إحسانه إليك 
+<lb n="verso 1 right"/>  لأبي عبد اللّه أطال اللّه بقاه 
+<lb n="verso 2 right"/>  محمّد بن جروة أعزّه اللّه 
+<lb n="verso 1 left"/>  من عبد الرّحمن بن محمّد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu wa ʾabqā ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka kitāb ī ʾilay ka ʾakrama ka ăl lāhu wa naḥnu fī ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an wa ṣallà 
+ <lb n="3"/>ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama qad kuntu katabtu ʾilay ka kitāb:an wa qad ʾaʿlamtu ka ʾan nī qad baʿaṯtu ʾilay ka bi ḥawāʾiǧi ka kulli hā maʿa ʾabī hayṯama ăn nūtiyyi sallama hu ăl lāhu 
+ <lb n="4"/>fī ʿāfiyaẗ:in wa ăllaḏī ḥamaltu ʾilay ka maʿa hu qinṭāru ṣābūn:in ǧayyid:in ǧidd ăṯ ṯamani danānīra ‪5 1/4 wa ʾilà ăn nūtiyyi ʿan kirā hu ‪1/12 
+ <lb n="5"/>wa maʿa hu ǧirābu ṣābūn:in ṣanʿ:in ǧayyid:in waznu hu ḫāliṣ raṭl:in ‪182 2/3 ăṯ ṯamanu danānīra ‪3 2/3 bi kirà ăn nūtiyyi wa ăl ḥammāli 
+ <lb n="6"/>ăn nūtiyyi ‪1/8 wa qullaẗu zayt:in filasṭīniyy:in kaylu hā qullaẗu māʾ:in bi danānīra ‪1 1/4 ṯamanu ǧarraẗ:in wa ăl ḥammālu wa ăn nūtiyyu la hum ‪1/12 wa maʿa ăn nūtiyyi 
+ <lb n="7"/>qullaẗu qand:in danānīra ‪1 1/36 bi ṯamani ăl ǧarraẗi wa ăn nūtiyyi ‪1/36 fa ḏālika danānīra ‪11 1/2 1/12 fa ʾiḏā sallama hu ăl lāhu 
+ <lb n="8"/>fa ĭqbiḍ ḏālika min hu wa ʾaṯbit ḏālika ʿinda ka wa qad warada kitābu ka fī qinṭār:in ʾāḫara ṣābūn:in wa ʾanā ʾāḫuḏu hu la ka 
+ <lb n="9"/>wa ʾuwaǧǧihu bi hi ʾilay ka ʾin šāʾa ăl lāhu ʾakrama ka ăl lāhu wa ʾabqā ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka 
+ <lb n="10"/>li ʾabī ʿabdi ăl lāhi ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="11"/>muḥammadi bni ǧirwaẗa ʾaʿazza hu ăl lāhu 
+ <lb n="12"/>min ʿabdi ăr raḥmāni bni muḥammad:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barm[herzigen und Gnäd]igen!
+			<lb n="2"/>
+		[Go]tt ehre und erhalte Dich, vollende seine Gnade an Dir und spende Dir noch mehr sein Wohlwollen! [Ich] schrei[be Dir] - Gott ehre Dich -, wobei wir bei Gesundheit sind; Preis sei Gott vielmals!
+			<lb n="3"/>
+		Gott segne Muḥammad den Propheten und seine Sippe und spende (ihnen) Heil! Ich habe Dir bereits einen Brief geschrieben und Dir mitgeteilt, daß [ich] alles von Dir Bestellte Abū Hayṯam dem Schiffer [für Dich mitgegeben habe] - Gott lasse ihn (bei Dir)
+			<lb n="4"/>
+		gesund ankommen! Was ich durch ihn zu Dir transportieren lasse, ist ein Zentner ganz ausgezeichneter Seife (zum) Preis von 5 1/4 Dinar nebst 1/12 (Dinar) an den Schiffer als Lohn.
+			<lb n="5"/>
+		Er überbringt (Dir außerdem) einen Sack Seife von ausgezeichneter Qualität mit einem Nettogewicht von 182 2/3 Raṭl (zum) Preis von 3 2/3 Dinar nebst dem Lohn des Schiffers und des Lastträgers,
+			<lb n="6"/>
+		eines Matrosen, (in Höhe von) 1/8 (Dinar), einen Krug palästinischen Olivenöls mit dem Fassungsvermögen eines Wasserkrugs für 1 1/4 Dinar (nebst) 1/12 (Dinar) als Preis eines Krugs und für den (Lohn des) Schiffers und (des) Lastträgers. Ferner überbringt (Dir) der Schiffer
+			<lb n="7"/>
+		einen Krug Rohzucker (für) 1 1/36 Dinar nebst 1/36 (Dinar) als Preis des Krugs &lt;und&gt; (für) den (Lohn des) Schiffers. Das macht (zusammen) 11 1/2 〚1/48〛 1/12 Dinar. Sobald ihn Gott wohlbehalten bei Dir ankommen läßt,
+			<lb n="8"/>
+		nimm (all) dies [von] ihm in Empfang und verbuche es bei Dir. Dein Brief wegen (der Bestellung) eines weiteren Zentners Seife ist angekommen, und ich werde sie Dir besorgen
+			<lb n="9"/>
+		und übersenden, so Gott will! Gott ehre und erhalte Dich, vollende seine Gnade an Dir und spende Dir noch mehr sein Wohlwollen!
+			<lb n="10"/>
+		An Abū ʿAbdallāh - Gott lasse ihn lange leben -
+			<lb n="11"/>
+		Muḥammad ibn Ǧirwah - Gott stärke ihn -
+			<lb n="12"/>
+		von ʿAbdarraḥmān ibn Muḥammad.
+</ab></div>
+</body>
+</text>
+</TEI>

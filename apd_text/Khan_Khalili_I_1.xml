@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1454" xml:id="Khan_Khalili_I_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 01 (= P.Khalili II 02)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169238</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  φακρα فقرا <app type="BL"><lem resp="APD">تقسم </lem><rdg resp="Khan, P.Khalili II 2">تقسم</rdg></app> لـ<supplied reason="lost" cert="high">ـها</supplied> للمسكين والفقرا 
+ <lb n="3"/>  دينارين وسدس 
+ <lb n="4"/>  μυρμυναυξ 
+ <lb n="5"/>  إذموشينف تقسّم لها للمسكين وللفقرا 
+ <lb n="6"/>  دينر 
+ <lb n="7"/>  αμμωνιαν 
+ <lb n="8"/>  أميان تقسّم لها للمسكين وللفقرا 
+ <lb n="9"/>  ربع دينر 
+ <lb n="10"/>  ισιου κα<supplied reason="lost" cert="high">τω</supplied> 
+ <lb n="11"/>  <app type="BL"><lem resp="APD">سلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">شلـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> <supplied reason="lost" cert="high">تقسّم</supplied> <supplied reason="lost" cert="high">لها</supplied> للمسكين وللفقرا 
+ <lb n="12"/>  درهمين ورق 
+ <lb n="13"/>  σπανια 
+ <lb n="14"/>  صفنيّة تقسّم لها للمسكين وللفقرا 
+ <lb n="15"/>  <expan><abbr>μουχ</abbr><ex>ι</ex><abbr>νταλη</abbr></expan> 
+ <lb n="16"/>  موش دل تقسّم لها للمسكين وللفقرا 
+ <lb n="17"/>  دينرين وربع وقيراط 
+ <lb n="18"/>  <expan><abbr>θολθ</abbr><ex>ις</ex></expan> <expan><abbr>μεγ</abbr><ex>αλη</ex></expan> 
+ <lb n="19"/>  <app type="BL"><lem resp="APD">ثيلث </lem><rdg resp="APD">تيلت</rdg></app> الكبرى تقسّم لها للمسكين وللفقرا 
+ <lb n="20"/>  أربعة دننير 
+ <lb n="21"/>  σεφθα 
+ <lb n="22"/>  سمسطا تقسّم لـ<supplied reason="lost" cert="high">ـها</supplied> <supplied reason="lost" cert="high">للمسكين</supplied> <supplied reason="lost" cert="high">وللفقرا</supplied> 
+ <lb n="23"/>  ثمنية <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>φακρα faqrā taqassama tuqsamu la hā li l masākīna wa ăl fuqarāʾi 
+ <lb n="3"/>dīnārayni wa suds:un 
+ <lb n="4"/>μυρμυναυξ 
+ <lb n="5"/>ʾiḏmūšīnafu taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="6"/>dīnār:un 
+ <lb n="7"/>αμμωνιαν 
+ <lb n="8"/>ʾamyānu taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="9"/>rubʿu dīnār:in 
+ <lb n="10"/>ισιου κατω 
+ <lb n="11"/>sal*** šal*** taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="12"/>dirhamayni waraq:un 
+ <lb n="13"/>σπανια 
+ <lb n="14"/>ṣafaniyyaẗu taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="15"/> μουχ(ι)νταλη 
+ <lb n="17"/>mūšu dalu taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="18"/>dīnārayni wa rubʿ:un wa qīrāṭ:un 
+ <lb n="19"/>θολθ(ις) μεγ(αλη) 
+ <lb n="20"/>ṯīlṯu tīltu ăl kubrà taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="21"/>ʾarbaʿaẗu danānīra 
+ <lb n="22"/>σεφθα 
+ <lb n="23"/>sumusṭā taqassama la hā li l masākīna wa li l fuqarāʾi 
+ <lb n="24"/>ṯamāniyaẗu *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the merciful and compassionate.
+		 <lb n="2"/>
+ 	  Fakra. Faqra - There have been allotted to it for the needy and for the poor
+ 	  Fakra. Faqrā - There have been allotted to it for the needy and poor
+		 <lb n="3"/>
+ 	  two dīnārs and a sixth.
+		 <lb n="4"/>
+ 	  Murmunauks
+ 	  Myrmynaux
+		 <lb n="5"/>
+ 	  Idhmushinaf - There have been allotted to it for the needy and for the poor
+ 	  ʾIḏmūšīnaf - There has been allotted to it for the needy and poor
+		 <lb n="6"/>
+ 	  one dīnār.
+		 <lb n="7"/>
+ 	  Ammonian
+ 	  Ammōnian
+		 <lb n="8"/>
+ 	  ʾAmyān - There has been allotted to it for the needy and poor
+ 	  Amyan - There have been allotted to it for the needy and for the poor
+		 <lb n="9"/>
+ 	  a quarter of a dīnār.
+		 <lb n="10"/>
+ 	  Isiou Kato
+ 	  Isiou Katō
+		 <lb n="11"/>
+ 	  [lost name] - There have been allotted to it for the needy and for the poor
+ 	  S/Šal[ - There have been allotted to it] for the needy and poor
+		 <lb n="12"/>
+ 	  two waraq dirhams.
+		 <lb n="13"/>
+ 	  Spania
+		 <lb n="14"/>
+ 	  Ṣafaniyya - There have been allotted to it for the needy and poor.
+ 	  Safaniyya - There have been allotted to it for the needy and for the poor
+		 <lb n="15"/>
+ 	  Mouchintale
+ 	  Mouḵintalē
+		 <lb n="17"/>
+ 	  Mūš Dal - There have been allotted to it for the needy and poor
+ 	  Mush Dal - There have been allotted to it for the needy and for the poor
+		 <lb n="18"/>
+ 	  two dīnārs and a quarter and a qīrāṭ.
+		 <lb n="19"/>
+ 	  Ṯolthis Megalē
+ 	  Tholthis Megale
+		 <lb n="20"/>
+ 	  Ṯilṯ/Tīlt al-Kubrā - There have been allotted to it for the needy and poor
+ 	  Thilt al-Kubra - There have been allotted to it for the needy and for the poor
+		 <lb n="21"/>
+ 	  four dīnārs.
+		 <lb n="22"/>
+ 	  Seftha
+ 	  Sephtha
+		 <lb n="23"/>
+ 	  Sumusṭā - There have been allotted to [it for the needy and poor]
+ 	  Sumusta - There have been allotted to it for the needy and for the poor
+		 <lb n="24"/>
+ 	  eight [   ].
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2298" xml:id="Diem_Heid_III_28b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 28b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_28b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="a 1"/>  عرّفني يأبا إسحق أيّدك اللّه ما عندك 
+<lb n="a 2"/>  في ذلك إن شا اللّه 
+<lb n="b 1"/>  <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">جائی</supplied> أطال اللّه بقا القاضي وأدام <supplied reason="lost" cert="high">عـ</supplied>ـزّه وتأييده وعلوّه 
+<lb n="b 2"/>  وتـ<supplied reason="lost" cert="high">ـمـ</supplied>كينه جماعة من جيراني ومعهم جارية سودا 
+<lb n="b 3"/>  ومعها رجل من أهل الأشمونين عرفته بذ<supplied reason="omitted" cert="high">ا</supplied>ته 
+<lb n="b 4"/>  فذكر رقّها فشهد جماعة الجيران أنّهم 
+<lb n="b 5"/>  يعرفونـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا حـ<supplied reason="lost" cert="high">ـرّ</supplied>ة <supplied reason="lost" cert="high">ويعر</supplied>فون أباها <supplied reason="lost" cert="high">وهو</supplied> حر 
+<lb n="b 6"/>  <gap reason="illegible" extent="7" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿarrif nī yā ʾabā ʾisḥāqa ʾayyada ka ăl lāhu mā ʿinda ka 
+ <lb n="2"/>fī ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="3"/>qad ǧāʾa nī ʾaṭāla ăl lāhu baqāʾa ăl qāḍī wa ʾadāma ʿizza hu wa taʾyīda hu wa ʿuluwwa hu 
+ <lb n="4"/>wa tamkīna hu ǧamāʿaẗ:un min ǧīrān ī wa maʿa hum ǧāriyaẗ:un sawdāʾu 
+ <lb n="5"/>wa maʿa hā raǧul:un min ʾahli ăl ʾušmūnayni ʿaraftu hu bi ḏāti hi 
+ <lb n="6"/>fa ḏakara riqqa hā fa šahida ǧamāʿaẗu ăl ǧīrāni ʾanna hum 
+ <lb n="7"/>yaʿrifūna hā ḥurraẗ:an wa yaʿrifūna ʾabā hā wa huwa ḥurr:un 
+ <lb n="8"/>******* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Laß mich, o Abū Isḥāq, wissen, welche Meinung Du
+			<lb n="2"/>
+		darüber hast, so Gott will!
+			<lb n="3"/>
+		[Es kam zu mir] - Gott lasse den Richter lange leben und gewähre ihm weiterhin [Ans]ehen, Unterstützung, Erhabenheit
+			<lb n="4"/>
+		und Amtsgewalt - eine Gruppe meiner Nachbarn, die ein schwarzes (Sklaven)mädchen
+			<lb n="5"/>
+		und zusammen mit ihr einen Mann von den Einwohnern von al-Ušmūnayn, den ich persönlich kannte, dabei hatten.
+			<lb n="6"/>
+		Dieser gab an, sie sei eine Sklavin, während die Gruppe meiner Nachbarn bezeugte, daß sie
+			<lb n="7"/>
+		sie als frei kennten und daß sie (auch) ihren Vater [ke]nnten [und dieser] (ebenfalls) frei sei
+			<lb n="8"/>
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2105" xml:id="MoutonSourdelPauvretE011" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MoutonPauvreté 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdelPauvretE011</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد من أثبت شهادة هذا المكتوب من الشّهود المسمّيين المذكورين شهادة <supplied reason="lost" cert="high">لا</supplied> 
+<lb n="3"/>  يشكّون فيها ولا يرتابون وهم لها محقّقون أنّهم يعرفون يوسف بن كبك ابن إلياس الدّورسي 
+<lb n="4"/>  أنّه فقير من فقرا المسلمين لا لـه ذهب ولا فضّة ولا ملك ولا قماش ولا له شي 
+<lb n="5"/>  من الدّنيا شهادة صحيح وبذلك خطّوا خطوطهم في سادس عشر من شهر رجب 
+<lb n="6"/>  في سنة اثنا عشر وستّماية 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida man ʾaṯbata šahādaẗa hāḏā ăl maktūbi mina ăš šuhūdi ăl musammayīna ăl maḏkūrīna šahādaẗ:an lā 
+ <lb n="3"/>yašukkūna fī hā wa lā yartābūna wa hum la hā muḥaqqiqūna ʾanna hum yaʿrifūna yūsufa bna kabaki ĭbni ʾilyāsa ăd dawrisiyya 
+ <lb n="4"/>ʾanna hu faqīr:un min fuqarāʾi ăl muslimīna lā la hu ḏahaba wa lā fiḍḍaẗa wa lā milka wa lā qumāša wa lā la hu šayʾa 
+ <lb n="5"/>mina ăd dunyā šahādaẗ:an ṣaḥīḥaẗ:an wa bi ḏālika ḫaṭṭū ḫuṭūṭa hum fī sādisa ʿašara min šahri raǧaba 
+ <lb n="6"/>fī sanaẗi ĭṯnā ʿašara wa sitti miyaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux,
+			<lb n="2"/>
+		Celui qui parmi les témoins nommément désignés et mentionnés a établi le témoignage porté par ce texte fournit le témoignage suivant
+			<lb n="3"/>
+		que reconnaissent et ne mettent pas en doute les autres témoins alors qu&#039;ils l&#039;on vérifié: [Les témoins attestent] qu&#039;ils connaissent Yūsuf b. Kabak b. Ilyās al-Dawrisī
+			<lb n="4"/>
+		et que c&#039;est un &#034;pauvre&#034; (faqīr) parmi les musulmans pauvres (fuqarāʾ al-muslimīn) qui ne possède ni or, ni argent, ni bien immobilier (milk), ni tissu précieux (qumāš), ni quoi que ce soit
+			<lb n="5"/>
+		de ce bas monde et c&#039;est là und témoignage authentique où ils ont apposé leur signature le 16 raǧab
+			<lb n="6"/>
+		de l&#039;année 612 (10 novembre 1215).
+</ab></div>
+</body>
+</text>
+</TEI>

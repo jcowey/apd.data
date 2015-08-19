@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2462" xml:id="Diem_Steuerquittungen_200" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 20</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_200</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  دينار 
+<lb n="2"/>  ÷ 
+<lb n="3"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أدّى هدر بن <unclear reason="undefined" cert="high">إبرهيم</unclear> عن الخراج بقلبّة توپ دينار 
+<lb n="5"/>  واحد <gap reason="illegible" precision="low" extent="3"/> وذلك لخراج سنة ست وأربعين 
+<lb n="6"/>  وثلثمائة ÷÷÷ 
+<lb n="7"/>  دينار 
+<lb n="8"/>  ÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dīnār:un 
+ <lb n="2"/>1 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà hadru bnu ʾibrāhīma ʿani ăl ḫarāǧi bi qulubbaẗa twB dīnār 
+ <lb n="5"/>wāḥid *** wa ḏālika li ḫarāǧi sanaẗi sitt:in wa ʾarbaʿīna 
+ <lb n="6"/>wa ṯalāṯi miʾaẗ:in 346 
+ <lb n="7"/>dīnār:un 
+ <lb n="8"/>1 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Dinar
+			<lb n="2"/>
+		1
+			<lb n="3"/>
+		[Im Nam]en Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="4"/>
+		Es zahlte Hadr ibn Ibrāhīm (?) für die Grundsteuer in Qulubbah .....
+			<lb n="5"/>
+		einen Dinar ......., und zwar für die Steuer des Jahres dreihundert-
+			<lb n="6"/>
+		sechsundvierzig 346.
+			<lb n="7"/>
+		Dinar
+			<lb n="8"/>
+		1
+</ab></div>
+</body>
+</text>
+</TEI>

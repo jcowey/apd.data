@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2315" xml:id="Diem_Heid_II_2_verso" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 02 verso</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_2_verso</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="verso 1"/>  المجدُ للّه دائمًا أبدًا 
+ <lb n="verso 2"/>  الأغومنس عَبد المسيح بدير بو يحنّس ومِشائخ القلالي 
+ <lb n="verso 3"/>  بارك اللّه على جميعهم يحضروا المذكورين ويحكموا بينهم 
+ <lb n="verso 4"/>  بمقتضى ناموس شريعة الرّهبنة وأي من خرج عن 
+ <lb n="verso 5"/>  حكم الرّهبنة يردعوه <app type="BL"><lem resp="APD">ويحر<unclear reason="undefined" cert="high">مـ</unclear>ـوه </lem><rdg resp="APD">ويخرجوه </rdg><rdg resp="Khan">يمنعوه</rdg></app> من الصّادر عن شُـ<supplied reason="lost" cert="high">ـر</supplied>يعة 
+ <lb n="verso 6"/>  الرّهبَان وإذا لم يواثق كل الرّضوخ للحق والقيام 
+ <lb n="verso 7"/>  بما يجب عليه من قانون الرّهبنة يعرفوا أنّه يعتمد معنى ما يجب 
+ <lb n="verso 8"/>  عليه من الأدب والمنع القاطع والسّلام على جميعكم 
+ <lb n="verso 9"/>  والسّبح للّه دائما أبدا 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl maǧdu li l lāhi dāʾim:an ʾabad:an 
+ <lb n="2"/>ăl ʾaġūminusu ʿabdu ăl masīḥi bi dayri bū yuḥannisa wa mašāʾiḫu ăl qalālī 
+ <lb n="3"/>bāraka ăl lāhu ʿalà ǧamīʿi him yuḥḍirū ăl maḏkūrīna wa yaḥkumū bayna hum 
+ <lb n="4"/>bi muqtaḍà nāmūsi šarīʿaẗi ăr rahbanaẗi wa ʾayy:un man ḫaraǧa ʿan 
+ <lb n="5"/>ḥukmi ăr rahbanaẗi yardaʿū hu wa yaḥrimū yuḫriǧū hu yamnaʿū hu mina ăṣ ṣādiri ʿan šarīʿaẗi 
+ <lb n="6"/>ăr ruhbāni wa ʾiḏā lam yuwāṯiq kulla ăr ruḍūḫi li ăl ḥaqqi wa ăl qiyāmi 
+ <lb n="7"/>bi mā yaǧibu ʿalay hi min qānūni ăr rahbanaẗi yuʿarrifū hu ʾanna hu yaʿtamidu maʿnà mā yaǧibu 
+ <lb n="8"/>ʿalay hi mina ăl ʾadabi wa ăl manʿi ăl qāṭiʿi wa ăs salāmu ʿalà ǧamīʿi kum 
+ <lb n="9"/>wa ăs subḥu li ăl lāhi dāʾim:an ʾabad:an 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Ruhm gebührt Gott immer und ewig!
+		 <lb n="2"/>
+ 	  Der Hegumen ʿAbdalmasīḥ im Kloster des Apa Johannes und die Ältesten der Zellen
+		 <lb n="3"/>
+ 	  - Gott segne sie alle - sollen die Erwähnten vorladen und ihren Streitfall
+		 <lb n="4"/>
+ 	  gemäß der Regel des Möchsgesetzes entscheiden. Wer auch immer gegen
+		 <lb n="5"/>
+ 	  die Vorschrift des Mönchstums verstößt, den sollen sie auf Grund des sich aus dem Mönchs-
+		 <lb n="6"/>
+ 	  gesetz Ergebenden ermahnen und anathematisieren. Wenn er sich nicht verpflichtet, sich dem Gesetz voll zu unterwerfen und
+		 <lb n="7"/>
+ 	  die ihm obliegenden Bestimmungen des Mönchsgesetzes durchzuführen, sollen sie ihn in Kenntnis setzen,  daß die für ihn gebotene
+		 <lb n="8"/>
+ 	  Züchtigung und entschiedene Abhaltung in voller Schärfe angewandt werden wird. Das Heil sei auf Euch allen!
+		 <lb n="9"/>
+ 	  Preis gebührt Gott immer und ewig!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

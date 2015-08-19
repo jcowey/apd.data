@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1701" xml:id="Prag_470" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 47</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_470</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169451</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  ثبت 
+<lb n="recto 2"/>  برااپ سنة أربعين وأربعمائة الخراجيّة 
+<lb n="recto 3"/>  <unclear reason="undefined" cert="high">سطّر</unclear> أبو سعيد 
+<lb n="recto 4"/>  ‮بر<supplied reason="lost" cert="high">ا</supplied>ه ‮‪<unclear reason="undefined" cert="high">κ</unclear><supplied reason="lost" cert="high">ζ</supplied>γʹ‬ ‮<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/>‬‬‬ 
+<lb n="recto 5"/>  ‮تأريخها يـ<supplied reason="lost" cert="high">ـو</supplied>م الجمعة <supplied reason="lost" cert="high">بـ</supplied>ـر<supplied reason="lost" cert="high">مـ</supplied>ـهات ‮‪ιδ‬ <supplied reason="lost" cert="high">شوّال</supplied> <supplied reason="lost" cert="high">‪κβ‬</supplied>‬‬ 
+<lb n="recto 6"/>  ‮براه ‮‪ι‪<gap reason="illegible" extent="1" unit="character" />‬‬ ‪<gap reason="illegible" extent="2" unit="character" />‬‬‬ 
+<lb n="recto 7"/>  ‮تأريخها يوم السّبت برمهات ‮‪ιε‬ شوّال ‪κγ‬‬‬ 
+<lb n="recto 8"/>  ‮براه ‪<unclear reason="undefined" cert="high">ι</unclear>γ‬‬ 
+<lb n="recto 9"/>  ‮تأريخها يو<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> ذي القعدة ‮γ برمهات ‪κβ‬‬‬ 
+<lb n="recto 10"/>  ‮<supplied reason="lost" cert="high">بـ</supplied>ـراه ‮ι <gap reason="illegible" extent="2" unit="character" />‬‬ 
+<lb n="recto 11"/>  ‮<supplied reason="lost" cert="high">تأريخها</supplied> <supplied reason="lost" cert="high">يوم</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="tentative reading “see commentary”">الجمعة</rdg></app> <app type="BL"><lem resp="‭erroneously for ‫برموده‬.">برمهات </lem><rdg resp="correction “see commentary”">برموده</rdg></app> ‮ι ذي القعدة ‪κα‬‬‬ 
+<lb n="recto 12"/>  <supplied reason="lost" cert="high">أ</supplied>بو العلا الجهبذ 
+<lb n="recto 13"/>  ‮<supplied reason="lost" cert="high">بـ</supplied>ـرا<supplied reason="lost" cert="high">ه</supplied> ‮‪μδ‬ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="recto 14"/>  ‮<supplied reason="lost" cert="high">تأريخها</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـوم <supplied reason="lost" cert="high">الا</supplied>ثنين أبيب ‮ζ صفر ‪ιθ 
+<lb n="recto 15"/>  ‮<supplied reason="lost" cert="high">بيد</supplied> <supplied reason="lost" cert="high">حسـ</supplied>ـنون ‮η ثمن حلبة ‪λδ 
+<lb n="recto 16"/>  ‮<supplied reason="lost" cert="high">بـ</supplied>ـراه ‮‪ιγκʹδʹΧ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 17"/>  ‮تأريخها يـ]ـوم السّبت أبيب ‮‪ιβ‬ صفر ‪κδ 
+<lb n="recto 18"/>  ‮<supplied reason="lost" cert="high">بـ</supplied>ـيد حسنون ‮‪εγʹηʹΧ‬ عمّا اپپع <unclear reason="undefined" cert="high">الخراج</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 19"/>  ‮ϛ ε 
+<lb n="verso 1"/>  براه 
+<lb n="verso 2"/>  ‮تأريخها يوم الخميس أبيب ‮‪ιζ‬ صفر ‮λ ‪κε 
+<lb n="verso 3"/>  عن <unclear reason="undefined" cert="high">المعونة</unclear> المطلقة من مال يدفع 
+<lb n="verso 4"/>  <supplied reason="lost" cert="high">ممّـ</supplied>ـا قام به سنة أربعين ممّا قام به يحنّس بن سرئلة 
+<lb n="verso 5"/>  <supplied reason="lost" cert="high">عن</supplied> ثـ<supplied reason="lost" cert="high">ـمن</supplied> حلبة وكتّان 
+<lb n="verso 6"/>  ‮<supplied reason="lost" cert="high">بـ</supplied>ـراه ε 
+<lb n="verso 7"/>  <supplied reason="lost" cert="high">بـخـ</supplied>ـط الشّيخ أبو اليمن ڤرط علپ عن الادپه 
+<lb n="verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> ثبت ما قام به فرج المشّاط عن ثمن كتّان 
+<lb n="verso 9"/>  ‮<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد ‮‪σξ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 10"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ثمن كتّان عن سبعة دنانير ‮ζ <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṯabatu 
+ <lb n="2"/>barāʾāti sanaẗi ʾarbaʿīna wa ʾarbaʿi miʾaẗ:in ăl ḫarāǧiyyaẗi 
+ <lb n="3"/>saṭṭara ʾabū saʿīd:in 
+ <lb n="4"/>barāʾaẗu 27+1/3 * *** 
+ <lb n="5"/>taʾrīḫu hā yawmu ăl ǧumʿaẗi baramhāta 14 šawwāl:in 22 
+ <lb n="6"/>barāʾaẗu 10+* ** 
+ <lb n="7"/>taʾrīḫu hā yawmu ăs sabti baramhāta 15 šawwāl:in 23 
+ <lb n="8"/>barāʾaẗu 13 
+ <lb n="9"/>taʾrīḫu hā yawmu ăl *** ḏī ăl qaʿdaẗi 3 baramhāta 22 
+ <lb n="10"/>barāʾaẗu 10 ** 
+ <lb n="11"/>taʾrīḫu hā yawmu *** ăl ǧumʿaẗi baramhāta barmūdiha 10 ḏī ăl qaʿdaẗi 21 
+ <lb n="12"/>ʾabū ăl ʿalāʾi ăl ǧahbaḏu 
+ <lb n="13"/>barāʾaẗu 44 * 
+ <lb n="14"/>taʾrīḫu hā yawmu ăl ĭṯnayni ʾabība 7 ṣafar:in 19 
+ <lb n="15"/>bi yadi ḥasnūna 8 ṯamana ḥulbaẗ:in 34 
+ <lb n="16"/>barāʾaẗu 13+1/24+1/48 *** 
+ <lb n="17"/>taʾrīḫu hā yawmu ăs sabti ʾabība 12 ṣafar:in 24 
+ <lb n="18"/>bi yadi ḥasnūna 5+1/3+1/8+48 ʿammā ʾBBʿ ăl ḫarāǧ *** 
+ <lb n="19"/>6 5 
+ <lb n="20"/>barāʾaẗ:un 
+ <lb n="21"/>taʾrīḫu hā yawmu ăl ḫamīsi ʾabība 17 ṣafar:in 30 25 
+ <lb n="22"/>ʿani ăl maʿūnaẗi ăl muṭlaqaẗi min māl:in yudfaʿu 
+ <lb n="23"/>mimmā qāma bi hi sanaẗa ʾarbaʿīna mimmā qāma bi hi yuḥannisu bnu saraʾilaẗa 
+ <lb n="24"/>ʿan ṯamani ḥulbaẗ:in wa kattān:in 
+ <lb n="25"/>barāʾaẗu 5 
+ <lb n="26"/>bi ḫaṭṭi ăš šayḫi ʾabū ăl yumni Frṭ ʿlB ʿn ʾlʾdBh 
+ <lb n="27"/>*** ṯabatu mā qāma bi hi faraǧ:unu ăl maššāṭu ʿan ṯamani kattān:in 
+ <lb n="28"/>***d 260 *** 
+ <lb n="29"/>*** ṯamanu kattān:in ʿan sabʿaẗi danānīra 7 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Verzeichnis
+			<lb n="2"/>
+		der Quittungen des Steu[er]jahres vierhundertundvierzig [
+			<lb n="3"/>
+		geschrieben von (?) Abū Saʿīd [
+			<lb n="4"/>
+		Quittung, 27 1/3 [
+			<lb n="5"/>
+		deren Datum Freitag, 14. [Ba]re[m]hāt, [22. Šawwāl]. [
+			<lb n="6"/>
+		Quittung, [1.] [
+			<lb n="7"/>
+		deren Datum Samstag, 15. Baremhāt, 23. Šawwāl. [
+			<lb n="8"/>
+		Quittung, 13 [
+			<lb n="9"/>
+		deren Datum [...]ta[g], 3. Ḏu&#039;l-Qaʿda, 22. Baremhāt. [
+			<lb n="10"/>
+		[Quit]tung, 10 [
+			<lb n="11"/>
+		[deren Datum Freitag], 10. Baremhāt, 21. Ḏu&#039;l-Qaʿda.
+			<lb n="12"/>
+		[A]bu&#039;l-ʿAlā, der Zahlmeister,
+			<lb n="13"/>
+		[Quit]tu[ng], 44
+			<lb n="14"/>
+		[deren Datum] Mon[t]ag, 7. Abīb, 19. Ṣafar,
+			<lb n="15"/>
+		[durch Ḥas]nūn 8, Wertabgabe von Fenchel 34.
+			<lb n="16"/>
+		[Quit]tung, 13 1/24+1/48
+			<lb n="17"/>
+		[deren Datum] Sams[t]ag, 12. Abīb, 24. Ṣafar,
+			<lb n="18"/>
+		[d]urch Ḥasnūn 5 1/3+1/8+1/48, von dem, was ..... für Grundsteuer
+			<lb n="19"/>
+		6 5
+			<lb n="20"/>
+		Quittung,
+			<lb n="21"/>
+		deren Datum Donnerstag, 17. Abīb, 30. Ṣafar, 25
+			<lb n="22"/>
+		über die uneingeschränkte Geldhilfe aus dem Gelde, das bezahlt wird
+			<lb n="23"/>
+		[aus dem, wa]s er im Jahre vierzig auf sich genommen hatte; aus dem was Joḥannes b. Saraʾile auf sich genommen hatte
+			<lb n="24"/>
+		von der Wertabgabe von Fe[nch]el und Flachs.
+			<lb n="25"/>
+		[Q]uittung 5
+			<lb n="26"/>
+		[von der Ha]nd des Šēḫ Abu&#039;l-Yumn ............
+			<lb n="27"/>
+		Aufstellung dessen, was Faraǧ der Friseur an Wertabgabe für Flachs auf sich genommen hat.
+			<lb n="28"/>
+		[...].... 260
+			<lb n="29"/>
+		Wertabgabe von Flachs zu sieben Dīnāren 7.
+</ab></div>
+</body>
+</text>
+</TEI>

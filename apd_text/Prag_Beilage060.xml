@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1711" xml:id="Prag_Beilage060" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. Beilage VI</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_Beilage060</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169459</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  λζ 
+<lb n="2"/>  ‮‪ο‪<supplied reason="lost" cert="high">‬θ‪</supplied>‬κʹδʹΧ‬ الجوالي ‮<gap reason="illegible" extent="1" unit="character" /> ϡ 
+<lb n="3"/>  ‮‪‮‪κηϛʹ‬ ‮‪ζΧ‬ المراعي ‮<gap reason="illegible" extent="1" unit="character" /> ‪υνη 
+<lb n="4"/>  ‮‪ιϛʹΧ‬ النّخل ‮<gap reason="illegible" extent="1" unit="character" /> ‪κε 
+<lb n="5"/>  ‮‪γιʹβʹΧ‬ المئال ‮<gap reason="illegible" extent="1" unit="character" /> ‪ιε 
+<lb n="6"/>  ‮‪αΧ‬ الصّدقات ‮<gap reason="illegible" extent="1" unit="character" /> ‪ιβ 
+<lb n="7"/>  ‮‮‮‮‮‮‪‮‪ϙβΧ‬ فذلك أبواب المال 
+<lb n="8"/>  κηϛʹηʹΧ 
+<lb n="9"/>  ‮ ‮‪ρκζΧ‬ 
+<lb n="10"/>  <gap reason="illegible" extent="4" unit="character" /> فجميع حيز شنودة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>37 
+ <lb n="2"/>79+1/24+1/48 ăl ǧawālī * 900 
+ <lb n="3"/>28+1/6 7+2/3 ăl marāʿī * 458 
+ <lb n="4"/>1+1/6+1/48 ăn naḫlu * 25 
+ <lb n="5"/>3+1/12+1/48 ăl miʾālu * 15 
+ <lb n="6"/>1+1/2 ăṣ ṣadaqātu * 12 
+ <lb n="7"/>92+2/3 fa ḏālika ʾabwābu ăl māli 
+ <lb n="8"/>28+1/6+1/8+1/48 
+ <lb n="9"/>‮‪ρκζΧ‬ *** 
+ <lb n="10"/>**** fa ǧamīʿu ḥayzi šanūdaẗa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		37
+			<lb n="2"/>
+		7[9] 1/24+1/48 die Kopfsteuern • 900
+			<lb n="3"/>
+		7 2/3 _ 28 1/6 die Weidesteuer • 458 [sic]
+			<lb n="4"/>
+		1 1/6+1/48 die Palmensteuer • 25
+			<lb n="5"/>
+		3 1/12+1/48 die Gartensteuer • 15
+			<lb n="6"/>
+		1 1/2 die Armensteuer • 12
+			<lb n="7"/>
+		92 2/3 Dies sind die Posten des Einkommens (verblasst)
+			<lb n="8"/>
+		28 1/6+1/8+1/48
+			<lb n="9"/>
+		127 2/3
+			<lb n="10"/>
+		..... Ganz Ḥaiz Šanūda also
+</ab></div>
+</body>
+</text>
+</TEI>

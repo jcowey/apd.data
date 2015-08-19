@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="843" xml:id="Karabacek_Papier_p_162_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapier p. 162 a (= P.World p. 148 a)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Karabacek_Papier_p_162_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113621</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ادفع أبقاك اللّه ذلك الدّينر 
+<lb n="3"/>  الّذى معك الّذي أخذته من 
+<lb n="4"/>  <app type="BL"><lem resp="APD">جذع </lem><rdg resp="Grohmann; Diem">جريج</rdg></app> إلى هذا الرّجل السّاعة 
+<lb n="5"/>  توحره بسم اللّه الرّحيم الرّحمن  
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ ʾabqā ka ăl lāhu ḏālika ăd dīnāra 
+ <lb n="3"/>ăllaḏī maʿa ka ăllaḏī ʾaḫaḏta hu min 
+ <lb n="4"/>ǧiḏʿ:in ǧurayǧ:in ʾilà hāḏā ăr raǧuli ăs sāʿaẗa 
+ <lb n="5"/>wa lā tuʾaḫḫir hu bi hi ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen des Erbarmenden!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Hand over - may God preserve thee - this dînâr
+		Uebergib (Gott erhalte Dich am Leben!) jenes Goldstück, 
+			<lb n="3"/>
+		welches bei Dir ist und das Du genommen hast von
+		which is in thy possession and which thou hast taken from
+			<lb n="4"/>
+		Dschidsʿ, diesem Manne augenblicklich
+		Guraig, at once to this man,
+			<lb n="5"/>
+		and do not delay this, please God.
+		und halte ihn damit nicht hin! ...
+		und ohne Verzug, so Gott will!
+</ab></div>
+</body>
+</text>
+</TEI>

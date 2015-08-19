@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1811" xml:id="Rodriguez_Murdi_33" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMurdi 3bis b</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Murdi_33</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169550</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  الحمد للَّه باعت المباركة فاطمة ابنة عمر بن عمر أنس من النّصراني جوان شَليذه جميع 
+ <lb n="recto 2"/>  الجنّة والدّار المتّصلة بها والخربة والغرفة الكائن جميع ذالك قريبا من باب المرضي داخل 
+ <lb n="recto 3"/>  غرناطة وقبلي ذالك الزّقاق وجوفيّه الخيّاط كان وشرقيّه الفقيه وغربيّه الطّريق بحقوق ذالك 
+ <lb n="recto 4"/>  وحرمه وكافّة منافعه ومرافقه بيعا تامّا بثمن عدّته ثلاثة عشر دينارا من الذّهب <app type="BL"><lem resp="APD">العيني </lem><rdg resp="LS “plate”">العين</rdg></app> الحسني 
+ <lb n="recto 5"/>  قبضتها وبرّأت منْها البرا التّام وبذالك خلص للمبتاع تملّك المبيع خلوصا تامّا وعلى السّنّة 
+ <lb n="recto 6"/>  في ذالك والمرجع بالدّرك وبعد النّظر والتّقليب والرّضى وحضر أبو عبْد اللّه محمّد بن إبراهيم 
+ <lb n="recto 7"/>  ابن هشام الشّهـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـر <unclear reason="undefined" cert="high">بنيص</unclear> وهو المقدّم أعلاه عن جانب بنته بل زوجه بنت البايعة عايشة 
+ <lb n="recto 8"/>  بنت الحاج قاسم الوطّاسي بحكم ما بيده في ذالك وسلّم في البيع وقَبضَ الرُّبع من الثّمن 
+ <lb n="recto 9"/>  لكون الرّبع من المبيع كان ملكا لزوجه بنحلة من أمّها وعرف الحاضر والبايعة والنّصراني 
+ <lb n="recto 10"/>  قدره وأشهدوا به من عرفهم بحال صحّة وجواز وفي الحادي والعشرين لرجب الفرد المبارك 
+ <lb n="recto 11"/>  من عام ثمانية وتسعين وثماني مائة <gap reason="illegible" precision="low" extent="3"/> والثّمن هو بزيادة نصف دينار من الذّهب 
+ <lb n="recto 12"/>  الموصوف هذا هو الصّحيح وفي تأريخه والإشهاد <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto right margin"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="verso"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi bāʿati ăl mubārakaẗu fāṭimaẗu ĭbnaẗu ʿumara bni ʿumara ʾanas:in mina ăn naṣrāniyyi ǧuwāna šalīḏuha ǧamīʿa 
+ <lb n="2"/>ăl ǧannaẗi wa ăd dāri ăl muttaṣilaẗi bi hā wa ăl ḫirbaẗa wa ăl ġurfaẗa ăl kāʾina ǧamīʿu ḏālika qarīb:an min bābi ăl murḍī dāḫila 
+ <lb n="3"/>ġarnāṭaẗa wa qibliyyu ḏālika ăz zuqāqu wa ǧawfiyyu hu ăl ḫayyāṭu kāna wa šarqiyyu hu ăl faqīhu wa ġarbiyyu hu ăṭ ṭarīqu bi ḥuqūqi ḏālika 
+ <lb n="4"/>wa ḥurumi hi wa kāffaẗi manāfiʿi hi wa marāfiqi hi bayʿ:an tāmm:an bi ṯaman:in ʿiddatu hu ṯalāṯaẗa ʿašara dīnār:an mina ăḏ ḏahabi ăl ʿayniyyi ʿayni ăl ḥasaniyyi 
+ <lb n="5"/>qabaḍat hā wa barraʾat min hā ăl barāʾa ăt tāmma wa bi ḏālika ḫalaṣa li l mubtāʿi tamalluku ăl mabīʿi ḫulūṣ:an tāmm:an wa ʿalà ăs sunnaẗi 
+ <lb n="6"/>fī ḏālika wa ăl marǧiʿi bi ăl daraki wa baʿda ăn naẓari wa ăt taqlībi wa ăr riḍà wa ḥaḍara ʾabū ʿabdi ăl lāhi muḥammadu bnu ʾibrāhīma 
+ <lb n="7"/>ĭbni hišām:ini ăš šahīru bi nīṣ:in wa huwa ăl muqaddamu ʾaʿlā hu ʿan ǧānibi binti hi bal zawǧi hi binti ăl bāyiʿaẗi ʿāyišaẗa 
+ <lb n="8"/>binti ăl ḥāǧǧi qāsim:ini ăl waṭṭāsiyyi bi ḥukmi mā bi yadi hi fī ḏālika wa sallama fī ăl bayʿi wa qabaḍa ăr rubʿa mina ăṯ ṯamani 
+ <lb n="9"/>li kawni ăr rubʿi mina ăl mabīʿi kāna milk:an li zawǧi hi bi niḥlaẗ:in min ʾummi hā wa ʿarafa ăl ḥāḍiru wa ăl bāyiʿaẗu wa ăn naṣrāniyyu 
+ <lb n="10"/>qadra hu wa ʾašhadū bi hi man ʿarafa hum bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in wa fī ăl ḥādī wa ăl ʿišrīna li raǧaba ăl fardi ăl mubāraki 
+ <lb n="11"/>min ʿāmi ṯamāniyaẗ:in wa tisʿīna wa ṯamānī miʾaẗ:in *** wa ăṯ ṯamanu huwa bi ziyādaẗi niṣfi dīnār:in mina ăḏ ḏahabi 
+ <lb n="12"/>ăl mawṣūfi hāḏā huwa ăṣ ṣaḥīḥu wa fī taʾrīḫi hi wa ăl ʾišhādi *** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Louange à Dieu. La vénérable Fāṭima ibnat ʿUmar b. ʿUmar Anas a vendu au chrétien Juan Galindo la totalité du
+		 <lb n="2"/>
+ 	  potager (ǧanna), la maison qui communique avec elle [sic], la ruine (ḫirba) et la ġurfa, qui se trouvent tout près de Bāb al-Murḍī, à l&#039;intérieur de
+		 <lb n="3"/>
+ 	  Grenade. Au sud se trouve la ruelle (al-zuqāq), au nord l&#039;endroit où était le tailleur (al-ḫayyāṭ), à l&#039;est le faqīh et à l&#039;ouest le chemin (ṭarīq), avec ses droits
+		 <lb n="4"/>
+ 	  et ses dépendances, et (avec) la totalité de ses profits et de ses utilités. Vente totale pour un prix dont le montant atteint les treize dinars d&#039;or de billon al-ḥasanī.
+		 <lb n="5"/>
+ 	  Elle (la vendeuse) a reçu (cette quantitié) et elle a donné quittance accomplie. En vertu de ceci (du paiement du prix), on a livré à l&#039;acheteur le domaine de ce qui a été vendu avec une livraison accomplie, selon la loi (sunna)
+		 <lb n="6"/>
+ 	  en de cas semblables, avec l&#039;indemnisation pour dommage, après en avoir inspecté et après avoir signifié son acceptation et sa satisfaction (au sujet de ladite acquisition). Est présent Abū ʿAbd Allāh Muḥammad b. Ibrāhīm
+		 <lb n="7"/>
+ 	  b. Hišām, connu comme [Porc-épic?], qui est le mandataire (al-muqaddam) de sa fille susnommée, je veux dire son épouse, la fille de la vendeuse, ʿĀʾiša
+		 <lb n="8"/>
+ 	  bint al-ḥāǧǧ Qāsim al-Waṭṭāsī, en vertu de ce qu&#039;il avait (l&#039;acte de procuration) sur cette affaire. Il a donné son consentement à la vente, et il a reçu le quart du prix,
+		 <lb n="9"/>
+ 	  du fait que le quart de ce qui est vendu était propriété de son épouse au titre de cadeau de mariage (niḥla) de sa mère. Le comparant, la vendeuse et le chrétien ont reconnu
+		 <lb n="10"/>
+ 	  la portée (de l&#039;accord adopté) et ils ont demandé le témoignage de ceux (les témoins instrumentaires) qui leurs connaissent (ayant) la capacité physique et légale (suffisante). Le vingt et un raǧab, l&#039;isolé et béni,
+		 <lb n="11"/>
+ 	  de l&#039;année huit cent quatre-vingt-dix-huit. [Signature illisible et paraphée]. Le prix a un accroissement d&#039;un demi dinar de l&#039;or
+		 <lb n="12"/>
+ 	  décrit. Ceci est correct à la mēme date, et avec le mēme témoignage. [Signature illisible et paraphée].
+		 <lb n="13"/>
+ 	  Le 4 juin de l&#039;année 9[3] Juan Galindo a payé le droit de cette lettre ce cet achat de treize dinars en faisant et plus (?). Rodrigo de Villarta (paraphe).
+		 <lb n="14"/>
+ 	  Payé droits Juan Galindo pour un potager avec une maison dans Çanaca Alberynjy, qu&#039;il a acheté de Fatima fille d&#039;Omar.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1448" xml:id="Diem_Heid_II_55" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 55</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_55</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169233</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> وما سألت 
+<lb n="2"/>  من الوصاة بالحارس وأنا أكرمك اللّه يأخي 
+<lb n="3"/>  منتهي إلى طاعتك فلو أمرت أن أقوم له 
+<lb n="4"/>  <supplied reason="lost" cert="high">بأ</supplied>كثر ممّا تـ<supplied reason="lost" cert="high">ـحـ</supplied>ـب لم يكون عندي فيما تأمرنـ<supplied reason="lost" cert="high">ـي</supplied> 
+<lb n="5"/>  إلّا الطّاعة وقد واللّه سرّني التّعرّف بك 
+<lb n="6"/>  وشورتك ورغـ<unclear reason="undefined" cert="high">ـبـ</unclear>ـت في ذلك لما يذكرون 
+<lb n="7"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن وصـ<supplied reason="lost" cert="high">ـفـ</supplied>ـك وكرمك وأنت لذلك 
+<lb n="8"/>  ومن أهل بيت الكرم وأنا أسل اللّه يأخي 
+<lb n="9"/>  أن <supplied reason="lost" cert="high">يـ</supplied>ـزيد ثمر نعمتك ويجعلني من كل سو فداك 
+<lb n="10"/>  يأخي جعلت فداك <sic n="superfluous">اپى</sic> <sic n="superfluous">پپڤصل</sic> وتحمّلت جميع 
+<lb n="11"/>  حوائجك وجعلت فداك تفضّل وابعث إلي 
+<lb n="12"/>  بقليل تفّاح <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ثـ</unclear>ـاني </lem><rdg resp="APD">ثاني</rdg></app> <app type="BL"><lem resp="APD">إن </lem><rdg resp="APD">إن</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" />ـا </lem><rdg resp="APD">شاء</rdg></app> توجّهه إلى الجارية 
+<lb n="13"/>  فعلت موفّقا إن شا اللّه 
+<lb n="14"/>  جعلت فداك وأطال اللّه بقاك وأدام عزّك وكرامتك 
+<lb n="15"/>  وصلّى اللّه على محمّد النّبي وآله وسلّم <unclear reason="undefined" cert="high">كثيرا</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **** wa mā saʾalta 
+ <lb n="2"/>mina ăl waṣāẗi bi ăl ḥārisi wa ʾanā ʾakrama ka ăl lāhu ʾaḫ yā ī 
+ <lb n="3"/>muntahī ʾilà ṭāʿati ka fa law ʾamarta ʾan ʾaqūma la hu 
+ <lb n="4"/>bi ʾakṯari mimmā tuḥibbu lam yakūn ʿind ī fī mā taʾmuru nī 
+ <lb n="5"/>ʾillā ăṭ ṭāʿaẗa wa qad wa ăl lāhi sarra nī ăt taʿarrufu bi ka 
+ <lb n="6"/>wa šūratu ka wa raġibtu fī ḏālika li mā yaḏkurūna 
+ <lb n="7"/>min waṣfi ka wa karami ka wa ʾanta li ḏālika 
+ <lb n="8"/>wa min ʾahli bayti ăl karami wa ʾanā ʾasalu ăl lāha yā ʾaḫ ī 
+ <lb n="9"/>ʾan yazīda ṯamara naʿmati ka wa yaǧʿala nī min kulli sūʾ:in fidāʾa ka 
+ <lb n="10"/>yā ʾaḫ ī ǧuʿiltu fidāʾa ka wa taḥammaltu ǧamīʿa 
+ <lb n="11"/>ḥawāʾiǧi ka wa ǧuʿiltu fidāʾa ka tafaḍḍal wa ĭbʿaṯ ʾilay ya 
+ <lb n="12"/>bi qalīli tuffāḥ:in ṯānī BʾBy ʾin ʾn **ʾ šāʾa tuwaǧǧihu hu ʾilà ăl ǧāriyaẗi 
+ <lb n="13"/>faʿalta muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="14"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka 
+ <lb n="15"/>wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama kaṯīr:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... ich erfülle Dir - - -] und die von Dir erbetene
+			<lb n="2"/>
+		Fürsorge für den Wächter, und ich bin - Gott ehre Dich, mein Bruder -
+			<lb n="3"/>
+		bereit, Dir zu gehorchen. Auch dann, wenn Du mir befehlen würdest, ihm einen
+			<lb n="4"/>
+		größeren Dienst, als Du nun wünschst, zu erweisen, könnte ich bei dem, was Du befehlen würdest,
+			<lb n="5"/>
+		nur gehorchen. Bei Gott, die Bekanntschaft mit Dir
+			<lb n="6"/>
+		und Dein Ratschlag haben mich gefreut, und ich hatte danach (sc. der Bekanntschaft) wegen der Dir zugeschriebenen
+			<lb n="7"/>
+		Eigenschaft und Großmut Verlangen gehabt. Du erweist Dich dessen (sc. des Rufs) würdig
+			<lb n="8"/>
+		und stammst von Leuten aus einem durch Großmut gekennzeichneten Hause ab. Ich bitte Gott, mein Bruder,
+			<lb n="9"/>
+		er möge die Frucht Deiner Gnade vermehren und mich zu Deinem Lösegeld machen, das Dich von allem Bösen errettet.
+			<lb n="10"/>
+		Mein Bruder - möge ich zu Deinem Lösegeld gemacht werden, {ich, Du bist so gut} möge ich alle
+			<lb n="11"/>
+		Deine Anliegen übernehmen und möge ich zu Deinem Lösegeld gemacht werden - sei so gut und sende mir
+			<lb n="12"/>
+		etwas Äpfel - - - richte (?) sie an das Dienstmädchen,
+			<lb n="13"/>
+		bitte sehr, so Gott will.
+			<lb n="14"/>
+		Möge ich zu Deinem Lösegeld gemacht werden, möge Gott Dich lange leben lassen, möge er Dein Ansehen und Deine ehrenvolle Stellung andauern lassen,
+			<lb n="15"/>
+		und möge Gott Muḥammad, den Propheten, und seine Familie segnen und (ihnen) vielmals Heil spenden!
+</ab></div>
+</body>
+</text>
+</TEI>

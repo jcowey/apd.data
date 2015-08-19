@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="865" xml:id="Guo_Quseir_19" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 19</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_19</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113637</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم <supplied reason="lost" cert="high">اللّه</supplied> الـ<supplied reason="lost" cert="high">ـرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  الّذي أعلم به <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  أبي إسحاق إبراهيم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  المملوك إلى المولا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  الكريمة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  لخدم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  الحمل أسود <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ونشتري لهم شملتين و<gap reason="illegible" precision="low" extent="3"/> و<gap reason="illegible" precision="low" extent="3"/> و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <sic n="superfluous">اوصپك</sic> <sic n="superfluous">پ</sic><supplied reason="omitted" cert="high">أوصيتك</supplied> فيما يهمّك فإنّي إن أسأل اللّه أكري في مركوبهـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="10"/>  صحبة الخليل إن أسأل اللّه <supplied reason="lost" cert="high">التّوفيق</supplied> والسّلام عليك ورحمة اللّه و<supplied reason="lost" cert="high">بركاته</supplied> 
+<lb n="11"/>  على صغاري السّـ<supplied reason="lost" cert="high">ـلام</supplied> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">الأخ</supplied> <sic n="superfluous">الصرپر</sic><supplied reason="omitted" cert="high">العزيز</supplied> محمّد وولد حسين 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> صبيح وتسلّم لي على حسين السّلام الكثـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـر وتقول له 
+<lb n="13"/>  عمّك أبو علي يسلّم عليك السّلام الكثـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـر وتبعث لي كتاب عليهم 
+<lb n="14"/>  وإن <sic n="superfluous">وڤعپ</sic> <supplied reason="omitted" cert="high">وقفت</supplied> على <gap reason="illegible" extent="2" unit="character" /> تسيّرها أو ما معه أو <app type="BL"><lem resp="APD">قجيجة </lem><rdg resp="“Diem, P.QuseirArab. p. 167”">قجيجة</rdg></app> قريب عليك 
+<lb n="15 left"/>  السّلام 
+<lb n="right margin"/>  عل من يحوط عنايتكم السّلامة والـ<gap reason="illegible" precision="low" extent="3"/> سرعة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī ʾuʿlimu bi hi *** 
+ <lb n="3"/>ʾabī ʾisḥāqa ʾibrāhīma *** 
+ <lb n="4"/>ăl mamlūk ʾilà ăl mawlā *** 
+ <lb n="5"/>ăl karīmaẗ *** 
+ <lb n="6"/>li ḫidami *** 
+ <lb n="7"/>ăl ḥiml ʾaswad *** 
+ <lb n="8"/>wa naštarī la hum šamlatayni wa *** wa *** wa *** 
+ <lb n="9"/>ʾawṣaytu ka fī mā yuhimmu ka fa ʾin nī ʾin ʾasʾalu ăl lāha ʾakrī ʾukrī fī markūbi him 
+ <lb n="10"/>ṣuḥbaẗa ăl ḫalīli ʾin ʾasʾalu ăl lāha ăt tawfīqa wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu 
+ <lb n="11"/>ʿalà ṣiġār ī ăs salāmu wa ʿalà ăl ʾaḫi ăl ʿazīzi muḥammad:in wa waladi ḥusayn:in 
+ <lb n="12"/>*** ṣubayḥ wa tusallim l ī ʿalà ḥusayn:ini ăs salāma ăl kaṯīra wa taqūl la hu 
+ <lb n="13"/>ʿammu ka ʾabū ʿaliyy:in yusallimu ʿalay ka ăs salāma ăl kaṯīra wa tabʿaṯ l ī kitāb ʿalay him 
+ <lb n="14"/>wa ʾin waqafta ʿalà ** tusayyir hā ʾaw mā maʿa hu ʾaw qaǧīǧaẗ:an qḥyḥ hu ø qarīb:un ʿalay ka 
+ <lb n="15"/>ăs salāmu 
+ <lb n="16"/>ʿala man yaḥūṭu ʿināyatu kumu ăs salāmaẗu wa ăl *** surʿaẗ:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		I am writing to inform [.................]
+			<lb n="3"/>
+		Abū Isḥāq Ibrāhīm [........................]
+			<lb n="4"/>
+		[Homage from] the servant to the master [...................]
+			<lb n="5"/>
+		the noble [......................................]
+			<lb n="6"/>
+		for the service of [.............................]
+			<lb n="7"/>
+		a load of black [fabric? and ...................................]
+			<lb n="8"/>
+		and we will buy them two cloacks and [...] and [...] and [...].
+			<lb n="9"/>
+		I have advised you regarding the matters that concern you. I beseech God[&#039;s help] so I may rent their riding animals,
+			<lb n="10"/>
+		in the company of al-Khalīl. I beseech God for success. Peace be upon you. God&#039;s mercy and blessings
+			<lb n="11"/>
+		be upon my children. Peace be upon the dear [brother] Muḥammad and Ḥusayn&#039;s son
+			<lb n="12"/>
+		[...] Ṣubayḥ. Please send my regards to Ḥusayn, and tell him,
+			<lb n="13"/>
+		&#034;Your uncle Abū ʿAlī sends his best wishes to you.&#034; Write me a letter soon about their [welfare].
+			<lb n="14"/>
+		If you find [...], send it along; or whatever he carries, or his [...].
+			<lb n="15"/>
+		Peace be upon you.
+			<lb n="16"/>
+		Peace and swift [relief?] to those under your care.
+</ab></div>
+</body>
+</text>
+</TEI>

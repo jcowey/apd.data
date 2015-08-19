@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1431" xml:id="Diem_Heid_II_45" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 45</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_45</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169219</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> پم وتسرّني <unclear reason="undefined" cert="high">به</unclear> <supplied reason="lost" cert="high">عـ</supplied><unclear reason="undefined" cert="high">ـرفت</unclear> 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">لـ</supplied>ـك الشّكر فإن صديقا لي سألني ذلك وهررنا 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">لـ</supplied>ـأنّي عظم حوائجي عندك لا أخلاني اللّه منك أبدا 
+<lb n="recto 4"/>  سيّدا وسندا برحمته 
+<lb n="recto 5"/>  وهو حسبنا وإليه نلجأ وبه نستعين 
+<lb n="verso 1"/>  والحمد للّه على كل حال 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** Bm wa tasurru nī bi hi ʿaraftu 
+ <lb n="2"/>la ka ăš šukr fa ʾinna ṣadīq:an l ī saʾala nī ḏālika wa hararnā 
+ <lb n="3"/>liʾan nī ʿaẓuma ḥawāʾiǧ ī ʿinda ka lā ʾaḫlā nī ăl lāhu min ka ʾabad:an 
+ <lb n="4"/>sayyid:an wa sanad:an bi raḥmati hi 
+ <lb n="5"/>wa huwa ḥasbu nā wa ʾilay hi nalǧaʾu wa bi hi nastaʿīnu 
+ <lb n="6"/>wa ăl ḥamdu li l lāhi ʿalà kulli ḥāl:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Wenn ...] und Du mich damt erfreust (?), weiß (?) ich
+			<lb n="2"/>
+		Dir Dank, denn ein Freund von mir hat mich darum gebeten. Aber ich habe es als unangenehm empfunden (sc. Dich für ihn darum zu bitten),
+			<lb n="3"/>
+		weil ich Dir gegenüber schon so große Anliegen gehabt habe - Gott lasse mich in seiner Gnade niemals Deiner
+			<lb n="4"/>
+		als Herr und Halt entbehren!
+			<lb n="5"/>
+		Er ist unser Genüge, zu ihm nehmen wir unsere Zuflucht, und ihn bitten wir um Hilfe.
+			<lb n="6"/>
+		Gott sei Lob in jedem Fall!
+</ab></div>
+</body>
+</text>
+</TEI>

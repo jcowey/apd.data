@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1213" xml:id="Khan_Khurasan_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169051</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب من شعيب بن علون عامل الأمير عمر بن <app type="BL"><lem resp="APD">غارم </lem><rdg resp="APD">عازم </rdg><rdg resp="APD">غارم</rdg></app> على مدر ورزم براه لمير بن بيك 
+<lb n="3"/>  إنّك أدّيت إلي ممّا صار عليك من خراج سنة إحدى وخمسين ومئة وقسمة 
+<lb n="4"/>  خراج سنة خمسين ومئة درهم وأربعة دوانيق قبضت ذلك منك 
+<lb n="5"/>  پرپپ إلي منها وكتب في ذو القعدة سنة اثنين وخمسين ومئة 
+<lb n="seal 1"/>  شعيب 
+<lb n="seal 2"/>  بن علوان 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min šuʿaybi bni ʿalwāna ʿāmili ăl ʾamīri ʿumara bni ʿārim:in ʿāzim:in ġārim:in ʿalà madra wa rizma barāʾaẗ:un li mīri bni bayk:in 
+ <lb n="3"/>ʾinna ka ʾaddayta ʾilay ya mimmā ṣāra ʿalay ka min ḫarāǧi sanaẗi ʾiḥdà wa ḫamsīna wa miʾaẗ:in wa qismaẗi 
+ <lb n="4"/>ḫarāǧi sanaẗi ḫamsīna wa miʾaẗ:in dirham wa ʾarbaʿaẗa dawānīqa qabaḍtu ḏālika min ka 
+ <lb n="5"/>wa bariʾta ʾilay ya min hā wa kutiba fī ḏū ăl qaʿdaẗi sanaẗa ĭṯnayni wa ḫamsīna wa miʾaẗ:in 
+ <lb n="6"/>šuʿaybu 
+ <lb n="7"/>bnu ʿalwāna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a document from Shuʿayb ibn ʿAlwān, the financial administrator of the governor ʿUmar ibn ʿĀrim, (whose jurisdiction is) over Madr and Rizm, a quittance for Mīr ibn Bēk.
+			<lb n="3"/>
+		You have delivered to me what you owe with regard to the kharāj for the year one hundred and fifty-one and the portion
+			<lb n="4"/>
+		of the kharāj for the year one hundred and fifty, one dirham and four dānaqs. I have received that from you and
+			<lb n="5"/>
+		you have been released from (the obligation to pay) them to me. It has been written in Dhū al-Qaʿda of the year one hundred and fifty-two.
+			<lb n="6"/>
+		Shuʿayb
+			<lb n="7"/>
+		ibn ʿAlwān
+</ab></div>
+</body>
+</text>
+</TEI>

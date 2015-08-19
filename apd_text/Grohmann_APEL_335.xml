@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1830" xml:id="Grohmann_APEL_335" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 335 (= P.DiemCair.Arab. V 335)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_335</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169567</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1 = Diem address 1"/>  <gap reason="illegible" precision="low" extent="3"/> لشيخي العزيز علي إسحق <app type="BL"><lem resp="APD">النّوتي </lem><rdg resp="Diem">النّوتيّ</rdg></app> من محبّه مينا بن شنوده 
+ <lb n="2 = Diem address 2"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">إلى</unclear> </lem><rdg resp="Diem">أعزّه</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">هبة</unclear> </lem><rdg resp="Diem">اللّه</rdg></app> 
+ <lb n="3 = Diem 1"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عپد</supplied> </lem><rdg resp="Diem">يا</rdg></app> <app type="BL"><lem resp="APD">الپر </lem><rdg resp="Diem">شيخي</rdg></app> <app type="BL"><lem resp="APD">پن </lem><rdg resp="Diem">العزيز</rdg></app> <app type="BL"><lem resp="APD">على </lem><rdg resp="Diem">ø</rdg></app> اطال ألله پڤاك وادام عرك وپاپپدك وسعادتك وسلامپك وپعمپك ساپپوك 
+ <lb n="4 = Diem 2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر </lem><rdg resp="Diem">إليك</rdg></app> <app type="BL"><lem resp="APD">ما </lem><rdg resp="Diem">أمر</rdg></app> پپپى وبينك عن الحطب وكپپپ لك حطى پالعشره دنانير على اپك تڤوم بها 
+ <lb n="5 = Diem 3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـپك </lem><rdg resp="Diem">وموصلها</rdg></app> إحى پڤأم بن <unclear reason="undefined" cert="high">رهه</unclear> <app type="BL"><lem resp="APD">اعر<supplied reason="lost" cert="high">ه</supplied> </lem><rdg resp="Diem">رپعهپه</rdg></app> ألله فساعه تصل التك پهده الرڤعه وڤپل پدعها 
+ <lb n="6 = Diem 4"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD">پسلم </lem><rdg resp="Diem">يدك</rdg></app> له العسره الدپاپپر المڤدّم دكرها وپكون دپاپپر حاكمپه كلها عما <app type="BL"><lem resp="APD">پحڤى </lem><rdg resp="Diem">فما</rdg></app> علبك 
+ <lb n="7 = Diem 5"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">تحوجه </rdg><rdg resp="Diem">تخلّيه</rdg></app> <app type="BL"><lem resp="APD">لمطالپه </lem><rdg resp="APD">لمطالپه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">بالدّنانير</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">المقرّرة </lem><rdg resp="Diem">العشرة</rdg></app> لا توحرها عنه ساعة واحدة بوجه ولا بسبب 
+ <lb n="8 = Diem 6"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">وتكون</rdg></app> <app type="BL"><lem resp="APD">دفعني </lem><rdg resp="Diem">رقعتي</rdg></app> <app type="BL"><lem resp="APD">عبدك </lem><rdg resp="Diem">لك</rdg></app> حجّة <app type="BL"><lem resp="APD">إليه </lem><rdg resp="Diem">الدّنانير</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">المقرّرة </lem><rdg resp="Diem">العشرة</rdg></app> لا توحرهم عنه ساعة واحدة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** li šayḫ ī ăl ʿazīzi ʿalay ya ʾisḥāqa ăn nūbiyyi nūtiyyi min muḥibbi hi mīnā bni šanūdaha 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾilà ʾaʿazza ø hu hibaẗa ăl ø lāhu 
+ <lb n="3"/>ø yā ʿabd šayḫ ø ī ăl barri ʿazīza bn ø ʿalay ʿaliyy:in ø ya ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka wa salāmata ka wa naʿmata ka sa sababu ʾunabbiʾu hā ka ø 
+ <lb n="4"/>ø ʾilay ø ka ***r ʾamru mā bayn ī wa bayna ka ʿani ăl ḥaṭabi wa katabtu la ka ḫaṭṭ ī bi ăl ʿašaraẗi danānīra ʿalà ʾanna ka taqūmu bi hā 
+ <lb n="5"/>ø wa ø mūṣilu ø hā ʾilay ka ʾaḫ ī baqāma baqāmu bna bnu ruhaha rBʿhBh ʾaʿazza hu ăl lāhu fa sāʿaẗa taṣilu ʾilay ka bi hāḏihi ăr ruqʿaẗi wa qabla tadaʿa hā 
+ <lb n="6"/>ø min *** yadi ø ka tusallimu la hu ăl ʿašaraẗa ăd danānīri ăl muqaddima ḏikru hā wa takūnu danānīra ḥākimiyyaẗ:an kulla hā ʿammā fa ø mā bi ḥaqq ī ʿalay ka 
+ <lb n="7"/>*** tuḥwiǧ tuḫallī ø hu hi li muṭālabaẗ:in *** ăd bi ø ø danānīri ** ø ăl muqarraraẗ ʿašaraẗi lā tuʾaḫḫir hā ʿan hu sāʿaẗ:an wāḥidaẗ:an bi waǧh:in wa lā bi sabab:in 
+ <lb n="8"/>*** wa ø takūnu dafaʿa ruqʿat nī ī ʿabdu la ka ḥuǧǧaẗu ʾilay ăd hi danānīri ** ø ăl muqarraraẗ ʿašaraẗi lā tuʾaḫḫir hum ʿan hu sāʿaẗ:an wāḥidaẗ:an 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  An meinen mir teuren Scheich Isḥāq, den Schiffer, von dem ihn liebenden Mīnā ibn Šanūda.
+ 	  To my dear master ʿAlî Isḥâq, the Nubian, (2) ......... from his friend Mîna b. Šanûda.
+		 <lb n="2"/>
+ 	  - Gott stärke ihn -
+ 	  [In the name of God, the Compassionate, the Merciful.]
+		 <lb n="3"/>
+ 	  ...... ʿAbd] al-Barr b. ʿAlî, may God prolong your life and may He cause your might, strength, happiness, health and well-being to continue. I certainly shall inform you
+ 	  [O mein] mir teurer [Scheich] - Gott lasse Dich lange leben und gewähre Dir weiterhin Ansehen, Unterstützung, Glück, Wohlbehaltenheit und Annehmlichkeit - , der Grund für dieses (Schreiben)
+		 <lb n="4"/>
+ 	  [an Dich ist die Angelegenh]eit des zwischen uns wegen des Brennholzes bestehenden (Problems). Ich hatte Dir das von mir signierte Dokument über (die Zahlung von) zehn Dinar (hierfür) unter der Bedingung ausgestellt, daß Du (Deinerseits) diese (zehn Dinar mir gegenüber in bar) begleichen würdest.
+ 	  ...]... what is the matter between me and you in respect of firewood. And I have written in your favour two bonds for ten dînârs, that you may deliver it
+		 <lb n="5"/>
+ 	  [Der Überbringer dieses (Schreibens) a]n Dich ist mein Bruder Baqām ibn R..... - Gott stärke [ihn]! In dem Augenblick, da er Dir dieses Schreiben überbringt und noch bevor Du es
+ 	  ] to you, my brother, Pqâm b. Rohe (?), [whom] God may exalt. Thus at the moment she comes to you with this note and before you put it aside
+		 <lb n="6"/>
+ 	  [aus der Hand] legst, übergibst Du ihm die oben erwähnten zehn Dinar, und sie sollen sämlich Ḥākim&#039;sche Dinare sein. Bei meinem Anrecht Dir gegenüber:
+ 	  you should hand over to him the aforementioned ten dînârs, which are all Ḥâkimî-dînârs, of what is contained in my claim upon you
+		 <lb n="7"/>
+ 	  [Nötige ihn] nicht dazu, die zehn Dinar (von Dir gerichtlich) einzufordern (und) enthalte sie ihm unter gar keinen Umständen auch nur einen einzigen Augenblick vor!
+ 	  ] which had been claimed [...] ... and acknowledged, do not withhold it from him for even an hour for any cause or reason.
+		 <lb n="8"/>
+ 	  ] deliver (?) [...] ...... acknowledged; do not withhold it from them for even an hour.
+ 	  [Es soll] Dir (dieses) mein Schreiben als Beweisurkunde für die (Auszahlung der) zehn Dinar [dienen]. Enthalte sie ihm keinen Augenblick vor!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1337" xml:id="Ryl_Arab_I_4_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I IV 1 (= P.RagibLettresdeService 3)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ryl_Arab_I_4_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169141</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  من عبد الملك بن يزيد إلى صحب بريد أشمون 
+<lb n="3"/>  فاحمل راشد رسول يونس بن سلمة وهو شاب 
+<lb n="4"/>  <app type="BL"><lem resp="APD">جيّد </lem><rdg resp="APD">جسيم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">آدم</rdg></app> <gap reason="illegible" precision="low" extent="3"/> على <supplied reason="lost" cert="high">د</supplied>ا<supplied reason="lost" cert="high">بّتين</supplied> من 
+<lb n="5"/>  البريد <app type="BL"><lem resp="APD">إحداهما </lem><rdg resp="Rāġib">إحديهما</rdg></app> دابّة <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فـ</supplied>ـرا<supplied reason="lost" cert="high">نـ</supplied>ـق </lem><rdg resp="Rāġib">الفرانق</rdg></app> وكتب 
+<lb n="6"/>  محمّد في رجب سنة <app type="BL"><lem resp="APD">ست </lem><rdg resp="Rāġib">ثلث</rdg></app> وثلثين ومائة 
+<lb n="handmark"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso (adress)"/>  من عبد الملك بن يزيد إلى صحب <supplied reason="lost" cert="high">بريـ</supplied>ـد أشمون 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl maliki bni yazīda ʾilà ṣāḥibi barīdi ʾušmūna 
+ <lb n="3"/>fa ĭḥmal rāšid rasūla yūnusa bni salamaẗa wa huwa šābb:un 
+ <lb n="4"/>ǧayyidu ǧasīm:un *** ʾādamu *** ʿalà dābbatayni min 
+ <lb n="5"/>ăl barīdi ʾiḥdā humā dābbaẗu ø ăl furāniq:in furāniqi wa kataba 
+ <lb n="6"/>muḥammad:un fī raǧab:in sanaẗa sitt:in ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in 
+ <lb n="7"/>* 
+ <lb n="8"/>min ʿabdi ăl maliki bni yazīda ʾilà ṣāḥibi barīdi ʾušmūna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+		In the Name &amp;c.
+			<lb n="2"/>
+		De la part de ʿAbd al-Malik b. Yazīd. Au maître  de poste d&#039;Ašmūn.
+		From ʿAbd al-Malik b. Yazid to the postmaster of Ushmun.
+			<lb n="3"/>
+		Donne à Rāšid, le messager de Yūnus b. Salama, jeune homme
+		Mount Rashid messenger of Yunus b. Salamah, who is a lad
+			<lb n="4"/>
+		corpulent, au teint basané... [deux] montures de
+		good of        [on two beasts] of
+			<lb n="5"/>
+		la poste, dont l&#039;une est celle du courrier.
+		the post, one of them a courier&#039;s beast. Written by
+			<lb n="6"/>
+		Muḥammad a écrit en raǧab l&#039;année cent trente-trois.
+		Muḥammad in Rajab of the year 136.
+			<lb n="8"/>
+		[De la par de ʿAbd al-Malik] b. Yazīd. Au       [maître de poste] d&#039;Ašmūn.
+</ab></div>
+</body>
+</text>
+</TEI>

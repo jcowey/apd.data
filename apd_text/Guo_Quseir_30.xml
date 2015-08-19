@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="893" xml:id="Guo_Quseir_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113655</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> إلى حضرته السّامية والـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  أنا مجتهد أقضي حوائج المولا 
+<lb n="3"/>  <supplied reason="lost" cert="high">هـ</supplied>ـى توپپن طولهم حمسه وعسرين دراع 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> سيّرنا نصفها صحبة مبا<supplied reason="lost" cert="high">رك</supplied> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> العافيـ<supplied reason="lost" cert="high">ـة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ʾilà ḥaḍrati hi ăs sāmiyaẗi wa ăl *** 
+ <lb n="2"/>ʾanā muǧtahid:un ʾaqḍī ḥawāʾiǧa ăl mawlā 
+ <lb n="3"/>hiya tawbayni ṭūlu hum ḫamsaẗ:un wa ʿišrīna ḏirāʿ 
+ <lb n="4"/>*** sayyarnā niṣfa hā ṣuḥbaẗa mubārak:in 
+ <lb n="5"/>*** ăl ʿāfiyaẗ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		... to his Lofty Presence ...
+		[......] to his Lofty Seat and [...].
+			<lb n="2"/>
+		I have been working hard to satisfy the Master&#039;s request,
+			<lb n="3"/>
+		which includes: two thawb-clothes, with a total length of twenty-five dhirāʿs.
+			<lb n="4"/>
+		[...]. We have dispatched half of them, to be accompanied by Mubā[rak].
+			<lb n="5"/>
+		[.......... Wishing that you are in] good health.
+</ab></div>
+</body>
+</text>
+</TEI>

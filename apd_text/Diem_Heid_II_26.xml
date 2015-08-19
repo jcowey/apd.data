@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1388" xml:id="Diem_Heid_II_26" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 26</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_26</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169180</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأمتـ</supplied>ـع بك 
+<lb n="3"/>  <supplied reason="lost" cert="high">أعلمك</supplied> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">قـ</supplied>ـزمان كتب إلي 
+<lb n="4"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied> <gap reason="illegible" precision="low" extent="3"/> الّتين وهبهما 
+<lb n="5"/>  <supplied reason="lost" cert="high">لي</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> فأعلمته أن وكيله 
+<lb n="6"/>  <supplied reason="lost" cert="high">كان</supplied> <supplied reason="lost" cert="high">قد</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أباح</rdg></app> لي الاحتفاظ بهما 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـسّر لوكيلي أن أهب 
+<lb n="8"/>  <supplied reason="lost" cert="high">لك</supplied> <supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ڤـ</supplied>ـ<unclear reason="undefined" cert="high">ـان</unclear> كپپ پحپاح التهما 
+<lb n="9"/>  <supplied reason="lost" cert="high">فاكتب</supplied> <supplied reason="lost" cert="high">إ</supplied>لي فيهما وأنا 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ولا</supplied> أقطعهما حتّا 
+<lb n="11"/>  <supplied reason="lost" cert="high">لا</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ أن أكذب 
+<lb n="12"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وقد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بعثت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إلى</rdg></app> <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">ز</supplied>كريّا خادم بربع 
+<lb n="13"/>  <supplied reason="lost" cert="high">الدّينر</supplied> <supplied reason="lost" cert="high">الّذي</supplied> <supplied reason="lost" cert="high">ثبـ</supplied>ـت عليك فدينك 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپحپا نتجافا لك 
+<lb n="15"/>  <supplied reason="lost" cert="high">عن</supplied> <gap reason="illegible" precision="low" extent="3"/> فإنّه بقبح علي إذا 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أو</supplied> <supplied reason="lost" cert="high">حـ</supplied>ـدث فيهما حدث 
+<lb n="17"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أو</supplied> </lem><rdg resp="APD">وقيل</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أ</supplied>ن </lem><rdg resp="APD">أنّي</rdg></app> <supplied reason="lost" cert="high">أ</supplied>قطع أو أغيبهما 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> وإنّهما لك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăl raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾamtaʿa bi ka 
+ <lb n="3"/>ʾuʿlimu ka ʾanna ʾabū quzmāna kataba ʾilay ya 
+ <lb n="4"/>fī ăl *** *** ăllatayni wahaba humā 
+ <lb n="5"/>l ī *** *** fa ʾaʿlamtu hu ʾanna wakīla hu 
+ <lb n="6"/>kāna qad *** ʾabāḥa l ī ăli ĭḥtifāẓa ĭḥtifāẓ bi himā 
+ <lb n="7"/>*** fassara li wakīl ī ʾan ʾahiba 
+ <lb n="8"/>la ka ăl *** *** fa ʾin kunta taḥtāǧu ʾilay himā 
+ <lb n="9"/>fa ŭktub ʾilay ya fī himā wa ʾanā 
+ <lb n="10"/>*** wa lā ʾaqṭaʿu humā ḥattā 
+ <lb n="11"/>lā *** ***B ʾan ʾakḏiba 
+ <lb n="12"/>wa *** qad *** baʿaṯtu *** ʾilā ʾabū zakariyyāʾa ḫādim bi rubʿi 
+ <lb n="13"/>ăd dīnāri ăllaḏī ṯabata ʿalay ka fa daynu ka 
+ <lb n="14"/>*** ***BḥBʾ nataǧāfā la ka 
+ <lb n="15"/>ʿan *** fa ʾinna hu yuqabbaḥu ʿalay ya ʾiḏā 
+ <lb n="16"/>*** ʾaw ḥadaṯa fī himā ḥadaṯ:un 
+ <lb n="17"/>ʾaw wa ø qīla *** ʾan ʾan ø nī ʾaqṭaʿa ʾaqṭaʿu ʾaw ʾuġība ʾuġību humā 
+ <lb n="18"/>*** wa ʾinna humā la ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Gnä]digen!
+			<lb n="2"/>
+		[Gott lasse Dich lange leben und g]ebe an Dir Freude!
+			<lb n="3"/>
+		[Ich teile Dir mit (?), daß (?) Abū (?) Qu]zmān mir
+			<lb n="4"/>
+		[wegen der beiden ...] geschrieben hat, welche er
+			<lb n="5"/>
+		[mir ...] gegeben hat. Daraufhin teilte ich ihm mit, daß sein Bevollmächtigter
+			<lb n="6"/>
+		mir [erlaubt (?) hatte], sie zu verwahren.
+			<lb n="7"/>
+		[... er]klärte (?) er (es) meinem Bevollmächtigten so, daß ich
+			<lb n="8"/>
+		[Dir die beiden ...] geben sollte. Wenn Du sie also benötigst,
+			<lb n="9"/>
+		[dann schreibe m]ir diesbezüglich, und ich
+			<lb n="10"/>
+		[werde sie Dir geben (?) und nicht] vorenthalten, damit
+			<lb n="11"/>
+		[es nicht heißt (?)], daß ich lüge.
+			<lb n="12"/>
+		... Abū (?) Za]karīyāʾ durch einen Diener den Viertel[dinar,]
+			<lb n="13"/>
+		[den Du rechtmäßig geschu]ldet hast, denn Deine Schuld
+			<lb n="14"/>
+		[...] wir treten Dir
+			<lb n="15"/>
+		[die beiden ...] ab, denn man würde es mir zum Vorwurf machen, wenn
+			<lb n="16"/>
+		[... oder wenn ] mit ihnen etwas passieren würde
+			<lb n="17"/>
+		[oder wenn es hieße (?)], ich enthielte (sie) vor oder versteckte sie
+			<lb n="18"/>
+		[...] und sie gehören Dir.
+</ab></div>
+</body>
+</text>
+</TEI>

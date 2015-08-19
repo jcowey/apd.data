@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1242" xml:id="David-Weill_Louvre_16" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 16</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_16</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169078</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  براه لميمون بن راشد من أر<supplied reason="lost" cert="high">بعة</supplied> 
+ <lb n="3"/>  دننير سوقيّة دفعها إلى 
+ <lb n="4"/>  شنوده <app type="BL"><lem resp="APD">إيثارا </lem><rdg resp="APD">إثارا </rdg><rdg resp="Diem">أبهوا</rdg></app> من أهل طوخ <app type="BL"><lem resp="not in edition, but see commentary"><gap reason="illegible" extent="2" unit="character" /><unclear reason="undefined" cert="high">اس</unclear> </lem><rdg resp="not in edition, but see commentary">ـ<gap reason="illegible" extent="2" unit="character" />اش </rdg><rdg resp="Diem">بدقناش</rdg></app> دنانير 
+ <lb n="5"/>  من كورة البهنسا وهي الدننير 
+ <lb n="6"/>  الّتي ضمنها ميمون له <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">عن</rdg></app> فقطر 
+ <lb n="7"/>  وهميسة وزكري ابني فقطر 
+ <lb n="8"/>  فقد دفع ميمون الأربعة <app type="BL"><lem resp="APD">الدّننير </lem><rdg resp="Diem">دننير</rdg></app> 
+ <lb n="9"/>  إلى شنوده مازوتهم بـخراج 
+ <lb n="10"/>  <app type="BL"><lem resp="APD">سنة </lem><rdg resp="Diem">سنة</rdg></app> <app type="BL"><lem resp="APD">وحمسپن </lem><rdg resp="Diem">ستّ</rdg></app> وميه ڤلپس لسپوده 
+ <lb n="11"/>  قبل ميمون ولا فقطر وابنيه قليل 
+ <lb n="12"/>  ولا كثير إلى <sic n="superfluous">پرمهط</sic> برمهاط سنة سبع 
+ <lb n="13"/>  وخمسين ومائة شهد على ذلك 
+ <lb n="14"/>  سعيد بن يعقوب التجيبي وسالم بن <app type="BL"><lem resp="APD">سليمن </lem><rdg resp="Diem">سلمان</rdg></app> 
+ <lb n="15"/>  الأسدي ويسار بن <unclear reason="undefined" cert="high">واقد</unclear> <unclear reason="undefined" cert="high">العبديّ</unclear> <app type="BL"><lem resp="APD"><expan><abbr>و<sic n="superfluous">كتبسهد</sic></abbr><ex>كپپ</ex></expan> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><expan><ex>شهدپه</ex></expan> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+ <lb n="16"/>  بيهوه <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الزّيّات</unclear> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> وهاشم بن صلح 
+ <lb n="17"/>  القرشي <app type="BL"><lem resp="APD"><expan><abbr>و<sic n="superfluous">كتبسهدپهم</sic></abbr><ex>كپپوا</ex></expan> </lem><rdg resp="Diem">وكتب</rdg></app> <app type="BL"><lem resp="APD"><expan><ex>شهادتهم</ex></expan> </lem><rdg resp="Diem">المـ<gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" extent="1" unit="character" />ى</rdg></app> في 
+ <lb n="18"/>  شوّال سنة <app type="BL"><lem resp="APD">ستّة </lem><rdg resp="Diem">ستّ</rdg></app> وخمسين ومائة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li maymūni bni rāšid:in min ʾarbaʿaẗi 
+ <lb n="3"/>danānīra sūqiyyaẗ:in dafaʿa hā ʾilà 
+ <lb n="4"/>šanūdaha ʾīṯār:an ʾiṯār:an ʾabahiwā min ʾahli ṭūḫa **ʾs **ʾš bi ø diqnāša danānīra 
+ <lb n="5"/>min kūraẗi ăl bahnasā wa hiya ăd danānīru 
+ <lb n="6"/>ăllatī ḍamina hā maymūn:un la hu min ʿan fuqṭura 
+ <lb n="7"/>wa humaysaẗa wa zikrī ĭbnay fuqṭura 
+ <lb n="8"/>fa qad dafaʿa maymūn:unu ăl ʾarbaʿaẗa ăd ø danānīra danānīra 
+ <lb n="9"/>ʾilà šanūdaha māzūti him bi ḫarāǧi 
+ <lb n="10"/>sanaẗa sittaẗ:in ø sitt:in wa ḫamsīna wa miyaẗ:in fa laysa li šanūdaha 
+ <lb n="11"/>qibala maymūn:in wa lā fuqṭura wa ĭbnay hi qalīl:un 
+ <lb n="12"/>wa lā kaṯīr:un ʾilà baramhāṭa sanaẗi sabʿ:in 
+ <lb n="13"/>wa ḫamsīna wa miʾaẗ:in šahida ʿalà ḏālika 
+ <lb n="14"/>saʿīdu bnu yaʿqūba ăt tuǧībiyyu wa sālimu bnu sulaymāna salmāna 
+ <lb n="15"/>ăl ʾasadiyyu wa yasāru bnu wāqid:ini ăl ʿabdiyyu wa *** kataba šahādata *** ø hu 
+ <lb n="16"/>bīhiwhu ăz *** zayyātu ø wa hāšimu bnu ṣāliḥ:ini 
+ <lb n="17"/>ăl qurašiyyu wa katabū kataba šahādata hum ăl m****à fī 
+ <lb n="18"/>šawwāl:in sanaẗa sittaẗ:in sitt:in wa ḫamsīna wa miʾaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément, miséricordieux!
+		 <lb n="2"/>
+ 	  Reçu de Maymūn ibn Rāshid de quatre
+		 <lb n="3"/>
+ 	  dinars marchands qu&#039;il a payés à
+		 <lb n="4"/>
+ 	  Shanūda élu des habitants de Tūkh ..... les dinars
+		 <lb n="5"/>
+ 	  de la Kūra d&#039;al-Bahnasā et ce sont les dinars
+		 <lb n="6"/>
+ 	  que lui a garantis Maymūn au nom de Victor
+		 <lb n="7"/>
+ 	  et Humaysa et Zikrī les deux fils de Victor
+		 <lb n="8"/>
+ 	  et Maymūn a payé les quatre dinars
+		 <lb n="9"/>
+ 	  à Shanūda leur &#034;māzūt&#034; pour le kharādj
+		 <lb n="10"/>
+ 	  de 156; et Shanūda n&#039;a rien
+		 <lb n="11"/>
+ 	  à réclamer par devers Maymūn ni à Victor ni à ses deux fils ni peu
+		 <lb n="12"/>
+ 	  ni prou jusqu&#039;en barmahāt de l&#039;année sept
+		 <lb n="13"/>
+ 	  et cinquante et cent. Ont témoigné cela
+		 <lb n="14"/>
+ 	  Saʿīd ibn Yaʿqūb al Tudjibī et Sālim ibn Sulaimān
+		 <lb n="15"/>
+ 	  al Asadî et Yasār ibn Wāqid al ʿAbdî? et a écrit son témoignage?
+		 <lb n="16"/>
+ 	  Piheu? le marchand d&#039;huile? et Hāshim ibn S(ā)lih
+		 <lb n="17"/>
+ 	  le Qurayshite et ils ont écrit leur témoignage en
+		 <lb n="18"/>
+ 	  Shawāl de l&#039;an 156 août-septembre 773
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2013" xml:id="Grohmann_APEL_243" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 243</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_243</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169741</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/>ر <gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـله <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">محمّد</supplied> بن <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <supplied reason="lost" cert="high">أبـ</supplied>ـو <supplied reason="lost" cert="high">نـ</supplied>ـصر جنادة ÷÷÷÷ صلح مولى أبي شعيب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">بـ</supplied>ـن وليد ÷÷ نادر قير حـپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> عبد السّلام بن جعفر ÷÷ حاجب بن حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> بطرس ا<gap reason="illegible" precision="low" extent="3"/>ى ÷<supplied reason="lost" cert="high">÷</supplied> <supplied reason="lost" cert="high">القـ</supplied>ـاسم بن عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> يعقو<supplied reason="lost" cert="high">ب</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">الخليل </lem><rdg resp="APD">الجليل</rdg></app> بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> پسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـو <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـرج ÷÷÷<unclear reason="undefined" cert="high">÷</unclear> إبرهيم دفنو<supplied reason="lost" cert="high">س</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> هـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپوره ÷ كيل بن ڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" extent="4" unit="character" /> بهيوه دمونه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه مينا ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <supplied reason="lost" cert="high">الحـ</supplied>ـارس ÷÷÷ بقطر بلتس ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <supplied reason="lost" cert="high">الرّا</supplied>عي ÷ <supplied reason="lost" cert="high">كـ</supplied>ـيل الحارس ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <supplied reason="lost" cert="high">يحـ</supplied>ـنّس <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن ÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن أيّوب ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر ÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  <supplied reason="lost" cert="high">مـ</supplied>ـونه <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سـ</supplied>ـلمان بن سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19"/>  <supplied reason="lost" cert="high">قـ</supplied>ـلول ÷<supplied reason="lost" cert="high">÷</supplied><gap reason="illegible" extent="1" unit="character" /> كيل الحا<supplied reason="lost" cert="high">رس</supplied> ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> ÷ <gap reason="illegible" precision="low" extent="3"/> ا<gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***r ***lh ** muḥammadu bnu ** *** 
+ <lb n="2"/>ʾabū naṣr:in ǧunādaẗu 1/2+1/12+1/48 ṣāliḥ:un mawlà ʾabī šuʿayb:in *** 
+ <lb n="3"/>***** bnu walīd:in 1/6+1/8 nādiru qīra ḥB*** 
+ <lb n="4"/>*** ʿabdu ăs salāmi bni ǧaʿfara 1 1/2 ḥāǧibu bnu ḥ*** 
+ <lb n="5"/>*** buṭrusu ʾ***y 1/24 ăl qāsimu bnu ʿ*** 
+ <lb n="6"/>*** yaʿqūb **** ****** *** 
+ <lb n="7"/>*** ăl ǧalīlu ḫalīlu bnu *** 
+ <lb n="8"/>*** Bs*** 
+ <lb n="9"/>***w *** faraǧ 2 1/6+1/24 ʾibrāhīmu dafnūsa *** 
+ <lb n="10"/>*** h** *Bwrh 1/4 kaylu bnu f**** *** 
+ <lb n="11"/>**** bihyūhu damūnaha *** 
+ <lb n="12"/>***h mīnā 1/3 *** 
+ <lb n="13"/>ăl ḥārisu 1/3+1/12 buqṭuru bilatusa 1/3+1/24 *** 
+ <lb n="14"/>ăr rāʿī 1/6 kayl:uni ăl ḥārisu 1 2/3 *** 
+ <lb n="15"/>yuḥannisu **** *** 
+ <lb n="16"/>***n 2 1/3+1/12 ***n ʾayyūb 12 *** 
+ <lb n="17"/>***r 1/12+1/24 *** *** 
+ <lb n="18"/>mūnahu *** salmānu bnu s*** ***r 1/2+1/12 *** 
+ <lb n="19"/>qalūlu 1/24+* kayl:uni ăl ḥārisu 1/2+1/4 *** 
+ <lb n="20"/>**** **** 1/8 *** ʾ**** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		]r [...]le .. [Mu]ḥammad b. ... [
+			<lb n="2"/>
+		Ab]û [Na]ṣr Ǧunâda 1/2+1/12+1/48 Ṣâliḥ, freedman of Abû Šuʿaib [
+			<lb n="3"/>
+		] ... [be]n Walîd 1/6+1/8 Nâdir Qîr Ḥ.... [
+			<lb n="4"/>
+		] ʿAbd as-Salâm b. Ǧaʿfar 1 1/2 Ḥâǧib b. Ḥ[
+			<lb n="5"/>
+		] Buṭrus A[...]nî [.]  1/24 [Al-Q]âsim b. ʿA[
+			<lb n="6"/>
+		] Yaʿqû[b ...] .... [...] ..... [
+			<lb n="7"/>
+		] al-Ḫalîl b[en
+			<lb n="8"/>
+			<lb n="9"/>
+		]û [... Fa]raǧ  2 1/6+1/24 Ibrahîm Dafnô[s
+			<lb n="10"/>
+		] H[... ...]...ûre 1/4 Chael b. Q[...]..[
+			<lb n="11"/>
+		].. Piheu Damûne [
+			<lb n="12"/>
+		]h Mînâ 1/3
+			<lb n="13"/>
+		the gu]ardian 1/3+1/12 Boqṭor Pilatos 1/3+1/24 [
+			<lb n="14"/>
+		the shep]herd 1/6 [Cha]el, the guardian, 1 2/3 [
+			<lb n="15"/>
+		Yoḥa]nnes ...[...] [
+			<lb n="16"/>
+		]n 2 1/3+1/12 [...]n Ayyûb 12 [
+			<lb n="17"/>
+		]r 1/12+1/24 [...] [
+			<lb n="18"/>
+		M]ône (?) [... Sa]lmân b. S[...]r 1/2+1/12 [
+			<lb n="19"/>
+		Qe]lôl [.]1/24 Chael, the guard[ia]n 1/2+1/4 [
+			<lb n="20"/>
+		]...[...] [..]1/8 ... [
+</ab></div>
+</body>
+</text>
+</TEI>

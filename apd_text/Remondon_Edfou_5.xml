@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1346" xml:id="Remondon_Edfou_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RémondonEdfou 5</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Remondon_Edfou_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169147</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يأبا محمّد العلبي لا تعرض 
+<lb n="3"/>  محمّد بن هرون قد قدّر 
+<lb n="4"/>  فلا تعرض له إن شا اللّه 
+<lb n="5"/>  <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā ʾabā muḥammad:ini ăl ʿulbiyya lā taʿriḍ 
+ <lb n="3"/>muḥammada bna harūna qad quddira 
+ <lb n="4"/>fa lā taʿriḍ la hu ʾin šāʾa ăl lāhu 
+ <lb n="5"/>* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux.
+			<lb n="2"/>
+		O Abū Muḥammad al-ʿUlbī, ne barre pas la route
+			<lb n="3"/>
+		à Muḥammad b. Harūn, il a été estimé.
+			<lb n="4"/>
+		Donc, ne lui coupe pas le passage, s&#039;il plaît à Dieu. Signature
+			<lb n="5"/>
+		[handmark]
+</ab></div>
+</body>
+</text>
+</TEI>

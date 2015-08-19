@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1728" xml:id="Prag_Beilage080" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. Beilage VIII recto</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_Beilage080</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169473</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">ڤحمپع</supplied> <supplied reason="lost" cert="high">الخراج</supplied> <supplied reason="lost" cert="high">بالكفور</supplied> <supplied reason="lost" cert="high">مع</supplied> <supplied reason="lost" cert="high">الصّرف</supplied> <supplied reason="lost" cert="high">حساب</supplied> <supplied reason="lost" cert="high">دينر</supplied> ϙ لكل ألف دينر إذ كان يستخرج من المزارعين من حساب ثلثـثمن دينر <supplied reason="lost" cert="high">͵ασνγΧγʹ‎κʹ‎δʹ‎</supplied> 
+ <lb n="2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="cf. translation">‮‪ιβΧ‬</rdg></app> <supplied reason="lost" cert="high">حسـ</supplied>ـاب ثمن دينر لكل دينر مبلغ ذلك ριδκʹ‎δʹ‎ وبقي بعد ذلك ͵αρνβΧ 
+ <lb n="3"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">البقايـ</supplied>ـا ωπιʹ‎βʹ‎ 
+ <lb n="4"/>  <supplied reason="lost" cert="high">مپها</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">مال</supplied> <supplied reason="lost" cert="high">المبقـ</supplied>ـال σνδϛʹ‎ 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  مپه من <supplied reason="lost" cert="high">الـ</supplied>ـمر<supplied reason="lost" cert="high">وج</supplied> <supplied reason="lost" cert="high">ρνϛϛʹ‎κʹ‎δʹ‎</supplied> <supplied reason="lost" cert="high">ومنه</supplied> من المر<supplied reason="lost" cert="high">اعي</supplied> ϙζΧγʹ‎<supplied reason="lost" cert="high">κʹ‎δʹ‎</supplied> 
+ <lb n="7"/>  الحوالى τλ<supplied reason="lost" cert="high">γϛʹ‎</supplied>κʹ‎δʹ‎ المراعي σλβΧκʹ‎δʹ‎ النّخل ξ <gap reason="illegible" precision="low" extent="3"/> الكفور ξβγʹ‎ أبانوب λεΧηʹ‎ 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>لـمروج ρμηϛʹ‎κʹ‎δʹ‎ 
+ <lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> الكفور πδ أبانوب ξδϛʹ‎κʹ‎δʹ‎ 
+ <lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> المصائد η 
+ <lb n="11"/>  ومن الصّرف على المال <supplied reason="lost" cert="high">المروج</supplied> <supplied reason="lost" cert="high">حساب</supplied> <supplied reason="lost" cert="high">دينر</supplied> <supplied reason="lost" cert="high">λη</supplied> <supplied reason="lost" cert="high">لكلّ</supplied> <supplied reason="lost" cert="high">مائة</supplied> <supplied reason="lost" cert="high">دينـ</supplied>ـر σλαΧιʹ‎βʹ‎ 
+ <lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> فجميع الكفور ͵βσξδϛʹ‎ 
+ <lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14"/>  ڤحمپع الخراج بقوص ωοβκʹ‎δʹ‎ يحط من ذلك عن الصّرف حساب دينر ϙ لكل ألف دينر οηγʹ‎ιʹ‎βʹ‎ وبقي بعد ذلك ψϙγΧη 
+ <lb n="15"/>  ومن الأبواب σνεΧγʹ‎ιʹ‎βʹ‎ 
+ <lb n="16"/>  مپه من المال المـ<supplied reason="lost" cert="high">ـ</supplied>ـروج ρξγΧγʹ‎ 
+ <lb n="17"/>  الحوالى ριϛʹ‎ المراعي λβΧιʹ‎βʹ‎ النّخل <supplied reason="lost" cert="high">καιʹ‎</supplied>βʹ‎ 
+ <lb n="18"/>  ومپه من المبقال ϙβιʹ‎βʹ‎ 
+ <lb n="19"/>  المراعى ο النّخل θΧιʹ‎βʹ‎ المصائد <supplied reason="lost" cert="high">ιβ</supplied>Χ 
+ <lb n="20"/>  ومن الصّرف على المروج حساب سبعة و<supplied reason="lost" cert="high">عشريـ</supplied>ـن دينرا لكل مائة دينر ξΧιʹ‎βʹ‎ 
+ <lb n="21"/>  ڤحمپع قوص ͵αριηʹ‎ 
+ <lb n="22"/>  ڤحمپع الخراج بميسارة σϛΧγʹ‎ يحط من ذلك عن الصّرف حساب دينر ϙ <supplied reason="lost" cert="high">لكلّ</supplied> ألف ιηΧηʹ‎ وبقي بعد ذلك ρπηϛʹ‎κʹ‎δʹ‎ 
+ <lb n="23"/>  ومن الأبواب χμδιʹ‎βʹ‎ 
+ <lb n="24"/>  مپها من المروج φπθΧγʹ‎ηʹ‎ 
+ <lb n="25"/>  الحوالى φοαΧγʹ‎ηʹ‎ الحمّام ιη 
+ <lb n="26"/>  ومپه من المبقال νδηʹ‎ 
+ <lb n="27"/>  معصره الزّيت ιβ النّخل ιε المروج κζηʹ‎ 
+ <lb n="28"/>  ومن الصّرف على المال المروج حساب أحد وثلثين دينرا لكل مائة دينر ρπβΧγʹ‎κʹ‎δʹ‎ 
+ <lb n="29"/>  فجميع ميسارة ͵αιεϛʹ‎ 
+ <lb n="30"/>  ــ ڤحمپع عڤود الصپاع 
+ <lb n="31"/>  من ذلك من الخراج بعد وضع الصّرف من حساب تسعين دينر لكل مائة دينر ͵βρλδγʹ‎ 
+ <lb n="32"/>  الاصل ͵βτμεγʹ‎ιʹ‎βʹ‎ وضع منه σιαιʹ‎βʹ‎ وبقي 
+ <lb n="33"/>  ومن الأبواب ͵ατπιʹ‎βʹ‎ 
+ <lb n="34"/>  مپها من المال المروج ͵ατο<unclear reason="undefined" cert="high">θ</unclear>Χκʹ‎δʹ‎ 
+ <lb n="35"/>  الكڤور χκεΧγʹ‎ιʹ‎βʹ‎ 
+ <lb n="36"/>  الحوالى τλγϛʹ‎κʹ‎δʹ‎ المراعي σλβΧκʹ‎δʹ‎ النّخل ξ 
+ <lb n="37"/>  ڤوص ρξγΧγʹ‎ 
+ <lb n="38"/>  الحوالى ριϛʹ‎ المراعي λβΧιʹ‎βʹ‎ النّخل <supplied reason="lost" cert="high">κ</supplied>αιʹ‎βʹ‎ 
+ <lb n="39"/>  <supplied reason="lost" cert="high">مپسـ</supplied>ـاره φπθΧγʹ‎ηʹ‎ 
+ <lb n="40"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> الجوالي φ</supplied>οαΧγʹ‎ηʹ‎ الحمّام ηι] 
+ <lb n="41"/>  <supplied reason="lost" cert="high">مپه</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">ما</supplied>ل المبقـ<supplied reason="lost" cert="high">ـ</supplied>ـال υγʹ‎κʹ‎δʹ‎ 
+ <lb n="42"/>  الكـ<supplied reason="lost" cert="high">ـ</supplied>ـڤور <supplied reason="lost" cert="high">σ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="43"/>  المراعى ϙζΧγʹ‎κʹ‎δʹ‎ ا<supplied reason="lost" cert="high">لـمر</supplied>وج ρμηϛʹ‎κʹ‎δʹ‎ 
+ <lb n="44"/>  مپه بأبانوب λεΧκʹ‎δʹ‎ <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">بأبانوب</supplied> <supplied reason="lost" cert="high">ξδϛʹ‎κʹ‎δʹ‎</supplied> 
+ <lb n="45"/>  الكڤور ξβϛʹ‎ الكفور πδ 
+ <lb n="46"/>  المصاپد η 
+ <lb n="47"/>  ڤوص ϙβιʹ‎βʹ‎ 
+ <lb n="48"/>  <supplied reason="lost" cert="high">المراعى</supplied> <supplied reason="lost" cert="high">ο</supplied> <supplied reason="lost" cert="high">النّخل</supplied> <supplied reason="lost" cert="high">θΧιʹ‎βʹ‎</supplied> <gap reason="illegible" extent="1" unit="character" /> المصا<supplied reason="lost" cert="high">ئد</supplied> ι<supplied reason="lost" cert="high">βΧ</supplied> 
+ <lb n="49"/>  <supplied reason="lost" cert="high">مپسـ</supplied>ـاره νδηʹ‎ 
+ <lb n="50"/>  <supplied reason="lost" cert="high">معصره</supplied> <supplied reason="lost" cert="high">الزّيت</supplied> <supplied reason="lost" cert="high">ιβ</supplied> <supplied reason="lost" cert="high">النّخل</supplied> <supplied reason="lost" cert="high">ιε</supplied> <supplied reason="lost" cert="high">المروج</supplied> κζηʹ‎ 
+ <lb n="51"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـــ υοεκʹ‎δʹ‎ 
+ <lb n="52"/>  <gap reason="illegible" precision="low" extent="3"/> الكفور σϛ<supplied reason="lost" cert="high">β</supplied>ϛʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>fa ǧamīʿu ăl ḫarāǧi bi ăl kufūri maʿa ăṣ ṣarfi ḥisāba dīnār:in 90 li kulli ʾalfi dīnār:in ʾiḏ kāna yustaḫraǧu mina ăl muzāriʿīna min ḥisābi ṯulṯi ṯumni dīnār:in 1253+1/2+1/3+1/24 
+ <lb n="2"/>*** 12+2/3 ḥisāba ṯumni dīnār:in li kulli dīnār:in mablaġu ḏālika 114+1/24 wa baqiya baʿda ḏālika 1152+1/2 
+ <lb n="3"/>mina ăl baqāyā 880+1/12 
+ <lb n="4"/>min hā min māli ăl mibqāli 254+1/6 
+ <lb n="5"/>*** 
+ <lb n="6"/>min hu mina ăl murūǧi 156+1/6+1/24 wa min hu mina ăl marāʿī 97+1/2+1/3+1/24 
+ <lb n="7"/>ăl ǧawālī 333+1/6+1/24 ăl marāʿī 232+2/3+1/24 ăn naḫlu 60 *** ăl kufūru 62+1/3 ʾabānūbu 35+2/3+1/8 
+ <lb n="8"/>*** ăl murūǧu 148+1/6+1/48 
+ <lb n="9"/>*** ăl kufūru 84 ʾabānūbu 64+1/6+1/24 
+ <lb n="10"/>*** ăl maṣāʾidu 8 
+ <lb n="11"/>wa mina ăṣ ṣarfi ʿalà ăl māli ăl murūǧi ḥisāba dīnār:in 38 li kulli miʾaẗi dīnār:in 231+1/2+1/12 
+ <lb n="12"/>*** fa ǧamīʿu ăl kufūri 2264+1/6 
+ <lb n="13"/>*** 
+ <lb n="14"/>fa ǧamīʿu ăl ḫarāǧi bi qūṣa 882+1/24 yuḥaṭṭu min ḏālika ʿan ăṣ ṣarfi ḥisāba dīnār:in 90 li kulli ʾalfi dīnār:in 78+1/3+1/12 wa baqiya baʿda ḏālika 793+1/2+1/8 
+ <lb n="15"/>wa mina ăl ʾabwābi 255+1/2+1/3+1/12 
+ <lb n="16"/>min hu mina ăl māli ăl murūǧi 162+1/2+1/3 
+ <lb n="17"/>ăl ǧawālī 110+1/6 ăl marāʿī 32+1/2+1/3 ăn naḫlu 21+1/12 
+ <lb n="18"/>wa min hu mina ăl mibqāli 92+1/12 
+ <lb n="19"/>ăl marāʿī 70 ăn naḫlu 9+1/2+1/12 ăl maṣāʾidu 12+1/2 
+ <lb n="20"/>wa mina ăṣ ṣarfi ʿalà ăl murūǧi ḥisāba sabʿaẗ:in wa ʿišrīna dīnār:an li kulli miʾaẗi dīnār:in 60+1/2+1/12 
+ <lb n="21"/>fa ǧamīʿu qūṣa 1110+1/8 
+ <lb n="22"/>fa ǧamīʿu ăl ḫarāǧi bi maysāraẗa 206+1/2+1/3 yuḥaṭṭu min ḏālika ʿani ăṣ ṣarfi ḥisāba dīnār:in 90 li kulli ʾalf:in 18+1/2+1/8 wa baqiya baʿda ḏālika 188+1/6+1/24 
+ <lb n="23"/>wa mina ăl ʾabwābi 644+1/12 
+ <lb n="24"/>min hā mina ăl murūǧi 589+1/2+1/3+1/8 
+ <lb n="25"/>ăl ǧawālī 571+1/2+1/3+1/8 ăl ḥammāmu 18 
+ <lb n="26"/>wa min hu mina ăl mibqāli 54+1/8 
+ <lb n="27"/>maʿṣaraẗu ăz zayti 12 ăn naḫlu 15 ăl murūǧu 27+1/8 
+ <lb n="28"/>wa mina ăṣ ṣarfi ʿalà ăl māli ăl murūǧi ḥisāba ʾaḥad:in wa ṯalāṯīna dīnār:an li kulli miʾaẗi dīnār:in 182+1/2+1/3+1/24 
+ <lb n="29"/>fa ǧamīʿu maysāraẗa 1015+1/6 
+ <lb n="30"/>fa ǧamīʿu ʿuqūdi ăḍ ḍiyāʿi 4389+1/3+1/8 
+ <lb n="31"/>min ḏālika mina ăl ḫarāǧi baʿda waḍʿi ăṣ ṣarfi min ḥisābi tisʿīna dīnār li kulli miʾaẗi dīnār:in 2134+1/3 
+ <lb n="32"/>ăl ʾaṣlu 2345+1/3+1/12 wuḍiʿa min hu 211+1/12 wa baqiya 
+ <lb n="33"/>wa mina ăl ʾabwābi 1380+1/12 
+ <lb n="34"/>min hā mina ăl māli ăl murūǧi 1379+2/3+1/24 
+ <lb n="35"/>ăl kufūru 625+1/2+1/3+1/12 
+ <lb n="36"/>ăl ǧawālī 333+1/6+1/24 ăl marāʿī 232+2/3+1/24 ăn naḫlu 60 
+ <lb n="37"/>qūṣu 163+1/2+1/3 
+ <lb n="38"/>ăl ǧawālī 110+1/6 ăl marāʿī 32+1/2+1/12 ăn naḫlu 21+1/12 
+ <lb n="39"/>maysāraẗu 589+1/2+1/3+1/8 
+ <lb n="40"/>*** ăl ǧawālī 571+1/2+1/3+1/8 ăl ḥammāmu 18 
+ <lb n="41"/>min hu min māli ăl mibqāli 400+1/3+1/24 
+ <lb n="42"/>ăl kufūru 200+*** 
+ <lb n="43"/>ăl marāʿī 97+1/2+1/3+1/24 ăl murūǧu 148+1/6+1/24 
+ <lb n="44"/>min hu bi ʾabānūba 35+2/3+1/24 min hu bi ʾabānūba 64+1/6+1/24 
+ <lb n="45"/>ăl kufūru 62+1/6 ăl kufūru 84 
+ <lb n="46"/>ăl maṣāʾidu 8 
+ <lb n="47"/>qūṣu 92+1/12 
+ <lb n="48"/>ăl marāʿī 70 ăn naḫlu 9+1/2+1/12 * ăl maṣāʾidu 12+1/2 
+ <lb n="49"/>maysāraẗu 54+1/8 
+ <lb n="50"/>maʿṣaraẗu ăz zayti 12 ăn naḫlu 15 ăl murūǧu 27+1/8 
+ <lb n="51"/>*** 475+1/24 
+ <lb n="52"/>*** ăl kufūru 292+1/6 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Die gesamte Grundsteuer in al-Kufūr (betrug) also einschließlich der Gutstehungsgebühr in Berechnung von] 90 [Dīnār] für jedes Tausend Dīnār, da man gewöhnlich von den Muzāraʿapächtern (eine Abgabe) in Berechnung eines vierundzwanzigstel Dīnārs (per Dīnār) erhebt [1253 1/2+1/3+1/24]
+		 <lb n="2"/>
+ 	  [12 2/3 in Berech]nung eines Achtel Dīnārs für jeden Dīnār, das macht 114 1/24, darnach verblieb (als Rest) 1152 1/2
+		 <lb n="3"/>
+ 	  [Aus den Restbeträ]gen 880 1/12
+		 <lb n="4"/>
+ 	  [Davon stammt aus der Gemüselandsteu]er 254 1/6
+		 <lb n="5"/>
+		 <lb n="6"/>
+ 	  Davon stammt aus [der] Wiesen[steuer 156 1/6+1/24 und davon stammt) aus der Wei[desteu]er 97 1/2+1/3+[1/24]
+		 <lb n="7"/>
+ 	  die Kopfsteuern 33[3 1/6+]1/24 die Weidesteuer 232 2/3+1/24 die Palmensteuer 60 al-Kufūr 62 1/2 Abānūb 35 2/3+1/8
+		 <lb n="8"/>
+ 	  [...d]ie Wiesensteuer 148 1/6+1/24
+		 <lb n="9"/>
+ 	  [...] al-Kufūr 84 Abānūb 64 1/6+1/24
+		 <lb n="10"/>
+ 	  [...] die Fischereiabgabe 8
+		 <lb n="11"/>
+ 	  Und aus der Gutstehungsgebühr auf das [Wiesensteuer]geld [in Berechnung von 38 Dīnār für jedes Hundert Dīnā]r 231 1/2+1/12
+		 <lb n="12"/>
+ 	  [...] Demnach ganz al-Kufūr 2264 1/6
+		 <lb n="13"/>
+		 <lb n="14"/>
+ 	  Die gesamte Grundsteuer in Qūṣ (betrug) also 872 1/24. Hievon wurde an Gutstehungsgebühr abgezogen in Berechnung von 90 Dīnār für jedes Tausend Dīnār 78 1/3+1/12 und es verblieb darnach (als Rest) 793 1/2+1/8
+		 <lb n="15"/>
+ 	  Und aus den (verschiedenen) Steuerkatekorien 255 1/2+1/3+1/12
+		 <lb n="16"/>
+ 	  Davon stammt aus dem Wiesensteuergelde 163 1/2+1/3
+		 <lb n="17"/>
+ 	  die Kopfsteuern 110 1/6 die Weidesteuer 32 1/2+1/12 die Palmensteuer [21] 1/12
+		 <lb n="18"/>
+ 	  und davon stammt aus der Gemüselandsteuer 92 1/12
+		 <lb n="19"/>
+ 	  die Weidesteuer 70 die Palmensteuer 9 1/2+1/12 die Fischereiabgabe [12] 1/2
+		 <lb n="20"/>
+ 	  Und aus der Gutstehungsgebühr auf die Wiesensteuer in Berechnung von siebenund[zwanz]ig Dīnār für jedes Hundert Dīnār 60 1/2+1/12
+		 <lb n="21"/>
+ 	  Demnach ganz Qūṣ 1110 1/8
+		 <lb n="22"/>
+ 	  Die ganze Grundsteuer in Maisāra 206 1/2+1/3. Hiervon wurde an Gutstehungsgebühr abgezogen in Berechnung von 90 Dīnār [für jedes] Tausend 18 1/2+1/8 und es verblieb darnach (als Rest) 188 1/6+1/24
+		 <lb n="23"/>
+ 	  Und aus den (verschiedenen) Steuerkategorien 644 1/12
+		 <lb n="24"/>
+ 	  Davon stammt aus der Wiesensteuer 589 1/2+1/3+1/8
+		 <lb n="25"/>
+ 	  die Kopfsteuern 571 1/2+1/3+1/8 das Bad 18
+		 <lb n="26"/>
+ 	  und davon stammt aus der Gemüselandsteuer 54 1/8
+		 <lb n="27"/>
+ 	  die Ölpresse 12 die Palmensteuer 15 die Wiesensteuer 27 1/8
+		 <lb n="28"/>
+ 	  Und aus der Gutstehungsgebühr auf das Weidesteuergeld in Berechnung von einunddreißig Dīnār für jedes Hundert Dīnār 182 1/2+1/3+1/24
+		 <lb n="29"/>
+ 	  Demnach ganz Maisāra 1015 1/6
+		 <lb n="30"/>
+ 	  Alle Pachtkontrakte der Domänen 4389 1/3+1/8
+		 <lb n="31"/>
+ 	  Davon stammt aus der Grundsteuer nach Abzug der Gustehungsgebühr in Berechnung von neunzig Dīnār für jedes Hundert Dīnar 2134 1/3
+		 <lb n="32"/>
+ 	  Die ordentliche Steuer 2345 1/3+1/12 hievon wurde abgezogen 211 1/12 und es blieb
+		 <lb n="33"/>
+ 	  Und aus den verschiedenen Steuerkategorien 1380 1/12
+		 <lb n="34"/>
+ 	  davon stammt aus dem Wiesensteuergelde 1379 2/3+1/24
+		 <lb n="35"/>
+ 	  al-Kufūr 625 1/2+1/3+1/12
+		 <lb n="36"/>
+ 	  die Kopfsteuern 333 1/6+1/24 die Weidesteuer 232 2/3+1/24 die Palmensteuer 60
+		 <lb n="37"/>
+ 	  Qūṣ 163 1/2+1/3
+		 <lb n="38"/>
+ 	  Die Kopfsteuern 110 1/6 die Weidesteuer 32 1/2+1/12 die Palmensteuer [2]1 1/12
+		 <lb n="39"/>
+ 	  [Mais]āra 5891/2+1/3+1/8
+		 <lb n="40"/>
+ 	  [...] die Kopfsteuer 571 1/2+1/3+1/8 [das Bad 18]
+		 <lb n="41"/>
+ 	  [Davon stammt a]us dem Gemüselandsteuer[gel]de 400 1/3+1/24
+		 <lb n="42"/>
+ 	  al-Kufūr [246 1/8+1/24]
+		 <lb n="43"/>
+ 	  die Weidesteuer 97 1/2+1/3+1/24 [die Wiesenste]uer 148 1/6+1/24
+		 <lb n="44"/>
+ 	  davon in Abānūb 35 2/3+1/24 [davon in Abānūb 64 1/6+1/24]
+		 <lb n="45"/>
+ 	  al-Kufūr 62 1/6 al-Kufūr 84
+		 <lb n="46"/>
+ 	  die Fischereiabgabe 8
+		 <lb n="47"/>
+ 	  Qūṣ 92 1/12
+		 <lb n="48"/>
+ 	  [die Weidesteuer 70 die Palmensteuer 9 1/2+1/12] die Fischeri[abgabe] 1[2 1/2]
+		 <lb n="49"/>
+ 	  [Mais]āra 54 1/8
+		 <lb n="50"/>
+ 	  [die Ölpresse 12 die Palmensteuer 15 die Wiesensteuer] 27 1/8
+		 <lb n="51"/>
+ 	  [...] 475 1/24
+		 <lb n="52"/>
+ 	  [...] al-Kufūr 19[2] 1/6 [sic]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

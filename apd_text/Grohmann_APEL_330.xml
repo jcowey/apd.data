@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1823" xml:id="Grohmann_APEL_330" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 330</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_330</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169560</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">طلبت</supplied> <supplied reason="lost" cert="high">أن</supplied> 
+ <lb n="2"/>  يدفع إلي الدّينارين الّتي للجامع عن 
+ <lb n="3"/>  <app type="BL"><lem resp="APD">حلش </lem><rdg resp="APD">حكر</rdg></app> العريشة <app type="BL"><lem resp="APD">للكرم </lem><rdg resp="APD">الكرم</rdg></app> فوعدني 
+ <lb n="4"/>  إلى يوم الأربعا فأرسلت إليه 
+ <lb n="5"/>  فأعاد إلي رسالة لا تصلح وأنت 
+ <lb n="6"/>  أعزّك اللّه أولا من عاون بالواجب 
+ <lb n="7"/>  عليك <app type="BL"><lem resp="APD">ما </lem><rdg resp="Diem÷ omitted by editor or scribe?">على</rdg></app> للحامع ڤڤد حصل علپپا 
+ <lb n="8"/>  دين لصالح ورسم الكرم في الحكم 
+ <lb n="9"/>  عين رسم القديم لأنّه يودى حق 
+ <lb n="10"/>  متقدّم فاعلم ذلك وتعمل في ذلك 
+ <lb n="11"/>  <app type="BL"><lem resp="APD">تحسن </lem><rdg resp="Diem">تحسن</rdg></app> به الذّكر حسب عوائدك الجميلة 
+ <lb n="12"/>  إن شا اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** *** *** *** ṭalabtu ʾan 
+ <lb n="2"/>yadfaʿa ʾilay ya ăd dīnārayni ăllatī li l ǧāmiʿi ʿan 
+ <lb n="3"/>ḥalši ḥikri ăl ʿarīšaẗi li ø l ăl karmi fa waʿada nī 
+ <lb n="4"/>ʾilà yawmi ăl ʾarbaʿāʾi fa ʾarsaltu ʾilay hi 
+ <lb n="5"/>fa ʾaʿāda ʾilay ya risālaẗ:an lā taṣlaḥu wa ʾanta 
+ <lb n="6"/>ʾaʿazza ka ăl lāhu ʾawlā man ʿāwana bi ăl wāǧibi 
+ <lb n="7"/>ʿalay ka ø ʿalà mā li l ǧāmiʿi fa qad ḥaṣala ʿalay nā 
+ <lb n="8"/>dayn:un li ṣāliḥ:in wa rasmu ăl karmi fī ăl ḥukmi 
+ <lb n="9"/>ʿaynu rasmi ăl qadīmi liʾanna hu yuʾaddī ḥaqq 
+ <lb n="10"/>mutaqaddim fa ĭʿlam ḏālika wa taʿmal fī ḏālika 
+ <lb n="11"/>tuḥsinu yaḥsunu bi hi ăḏ ḏikra ḏikru ḥasaba ʿawāʾidi ka ăl ǧamīlaẗi 
+ <lb n="12"/>ʾin šāʾa ăl lāhu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  .................... I demanded that
+		 <lb n="2"/>
+ 	  ... für den
+ 	  he should pay me the two dînârs, which are due to the great mosque for
+		 <lb n="3"/>
+ 	  Pachtzins des Weingartens. ...
+ 	  pruning the vine-arbour of the vine(yard). Now he promised to pay me
+		 <lb n="4"/>
+ 	  by Wednesday. So I sent to him,
+		 <lb n="5"/>
+ 	  ... Aber Du
+ 	  but he repeated a message to me, which was not suitable, while you -
+		 <lb n="6"/>
+ 	  - Gott stärke Dich- bist derjenige, dem es auf Grund der dir obliegenden Pflicht am ehesten zukommt,
+ 	  may God exalt you - are the best assistant respecting that which is obligatory
+		 <lb n="7"/>
+ 	  upon you and due to the great mosque. There is already a debt incumbent upon us
+ 	  zu dem, was der Moschee zukommt, zu verhelfen. ...
+		 <lb n="8"/>
+ 	  ... Die Gebühr des Weinbergs ist, wie üblich (?),
+ 	  to the credit of Ṣâliḥ, and the tax on the vines is, according to the rule,
+		 <lb n="9"/>
+ 	  identisch mit der alten Gebühr, denn er zahlt eine
+ 	  the same as the old tax; for he pays (only) a former.
+		 <lb n="10"/>
+ 	  duty (fee). Now take note of it, and act in this matter,
+ 	  vorhergenende (d.h. bereits früher bestehende) Abgabe. ...
+		 <lb n="11"/>
+ 	  dunning him discreetly in accordance with your graceful habits,
+		 <lb n="12"/>
+ 	  if God wills.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

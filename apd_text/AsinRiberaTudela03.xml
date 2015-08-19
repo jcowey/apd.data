@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1999" xml:id="AsinRiberaTudela03" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 3 (= P.Garcia-ArenalTudelaTarazona 04)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">AsinRiberaTudela03</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169729</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم عاوض دون إس وز 
+<lb n="2"/>  وحپپه دون مرپه مع پوپس اپن عپسى 
+<lb n="3"/>  بأن دفع دون إس ليونس الجنان الّتي ابتاع من فا 
+<lb n="4"/>  طمه پپپ احمد الملبوألي پاپپپردس 
+<lb n="5"/>  م لها واحد دون اس من پوپس الّكرم الپى له 
+<lb n="6"/>  له وهو الّكرم اليى پلصق دون اس والّحتان ألپى 
+<lb n="7"/>  يونس يلصق مشنين في الجهة الواحدة وفي الثّانية 
+<lb n="8"/>  جنان فرّند غلياقه والكرم يلصق دون إس في الجهة 
+<lb n="9"/>  الواحدة وفي الثّانية يلصق دمنكه منج بويش 
+<lb n="10"/>  وفي <app type="BL"><lem resp="APD">الثّانية </lem><rdg resp="García-Arenal">الثّالثة</rdg></app> كرم دون إس وأعطا دون إس الجنان 
+<lb n="11"/>  ليونس حر بلا عشور كما أعطا يونس الكرم حر 
+<lb n="12"/>  وأدخل دون إس ضامنا ليونس دون رمند من شنت 
+<lb n="13"/>  كروج كما أدخل يونس ضامنا عند دون إس لمحمّد 
+<lb n="14"/>  الشّاطبي على صحّة المعاوضة وأشهد على <app type="BL"><lem resp="The last two letters are written line 15.">ذ </lem><rdg resp="García-Arenal">ذالك</rdg></app> 
+<lb n="15"/>  لك من سمع مپهما <app type="BL"><lem resp="APD">وعرڤهما </lem><rdg resp="García-Arenal">وذالك</rdg></app> 
+<lb n="16"/>  في شهر رجب الفرد الموافق لفبرير في سنة 
+<lb n="17"/>  تسعة وستّين <app type="BL"><lem resp="APD">وخمسمائة </lem><rdg resp="APD">وخمس</rdg></app> <app type="BL"><lem resp="APD">احمد </lem><rdg resp="APD">مائة</rdg></app> پن محمد الپحپپى 
+<lb n="18"/>  وعبد الملك بن محمّد البحيني وأبي عبد اللّه ابن جرندة 
+<lb n="19"/>  كتب عنهما بأمرهما ودون هوش ابن إشتابن من برغش 
+<lb n="20"/>  ودون بطال قريار 
+<lb n="21"/>  كتب عنهما بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʿāwaḍa dūn ʾis:un wa zawǧatī hi 
+ <lb n="2"/>dūna mariyyaẗu maʿa yūnusa ĭbni ʿīsà ăl ʾāzaliyyi 
+ <lb n="3"/>bi ʾan dafaʿa dūn ʾis:un li yūnusa ăl ǧināna ăllatī ĭbtāʿa min fāṭimaẗa 
+ <lb n="4"/>binti ʾaḥmada ăl malyuwāliyyi bi ʾabtīrdaša ăl maʿlūma 
+ <lb n="5"/>la hā wa ʾaḫaḏa dūn ʾis:un min yūnusa ăl karma ăllatī la hu bi biraṭyālaẗa 
+ <lb n="6"/>wa huwa ăl karmu ăllatī yulāṣiqu dūn ʾis wa ăl ǧinānu ăllatī ʾaḫaḏa 
+ <lb n="7"/>yūnusu yulāṣiqu mušanīna fī ăl ǧihaẗi ăl wāḥidaẗi wa fī ăṯ ṯāniyaẗi 
+ <lb n="8"/>ǧināna firranda ġalyāquha wa ăl karmu yulāṣiqu dūn ʾis fī ăl ǧihaẗi 
+ <lb n="9"/>ăl wāḥidaẗi wa fī ăṯ ṯāniyaẗi yulāṣiqu duminkuha manǧa buwīš 
+ <lb n="10"/>wa fī ăṯ ṯāniyaẗi ṯāliṯaẗi karmu dūn ʾis:in wa ʾaʿṭā dūn ʾis:un ăl ǧināna 
+ <lb n="11"/>li yūnusa ḥurr bi lā ʿušūr:in kamā ʾaʿṭā yūnusu ăl karma ḥurr 
+ <lb n="12"/>wa ʾadḫala dūn ʾis:un ḍāmin:an li yūnusa dūn ramunda min šanta 
+ <lb n="13"/>kurūǧ kamā ʾadḫala yūnusu ḍāmin:an ʿinda dūn ʾis:in li muḥammad:ini 
+ <lb n="14"/>ăš šāṭibiyyi ʿalà ṣiḥḥaẗi ăl muʿāwaḍaẗi wa ʾašhada ʿalà ḏālika 
+ <lb n="15"/>man samiʿa min humā wa ʿarafa humā wa ḏālika 
+ <lb n="16"/>fī šahri raǧaba ăl fardi ăl muwāfiqi li fibrayra fī sanaẗi 
+ <lb n="17"/>tisʿaẗ:in wa sittīna wa ḫamsi miʾaẗ:in ḫamsi ø miʾaẗ:in ʾaḥmadu bnu muḥammad:ini ăl baḥīniyyu 
+ <lb n="18"/>wa ʿabdu ăl maliki bnu muḥammad:ini ăl baḥīniyyu wa ʾabī ʿabdi ăl lāhi ĭbnu ǧirundaẗa 
+ <lb n="19"/>kutiba ʿan himā bi ʾamri himā wa dūn huwašu ĭbnu ʾištābana min burġuša 
+ <lb n="20"/>wa dūn biṭālu quryāru 
+ <lb n="21"/>kutiba ʿan himā bi ʾamri himā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="8"/>
+		eiz et ex alia parte iuxta vineam de dominico mania bois
+			<lb n="13"/>
+		Et alaceiri donat vobis fidanciam de salvetate ad forum
+</ab></div>
+</body>
+</text>
+</TEI>

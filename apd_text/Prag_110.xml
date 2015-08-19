@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1594" xml:id="Prag_110" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 11</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_110</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169350</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> ر<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  شهد يحيى بن فرقود وكتاب شهادته 
+ <lb n="3"/>  بيده 
+ <lb n="4"/>  وسليمن بن د<supplied reason="lost" cert="high">ا</supplied>ود السّليحي وكتب سليمـ<supplied reason="lost" cert="high">ـن</supplied> بن ا<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <supplied reason="lost" cert="high">بأمره</supplied> <supplied reason="lost" cert="high">ومحضره</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** r** *** 
+ <lb n="2"/>šahida yaḥyà bnu farqūda wa kitābu šahādati hi 
+ <lb n="3"/>bi yadi hi 
+ <lb n="4"/>wa sulaymānu bnu dāwuda ăs salīḥiyyu sulayḥiyyu wa kataba sulaymānu bnu ʾ*** 
+ <lb n="5"/>bi ʾamri hi wa maḥḍari hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  Yaḥyā b. Farqūd, und seine Zeugenfertigung (erfolgte)
+		 <lb n="3"/>
+ 	  eigenhändig.
+		 <lb n="4"/>
+ 	  Und Sulaimān b. Dāwid as-Sulaiḥī, und Sulaimān b. A[....] schrieb (es)
+		 <lb n="5"/>
+ 	  [in seinem Auftrage und in seiner Gegenwart].
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

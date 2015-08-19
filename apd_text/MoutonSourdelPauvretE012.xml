@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2106" xml:id="MoutonSourdelPauvretE012" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MoutonPauvreté 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdelPauvretE012</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المملوك عبد المحمود 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  يقبّل الأرض بين يدي موْلانَا وينهي بأنّه رجلٌ 
+<lb n="4"/>  فقير من أهلِ الكتاب العزيز والذّين وَالصّلاح 
+<lb n="5"/>  ولا له إلّا اللَّه وصدقات مولانا ويعلم بأن مَا لَهُ 
+<lb n="6"/>  شي من الدُّنيا وقد تشفّع لمولانا ويسأل مِن صدقاته 
+<lb n="7"/>  وَإحساناته أن يتشفّع لَهُ عند قاضـ<supplied reason="lost" cert="high">ـي</supplied> القضا<supplied reason="lost" cert="high">ت</supplied> <app type="BL"><lem resp="APD">شـ<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">شرف</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">الدّين</rdg></app> <app type="BL"><lem resp="APD">عـ<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">عبد</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl mamlūku ʿabdu ăl maḥmūdi 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>yuqabbilu ăl ʾarḍa bayna yaday mawlā nā wa yunhī bi ʾanna hu raǧul:un 
+ <lb n="4"/>faqīr:un min ʾahli ăl kitābi ăl ʿazīzi wa ăḏ ḏīni wa ăṣ ṣalāḥi 
+ <lb n="5"/>wa lā la hu ʾillā ăl lāhu wa ṣadaqātu mawlā nā wa yuʿlimu bi ʾanna mā la hu 
+ <lb n="6"/>šayʾa mina ăd dunyā wa qad tašaffaʿa li mawlā nā wa yasʾalu min ṣadaqāti hi 
+ <lb n="7"/>wa ʾiḥsānāti hi ʾan yatašaffaʿa la hu ʿinda qāḍī ăl quḍāti š** šarafi *** ăd *** dīni ʿ** ʿabdi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Le serviteur ʿAbd al-Maḥmūd
+			<lb n="2"/>
+		Au nom de Dieu, le Clément, le Miséricordieux,
+			<lb n="3"/>
+		baise la terre devant notre maître et lui fait connaître qu&#039;il est un homme
+			<lb n="4"/>
+		pauvre (raǧul faqīr) parmi ceux qui s&#039;occupent du Livre précieux (Coran), de la religion et de la morale (al-dīn wa-l-ṣalāḥ)
+			<lb n="5"/>
+		et il n&#039;a pour tout bien que Dieu et les aumônes (ṣadaqāt) de notre maître et lui fait savoir qu&#039;il ne possède
+			<lb n="6"/>
+		quoi que ce soit de ce bas monde. Il implore notre maître en lui demandant ses aumônes
+			<lb n="7"/>
+		ainsi que ses bienfaits et en le suppliant d&#039;intervenir en sa faveur auprès du gran cadi...
+</ab></div>
+</body>
+</text>
+</TEI>

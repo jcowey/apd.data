@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1056" xml:id="Diem_FrueheUrkunden_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">109911</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسـ<supplied reason="lost" cert="high">ـم</supplied> اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هـ</supplied>ـذا كتاب من محمّد بن علي 
+<lb n="3"/>  <supplied reason="lost" cert="high">عامل</supplied> الأمير اسحق بن سـ<supplied reason="lost" cert="high">ـليمن</supplied> <supplied reason="lost" cert="high">أ</supplied>صلحه اللّه على 
+<lb n="4"/>  خراج كورة الفيّوم ومعونتـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا ومئا<supplied reason="lost" cert="high">لها</supplied> 
+<lb n="5"/>  لواضح مولى أمير المومپپن إنّي أكريتك 
+<lb n="6"/>  الأرض الّتي كانت <supplied reason="lost" cert="high">بـيـ</supplied>ـد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  من أرض <app type="BL"><lem resp="APD">پرپپروره </lem><rdg resp="APD">پرمروره</rdg></app> وهي خمسين فدّا<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="8"/>  أرض نقيّة بخمسين دينر وازنة <supplied reason="lost" cert="high">د</supplied>اخلة بيـ<supplied reason="lost" cert="high">ـت</supplied> 
+<lb n="9"/>  <supplied reason="lost" cert="high">المال</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>hāḏā kitāb:un min muḥammadi bni ʿaliyy:in 
+ <lb n="6"/>ʿāmili ăl ʾamīri ʾisḥāqa bni sulaymāna ʾaṣlaḥa hu ăl lāhu ʿalà 
+ <lb n="7"/>ḫarāǧi kūraẗi ăl fayyūmi wa maʿūnati hā wa miʾāli hā 
+ <lb n="8"/>li wāḍiḥ:in mawlà ʾamīri ăl muʾminīna ʾin nī ʾakraytu ka 
+ <lb n="9"/>ăl ʾarḍa ăllatī kānat bi yadi *** 
+ <lb n="10"/>min ʾarḍi BrBBrūraha Brmrūraha wa hiya ḫamsīna faddān 
+ <lb n="11"/>ʾarḍ:un naqiyyaẗ:un bi ḫamsīna dīnār wāzinaẗ:an dāḫilaẗ:an bayta 
+ <lb n="12"/>ăl māli *** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="4"/>
+		Im Nam[en] des barmherzigen und gnädigen Gottes.
+		Im Namen Gottes des Allbarmherzigen, des Allmilden! 
+			<lb n="5"/>
+		Dies ist der Brief von Muhammed ibn Alî, 
+		[Di]es ist ein Schreiben von Muḥammad ibn ʿAlī,
+			<lb n="6"/>
+		[dem Beamten] des Amīr Isḥāq ibn Sul[aymān - es er]halte ihn Gott - über
+		dem Finanzdirector des Emîr&#039;s Ishâk ibn Suleimân (Gott möge ihm Wohlthaten erweisen) 
+			<lb n="7"/>
+		der Grundsteuer der Provinz al-Fayyūm und ihren Subsidien und [ihren Gartenst]euern
+			<lb n="8"/>
+		für Wāḍiḥ, den Klienten des Beherrschers der Gläubigen. Ich verpachte Dir hiermit
+		über die Grundsteuer (charâdsch) des Bezirkes von el-Faijûm, seinen Tribut und über alle seine Distrikte! Für el-Wâdhih, den Freigelassenen des Fürsten der Gläubigen. Fürwahr, ich habe dir vermiethet 
+			<lb n="9"/>
+		das Land, welches [in der Hand des ...] gewesen ist,
+		die Ländereien, welche du selbst mir einbekannt hast und ihren Ertrag 
+			<lb n="10"/>
+		und zwar das Land von پرپپروره, und es sind fünfzig Faddā[n]
+		von dem Territorium Tetratyron, und das sind fünfzig Feddân 
+			<lb n="11"/>
+		reine Erde, für fünfzig vollwichtige Dinare, welche [zah]lbar sind an [das Schatz-]
+		reiner Erde, um (die jährliche Abgabe von) fünzig vollwichtigen Dînâren als Einkommen des Staatsschatzes, 
+			<lb n="12"/>
+		ha[us]
+		und die Naturalabgabe ist (fällig) bei der Ernte. In diesem Falle also genehmige ich Dir das, was Du (an Grundbesitz) hast, und es gibt demnach keine Mittel und Wege für irgend Einen gegen Dich etwas zu unternehmen, so Gott will. Geschrieben von.......im (Monat.......des Jahres einhundert sieben (acht) und siebzig). 
+			<lb n="13"/>
+			<lb n="14"/>
+</ab></div>
+</body>
+</text>
+</TEI>

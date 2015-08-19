@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2240" xml:id="Thung_CPR_120" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_120</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم الّله الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما أكرى بكر بن محمّد القففي السّاكن مدينة أشمون عـ<supplied reason="lost" cert="high">ـبّا</supplied><unclear reason="undefined" cert="high">س</unclear> المكنّا بأبي الـ<unclear reason="undefined" cert="high">ـفزع</unclear> 
+<lb n="3"/>  الصّـ<supplied reason="lost" cert="high">ـبّـ</supplied>ـاغ بـ<supplied reason="lost" cert="high">ـن</supplied> ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" />پپپ السّاكن مدينة أشمون أكراه حانوت في 
+<lb n="4"/>  يده لمحمّد بن الحسن بن محسن خمسة أشهر ونصف شهر وأوّل الشّهور النّصف 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> عـ<supplied reason="lost" cert="high">ـدد</supplied> الـ<supplied reason="lost" cert="high">ـقبـ</supplied>ـط <supplied reason="lost" cert="high">من</supplied> سنة تسعين ومائتين بدينا<supplied reason="omitted" cert="high">ر</supplied> واحد ونصف دينـ<supplied reason="lost" cert="high">ـار</supplied> مثـ<supplied reason="lost" cert="high">ـقـ</supplied>ـا<supplied reason="lost" cert="high">ل</supplied> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> في كل شهر في <supplied reason="lost" cert="high">سـ</supplied>ـلـ<supplied reason="lost" cert="high">ـخه</supplied> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> توت من عدد القبط من سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">تسعين</supplied> <supplied reason="lost" cert="high">ومائتين </supplied>
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾakrà bakru bnu muḥammad:ini ăl qufafiyyu ăs sākinu madīnaẗa ʾušmūna ʿabbāsa ăl mukannā bi ʾabī ăl fazʿi 
+ <lb n="3"/>ăṣ ṣabbāġa bna ʾ*** *BBB ăs sākina madīnaẗa ʾušmūna ʾakrā hu ḥānūt fī 
+ <lb n="4"/>yadi hi li muḥammadi bni ăl ḥasani bni muḥsin:in ḫamsaẗa ʾašhur:in wa niṣfa šahr:in wa ʾawwalu ăš šuhūri ăn niṣfu 
+ <lb n="5"/>*** min ʿadadi ăl qibṭi min sanaẗi tisʿīna wa miʾatayni bi dīnār:in wāḥid:in wa niṣfi dīnār:in miṯqāl:in 
+ <lb n="6"/>*** *** fī kulli šahr:in fī salḫi hi 
+ <lb n="7"/>*** tūta min ʿadadi ăl qibṭi min sanaẗi tisʿīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen] Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Dies ist, was Bakr b. Muḥammad, der Korbmacher, wohnhaft in der Stadt Ušmūn, ʿAbbās, dem mit der Kunyah Abū l-Fāzʿ benannten
+			<lb n="3"/>
+		Färber, Sohn des [...] ..., wohnhaft in der Stadtn Ušmūn, vermietet hat. Er hat ihm einen Laden, der in
+			<lb n="4"/>
+		seiner Hand ist, gehörend zu Muḥammad b. al-Ḥasan b. Muḥsin, für fünfeinhalb Monate - der Anfang dieser Monate ist [nach Ablauf] der Hälfte
+			<lb n="5"/>
+		[des Monats ... der koptischen Monate] des Jahres zweihundertneunzig - für (den Preis von) anderthalb Dinar des Miṯqālgewichts] vermietet.
+			<lb n="6"/>
+		[...] am Anfang jedes Monats [
+			<lb n="7"/>
+		[             Monat] Tūt der koptischen Monate des
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2217" xml:id="Thung_CPR_60" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_60</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  شهوده الواضعين خطوطهم آخره من أهل الخبرة السّالمة 
+<lb n="2"/>  بما يشهدون به فيه يعرفون الصّدر الأجل المحترم بدر الدّين حسن 
+<lb n="3"/>  بن الحاج المرحوم فخر الدّين عثمان بن المرحوم حسام الدّين 
+<lb n="4"/>  حسن معرفة شرعيّة ويشهدون أنّه أهل 
+<lb n="5"/>  <del rend="erasure" status="unremarkable">له</del> لما أسنده إليه والده المذكو<supplied reason="lost" cert="high">ر</supplied> مـ<supplied reason="lost" cert="high">ـن</supplied> الوصيّة الشّرعيّة 
+<lb n="6"/>  على إخوته <del rend="erasure" status="unremarkable">من</del> لأبيه المذكـ<supplied reason="lost" cert="high">ـور</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="right margin"/>  وا<gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>šuhūdu hu ăl wāḍiʿīna ḫuṭūṭa hum ʾāḫira hu min ʾahli ăl ḫibraẗi ăs sālimaẗi 
+ <lb n="2"/>bi mā yašhadūna bi hi fī hi yaʿrifūna ăṣ ṣadra ăl ʾaǧalla ăl muḥtarama badra ăd dīni ḥasana 
+ <lb n="3"/>bna ăl ḥāǧǧi ăl marḥūmi faḫr ăd dīni ʿuṯmāna bni ăl marḥūmi ḥusāmi ăd dīni 
+ <lb n="4"/>ḥasan:in maʿrifaẗ:an šarʿiyyaẗ:an wa yašhadūna ʾanna hu ʾahl:un 
+ <lb n="5"/>li mā ʾasnada hu ʾilay hi wālidu hu ăl maḏkūru mina ăl waṣiyyaẗi ăš šarʿiyyaẗi 
+ <lb n="6"/>ʿalà ʾiḫwati hi li ʾabī hi ăl maḏkūri *** 
+ <lb n="7"/>wʾ*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Die Zeugen, die am Schluß dieser Urkunde unterschrieben haben - sie gehören zu den Leuten mit vollem Sachverständnis
+			<lb n="2"/>
+		über das, was sie in dieser Urkunde bezeugen -, kennen den geehrten und erhabenen Vorgesetzten Badraddīn Ḥasan,
+			<lb n="3"/>
+		den Sohn des verstorbenen Ḥāǧǧ Faẖraddīn ʿUṯmān, des Sohnes des verstorbenen H̱usāmaddīn
+			<lb n="4"/>
+		Ḥasan, wie es das Gesetz vorschreibt, und sie bezeugen, daß er berechtigt ist 〚zu dem, was ihm anvertraut hat〛
+			<lb n="5"/>
+		zu dem, was ihm sein erwähnter Vater anvertraut hat betreffend die gesetzliche Vormundschaft
+			<lb n="6"/>
+		über seine Geschwister, die (wie er) von seinem erwähnten Vater abstammen, [
+			<lb n="7"/>
+</ab></div>
+</body>
+</text>
+</TEI>

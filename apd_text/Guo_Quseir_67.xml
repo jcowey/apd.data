@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="959" xml:id="Guo_Quseir_67" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 67</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_67</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113708</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto right 1"/>  <gap reason="illegible" precision="low" extent="3"/> موالى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right 2"/>  <gap reason="illegible" precision="low" extent="3"/> پن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right 3"/>  العريف سالم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right 4"/>  ستّة درا<supplied reason="lost" cert="high">هـ</supplied>ـم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right 5"/>  <unclear reason="undefined" cert="high">عرفات</unclear> نصف وربع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right 6"/>  حمودة الحاوي <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">خرص</unclear> </lem><rdg resp="APD">حرص </rdg><rdg resp="APD">قرض</rdg></app> على <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto right 7"/>  <gap reason="illegible" precision="low" extent="3"/> سلطان ربع 
+<lb n="recto right 8"/>  <gap reason="illegible" precision="low" extent="3"/> الوصيّة الدّناوي <sic n="superfluous">پماپه</sic> <supplied reason="omitted" cert="high">ثمانية</supplied> 
+<lb n="recto right 9"/>  وسدس  
+<lb n="recto right 10"/>  درهمين <app type="BL"><lem resp="APD">ونصف </lem><rdg resp="“AK”">المخلص</rdg></app> درهمين ونصف 
+<lb n="recto right 11"/>  الرّشد   
+<lb n="recto right 12"/>    
+<lb n="recto right 13"/>  سعد الوالي رباع <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right 14"/>  محمّد غلّة بطّة على درهم درهم 
+<lb n="recto right 15"/>  <gap reason="illegible" precision="low" extent="3"/> الحرپسى حرص وبلادر على 
+<lb n="recto right 16"/>  درهمين <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ا حرقه 
+<lb n="recto right 17"/>  بن الشّاعر على <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">نـ</supplied>ـصف 
+<lb n="recto right 18"/>  فبدله <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى پصف   
+<lb n="recto right 19"/>  سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> الوالي عنده رباع وسبع 
+<lb n="recto right 20"/>  محمّد بن مالك الجزّي درهميـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="recto right 21"/>  الشّريف أبو الفرج خمسة دراهم 
+<lb n="recto left 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto left 2"/>  عثمان 
+<lb n="recto left 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الوا</supplied><unclear reason="undefined" cert="high">لى</unclear> پلاپپن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto left 4"/>  <gap reason="illegible" precision="low" extent="3"/> پصف ورنع و<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto left 5"/>  <gap reason="illegible" precision="low" extent="3"/> الطاهر درهمين 
+<lb n="recto left 6"/>  <gap reason="illegible" precision="low" extent="3"/> پن باصر رنع وپمن مربعه 
+<lb n="recto left 7"/>  كرز بن ياسين النّجّار درهمين ونصـ<supplied reason="lost" cert="high">ـف</supplied> 
+<lb n="recto left 8"/>  وسپه د<supplied reason="lost" cert="high">راهم</supplied> 
+<lb n="recto left 9"/>  العساكر ربع 
+<lb n="recto left 10"/>  <gap reason="illegible" precision="low" extent="3"/> الحاوي ربع <sic n="superfluous">وحربه</sic> <supplied reason="omitted" cert="high">وخرّوبة</supplied> 
+<lb n="recto left 11"/>  <gap reason="illegible" precision="low" extent="3"/> على سپه در<supplied reason="lost" cert="high">اهم</supplied> 
+<lb n="recto left 14"/>  جعفر بن حسن درهـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto left 15"/>  ياسي بن أنكتوا درهـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto left 17"/>  ملية الحبشيّة كسا اليهود على 
+<lb n="recto left 18"/>  أحد وعشرين درهم 
+<lb n="recto left 19"/>  حسن السّقّا نصف وثمن 
+<lb n="recto left 20"/>  مرجان بن همام درهم وربع 
+<lb n="recto left 21"/>  الشّيخ علّام ربع <sic n="superfluous">وحربه</sic> <supplied reason="omitted" cert="high">وخرّوبة</supplied> 
+<lb n="verso right 1"/>  <gap reason="illegible" precision="low" extent="3"/> كرام <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 2"/>  الوصيّة العـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 3"/>  حمزة بن بنت العزّي درهم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 4"/>   
+<lb n="verso right 5"/>  <gap reason="illegible" precision="low" extent="3"/> علام سغيد ارپعـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">در</supplied>أهم 
+<lb n="verso right 6"/>  <supplied reason="lost" cert="high">صـ</supplied>ـڤى وربع 
+<lb n="verso right 7"/>  جابر العزيز ربع 
+<lb n="verso right 8"/>  فرج الزّمام تلاتة د<supplied reason="lost" cert="high">راهم</supplied> على 
+<lb n="verso right 9"/>  <gap reason="illegible" precision="low" extent="3"/> ورپع 
+<lb n="verso right 10"/>  طوق لأم قشّاش درهمين <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 17"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 19"/>  عبد اللّه الطّرناحي ربع 
+<lb n="verso right 21"/>  عزيز بن سي النّاجي درهم وربع 
+<lb n="verso right 22"/>  أبو خميس أربعة عشر درهم هي 
+<lb n="verso right 23"/>  لجلب جروم ومرسله وقد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 24"/>  يماني 
+<lb n="verso right 25"/>  أبو حسن تمانية دراهم ونصف و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 26"/>  رزقته قادمة ومرسله جروم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right margin"/>  <gap reason="illegible" precision="low" extent="3"/> وتلاپه دراهم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso left 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">در</supplied>هم حر<supplied reason="lost" cert="high">ص</supplied> على <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso left 2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـسلپن معه لور اغر 
+<lb n="verso left 3"/>  <gap reason="illegible" precision="low" extent="3"/> الوصيّة <app type="BL"><lem resp="APD">الدّناوي </lem><rdg resp="“AK”">القناويّ</rdg></app> <sic n="superfluous">پماپه</sic> <supplied reason="omitted" cert="high">ثمانية</supplied> 
+<lb n="verso left 4"/>  دراهم وربع مسدّس 
+<lb n="verso left 5"/>  <gap reason="illegible" precision="low" extent="3"/> حعڤر درهم و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso left 6"/>   
+<lb n="verso left 7"/>  <gap reason="illegible" precision="low" extent="3"/> پن حماد الملاحى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso left 8"/>  سعد غلام الوالي رباع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso left 10"/>  أبو محمّد غلّة بطّة على درهم 
+<lb n="verso left 11"/>  وتمن وخمس 
+<lb n="verso left 12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ا حرقه رهن على 
+<lb n="verso left 13"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">نـ</supplied>ـصف إلّا <sic n="superfluous">حربه</sic> <supplied reason="omitted" cert="high">خرّوبة</supplied> 
+<lb n="verso left 14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى پصف 
+<lb n="verso left 15"/>  لقيمة الكيّال تلاتة دراهم وربع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso left 16"/>  مخروج الكيّال درهمين سوّا 
+<lb n="verso left 17"/>  عالي شرف الدّين قتادة رهن على عشر دراهم 
+<lb n="verso left 18"/>  وربع وسدس 
+<lb n="verso left 19"/>  عثمان بن حمزة تمّام رهن على عشرين د<supplied reason="lost" cert="high">رهم</supplied> 
+<lb n="verso left 20"/>  ونصف سوّا 
+<lb n="verso left 21"/>  عبد اللّه بن ياسي خمسة دراهم ونصف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** muwālī *** 
+ <lb n="2"/>*** bn *** 
+ <lb n="3"/>ăl ʿarīf sālim *** 
+ <lb n="4"/>sittaẗu darāhima *** 
+ <lb n="5"/>ʿarafātu niṣf:un wa rubʿ:un *** 
+ <lb n="6"/>ḥamūdaẗu ăl ḥāwī ḥaraṣa ḫarṣ:un qarḍ:un ʿalà ** 
+ <lb n="7"/>*** sulṭān rubʿ:un 
+ <lb n="8"/>ḥusayn:uni ăl ḥiǧāziyyu ăṣ ṣayrāfiyyu tamāniyaẗu darāhima 
+ <lb n="9"/>wa rubʿ:un wa suds:un 
+ <lb n="10"/>ăl qāḍī ăl ḥakamu muḫliṣu dirhamayni wa niṣf:un 
+ <lb n="11"/>ăr rušdu ʿaliyy:un *** 
+ <lb n="12"/>wa ʾanṣāru *** 
+ <lb n="13"/>ʿašaraẗu dirham:in ʾillā ḫarrūbaẗ:an 
+ <lb n="14"/>ăr rayyisu ḫarṣ:un ʿalà dirhamayni wa niṣf:in 
+ <lb n="15"/>*** ăl ḥuraysiyyu ḫarṣ:un wa balāḏuri ʿalà 
+ <lb n="16"/>dirhamayni wa ṯalāṯi miʾaẗi darāhima wa rubʿ:in 
+ <lb n="17"/>bnu ăš šāʿiri ʿalà saydūqa wa yaʿsira 
+ <lb n="18"/>fa badalu hu rahn:un ʿalà ṯamāniyaẗa ʿašara dirham 
+ <lb n="19"/>s*** ăl wālī ʿinda hu rubāʿ:un wa subʿ:un 
+ <lb n="20"/>muḥammadu bnu mālik:ini ăl ǧazziyyu dirhamayni 
+ <lb n="21"/>ăš šarīfu ʾabū ăl faraǧi ḫamsaẗu darāhima 
+ <lb n="22"/>*** 
+ <lb n="23"/>*** 
+ <lb n="24"/>*** ăl wālī ṯalāṯīna *** 
+ <lb n="25"/>*** niṣf:un wa rubʿ:un wa ** 
+ <lb n="26"/>*** ăṭ ṭāhir dirhamayni 
+ <lb n="27"/>*** bnu nāṣir:in rubʿ:un wa ṯumnu murabbaʿaẗ:in 
+ <lb n="28"/>kurzu bnu yāsīna ăn naǧǧāru dirhamayni wa niṣf:un 
+ <lb n="29"/>wa sittaẗu darāhima 
+ <lb n="30"/>ăl ʿasākiru rubʿ:un 
+ <lb n="31"/>*** ăl ḥāwī rubʿ:un wa ḫarrūbaẗ:un 
+ <lb n="32"/>*** ʿaliyy sittaẗu darāhima 
+ <lb n="33"/>ø 
+ <lb n="34"/>ø 
+ <lb n="35"/>ǧaʿfaru bnu ḥasan:in dirham:un *** 
+ <lb n="36"/>yāsī bnu ʾanktū ʾanktuwā dirham:un *** 
+ <lb n="37"/>ø 
+ <lb n="38"/>milāyaẗu ăl ḥabašiyyaẗi kisāʾu ăl yahūdi ʿalà 
+ <lb n="39"/>ʾaḥad:in wa ʿišrīna dirham 
+ <lb n="40"/>ḥasan:uni ăs saqqāʾu niṣf:un wa ṯumn:un 
+ <lb n="41"/>murǧānu bnu humāma dirham:un wa rubʿ:un 
+ <lb n="42"/>ăš šayḫu ʿallām:un rubʿ:un wa ḫarrūbaẗ:un 
+ <lb n="43"/>*** kirām *** 
+ <lb n="44"/>ăl waṣiyyaẗu ăl ʿa*** *** 
+ <lb n="45"/>ḥamzaẗu bnu binti ăl ʿizziyyi dirham:un *** 
+ <lb n="47"/>*** ġulām saʿīd:in ʾarbaʿaẗu darāhima 
+ <lb n="48"/>ṣafà wa rubʿ:un 
+ <lb n="49"/>ǧābir:uni ăl ʿazīzu rubʿ:un 
+ <lb n="50"/>faraǧu ăz zimāmu talātaẗu darāhima ʿalà 
+ <lb n="51"/>*** wa rubʿ:in 
+ <lb n="52"/>ṭawq:un li ʾummi qaššāša dirhamayni *** 
+ <lb n="53"/>ø 
+ <lb n="54"/>*** 
+ <lb n="55"/>*** 
+ <lb n="56"/>*** 
+ <lb n="57"/>*** 
+ <lb n="58"/>*** 
+ <lb n="59"/>*** 
+ <lb n="61"/>ʿabdu ăl lāhi ăṭ ṭarnāḥiyyu rubʿ:un 
+ <lb n="62"/>ø 
+ <lb n="63"/>ʿazīzu bnu sī ăn nāǧī dirham:un wa rubʿ:un 
+ <lb n="64"/>ʾabū ḫamīsa ʾarbaʿaẗa ʿašara dirham hiya 
+ <lb n="65"/>li ǧalbi ǧurūm:in wa mursali hi wa qad *** 
+ <lb n="66"/>yamāniyy 
+ <lb n="67"/>ʾabū ḥasan:in tamāniyaẗu darāhima wa niṣf:un wa *** 
+ <lb n="68"/>rizqatu hu qādimaẗ:un wa mursalu hu ǧurūm:un *** 
+ <lb n="69"/>*** wa talāṯaẗ darāhima *** 
+ <lb n="70"/>*** dirham ḫarṣ:un ʿalà *** 
+ <lb n="71"/>*** slyn maʿa hu lawz ʾaġarr 
+ <lb n="72"/>*** ăl waṣiyyaẗ ăd danāwiyy qināwiyy ṯamāniyaẗu 
+ <lb n="73"/>darāhima wa rubʿu musaddas:in 
+ <lb n="74"/>*** ǧaʿfar dirham:un wa *** 
+ <lb n="76"/>*** bnu ḥamāda ăl milāḥiyyu *** 
+ <lb n="77"/>saʿd:un ġulāmu ăl wālī rubāʿ:un *** 
+ <lb n="79"/>ʾabū muḥammad:in ġallaẗ:un baṭṭaẗ:un ʿalà dirham:in 
+ <lb n="80"/>wa tumn:un wa ḫums:un 
+ <lb n="81"/>*** ***ʾ ḫirqaẗ rahn ʿalà 
+ <lb n="82"/>*** niṣf:in ʾillā ḫarrūbaẗ:an 
+ <lb n="83"/>*** ***ī niṣf:un 
+ <lb n="84"/>li qīmaẗi ăl kayyāli talātaẗu darāhima wa rubʿ:un *** 
+ <lb n="85"/>maḫrūǧu ăl kayyāli dirhamayni sawā sawwā 
+ <lb n="86"/>ʿāliyy:un šarafu ăd dīni qatādaẗu rahn:un ʿalà ʿašri darāhima 
+ <lb n="87"/>wa rubʿ:in wa suds:in 
+ <lb n="88"/>ʿuṯmānu bnu ḥamzaẗa tammāmu rahn:un ʿalà ʿišrīna dirham 
+ <lb n="89"/>wa niṣf:in sawwā 
+ <lb n="90"/>ʿabdu ăl lāhi bnu yāsī ḫamsaẗu darāhima wa niṣf:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] the client of [...]
+			<lb n="2"/>
+		[...] ibn [.........]
+			<lb n="3"/>
+		Sālim the superintendent [: ..]:
+			<lb n="4"/>
+		six dirhams [.........].
+			<lb n="5"/>
+		ʿArafāt: a half and a quarter [dirhams].
+			<lb n="6"/>
+		Ḥamūda al-Ḥāwī: estimated at [...].
+			<lb n="7"/>
+		[...] Sulṭān: a quarter [dirham].
+			<lb n="8"/>
+		Ḥusayn al-Ḥijājī the money changer: eight
+			<lb n="9"/>
+		and a quarter, and one-sixth dirhams.
+			<lb n="10"/>
+		The municipal judge: two and a half dirhams.
+			<lb n="11"/>
+		al-Rushd ʿAlī: [.........].
+			<lb n="12"/>
+		And Anṣār [:.......:]
+			<lb n="13"/>
+		ten dirhams minus a fraction (?).
+			<lb n="14"/>
+		al-Rayyis: estimated at two and a half dirhams.
+			<lb n="15"/>
+		[...] al-Ḥuraysī and Balādhurī: estimated at
+			<lb n="16"/>
+		three hundred (?) and two and a quarter dirhams.
+			<lb n="17"/>
+		Ibn al-Shāʿir owes Saydūq and Yaʿsir
+			<lb n="18"/>
+		[an amount] that is the equivalent of a pledge of eighteen dirhams.
+			<lb n="19"/>
+		The [...] of the mayor owes a quarter and one-seventh [dirhams].
+			<lb n="20"/>
+		Muḥammad ibn Mālik al-Jazzī: two dirhams.
+			<lb n="21"/>
+		Sharīf Abū al-Faraj: five dirhams.
+			<lb n="22"/>
+			<lb n="23"/>
+			<lb n="24"/>
+		[... the ma]yor: thirty [....]
+			<lb n="25"/>
+		 [...] a half and a quarter and [...].
+			<lb n="26"/>
+		[... .] al-Ṭāhir: two dirhams.
+			<lb n="27"/>
+		[... .] ibn Nāṣir: a quarter and 1/32 [dirham].
+			<lb n="28"/>
+		Kurz ibn Yāsīn the carpenter: two and a half dirhams
+			<lb n="29"/>
+		and six d[irhams].
+			<lb n="30"/>
+		al-ʿAsākir: a quarter [dirham].
+			<lb n="31"/>
+		 [...] al-Ḥāwī: a quarter [dirham] plus a fraction.
+			<lb n="32"/>
+		[...] ʿAlī: six dirhams.
+			<lb n="35"/>
+		Jaʿfar ibn Ḥasan: one dirham [...].
+			<lb n="36"/>
+		Yāsī ibn Anktū (? or Anktuwā): one dirham [...].
+			<lb n="38"/>
+		The Ethiopian gowns and Jewish cloaks [are valued] at 
+			<lb n="39"/>
+		twenty-one dirhams.
+			<lb n="40"/>
+		Ḥasan the water carrier: a half and one-eighth [dirham].
+			<lb n="41"/>
+		Murjān ibn Humām: one and a quarter dirhams.
+			<lb n="42"/>
+		Shaykh ʿAllām: a quarter [dirham] and a fraction.
+			<lb n="43"/>
+		[...] Kirām [......].
+			<lb n="44"/>
+		The orders by the super[intendent ......]
+			<lb n="45"/>
+		Ḥamza ibn Bint al-ʿIzzī: one dirham [...].
+			<lb n="47"/>
+		[...] the slave boy of Saʿīd: four and a quarter dirhams.
+			<lb n="48"/>
+		Cleared accounts:
+			<lb n="49"/>
+		Jābir al-ʿAzīz: a quarter [dirham].
+			<lb n="50"/>
+		Faraj al-Zimām: three d[irhams, which is valued] at
+			<lb n="51"/>
+		[...] and a quarter dirhams.
+			<lb n="52"/>
+		The necklace for Umm Qashshāsh: two dirhams [...].
+			<lb n="54"/>
+			<lb n="55"/>
+			<lb n="56"/>
+			<lb n="57"/>
+			<lb n="58"/>
+			<lb n="59"/>
+			<lb n="61"/>
+		ʿAbd Allāh al-Ṭarnāḥī: a quarter [dirham].
+			<lb n="63"/>
+		ʿAzīz ibn Sī al-Nājī: one and a quarter dirhams.
+			<lb n="64"/>
+		Abū Khamīs: fourteen dirhams; and it is
+			<lb n="65"/>
+		to pay for the  Nile barges and the dispatches; [they] have already [......]
+			<lb n="66"/>
+		Yemen.
+			<lb n="67"/>
+		Abū Ḥasan: eight and a half dirhams, and [...].
+			<lb n="68"/>
+		His provision is forthcoming; and the dispatches and barges [are to be expected?].
+			<lb n="69"/>
+		[......] and three dirhams [..........].
+			<lb n="70"/>
+		[... dir]ham, estima[ted] at [......]
+			<lb n="71"/>
+		[To be dis]patched with it are almonds of the highest quaility.
+			<lb n="72"/>
+		[...] orders [from] al-Danāwī: eight
+			<lb n="73"/>
+		and 1/24 dirhams.
+			<lb n="74"/>
+		[...] Jaʿfar: one dirham and [...].
+			<lb n="76"/>
+		[...] ibn Ḥamād al-Milāḥī: [......].
+			<lb n="77"/>
+		Saʿd, the slave boy of the mayor: a quarter [dirham ...].
+			<lb n="79"/>
+		Abū Muḥammad: a baṭṭa-container of grain, [valued] at one
+			<lb n="80"/>
+		and 1/40 dirhams.
+			<lb n="81"/>
+		[......] clothes on loan, [valued] at
+			<lb n="82"/>
+		[.....] and a half [dirhams] minus a fraction.
+			<lb n="83"/>
+		[...]ī: a half [dirham].
+			<lb n="84"/>
+		The sum [weighed by] the grain measurer is worth three and a quarter dirhams and [...].
+			<lb n="85"/>
+		Yield [at the estimation of] the grain measurer: two dirhams. Account cleared.
+			<lb n="86"/>
+		ʿAlī Sharaf al-Dīn Qatāda: owes ten
+			<lb n="87"/>
+		and a quarter and one-sixth dirhams worth of the rahn-pledges.
+			<lb n="88"/>
+		ʿUthmān ibn Ḥamza Tammām: owed twenty
+			<lb n="89"/>
+		and a half dirhams of the rahn-pledges. Account cleared.
+			<lb n="90"/>
+		ʿAbd Allāh ibn Yāsī: five and a half dirhams.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="408" xml:id="Abbott_Ubayd_Allah" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AbbottUbaidAllah</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Ubayd_Allah</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106612</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> إلى القـ<supplied reason="lost" cert="high">ـر</supplied>ى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  والجبايـ<supplied reason="lost" cert="high">ـة</supplied> إلينـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  عنهم ما قد علمـ<supplied reason="lost" cert="high">ـت</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وقد بلغني أن لبعضهم صـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">حا</unclear> ورزق <unclear reason="undefined" cert="high">حـ</unclear><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> هـ<supplied reason="lost" cert="high">ـم</supplied> فارقوها وأشخصوا عنها صـ<supplied reason="lost" cert="high">ـلحا</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">ما</supplied> دخّلت عليهم في ذلك مثبت <supplied reason="lost" cert="high">لـك</supplied> 
+<lb n="7"/>  فأخّر من كان له قبلك منهم زرع <supplied reason="lost" cert="high">حتّى</supplied> 
+<lb n="8"/>  يفرغوا من حصادهم ورفع عليهم <supplied reason="lost" cert="high">فارفعه</supplied> 
+<lb n="9"/>  إلينا مع رسول من قبلك واكـ<supplied reason="lost" cert="high">ـتب</supplied> 
+<lb n="10"/>  <app type="BL"><lem resp="APD">بتسميتهم </lem><rdg resp="“Diem”">بسمتهم</rdg></app> <app type="BL"><lem resp="APD">وأبنياتهم </lem><rdg resp="“Diem”">وأسمايهم</rdg></app> وعددهـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="11"/>  ومن لم يكن له قبلك منهم زرع فأشخـ<supplied reason="lost" cert="high">ـصه</supplied> 
+<lb n="12"/>  إلينا ولا توحره إن شا اللّه والسّـ<supplied reason="lost" cert="high">ـلم</supplied> 
+<lb n="13"/>  عليك ورحمت اللّه وكتـ<supplied reason="lost" cert="high">ـب</supplied> 
+<lb n="14"/>  خلد يوم السّبت لسبع ليا<supplied reason="lost" cert="high">ل</supplied> <supplied reason="lost" cert="high">بقين</supplied> 
+<lb n="15"/>  من شهر ربيع الأوّل سنة سـ<supplied reason="lost" cert="high">ـتّ</supplied> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ʾilà ăl qurà *** 
+ <lb n="2"/>wa ăl ǧibāyaẗa ʾilay nā *** 
+ <lb n="3"/>ʿan hum mā qad ʿalimta *** 
+ <lb n="4"/>wa qad balaġa nī ʾanna li baʿḍi him ṣ***ḥā wa rizq ḥ*** 
+ <lb n="5"/>*** hum fāraqū hā wa ʾašḫaṣū ʿan hā ṣulḥ:an 
+ <lb n="6"/>mā daḫḫalta ʿalay him fī ḏālika muṯbat:un la ka 
+ <lb n="7"/>fa ʾaḫḫir man kāna la hu qibala ka min hum zarʿ:un ḥattà 
+ <lb n="8"/>yafruġū min ḥiṣādi him wa rufiʿa ʿalay him fa ĭrfaʿ hu 
+ <lb n="9"/>ʾilay nā maʿa rasūl:in min qibali ka wa ŭktub 
+ <lb n="10"/>bi tasmiyati simati him wa ʾabniyāti ʾasmāyi him wa ʿadadi him 
+ <lb n="11"/>wa man lam yakun la hu qibali ka min hum zarʿ:un fa ʾašḫiṣ hu 
+ <lb n="12"/>ʾilay nā wa lā tuʾaḫḫir hu ʾin šāʾa ăl lāhu wa ăs salāmu 
+ <lb n="13"/>ʿalay ka wa raḥmatu ăl lāhi wa kataba 
+ <lb n="14"/>ḫālid:un yawma ăs sabti li sabʿi layāl:in baqīna 
+ <lb n="15"/>min šahri rabīʿa ăl ʾawwali sanaẗa sitt:in 
+ <lb n="16"/>*** wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[…] to the villag[es
+			<lb n="2"/>
+		and the taxes to us [
+			<lb n="3"/>
+		about them what you (already) know [
+			<lb n="4"/>
+		I have been informed that some of them (the workmen) have been given [one or two words] and maintenance allowance [one word]
+			<lb n="5"/>
+		should they separate themselves from it (land or village) and depart from it peacefully.
+			<lb n="6"/>
+		Whatever you spend on them on that account is assured to you.
+			<lb n="7"/>
+		Detain those of them who are with you who have grainland [until]
+			<lb n="8"/>
+		they are through with their harvesting and (with the delivery of) their tax assessment. Transmit it (the tax)
+			<lb n="9"/>
+		to us with your emissary. Write down
+			<lb n="10"/>
+		their (the workmen’s) names and their buildings and their number.
+			<lb n="11"/>
+		And he, among those who are with you, who has no grainland have him sent
+			<lb n="12"/>
+		to us and do not detain him, God willing. And peace be
+			<lb n="13"/>
+		upon you and the grace of God. Written by
+			<lb n="14"/>
+		Khālid, saturday seven nigh[ts remaining]
+			<lb n="15"/>
+		of the month of Rabīʿ the First, year s[ix]
+			<lb n="16"/>
+		[…] and (one) hundred
+</ab></div>
+</body>
+</text>
+</TEI>

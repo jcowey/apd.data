@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2040" xml:id="Grohmann_APEL_285" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 285</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_285</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  دفتر ما <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـأموال بد<supplied reason="lost" cert="high">يوان</supplied> خراج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم <unclear reason="undefined" cert="high">تصـ</unclear><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـ</unclear><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـ</unclear><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـ</unclear><supplied reason="lost" cert="high">ـحيح</supplied> 
+<lb n="3"/>  أعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـمر <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  الحپـ<supplied reason="lost" cert="high">ـ</supplied>ـار <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  أبيمك القسطال عدد ڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> داخلـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـاپه <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">سنـ</unclear><supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  دينر <gap reason="illegible" extent="1" unit="character" /> دينـ<supplied reason="lost" cert="high">ـر</supplied> دينـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">دينـ</supplied>ـر <supplied reason="lost" cert="high">دينـ</supplied>ـر مثـ<supplied reason="lost" cert="high">ـقا</supplied>ل دينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  يوم ÷ مخير ÷÷ • ÷÷÷<unclear reason="undefined" cert="high">÷</unclear><gap reason="illegible" extent="1" unit="character" /><unclear reason="undefined" cert="high">÷÷</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <supplied reason="lost" cert="high">دينـ</supplied>ـر <gap reason="illegible" precision="low" extent="3"/> • <gap reason="illegible" extent="5" unit="character" /> ÷÷<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ـ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>daftaru mā *** mina ăl ʾamwāli bi dīwāni ḫarāǧi *** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi taṣḥīḥ 
+ <lb n="3"/>ʾʿ**ʾ *mr *** *** *** 
+ <lb n="4"/>ăl ḥBār *** ***n *** 
+ <lb n="5"/>ʾabīmaku ăl qusṭālu ʿadad F*** dāḫilaẗ:un **ʾBh ***h *** sanaẗ *** *** 
+ <lb n="6"/>dīnār:un * dīnār:un dīnār:un dīnār:un dīnār:un miṯqāl:un dīnār:un *** *** 
+ <lb n="7"/>yawma 1 maḫīr 15 * 230+*+1/2+1/3+1/48 *** * *** *** *** *** 
+ <lb n="8"/>dīnār:un *** * ***** **+1/24 *** 
+ <lb n="9"/>*** ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Register of that which [... ... of the] money in the tax-[office of ....
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful. Veri[fication of that which ... ...
+			<lb n="3"/>
+			<lb n="4"/>
+			<lb n="5"/>
+		Epimak, the treasurer. Number ......[...] incomin[gs ..]......  [...].  [...]  yea[r? ] [
+			<lb n="6"/>
+		Dînâr(s) • dîn[ar(s)] dînâ[r(s) dînâ]r(s) [dînâ]r(s) miṯ[qâ]l dinâr[r(s)]
+			<lb n="7"/>
+		Sunday, Mechir 15 • [233 1/2+]1/3+1/48 [...] •  [...]  [..]  [...] [
+			<lb n="8"/>
+		[Dînâ]r • ... [...]1/24
+			<lb n="9"/>
+</ab></div>
+</body>
+</text>
+</TEI>

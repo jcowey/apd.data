@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1750" xml:id="Grohmann_APEL_294" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 294</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_294</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169491</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك 
+<lb n="3"/>  وكرامتك وجعلني فداك 
+<lb n="4"/>  دوابّنا بلا علف مذ <supplied reason="lost" cert="high">الـ</supplied>ـو<supplied reason="lost" cert="high">قت</supplied> <supplied reason="lost" cert="high">الّذ</supplied>ي قدمت <supplied reason="lost" cert="high">فيه</supplied> 
+<lb n="5"/>  عليك أعزّك اللّه فأحب أن تتفضّل بالأمر 
+<lb n="6"/>  للدّواب بما تحتـ<supplied reason="omitted" cert="high">ـا</supplied>ج إليه إن شا اللّه 
+<lb n="7"/>  <supplied reason="lost" cert="high">أطـ</supplied><unclear reason="undefined" cert="high">ـال</unclear> <unclear reason="undefined" cert="high">اللّه</unclear> بقاك وأدام عزّك وكرامتك 
+<lb n="8"/>  وجعلني فداك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="3"/>wa karāmata ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="4"/>dawābbu nā bi lā ʿalaf:in muḏ ăl waqti ăllaḏī qadimtu fī hi 
+ <lb n="5"/>ʿalay ka ʾaʿazza ka ăl lāhu fa ʾuḥibbu ʾan tatafaḍḍala bi ăl ʾamri 
+ <lb n="6"/>li d dawābbi bi mā taḥtāǧu ʾilay hi ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka 
+ <lb n="8"/>wa ǧaʿala nī fidāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May God prolong your life and may He cause your might
+			<lb n="3"/>
+		and honour to continue, and may He make me your ransom.
+			<lb n="4"/>
+		Our hackneys have been without fodder since [the] ti[me when] I came
+			<lb n="5"/>
+		to you, may God exalt you. Now I wish you would have the kindness to order
+			<lb n="6"/>
+		for the hackneys what they need, if God wills.
+			<lb n="7"/>
+		May God prolong your life and may He cause your might and honour to continue,
+			<lb n="8"/>
+		and may He make me your ransom.
+</ab></div>
+</body>
+</text>
+</TEI>

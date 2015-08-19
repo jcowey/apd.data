@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2248" xml:id="Thung_CPR_170" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.ThungWrittenObligations 2 (= CPR XXVI 17)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_170</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> في ذي القعدة سنة ÷÷÷ 
+<lb n="2"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـن الرّحيم 
+<lb n="3"/>  <supplied reason="lost" cert="high">ذكر</supplied> <supplied reason="lost" cert="high">حـ</supplied>ـق سعيد بن زكريّا على عبد اللّه بن عبد الرّحمن 
+<lb n="4"/>  عـ<supplied reason="lost" cert="high">ـليه</supplied> <supplied reason="lost" cert="high">ما</supplied>ئة إردب وستّة وسبعين إردب 
+<lb n="5"/>  <supplied reason="lost" cert="high">قـ</supplied>ـمح نصيل جيّد <gap reason="illegible" precision="low" extent="3"/> يوفيه ذلك بمدينة الفيّوم في سلخ 
+<lb n="6"/>  <supplied reason="lost" cert="high">ربيـ</supplied>ـع الآخر سنة تسع وسبعين ومائة ومن قام 
+<lb n="7"/>  <supplied reason="lost" cert="high">بذكر</supplied> <supplied reason="lost" cert="high">الحقّ</supplied> <supplied reason="lost" cert="high">اقتضا</supplied> <supplied reason="lost" cert="high">به</supplied> إن شا <supplied reason="lost" cert="high">ا</supplied>للّه وقد قبض الثّمن 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> وكتب شهادته بيده 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وكتب</supplied> شـ<supplied reason="lost" cert="high">ـهـ</supplied>ـادته بيده 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> وكتب <supplied reason="lost" cert="high">شـ</supplied>ـهادته بيده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** fī ḏī ăl qaʿdaẗi sanaẗa ÷÷÷ 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ḏikru ḥaqqi saʿīdi bni zakariyyāʾa ʿalà ʿabdi ăl lāhi bni ʿabdi ăr raḥmāni 
+ <lb n="4"/>ʿalay hi miʾaẗu ʾirdabb:in wa sittaẗ:un wa sabʿīna ʾirdabba 
+ <lb n="5"/>qamḥ:in naṣīl:in ǧayyid:in *** yūfī hi ḏālika bi madīnaẗi ăl fayyūmi fī salḫi 
+ <lb n="6"/>rabīʿa ăl ʾāḫari sanaẗa tisʿ:in wa sabʿīna wa miʾaẗ:in wa man qāma 
+ <lb n="7"/>bi ḏikri ăl ḥaqqi ĭqtaḍā bi hi ʾin šāʾa ăl lāhu wa qad qabaḍa ăṯ ṯamana 
+ <lb n="8"/>*** wa kataba šahādata hu bi yadi hi 
+ <lb n="9"/>*** wa kataba šahādata hu bi yadi hi 
+ <lb n="10"/>*** wa kataba šahādata hu bi yadi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[........] im Monat Ḏū l-Qaʿdah des Jahres 178.
+			<lb n="2"/>
+		[Im Namen Gottes,] des Barmherzigen und Gnädigen!
+			<lb n="3"/>
+		[Verpflichtungsschein] von Saʿīd b. Zakarīyāʾ zu Lasten von ʿAbdallāh b.
+			<lb n="4"/>
+		[Zu dessen Lasten sind hundert] Artaben und sechsundsiebzig Artaben
+			<lb n="5"/>
+		hervorragenden geschälten Weizens, die er ihm voll auszuhändigen hat in der Stadt al-Fayyūm am Ende des Monats
+			<lb n="6"/>
+		[Rab]īʿ al-Āẖir des Jahres hundertneunundsiebzig. Und wer
+			<lb n="7"/>
+		[diesen Verpflichtungsschein] vorweist, [der kann ihn (den Weizen) einfordern,] so Gott es will. Er (sc. ʿAbdallāh) hat den Preis bereits in Empfang genommen
+			<lb n="8"/>
+		[.......] und er hat sein Zeugnis mit seiner Hand geschrieben.
+			<lb n="9"/>
+		[......] und er hat sein Zeugnis mit seiner Hand [geschrieben.]
+			<lb n="10"/>
+		[.....] und er hat sein Zeugnis mit seiner Hand geschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1372" xml:id="Diem_Heid_II_21" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 21</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_21</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169170</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>أكرمكما أتاني كتابكما بما سَرّني 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied><unclear reason="undefined" cert="high">خبرني</unclear> <unclear reason="undefined" cert="high">ذلك</unclear> وحمدت اللّه على ذلك 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> اللّـ<unclear reason="undefined" cert="high">ـه</unclear> <gap reason="illegible" precision="low" extent="3"/> كنت كتبت إليكما ما قبل سَعيد 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" /><unclear reason="undefined" cert="high">ها</unclear> ممّا نقل من الرّحال وجملة الأبواب 
+<lb n="6"/>  <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">ولـ</supplied><unclear reason="undefined" cert="high">ـم</unclear> <supplied reason="lost" cert="high">ا</supplied><unclear reason="undefined" cert="high">سمع</unclear> <unclear reason="undefined" cert="high">مـ</unclear>ـمأ كپپپ په سبا وڤد كپپپ <sic n="superfluous">كتاپ</sic> 
+<lb n="7"/>  إلى أبو عاصم وإلى صاحب البريد أبقاهـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا اللّه كتابين فأوصلاهما 
+<lb n="8"/>  إليهما ولم أعرف كنية صاحب البريد <supplied reason="lost" cert="high">فـ</supplied>ـاكتبها على الكتاب 
+<lb n="9"/>  <sic n="superfluous">ڤاكپپها</sic> وأوصلهـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا وخذ لي الجواب وقد كتبت إلى سَقر بن بني يأخذ 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">واللّـ</unclear><supplied reason="lost" cert="high">ـه</supplied> أنّه أخـ<unclear reason="undefined" cert="high">ـذ</unclear> ا<supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** wa ʾakrama kumā ʾatā nī kitābu kumā bi mā sarra nī 
+ <lb n="3"/>*** ʾaḫbara nī ḏālika wa ḥamidtu ăl lāha ʿalà ḏālika 
+ <lb n="4"/>*** ăl lāh *** kuntu katabtu ʾilay kumā mā qibala saʿīd:in 
+ <lb n="5"/>*** ***** hā mimmā nuqila mina ăr riḥāli wa ǧumlaẗu ăl ʾabwābi 
+ <lb n="6"/>**** wa lam ʾasmaʿ mimmā katabtu bi hi šayʾ:an wa qad katabtu 
+ <lb n="7"/>ʾilà ʾabū ʿāṣim:in wa ʾilà ṣāḥibi ăl barīdi ʾabqā humā ăl lāhu kitābayni fa ʾawṣilā humā 
+ <lb n="8"/>ʾilay himā wa lam ʾaʿrif kunyaẗa ṣāḥibi ăl barīdi fa ŭktub hā ʿalà ăl kitābi 
+ <lb n="9"/>wa ʾawṣil humā wa ḫuḏ l ī ăl ǧawāba wa qad katabtu ʾilà saqri bni bunayy:in yaʾḫuḏu 
+ <lb n="10"/>*** wa ăl lāhi ʾanna hu ʾaḫaḏa ăl *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes,] des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[...] udn ehre Euch (Dual) - Euer Brief hat mich mit seinem erfreulichen Inhalt erreicht
+			<lb n="3"/>
+		[...] setzte mich davon (?) in Kenntnis (?), und ich pries Gott dafür
+			<lb n="4"/>
+		[...] Gott [...] ich hatte Euch (Dual) geschrieben, was Saʿīd schuldet
+			<lb n="5"/>
+		[...] sie von den transportierten Waren, und die Summe der verschiedenen Rubriken ist
+			<lb n="6"/>
+		[...] aber ich habe von dem, was ich geschrieben habe, nichts gehört (?). Ich habe {einen Brief}
+			<lb n="7"/>
+		an Abū ʿĀṣim und an den Postmeister - Gott erhalte sie (Dual) - je einen Brief geschrieben; überbringt (Dual) sie (Dual)
+			<lb n="8"/>
+		ihnen (Dual). Die Kunyah des Postmeisters habe ich nicht gewußt; schreibe sie deshalb auf den Brief,
+			<lb n="9"/>
+		{schreibe sie deshalb}, und liefer sie (Dual) ab und nimm für mich die Antwort entgegen. Ferner hatte ich an Saqr b. Bunayy geschrieben, er möge nehmen
+			<lb n="10"/>
+		[...] bei Gott (?), daß er de[n ...] nahm (?)
+</ab></div>
+</body>
+</text>
+</TEI>

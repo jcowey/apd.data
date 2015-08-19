@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="847" xml:id="Guo_Quseir_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113624</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1 left"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 1 middle"/>  من عبد اللّه 
+<lb n="recto 2 middle"/>  <app type="BL"><lem resp="APD">عند </lem><rdg resp="“AK”">عند</rdg></app> 
+<lb n="recto 3"/>  أعلم السّيّد الأجل وفّقه اللّه <supplied reason="lost" cert="high">توفيق</supplied> العارفين وجعل له كرائم الصّالحين محمّد وآله 
+<lb n="recto 4"/>  إجمعين وسوا ذلك أنّي مشتاق إليك كثير ليس قليل واللّه لنا 
+<lb n="recto 5"/>  <unclear reason="undefined" cert="high">الاجتماع</unclear> ويا مولاي طحـ<supplied reason="lost" cert="high">ـنـ</supplied>ـت قليل دقيق وما <sic n="superfluous">يباعويه</sic><supplied reason="omitted" cert="high">پپپعونه</supplied> عشر دراهم 
+<lb n="recto 6"/>  الّذي أخذتم فأرسلهم لي مع الطّيب وإن كان ما أخذت شي 
+<lb n="recto 7"/>  وطلّعته للقاضي ولا تتّهم عنّي وإن كان ما احَدپ شي 
+<lb n="recto 8"/>  أرسل أعلمني أكري <app type="BL"><lem resp="APD">ذا </lem><rdg resp="“AK”">ذا
+</rdg></app> سلع وإن كان أخذت البعض 
+<lb n="recto 9"/>  أرسل لي وأعلمني فما تحتاج <app type="BL"><lem resp="APD">وصّيه </lem><rdg resp="Friedman, Quṣayr p. 405; Diem, P.QuseirArab. p. 166">وصيّة</rdg></app> فما يعونني 
+<lb n="recto 10"/>  إلّا الدّراهم وسلّم لي على الأخ عبد الرّحيم وعلى الأخ عيسى 
+<lb n="recto 11"/>  وسلّم لي على الشّيخ أبو مفرّج وتعلم المكين إن كان ما دفع لك 
+<lb n="recto 12"/>  شي <app type="BL"><lem resp="APD">تعلم </lem><rdg resp="“AK”">تقلّه</rdg></app> أنا أرسل إليه كتاب لكرى دابّة ويطلع فهو 
+<lb n="recto 13"/>  أرسل مالي لي ما يعونني إلّا الدّراهم لأنّي أريد أكري بهم 
+<lb n="recto 14"/>  والسّلام عليكم نصر اللّه في علمه 
+<lb n="verso 1"/>  ولا تصرف لي ذهب واشترها دراهم فإن الصّرف 
+<lb n="verso 2"/>  في قنا وقوص سبعة وثلاثين <app type="BL"><lem resp="APD">واليوسفي </lem><rdg resp="APD">والتّوفيقيّ</rdg></app> <app type="BL"><lem resp="APD">تسعة </lem><rdg resp="“AK”">بتسعة</rdg></app> عشـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="verso 3"/>  درهم وربع اليوسفي واللّه اللّه سيّرهم لي دراهم 
+<lb n="verso 4"/>  فهم للكرا والسّلام عليك ورحمة اللّه وبركاته 
+<lb n="verso top down 1"/>  إلى ساحل القصـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـر يسلّم للأخ نجيب مولا عبد اللّه فخرهم 
+<lb n="verso top down 2"/>  إلى شونة أبو مفرّج <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عليه</supplied> </lem><rdg resp="“AK”">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـسّلام </lem><rdg resp="“AK”">بلّغ</rdg></app> <app type="BL"><lem resp="APD">بنصـ<supplied reason="lost" cert="high">ـر</supplied> </lem><rdg resp="AK">تؤجر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">اللّه</supplied> </lem><rdg resp="AK">ø</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿabdi ăl lāhi 
+ <lb n="3"/>ʿabd ʿindi 
+ <lb n="4"/>ʾuʿlimu ăs sayyida ăl ʾaǧalla waffaqa hu ăl lāhu tawfīqa ăl ʿārifīna wa ǧaʿala la hu karāʾima ăṣ ṣāliḥīna muḥammad:in wa ʾāli hi 
+ <lb n="5"/>ʾaǧmaʿīna wa siwā ḏālika ʾann ī muštāq:un ʾilay ka kaṯīr laysa qalīl wa ăl lāhi la nā 
+ <lb n="6"/>ăl ĭǧtimāʿu wa yā mawlā ya ṭaḥantu qalīla daqīq:in wa mā yabīʿūna hu ʿašra darāhima 
+ <lb n="7"/>ăllaḏī ʾaḫaḏtum fa ʾarsil him l ī maʿa ăṭ ṭībi wa ʾin kāna mā ʾaḫaḏta šayʾ 
+ <lb n="8"/>wa ṭallaʿta hu li l qāḍī wa lā tattahim ʿann ī wa ʾin kāna mā ʾaḫaḏta šayʾ 
+ <lb n="9"/>ʾarsil ʾaʿlim nī ʾukrī ḏā dā silaʿ wa ʾin kāna ʾaḫaḏta ăl baʿḍa 
+ <lb n="10"/>ʾarsil l ī wa ʾaʿlim nī fa mā taḥtāǧu waṣṣī waṣiyyaẗ:an hi ø fa mā yuʿūnu nī 
+ <lb n="11"/>ʾillā ăd darāhimu wa sallim l ī ʿalà ăl ʾaḫi ʿabdi ăr raḥīmi wa ʿalà ăl ʾaḫi ʿīsà 
+ <lb n="12"/>wa sallim l ī ʿalà ăš šayḫi ʾabū mufarriǧ:in wa tuʿlimi ăl makīna ʾin kāna mā dafaʿa la ka 
+ <lb n="13"/>šayʾ tuʿlim taqul ø la ø hu ʾanā ʾursilu ʾilay hi kitāb li kirà dābbaẗ:in wa yaṭluʿ yuṭlaʿu fa huwa 
+ <lb n="14"/>ʾarsala māl ī l ī mā yaʿūnu nī ʾillā ăd darāhimu liʾan nī ʾurīdu ʾakrī bi him 
+ <lb n="15"/>wa ăs salāmu ʿalay kum naṣara ăl lāhu fī ʿilmi hi 
+ <lb n="16"/>wa lā taṣrif l ī ḏahab wa ĭštari hā darāhima fa ʾinna ăṣ ṣarfa 
+ <lb n="17"/>fī qinā wa qūṣa sabʿaẗ:un wa ṯalāṯīna wa ăl ăt yūsufiyyu tawfīqiyyu bi tisʿaẗa tisʿaẗa ʿašara 
+ <lb n="18"/>dirham wa rubʿ:ini rubʿ:uni ăl yūsufiyyu wa ăl lāhu ăl lāhu sayyir him l ī darāhima 
+ <lb n="19"/>fa hum li l kirāʾi wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu 
+ <lb n="20"/>ʾilà sāḥili ăl quṣayri yusallam li l ʾaḫi naǧība mawlā ʿabdi ăl lāhi faḫri faḫrihim him ø 
+ <lb n="21"/>ʾilà šūnaẗi ʾabū mufarriǧ:in ʿalay ø hi ø ăs ø salāmu balliġ bi tuʾǧar naṣri ø ăl ø lāhi ø 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. 
+			<lb n="2"/>
+		From ʿAbd Allāh.
+			<lb n="4"/>
+		I write to inform the most noble master - may God make him as successful as those who have acquired Divine Knowledge, and make him among the choicest of the virtuous men: the Prophet Muḥammad and his entire
+			<lb n="5"/>
+		family - and now to the main topic: I miss you terribly, not just a little bit, but a lot! O God, [I hope] we can be
+		family - and now to the main topic: I miss you terribly, not just a little bit, but a lot! O God, I hope we would be
+			<lb n="6"/>
+		reunited [soon]. O my master! I have ground a small amount of flour and [other foodstuffs] that are worth ten dirhams. 
+		reunited soon. O my master! I have ground a small amount of flour and [other foodstuffs] that are worth ten dirhams,
+			<lb n="7"/>
+		Please send me what you have received (i.e. money) along with the perfume. If you have not received any [money?],
+		which you have received. Please send them (i.e., the ten dirhams) to me, along with the perfume. If you have not received any [money],
+			<lb n="8"/>
+		... If you have not received any [money],
+		then you should bring up the matter to the judge. Don&#039;t blame me, though. If you have not received any [money],
+			<lb n="9"/>
+		send me a notification, so I will lease [riding animals] to carry the goods. If you have received some [of the money], 
+		send me a notification, so I will rent [riding animals] to carry the goods. If you have received some [of the money], 
+			<lb n="10"/>
+		send me a notification, too. Whatever you need, order it [from me]. I need nothing but
+			<lb n="11"/>
+		cash. ...
+		[cash in] dirhams. My regards to Brother ʿAbd al-Raḥīm and Brother ʿĪsā. 
+			<lb n="12"/>
+		My regards to Shaykh Abū Mufarrij. Please tell al-Makīn - if he has not paid you
+		... Please tell al-Makīn - if he has not paid
+			<lb n="13"/>
+		anything yet - that I will send him a letter about leasing riding animals and that he will get [the goods?]. He is the one who
+		anything yet - that I will send him a letter about renting riding animals (li-kirā dābba) and that he will get [the goods]. ...
+			<lb n="14"/>
+		ought to send me money. I need nothing but cash, because I intend to use it to lease [riding animals].
+			<lb n="15"/>
+		Peace be upon you. May God help [you] in regard to His Divine Knowledge.
+			<lb n="16"/>
+		Do not pay me golden [dinars]; change them to silver dirhams. The exchange rate
+			<lb n="17"/>
+		in Qinā and Qūṣ is thirty-seven [dirhams per dinar], and [if it is] the Yūsufī (? or Tawfīqī) [dirham], then it is nineteen
+			<lb n="18"/>
+		and a quarter dirhams [per dinar]. O God, O God! send me the cash in silver dirhams [only]!
+			<lb n="19"/>
+		It is for leasing [riding animals]. Peace be upon you. God&#039;s mercy and blessings.
+			<lb n="20"/>
+		To the shore of Quseir, to the care of Brother Najīb, the associate of ʿAbd Allāh Fakhruhum.
+			<lb n="21"/>
+		to the warehouse of Abū Mufarrij. Peace. May God help all!
+</ab></div>
+</body>
+</text>
+</TEI>

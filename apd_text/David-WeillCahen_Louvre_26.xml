@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1273" xml:id="David-WeillCahen_Louvre_26" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 26</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_26</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169098</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> اللّه <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="recto 2"/>  إلى محمّد بن عثمن من صا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="9" unit="character" /> سلم عليك فإني أحمد 
+ <lb n="recto 3"/>  إليك اللّه الّذي <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+ <lb n="recto 4"/>  أمّا بعد عافاك اللّه <gap reason="illegible" extent="13" unit="character" /> <unclear reason="undefined" cert="high">عليه</unclear> يكون لك ولنا جرد 
+ <lb n="recto 5"/>  من كل عاهة ونجاة من النّار كتبت إليك وكل الّذي محب أن 
+ <lb n="recto 6"/>  <supplied reason="lost" cert="high">يبلغك</supplied> <app type="BL"><lem resp="APD">حيّا </lem><rdg resp="Diem, CPR XVI p. 17">جيّد</rdg></app> في سرور من اللّه وعافية 
+ <lb n="recto 7"/>  <supplied reason="lost" cert="high">انظر</supplied> يرحمك أن تدفع رزقي إلى أبو عمران فإنّي قد كتبت 
+ <lb n="recto 8"/>  إليك مع موسى بن نافع <supplied reason="lost" cert="high">تدفع</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إليّ</supplied> </lem><rdg resp="Diem">إليه</rdg></app> <supplied reason="lost" cert="high">رز</supplied>قي فما أدري هل دفعته 
+ <lb n="recto 9"/>  أم لا فإن كنت دفعته <gap reason="illegible" extent="6" unit="character" /> ذلك وجزاك اللّه خيرا 
+ <lb n="recto 10"/>  وإلّا فادفعه إلى أبو عمران <gap reason="illegible" extent="6" unit="character" /> في عطا ووفّقك ا<supplied reason="lost" cert="high">للّه</supplied> 
+ <lb n="recto 11"/>  پاپا لما تحب وترضا ـعحل يرحمك اللّه به إلي فإنّي إليه محتاجا 
+ <lb n="recto 12"/>  فوق ما تحسب لعل اتحملّى به إلى الفسطاط إن شا اللّه 
+ <lb n="recto 13"/>  والسّلم عليك و<supplied reason="lost" cert="high">رحمت</supplied> اللّه 
+ <lb n="verso 1"/>  <app type="BL"><lem resp="APD">إلى </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">محمّد </lem><rdg resp="APD">لمحمّد</rdg></app> بن عثمن من <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾilà muḥammadi bni ʿuṯmāna min ṣā*** ********* salām:un ʿalay ka fa ʾin nī ʾaḥmadu 
+ <lb n="3"/>ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʿāfā ka ăl lāhu ************* ʿalay hi yakūn la ka wa la nā ǧard 
+ <lb n="5"/>min kulli ʿāhaẗ:in wa naǧāẗ:an mina ăn nāri katabtu ʾilay ka wa kullu ăllaḏī muḥabb:un ʾan 
+ <lb n="6"/>yabluġa ka ḥayy:an ǧayyid:un fī surūr:in mina ăl lāhi wa ʿāfiyaẗ:in 
+ <lb n="7"/>ŭnẓur yarḥamu ka ʾan tadfaʿa rizq ī ʾilà ʾabū ʿimrāna fa ʾin nī qad katabtu 
+ <lb n="8"/>ʾilay ka maʿa mūsà bni nāfiʿ:in tadfaʿu ʾilay ya hi rizq ī fa mā ʾadrī hal dafaʿta hu 
+ <lb n="9"/>ʾam lā fa ʾin kunta dafaʿta hu ****** ḏālika wa ǧazā ka ăl lāhu ḫayr:an 
+ <lb n="10"/>wa ʾillā fa ĭdfaʿ hu ʾilà ʾabū ʿimrāna ****** fī ʿaṭāʾ:in wa waffaqa ka ăl lāhu 
+ <lb n="11"/>wa ʾiyyā nā li mā tuḥibbu wa tarḍā wa ʿaǧǧil yarḥamu ka ăl lāhu bi hi ʾilay ya fa ʾin nī ʾilay hi muḥtāǧ:an 
+ <lb n="12"/>fawqa mā taḥsibu laʿalla ĭtḥamil ʾtḥmly l ø ī ø bi hi ʾilà ăl fusṭāṭi ʾin šāʾa ăl lāhu 
+ <lb n="13"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi 
+ <lb n="14"/>ʾilà ø muḥammadi li muḥammadi bni ʿuṯmāna min *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément miséricordieux.
+		 <lb n="2"/>
+ 	  À Muḥammad b. ʿUthmān de la part de ........ salut à toi. Je loue en ta faveur
+		 <lb n="3"/>
+ 	  Dieu qui est unique.
+		 <lb n="4"/>
+ 	  Ensuite: Dieu te garde en bonne santé ....... et qu&#039;il te soit ainsi qu&#039;à nous une défense (?)
+		 <lb n="5"/>
+ 	  contre toute calamité et un refuge contre la maladie. Je t&#039;ai écrit, et tout ce que tu désires que
+		 <lb n="6"/>
+ 	  [qu&#039;il t&#039;atteigne vivant] dans la joie venant de Dieu et la santé.
+		 <lb n="7"/>
+ 	  [Considère]- qu&#039;Il soit clément envers toi - que tu dois payer mon salaire à Abu ʿImrān, j&#039;ai déjà écrit
+		 <lb n="8"/>
+ 	  à toi par Mūsā b. Nāfiʿ pour que tu payes mon salaire, mais j&#039;ignore si tu l&#039;as payé
+		 <lb n="9"/>
+ 	  ou non; si tu l&#039;as payé .......... cela, et Dieu te traite bien
+		 <lb n="10"/>
+ 	  dans le cas contraire paye-le à Abu Imran ....... don(?) et Dieu t&#039;assiste
+		 <lb n="11"/>
+ 	  et aussi nous de la manière que tu désires et qui te satisfait, et envoie le vite, j&#039;en ai besoin,
+		 <lb n="12"/>
+ 	  au-delà de ce que tu supposes, peut-être pourras-tu me l&#039;apporter (?) à Fuṣāṭ s&#039;il plait à Dieu.
+		 <lb n="13"/>
+ 	  Salut à toi et (miséricorde de Dieu).
+		 <lb n="14"/>
+ 	  À Muḥammad b. ʿUṯmān de la part de .......
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

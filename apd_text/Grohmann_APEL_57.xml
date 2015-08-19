@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1038" xml:id="Grohmann_APEL_57" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 057</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_57</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168921</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى يحنّس بن شنوده بن بطاقس من مقطلنى ابنت شنوده 
+<lb n="3"/>  بن أيّوب وهما جميعا من سكّان ططون من كورة الفيّوم حصّتها 
+<lb n="4"/>  من المنزل المشاع بينها وبينه وهو السّدس منها اربع أسهم 
+<lb n="5"/>  من أربع وعشرين سهما بحدّه وحدوده ومدخله ومخرجه وسفله 
+<lb n="6"/>  وعلوه داخل فيه وخارج منه حدّه القبلي منزل قفرى القمبشاوي 
+<lb n="7"/>  وحدّه البحري طريق المارّة وحدّه الشّرقي منزل <app type="BL"><lem resp="APD">جرمنه </lem><rdg resp="APD">حرمنه</rdg></app> ابنت <app type="BL"><lem resp="APD">تميسة </lem><rdg resp="“Littmann”">تمينة</rdg></app> 
+<lb n="8"/>  وحدّه الغربي عرصة لورثة بني إبشايه اشترى ذلك منها بدينار 
+<lb n="9"/>  واحد عينا ذهبا وازن بالجديد من العين <app type="BL"><lem resp="APD">المعسولة </lem><rdg resp="“LR”">المغسولة</rdg></app> قد قبضت 
+<lb n="10"/>  مقطلنى هذا الثّمن تامّا وافيا وتبرت من هذه الحصّة وسلّمت 
+<lb n="11"/>  ذلك إلى يحنّس بن شنوده وحازه وملكه وصار ذلك مال من ماله 
+<lb n="12"/>  وملك من ملكه إن شا باع وإن شا بنا وإن شا سكن ليس لمقطلنى 
+<lb n="13"/>  ابنت شنوده في هذا المنزل بعد هذا الكتاب دعوى ولا طلبة 
+<lb n="14"/>  بوجه من الوجوه ولا سبب من الأسباب باعت ذلك على شرط 
+<lb n="15"/>  بيع الإسلام وعهدته فما كان من علقة أو اتّباعة أو طارئ 
+<lb n="16"/>  بدين أو مستحق بميراث <app type="BL"><lem resp="APD">فإنفاذ </lem><rdg resp="Frantz-Murphy; Khan; “Khan erroneously fa-ʾinfāḏuhu, but see plate”">فإنفاذ </rdg><rdg resp="“Diem”">فانفاذ</rdg></app> ذلك وخلاصه على مقطلنى 
+<lb n="17"/>  ابنت شنوده بالغ ما بلغ من خالص مالها شهد على إقرار 
+<lb n="18"/>  مقطلنى ابنت شنوده بجميع ما في هذا الكتاب بعد أن قرئ 
+<lb n="19"/>  عليها وعرفته وأقرّت بفهمها في صحّة من عقلها وبدنها وجواز 
+<lb n="20"/>  أمرها طائعة غير مكرهة ولا مجبرة طالبة راغبة وذلك في المحرّم 
+<lb n="21"/>  لسنة إحدى وأربعين وثلثمائة شهد على ذلك 
+<lb n="22"/>  شهد عبد الصّمد بن يوسف بن هرون على إقرا<supplied reason="omitted" cert="high">ر</supplied> مقطلنى ابنت شنوده 
+<lb n="23"/>  بجميع ما في هذا الكتاب وكتب شهادته بخطّه وذلك في تأريخه 
+<lb n="24"/>  شهد <app type="BL"><lem resp="APD">اليسع </lem><rdg resp="“Littmann”">إليشع</rdg></app> بن عمر بن موسى على إقرار مقطلنى ابنت شنوده ببيع حصّتها 
+<lb n="25"/>  من المنزل الموصوف في هذا الكتاب وكتب بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà yuḥannisu bnu šanūdaha bni baṭāqusa min maqṭalinà ĭbnati šanūdaha 
+ <lb n="3"/>bni ʾayyūba wa humā ǧamīʿ:an min sukkāni ṭuṭūna min kūraẗi ăl fayyūmi ḥiṣṣata hā 
+ <lb n="4"/>mina ăl manzili ăl mušāʿi bayna hā wa bayna hu wa huwa ăs sudsu min hā ʾarbaʿu ʾashum:in 
+ <lb n="5"/>min ʾarbaʿ:in wa ʿišrīna sahm:an bi ḥaddi hi wa ḥudūdi hi wa madḫali hi wa maḫraǧi hi wa sufli hi 
+ <lb n="6"/>wa ʿulwi hi dāḫil fī hi wa ḫāriǧ min hu ḥaddu hu ăl qibliyyu manzilu qufrà ăl qambašāwiyyi 
+ <lb n="7"/>wa ḥaddu hu ăl baḥriyyu ṭarīqu ăl mārraẗi wa ḥaddu hu ăš šarqiyyu manzilu ǧirmanaha ḥirminaha ĭbnati tamīsaẗa tamīnaẗa 
+ <lb n="8"/>wa ḥaddu hu ăl ġarbiyyu ʿarṣaẗ:un li waraṯaẗi banī ʾibšāyaha ĭštarà ḏālika min hā bi dīnār:in 
+ <lb n="9"/>wāḥid:in ʿayn:an ḏahab:an wāzin:in bi ăl ǧadīdi mina ăl ʿayni ăl maġsūlaẗi maʿsūlaẗi qad qabaḍat 
+ <lb n="10"/>maqṭalinà hāḏā ăṯ ṯamana tāmm:an wāfiy:an wa tabarrat min hāḏihi ăl ḥiṣṣaẗi wa sallamat 
+ <lb n="11"/>ḏālika ʾilà yuḥannisi bni šanūdaha wa ḥāza hu wa malaka hu wa ṣāra ḏālika māl min māli hi 
+ <lb n="12"/>wa milk min milki hi ʾin šāʾa bāʿa wa ʾin šāʾa banā wa ʾin šāʾa sakana laysa li maqṭalinà 
+ <lb n="13"/>ĭbnati šanūdaha fī hāḏā ăl manzili baʿda hāḏā ăl kitābi daʿw:an wa lā ṭalibaẗ:un 
+ <lb n="14"/>bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi bāʿat ḏālika ʿalà šarṭi 
+ <lb n="15"/>bayʿi ăl ʾislāmi wa ʿuhdati hi fa mā kāna min ʿulqaẗ:in ʾawi ĭttibāʿaẗ:in ʾaw ṭāriʾ:in 
+ <lb n="16"/>bi dayn:in ʾaw mustaḥiqq:in bi mīrāṯ:in fa fā ʾinfāḏu ʾinqāḏu nafāḏu ḏālika wa ḫalāṣu hu ʿalà maqṭalinà 
+ <lb n="17"/>ĭbnati šanūdaha bāliġ:un mā balaġa min ḫāliṣi māli hā šahida ʿalà ʾiqrāri 
+ <lb n="18"/>maqṭalinà ĭbnati šanūdaha bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa 
+ <lb n="19"/>ʿalay hā wa ʿarafat hu wa ʾaqarrat bi fahmi hā fī ṣiḥḥaẗ:in min ʿaqli hā wa badani hā wa ǧawāzi 
+ <lb n="20"/>ʾamri hā ṭāʾiʿaẗ:an ġayra mukrahaẗ:in wa lā muǧbaraẗ:in ṭālibaẗ:an rāġibaẗ:an wa ḏālika fī ăl muḥarrami 
+ <lb n="21"/>li sanaẗi ʾiḥdà wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in šahida ʿalà ḏālika 
+ <lb n="22"/>šahida ʿabdu ăṣ ṣamadi bnu yūsufa bni hārūna ʿalà ʾiqrāri maqṭalinà ĭbnati šanūdaha 
+ <lb n="23"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi wa ḏālika fī taʾrīḫi hi 
+ <lb n="24"/>šahida ăl ø ʾilīšaʿu yasaʿu bnu ʿumara bni mūsà ʿalà ʾiqrāri maqṭalinà ĭbnati šanūdaha bi bayʿi ḥiṣṣati hā 
+ <lb n="25"/>mina ăl manzili ăl mawṣūfi fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is what Yoḥannes b. Šanûda b. Paṭâqos has bought from Maqṭalenâ, daughter of Šanûda
+			<lb n="3"/>
+		b. Ayyûb, who both (jointly) are numbered among the inhabitants of Ṭuṭûn of the district of al-Fayyûm: (he has bought) her share
+			<lb n="4"/>
+		of the dwelling house, shared in common between her and him, this being the sixth of it, four shares
+			<lb n="5"/>
+		of twenty four shares, to its limit and its boundaries, with its entrance and its exit, and (including) what is below
+			<lb n="6"/>
+		and above the surface, what is within and what is without; its southern boundary is (formed by) the dwelling house of Qufrâ, originating from Qambašâ,
+			<lb n="7"/>
+		and its northern boundary is (formed by) the main thoroughfare, and its eastern boundary is (formed by) the dwelling house of Germana, daughter of Tamise(?),
+			<lb n="8"/>
+		and its western boundary is (formed by) the open area belonging to the heirs of the sons of Ibšâye. He has bought this from her for one
+			<lb n="9"/>
+		dînâr, gold-coin, full weight according to the new (standard) and washed; Maqṭalenâ has already received
+		dînâr, gold-coin, full weight according to the new (standard), (this sum) having been counted out (to her) in (current) gold-coin; Maqṭalenâ has already received
+			<lb n="10"/>
+		this price fully (and) entirely, and has released herself of this share and has handed
+			<lb n="11"/>
+		it over to Yoḥannes b. Šanûda who has acquired and taken possession of it and it has become his own property
+			<lb n="12"/>
+		and possession, (so that) if he will, he may sell it, and if he will, he may build (on it), and if he will, he may dwell in (it). Maqṭalenâ,
+			<lb n="13"/>
+		daughter of Šanûda, has no claim and no pretentions respecting this dwelling house after (the completion of) this contract,
+			<lb n="14"/>
+		from any cause or reason whatever. She has sold this according to
+			<lb n="15"/>
+		Islamic law of sale and covenant; but if there should be any contention or vindication, or if someone should suddenly appear
+			<lb n="16"/>
+		with a debt, or should make a claim on the basis of any inheritance, then the recuperation and indemnification therefor are incumbent upon Maqṭalenâ,
+			<lb n="17"/>
+		daughter of Šanûda, whatever it might amount to, out of her own means. (The following witnesses) have testified to the acknowledgment
+			<lb n="18"/>
+		by Maqṭalenâ, daughter of Šanûda, respecting all that (is contained) in this contract, after that it had been read
+			<lb n="19"/>
+		to her and she had taken cognizance of it and acknowledged that she has understood it, she being in a state of sound mind and body, and capable of
+			<lb n="20"/>
+		transacting her business, voluntarily, without compulsion and not against her will, (but) demanding (and) desiring (it), and this in Muḥarram
+			<lb n="21"/>
+		of the year three hundred and forty one. There have testified to it:
+			<lb n="22"/>
+		ʿAbd aṣ-Ṣamad b. Yûsuf b. Hârûn is witness to the acknowledgment by Maqṭalenâ, daughter of Šanûda,
+			<lb n="23"/>
+		respecting all that (is contained) in this act, and he has written his testimony in his (own) handwriting and this on the date.
+			<lb n="24"/>
+		Al-Yasaʿ b. ʿUmar b. Mûsâ is witness to the acknowledgment by Maqṭalenâ, daughter of Šanûda, respecting the sale of her share
+			<lb n="25"/>
+		of the dwelling house described in this act, and he has written (it) in his (own) handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

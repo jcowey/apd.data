@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1640" xml:id="Grohmann_APEL_181" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 181</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_181</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169395</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  مثقال 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پو</supplied>پ ιγ الرڤعه εʹ‎ دپپار γχγʹ‎ιʹ‎βʹ‎ 
+ <lb n="3"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  <supplied reason="lost" cert="high">أدّى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـوفّق على يديه عن أناس شتّى عمّا يلزمه من الخراج عن <supplied reason="lost" cert="high">المدينة</supplied> 
+ <lb n="5"/>  ثلثـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">دنا</supplied>نير <app type="BL"><lem resp="APD">ونصف </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">وثلث </lem><rdg resp="Diem">وثلثين</rdg></app> <app type="BL"><lem resp="APD">وثلث </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">ربع </lem><rdg resp="Diem">وربع</rdg></app> مثقال إلى مينا القسطال بحضرة خليق <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  والحسين بن أحمد عاملي الوليد بن يحيى وأحمد بن خلد أعزّهما اللّه علـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">خراج</supplied> 
+ <lb n="7"/>  <app type="BL"><lem resp="APD">كورپپن </lem><rdg resp="Diem">‮كورتي</rdg></app> الأشمونين وأسفل أنصنى وقوص لخراج سنة <supplied reason="lost" cert="high">σλ</supplied>γ 
+ <lb n="8"/>  مپه عن نفسه αϰʹ‎δʹ‎χ 
+ <lb n="9"/>  وعن عبد الصّمد بن الفيض βχγʹ‎μʹ‎ηʹ‎ 
+ <lb n="10"/>  وهو عبد الخلق 
+ <lb n="11"/>  شـ<supplied reason="lost" cert="high">ـهد</supplied> سعيد بن القسم على إقرار مينا بن إبرهيم القسطال بما في <supplied reason="lost" cert="high">هذه</supplied> <supplied reason="lost" cert="high">البراه</supplied> 
+ <lb n="12"/>  <supplied reason="lost" cert="high">سهـ</supplied>ـد كيل بن يحنّس الكاتب بما في هذه البراه في توت ιγ سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">σλγ</supplied> 
+ <lb n="13"/>  <supplied reason="lost" cert="high">شهـ</supplied>ـد جريج بن مرقس على إقرار منا القسطال بوصول هذه الثّلثة الـ<supplied reason="lost" cert="high">ـدّنانير</supplied> 
+ <lb n="14"/>  <supplied reason="lost" cert="high">ونصف</supplied> <supplied reason="lost" cert="high">وثلث</supplied> <supplied reason="lost" cert="high">وثلث</supplied> <supplied reason="lost" cert="high">ربع</supplied> 
+ <lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> γχγʹ‎ιʹ‎βʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>miṯqālu 
+ <lb n="2"/>‮ *** tūtu ‪13 ăr ruqʿaẗu ‪5 dīnār:in ‪3 1/2+1/3+1/12 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà *** bnu ăl muwaffaqi ʿalà yaday hi ʿan ʾunās:in šattà ʿammā yalzamu hu mina ăl ḫarāǧi ʿani ăl madīnaẗi 
+ <lb n="5"/>ṯalāṯaẗu danānīra wa ø niṣf:un wa ṯulṯ:un ṯalāṯīna wa ø ṯulṯu rubʿi rubʿu wa ø miṯqāl:in ʾilà mīnā ăl qusṭāli bi ḥaḍraẗi ḫulayqi bni *** 
+ <lb n="6"/>wa ăl ḥusayni bni ʾaḥmada ʿāmilay ăl walīdi bni yaḥyà wa ʾaḥmada bni ḫālid:in ʾaʿazza humā ăl lāhu ʿalà ḫarāǧi 
+ <lb n="7"/>kūratayni kūratay ăl ʾušmūnayni wa ʾasfali ʾanṣinà wa qūṣa li ḫarāǧi sanaẗi ‪233 
+ <lb n="8"/>min hu ʿan nafsi hi ‪1 1/24+1/48 
+ <lb n="9"/>wa ʿan ʿabdi ăṣ ṣamadi bni ăl fayḍi ‪‪‪2 1/2+1/3+1/48‬ 
+ <lb n="10"/>wa huwa ʿabdu ăl ḫāliqi 
+ <lb n="11"/>šahida saʿīdu bnu ăl qāsimi ʿalà ʾiqrāri mīnā bni ʾibrāhīma ăl qusṭāli bi mā fī hāḏihi ăl barāʾaẗi 
+ <lb n="12"/>‮ šahida kaylu bnu yuḥannisa ăl kātibu bi mā fī hāḏihi ăl barāʾaẗi fī tūta ‮‪13 sanaẗa ‪223 
+ <lb n="13"/>šahida ǧurayǧu bnu murqusa ʿalà ʾiqrāri minā ăl qusṭāli bi wuṣūli hāḏihi ăṯ ṯalāṯaẗi ăd danānīri 
+ <lb n="14"/>wa niṣf:in wa ṯulṯ:in wa ṯulṯi rubʿ:in 
+ <lb n="15"/>‪‮ *** ‪3 1/2+1/3+1/12 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Miṯqâl
+		 <lb n="2"/>
+ 	  [Tho]t 13, folio 5. \of a dînâr/ 3 1/2+1/3+1/12
+		 <lb n="3"/>
+ 	  [In the na]me of God, the Compassionate, the Merciful.
+		 <lb n="4"/>
+ 	  [So and So, son of al-Mu]waffaq has paid by his hands for different persons on account of that which was due from him for the land-tax (ḫarâǧ) of [the Capital]
+		 <lb n="5"/>
+ 	  thre[e dîn]ârs and a half and a third and a twelfth miṯqâl to the treasurer (qusṭâl) Menas (Mînâ), in the presence of Ḫulaiq, [son of So and So,]
+		 <lb n="6"/>
+ 	  and of al-Ḥusain b. Aḥmad, the two administrators of al-Walîd b. Yaḥyâ and Aḥmad b. Ḫâlid - may God exalt them - (set) ove[r the impost]
+		 <lb n="7"/>
+ 	  of the two districts (kûra) of al-Ušmûnain, Lower-Anṣinâ and Qûṣ for the impost of the year [23]3.
+		 <lb n="8"/>
+ 	  Thereof (has been paid) for himself 1 1/24+1/48
+		 <lb n="9"/>
+ 	  and for ʿAbd aṣ-Ṣamad b. al-Faiḍ 2 1/2+1/3+1/48
+		 <lb n="10"/>
+ 	  who (is called) ʿAbd al-Ḫâliq.
+		 <lb n="11"/>
+ 	  Saʿîd b. al-Qâsim is wi[tness] to the acknowledgment by the treasurer (qusṭâl) Mînâ b. Ibrâhîm, respecting that which (is contained) in [this quittance].
+		 <lb n="12"/>
+ 	  Chael b. Yoḥannes, the secretary, [is witne]ss to that which (is contained) in this quittance on 13th of Thot of the ye[ar 223].
+		 <lb n="13"/>
+ 	  Ǧuraiǧ b. Morqos [is witne]ss to the acknowledgment by the qusṭâl Minâ, respecting the payment of these three [dînârs]
+		 <lb n="14"/>
+ 	  [and a half and a third and a twelfth (of a dînâr)].
+		 <lb n="15"/>
+ 	  [...] 3 1/2+1/3+1/12
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

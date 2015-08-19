@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="420" xml:id="Raghib_March_II_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_II_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106617</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  حفظك اللّه وأبقاك وأتم نعمه عليك وزاد في إحسانه لديك 
+<lb n="recto 3"/>  كتابي إليك أكرم اللّه وجهك وأنا ومن قبلي على أفضل حال وربّنا محمود 
+<lb n="recto 4"/>  لا شريك له وصل إلى كتابك رضي اللّه عنك فقرأته وفهمت ما ذكرت 
+<lb n="recto 5"/>  فيه من حسن وسلامتك وسلامة <app type="BL"><lem resp="APD">قتّال </lem><rdg resp="APD">قتال </rdg><rdg resp="APD">قتّال</rdg></app> فبلغ اللّه لك به أفضل من أملك 
+<lb n="recto 6"/>  وقر به عينك وأراك فيه السّرور وفهمت عنك ما ذكرت من 
+<lb n="recto 7"/>  أمر النّصف دينر أنّه ورد عليك كتاب أنّي لا أدفع إليهم شي <app type="BL"><lem resp="APD">إلّى </lem><rdg resp="Diem">إلى</rdg></app> بعد 
+<lb n="recto 8"/>  العيد واللّه يأبا جعفر ما أعرف من هذا شي ولقد قرأته على حسن 
+<lb n="recto 9"/>  كتابك <app type="BL"><lem resp="yāʾ with two dots above">فقالي </lem><rdg resp="Diem">فقال</rdg></app> ما كتبت إليه هذا ولا ذكرته وكيف أكتب إلي أبي وأنت تعدني 
+<lb n="recto 10"/>  ولقد قلت لحسن ساعة قدم نعم وكرّمته واللّه يأبا جعفر لو لم يكون 
+<lb n="recto 11"/>  لك عـ<supplied reason="lost" cert="high">ـليّ</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـلام جئت لك على نفسي قضا حاجتك <sic n="superfluous">و</sic><gap reason="illegible" precision="low" extent="3"/> فپحق هدا الشهر 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> إليك هذ<supplied reason="omitted" cert="high">ا</supplied> الكذب عنّي فالكذب ولا خير أو ما ظننت 
+<lb n="right margin 1"/>  إنّي كتبت إليك هذ<supplied reason="omitted" cert="high">ا</supplied> الكتاب 
+<lb n="right margin 2"/>  بعد السّحور من كثرة الشّغل وأنا دافع إلى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="right margin 3"/>  خص نفسك بالسّلم وعلى <app type="BL"><lem resp="APD">قبال </lem><rdg resp="APD">قتال </rdg><rdg resp="APD">قتّال</rdg></app> وأبو هريرة السّلـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right 1"/>  لأبي جعفر أكرمه اللّه 
+<lb n="verso right 2"/>  أحمد بن عبد المومن 
+<lb n="verso left 1"/>  من أيّوب بن سليمن بالفيّوم 
+<lb n="verso left 2"/>  <supplied reason="lost" cert="high">بـ</supplied>ـلّغ هديت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾatamma niʿama hu ʿalay ka wa zāda fī ʾiḥsāni hi laday ka 
+ <lb n="3"/>kitāb ī ʾilay ka ʾakrama ăl lāhu waǧha ka wa ʾanā wa man qibal ī ʿalà ʾafḍali ḥāl:in wa rabbu nā maḥmūd:un 
+ <lb n="4"/>lā šarīka la hu waṣala ʾilay ya kitābu ka raḍiya ăl lāhu ʿan ka fa qaraʾtu hu wa fahimtu mā ḏakarta 
+ <lb n="5"/>fī hi min ḥusn:in wa salāmati ka wa salāmaẗi qattāla qibāla qitāla fa ballaġa ăl lāhu la ka bi hi ʾafḍala min ʾamali ka 
+ <lb n="6"/>wa qarra bi hi ʿayna ka wa ʾarā ka fī hi ăs surūra wa fahimtu ʿan ka mā ḏakarta min 
+ <lb n="7"/>ʾamri ăn niṣfi dīnār:in ʾanna hu warada ʿalay ka kitāb:un ʾan nī lā ʾadfaʿ ʾilay him šayʾ ʾilà ʾillà baʿda baʿdi 
+ <lb n="8"/>ăl ʿīdi wa ăl lāhu yā ʾabā ǧaʿfara mā ʾaʿrifu min hāḏā šayʾ wa la qad qaraʾtu hu ʿalà ḥasan:in 
+ <lb n="9"/>kitāba ka fa qāl qālà l ø ī ø mā katabtu ʾilay hi hāḏā wa lā ḏakartu hu wa kayfa ʾaktubu ʾilà ʾab ī wa ʾanta taʿidu nī 
+ <lb n="10"/>wa la qad qultu li ḥasan:in sāʿaẗa qadima naʿam wa karramtu hu wa ăl lāhi yā ʾabā ǧaʿfara law lam yakūn 
+ <lb n="11"/>la ka ʿalay ya kalām:un ǧiʾtu la ka ʿalà nafs ī qaḍāʾ:an ḥāǧata ka fa bi ḥaqqi hāḏā ăš šahri ăl ʿaẓīmi 
+ <lb n="12"/>*** ʾilay ka hāḏā ăl kiḏb ʿann ī fa ăl kiḏbu wa lā ḫayra ʾaw mā ẓananta 
+ <lb n="13"/>ʾin nī katabtu ʾilay ka hāḏā ăl kitāba 
+ <lb n="14"/>baʿda ăs saḥūri min kaṯraẗi ăš šuġli wa ʾanā dāfiʿ:un ʾilà *** 
+ <lb n="15"/>ḫuṣṣi nafsa ka bi ăs salāmi wa ʿalà qattāla qibāla qitāla wa ʾabū hurayraẗa ăs salāmu *** 
+ <lb n="16"/>li ʾabī ǧaʿfara ʾakrama hu ăl lāhu 
+ <lb n="17"/>ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="18"/>min ʾayyūba bni sulaymāna bi ăl fayyūmi 
+ <lb n="19"/>balliġ hudīta 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu te garde et te conserve, qu&#039;Il parachève Ses bienfaits envers toi et augmente en bonté chez toi!
+			<lb n="3"/>
+		Je t&#039;écris - que Dieu honore ton visage! alors que moi et les miens sont dans le meilleur état. Notre Seigneur soit loué,
+			<lb n="4"/>
+		Il n&#039;a pas d&#039;associé! Ta lettre m&#039;est parvenue - que Dieu t&#039;agrée! Je l&#039;ai lue et j&#039;ai compris ce que tu y mentionnais
+			<lb n="5"/>
+		de bon : ta santé et la santé de Qibāl. Que Dieu te fasse réaliser par lui plus que tu n&#039;espères,
+			<lb n="6"/>
+		qu&#039;Il te donne par lui de la satisfaction et qu&#039;Il te fasse voir en lui de la joie! J&#039;ai compris de toi ce que tu mentionnais au〚sujet〛
+			<lb n="7"/>
+		`sujet´ du demi-dinar : il t&#039;est arrivé `une lettre´ (t&#039;informant) que je ne leur paierai rien qu&#039;après
+			<lb n="8"/>
+		la fête! Par Dieu! Abū Ǧaʿfar, je ne sais rien de cela. Je l&#039;ai lue à Ḥasan,
+			<lb n="9"/>
+		`ta lettre´. Il m&#039;a répondu : «Je ne lui ai pas écrit ceci et je ne l&#039;ai pas mentionné. Et comment écrirai-je à mon père alors que tu me promets (de payer)?»
+			<lb n="10"/>
+		J&#039;ai bien dit à Ḥasan, au moment de son arrivée : «oui» et je l&#039;ai honoré. Par Dieu! Abū Ǧaʿfar, si
+			<lb n="11"/>
+		tu n&#039;avais pas médit à mon sujet, je serais venu en personne auprès de toi afin de me rendre à ton désir. 〚Et ...〛 Par égard pour ce mois sacré
+			<lb n="12"/>
+		[....] à toi ce mensonge à mon sujet. Car le mensonge n&#039;est pas bien ou ce que tu as soupçonné
+			<lb n="13"/>
+		Je t&#039;ai écrit cette lettre
+			<lb n="14"/>
+		après le repas de la nuit à cause de l&#039;excès de travail. Je vais payer à [
+			<lb n="15"/>
+		Je t&#039;adresse le salut. Sur Qibāl et Abū Hurayra le sa[lut!
+			<lb n="16"/>
+		A Abū Ǧaʿfar - que Dieu l&#039;honore! 
+			<lb n="17"/>
+		Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="18"/>
+		De la part d&#039;Ayyūb b. Sulaymān. Au Fayyoum.
+			<lb n="19"/>
+		[Trans]mets (le message), que (Dieu) te dirige!
+</ab></div>
+</body>
+</text>
+</TEI>

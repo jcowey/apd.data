@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="880" xml:id="Guo_Quseir_23_ve" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 23 verso and recto</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_23_ve</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113645</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="AK">بسم</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">اپو</supplied> </lem><rdg resp="AK">اللّه</rdg></app> <app type="BL"><lem resp="left out by Guo from edition, but see translation"><supplied reason="lost" cert="high">ألـ</supplied>ـڤاسم </lem><rdg resp="AK">الرّحمن</rdg></app> <app type="BL"><lem resp="APD">وصل </lem><rdg resp="AK">الرحيم</rdg></app> <app type="BL"><lem resp="APD">الله </lem><rdg resp="AK">وصلّى</rdg></app> على سپدپا <app type="BL"><lem resp="APD">محمد </lem><rdg resp="AK">عبده</rdg></app> <app type="BL"><lem resp="APD">واله </lem><rdg resp="AK">الحمد</rdg></app> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> حظوظهم آخرة إنّه لمّا كان من هذه نقص <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> احپمع اپو عـ<supplied reason="omitted" cert="high">ـپـ</supplied>ـد الله پن حريل پن على حسن 
+<lb n="verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> الحسپن العسڤلاپى <unclear reason="undefined" cert="high">وپسپسال</unclear> احد 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أبـ</supplied>ـو القسم لمزهر ادفع لي الرّسالة الّتي كانت 
+<lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> واپو الڤسم پفرص ان ألرساله التى كاپپ 
+<lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> سلمپها لوصيك ڤسمع <app type="BL"><lem resp="APD">هو </lem><rdg resp="APD">فسمح</rdg></app> داك 
+<lb n="verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> امو<supplied reason="omitted" cert="high">ا</supplied>لك كل الحاله پپپاع اليابع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ø bi ø smi *** ăl ø lāhi ʾabū ăr ø raḥmāni ăl ăr qāsimi raḥīmi wa ṣalla ṣallà ăl lāhu ʿalà sayyidi ʿabdi nā hi ø ăl ø muḥammad:in ḥamdu wa li ʾāli l hi lāhi 
+ <lb n="2"/>*** ḥuẓūẓa hum ʾāḫiraẗ:an ʾinna hu lammā kāna min hāḏihi naqṣ:un *** 
+ <lb n="3"/>*** ĭǧtamaʿa ʾabū ʿabdi ăl lāhi bnu ǧazīla bni ʿaliyyi ḥasan:in 
+ <lb n="4"/>*** ăl ḥusayn ăl ʿasqalāniyy wa yastasʾalu ʾaḥad 
+ <lb n="5"/>*** ʾabū ăl qāsimi li muzhir:ini ĭdfaʿ l ī ăr risālaẗa ăllatī kānat 
+ <lb n="6"/>*** wa ʾabū ăl qāsimi yafriḍu ʾanna ăr risālaẗa ăllatī kānat 
+ <lb n="7"/>*** sallamtu hā li waṣiyyi ka fa samiʿa samaḥa huwa ḏāka 
+ <lb n="8"/>*** ʾamwāl ka kulla ăl ḥālaẗi yabtāʿu ăl bāʾiʿu *** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... Abū] al-Qāsim. May God bless our Lord Muḥammad and his family.
+			<lb n="2"/>
+		[... and may God make] their fortune last forever. When a shortage was [discovered...]
+			<lb n="3"/>
+		[...] Abū ʿAbd Allāh ibn Jazīl ibn ʿAlī Ḥasan met
+			<lb n="4"/>
+		[... with] al-Ḥusayn al-ʿAsqalānī. One of
+			<lb n="5"/>
+		[the associates of?] Abū al-Qāsim inquired into the matter with Muzhir [saying]:  &#034;Pay me on account of the shipment, which
+			<lb n="6"/>
+		[has been deliverd to you?]. Abū al-Qāsim would assume that the shipment which
+			<lb n="7"/>
+		[...] I delivered according to your request.&#034; He heard about that,
+			<lb n="8"/>
+		[... so pay us with] your cash by all means. The seller will put on sale [...].
+</ab></div>
+</body>
+</text>
+</TEI>

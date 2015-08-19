@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1751" xml:id="Grohmann_APEL_295" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 295</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_295</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169492</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="6" unit="character" /> <unclear reason="undefined" cert="high">جـ</unclear><supplied reason="lost" cert="high">ـار</supplied><unclear reason="undefined" cert="high">ية</unclear> الدّالي النّوبي قالت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  أعرف هذه الجارية وأنا <app type="BL"><lem resp="APD">أشير </lem><rdg resp="Diem">أشير</rdg></app> عليـ<supplied reason="lost" cert="high">ـكـ</supplied>ـم ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">الـ</supplied>ـنّوبي طلبته بنت 
+<lb n="3"/>  <gap reason="illegible" extent="7" unit="character" /> حقّه <app type="BL"><lem resp="APD">الموپه </lem><rdg resp="Diem">الموجّه</rdg></app> <app type="BL"><lem resp="APD">توافقي </lem><rdg resp="Diem">يوافقني </rdg><rdg resp="Diem">توافقني</rdg></app> وأن الدّنانير اليوم متعذّرة فقالوا 
+<lb n="4"/>  نخرج من جلّبنا ما نخرجه في ثمنها <app type="BL"><lem resp="APD">بهذا </lem><rdg resp="Diem">فهذا</rdg></app> <app type="BL"><lem resp="APD">المكان </lem><rdg resp="Diem">كان</rdg></app> <app type="BL"><lem resp="the pretended nūn belongs to a kāf in the following line “Diem”">إن </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">كسبت </lem><rdg resp="Diem">السّبب</rdg></app> وذكرت أنّك <app type="BL"><lem resp="APD">توجّه </lem><rdg resp="Diem">موجّه</rdg></app> بها أسئل اللّه 
+<lb n="5"/>  أن يجعل في ذلك خيرة وذكرت جعل المنادي وقد كان شرطه نصف دينار فلم أعطيه 
+<lb n="6"/>  إلّا ثلث دينار فاعلم ذلك إن شا اللّه واعلم رضي اللّه عنك يأبا عبد اللّه 
+<lb n="7"/>  أنّي <sic n="superfluous">كپپپك</sic> كتبت إلى أبي عبد اللّه الطّلحي وواجهته في كثرة غيبته عن الضّيعة 
+<lb n="8"/>  وأظنّه أعطا كتابه من لا يحسن يقرأ فقرأ له <app type="BL"><lem resp="APD">بما </lem><rdg resp="Diem">ما</rdg></app> لم أكتب به <app type="BL"><lem resp="APD">فكتبت </lem><rdg resp="Diem">فكتب</rdg></app> <app type="BL"><lem resp="APD">إلي </lem><rdg resp="Diem">إليّ</rdg></app> <app type="BL"><lem resp="APD">كباس </lem><rdg resp="APD">كباس </rdg><rdg resp="APD">كباش </rdg><rdg resp="Diem">كتابين</rdg></app> 
+<lb n="9"/>  ليس في <app type="BL"><lem resp="APD">رأيه </lem><rdg resp="APD">واحد</rdg></app> <app type="BL"><lem resp="APD">بهذا </lem><rdg resp="Diem">منهما</rdg></app> جواب لما كتبت به إليه <app type="BL"><lem resp="APD">فقد </lem><rdg resp="Diem">يقصد</rdg></app> <app type="BL"><lem resp="APD">فهما </lem><rdg resp="Diem">فيهما</rdg></app> شي ما هو من رأيي ولا يرضي 
+<lb n="10"/>  إلّا أن يكون في نفسه شي لم أعلم به ولم يطلّعني عليه منذ يوم رغبت فيه ما زهدت 
+<lb n="11"/>  فيه إلى اليوم فإن كان في نفسه هو سبب لرأفة <app type="BL"><lem resp="APD">داخلة </lem><rdg resp="Diem">وأحمله</rdg></app> على ما <app type="BL"><lem resp="APD">يكره </lem><rdg resp="Diem">يكره</rdg></app> ولو بعثت 
+<lb n="12"/>  <app type="BL"><lem resp="APD">إليه </lem><rdg resp="APD">إليك</rdg></app> <sic n="superfluous">پكپاپى</sic> <app type="BL"><lem resp="APD">بكباشة </lem><rdg resp="APD">بكتابيه</rdg></app> وسألته فجاك بكتابي عرفت أنّه لم يجي بشي ممّا كتبت وأنا 
+<lb n="13"/>  <app type="BL"><lem resp="APD">أسأل </lem><rdg resp="Diem">أسل</rdg></app> اللّه الخيرة في جميع الأمور كلّها <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فـ</supplied>ـقد </lem><rdg resp="Diem, P.Berl.Arab. II p. 270">وقد </rdg><rdg resp="Diem, Review P.Cair.Arab. V">لقد</rdg></app> أخذت لك <app type="BL"><lem resp="APD">بترس </lem><rdg resp="Diem “both emendations”">ترس</rdg></app> صغير بدينار وما أعطانيه 
+<lb n="14"/>  صاحبه حتّا أخذت <app type="BL"><lem resp="APD">پپعه </lem><rdg resp="Diem, Review P.Cair.Arab. V">منه</rdg></app> <app type="BL"><lem resp="APD">برس </lem><rdg resp="Diem “both emendations”">معه</rdg></app> كتپر اپما <app type="BL"><lem resp="APD">إن </lem><rdg resp="Diem “both emendations”">أبا</rdg></app> پعطپهمأ الا حمله الكپپر پدپپارپن الصعبر 
+<lb n="15"/>  بدينار ولقد أخذت الكبير وما <app type="BL"><lem resp="APD">أحتاج </lem><rdg resp="Diem, P.Berl.Arab. II p. 270">أحتاج</rdg></app> إلـ<supplied reason="lost" cert="high">ـيـ</supplied>ـه إلّا <app type="BL"><lem resp="APD">كل </lem><rdg resp="Diem, Review P.Cair.Arab. V">لقضاء</rdg></app> <app type="BL"><lem resp="APD">حاحپك </lem><rdg resp="Diem, P.Berl.Arab. II p. 270">تجدّ</rdg></app> وڤد وحهپ په البك مع اپى طلپپ 
+<lb n="16"/>  <app type="BL"><lem resp="APD">سلّمه </lem><rdg resp="Diem, P.Berl.Arab. II p. 94; 190">سلّمه</rdg></app> اللّه إليك في عافية مع كتابك إلي بخبرك وحالك وجميع حوائجك <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem, Review P.Cair.Arab. V">فتسرّني</rdg></app> <app type="BL"><lem resp="APD">بعد </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">ذلك </lem><rdg resp="Diem, Review P.Cair.Arab. V">بذلك</rdg></app> عليك أفضل السّلم وعلى الوالدة 
+<lb n="17"/>  وجميع أهل البيت السّلم وكتب وصيف وهو <app type="BL"><lem resp="APD">يوم </lem><rdg resp="Diem">يقرئك</rdg></app> <app type="BL"><lem resp="APD">الـ<gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">السّلم</rdg></app> <app type="BL"><lem resp="APD">والسلم </lem><rdg resp="APD">كثيرا</rdg></app> علپك وحسپپا <app type="BL"><lem resp="APD">الله </lem><rdg resp="APD">ورحمة</rdg></app> وكڤا <app type="BL"><lem resp="APD">په </lem><rdg resp="APD">وبركاته</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>****** ǧāriyaẗ ăd dāliyyi ăn nūbiyyi qālat *** 
+ <lb n="2"/>ʾaʿrifu hāḏihi ăl ǧāriyaẗa wa ʾanā ʾasturu ʾušīru ʿalay kum ʾ*** **** ăn nūbiyy ṭalibatu hu bintu 
+ <lb n="3"/>******* ḥaqq hu ăl muʾabbah muʾabbih muwaǧǧah tawāfuq tuwāfiqu yuwāfiqu ī nī wa ʾanna ăd danānīra ăl yawma mutaʿaḏḏiraẗ:un fa qālū 
+ <lb n="4"/>nuḫriǧu min ǧallābi nā mā nuḫriǧu hu fī ṯamani hā bi fa hāḏā ăl ø makāni kāna ʾin ø ø ăs kasabta sababu wa ḏakarta ʾanna ka tuwaǧǧihu muwaǧǧih:un bi hā ʾasʾalu ăl lāha 
+ <lb n="5"/>ʾan yaǧʿala fī ḏālika ḫayraẗ:an wa ḏakarta ǧuʿla ăl munādī wa qad kāna šarṭu hu niṣfa dīnār:in fa lam ʾuʿṭī hi 
+ <lb n="6"/>ʾillā ṯulṯa dīnār:in fa ĭʿlam ḏālika ʾin šāʾa ăl lāhu wa ĭʿlam raḍiya ăl lāhu ʿan ka yā ʾabā ʿabdi ăl lāhi 
+ <lb n="7"/>ʾan nī katabtu ʾilà ʾabī ʿabdi ăl lāhi ăṭ ṭalaḥiyyi ṭalḥiyyi wa wāǧahtu hu fī kaṯraẗi ġaybati hi ʿani ăḍ ḍayʿaẗi 
+ <lb n="8"/>wa ʾaẓunnu hu ʾaʿṭā kitāba hu man lā yuḥsinu yaqraʾu fa qaraʾa la hu bi ø mā lam ʾaktub bi hi fa katabtu kataba ʾilà ʾilay ø ya kabbāsa kibāša kubāsa kubāša kitābayni 
+ <lb n="9"/>laysa fī raʾyi wāḥid:in hi ø bi min hāḏā humā ǧawāb:un li mā katabtu bi hi ʾilay hi fa yaqṣidu qad ø fahimā fī ø himā šayʾ mā huwa min raʾy ī wa lā yurḍī 
+ <lb n="10"/>ʾillā ʾan yakūna fī nafsi hi šayʾ:un lam ʾaʿlam bi hi wa lam yuṭalliʿ nī ʿalay hi munḏu yawmi raġibtu fī hi mā zahadtu 
+ <lb n="11"/>fī hi ʾilà ăl yawmi fa ʾin kāna fī nafsi hi huwa sabab:un li raʾfaẗ:in dāḫilaẗ:an wa ø ʾaḥmilu ø hu ʿalà mā nakira yakrahu hu ø wa law baʿaṯtu 
+ <lb n="12"/>ʾilay hi ka bi kubāšaẗa kitābay ø hi wa saʾalta hu fa ǧāʾa ka bi kitāb ī ʿarafta ʾanna hu lam yaǧīʾ bi šayʾ:in mimmā katabtu wa ʾanā 
+ <lb n="13"/>ʾasʾalu ʾasalu ăl lāha ăl ḫayraẗa fī ǧamīʿi ăl ʾumūri kulli hā fa wa la qad ʾaḫaḏtu la ka bi ø turs:in turs ṣaġīr ṣaġīr:in bi dīnār:in wa mā ʾaʿṭā nī hi 
+ <lb n="14"/>ṣāḥibu hu ḥattā ʾaḫaḏtu ø min ø hu bayʿaẗa maʿa ø hu turs turs:in kabīr kabīr:in ʾinnamā ʾabā ʾan yuʿṭiya himā ʾillā ǧumlaẗ:an ăl kabīru bi dīnārayni ø wa ăṣ ṣaġīru 
+ <lb n="15"/>bi dīnār:in wa la qad ʾaḫaḏtu ăl kabīra wa mā ʾaḥtāǧu ĭḥtāǧa ʾilay hi ʾillā ø li ø qaḍāʾi kulli taǧiddu ḥāǧati ḥāǧatu ka wa qad waǧǧahtu bi hi ʾilay ka maʿa ʾabī ṭulayb:in 
+ <lb n="16"/>salāmaẗu sallama hu ø ăl lāhi ʾilay ka fī ʿāfiyaẗ:in maʿa kitābi ka ʾilay ya bi ḫabari ka wa ḥāli ka wa ǧamīʿi ḥawāʾiǧi ka min fa ø tasurru ø nī baʿdi ø ø bi ḏālika ʿalay ka ʾafḍalu ăs salāmi wa ʿalà ăl wālidaẗi 
+ <lb n="17"/>wa ǧamīʿi ʾahli ăl bayti ăs salāmu wa kataba waṣīf:un wa huwa yawmu yuqriʾu ø ka ăl ăs ***** salāma ø kaṯīr:an wa ăs salāmu ʿalay ka wa ḥasbu raḥmaẗu nā ø ăl lāhi lāhu wa kafā barakātu ø hu bi ø hi ø 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[....... the slave-gir]l of ad-Dâlî (?), the Nubian; she said [
+			<lb n="2"/>
+		I know this slave-girl, though I concealed from [y]ou [...]...[.. the] Nubian, who had demanded the daughter of
+			<lb n="3"/>
+		[...]...[.. that ...] his selling-price, which was notified, suits me, and that the dînârs are today difficult to come by. They said:
+			<lb n="4"/>
+		... Dies also war der Grund (hierfür) ...
+		&#034;We got as much as we could out of our slave-trader as her price on this spot.&#034; If you have got (her) and mentioned, that you are dispatching her, I shall beg God
+			<lb n="5"/>
+		that He may render a favour in this matter. Now you mentioned the auctioneer&#039;s wages. His conditions were a half-dînâr, but I gave him
+			<lb n="6"/>
+		only a third of a dînâr. So take note of it, if God wills, and be aware, O Abû ʿAbdallâh - may God be well pleased with you -
+			<lb n="7"/>
+		that I have written to ʿAbdallâh aṭ-Ṭalḥî and have questioned him about his frequent absence from the estate,
+			<lb n="8"/>
+		and, I suppose, he has handed over his letter to somebody who does not know how to read (properly), so that he has read to him what I have never written. So I wrote to Kabbâs;
+		Ich vermute, daß er seinen Brief, (den ich geschrieben hatte), jemandem (zum Vorlesen) gab, der nicht gut lesen kann, worauf dieser ihm vorlas, was ich gar nicht geschrieben hatte. Denn er richtete zwei Briefe an mich,
+			<lb n="9"/>
+		he did not intend to give this answer to what I have written to him. For they both understood something which is not my opinion, and is (also) not satisfactory,
+		von denen kein einziger eine Antwort auf das, was ich ihm geschrieben hatte, enthielt, wobei er in den beiden (Briefen) auf etwas abzielte, was nicht meiner Auffassung entspricht und auch nicht gebilligt werden kann.
+			<lb n="10"/>
+		except there is something in his mind that I did not know and that he has not revealed to me since the day on which I desired what I disregarded
+			<lb n="11"/>
+		till today. But if it is in his mind, it is a reason for pity, entering because of that which he did not realize; and if I had sent
+		... und ich dränge ihn zu etwas, wogegen er Widerwillen empfindet. Wenn ich
+			<lb n="12"/>
+		Dir seine beiden (an mich gerichteten) Briefe übersenden würde und (wenn) er Dir auf Deine Bitte hin meinen (an ihn gerichteten) Briefe bringen würde, würdest Du erkennen, daß er mir (in seinen beiden Briefen) auf nichts von dem, was ich (ihm) geschrieben hatte, geantwortet hat.
+		him Kubâša and (...)
+		you Kubâša and you ask him while he brought you my letter, you would know that he brought nothing of that which I had written. And I
+			<lb n="13"/>
+		beg of God the blessing in all the affairs enitrely. [Now] I have already taken for you a small shield for one dînâr, yet its owner
+		... Ich habe Dir einen kleinen Schild für einen Dinar besorgt.
+		(...) Ich habe für dich einen kleinen Schild für einen Dinar besorgt. Sein Besitzer gab ihn mir erst,
+			<lb n="14"/>
+		als ich zusammen mit ihm einen großen Schild nahm; er wollte sie mir nur zusammen geben: den großen für zwei Dinar, den kleinen
+		did not give it to me, until I had undertaken to purchase a large shield; however he would give them both only wholesale, the large one for two dînârs, the small one
+		Sein Besitzer gab ihn mir erst dann, als ich ihm zusammen mit diesem (kleinen Schild) einen großen Schild abnahm. Er weigerte sich nämlich, die beiden Schilde anders als zusammen abzugeben, den großen für zwei Dinar und den kleinen
+			<lb n="15"/>
+		for one dînâr. Assuredly I have taken the large one and (all) that he needs is nothing else but all that you need. I have already dispatched it to you with Abû Ṭulaib.
+		für einen Dinar. Ich habe (also auch) den großen genommen, obwohl ich ihn gar nicht benötige; aber wenn du etwas brauchst, dann ist dies (für mich) eine gewichtige Angelegenheit. Ich habe ihn für dich Abū Ṭulayb
+		für einen Dinar. Ich habe den großen, obwohl ich ihn nicht benötige, nur genommen, umd all Deinen Bedarf &lt;zu erledigen&gt;. ...
+			<lb n="16"/>
+		- Gott lasse ihn bei dir gesund ankommen! (...)
+		möge Gott ihn (sc. den Mann, der dem Adressaten den kleinen Schild überbringt) bei Dir in Gesundheit ankommen lassen. ... denn Du erfreust mich damit. ...
+		Safety from God for you in health with your letter to me (announcing) your news, condition and all your needs. Thereafter best greetings to you and to the mother
+			<lb n="17"/>
+		and to all the inmates of the house salutation. Waṣîf has written (it), and this on ............... Peace be to you, and our sufficiency is God, and He suffices.
+</ab></div>
+</body>
+</text>
+</TEI>

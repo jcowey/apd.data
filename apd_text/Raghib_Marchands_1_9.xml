@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="395" xml:id="Raghib_Marchands_1_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands I 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_Marchands_1_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106603</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ذكر حق جعفر بن أحمد بن عبد المومن <supplied reason="lost" cert="high">على</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">عليه</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">أثواب</supplied> 
+<lb n="3"/>  كتّان طول كل ثوب ستّة <supplied reason="lost" cert="high">أذرع</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">عرض</supplied> <supplied reason="lost" cert="high">خمسة</supplied> <supplied reason="lost" cert="high">أشبار</supplied> 
+<lb n="4"/>  يدفع إلى جعفر في كل <supplied reason="lost" cert="high">جمعة</supplied> <supplied reason="lost" cert="high">ثوب</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">جمعتين</supplied> 
+<lb n="5"/>  ثوبين ثوبين حتّى يوفّيه هذه <supplied reason="lost" cert="high">الأثواب</supplied> <supplied reason="lost" cert="high">وأوّل</supplied> <supplied reason="lost" cert="high">جمعة</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6"/>  من ذى القعدة من سنة <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">و</supplied> <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">و</supplied> <supplied reason="lost" cert="high">مائتين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini ʿalà **** ʿalay hi **** ʾaṯwābu 
+ <lb n="3"/>kattān:in ṭūlu kulli ṯawb:in sittaẗu ʾaḏruʿ:in fī ʿarḍi ḫamsaẗi ʾašbār:in 
+ <lb n="4"/>yadfaʿu ʾilà ǧaʿfara fī kulli ǧumʿaẗ:in ṯawb fī kulli ǧumʿatayni 
+ <lb n="5"/>ṯawbayni ṯawbayni ḥattà yuwaffī hi hāḏihi ăl ʾaṯwāba wa ʾawwalu ǧumʿaẗ:in **** 
+ <lb n="6"/>min ḏī ăl qaʿdaẗi min sanaẗi **** wa ***** wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Titre établissant le droit de Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin [sur .... : il doit .... tissus]
+			<lb n="3"/>
+		de lin. La longueur de chaque tissu est de six [coudées sur une largeur de cinq empans].
+			<lb n="4"/>
+		Il livrera à Ǧaʿfar chaque [semaine une tissu, chaque deux semaines]
+			<lb n="5"/>
+		deux tissus jusqu&#039;à ce qu&#039;il s&#039;acquitte intégralement envers lui [de ces tissus. La première semaine (commence) le ....]
+			<lb n="6"/>
+		de ḏū l-qaʿda de l&#039;année [2..].
+</ab></div>
+</body>
+</text>
+</TEI>

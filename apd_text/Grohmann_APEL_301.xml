@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1758" xml:id="Grohmann_APEL_301" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 301</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_301</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169499</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أ</supplied>طال اللّـ<supplied reason="lost" cert="high">ـه</supplied> بقاك وأدام عزّك وكرامتك وأتم نعمته عليك و<supplied reason="lost" cert="high">زاد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> <supplied reason="lost" cert="high">إليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  كثيرا أتاني كتابك أحب الـ<supplied reason="lost" cert="high">ـكتـ</supplied>ـب إلي وأسرّها إلي فإنّي قرأته <app type="BL"><lem resp="APD">و<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">وفهمت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">ما</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ـدك </lem><rdg resp="Diem">ذكرت</rdg></app> فيه من <gap reason="illegible" extent="11" unit="character" /> 
+<lb n="4"/>  لأنقلنّه إليه وقد كنت كتبت إليك كتاب قبل هذا مع كيل بن مينا بن سرجه وكتبت إليك بوصول <app type="BL"><lem resp="APD">الكتاب </lem><rdg resp="Diem">الكتّان</rdg></app> <app type="BL"><lem resp="APD">بما </lem><rdg resp="Diem">ممّا</rdg></app> قرأته 
+<lb n="5"/>  من ذلك إنّها الدّالّة عليك تحملنا على أكثر من هذا فلا أعدمنا اللّه <app type="BL"><lem resp="APD">المال </lem><rdg resp="Diem">بقاءك</rdg></app> ولا أرانا <app type="BL"><lem resp="APD">قبل<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فيك</rdg></app> <gap reason="illegible" extent="2" unit="character" /><del rend="erasure" status="unremarkable">هـ</del>ـا 
+<lb n="6"/>  ولا مكروها إنّه سميع الدّعا فما نقدر لك على <del rend="erasure" status="unremarkable"><unclear reason="undefined" cert="high">ما</unclear></del> مكافأة إلّا الدّعا وبعد فإذا سلّم اللّه حامل 
+<lb n="7"/>  كتابي هذا إليك وهو فسيله <app type="BL"><lem resp="APD">النّوتي </lem><rdg resp="Diem">النّوتيّ</rdg></app> فاقبض منه صرّة فيها عشرة الدّنانير مثاقيل بنقص 
+<lb n="8"/>  ثمن دينر فأحب <app type="BL"><lem resp="APD">أكرمك </lem><rdg resp="Diem">أحبّك</rdg></app> اللّه أن تشتر بها لي كتّان جيّد من أجود ما تقدر عليه لعل اللّه ببركتك 
+<lb n="9"/>  يرزقني فيه شي ببركتك فلم تزل مبارك على جميع من عرفك فلا أعدمك اللّه الفضل مع الكتاب بخبرك 
+<lb n="10"/>  وحالك <del rend="erasure" status="unremarkable">وپحمپع</del> وجميع حوائجك <app type="BL"><lem resp="APD">لا </lem><rdg resp="Diem">لأنّك</rdg></app> <app type="BL"><lem resp="APD">بد </lem><rdg resp="Diem">ø</rdg></app> تسرّني بذلك <app type="BL"><lem resp="APD">وا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">واكتب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">إليّ</rdg></app> <supplied reason="lost" cert="high">بو</supplied>صول الدّنانير إليك <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فـ</supplied>ـنكون </lem><rdg resp="APD">فنكون</rdg></app> من ذلك 
+<lb n="11"/>  <app type="BL"><lem resp="APD">على </lem><rdg resp="Diem">على</rdg></app> علم إن شا اللّه خص نفسك <app type="BL"><lem resp="APD">السلم </lem><rdg resp="Diem">منّي</rdg></app> كپپرا وعلى السپح الحشّن السلم كپپرا اپڤاك ألله وحڤطك واپاپك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka *** 
+ <lb n="3"/>kaṯīr:an ʾatā nī kitābu ka ʾaḥabbu ăl kutubi ʾilay ya wa ʾasarru hā ʾilay ya fa ʾin nī qaraʾtu hu wa *** fahimtu ** mā ***d ḏakarta ka fī hi min *********** 
+ <lb n="4"/>la ʾanqulanna hu ʾilay hi wa qad kuntu katabtu ʾilay ka kitāb qabla hāḏā maʿa kayla bni mīnā bni sirǧaha wa katabtu ʾilay ka bi wuṣūli ăl kitābi kattāni bi mim mā qaraʾta hu 
+ <lb n="5"/>min ḏālika ʾinna hā ăd dāllaẗu ʿalay ka taḥmilu nā ʿalà ʾakṯara min hāḏā fa lā ʾaʿdama nā ăl lāhu ăl baqāʾa māla ka wa lā ʾarā nā qibala fī ø ka sūʾ:an 
+ <lb n="6"/>wa lā makrūh:an ʾinna hu samīʿu ăd duʿāʾi fa mā naqdiru la ka ʿalà mukāfaʾaẗ:in ʾillā ăd duʿāʾa wa baʿdu fa ʾiḏā sallama ăl lāhu ḥāmila 
+ <lb n="7"/>kitāb ī hāḏā ʾilay ka wa huwa fasīlahu ăn nūbiyyu nūtiyyu fa ĭqbiḍ min hu ṣurraẗ:an fī hā ʿašaraẗu ăd danānīri maṯāqīlu bi naqṣi 
+ <lb n="8"/>ṯumni dīnār:in fa ʾuḥibbu ʾakrama ʾaḥabba ka ăl lāhu ʾan taštari bi hā l ī kattān ǧayyid min ʾaǧwadi mā taqdiru ʿalay hi laʿalla ăl lāha bi barakati ka 
+ <lb n="9"/>yarzuqu nī fī hi šayʾ bi barakati ka fa lam tazal mubārak ʿalà ǧamīʿi man ʿarafa ka fa lā ʾaʿdama ka ăl lāhu ăl faḍla maʿa ăl kitābi bi ḫabari ka 
+ <lb n="10"/>wa ḥāli ka wa ǧamīʿi ḥawāʾiǧi ka lā li ø ʾanna ø ka budda ø tasurru nī bi ḏālika wa ʾ*** ŭktub *** ʾilay ø ya bi wuṣūli ăd danānīri ʾilay ka fa nakūna yakūnu min ḏālika 
+ <lb n="11"/>ʿalà ʿalay ø ya ʿilm:in ʿilm:un ʾin šāʾa ăl lāhu ḫuṣṣi nafsa ka ø minn ø ī ăs salāma kaṯīr:an wa ʿalà ăš šayḫi ăl ḥasani ăs salāmu kaṯīr:an ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾaṯāba ʾamtaʿa ka ø bi ø ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Mercifu]l.
+			<lb n="2"/>
+		May Go[d pro]long your life and may He cause your might and honour to continue and may He fulfil His loving kindness unto you and [may He increase His bounty unto you .........
+			<lb n="3"/>
+		... Ich habe ihn (sc. den erhaltenen Brief des Adressaten) gelesen und verstanden, was du darin erwähnst von [4-5 Wörter, die vielleicht eine Lieferung an einen Dritten betreffen]
+		many times. Your letter, the most beloved and most enjoyable to me of le[tte]rs reached me. So, indeed, I read it and ... ... therein of ... ... ...
+			<lb n="4"/>
+		ich werde es ihm ganz bestimmt übermitteln .... und zwar hatte ich Dir (in meinem vorhergehenden Brief) die Ankunft des Flachses mitgeteilt, was Du ja (wohl) gelesen hast,
+		I had certainly transmitted it to him. I have already written a letter before this (present one) to you (conveyed) by Chael b. Mînâ b. Serǧe, and I have written to you about the arrival of the letter containing what you have read
+			<lb n="5"/>
+		darunter, daß mich die familiäre Freiheit Dir gegenüber noch zu mehr (Bitten Dir gegenüber) veranlaßt (sc. ermutigt). So möge uns denn Gott nicht Deines Weiterlebens berauben und uns, was Dich betrifft, 〚und nichts Unangenehmes〛nichts Schlimmes
+		thereof. Verily, it gives you a hint (that) you make us request more than this. So may God not deprive us of the money and may He not show us from the side of 〚...〛 anything evil
+			<lb n="6"/>
+		or abominable. Verily, He is hearkening to (each) supplication. But we are not able to offer you 〚what〛 any (other) recompense than the supplication. And thereafter: So when God preserves (from all evil) the carrier of
+		und nichts Unangenehmes erleben lassen! ...
+			<lb n="7"/>
+		this my letter to you, who is Basil (Fasîla), the Nubian, take over from him a purse in which are ten dînârs miṯqâlî with a deficiency of
+			<lb n="8"/>
+		an eighth of a dînâr. I therefore wish - may God benefit you - that you buy with it good flax for me of the best you can (get). Perhaps God will bestow upon me by means of your blessed hand
+		... So möchte ich gern - Gott habe Dich gern -, daß Du für mich für diese (zehn Dinar) Flachs sehr guter Qualität kaufst. ...
+			<lb n="9"/>
+		something therein according to your (own) prosperity. So you may continue to spend blessing to all those who know you. May God therefore not deprive you of the grace (to send us) a letter (announcing) your news,
+		... So möge Dich denn Gott nicht seiner Gnade entbehren lassen! Schreibe mir Neuigkeiten über Dich
+			<lb n="10"/>
+		etc. denn Du würdest mich damit erfreuen. Bestätige mir brieflich den Empfang der Dinare, [damit] wir dies
+		your condition 〚and all〛 and all your needs, you will certainly give me the pleasure therewith. And ...... [...] ... ... that the dînârs have [rea]ched you, so that I might be
+			<lb n="11"/>
+		informed about it, if God wills. Assign specially to yourself many greetings, and to the master al-Ḥasan many greetings. May God preserve you and protect you and recompense you.
+		wissen...
+</ab></div>
+</body>
+</text>
+</TEI>

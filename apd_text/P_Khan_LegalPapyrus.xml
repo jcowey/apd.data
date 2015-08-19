@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1270" xml:id="P_Khan_LegalPapyrus" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KhanLegalPapyrus</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Khan_LegalPapyrus</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169095</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما أكرى <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">إ</supplied>سمعيل أكرى عبد الملك بن عمـ<supplied reason="lost" cert="high">ـر</supplied> المعافري البيت 
+<lb n="3"/>  الّذي في دار عبيد بن الطّاهر اللّخمي <sic n="superfluous">لا</sic> وهو الپپپ الدى پحرى المسحد الدى 
+<lb n="4"/>  في داخل الدّار بما له مغلق عليه باب البيت وله تقريط دابّتين 
+<lb n="5"/>  أكراه ذلك بنقد دينرين ودينرين أحمرين إلى ثلثة أشهر 
+<lb n="6"/>  وأوّل سنته مستهل صفر سنة ثمانين ومائة شهد على ذلك 
+<lb n="7"/>  جابر بن عبد الحميد بن أبي الجوزيّة القرشي وكتب كتاب شهدته بأمره وعمران بن 
+<lb n="8"/>  عيسى بن أبي <app type="BL"><lem resp="APD">رتبيل </lem><rdg resp="APD">زنبيل</rdg></app> الغافقي وكتب <app type="BL"><lem resp="APD">شهدة </lem><rdg resp="in plate only ‫سهده‬ but see translation “LS”">شهدته</rdg></app> سهدبه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾakrà *** bnu ʾismāʿīla ʾakrà ʿabda ăl maliki bna ʿumara ăl maʿāfiriyya ăl bayta 
+ <lb n="3"/>ăllaḏī fī dāri ʿubaydi bni ăṭ ṭāhiri ăl laḫmiyyi lā wa huwa ăl baytu ăllaḏī baḥriyyu ăl masǧidi ăllaḏī 
+ <lb n="4"/>fī dāḫili ăd dāri bi mā la hu muġliq:un ʿalay hi bābu ăl bayti wa la hu taqrīṭu dābbatayni 
+ <lb n="5"/>ʾakrā hu ḏālika bi naqdi dīnārayni wa dīnārayni ʾaḥmarayni ʾilà ṯalāṯaẗi ʾašhur:in 
+ <lb n="6"/>wa ʾawwalu sanaẗi hi mustahallu ṣafar:in sanaẗa ṯamānīna wa miʾaẗ:in šahida ʿalà ḏālika 
+ <lb n="7"/>ǧābiru bnu ʿabdi ăl ḥamīdi bni ʾabī ăl ǧawziyyaẗi ăl qurašiyyu wa kutiba kitābu šahādati hi bi ʾamri hi wa ʿimrānu bnu 
+ <lb n="8"/>ʿīsà bni ʾabī rutbīla zanbīla ăl ġāfiqiyyu wa kataba šahādaẗ:an šahādata ø hu bi yadi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate
+			<lb n="2"/>
+		This is what [   son of] Ismaʿīl leased. He leased to ʿAbd al-Malik ibn ʿUmar al-Maʿāfirī the house
+			<lb n="3"/>
+		that is in the compound of ʿUbayd ibn al-Ṭāhir al-Laḵmī, this being the house that is north of the mosque that is
+			<lb n="4"/>
+		within the compound, including what is enclosed by the door of the house and also a place to tether pack-animals.
+			<lb n="5"/>
+		He leased this to him for a sum of two dīnārs in cash, two red dīnārs, for three months
+			<lb n="6"/>
+		The start of its year is the beginning of Ṣafar, in the year one hundred and eighty (= 14 April 796 CE). This was witnessed by
+			<lb n="7"/>
+		Jābir ibn ʿAbd al-Ḥamīd ibn ʾAbī al-Jawziyya al-Qurašī, his document of testimony being written by his command, and ʿImrān ibn
+			<lb n="8"/>
+		ʿIsā ibn ʾAbī Rutbīl al-Ġāfiqī, who wrote his testimony with his hand.
+</ab></div>
+</body>
+</text>
+</TEI>

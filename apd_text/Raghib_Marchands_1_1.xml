@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="385" xml:id="Raghib_Marchands_1_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>ّP.Marchands I 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_Marchands_1_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106595</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد الشّهود الـمسمّون في هذا الكتاب <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">محمّد</supplied> بن الـحجّاج وعمرو بن عثمان وجعفر بن أحمد بن عبد الـمومن 
+<lb n="3"/>  يعرفونهم بأعياناتهم وأسمائهم أقرّوا عندهم وأشهدوهم على أنفسهم وذلك في صحّة من عقولهم 
+<lb n="4"/>  وأبدانهم وجواز أمورهم وذلك في شهر ربيع الآخر من سنة خمسين ومائتي أنّهم اشتركوا 
+<lb n="5"/>  شركة متفاوضة على أنّهم أخرجوا <app type="BL"><lem resp="APD">بهذه </lem><rdg resp="Diem">لهذه</rdg></app> الشّركة الـمتفاوضة عشرون دينرا عينا ذهبا 
+<lb n="6"/>  وزنا بالمثاقيل لعمرو بن عثمن من سكّان الفسطاط من ذلك عشرة الدّنانير عينا ذهبا 
+<lb n="7"/>  وزنا بالمثاقيل ولمحمّد بن الحجّاج من ذلك خمسة الدّنانير عينا ذهبا وزنا بالمثاقيل 
+<lb n="8"/>  ولجعفر بن أحمد من ذلك خمسة الدّنانير عينا ذهبا وزنا بالمثاقيل فأقام محمّد بن الحجّاج وجعفر 
+<lb n="9"/>  بن أحمد بن عبد المومن بمدينة الفيّوم يشتروا بهذه العشرون الدّينر بز من متاع الفيّوم 
+<lb n="10"/>  <gap reason="illegible" extent="14" unit="character" /> وحفظه إلى شريكهم عمرو بن عثمن بفسطاط مصر <gap reason="illegible" extent="12" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʾanna muḥammada bna ăl ḥaǧǧāǧi wa ʿamr bna ʿuṯmāna wa ǧaʿfara bna ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="3"/>yaʿrifūna hum bi ʾaʿyānāti him wa ʾasmāʾi him ʾaqarrū ʿinda hum wa ʾašhadū hum ʿalà ʾanfusi him wa ḏālika fī ṣiḥḥaẗ:in min ʿuqūli him 
+ <lb n="4"/>wa
+ ʾabdāni him wa ǧawāzi ʾumūri him wa ḏālika fī šahri rabīʿa ăl ʾāḫari min sanaẗi ḫamsīna wa miʾatay ʾanna humu ĭštarakū 
+ <lb n="5"/>širkaẗ:an mutafāwaḍaẗ:an ʿalà ʾanna hum ʾaḫraǧū bi li hāḏihi ăš širkaẗi ăl mutafāwaḍaẗi ʿišrūna dīnār:an ʿayn:an ḏahab:an 
+ <lb n="6"/>wazn:an bi ăl maṯāqīli li ʿamri bni ʿuṯmāna min sukkāni ăl fusṭāṭi min ḏālika ʿašaraẗu ăd danānīri ʿayn:an ḏahab:an 
+ <lb n="7"/>wazn:an bi ăl maṯāqīli wa li muḥammadi bni ăl ḥaǧǧāǧi min ḏālika ḫamsaẗu ăd danānīri ʿayn:an ḏahab:an wazn:an bi ăl maṯāqīli 
+ <lb n="8"/>wa li ǧaʿfara bni ʾaḥmada min ḏālika ḫamsaẗu ăd danānīri ʿayn:an ḏahab:an wazn:an bi ăl maṯāqīli fa ʾaqāma muḥammadu bnu ăl ḥaǧǧāǧi wa ǧaʿfaru 
+ <lb n="9"/>bnu ʾaḥmada bni ʿabdi ăl muʾmini bi madīnaẗi ăl fayyūmi yaštarū bi hāḏihi ăl ʿišrūna ăd dīnāri bazz min matāʿi ăl fayyūmi 
+ <lb n="10"/>************** wa ḥafiẓa hu ʾilà šarīki him ʿamri bni ʿuṯmana
+ bi fusṭāṭi miṣra ************ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Les témoins nommés en cet écrit ont témoigné que Muḥammad b. al-Ḥaǧǧāǧ, ʿAmr b. ʿUṯmām et Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin,
+			<lb n="3"/>
+		dont ils connaissent l&#039;identité et le nom, ont reconnu en leur présence et les ons pris à témoins, et ceci dans la plénitude de leurs facultés mentales
+			<lb n="4"/>
+		et physiques et dans leur capacité juridique, et ceci au mois de rabīʿ II de l&#039;année 250, qu&#039;ils ont constitué
+			<lb n="5"/>
+		une société à mandat général et, comme stipulé, apporté dans cette société à mandat général vingt dinars en espèces d&#039;or
+			<lb n="6"/>
+		pesées en miṯqāl-s. A ʿAmr b. ʿUṯmān, des habitants d&#039;al-Fusṭāṭ, de ceci dix dinars en espèces d&#039;or
+			<lb n="7"/>
+		pesées en miṯqāl-s. A Muḥammad b. al-Ḥaǧǧāǧ de ceci cinq dinars en espèces d&#039;or pesées en miṯqāl-s.
+			<lb n="8"/>
+		Et à Ǧaʿfar b. Aḥmad de ceci cinq dinars en espèces d&#039;or pesées en miṯqāl-s. Muḥammad b. al-Ḥaǧǧāǧ et Ǧaʿfar
+			<lb n="9"/>
+		b. Aḥmad b. ʿAbd al-Muʾmin, en la ville d&#039;al-Fayyoum, se sont engagés à acheter avec ces vingt dinars des étoffes des marchandises d&#039;al-Fayyoum
+			<lb n="10"/>
+		[....] et les garder pour leur associé, ʿAmr b. ʿUṯmān de Fusṭāṭ Miṣr [....]
+</ab></div>
+</body>
+</text>
+</TEI>

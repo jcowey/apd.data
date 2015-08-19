@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1880" xml:id="Grohmann_APEL_405" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 405</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_405</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169617</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  الّذي وصل إلى سيّدي أبي محمّد عبد اللّه 
+<lb n="3"/>  من أبي سالمة أيّده اللّه من يدي 
+<lb n="4"/>  من العين 
+<lb n="5"/>  سبعة الدّنانير من يدي منه<del rend="erasure" status="unremarkable">العرو</del>العز 
+<lb n="6"/>  ودينر من مال الجامع الـ<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="7"/>  وحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī waṣala ʾilà sayyid ī ʾabī muḥammad:in ʿabdi ăl lāhi 
+ <lb n="3"/>min ʾabī sālimaẗa ʾayyada hu ăl lāhu min yaday ya 
+ <lb n="4"/>mina ăl ʿayni 
+ <lb n="5"/>sabʿaẗu ăd danānīri min yaday ya min hu ăl ʿizz 
+ <lb n="6"/>wa dīnār:un min māli ăl ǧāmiʿi ăl ** 
+ <lb n="7"/>wa ḥ*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		That which has reached my lord Abû Muḥammad ʿAbdallâh
+			<lb n="3"/>
+		from Abû Sâlima - may God exalt him - out of my (own) hand
+			<lb n="4"/>
+		of gold coins
+			<lb n="5"/>
+		(amounts to) seven dînârs out of my (own) hand. Thereof (is)〚... ... ...〛the Muʿizzî (?)
+			<lb n="6"/>
+		and one dînâr from the money  of the (great) mosque ... ... ... ...
+			<lb n="7"/>
+		and ... [
+</ab></div>
+</body>
+</text>
+</TEI>

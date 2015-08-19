@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1890" xml:id="Grohmann_APEL_409" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 409</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_409</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169627</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم الرّواتب 
+<lb n="2"/>  <app type="BL"><lem resp="APD">دويد </lem><rdg resp="APD">ذويد</rdg></app> وقـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <app type="BL"><lem resp="final nūn with dot above">‮حيّان </lem><rdg resp="final nūn with dot above">‮حبّان </rdg><rdg resp="final nūn with dot above">‮جيان </rdg><rdg resp="final nūn with dot above">‮جنان </rdg><rdg resp="final nūn with dot above">‮حنان</rdg></app> ‪ς‬ <gap reason="illegible" extent="2" unit="character" /> ‪χ‬ <gap reason="illegible" extent="2" unit="character" /> ‪ιʹβʹχ‬ 
+<lb n="4"/>  ‮<gap reason="illegible" extent="1" unit="character" /> ‪ιε‬ <gap reason="illegible" extent="2" unit="character" /> ‪ϰε‬ <gap reason="illegible" extent="2" unit="character" /> ‪χγʹιʹβʹχ‬ 
+<lb n="5"/>  ‮ـ<gap reason="illegible" extent="2" unit="character" /> ‪ζ‬ <gap reason="illegible" extent="2" unit="character" /> ‪ιγ‬ <gap reason="illegible" extent="2" unit="character" /> ‪ςʹηʹχ‬ 
+<lb n="6"/>  ‮عز بن حيّان‪ιεςʹ‬ <gap reason="illegible" extent="2" unit="character" /> ‪η‬ <gap reason="illegible" extent="2" unit="character" /> ‪‪ʹηʹχ‬ 
+<lb n="7"/>  على ضمان سراب 
+<lb n="8"/>  <app type="BL"><lem resp="APD">‮مپسله </lem><rdg resp="APD">‮ميسلة</rdg></app> ‪ς‬ <gap reason="illegible" extent="2" unit="character" /> ‪ς‬ <gap reason="illegible" extent="2" unit="character" /> ‪ιʹβʹχ‬ 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăr rawātibu 
+ <lb n="2"/>duwayd:un ḏuwayd:un wa q*** *** *** 
+ <lb n="3"/>ḥanānu ḥayyānu ḥibbān ǧinānu ǧiyānu ḥubbānu ‪6 ** ‪1/48 ** ‪1/12+1/48 
+ <lb n="4"/>* ‪15 ** ‪25 ** ‪1/2+1/3+1/12+1/48 
+ <lb n="5"/>** ‪7 ** ‪13 ** ‪1/6+1/8+1/48 
+ <lb n="6"/>ʿizzu bnu ḥayyāna ‪15 1/6 ** ‪8 ** ‪‪1/6+1/8+1/48 
+ <lb n="7"/>ʿalà ḍamāni surāba 
+ <lb n="8"/>maysalaẗu mBslh ‪6 ** ‪6 ** ‪1/12+1/48 
+ <lb n="9"/>*** ***** ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. The wages:
+			<lb n="2"/>
+		Duwaid and Q[...] ...[
+			<lb n="3"/>
+		Ḥayyân 6 ,, 1/48 ,, 1/12+1/48
+			<lb n="4"/>
+		. 15 ,, 25 ,, 1/2+1/3+1/12+1/48
+			<lb n="5"/>
+		,, 7 ,, 13 ,, 1/6+1/8+1/48
+			<lb n="6"/>
+		ʿIzz b. Ḥayyân 15 1/6 ,, 8 ,, 1/6+1/8+1/48
+			<lb n="7"/>
+		on the responsibility of Surâb
+			<lb n="8"/>
+		Maisala (?) 6 ,, 6 ,, 1/12+1/48
+			<lb n="9"/>
+</ab></div>
+</body>
+</text>
+</TEI>

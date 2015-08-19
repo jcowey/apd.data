@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1473" xml:id="Diem_Heid_II_66" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 66</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_66</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169255</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّوف الرّحيم 
+<lb n="recto 2 right"/>  المسكين 
+<lb n="recto 2-3 right"/>  بخطاياه 
+<lb n="recto 3 right"/>  حديد أخوه 
+<lb n="recto 2 left"/>  يقبّل الأيدي القدام الطّا<unclear reason="undefined" cert="high">هرة</unclear> 
+<lb n="recto 3 left"/>  البويّة الخويّة أدام اللّه 
+<lb n="recto 4"/>  بقاه ويطوّل لي في حياته 
+<lb n="recto 5"/>  آمين وينهي أنّي أنا طيّب وفي عا 
+<lb n="recto 6"/>  فيه وانا <app type="BL"><lem resp="UB">مشتاق </lem><rdg resp="APD">لنّضر</rdg></app> لنضر الى 
+<lb n="recto 7"/>  المليح وأنا أصلّي له ألا أنت عندي 
+<lb n="recto 8"/>  حاضر في قلبي بلا شك فيا 
+<lb n="recto 9"/>  أخي مالك ما يجي إلى الدّير 
+<lb n="recto 10"/>  لو أنّك تصوم فيه باقيّت 
+<lb n="recto 11"/>  الصّوم وتعود إلى المكان الّذي 
+<lb n="recto 12"/>  تختاره بسلام فتجي من كل بد 
+<lb n="recto 13"/>  وسبب واللّه يدري من يعيش 
+<lb n="recto 14"/>  ينضر أخوه يا أخي أمّنا بقت تحيا 
+<lb n="recto 15"/>  وتولد لنا أخ آخر وإن لقيت 
+<lb n="recto 16"/>  أحد يجي إلى الدّير يسيّر لي معه 
+<lb n="recto 17"/>  خلق جبّة أو وطة في أقدامي من 
+<lb n="recto 18"/>  الحفة بعد السّلام عليك وعلى 
+<lb n="recto 19"/>  كل من يحيط به علمك المجد 
+<lb n="recto 20"/>  للّه دائما أبدا أنها ذالك 
+<lb n="verso 1"/>  وتتوصّه بحملها الرّهب بخير 
+<lb n="verso 2"/>  وتتوجّه معه إلى حاجته 
+<lb n="verso 3"/>  لأنّك مقصد خير والسّلام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raʾūfi ăr raḥīmi 
+ <lb n="2"/>ăl miskīnu 
+ <lb n="3"/>bi ḫaṭāyā hu 
+ <lb n="4"/>ḥudayd:un ʾaḫū hu 
+ <lb n="5"/>yuqabbilu ăl ʾaydī ăl qudāma ăṭ ṭāhiraẗa 
+ <lb n="6"/>ăl bawiyyaẗa ăl ḫawiyyaẗa ʾadāma ăl lāhu 
+ <lb n="7"/>baqāʾa hu wa yuṭawwilu l ī fī ḥayāti hi 
+ <lb n="8"/>ʾāmīn wa yunhī ʾan nī ʾanā ṭayyib:un wa fī ʿāfiyaẗ:in 
+ <lb n="9"/>wa ʾanā muštāq:un li n naḍar:in naḍari ø ʾilà waǧhi hi 
+ <lb n="10"/>ăl malīḥi wa ʾanā ʾuṣallī la hu ʾalā ʾanta ʿind ī 
+ <lb n="11"/>ḥāḍir:un fī qalb ī bi lā šakk:in fa yā 
+ <lb n="12"/>ʾaḫ ī mā la ka mā yaǧīʾu ʾilà ăd dayri 
+ <lb n="13"/>law ʾanna ka taṣūmu fī hi bāqiyyata 
+ <lb n="14"/>ăṣ ṣawmi wa taʿūdu ʾilà ăl makāni ăllaḏī 
+ <lb n="15"/>taḫtāru hu bi ăs ø salāmi salām:in fa taǧīʾu min kulli budd:in 
+ <lb n="16"/>wa sabab:in wa ăl lāhu yadrī man yaʿīšu 
+ <lb n="17"/>yanḍuru ʾaḫū hu yā ʾaḫ ī ʾummu nā baqat taḥyā 
+ <lb n="18"/>wa tūladu la nā ʾaḫ ʾāḫara wa ʾin laqīta 
+ <lb n="19"/>ʾaḥad yaǧīʾu ʾilà ăd dayri yusayyiru l ī maʿa hu 
+ <lb n="20"/>ḫalaqa ǧubbaẗ:in ʾaw waṭaẗ:an fī ʾaqdām ī mina 
+ <lb n="21"/>ăl ḥafaẗi baʿda ăs salāmi ʿalay ka wa ʿalà 
+ <lb n="22"/>kulli man yuḥīṭu bi hi ʿilmu ka ăl maǧdu 
+ <lb n="23"/>li l lāhi dāʾim:an ʾabad:an ʾanhā ḏālika 
+ <lb n="24"/>wa tatawaṣṣah bi ḥāmili hā ăr rāhibi bi ḫayr:in 
+ <lb n="25"/>wa tatawaǧǧah maʿa hu ʾilà ḥāǧati hi 
+ <lb n="26"/>liʾanna ka maqṣidu ḫayr:in wa ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Mitleidigen und Barmherzigen!
+			<lb n="2"/>
+		Der durch seine
+			<lb n="3"/>
+		Sünden arme
+			<lb n="4"/>
+		Ḥudayd, sein Bruder,
+			<lb n="5"/>
+		küßt die ehrwürdigen (?) und reinen Hände
+			<lb n="6"/>
+		des Vaters und Bruders - Gott lasse sein
+			<lb n="7"/>
+		Leben andauern und lasse ihn mir zuliebe lange leben!
+			<lb n="8"/>
+		Amen - und tut kund, daß es mir gut geht und ich bei Ge-
+			<lb n="9"/>
+		sundheit bin, daß ich Sehnsucht danach habe, sein
+			<lb n="10"/>
+		hübsches Gesicht anzuschauen und daß ich für ihn bete; indes bist Du bei mir
+			<lb n="11"/>
+		in meinem Herzen ohne Zweifel gegenwärtig. Warum also, oh
+			<lb n="12"/>
+		Bruder, kommt er nicht zum Kloster;
+			<lb n="13"/>
+		Wie wäre es, wenn Du darin die restliche
+			<lb n="14"/>
+		Fastenzeit verbrächtest und (dann) in Frieden zu dem Ort
+			<lb n="15"/>
+		Deiner Wahl zurückkehrtest? Komm also unter allen
+			<lb n="16"/>
+		Umständen; Gott weiß, solange man lebt,
+			<lb n="17"/>
+		soll man sich um seinen Bruder kümmern. Mein Bruder, unsere Mutter ist noch am Leben
+			<lb n="18"/>
+		und wird uns einen anderen Bruder gebären. Wenn Du
+			<lb n="19"/>
+		jemanden triffst, der in das Kloster kommt, dann gebe er ihm für mich
+			<lb n="20"/>
+		ein abgetragenes Gewand oder Schuhe mit, die ich anziehen kann, damit ich nicht
+			<lb n="21"/>
+		barfuß gehen muss. Grüße an Dich und an
+			<lb n="22"/>
+		alle, die Dein Wissen umfaßt! Ruhm
+			<lb n="23"/>
+		gebührt Gott immer und ewig! Dies hat er (sc. Schreiber) kundgetan.
+			<lb n="24"/>
+		Laß Dir den Überbringer dieses (Schreibens), den Mönch, im Guten angelegen sein
+			<lb n="25"/>
+		und verhilf ihm zu seinem Anliegen,
+			<lb n="26"/>
+		denn Du bist ein Ort, den man aufsucht, um Gutes zu erlangen. Gruß!
+</ab></div>
+</body>
+</text>
+</TEI>

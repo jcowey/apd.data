@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="844" xml:id="Grohmann_World_p_148_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 148 b (= P.Berl.Arab. II 65)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_148_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113622</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الرّحيم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  الاثنين ليوم الاثنين   
+<lb n="3"/>  ادفع إلى <app type="BL"><lem resp="sīn with dash above">المرسل </lem><rdg resp="“Diem”; sīn with dash above">الرسل </rdg></app> لجراية 
+<lb n="4"/>  الرّزق ليوم الاثنين 
+<lb n="5"/>  أحد عشر يوما من <app type="BL"><lem resp="APD">برموده </lem><rdg resp="“Diem”">برموده</rdg></app> 
+<lb n="6"/>  دينارين ان الشّـ<supplied reason="lost" cert="high">ـعير</supplied>  
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā ʾabā ḥamīd:in ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="3"/>ĭdfaʿ ʾilà ăl mursali rasli li ǧirāyaẗi 
+ <lb n="4"/>ăr rizqi li yawmi ăli ĭṯnayni 
+ <lb n="5"/>ʾaḥada ʿašara yawm:an min barmūdaẗa barmūdiha 
+ <lb n="6"/>dīnārayni ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		O Abū Ḥāmid - Gott lasse Dich lange leben -,
+		O Abû Ḥâmid, may God prolong thy life,
+			<lb n="3"/>
+		händige dem Boten für das
+		hand over to the one sent for compensation
+			<lb n="4"/>
+		Gehalt am Montag,
+		of the wages for Monday
+			<lb n="5"/>
+		(da) elf Tage von (dem Monat) Barmūde (vergangen sind [?]),
+		the eleventh of Barmûde
+			<lb n="6"/>
+		two dînârs ......
+		zwei Dinar aus, so Gott will!
+</ab></div>
+</body>
+</text>
+</TEI>

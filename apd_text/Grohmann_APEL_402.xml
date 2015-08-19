@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1964" xml:id="Grohmann_APEL_402" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 402</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_402</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169696</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ر <gap reason="illegible" extent="2" unit="character" />ل 
+<lb n="2"/>  <app type="BL"><lem resp="APD">‮<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">رپپف </rdg><rdg resp="APD">رپپك</rdg></app> قنطار الثّمن ÷÷÷÷÷ 
+<lb n="3"/>  ‮أبو التّرفة قنطار الثّمن دينار ÷ 
+<lb n="4"/>  ‮عبّاس قنطار الثّمن <supplied reason="lost" cert="high">د</supplied>ينار ÷÷ 
+<lb n="5"/>  ‮رقاق الكناديلي قنطار <supplied reason="lost" cert="high">ا</supplied>لـثّمن دينار <unclear reason="undefined" cert="high">÷</unclear> 
+<lb n="6"/>  بن هشام <gap reason="illegible" extent="4" unit="character" /> الثّمن دينارين إلّا خمسة 
+<lb n="7"/>  ‮النّضر قنطار الثّمن ÷÷÷ 
+<lb n="8"/>  ‮بن الشّامي قنطارين الثّمن ÷÷÷÷ 
+<lb n="9"/>  دينر إلّا ثمانية 
+<lb n="10"/>  ‮<supplied reason="lost" cert="high">أ</supplied>بو التّرفة قنطار الثّمن دينار ÷÷÷ 
+<lb n="11"/>  ‮<gap reason="illegible" extent="5" unit="character" /> ÷÷ 
+<lb n="12"/>  الرّقبة قنطارين الثّمن 
+<lb n="13"/>  دينار ÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **r **l 
+ <lb n="2"/>**** rBBf rBBk qinṭār:un ăṯ ṯamanu 2+1/2+1/3+1/24 
+ <lb n="3"/>ʾabū ăt turfaẗi qinṭār:un ăṯ ṯamanu dīnār 3 
+ <lb n="4"/>ʿabbās:un qinṭār:un ăṯ ṯamanu dīnār 3+1/6 
+ <lb n="5"/>riqāq:unu ăl kanādīliyyu qinṭār:un ăṯ ṯamanu dīnār 10 
+ <lb n="6"/>bnu hišām:in **** ăṯ ṯamanu dīnārayni ʾillā ḫamsaẗ:un 
+ <lb n="7"/>ăn naḍru qinṭār:un ăṯ ṯamanu 3+1/6+1/8 
+ <lb n="8"/>bnu ăš šāmiyyi qinṭārayni ăṯ ṯamanu 6+1/2+1/4+1/8 
+ <lb n="9"/>dīnār:un ʾillā ṯamāniyaẗ:un 
+ <lb n="10"/>ʾabū ăt turfaẗi qinṭār:un ăṯ ṯamanu dīnār 3+1/2+1/8 
+ <lb n="11"/>***** 1+1/2 
+ <lb n="12"/>ăr raqabaẗu qinṭārayni ăṯ ṯamanu 
+ <lb n="13"/>dīnār 9+1/4 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		.......................one quintal, the price dînâr 2 1/2+1/3+1/24
+			<lb n="3"/>
+		Abu&#039;t-Turfa one quintal, the price dînâr 3
+			<lb n="4"/>
+		ʿAbbâs one quintal, the price [d]înâr 3 1/6
+			<lb n="5"/>
+		Riqâq al-Kanâdîlî (?) one quintal, [t]he price dînâr 10
+			<lb n="6"/>
+		Ibn Hišâm ....... the price two dînârs less five (carats)
+			<lb n="7"/>
+		an-Naḍr one quintal, the price 3 1/6+1/8
+			<lb n="8"/>
+		Ibn aš-Šâmî two quintals, the price 6 1/2+1/4+1/8
+			<lb n="9"/>
+		one dînâr less eight (carats)
+			<lb n="10"/>
+		Abu&#039;t-Turfa one quintal, the price dînâr 3 1/2+1/8
+			<lb n="11"/>
+		........................ 1 1/2
+			<lb n="12"/>
+		and ar-Raqaba two quintals, the price
+			<lb n="13"/>
+		dînâr 9 1/4
+</ab></div>
+</body>
+</text>
+</TEI>

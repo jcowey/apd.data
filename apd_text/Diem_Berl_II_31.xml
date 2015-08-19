@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1516" xml:id="Diem_Berl_II_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 31</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169287</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  و<supplied reason="lost" cert="high">تأ</supplied>ييد<supplied reason="lost" cert="high">ه</supplied> وعلاه وتمـ<supplied reason="lost" cert="high">ـكـ</supplied>ـينه و<supplied reason="lost" cert="high">كـ</supplied>ـبت عداه ما أشهد من حال 
+<lb n="2"/>  الخرافيش الّتي لضمنا نسهنة وقد سيّرت إليك 
+<lb n="3"/>  أجلّتي الضّمنا وأسألها حرس اللّه عزّها إحضار 
+<lb n="4"/>  الكاتب إليه وتسليم هذه الخرافيش فإن الوقت 
+<lb n="5"/>  قد أزف أو <app type="BL"><lem resp="APD">ينفّذ </lem><rdg resp="APD">ينفذ </rdg><rdg resp="APD">تنفّذ </rdg><rdg resp="APD">ينفّذ</rdg></app> معهم من يسلّمها إليهم 
+<lb n="6"/>  قول واحد <sic n="superfluous">ا</sic>واللّه اللّه يأخي توحرها ساعة 
+<lb n="7"/>  واحدة فيصير علينا الدّرك وما ثم الن غير القول 
+<lb n="8"/>  التزم هذا والسّلام والحمد للّه وحده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa taʾyīda hu wa ʿulā hu wa tamkīna hu wa kabata ʿudā hu mā ʾašhadu min ḥāli 
+ <lb n="2"/>ăl ḫarāfīši ăllatī li ḍumanāʾi nasahnaẗa wa qad sayyartu ʾilay ka 
+ <lb n="3"/>ʾaǧallat ī ăḍ ḍumanāʾa wa ʾasʾalu hā ḥarasa ăl lāhu ʿizza hā ʾiḥḍāra 
+ <lb n="4"/>ăl kātibi ʾilay hi wa taslīma hāḏihi ăl ḫarāfīši fa ʾinna ăl waqta 
+ <lb n="5"/>qad ʾazifa ʾaw tunaffiḏu tunfiḏu yunaffiḏu yunfiḏu maʿa hum man yusallimu hā ʾilay him 
+ <lb n="6"/>qawl wāḥid wa ăl lāhu ăl lāhu yā ʾaḫ ī tuʾaḫḫiru hā sāʿaẗ:an 
+ <lb n="7"/>wāḥidaẗ:an fa yuṣīru ʿalay nā ăd daraku wa mā ṯamma ăl āna ġayru ăl qawli 
+ <lb n="8"/>ĭltazim hāḏā wa ăs salāmu wa ăl ḥamdu li l lāhi waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Unterstützung, Erhabenheit und Amtsgewalt [geben] und möge ihn seiner Feinde entheben -, was ich wegen
+			<lb n="2"/>
+		des Plunders, der den Steuerpächtern von Nasahnah gehört, erlebe. Ich habe die
+			<lb n="3"/>
+		Steuerpächter nun zu Dir, meiner hochverehrten (Exzellenz), gesandt, und ich bitte sie - Gott bewahre ihr Ansehen -,
+			<lb n="4"/>
+		den Sekretär vorzuladen und (ihn ihnen) diesen Plunder übergeben zu lassen, denn es ist
+			<lb n="5"/>
+		höchste Zeit, oder ihnen jemanden mitzugeben, der ihn ihnen übergibt,
+			<lb n="6"/>
+		(dies) in der Form eines eindeutigen Befehls. Bei Gott, o Bruder: Verzögerst Du seine Aushändigung auch nur im
+			<lb n="7"/>
+		geringsten, werden wir haften müssen. Es bleibt jetzt nur noch zu sagen:
+			<lb n="8"/>
+		&#034;Kümmere Dich darum!&#034; Gruß! Preis sei Gott allein!
+</ab></div>
+</body>
+</text>
+</TEI>

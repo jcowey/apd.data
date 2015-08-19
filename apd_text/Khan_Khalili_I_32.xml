@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1537" xml:id="Khan_Khalili_I_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 32 (= P.Khalili II 95 = P.DiemKhalili 2)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169308</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم أطال اللّه بقاك وأدام عزّك 
+<lb n="2"/>  <app type="BL"><lem resp="APD">وردني </lem><rdg resp="Khan">وورد</rdg></app> كتابك أعزّك اللّه مع <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ل </lem><rdg resp="Diem">أبو</rdg></app> الپاحر ڤى حمل العپار <app type="BL"><lem resp="APD">ڤڤد </lem><rdg resp="Diem">الغبار</rdg></app> 
+<lb n="3"/>  حملت إليك <app type="BL"><lem resp="APD">الغيار </lem><rdg resp="Diem">الغبار</rdg></app> وهو إثني عشرة حملا <app type="BL"><lem resp="APD">حملت </lem><rdg resp="Diem. The last letters of the line preceded by a long vacat."><gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+<lb n="4"/>  مع مهدي الفهري خمسة <app type="BL"><lem resp="APD">حمالا </lem><rdg resp="Diem">حمال</rdg></app> ومع حميد بن عبد اللّه بن كامل سبعة <app type="BL"><lem resp="APD">حمالا </lem><rdg resp="Diem">حمال</rdg></app> 
+<lb n="5"/>  وأمّا ما ذكرت من <app type="BL"><lem resp="APD">البركة </lem><rdg resp="Diem">البركة</rdg></app> الّتي ذكرها لك <app type="BL"><lem resp="APD">عطّار </lem><rdg resp="Diem">عطاء</rdg></app> <app type="BL"><lem resp="APD">هي </lem><rdg resp="Diem “fāʾ is uncertain”">فهي</rdg></app> <app type="BL"><lem resp="APD">البركة </lem><rdg resp="Diem">البركة</rdg></app> 
+<lb n="6"/>  المعروفة <app type="BL"><lem resp="APD">ممّا </lem><rdg resp="Diem">بالحبشيّة</rdg></app> <app type="BL"><lem resp="Khan, textual notes÷ bāʾ with two dots above, but see plate. sīn with slash">كسبه </lem><rdg resp="Diem">ø</rdg></app> وأنا كنت أوصيته بذلك ذلك أنّه 
+<lb n="7"/>  سار إلي بعد صلوة العتمة <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “first four letters in square brackets”">وعرّفني</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أنّه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">يسير</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “first letter in square brackets”">إلى</rdg></app> 
+<lb n="8"/>  أعزّك اللّه ولم يمكنّي في ذلك الوقت كتاب <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>أوصيته </lem><rdg resp="Diem “first letter in square brackets”">فأوصيته</rdg></app> يـ<supplied reason="lost" cert="high">ـعلـ</supplied>ـمـ<supplied reason="lost" cert="high">ـك</supplied> 
+<lb n="9"/>  خبر هذه <app type="BL"><lem resp="APD">البركة </lem><rdg resp="Diem">البركة</rdg></app> وهي <app type="BL"><lem resp="APD">تركت </lem><rdg resp="Diem">بركة</rdg></app> صغيرة إنّما <app type="BL"><lem resp="APD">يخرج </lem><rdg resp="Diem">يخرج</rdg></app> منها 
+<lb n="10"/>  مقدار ثمانين حملا أقل أو أكثر فإن <unclear reason="undefined" cert="high">بادرتها</unclear> هـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/>ي <app type="BL"><lem resp="APD">ا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “uncertain”">البركة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “suggestion, see commentary”">ثمانية</rdg></app> 
+<lb n="11"/>  <app type="BL"><lem resp="APD">عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">عسـ<gap reason="illegible" precision="low" extent="3"/>ـ </rdg><rdg resp="Diem “suggestion, see commentary”">عشر</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “suggestion, see commentary”">حمل </rdg><rdg resp="Diem “suggestion, see commentary”">رجل</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="not read by Diem. Soll ich jetzt Sternchen als Variante setzen?"><unclear reason="undefined" cert="high">إنّما</unclear> </lem><rdg resp="Diem “suggestion, see commentary”">عجالا</rdg></app> لا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">لا </rdg><rdg resp="Diem “suggestion, see commentary”">ولا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem"><gap reason="illegible" extent="1" unit="character" />ـكـ<gap reason="illegible" extent="1" unit="character" /> </rdg><rdg resp="Diem “suggestion, see commentary”">كنت</rdg></app> 
+<lb n="12"/>  منها شي وإنّما كراها مقدار دينار واحد <app type="BL"><lem resp="APD">وإن </lem><rdg resp="APD">وإذ</rdg></app> <app type="BL"><lem resp="APD">آجرتها </lem><rdg resp="Diem">آجرتها</rdg></app> 
+<lb n="13"/>  أعزّك اللّه <app type="BL"><lem resp="APD">أخّرت </lem><rdg resp="Diem">أمرت</rdg></app> <app type="BL"><lem resp="APD">إعمالي </lem><rdg resp="Diem">أعتني</rdg></app> <app type="BL"><lem resp="APD">عملها </lem><rdg resp="Diem">بحملها</rdg></app> فإنّهم <app type="BL"><lem resp="qāf with one dot above">يقرّون </lem><rdg resp="Diem “not translated”">يعرون</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “uncertain”">في</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “uncertain”">البركة</rdg></app> 
+<lb n="14"/>  الـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـجّار <app type="BL"><lem resp="APD">الّذين </lem><rdg resp="Diem">الّذي</rdg></app> يحملون <unclear reason="undefined" cert="high">الغشاوة</unclear> فاعلم ذلك وهـ<supplied reason="lost" cert="high">ـي</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـم </lem><rdg resp="Diem “suggestion, see commentary”">ثمّ</rdg></app> أعزّك اللّه عمّا <app type="BL"><lem resp="APD">أراك </lem><rdg resp="Diem “suggestion, see commentary”">ذكر</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “suggestion, see commentary”">لك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه لكثرة ما يشغلوك البادية <app type="BL"><lem resp="APD">بحسا<supplied reason="lost" cert="high">ب</supplied> </lem><rdg resp="Diem “suggestion, see commentary”">بخشانتهم</rdg></app> 
+<lb n="17"/>  فإنّهم <app type="BL"><lem resp="sīn with dash, bāʾ with one dot above">يسغبون </lem><rdg resp="Diem">يشغلون</rdg></app> الإنسان عن أكل الطّعام الّذي <app type="BL"><lem resp="APD">لا </lem><rdg resp="Diem">العيش</rdg></app> <app type="BL"><lem resp="first yāʾ and tāʾ each with one dot above"><unclear reason="undefined" cert="high">يتيسّر</unclear> </lem><rdg resp="Diem">ø</rdg></app> ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  حمل اللّه عنك وأعانك وخلّصك وقبل منك صيام <app type="BL"><lem resp="APD">هذ<gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="Diem">هذا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “square brackets”">الشّهر</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “square brackets”">عن</rdg></app> 
+<lb n="19"/>  الطّعم ولا جعل آخر العهد منك به إنّه ولي ذلك والقادر عـ<supplied reason="lost" cert="high">ـليه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20"/>  عليك <app type="BL"><lem resp="APD">السّلام </lem><rdg resp="Diem">السّلم</rdg></app> ورحمة اللّه وبركاته وعلى <app type="BL"><lem resp="APD">المرحوم </lem><rdg resp="Diem “preceded by a superfluous ʾalif”">أبو</rdg></app> <app type="BL"><lem resp="APD">الورده </lem><rdg resp="Diem">جعفر</rdg></app> <app type="BL"><lem resp="last letter ligatured to the following word “Khan”">كدلك </lem><rdg resp="Diem">الموّاز</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">مثل</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="2"/>warada wa nī warada kitābu ka ʾaʿazza ka ăl lāhu maʿa ø ʾabū ***l ăt tāǧir fī ḥamli ăl ġiyāri ġubāri fa qad 
+ <lb n="3"/>ḥamaltu ʾilay ka ăl ġiyāra ġubāra wa huwa ĭṯnay ʿašraẗa ḥiml:an ḥamaltu *** 
+ <lb n="4"/>maʿa mahdī ăl fihriyyi ḫamsaẗa ḥimāl:an ḥimāl:in wa maʿa ḥamīdi bni ʿabdi ăl lāhi bni kāmil:in sabʿaẗa ḥimāl:an ḥimāl:in 
+ <lb n="5"/>wa ʾammā mā ḏakarta mina ăl ăt birkaẗi tarikaẗi ăllatī ḏakara hā la ka ʿaṭṭār:un ʿaṭāʾu ø fa hiya ăl ăt birkaẗu tarikaẗu 
+ <lb n="6"/>ăl maʿrūfaẗu mimmā bi ø ăl ø ḥabašiyyaẗi kasaba ø hu ø wa ʾanā kuntu ʾawṣaytu hu bi ḏālika ḏālika ʾanna hu 
+ <lb n="7"/>sāra ʾilay ya baʿda ṣalāẗi ăl ʿatamaẗi *** wa ø ʿarrafa ø nī *** ʾanna ø hu *** yasīru *** ʾilà ø ʿinda ø ka 
+ <lb n="8"/>ʾaʿazza ka ăl lāhu wa lam yumkin nī fī ḏālika ăl waqti kitāb:un wa fa ʾawṣaytu hu yuʿlimu ka 
+ <lb n="9"/>ḫabara hāḏihi ăt birkaẗi tarikaẗi wa hiya tarikat:un birkaẗ:un ṣaġīraẗ:un ʾinnamā taḫruǧu yaḫruǧu min hā 
+ <lb n="10"/>miqdāru ṯamānīna ḥiml:an ʾaqallu ʾaw ʾakṯaru fa ʾin bādarta hā h***y ʾ*** ăl ø birkaẗ *** ṯamāniyaẗa 
+ <lb n="11"/>ʿ*** ʿs*** ʿašara *** ḥiml raǧul *** ʾinnamā ʿiǧāl:an lā *** *** *** ø wa ø lʾ lā *** *k* kuntu *** ***sʾ ʾansā 
+ <lb n="12"/>min hā šayʾ wa ʾinnamā kirāʾu hā miqdāru dīnār:in wāḥid:in wa ʾin ʾiḏa ʾaḫḫarta ʾāǧarta hā 
+ <lb n="13"/>ʾaʿazza ka ăl lāhu ʾaḫḫarta ʾamarta ʾiʿmāl ʾaʿtanī ī ø ø bi ʿamala ḥamli hā fa ʾinna hum yuqirrūna yʿrwna *** fī *** ăl ø birkaẗi 
+ <lb n="14"/>ăt tuǧǧār ăllaḏīna ăllaḏī yaḥmilūna ăl ġišāwaẗa fa ĭʿlam ḏālika wa hiya *** *** 
+ <lb n="15"/>***m ṯumma ʾaʿazza ka ăl lāhu ʿammā ʾarā ḏakara ka ø ø la ø ka *** *** 
+ <lb n="16"/>***h li kaṯraẗi mā yašġalū ka ăl bādiyaẗu bi ḥisābi ḫašānati ø him 
+ <lb n="17"/>fa ʾinna hum yusġibūna yašġalūna ăl ʾinsāna ʿan ʾakli ăṭ ṭaʿāmi ăllaḏī lā ăl ø ʿayšu yatayassaru ø ʾ*** 
+ <lb n="18"/>ḥamala ăl lāhu ʿan ka wa ʾaʿāna ka wa ḫallaṣa ka wa qabila min ka ṣiyāma hāḏ* hāḏā *** ăš ø šahri *** ʿani 
+ <lb n="19"/>ăṭ ṭaʿmi ṭuʿami wa lā ǧaʿala ʾāḫira ăl ʿahdi min ka bi hi ʾinna hu waliyyu ḏālika wa ăl qādiru ʿalay hi *** 
+ <lb n="20"/>ʿalay ka ăs ăs salāmu salāmu wa raḥmaẗu ăl lāhi wa barakātu hu wa ʿalà ăl ʾabū marḥūmi ø ø ǧaʿfara ăl wardaẗi mawwāzi ø miṯla ka ø ḏālika *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Godd lasse Dich lange leben und gebe Dir weiterhin Ansehen!
+		In the name of God the merciful and compassionate. May God prolong your life and cause your strength to endure.
+		In the name of God, the merciful and compassionate. May God prolong your life and cause your strength to endure!
+			<lb n="2"/>
+		Deinen Brief - Gott stärke Dich - wegen des Transportes des Staubs ist mir durch Abū (?) ... den Kaufmann überbracht worden.
+		I have received your letter - May God give you strength! - concerning the transport of the provisions, (which came) with ... the merchant.
+		I have received your letter - may God give you strength - (which came) with [...] the merchant, concerning the transport of the corn provision.
+			<lb n="3"/>
+		Ich habe daraufhin den Staub zu Dir transportieren lassen und zwar (insgesamt) zwölf Lasten [... :]
+		I have transported the provisions to you, there being 12 loads. I conveyed
+		I have transported the provision to you, it being twelve loads. I conveyed
+			<lb n="4"/>
+		durch Mahdī al-Fihrī fünf und durch Ḥamīd b. ʿAbdallāh b. Kāmil sieben Lasten.
+		five loads with Mahdī al-Fihrī and seven loads with Ḥamīd ibn ʿAbdallāh ibn Kāmil.
+		five loads with Mahdi al-Fihri and seven loads with Hamid ibn ʿAbdallah ibn Kamil.
+			<lb n="5"/>
+		As for what you said concerning the remaining property, which ʿAṭṭār mentioned to you - it is the well-known property
+		As for what you said concerning the remaining property which ʿAttar mentioned to you, it is the well-known property
+		Was Deine Erwähnung des Teichs betrifft, den Dir gegenüber ʿAṭāʾ erwähnt hat, so handelt es sich um den
+			<lb n="6"/>
+		unter (dem Namen) &#034;Äthiopischer (Teich)&#034; bekannten Teich. Ich hatte ihm dies eingeschärft, dies deshalb, weil er
+		which was left behind from what he earned. I instructed him to do this. What happened was that he
+			<lb n="7"/>
+		came to me after evening prayers [...]
+		mich nach dem Abendgebet aufgesucht und mir mitgeteilt hatte, er werde Dich
+			<lb n="8"/>
+		- Gott stärke Dich - aufsuchen. Nun war es mir zum damaligen Zeitpunkt nicht möglich, (Dir) einen Brief zu schreiben, und so schärfte ich ihm ein,
+		- may God give you strength - and I was unable to write a letter at that time, and I instructed him to inform you
+		May God give you strength! - and I was unable to write a letter at that time, and I instructed him to inform you
+			<lb n="9"/>
+		about this remaining property. It is only a small inheritance. It only consists of
+		Dir über den besagten Teich Bescheid zu geben. Es ist ein kleiner Teich, aus dem nur
+			<lb n="10"/>
+		approximately eighty loads. If you make haste... [...]
+		um die achtzig Lasten zu erzielen sind. Wie wäre es, wenn Du ihn Dir so schnell wie möglich zu sichern versuchen würdest... der Teich (?) ...
+			<lb n="11"/>
+		[...] Ich würde nichts davon vergessen.
+			<lb n="12"/>
+		something/anything from it. Its hire is the sum of one dīnār. If you - may god give you strength - delay its (payment)
+		von ihm etwas. Sein Pachtzins beläuft sich nur auf einen Dinar. Falls Du ihn pachtest
+			<lb n="13"/>
+		- Gott stärke Dich - befiehlst Du (doch), daß ich mich um den diesbezüglichen Transport kümmere, denn sie (3.Pl.)... bezüglich (?) des Teiches (?)
+		you will delay my drawing up of its account. They acknowledge [...]
+			<lb n="14"/>
+		The merchants who carry the cover. Take note of that... [...]
+		..., welche... vervollständigen (?). Dies solltest Du wissen. .... [
+			<lb n="15"/>
+		[...] ... - Gott stärke Dich - ...
+		[...] ... - may God give you strength - concerning what I think you [...]
+			<lb n="16"/>
+		[...] ... the great extent to which the nomads occupy you... [...]
+		[..........], weil Dich die Nomaden so sehr in Anspruch nehmen... [
+			<lb n="17"/>
+		denn sie können einen (ja) derart in Anspruch nehmen, daß man (sogar) vergisst, die Speise zu essen, welche... [
+		for they prevent a man from eating food, which is not easy [...]
+			<lb n="18"/>
+		Gott zeige sich Dir gnädig, helfe Dir, rette Dich, nehme von Dir das Fasten die[ses Monats] (gnädig) an
+		may God treat you with clemency, give you succour, save you and accept from you the fast of this [...]
+			<lb n="19"/>
+		food, and may he not make (it) your last meeting with him. He is able to do this and he has the power to do [it]
+		und mache es nicht zu Deiner letzten Bekanntschaft mit ihm - er ist dazu ja fähig und imstande.
+			<lb n="20"/>
+		Best wishes to you, God&#039;s mercy and his blessings and also to the lady al-Warda[...]
+		Es seien (?) auf Dir Friede und Gottes Gnade und seine Segnungen, und auf Abū Ǧaʿfar dem Bananenhändler sei dasselbe!
+</ab></div>
+</body>
+</text>
+</TEI>

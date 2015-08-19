@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2168" xml:id="Hanafi_Private020" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HanafiPrivateLetters 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Hanafi_Private020</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  من العم بما أريد أن أصيب من ا<supplied reason="lost" cert="high">لقمح</supplied> <supplied reason="lost" cert="high">وأكثر</supplied> 
+<lb n="3"/>  يأبة جعلت فداك بالدّعا كثيرا للّه عـ<supplied reason="lost" cert="high">ـسى</supplied> <supplied reason="lost" cert="high">واللّه</supplied> <supplied reason="lost" cert="high">على</supplied> 
+<lb n="4"/>  كل شي قدير وإ<supplied reason="lost" cert="high">ذ</supplied>ا أتبرّك بدعا<supplied reason="omitted" cert="high">ئـ</supplied>ـك و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وخرجنا</supplied> <supplied reason="lost" cert="high">كما</supplied> 
+<lb n="5"/>  ذكرت بر مصر وحبس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  لا أصل إلى حا<gap reason="illegible" extent="2" unit="character" /> الـ<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أنّـه</supplied> 
+<lb n="7"/>  حمل قمح إليك وأرجو أ<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  عدوّا ولكن لا تكتب إلـ<supplied reason="lost" cert="high">ـى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  إليك تـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>mina ăl ʿammi bi mā ʾurīdu ʾan ʾuṣība mina ăl qamḥi wa ʾakṯir 
+ <lb n="3"/>yā ʾabaẗi ǧuʿiltu fidāʾa ka bi ăd duʿāʾi kaṯīr:an li l lāhi ʿasà wa ăl lāhu ʿalà 
+ <lb n="4"/>kulli šayʾ:in qadīr:un wa ʾiḏan ʾatabarraku bi duʿāʾi ka wa *** wa ḫaraǧnā kamā 
+ <lb n="5"/>ḏakarta barra miṣra wa ḥabasa *** 
+ <lb n="6"/>lā ʾaṣilu ʾilà ḥā** ăl *** ʾanna hu 
+ <lb n="7"/>ḥiml qamḥ:in ʾilay ka wa ʾarǧū ʾan *** 
+ <lb n="8"/>ʿaduww:an wa lākin lā taktub ʾilà *** 
+ <lb n="9"/>ʾilay ka t** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		from uncle, as I want, to obtain from the [wheat?. And increase, (?)]
+			<lb n="3"/>
+		O my father, may I be made your ransom, praying so much for Allah perhaps [and Allah has]
+			<lb n="4"/>
+		the power to do all that He will, and I seek the blessing of your prayers and. [And we went out as]
+			<lb n="5"/>
+		you mentioned along the land (or country) of Miṣr, and he imprisoned him [...]
+			<lb n="6"/>
+		I do not reach to [...]
+			<lb n="7"/>
+		an amount of wheat for you, and I hope to [...]
+			<lb n="8"/>
+		an enemy. Whoever do not write to (?) [...]
+			<lb n="9"/>
+		to you. [...]
+</ab></div>
+</body>
+</text>
+</TEI>

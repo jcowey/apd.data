@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2039" xml:id="Diem_Privatbriefe_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemPrivatbriefe 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Privatbriefe_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم حسن بن <app type="BL"><lem resp="APD">شيث </lem><rdg resp="APD">سبب </rdg><rdg resp="APD">شبث </rdg><rdg resp="APD">شبيب</rdg></app> 
+<lb n="2"/>  أعلم مولاي الأمير أطال اللّه بقاه وأدام عزّه ونعماه وكبت 
+<lb n="3"/>  أعداه ولا أخلاه من التّوفيق الدپپا والاحره ولا احلاپا 
+<lb n="4"/>  منه سيّدا سندا أبدا وعبده يسله كبت اللّه أعداه 
+<lb n="5"/>  في نصف دينار يشتري به لجنننا قفلا ثبّاتا منفصلا 
+<lb n="6"/>  إن شا اللّه وصلواته على نبيّه محمّد وآله وسلّم تسليما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥasanu bnu sabab:in šabaṯ:in šīṯ:in šabīb:in 
+ <lb n="2"/>ʾuʿlimu mawlā ya ăl ʾamīra ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa nuʿmā hu wa kabata 
+ <lb n="3"/>ʾaʿdāʾa hu wa lā ʾaḫlā hu mina ăt tawfīqi fī ăd dunyā wa ăl ʾāḫiraẗi wa lā ʾaḫlā nā 
+ <lb n="4"/>min hu sayyid:an sanad:an ʾabad:an wa ʿabdu hu yasalu hu kabata ăl lāhu ʾaʿdāʾa hu 
+ <lb n="5"/>fī niṣfi dīnār:in yaštarī bi hi li ǧinani nā qufl:an ṯabbāt:an munfaṣil:an 
+ <lb n="6"/>ʾin šāʾa ăl lāhu wa ṣalawātu hu ʿalà nabiyyi hi muḥammad:in wa ʾāli hi wa sallama taslīm:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Ḥasan b. Šīṯ (?).
+			<lb n="2"/>
+		Ich teile meinem Gebieter, dem Emir, mit - Gott lasse ihn lange leben, lasse sein Ansehen und seine Gnade andauern, unterwerfe
+			<lb n="3"/>
+		seine Feinde, lasse ihn im Diesseits und Jenseits nicht des Erfolges entbehren und lasse uns
+			<lb n="4"/>
+		niemals seiner als Herr und Stütze entbehren -, und zwar bittet sein Sklave ihn - Gott unterwerfe seine Feinde -
+			<lb n="5"/>
+		um einen halben Dinar, um damit für unseren Garten ein separates zuverlässiges Vorhängeschloß zu kaufen,
+			<lb n="6"/>
+		so Gott will. Seine Segnungen seien auf seinem Propheten Muḥammad und seiner Familie und er spende (ihnen) Heil!
+</ab></div>
+</body>
+</text>
+</TEI>

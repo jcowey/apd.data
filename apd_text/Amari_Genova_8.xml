@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2634" xml:id="Amari_Genova_8" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.AmariGenova 8</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Amari_Genova_8</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  والرّوم الصّادرين والواردين 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  يعمل بما أمر اللّه به في خلقه ويوپى 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  والشّاميّين وعلى جميع أجناس الفرنج 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  فكيف يجوز أن يحدث في أيّامنا عليكم 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> رسْم يُجدّد 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>wa ăr rūm ăṣ ṣādirīna wa ăl wāridīna 
+ <lb n="2"/>*** 
+ <lb n="3"/>yaʿmalu bi mā ʾamara ăl lāhu bi hi fī ḫalqi hi wa yuʾtī 
+ <lb n="4"/>*** 
+ <lb n="5"/>wa ăš šāmiyyīna wa ʿalà ǧamīʿi ʾaǧnāsi ăl faranǧi 
+ <lb n="6"/>*** 
+ <lb n="7"/>fa kayfa yaǧūzu ʾan yaḥduṯa fī ʾayyāmi nā ʿalay kum 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** rasm yuǧaddidu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  E i Rum [Italiani] che vengano o vadano
+		 <lb n="3"/>
+ 	  Sia trattato como Iddio comanda [si usi] verso le sue creature e siagli dato (?)
+		 <lb n="5"/>
+ 	  e a que&#039; di Siria e ad ogni nazioni di Franchi.
+		 <lb n="7"/>
+ 	  Come mai si potrebbe far novità in questi nostri tempi a danno vostro (?)
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

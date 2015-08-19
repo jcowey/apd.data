@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1439" xml:id="David-Weill_Louvre_20b" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 20b</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_20b</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169226</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <app type="BL"><lem resp="APD">أبعث </lem><rdg resp="APD">أبعث</rdg></app> بدينرين <app type="BL"><lem resp="APD">واتعرّفه </lem><rdg resp="APD">وأتعرّفه</rdg></app> 
+ <lb n="2"/>  تدفعون دينر لمحمّد بدينرين <app type="BL"><lem resp="APD">سو </lem><rdg resp="APD">سوا</rdg></app> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">أيضـ</supplied>ـ<unclear reason="undefined" cert="high">ـا</unclear> <gap reason="illegible" extent="4" unit="character" /> عليهم <gap reason="illegible" extent="8" unit="character" /> 
+ <lb n="4"/>  بعث <unclear reason="undefined" cert="high">عبد</unclear> <unclear reason="undefined" cert="high">ربّ</unclear> بدينرين 
+ <lb n="5"/>  وبعث من يد جعفر صاحب 
+ <lb n="6"/>  الفول دينر والـ<unclear reason="undefined" cert="high">ـغرفس</unclear> بدينرين 
+ <lb n="7"/>  النّجّاد بنصف 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾabʿaṯu ĭbʿaṯ bi dīnārayni wa ʾataʿarrafu ĭtʿarraf hu 
+ <lb n="2"/>tadfaʿūna dīnār li muḥammad:in bi dīnārayni sw***** siwā 
+ <lb n="3"/>ʾayḍ:an **** ʿalay him ******** 
+ <lb n="4"/>baʿaṯa ʿabdu rabb:in bi dīnārayni 
+ <lb n="5"/>wa baʿaṯa min yadi ǧaʿfara ṣāḥibi 
+ <lb n="6"/>ăl fūli dīnār wa ăl ġarafusu bi dīnārayni 
+ <lb n="7"/>ăn naǧǧādu bi niṣf:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Je t&#039;envoie (ou: envoie) deux dinars, et reconnais-le (ou: je le reconnais)
+		 <lb n="2"/>
+ 	  Vous paierez un dinar à Muḥammad, deux dinars
+		 <lb n="3"/>
+ 	  ............... également (?) .........
+		 <lb n="4"/>
+ 	  ʿAbd Rabbi(?) a envoyé deux dinars ....
+		 <lb n="5"/>
+ 	  et il a envoyée par l&#039;entremise de Djaʿfar propriétaire
+		 <lb n="6"/>
+ 	  des fèves un dinar et al-Grafeus (?) deux dinars
+		 <lb n="7"/>
+ 	  et al-Nadjdjad un demi (dinar).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

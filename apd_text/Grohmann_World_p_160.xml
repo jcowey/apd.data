@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="898" xml:id="Grohmann_World_p_160" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 160</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_160</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113660</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> دننير 
+<lb n="2"/>  وفي دار الكنيسة <supplied reason="lost" cert="high">فـ</supplied>ـيها حانوت بستّة دننير <supplied reason="lost" cert="high">كـ</supplied>ـل <supplied reason="lost" cert="high">سنة</supplied> 
+<lb n="3"/>  والكنيسة بخمسة دننير كل سنة 
+<lb n="4"/>  وغرفة عمّار بن سعد بأربعة دننير كل سنة 
+<lb n="5"/>  وبيت القرط بدينرين كل سنة 
+<lb n="6"/>  وبيت برديّة بدينرين كل سنة 
+<lb n="7"/>  وبيت جبير بدينرين ونصف كل سنة 
+<lb n="8"/>  ما العباوي والسّلام    والسّلام 
+<lb n="9"/>  وفيها فلا علامته <gap reason="illegible" precision="low" extent="3"/>   
+<lb n="10"/>  فجميع ذلك اثنين <gap reason="illegible" precision="low" extent="3"/>  
+<lb n="11"/>  ونصف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** danānīra 
+ <lb n="2"/>wa fī dāri ăl kanīsaẗi fī hā ḥānūt:un bi sittaẗi danānīra kulla sanaẗ:in 
+ <lb n="3"/>wa ăl kanīsaẗu bi ḫamsaẗi danānīra kulla sanaẗ:in 
+ <lb n="4"/>wa ġurfaẗu ʿammāra bni saʿd:in bi ʾarbaʿaẗi danānīra kulla sanaẗ:in 
+ <lb n="5"/>wa baytu ăl qurṭi bi dīnārayni kulla sanaẗ:in 
+ <lb n="6"/>wa baytu bardiyyaẗa bi dīnārayni kulla sanaẗ:in 
+ <lb n="7"/>wa baytu ǧubayr:in bi dīnārayni wa niṣf:in kulla sanaẗ:in 
+ <lb n="8"/>wa ḥānūtu qultaha bi ṯalāṯaẗi danānīra wa niṣf:in bi kulli sanaẗ:in 
+ <lb n="9"/>wa fī hā baytayni ḫāliyatayni laysa fī himā ʾaḥad:un 
+ <lb n="10"/>fa ǧamīʿu ḏālika ĭṯnayni wa ḫamsīna dīnār:an 
+ <lb n="11"/>wa niṣf:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] dînârs
+			<lb n="2"/>
+		and in the block of the church, therein a shop for six dînârs each year,
+			<lb n="3"/>
+		and the church, five dînârs each year,
+			<lb n="4"/>
+		and the upper chamber of ʿAmmâr ibn Saʿd for four dînârs each year,
+			<lb n="5"/>
+		and the house for the clover for two dînârs each year,
+		and the house of al-Qurṭ for two dînârs each year,
+			<lb n="6"/>
+		and the house of Bardîya for two dînârs each year,
+			<lb n="7"/>
+		and the house of Gubair for two dînârs and a half each year,
+			<lb n="8"/>
+		and the shop of Qolte for three dînârs and a half each year,
+			<lb n="9"/>
+		and therein are two empty houses and they are unoccupied.
+			<lb n="10"/>
+		The total thereof (is) fifty-two dînârs
+			<lb n="11"/>
+		and a half.
+</ab></div>
+</body>
+</text>
+</TEI>

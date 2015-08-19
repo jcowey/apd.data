@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="744" xml:id="Grohmann_Probleme_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106823</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ناحية دمطوط يوم الاثنيـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="3"/>  / عبد الرّحمن بن إبرهيم 
+<lb n="4"/>  شعير ستّة عشر تسعة عشر 
+<lb n="5"/>  / ستّة عشر عشر<supplied reason="lost" cert="high">ين</supplied> 
+<lb n="6"/>  شعير اثنا عشـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">ثـ</supplied>ـلثة عشر 
+<lb n="7"/>  / مثله مثله 
+<lb n="8"/>  قرط أربعة عشر مائة و<unclear reason="undefined" cert="high">اثنين</unclear> 
+<lb n="9"/>  / مثله مائة 
+<lb n="10"/>  قمح ثلثة وعشرين أربعة وخمسـ<supplied reason="lost" cert="high">ـين</supplied> 
+<lb n="11"/>  / عشر ونصف أحد وخمسـ<supplied reason="lost" cert="high">ـين</supplied> 
+<lb n="12"/>  قمح سبعة أحد وثلثيـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="13"/>  / مثله مثـ<supplied reason="lost" cert="high">ـله</supplied> 
+<lb n="14"/>  كرم ثلثة وعشرين ثلثة وثلثين 
+<lb n="15"/>  / <sic n="superfluous">مپل</sic> مثله مثله 
+<lb n="16"/>  كرم ثمنية وستّين أربعين 
+<lb n="17"/>  / ثلثة وستّين ونصف سبعة وأربعين 
+<lb n="18"/>  فيه كرم اثنين ونصف سبعة وأربعين 
+<lb n="19"/>  / اثنين مثله 
+<lb n="20"/>  عشرين فيه كرم أحد عشر ثلثة 
+<lb n="21"/>  / مثله مثله 
+<lb n="22"/>  عشرين فيه كرم واحد اثنا عشر 
+<lb n="23"/>  / مثله <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="24"/>  فجل ستّة عشر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="25"/>  / ثمنية عـ<supplied reason="lost" cert="high">ـشر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="26"/>  فجل عشرين <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="27"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـثله <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>nāḥiyaẗu damṭūṭa yawma ăli ĭṯnayni 
+ <lb n="3"/>/ kataba kitāb:un ʿabdu ăr raḥmāni bnu ʾibrāhīma 
+ <lb n="4"/>šaʿīr:un sittaẗa ʿašara tisʿaẗa ʿašara 
+ <lb n="5"/>/ sittaẗa ʿašara ʿišrīna 
+ <lb n="6"/>šaʿīr:unu ĭṯnā ʿašara ṯalāṯaẗa ʿašara 
+ <lb n="7"/>/ miṯlu hu miṯlu hu 
+ <lb n="8"/>qurṭ:un ʾarbaʿaẗa ʿašara miʾaẗ:un wa ĭṯnayni 
+ <lb n="9"/>/ miṯlu hu miʾaẗ:un 
+ <lb n="10"/>qamḥ:un ṯalāṯaẗ:un wa ʿišrīna ʾarbaʿaẗ:un wa ḫamsīna 
+ <lb n="11"/>/ ʿašr:un wa niṣf:un ʾaḥad:un wa ḫamsīna 
+ <lb n="12"/>qamḥ:un sabʿaẗ:un ʾaḥad:un wa ṯalāṯīna 
+ <lb n="13"/>/ miṯlu hu miṯlu hu 
+ <lb n="14"/>karm:un ṯalāṯaẗ:un wa ʿišrīna ṯalāṯaẗ:un wa ṯalāṯīna 
+ <lb n="15"/>/ miṯlu hu miṯlu hu 
+ <lb n="16"/>karm:un ṯamāniyaẗ:un wa sittīna ʾarbaʿīna 
+ <lb n="17"/>/ ṯalāṯaẗ:un wa sittīna wa niṣf:un sabʿaẗ:un wa ʾarbaʿīna 
+ <lb n="18"/>fī hi karm:uni ĭṯnayni wa niṣf:un sabʿaẗ:un wa ʾarbaʿīna 
+ <lb n="19"/>/ ĭṯnayni miṯlu hu 
+ <lb n="20"/>ʿišrīna fī hi karm:un ʾaḥada ʿašara ṯalāṯaẗ:un 
+ <lb n="21"/>/ miṯlu hu miṯlu hu 
+ <lb n="22"/>ʿišrīna fī hi karm:un wāḥid:unu ĭṯnā ʿašara 
+ <lb n="23"/>/ miṯlu hu *** 
+ <lb n="24"/>fuǧl:un sittaẗa ʿašara *** 
+ <lb n="25"/>/ ṯamāniyaẗa ʿašara *** 
+ <lb n="26"/>fuǧl:un ʿišrīna *** 
+ <lb n="27"/>*** miṯlu hu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Ortsgemeinde Damṭūṭ, Montag
+			<lb n="3"/>
+		- ʿAbd ar-Raḥmān b. Ibrahīm
+			<lb n="4"/>
+		Gerste: sechzehn, neunzehn
+			<lb n="5"/>
+		- sechzehn, zwan[zig]
+			<lb n="6"/>
+		Gerste: zwölf, dreizehn
+			<lb n="7"/>
+		- dtto, dtto
+			<lb n="8"/>
+		Luzerne: vierzehn, hundertzwei
+			<lb n="9"/>
+		- dtto, hundert
+			<lb n="10"/>
+		Weizen: dreiundzwanzig, vierundfünfzig
+			<lb n="11"/>
+		- zehneinhalb, einundfünf[zig]
+			<lb n="12"/>
+		Weizen: sieben, einunddreiß[ig]
+			<lb n="13"/>
+		- dtto, dtt[o]
+			<lb n="14"/>
+		Weinstöcke: dreiundzwanzig, dreiunddreißig
+			<lb n="15"/>
+		- dtto, dtto
+			<lb n="16"/>
+		Weinstöcke: achtundsechzig, vierzig
+			<lb n="17"/>
+		- dreiundsechzigeinhalb, siebenundvierzig
+			<lb n="18"/>
+		darin Weinstöcke: zweieinhalb, siebenundvierzig
+			<lb n="19"/>
+		- zwei, dtto
+			<lb n="20"/>
+		zwanzig, darin Weinstöcke: elf, drei
+			<lb n="21"/>
+		- dtto, dtto
+			<lb n="22"/>
+		zwanzig, darin Weinstöcke: einer, zwölf
+			<lb n="23"/>
+		- dtto, [...]
+			<lb n="24"/>
+		Rettich: sechzehn, [...]
+			<lb n="25"/>
+		- achtze[hn, ...]
+			<lb n="26"/>
+		Rettich: zwanzig, [...]
+			<lb n="27"/>
+		- [d]tto, [...]
+</ab></div>
+</body>
+</text>
+</TEI>

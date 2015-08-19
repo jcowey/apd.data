@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1824" xml:id="Prag_880" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 88</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_880</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169561</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  پسم <supplied reason="lost" cert="high">الـلّـ</supplied>ـه الرّحـ<supplied reason="lost" cert="high">ـمن</supplied> الــ<supplied reason="lost" cert="high">ـرحيم</supplied> 
+ <lb n="2"/>  پڤع عبد الرّحمن بن إسمعيل وبفانة <app type="BL"><lem resp="APD">ولوبّة </lem><rdg resp="APD">ولوتة </rdg><rdg resp="APD">ولوبّة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><unclear reason="undefined" cert="high">لحع</unclear> </lem><rdg resp="APD">‮<gap reason="illegible" extent="2" unit="character" />لحق</rdg></app> ا<gap reason="illegible" extent="2" unit="character" />ل الّذي زرع للأوسيّة σπζ فدّان 
+ <lb n="3"/>  من أصناف الزّرع من أرض پڤلت وپواحة من أرض البقط والمقبوضة 
+ <lb n="4"/>  لحراح سنة ست وأربعين ومائتين 
+ <lb n="5"/>  الجملة پواحة پڤلت 
+ <lb n="6"/>  ڤدان فدّان فدّان 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> الــ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>buqaʿu ʿabdi ăr raḥmāni bni ʾismāʿīla wa bifānaẗa wa lūbbaẗa lūnaẗa lūtaẗa **lḥʿ **lḥq ʾ**l ăllaḏī zuriʿa li l ʾūsiyyaẗi 287 faddān:in 
+ <lb n="3"/>min ʾaṣnāfi ăz zarʿi min ʾarḍi BFlta wa Bwʾḥaẗa min ʾarḍi ăl baqṭi wa ăl maqbūḍaẗi‬‬ 
+ <lb n="4"/>li ḫarāǧi sanaẗi sitt:in wa ʾarbaʿīna wa miʾatayni‬‬ 
+ <lb n="5"/>ăl ǧumlaẗu Bwʾḥaẗu BFltu 
+ <lb n="6"/>faddān faddān faddān 
+ <lb n="7"/>*** ăl ** *** *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen, Gütigen!
+		 <lb n="2"/>
+ 	  Die Grundstücke des ʿAbd ar-Raḥmān b. Ismaʿīl, Piphane und Lōne ...... Was bestellt wurde für die Domäne 287 Feddān
+		 <lb n="3"/>
+ 	  mit (verschiedenen) Saatarten (und zwar) vom Grund und Boden von .....t und ...... an Pachtland und Ertrag
+		 <lb n="4"/>
+ 	  für die Steuern des Jahres zweihundertsechsundvierzig:
+		 <lb n="5"/>
+ 	  Summe ....... ......t
+		 <lb n="6"/>
+ 	  Faddān Faddān Faddān
+		 <lb n="7"/>
+ 	  [...] al-[...] .. [...] ... [..........]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

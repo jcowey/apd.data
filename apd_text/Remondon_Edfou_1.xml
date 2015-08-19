@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1338" xml:id="Remondon_Edfou_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RémondonEdfou 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Remondon_Edfou_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169142</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه <supplied reason="lost" cert="high">الرّحمن</supplied> الرّحيم 
+<lb n="2"/>  هذا ما اشترى علي بن عبد اللّه من إبرهيم بن حميد المعروف 
+<lb n="3"/>  <app type="BL"><lem resp="APD">بهانّة </lem><rdg resp="APD">بهانّة</rdg></app> وهو صحيح في عقله وبدنه <sic n="superfluous">ماپر</sic> <supplied reason="omitted" cert="high">جائز</supplied> بأمر سعته لا علّة به 
+<lb n="4"/>  من مرض اشتره في المحرّم سنة ثلثة وخمسين ومائتن 
+<lb n="5"/>  اشترى منه جماعة حقه من البئر وأرضيه الذي في الحيّز 
+<lb n="6"/>  البحري من إدفوا وهو البئر الّذي حدّه القبلي ينتهي إلى ضيعة 
+<lb n="7"/>  موسى وإبرهيم أبي عيسى بن إدريس وحدّه الشّرقي في البحر الجاري 
+<lb n="8"/>  وحدّه البحري الضّيعة الّتي تدعا بساوا وحدّه الغربي الترعة 
+<lb n="9"/>  اشترى علي بن عبد اللّه من إبرهيم بن حميد جماعة حقّه من البئر 
+<lb n="10"/>  وأرضها المحدود في كتابنا هذا بجميع حدود ذلك كلّه وحقوقه 
+<lb n="11"/>  وهو أربعة أسهم من أربعة وعشرين سهما من جماعة هذا البئر 
+<lb n="12"/>  وأرضه بدينر مثقال وقد نقده علي بن عبد اللّه الثّمن وافيا 
+<lb n="13"/>  وبرئ منه إليه وقبض جميع ما اشترى وحادة دون إبرهيم 
+<lb n="14"/>  بن حميد وصار مالا من ماله بالثّمن المسمّا في هذا الكتاب 
+<lb n="15"/>  وهو دينر مثقال بعد معرفتهما بما تبايعا عليه قبل البيع 
+<lb n="16"/>  وتعرّفهما پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> عن تراض منهما جميعا وعهدة بيعهما عهدة 
+<lb n="17"/>  بيع أهل الإسلام وشهد على إقرار إبرهيم بن حميد وعلي بن 
+<lb n="18"/>  عبد اللّه بجميع ما في هذا الكتاب بعد أن قري عليهما وعرفاه 
+<lb n="19"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">وأقرّا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="LS">بفهمه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>هما </lem><rdg resp="LS">وهما</rdg></app> في صحّة عقلهما وبدنهما طائعين غير مكرهين 
+<lb n="20"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">المحرّم</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ثلثة</supplied> <supplied reason="lost" cert="high">وخمسـ</supplied>ـين ومائتين أحمد بن كايل وشهد به علي 
+<lb n="21"/>  <gap reason="illegible" precision="low" extent="3"/> في المحرّم سنة ثلثة وخمسين ومائتين 
+<lb n="22"/>  <supplied reason="lost" cert="high">وشهد</supplied> <supplied reason="lost" cert="high">عبد</supplied> الرّحمن بن شبيب على إقرار إبرهيم بن حميد وعلي بن عبد اللّه بجميع 
+<lb n="23"/>  ما في هذ<supplied reason="lost" cert="high">ا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">المحرّ</supplied>م سنة ثلثة وخمسين ومائتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà ʿaliyyu bnu ʿabdi ăl lāhi min ʾibrāhīma bni ḥamīd:in ăl maʿrūfi 
+ <lb n="3"/>bi hānaẗa hānnaẗa wa huwa ṣaḥīḥ:un fī ʿaqli hi wa badani hi ǧāʾiz:un bi ʾamri saʿati hi lā ʿillaẗa bi hi 
+ <lb n="4"/>min maraḍ:in ĭštarā hu fī ăl muḥarrami sanaẗa ṯalāṯaẗ:in wa ḫamsīna wa miʾatayni 
+ <lb n="5"/>ĭštarà min hu ǧamāʿaẗa ḥaqqi hi min ăl biʾri wa ʾarḍī hi ăllaḏī fī ăl ḥayyizi 
+ <lb n="6"/>ăl baḥriyyi min ʾidfū wa huwa ăl biʾru ăllaḏī ḥaddu hu ăl qibliyyu yantahī ʾilà ḍayʿaẗi 
+ <lb n="7"/>mūsà wa ʾibrāhīma ʾabī ʿīsà bni ʾidrīsa wa ḥaddu hu ăš šarqiyyu fī ăl baḥri ăl ǧārī 
+ <lb n="8"/>wa ḥaddu hu ăl baḥriyyu ăḍ ḍayʿaẗu ăllatī tudʿā bi sāwā wa ḥaddu hu ăl ġarbiyyu ăt turʿaẗu 
+ <lb n="9"/>ĭštarà ʿaliyyu bnu ʿabdi ăl lāhi min ʾibrāhīma bni ḥamīd:in ǧamāʿaẗa ḥaqqi hi min ăl biʾri 
+ <lb n="10"/>wa ʾarḍi hā ăl maḥdūdi fī kitābi nā hāḏā bi ǧamīʿi ḥudūdi ḏālika kulli hi wa ḥuqūqi hi 
+ <lb n="11"/>wa huwa ʾarbaʿaẗu ʾashum:in min ʾarbaʿaẗ:in wa ʿišrīna sahm:an min ǧamāʿaẗi hāḏā ăl biʾri 
+ <lb n="12"/>wa ʾarḍi hi bi dīnār:in miṯqāl:in wa qad naqada hu ʿaliyyu bnu ʿabdi ăl lāhi ăṯ ṯamana wāfiy:an 
+ <lb n="13"/>wa bariʾa min hu ʾilay hi wa qabaḍa ǧamīʿa mā ĭštarà waḥādaẗ:an dūna ʾibrāhīma 
+ <lb n="14"/>bni ḥamīd:in wa ṣāra māl:an min māli hi bi ăṯ ṯamani ăl musammā fī hāḏā ăl kitābi 
+ <lb n="15"/>wa huwa dīnār:un miṯqāl:un baʿda maʿrifati himā bi mā tabāyaʿā ʿalay hi qabla ăl bayʿi 
+ <lb n="16"/>wa taʿarrufi himā bi *** ʿan tarāḍ:in min humā ǧamīʿ:an wa ʿuhdaẗu bayʿi himā ʿuhdaẗu 
+ <lb n="17"/>bayʿi ʾahli ăl ʾislāmi wa šahida ʿalà ʾiqrāri ʾibrāhīma bni ḥamīd:in wa ʿaliyyi bni 
+ <lb n="18"/>ʿabdi ăl lāhi bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriya ʿalay himā wa ʿarafā hu 
+ <lb n="19"/>*** wa ø ʾaqarrā *** bi ø fahmi ø hi *** wa humā fī ṣiḥḥaẗi ʿaqli himā wa badani himā ṭāʾiʿayni ġayra mukrahayni 
+ <lb n="20"/>fī ăl muḥarrami sanaẗa ṯalāṯaẗ:in wa ḫamsīna wa miʾatayni ʾaḥmadu bnu kāyil:in wa šahida bi hi ʿaliyyu 
+ <lb n="21"/>*** fī ăl muḥarrami sanaẗa ṯalāṯaẗ:in wa ḫamsīna wa miʾatayni 
+ <lb n="22"/>wa šahida ʿabdu ăr raḥmāni bnu šabīb:in šubayb:in ʿalà ʾiqrāri ʾibrāhīma bni ḥamīd:in wa ʿaliyyi bni ʿabdi ăl lāhi bi ǧamīʿi 
+ <lb n="23"/>mā fī hāḏā ăl kitābi wa ḏālika fī ăl muḥarrami sanaẗa ṯalāṯaẗ:in wa ḫamsīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux.
+			<lb n="2"/>
+		Voici ce qu&#039;a acheté ʿAlī B. ʿAbd-Allāh à Ibrahīm b. Ḥamīd, connu sous le
+			<lb n="3"/>
+		nom de Hāna, Ali étant sain d&#039;esprit et de corps, à même d&#039;exercer sa capacité d&#039;agir, exempt de tare
+			<lb n="4"/>
+		provenant de maladie. Il l&#039;a acheté en Muḥarram de l&#039;an deux cent cinquante trois.
+			<lb n="5"/>
+		Il a acheté au vendeur la totalité de sa part du puits et du sol du puits situé dans le district 〚sud〛
+			<lb n="6"/>
+		nord d&#039;Edfou. C&#039;est le puits dont la limite sud aboutit au domaine
+			<lb n="7"/>
+		de Mūsā et d&#039;Ibrahīm b. Idrīs, dont la limite est est le bras d&#039;eau courante,
+			<lb n="8"/>
+		dont la limite nord est le domaine connu sous le nom de (domain de) Sāwa, et dont la limite ouest est le canal.
+			<lb n="9"/>
+		ʿAlī B. ʿAbd-Allāh a acheté à Ibrahīm B. Ḥamīd la totalité de sa part de ce puits,
+			<lb n="10"/>
+		et le sol de ce puits, puits délimité dans le présent acte, y compris toutes les limites de toute cette part, et les droits qui y affèrent.
+			<lb n="11"/>
+		Et ceci représente quatre parts sur vingt-quatre de la totalité de ce puits
+			<lb n="12"/>
+		et de son sol, pour un dinar miṯqāli. ʿAlī B. ʿAbd-Allāh a payé comptant de prix total au vendeur,
+			<lb n="13"/>
+		et il lui a été donné quittance par le vendeur. Il a reçu tout ce qu&#039;il achetait en propriété exclusive, Ibrahīm B. Ḥamīd sortant de ses droits,
+			<lb n="14"/>
+		et cela est devenu l&#039;un de ses biens pour le prix stipulé dans cet acte,
+			<lb n="15"/>
+		qui est un dinar miṯqāli, après que tous deux aient eu connaissance de l&#039;objet du marchandage en cours entre eux deux, avant la vente,
+			<lb n="16"/>
+		et qu&#039;ils aient reconnu... du fait de leur consentement mutuel à tous deux, et leur engagement de vente est l&#039;engagement
+			<lb n="17"/>
+		de vente des Musulmans. Aḥmad B. Kāil (ligne 20) a été témoin du consentement qu&#039;Ibrahīm B. Ḥamīd et ʿAlī B.
+			<lb n="18"/>
+		ʿAbd Allāh (ont donné) à tout ce qui est contenu dans cet acte, après qu&#039;on leur en ait fait lecture à tous deux, et qu&#039;on le leur ait fait connaître.
+			<lb n="19"/>
+		and they acknowledged the understanding of it, while being in good health mentally and physically, voluntarily without compulsion
+		... tous deux sains d&#039;esprit et de corps, consentants, non contraints,
+			<lb n="20"/>
+		en Muḥarram de l&#039;an deux cent cinquante trois. En a été témoin ʿAlī
+			<lb n="21"/>
+		... en Muḥarram de l&#039;an deux cent cinquante trois.
+			<lb n="22"/>
+		ʿAbd-ar-Raḥmān B. Šabīb a été témoin du consentement de Ibrahīm B. Ḥamīd et de ʿAlī B. ʿAbd-Allāh (donné) à tout
+			<lb n="23"/>
+		ce que contient cet acte, et cela, en Muḥarram de l&#039;an deux cent cinquante trois.
+</ab></div>
+</body>
+</text>
+</TEI>

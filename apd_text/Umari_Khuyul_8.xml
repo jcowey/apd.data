@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2120" xml:id="Umari_Khuyul_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 08</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  أحمد بن أحمد بن حسن من زفتي عرف <app type="BL"><lem resp="APD">بعسكم </lem><rdg resp="UB">بعسكر</rdg></app> 
+<lb n="2"/>  المتصرّف بباب الدّوادار الماس 
+<lb n="3"/>  سكنه بدرب التّركماني بسويقة أبي الوفا 
+<lb n="4"/>  بيت جانم المتأخّر ما عليه ذهب سلّمه 
+<lb n="5"/>  من أصل أربعة عشر دينار ثمن فحل <app type="BL"><lem resp="APD">شابه </lem><rdg resp="LS">شابه</rdg></app> 
+<lb n="6"/>  أحمر أصم بشرط البرا من كل عيب لا ضمان 
+<lb n="7"/>  سوى الحـ<supplied reason="omitted" cert="high">ـا</supplied>ل وأكل العليق المعتاد وأنّه 
+<lb n="8"/>  بخدمته في سادس ربيع الآخر سنة أحد عشر وتسعمائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaḥmadu bnu ʾaḥmada bni ḥasan:in min ziftà ʿurifa bi ʿaskama ʿaskara 
+ <lb n="2"/>ăl mutaṣarrifu bi bābi ăd dawādāri ăl māsi 
+ <lb n="3"/>sakanu hu bi darbi ăt turkmāniyyi bi suwayqaẗi ʾabī ăl wafāʾi 
+ <lb n="4"/>bayti ǧānima ăl mutaʾaḫḫaru mā ʿalay hi ḏahab sallama hu 
+ <lb n="5"/>min ʾaṣli ʾarbaʿaẗa ʿašara dīnār ṯamani faḥl:in šābaha šātu hu ø 
+ <lb n="6"/>ʾaḥmara ʾaḥmaru ʾaṣamma bi šarṭi ăl barāʾi min kulli ʿayb:in lā ḍamāna 
+ <lb n="7"/>siwà ăl ḥāli wa ʾakli ăl ʿalīqi ăl muʿtādi wa ʾanna hu 
+ <lb n="8"/>bi ḫidmati hi fī sādisi rabīʿa ăl ʾāḫari sanaẗa ʾaḥada ʿašara wa tisʿi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

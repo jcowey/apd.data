@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1746" xml:id="Rodriguez_Dominguez_Compraventa10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezCompraventa 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Dominguez_Compraventa10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169487</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على محمّد وعلى آله وصحبه 
+<lb n="2"/>  اشترى أحمد بن سعيد الأشكر من عائشة بنت صالح الأزدي جميع خربة الدّار الكائنة 
+<lb n="3"/>  بالرّوضة من البيازين قبليّها مسقط للغير وجوفيّها زقاق وشرقيّها الـ<supplied reason="lost" cert="high">ـمـ</supplied>ـقبرة وغربيّه 
+<lb n="4"/>  <unclear reason="undefined" cert="high">أري</unclear> الأزدي اشترا تامّا بحقوقها كافة وحرمها عليّةً بثمن <supplied reason="lost" cert="high">عـ</supplied>ـدّته خمسة دنانيـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="5"/>  من الذّهب بصرف الفضّة المعتاد قبضتها البائعة وصارت بيدها وخلص للمشتر<supplied reason="lost" cert="high">ي</supplied> 
+<lb n="6"/>  تملّك المشتري <unclear reason="undefined" cert="high">الخلوص</unclear> <unclear reason="undefined" cert="high">الصّحيح</unclear> على السّنّة ومرجع الدّرك وبعد النّـ<supplied reason="lost" cert="high">ـظـ</supplied>ـر والـرّضى 
+<lb n="7"/>  وعرفا قدره وأشهدا به على إلّيهما من عرفهما بحال صحّة وجواز بتأريخ 
+<lb n="8"/>  الخامس عشر لرمضان عام اثنان وأربعين وثمانمائة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà muḥammad:in wa ʿalà ʾāli hi wa ṣaḥbi hi 
+ <lb n="2"/>ĭštarà ʾaḥmadu bnu saʿīd:ini ăl ʾaškaru min ʿāʾišaẗa binti ṣāliḥ:ini ăl ʾazdiyyi ǧamīʿa ḫirbaẗi ăd dāri ăl kāʾinaẗi 
+ <lb n="3"/>bi ăr rawḍaẗi mina ăl bayāzīna qibliyyu hā masqaṭ:un li l ġayri wa ǧawfiyyu hā zuqāq:un wa šarqiyyu hā ăl maqburaẗu wa ġarbiyyu hu 
+ <lb n="4"/>ʾarī ăl ʾazdiyyi ĭštirāʾ:an tāmm:an bi ḥuqūqi hā kāfaẗ:an wa ḥurumi hā ʿaliyyaẗ:an bi ṯaman:in ʿiddatu hu ḫamsaẗu danānīra 
+ <lb n="5"/>mina ăḏ ḏahabi bi ṣarfi ăl fiḍḍaẗi ăl muʿtādi qabaḍat hā ăl bāʾiʿaẗu wa ṣārat bi yadi hā wa ḫalaṣa li l muštarī 
+ <lb n="6"/>tamalluku ăl muštarī ăl ḫulūṣa ăṣ ṣaḥīḥa ʿalà ăs sunnaẗi wa marǧiʿi ăd daraki wa baʿda ăn naẓari wa ăr riḍà 
+ <lb n="7"/>wa ʿarafā qadra hu wa ʾašhadā bi hi ʿalà ʾillay himā man ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in bi taʾrīḫi 
+ <lb n="8"/>ăl ḫāmisa ʿašara li ramaḍāna ʿāma ĭṯnāni wa ʾarbaʿīna wa ṯamāni miʾaẗ:in *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		En el nombre de Dios, el Clemente y Misericordioso. Dios bendiga y salve a nuestro señor Muḥammad, a su familia y a sus compañeros.
+			<lb n="2"/>
+		Aḥmad ibn Saʿīd al-Aškar compra a ʿĀʾiša bint Ṣāliḥ al-Azdī la totalidad de una casa en ruinas (jirba) situada
+			<lb n="3"/>
+		en al-Rawḍa (la Rauda), en al-Bayyāzīn (el Albaicín), (que linda) a mediodía con el vertedero (masqaṭ) de alguien, al norte con un callejón (zuqāq), a levante con el cementerio y a poniente
+			<lb n="4"/>
+		con el [¿establo?] de al-Azdī. Esta es una cumplida compra con los derechos suficientes y sus dependencias en lo alto, por un precio que ascienda a cinco dinares
+			<lb n="5"/>
+		de oro al cambio corriente de plata. La vendedora toma posesión física y jurídica de esta cantidad, en su totalidad, quedando recibida de ella y entregando al comprador
+			<lb n="6"/>
+		el correspondiente finiquito perfecto, según lo prescrito por la ley para semejante caso, con derecho de indemnización por daños, después que (el comprador) viese y aceptase (la finca).
+			<lb n="7"/>
+		Ambas (partes) conocen el alcance (del acuerdo adoptado) y requieren el testimonio (invocable) contra ellas (de los testigos instrumentales), quienes las conocen (y saben que gozan) de capacidad física y legal (bastante).
+			<lb n="8"/>
+		A 15 de ramaḍān de 842 / 1 marzo 1439. [Firmas ilegibles].
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1753" xml:id="Grohmann_APEL_297" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 297</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_297</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169494</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن ا<supplied reason="lost" cert="high">لرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">أ</supplied>طال اللّه بـ<supplied reason="lost" cert="high">ـقا</supplied>ك و<supplied reason="lost" cert="high">أدام</supplied> <supplied reason="lost" cert="high">عزّك</supplied> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه إليك لكل <gap reason="illegible" extent="1" unit="character" />پپا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپل <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپى پپا<gap reason="illegible" extent="2" unit="character" />ـ و<supplied reason="lost" cert="high">من</supplied> 
+<lb n="5"/>  كـ<supplied reason="lost" cert="high">ـلّ</supplied> <supplied reason="lost" cert="high">سو</supplied>ا <supplied reason="lost" cert="high">فداك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  فإنّك تعلم أنّا أيّما ثمن 
+<lb n="7"/>  السّوق نشتري 
+<lb n="8"/>  الخبز فلم تجئنا به 
+<lb n="9"/>  وتركتنا وأنت 
+<lb n="10"/>  تعلم شدّة حاجتنا 
+<lb n="11"/>  إلى ويبة واحدة قمح 
+<lb n="12"/>  وأحب أعزّك اللّه أن 
+<lb n="13"/>  تطلب إسمعيل 
+<lb n="14"/>  وتجينا به إلى هاهنا 
+<lb n="15"/>  حتّى نناظره بحضرتك 
+<lb n="16"/>  السّاعة إن شا اللّه 
+<lb n="17"/>  أطال اللّه بقاك 
+<lb n="right margin"/>  صلّى اللّه على محمّد النّبي وآله 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="3"/>*** hu ʾilay ka li kulli *BBʾ*** 
+ <lb n="4"/>***Bl **By BBʾ** wa min 
+ <lb n="5"/>kulli sūʾ:in fidāʾa ka *** 
+ <lb n="6"/>fa ʾinna ka taʿlamu ʾan nā ʾayyumā ṯamanu 
+ <lb n="7"/>ăs sūqi naštarī 
+ <lb n="8"/>ăl ḫubza fa lam taǧiʾ nā bi hi 
+ <lb n="9"/>wa tarakta nā wa ʾanta 
+ <lb n="10"/>taʿlamu šiddaẗa ḥāǧati nā 
+ <lb n="11"/>ʾilà waybaẗ:in wāḥidaẗ:in qamḥ 
+ <lb n="12"/>wa ʾuḥibbu ʾaʿazza ka ăl lāhu ʾan 
+ <lb n="13"/>taṭluba ʾismāʿīla 
+ <lb n="14"/>wa taǧiya nā bi hi ʾilà hāhunā 
+ <lb n="15"/>ḥattà nunāẓira hu bi ḥaḍrati ka 
+ <lb n="16"/>ăs sāʿaẗa ʾin šāʾa ăl lāhu 
+ <lb n="17"/>ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="18"/>ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May God prolong your life and [cause your might to continue]
+			<lb n="3"/>
+		[...] towards you for all (?) .... [...]
+			<lb n="4"/>
+		[...] ................................................ and [for]
+			<lb n="5"/>
+		a[ll evi]l [your ransom].
+			<lb n="6"/>
+		Now, verily, you know that we shall buy
+			<lb n="7"/>
+		the bread, whatever the market price
+			<lb n="8"/>
+		may be. But you have not brought it to us,
+			<lb n="9"/>
+		and have forsaken us, although you
+			<lb n="10"/>
+		know the greatness of our want
+			<lb n="11"/>
+		for one (single) waiba of wheat.
+			<lb n="12"/>
+		I should like you - may God exalt you -
+			<lb n="13"/>
+		to search for Ismaʿîl
+			<lb n="14"/>
+		and bring him here
+			<lb n="15"/>
+		so that we may discuss (it) with him in your presence
+			<lb n="16"/>
+		at once, if God wills.
+			<lb n="17"/>
+		May God prolong your life.
+			<lb n="18"/>
+		May the blessing of God be upon Muḥammad, the Prophet, and upon his family.
+</ab></div>
+</body>
+</text>
+</TEI>

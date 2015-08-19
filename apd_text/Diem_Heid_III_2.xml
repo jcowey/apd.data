@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2208" xml:id="Diem_Heid_III_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 02</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">إليك</supplied> <gap reason="illegible" extent="7" unit="character" />  أعزّك 
+<lb n="2"/>  كتابي يا والدتي العزيزة علی صانك اللّه وتولّاك و<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـك</supplied> و<supplied reason="lost" cert="high">أ</supplied>سعدك <supplied reason="lost" cert="high">و</supplied>أ<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـك 
+<lb n="3"/>  وسترك وجمعنا علی أخير <supplied reason="lost" cert="high">حـ</supplied>ـال تجعل  ذلك ولا شا 
+<lb n="4"/>  إن شا اللّه اللّه         
+<lb n="5"/>  وأبو اليسر وقد كتبت إليهما عدّة أطال     عزّك  
+<lb n="6"/>  <supplied reason="lost" cert="high">جواب</supplied> <supplied reason="lost" cert="high">و</supplied>أرجو أ<supplied reason="lost" cert="high">ن</supplied> وكرامتك عليك   وكرامتك وأتم  
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> وأخـ<supplied reason="lost" cert="high">ـر</supplied>ج إلی بعض الضّياع 
+<lb n="Upper margin right 1"/>  يوصّل <supplied reason="lost" cert="high">إ</supplied>لى والدتي منزل سدر بن اليتيم 
+<lb n="Upper margin right 2"/>  بالأشمونين في الهتور حرسها اللّه 
+<lb n="Upper margin right 3"/>  <supplied reason="lost" cert="high">و</supplied>صانها وحفظها 
+<lb n="Upper margin left 1"/>  من ولدها بطرس بن سدر بن اليتيم 
+<lb n="Upper margin left 2"/>  يصل الأشمونين الهتور يدفع إلى والدته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitāb ī yā wālidat ī ăl ʿazīzaẗa ʿalay ya ṣāna ki ăl lāhu wa tawallā ki wa **B ki wa ʾasʿada ki wa ʾa**B ki 
+ <lb n="3"/>wa satara ki wa ǧamaʿa nā ʿalà ʾaḫyari ḥāli ăs salāmaẗi bi luṭfi hi wa raḥmati hi min miṣra 
+ <lb n="4"/>ʿan salāmaẗ:in ʾaḥmadu ăl lāha ʿalay hā wa šawq:in ʾilay ki wa ʾilà wālid ī wa ʾaṣḥāb ī min hum qūraẗu 
+ <lb n="5"/>wa ʾabū ăl yusri wa qad katabtu ʾilay himā ʿiddaẗa kutub:in lam maʿa ** ʾarà li wāḥid:in min hā 
+ <lb n="6"/>ǧawāb wa ʾarǧū ʾan yakūna taʾḫīru ḏālika li ḫayr:in wa salāmaẗ:in wa ăl ḫarāǧu wa ăl ʿimāraẗu 
+ <lb n="7"/>*** wa ʾaḫruǧu ʾilà baʿḍi ăḍ ḍiyāʿi 
+ <lb n="8"/>yūṣalu ʾilà wālidat ī manzila sidari bni ăl yatīmi 
+ <lb n="9"/>bi ăl ʾušmūnayni fī ăl hatūri ḥarasa hā ăl lāhu 
+ <lb n="10"/>wa ṣāna hā wa ḥafiẓa hā 
+ <lb n="11"/>min waladi hā buṭrusu bnu sidari bni ăl yatīmi 
+ <lb n="12"/>yaṣilu ăl ʾušmūnayni ăl hatūri yadfaʿu ʾilà wālidati hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Mein Brief, o meine mir teure Mutter - Gott bewahre Dich, nehme sich Deiner an, [*** Dich], mache Dich glücklich, [***] Dich,
+			<lb n="3"/>
+		beschirme Dich und vereinige uns im besten [Zu]stand der Wohlbehaltenheit in seiner Güte und Barmherzigkeit -, ergeht aus Miṣr
+			<lb n="4"/>
+		in Wohlbehaltenheit - ich preise Gott hierfür -  und Sehnsucht nach Dir, meinem Va[t]er und meinen Kollegen, darunter Qūre
+			<lb n="5"/>
+		und Abū l-Yusr. (Vacat) Ich habe den beiden schon etliche Brie[f]e \durch ........./ gesandt, ohne [auf] einen einzigen von ihnen
+			<lb n="6"/>
+		[eine Antwort] zu sehen zu bekommen, [und] ich hoffe, d[aß] die Verzögerung hiervon durch etwas Gutes und Wohlbehaltenheit bedingt ist. (Vacat) Die Grundsteuer und die (Abgabe für die) Meliorisierung
+			<lb n="7"/>
+		[...] und ich werde mich zu einigen Landgütern auf den Weg machen
+			<lb n="8"/>
+		Man möge diesen (Brief) zu meiner Mutter gelangen lassen, Wohnsitz von Sidar ibn al-Yatīm
+			<lb n="9"/>
+		in (der Stadt) al-Ušmūnayn in (dem Viertel) al-Hatūr - Gott schütze,
+			<lb n="10"/>
+		bewahre und erhalte sie -
+			<lb n="11"/>
+		von ihrem Jungen Buṭrus ibn Sidar ibn al-Yatīm.
+			<lb n="12"/>
+		Der (Brief) möge nach al-Ušmūnayn, al-Hatūr, gelangen. Er möge seiner Mutter übergeben werden.
+</ab></div>
+</body>
+</text>
+</TEI>

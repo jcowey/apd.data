@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1720" xml:id="Prag_560" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 56</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_560</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169467</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">كتابي</rdg></app> <app type="BL"><lem resp="APD">لا </lem><rdg resp="APD">لامك </rdg><rdg resp="Diem">إليك</rdg></app> پك عن سلامه والحمد لله كپپرا وصلى الله على سپدپا محمد <app type="BL"><lem resp="APD">الپپى </lem><rdg resp="Diem">وآله</rdg></app> 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پسلپما</supplied> </lem><rdg resp="Diem">وسلّم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “both complements are possible”">كثيرا</rdg></app> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">صـ</supplied>ـح من العده ماپه واپپپن وارثعنن ملفه پڤصان ملفه 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> طيّب ومبلغ ما صح لك من الثّمن عن هذه المائة واثنين وأربعين ملفّة 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دينار</supplied> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">ثمن </lem><rdg resp="APD">عن</rdg></app> القلادة الذّهب من حساب عشرين قيراطا 
+<lb n="6"/>  وبعد أن كتبت هذا الكتاب حللت الرّزمة وأخذ<supplied reason="lost" cert="high">ت</supplied> 
+<lb n="7"/>  مالي فيها من الثّياب وغيره المسوّدة والخلقا<supplied reason="lost" cert="high">ن</supplied> 
+<lb n="8"/>  أخلف اللّه عليك بخير وجعل لي في عمرك البركة <app type="BL"><lem resp="APD">وجمـ<supplied reason="lost" cert="high">ـعني</supplied> </lem><rdg resp="Diem">وجمع</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پك</supplied> </lem><rdg resp="Diem">بيني</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤى</supplied> </lem><rdg resp="Diem">وبينك</rdg></app> 
+<lb n="9"/>  الجنّة برحمته ولقد رأيت يا سيّدي رزمة ناد<supplied reason="lost" cert="high">رة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  رفيعة جيّدة بحضرة محمّد رآها فتحيّر منهـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">كثيرا</supplied> 
+<lb n="11"/>  وقال <app type="BL"><lem resp="APD">لأمر </lem><rdg resp="APD">لأيش</rdg></app> ما يرسل إلي مثل هذه <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">وارڤر</unclear> </lem><rdg resp="APD">وأرجو</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** kitāb ø ī lʾBk lʾmk ʾilay ø ka ʿan salāmaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:ini ăn nabiyyi wa sallama ʾāli ø hi 
+ <lb n="3"/>ø wa ø sallama taslīm:an kaṯīr:an *** mā ṣaḥḥa min ăl ʿiddaẗi miʾaẗ:un wa ĭṯnayni wa ʾarbaʿīna milaffaẗ:an nuqṣāna milaffaẗ:in 
+ <lb n="4"/>*** ṭayyib wa mablaġu mā ṣaḥḥa la ka mina ăṯ ṯamani ʿan hāḏihi ăl miʾaẗi wa ĭṯnayni wa ʾarbaʿīna milaffaẗ:an 
+ <lb n="5"/>*** dīnār *** ṯaman ʿani ăl qilādaẗi ăḏ ḏahabi min ḥisābi ʿišrīna qīrāṭ:an 
+ <lb n="6"/>wa baʿda ʾan katabtu hāḏā ăl kitāba ḥalaltu ăr rizmaẗa wa ʾaḫaḏtu 
+ <lb n="7"/>māl ī fī hā mina ăṯ ṯiyābi wa ġayri hi ăl musawwadaẗi wa ăl ḫulqāni 
+ <lb n="8"/>ʾaḫlafa ăl lāhu ʿalay ka bi ḫayr:in wa ǧaʿala l ī fī ʿumri ka ăl barakaẗa wa ǧamaʿa nī ø ø bayn ø ī ø wa bi bayna ka fī 
+ <lb n="9"/>ăl ǧannaẗi bi raḥmati hi wa la qad raʾaytu yā sayyid ī rizmaẗ:an nādiraẗ:an *** 
+ <lb n="10"/>rafīʿaẗ:an ǧayyidaẗ:an bi ḥaḍraẗi muḥammad:in raʾā hā fa taḥayyara min hā kaṯīr:an 
+ <lb n="11"/>wa qāla li ʾamri ʾayyi ø š mā yursilu ʾilay ya miṯla hāḏihi wa ʾrFr ʾarǧū *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, der Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		[......]..... im (Zustande der) Sicherheit und Lob sei vielmals Gott! Gott segne unsern Herrn den Propheten Muḥammad und spende ihm
+			<lb n="3"/>
+		[Heil..... was(?) ] an Stückzahl als richtig festgestellt wurde (beträgt) einhundertzweiundvierzig Decken bei einem Manko von einer Decke.
+			<lb n="4"/>
+		[...] gut. Und der Betrag dessen, was als Kaufpreis für diese einhundertzweiundvierzig Decken zu Deinen Gunsten als richtig befunden wurde
+			<lb n="5"/>
+		[sind soundsoviele Dīnāre(?) ....] Kaufpreis des goldenen Halsbandes in Berechnung von zwanzig Karat.
+			<lb n="6"/>
+		Und nachdem ich diesen Brief geschrieben hatte, öffnete ich den Ballen und entna[hm,]
+			<lb n="7"/>
+		was darin an Kleidern und anderem mir gehört, die schwarzgefärbten und abgetragen[en].
+			<lb n="8"/>
+		Gott vergelte Dir mit Gutem und verleihe mir in Deinem Leben Glück und brin[ge mich mit Dir im]
+			<lb n="9"/>
+		Paradiese zusammen in seiner Barmherzigkeit. Ich habe bereits, oh mein Herr, einen kost[baren],
+			<lb n="10"/>
+		feinen, vortrefflichen Ballen in Gegenwart des Muḥammad gesehen, der ihn ansah. Da war er darüber [sehr?] erstaunt
+			<lb n="11"/>
+		Und jener sagte: &#034;Warum sendet er (sc. der Adressat) mir nicht (auch) so einen (Ballen) wie diesen?&#034;
+		und sagte: &#034;Was mag der Anlaß sein, daß er mir dergleichen schickt!&#034; Und ich hoffe(?) [...].
+</ab></div>
+</body>
+</text>
+</TEI>

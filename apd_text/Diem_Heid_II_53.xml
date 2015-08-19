@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1446" xml:id="Diem_Heid_II_53" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 53</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_53</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169231</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  جعلت فدا<supplied reason="lost" cert="high">ك</supplied> <supplied reason="lost" cert="high">وأطـ</supplied>ـا<supplied reason="lost" cert="high">ل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> بقـ<supplied reason="lost" cert="high">ـاك</supplied> و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  وزاد في إحسـ<supplied reason="lost" cert="high">ـانه</supplied> إليك وعندك <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ø</rdg></app> 
+<lb n="3"/>  كتابي إليك يـ<supplied reason="lost" cert="high">ـا</supplied>حى جعلني اللّه فدا<supplied reason="lost" cert="high">ك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  كثيرا وصلّى اللّه على محمّد النّبي وعـ<supplied reason="lost" cert="high">ـلى</supplied> <supplied reason="lost" cert="high">آله</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  مع موسى الغلام الأشموني وفهمت مـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">ذكرت</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <app type="BL"><lem resp="APD">المپـ<unclear reason="undefined" cert="high">ـر</unclear><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">المنزل </rdg><rdg resp="APD">المنن</rdg></app> <app type="BL"><lem resp="APD">لك </lem><rdg resp="APD">ولك</rdg></app> برحمته إنّه ولي ذلك والقادر عـ<supplied reason="lost" cert="high">ـليه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <supplied reason="lost" cert="high">أ</supplied>نّك لم تقرأ لي كتاب مذ زمان وما من كتاب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا </lem><rdg resp="APD">يرضا</rdg></app> <app type="BL"><lem resp="APD">به </lem><rdg resp="APD">به</rdg></app> <app type="BL"><lem resp="APD">الڤپپان </lem><rdg resp="final nūn with dot above">العينان</rdg></app> إلّا نراك والكتاب اپا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  عليها فلا تنزّل ذلك منّي حقّا فإن بن مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka wa *** 
+ <lb n="2"/>wa zāda fī ʾiḥsāni hi ʾilay ka wa ʿinda ka *** ø 
+ <lb n="3"/>kitāb ī ʾilay ka aḫ yā ī ǧaʿala nī ăl lāhu fidāʾa ka *** 
+ <lb n="4"/>kaṯīr:an wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʿalà ʾāli hi *** 
+ <lb n="5"/>maʿa mūsà ăl ġulāmi ăl ʾušmūniyyi wa fahimtu mā ḏakarta fī hi min *** 
+ <lb n="6"/>ăl mBr* manzila minana ø wa la la ka ka bi raḥmati hi ʾinna hu waliyyu ḏālika wa ăl qādiru ʿalay hi *** 
+ <lb n="7"/>ʾanna ka lam taqraʾ l ī kitāb muḏ zamān:in wa mā min kitāb:in *** 
+ <lb n="8"/>**ʾ yarḍā Bh bi hi ø ăl fBBʾn ʿaynāni ʾillā narā ka wa ăl kitābu ʾBʾ *** 
+ <lb n="9"/>ʿalay hā fa lā tunazzil ḏālika min nī ḥaqq:an fa ʾinna bna m*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Möge ich zu [Deinem] Lösegeld gemacht werden, [möge Gott Dich la]ng[e le]be[n lassen], möge er [
+			<lb n="2"/>
+		und möge er Dir noch mehr sein Wohlwollen erweisen!
+			<lb n="3"/>
+		Mein Brief ergeht an Dich, mein Bruder - Gott mache mich zu [Deinem] Lösegeld -, [während ich mich bei Gesundheit befinde - Lob sei Gott]
+			<lb n="4"/>
+		vielmals, und Gott segne Muḥammad, den Propheten, und [seine Familie. ... Dein Brief ist bei mir]
+			<lb n="5"/>
+		durch Mūsā, den Burschen aus al-Ušmūn, [abgeliefert worden,] und ich habe verstanden, was [Du darin erwähnst hinsichtlich
+			<lb n="6"/>
+		- - - in seiner Gnade; er ist dazu fähig und imstan[de. Ferner hast Du darin erwähnt,]
+			<lb n="7"/>
+		daß Du von mir seit langem keinen Brief erhalten hast. Aber es gibt keinen Brief, [der
+			<lb n="8"/>
+		- - -, sondern wir müssen Dich unbedingt (von Angesicht) sehen. Und das Schreiben - - -
+			<lb n="9"/>
+		auf sie. Deshalb schmälere mir dies nicht als Rechtsanspruch, denn Ibn M[
+</ab></div>
+</body>
+</text>
+</TEI>

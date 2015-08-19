@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2572" xml:id="Grohmann_CPR_III_036" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Lond. IV 1462 p (= CPR III 1 036)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_036</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ممّا</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">بـه</supplied> <supplied reason="lost" cert="high">الأمير</supplied> عبد اللّه بن عبد الملك 
+ <lb n="4"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">تـ</supplied>ـسع وثمنين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>hāḏā mimmā ʾamara bi hi ăl ʾamīru ʿabdu ăl lāhi bnu ʿabdi ăl maliki 
+ <lb n="4"/>fī sanaẗi tisʿ:in wa ṯamānīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="3"/>
+ 	  ʿAbd-allāh b. ʿAbd-al-Malik
+		 <lb n="4"/>
+ 	  ] eighty-nine
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

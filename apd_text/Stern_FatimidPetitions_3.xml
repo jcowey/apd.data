@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2227" xml:id="Stern_FatimidPetitions_3" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.SternFatimidPetitions 3 (= P.GenizahCambr. 085)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Stern_FatimidPetitions_3</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1 (upper margin left)"/>  المملوك 
+ <lb n="recto 2 (upper margin left)"/>  <app type="BL"><lem resp="APD">أبو </lem><rdg resp="Khan">بو</rdg></app> عبد اللّه بن يحيى الفرّان بمصر 
+ <lb n="recto 3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="recto 4"/>  صلوات اللّه وبركاته ونوامي زكواته وأفضل تحيّاته وسلامه على مولانا وسيّدنا 
+ <lb n="recto 5"/>  الإمام العاضد لدين اللّه أمير المومپپن وعلى آبائه الطّاهرين وأبنائه المنتظرين 
+ <lb n="recto 6"/>  صلاة دائمة باقية إلى يوم الدّين المملوك يقبّل الأرض وينهي إلى المجلس العالي <app type="BL"><lem resp="APD">الملكي </lem><rdg resp="Khan">السّامي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="Khan">العالي</rdg></app> 
+ <lb n="recto 7"/>  السّيّدي الأجلّي الجيوشي السّيفي الكافلي النّاصري <app type="BL"><lem resp="APD">كلأه </lem><rdg resp="Richards p. 149 ; Khan">الهادي</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">اللّه</unclear> </lem><rdg resp="Khan">ø</rdg></app> <app type="BL"><lem resp="APD">وعضد </lem><rdg resp="the wāw is superfluous for Khan">عضد</rdg></app> به الدّين 
+ <lb n="recto 8"/>  وامتع بطول بقائه أمير المومپپن وأدام قدرته وأعلا كلمته وأنفذ في البسيطة أوامره <app type="BL"><lem resp="APD">وإمكانه </lem><rdg resp="Khan">وأحكامه</rdg></app> 
+ <lb n="recto 9"/>  وينهي أنّه رجل صعلوك ذو عائلة واطفال فرّان بمصر وأن في قبله 
+ <lb n="recto 10"/>  لرجل يعرف بعبد الباقي بن وردر دين وحاله يضعف عن القيام به 
+ <lb n="recto 11"/>  وصاحب الدّين المذكور يطلب به الطّلب الخبيث والمملوك <app type="BL"><lem resp="APD">يسئل </lem><rdg resp="Khan">يسل</rdg></app> الإنعام عليه 
+ <lb n="recto 12"/>  والإحسان إليه بخروج الأمر المطاع إلي متولّي الحكم العزيز بالنّظر في 
+ <lb n="recto 13"/>  حاله وتقسيط الدّين عليه على قدر حاله والرّفق به ليجد السّبيل إلى 
+ <lb n="recto 14"/>  المقام بوطنه والقيام بأود عايلته <app type="BL"><lem resp="APD">وحپاه </lem><rdg resp="Khan">ويحيى</rdg></app> <app type="BL"><lem resp="word written above the line">محدده </lem><rdg resp="Khan">حياة</rdg></app> <gap reason="illegible" extent="5" unit="character" /> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="APD">ø</rdg></app> هده الاوامر <app type="BL"><lem resp="APD">الحپوشپه </lem><rdg resp="Khan">الأيّام</rdg></app> 
+ <lb n="recto 15"/>  أبقاها اللّه تعالى وخلّد ملك مالكها إنعام عليه وإحسان إليه <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="Richards p. 152 ; Khan">وللآراء</rdg></app> 
+ <lb n="recto 16"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="Richards p. 152 ; Khan">فضل</rdg></app> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="Richards p. 152 ; Khan">السّموّ</rdg></app> <app type="BL"><lem resp="APD">دلك </lem><rdg resp="Khan">والقدرة </rdg><rdg resp="Richards p. 152">والفكرة</rdg></app> ان سا إلله پعالى 
+ <lb n="recto 17"/>  الحمد للّه وحده <app type="BL"><lem resp="APD">وصلوات </lem><rdg resp="Khan">وصلواته</rdg></app> <app type="BL"><lem resp="APD">اللّه </lem><rdg resp="APD">ø</rdg></app> على <app type="BL"><lem resp="APD">النّبي </lem><rdg resp="Khan">سيّدنا</rdg></app> محمّد وآله <app type="BL"><lem resp="APD">وسلامه </lem><rdg resp="Khan">وسلّم</rdg></app> 
+ <lb n="verso right 1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="Richards p. 153 ; Khan">رسم</rdg></app> <app type="BL"><lem resp="APD">الڤاصى </lem><rdg resp="Richards p. 153 ; Khan">إلى</rdg></app> الموقق الامپن كمال الدپن 
+ <lb n="verso right 2"/>  باستيضاح حال رافعها فإذا ثبت عدمه 
+ <lb n="verso right 3"/>  بما يثبت به مثله فلينظر في أمره بما يوجبه الشّرع 
+ <lb n="verso right 4"/>  <app type="BL"><lem resp="APD">وتقتضيه </lem><rdg resp="Khan">وتقتضيه</rdg></app> المصلحة <app type="BL"><lem resp="APD">ولـ<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Khan">وإقراره </rdg><rdg resp="less clear but probably the same ≤as in the last line of the left half± “Richards p. 156”">واليقرّ</rdg></app> 
+ <lb n="verso left 1"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الملك</unclear> </lem><rdg resp="Richards p. 154 ; Khan">الحمد</rdg></app> للّه <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Khan">و<gap reason="illegible" extent="4" unit="character" /> ـ </rdg><rdg resp="Richards p. 154">وبه</rdg></app> 
+ <lb n="verso left 2"/>  ليستوضح القاضي الموفّق الأمين 
+ <lb n="verso left 3"/>  كمال الدّين <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ثقة</rdg></app> الأنام شرف الحكّام 
+ <lb n="verso left 4"/>  عز المسلمين مصطفى المومپپن 
+ <lb n="verso left 5"/>  أدام اللّه تأييده وتمكينه وأحسن 
+ <lb n="verso left 6"/>  عونه وتوفيقه حال رافعها فإذا 
+ <lb n="verso left 7"/>  ثبت عدمه بما يثبت به مثله فلينظر 
+ <lb n="verso left 8"/>  في أمره بما يوجبه الشّرع 
+ <lb n="verso left 9"/>  <app type="BL"><lem resp="APD">ويقتضيه </lem><rdg resp="Khan">وتقتضيه</rdg></app> المصلحة <app type="BL"><lem resp="APD">ولـ<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Richards p. 156 ; Khan">وليقرّ</rdg></app> <app type="BL"><lem resp="APD">ان </lem><rdg resp="Richards p. 156 ; Khan">بيده</rdg></app> سإ الله 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl mamlūku 
+ <lb n="2"/>ʾabū bū ʿabdi ăl lāhi bnu yaḥyà ăl farrānu bi miṣra 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ṣalawātu ăl lāhi wa barakātu hu wa nawāmī zakawāti hi wa ʾafḍalu taḥiyyāti hi wa salāmi hi ʿalà mawlā nā wa sayyidi nā 
+ <lb n="5"/>ăl ʾimāmi ăl ʿāḍidi li dīni ăl lāhi ʾamīri ăl muʾminīna wa ʿalà ʾābāʾi hi ăṭ ṭāhirīna wa ʾabnāʾi hi ăl muntaẓarīna 
+ <lb n="6"/>ṣalāẗ:an dāʾimaẗ:an bāqiyaẗ:an ʾilà yawmi ăd dīni ăl mamlūku yuqabbilu ăl ʾarḍa wa yunhī ʾilà ăl maǧlisi ăl ʿālī ăl ăs malikiyyi sāmī ***** ăl ø ʿālī 
+ <lb n="7"/>ăs sayyidiyyi ăl ʾaǧalliyyi ăl ǧuyūšiyyi ăs sayfiyyi ăl kāfiliyyi ăn nāṣiriyyi kalaʾa ăl hu hādī ăl ø lāhu ø wa ø ʿaḍada bi hi ăd dīna 
+ <lb n="8"/>wa ʾamtaʿa bi ṭūli baqāʾi hi ʾamīra ăl muʾminīna wa ʾadāma qudrata hu wa ʾaʿlā kalimata hu wa ʾanfaḏa fī ăl basīṭaẗi ʾawāmira hu wa ʾimkāna ʾaḥkāma hu 
+ <lb n="9"/>wa yunhī ʾanna hu raǧul:un ṣuʿlūk:un ḏū ʿāʾilaẗ:in wa ʾaṭfāl:in farrān:un bi miṣra wa ʾanna fī qibali hi 
+ <lb n="10"/>li raǧul:in yuʿrafu bi ʿabdi ăl bāqī bni wardara dayn wa ḥālu hu yaḍʿufu ʿani ăl qiyāmi bi hi 
+ <lb n="11"/>wa ṣāḥibu ăd dayni ăl maḏkūru yaṭlubu bi hi ăṭ ṭalaba ăl ḫabīṯa wa ăl mamlūku yasʾalu yasalu ăl ʾinʿāma ʿalay hi 
+ <lb n="12"/>wa ăl ʾiḥsāna ʾilay hi bi ḫurūǧi ăl ʾamri ăl muṭāʿi ʾilà mutawallī ăl ḥukmi ăl ʿazīzi bi ăn naẓari fī 
+ <lb n="13"/>ḥāli hi wa taqsīṭi ăd dayni ʿalay hi ʿalà qadri ḥāli hi wa ăr rifqi bi hi li yaǧida ăs sabīla ʾilà 
+ <lb n="14"/>ăl maqāmi bi waṭani hi wa ăl qiyāmi bi ʾawadi ʿāyilati hi ø wa ø yaḥyà wa ø ḥayāẗ:an muǧaddadaẗ:an ***** ø fī hāḏihi ăl ʾawāmiru ʾayyāmi ăl ǧuyūšiyyaẗi ǧuyūšiyyaẗu 
+ <lb n="15"/>ʾabqā hā ăl lāhu taʿālà wa ḫallada mulka māliki hā ʾinʿām ʿalay hi wa ʾiḥsān ʾilay hi ***** wa ø li ø l ø ʾārāʾi ø ăl ø ʿāliyaẗi 
+ <lb n="16"/>****** faḍlu ø ăs ø sumuwwi ø wa والفكرة ø ăl ø qudraẗi fī ḏālika ʾin šāʾa ăl lāhu taʿālà 
+ <lb n="17"/>ăl ḥamdu li l lāhi waḥda hu wa ṣalawātu ø hu ăl ø lāhi ø ʿalà ăn sayyidi nabiyyi nā muḥammad:in wa ʾāli hi wa salāmu sallama hu ø ø taslīm:an 
+ <lb n="18"/>***** rusima ø ʾilà ăl qāḍī ăl muwaffaqi muwaffaqu ăl ʾamīni ʾamīnu kamāli kamālu ăd dīni 
+ <lb n="19"/>bi ĭstīḍāḥi ḥāli rāfiʿi hā fa ʾiḏā ṯabata ʿadamu hu 
+ <lb n="20"/>bi mā yuṯbatu bi hi miṯlu hu fa l yanẓur fī ʾamri hi bi mā yūǧibu hu ăš šarʿu 
+ <lb n="21"/>wa taqtaḍī yaqtaḍī hi ăl maṣlaḥaẗu wa l ʾiqrāru **** hu yaqirri ø bi ø yadi ø hi ø ʾin ø šāʾa ø ăl ø lāhu 
+ <lb n="22"/>ăl mulku ḥamdu li l lāhi ø wa **** bi ø hi ø *** ø ī 
+ <lb n="23"/>li yastawḍiḥi ăl qāḍī ăl muwaffaqu ăl ʾamīnu 
+ <lb n="24"/>kamālu ăd dīni *** ṯiqaẗu ăl ʾanāmi šarafu ăl ḥukkāmi 
+ <lb n="25"/>ʿizzu ăl muslimīna muṣṭafà ăl muʾminīna 
+ <lb n="26"/>ʾadāma ăl lāhu taʾyīda hu wa tamkīna hu wa ʾaḥsana 
+ <lb n="27"/>ʿawna hu wa tawfīqa hu ḥāla rāfiʿi hā fa ʾiḏā 
+ <lb n="28"/>ṯabata ʿadamu hu bi mā yuṯbatu bi hi miṯlu hu fa l yanẓur 
+ <lb n="29"/>fī ʾamri hi bi mā yūǧibu hu ăš šarʿu 
+ <lb n="30"/>wa taqtaḍī yaqtaḍī hi ăl maṣlaḥaẗu wa l **** yaqirri yuqarri ø bi ø yadi ø hi ʾin šāʾa ăl lāhu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  The slave,
+		 <lb n="2"/>
+ 	  Abū ʿAbd Allāh b. Yaḥyā, baker in Old Cairo.
+ 	  Bū ʿAbdallāh, the baker from Fusṭāṭ.
+		 <lb n="3"/>
+ 	  In the name of God, the merciful and compassionate.
+ 	  In the name of God, the Merciful, the Compassionate.
+		 <lb n="4"/>
+ 	  The benedictions of God and his blessings, his increasing benefactions, most excellent greetings and peace be upon our master and lord
+ 	  The blessings and benedictions of God, and His increasing benefactions and most excellent greetings be upon our Lord and Master
+		 <lb n="5"/>
+ 	  the Imām al-ʿĀḍid li-Dīn Allāh, Commander of the Faithful, and his pure ancestors and expected sons -
+ 	  the ʾimām al-ʿĀḍid li-Dīn Allāh, commander of the faithful, and upon his pure ancestors and expected sons,
+		 <lb n="6"/>
+ 	  blessings lasting and continuing till the day of judgment. The slave kisses the earth and reports to the exalted seat of the Just (?) King,
+ 	  enduring benedictions, which last until the day of judgment. The slave kisses the ground and reports to the lofty, exalted and sublime seat
+		 <lb n="7"/>
+ 	  of the great lord, (commander of) the armies, sword (of Islam), the protector (of the judges of the Muslims), the defender (of mankind), the guide (of the dāʿīs of the believers), {and} may (God) strengthen the religion through him,
+ 	  the Most Excellent Lord, Commander of the Armies, Sword of Religion, the Protector, the Defender, may God guard him (?) and support religion through him,
+		 <lb n="8"/>
+ 	  and comfort the Commander of the Faithful by his long life, may He give him lasting power, exalt his word, and firmly establish his orders and might upon the face of the earth;
+ 	  gratify the commander of the faithful by his longevity, cause his power to endure, exalt his word, and execute his commands and judgments upon the face of the earth,
+		 <lb n="9"/>
+ 	  and reports that he is a pauper, with a family and children, a baker in Old Cairo, and that he
+ 	  and reports that he is a poor man, with a family and children, a baker in Fusṭāṯ, and that he is in debt
+		 <lb n="10"/>
+ 	  owes money to one called ʿAbd al-Bāqī b. Wardar. His situation, however, is such that he can not pay his debt,
+ 	  to a man called ʿAbd al-Bāqī b. Wardar. He is too poor to pay it off
+		 <lb n="11"/>
+ 	  and the aforementioned creditor is demanding from him in a cruel fashion. The slave requests the kindness
+ 	  while the said creditor presses him hard. The slave petitions that the benefaction be bestowed upon,
+		 <lb n="12"/>
+ 	  and benefaction of the issuing of an incontrovertible ordinance to the mighty judge to look into
+ 	  and the favour granted to, him, to wit the issue of an order (commanding obedience) to the magistrate of the glorious law to look into
+		 <lb n="13"/>
+ 	  his situation and allow him to pay the debt in instalments, according to his condition, and to treat him leniently, so that he may find the means
+ 	  his situation, and to show mercy to him so that he be enabled to
+		 <lb n="14"/>
+ 	  in his native city and support his family and to regain a new lease of life ... about this the orders of the Commander of the Armies
+ 	  of dwelling in his native city, support his beloved family and live a new life in these days of the (commander of) the armies,
+		 <lb n="15"/>
+ 	  (may God give them long duration and preserve forever the reign of their master) a benefaction bestowed upon, and a favour granted to, him ...
+ 	  may God, the exalted, cause them to remain and make eternal the reign of the one who rules during them, as a benefaction and kindness to him. To the exalted resolutions
+		 <lb n="16"/>
+ 	  ... about this, if God wills.
+ 	  belongs the merit of loftiness and power regarding that, if God, the exalted, wills.
+		 <lb n="17"/>
+ 	  Praise be to God alone, and God&#039;s blessings and greeting be upon Muḥammad the prophet and his family.
+ 	  Praise be to God alone and his blessings be upon our lord Muḥammad and his family and save them.
+		 <lb n="18"/>
+ 	  An instruction has been given to the prosperous and trustworthy qāḍī, Kamāl al-Dīn,,
+ 	  Let the Kadi the Prosperous and Trustworthy One, Perfection of Religion,
+		 <lb n="19"/>
+ 	  [be ordered] to examination of the petitioner&#039;s situation, and if his lack of means is established
+ 	  to clarify the situation of the petitioner and, if his poverty is established
+		 <lb n="20"/>
+ 	  by evidence as required in such matters, let him look into his case according to the directions of the holy law
+ 	  in the way that such matters are established, let him look into his case according to the demands of the holy law
+		 <lb n="21"/>
+ 	  and the requirements of public utility, and let him ...
+ 	  and the requirements of public utility. (The qāḍī was also instructed) to deposit it
+ 	   ... Let it [this document] remain in their hands...
+		 <lb n="22"/>
+ 	  Kingdom belongs to God ...
+ 	  [line not translated]
+ 	  Praise be to God and .....
+		 <lb n="23"/>
+ 	  Let the Kadi, the Prosperous and Trustworthy One,
+ 	  Let the prosperous, trustworthy qāḍī,
+		 <lb n="24"/>
+ 	  Kamāl al-Dīn, the trust of mankind, the nobility of judges,
+ 	  Perfection of Religion, ... of Mankind, Nobility of Judges,
+		 <lb n="25"/>
+ 	  Glory of the Muslims, Chosen One of the Believers,
+ 	  the might of the Muslims, the chosen one of the believers,
+		 <lb n="26"/>
+ 	  may God cause to endure his support  and his strength,  and give him a good measure
+ 	  may God perpetuate his support  and establishment  and give him a good measure of
+		 <lb n="27"/>
+ 	  of help and prosperity, clarify the case of the petitioner and, if
+ 	  of help and prosperity, examine the petitioner&#039;s situation, and if
+		 <lb n="28"/>
+ 	  his lack of means is established by evidence as required in such matters, let him look
+ 	  his poverty is established by in the way such matters are established, let him look
+		 <lb n="29"/>
+ 	  his case according to the directions of the holy law
+ 	  into his affair, according to the demands of the holy law
+		 <lb n="30"/>
+ 	  and the requirements of public utility, and let him...
+ 	  and the requirements of public utility, and let it be disposed in his hand.
+ 	  ... Let it [this document] remain in their hands...
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

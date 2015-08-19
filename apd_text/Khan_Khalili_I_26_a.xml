@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1520" xml:id="Khan_Khalili_I_26_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 26 recto (= P.Khalili II 62 recto)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_26_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169291</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أبقاك اللّه وحفظك <app type="BL"><lem resp="APD">أعلـ<supplied reason="lost" cert="high">ـمك</supplied> </lem><rdg resp="Diem">أحبّ</rdg></app> أن <supplied reason="lost" cert="high">تبعـ</supplied>ـث 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">إليّ</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بالثّـ</supplied>ـلثة </lem><rdg resp="Diem">بثلثة</rdg></app> الدّنانير <app type="BL"><lem resp="APD">وأن </lem><rdg resp="Diem">فإنّ</rdg></app> علي مواعيد 
+<lb n="4"/>  <app type="BL"><lem resp="APD">للخرّازين </lem><rdg resp="APD">للجرّارين </rdg><rdg resp="Diem">للجزّارين</rdg></app> في ثمن جلود وإن كانت 
+<lb n="5"/>  كلّها قطع فابعث بها فإن عندي 
+<lb n="6"/>  دنانير جياد <app type="BL"><lem resp="APD">اضـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أضعها</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">عنك</rdg></app> 
+<lb n="7"/>  كان لك في حسبها <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <app type="BL"><lem resp="APD">لكي </lem><rdg resp="Diem">لكنّي</rdg></app> أعلم أنّها موضوعة عـ<supplied reason="lost" cert="high">ـنك</supplied> 
+<lb n="9"/>  من ثمن القمح <app type="BL"><lem resp="APD">فقوّنا </lem><rdg resp="Diem">فقوّنا </rdg><rdg resp="Diem">فعونّا</rdg></app> اليوم فإذا 
+<lb n="10"/>  جا الحاج فلك عندنا المكافاة 
+<lb n="11 (Khan: 21)"/>  إن شا اللّه أبقاك اللّه وحفظك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka ʾuʿlimu ʾuḥibbu ka ʾan tabʿaṯa 
+ <lb n="3"/>*** ʾilay ya bi ăṯ ø ṯalāṯaẗi ăd danānīri wa fa ʾanna ʿalay ya mawāʿīdu 
+ <lb n="4"/>li l ǧarrārīna ḫarrāzīna ǧazzārīna fī ṯamani ǧulūd:in wa ʾin kānat 
+ <lb n="5"/>kullu hā qiṭaʿ fa ĭbʿaṯ bi hā fa ʾinna ʿind ī 
+ <lb n="6"/>danānīra ǧiyād ʾḍ*** ʾaḍaʿu ø hā *** ʿan ø ka 
+ <lb n="7"/>kāna la ka fī ḥasbi hā *** 
+ <lb n="8"/>likay lākin ø nī ʾaʿlama ʾaʿlamu ʾanna hā mawḍūʿaẗ:un ʿan ka 
+ <lb n="9"/>min ṯamani ăl qamḥi fa fū qawwi ʿāwin nā ăl yawma fa ʾiḏā 
+ <lb n="10"/>ǧāʾa ăl ḥāǧǧu fa la ka ʿinda nā ăl mukāfāẗu 
+ <lb n="11"/>ʾin šāʾa ăl lāhu ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+			<lb n="2"/>
+		... Ich hätte gern, daß Du
+		May God preserve you and protect you. (I am writing to) let you know that you should send
+			<lb n="3"/>
+		drei Dinar sendest, denn ich habe
+		[the thr]ee dīnārs for I have commitments
+			<lb n="4"/>
+		gegenüber den Metzgern Zahlungstermine wegen der Bezahlung (wörtlich: wegen des Kaufpreises) von Häuten. ...
+		with the sewers of skins concerning the price of skins. Even if they are
+			<lb n="5"/>
+		all pieces (qiṭaʿ), send them, for I have
+		all pieces send them for I have
+			<lb n="6"/>
+		good quality dīnārs... [...]
+			<lb n="7"/>
+		you had in their reckoning [...]
+			<lb n="8"/>
+		so that I know that they are remitted [from you]
+		so that I know that they have remitted [by you]
+			<lb n="9"/>
+		for the price of the wheat. So pay us today in full. When
+		from the price of the wheat. So pay us today in full. When
+		... unterstütze uns / hilf uns ...
+			<lb n="10"/>
+		the pilgrim comes you will be recompensed,
+			<lb n="11"/>
+		God willing, may God preserve you and protect you.
+		God willing. May God preserve you and protect you!
+</ab></div>
+</body>
+</text>
+</TEI>

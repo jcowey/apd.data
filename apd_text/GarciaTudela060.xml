@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2044" xml:id="GarciaTudela060" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 4 (= P.Garcia-ArenalTudelaTarazona 06)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">GarciaTudela060</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم اشترا دون إس متاع فتار وزوجتيه 
+<lb n="2"/>  دون مريّة من شمس بنت عيسى الأازلي الكرم الّتي لها ببر 
+<lb n="3"/>  طپله وهى اليى پلصق ڤى الحهپپن كرم دون اس 
+<lb n="4"/>  وفي الجهة الثّانية كرم غليام الفرّان اشتراها منها بخمسة 
+<lb n="5"/>  عشر مثقال ونصف من الذّهب الطّيّب المرابطي اللّوبي بإ 
+<lb n="6"/>  هالپها وادحل صامپا عپدهما سعپد اين پوسف 
+<lb n="7"/>  ل ان ما <app type="BL"><lem resp="APD">قام </lem><rdg resp="García-Arenal">قايم</rdg></app> ڤايم پعپرصه <app type="BL"><lem resp="APD">فپهما </lem><rdg resp="García-Arenal">فالإدراك</rdg></app> ڤالادراك علپه 
+<lb n="8"/>  سهدا په ڤى حمادى <app type="BL"><lem resp="APD">المواڤق </lem><rdg resp="García-Arenal">لنبينبر</rdg></app> لپپپپر سبه 
+<lb n="9"/>  وخمس <app type="BL"><lem resp="APD">ماية </lem><rdg resp="García-Arenal">ماية</rdg></app> أحمد ابن محمّد البحني ويوسف <app type="BL"><lem resp="APD">اتيا </lem><rdg resp="García-Arenal">ابن</rdg></app> أحمد 
+<lb n="10"/>  ابن بحنيجة ودون غرسيّة سنج من مرقواله ودون أندرو 
+<lb n="11"/>  ابن دون شلم كتب عنهما بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭštarā dūn ʾis:un matāʿu fitāra wa zawǧatī hi 
+ <lb n="2"/>dūna mariyyaẗu min šamsa binti ʿīsà ăl ʾāzaliyyi ăl karma ăllatī la hā bi biraṭīlaẗa 
+ <lb n="3"/>wa hiya ăllatī yalṣaqu fī ăl ǧihatayni karma dūn ʾis:in ăl mubtāʿi 
+ <lb n="4"/>wa fī ăl ǧihaẗi ăṯ ṯāniyaẗi karma ġilyāma ăl farrāni ĭštarā hā min hā bi ḫamsaẗa 
+ <lb n="5"/>ʿašara miṯqāl wa niṣf:in mina ăḏ ḏahabi ăṭ ṭayyibi ăl murābiṭiyyi ăl lūbiyyi bi ʾihālati hā 
+ <lb n="6"/>wa ʾudḫila ḍāmin:an ʿinda humā saʿīdu ĭbnu yūsufa ăd dallālu 
+ <lb n="7"/>ʾanna mā qāma qāʾim:un qāyim:un yaʿtariḍu hu fī himā fa ăd ăl daraku ʾidrāku ʿalay hi wa ʾašhadā 
+ <lb n="8"/>bi hi fī ǧumādà ăl muwāfiqi li nubanbari nubīnbari sanaẗi sabʿīna 
+ <lb n="9"/>wa ḫamsi miʾaẗ:in miyaẗ:in ʾaḥmada ĭbna muḥammad:ini ăl baḥniyya wa yūsufa ʾtyʾ ĭbna ʾaḥmada 
+ <lb n="10"/>ĭbni baḥnīǧaẗa wa dūn ġarsiyyaẗa sanǧa min marquwāluha wa dūn ʾandrū 
+ <lb n="11"/>ĭbna dūn šalm:in kutiba ʿan himā bi ʾamri himā 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

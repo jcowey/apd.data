@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1091" xml:id="Ragib_Letters_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Letters_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168957</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أبقـ<supplied reason="lost" cert="high">ـاك</supplied> اللّه وحفظك وأمتع بك 
+<lb n="3"/>  قد <gap reason="illegible" precision="low" extent="3"/> نفسي كنت أنتظر أن تأتينا فنجتمع وقد كنت ذكرت 
+<lb n="4"/>  أبا حمّاد فرأيك <unclear reason="undefined" cert="high">موفّقا</unclear> له فيما <unclear reason="undefined" cert="high">أحبّ</unclear> حفظك اللّه 
+<lb n="5"/>  أعلمني رأيك أبقاك اللّه قد <supplied reason="lost" cert="high">أحبّ</supplied> إن رأيت 
+<lb n="6"/>  أن تأمر لي بالقرط القتات الّذي ذكرت <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">لـ</supplied>ـك 
+<lb n="7"/>  زاد اللّه في النّعم عندك ولا أ<supplied reason="lost" cert="high">عد</supplied>مك الفضل 
+<lb n="8"/>  وكتبت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾamtaʿa bi ka 
+ <lb n="3"/>qad *** nafs ī kuntu ʾantaẓiru ʾan taʾtiya nā fa naǧtamiʿu wa qad kuntu ḏakartu 
+ <lb n="4"/>ʾabā ḥammād:in fa raʾyu ka muwaffaq:an la hu fī mā ʾuḥibbu ḥafiẓa ka ăl lāhu 
+ <lb n="5"/>ʾaʿlim nī raʾya ka ʾabqā ka ăl lāhu qad ʾuḥibbu ʾin raʾayta 
+ <lb n="6"/>ʾan taʾmura l ī bi ăl qurṭi ăl qitāti ăllaḏī ḏakartu bi hi la ka 
+ <lb n="7"/>zāda ăl lāhu fī ăn niʿami ʿinda ka wa lā ʾaʿdama ka ăl faḍla 
+ <lb n="8"/>wa kutibat 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu te conserve, te garde et te laisse jouir [des biens de ce monde]!
+			<lb n="3"/>
+		... Jʾattendais que tu viennes chez nous pour que nous nous réunissions. Jʾavais mentionné
+			<lb n="4"/>
+		Abū Ḥammād. Ton opinion lui conviendra (?) sur ce que jʾaime. Que Dieu te garde!
+			<lb n="5"/>
+		Fais-moi connaître to opinion - que Dieu te conserve! - Jʾaimerais, si tu le trouves bon,
+			<lb n="6"/>
+		que tu commandes pour moi la luzerne sèche que je tʾai mentionnée.
+			<lb n="7"/>
+		Que Dieu accroisse les faveurs sur les tiens et ne te prive pas de la grâce!
+			<lb n="8"/>
+		Et [cette lettre] a été écrite.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1312" xml:id="Diem_Heid_II_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169129</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  <gap reason="illegible" precision="low" extent="3"/>ل <gap reason="illegible" extent="5" unit="character" />ل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto2"/>  فرّار<unclear reason="undefined" cert="high">ي</unclear> <unclear reason="undefined" cert="high">مـ</unclear>ـنهم أنفق <unclear reason="undefined" cert="high">لـ</unclear>ـهم أنا وعمّالي وفرّارك <app type="BL"><lem resp="APD">ا<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">أنت</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">في</rdg></app> 
+<lb n="recto3"/>  الفسطاط فاعتللت أقمت صاحب الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">على</supplied> 
+<lb n="recto4"/>  حصاد قمحي وتلف جلّه وكذلك الكـ<supplied reason="lost" cert="high">ـتّان</supplied> <supplied reason="lost" cert="high">هذه</supplied> 
+<lb n="recto5"/>  السّنة وبطـ<unclear reason="undefined" cert="high">ـل</unclear> <unclear reason="undefined" cert="high">الرّ</unclear>عا<supplied reason="lost" cert="high">ة</supplied> فـ<unclear reason="undefined" cert="high">هربـ</unclear>ـوا والحبـ<unclear reason="undefined" cert="high">ـو</unclear><supplied reason="lost" cert="high">ب</supplied> <unclear reason="undefined" cert="high">و</unclear><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto6"/>  أكلها الفأر <unclear reason="undefined" cert="high">فز</unclear>اد <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="6" unit="character" />ر<gap reason="illegible" extent="1" unit="character" /> هم <unclear reason="undefined" cert="high">مپها</unclear> حر<supplied reason="lost" cert="high">ح</supplied> 
+<lb n="recto7"/>  <supplied reason="lost" cert="high">ا</supplied>لخلّاق لهم فكرهت أن أ<unclear reason="undefined" cert="high">مـ</unclear>ـشي إلـ<unclear reason="undefined" cert="high">ـى</unclear> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto8"/>  لك يا سيّدي من عنده مال السّلطا<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="recto right margin 9"/>  <app type="BL"><lem resp="APD">وأ<unclear reason="undefined" cert="high">جـ</unclear>ـرا </lem><rdg resp="APD">وأجرا </rdg><rdg resp="APD">أبرأ</rdg></app> يا سيّدي خلف 
+<lb n="recto right margin 10"/>  <unclear reason="undefined" cert="high">أكثرها</unclear> <unclear reason="undefined" cert="high">منهم</unclear> 
+<lb n="verso1"/>  ومعي وثابق ممّن عليهم مال السّلطان بأسمـ<supplied reason="lost" cert="high">ـائهم</supplied> 
+<lb n="verso2"/>  ولم نرفقهم في البقايا وقد كـ<supplied reason="lost" cert="high">ـتب</supplied> خلـ<supplied reason="lost" cert="high">ـف</supplied> <app type="BL"><lem resp="APD">غـ<supplied reason="lost" cert="high">ـلّات</supplied> </lem><rdg resp="APD">غلّة</rdg></app> 
+<lb n="verso3"/>  الخلق وأبقارهم وأغنامهم وأموالهـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">وكان</supplied> 
+<lb n="verso4"/>  منهم محمّد بن ذكرعلپه ماپپپن دپپار <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso5"/>  وبني حرپپة وفنيل بن هربات وبو هيفـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso6"/>  الا <gap reason="illegible" extent="4" unit="character" /> عربا <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***l *****l *** 
+ <lb n="2"/>furrār ī min hum ʾunfiqu la hum ʾanā wa ʿummāl ī wa furrāru ka ʾ** ʾanta *** fī 
+ <lb n="3"/>ăl fusṭāṭi fa ĭʿtalaltu ʾaqamtu ṣāḥiba ăl ***** ʿalà 
+ <lb n="4"/>ḥiṣādi qamḥ ī wa talifa ǧullu hu wa ka ḏālika ăl kattānu hāḏihi 
+ <lb n="5"/>ăs sanaẗa wa baṭala ăr ruʿāẗu fa harabū wa ăl ḥubūbu wa **** 
+ <lb n="6"/>ʾakala hā ăl faʾru fa zāda ********r* hum min hā ḫaraǧa ʿabdu 
+ <lb n="7"/>ăl ḫallāqi la hum fa karihtu ʾan ʾamšiya ʾilà ****** ***** 
+ <lb n="8"/>la ka yā sayyid ī min ʿinda hu māla ăs sulṭāni ********* 
+ <lb n="9"/>wa ʾaǧrā ʾabraʾa yā sayyid ī ḫalaf:un 
+ <lb n="10"/>ʾakṯara hā min hum 
+ <lb n="11"/>wa maʿ ī waṯāʾiqu mimman ʿalay him mālu ăs sulṭāni bi ʾasmāʾi him 
+ <lb n="12"/>wa lam narfaq narfuq hum fī ăl baqāyā wa qad kataba ḫalaf:un ġallāti ġallaẗa 
+ <lb n="13"/>ăl ḫalqi wa ʾabqāra hum wa ʾaġnāma hum wa ʾamwāla hum wa kāna 
+ <lb n="14"/>min hum muḥammadu bnu ḏakar:in ʿalay hi miʾatayni dīnār:in wa ****** 
+ <lb n="15"/>wa banī ḥrBBẗa wa fanīlu bnu hurbāta wa bū hīf*** *** 
+ <lb n="16"/>ʾlʾ **** ʿrBʾ **** **** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		Für meine Flüchtlinge(?) unter ihnen komme ich und meine Beamten auf, während Deine Flüchtlinge [
+			<lb n="3"/>
+		al-Fusṭāṭ. Dann wurde ich krank und bestimmte deshalb den Ṣāḥib al-[... zum Leiter]
+			<lb n="4"/>
+		der Ernte meines Weizens. Das meiste davon, und ebenso der Fla[chs, ist heu]
+			<lb n="5"/>
+		er verdorben. Die Hirten(?) hatten nichts zu tun(?), da flohen sie(?). Die Hülsenfrüchte(?) und die [
+			<lb n="6"/>
+		sind von den Mäusen gefressen worden. Deshalb vermehrte sich - - -. Es gi[ng ʿAbd]
+			<lb n="7"/>
+		al-Ḫallāq zu ihnen, denn ich hatte keine Lust, nach - - - zu gehen. - - - 
+			<lb n="8"/>
+		Dir, oh Herr, von ihm das Steuergeld [
+			<lb n="9"/>
+		- - -, oh Herr, Ḫalaf(?)
+			<lb n="10"/>
+		den größten Teil davon (sc. Steuerbeiträgen) von ihnen,
+			<lb n="11"/>
+		wobei ich Dokumente seitens der Steuerschuldner mit ihren Namen dabei hatte.
+			<lb n="12"/>
+		Wir schonten sie bezüglich der (Steuer-)Rückstände nicht; Ḫala[f not]ierte die Er[nte,] die
+			<lb n="13"/>
+		Rinder, die Schafe und das Vermögen der Leute. Zu Ihnen
+			<lb n="14"/>
+		[gehörte] Muḥammad b. Ḏakar mit einer Steuerschuld von 200 Dinaren,
+			<lb n="15"/>
+		die Banū Ḥ - - -, Fanīl(?) b. Hurbāt(?), Bū Hīf[(?)
+			<lb n="16"/>
+</ab></div>
+</body>
+</text>
+</TEI>

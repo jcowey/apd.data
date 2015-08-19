@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="720" xml:id="Raghib_March_3_38" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 38</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_38</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106801</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الـ<supplied reason="lost" cert="high">ـرّ</supplied>حمن <supplied reason="lost" cert="high">الرّحـ</supplied>ـيم 
+ <lb n="2"/>  أكرمك ا<supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">بطا</supplied>عته وهباك كرامته وصل <supplied reason="lost" cert="high">إليّ</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">كتا</supplied>بك وخمسة أثو<supplied reason="lost" cert="high">اب</supplied> <supplied reason="lost" cert="high">ثـ</supplied>ـوب <app type="BL"><lem resp="APD">منها </lem><rdg resp="APD">فيها</rdg></app> لابن عيّاش وصل إليه 
+ <lb n="4"/>  وخمس الدّوانيق إلّا حـ<supplied reason="lost" cert="high">ـبّتـ</supplied>ـين و<sic n="superfluous">أ</sic>ارجو أن <unclear reason="undefined" cert="high">أصـ</unclear><supplied reason="lost" cert="high">ـرّ</supplied><unclear reason="undefined" cert="high">ف</unclear> <supplied reason="lost" cert="high">قـ</supplied>ـطعة نحاس 
+ <lb n="5"/>  وقد <unclear reason="undefined" cert="high">أبدلـ</unclear><gap reason="illegible" extent="1" unit="character" /><unclear reason="undefined" cert="high">ـ</unclear>ـتها وهـ<supplied reason="lost" cert="high">ـي</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـندي قد وجّهت إليك بدينر بنقص قيراطين إلّا حبّة 
+ <lb n="6"/>  ودرهمين ونصف <supplied reason="lost" cert="high">ثمـ</supplied>ـن أربعة أثواب وثوب فسطاطي كبير 
+ <lb n="7"/>  بعته بثلثي دينر <supplied reason="lost" cert="high">وأربـ</supplied>ـعـ<supplied reason="lost" cert="high">ـة</supplied> الدّراهم إلّا ثلث فذلك سبعة اعشر درهم 
+ <lb n="8"/>  بعت ثوبين بثلاثة ا<supplied reason="lost" cert="high">عشـ</supplied>ـر قـ<supplied reason="lost" cert="high">ـيرا</supplied>ط وثوب بسبع قراريط ونصف فذلك عشرين 
+ <lb n="9"/>  قيراطا و<supplied reason="lost" cert="high">نـ</supplied>ـصـ<supplied reason="lost" cert="high">ـف</supplied> 
+ <lb n="10 right margin 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">ا</supplied>لارپـ<supplied reason="lost" cert="high">ـعـ</supplied>ـه الحمعه و 
+ <lb n="11 right margin 2"/>  <gap reason="illegible" precision="low" extent="3"/> پصل اليك وإپعپ 
+ <lb n="12 right margin 3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> من العده 
+ <lb n="13 top left"/>  قد أخذ بن عيّاش بضاعته وتولّى لك البيع 
+ <lb n="top 1 right"/>  <supplied reason="lost" cert="high">لاپى</supplied> <supplied reason="lost" cert="high">هرپر</supplied>ه اكرمه ألله پطاعپه 
+ <lb n="top 2 right"/>  <supplied reason="lost" cert="high">حعڤر</supplied> <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">ا</supplied>حمد پن عبد المومن 
+ <lb n="top 1 left"/>  من محمّد بن عمرو بن ثور 
+ <lb n="top 1"/>  أربعة أثواب 
+ <lb n="top 2"/>  باع من الأحد عشر الأربعة فذلك خمسة عشر 
+ <lb n="top 3"/>  بقي أحد عشر وجّهت بأربعة فذلك خمسة <supplied reason="lost" cert="high">عشر</supplied> سبعة 
+ <lb n="top 4"/>  باع سبعة بقي ثمانية وجّهت بستّة فذلك أربعة عشر 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu waṣala ʾilay ya 
+ <lb n="3"/>kitābu ka wa ḫamsaẗu ʾaṯwāb:in ṯawb:un min fī hā li ĭbni ʿayyāša waṣala ʾilay hi 
+ <lb n="4"/>wa ḫamsu ăd dawānīqi ʾillā ḥabbatayni wa ʾarǧū ʾan ʾuṣarrifa qiṭʿaẗa nuḥās:in 
+ <lb n="5"/>wa qad ʾabdaltu hā wa hiya ʿind ī qad waǧǧahtu ʾilay ka bi dīnār:in bi naqṣi qīrāṭayni ʾillā ḥabbaẗ:an 
+ <lb n="6"/>wa dirhamayni wa niṣf:in ṯamani ʾarbaʿaẗi ʾaṯwāb:in wa ṯawb:un fusṭāṭiyy:un kabīr:un 
+ <lb n="7"/>biʿtu hu bi ṯulṯay dīnār:in wa ʾarbaʿaẗi ăd darāhimi ʾillā ṯulṯ fa ḏālika sabʿaẗa ĭʿšara dirham 
+ <lb n="8"/>biʿtu ṯawbayni bi ṯalāṯaẗa ĭʿšara qīrāṭ wa ṯawb bi sabʿi qarārīṭa wa niṣf:in fa ḏālika ʿišrīna 
+ <lb n="9"/>qīrāṭ:an wa niṣf:un 
+ <lb n="10"/>*** *** **** ăl ʾarbaʿaẗ ăl ǧumʿaẗ wa 
+ <lb n="11"/>*** yaṣilu ʾilay ka wa ʾabʿaṯu 
+ <lb n="12"/>*** ** mina ăl ʿiddaẗi 
+ <lb n="13"/>qad ʾaḫaḏa bnu ʿayyāša biḍāʿata hu wa tawallà la ka ăl bayʿa 
+ <lb n="14"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="15"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="16"/>min muḥammadi bni ʿamri bni ṯawr:in 
+ <lb n="17"/>ʾarbaʿaẗu ʾaṯwāb:in 
+ <lb n="18"/>bāʿa mina ăl ʾaḥada ʿašara ăl ʾarbaʿaẗa fa ḏālika ḫamsaẗa ʿašara 
+ <lb n="19"/>baqiya ʾaḥada ʿašara waǧǧahtu bi ʾarbaʿaẗ:in fa ḏālika ḫamsaẗa ʿašara sabʿaẗ:un 
+ <lb n="20"/>bāʿa sabʿaẗ:an baqiya ṯamāniyaẗ:un waǧǧahtu bi sittaẗ:in fa ḏālika ʾarbaʿaẗa ʿašara 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément [et misé]ricordieux!
+		 <lb n="2"/>
+ 	  Que [Dieu] t&#039;honore par [l&#039;obéis]sance (qui Lui est due) et t&#039;accorde Sa magnanimité! Ta [let]tre m&#039;est parvenue,
+		 <lb n="3"/>
+ 	  ainsi que cinq pièces d&#039;étoffe, dont l&#039;une appartenant à Ibn ʿAyyāš lui est parvenue.
+		 <lb n="4"/>
+ 	  Cinq dānaq-s moins deux grains (me sont également parvenus). J&#039;espère changer (?) une pièce de cuivre.
+		 <lb n="5"/>
+ 	  Je l&#039;ai échangée (?). Elle est chez moi. Je t&#039;ai adressé un dinar diminué de deux qīrāṭ-s moins un grain
+		 <lb n="6"/>
+ 	  et deux dirhams et demi, prix de quatre pièces d&#039;étoffe. Une grande pièce d&#039;étoffe en façon de Fusṭāṭ,
+		 <lb n="7"/>
+ 	  je l&#039;ai vendue pour deux tiers de dinar et [qua]tre dirhams moins un tiers. Cela fait dix-sept dirhams.
+		 <lb n="8"/>
+ 	  J&#039;ai vendu deux pièces d&#039;étoffe pour treize [qīrā]ṭ-s et une pièce d&#039;étoffe pour sept qīrāṭ-s et demi. Cela fait vingt 
+		 <lb n="9"/>
+ 	  qīrāṭ-s et demi.
+		 <lb n="10"/>
+ 	  ]... [....] les quatre la semaine et
+		 <lb n="11"/>
+ 	  ] te parviendra et je t&#039;enverrai
+		 <lb n="12"/>
+ 	  ] .. du nombre.
+		 <lb n="13"/>
+ 	  Ibn ʿAyyāš a pris sa balle et s&#039;est chargé de vendre pour toi.
+		 <lb n="14"/>
+ 	  [À Abū Hurayr]a - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+		 <lb n="15"/>
+ 	  [Ǧaʿfar b. A]ḥmad b. ʿAbd al-Muʾmin.
+		 <lb n="16"/>
+ 	  De la part de Muḥammad b. ʿAmr b. Ṯawr.
+		 <lb n="17"/>
+ 	  Quatre pièces d&#039;étoffe.
+		 <lb n="18"/>
+ 	  Il a vendu des onze (pièces d&#039;étoffe) les quatre. Cela fait quinze.
+		 <lb n="19"/>
+ 	  Il reste onze. J&#039;ai adressé quatre. Cela fait quinze. Sept.
+		 <lb n="20"/>
+ 	  Il a vendu sept. Il reste huit. J&#039;ai adressé six. Cela fait quatorze.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

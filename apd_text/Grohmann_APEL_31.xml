@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1181" xml:id="Grohmann_APEL_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR III 1 111 (= P.Cair.Arab. 031 = Chrest.Khoury I 05)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169021</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">قل</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أحد</supplied> اللّه الصّمد 
+<lb n="3"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">رسول</supplied> <supplied reason="lost" cert="high">اللّه</supplied> أرسله بالهدى ودين الحق 
+<lb n="4"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">هشام</supplied> <supplied reason="lost" cert="high">أمير</supplied> المومپپن أصلحه اللّه 
+<lb n="5"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ممّا</supplied> <supplied reason="lost" cert="high">أمر</supplied> <supplied reason="lost" cert="high">به</supplied> القاسـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن <supplied reason="lost" cert="high">عبيـ</supplied>ـد اللّه 
+<lb n="6"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">سنة</supplied> <gap reason="illegible" precision="low" extent="3"/> عشـ<supplied reason="lost" cert="high">ـر</supplied>ة ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qul huwa ăl lāhu ʾaḥad:un ăl lāhu ăṣ ṣamadu 
+ <lb n="3"/>muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="4"/>ʿabdu ăl lāhi hišāmu ʾamīru ăl muʾminīna ʾaṣlaḥa hu ăl lāhu 
+ <lb n="5"/>hāḏā mimmā ʾamara bi hi ăl qāsimu bnu ʿubaydi ăl lāhi 
+ <lb n="6"/>fī sanaẗi *** ʿašaraẗa wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu clément et miséricordieux !]
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[Dis: il est Dieu l&#039;un], Dieu l&#039;éternel.
+		[Say, He is one God,] God the Eternal.
+			<lb n="3"/>
+		[Muḥammad est le Messager d&#039;Allah], il l&#039;a envoyé avec la direction par excellence et la religion vraie.
+		[Muḥammad is the Messenger of God], He has sent him with guidance and true religion.
+			<lb n="4"/>
+		[Le serviteur de Dieu Hišām, prince] des croyants, que Dieu le garde en bonne santé.
+		[The servant of God Hišâm, Commander] of the Faithful, may God make him vigorous.
+			<lb n="5"/>
+		[Ceci appartient à ce qu&#039;a ordonné] al-Qāsi[m Ib]n [ʿUbay]d Allāh
+		[This belongs to that, which has been decreed by] al-Qâ[sim ib]n [ʿUbai]dallâh
+			<lb n="6"/>
+		[en l&#039;an] cent dix-[...]
+		[In the year] one hundred and [x]teen.
+</ab></div>
+</body>
+</text>
+</TEI>

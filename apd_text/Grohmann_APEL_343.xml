@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1852" xml:id="Grohmann_APEL_343" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 343</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_343</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169589</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أخرج ممّا في أيديك من العسل 
+<lb n="3"/>  لعمل فقّاع لأبي ذكر أبقاه اللّه 
+<lb n="4"/>  قـ<supplied reason="lost" cert="high">ـسط</supplied> <supplied reason="lost" cert="high">واحد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaḫriǧ mimmā fī ʾaydī ka mina ăl ʿasali 
+ <lb n="3"/>li ʿamali fuqqāʿ:in li ʾabī ḏakar:in ʾabqā hu ăl lāhu 
+ <lb n="4"/>qisṭ:un wāḥid:un *** 
+ <lb n="5"/>ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Hand over of that which is in your hands of honey
+			<lb n="3"/>
+		for the making of honey-sherbet on behalf of Abû Ḏakar - may God preserve him -
+			<lb n="4"/>
+		[one] x[estes ...,]
+			<lb n="5"/>
+		[if God wills].
+</ab></div>
+</body>
+</text>
+</TEI>

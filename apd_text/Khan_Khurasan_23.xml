@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1226" xml:id="Khan_Khurasan_23" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 23</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_23</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169064</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذه براه من الحرث بن عبد اللّه عامل 
+<lb n="3"/>  الأمير عبد اللّه بن الجرود على مدر 
+<lb n="4"/>  ررم لمهم البامياني إنّك أدّيت 
+<lb n="5"/>  إلي ممّا صار عليك من خراج سنة 
+<lb n="6"/>  ثمان وتسع وخمسين وحدى وخمسين ومائة 
+<lb n="7"/>  وتوابعه من القسم درهمين قبضت 
+<lb n="8"/>  ذلك منك وبرئت إلي منها وكتب 
+<lb n="9"/>  في جمادى الأولة في سنة 
+<lb n="10"/>  ثلث وخمسين ومائة 
+<lb n="seal"/>  الـ<supplied reason="lost" cert="high">ـحـ</supplied>ـارث بن عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏihi barāʾaẗ:un mina ăl ḥāriṯi bni ʿabdi ăl lāhi ʿāmili 
+ <lb n="3"/>ăl ʾamīri ʿabdi ăl lāhi bni ăl ǧarūdi ʿalà madra 
+ <lb n="4"/>wa rizma li mihama ăl bāmiyāniyyi ʾinna ka ʾaddayta 
+ <lb n="5"/>ʾilay ya mimmā ṣāra ʿalay ka min ḫarāǧi sanaẗi 
+ <lb n="6"/>ṯamān:in wa tisʿ:in wa ḫamsīna wa ḥdà wa ḫamsīna wa miʾaẗ:in 
+ <lb n="7"/>wa tawābiʿi hi mina ăl qisami dirhamayni qabaḍtu 
+ <lb n="8"/>ḏālika min ka wa bariʾta ʾilay ya min hā wa kutiba 
+ <lb n="9"/>fī ǧumādà ăl ʾawwalaẗi ʾūlaẗi fī sanaẗi 
+ <lb n="10"/>ṯalāṯ:in wa ḫamsīna wa miʾaẗ:in 
+ <lb n="11"/>ăl ḥāriṯu bnu ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a quittance from al-Ḥārith ibn ʿAbd Allāh, the financial administrator
+			<lb n="3"/>
+		of the governor ʿAbd Ahhāh ibn al-Jarūd, (whose jurisdiction is) over Madr and
+			<lb n="4"/>
+		Rizm, for Meham al-Bāmiyānī. You have delivered
+			<lb n="5"/>
+		to me what you owe with regard to kharāj for the year
+			<lb n="6"/>
+		one hundred and (forty-)eight, (forty-)nine, fifty and fifty-one,
+			<lb n="7"/>
+		and the portions that are linked to it, two dirhams. I have received
+			<lb n="8"/>
+		that from you and you have been released from (the obligation to pay) them to me. It has been written
+			<lb n="9"/>
+		in Jumādā I of the year
+			<lb n="10"/>
+		one hundred and fifty-three.
+			<lb n="11"/>
+		Al-Ḥārith ibn ʿAbd Allāh
+</ab></div>
+</body>
+</text>
+</TEI>

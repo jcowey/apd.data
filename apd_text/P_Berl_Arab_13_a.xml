@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1379" xml:id="P_Berl_Arab_13_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. I 13 (= Chrest.Khoury I 32 = P.RagibQalamun 6)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Berl_Arab_13_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169173</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر <app type="BL"><lem resp="dotted nūn">سلمان </lem><rdg resp="Rāġib">سليمان</rdg></app> بن <app type="BL"><lem resp="APD">جبارة </lem><rdg resp="Karabacek, Khoury, Rāġib">جبارة</rdg></app> وأشهد على نفسه في صحّة عقله وبدنه 
+<lb n="3"/>  وجواز أمر<supplied reason="omitted" cert="high">ه</supplied> طايعا غير مكره ولا مجبر ولا <app type="BL"><lem resp="APD">متطهد </lem><rdg resp="Khoury with correction.">مضطّهد</rdg></app> أن عنده 
+<lb n="4"/>  وقبله وفي ذمّته وفي خالص ماله دينا واجبا وحق ثابتا 
+<lb n="5"/>  أن لأبو الدّين بن ر<supplied reason="omitted" cert="high">مـ</supplied>ـضان <app type="BL"><lem resp="APD">الرّابغي </lem><rdg resp="Karabacek">الرّابغيّ</rdg></app> عند <app type="BL"><lem resp="APD">سليم </lem><rdg resp="Rāġib">سليمن</rdg></app> بن <app type="BL"><lem resp="APD">جبارة </lem><rdg resp="Khoury, Rāġib">جبارة</rdg></app> 
+<lb n="6"/>  <sic n="superfluous">دپپار</sic> دينار عين وازنة من ضرب مصر يدفع له 
+<lb n="7"/>  ذلك شهر بوونه بغير مدافعة ولا يحتج عليه 
+<lb n="8"/>  بحجّة بوجه من الوجـ<supplied reason="omitted" cert="high">ـو</supplied>ه ولا سبب من الأسباب وبذلك أشهد 
+<lb n="9"/>  على نفسه في سنة ثمان وخمسين وأربع مائة 
+<lb n="10 right (1st witness)"/>  شهد <app type="BL"><lem resp="APD">عپپا<gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Karabacek; Khoury; Rāġib">عساكر</rdg></app> بن <app type="BL"><lem resp="APD">موسي </lem><rdg resp="Rāġib">مدني</rdg></app> بجميع ما في 
+<lb n="11 right (1st witness)"/>  هذا الكتاب وكتب عنه بأمره ومحضره 
+<lb n="10 left (2nd witness)"/>  شهد عيسى بن فاتك على إقرار 
+<lb n="11 left (2nd witness)"/>  المقر بجميع ما في هذا الكتاب 
+<lb n="12 left (2nd witness)"/>  وكتب عنه بأمره ومحضره 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra salmānu sulaymānu bnu ḥabāraẗa ǧibāraẗa ǧubāraẗa wa ʾašhada ʿalà nafsi hi fī ṣiḥḥaẗi ʿaqli hi wa badani hi 
+ <lb n="3"/>wa ǧawāzi ʾamri hi ṭāyiʿ:an ġayra mukrah:in wa lā muǧbar:in wa lā mutṭahad:in muḍṭahad:in ʾanna ʿinda hu 
+ <lb n="4"/>wa qibala hu wa fī ḏimmati hi wa fī ḫāliṣi māli hi dayn:an wāǧib:an wa ḥaqq ṯābit:an 
+ <lb n="5"/>ʾanna li ʾabū ăd dīni bni ramaḍāna ăr rābiġiyyi rābiʿiyyi ʿinda salīmi sulaymāna bni ḥbāraẗa ǧibāraẗa ǧubāraẗa 
+ <lb n="6"/>dīnār ʿayn wāzinaẗ:an min ḍarbi miṣra yadfaʿu la hu 
+ <lb n="7"/>ḏālika šahra baʾūniha bi ġayri mudāfaʿaẗ:in wa lā yaḥtaǧǧu ʿalay hi 
+ <lb n="8"/>bi ḥuǧǧaẗ:in bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi wa bi ḏālika ʾašhada 
+ <lb n="9"/>ʿalà nafsi hi fī sanaẗi ṯamān:in wa ḫamsīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="10"/>šahida ʿBBā** ʿasākiru bnu mūsà madaniyy:in bi ǧamīʿi mā fī 
+ <lb n="11"/>hāḏā ăl kitābi wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi 
+ <lb n="12"/>šahida ʿīsà bnu fātik:in ʿalà ʾiqrāri 
+ <lb n="13"/>ăl muqirri bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="14"/>wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+			<lb n="2"/>
+		Salmān Ibn Ǧubāra a reconnu et pris à témoin, étant dans la plénitude de ses facultés mentale et physique
+		Sulaymān b. Ǧubāra a reconnu devant témoins dans la plénitude de ses facultés mentales et physiques,
+			<lb n="3"/>
+		et sa capacité juridique, de bon gré, non contraint, forcé ou ma[l]traité, qu&#039;il a,
+		sa capacité juridique et son assentiment, sans violence, ni contrainte ou oppression qu&#039;il détient
+			<lb n="4"/>
+		à son débit, sous sa protection et de son bien intégral, une dette obligatoire et une obligation valide,
+		chez lui dans son patrimoine et ses biens propres une dette obligatoire et un droit établi.
+			<lb n="5"/>
+		Abū-l-Dīn b. Ra&lt;ma&gt;ḍān al-Rābiʿī a sur Sulaymān b. Ǧubāra une créance
+		(il a reconnu) que Salīm Ibn Ǧubāra doit à Abū l-Dīn Ibn Ramaḍān al-Rābiʿī (sic)
+			<lb n="6"/>
+		{d&#039;un dinar} d&#039;un dinar en espèces de plein poids de la frappe de Miṣr. Ce dernier lui paiera
+		un dīnār en pièce d&#039;or, bien pesé et frappé en Egypte. Il lui paiera
+			<lb n="7"/>
+		cela au mois de baʾūna sans remise et n&#039;invoquera envers lui
+		cela au mois de payni (baʾūne), sans qu&#039;il cherche à ajourner ou à invoquer
+			<lb n="8"/>
+		aucun argument pour quelque cause ou quelque motif que ce soit. De cela il a pris témoins
+		un argument d&#039;aucun genre, ni une raison quelconque. Il prit des
+			<lb n="9"/>
+		en l&#039;année quatre cent cinquante-huit.
+		témoins de cela en l&#039;an quatre cent cinquante-huit:
+			<lb n="10"/>
+		A témoigné ʿAsākir b. Madanī de la totalité du contenu
+		A témoigné ʿAsākir Ibn Mūsā de tout le contenu
+			<lb n="11"/>
+		de ce document, et on écrivit à sa place, sur son ordre et en sa présence.
+		de cet écrit. On a écrit pour lui sur son ordre et en sa présence.
+			<lb n="12"/>
+		A témoigné ʿĪsā Ibn Fātik de la reconnaissance
+			<lb n="13"/>
+		de celui qui a reconnu tout le contenu de ce document,
+		du débiteur de la totalité du contenu de cet écrit.
+			<lb n="14"/>
+		et on écrivit à sa place, sur son ordre et en sa présence.
+		On a écrit pour lui sur son ordre et en sa présence.
+</ab></div>
+</body>
+</text>
+</TEI>

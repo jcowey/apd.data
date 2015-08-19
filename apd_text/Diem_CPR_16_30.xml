@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1197" xml:id="Diem_CPR_16_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169035</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto2"/>  أكرمكم اللّه وأطال بقاكم وأتم نعمه عليكم وزاد في إحسانه 
+<lb n="recto3"/>  إليكم سبحان اللّه فأهدا الخير <supplied reason="lost" cert="high">مـ</supplied>ـنذ فارقتكم أجد أنّني عليل 
+<lb n="recto4"/>  <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">العـ</supplied>ـلّة منذ ثلثة أشهر ما آنسنا منـ<supplied reason="lost" cert="high">ـكم</supplied> خبر مرّة ولا مرّة 
+<lb n="recto5"/>  وأنتم تعلموا أن على ودّي لو <sic n="superfluous">أقپمت</sic><supplied reason="omitted" cert="high">اڤمپ</supplied> عندكم سنة فأبلغوا 
+<lb n="recto6"/>  أبو العبّاس أكرمه اللّه السّلام كثيرا يأم محمّد وأنت يأم عبّاسة 
+<lb n="recto7"/>  لا تدعوا الكتاب إلي بخبركم وحالكم واللّه أسله أن يبقي أبو 
+<lb n="recto8"/>  إدريس وأبو العبّاس وأن يتم عليكم النّعمة وأبلغوا عبّاسة 
+<lb n="recto9"/>  السّلام وأم پلعلپم وسد<supplied reason="lost" cert="high">يـ</supplied>ـدة وعزّون وعيشة وحمدونة 
+<lb n="recto10"/>  وسليمة ورميثة وفرهونة وفرح وأنا أشكوا إليك محمّد 
+<lb n="recto11"/>  ابنك إنّي بعثت إليه محمّد ابني ليجي للغدا عندي وأسله عن 
+<lb n="recto12"/>  خبركم وأكتب معه إليكم فلم يجيئى معه فأبلغوهم 
+<lb n="recto13"/>  السّلام ولا ماتني اللّـ<supplied reason="lost" cert="high">ـه</supplied> يأم محمّد ويأم عبّاسة حتّا أراكم 
+<lb n="recto14"/>  في عافية فأبقاكم اللّه وأبقا لكم أبو العبّاس وأبوا إدريس 
+<lb n="recto15"/>  فسرّوني بكتابكم وخبركم وحالكم وحوائجكم فإ<supplied reason="lost" cert="high">نّكم</supplied> تسرّوني 
+<lb n="recto16"/>  بذلك إن شا اللّه أكرمكم اللّه وأطال بقا<supplied reason="lost" cert="high">كـ</supplied>ـم 
+<lb n="verso 2 right"/>  إلى أ<supplied reason="lost" cert="high">مّ</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـحـ<supplied reason="lost" cert="high">ـمّد</supplied> وأم عبّاسة 
+<lb n="verso 1 right"/>  أبقاهم اللّه 
+<lb n="verso 2 left"/>  من أم بكـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama kumu ăl lāhu wa ʾaṭāla baqāʾa kum wa ʾatamma niʿama hu ʿalay kum wa zāda fī ʾiḥsāni hi 
+ <lb n="3"/>ʾilay kum subḥāna ăl lāhi fa ʾahdā ăl ḫayra munḏu fāraqtu kum ʾaǧidu ʾanna nī ʿalīl:un 
+ <lb n="4"/>**** ăl ʿillaẗa ʿillaẗi munḏu ṯalāṯaẗi ʾašhur:in mā ʾānasa nā min kum ḫabar:un marraẗ:an wa lā marraẗ:an 
+ <lb n="5"/>wa ʾantum taʿlamū ʾanna ʿalà wudd ī law ʾaqamtu ʿinda kum sanaẗ:an fa ʾabliġū 
+ <lb n="6"/>ʾabū ăl ʿabbāsi ʾakrama hu ăl lāhu ăs salāma kaṯīr:an yā ʾumma muḥammad:in wa ʾanti yā ʾumma ʿabbāsaẗa 
+ <lb n="7"/>lā tadaʿū ăl kitāba ʾilay ya bi ḫabari kum wa ḥāli kum wa ăl lāhu ʾasalu hu ʾan yubqiya ʾabū 
+ <lb n="8"/>ʾidrīsa wa ʾabū ăl ʿabbāsi wa ʾan yutimma ʿalay kumu ăn niʿmaẗa wa ʾabliġū ʿabbāsaẗa 
+ <lb n="9"/>ăs salāma wa ʾumma BlʿlBma wa sadīdaẗa wa ʿazzūna wa ʿayšaẗa wa ḥamdūnaẗa 
+ <lb n="10"/>wa salīmaẗa sulaymaẗa wa rumayṯaẗa wa farhūnaẗa wa faraḥa wa ʾanā ʾaškū ʾilay ki muḥammad 
+ <lb n="11"/>ĭbna ki ʾin nī baʿaṯtu ʾilay hi muḥammad ĭbn ī li yaǧīʾa li ăl ġadāʾi ʿind ī wa ʾasala hu ʿan 
+ <lb n="12"/>ḫabari kum wa ʾaktuba maʿa hu ʾilay kum fa lam yaǧīʾ nī maʿa hu fa ʾabliġū humu 
+ <lb n="13"/>ăs salāma wa lā māta nī ăl lāhu yā ʾumma muḥammad:in wa yā ʾumma ʿabbāsaẗa ḥattā ʾarā kum 
+ <lb n="14"/>fī ʿāfiyaẗ:in fa ʾabqā kumu ăl lāhu wa ʾabqā la kum ʾabū ăl ʿabbāsi wa ʾabū ʾidrīsa 
+ <lb n="15"/>fa surrū nī bi kitābi kum wa ḫabari kum wa ḥāli kum wa ḥawāʾiǧi kum fa ʾinna kum tasurrū nī 
+ <lb n="16"/>bi ḏālika ʾin šāʾa ăl lāhu ʾakrama kumu ăl lāhu wa ʾaṭāla baqāʾa kum 
+ <lb n="18"/>ʾilà ʾummi muḥammad:in wa ʾummi ʿabbāsaẗa 
+ <lb n="19"/>ʾabqā humu ăl lāhu 
+ <lb n="20"/>min ʾummi bakri ***** **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott ehre Euch, lasse Euch lange leben, vollende seine Gnadenerweise an Euch und zeige Euch noch mehr sein Wohlwollen!
+			<lb n="3"/>
+		Preis sei Gott, denn er hat Gutes geschenkt! Seit ich Euch verlassen habe, empfinde ich, daß ich krank,
+			<lb n="4"/>
+		sehr (?) krank (?) bin, (denn) seit drei Monaten hat mich noch kein einziges Mal eine Nachricht von Euch erfreut,
+			<lb n="5"/>
+		obwohl Ihr wißt, daß ich am liebsten ein ganzes Jahr bei Euch geblieben wäre. Grüßt also
+			<lb n="6"/>
+		Abū l-ʿAbbās - Gott ehre ihn - vielmals! Oh Umm Muḥammad und Du, Umm ʿAbbāsah,
+			<lb n="7"/>
+		unterlaßt es nicht, mir brieflich die Euch betreffenden Neuigkeiten und Euren Zustand mitzuteilen! Gott aber bitte ich, er möge Abū
+			<lb n="8"/>
+		Idrīs und Abū l-ʿAbbās erhalten und seine Gnade an Euch vollenden. Grüßt ʿAbbāsa,
+			<lb n="9"/>
+		Umm  - - -, Sadīdah, ʿAzzūn, ʿAyšah, Ḥamdūnah
+			<lb n="10"/>
+		Sulaymah, Rumayṯah, Farhūnah und Faraḥ. Ich beklage mich bei Dir (sc. Umm Muḥammad) über Muḥammad,
+			<lb n="11"/>
+		Deinen Sohn, denn ich sandte zu ihm Muḥammad, meinen Sohn, damit er zum Essen käme und ich ihn
+			<lb n="12"/>
+		nach Neuigkeiten über Euch fragen und ihm einen Brief an Euch mitgeben könnte, aber er ist nicht gekommen. Grüßt sie also,
+			<lb n="13"/>
+		und Gott möge mich nicht sterben lassen, oh Umm Muḥammad und Umm ʿAbbāsah, bevor ich Euch
+			<lb n="14"/>
+		in aller Gesundheit wiedersehe! So erhalte Euch denn Gott und erhalte Euch beiden Abū l-ʿAbbās und Abū Idrīs!
+			<lb n="15"/>
+		Erfreut mich mit Eurem Brief, den Euch betreffenden Neuigkeiten, Eurem Zustand und Euren Angelegenheiten, denn Ihre erfreut mich
+			<lb n="16"/>
+		damit, so Gott will. - Gott ehre Euch und lasse Euch lange leben!
+			<lb n="18"/>
+		An Umm Muḥammad und Umm ʿAbbāsah
+			<lb n="19"/>
+		- Gott erhalte sie (Plur.) -
+			<lb n="20"/>
+		von Umm Bakr (?) [
+</ab></div>
+</body>
+</text>
+</TEI>

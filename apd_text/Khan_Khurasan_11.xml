@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1214" xml:id="Khan_Khurasan_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169052</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذه براه من بشر بن عمر 
+<lb n="3"/>  عامل الأمير غالب أصلحه اللّه على رزم ومدر 
+<lb n="4"/>  لمير بن بيك إنّك أدّيت إلي ممّا صار عليك في قصر 
+<lb n="5"/>  يسكن وغندر من خراج سنة إحدى وخمسين 
+<lb n="6"/>  ومائة خمسة درهم وثلثة دونيق ومن القسمة معها 
+<lb n="7"/>  درهم وأربعة دونيق ونصف قبضت 
+<lb n="8"/>  ذلك منك وبرئت إلي منها 
+<lb n="9"/>  وكتب في رمضان سنة أربع وخمسين ومائة 
+<lb n="seal"/>  حسبي <supplied reason="lost" cert="high">اللّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏihi barāʾaẗ:un min bišri bni ʿumara 
+ <lb n="3"/>ʿāmili ăl ʾamīri ġālib:in ʾaṣlaḥa hu ăl lāhu ʿalà rizma wa madra 
+ <lb n="4"/>li mīri bni bayk:in ʾinna ka ʾaddayta ʾilay ya mimmā ṣāra ʿalay ka fī qaṣri 
+ <lb n="5"/>yaskina wa ġandara min ḫarāǧi sanaẗi ʾiḥdà wa ḫamsīna 
+ <lb n="6"/>wa miʾaẗ:in ḫamsaẗa darāhima dirham wa ṯalāṯaẗa dawānīqa wa mina ăl qismaẗi maʿa hā 
+ <lb n="7"/>dirham wa ʾarbaʿaẗa dawānīqa wa niṣf qabaḍtu 
+ <lb n="8"/>ḏālika min ka wa bariʾta ʾilay ya min hā 
+ <lb n="9"/>wa kutiba fī ramaḍāna sanaẗa ʾarbaʿ:in wa ḫamsīna wa miʾaẗ:in 
+ <lb n="10"/>ḥasb iya ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a quittance from Bishr ibn ʿUmar,
+			<lb n="3"/>
+		the financial administrator of the governor Ġālib, may God grant him prosperity, (whose jurisdiction is) over Rizm and Madr,
+			<lb n="4"/>
+		for Mīr ib Bēk. You have delivered to me what you owe in the citadel
+			<lb n="5"/>
+		of Yaskin and Ġandar with regard to the kharāj for the year one hundred and fifty-one,
+			<lb n="6"/>
+		five dirhams and three dānaqs, and the portion (administered) with them,
+			<lb n="7"/>
+		one dirham and four dānaqs and a half. I have received
+			<lb n="8"/>
+		that from you and you have been released (from the obligation) to pay them to me.
+			<lb n="9"/>
+		It has been written in Ramaḍān of the year one hundred and fifty-four.
+			<lb n="10"/>
+		My sufficiency [is God]
+</ab></div>
+</body>
+</text>
+</TEI>

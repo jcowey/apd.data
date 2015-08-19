@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1938" xml:id="Grohmann_APEL_435" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 435</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_435</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169671</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  قارب أبو روح دينارين بنقص ربع <gap reason="illegible" extent="4" unit="character" /> <app type="BL"><lem resp="APD">سبل </lem><rdg resp="APD">سبل</rdg></app> <app type="BL"><lem resp="APD">الجيلي </lem><rdg resp="APD">الجيليّ </rdg><rdg resp="APD">الحبليّ </rdg><rdg resp="further variants see edition, P.Cair.Arab. VI p.232">الخيليّ</rdg></app> عشرة دراهم وصح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  الحاجب <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  قارب بن دپپاع دينارين بنقص قيرا<supplied reason="lost" cert="high">ط</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـلف صاحب دينار مثقال <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـس 
+<lb n="6"/>  قارب الدّيروتي دينار مثقال ستّة دراهم 
+<lb n="7"/>  الّذين اشتروا الـ<supplied reason="lost" cert="high">ـقـ</supplied>ـمح وعود لسيّدته <gap reason="illegible" extent="5" unit="character" /> بن فضلون 
+<lb n="8"/>  <unclear reason="undefined" cert="high">وقبل</unclear> ذلك في الصّرپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> عجيل العجلاني دينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qāribu ʾabū rawḥ:in dīnārayni bi naqṣi rubʿ:in **** sblu šiblu ăl ǧabaliyyu ḥabuliyyu ḫayliyyu ǧīliyyu ʿašaraẗu darāhima wa ṣaḥḥa *** 
+ <lb n="3"/>ăl ḥāǧibu *** 
+ <lb n="4"/>qāribu bnu dBBʾʿ dīnārayni bi naqṣi qīrāṭ:in salafu ṣāḥibi dīnār:un miṯqāl:un *** 
+ <lb n="5"/>ăl ***i B**s 
+ <lb n="6"/>qāribu ăd dayrūtiyyu dīnār:un miṯqāl:un sittaẗu darāhima 
+ <lb n="7"/>ăllaḏīna ĭštarū ăl qamḥa wa ʿūd ʿwd li sayyidati hi ***** bn faḍlūna 
+ <lb n="8"/>wa qabla ḏālika fī ăṣ ṣrΒ* *** *** ʿuǧaylu ăl ʿaǧlānī dīnār:un *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Qârib Abû Rauḥ two dînârs with a deficiency of a quarter .... [...] Šibl al-Ǧabalî ten dirhams, and it is correct [
+			<lb n="3"/>
+		the door-keeper [
+			<lb n="4"/>
+		Qârib b. Dîbâʿ (?) two dînârs with a deficiency of one cara[t lo]an of the possessor one dînâr miṯqâlî
+			<lb n="5"/>
+		of .....
+			<lb n="6"/>
+		Qârib, originating from Dairût, one dînâr miṯqâ[l]î six dirha[ms]
+			<lb n="7"/>
+		Those who have bought the [whe]at and ..... to his lady [...] .... b. Faḍlûn
+			<lb n="8"/>
+		And before that in the ...... [...] ...... [...] ʿUǧail al-ʿAǧlânî one dînâ[r
+</ab></div>
+</body>
+</text>
+</TEI>

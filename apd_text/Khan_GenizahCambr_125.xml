@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2430" xml:id="Khan_GenizahCambr_125" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GenizahCambr. 125 (= P.Heid.Arab. III p. 195)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_GenizahCambr_125</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  المماليك ينهون وفاة فاضلة <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">المكنّاة</rdg></app> 
+ <lb n="3"/>  اليهودی في يوم الأربعا الثّامن والعـ<supplied reason="lost" cert="high">ـشرين</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">من</rdg></app> 
+ <lb n="4"/>  وعشرين وستّمائة وتركت ابنها المذ<supplied reason="lost" cert="high">كور</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">المسمّا</rdg></app> 
+ <lb n="5"/>  وهو <app type="BL"><lem resp="APD">المسمّا </lem><rdg resp="APD">المكنّا</rdg></app> أبي داود المذكور <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">فلمّا</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤی</supplied> </lem><rdg resp="APD">علموا</rdg></app> 
+ <lb n="6"/>  <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـأريخ </lem><rdg resp="APD">بالتّأريخ</rdg></app> المذكور والحمد للّه الدّ<supplied reason="lost" cert="high">ائم</supplied> <supplied reason="lost" cert="high">البقا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi *** 
+ <lb n="2"/>ăl mamālīku yunhūna wafāẗa fāḍilaẗa ø ăl *** mukannāẗi *** ʾummi wa ø ø hiya *** ʾabī *** dāwūda *** binti *** *** *** bni *** *** 
+ <lb n="3"/>ăl yahūdiyyi fī yawmi ăl ʾarbaʿāʾi ăṯ ṯāmini wa ăl ʿišrīna *** min *** šahri *** *** *** sanaẗa *** *** 
+ <lb n="4"/>wa ʿišrīna wa sitti miʾaẗ:in wa tarakati ĭbna hā ăl maḏkūra *** ăl ø musammā *** *** *** bna *** *** 
+ <lb n="5"/>wa huwa ăl ø musammā mukannā ʾabī dāwuda ăl maḏkūru ***** fa ø lammā *** ʿalimū *** ṣiḥḥaẗa *** ḏālika *** waḍaʿū fī ḫuṭūṭa ø hum 
+ <lb n="6"/>ø bi ăt taʾrīḫi ăl maḏkūri wa ăl ḥamdu li l lāhi ăd dāʾimi ăl baqāʾi *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Erbarmungsvollen! [...]
+ 	  In the name of God, the merciful and compassionate.
+		 <lb n="2"/>
+ 	  Die Sklaven melden das Ableben von Fāḍilah, [mit Kunyah Umm Abī Dāwūd genannt, Tochter des N.N., des Sohnes des N.N.,]
+ 	  The slaves report the death of Fāḍila [...]
+		 <lb n="3"/>
+ 	  des Juden, am Mittwoch, dem Achtundzwa[nzigsten des Monats N.N. im Jahre (Zahl 1-9)]
+ 	  the Jew, on Wednesday, the twenty-eighth [... in the year]
+		 <lb n="4"/>
+ 	  six-hundred and twenty-[...] and she left her aforementioned son [...]
+ 	  und sechshundertzwanzig. Sie hinterließ ihren (oben) erwä[hnten] Sohn [namens N.N., Sohn des N.N.,]
+		 <lb n="5"/>
+ 	  he is called ʾAbū Dāʾūd, mentioned herein .. [... on]
+ 	  und er ist der (oben) mit der Kunyah Abū Dāwūd Erwähnte. Al[s sie die Richtigkeit hiervon erkannt hatten, setzten sie ihre Signaturen]
+		 <lb n="6"/>
+ 	  [am] erwähnten Datum. Preis sei Gott, dem Ewi[gwährenden!]
+ 	  the aforementioned date. Praise be to God, the eternal.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

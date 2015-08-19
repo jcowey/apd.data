@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1020" xml:id="Frantz_Murphy_Quseir_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyQuseir 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz_Murphy_Quseir_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168907</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="top"/>  والحمد للّه 
+<lb n="1"/>  بسم اللّه <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> وصلّى اللّه على سيّد<supplied reason="omitted" cert="high">نا</supplied> محمّد <app type="BL"><lem resp="APD">نبيّه </lem><rdg resp="“AK”">وآله</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“AK”">وسلّم</rdg></app> 
+<lb n="2a"/>  سنة خمس عشرة وستّمائة على 
+<lb n="2b"/>  لمّا <supplied reason="lost" cert="high">كان</supplied> <supplied reason="lost" cert="high">اليو</supplied>م السّامي <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> حضر الحآج 
+<lb n="3"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ثقته</supplied> </lem><rdg resp="“AK”">يقنعه</rdg></app> جَما<supplied reason="lost" cert="high">عات</supplied> من المسلمين التّقات الموموپپن ممّن يسلّم 
+<lb n="4"/>  الشّريع الشّريف حضروا عند السّيّد الأجل أبو 
+<lb n="5"/>  شكر تميم بن <app type="BL"><lem resp="APD">تغلب </lem><rdg resp="APD">ثعلب</rdg></app> الحيّي وأقر أنّه <gap reason="illegible" precision="low" extent="3"/>سلم لالحاح 
+<lb n="6"/>  <supplied reason="omitted" cert="high">أبو</supplied> شكر تميم العريف <app type="BL"><lem resp="APD">أركب </lem><rdg resp="“AK”">إردبّ</rdg></app> قمح <app type="BL"><lem resp="APD">الّتي </lem><rdg resp="“AK”">الّذي</rdg></app> كان أخذها 
+<lb n="7"/>  من مركب السّلطان المعظّمي <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ملكه وضع 
+<lb n="8"/>  من غلّة موحله الشّجاع جيرون بن <supplied reason="lost" cert="high">يـ</supplied>ـوسف 
+<lb n="9"/>  لنا باقية في كنز السّيّد العريف تميم بن <app type="BL"><lem resp="APD">ثعلب </lem><rdg resp="APD">ثعلب</rdg></app> إلى الآن 
+<lb n="10"/>  وأبرأ الحا<supplied reason="lost" cert="high">جّ</supplied> غلّة <app type="BL"><lem resp="APD">في </lem><rdg resp="final nūn with dot above; “AK”  	">من</rdg></app> <app type="BL"><lem resp="APD">تمّهَا </lem><rdg resp="“AK”">تمنها</rdg></app> فَلقبضهَا منه بالقوّة 
+<lb n="11"/>  هذين شهد الشّهود المأمرين إلى الحجاز وإلى الرّيف 
+<lb n="12 right"/>  شهد جبريل بن يوسف 
+<lb n="13 right"/>  الدّميري <app type="BL"><lem resp="APD">بمضمونة </lem><rdg resp="“AK”">بمضمونه</rdg></app> وكتب عنه 
+<lb n="14 right"/>  <app type="BL"><lem resp="APD">إذنه </lem><rdg resp="“AK”">بإذنه</rdg></app> <app type="BL"><lem resp="APD">ومحضره </lem><rdg resp="“AK”">ومحضره</rdg></app> في تأريخه 
+<lb n="12 left"/>   <app type="BL"><lem resp="APD"> </lem><rdg resp="“AK”">بمضمونه</rdg></app> وكتبت 
+<lb n="13 left"/>  <supplied reason="lost" cert="high">ين</supplied> <supplied reason="lost" cert="high">مامليـ</supplied>ـن والدّار المعروفة <supplied reason="lost" cert="high">كانت</supplied> 
+<lb n="15"/>  شهد للنّاس بذلك وبالإمضو 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ăl ḥamdu li l lāhi 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in ø wa nabiyyi ʾāli hi *** wa ø sallama ø 
+ <lb n="3"/>sanaẗa ḫamsa ʿašraẗa wa sitti miʾaẗ:in ʿalà 
+ <lb n="4"/>lammā kāna ăl yawmu ăs sāmī *** *** ḥaḍara ăl ḥāǧǧu 
+ <lb n="5"/>ṯiqatu yuqniʿu hu hu ǧamāʿāt:un mina ăl muslimīna ăt tiqāti ăl maʾmūnīna mimman yusallimu 
+ <lb n="6"/>ăš šarīʿa ăš šarīfa ḥaḍarū ʿinda ăs sayyidi ăl ʾaǧalli ʾabū 
+ <lb n="7"/>šakr:in tamīma bni ṯaʿlaba taġliba ăl ḥayyiyyi wa ʾaqarra ʾanna hu *** sallama li ăl l ḥāǧǧi 
+ <lb n="8"/>ʾabū šakr:in tamīma tamīmu ăl ʿarīfi ʿarīfu ʾarkaba ʾirdabba qamḥ qamḥ:in ăllatī ăllaḏī kāna ʾaḫaḏa hā 
+ <lb n="9"/>min markabi ăs sulṭāni ăl muʿaẓẓamiyyi *** *** milku hu wuḍiʿa 
+ <lb n="10"/>min ġallaẗ:in muʾaǧǧilu hu ăš šuǧāʿu ǧayrūnu bnu yūsufa 
+ <lb n="11"/>la nā bāqiyaẗ:un fī kanzi ăs sayyidi ăl ʿarīfi tamīma bni ṯaʿlaba taġliba ʾilà ăl ʾāni 
+ <lb n="12"/>wa ʾabraʾa ăl ḥāǧǧa ġallaẗ:an fī min tāmmi tamani hā fa la qabaḍa hā min hu bi l quwwaẗi 
+ <lb n="13"/>hāḏayni šahida ăš šuhūdu ăl maʾmurīna ʾilà ăl ḥiǧāzi wa ʾilà ăr rīfi 
+ <lb n="14"/>šahida ǧibrīlu bnu yūsufa 
+ <lb n="15"/>ăd damīriyyu bi maḍmūnaẗ:in maḍmūni hi ø wa kataba ʿan hu 
+ <lb n="16"/>ø bi ʾiḏna ʾiḏni hu hi maḥḍari wa maḥḍaraẗ:an hi ø fī taʾrīḫi hi 
+ <lb n="17"/>šahidtu bi maḍmūnaẗ:in maḍmūni hi ø wa katabtu 
+ <lb n="18"/>yaḥyà bnu muʿizz:in fī taʾrīḫi hi 
+ <lb n="19"/>šuhida li n nāsi bi ḏālika wa bi ăl ʾimḍāʾi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		thanks be to God
+			<lb n="2"/>
+		In the name of God the Compassionate, the Merciful. And God bless &lt;our&gt; lord Muḥammad (the Prophet ...)
+			<lb n="3"/>
+		in year fifteen and six hundred
+			<lb n="4"/>
+		(When it was the exalted day ...) the pilgrims arrived
+			<lb n="5"/>
+		(relying on) groups of trustworthy faithful Muslims from among those who preserve
+			<lb n="6"/>
+		the sacred law. They presented themselves to the most great lord, the father of
+			<lb n="7"/>
+		Shakr Tamīm the son of Taghlib al-Hayyī. And he affirmed that [...] delivered to the pilgrims.
+			<lb n="8"/>
+		[The father of] Shakr Tamīm the Inspector put on board wheat which had been taken
+			<lb n="9"/>
+		from the ship of the August Sovereign. his possession
+			<lb n="10"/>
+		from the crops delayed by the Courageous Jayrūn son of Yūsuf.
+			<lb n="11"/>
+		of remainder of which has been placed in the treasury of the lord the Inspector Tamīm son of Taghlib until now.
+			<lb n="12"/>
+		He released grain in its entirety to the pil(grims). Thereupon it has been taken by the authority
+			<lb n="13"/>
+		of these two. The official witnesses of the Ḥijāz and the Rīf testified.
+			<lb n="14"/>
+		(2nd hand) Jabrayal son of Yūsuf
+			<lb n="15"/>
+		al-Damiyri testified to the warranted and he wrote
+			<lb n="16"/>
+		his authorization for it and he was present on its date.
+			<lb n="17"/>
+		(3rd hand) I testified to the warranted and I wrote
+			<lb n="18"/>
+		Yaḥya ibn Muʿizz on its date.
+			<lb n="19"/>
+		(4th hand) Testimony was given to the people and the execution.
+</ab></div>
+</body>
+</text>
+</TEI>

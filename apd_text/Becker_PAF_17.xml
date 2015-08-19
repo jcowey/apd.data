@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="540" xml:id="Becker_PAF_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 17 (= P.GrohmannAperçu p. 55 = P.Cair.Arab. 175)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106700</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب من عبد ا<supplied reason="lost" cert="high">لـ</supplied>ـلّه بن عـ<supplied reason="lost" cert="high">ـبيـ</supplied>ـد اللّه عامل 
+<lb n="3"/>  الأمير عبيد اللّه بن ا<supplied reason="lost" cert="high">لـ</supplied>ـحبحاب على أعلا أشمون 
+<lb n="4"/>  لقسطنطين ببسطلس شاب أبط بخدّه أثر وبعنقه خالين 
+<lb n="5"/>  سبط من أهل بسقنون باهة من أعلى أشمون إنّي 
+<lb n="6"/>  أذنت له أن يعمل بأسفل أشـ<supplied reason="lost" cert="high">ـمون</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">في</supplied> </lem><rdg resp="“Grohmann”">ø</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">إعفا</unclear> </lem><rdg resp="“Grohmann”">لوفاء</rdg></app> جزيته 
+<lb n="7"/>  والتماس <unclear reason="undefined" cert="high">مـ</unclear>ـعيشته وأجّلته شـ<supplied reason="lost" cert="high">ـهـ</supplied>ـرين <unclear reason="undefined" cert="high">من</unclear> <supplied reason="lost" cert="high">مستهلّ</supplied> <supplied reason="lost" cert="high">ذ</supplied>ي الحجّة 
+<lb n="8"/>  إلى انسلخ المحرّم سنة ست عشرة ومائة فمن لقيه 
+<lb n="9"/>  من عمّال الأمير أو غيرهم فلا يعترض له في ذلك 
+<lb n="10"/>  من الأجل إلّا بخير والسّلم على من اتّبع الهدى 
+<lb n="11"/>  وكتب طليق <supplied reason="omitted" cert="high">في</supplied> مستهل ذي الحجّة تمام سنة 
+<lb n="12"/>  اثنتي عشرة ومائة 
+<lb n="seal 1"/>  اللّه ولي 
+<lb n="seal 2"/>  عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min ʿabdi ăl lāhi bni ʿubaydi ăl lāhi ʿāmili 
+ <lb n="3"/>ăl ʾamīri ʿubaydi ăl lāhi bni ăl ḥabḥābi ʿalà ʾaʿlā ʾušmūna 
+ <lb n="4"/>li qusṭanṭīna babusṭulusa šābb:in ʾabaṭṭa bi ḫaddi hi ʾaṯar:un wa bi ʿunqi hi ḫālayni 
+ <lb n="5"/>sabṭ:in min ʾahli basqanūna bāhaha min ʾaʿlà ʾušmūna ʾinn ī 
+ <lb n="6"/>ʾaḏintu la hu ʾan yaʿmala bi ʾasfali ʾušmūna fī ø ø li ʾiʿfāʾi wafāʾi ǧizyati hi 
+ <lb n="7"/>wa ĭltimāsi maʿīšati hi wa ʾaǧǧaltu hu šahrayni min mustahalli ḏī ăl ḥiǧǧaẗi 
+ <lb n="8"/>ʾilà ĭnsilāḫi ăl muḥarrami sanaẗa sitta ʿašraẗa miʾaẗ:in wa fa man laqiya hu 
+ <lb n="9"/>min ʿummāli ăl ʾamīri ʾaw ġayri him fa lā yaʿtariḍ la hu fī ḏālika 
+ <lb n="10"/>mina ăl ʾaǧali ʾillā bi ḫayr:in wa ăs salāmu ʿalà mani ĭttabaʿa ăl hudà 
+ <lb n="11"/>wa kataba ṭalīq:un ṭulayq:un fī mustahalli ḏī ăl ḥiǧǧaẗi tamāma sanaẗi 
+ <lb n="12"/>ĭṯnatay ʿašraẗa wa miʾaẗ:in 
+ <lb n="13"/>ăl lāhu waliyyu 
+ <lb n="14"/>ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Ceci est le document dressé par ʿAbdallâh ben ʿObaid Allâh, directeur des finances
+		This is a document from ʿAbda[l]lâh b. ʿU[bai]dallâh, administrator
+			<lb n="3"/>
+		de l&#039;émir ʿObaid Allâh ben al-Ḥabḥâb, pour Ašmoûn-le-Haut
+		of the Amîr ʿUbaidallâh b. a[l]-Ḥabḥâb over Upper-Ašmūn,
+			<lb n="4"/>
+		et adressé à Constantin (...)
+		for Constantin Papostolos (Qusṭanṭîn Babusṭulus), a young man, flat-nosed, on his cheek being a scar and on his neck two moles,
+			<lb n="5"/>
+		having lank hair, one of the people of Basqanûn Bâha belonging to (the district of) Upper-Ašmûn. Verily, I have
+		(...) Ich
+			<lb n="6"/>
+		habe ihm erlaubt, dass er in Unter(šmūn?) seiner Arbeit nachgehe zur Erfüllung seiner ǵizja-Pflicht 
+		I have permitted him to work at Lower-Aš[mûn] to pay his poll-tax
+			<lb n="7"/>
+		and to obtain his subsistence, and I have appointed to him (as a term) two mo[nt]hs [fr]om the [lu]nati[on of Ḏu&#039;]l-Ḥiǧǧa
+		und zum Erwerb seines Lebensunterhaltes. Als Zeit habe ich ihm zwei Monate gesetzt vom 1. Ḏū-l-ḥiǵǵe
+			<lb n="8"/>
+		bis zum letzten Muḥarram. (...)
+		to the end of Muḥarram of the year one hundred and sixteen; and whosoever meets him
+			<lb n="9"/>
+		of the Treasury officials of the Amîr or others let him not treat him within this
+			<lb n="10"/>
+		period otherwise than well. And hail to him who follows the guidance,
+			<lb n="11"/>
+		and Ṭulaiq wrote it just &lt;at the time&gt; of the new-moon of Ḏu&#039;l-Ḥiǧǧa of the year
+			<lb n="12"/>
+		one hundred and twelve.
+			<lb n="13"/>
+		God is the protector
+			<lb n="14"/>
+		of ʿAbdallâh
+</ab></div>
+</body>
+</text>
+</TEI>

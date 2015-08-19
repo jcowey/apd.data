@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2114" xml:id="Vanthieghem_Location" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.VanthieghemLocation</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Vanthieghem_Location</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">هدا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">اكرى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پوله</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> الساكن مدپپه اسمون ألپى من صعيد مصر الپصف من المنرل الدى 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> يعرف بمخبزة أبو ذر أحمد بن علي في الدّار داخل الـ<gap reason="illegible" extent="1" unit="character" />ا<gap reason="illegible" extent="1" unit="character" />ات 
+<lb n="4"/>  <supplied reason="lost" cert="high">وتستغني</supplied> <supplied reason="lost" cert="high">شهرة</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">المنزل</supplied> <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">تحد</supplied>يده في موضعه سنة كاملة اثنا عشر شهرا متواليات 
+<lb n="5"/>  <supplied reason="lost" cert="high">أوّلهنّ</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">توت</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">تسع</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> <supplied reason="lost" cert="high">ومـ</supplied>ـائتين وانقضاوهن سلخ مسرى الجاري في أهلّة سنة ثلاثمائة 
+<lb n="6"/>  <supplied reason="lost" cert="high">بـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دينار</supplied> <supplied reason="lost" cert="high">فإذا</supplied> <supplied reason="lost" cert="high">انقضت</supplied> <supplied reason="lost" cert="high">هذه</supplied> <supplied reason="lost" cert="high">السّـ</supplied>ـنة المذكورة في هذا الكتاب كان على بولة رد المنزل إليه 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">اثنا</supplied> عشر سهما شائعة غير مقسومة من أربعة وعشرين سهما 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وجميع</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـا يعرف له وينسب إليه كما قبضه وسكنه وأقر بولة بن 
+<lb n="9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> المسباجر پحميع ما ڤى هدا الكپاب ڤى 
+<lb n="10"/>  <supplied reason="lost" cert="high">عقله</supplied> <supplied reason="lost" cert="high">وبدنه</supplied> <supplied reason="lost" cert="high">وجواز</supplied> <supplied reason="lost" cert="high">أمره</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">قرئ</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">فعرّفه</supplied> <supplied reason="lost" cert="high">وأقرّ</supplied> <supplied reason="lost" cert="high">بفهمـ</supplied>ـه وبمعرفة ما فيه حرفا حرفا وذلك 
+<lb n="11"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">ذي</supplied> <supplied reason="lost" cert="high">الحجّة</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">ثمانية</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> <supplied reason="lost" cert="high">ومائتين</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾakrà *** bnu *** būlaẗa bna *** ăs sākina madīnaẗa ʾašmūna ăllatī min ṣaʿīdi miṣra ăn niṣfa mina ăl manzili ăllaḏī 
+ <lb n="3"/>*** *** yuʿrafu bi maḫbazaẗi ʾabū ḏarra ʾaḥmada bni ʿaliyy:in fī ăd dāri dāḫili ăl *ʾ*āt 
+ <lb n="4"/>wa tastaġnī šuhraẗu hāḏā ăl manzili ʿan taḥdīdi hi fī mawḍiʿi hi sanaẗ:an kāmilaẗ:an ĭṯnā ʿašara šahr:an mutawāliyāt:in 
+ <lb n="5"/>ʾawwalu hunna šahru tūta sanaẗa tisʿ:in wa tisʿīna wa miʾatayni wa ĭnqiḍāʾu hunna salḫu misrà ăl ǧārī fī ʾahillaẗi sanaẗi ṯalāṯi miʾaẗ:in 
+ <lb n="6"/>bi *** dīnār:in fa ʾiḏā ĭnqaḍat hāḏihi ăs sanaẗu ăl maḏkūraẗu fī hāḏā ăl kitābi kāna ʿalà būlaẗa raddu ăl manzili ʾilay hi 
+ <lb n="7"/>*** ĭṯnā ʿašara sahm:an šāʾiʿaẗ:an ġayra maqsūmaẗ:in min ʾarbaʿaẗ:in wa ʿišrīna sahm:an 
+ <lb n="8"/>*** wa ǧamīʿ mā yuʿrafu la hu wa yunsabu ʾilay hi kamā qabaḍa hu wa sakana hu wa ʾaqarra būlaẗu bnu 
+ <lb n="9"/>*** *** *** ** ăl mustaʾǧiru bi ǧamīʿi mā fī hāḏā ăl kitābi fī ṣiḥḥaẗi 
+ <lb n="10"/>ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi baʿda ʾan quriʾa ʿalay hi fa ʿarrafa hu wa ʾaqarra bi fahmi hi wa bi maʿrifaẗi mā fī hi ḥarf:an ḥarf:an wa ḏālika 
+ <lb n="11"/>fī šahri ḏī ăl ḥiǧǧaẗi min sanaẗi ṯamāniyaẗ:in wa tisʿīna wa miʾatayni *** ******** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le clément, le miséricordieux.
+			<lb n="2"/>
+		Voici ce qu&#039;à donné en location Untel fils d&#039;Untel à Būla fils d&#039;Untel, qui demeure dans la vielle d&#039;Ašmūn, ville que est en Haute-Égypte, (à savoir) la moitié de la maison qui
+			<lb n="3"/>
+		... connue comme étant la boulangerie d&#039;Abū Ḏarr ʾAḥmad fils de ʿAlī sur le domaine à l&#039;intérieur de ...
+			<lb n="4"/>
+		- cette maison est bien connue et ne nécessite pas de description. (Il l&#039;à donnée en location) pour la durée d&#039;une année complète de douze mois consécutifs,
+			<lb n="5"/>
+		dont le premier est le mois de Tūt de l&#039;année deux cent quatre-vingt-dix-neuf et le terme la fin du mois Misrā qui se poursuit dans les nouvelles lunes de l&#039;année trois-cents,
+			<lb n="6"/>
+		pour ... dīnārs. Passée cette année précisée dans ce contract, il incombera à Būla de lui rendre la maison
+			<lb n="7"/>
+		... douze parts comme propriété commune et indivise sur vingt-quatre parts
+			<lb n="8"/>
+		... et tout ce qui lui appartient et s&#039;y rapporte, comme il l&#039;a reçue et habitée. Būla fils d&#039;Untel
+			<lb n="9"/>
+		... le preneur de bail a reconnu tout ce qui se trouve dans ce contract dans la plénitude de ses facultés
+			<lb n="10"/>
+		mentales et physiques et sa capacité juridique. Après qu&#039;on lui a lut (l&#039;acte), il l&#039;a compris et a reconnu l&#039;avoir compris et en avoir pris connaissance mot à mot, cela
+			<lb n="11"/>
+		au mois de ḏū al-ḥiǧǧā de l&#039;année deux cent quatre-vingt-dix-huit...
+</ab></div>
+</body>
+</text>
+</TEI>

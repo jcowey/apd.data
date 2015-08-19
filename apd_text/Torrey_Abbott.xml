@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2141" xml:id="Torrey_Abbott" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Torrey</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Torrey_Abbott</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى أفئدة بن جرجرة الزّمردي اشترى من توسي 
+<lb n="3"/>  <app type="BL"><lem resp="APD">وفقري </lem><rdg resp="APD">وقفري</rdg></app> بن أنفر اشترى منهم مصابة أنفر أبو فقري 
+<lb n="4"/>  ‮الّذي كان توسي وفقري <sic n="superfluous">وروثها</sic>‪<supplied reason="omitted" cert="high">ورپوها</supplied>‬ من أبوهم أنفر وهو المنزل 
+<lb n="5"/>  الّذي يكون في الدّار مع أباني اشترى ذلك منهم بثلثة الدّينر 
+<lb n="6"/>  ‮عينا ذهبا ‪و‬فقد وصلت إلى توسي <supplied reason="omitted" cert="high">و</supplied>فقري الثّلثة الدّينر 
+<lb n="7"/>  وبرئ فيها أفئدة إليهم وتوسي <supplied reason="lost" cert="high">و</supplied>فقري عندما باعوا أفئدة 
+<lb n="8"/>  هذ<supplied reason="omitted" cert="high">ه</supplied> المصابة الّتي ورثوها من أنفر في صحّة من عقلهم وجسمهم 
+<lb n="9"/>  بمدخلها ومخرجها وأسفلها وأعلاها فإن ادّعا دعيا من 
+<lb n="10"/>  النّاس شي بوجه من الوجوه أو بسبب من الأسباب فعلى توسي 
+<lb n="11"/>  وفقري نفاذ ذلك من خالص مالهم وحد حدود هذه 
+<lb n="12"/>  الّذي اشتراها أفئدة من توسي وفقري القبلي الطّريق وحدّها 
+<lb n="13"/>  ‮الـ<supplied reason="omitted" cert="high">ـپـ</supplied>ـحرى‬ منزل كيسان وحدّها الغربي منزل <unclear reason="undefined" cert="high">الفنّ</unclear> وحدّها 
+<lb n="14"/>  الشّرقي منزل يحنّس اشترا ذلك منهم بثلثة الدّينر عينا ذهبا 
+<lb n="15"/>  شهد على إقرا<supplied reason="omitted" cert="high">ر</supplied> توسي ويعرفها نفسـ<supplied reason="omitted" cert="high">ـهـ</supplied>ـا واسمها جائز<supplied reason="omitted" cert="high">ة</supplied> 
+<lb n="16"/>  أمرها تعرف ما لها وما عليها مرقس بن إسحق 
+<lb n="17"/>  وكتب عنه عبد الصّمد السّرّاج شهادته بعلمه وحضرته 
+<lb n="18"/>  وأبتولة بن هرون وكتب عنه عبد الصّمد شهادته بعلمه 
+<lb n="19"/>  وحضرته وقزمان بن سيّد هرون وكتب عنه عبد الصّمد شهادتـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="20"/>  بعلمه وحضرته وسهم بن هرون وكتب عنه 
+<lb n="21"/>  عبد الصّمد شهادته بعلمه وحضرته 
+<lb n="22"/>  وإسحاق بن إبرهيم القرشي وكتب شهادته بيده 
+<lb n="23"/>  وإبرهيم بن أيّو<supplied reason="omitted" cert="high">ب</supplied> وكتب عنه عبد الصّمد شهادته بمحضرته 
+<lb n="24"/>  <supplied reason="lost" cert="high">بمسـ</supplied><unclear reason="undefined" cert="high">ـجد</unclear> <unclear reason="undefined" cert="high">إسكندرية</unclear> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـدّيوان وكتب في رمضان 
+<lb n="25"/>  سنة خمس و<supplied reason="lost" cert="high">مائـ</supplied>ـتين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà ʾafʾidaẗu bnu ǧarǧaraẗa ăz zumrudiyyu ĭštarà min tūsī 
+ <lb n="3"/>wa faqrī qafrī bni ʾanfara ĭštarà min hum muṣābaẗa ʾanfara ʾabū faqrī 
+ <lb n="4"/>ăllaḏī kāna tūsī wa faqrī waraṯū hā‬ min ʾabū hum ʾanfara wa huwa ăl manzilu 
+ <lb n="5"/>ăllaḏī yakūnu fī ăd dāri maʿa ʾabānī ĭštarà ḏālika min hum bi ṯalāṯaẗi ăd dīnāri 
+ <lb n="6"/>ʿayn:an ḏahab:an wa fa qad waṣalat ʾilà tūsī wa faqrī ăṯ ṯalāṯaẗu ăd dīnāri 
+ <lb n="7"/>wa bariʾa fī hā ʾafʾidaẗu ʾilay him wa tūsī wa faqrī ʿindamā bāʿū ʾafʾidaẗa 
+ <lb n="8"/>hāḏihi ăl muṣābaẗa ăllatī waraṯū hā min ʾanfara fī ṣiḥḥaẗ:in min ʿaqli him wa ǧismi him 
+ <lb n="9"/>bi madḫali hā wa maḫraǧi hā wa ʾasfali hā wa ʾaʿlā hā fa ʾini ĭddaʿā dāʿiy:an min 
+ <lb n="10"/>ăn nāsi šayʾ bi waǧh:in mina ăl wuǧūhi ʾaw bi sabab:in mina ăl ʾasbābi fa ʿalà tūsī 
+ <lb n="11"/>wa faqrī nafāḏu ḏālika min ḫāliṣi māli him wa ḥaddu ḥudūdi hāḏihi 
+ <lb n="12"/>ăllaḏī ĭštarā hā ʾafʾidaẗu min tūsī wa faqrī ăl qibliyyu ăṭ ṭarīqu wa ḥaddu hā 
+ <lb n="13"/>ăl baḥriyyu manzilu kaysāna wa ḥaddu hā ăl ġarbiyyu manzilu ăl fanni wa ḥaddu hā 
+ <lb n="14"/>ăš šarqiyyu manzilu yuḥannisa ĭštarā ḏālika min hum bi ṯalāṯaẗi ăd dīnāri ʿayn:an ḏahab:an 
+ <lb n="15"/>šahida ʿalà ʾiqrāri tūsī wa yaʿrifu hā nafsa hā wa ĭsma hā ǧāʾizaẗa 
+ <lb n="16"/>ʾamri hā taʿrifu mā la hā wa mā ʿalay hā murqusu bnu ʾisḥāqa 
+ <lb n="17"/>wa kataba ʿan hu ʿabdu ăṣ ṣamadi ăs sarrāǧu šahādata hu bi ʿilmi hi wa ḥaḍrati hi 
+ <lb n="18"/>wa ʾabtūlaẗu bnu hārūna wa kataba ʿan hu ʿabdu ăṣ ṣamadi šahādata hu bi ʿilmi hi 
+ <lb n="19"/>wa ḥaḍrati hi wa quzmānu bnu sayyidi hārūna wa kataba ʿan hu ʿabdu ăṣ ṣamadi šahādata hu 
+ <lb n="20"/>bi ʿilmi hi wa ḥaḍrati hi wa sahmu bnu hārūna wa kataba ʿan hu 
+ <lb n="21"/>ʿabdu ăṣ ṣamadi šahādata hu bi ʿilmi hi wa ḥaḍrati hi 
+ <lb n="22"/>wa ʾisḥāqu bnu ʾibrāhīma ăl qurašiyyu wa kataba šahādata hu bi yadi hi 
+ <lb n="23"/>wa ʾibrāhīmu bnu ʾayyūba wa kataba ʿan hu ʿabdu ăṣ ṣamadi šahādata hu bi maḥḍarati hi 
+ <lb n="24"/>bi masǧid ʾiskandariyyaẗ fī ăd dīwāni wa kutiba fī ramaḍāna 
+ <lb n="25"/>sanaẗa ḫams:in wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the compassionate, the mercyful.
+			<lb n="2"/>
+		This is which Afʾida b. Jarjara al-Zumrudī purchased from Tūsī
+			<lb n="3"/>
+		and Faqrī, the son of Anfar. He bought from them the estate of Anfar Abū Faqrī,
+			<lb n="4"/>
+		which Tūsī and Faqrī had inherited from their father Anfar; and it is the dwelling house
+			<lb n="5"/>
+		which is in the enclosure with certain (other) buildings. He bought this from them for 3 dinars,
+			<lb n="6"/>
+		in gold coin. The whole amount of the dinars was delivered to Tūsī and Faqrī,
+			<lb n="7"/>
+		and by it (this payment) Afʾida became free of obligation to them. Tūsī and Faqrī, at the time when they sold to Afʾida
+			<lb n="8"/>
+		this estate which they had inherited from Anfar, were of sound mind and body.
+			<lb n="9"/>
+		They sold it with its entrance and its exit, and with what is below and above its surface. If a claim shall be made by anyone
+			<lb n="10"/>
+		in any matter whatsoever or for any reason whatsoever, then upon Tūsī
+			<lb n="11"/>
+		and Faqrī falls its settlement from their own property. The boundaries of this
+			<lb n="12"/>
+		which Afʾida has purchased from Tūsī and Faqrī: The southern boundary is the street; its boundary
+			<lb n="13"/>
+		on the north is the dwelling of Kaisān; its western boundary is the dwelling of al-Fann (?); and its boundary
+			<lb n="14"/>
+		on the east is the dwelling of Yoḥannas. He bought this from them for 3 dinars in gold coin.
+			<lb n="15"/>
+		(The following witnesses) testified to the acknowledgment of Tūsī, (each) knowing her in person and in name, she being capable of transacting
+			<lb n="16"/>
+		her (business) affairs, knowing what is due to her, and what is required of her: Marqus b. Isḥāq
+			<lb n="17"/>
+		and ʿAbd al-Ṣamad, the saddler, wrote his testimony for him with his knowledge and in his presence.
+			<lb n="18"/>
+		And Abtūla b. Hārūn, and ʿAbd al-Ṣamad wrote his testimony for him with his knowledge
+			<lb n="19"/>
+		and in his presence. And Quzmān b. Sayyīd Hārūn, and ʿAbd al-Ṣamad wrote his testimony for him
+			<lb n="20"/>
+		with his knowledge and in his presence. And Sahm b. Hārūn, and
+			<lb n="21"/>
+		ʿAbd al-Ṣamad wrote his testimony for him, with his knowledge and in his presence.
+			<lb n="22"/>
+		And Isḥāq b. Ibrāhīm al-Qurašī, and he wrote his testimony with his (own) hand.
+			<lb n="23"/>
+		And Ibrāhīm b. Ayyūb, and ʿAbd al-Ṣamad wrote his testimony for him with his knowledge and in his presence.
+			<lb n="24"/>
+		? ? in the diwān (?) of Alexandria (?). And this was writen in (the month of) Ramaḍān, 
+			<lb n="25"/>
+		in the year 205.
+</ab></div>
+</body>
+</text>
+</TEI>

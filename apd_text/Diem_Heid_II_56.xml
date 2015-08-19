@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1449" xml:id="Diem_Heid_II_56" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 56</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_56</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169234</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه الرّحمن الرّحيم 
+<lb n="2"/>  جعلت فداك وأطال اللّه بقاك وأعزّك 
+<lb n="3"/>  وأكرمك 
+<lb n="4"/>  فهمت رقعتك وقد وصل التّين 
+<lb n="5"/>  <supplied reason="lost" cert="high">أسكنك</supplied> اللّه الجنّة برحمته أعلم أبقاك 
+<lb n="6"/>  اللّه إن كانت عبّاسة فعلت 
+<lb n="7"/>  شيئا ممّا ذكرت فليس ينكر 
+<lb n="8"/>  على مثلها كثرة <app type="BL"><lem resp="APD">الفضول </lem><rdg resp="APD">الفصول</rdg></app> وهاكذا 
+<lb n="9"/>  <app type="BL"><lem resp="APD">حبلى </lem><rdg resp="APD">حيل</rdg></app> مطلّقة وباللّه لقد بلغ ذلك منّي 
+<lb n="10"/>  ومن عيالي وأنا إن شا اللّه أقطع 
+<lb n="11"/>  رجلها من منزلي وهي منذ يومين 
+<lb n="12"/>  في <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">دار</unclear> </lem><rdg resp="APD">ذلك </rdg><rdg resp="APD">تلك</rdg></app> <unclear reason="undefined" cert="high">أخيهـ</unclear>ـا حتّـ<unclear reason="undefined" cert="high">ـا</unclear> تطـ<unclear reason="undefined" cert="high">ـلـ</unclear>ـب لنفسها 
+<lb n="13"/>  زوج فلا جزاها اللّه خيرا فهذا 
+<lb n="14"/>  شي قد غلبنا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka 
+ <lb n="3"/>wa ʾakrama ka 
+ <lb n="4"/>fahimtu ruqʿata ka wa qad waṣala ăt tīnu 
+ <lb n="5"/>ʾaskana ka ăl lāhu ăl ǧannaẗa bi raḥmati hi ʾuʿlimu ʾabqā ka 
+ <lb n="6"/>ăl lāhu ʾin kānat ʿabbāsaẗu faʿalat 
+ <lb n="7"/>šayʾ:an mimmā ḏakarta fa laysa yunkiru 
+ <lb n="8"/>ʿalà miṯli hā kaṯraẗa ăl fuḍūli fuṣūli wa hākaḏā 
+ <lb n="9"/>ḥublà ḥiyal:un muṭallaqaẗ:un wa bi ăl lāhi la qad balaġa ḏālika min nī 
+ <lb n="10"/>wa min ʿiyāl ī wa ʾanā ʾin šāʾa ăl lāhu ʾaqṭaʿu 
+ <lb n="11"/>riǧla hā min manzil ī wa hiya munḏu yawmayni 
+ <lb n="12"/>fī dāri ḏālika tilka ʾaḫī hā ḥattā taṭluba li nafsi hā 
+ <lb n="13"/>zawǧ fa lā ǧazā hā ăl lāhu ḫayr:an fa hāḏā 
+ <lb n="14"/>šayʾ:un qad ġalaba nā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gotte]s, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Möge ich zu Deinem Lösegeld gemacht werden, möge Gott Dich lange leben lassen, möge er Dich stärken
+			<lb n="3"/>
+		und ehren!
+			<lb n="4"/>
+		Ich habe Dein Schreiben verstanden, und die Feigen sind angekommen -
+			<lb n="5"/>
+		Gott [lasse Dich] in seiner Gnade im Paradies [wohnen]! Ich teile mit - Gott erhalte Dich -:
+			<lb n="6"/>
+		Wenn ʿAbbāsah
+			<lb n="7"/>
+		auch nur etwas von dem getan hat, was Du erwähnst, nun, so kann man
+			<lb n="8"/>
+		einer wie ihr allzugroße Zudringlichkeit (?) nicht verdenken. Und so
+			<lb n="9"/>
+		(ist sie also) schwanger und geschieden! Bei Gott, diese Sache hat mich
+			<lb n="10"/>
+		und meine Familie sehr betroffen gemacht, und ich werde, so Gott will, dafür sorgen, daß sie
+			<lb n="11"/>
+		nie mehr ihren Fuß in mein Haus setzt. Seit zwei Tagen ist sie
+			<lb n="12"/>
+		im Haus (?) ihres (?) Bruders (?), damit sie sich
+			<lb n="13"/>
+		einen (neuen) Ehemann sucht. So möge Gott es ihr nicht mit Gutem vergelten, denn dies ist
+			<lb n="14"/>
+		etwas, was uns sehr mitgenommen hat.
+</ab></div>
+</body>
+</text>
+</TEI>

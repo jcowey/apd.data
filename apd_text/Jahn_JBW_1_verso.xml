@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2314" xml:id="Jahn_JBW_1_verso" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 01 verso</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_1_verso</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="verso 1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+ <lb n="verso 2"/>  أمّا بعد 
+ <lb n="verso 3"/>  هذا كتاب لـ<gap reason="illegible" precision="low" extent="3"/> بن <gap reason="illegible" precision="low" extent="3"/> النّوتي من <gap reason="illegible" extent="10" unit="character" /> <unclear reason="undefined" cert="high">إلى</unclear> <unclear reason="undefined" cert="high">كلّ</unclear> <unclear reason="undefined" cert="high">أصحـ</unclear>ـابي أنّه ذكر <gap reason="illegible" extent="7" unit="character" /> 
+ <lb n="verso 4"/>  أن أبا خير بعـ<unclear reason="undefined" cert="high">ـثه</unclear> <unclear reason="undefined" cert="high">نوتيّ</unclear> سفينته إ<supplied reason="lost" cert="high">لى</supplied> <gap reason="illegible" extent="13" unit="character" /> فسألني أن أكتب على من <supplied reason="lost" cert="high">يـ</supplied>ـوحرها بالظّلم 
+ <lb n="verso 5"/>  والأمير أصلحه اللّه ينهـ<unclear reason="undefined" cert="high">ـى</unclear> أن تـ<unclear reason="undefined" cert="high">ـو</unclear>حر السّفينة فمن <supplied reason="lost" cert="high">لقـ</supplied>ـي <supplied reason="lost" cert="high">ا</supplied>لسّفيـ<supplied reason="lost" cert="high">ـنة</supplied> فلا يعرض لها إلّا بخير 
+ <lb n="verso 6"/>  ولا يجعل عـ<supplied reason="lost" cert="high">لى</supplied> نفسـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">فيها</supplied> سبيلا إن شا اللّه <app type="BL"><lem resp="APD">وكتب </lem><rdg resp="APD">وكتب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="7" unit="character" /> </lem><rdg resp="APD">ø</rdg></app> 
+ <lb n="verso 7"/>  <supplied reason="lost" cert="high">يوم</supplied> ا<sic n="superfluous">لا</sic>لجمعة لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾammā baʿdu 
+ <lb n="3"/>hāḏā kitāb:un li *** bni *** ăn nūtiyyi min ********** ʾilà kulli ʾaṣḥāb ī ʾanna hu ḏakara ******* 
+ <lb n="4"/>ʾanna ʾabā ḫayr:in baʿaṯa hu nūtiyya safīnati hi ʾilà ************* fa saʾala nī ʾan ʾaktuba ʿalà man yuʾaḫḫiru hā bi ăẓ ẓulmi 
+ <lb n="5"/>wa ăl ʾamīru ʾaṣlaḥa hu ăl lāhu yanhà ʾan tuʾaḫḫara ăs safīnaẗu fa man laqiya ăs safīnaẗa fa lā yaʿriḍ la hā ʾillā bi ḫayr:in 
+ <lb n="6"/>wa lā yaǧʿal ʿalà nafsi hi fī hā sabīl:an ʾin šāʾa ăl lāhu wa wa kataba kutiba ******* ø 
+ <lb n="7"/>yawma ăl ǧumʿaẗi li *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Na]men Gottes, des Barmherzigen und Gnädigen!
+		 <lb n="2"/>
+ 	  Sodann:
+		 <lb n="3"/>
+ 	  Dies ist ein Schreiben für den So-und-so, Sohn des So-und-so, den Schiffer aus - - - an (?) alle (?) meine Kollegen (?). Er hat erwähnt [
+		 <lb n="4"/>
+ 	  daß Abū Ḫayr ihn als Schiffer seines Schiffes n[ach] - - - gesandt hat. Deshalb hat er mich gebeten, gegen die, die es unrechtmäßig verzögern (?), ein Schreiben auszustellen.
+		 <lb n="5"/>
+ 	  Der Amīr - Gott erhalte ihn wohlbehalten - verbietet, daß das Schiff verzögert wird. Wer also das Schiff (?) trifft (?), der soll ihm (sc. dem Schiff) nur Gutes erweisen
+		 <lb n="6"/>
+ 	  und [diesbezüglich] nicht Anlaß zu Tadel geben, so Gott will. Geschrieben von [
+		 <lb n="7"/>
+ 	  am Freitag, den [
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

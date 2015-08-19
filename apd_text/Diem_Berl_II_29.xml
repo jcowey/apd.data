@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1505" xml:id="Diem_Berl_II_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169281</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاك وأعزّك وأكرمك وأتم نعمته عليك وزاد في إحسانه إليك 
+<lb n="3"/>  كتابي إليك عن سلامة وستر جميل أحمد اللّه على ذلك حمدا كثيرا أعلمك 
+<lb n="4"/>  يأخي بأنّي تقاضيت أفلح غلام السّبتي غرمه في الدّينر فإنّما 
+<lb n="5"/>  يخدعني كلّما لقيته ولم أعرف له منزل ولم تعرّفني منزله 
+<lb n="6"/>  وأنا إن شا اللّه لا أخرج حتّا أستوفي منه الدّينر وأعلمك 
+<lb n="7"/>  بأن رمّيس قد <app type="BL"><lem resp="APD">خلّى </lem><rdg resp="APD">خلّي</rdg></app> يوم الجمعة فعجّل على غلّتك فإن الرّجل قد 
+<lb n="8"/>  <app type="BL"><lem resp="APD">خلّي </lem><rdg resp="APD">خلّي</rdg></app> ولا نأمن أن يبعث في الخراج فدبّرنا اللّه فيه أحببت 
+<lb n="9"/>  إعلامك ذالك أخص نفسك أفضل السّلام وعلى أبي الطّيّب 
+<lb n="10"/>  وأبي <unclear reason="undefined" cert="high">النّصب</unclear> وعلى بكر وعمر السّلام كثيرا و<supplied reason="lost" cert="high">أ</supplied>نا على أمر كتابي 
+<lb n="11"/>  هذا إن شا اللّه 
+<lb n="upper margin 1 right 1"/>  لأبي عبد اللّه أطال اللّه بقاه 
+<lb n="upper margin 2 right 2"/>  خطّاب بن عـ<supplied reason="lost" cert="high">ـمـ</supplied>ـر أكرمه اللّه 
+<lb n="upper margin 1 left 1"/>  من اللّيث بن حارث 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka 
+ <lb n="3"/>kitāb ī ʾilay ka ʿan salāmaẗ:in wa sitr:in ǧamīl:in ʾaḥmadu ăl lāha ʿalà ḏālika ḥamd:an kaṯīr:an ʾuʿlimu ka 
+ <lb n="4"/>yā ʾaḫ ī bi ʾan nī taqāḍaytu ʾaflaḥa ġulāma ăs sabtiyyi ġurma hu fī ăd dīnāri fa ʾinnamā 
+ <lb n="5"/>yaḫdaʿu nī kullamā laqītu hu wa lam ʾaʿrif la hu manzil wa lam tuʿarrif nī manzila hu 
+ <lb n="6"/>wa ʾanā ʾin šāʾa ăl lāhu lā ʾaḫruǧu ḥattā ʾastawfiya min hu ăd dīnāra wa ʾuʿlimu ka 
+ <lb n="7"/>bi ʾanna rammiyusa qad ḫallà ḫulliya yawma ăl ǧumʿaẗi fa ʿaǧǧil ʿalà ġallati ka fa ʾinna ăr raǧula qad 
+ <lb n="8"/>ḫallà ḫulliya wa lā naʾmunu ʾan yabʿaṯa fī ăl ḫarāǧi fa dabbara nā ăl lāhu fī hi ʾaḥbabtu 
+ <lb n="9"/>ʾiʿlāma ka ḏālika ʾaḫiṣṣa nafsa ka ʾafḍala ăs salāmi wa ʿalà ʾabī ăṭ ṭayyibi 
+ <lb n="10"/>wa ʾabī ăn naṣbi wa ʿalà bakr:in wa ʿumar:ini ăs salāmu kaṯīr:an wa ʾanā ʿalà ʾamri kitāb ī 
+ <lb n="11"/>hāḏā ʾin šāʾa ăl lāhu 
+ <lb n="12"/>li ʾabī ʿabdi ăl lāhi ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="13"/>ḫaṭṭābi bni ʿumar:in ʾakrama hu ăl lāhu 
+ <lb n="14"/>mina ăl layṯi bni ḥāriṯ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben, stärke Dich, ehre Dich, vollende seine Gnade an Dir und gewähre Dir noch mehr seine Wohltaten!
+			<lb n="3"/>
+		Ich schreibe Dir bei Gesundheit und in schöner Obhut - hierfür preise ich Gott vielmals -, um Dir mitzuteilen,
+			<lb n="4"/>
+		o Bruder, daß ich von Aflaḥ, dem Burschen von as-Sabtī, (zwar) die Bezahlung seiner Schuld,  bestehend aus (?) dem (bewußten) Dinar, verlangt habe, er mich aber einfach
+			<lb n="5"/>
+		jedesmal, wenn ich ihm begegnet bin, hereingelegt hat. Ich konnte seine Adresse nicht erfahren, und (auch) Du hast mir seine Adresse nicht mitgeteilt,
+			<lb n="6"/>
+		aber ich werde, so Gott will, erst dann abreisen, wenn ich den Dinar von ihm in voller Höhe kassiert habe. Ich teile Dir (außerdem) mit,
+			<lb n="7"/>
+		daß Rammios am Freitag (die Ernte zum Abtransport) freigegeben hat; übersende mir deshalb schnellstens Deine Ernte! Denn der Mann hat (die Ernte jetzt)
+			<lb n="8"/>
+		freigegeben, und (so) sind wir nicht davor sicher, daß er wegen der Grundsteuer Bescheid geben wird. So möge uns denn Gott, was ihn betrifft, den rechten Weg leiten!
+			<lb n="9"/>
+		Dies wollte ich Dir mitteilen. Laß Dich ganz speziell vorzüglichst grüßen, und auch an Abū ṭ-Ṭayyib
+			<lb n="10"/>
+		und Abū n-Naṣb (?), (ferner) an Bakr und ʿUmar viele Grüße! Ich werde gemäß
+			<lb n="11"/>
+		diesem meinem Brief verfahren, so Gott will.
+			<lb n="12"/>
+		An Abū ʿAbdallāh - Gott lasse ihn lange leben -
+			<lb n="13"/>
+		Ḫaṭṭāb ibn ʿUmar - Gott ehre ihn -
+			<lb n="14"/>
+		von al-Layṯ ibn Ḥāriṯ.
+</ab></div>
+</body>
+</text>
+</TEI>

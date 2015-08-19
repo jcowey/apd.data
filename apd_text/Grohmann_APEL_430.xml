@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1930" xml:id="Grohmann_APEL_430" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 430</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_430</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169666</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>س بن أسلم 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> ثمان ويبات شعير وفضل بن أسد خمس ويبات شعير 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> في لحم وحوائج أربعة دراهم في زيت فلسطيني درهمين ونصف 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> في <gap reason="illegible" extent="1" unit="character" />عـ<gap reason="illegible" precision="low" extent="3"/> درهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>***s bn ʾaslama 
+ <lb n="3"/>*** ṯamāni waybāti šaʿīr:in wa faḍlu bnu ʾasad:in ḫamsu waybāti šaʿīr:in 
+ <lb n="4"/>*** fī laḥm:in wa ḥawāʾiǧa ʾarbaʿaẗu darāhima fī zayt:in filasṭīniyy:in dirhamayni wa niṣf:un 
+ <lb n="5"/>*** fī *ʿ*** dirham:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		]s b. Aslam
+			<lb n="3"/>
+		] eight waibas of barley, and Faḍl b. Asad five waibas of barley,
+			<lb n="4"/>
+		] for meat and commodities four dirhams, for Palestinian oil two dirhams and a half
+			<lb n="5"/>
+		] for .......... one dirham.
+</ab></div>
+</body>
+</text>
+</TEI>

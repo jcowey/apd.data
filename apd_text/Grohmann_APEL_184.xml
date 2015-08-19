@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1643" xml:id="Grohmann_APEL_184" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 184</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_184</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169398</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">د</supplied>ينر 
+ <lb n="2"/>  الرّقعة γʹ‎ χγʹ‎ηʹ‎ 
+ <lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  أدّى عيسى بن أحمد عمّا يلزمه 
+ <lb n="5"/>  من الخراج عن قرية تدعى سپر 
+ <lb n="6"/>  من ضياع الأمير أيّده اللّه 
+ <lb n="7"/>  نصف وثلث وثمن مثقال إلى 
+ <lb n="8"/>  <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـل بن أبهيوه القسطال 
+ <lb n="9"/>  بحضرة خليفة محمّد بن عيسى 
+ <lb n="10"/>  مولى أمير المومپپن عامل أبي 
+ <lb n="11"/>  الفضل عبيد اللّـ<supplied reason="lost" cert="high">ـه</supplied> بن المعلّى 
+ <lb n="12"/>  اعره اللّه لخراج سنة σμ<unclear reason="undefined" cert="high">ϑ</unclear> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>dīnār 
+ <lb n="2"/>ăr ruqʿaẗu ‪3 ‪1/2+1/3+1/8 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà ʿīsà bnu ʾaḥmada ʿammā yalzamu hu 
+ <lb n="5"/>mina ăl ḫarāǧi ʿan qaryaẗ:in tudʿà sBra 
+ <lb n="6"/>min ḍiyāʿi ăl ʾamīri ʾayyada hu ăl lāhu 
+ <lb n="7"/>niṣfa wa ṯulṯa wa ṯumna miṯqāl:in ʾilà 
+ <lb n="8"/>*ʾ*la bni ʾabahiyūha ăl qusṭāli 
+ <lb n="9"/>bi ḥaḍraẗi ḫalīfaẗi muḥammadi bni ʿīsà 
+ <lb n="10"/>mawlà ʾamīri ăl muʾminīna ʿāmili ʾabī 
+ <lb n="11"/>ăl faḍli ʿubaydi ăl lāhi bni ăl muʿallà 
+ <lb n="12"/>ʾaʿazza hu ăl lāhu li ḫarāǧi sanaẗi ‪249 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Dînâr
+		 <lb n="2"/>
+ 	  Folio 3. 1/2+1/3+1/8
+		 <lb n="3"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="4"/>
+ 	  ʿÎsâ b. Aḥmad has paid on account of that which was due from him
+		 <lb n="5"/>
+ 	  for the land-tax of the village called S .......
+		 <lb n="6"/>
+ 	  belonging to the domains of the Amîr - may God strengthen him -
+		 <lb n="7"/>
+ 	  one half and one third an one eighth miṯqâl to
+		 <lb n="8"/>
+ 	  .......... son of Apaheu, the treasurer,
+		 <lb n="9"/>
+ 	  in the presence of the deputy of Muḥammad b. ʿÎsâ,
+		 <lb n="10"/>
+ 	  freedman of the Commander of the Faithful, administrator of Abuʾ
+		 <lb n="11"/>
+ 	  l-Faḍl ʿUbaidallâh b. al-Muʿallâ
+		 <lb n="12"/>
+ 	  - may God exalt him - for the impost of the year 249.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

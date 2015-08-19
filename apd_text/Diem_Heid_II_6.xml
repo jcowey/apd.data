@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1316" xml:id="Diem_Heid_II_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169131</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـ<unclear reason="undefined" cert="high">ـن</unclear> <unclear reason="undefined" cert="high">شهرين</unclear> <app type="BL"><lem resp="APD">مڤس<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" />ـن </lem><rdg resp="APD">مقسّطين</rdg></app> بعقوبة 
+<lb n="2"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="17" unit="character" /> 
+<lb n="3"/>  لا عن خـ<unclear reason="undefined" cert="high">ـبـ</unclear>ـره إلى مستخرج ولا إلى 
+<lb n="4"/>  عاشر في هذا الـ<supplied reason="lost" cert="high">ـعام</supplied> 
+<lb n="5"/>  المبارك فأسل اللّه أن <supplied reason="lost" cert="high">يـ</supplied>ـتقبّل 
+<lb n="6"/>  منك ويمحا عنك الذّنوب 
+<lb n="7"/>  برحمته فإنّه ولي ذلك والقادر 
+<lb n="8"/>  عليه تأخذ كتاب إلى 
+<lb n="9"/>  من يخرج بالكف عنّا 
+<lb n="10"/>  إن شا اللّه على <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الـ</unclear>ـ<gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">العاشر </rdg><rdg resp="APD">المستخرج</rdg></app> 
+<lb n="11"/>  أدام اللّه لك كرامته 
+<lb n="12"/>  وأعزّك بطاعته ولا أخلا 
+<lb n="13"/>  <supplied reason="lost" cert="high">مكـ</supplied>ـانـك <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وـ</supplied>ـ<unclear reason="undefined" cert="high">الـ</unclear><supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">ـسّلم</unclear> </supplied>
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>** min šahrayni muFs**ni muqassaṭayni bi ʿuqūbaẗi 
+ <lb n="2"/>** ***************** 
+ <lb n="3"/>lā ʿan ḫabari hi ʾilà mustaḫriǧ:in wa lā ʾilà 
+ <lb n="4"/>ʿāšir:in fī hāḏā ăl ʿāmi 
+ <lb n="5"/>ăl mubāraki fa ʾasalu ăl lāha ʾan yataqabbala 
+ <lb n="6"/>min ka wa yamḥā ʿan ka ăḏ ḏunūba 
+ <lb n="7"/>bi raḥmati hi fa ʾinna hu waliyyu ḏālika wa ăl qādiru 
+ <lb n="8"/>ʿalay hi taʾḫuḏu kitāb ʾilà 
+ <lb n="9"/>man yaḫruǧu bi ăl kaffi ʿan nā 
+ <lb n="10"/>ʾin šāʾa ăl lāhu ʿalà ăl ***** ʿāširi mustaḫriǧi 
+ <lb n="11"/>ʾadāma ăl lāhu la ka karāmata hu 
+ <lb n="12"/>wa ʾaʿazza ka bi ṭāʿati hi wa lā ʾaḫlā 
+ <lb n="13"/>makāna ka *** wa ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] von zwei Monaten (?) - - - mit einer Strafe
+			<lb n="2"/>
+			<lb n="3"/>
+		nicht (?) von (?) seiner Nachricht (?) an einen Steuereinnehmer und ebensowenig an
+			<lb n="4"/>
+		einen Einnehmer des Zehnten in diesem gesegneten Jahr.
+			<lb n="5"/>
+		So bitte ich Gott, er möge von dir annehmen
+			<lb n="6"/>
+		und Dir die Sünden
+			<lb n="7"/>
+		in seiner Gnade zu vergeben, denn er ist dazu imstande und fähig.
+			<lb n="8"/>
+		Bringe einen Brief zu
+			<lb n="9"/>
+		jemandem, der die Anordnung, daß wir in Ruhe gelassen werden,
+			<lb n="10"/>
+		so Gott will, gegen den - - - erläßt.
+			<lb n="11"/>
+		Gott lasse Dir seinen Edelmut andauern,
+			<lb n="12"/>
+		stärke Dich durch den Gehorsam ihm gegenüber und mache
+			<lb n="13"/>
+		Deinen Platz nicht leer. Gruß!
+</ab></div>
+</body>
+</text>
+</TEI>

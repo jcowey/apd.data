@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="705" xml:id="Grohmann_EBU_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106786</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيـ</supplied>ـم 
+<lb n="2"/>  أدّى موسى الخبّاز وجرجه البنّا عمّا <app type="BL"><lem resp="APD">يلزمه </lem><rdg resp="Diem">يلزمهم</rdg></app> 
+<lb n="3"/>  من الخراج عن <app type="BL"><lem resp="APD">أشروبق </lem><rdg resp="Diem, possibility">إشروبة</rdg></app> قبالة عبد اللّه 
+<lb n="4"/>  بن محمّد اليمامي وأصحابه <app type="BL"><lem resp="APD">ثلثي </lem><rdg resp="Diem">ثلثّمن</rdg></app> مثقال 
+<lb n="5"/>  إلى شنوده القسطال بحضرة 
+<lb n="6"/>  خليفة إسكندر مولى أمير المو 
+<lb n="7"/>  <app type="BL"><lem resp="APD">‮مپپن </lem><rdg resp="Diem">أيّده</rdg></app> اعره الله لحراح <app type="BL"><lem resp="APD">سپه </lem><rdg resp="Diem">σια‬</rdg></app> 
+<lb n="8"/>  ‮منه عن موسى وجرجه ‪χ‬ وعن جرجه البنّا ‪χ‬ 
+<lb n="seal"/>  <app type="BL"><lem resp="APD">‮خاتم </lem><rdg resp="Diem"><gap reason="illegible" extent="1" unit="character" />ـلپم</rdg></app> <app type="BL"><lem resp="APD">يله </lem><rdg resp="Diem">للّه</rdg></app> <app type="BL"><lem resp="APD">وپه </lem><rdg resp="APD">ڤله</rdg></app> <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaddà mūsà ăl ḫabbāzu wa ǧirǧahu ăl bannāʾu ʿammā yalzamu hu hum 
+ <lb n="3"/>mina ăl ḫarāǧi ʿan ʾušrūbaqa ʾišrūbaẗa qabālaẗi qubālaẗa ʿabdi ăl lāhi 
+ <lb n="4"/>bni muḥammad:ini ăl yamāmiyyi wa ʾaṣḥābi hi ṯulṯay ṯulṯ ø ṯumni miṯqāl:in 
+ <lb n="5"/>ʾilà šanūdaha ăl qusṭāli bi ḥaḍraẗi 
+ <lb n="6"/>ḫalīfaẗi ʾiskandara mawlà ʾamīri ăl muʾminīna 
+ <lb n="7"/>ʾaʿazza ʾayyada hu ăl lāhu li ḫarāǧi sanaẗi 291 211 
+ <lb n="8"/>min hu ʿan mūsà wa ǧirǧaha 1/48 wa ʿan ǧirǧaha ăl bannāʾi 1/48 
+ <lb n="9"/>ḫātimu *lBm yalah wayha li ø l ø lāhi ø qlh * 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Gezahlt hat der Bäcker Mūsā und der Baumeister Ǧirǧe von dem, was ihnen
+			<lb n="3"/>
+		an Grundsteuer von Ušrūbaq oblag, dem Pachtgut des ʿAbdallāh
+		an Grundsteuer von Ušrūbaq oblag, vor ʿAbdallāh
+			<lb n="4"/>
+		b. Muḥammad aus al-Yamāma und seinen (Amts) Genossen 1/24 (Dīnār) des Miṯqālfußes
+		b. Muḥammad aus al-Yamāma und seinen (Amts) Genossen zwei Drittel (Dīnār) des Miṯqālfußes
+			<lb n="5"/>
+		an den Zahlmeister Šanūda in Gegenwart
+			<lb n="6"/>
+		des Stellvertreters des Iskandar, Freigelassenen des Beherrschers der Gläu-
+			<lb n="7"/>
+		bigen - Gott stärke ihn - für die Steuer des Jahres 291.
+		bigen - Gott stütze ihn - für die Steuer des Jahres 211.
+			<lb n="8"/>
+		Davon (stammt) von Mūsā und Ǧirǧe 1/48 und vom Baumeister Ǧirǧe 1/48.
+			<lb n="9"/>
+		Siegel: Siegel des Yalahwaih.
+</ab></div>
+</body>
+</text>
+</TEI>

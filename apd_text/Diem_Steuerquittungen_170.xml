@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2457" xml:id="Diem_Steuerquittungen_170" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_170</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="2 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2 center"/>  ÷÷ 
+<lb n="1 left"/>  هذا المال عمّا يجب على 
+<lb n="2 left"/>  عبد اللّه بن جعفر الجبّان 
+<lb n="3 left"/>  عن الخراج بسپاپه 
+<lb n="4"/>  قد صح في الدّيوان على يدي عبد اللّه بن جعفر الجبّان عن سپاپه في نجم مسرى 
+<lb n="5"/>  <supplied reason="lost" cert="high">لخـ</supplied>ـراج سنة إحدى وأربعين وثلثمائـ<supplied reason="lost" cert="high">ـة</supplied> من العـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن السّفاتج مائة دينار واحدة وثلثين دينارا 
+<lb n="6"/>  مغسولة جيّدا غير ثلثي دينار <supplied reason="lost" cert="high">بـ</supplied>ـلا صر<supplied reason="lost" cert="high">ف</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  إلى أحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـد بن عـ<supplied reason="lost" cert="high">ـبد</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أ<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>130 
+ <lb n="3"/>hāḏā ăl mālu ʿammā yaǧibu ʿalà 
+ <lb n="4"/>ʿabdi ăl lāhi bni ǧaʿfara ăl ǧabbāni 
+ <lb n="5"/>ʿani ăl ḫarāǧi bi sBʾBh 
+ <lb n="6"/>qad ṣaḥḥa fī ăd dīwāni ʿalà yaday ʿabdi ăl lāhi bni ǧaʿfara ăl ǧabbāni ʿan sBʾBh fī naǧmi misrà 
+ <lb n="7"/>li ḫarāǧi sanaẗi ʾiḥdà wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in mina ăl ʿayni ăs safātiǧi miʾaẗu dīnār:in wāḥidaẗ:un wa ṯalāṯīna dīnār:an 
+ <lb n="8"/>maġsūlaẗ:an ǧayyid:an ġayra ṯulṯay dīnār:in bi lā ṣarf:in *** *** *** 
+ <lb n="9"/>ʾilà ʾaḥmada bni ʿabdi ăr raḥmāni *** *** ʾ** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Basmalah
+			<lb n="2"/>
+		130
+			<lb n="3"/>
+		Dieses (gezahlte) Geld ist für das (bestimmt), was
+			<lb n="4"/>
+		ʿAbd Allāh ibn Ǧaʿfar der Käsehändler
+			<lb n="5"/>
+		für die Grundsteuer in .......... schuldet.
+			<lb n="6"/>
+		Es sind im (Finanz)amt durch eigenhändige Einzahlung des ʿAbd Allāh ibn Ǧaʿfar des Käsehändlers für (den Ort) ........ an (dem Termin) der Rate des Mesori (zu seinen Gunsten) verbucht worden
+			<lb n="7"/>
+		[für die St]euer des Jahres dreihunde[rteinundvierzig an Ge[l]d in Form von Wechseln einhundertdreiunddreißig Dinar,
+			<lb n="8"/>
+		gewaschen, hervorragend, weniger als zwei Drittel Dinar, [oh]ne Wechselgebü[hr .......] ........ [....... und zwar übergab er dies]
+			<lb n="9"/>
+		dem Aḥ[ma]d ibn ʿA[bd ar-Ra]ḥmā[n] .. [.....] ..... [.....] . [
+</ab></div>
+</body>
+</text>
+</TEI>

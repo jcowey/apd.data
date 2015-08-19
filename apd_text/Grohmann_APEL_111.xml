@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="313" xml:id="Grohmann_APEL_111" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 111 (= P.World p. 212 = Chrest.Khoury I 36)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_111</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106553</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر ثابت بن دنيّن الحاكمي من بني <app type="BL"><lem resp="APD">رفع </lem><rdg resp="APD">روح</rdg></app> المقيم يومئذ بالنّاحية 
+<lb n="3"/>  المعروفة ببلجسوق من أعمال الفيّوم عند شهود هذا الكتاب 
+<lb n="4"/>  وأشهدهم على نفسه طوعا في صحّة <app type="BL"><lem resp="APD">بدنه </lem><rdg resp="Hopkins, Thung p. 152, Diem p. 72">منه</rdg></app> وجواز أمر غير مكره ولا مجبر 
+<lb n="5"/>  ولا مضطهد ولا بجاهل بما أقر به فيه أن عليه وعنده وقبله وفي ذمّته 
+<lb n="6"/>  وخالص ماله دينا ثابتا وحقّا لارما له مپه <app type="BL"><lem resp="APD">وعرڤه </lem><rdg resp="Hopkins, Diem p. 72">به</rdg></app> وپحڤڤه للمكپى 
+<lb n="7"/>  بأبو العلا بن برقوق المزارع بالنّاحية المعروفة <app type="BL"><lem resp="APD">بعلها </lem><rdg resp="Diem p. 72">بقلها</rdg></app> من القمح الطّيّب <app type="BL"><lem resp="APD">النّاقي </lem><rdg resp="Thung p. 104, Diem p. 72, 112 “uncertain”">التّامّ</rdg></app> 
+<lb n="8"/>  النّقي أربعة أرادب بالكيل <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="Khoury">المرزّأ </rdg><rdg resp="Thung p. 152, quoted by Diem p. 72, 90">الدّوّار</rdg></app> النّصف من ذلك إردبّين يقوم له بجملة ذلك 
+<lb n="9"/>  في <app type="BL"><lem resp="APD">صفر </lem><rdg resp="Diem p. 71/77">صيفة</rdg></app> من سنة ست وعشرين وخمس مائة أو إلى من يقوم مقامه ممّن يحضر إليه هذه 
+<lb n="10"/>  الحجّة بغير مدافعة ولا ممانعة ولا احتجاج بحجّة ولا اعتلال بعلّة <app type="BL"><lem resp="APD">عن </lem><rdg resp="Hopkins">غير</rdg></app> الخروج له 
+<lb n="11"/>  من ما يلزمه على تمامه وكماله حتّى لا يبقى منه شي <app type="BL"><lem resp="APD">مل </lem><rdg resp="Diem, Terminkauf p. 72">قلّ</rdg></app> ولا <app type="BL"><lem resp="APD">جل </lem><rdg resp="Diem, Terminkauf p. 72">جلّ</rdg></app> وبجميعه أشهد على نفسه 
+<lb n="12"/>  في ربيع الأوّل من سنة سبع وعشرين وخمس مائة شهد يوسف بن عيسى بن صالح بن محمّد على 
+<lb n="13 right"/>  شهد عيسى بن صالح پن محمّد بن سعد بن <app type="BL"><lem resp="“Grohmann, World”">صح </lem><rdg resp="APD">ø</rdg></app> 
+<lb n="13 left"/>  إقرار المقر بما فيه وكتب في تأريخه 
+<lb n="14 right"/>  الخطيب على إقرار المقر بما فيه <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="14 left"/>  وكتب في تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ṯābitu bnu dunayn:ini ăl ḥākimiyyu min banī rafaʿ:ini rawḥ:ini ăl muqīmu yawma ʾiḏ:in bi ăn nāḥiyaẗi 
+ <lb n="3"/>ăl maʿrūfaẗi bi bulǧusūqa min ʾaʿmāli ăl fayyūmi ʿinda šuhūdi hāḏā ăl kitābi 
+ <lb n="4"/>wa ʾašhada hum ʿalà nafsi hi ṭawʿ:an fī ṣiḥḥaẗi ṣiḥḥaẗ:in badani min hi hu wa ǧawāzi ʾamr:in ġayra mukrah:in wa lā muǧbar:in 
+ <lb n="5"/>wa lā muḍṭahad:in wa lā bi ǧāhil:in bi mā ʾaqarra bi hi fī hi ʾanna ʿalay hi wa ʿinda hu wa qibala hu wa fī ḏimmaẗi hi 
+ <lb n="6"/>wa ḫāliṣi māli hi dayn:an ṯābit:an wa ḥaqq:an wāǧib:an lāzim:an la hu min bi hu hi wa ʿarafa hu wa taḥaqqaqa hu li l mukannà 
+ <lb n="7"/>bi ʾabū ăl ʿalāʾi bni barqūqa ăl muzāriʿi bi ăn nāḥiyaẗi ăl maʿrūfaẗi bi ʿalhā qalhā mina ăl qamḥi ăṭ ṭayyibi ăn ăt nāqī tāmmi 
+ <lb n="8"/>ăn naqiyyi ʾarbaʿaẗa ʾarādiba bi ăl kayli ***** ăl ăd ø dawwāri murazzaʾi ăn niṣfu min ḏālika ʾirdabbayni yaqūmu la hu bi ǧumlaẗi ḏālika 
+ <lb n="9"/>fī ṣafar:in ṣayfaẗa min sanaẗi sitt:in wa ʿišrīna wa ḫamsi miʾaẗ:in ʾaw ʾilà man yaqūmu maqāma hu mimman yuḥḍiru ʾilay hi hāḏihi 
+ <lb n="10"/>ăl ḥuǧǧaẗa bi ġayri mudāfaʿaẗ:in wa lā mumānaʿaẗ:in wa lā ĭḥtiǧāǧ:in bi ḥuǧǧaẗ:in wa lā ĭʿtilāl:in bi ʿillaẗ:in ʿani ġayra ăl ḫurūǧi la hu 
+ <lb n="11"/>min mā yalzamu hu ʿalà tamāmi hi wa kamāli hi ḥattà lā yabqà min hu šayʾ:un milʾ:un qalla wa lā ǧalla ḫill:un wa bi ǧamīʿi hi ʾašhada ʿalà nafsi hi 
+ <lb n="12"/>fī rabīʿa ăl ʾawwali min sanaẗi sabʿ:in wa ʿišrīna wa ḫamsi miʾaẗ:in šahida yūsufu bnu ʿīsà bni ṣāliḥi bni muḥammad:in ʿalà 
+ <lb n="14"/>šahida ʿīsà bnu ṣāliḥi bni muḥammadi bni saʿdi bni ***  ø ṣaḥḥa 
+ <lb n="15"/>ʾiqrāri ăl muqirri bi mā fī hi wa kataba fī taʾrīḫi hi 
+ <lb n="16"/>ăl ḫaṭībi ʿalà ʾiqrāri ăl muqirri bi mā fī hi ‮**** 
+ <lb n="17"/>wa kataba fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Ṯābit b. Dunain al-Ḥâkimî, numbering among the Banû Rafaʿ, residing at this time in the borough
+		Ṯābit Ibn Dunayn al-Ḥākimī, appartenant aux Banū Rafuʿ et habitant en ce moment-là dans la localité
+			<lb n="3"/>
+		connue sous le nom de Bulǧušuq qui dépend des districts d’al-Fayyūm, a reconnu, en présence des témoins de ce document,
+		known as Bulǧusûq, belonging to the district of al-Fayyûm, has acknowledged in the presence of the witnesses to this document
+			<lb n="4"/>
+		and has called them to witness to his obligation voluntarily, being in soundness of body and capacity of transacting business, without compulsion and not against his will
+		et les a pris à témoins, de bon gré, étant dans la plénitude de sa faculté physique et sa capacité juridique, non contraint, ni forcé,
+			<lb n="5"/>
+		and not under constraint, and not ignorant of what he has acknowledged herein, viz. that he owes, has in his possession, is in debt and under obligation for,
+		ni maltraité, ni ignorant de ce qu’il y a reconnnu, qu’il a à son débit comme dette, sous sa protection
+			<lb n="6"/>
+		et de son bien intégral, une dette valide et une obligation qui l’engage et qu’il connaît et considère comme véridique, envers le surnommé
+		with his undiminished property, as an obligatory debt and an obligation incumbent upon him, binding him by this (acknowledgment), of which he is cognizant and certain, to the surnamed
+			<lb n="7"/>
+		Abuʾl-ʿAlâ b. Barqûq, the farmer in the borough known as ʿAlhâ (?) of good, pure, clean
+		Abū l-ʿAlā Ibn Barqūq, le paysans dans la localité connue sous (le nom de) ʿAlhā, comme blé bon, propre
+			<lb n="8"/>
+		et nettoyé, quatre ardebs selon la mesure ample, dont la moitié est de deux ardebs. Il lui livrera cela entièrement
+		wheat four artabas according to the ........... measure - the half thereof being two artabas. He will deliver all this
+			<lb n="9"/>
+		(au mois) de ṣafar de l’année cinq cent vingt-six, ou à celui qui le sipplée en lui présentant ce
+		in Ṣafar of the year five hundred and twenty six to him or to whoever should stand in his stead presenting
+			<lb n="10"/>
+		document d’obliggation, sans chercher d’ajournement, ni de prétexte de refus, ni d’invocation d’aucun argument, ni de raison quelconque pour ne pas lui payer
+		this voucher, without any delay, or pretext for refusal, or by bringing forward any argument or plea instead of paying him
+			<lb n="11"/>
+		ce que lui incombe entièrement et complètement, de telle manière qu’il n’en reste rien de repoussé, ni beaucoup ni peu. Il prit à témoin
+		what is incumbent upon him completely and fully, so that there does not remain thereof anything much or little, and he has called witnesses to testify to his obligation respecting it all
+			<lb n="12"/>
+		en rabīʿ I de l’année cinq cent-vingt-sept: A témoigné Yūsuf Ibn ʿĪsā Ibn Ṣāliḥ Ibn Muḥammad de – juste –
+		in Rabîʿ I of the year five hundred and twenty seven. Yûsuf b. ʿÎsâ b. Ṣâliḥ b. Muḥammad is witness to
+			<lb n="14"/>
+		A témoigné ʿĪsā Ibn Ṣāliḥ Ibn Muḥammad Ibn Saʿd Ibn
+		ʿÎsâ b. Ṣâliḥ b. Muḥammad b. Saʿd b.
+			<lb n="15"/>
+		la reconnaissance de celui qui a reconnu son contenu, et il écrivit en sa date.
+		the acknowledgment by the acknowledger respecting that which (is contained) herein and he has written (it) on its date.
+			<lb n="16"/>
+		al-Ḫaṭīb de la reconnaissance de celui qui a reconnu son contenu [...],
+		al-Ḫaṭîb is witness to the acknowledgment by the acknowledger respecting that which (is contained) herein ......
+			<lb n="17"/>
+		and he has written (it) on its date. Valid.
+		et il écrivit à sa date.
+</ab></div>
+</body>
+</text>
+</TEI>

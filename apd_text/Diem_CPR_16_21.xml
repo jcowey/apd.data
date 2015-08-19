@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1148" xml:id="Diem_CPR_16_21" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 21</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_21</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168998</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أنعم اللّه صباحك وأطال بقاك 
+<lb n="3"/>  وجّه إلي أعزّك اللّه الدّنانير أدفعها 
+<lb n="4"/>  إلى بقام القسطال وأجزع إلى المبفع 
+<lb n="5"/>  <sic n="superfluous">أطّا</sic><supplied reason="omitted" cert="high">اطلع</supplied> النّموذجات إلى أن أدفع 
+<lb n="6"/>  إلى بقام الدّنانير والجعل إن شا اللّه 
+<lb n="7"/>  أنعم اللّه صباحك وأطال بقاك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾanʿama ăl lāhu ṣabāḥa ka wa ʾaṭāla baqāʾa ka 
+ <lb n="3"/>waǧǧih ʾilay ya ʾaʿazza ka ăl lāhu ăd danānīra ʾadfaʿu hā 
+ <lb n="4"/>ʾilà baqāma ăl qusṭāli wa ʾaǧzaʿu ʾilà ăl mBFʿi 
+ <lb n="5"/>ʾaṭṭaliʿu ăn namūḏaǧāti ʾilà ʾan ʾadfaʿa 
+ <lb n="6"/>ʾilà baqāma ăd danānīra wa ăl ǧuʿla ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ʾanʿama ăl lāhu ṣabāḥa ka wa ʾaṭāla baqāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott schenke Dir einen angenehmen Morgen und lasse Dich lange leben!
+			<lb n="3"/>
+		Sende mir - Gott stärke Dich - die bewußten Dinare, damit ich sie
+			<lb n="4"/>
+		Baqām dem Steuereintreiber aushändigen kann! Ich werde nach al-M- - - hinübergehen,
+			<lb n="5"/>
+		um die Warenmuster genau zu inspizieren, bevor ich
+			<lb n="6"/>
+		Baqām die Dinare und die Vermittlungsgebühr aushändige, so Gott will.
+			<lb n="7"/>
+		Gott schenke Dir einen angenehmen Morgen und lasse Dich lange leben!
+</ab></div>
+</body>
+</text>
+</TEI>

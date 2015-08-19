@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="564" xml:id="Raghib_March_2_38" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 38</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_38</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106705</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمـ</supplied>ـن الرّحيم حفظك اللّه وأبقا<supplied reason="lost" cert="high">ك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">إ</supplied>ليك أبقاك <supplied reason="lost" cert="high">اللّـ</supplied>ـه من الإسكندريّة ليلة <app type="BL"><lem resp="APD">الثّـ<supplied reason="lost" cert="high">ـلثا</supplied> </lem><rdg resp="APD">السّبت</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" extent="7" unit="character" /> ألّا <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">سيتكلّم</unclear> </lem><rdg resp="APD">سيتعلّم </rdg><rdg resp="APD">يستعلم
+</rdg></app> إلى <app type="BL"><lem resp="APD">أجر </lem><rdg resp="APD">أجر</rdg></app> <app type="BL"><lem resp="APD">الرّياط </lem><rdg resp="APD">الرّباط</rdg></app> وهو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <gap reason="illegible" extent="6" unit="character" /> <supplied reason="lost" cert="high">أبقاك</supplied> اللّه فانظري إن ستغزلي لي كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" extent="6" unit="character" /> ردائي وذلك أنّي ألبست الجارية الّذ<supplied reason="lost" cert="high">ي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">فانظري</supplied> <supplied reason="lost" cert="high">أبقـ</supplied>ـاك اللّه أن لا تتواني في الثّوب فإنّي أحتاج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  <gap reason="illegible" extent="6" unit="character" /> كلّها فاكتبي إلي أنّك قبضتـ<supplied reason="lost" cert="high">ـيها</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <gap reason="illegible" extent="6" unit="character" /> أو بعده بيومين بقدر ما <gap reason="illegible" extent="1" unit="character" />وا<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  <gap reason="illegible" extent="6" unit="character" /> واللّه محمود فأبلغ أبا إسحاق <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  <gap reason="illegible" extent="8" unit="character" /> وأبقا<supplied reason="omitted" cert="high">ك</supplied> والسّلم عليك ورحمته وبركـ<supplied reason="lost" cert="high">ـاته</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> هـ<gap reason="illegible" extent="2" unit="character" /> لا <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> في <gap reason="illegible" extent="2" unit="character" /> فا<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso"/>  إلى أبي عدي ثابت بن أحمد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥafiẓa ki ăl lāhu wa ʾabqā ki *** 
+ <lb n="2"/>kitāb ī ʾilay ki ʾabqā ki ăl lāhu mina ăl ʾiskandariyyaẗi laylaẗa ăṯ ăs ṯulāṯāʾi sabti *** 
+ <lb n="3"/>******* ʾallā sa yatakallama yataʿallama yastaʿlima ʾilà ʾāḫiri ʾaǧri ăr ribāṭi riyāṭi wa huwa *** 
+ <lb n="4"/>****** ʾabqā ki ăl lāhu fa ŭnẓurī ʾin sa taġzilī l ī k*** 
+ <lb n="5"/>****** ridāʾ ī wa ḏālika ʾann ī ʾalbastu ăl ǧāriyaẗa ăllaḏī *** 
+ <lb n="6"/>fa ŭnẓurī ʾabqā ki ăl lāhu ʾan lā tatawānī fī ăṯ ṯawbi fa ʾinn ī ʾaḥtāǧu *** 
+ <lb n="7"/>****** kull hā fa ŭktubī ʾilay ya ʾanna ki qabaḍtī hā *** 
+ <lb n="8"/>****** ʾaw baʿda hu bi yawmayni bi qadri mā *wʾ* *** 
+ <lb n="9"/>****** wa ăl lāhu maḥmūd:un fa ʾablaġa ʾabā ʾisḥāqa *** 
+ <lb n="10"/>******** wa ʾabqā ki wa ăs salāmu ʿalay ki wa raḥmatu hu wa barakātu hu *** 
+ <lb n="11"/>*** **** h** lā ** ** fī ** f***** 
+ <lb n="12"/>*** ** **** ** *** 
+ <lb n="13"/>ʾilà ʾabī ʿadiyy:in ṯābiti bni ʾaḥmada 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, clé]ment et miséricordieux! Que Dieu te garde et [te] conserve! [
+			<lb n="2"/>
+		[Je t&#039;écris] - que [Dieu] te conserve! d&#039;Alexandrie, la nuit du mardi [
+			<lb n="3"/>
+		[....] .... les derniers voiles. Il est [
+			<lb n="4"/>
+		 [.... - que] Dieu [te conserve]! Tâche, si tu tisses pour moi. [
+			<lb n="5"/>
+		[....] ma cape et cela parce que j&#039;ai vêtu l&#039;esclave de celle [
+			<lb n="6"/>
+		[Tâche - que] Dieu te [conserve]! de `ne pas´ tarder (à m&#039;envoyer) la pièce d&#039;étoffe, car j&#039;ai besoin [
+			<lb n="7"/>
+		[....] tous. Ecris-moi que tu en a pris possession [
+			<lb n="8"/>
+		[....] ou deux jours après dans la mesure où .... [
+			<lb n="9"/>
+		[....] Dieu soit loué! Il a averti Abū Isḥāq [
+			<lb n="10"/>
+		[....] .. et &lt;te&gt; conserve! Que le salut soit sur toi, ainsi que Sa miséricorde et Ses béné[dictions!
+			<lb n="11"/>
+			<lb n="13"/>
+		A Abū ʿAdī Ṯābit b. Aḥmad.
+</ab></div>
+</body>
+</text>
+</TEI>

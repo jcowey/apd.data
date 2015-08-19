@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1261" xml:id="David-WeillCahen_Louvre_24" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 24</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_24</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169089</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="recto 2"/>  براه لكنانة بن حمير الرّحاني من خمسة د<supplied reason="lost" cert="high">نانيـ</supplied>ـر عطا أم أبان 
+ <lb n="recto 3"/>  بنت أبي الرّيان دفعها أرفع بن حكيم إلى يزيد بن مقسّم فقد <app type="BL"><lem resp="APD">تدين </lem><rdg resp="“Khan”">برئ</rdg></app> 
+ <lb n="recto 4"/>  منها كنانة بن حمير وأرفع بن حكيم إلى يزيد بن مقسّم 
+ <lb n="recto 5"/>  الحضرمي شهد سوم بن عبد الرّحمن التجيبي وعبد اللّه بن أبي 
+ <lb n="recto 6"/>  فاطمة وأبي بكر بن أبي المجاهد وسلام مولى يزيد بن مقسّم وكـ<supplied reason="lost" cert="high">ـتب</supplied> 
+ <lb n="recto 7"/>  في مستهل شعبان سنة ثلث وعشرين ومائة 
+ <lb n="verso 1"/>  براه لكنانة بن حمير 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li kinānaẗa bni ḥimyara ăr riḥāniyyi min ḫamsaẗi danānīra ʿaṭāʾa ʾummi ʾabāna 
+ <lb n="3"/>binti ʾabī ăr riyāni dafaʿa hā ʾarfaʿu bnu ḥakīm:in ʾilà yazīda bni muqassam:in fa qad tudīnu bariʾa 
+ <lb n="4"/>min hā kinānaẗa bna ḥimyara wa ʾarfaʿa bna ḥakīm:in ʾilà yazīda bni muqassam:ini 
+ <lb n="5"/>ăl ḥaḍramiyyi šahida sawmu bnu ʿabdi ăr raḥmāni ăt tuǧībiyyu wa ʿabdu ăl lāhi bnu ʾabī 
+ <lb n="6"/>fāṭimaẗa wa ʾabī bakri bni ʾabī ăl muǧāhidi wa salām:un mawlà yazīda bni muqassam:in wa kutiba 
+ <lb n="7"/>fī mustahalli šaʿbāna sanaẗa ṯalāṯ:in wa ʿišrīna wa miʾaẗ:in 
+ <lb n="8"/>barāʾaẗ:un li kinānaẗa bni ḥimyara 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément et miséricordieux.
+		 <lb n="2"/>
+ 	  Quittance à Kināna b. Ḥimyar al-Rihānī (?) de 5 dinars don de Umm Abān
+		 <lb n="3"/>
+ 	  bint al-Riyān (?), qu&#039;a payés Arfaʿ b. Ḥakīm à Yazīd b. Muqassam (?), dette
+		 <lb n="4"/>
+ 	  que Kināna b. Ḥimyar et Arfaʿ b. Yazīd avaient contractée envers Yazīd b. Muqassam
+		 <lb n="5"/>
+ 	  al-Ḥadramī. - Témoignage de Sawm b. ʿAbdarraḥmān al-Tudjībī et de ʿAbdallāh b. abī
+		 <lb n="6"/>
+ 	  Fāṭima et d&#039;Abu Bakr b. abīʾl-Mudjāhid et de Salām mawlā de Yazīd b. al-Muqassam. Écrit
+		 <lb n="7"/>
+ 	  au début de shaʿbān de l&#039;an 123.
+		 <lb n="8"/>
+ 	  Quittance à Kināna b. Ḥimyar
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

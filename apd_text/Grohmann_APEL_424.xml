@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1923" xml:id="Grohmann_APEL_424" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 424</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_424</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169660</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="APD">‮حيّان </lem><rdg resp="APD">‮حبّان </rdg><rdg resp="‭For all variants see P.Cair.Arab. VI p. 210">‮جنان</rdg></app> ‪‪πδ‬ 
+<lb n="2"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/>د الـمعدني ‪ιβχ‬ ‪ιηʹχ‬ ‪ι<unclear reason="undefined" cert="high">α</unclear>γʹχ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه الرّحمن الرّحيم 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن قلمون درهمين ‪ιγςʹ‬ <supplied reason="lost" cert="high">‪χ‬</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮يخرج من ذلك ‪χ‬<gap reason="illegible" precision="low" extent="3"/>‪ιζ‬ 
+<lb n="7"/>  ‮المراش ‪χηʹ‬ يرعة ‪͵γʹ‬ خبيصة ‪χϰʹδʹχ‬ جاوش ‪χιε‬ 
+<lb n="8"/>  ‮نطرون ‪χηʹ‬ سرج ‪͵ιε‬ أفوه ‪͵ι‬ زيت ‪‬ 
+<lb n="9"/>  ‮بنك ‪͵ιε‬ <unclear reason="undefined" cert="high">دينر</unclear> <unclear reason="undefined" cert="high">الحما</unclear> ‪δ‬ سلقون ‪͵β‬ لبن ‪ϰʹδʹχ‬ بقي ‪ζχ‬ 
+<lb n="10"/>  ‮الوزن ‪ιγςʹ‬ 
+<lb n="11"/>  ‮الميزان ‪ηʹ‬ جاوش ‪ιε‬ نطرون ‪ε‬<supplied reason="lost" cert="high">‪ι‬</supplied> 
+<lb n="12"/>  ‮زيت ‪ος‬ لبن ‪ϰʹδʹ‬ <gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">‪χς‬</unclear> 
+<lb n="13"/>  ‮ـ‪ιβ‬ ‪λβ‬ 
+<lb n="14"/>  ‮‪λβ‬ <gap reason="illegible" precision="low" extent="3"/> ‪α‬ ‪αχ‬ ‪βχ‬ بقي ‪ιχ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ḥabbānu ḥayyānu ǧinānu ‪‪84 
+ <lb n="2"/>***d ăl maʿdaniyy ‪12 1/2 ‪10 1/8+1/48 ‪11 1/3+1/48 *** 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>*** *** 
+ <lb n="5"/>*** bn qalamūna dirhamayni ‪13 1/6 ‪1/48 *** 
+ <lb n="6"/>yaḫruǧu min ḏālika 17 *** +1/48 
+ <lb n="7"/>ăl marāššu ‪1/8 yarʿaẗ:un ‪1/3 ḫabīṣaẗ:un ‪1/24+1/48 ǧāwiš:un ‪15 
+ <lb n="8"/>naṭrūn:un ‪1/8 sarǧ:un ‪15‬ ʾafwāh:un ‪10 zayt:un 48 
+ <lb n="9"/>bunk:un ‪15 dīnāru ăl ḥumāʾi ‪2 salaqūn:un ‪2 laban:un ‪1/24 baqiya ‪7 2/3 
+ <lb n="10"/>ăl waznu ‪13 1/6 
+ <lb n="11"/>ăl mīzānu ‪1/8 ǧāwiš:un ‪15 naṭrūn:un ‪15 
+ <lb n="12"/>zayt:un ‪76 laban:un ‪1/24 **** ‪96 
+ <lb n="13"/>‪12 ‪32 
+ <lb n="14"/>32 *** 1 1 1/2 2 1/2 baqiya 10 2/3 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ḥayyân 84
+			<lb n="2"/>
+		[...]d al-Maʿdanî 12 1/2 10 1/8+1/48 11 1/3+1/48[......]
+			<lb n="3"/>
+		[In the name of G]od, the Compassionate, the Merciful.
+			<lb n="4"/>
+			<lb n="5"/>
+		[So and So, so]n of Qalamûn two dirhams 13 1/6 [... 1/48]
+			<lb n="6"/>
+		Paid out thereof 17 [...] 1/48
+			<lb n="7"/>
+		Watering-vessels 1/8, a female calf 1/3, almond jelly 1/24+1/48, plate of rice 15
+			<lb n="8"/>
+		natron 1/8, riding-saddle 15, aromatics 10, olive-oil〚32〛48
+			<lb n="9"/>
+		nascaphthon 15, the fee for the protected area (?) 2, milk 1/24, balance 7 2/3
+			<lb n="10"/>
+		The weight 13 1/6
+			<lb n="11"/>
+		the balance 1/8, plate of rice 15, natron 15
+			<lb n="12"/>
+		olive-oil 76, milk 1/24 [............] 96 (?)
+			<lb n="13"/>
+		12, 32
+			<lb n="14"/>
+		32 [...] 1, 1 1/2, 2 1/2, balance 10 2/3.
+</ab></div>
+</body>
+</text>
+</TEI>

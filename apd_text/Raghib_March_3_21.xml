@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="676" xml:id="Raghib_March_3_21" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 21 (= P.Berl.Arab. II 45)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_21</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106761</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">أكرمك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كـ</supplied>ـرامة </lem><rdg resp="Diem">كرامته</rdg></app> <app type="BL"><lem resp="APD">المتّقـ<sic n="superfluous">ـيـ</sic>ـنن </lem><rdg resp="Diem">المتّقيين</rdg></app> وجعـ<supplied reason="omitted" cert="high">ـلـ</supplied>ـك من الآمنين برحمته 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">وصل</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">كتابك</supplied> وسرّني <app type="BL"><lem resp="APD">علم </lem><rdg resp="Diem">صلح</rdg></app> خبرك وبضاعة فيها سبعة 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لا <gap reason="illegible" precision="low" extent="3"/> لا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1 right"/>  لأبي هريرة أكرمه اللّه 
+<lb n="verso 2 right"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="verso 1 left"/>  من <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu karāmaẗa karāmata hu ăl muttaqīna muttaqiyīna wa ǧaʿala ka mina ăl ʾāminīna bi raḥmati hi 
+ <lb n="3"/>waṣala ʾilay ya kitābu ka wa sarra nī ʿilmu ṣāliḥu ḫabari ka wa biḍāʿaẗ:un fī hā sabʿaẗu 
+ <lb n="4"/>*** *** lā *** lā *** *** 
+ <lb n="5"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu 
+ <lb n="6"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="7"/>min *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu] clément et miséricordieux!
+		[Im Namen] Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[Gott ehre Dich] in seiner Gnade so, wie er ehrt die Frommen, und gebe Dir einen Platz unter denen, denen das Fürchten ist genommen!
+		[Que Dieu t&#039;honore de l&#039;hon]neur des pieux et te rende au nombre de ceux qui n&#039;ont rien à redouter par Sa miséricorde!
+			<lb n="3"/>
+		[Ich habe Deinen Brief erhalten,] und es hat mich die treffliche Nachricht über Dich gefreut, ferner ein Ballen (?) mit sieben
+		[Ta lettre m&#039;est parvenue] me donnant de tes nouvelles qui m&#039;ont réjoui, ainsi qu&#039;une balle contenant sept
+			<lb n="4"/>
+			<lb n="5"/>
+		À Abū Hurayra - que Dieu l&#039;honore!
+		An Abū Hurayrah - Gott ehre ihn -
+			<lb n="6"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+		Ǧaʿfar ibn Aḥmad ib[n] ʿAbdalmuʾmi[n]
+			<lb n="7"/>
+		De la part de [
+		vo[n
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1059" xml:id="Diem_FrueheUrkunden_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 07</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168927</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كتاب</supplied> </lem><rdg resp="Rogers">أمر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="APD">براءة</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مو</supplied>سى </lem><rdg resp="Rogers">ø</rdg></app> پن مصعب <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عـ</supplied>ـامل </lem><rdg resp="Rogers"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">امپر</supplied> </lem><rdg resp="Rogers">المهدي</rdg></app> <supplied reason="lost" cert="high">ألموميپن</supplied> 
+<lb n="3"/>  أ<supplied reason="lost" cert="high">طال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقـ</supplied>ـاه على خراج مصر وجميع أّعـ<supplied reason="lost" cert="high">ـمالها</supplied> 
+<lb n="7"/>  إن 
+<lb n="8"/>  على <supplied reason="lost" cert="high">خـ</supplied>ـراج جماجم أنباط كورة <gap reason="illegible" precision="low" extent="3"/> وجواليها 
+<lb n="9"/>  <supplied reason="lost" cert="high">وأنبـ</supplied>ـاطها وجميع من يسـ<supplied reason="lost" cert="high">ـكـ</supplied>ـنها من <supplied reason="lost" cert="high">أ</supplied>ـهل الذّمّة <app type="BL"><lem resp="APD">قبضا </lem><rdg resp="“Khan”">قبضنا</rdg></app> 
+<lb n="10"/>  <supplied reason="lost" cert="high">منـ</supplied>ـك من جزية رأسـك <supplied reason="lost" cert="high">لسنة</supplied> ثما<supplied reason="lost" cert="high">ن</supplied> وستّين وماية عشرة دننير 
+<lb n="11"/>  <supplied reason="lost" cert="high">فمن</supplied> <supplied reason="lost" cert="high">لقـ</supplied>ـيه من <app type="BL"><lem resp="APD">عمّالي </lem><rdg resp="“earlier Grohmann”">عوانيّ </rdg><rdg resp="“earlier Grohmann”">عواني</rdg></app> <app type="BL"><lem resp="APD">فلا </lem><rdg resp="“earlier Grohmann”">ولا</rdg></app> يعـ<supplied reason="lost" cert="high">ـر</supplied>ض له إلّا بخير إن شا اللّه وكتب 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> عمر في شهر ربيع الآخر سنة ثما<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">وستّين</supplied> <supplied reason="lost" cert="high">ومائة </supplied>
+<lb n="13 bottom"/>  عشرة دننير 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitābu kitāb:un ʾamru ø barāʾaẗ:in min ø mūsà bni muṣʿab:in *** ʿāmili ăl ø mahdī ʾamīri ăl muʾminīna 
+ <lb n="3"/>ʾaṭāla ăl lāhu baqāʾa hu ʿalà ḫarāǧi miṣra wa ǧamīʿi ʾaʿmāli hā 
+ <lb n="5"/>ø 
+ <lb n="6"/>ø 
+ <lb n="8"/>ø 
+ <lb n="9"/>ʾinna *** *** 
+ <lb n="10"/>ʿalà ḫarāǧi ǧamāǧimi ʾanbāṭi kūraẗi *** wa ǧawālī hā 
+ <lb n="11"/>wa ʾanbāṭi hā wa ǧamīʿi man yaskunu hā min ʾahli ăḏ ḏimmaẗi qabaḍā qabaḍnā 
+ <lb n="12"/>min ka min ǧizyaẗi raʾsi ka li sanaẗi ṯamān:in wa sittīna wa miʾaẗ:in ʿašaraẗa danānīra 
+ <lb n="13"/>fa man laqiya hu min ʿummāl ʿawāniyy:in ʿiwān ī ī ø fa wa lā yaʿriḍ la hu ʾillā bi ḫayr:in ʾin šāʾa ăl lāhu wa kataba 
+ <lb n="14"/>*** bnu ʿumara fī šahri rabīʿa ăl ʾāḫari sanaẗa ṯamān:in wa sittīna wa miʾaẗ:in 
+ <lb n="15"/>ʿašaraẗu danānīra 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et misericordieux.
+		[Im Namen Gottes] des barmherzigen und gnädigen
+			<lb n="2"/>
+		Ceci est un ordre de Mousa, fils de ..... agent d&#039;al Mahdy, Commandeur des croyants
+		[Dies ist ein Schreiben von Mū]sā ibn Muṣʿab, [Be]amter [des Beherrschers der Gläubigen]
+			<lb n="3"/>
+		[- Gott möge ihn lange] leben lassen - über der Grundsteuer von Ägypten und allen [seinen] Di[strikten] 
+		(que son existence soit prolongée) pour les impóts et pours tous les ......
+			<lb n="9"/>
+		Wahrlich [...]
+			<lb n="10"/>
+		über der Grundsteuer der Vornehmen unter den Bauern der Provinz [... und ihren (sc. der Provinz) Kopfsteuern
+			<lb n="11"/>
+		[und] ihren [Bau]ern und allen Schutzgenossen, die in ihr wohnen, erhielten (Dual)
+			<lb n="12"/>
+		[von] Dir von Deiner Kopfsteuer [für das Jahr] einhundertundach[t]udnsechzig zehn Dinare.
+			<lb n="13"/>
+		[Wer] ihm also von meinen Beamten [bege]gnet, soll ihm nur Gutes erweisen, so Gott will. Geschrieben von 
+			<lb n="14"/>
+		[... ibn] ʿUmar im Zweiten Rabīʿ im Jahre [einhundertund]acht[undsechzig].
+			<lb n="15"/>
+		Zehn Dinare
+</ab></div>
+</body>
+</text>
+</TEI>

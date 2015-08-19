@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1733" xml:id="Grohmann_APEL_289" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 289</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_289</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169478</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  من المزارعين <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  لهم فيها شي ا<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن <supplied reason="lost" cert="high">يـ</supplied>ـستفضلوه نقد الزّريعة والنّفقة والخراج قبض <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  فقد كشفت <gap reason="illegible" extent="5" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـه وإنّما عجّلت إليك سابق لتعجّل علينا بكتاب من <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  هذا وشبهه وا<supplied reason="lost" cert="high">لـ</supplied>ـكف <app type="BL"><lem resp="APD">في </lem><rdg resp="Diem, Review P.Cair.Arab. V÷ ʿan corrected over fī">عن</rdg></app> الخراج إلى أن يأتيه كتاب <app type="BL"><lem resp="APD">بالورد </lem><rdg resp="Diem, Review P.Cair.Arab. V">بالوزن</rdg></app> وأمرني أحصي النّخل <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="5"/>  والمـ<supplied reason="lost" cert="high">ـ<unclear reason="undefined" cert="high">ـر</unclear></supplied>په في الجزيرة و<supplied reason="lost" cert="high">كان</supplied> أحمد بن الحسين الكوفي حاضر فقدّمته فشَهد أبيب دييسي يودى الخراج إلى هيوه 
+<lb n="6"/>  من ضياع <supplied reason="lost" cert="high">شـ</supplied>ـرف <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>عبثر </lem><rdg resp="APD">وعنبر </rdg><rdg resp="APD">وعبثر</rdg></app> بن إبرهيم <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">لـ</supplied>ـدّغشي </lem><rdg resp="APD">الدّعي </rdg><rdg resp="APD">الدّپحسيّ</rdg></app> أشهد <del rend="erasure" status="unremarkable">هم</del> <del rend="erasure" status="unremarkable">لر</del><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـ</del></supplied><del rend="erasure" status="unremarkable">ـع</del> <del rend="erasure" status="unremarkable">عـ</del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـ</del></supplied><gap reason="illegible" extent="1" unit="character" /><del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـ</del></supplied><del rend="erasure" status="unremarkable">ـن</del> <del rend="erasure" status="unremarkable">سهادپه</del> وأرجوا عون اللّه إلّا أنّه أثبت 
+<lb n="7"/>  <supplied reason="lost" cert="high">شهـ</supplied>ـادته فلم پپڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـم <app type="BL"><lem resp="APD">مـ<supplied reason="lost" cert="high">ـ<unclear reason="undefined" cert="high">ـنـ</unclear>ــ</supplied>ـه </lem><rdg resp="APD">فيه</rdg></app> عندما رجع وأنا في طلب الشّهود وعندك سعيد بن ليث وعبد الرّحمن بن الحسن بن الحسين 
+<lb n="8"/>  وأبو قرود وبقطر من أهل الفسطا<supplied reason="lost" cert="high">ط</supplied> والرّيف وأبو الـ<supplied reason="lost" cert="high">ـخـ</supplied>ـلّال وغـ<supplied reason="lost" cert="high">ـير</supplied>ه فاذكر ما كتبت به إليك من أخذ كتاب 
+<lb n="9"/>  إلى أبي محمّد حفظه اللّه وقد دفعت كتاب أبو نصر إلى أبي العبّاس فكتب لنا بكلّما يجب من الأوّل <supplied reason="lost" cert="high">في</supplied> الحصاد وحملان 
+<lb n="10"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الطّحّانة</unclear> </lem><rdg resp="Diem, Review P.Cair.Arab. V">العجل</rdg></app> وهذا أبو محمّد قد أمر أيضا بالحصاد وقد صبر عندنا صاحب <supplied reason="lost" cert="high">الأرض</supplied> فعندنا ساعة كتبت إليك رجلين صاحبي 
+<lb n="11"/>  الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـر من أبي العبّاس وكيل ومن قـ<supplied reason="lost" cert="high">ـبـ</supplied>ـل أبي محمّد رجل ولا بد من رجل آخر وكيل وكاتب في كل ضيعة مع المتقبّل فقد <sic n="superfluous">ڤپ</sic> <supplied reason="omitted" cert="high">كتبت</supplied> 
+<lb n="12"/>  لك ما عرفته وأنا رأيت في الحفا والشّعير <app type="BL"><lem resp="APD">واللّه </lem><rdg resp="Diem, Review P.Cair.Arab. V">فاللّه</rdg></app> اللّه <app type="BL"><lem resp="APD">القوي </lem><rdg resp="Diem, Review P.Cair.Arab. V">المقوّي</rdg></app> برحمته <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـف العدس اشترى لنا <app type="BL"><lem resp="APD"><gap reason="illegible" extent="10" unit="character" /> </lem><rdg resp="Diem, Review P.Cair.Arab. V">سيسبان</rdg></app> 
+<lb n="13"/>  واسعا <app type="BL"><lem resp="APD">كبيرا </lem><rdg resp="Diem, Review P.Cair.Arab. V">كبيرا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Diem, Review P.Cair.Arab. V">وثلثة</rdg></app> للبوّاب وغيره وعجّل علينا بالحمل الآخر فإنّما <supplied reason="lost" cert="high">الإخر</supplied>اج إليه والعمل علينا كثير ذكرت كثرة 
+<lb n="14"/>  <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem, Review P.Cair.Arab. V “reconstructed”">ما</rdg></app> عندك <unclear reason="undefined" cert="high">وكتب</unclear> الحسابات <app type="BL"><lem resp="APD">ليبيّن </lem><rdg resp="Diem, Review P.Cair.Arab. V">ليس</rdg></app> أنّه صاحب خراج ولا <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">حا</supplied>جة </lem><rdg resp="Diem, Review P.Cair.Arab. V">صاحب</rdg></app> <app type="BL"><lem resp="APD">ومع </lem><rdg resp="APD">ريع</rdg></app> أن كان <app type="BL"><lem resp="APD">فإنّك </lem><rdg resp="APD">رأيك</rdg></app> تبعث بوليد فابعث به ورجل 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا فإن موسى لا يقدر <app type="BL"><lem resp="APD">يفرّج </lem><rdg resp="Diem, Review P.Cair.Arab. V">يبرح</rdg></app> جرون بليت مع <sic n="superfluous">اپو</sic> أبي زكري فاعلم ذلك <app type="BL"><lem resp="APD">فمر </lem><rdg resp="Diem, Review P.Cair.Arab. V">مر</rdg></app> أبقاك اللّه الكتاب إلي بخبرك وحالك 
+<lb n="16"/>  وبما أحببت <app type="BL"><lem resp="APD">وبما </lem><rdg resp="Diem, Review P.Cair.Arab. V">وبدا</rdg></app> <app type="BL"><lem resp="APD">ذلك </lem><rdg resp="Diem, Review P.Cair.Arab. V">لك</rdg></app> <app type="BL"><lem resp="APD">ينبغي </lem><rdg resp="Diem, Review P.Cair.Arab. V">أنتهي</rdg></app> إليه إن شا اللّه حفظك اللّه وأبقاك وأتم نـ<supplied reason="lost" cert="high">ـعمـ</supplied>ـته عليك وكرامته لك وكتبت يوم الجمعة 
+<lb n="17"/>  بعد العصر وقد بعثت إليك بجواب كتاب الرّجل الّذي يسكن في دار رواح بإكسا <app type="BL"><lem resp="APD">فأوصلت </lem><rdg resp="Diem, Review P.Cair.Arab. V">فأوصله</rdg></app> <sic n="superfluous">الپه</sic> <app type="BL"><lem resp="APD">إلي </lem><rdg resp="Diem, Review P.Cair.Arab. V÷ ʾilayhi is corrected for ʾilayya">إليه</rdg></app> إن شا اللّه 
+<lb n="18"/>  والنّورج الّذي بعث به عبد القائم ما يسوا قليل ولا كثير إنّما هو طين وقد أردت البعث به إليك لو أحببت 
+<lb n="19"/>  ا<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـر<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> قطران جيّد <unclear reason="undefined" cert="high">پرڤى</unclear> لا تشتري مثل هذا القطران <gap reason="illegible" extent="4" unit="character" /> فإنّه <app type="BL"><lem resp="APD">و<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـعپ </lem><rdg resp="APD">پـ<gap reason="illegible" extent="1" unit="character" />ـفپ </rdg><rdg resp="APD">ر<gap reason="illegible" extent="1" unit="character" />ـعت</rdg></app> ردي لا خير فيه من <gap reason="illegible" precision="low" extent="3"/> على ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>mina ăl muzāriʿīna *** ****** ****** *** *** *** *** 
+ <lb n="2"/>la hum fī hā šayʾ:un ʾ***n yastafḍilū hu naqda ăz zarīʿaẗi wa ăn nafaqaẗi wa ăl ḫarāǧi qabaḍa *** 
+ <lb n="3"/>fa qad kašaftu *****h wa ʾinnamā ʿaǧǧaltu ʾilay ka sābiq li tuʿaǧǧila ʿalay nā bi kitāb:in min *** **** *** 
+ <lb n="4"/>hāḏā wa šibh hu wa ăl kaff fī ʿani ăl ḫarāǧi ʾilà ʾan yaʾtiya hu kitāb:un bi ăl wirdi wazni wa ʾamara nī ʾuḥṣī ăn naḫla ***** **** 
+ <lb n="5"/>wa ăl mrBh fī ăl ǧazīraẗi wa kāna ʾaḥmadu bnu ăl ḥusayni ăl kūfiyyu ḥāḍir:un fa qaddamtu hu fa šahida ʾabību diyīsī yuʾaddī ăl ḫarāǧa ʾilà haywaha 
+ <lb n="6"/>min ḍiyāʿi šaraf:in wa ʿabṯara ʿanbara ʿantara bni ʾibrāhīma ăd daġšiyyi dāʿī dBḥsyyi ʾašhada hum wa ʾarǧū ʿawna ăl lāhi ʾillā ʾanna hu ʾaṯbata 
+ <lb n="7"/>šahādata hu fa lam BBf*m min fī hu hi ʿindamā raǧaʿa wa ʾanā fī ṭalabi ăš šuhūdi wa ʿinda ka saʿīdu bnu layṯ:in wa ʿabdu ăr raḥmāni bnu ăl ḥasani bni ăl ḥusayni 
+ <lb n="8"/>wa ʾabū qurūda wa buqṭuru min ʾahli ăl fusṭāṭi wa ăr rīfi wa ʾabū ăl ḫallāli wa ġayru hu fa ŭḏkur mā katabtu bi hi ʾilay ka min ʾaḫḏi kitāb:in 
+ <lb n="9"/>ʾilà ʾabī muḥammad:in ḥafiẓa hu ăl lāhu wa qad dafaʿtu kitāba ʾabū naṣr:in ʾilà ʾabī ăl ʿabbāsi fa kataba la nā bi kulli mā yaǧibu mina ăl ʾawwali fī ăl ḥiṣādi wa ḥamlāni 
+ <lb n="10"/>ăṭ ăl ṭaḥḥānaẗi ʿaǧali wa hāḏā ʾabū muḥammad:in qad ʾamara ʾayḍ:an bi ăl ḥiṣādi wa qad ṣabara ʿinda nā ṣāḥibu ăl ʾarḍi fa ʿinda nā sāʿaẗa katabtu ʾilay ka raǧulayni ṣāḥibay 
+ <lb n="11"/>ăl ḥ*r min ʾabī ăl ʿabbāsi wakīl:un wa min qibali ʾabī muḥammad:in raǧul:un wa lā budda min raǧul:in ʾāḫara wakīl:in wa kātib:in fī kulli ḍayʿaẗ:in maʿa ăl mutaqabbili fa qad katabtu 
+ <lb n="12"/>la ka mā ʿaraftu hu wa ʾanā raʾaytu fī ăl ḥfʾ wa ăš šaʿīri wa fa ăl lāhi lāhu ăl lāhu ăl qawiyyu muqawwī bi raḥmati hi ***f ăl ʿadas ĭštirī la nā ********** saysabān ø 50 ø *** 
+ <lb n="13"/>wāsiʿ:an kabīr:an kaṯīr:an **** wa **** ṯalāṯaẗ:an li l bawwābi wa ġayri hi wa ʿaǧǧil ʿalay nā bi ăl ḥamli ăl ʾāḫari fa ʾinnamā ăl ʾiḫrāǧu ʾilay hi wa ăl ʿamalu ʿalay nā kaṯīr:un ḏakartu kaṯraẗa kaṯraẗ:an 
+ <lb n="14"/>min mā ʿinda ka wa kataba ăl ḥisābāti li laysa yubayyina ʾanna hu ṣāḥibu ḫarāǧ:in wa lā ḥāǧaẗa ṣāḥibu wa rayʿ:in maʿa ʾan kāna fa raʾyu ʾinna ka tabʿaṯu bi walīd:in fa ĭbʿaṯ bi hi wa raǧul 
+ <lb n="15"/>***ʾ fa ʾinna mūsà lā yaqdiru yufarriǧu yabraḥu ǧurūna balīta maʿa ʾabī zikrī fa ĭʿlam ḏālika fa ø mur ʾabqā ka ăl lāhu ăl kitāba ʾilay ya bi ḫabari ka wa ḥāli ka 
+ <lb n="16"/>wa bi mā ʾaḥbabta wa bi badā mā ḏālika la ø ka yanbaġī ʾantahiya ʾilay hi ʾin šāʾa ăl lāhu ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾatamma niʿmata hu ʿalay ka wa karāmata hu la ka wa katabtu yawma ăl ǧumʿaẗi 
+ <lb n="17"/>baʿda ăl ʿaṣri wa qad baʿaṯtu ʾilay ka bi ǧawābi kitābi ăr raǧuli ăllaḏī yaskunu fī dāri rawāḥa bi ʾiksā fa ʾawṣalta ʾawṣil ø hu ʾilay ya hi ʾin šāʾa ăl lāhu 
+ <lb n="18"/>wa ăn nawraǧu ăllaḏī baʿaṯa bi hi ʿabdu ăl qāʾimi mā yaswā qalīl wa lā kaṯīr ʾinnamā huwa ṭīn:un wa qad ʾaradtu ăl baʿṯa bi hi ʾilay ka law ʾaḥbabta 
+ <lb n="19"/>ʾ*r* *** qaṭrān ǧayyid Brfy lā taštarī miṯla hāḏā ăl qaṭrāni **** fa ʾinna hu w*ʿB B*fB r*ʿt radīʾ:un lā ḫayra fī hi min *** ʿalà ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		of the cultivators [...] ............................................ [
+			<lb n="2"/>
+		for them therein anything [which ... ... ... ...] they have spared as a surplus for the cash payment of seeds, maintenance and land-tax. He has taken over [... ... ... ... ... ...]
+			<lb n="3"/>
+		So I have already examined ... [...] ... and I hastened only to be in advance that you may hasten (to send) unto us a letter ... ... [...] ... ... [
+			<lb n="4"/>
+		this and the like (?) and the hampering respecting the land-tax, till a letter (announcing his) arrival comes to him; and he ordered me to number the palm-trees [...] ... [...] ... [...]
+			<lb n="5"/>
+		.... in the island, while Aḥmad b. al-Ḥusain, originating from al-Kûfa, was present. So I sent for him. So he saw Epip Deesi paying the land-tax to Heu
+			<lb n="6"/>
+		from the estates of [Ša]raf [and] ʿAntar b. Ibrahim a[d]-Daġšî. He called 〚them to witness to ...... his testimony〛 and I hope for Go[d&#039;]s help; yet he has affirmed
+			<lb n="7"/>
+		his [tes]timony, but he had not ... ... while he returned and I am searching for the witnesses, while there are with you Saʿîd b. Laiṯ, ʿAbd ar-Raḥmân b. al-Ḥasan b. al-Ḥusain
+			<lb n="8"/>
+		and Abû Qurûd and Victor from the people of al-Fusṭâ[ṭ] and ar-Rîf and Abû&#039;l-[Ḫa]llâl and o[the]rs. Now bear in mind what I have written to you about taking a letter
+			<lb n="9"/>
+		to Abû Muḥammad, may God protect him. And I have already handed over the letter of Abû Naṣr to Abu&#039;l-ʿAbbâs. Now he wrote to us about all that is necessary from the beginning in respect to the cutting (of the corn) and the porterage of the
+			<lb n="10"/>
+		mill. And this Abû Muḥammad has ordered once more to cut (the corn). Now the [land]lord already stood with us. So there are with us at the moment, when I wrote to you, two men, proprietors of
+			<lb n="11"/>
+		... ...: from the side of Abu&#039;l-ʿAbbâs an agent and fr[o]m Abû Muḥammad one man, and there must certainly be another man, an agent and a clerk in each estate together with the tenant. Now I have already written
+			<lb n="12"/>
+		to you what I have learned; and I thought concerning the papyrus and barley - by God, God is mighty in his charity -  the lentils, buy for us (?)
+			<lb n="13"/>
+		liberally, richly ... ... ... ... for the door-keeper and others, and convey speedily the other load to us; yet the delivery to him and the work we have to do is much. I mentioned much of it
+			<lb n="14"/>
+		from your side, and he wrote the accounts to make it clear that he is a director of finance, and we do not [n]eed anything else considering what has (already) happened. And when you send Walîd, send with him and a man
+			<lb n="15"/>
+		[...] ... But verily Mûsâ is not able to open the barns of Palît together with Abû Zikrî. So take note of this and give order - may God preserve you - to write to me about your news and your state (of health)
+			<lb n="16"/>
+		and what you like and what is suitable to you, if God wills. May God protect and exalt you and complete his favour towards you and his benefit unto you, and it has been written on Friday
+			<lb n="17"/>
+		after the afternoon prayer. And I have already sent you the answer to the letter of the man, who dwells in the house of Rawâḥ in Iksâ (?); so deliver it to me, if God wills.
+			<lb n="18"/>
+		And the threshing-sledge, which ʿAbd al-Qâʾim has sent, is not worth little or much; it is only mud. Now I was already about to send it to you; if you wish
+			<lb n="19"/>
+		... ... ... good (?) pitch (?) ... do not buy (something) like this pitch ... for it is bad ... ..., there is nothing good in it  ... ...
+</ab></div>
+</body>
+</text>
+</TEI>

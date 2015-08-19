@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2057" xml:id="Momblanch_Azraq" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MomblanchAzraq (= P.BarceloAzraq 1 = P.BurnsRendicio = P.BurnsAzraq = P.GuichardValence 68a = P.BurnsTreaties 1)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Momblanch_Azraq</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّٰه الرّحمن الرّحيم صلّى اللّٰه على سيّدنا محمّد وعلى آله 
+<lb n="2"/>  هاذا ظهير كريم أمر به الملك المعظّم الهمام <app type="BL"><lem resp="APD">الأمنعه </lem><rdg resp="Barceló 1982">الأسْعد</rdg></app> المومل <app type="BL"><lem resp="APD">المرجو </lem><rdg resp="Barceló 1982">المرجؤُ</rdg></app> <app type="BL"><lem resp="APD">الِيُفنت </lem><rdg resp="Chevedden, Guichard">الِيْفنت</rdg></app> دون ألفنش ابن الملك المعظّم <app type="BL"><lem resp="APD">المؤَپه </lem><rdg resp="Barceló 1982, Chevedden, Guichard">المؤَيّد</rdg></app> صَاحب أرغون 
+<lb n="3"/>  على الوزير الأجل <app type="BL"><lem resp="APD">المحسب </lem><rdg resp="Barceló 1982">الحسِيب</rdg></app> <app type="BL"><lem resp="APD">المرفّع </lem><rdg resp="Barceló 1982, Chevedden, Guichard">الأرفع</rdg></app> الأسْمى الأسنى أبُو عبد اللّٰه بن هُذيل أكْرمه اللّٰه أن يصالحوا الملك المعظّم المذكور ثلاثة <app type="BL"><lem resp="APD">أعوام </lem><rdg resp="Chevedden 1983">أعْوام</rdg></app> 
+<lb n="4"/>  من تأريخه <app type="BL"><lem resp="APD">الأن </lem><rdg resp="Barceló 1982, Chevedden">الآن</rdg></app> يذكر في آخر الظّهير وعلى أن يكون متاعه <app type="BL"><lem resp="APD">وحده </lem><rdg resp="Barceló 1982, Chevedden, Guichard">وخديمه</rdg></app> بحصونه وعلى أن يعطي الوزير المذكور إلى الملك 
+<lb n="5"/>  المعظّم المذكور حصنين يدفعها له الآن وهي <app type="BL"><lem resp="APD">بُوبْ </lem><rdg resp="Chevedden">بُوب</rdg></app> <app type="BL"><lem resp="APD">وطَرْبنَة </lem><rdg resp="Chevedden">وَطربنة</rdg></app> وتبقى بقيّة الحصون <app type="BL"><lem resp="APD">يد </lem><rdg resp="APD">بيد</rdg></app> الوزير المذكور هي قشتَالْ <app type="BL"><lem resp="APD">وجُرُولَش </lem><rdg resp="Barceló 1982">وجَرُولَش </rdg><rdg resp="Guichard">وجرُولَش</rdg></app> 
+<lb n="6"/>  <app type="BL"><lem resp="APD">ومرغليطة </lem><rdg resp="Chevedden">ومرْغليطة</rdg></app> والقلعَة <app type="BL"><lem resp="APD">وبَربنجان </lem><rdg resp="Chevedden, Guichard">وبُربنجان</rdg></app> وغَلِّنَيْرة إلى انقضا <app type="BL"><lem resp="APD">اثّلاثة </lem><rdg resp="Barceló 1982, Chevedden, Guichard">ثلاثة</rdg></app> أعْوام ويدفعها الوزير المذكور إلى الملك المعظّم المذكور 
+<lb n="7"/>  <app type="BL"><lem resp="APD">إن </lem><rdg resp="Barceló 1982, Chevedden, Guichard">إذا</rdg></app> انقضات <app type="BL"><lem resp="APD">اثّلاثة </lem><rdg resp="Barceló 1982, Chevedden, Guichard">الثلاثة</rdg></app> أعوام إِلّى حِصن القلعة بفوَآئدهِ وفوآئد قرى بربنجان <app type="BL"><lem resp="APD">تكون </lem><rdg resp="Guichard">يكون</rdg></app> من الآن <app type="BL"><lem resp="APD">مَأَبْدَه </lem><rdg resp="Barceló 1982, Chevedden">مُأَبَّدةْ</rdg></app> إلى الوزير الْمذكُورْ 
+<lb n="8"/>  لَهُ وَلعقِيبَه طول أيّام الملك المعظّم وأن يعطي الملك المعظّم إلى الوزير المذكور فَوآئد <app type="BL"><lem resp="APD">أَبُهْ </lem><rdg resp="Chevedden">أَبُةْ</rdg></app> <app type="BL"><lem resp="APD">وتولة </lem><rdg resp="Chevedden">وتولة</rdg></app> طول الثّلاثة أعوام فإذا 
+<lb n="9"/>  دفع لَه الحُصون المذكورة الّذي هي مرْغَلِيطَة <app type="BL"><lem resp="APD">وَقشتالي </lem><rdg resp="Barceló 1982, Chevedden, Guichard">وَقشتال</rdg></app> وجرولش وغلّنيرَة يدفع له <app type="BL"><lem resp="APD">أَبُةْ </lem><rdg resp="Chevedden">أَبُةْ</rdg></app> <app type="BL"><lem resp="APD">وتُوله </lem><rdg resp="Chevedden">وتُولة</rdg></app> وعلى أن يعطي <app type="BL"><lem resp="APD">للقآئد </lem><rdg resp="APD">للقآيد</rdg></app> 
+<lb n="10"/>  أبو <app type="BL"><lem resp="APD">محمّد </lem><rdg resp="Barceló 1982, Chevedden, Guichard">يحيى</rdg></app> بن <app type="BL"><lem resp="APD">اسحاق </lem><rdg resp="Barceló 1982, Chevedden, Guichard">أبي</rdg></app> صَإحب <app type="BL"><lem resp="APD">قشتال </lem><rdg resp="Guichard">صاحب</rdg></app> الملك المعظم قرئه <app type="BL"><lem resp="APD">اشبالَمْ </lem><rdg resp="Chevedden">قرية</rdg></app> <app type="BL"><lem resp="APD">وبُطرَقْوس </lem><rdg resp="Chevedden 1983">إسبالَمْ </rdg><rdg resp="Guichard">إسبَالمْ</rdg></app> <app type="BL"><lem resp="APD">تكون </lem><rdg resp="Barceló 1982">وبُطرَقْوش</rdg></app> له مَابْدَه <app type="BL"><lem resp="APD">طول </lem><rdg resp="Barceló 1982, Chevedden, Guichard">مُأبَّدة</rdg></app> ايام ألملك له <app type="BL"><lem resp="APD">ولعقيبه </lem><rdg resp="Chevedden 1989, 1999">لهُ</rdg></app> 
+<lb n="11"/>  وأنْ يعطي الوزير للملك المعظّم من الأربعة حُصونْ الّذي يدفع له <app type="BL"><lem resp="APD">ذ </lem><rdg resp="Chevedden">ذا</rdg></app> <app type="BL"><lem resp="APD">الثّلاثة </lem><rdg resp="Chevedden">لثّلاثة</rdg></app> أعْوام نصف <app type="BL"><lem resp="APD">العَشْر </lem><rdg resp="Chevedden, Guichard">العُشْر</rdg></app> <app type="BL"><lem resp="APD">وأشممى </lem><rdg resp="Barceló 1982">وأثمر </rdg><rdg resp="Chevedden, Guichard">وأشّمى</rdg></app> أخذ 
+<lb n="12"/>  الوزير من <app type="BL"><lem resp="APD">خصون </lem><rdg resp="APD">حُصون</rdg></app> <app type="BL"><lem resp="APD">صاحب </lem><rdg resp="Chevedden. lām omitted by scribe.">لصاحب</rdg></app> أرغون أمّا <app type="BL"><lem resp="APD">بقدْرٍ </lem><rdg resp="Barceló 1982">بعدُ</rdg></app> أو باودَادهم <app type="BL"><lem resp="APD">يكون </lem><rdg resp="APD">لوبا</rdg></app> <app type="BL"><lem resp="APD">له </lem><rdg resp="APD">ودَادهم</rdg></app> الوزير ڤيها نصف للفَآئد طول <app type="BL"><lem resp="above the line">الثلاثه </lem><rdg resp="Chevedden, Guichard">الفَآئد</rdg></app> اعوام فاذا 
+<lb n="13"/>  انقضاتْ الثّلاثة أعْوام يدفعها له <app type="BL"><lem resp="APD">مع </lem><rdg resp="Barceló 1982">ø</rdg></app> الأرْبَعة حُصون وكتب في <app type="BL"><lem resp="APD">الخامسْ </lem><rdg resp="Guichard">الخامس</rdg></app> عشر من شهر ذي قعْدة عام اثنِين وأربعين وستّمائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʿalà ʾāli hi 
+ <lb n="2"/>hāḏā ẓahīr:un karīm:un ʾamara bi hi ăl maliku ăl muʿaẓẓamu ăl humāmu ăl ʾamnʿhu ʾasʿadu ăl muʾammalu ăl marǧuwwu marǧuʾu ăl iyufanta iyufantu īfantu dūn ʾalfunša ʾalfunšu ĭbna ĭbnu ăl maliki ăl muʿaẓẓami ăl muʾaBhi muʾayyadi ṣāḥibi ʾaraġūna 
+ <lb n="3"/>ʿalà ăl wazīri ăl ʾaǧalli ăl muḥsabi ḥasībi ăl muraffaʿi ʾarfaʿi ăl ʾasmà ăl ʾasnà ʾabū ʿabdi ăl lāhi bni huḏayl:in ʾakrama hu ăl lāhu ʾan yuṣāliḥ yuṣāliḥū ø ū ăl malika maliku ăl muʿaẓẓama muʿaẓẓamu ăl maḏkūra maḏkūru ṯalāṯaẗa ʾaʿwām:in 
+ <lb n="4"/>min taʾrīḫi hi ăl ʾani ʾāni yuḏkaru fī ʾāḫiri ăẓ ẓahīri wa ʿalà ʾan yakūna matāʿa matāʿu hu waḥda wa hu ḫadīma ḫadīmu ø hu bi ḥuṣūni hi wa ʿalà ʾan yuʿṭiya ăl wazīru ăl maḏkūru ʾilà ăl maliki 
+ <lb n="5"/>ăl muʿaẓẓami ăl maḏkūri ḥiṣnayni yadfaʿu hā la hu ăl ʾāna wa hiya būb wa ṭarbanaẗu wa tabqà baqiyyaẗu ăl ḥuṣūni ø bi yada yadi ăl wazīri ăl maḏkūri hiya qaštāl wa ǧurūlašu ǧarūlašu 
+ <lb n="6"/>wa marġalīṭaẗu wa ăl qalʿaẗu wa barbunǧānu burbunǧānu wa ġallinayraẗu ʾilà ĭnqiḍāʾi ăṯ ø ṯalāṯaẗi ʾaʿwām:in wa yadfaʿa hā ăl wazīru ăl maḏkūru ʾilà ăl maliki ăl muʿaẓẓami ăl maḏkūri 
+ <lb n="7"/>ʾin ʾiḏā ĭnqaḍāt ăṯ ṯalāṯaẗu ʾaʿwām:in ʾillà ḥiṣnu ăl qalʿaẗi bi fawāʾidi hi wa fawāʾidi qurà barbunǧāna takūna mina ăl ʾāna maʾabdaẗ:an muʾabbadaẗ ʾilà ăl wazīri ăl maḏkūri 
+ <lb n="8"/>la hu wa li ʿaqība hu ṭūla ʾayyāmi ăl maliki ăl muʿaẓẓami wa ʾan yuʿṭiya ăl maliku ăl muʿaẓẓamu ʾilà ăl wazīri ăl maḏkūri fawāʾida ʾabuẗ ʾabuh wa tūlaẗa tūluha ṭūla ăṯ ṯalāṯaẗi ʾaʿwām:in fa ʾiḏā 
+ <lb n="9"/>dafaʿa la hu ăl ḥuṣūna ăl maḏkūraẗa ăllaḏī hiya marġalīṭaẗu wa qaštālyu qaštālu wa ǧurūlašu wa ġallinayraẗu yadfaʿu la hu ʾabuh ʾabuẗ wa tūluẗa tūluha wa ʿalà ʾan yuʿṭiya li l qāʾidi qāyidi 
+ <lb n="10"/>ʾabū muḥammad:ini yaḥyà bni ø ʾabī ʾisḥāqa ṣāḥibi qaštāla ăl maliku ăl muʿaẓẓamu qariʾaẗa qaryaẗa ʾišbālam ʾisbālam wa buṭraqwusa buṭraqwuša takūna la hu maʾabdaẗ:an muʾabbadaẗ:an ṭūla ʾayyāmi ăl maliki la hu wa li ʿaqībi hi 
+ <lb n="11"/>wa ʾan yuʿṭiya ăl wazīru li l maliki ăl muʿaẓẓami mina ăl ʾarbaʿaẗi ḥuṣūn ăllaḏī yadfaʿu la hu ḏ ḏā ăṯ ṯ ṯalāṯaẗi ʾaʿwām:in niṣfa ăl ʿašri ʿušri wa ʾšmmà ʾaṯmar:in ʾaššamà ʾaḫaḏa 
+ <lb n="12"/>ăl wazīru min ḫuṣūni ḥuṣūni ḥuṣūn:in ø li ṣāḥibi ʾaraġūna ʾammā bi baʿdu qadr:in ʾaw banī ø lūbā bi ø ʾawdādi widādu him hum yakūna la hu ăl wazīri fī hā niṣfu niṣf:un li ø l ăl fāʾidi ṭūla ăṯ ṯalāṯaẗi ʾaʿwām:in fa ʾiḏā 
+ <lb n="13"/>ĭnqaḍāt ăṯ ṯalāṯaẗu ʾaʿwām:in yadfaʿa hā la hu maʿa ø ăl ʾarbaʿaẗi ḥuṣūn:in wa kutiba fī ăl ḫāmisa ḫāmis ʿašara min šahri ḏī qaʿdaẗi ʿāmi ĭṯnayni wa ʾarbaʿīna wa sitti miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux. Que Dieu bénisse notre Seigneur Muḥammad et sa famille
+		En el nombre de Dios clemente y misericordioso. Dios bendiga a nuestro señor Mahoma y a su familia.
+		ِEn el nóm de Déu, el Misericordiós, el Compassiu. Que Déu empari el nostre Senyor Muḥammad i la seva família.
+		In the name of God, the Merciful, the Compassionate. May God bless our Lord Muḥammad and his family.
+			<lb n="2"/>
+		Aquest és und decret noble, ordenat pel Príncep Exalçat [al-malik], l&#039;Heroic, el Més Venturōs, [la beneficència del qual és] esperada [i] sol·licitada, l&#039;Infant Don Alfonso, fill del Rei Exalçat, l&#039;Afavorit per la Divinitat, el Senyor d&#039;Aragó,
+		Ceci est le noble décret émané du grand prince, le valeureux, très fortuné, qui fait l&#039;objet de toutes les espérances et attentes, infant don Alfonso, fils tu grand prince, assisté par Dieu, maître de l&#039;Aragon,
+		Este es el texto generoso que fue ordenado por el gran Rey a en su nombre por D. Alfonso hijo del Rey Señor de Aragón
+		Este es un honrado manifiesto que mandó (hacer) el gran rey, el importante, el esforzado, el considerado, en el que se espera, al infante con Alfonso, hijo del gran rey señor de Aragón.
+		Este noble privilegio lo mandó hacer el rey excelso, enérgico, el más afortunado, esperanzado, esperado, el infante don Alfonso [aliyufant dûn Alfunš], hijo del excelso rey, el protector, señor de Aragón,
+		This is a noble decree, enjoined by the Exalted Prince [al-malik], the Heroic, the Most Fortunate, [he whose beneficence is] hoped for [and] sought, the Infante Don Alfonso, son of the Exalted King, the Divinely Assisted, the ruler of Aragon,
+		This is a noble decree, ordered by the Exalted Prince [al-malik], the Heroic, the Most Fortunate, [he whose beneficence is] hoped for [and] sought, the Infante Don Alfonso, son of the Exalted King, the Divinely Assisted, the ruler of Aragon,
+			<lb n="3"/>
+		al visir... Abu Abdulla ben Hudzail para concertar la paz con el citado gran Rey
+		Con Alguazil (al-wazir), el excelso, el considerado, elevado, al más engrandecido, el más ilustre Abu Abd Allah bn Hudayl - ¡hónrelo Dios! - que hacen la paz con el rey mencionado por tres años
+		con el wazîr, ilustrísimo, noble, elevado, más excelso, magnifico, Abû ʿAbd Allâh bn Huḏayl (¡hónrelo Dios!). El citado rey excelso [y al-Azrâq] acuerdan la paz por tres años,
+		[conferit] al Més Il·lustre Wazīr, el Noble, el Més Eminent, el Més Exaltat Abū ʿAbd Allāh b. Hudhayl, que Déu l&#039;honori. [Per raó del qual] el Príncep Exalçat dessús esmentat fa un pacte amb ell per tres [anys]
+		[conferred] upon the Most Illustrious Wazīr, the Noble, the Highest, the Most Eminent, the Most Exalted Abū ʿAbd Allāh b. Hudhayl, may God honor him. [Wherefore] the abovementioned Exalted Prince makes an agreement with him for three years
+		en faveur du vizir très illustre, noble, très éminent et très haut Abū ʿAbd Allāh b. Huḏayl, que Dieu l&#039;honore, (contenant) l&#039;accord (suivant), valable pour trois ans
+		upon the Most Illustrious Wazīr, the Noble, the Highest, the Most Eminent, the Most Exalted Abū ʿAbd Allāh b. Hudhayl - may God honor him! [Wherefore] the abovementioned Exalted Prince makes an agreement with him for three years
+			<lb n="4"/>
+		a comptar de la data present, consignada al final del decret, pel qual els seus [del Wazīr] béns i servidor[s] poden romandre als seus castells, i al Wazīr dessús esmentat lliurarà al
+		a partir de la fecha de ahora que se menciona al final del manifiesto, con tal que sus castillos sean únicamente suyos y que el mencionado Alguazil entregue al gran rey
+		a partir de la fecha que se menciona al final del privilegio, a condición de que tenga sus efectos y su servidumbre en sus castillos y a que el citado wazîr entregue al mencionado rey
+		à partir du présent jour mentionné à la fin du document: Le susdit vizir gardera ce qui lui appartient et ceux qui sont à son service dans ses châteaux et remettra immédiatement au susdit grand prince
+		cuya fecha será citada al final. Con la condición de que sus casas y servitores queden en sus castillos y que el visir dé al Rey
+		from the present date, which is stated at the end of the decree, that his [the Wazīr&#039;s] property and retainer[s] may remain in his castles, and that the abovementioned Wazīr shall give to
+		from the present date, which is stated at the end of the decree, that his [the Wazīr&#039;s] property and retainer[s] may remain in his castles, and that the abovementioned Wazīr will give to
+			<lb n="5"/>
+		dos castillos que son Bob y Tarbana y que el se queden el resto de los castillos en poder del visir que son Castiel, Jerushan,
+		excelso dos castillos, los cuales le entrega ahora, que son Pop [Bûb] y Tàrbena [Ṭarbena], permaneciendo el resto de los castillos, que son Castell [Qaštâl], Cheroles [Ŷarûlaš],
+		les deux châteaux the Pop et de Tárbena, conservant en sa possession le reste des châteaux, à savoir Castell, Ǧurūlaš,
+		mencionado dos castillos que se los entregará ahora y son bub y Tarbana, quedando el resto de los castillos en poder del mencionado Alguazil que son: Qastal, Yurulas,
+		Príncep Exalçat dessús esmentat dos castells, els de Pop i Tàrbena, que el lliurarà ara mateix. La resta dels castells continuarà en possessió del Wazīr dessús esmentat, ço és Castell, Xeroles,
+		the abovementioned Exalted Prince two castles, namely Pop and Tárbena, which he shall now hand over to him. The rest of the castles shall remain in the possession of the abovementioned Wazīr, namely Castell, Cheroles,
+		the abovementioned Exalted Prince two castles, namely Pop and Tárbena, which he will now hand over to him. The rest of the castles will remain in the possession of the abovementioned Wazīr, namely Castell, Cheroles,
+			<lb n="6"/>
+		Margalita, Al-Qalʿa Barbunyan y Galinayra haste que se cumplan tres años y los entregará el mencionado Alguazil al mencionado gran rey
+		Margarida, Alcalá, Perpunchent, and Gallinera, until the end of three years. But the abovementioned Wazīr shall hand them over to the abovementioned Prince
+		Margarida, Alcalá, Perpunchent, and Gallinera, until the end of three years. But the abovementioned Wazīr will hand them over to the abovementioned Prince
+		Margarida, Alcalá, Perpunchent et Gallinera pendant le délai de trois ans. A lexpiration des trois ans le susdit vizir livrera ces derniers
+		Margarida, Alcalà, Perputxent i Gallinera, fins a la fi de tres anys. Però el Wazīr dessús exmentat els lliurarà al Príncep dessús esmentat
+		Margarida [Margalîṭa], Alcalà [al-Qalʿa], Perputxent [Barbunŷân] y Gallinera [Galinayra], en poder del citado wazîr hasta que se cumplan tres años. Cuando se cumplan los tres años, los entregará el citado wazîr al mencionado rey excelso,
+		Margarita, Alcalá, Barberjan y Galnabera hasta que pasen tres años y el visir se los entregue al Rey,
+			<lb n="7"/>
+		à l&#039;exception du château d&#039;Alcalá avec ses revenus et des revenus des villages (qurā) de Perpunchent qui seront dorénavant et à perpetuité propriété du susdit vizir
+		en expirar els tres anys, a excepció del castell d&#039;Alcalà amb les seves rendes y les rendes dels vilatges de Perputxent, els quals romandran d&#039;avui endavant en possessió perpètua del Wazīr dessús esmentat
+		excepto el castillo de Alcalà, con sus rentas y las rentas de la alquerías de Perputxent, que serán desde ahora perpetuamente para el mencionado wazîr
+		excepto el de Alcalá con sus rentas y las rentas de los pueblos de Barnaján que seran desde ahora para siempre pertenecientes al visir
+		si se cumplen tres años, excepto el castillo de Al-Qalʿa con sus rentas y las rentas de la alqueria de Barbunyan que desde ahora son a perpetuidad para el mencionado Alguazil
+		when the three years have expired, except for the castle of Alcalá with its revenues and the revenues of the villages of Perpunchent, which shall remain henceforth in the perpetual possession of the abovementioned Wazīr
+		when the three years have expired, except for the castle of Alcalá with its revenues and the revenues of the villages of Perpunchent, which will remain henceforth in the perpetual possession of the abovementioned Wazīr
+			<lb n="8"/>
+		and his descendant for the duration of the reign of the Exalted Prince. [Furthermore], the Exalted Prince shall give to the abovementioned Wazīr the revenues of Ebo and Tollos for the duration of three years. When
+		and his descendant for the duration of the reign of the Exalted Prince. [Furthermore], the Exalted Prince will give to the abovementioned Wazīr the revenues of Ebo and Tollos for the duration of three years. When
+		et de sa descendance aussi longtemps que vivra le grand roi. Le grand roi livrera au vizir susdit les revenus d&#039;Ebo et de Tollos pendant la durée des trois ans, et lorsque
+		i de la seva descendència mentre duri el regnat del Príncep Exalçat. [A més a més], el Príncep Exalçat donarà al Wazîr dessús esmentat les rendes d&#039;Ebo i Tollos mentre durin els tres anys. Quan
+		y su descendencia a lo largo de la vida del gran rey. Que el gran rey entregue al mencionado Alguazil las rentas de Abu y Tulu a lo largo de tres años y cuando
+		y su descendencia mientras viva el rey excelso. Entregará el rey excelso al citado wazîr las rentas de Evo [Abuh] y Tollos [Tûluh] durante los tres años y, cuando
+		y sus herederos durante el tiempo del Rey y que el Rey dé al visir la renta de Ebo y Tawila [Tollos] durante los tres años si
+			<lb n="9"/>
+		ell [el Wazīr] li [al Príncep] lliuri els castells dessús esmentats, ço és Margarida, Castells, Xeroles i Gallinera, [el Wazīr] li [al Príncep] lliurarà [també] Ebo i Tollos. El Príncep Exalçat [també està d&#039;acord] en donar al qā[ʾid]
+		he [the Wazīr] hands over to him [the Prince] the abovementioned castles, namely Margarida, Castell, Cheroles, and Gallinera, he [the Wazīr] shall [also] hand over to him [the Prince] Ebo and Tollos. The Exalted Prince [also agrees] to give to the qāʾid
+		he [the Wazīr] hands over to him [the Prince] the abovementioned castles, namely Margarida, Castell, Cheroles, and Gallinera, he [the Wazīr] will [also] hand over to him [the Prince] Ebo and Tollos. The Exalted Prince [also agrees] to give to the qāʾid
+		le entregue los mencionados castillos, que son Margalita, Qastal, Yurulas, y Galinayra, le entregará Abu y Tulu. Que entregue al al-Qaʾid
+		le entregue los mencionados castillos - que son Margarida, Castell, Cheroles y Gallinera - , le entregará Evo y Tollos. El rey excelso entregará al caíd
+		(le vizir) lui remettra les châteaux mentionnés, à savoir Margarida, Castell, Ǧurūlaš et Gallinera, il lui livrera (également) Ebo et Tollos. Le grand roi donnera au qāʾid
+		si le paga la renta de Margarita, Castiel, Juroles y Galnabera y con la condición de dar al
+			<lb n="10"/>
+		Abu Muhammad bn Ishaq, señor de Qastal, el gran rey la alquería de Isbalam y Butraqus que serán a perpetuidad a lo largo de la vida del rey para él y sus descendencia.
+		Abu Yahya ben Abu Ishaq señor de Castiel los pueblos de Esbalan y Batraçosh que serán para él siempre durante el tiempo del Rey para él y para su linaje
+		Abū Yaḥyā b. Abī  &lt;I&gt;sḥāq seigneur (ṣāḥib) de Castell l&#039;alquería d&#039;Isbālam et Buṭraqūš qui lui appartiendront à perpétuité, ainsi qu&#039;à sa descendance, pour la durée de la vie du prince.
+		Abū Yaḥyā b. Abū  &lt;I&gt;sḥāq, el Senyor de Castell, els vilatge[s] d&#039;Ispalim [?] i Petracos a perpetuïtat durant el regnat del Príncep, [ambdós] per a ell mateix i els seus descendents.
+		Abū Yaḥyá b. Abū  &lt;I&gt;sḥāq, the ruler of Castell, the village[s] of Espel·la and Petracos to be his perpetually for the duration of the reign of the Prince, [both] for himself and his descendant.
+		Abû Yaḥyà bn Isḥâq [sic], señor de Castell, la alquería de l&#039;Espelda (Išbâlam] y Petracos [Buṭraqwaš] que tendrá perpetuamente para él y su descendencia mientras viva el rey.
+			<lb n="11"/>
+		De los cuatro castillos que le entregará dentro los tres años, dará el wazîr al rey excelso la mitad de los diezmos y frutos que tome
+		Des quatre châteaux qu&#039;il remettra à l&#039;issue des trois ans, le vizir donnera au grand prince la moitié de la dîme (al-ʿušr); [quant aux châteaux relevant du roi d&#039;Aragon que le vizir pourrait prendre
+		[It is further agreed] that the Wazīr shall give to the Exalted Prince from the four castles, which he shall hand over to him when the three years have elapsed [i.e. Margarida, Castells, Cheroles, and Gallinera], half the tithe [al-ʿushr]; and whatever
+		[It is further agreed] that the Wazīr will give to the Exalted Prince from the four castles, which he will hand over to him &lt;after&gt; these three years [i.e. Margarida, Castells, Cheroles, and Gallinera], half the tithe [al-ʿushr]; and whatever
+		Que Alguazil entregue al gran rey la mitad de las décimas de los cuatro castillos que le entrega durante tres años. Así mismo tome
+		[S&#039;acorda endemés] que el wazīr donarà al Príncep Exalçat la meitat del delme [al-ʿushr] dels quatre castells que li lliurarà &lt;després&gt; d&#039;aquest tres anys [ço és Margarida, Castell, Xeroles i Gallinera]; i de qualssevol
+		y que dé el visir al Rey de cuatro pueblos durante los tres años la mitad de la renta y cuando el visir tome
+			<lb n="12"/>
+		Alguazil de los castillos del señor de Aragón o bien por consentimiento o por su amistad; tendrá Alguazil en ellos la mitad de las rentas a lo largo de tres años y cuando
+		al wazîr de los castillos del señor de Aragón. En cuanto a Benillup [Banî Lûb] es su deseo que tenga el wazîr en ella la mitad de la renta durante los tres años, pero cuando
+		castells que el Wazīr aconsegueixi &lt;per&gt; al Senyor d&#039;Aragó, ja sigui per força, ja per capitulació, al Wazīr li pertocarà la meitat de les rendes [d&#039;aquests castells] mentre durin els tres anys. Però quan
+		castillos del señor de Aragón por amistad tendrá la mitad de la renta durante tres años y cuando
+		castles the Wazīr obtains &lt;for&gt; the rules of Aragon, either by force or by capitulation, the Wazīr shall have half of the revenue [from these castles] for the durations of the three years. But when
+		castles the Wazīr obtains &lt;for&gt; the rules of Aragon, either by force or by capitulation, the Wazīr will have half of the revenue [from these castles] for the durations of the three years. But when
+		par la force ou à l&#039;amiable durant les trois ans], le vizir aura la moitié de leurs revenus pendant les (mêmes) trois ans. Mais à l&#039;issue
+			<lb n="13"/>
+		de cette période, il lui livrera (ces eventuels châteaux) avec les quatre châteaux (du traité). Écrit le 15 du mois de Ḏū l-Qaʿda de l&#039;année 642 (15 avril 1245).
+		els tres anys expirin, ell [el Wazīr] els [els castells que hagi aconseguit] hi [al Príncep] lliurarà juntament amb els [altres] quatre castells [ço és Margarida, Castell, Xeroles i Gallinera]. Escrit el quinze del mes de Dhū &lt;al-&gt;Qaʿda de l&#039;any 642 [15 d&#039;abril de 1245].
+		se cumplan los tres annos se las entregará con los cuatro castillos. Se escribió el décimo quinto [día] de ḏû-l-Qaʿda del año seiscientos cuarenta y dos.
+		se cumplan los tres annos se los entregará con los cuatro castillos. Se escribió el 15 del mes de dú-l-Qaʿda del año 642 (= 14 de abril de 1245).
+		terminen se los entregará con los cuatro castillos. Se escribió el 15 del mes DU ALQUUDA del año 642.
+		the three years expire, the [the Wazīr] shall hand them [i.e. the castles which he has obtained] over to him [the Prince] along with the four [other] castles [i.e. Margarida, Castell, Cheroles, and Gallinera]. Written on the fifteenth of the month of Dhū &lt;al-&gt;Qaʿdah in the year 642 [15 April 1245].
+		the three years expire, the [the Wazīr] will hand them [i.e. the castles which he has obtained] over to him [the Prince] along with the four [other] castles [i.e. Margarida, Castell, Cheroles, and Gallinera]. Written on the fifteenth of the month of Dhū &lt;al-&gt;Qaʿdah in the year 642 [15 April 1245].
+</ab></div>
+</body>
+</text>
+</TEI>

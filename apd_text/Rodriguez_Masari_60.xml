@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1907" xml:id="Rodriguez_Masari_60" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 6</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_60</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169644</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على محمّد وآله وسلّم 
+<lb n="2"/>  اشترى الشّيخ المكرّم أبو جعفر أحمد بن سعيد بن مساعد من المباركة 
+<lb n="3"/>  فاطـ<supplied reason="lost" cert="high">ـمـ</supplied>ـة بنت علي عبّاس جميع المصريّة المتهدّمة الكائنة بقرب 
+<lb n="4"/>  جامع ابن عميرة من <app type="BL"><lem resp="APD">البيازين </lem><rdg resp="APD">البيازين</rdg></app> آمنها قبليّها الزّقاق وجوفيّها الزّقاق حيث 
+<lb n="5"/>  بابها وشرقيّها طريق عمر الحسري <unclear reason="undefined" cert="high">المرطيّ</unclear> وغربيّها الزّقاق اشترا تا<supplied reason="lost" cert="high">مّـ</supplied>ـا عرفا 
+<lb n="6"/>  قدره بثمن عدّته عشرة دنانير ونصف دينار من الذّهب بصرف الفضّة 
+<lb n="7"/>  المعتاد قبضتها البائعة بكمالها وصارت بيدها وبرّأته منها أتم إبرا 
+<lb n="8"/>  وبذالك خلص للمشتري تملّك مشتراه أتم خلوص على السّنّة والمرجع بالدّرك 
+<lb n="9"/>  ولم يبق للبائعة بقيّة في المبيع حق بوجه وبعد النّظر والتّقليب والرّضا 
+<lb n="10"/>  وعرفا قدره وأشهدا به من عرفهما بحال صحّة وجواز في اليوم التّاسع عشر 
+<lb n="11"/>  لذي حجّة متم عام ستّة وثمانين وثماني مائة والبائعة المذكورة كانت 
+<lb n="12"/>  في الماضي مهملة وترصّدت الآن رباطة لرسمها <gap reason="illegible" precision="low" extent="3"/> يعلم ذالك 
+<lb n="13"/>  شهودهما بالإشهاد بثبوت موجب ذالك لدى من وجب الثّبوت الـ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  التّام وفي تأريخه والإشهاد والمصريّة المبيعة متهدّمة للبنا والإصلاح 
+<lb n="15"/>  والإقامة من الأصل فرضيها المشتري كذالك والتزمها وفي تأريخه 
+<lb n="16 right lower corner, top to bottom on the margin"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà muḥammad:in wa ʾāli hi wa sallama 
+ <lb n="2"/>ĭštarà ăš šayḫu ăl mukarramu ʾabū ǧaʿfara ʾaḥmadu bnu saʿīdi bni musāʿid:in mina ăl mubārakaẗi 
+ <lb n="3"/>fāṭimaẗa binti ʿaliyy:in ʿabbās:in ǧamīʿa ăl maṣriyyaẗi ăl mutahaddimaẗi ăl kāʾinaẗi bi qurbi 
+ <lb n="4"/>ǧāmiʿi ĭbni ʿamīraẗa ʿumayraẗa mina ăl bayāzīna bayyāzīna ʾāmana hā qibliyyu hā ăz zuqāqu wa ǧawfiyyu hā ăz zuqāqu ḥayṯu 
+ <lb n="5"/>bābu hā wa šarqiyyu hā ṭarīqu ʿumara ăl ḥusriyyi ăl murṭiyyi wa ġarbiyyu hā ăz zuqāqu ĭštirāʾ:an tāmm:an ʿarafā 
+ <lb n="6"/>qadra hu bi ṯaman:in ʿiddatu hu ʿašaraẗu danānīra wa niṣfu dīnār:in mina ăḏ ḏahabi bi ṣarfi ăl fiḍḍaẗi 
+ <lb n="7"/>ăl muʿtādi qabaḍat hā ăl bāʾiʿaẗu bi kamāli hā wa ṣārat bi yadi hā wa barraʾat hu min hā ʾatamma ʾibrāʾ:in 
+ <lb n="8"/>wa bi ḏālika ḫalaṣa li l muštarī tamalluku muštarā hu ʾatamma ḫulūṣ:in ʿalà ăs sunnaẗi wa ăl marǧiʿi bi ăd daraki 
+ <lb n="9"/>wa lam yabqa li l bāʾiʿaẗi baqiyyaẗ:un fī ăl mabīʿi ḥaqq:un bi waǧh:in wa baʿda ăn naẓari wa ăt taqlībi wa ăr riḍāʾi 
+ <lb n="10"/>wa ʿarafā qadra hu wa ʾašhadā bi hi man ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī ăl yawmi ăt tāsiʿa ʿašara 
+ <lb n="11"/>li ḏī ḥiǧǧaẗ:in mutimmi ʿāmi sittaẗ:in wa ṯamānīna wa ṯamānī miʾaẗ:in wa ăl bāʾiʿaẗu ăl maḏkūraẗu kānat 
+ <lb n="12"/>fī ăl māḍī muhmalaẗ:un wa taraṣṣadat ăl ʾāna ribāṭaẗ:an li rasmi hā *** yaʿlamu ḏālika 
+ <lb n="13"/>šuhūdu humā bi ăl ʾišhādi bi ṯubūti mūǧibi ḏālika ladà man waǧaba ăṯ ṯubūtu ăl *** 
+ <lb n="14"/>ăt tāmma wa fī taʾrīḫi hi wa ăl ʾišhādi wa ăl maṣriyyaẗu ăl mabīʿaẗu mutahaddimaẗ:un li l bināʾi wa ăl ʾiṣlāḥi 
+ <lb n="15"/>wa ăl ʾiqāmaẗi mina ăl ʾaṣli fa raḍiya hā ăl muštarī kaḏālika wa ĭltazama hā wa fī taʾrīḫi hi 
+ <lb n="16"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Bienfaiteur et Miséricordieux. Que Dieu bénisse et sauve Muḥammad et sa famille.
+			<lb n="2"/>
+		Le cheik vénérable Abū Ǧaʿfar Aḥmad ibn Saʿīd ibn Musāʿid achète de la bénie
+			<lb n="3"/>
+		Fāṭima bint ʿAlī ʿAbbās la totalité de la maṣriyya en ruines (mutahaddima) située près de
+			<lb n="4"/>
+		la mosquée d&#039;Ibn ʿAmīra/ʿUmayra, à l&#039;al-Bayyāzīn (l&#039;Albaicín), que Dieu la garde!, qui est délimitée au Sud par la ruelle, au Nord par la ruelle où se trouve
+			<lb n="5"/>
+		sa porte, à l&#039;Est par le chemin de ʿUmar al-Ḥusrī [al-Murṭī?], et à l&#039;Ouest par la ruelle. Il s&#039;agit d&#039;un achat accompli dont les deux (parties) apprécient
+			<lb n="6"/>
+		la portée, (qui est convenue) par un prix dont la quantité est de dix dinars et demi d&#039;or au taux de change habituel
+			<lb n="7"/>
+		d&#039;argent. La vendeuse reçoit la totalité du montant, qui devient sa propriété, et donne la quittance correspondante.
+			<lb n="8"/>
+		En vertu de ceci (le paiement du prix), on donne à l&#039;acheteur une livraison accomplie de son achat, conformément à ce que stipule la loi, et avec indemnisation pour préjudice,
+			<lb n="9"/>
+		sans réserve d&#039;aucun droit pour la vendeuse sur ce qui est vendu, après avoir examiné, inspecté et montré sa satisfaction sur ce qu&#039;il vait acquis.
+			<lb n="10"/>
+		Les deux (parties) connaissent la portée (de l&#039;accors adopté), et demandent le témoignage (des témoins instrumentaires), qui les connaissent (et savent qu&#039;elles jouissent) de capacité physique et légale (suffisante). Le 19
+			<lb n="11"/>
+		ḏū l-ḥiǧǧa, dernier mois de l&#039;année 886 (= 8 février 1482). La vendeuse mentionnée était
+			<lb n="12"/>
+		antérieurement une «dépouillée» (muhmala), mais maintenant elle surveille l&#039;attachement de son acte [...]. Les témoins instrumentaires connaissent ceci,
+			<lb n="13"/>
+		et en donnent témoignage (moyennant) l&#039;obligatoire confirmation (ṯubūt) auprès du cadi compétent [...].
+			<lb n="14"/>
+		À la même date et avec le même témoignage. La maṣriyya vendue est détériorée (et elle a besoin) de travaux, de réparation
+			<lb n="15"/>
+		et d&#039;ajustement depuis les fondations, tout ce que l&#039;acheteur accepte et s&#039;oblige (de le respecter). À la même date.
+			<lb n="16"/>
+		[signatures illisibles et paraphées].
+</ab></div>
+</body>
+</text>
+</TEI>

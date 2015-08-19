@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="336" xml:id="Grohmann_APEL_125" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 125</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_125</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106567</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">رقـ</supplied>ـاش </lem><rdg resp="APD">كأس </rdg><rdg resp="APD">وقاش</rdg></app> ابنت طيـ<supplied reason="lost" cert="high">ـب</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">عـ</supplied>ـفر بن موسى من پـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> والخشب والأپپاپـ<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا عفر بن موسى بن الفضل پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد من زوجته هذه الرّبع والد<gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="6"/>  <supplied reason="lost" cert="high">الـ</supplied>ـعبّاس المتوفّاة وصالحا عفر بن مو<supplied reason="lost" cert="high">سى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <supplied reason="lost" cert="high">تسـ</supplied>ـع عشرة وثلثماية ويقومان <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـر الوطأ والبطا والبخاش والحـ<gap reason="illegible" extent="2" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** raqāš kaʾs waqāš ĭbnat ṭīb:in 
+ <lb n="2"/>ʿafr bn mūsà min B*** 
+ <lb n="3"/>*** wa ăl ḫašab wa ăl ʾBBʾB* *** 
+ <lb n="4"/>***ʾ ʿafr bn mūsà bni ăl faḍli B*** 
+ <lb n="5"/>***d min zawǧaẗi hi hāḏihi ăr rubʿa wa ăd d*** 
+ <lb n="6"/>ăl ʿabbās ăl mutawaffāẗ wa ṣālaḥā ʿafru bnu mūsà *** 
+ <lb n="7"/>tisʿa ʿašraẗa wa ṯalāṯ miyaẗ:in wa yaqūmāni *** 
+ <lb n="8"/>**r ăl waṭaʾ wa ăl biṭāʾ wa ăl biḫās wa ăl ḥ** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ...]âš, daughter of Ṭî[b
+		 <lb n="2"/>
+ 	  ʿA]fr b. Mûsâ from [...
+		 <lb n="3"/>
+ 	  ...] and the timbers and ....... [
+		 <lb n="4"/>
+ 	  ..] .. ʿAfr b. Mûsâ b. al-Faḍl [
+		 <lb n="5"/>
+ 	  ] . from the wife this quarter and the .. [
+		 <lb n="6"/>
+ 	  al]-ʿAbbâs, the deceased, and ʿAfr b. Mû[sâ and So and So] have agreed together [
+		 <lb n="7"/>
+ 	  ] three hundred and nineteen .... [
+		 <lb n="8"/>
+ 	  ] of agreement, delay, damage and ........ [
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

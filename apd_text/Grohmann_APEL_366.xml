@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1848" xml:id="Grohmann_APEL_366" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 366</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_366</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169585</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 first account"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ر<supplied reason="lost" cert="high">أ</supplied>س <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2 first account"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الـ</supplied>ـجـ<supplied reason="lost" cert="high">ـنـ</supplied>ـدي 
+<lb n="3 first account"/>  <gap reason="illegible" precision="low" extent="3"/> ـــــــــــ ڤى ألسوق أرپعه 
+<lb n="4 first account"/>  <gap reason="illegible" precision="low" extent="3"/> تسعة دينار إلّا قيراطين 
+<lb n="5 first account"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> وعشر قراريط 
+<lb n="6 first account"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عشـ</supplied>ـر رأسا مات فيها ثلثة أرس 
+<lb n="7 first account"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">و</unclear>البقر العجل 
+<lb n="8 second account"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ر</supplied>پل إلى الفسطاط في قارب بقطر ‪ρν 
+<lb n="9 second account"/>  ‮<gap reason="illegible" precision="low" extent="3"/> إلى علي الحسّاب وغيره من الجنادي ‪ηγʹ 
+<lb n="10 second account"/>  <gap reason="illegible" precision="low" extent="3"/> رڤرپه على الغلمان حساب ثمنية أرطال 
+<lb n="11 second account"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> خمسـ<supplied reason="lost" cert="high">ـة</supplied> غلمان 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** raʾs *** 
+ <lb n="2"/>*** *** ăl ǧundiyy 
+ <lb n="3"/>*** fī ăs sūqi ʾarbaʿaẗu ʾarus:in 
+ <lb n="4"/>*** tisʿaẗ dīnār:in ʾillā qīrāṭayni 
+ <lb n="5"/>*** *** wa ʿašr qarārīṭa 
+ <lb n="6"/>*** ʿašr raʾs:an māta fī hā ṯalāṯaẗu ʾarus:in 
+ <lb n="7"/>*** wa ăl baqar ăl ʿiǧl 
+ <lb n="8"/>*** rBl ʾilà ăl fusṭāṭi fī qāribi buqṭura 150 
+ <lb n="9"/>*** ʾilà ʿaliyy:ini ăl ḥassābi wa ġayri hi mina ăl ǧanādī 8+1/3 
+ <lb n="10"/>*** rFrBh ʿalà ăl ġilmāni ḥisāba ṯamāniyaẗi ʾarṭāl:in 
+ <lb n="11"/>*** ** ḫamsaẗ ġilmān:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		]he[a]d ........[
+			<lb n="2"/>
+		the sold]ier[
+			<lb n="3"/>
+		], on the market four head
+			<lb n="4"/>
+		nine dînârs less two carats
+			<lb n="5"/>
+		] 〚..........〛 and ten carats
+			<lb n="6"/>
+		...... te]n head, three head of that (number) perished
+			<lb n="7"/>
+		]and the bovine calf
+			<lb n="8"/>
+		..........]......... to al-Fusṭâṭ in the boat of Victor 150
+			<lb n="9"/>
+		] to ʿAlî, the calculator, and other soldiers 8 1/3
+			<lb n="10"/>
+		].................. to the debit of the mates at a rate of eight pounds (riṭl)
+			<lb n="11"/>
+		]...... fiv[e] mates.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="560" xml:id="Raghib_March_2_36" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 36</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_36</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106703</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> إ</supplied>ليك وسرّك بالجنّة وأبقا لك أبو عدي وأراك منه كثرة ذرّيّة طيّبة 
+<lb n="2"/>  <gap reason="illegible" extent="7" unit="character" /> وأنا منها <supplied reason="lost" cert="high">في</supplied> عافية وقد تحوّلت أمّي إلى منزل في الدّار 
+<lb n="3"/>  <gap reason="illegible" extent="4" unit="character" />ـها ومن آذاها واستراحت منهم فقد كانوا في جهد 
+<lb n="4"/>  <gap reason="illegible" extent="5" unit="character" /> اللّه دفع عنها وقد اشتكت إلى أبي عدي فذمّه <app type="BL"><lem resp="APD">ولاكن </lem><rdg resp="APD">ولاكنّ</rdg></app> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> في حاجة خالتك قد وضعت على <app type="BL"><lem resp="APD">يدي </lem><rdg resp="APD">يدي</rdg></app> يدي <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> أبقاك اللّه مع ياسين <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ا <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="left margin"/>  <gap reason="illegible" extent="4" unit="character" /> لي من الخروج إلى 
+<lb n="top upside down"/>  الإسكندريّة فقد أبطى دنانير خالتك ولولا ذلك قد ذهبت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top 1"/>  إلى أبي عدي أطال اللّه بقاه في عافية 
+<lb n="top 2"/>  ثابت بن أحمد بن عبد المومن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ʾilay ki wa sarra ki bi ăl ǧannaẗi wa ʾabqā la ki ʾabū ʿadiyy:in wa ʾarā ki min hu kaṯraẗa ḏurriyyaẗ:in ṭayyibaẗ:in 
+ <lb n="2"/>******* wa ʾanā min hā fī ʿāfiyaẗ:in wa qad taḥawwalat ʾumm ī ʾilà manzil:in fī ăd dāri 
+ <lb n="3"/>**** hā wa man ʾāḏā hā wa ĭstarāḥat min hum fa qad kānū fī ǧahd:in 
+ <lb n="4"/>***** ăl lāhu dafaʿa ʿan hā wa qadi ĭštakat ʾilà ʾabī ʿadiyy:in fa ḏamma hu wa lākin lākinna 
+ <lb n="5"/>*** fī ḥāǧaẗi ḫālati ki qad waḍaʿat waḍaʿtu ʿalà yad yaday ī ya yad yaday ī ø **** **** **** **** 
+ <lb n="6"/>*** ʾabqā ki ăl lāhu maʿa yāsīna *** **ʾ ******* ******** 
+ <lb n="7"/>**** l ī mina ăl ḫurūǧi ʾilà 
+ <lb n="8"/>ăl ʾiskandariyyaẗi fa qad ʾabṭà danānīru ḫālati ki wa law lā ḏālika qad ḏahabtu *** 
+ <lb n="9"/>ʾilà ʾabī ʿadiyy:in ʾaṭāla ăl lāhu baqāʾa hu fī ʿāfiyaẗ:in 
+ <lb n="10"/>ṯābiti bni ʾaḥmada bni ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		à] toi, qu&#039;Il te réjouisse par le Paradis, qu&#039;Il te conserve Abū ʿAdī et qu&#039;Il te fasse voir par lui une postérité nombreuse et excellente!
+			<lb n="2"/>
+		] .... alors que je suis [en] (état) de paix. Ma mère s&#039;est transportée dans un logement dans la maison.
+			<lb n="3"/>
+		] .... et ceux qui l&#039;ont offensée. Elle en a été soulagée, car ils étaient dans un dénuement
+			<lb n="4"/>
+		] .. ce que Dieu a écarté d&#039;elle. Elle s&#039;est plainte à Abū ʿAdī, qui l&#039;a blâme. Mais
+			<lb n="5"/>
+		] au désir de ta tante maternelle. Elle a mis sur mes mains les mains de .... [....]
+		] au désir de ta tante paternelle. Elle a mis sur mes mains les mains de .... [....]
+			<lb n="6"/>
+		que Dieu te conserve! avec Yāsīn ....[....]
+			<lb n="7"/>
+		]. de partir pour
+			<lb n="8"/>
+		Alexandrie, car les dinars de ta tante maternelle ont tardé. Sans cela, j&#039;aurais quitté [
+		Alexandrie, car les dinars de ta tante paternelle ont tardé. Sans cela, j&#039;aurais quitté [
+			<lb n="9"/>
+		A Abū ʿAdī - que prolonge son existence dans la paix!
+			<lb n="10"/>
+		Ṯābit b. Aḥmad b. ʿAbd al-Muʾmin.
+</ab></div>
+</body>
+</text>
+</TEI>

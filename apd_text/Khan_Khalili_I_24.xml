@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1514" xml:id="Khan_Khalili_I_24" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 24 (= P.Khalili II 31)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_24</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169285</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  صبّحـك اللّه بعافيته ومسّاك بكرامته 
+<lb n="3"/>  أعلمك فديتك أن أتاني كتاب من بنت 
+<lb n="4"/>  عمّك تذكر <app type="BL"><lem resp="APD">أن </lem><rdg resp="Diem">أنّ</rdg></app> <app type="BL"><lem resp="APD">رجل </lem><rdg resp="Diem">رجل</rdg></app> من قرابة <app type="BL"><lem resp="APD">مرة </lem><rdg resp="Diem">مرة</rdg></app> أبو الخير 
+<lb n="5"/>  وقع بي في <app type="BL"><lem resp="APD">قرية </lem><rdg resp="Diem">القرية</rdg></app> وكنت تعلم أن ليس لي 
+<lb n="6"/>  خلق إلّا اللّه وأنت وقد وجّهت إليك 
+<lb n="7"/>  <supplied reason="lost" cert="high">بـ</supplied>ـكتاب لتقبـ<supplied reason="lost" cert="high">ـ</supplied>ـض وتشير علي برأيك 
+<lb n="8"/>  أبعثك إلى <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـرّ</supplied>جل </lem><rdg resp="Diem">الرّجل</rdg></app> بـ<supplied reason="lost" cert="high">ـ</supplied>ـالبكرة أو أمسك 
+<lb n="9"/>  عنه أو ترى أن يقسّـ<supplied reason="lost" cert="high">ـط</supplied> وضع وضعوه 
+<lb n="10"/>  فينكر فيحتج علي <app type="BL"><lem resp="APD">لجزل </lem><rdg resp="Diem">لحال</rdg></app> النّفقة فأنّه لا 
+<lb n="11"/>  يخاف اللّه والحمد للّه الّذي عشت 
+<lb n="12"/>  عمري ما ذكرني إنسان إلّا إلى وجه 
+<lb n="13"/>  <app type="BL"><lem resp="APD">المشومة </lem><rdg resp="Diem">المشوم</rdg></app> وانتظرتك فديتك لتصير 
+<lb n="14"/>  إلي فأشكوا إليك همّي فأسل اللّه بك البقا 
+<lb n="15"/>  <supplied reason="lost" cert="high">وا</supplied><unclear reason="undefined" cert="high">لدك</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “suggestion”">بمنّه</rdg></app> أطال اللّه بقاك وأعزّك وأكرمك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ṣabbaḥa ka ăl lāhu bi ʿāfiyati hi wa massā ka bi karāmati hi 
+ <lb n="3"/>ʾuʿlimu ka fadaytu ka ʾan ʾatā nī kitāb:un min binti 
+ <lb n="4"/>ʿammi ka taḏkuru ʾan ʾanna raḥala raǧul min qarābaẗi qurābaẗi maraẗi marraẗ:in ʾabū ăl ḫayri 
+ <lb n="5"/>waqaʿa b ī fī ø ăl qaryaẗ:in qaryaẗi wa kunta taʿlamu ʾan laysa l ī 
+ <lb n="6"/>ḫalq:un ʾillā ăl lāhu wa ʾanta wa qad waǧǧahtu ʾilay ka 
+ <lb n="7"/>bi kitāb:in li taqbuḍa wa tušīra ʿalay ya bi raʾyi ka 
+ <lb n="8"/>ʾabʿaṯu ka ʾilà ăr raḥli raǧuli bi ăl bukraẗi ʾaw ʾumsiku 
+ <lb n="9"/>ʿan hu ʾaw tarà ʾan yuqassaṭa waḍʿ:un waḍaʿū hu 
+ <lb n="10"/>fa yunkiru fa yaḥtaǧǧu ʿalay ya li ǧazli ḥāli ăn nafaqaẗi fa ʾanna hu lā 
+ <lb n="11"/>yaḫāfu ăl lāha wa ăl ḥamdu li l lāhi ăllaḏī ʿištu 
+ <lb n="12"/>ʿumr ī mā ḏakara nī ʾinsān:un ʾillā ʾilà waǧhi 
+ <lb n="13"/>ăl mašūmaẗi mašūmi wa ĭntaẓartu ka fadaytu ka li taṣīra 
+ <lb n="14"/>ʾilay ya fa ʾaškū ʾilay ka hamm ī fa ʾasalu ăl lāha bi ka ăl baqāʾa 
+ <lb n="15"/>wʾldk *** bi ø manni ø hi ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+			<lb n="2"/>
+		May God give you health in the morning and show you kindness in the evening (i. e. may he always give you health and show you kindness).
+			<lb n="3"/>
+		... (daß) ich einen Brief von der Tochter
+		(I am writing to) let you know - may I be made your ransom - that a letter has come to me from the daughter
+		(I am writing to) let you know - May I be made your ransom! - that a letter has come to me from the daughter
+			<lb n="4"/>
+		Deines Onkels väterlicherseits erhalten habe des Inhalts, daß ein Mann von der Verwandtschaft der Frau von ʾAbū l-Ḫayr
+		of your uncle. She says that ʾAbū al-Ḵayr has recently left.
+		of your uncle. She says that Abu &#039;l-Khayr has recently left.
+			<lb n="5"/>
+		im Dorf über mich hergezogen ist. ... daß ich
+		I was afflicted by (this news) whilst I was in the village. You know I have
+		I was afflicted by this news whilst I was in the village. You know I have
+			<lb n="6"/>
+		gar niemanden außer Gott und Dir habe. ...
+		nobody except God. I have sent
+			<lb n="7"/>
+		a letter to you. When you receive it, indicate to me whether in your view
+			<lb n="8"/>
+		I should send you to the journey stage tomorrow or whether I shoud refrain
+		... Mann...
+			<lb n="9"/>
+		from this, or do you think that they should pay a deposit in instalments (literally: a deposit which they make should be paid in instalments),
+			<lb n="10"/>
+		although he would disapprove of this and claim that I was spending excessively? He does not
+		although he would disapprove of this and claim that I was spending excessively. He does not
+		... wegen der Ausgaben...
+			<lb n="11"/>
+		fear God. God be praised that throughout
+		Preis sei Gott, daß mich während meines bisherigen
+			<lb n="12"/>
+		Lebens noch jeder in unglücklicher
+		my life people have always thought me to be
+		my life people have always thought that I was
+			<lb n="13"/>
+		Erinnerung behalten hat. ...
+		ill-fated (literally: people have not mentioned axcept in the manner (of speaking about) something illfated). I have been waiting for you to come
+		ll-fated! I have been waiting for you to come
+			<lb n="14"/>
+		to me so that I can relate my predicament to you. I ask God to preserve you.
+			<lb n="15"/>
+		... may God prolong your life, give you strength and show you kindness!
+		[...] ...[...] may God prolong your life, give you strength and show you kindness.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1659" xml:id="Grohmann_APEL_190" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 190</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_190</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169410</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> χγʹ‎ηʹ‎ 
+ <lb n="2"/>  γʹ‎ بخون η دينر 
+ <lb n="3"/>  رڤعه αχγʹ‎ϰʹ‎δʹ‎χ 
+ <lb n="4"/>  بسم اللّه الرّحـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="5"/>  أدّى <gap reason="illegible" extent="4" unit="character" /> بن عمر بن مهاجر عمّا يلزمه من الخراج عمّا زرع 
+ <lb n="6"/>  على عبد الرّحمن بن هياطل بالمدينـ<supplied reason="lost" cert="high">ـة</supplied> 
+ <lb n="7"/>  دينار واحد ونصف وثلث ونصفثمن <unclear reason="undefined" cert="high">دينر</unclear> مثقال 
+ <lb n="8"/>  إلى مينا بن شنوده وسويرس بن زكريّا الجهبذين 
+ <lb n="9"/>  بحضرة خليفتي العامل والأمير أعزّهما 
+ <lb n="10"/>  الله لخراج سنة ثلث وتسعين وماتين σςγ 
+ <lb n="11"/>  وكتب سويرس بن زكريّا بخطّه 
+ <lb n="12"/>  وكتب مينا بن شنوده بخطّه 
+ <lb n="seal 1"/>  باللّه يثق 
+ <lb n="seal 1-2"/>  سويرس بن زكريّا 
+ <lb n="seal 2"/>  مينا بن شنوده 
+ <lb n="13-14"/>  αχγʹ‎ϰʹ‎δʹ‎χ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ‪‪1/2+1/3+1/8 
+ <lb n="2"/>‮‪3 baḫūn ‪8 dīnār 
+ <lb n="3"/>ruqʿaẗ ‪1 1/2+1/3+1/24+1/48 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>ʾaddà **** bnu ʿumari bni muhāǧir:in ʿammā yalzamu hu mina ăl ḫarāǧi ʿammā zaraʿa 
+ <lb n="6"/>ʿalà ʿabdi ăr raḥmāni bni hayāṭila bi ăl madīnaẗi 
+ <lb n="7"/>dīnār wāḥid wa niṣfa wa ṯulṯa wa niṣfa ṯumni dīnār:in miṯqāl:in 
+ <lb n="8"/>ʾilà mīnā bni šanūdaha wa sawīrusa bni zakariyyāʾa ăl ǧahbaḏayni 
+ <lb n="9"/>bi ḥaḍraẗi ḫalīfatayi ăl ʿāmili wa ăl ʾamīri ʾaʿazza humā 
+ <lb n="11"/>ăl lāhu li ḫarāǧi sanaẗi ṯalāṯ:in wa tisʿīna wa mitayni ‪293 
+ <lb n="12"/>wa kataba sawīrusu bnu zakariyyāʾa bi ḫaṭṭi hi 
+ <lb n="13"/>wa kataba mīnā bnu šanūdaha bi ḫaṭṭi hi 
+ <lb n="14"/>bi ăl lāhi yaṯiqu 
+ <lb n="15"/>sawīrusu bnu zakariyyāʾa 
+ <lb n="16"/>mīnā bnu šanūdaha 
+ <lb n="17"/>‪1 1/2+1/3+1/24+1/48 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  .... 1/2+1/3+1/8
+		 <lb n="2"/>
+ 	  Pachon 8, Dînâr
+		 <lb n="3"/>
+ 	  folio 3. 1 1/2+1/3+1/24+1/48
+		 <lb n="4"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="5"/>
+ 	  ...... b. ʿUmar b. Muhâǧir has paid on account of that which was due from him for the land-tax for what was sown
+		 <lb n="6"/>
+ 	  on behalf of ʿAbd ar-Raḥmân Hayâṭil in the Capital
+		 <lb n="7"/>
+ 	  one dînâr and one half and one third and a half of an eighth of a dînâr miṯqâlî
+		 <lb n="8"/>
+ 	  to Mînâ b. Šanûda and Sawîros b. Zakariyâ the paymasters,
+		 <lb n="9"/>
+ 	  in the presence of the two deputies of the administrator and the Amîr - may God exalt them -
+		 <lb n="11"/>
+ 	  for the impost of the year two hundred and ninety-three. 293.
+		 <lb n="12"/>
+ 	  And Sawîros b. Zakariyâ has written (it) in his (own) handwriting.
+		 <lb n="13"/>
+ 	  And Mînâ b. Šanûda has written (it) in his (own) handwriting.
+		 <lb n="14"/>
+ 	  In God trusts
+		 <lb n="15"/>
+ 	  Sawîros b. Zakariyâ
+		 <lb n="16"/>
+ 	  Mînâ b. Šanûda.
+		 <lb n="17"/>
+ 	  1 1/2+1/3+1/24+1/48
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1957" xml:id="Grohmann_APEL_219" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 219</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_219</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169689</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" extent="14" unit="character" /> 
+<lb n="recto 2"/>  غائب ورثة يونس الجندي تسعة دنانـ<supplied reason="lost" cert="high">ـير</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  قير بن حول محمّد بن حاتم <app type="BL"><lem resp="APD">دينـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="see transl.">دينر</rdg></app> 
+<lb n="recto 4"/>  أدّى <gap reason="illegible" extent="1" unit="character" /> وربع وسـ<supplied reason="lost" cert="high">ـدس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  ورثة أحمد بن علي بن رجا اثنا عشر دينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" extent="1" unit="character" /> جزلة بن <unclear reason="undefined" cert="high">فضل</unclear> 
+<lb n="recto 7"/>  عبد اللّه بن محمّد الـ<gap reason="illegible" precision="low" extent="3"/>ـار عن ملك 
+<lb n="recto 8"/>  أدّى ورثة <gap reason="illegible" extent="1" unit="character" /> أحمد بن علي <app type="BL"><lem resp="APD">دينـ<supplied reason="lost" cert="high">ـر</supplied> </lem><rdg resp="APD">دينران</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  <supplied reason="lost" cert="high">أدّ</supplied>ى الفضل بن العبّاس العبّاسي اثنا عشر ديـ<supplied reason="lost" cert="high">ـنرا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپل أربعة دنانير 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى أربعة دنانير 
+<lb n="verso 4"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر عن <app type="BL"><lem resp="APD">ساقه </lem><rdg resp="APD">ساقه</rdg></app> 
+<lb n="verso 5"/>  <supplied reason="lost" cert="high">الجـ</supplied>ـندي 
+<lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> عن دسيوه 
+<lb n="verso 7"/>  <supplied reason="lost" cert="high">عبـ</supplied>ـد البارئ ثلثة دنانير 
+<lb n="verso 8"/>  <supplied reason="lost" cert="high">عبـ</supplied>ـد الرّزّاق دينر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>************** 
+ <lb n="2"/>ġāʾib:un waraṯaẗu yūnusa ăl ǧundiyyi tisʿaẗu danānīra *** 
+ <lb n="3"/>qīru bnu ḥūla muḥammadu bnu ḥātim:in dīn*** dīnār:un 
+ <lb n="4"/>ʾaddà * wa rubʿ:un wa suds:un *** 
+ <lb n="5"/>waraṯaẗu ʾaḥmada bni ʿaliyyi bni riǧā ĭṯnā ʿašara dīnār *** 
+ <lb n="6"/>* ǧazlaẗu bnu faḍl:in 
+ <lb n="7"/>ʿabdu ăl lāhi bnu muḥammad:ini ăl ***āru ʿan milki 
+ <lb n="8"/>ʾaddà waraṯaẗi * ʾaḥmada bni ʿaliyy:in dīnār:un dīnārāni *** 
+ <lb n="9"/>ʾaddà ăl faḍlu bnu ăl ʿabbāsi ăl ʿabbāsiyyu ĭṯnā ʿašara dīnār:an *** 
+ <lb n="10"/>** *** * *** 
+ <lb n="11"/>***Bl ʾarbaʿaẗ danānīra 
+ <lb n="12"/>*** ʾarbaʿaẗ danānīra 
+ <lb n="13"/>***r ʿan sāfaha sāqaha 
+ <lb n="14"/>ăl ǧundiyyi 
+ <lb n="15"/>*** ʿan dasyūha 
+ <lb n="16"/>ʿabdu ăl bāriʾu ṯalāṯaẗu danānīra 
+ <lb n="17"/>ʿabdu ăr razzāqi dīnār:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		absent   The heirs of Yûnus al-Ǧundî nine dînâr[s
+			<lb n="3"/>
+		Qîr b. Ḥôl, Muḥammad b. Ḥâtim one (?) dînâ[r
+			<lb n="4"/>
+		he has paid  and a quarter and a si[xth
+			<lb n="5"/>
+		The heirs of Aḥmad ibn ʿAlî b. Riǧâ twelve dînâ[rs
+			<lb n="6"/>
+		Ǧazla b. Faḍl
+			<lb n="7"/>
+		ʿAbdallâh b. Muḥammad, the [...], of the property
+			<lb n="8"/>
+		he has paid  of Aḥmad b. ʿAlî&#039;s heirs one (?) dînâ[r
+			<lb n="9"/>
+		[he has p]aid. Al-Faḍl b. al-ʿAbbâs al-ʿAbbâsî twelve dî[nârs
+			<lb n="10"/>
+			<lb n="11"/>
+		......]... four dînârs
+		......]... fourteen dînârs
+			<lb n="12"/>
+		......]... four dînârs
+		......]... fourteen dînârs
+			<lb n="13"/>
+		]... on behalf of Sâfe
+			<lb n="14"/>
+		. al Ǧu]ndî
+			<lb n="15"/>
+		] on behalf of Daseheu
+			<lb n="16"/>
+		ʿAb]d al-Bârî three dînârs
+			<lb n="17"/>
+		ʿAb]d ar-Razzâq one dînâr
+</ab></div>
+</body>
+</text>
+</TEI>

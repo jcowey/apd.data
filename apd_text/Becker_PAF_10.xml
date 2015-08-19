@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="530" xml:id="Becker_PAF_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 10 (= P.Heid.Arab. I 09)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">19854</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسمـ</supplied><unclear reason="undefined" cert="high">ـم</unclear> اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  من قرّة بن شريك إلى أهل مدينة <app type="BL"><lem resp="APD">أشفوه </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 9”">أشفوه</rdg></app> فأرسلوا إلى هري 
+<lb n="3"/>  باب <app type="BL"><lem resp="APD">اليوم </lem><rdg resp="“Hussein, Steuersystem p. 124, but see plate in Becker”">اليون</rdg></app> ممّا عليكم من <app type="BL"><lem resp="APD">ضرائبت </lem><rdg resp="“Hussein, Steuersystem p. 124, but see plate in Becker”">ضريبة</rdg></app> الطّعام سنة تسعين 
+<lb n="4"/>  ألف إردب قمـ<supplied reason="lost" cert="high">ـح</supplied> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">و</unclear>اكـ<unclear reason="undefined" cert="high">ـتتبوا</unclear> </lem><rdg resp="APD">وأكتبوا</rdg></app> صحبي الهري بما دفعتم 
+<lb n="5"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">اسمـ</unclear>ـها </lem><rdg resp="“Hussein, Steuersystem p. 124”">اسمهما </rdg><rdg resp="“Diem, Aphrodito p. 255f.”">إليهما</rdg></app> به البراه فإن <app type="BL"><lem resp="APD">خلّفتم </lem><rdg resp="“Diem, Aphrodito p. 256”">خلفتم</rdg></app> في شي منه ثمنا فأعطوا في 
+<lb n="6"/>  <supplied reason="lost" cert="high">كلّ</supplied> ثلثة عشر إردب كيل الدّيموس وفي <app type="BL"><lem resp="APD">پوله </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 9”">پوله</rdg></app> دينرا 
+<lb n="7"/>  وكتب مرثد في رمضن من سنة 
+<lb n="8"/>  <app type="BL"><lem resp="APD">پسعپن </lem><rdg resp="APD">إحدى</rdg></app> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà ʾahli madīnaẗi ʾašfūha ʾišqawha fa ʾarsilū ʾilà huryi 
+ <lb n="3"/>bābi ăl yūmi yūni mimmā ʿalay kum min ḍarāʾibati ḍarībaẗi ăṭ ṭaʿāmi sanaẗa tisʿīna 
+ <lb n="4"/>ʾalfa ʾirdabb:in qamḥ wa ĭktatibū ʾaktibū ṣāḥibayi ăl huryi bi mā dafaʿtum 
+ <lb n="5"/>ĭsma ʾilay hā humā himā bi hi ăl barāʾaẗa fa ʾin ḫalaftum ḫallaftum fī šayʾ:in min hu ṯaman:an ṯumn:an fa ʾaʿṭū fī 
+ <lb n="6"/>kulli ṯalāṯaẗa ʿašara ʾirdabb kayla ăd dīmūsi wa fī Bwl nawli hi dīnār:an 
+ <lb n="7"/>wa kataba murṯid:un fī ramaḍāna min sanaẗi 
+ <lb n="8"/>ʾiḥdà ø ø wa tisʿīna 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Allerbarmers! 
+		[Im Namen Gottes, des Barmherzigen, des Erbarmers!] 
+			<lb n="2"/>
+		Schickt an den Staatsspeicher 
+		Von Qorra an die Bewohner von -- im Bezirk] Ašfūh. Schicket an den Staatsspeicher 
+		Von Qorra b. Šarīk an die Bewohner der Stadt Ešqawh. Schicket an das Staatsmagazin 
+			<lb n="3"/>
+		In (Babylon?) ----------] das Getreide im Jahre neunzig 
+		von Bab Ilyon von dem, was euch an Ḍarībat aṭ-Ṭaʿām für das Jahr 90 obliegt, 
+		von Babylon von dem, was euch an Naturalabgaben für das Jahr neunzig obliegt, 
+			<lb n="4"/>
+		--------------] die beiden Vorsteher des Staatsspeichers was Ihr gebt 
+		ein Tausend Artaben Weizen, und bittet die beiden Meister der Hury euch 
+		tausend Artaben Weizen und bittet die beiden Verwalter des Magazins, euch 
+		... und bittet die beiden Verwalter des Magazins, Euch 
+			<lb n="5"/>
+		in ihrem Namen eure Lieferung zu quittieren. ...
+		mit ihrem Namen eure Lieferungen zu quittieren; und wenn ihr als Ersatz für irgend etwas davon Bargeld gebt, so gebet für je 
+		über das, was Ihr in ihm (sc. horreum, Magazin) abgeliefert haben werdet, die Quittung auszustellen ...
+		--------------] von ihm ein Achtel (?) und gebet in 
+			<lb n="6"/>
+		dreizehn Artaben μέτρῳ δημοσίῳ und für das ναῦλον einen Dīnār. 
+		----- --------------] nach dem δημόσιον (Mass?) und im .. ? .. einen Dīnār 
+			<lb n="7"/>
+		Es hat dies geschrieben Murṯid im Ramaḍān des Jahres 
+		----- Es hat dies geschrieben N.N.] im Ramaḍān des Jahres 
+			<lb n="8"/>
+		---- einundneunzig            ]
+		neunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

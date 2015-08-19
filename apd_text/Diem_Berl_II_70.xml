@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1583" xml:id="Diem_Berl_II_70" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 70</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_70</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169341</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم كتابي يأخي والعزيز علي أدام اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">عزّك</supplied> <supplied reason="lost" cert="high">وتأييدك</supplied> 
+<lb n="recto 2"/>  وسلامتك عن حال سلامة ونعمة للّه الحمد على ذلك و<supplied reason="lost" cert="high">وصل</supplied> <supplied reason="lost" cert="high">كتابـ</supplied>ـك <supplied reason="lost" cert="high">يأخـ</supplied>ـي 
+<lb n="recto 3"/>  أيّدك اللّه أنّك تحمل إلى <sic n="superfluous">عنرى</sic><supplied reason="omitted" cert="high">عبپري</supplied> وأنا في التّألّف ثبت وباللّه إنّي 
+<lb n="recto 4"/>  أغار على مالك مثل ما أغار على أهلي وعلى توفير البيع 
+<lb n="recto 5"/>  حپپاط وإذا عرضت لك يأخي حاجة فاكتب إلي بها فإنّي أسر 
+<lb n="recto 6"/>  بقضاها قرأت عليك أفضل السّلام وعلى من تحوطه عنايتك 
+<lb n="recto 7"/>  السّلام وحسبي اللّه ونعم الوكيل 
+<lb n="verso 1 right"/>  <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">أبي</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>للّه بن فرقدوه 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقـ</supplied>ـا<supplied reason="lost" cert="high">ه</supplied> وأدام عزّه <sic n="superfluous">وتأيده</sic><supplied reason="omitted" cert="high">وياپپده</supplied> 
+<lb n="verso 1 left"/>  من <sic n="superfluous">عده</sic><supplied reason="omitted" cert="high">عبده</supplied> مسلم بن حفص 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi kitāb ī yā ʾaḫ ī wa ăl ʿazīza ʿalay ya ʾadāma ăl lāhu ʿizza ka wa taʾyīda ka 
+ <lb n="2"/>wa salāmata ka ʿan ḥāli salāmaẗ:in wa niʿmaẗ:in li l lāhi ăl ḥamdu ʿalà ḏālika wa waṣala kitābu ka yā ʾaḫ ī 
+ <lb n="3"/>ʾayyada ka ăl lāhu ʾanna ka taḥmilu ʾilà ʿanbar ī wa ʾanā fī ăt taʾallufi ṯabt:un wa bi ăl lāhi ʾin nī 
+ <lb n="4"/>ʾaġāru ʿalà māli ka miṯla mā ʾaġāru ʿalà ʾahl ī wa ʿalà tawfīri ăl bayʿi 
+ <lb n="5"/>wa ăli ĭḥtiyāṭi wa ʾiḏā ʿaraḍat la ka yā ʾaḫ ī ḥāǧaẗ:un fa ŭktub ʾilay ya bi hā fa ʾin nī ʾusarru 
+ <lb n="6"/>bi qaḍā hā qaraʾtu ʿalay ka ʾafḍala ăs salāmi wa ʿalà man taḥūṭu hu ʿināyatu ka 
+ <lb n="7"/>ăs salāmu wa ḥasb ī ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="8"/>ʾilà ʾabī *** ăl lāhi bni farqadūha 
+ <lb n="9"/>ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa taʾyīda hu 
+ <lb n="10"/>min ʿabdi hi muslimi bni ḥafṣ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Ichschreibe Dir, o Bruder und Teurer - Gott lasse [Dein Ansehen, Deine Unterstützung]
+			<lb n="2"/>
+		und Deine Wohlbehaltenheit andauern -, wobei ich wohlbehalten bin und es mir gut geht; Preis sei Gott hierfür! [Ich habe] Deine [briefliche Mitteilung erhalten, o Bruder]
+			<lb n="3"/>
+		- Gott stütze Dich -, daß Du (die Ware direkt) zu meinem Lagerhaus (?) transportieren lassen wirst (?). Ich halte an der freundschaftlichen Verbindung (mit Dir) unerschütterlich fest! Bei Gott,
+			<lb n="4"/>
+		ich werde um Deinen Profit so besorgt sein wie um meine Familie, und ebenso (werde ich darum besorgt sein), (von Deiner Ware) möglichst viel zu verkaufen und mich (zugleich) umsichtig zu verhalten.
+			<lb n="5"/>
+		Wenn Du, o Bruder, ein Anliegen hast, dann teile es mir doch mit, denn ich freue mich,
+			<lb n="6"/>
+		wenn ich es (für Dich) erledigen kann. Ich sende Dir die besten Grüße, und auch an diejenigen, die Deine Fürsorge umfängt,
+			<lb n="7"/>
+		Grüße! Mein Genüge ist Gott; welch guter Sachwalter ist er!
+			<lb n="8"/>
+		[An Abū N. N. - - -a]llāh ibn Farqadūh
+			<lb n="9"/>
+		[- Gott lasse ihn lange leben] und lasse sein Ansehen und seine Unterstützung andauern -
+			<lb n="10"/>
+		von seinem Sklaven Muslim ibn Ḥafṣ.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1067" xml:id="Diem_1983OrS_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 27 B (= P.DiemDienstschreiben a)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_1983OrS_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168935</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="- (Diem 1) "/>  لحميد بن عبيد 
+<lb n="1 (Diem 2)"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2 (Diem 3)"/>  إلى <app type="BL"><lem resp="“David-Weill, Cahen et al.; Diem”">عمّار </lem><rdg resp="“David-Weill, Cahen et al.”">عثمن</rdg></app> 
+<lb n="3 (Diem 4)"/>  أمّا بعد <app type="BL"><lem resp="APD">ڤسرح </lem><rdg resp="“Diem”">فسرّح</rdg></app> لحميد 
+<lb n="4 (Diem 5)"/>  بن عبيد سبعة أكبش 
+<lb n="5 (Diem 6)"/>  إن لم تكن خالطت 
+<lb n="6 (Diem 7)"/>  حلب كتب عبد 
+<lb n="7 (Diem 8)"/>  الحميد يوم الجمعة 
+<lb n="9"/>  <supplied reason="lost" cert="high">لتـ</supplied>ـسع ليال خلون 
+<lb n="10"/>  من ذي الحجّة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>li ḥumaydi bni ʿubayd:in 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾilà ʿammār:in ʿuṯmāna 
+ <lb n="4"/>ʾammā baʿdu ø fa maṣraḥ:un sarriḥ li ḥumaydi 
+ <lb n="5"/>bni ʿubayd:in sabʿaẗa sabʿaẗu ʾakbuš:in 
+ <lb n="6"/>ʾin lam takun ḫālaṭat 
+ <lb n="7"/>ḥulub kataba ʿabdu 
+ <lb n="8"/>ăl ḥamīdi yawma ăl ǧumʿaẗi 
+ <lb n="9"/>li tisʿi layāl:in ḫalawna 
+ <lb n="10"/>min ḏī ăl ḥiǧǧaẗi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Für Ḥumaid ibn ʿUbaid.
+			<lb n="2"/>
+		Au nom de Dieu clément miséricordieux
+		Im Namen des barmherzigen und erbarmenden Gottes.
+			<lb n="3"/>
+		A ʿAmmār
+		An ʿAmmār.
+			<lb n="4"/>
+		Ensuite, libre à Humayd
+		Gib frei dem Ḥumaid
+			<lb n="5"/>
+		b. ʿUbayd (de faire paître) sept béliers
+		ibn ʿUbaid sieben Widder,
+			<lb n="6"/>
+		falls sie nicht vermengt gewesen waren
+		sans mélange
+			<lb n="7"/>
+		de brebis. Ecrit par ʿAbd
+		mit Melkbaren (sc. Mutterschafen). Geschrieben von ʿAbd
+			<lb n="8"/>
+		al-Ḥamīd am Freitag,
+		al-Ḥamīd le vendredi
+			<lb n="9"/>
+		als neun Nächte vergangen waren
+		neuf nuits restant
+			<lb n="10"/>
+		de dhuʾl-ḥidjdja.
+		vom Ḏu l-Ḥiǧǧa.
+</ab></div>
+</body>
+</text>
+</TEI>

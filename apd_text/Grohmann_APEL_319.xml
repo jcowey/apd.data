@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1797" xml:id="Grohmann_APEL_319" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 319</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_319</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169538</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  جعلت فداك 
+<lb n="3"/>  <app type="BL"><lem resp="APD">انظر </lem><rdg resp="Diem">انظر </rdg><rdg resp="Diem">أنتظر</rdg></app> الدّينار الّذي قبضته من مفلح 
+<lb n="4"/>  بن يعقوب المعلّم فابعث به إلي إن شا اللّه 
+<lb n="5"/>  حفظك اللّه وجعلت فداك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧuʿiltu fidāʾa ka 
+ <lb n="3"/>ʾanẓuru ŭnẓuri ʾantaẓiru ăd dīnāra ăllaḏī qabaḍta hu min mufliḥi 
+ <lb n="4"/>bni yaʿqūba ăl muʿallimi fa ĭbʿaṯ bi hi ʾilay ya ʾin šāʾa ăl lāhu 
+ <lb n="5"/>ḥafiẓa ka ăl lāhu wa ǧuʿiltu fidāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May I be made your ransom.
+			<lb n="3"/>
+		Ich warte auf den Dinar, den Du...
+		I look for the dînâr which you have taken over from Mufliḥ
+		Kümmere Dich um den Dinar, den Du...
+			<lb n="4"/>
+		b. Yaʿqûb, the teacher. So send it to me, if God wills.
+			<lb n="5"/>
+		May God guard you and may I be made your ransom.
+</ab></div>
+</body>
+</text>
+</TEI>

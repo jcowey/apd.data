@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="919" xml:id="Margoliouth_APRL_1_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ryl.Arab. I I 05 (= P.World p. 171)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_APRL_1_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113678</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  من سرورك به وموقعه منك 
+<lb n="5"/>  <app type="BL"><lem resp="APD">تقدم </lem><rdg resp="“Grohmann”">تقدّم</rdg></app> علينا وإلى ولا خبر عند كتابى 
+<lb n="6"/>  فإذا وقع عندنا خبر خبر كتبت 
+<lb n="7"/>  به تقدم علينا وإلى ولا خبر كتابى عند 
+<lb n="8"/>  إليك فإذا وقع عندنا خبر كتبت 
+<lb n="9"/>  وإن المزرعين به إليك شا سريعا 
+<lb n="10"/>  في الزّرع بأسفل الأرض 
+<lb n="11"/>  الكور لهم الكور قد تسجّلوا لهم وإن ابنتي 
+<lb n="12"/>  زوجها دخلت على زوجها 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  وقد كنت كتبت الكتاب قبل اليوم لأبعث به حين <supplied reason="lost" cert="high">ورد</supplied> قد 
+<lb n="15"/>  ولاية حوي <gap reason="illegible" precision="low" extent="3"/>     
+<lb n="16"/>  وقد كنت كتبت الكتاب قبل اليوم لأبعث به 
+<lb n="17"/>  بن ولاية حوي بن حوي على الصّلاة  والخراج   
+<lb n="18"/>  العمّال بإشخاصهم من العراقين أحببت إعلامك ذلك ذلك 
+<lb n="19"/>  منه على علم وإنّما قرّت ولايته يوم الأحد  
+<lb n="20"/>  لثلث إلى العمّال بإشخاصهم من العراقين أحببت إعلامك ذلك   
+<lb n="21"/>  وقد وقد نقلت التوابيت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>min surūri ka bi hi wa mawqiʿi hi min ka 
+ <lb n="5"/>taqaddama tqdm ʿalay nā wa ʾilay ya wa lā ḫabara ʿinda kitāb ī 
+ <lb n="6"/>ʾilay ka fa ʾiḏā waqaʿa ʿinda nā ḫabar:un katabtu 
+ <lb n="7"/>bi hi ʾilay ka sarīʿ:an ʾin šāʾa ăl lāhu wa ăl qamḥu ʿinda nā 
+ <lb n="8"/>ṯamāniyaẗu waybāt:in wa niṣf:un wa ăš šaʿīru ṯalāṯaẗu ʾarādiba 
+ <lb n="9"/>wa ʾinna ăl muzriʿīna ʿinda nā qad waḍaʿū ʾaydiya hum 
+ <lb n="10"/>fī ăz zarʿi bi ʾasfali ăl ʾarḍi 
+ <lb n="11"/>wa ʾinna ʿummāla ăl kuwari qad tasaǧǧalū la hum wa ʾinna ĭbnat ī 
+ <lb n="12"/>qad daḫalat ʿalà zawǧi hā 
+ <lb n="13"/>*** 
+ <lb n="14"/>wa qad kuntu katabtu ăl kitāba qabla ăl yawmi li ʾabʿaṯa bi hi ḥīna warada ʿalay nā 
+ <lb n="15"/>wilāyaẗu ḥuwayyi bni ḥuwayy:in ʿalà ăṣ ṣalāẗi wa ăl ḫarāǧi 
+ <lb n="16"/>wa qad waliya bnu malīḥa ăz zimāma wa ăl ḫarāǧa wa ʾabū ʿubaydaẗa 
+ <lb n="17"/>bnu ʿuqbaẗa bni nāfiʿ:in ʿalà ăṣ ṣalāẗi wa ăl ḫarāǧi wa qad kataba ḥuwayy:un kitāba hu 
+ <lb n="18"/>ʾilà ăl ʿummāli bi ʾišḫāṣi him mina ăl ʿirāqayni ʾaḥbabtu ʾiʿlāma ka ḏālika 
+ <lb n="19"/>li takūna min hu ʿalà ʿilm:in wa ʾinnamā qarrat wilāyaẗu hu yawma ăl ʾaḥadi 
+ <lb n="20"/>li ṯalāṯ:in ḫalawna min ramaḍāna wa lam yakūn ʿinda nā baʿda hu mā naktubu bi hi 
+ <lb n="21"/>ʾilay ka wa qad nuqilati ăt tawābītu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="3"/>
+			<lb n="4"/>
+		Thy delight in him and the place he holds with thee,
+		your delight in him and the place he holds with you
+			<lb n="5"/>
+		| and I have no news to write
+		it has come (?) to us and to me (?) while I have no news to write
+			<lb n="6"/>
+		to thee, and if we get any news I will write
+		to you, and if we get any news I will write
+			<lb n="7"/>
+		it to thee speedily, if God wills. Wheat is with us
+		it to you speedily, if God will. Wheat is with us
+			<lb n="8"/>
+		eight waibahs and a half and barley three ardebs.
+		eight waibas (= 1 1/3 artaba) and a half (per dirham) and barley three artabas (per dirham)
+			<lb n="9"/>
+		And the cultivators have put their hands
+		and the tenants have put their hands
+			<lb n="10"/>
+		on the crops in the Delta,
+		on the crops in the lower part of the country,
+			<lb n="11"/>
+		and the (local) finance directors have entered (the contracts of lease) for them in the registers. And my daughter
+		and the officials of the districts have registered for them. And my daughter
+			<lb n="12"/>
+		has already cohabited with her husband
+		has cohabited with her husband
+			<lb n="13"/>
+			<lb n="14"/>
+		I had already written the letter the day before (intending) to dispatch it, when we learned
+		Now I had written the letter the day before intending to send it when we learned
+			<lb n="15"/>
+		that Ḥuwayy b. Ḥuwayy had been appointed minister of prayer and kharaj:
+		that Ḥuwayy ibn Ḥuwayy had been appointed governor of prayer and impost
+			<lb n="16"/>
+		and Ibn Malîḥ has just been appointed minister of control and impost, and Abû ʿUbaida
+		now Ibn Malīḥ was appointed minister of control and kharaj and Abu ʿUbaidah
+			<lb n="17"/>
+		b. ʿUqbah b. Nāfiʿ of prayer and kharaj. And Ḥuwayy has written his letter
+		ibn ʿUqba ibn Nâfiʿ of prayer and impost. And Ḥuwayy has written his letter
+			<lb n="18"/>
+		to the local finance directors summoning them from the two ʿIrâqs. I should like to inform thee thereof
+		to the officials bidding them be brought from the two Iraqs. I have thought proper to inform you of this
+			<lb n="19"/>
+		that you might be aware of it. His appointment was only confirmed on Saturday
+		that you mightest be aware of it. His appointment was only confirmed on Sunday, 
+			<lb n="20"/>
+		the third of Ramaḍan. We have nothing more after this to write
+		when three nights had passed of Ramaḍân. We have nothing more after this to write
+			<lb n="21"/>
+		to thee, while the water-wheels have already been transferred.
+		to you. And the tabuts have been transferred
+</ab></div>
+</body>
+</text>
+</TEI>

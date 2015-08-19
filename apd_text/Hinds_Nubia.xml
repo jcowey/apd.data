@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2171" xml:id="Hinds_Nubia" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HindsNubia (= P.AbuSafiyaRisalatMusa)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Hinds_Nubia</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  من موسى بن كـ<supplied reason="lost" cert="high">ـعب</supplied> <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> صاحب مقرّ<supplied reason="omitted" cert="high">ة</supplied> ونوبة سلم على 
+<lb n="3"/>  أوليا اللّه وأهل طاعته <gap reason="illegible" precision="low" extent="3"/> وأحمد إليهم اللّه ا 
+<lb n="4"/>  لدى لإ إلّه الا 
+<lb n="5"/>  أمّا بعد قد عرفت الّذي صولحتم عليه والّذي جعلتم على 
+<lb n="6"/>  أنفسكم من الوفا به فأحرزتم بذلك دماكم وأموالكم إن 
+<lb n="7"/>  أنتم وفيتم واللّه تبارك وتعالى يقول في كتابه أوفوا 
+<lb n="8"/>  بعهد اللّه إذا عهدتم ولا تنقضوا الإيمان بعد 
+<lb n="9"/>  توكيدها وقد جعلتم اللّه عليكم كفيلا إن اللّه 
+<lb n="10"/>  يعلم ما تفعلون وقال أوفوا بعهدي أوف بعهدكم 
+<lb n="11"/>  وإيّاي فارهبون وقد وفينا لكم بالّذي جعلنا لكم علينا من ا 
+<lb n="12"/>  لكف عن دماكم واموالكم وعرڤپ امپكم ڤى 
+<lb n="13"/>  وسكونكم حيث أحببتم منها واختلاف تجّاركم إلينا لا يصل 
+<lb n="14"/>  إليهم منّا ظلم ولا غشم ولا يعتدى على أحد ممّن قبلنا منكم 
+<lb n="15"/>  ولا يمنع من حقّه ولا يحال بين تجّاركم وبين ما أرادوا آمنين 
+<lb n="16"/>  مطمأنّين حيث سلكوا من بلادنا وفا بعهدنا وصدقا لقولنا 
+<lb n="17"/>  وإيمانا بربّنا وتصديقا لنبيّنا 
+<lb n="18"/>  وأنتم فيما بيننا وبينكم على غير ذلك لا تودون إلينا 
+<lb n="19"/>  ما عليكم من البقط الّذي صولحتم عليه ولا تردّون من أبق 
+<lb n="20"/>  إليكم من أرقّائنا ولا يأمن فيكم تجّارنا ولا تعجّلون تسريح 
+<lb n="21"/>  رسلنا إلينا وأنت تعرف أن أهل الأديان كلّها 
+<lb n="22"/>  والملل الّذين لا يعرفون ربّا ولا يومپون ببعث ولا يرجون ثوابا 
+<lb n="23"/>  ولا يخافون عقابا لا يهجمون تاجرا ولا يحبسون رسولا 
+<lb n="24"/>  وأنت تظهر لأهل ملّتك الإيمان بالّذي خلق 
+<lb n="25"/>  السّموت والأرض وما بينهما وتومن بعيسى بن مريم وبكتابه 
+<lb n="26"/>  وتظهر العدل لهم والعمل بالحق وعملكم فيما بيننا 
+<lb n="27"/>  وبينكم مخالف لما تظهر فقد أتاكم تاجر من تجّار أهل 
+<lb n="28"/>  بلدنا يقال له سعد قد ذهب بأموال كثيرة زائغا 
+<lb n="29"/>  بها من أهلها فحبستموه قبلكم وحلتم بينه وبين من يطلبه بحق 
+<lb n="30"/>  ومنعتموه منه وبعث إليكم رجل من أهل أسوان يقال له 
+<lb n="31"/>  محمّد بن زيد تاجرا له في تجارته وطلب حقوق له فا 
+<lb n="32"/>  حپپسپموه وما كان معه من المال <app type="BL"><lem resp="APD">ڤكپپ </lem><rdg resp="APD">إلى</rdg></app> الى 
+<lb n="33"/>  على أسوان يذكر أنّه كتب إلى خليفتك 
+<lb n="34"/>  فيه فكتب إليه خليفتك يسله أن يبعث إليه محمّد 
+<lb n="35"/>  بن زيد صاحب ذلك التّاجر ليستخلفه على ما كان معه من 
+<lb n="36"/>  المال فبعثه إليه في رهط من المسلمين فضربه ضربا 
+<lb n="37"/>  سيّئا وكسر يده وحبسه ثلث ليال عنده حتّى ظن أنّه قاتله 
+<lb n="38"/>  ثم خلّى سبيله فدعاه سلم بن سليمن عاملي على أسوان بالبيّنة 
+<lb n="39"/>  على وصول تاجره إليكم وعلى ما صنع به خليفتك 
+<lb n="40"/>  فأتاه برهط من المسلمين عدول من سكّان أسوان فشهدوا 
+<lb n="41"/>  له بما ذكر من أمره وأمر تاجره وكتب إلي بذلك كلّه 
+<lb n="42"/>  وبعث إلي محمّد بن زيد صاحب ذلك التّاجر فوافى 
+<lb n="43"/>  قدوم بطرة رسولك إلينا فجمعت بينهما ومع بطرة 
+<lb n="44"/>  رهط من أهل ملّتك فذكروا أنّهم 
+<lb n="45"/>  ظنّوا حين أخذوه أنّه ممّن كان يغير عليهم من البجة 
+<lb n="46"/>  فأمرت <app type="BL"><lem resp="APD">غوث </lem><rdg resp="Plumley, cf. transl.">عون</rdg></app> بن سليمن قاضي أهل مصر أن ينظر في أمرهم 
+<lb n="47"/>  ثم تحمّلتم على مثل ما تحمّل عليه النّاس من الحق والعدل 
+<lb n="48"/>  فقضى على بطرة أن يرد ذلك التّاجر وما كان معه من 
+<lb n="49"/>  المال إن كان حيّا وإن كان قد قتل فعليكم ديته 
+<lb n="50"/>  ألف دينر 
+<lb n="51"/>  وبعث إليكم سلم رسولا له منذ تسعة أشهر ورسولا منذ أربعة 
+<lb n="52"/>  أشهر فحبستموهم معما عندكم من أرقّا أهل الإسلم 
+<lb n="53"/>  وأهل ذمّتنا وما عليكم من البقط فإنّه قد ذكر 
+<lb n="54"/>  لي أن عليكم بقط سنين لم تودوه وما بعثتم به من البقط 
+<lb n="55"/>  بعثتم بما لا خير فيه بين أعور أو أعرج أو كبير ضعيف 
+<lb n="56"/>  أو صبي صغير 
+<lb n="57"/>  فانظر فيما كتبت إليك به وعجّل 
+<lb n="58"/>  البعثة إلينا بما بقي عليكم من البقط للسّنين الّتي 
+<lb n="59"/>  قبلكم ولا تبعث بما لا خير فيه فلا نقبله وابعث 
+<lb n="60"/>  إلينا بتاجر محمّد بن زيد وبما كان معه من المال إلّا إن 
+<lb n="61"/>  يكون قد قتل فتبعث بألف دينر ديته وبما كان معه 
+<lb n="62"/>  من مال وابعث إلينا سعد التّاجر الّذي قبلكم ولا توحر 
+<lb n="63"/>  من ذلك شيئا إن كنتم تحبّون أن نفي لكم بعهدنا 
+<lb n="64"/>  ونكون على ما كنّا عليه من الاستقامة لكم وعجّل 
+<lb n="65"/>  ذلك ولا توحره وإن أنت لم تمتثل رأيت فيما 
+<lb n="66"/>  بيني وبينكم رأي إن شا اللّه فإنّي قد أحببت أن أعذر 
+<lb n="67"/>  إليكم وأتّخذ الحجّة عليكم والسّلم على أوليا 
+<lb n="68"/>  اللّه وأهل طاعته وكتب ميمون يوم الأحد 
+<lb n="69"/>  لاثنتي عشرة ليلة بقيت من رجب سنة إحدى وأربعين ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min mūsà bni kaʿb:in ʾilà *** ṣāḥibi muqurraẗa wa nūbaẗa salām:un ʿalà 
+ <lb n="3"/>ʾawliyāʾi ăl lāhi wa ʾahli ṭāʿati hi *** wa ʾaḥmadu ʾilay himi ăl lāha ăllaḏī 
+ <lb n="4"/>lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu qad ʿarafta ăllaḏī ṣūliḥtum ʿalay hi wa ăllaḏī ǧaʿaltum ʿalà 
+ <lb n="6"/>ʾanfusi kum mina ăl wafāʾi bi hi fa ʾaḥraztum bi ḏālika dimāʾa kum wa ʾamwāla kum ʾin 
+ <lb n="7"/>ʾantum wafaytum wa ăl lāhu tabāraka wa taʿālà yaqūlu fī kitābi hi ʾawfū 
+ <lb n="8"/>bi ʿahdi ăl lāhi ʾiḏā ʿāhadtum wa lā tanquḍū ăl ʾīmāna baʿda 
+ <lb n="9"/>tawkīdi hā wa qad ǧaʿaltumu ăl lāha ʿalay kum kafīl:an ʾinna ăl lāha 
+ <lb n="10"/>yaʿlamu mā tafʿalūna wa qāla ʾawfū bi ʿahd ī ʾūfu bi ʿahdi kum 
+ <lb n="11"/>wa ʾiyyā ya fa ĭrhabū ni wa qad wafaynā la kum bi ăllaḏī ǧaʿalnā la kum ʿalay nā mina ăl kaffi 
+ <lb n="12"/>ʿan dimāʾi kum wa ʾamwāli kum wa ʿarafta ʾamna kum fī bilādi nā 
+ <lb n="13"/>wa sukūna kum ḥayṯu ʾaḥbabtum min hā wa ĭḫtilāfa tuǧǧāri kum ʾilay nā lā yaṣilu 
+ <lb n="14"/>ʾilay him min nā ẓulm:un wa lā ġašm:un wa lā yuʿtadà ʿalà ʾaḥad:in mimman qibala nā min kum 
+ <lb n="15"/>wa lā yumnaʿu min ḥaqqi hi wa lā yuḥālu bayna tuǧǧāri kum wa bayna mā ʾarādū ʾāminīna 
+ <lb n="16"/>muṭmaʾinnīna ḥayṯu salakū min bilādi nā wafāʾ:an bi ʿahdi nā wa ṣidq:an li qawli nā 
+ <lb n="17"/>wa ʾīmān:an bi rabbi nā wa taṣdīq:an li nabiyyi nā 
+ <lb n="18"/>wa ʾantum fī mā bayna nā wa bayna kum ʿalà ġayri ḏālika lā tuʾaddūna ʾilay nā 
+ <lb n="19"/>mā ʿalay kum mina ăl baqṭi ăllaḏī ṣūliḥtum ʿalay hi wa lā taruddūna man ʾabaqa 
+ <lb n="20"/>ʾilay kum min ʾariqqāʾi nā wa lā yaʾmanu fī kum tuǧǧāru nā wa lā tuʿaǧǧilūna tasrīḥa 
+ <lb n="21"/>rusuli nā ʾilay nā wa ʾanta taʿrifu ʾanna ʾahla ăl ʾadyāni kulli hā 
+ <lb n="22"/>wa ăl milali ăllaḏīna lā yaʿrifūna rabb:an wa lā yuʾminūna bi baʿṯ:in wa lā yarǧūna ṯawāb:an 
+ <lb n="23"/>wa lā yuḫāfūna ʿiqāb:an lā yahǧumūna tāǧir:an wa lā yaḥbisūna rasūl:an 
+ <lb n="24"/>wa ʾanta tuẓhiru li ʾahli millati ka ăl ʾīmāna bi ăllaḏī ḫalaqa 
+ <lb n="25"/>ăs samawāti wa ăl ʾarḍa wa mā bayna humā wa tuʾminu bi ʿīsà bni maryama wa bi kitābi hi 
+ <lb n="26"/>wa tuẓhiru ăl ʿadla la hum wa ăl ʿamala bi ăl ḥaqqi wa ʿamalu kum fī mā bayna nā 
+ <lb n="27"/>wa bayna kum muḫālif:un li mā tuẓhiru fa qad ʾatā kum tāǧir:un min tuǧǧāri ʾahli 
+ <lb n="28"/>baladi nā yuqālu la hu saʿd:un qad ḏahaba bi ʾamwāl:in kaṯīraẗ:in zāʾiġ:an 
+ <lb n="29"/>bi hā min ʾahli hā fa ḥabastumū hu qibala kum wa ḥultum bayna hu wa bayna man yaṭlubu hu bi ḥaqq:in 
+ <lb n="30"/>wa manaʿtumū hu min hu wa baʿaṯa ʾilay kum raǧul:un min ʾahli ʾaswāna yuqālu la hu 
+ <lb n="31"/>muḥammadu bnu zayd:in tāǧir:an la hu fī tiǧārati hi wa ṭalaba ḥuqūq la hu fa ĭḥtabastumū hu 
+ <lb n="32"/>wa mā kāna maʿa hu mina ăl māli fa kataba ʾilà ʾilay ø ya ʿāmil ī 
+ <lb n="33"/>ʿalà ʾaswāna yaḏkuru ʾanna hu kataba ʾilà ḫalīfati ka 
+ <lb n="34"/>fī hi fa kataba ʾilay hi ḫalīfatu ka yasalu hu ʾan yabʿuṯa ʾilay hi muḥammada 
+ <lb n="35"/>bna zayd:in ṣāḥiba ḏālika ăt tāǧiri li yastaḫlifa hu ʿalà mā kāna maʿa hu mina 
+ <lb n="36"/>ăl māli fa baʿaṯa hu ʾilay hi fī rahṭ:in mina ăl muslimīna fa ḍaraba hu ḍarb:an 
+ <lb n="37"/>sayyiʾ:an wa kasara yada hu wa ḥabasa hu ṯalāṯa layāl:in ʿinda hu ḥattà ẓanna ʾanna hu qātilu hu 
+ <lb n="38"/>ṯumma ḫallà sabīla hu fa daʿā hu salmu bnu sulaymāna ʿāmil ī ʿalà ʾaswāna bi ăl bayyinaẗi 
+ <lb n="39"/>ʿalà wuṣūli tāǧiri hi ʾilay kum wa ʿalà mā ṣanaʿa bi hi ḫalīfatu ka 
+ <lb n="40"/>fa ʾatā hu bi rahṭ:in mina ăl muslimīna ʿudūl:in min sukkāni ʾaswāna fa šahidū 
+ <lb n="41"/>la hu bi mā ḏakara min ʾamri hi wa ʾamri tāǧiri hi wa kataba ʾilay ya bi ḏālika kulli hi 
+ <lb n="42"/>wa baʿaṯa ʾilay ya muḥammada bna zayd:in ṣāḥiba ḏālika ăt tāǧiri fa wāfà 
+ <lb n="43"/>qudūma baṭraẗa rasūli ka ʾilay nā fa ǧamaʿtu bayna humā wa maʿa baṭraẗa 
+ <lb n="44"/>rahṭ:un min ʾahli millati ka fa ḏakarū ʾanna hum 
+ <lb n="45"/>ẓannū ḥīna ʾaḫaḏū hu ʾanna hu mimman kāna yuġīru ʿalay him mina ăl buǧaẗa 
+ <lb n="46"/>fa ʾamartu ġawṯa ʿawna bna sulaymāna qāḍī ʾahli miṣra ʾan yanẓura fī ʾamri him 
+ <lb n="47"/>ṯumma taḥammaltum ʿalà miṯli mā taḥammala ʿalay hi ăn nāsu mina ăl ḥaqqi wa ăl ʿadli 
+ <lb n="48"/>fa qaḍà ʿalà baṭraẗa ʾan yarudda ḏālika ăt tāǧira wa mā kāna maʿa hu mina 
+ <lb n="49"/>ăl māli ʾin kāna ḥayy:an wa ʾin kāna qad qutila fa ʿalay kum diyatu hu 
+ <lb n="50"/>ʾalfu dīnār:in 
+ <lb n="51"/>wa baʿaṯa ʾilay kum salm:un rasūl:an la hu munḏu tisʿaẗi ʾašhur:in wa rasūl:an munḏu ʾarbaʿaẗi 
+ <lb n="52"/>ʾašhur:in fa ḥabastumū hum maʿa mā ʿinda kum mina ʾariqqāʾi ʾahli ăl ʾislāmi 
+ <lb n="53"/>wa ʾahli ḏimmati nā wa mā ʿalay kum mina ăl baqṭi fa ʾinna hu qad ḏakara 
+ <lb n="54"/>l ī ʾanna ʿalay kum baqṭa sinīna lam tuʾaddū hu wa mā baʿaṯtum bi hi mina ăl baqṭi 
+ <lb n="55"/>baʿaṯtum bi mā lā ḫayra fī hi bayna ʾaʿwara ʾaw ʾaʿraǧa ʾaw kabīr:in ḍaʿīf:in 
+ <lb n="56"/>ʾaw ṣabiyy:in ṣaġīr:in 
+ <lb n="57"/>fa ŭnẓur fī mā katabtu ʾilay ka bi hi wa ʿaǧǧil 
+ <lb n="58"/>ăl baʿṯaẗa ʾilay nā bi mā baqiya ʿalay kum mina ăl baqṭi li s sinīna ăllatī 
+ <lb n="59"/>qibala kum wa lā tabʿuṯ bi mā lā ḫayra fī hi fa lā naqbalu hu wa ŭbʿuṯ 
+ <lb n="60"/>ʾilay nā bi tāǧiri muḥammadi bni zayd:in wa bi mā kāna maʿa hu mina ăl māli ʾillā ʾin 
+ <lb n="61"/>yakūna qad qutila fa tabʿuṯa bi ʾalfi dīnār:in diyata hu wa bi mā kāna maʿa hu 
+ <lb n="62"/>min māl:in wa ŭbʿuṯ ʾilay nā saʿd:ana ăt tāǧira ăllaḏī qibala kum wa lā tuʾaḫḫir 
+ <lb n="63"/>min ḏālika šayʾ:an ʾin kuntum tuḥibbūna ʾan nafiya la kum bi ʿahdi nā 
+ <lb n="64"/>wa nakūna ʿalà mā kunnā ʿalay hi mina ăli ĭstiqāmaẗi la kum wa ʿaǧǧil 
+ <lb n="65"/>ḏālika wa lā tuʾaḫḫir hu wa ʾin ʾanta lam tamtaṯil raʾaytu fī mā 
+ <lb n="66"/>bayn ī wa bayna kum raʾy ʾin šāʾa ăl lāhu fa ʾin nī qad ʾaḥbabtu ʾan ʾaʿḏira 
+ <lb n="67"/>ʾilay kum wa ʾattaḫiḏa ăl ḥuǧǧaẗa ʿalay kum wa ăs salāmu ʿalà ʾawliyāʾi 
+ <lb n="68"/>ăl lāhi wa ʾahli ṭāʿati hi wa kataba maymūn:un yawma ăl ʾaḥadi 
+ <lb n="69"/>li ĭṯnatay ʿašraẗa laylaẗ:an baqiyat min raǧabi sanaẗi ʾiḥdà wa ʾarbaʿīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Compassionate, the Merciful
+			<lb n="2"/>
+		From Mūsa b. K[aʿb to] ... ... master (ṣāḥib) of Muqurr[a] and Nubia. Peace be upon
+		From Mūsā b. K[aʿb to] ... ... master of Muqurr&lt;a&gt; and Nubia. Peace be upon
+			<lb n="3"/>
+		the friends (awliyāʾ) of God and those who obey him... To them do I praise God,
+		the friends of God and those who obey Him.... To them do I praise God,
+			<lb n="4"/>
+		other than whom there is no God.
+			<lb n="5"/>
+		To continue. You (sing.) know about which an agreement was made with you and the fulfilment of it
+		To continue. You (sing.) know that on the basis of which a peace agreement was made with you and that which you took
+			<lb n="6"/>
+		upon yourselves to fulfil, so preserving your blood and property if
+		which you took upon yourselves, so preserving your blood and property if
+			<lb n="7"/>
+		you fulfil [it]. God, blessed and exalted is He, says in His book &#034;Fulfil
+			<lb n="8"/>
+		the compact of God when you make a compact, and do not break the oath after
+			<lb n="9"/>
+		it has been affirmed and you have made God your guarantor; verily God
+			<lb n="10"/>
+		knows what you do.&#034; And He said &#034;Fulfil my compact and I shall fulfil your compact;
+		knows what you do.&#034; And He said &#034;Fulfil my compact and I shall fulfil your compact and mine;
+			<lb n="11"/>
+		so fear me.&#034; We have fulfilled for you that which we took upon ourselves for you in
+			<lb n="12"/>
+		desisting from your blood and your property and you (sing.) know your security in our land
+		turning away from your blood and your property and you (sing.) know your security in our land
+			<lb n="13"/>
+		and your dwelling wherever you wish in it and the repairing of your merchants to us, no oppression
+			<lb n="14"/>
+		or harm comes to them from us; no one of you who is among us is attacked by us
+		or wrong comes to them from us; no one of you who is among us is attacked by us
+			<lb n="15"/>
+		nor is he denied his right; no obstacle is placed between your merchants and what they want - [they are] safe
+			<lb n="16"/>
+		and at ease wherever they go in our land, [this being] in fulfillment of our compact, in truth to our word
+		and contented wherever they go in our land, [this being] in fulfillment of our compact, in truth to our word
+			<lb n="17"/>
+		in belief in our Lord and in trust in our Prophet.
+		in belief in our Lord and in verification of our Prophet.
+			<lb n="18"/>
+		You however, in that which lies between us, behave otherwise. You do not bring to us
+		You however, in that which lies between us, behave otherwise. You do not hand over to us
+			<lb n="19"/>
+		that to which you are liable according to the baqṭ on the basis of which / about which agreement was made with you; nor do you return those of our
+		what you owe of the baqṭ about which a peace agreement was made with you; nor do you return those of our
+			<lb n="20"/>
+		slaves who run away to you; nor are our merchants safe among you; nor do you hasten to permit
+		slaves who run away to you; nor are our merchants safe among you; nor do you hasten to send
+			<lb n="21"/>
+		our emissaries [back] to us. You know that the people of all religions
+		our messengers [to return] to us. You know that the people of all religions
+			<lb n="22"/>
+		and the confessions which neither know a lord, nor believe in a resurrection, nor hope for recompense,
+		and the persuasions (milal) which neither know a lord, nor believe in a resurrection, nor hope for recompense,
+			<lb n="23"/>
+		nor fear punishment, [even these] do not attack a merchant or detain a messenger.
+		nor fear punishment, [even these] do not attack a merchant or detain an emissary.
+			<lb n="24"/>
+		You (sing.) make manifest to the people of your confession belief in Him who created
+		You (sing.) make manifest to the people of your persuasion belief in Him who created
+			<lb n="25"/>
+		the heavens and the earth and what is between them, you (sing.) believe in Jesus the son of Mary and his book,
+			<lb n="26"/>
+		and you (sing.) make manifest to them justice and the doing of what is right, while what you do in that which is between you
+		and you (sing.) make manifest to them justice and the doing of what is right, while what you do in that which lies between you
+			<lb n="27"/>
+		and us is contrary to that which you make manifest. One of the merchants of the people
+			<lb n="28"/>
+		of our country, Saʿd by name, came to you with much wealth, having made off
+			<lb n="29"/>
+		with it from its owners, and you detained him among you, stood between him and the one who rightly pursued him
+			<lb n="30"/>
+		and protected him from him. [Secondly] a man of the people of Aswān, named
+			<lb n="31"/>
+		Muḥammad b. Zayd, sent to you a merchant of his, on his business and seeking rights for him.
+			<lb n="32"/>
+		You detained him and the wealth that he had with him, and my governor over Aswān
+			<lb n="33"/>
+		wrote to me, mentioning that he had written to your deputy
+			<lb n="34"/>
+		concerning him and that your deputy had written to him, asking him to send to him Muḥammad
+			<lb n="35"/>
+		b. Zayd, the master of that merchant, so that he might make over to him with the wealth which he (the merchant) had
+			<lb n="36"/>
+		with him. So he (the governor) sent him (Muḥammad) to him (the deputy) with a group of Muslims, and he (the deputy) gave him (Muḥammad) a bad
+			<lb n="37"/>
+		beating and broke his hand and detained him for three nights until he (Muḥammad) thought that he would kill him.
+			<lb n="38"/>
+		Then he (the deputy) let him go, and my governor over Aswān, Salm b. Sulaymān, asked him (Muḥammad) for evidence
+			<lb n="39"/>
+		of the arrival of his merchant to you and of that which your deputy had done to him.
+			<lb n="40"/>
+		He (Muḥammad) then brought to him a group of Muslims, persons of good morals from the inhabitants of Aswān, and they bore witness
+		He (Muḥammad) then brought to him a group of Muslims, witnesses of probity (ʿudūl), from the inhabitants of Aswān, and they bore witness
+			<lb n="41"/>
+		for him of what he had mentioned in the matter of himself and the matter of his merchant. He (Salm) then wrote to me about all of this
+		to him (Salm) of what he (Muḥammad) had mentioned in the matter of himself and the matter of his merchant. He (Salm) then wrote to me about all of this
+			<lb n="42"/>
+		and sent to me Muḥammad b. Zayd, the master of that merchant. He came at the time of the
+			<lb n="43"/>
+		arrival of BṬRH (Peter), your emissary to me, so I brought them together. With Peter
+		arrival of BṬRH (Peter), your messenger to me, so I brought them together. With Peter
+			<lb n="44"/>
+		[was] a group of your confession and they mentioned
+		[was] a group of your persuasion, and they mentioned
+			<lb n="45"/>
+		that they thought, when they took him (the merchant), that he was one of the Beǧa who make attacks on them.
+		that they thought, when they took him (the merchant), that he was one of the Beja who make attacks on them.
+			<lb n="46"/>
+		I then instructed ʿAwn b. Sulaymān, qāḍī of the people of Miṣr, to look into their affair;
+		I then instructed Ğawṯ b. Sulaymān, qāḍī of the people of Miṣr, to look into their affair;
+			<lb n="47"/>
+		then were you made to bear the like of the right and justice which the people (al-nās, i.e. Muslims?) are made to bear,
+		then were you made to bear the like of the right and justice which the people (scil. of Egypt) are made to bear.
+			<lb n="48"/>
+		for he judged that Peter should return that merchant, together with the wealth that is
+		He judged that Peter should return that merchant, together with the wealth that is
+			<lb n="49"/>
+		with him, if he is alive, and if he has been killed you are liable to blood money of
+		with him, if he is alive, and if is dead, you are liable to blood money of
+			<lb n="50"/>
+		one thousand dinars.
+			<lb n="51"/>
+		Salm sent to you a messenger of his nine months ago, and a messenger four months
+		Salm sent to you an emissary of his nine months ago, and an emissary four months
+			<lb n="52"/>
+		ago, and you detained them, together with those slaves of the people of Islam and of the people
+			<lb n="53"/>
+		protected by us who are with you, and that of the baqṭ to which you are liable. For he (Salm) mentioned to me
+		protected by us who are with you, as well [being liable to] that to which you are liable in the baqṭ. It has been mentioned to me / He (Salm) mentioned to me
+			<lb n="54"/>
+		that you are liable to the baqṭ of [outstanding] years, which you have not made over ; [that, in respect of] such of the baqṭ as you have sent,
+		that you are liable to the baqṭ of [several] years, which you have not fulfilled; as for that which you have sent in accordance with the baqṭ,
+			<lb n="55"/>
+		you have sent that in which there is no good - the one-eyed, or the lame, or the weak old man,
+			<lb n="56"/>
+		or the young boy.
+			<lb n="57"/>
+		So look (sing.) into that about which I have written to you (sing.) and hasten (sing.)
+			<lb n="58"/>
+		the dispatching to us of that of the baqṭ for which you are still liable for the [outstanding] years, which is
+		the dispatching to us of your remaining liability according to the baqṭ for the years for which
+			<lb n="59"/>
+		with you, and to not send (sing.) that in which there is no good, for we do not accept it; and send (sing.)
+		you owe and to not send (sing.) that in which there is no good, for we do not accept it; and send (sing.)
+			<lb n="60"/>
+		to us the merchant of Muḥammad b. Zayd and the wealth which was with him, unless
+			<lb n="61"/>
+		he has been killed, in which case send (sing.) the thousand dinars, his blood money, together with
+			<lb n="62"/>
+		the wealth which was with him; and send (sing.) to us Saʿd the merchant who is among you and be not tardy (sing.)
+			<lb n="63"/>
+		in that in any respect if you wish us to fulfil for you our compact
+			<lb n="64"/>
+		and to continue as we did in dealing correctly with you. Hasten (sing.)
+			<lb n="65"/>
+		that and to not delay (sing.) it. If you (sing.) do not obey, I shall have
+			<lb n="66"/>
+		my view concerning what is between you and me, God willing. I have wanted to eceed the usual bounds in exhorting you
+			<lb n="67"/>
+		and to take proof against you. Peace be upon the friends of
+			<lb n="68"/>
+		God and those who obey him. Written by Maymūn on Sunday,
+			<lb n="69"/>
+		the twelfth night remaining in Rajab in the year 141.
+		twelve nights remaining of Raǧab in the year 141.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1788" xml:id="Grohmann_APEL_312" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 312</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_312</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169529</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1 = Diem recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="verso 2 = Diem recto 2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّك</supplied> <supplied reason="lost" cert="high">و</supplied>كرامتك وتأييدك وسعادتك وسلامتك <app type="BL"><lem resp="APD">وحياطك </lem><rdg resp="Diem">وحياطتك</rdg></app> وأتم نعمته عليك وجعلني من الأسوا كلّها 
+<lb n="verso 3 = Diem recto 3"/>  <supplied reason="lost" cert="high">فداك</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">كتابي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـس </lem><rdg resp="Diem">لـ<gap reason="illegible" precision="low" extent="3"/> ـ</rdg></app> <app type="BL"><lem resp="APD">مراى </lem><rdg resp="Diem">ليال</rdg></app> <app type="BL"><lem resp="APD">الححه </lem><rdg resp="Diem">بقين</rdg></app> <app type="BL"><lem resp="APD">عن </lem><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD">حال </lem><rdg resp="Diem">ذي</rdg></app> سلامه ڤى الحپر ومسا<supplied reason="omitted" cert="high">ء</supplied>لك وحمپع عاپلپك <app type="BL"><lem resp="APD">پالحپر </lem><rdg resp="APD">وسارّك</rdg></app> ڤى <app type="BL"><lem resp="APD">كل </lem><rdg resp="APD">عيلتك</rdg></app> عاڤبه ووصلپ 
+<lb n="verso 4 = Diem recto 4"/>  <supplied reason="lost" cert="high">رقعتك</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">إليّ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـدى </lem><rdg resp="Diem">فقرأتها</rdg></app> <app type="BL"><lem resp="APD">سلامپك </lem><rdg resp="Diem">وفهمتها</rdg></app> <app type="BL"><lem resp="APD">ادامها </lem><rdg resp="Diem">وسرّني</rdg></app> الله لك وڤد كپپ ڤبصپ الڤمح من العلمان وهو سته <app type="BL"><lem resp="APD">ارادپ </lem><rdg resp="Diem">وهي</rdg></app> 
+<lb n="verso 5 = Diem recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أكل</rdg></app> <gap reason="illegible" extent="1" unit="character" /> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الڤنم</unclear> </lem><rdg resp="Diem">الغنم</rdg></app> غلّة كثيرة بالبلد كلّه <app type="BL"><lem resp="APD">فبلغت </lem><rdg resp="Diem">فتلفت</rdg></app> كلّها <app type="BL"><lem resp="APD">فوجدت </lem><rdg resp="Diem">فوخّرت</rdg></app> أخذها ودوابّك على أفضل سارّك 
+<lb n="verso 6 = Diem recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>قد صاع الشّمّاس فلم تذكرها لي في كتبك وقد عجزوا <sic n="superfluous">مپها</sic> عنها النّصارا وطلبوا الشّركة 
+<lb n="verso 7 = Diem recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">بذلك </lem><rdg resp="Diem">وبذلك</rdg></app> أوما إليه وندموا حيث لم يسلّموها إليك واللّه اللّه لا <app type="BL"><lem resp="APD">سلّم </lem><rdg resp="Diem">تسلّم</rdg></app> الخط الّذي معك 
+<lb n="verso 8 = Diem recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">الدّنانير </lem><rdg resp="Diem">بدانانيره</rdg></app> بإدفوا فإن كنت دفعت إليه الخط <app type="BL"><lem resp="APD">فاسترجعه </lem><rdg resp="Diem">فاسترجعه</rdg></app> منه <app type="BL"><lem resp="APD">نقرأ </lem><rdg resp="Diem? not mentioned, but see translation">نقرأ</rdg></app> على أبي عبد اللّه 
+<lb n="verso 9 = Diem recto 9"/>  <supplied reason="lost" cert="high">السّلم</supplied> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـارپه </lem><rdg resp="Diem">وبه</rdg></app> قد <app type="BL"><lem resp="APD">خرج </lem><rdg resp="Diem">خرج</rdg></app> دينار أكثره <app type="BL"><lem resp="APD">فيكون </lem><rdg resp="Diem">فيكون</rdg></app> <app type="BL"><lem resp="APD">علّمت </lem><rdg resp="Diem">علمه</rdg></app> <app type="BL"><lem resp="APD">عنده </lem><rdg resp="Diem">عنده</rdg></app> ليتقدّم إلى الشّيخ أيّده اللّه في معاونته إن شا اللّه 
+<lb n="recto 1 = Diem verso 7"/>  <app type="BL"><lem resp="APD">أنصفه </lem><rdg resp="APD">أنصفه </rdg><rdg resp="Diem">نصفه</rdg></app> قسط قطران <app type="BL"><lem resp="APD">نافف </lem><rdg resp="Diem">بليغ</rdg></app> <app type="BL"><lem resp="APD">العم </lem><rdg resp="Diem">للغنم</rdg></app> <app type="BL"><lem resp="APD">ارپيبه </lem><rdg resp="Diem">إن</rdg></app> 
+<lb n="recto 2 = Diem address 1"/>  <supplied reason="lost" cert="high">إلـ</supplied>ـى عبد الحامي <gap reason="illegible" extent="5" unit="character" /> بن يزيد الكندي أطال اللّه بقاه من أخيه محمّد بن يز<supplied reason="lost" cert="high">يد</supplied> 
+<lb n="recto 3 = Diem address 2"/>  وأدام عزّه وتأييده وسلامته ونعمه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka wa salāmata ka wa ḥiyāṭa ḥiyāṭaẗa ka wa ʾatamma niʿmata hu ʿalay ka wa ǧaʿala nī mina ăl ʾaswāʾi kulli hā 
+ <lb n="3"/>fidāʾa ka *** kitāb ø ī ø li ø *** ø layāl:in ***s baqīna marʾà min ø ḏī ăl ḥiǧǧaẗi ḥuǧǧaẗi ʿan ḥāli salāmaẗ:in fī ăl ḫayri wa masāʾili sārri ka wa ǧamīʿi ǧamīʿu ʿāʾilati ʿaylati ka bi ăl ḫayri fī kulli ʿāfiyaẗ:in wa waṣalat 
+ <lb n="4"/>ruqʿatu ka *** ʾilay ø ya ø fa ø qaraʾtu ø hā ø wa ø fahimtu ø hā ***dy wa ø sarra ø nī salāmatu ka ʾadāma hā ăl lāhu la ka wa qad kuntu qabaḍtu ăl qamḥa mina ăl ġilmāni wa huwa hiya sittaẗu ʾarādiba 
+ <lb n="5"/>*** *** ʾakala * ăl fnm ġanamu ġallaẗ:an kaṯīraẗ:an bi ăl baladi kulli hi fa balaġat talifat kullu hā fa waǧadtu waḫḫartu ʾaḫḏa hā wa dawābbu ka ʿalà ʾafḍali sārri ka 
+ <lb n="6"/>*** *** wa qad ṣāʿa ăš šammāsa šammāsu fa lam taḏkur hā l ī fī kutubi ka wa qad ʿaǧazū ʿan hā ăn naṣārā wa ṭalabū ăš šarikaẗa 
+ <lb n="7"/>*** *** ø wa bi ḏālika ʾawmā ʾilay hi wa nadimū ḥayṯu lam yusallimū hā ʾilay ka wa ăl lāha ăl lāha lā sallama tusallim ăl ḫaṭṭa ăllaḏī maʿa ka 
+ <lb n="8"/>*** *** ăd bi danānīr danānīri ø hi bi ʾidfū fa ʾin kunta dafaʿta ʾilay hi ăl ḫaṭṭa fa ʾastarǧiʿu ĭstarǧiʿ hu min hu naqraʾu taqraʾu ʿalà ʾabī ʿabdi ăl lāhi 
+ <lb n="9"/>ăs salāma *** ***ʾrBh wa ø bi ø hi qad ḫaraǧa ḫarraǧa dīnār dīnār:un ʾakṯara hu fa yakūna takūnu ʿallamta ʿilmu ø hu ʿabda ʿinda hu li yataqaddama ʾilà ăš šayḫi ʾayyada hu ăl lāhu fī muʿāwanati hi ʾin šāʾa ăl lāhu 
+ <lb n="10"/>ʾanṣif ʾnṣfh niṣfu hu ölsdfjlsdlk qisṭu qaṭrāna nʾff balīġ:in ʾlʿm li ø l ø ġanami ʾrBybh ʾin ø šāʾa ø ăl ø lāhu 
+ <lb n="11"/>ʾilà ʿabdi ăl ḥāmī ***** bni yazīda ăl kindiyyi ʾaṭāla ăl lāhu baqāʾa hu min ʾaḫī hi muḥammad:ini bni yazīda 
+ <lb n="12"/>wa ʾadāma ʿizza hu wa taʾyīda hu wa salāmata hu wa niʿama hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!]
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[Gott lasse Dich lange leben und gewähre Dir weiterhin Ansehen,] ehrenvolle Stellung, Unterstützung, Glück, Wohlbehaltenheit und Fürsorge, schenke Dir seine vollkommene Gnade und mache mich von allen Übeln
+		[May God prolong your life and may He cause your might,] honour, strength, happiness, safety and protection to continue and may He fulfil his loving kindness unto you and make me for all evil
+			<lb n="3"/>
+		[your ransom ..................] to see the proof in the condition of safety in good state, and your needs and all your family in beneficience in all health: there has arrived
+		[zu Deinem Lösegeld! Ich schreibe Dir, da so-und-so-viele Nächte ver]bleiben vom (Monat) Ḏū l-Ḥiǧǧa, im Zustand von Wohlbehaltenheit und einer Verfassung, die Dich nur freuen kann, wobei Deine gesamte Familie in guten Verhältnissen (und) bei bester Gesundheit ist, nach der Ankunft
+			<lb n="4"/>
+		[Deines Briefes bei mir. Ich habe ihn gelesen und verstanden, und] es hat mich gefreut, daß Du wohlbehalten bist - möge Gott Dir dies auch weiterhin gewähren! Ich habe von den Burschen den Weizen in Empfang genommen; es sind sechs Irdabb
+		[your note ............] ...... your safety - may God cause it to continue for you -, and I have already received the wheat from the mates, and this comes up to six artabas
+			<lb n="5"/>
+		[3-4 Wörter. Es fraßen] die Schafe in der ganzen Ortschaft einen großen Teil der Ernte, so daß sie ganz verdorben ist. Ich habe deshalb ihre (sc. der Ernte) Übernahme zurückgestellt. Deine Tiere sind in dem für Dich allererfreulichsten Zustand.
+		[...] ...... abundant corn in the whole country; now it became all ripened, and I found the gathering of it and your hackneys in the best (condition that may) make you happy
+			<lb n="6"/>
+		[4-5 Wörter, nachdem] der Diakon (den Weizen) abgemessen hat, aber Du hast sie (sc. eine bestimmte Sache) mir gegenüber in Deinen Briefen nicht erwähnt. Die Christen (sc. die koptischen Bauern) waren hierzu (sc. zu der Sache) nicht fähig und verlangten (deshalb) die Teilhaberschaft
+		[...] and he has already frightened the deacon. But you did not mention it to me in your letters. And the Christians were not equal thereto and demanded the company
+			<lb n="7"/>
+		[mit N.N. (?) 3-4 Wörter] und er gab ihm eine dahingehende Anweisung. Sie fühlten Reue, weil sie sie (sc. die bestimmte Sache) Dir nicht übergeben hatten. Denke unbedingt daran, ihm das Dokument, das Du dabei hast, nicht auszuhändigen
+		[...] therewith he gave him a wink; and they repented because they had not handed it over to you. By God, (O) God, he has not handed over the handbill which is with you
+			<lb n="8"/>
+		[4-5 Wörter] mit seinen Dinaren in Udfū. Solltest Du ihm aber das Dokument ausgehändigt haben, dann verlange es von ihm zurück! Wir grüßen Abū ʿAbd Allāh
+		[...] the dînârs in Edfû; but if you have delivered the handbill to him, I shall take it back from him. Greet Abû ʿAbdallâh
+			<lb n="9"/>
+		[4-5 Wörter]..., und damit ist ein Dinar zum größten Teil ausgegeben. Dies möge er somit zur Kenntnis nehmen, damit er den Scheich - Gott stütze ihn - bittet, ihm zu helfen, so Gott will!
+		[...] ... He has already paid one dînâr more. So you have let his slave know, that he is gone to the master - may God strengthen him - to help him, if God wills.
+			<lb n="10"/>
+		........................... a xestes of pitch .................................
+		[Und besorge 1-2 Wörter], die Hälfte hiervon ein Qisṭ wirksames (?) Pech für die Schafe, so Gott will!
+			<lb n="11"/>
+		[T]o ʿAbd al-Ḥâmî ... b. Yazîd al-Kindî - may God prolong his life - from his brother Muḥammad b. Yaz[îd].
+			<lb n="12"/>
+		and may He cause his might, strength, wellbeing and prosperousness to continue -
+</ab></div>
+</body>
+</text>
+</TEI>

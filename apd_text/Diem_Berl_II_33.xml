@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1518" xml:id="Diem_Berl_II_33" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 33</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_33</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169289</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  و<supplied reason="lost" cert="high">قـ</supplied>ـد و<supplied reason="lost" cert="high">قـ</supplied>ـفت <supplied reason="lost" cert="high">عـ</supplied>ـلى الرّسم <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـيهم </lem><rdg resp="APD">إليهم </rdg><rdg resp="APD">جواليهم</rdg></app> 
+<lb n="2"/>  والقوم فقد <unclear reason="undefined" cert="high">عيّوا</unclear> لك الوزن فأمّا أنا فليس يجوز أن أستخرج 
+<lb n="3"/>  منهم درهم ولا دينار ولا أمرت بشي من هذا فكيف أكتب لهم بروات 
+<lb n="4"/>  وكيف يجوز أن أكتب أنا براه لرجل أنت تطالبه بلى إن دفعت أنت إلي 
+<lb n="5"/>  شي كتبت لك براه به فأمّا لغيرك فما بيني وبينه عمل وأنت أيّدك اللّه 
+<lb n="6"/>  إن كنت مشغول أنفذت رسولك وصاحبك حتّى يستخرج منهم ويكتب 
+<lb n="7"/>  البرااپ كما يرى وإن اخترت أن يمضي أبو الغطريف معه لقضا هذ<supplied reason="omitted" cert="high">ه</supplied> القضيّة 
+<lb n="8"/>  فعلنا وأنا منتظر لما يكون منك في ذلك وقد شيت علي بالدّنانير 
+<lb n="9"/>  للغلمان الّذي مع قائدينا أيّدهما اللّه فأحب أن تنفذ صاحبك وتفرج 
+<lb n="10"/>  عنّا بها فعلت متفضّلا إن شا اللّه فقد رددت إليك الكتاب 
+<lb n="11"/>  الّذي كتبته إلي فتعرّفني ما عندك في هذا الكتاب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa qad waqaftu ʿalà ăr rasmi ****** ******* **** ***y ʾilay ǧawālī hum him 
+ <lb n="2"/>wa ăl qawmu fa qad ʿayyū la ka ăl wazna fa ʾammā ʾanā fa laysa yaǧūzu ʾan ʾastaḫriǧa 
+ <lb n="3"/>min hum dirham wa lā dīnār wa lā ʾumirtu bi šayʾ:in min hāḏā fa kayfa ʾaktubu la hum barawāt:in 
+ <lb n="4"/>wa kayfa yaǧūzu ʾan ʾaktuba ʾanā barāʾaẗ:an li raǧul:in ʾanta tuṭālibu hu balà ʾin dafaʿta ʾanta ʾilay ya 
+ <lb n="5"/>šayʾ katabtu la ka barāʾaẗ:an bi hi fa ʾammā li ġayri ka fa mā bayn ī wa bayna hu ʿamal:un wa ʾanta ʾayyada ka ăl lāhu 
+ <lb n="6"/>ʾin kunta mašġūl ʾanfaḏta rasūla ka wa ṣāḥiba ka ḥattà yastaḫriǧa min hum wa yaktuba 
+ <lb n="7"/>ăl barāʾāti ka mā yarà wa ʾini ĭḫtarta ʾan yamḍiya ʾabū ăl ġiṭrīfi maʿa hu li qaḍāʾi hāḏihi ăl qaḍiyyaẗi 
+ <lb n="8"/>faʿalnā wa ʾanā muntaẓir:un li mā yakūnu min ka fī ḏālika wa qad šīta ʿalay ya bi ăd danānīri 
+ <lb n="9"/>li l ġilmāni ăllaḏī maʿa qāʾiday nā ʾayyada humā ăl lāhu fa ʾuḥibbu ʾan tunfiḏa ṣāḥiba ka wa tafriǧa 
+ <lb n="10"/>ʿan nā bi hā faʿalta mutafaḍḍil:an ʾin šāʾa ăl lāhu fa qad radadtu ʾilay ka ăl kitāba 
+ <lb n="11"/>ăllaḏī katabta hu ʾilay ya fa tuʿarrif nī mā ʿinda ka fī hāḏā ăl kitābi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		und ich habe von der Gebühr Kenntnis genommen - - - [- - -] sie,
+			<lb n="2"/>
+		und was die Leute betrifft, so waren sie nicht imstande (?), die Zahlung an Dich zu leisten. Was nun mich betrifft, so ist es (mir) nicht erlaubt,
+			<lb n="3"/>
+		von ihnen irgendeinen Betrag einzutreiben, und man hat mir (auch) nichts dergleichen befohlen. Wie sollte ich ihnen also Quittungen ausstellen,
+			<lb n="4"/>
+		und wie sollte es (mir) erlaubt sein, einem Mann, gegen den Du eine Forderung erhebst, eine Quittung auszustellen? Jawohl, wenn Du an mich
+			<lb n="5"/>
+		eine Zahlung leisten würdest, könnte ich Dir darüber eine Quittung ausstellen, aber (wenn es um eine Quittung) für jemand anders (geht), nun, so besteht ja zwischen mir und ihm keine Buchführung. Du kannst doch - Gott stütze Dich -,
+			<lb n="6"/>
+		falls Du (selbst zu) beschäftigt bist, Deinen Abgesandten und Deinen Partner senden, so daß er bei ihnen (die Steuer) eintreibt und
+			<lb n="7"/>
+		die Quittungen so ausstellt, wie er es für richtig hält. Solltest Du es aber vorziehen, daß ihn Abū l-Ġiṭrīf begleitet, um diese Angelegenheit zu erledigen,
+			<lb n="8"/>
+		so sind wir auch dazu bereit. Ich erwarte (also) Deinen Bescheid in dieser Angelegenheit, nachdem Du (zunächst) die (Eintreibung der) Dinare mir zugedacht hattest
+			<lb n="9"/>
+		und die Burschen, die unsere beiden Kommandanten - Gott stärke sie - dabeihaben, hattest entlasten wollen. Ich möchte also gern, daß Du bitte freundlicherweise Deinen Partner sendest und
+			<lb n="10"/>
+		uns von ihnen entlastest, so Gott will. Hiermit sende ich Dir also den Brief,
+			<lb n="11"/>
+		den Du mir geschrieben hast, zurück; laß mich Deine Meinung über diesen (meinen) Brief wissen!
+</ab></div>
+</body>
+</text>
+</TEI>

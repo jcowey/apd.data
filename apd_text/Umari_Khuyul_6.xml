@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2117" xml:id="Umari_Khuyul_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أقر المعلّم محمّد المدعو سعود بن المعلّم عبد العزيز بن يحيى أحد المعلّمين والدّلّالين 
+<lb n="recto 3"/>  بسوق الخيل عرف بابن زين الإقرار الشّرعي في صحّته واختياره أن في ذمّته 
+<lb n="recto 4"/>  بحق شرعي للجناب العالي السّيفي نقطباي السّيفي فخماس من طبقة الزّماميّة أعزّه اللّه 
+<lb n="recto 5"/>  من الذّهب معاملة تاريخه خمسة وثلاثين دينارا الحال من ذلك ستّة دنانير 
+<lb n="recto 6"/>  والباقي يقوم به مقسّطا علي في سلخ كل شهر من استقبال المحرّم سنة أحد عشر 
+<lb n="recto 7"/>  وتسعمائة من الذّهب أربعة دنانير وأقر بسلامته وقدرته على ذلك وذلك 
+<lb n="recto 8"/>  ثمن ما ابتاعه وتسلّمه التّسلّم الشّرعي وهو جميع فحل محلّى بوز بحمرة بدين 
+<lb n="recto 9"/>  القد مشطّب بالنّار وبغلة حمرا عالية القد سالمة من النّار معلومة بذلك 
+<lb n="recto 10"/>  لهما شرعا بعد النّظر والمعرفة والمعاودة الشّرعيّة والتّقلّب الشّرعي 
+<lb n="recto 11"/>  بشرط البرا من كل عيب سوى الحـ<supplied reason="omitted" cert="high">ـا</supplied>ل وأكل العليق وتصديقهما على هـ<supplied reason="lost" cert="high">ـذ</supplied>ا 
+<lb n="recto 12"/>  ووكّلا في بيعه وطلب الحكم به تاريخ خامس عشرين الحجّة سنة عشر وتسعمائة 
+<lb n="recto 13"/>  شهد بذلك شهد بذلك 
+<lb n="recto 14"/>  عبد الباسط البلقي محمّد بن محمّد بن علي بن أبي المعادي 
+<lb n="verso 1"/>  الحمد للّه 
+<lb n="verso 2"/>  أقر <gap reason="illegible" extent="6" unit="character" /> أن وصل من المعلّم سعود المذكور باطنه 
+<lb n="verso 3"/>  من الذّهب ستّة وعشرين دينارا <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso 4"/>  دفعه <gap reason="illegible" extent="4" unit="character" /> وأقر به على خمس 
+<lb n="verso 5"/>  نقدات في يوم تاريخه في خامس 
+<lb n="verso 6"/>  عشر جمادى سنة أحد عشر <gap reason="illegible" extent="6" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ăl muʿallimu muḥammad:unu ăl madʿuwwu suʿūda bnu ăl muʿallimi ʿabdi ăl ʿazīzi bni yaḥyà ʾaḥadu ăl muʿallimīna wa ăd dallālīna 
+ <lb n="3"/>bi sūqi ăl ḫayli ʿurifa bi ĭbni zayn:ini ăl ʾiqrāra ăš šarʿiyya fī ṣiḥḥati hi wa ĭḫtiyāri hi ʾanna fī ḏimmati hi 
+ <lb n="4"/>bi ḥaqq:in šarʿiyy:in li l ǧanābi ăl ʿālī ăs sayfiyyi naqaṭbāya ăs sayfiyyi faḫmāsa min ṭabaqaẗi ăz zamāmiyyaẗi ʾaʿazza hu ăl lāhu 
+ <lb n="5"/>mina ăḏ ḏahabi muʿāmalaẗa tārīḫi hi ḫamsaẗ:an wa ṯalāṯīna dīnār:an ăl ḥāllu min ḏālika sittaẗu danānīra 
+ <lb n="6"/>wa ăl bāqī yaqūmu bi hi muqassiṭ:an ʿalay ya fī salḫi kulli šahr:in mina ĭstiqbāli ăl muḥarrami sanaẗa ʾaḥada ʿašara 
+ <lb n="7"/>wa tisʿi miʾaẗ:in mina ăḏ ḏahabi ʾarbaʿaẗu danānīra wa ʾaqarra bi salāmati hi wa qudrati hi ʿalà ḏālika wa ḏālika 
+ <lb n="8"/>ṯamanu mā ĭbtāʿa hu wa tasallama hu ăt tasalluma ăš šarʿiyya wa huwa ǧamīʿu faḥl:in muḥall:an būz:in bi ḥumraẗ:in badīni 
+ <lb n="9"/>ăl qaddi mušaṭṭab:in bi ăn nāri wa baġlaẗ:in ḥamrāʾa ʿāliyaẗi ăl qaddi sālimaẗ:in mina ăn nāri maʿlūmaẗ:in bi ḏālika 
+ <lb n="10"/>la humā šarʿ:an baʿda ăn naẓari wa ăl maʿrifaẗi wa ăl muʿāwadaẗi ăš šarʿiyyaẗi wa ăt taqallubi ăš šarʿiyyi 
+ <lb n="11"/>bi šarṭi ăl barāʾi min kulli ʿayb:in siwà ăl ḥāli wa ʾakli ăl ʿalīqi wa taṣdīqi himā ʿalà hāḏā 
+ <lb n="12"/>wa wakkalā fī bayʿi hi wa ṭalaba ăl ḥukma bi hi tārīḫa ḫāmisi ʿišrīna ăl ḥiǧǧaẗi sanaẗa ʿašr:in wa tisʿi miʾaẗ:in 
+ <lb n="13"/>šahida bi ḏālika šahida bi ḏālika 
+ <lb n="14"/>ʿabdu ăl bāsiṭi ăl balqiyyu muḥammadu bnu muḥammadi bni ʿaliyyi bni ʾabī ăl maʿādī 
+ <lb n="15"/>ăl ḥamdu li l lāhi 
+ <lb n="16"/>ʾaqarra ****** ʾan waṣala mina ăl muʿallimi suʿūd:ini ăl maḏkūri bāṭina hu 
+ <lb n="17"/>mina ăḏ ḏahabi sittaẗ:un wa ʿišrīna dīnār:an **** 
+ <lb n="18"/>dafaʿa hu **** wa ʾaqarra bi hi ʿalà ḫamsi 
+ <lb n="19"/>naqadāt:in fī yawmi tārīḫi hi fī ḫāmisa 
+ <lb n="20"/>ʿašara ǧumādà sanaẗa ʾaḥada ʿašara ****** 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

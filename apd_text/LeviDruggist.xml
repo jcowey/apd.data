@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2101" xml:id="LeviDruggist" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.LevidellaVidaDruggist (= P.Philad.Arab. 052)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">LeviDruggist</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷ <gap reason="illegible" extent="1" unit="character" /> قرنفل ÷ ÷ درهم <gap reason="illegible" precision="low" extent="3"/> بنك 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" />÷ </lem><rdg resp="P.Philad.Arab. 52">÷÷÷</rdg></app> <gap reason="illegible" extent="1" unit="character" /> قسط <app type="BL"><lem resp="APD">÷÷ </lem><rdg resp="P.Philad.Arab. 52">÷÷÷</rdg></app> 
+<lb n="4"/>  <gap reason="illegible" extent="1" unit="character" /> بان <gap reason="illegible" extent="1" unit="character" /> مسك ÷ <gap reason="illegible" extent="1" unit="character" /> محلب و<gap reason="illegible" precision="low" extent="3"/> ÷ 
+<lb n="5"/>  <gap reason="illegible" extent="2" unit="character" />عول ÷ زنبق رأس ÷ 
+<lb n="6"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> ثاني <app type="BL"><lem resp="APD">÷ </lem><rdg resp="P.Philad.Arab. 52">÷÷</rdg></app> <app type="BL"><lem resp="checking mark “only Levi della Vida”"><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="P.Philad.Arab. 52. i.e. the checking mark is read as a fraction sign here">ø</rdg></app> نصف قسط ثاني <gap reason="illegible" extent="1" unit="character" /> غسلة ÷ 
+<lb n="7"/>  <gap reason="illegible" extent="1" unit="character" /> ماورد ÷ ورد ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ÷÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  أبو القسم زنبق رأس ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> قسط <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** 1+1/2 * qaranful:un 1 1 dirham:un *** bunk:un ø 1/2 
+ <lb n="3"/>*** 1/2+* 1/2+1/12 * qusṭ:un 1/3 1+1/12 1 ø 
+ <lb n="4"/>* bān:un * musk:un 1/2 * maḥlab:un wa *** 1 
+ <lb n="5"/>**ʿūl:un 1/2 zanbaq:un raʾs:un 1 
+ <lb n="6"/>** * ṯānī 2/3 1/12 * ø niṣfu qusṭ:in ṯānī * ġislaẗ:un 1/2 
+ <lb n="7"/>* māʾu ward:in 1/2 ward:un 1/2 *** 
+ <lb n="8"/>10+60+1/2 17+1/2 1 *** 
+ <lb n="9"/>ʾabū ăl qāsimi zanbaq:un raʾs:un 1 *** 
+ <lb n="10"/>* ** *** qusṭ:un *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God,] the Merciful, the Compassionate.
+			<lb n="2"/>
+		[...] 1+1/2 /  clove  1 1 dirham .... bunk 1/2
+			<lb n="3"/>
+		[  ] 1/2+1/12 /  qusṭ 1 1/12
+		[  ] .+1/2 /  qusṭ 1/3 1
+			<lb n="4"/>
+		/ bān   / musc 1/2  /maḥlab [above the line: and...] 1
+			<lb n="5"/>
+		[...]ʿūl (?) 1/2  iris: a stem  1
+			<lb n="6"/>
+		[  ]. / again 1/12  a half qusṭ  again / ghislah 1/2
+		[  ]. / again 2/3  / a half qusṭ  again / ghislah 1/2
+			<lb n="7"/>
+		/ rose water 1/2  rose 1/2 ....
+		[/] rose water 1/2  rose 1/2 ....
+			<lb n="8"/>
+		10+7+1/2 [  ] 1
+		17 1/2 [  ] 1
+			<lb n="9"/>
+		Abu ʾl-Qāsim  iris: a stem  1 [  ]
+			<lb n="10"/>
+		/[  ] .. qusṭ .  [  ]
+</ab></div>
+</body>
+</text>
+</TEI>

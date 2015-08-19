@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2004" xml:id="Grohmann_APEL_267" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 267</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_267</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169732</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الـ<supplied reason="lost" cert="high">ـرّحيم</supplied> 
+<lb n="2"/>  ذكر ما رفع أصبغ بن عبد العزيز <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  بكورة طحا لخراج سـ<supplied reason="lost" cert="high">ـنة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  الأدلّا بها إبرهيم بن سلة وأعـ<supplied reason="lost" cert="high">ـوانه</supplied> 
+<lb n="5"/>  بقعة منلافة 
+<lb n="6"/>  إبرهيم البنّا قمح ÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ميمون بن مهران وهو حرب قمح ÷÷÷ ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  بن العمري 
+<lb n="9"/>  إسرأيل الحارس <supplied reason="lost" cert="high">قـ</supplied>ـمح ÷÷ ÷<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  أبو مرزوق مولى <app type="BL"><lem resp="APD">جيش </lem><rdg resp="APD">حبش </rdg><rdg resp="APD">جيش</rdg></app> ÷÷ ÷<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  صح 
+<lb n="12"/>  <app type="BL"><lem resp="APD">حمين </lem><rdg resp="APD">حمنن </rdg><rdg resp="cf. Ḏahabi p. 175 misquoted by ed.">جمّين</rdg></app> ومحمّد ابني <app type="BL"><lem resp="APD">فرّخ </lem><rdg resp="APD">فرح </rdg><rdg resp="APD">فرخ </rdg><rdg resp="APD">فرّخ</rdg></app> الفقيه قمح ÷÷÷ ÷<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  أحمد بن علي الپپڤرپدى قمح ÷÷÷ 
+<lb n="14"/>  موسى بن <app type="BL"><lem resp="APD">عيش </lem><rdg resp="APD">عنس </rdg><rdg resp="APD">عيش</rdg></app> وهو إسحق السّفطي ÷÷ <supplied reason="lost" cert="high">÷</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  زرع 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru mā rafaʿa ʾaṣbaġu bnu ʿabdi ăl ʿazīzi *** 
+ <lb n="3"/>bi kūraẗi ṭaḥā li ḫarāǧi sanaẗi *** 
+ <lb n="4"/>ăl ʾadillāʾu bi hā ʾibrāhīmu bnu silaẗa wa ʾaʿwānu hu 
+ <lb n="5"/>buqʿaẗu manlāfaẗa 
+ <lb n="6"/>ʾibrāhīmu ăl bannāʾu qamḥ 77 70 *** 
+ <lb n="7"/>maymūnu bnu mihrāna wa huwa ḥarbu qamḥ 77+1/2 83+1/2 *** 
+ <lb n="8"/>bnu ăl ʿumariyyi 
+ <lb n="9"/>ʾisraʾīlu ăl ḥārisu qamḥ 64 *+5 *** 
+ <lb n="10"/>ʾabū marzūq:in mawlà ḥabaš:in ḥanaš:in ǧayš:in 26 *+1/2 *** 
+ <lb n="11"/>ṣaḥḥa 
+ <lb n="12"/>ḥamnanu ḥumayn:un ǧummayn:un wa muḥammadu ĭbnay faraḥa faraǧ:in farḫ:in farruḫ:in ăl faqīhi qamḥ 58+1/2 *+8 *** 
+ <lb n="13"/>ʾaḥmadu bnu ʿaliyy:ini ăl BBFrBdy qamḥ 63+1/2 
+ <lb n="14"/>mūsà bnu ʿabs:in ʿans:in ʿīš:in wa huwa ʾisḥāqu ăs safṭiyyu 32 *+5 *** 
+ <lb n="15"/>zarʿ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the [Merciful].
+			<lb n="2"/>
+		Report of that which Aṣbaġ b. ʿAbd al-ʿAzîz has transmitted[
+			<lb n="3"/>
+		In the kûra of Ṭaḥâ, for the land-tax of the ye[ar
+			<lb n="4"/>
+		The confidants therein Ibrahîm b. Sila and [his] ma[tes
+			<lb n="5"/>
+		The sunken land of Manlâfe (?)
+			<lb n="6"/>
+		Ibrahîm, the builder, wheat: 77 70[
+			<lb n="7"/>
+		Maimûn b. Mihrân, who (is called) Ḥarb, wheat: 77 1/2 83 1/8
+			<lb n="8"/>
+		b. al-ʿUmarî
+			<lb n="9"/>
+		Isrâʾîl, the watchman, [w]heat: 64 [.]5 [
+			<lb n="10"/>
+		Abû Marzûq, freedman of Ḥanaš, 26 [.]1/2 [
+			<lb n="11"/>
+		correct.
+			<lb n="12"/>
+		Ḥumain and Muḥammad, the sons of Faraǧ, the lawyer, wheat: 58 1/2 [.]8 [
+			<lb n="13"/>
+		Aḥmad b. ʿAlî al-.........., wheat: 63 1/2 [
+			<lb n="14"/>
+		Mûsâ b. ʿAbs, who (is called) Isḥâq as-Safṭî 32 [.]5 [
+			<lb n="15"/>
+		seed land
+</ab></div>
+</body>
+</text>
+</TEI>

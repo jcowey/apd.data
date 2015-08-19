@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="707" xml:id="Grohmann_EBU_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekInvolutio p. 24-25 (= P.GrohmannUrkunden 14)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106788</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮‪α κ‬ 
+<lb n="2"/>  كيهه <app type="BL"><lem resp="APD">الدڤعه </lem><rdg resp="Grohmann">الدّفعة</rdg></app> <app type="BL"><lem resp="APD">ـ÷ </lem><rdg resp="Grohmann">χ</rdg></app> 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أدّى <app type="BL"><lem resp="APD">مرڤس </lem><rdg resp="Grohmann">مرقس</rdg></app> أخو منا <app type="BL"><lem resp="Kartabacek; Diem">بحويه </lem><rdg resp="Grohmann">بجويه</rdg></app> عمّا يلزمه من الجالية 
+<lb n="5"/>  عن المدينة لشهور سنة خمس وستّين ومائتن 
+<lb n="6"/>  نصف دينر مثقال إلى أندونه 
+<lb n="7"/>  بن قوريل القسطال بحضرة <app type="BL"><lem resp="APD">خليفتي </lem><rdg resp="Grohmann">خليفتي</rdg></app> أحمد 
+<lb n="8"/>  بن عمرو والحسن بن علي <app type="BL"><lem resp="APD">عاملى </lem><rdg resp="Grohmann">عاملي</rdg></app> أبي عيسى 
+<lb n="9"/>  ‮أعزّه اللّه لخراج سنة <app type="BL"><lem resp="APD">‪σξδ‬ </lem><rdg resp="Diem">ξδ</rdg></app> 
+<lb n="seal"/>  باللّه أندونه بن قوريل يثق 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>20 1 ø dīnār:un 
+ <lb n="2"/>kiyahh:uni ăr ăd ruqʿaẗu dafʿaẗu ø 1/2 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà ǧirǧisu murqusu ʾaḫū minā baǧūyaha bīǧūyaha ʿammā yalzamu hu mina ăl ǧāliyaẗi 
+ <lb n="5"/>ʿani ăl madīnaẗi li šuhūri sanaẗi ḫams:in wa sittīna wa miʾatayni 1/2 ø 
+ <lb n="6"/>niṣfa dīnār:in miṯqāl:in ʾilà ʾandūnaha 
+ <lb n="7"/>bni qūrīla ăl qusṭāli bi ḥaḍraẗi ḫalīfaẗayni ḫalīfaẗay ʾaḥmada 
+ <lb n="8"/>bni ʿamr:in wa ăl ḥasani bni ʿaliyy:in ʿāmili ʿāmilay ʾabī ʿīsà 
+ <lb n="9"/>ʾaʿazza hu ăl lāhu li ḫarāǧi sanaẗi 264 64 
+ <lb n="10"/>bi ăl lāhi ʾandūnahu bnu qūrīla yaṯiqu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		20  1.
+		20  1. Dīnār
+			<lb n="2"/>
+		Choiak   Folio   1/2
+		Choiak   Zahlung
+			<lb n="3"/>
+		Im Namen Gottes, des Barmherzigen, des Erbarmenden!
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="4"/>
+		Gezahlt hat Morqos, der Bruder des Menas Petschoie, gemäß dem wozu er verpflichtet ist bezüglich der Kopfsteuer
+		Gezahlt hat Morqos, der Bruder des Minā Beǧōye, von dem, was ihm an Kopfsteuer
+			<lb n="5"/>
+		aus der Kreismetropole (Ašmūn) für die Monate des Jahres zweihundertfünfundsechzig oblag,
+		der Hauptstadt, für die Monate des Jahres zweihundertfünfundsechzig, 1/2
+			<lb n="6"/>
+		einen halben Dīnār des Miṯqālfußes an den Zahlmeister Andūne
+		einen halben Dînâr des Mitsḳal-Fusses an Antonios
+			<lb n="7"/>
+		b. Qūrīl in Gegenwart der beiden Stellvertreter des Aḥmad
+		Sohn des Kyrillos, den Säckelmeister, in Gegenwart zweier Stellvertreter des Ahmed,
+			<lb n="8"/>
+		b. ʿAmr und al-Ḥasan b. ʿAlī, der beiden Kreisfinanzdirektoren des Abū ʿĪsā
+		Sohn des ʿAmr, und des el-Hasan, Sohn des  ʿAlî, Tributeinnehmer des Abû ʿIsa,
+			<lb n="9"/>
+		den Gott geehrt machen möge! für die Steuer des Jahres 264.
+		... des Jahres [2]64.
+		- Gott stärke ihn - für die Steuer des Jahres 264.
+			<lb n="10"/>
+		Auf Gott Andūne b. Qūrīl vertraut.
+		Auf Gott Antonios Sohn des Kyrillos vertraut.
+</ab></div>
+</body>
+</text>
+</TEI>

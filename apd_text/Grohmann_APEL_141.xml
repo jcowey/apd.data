@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="358" xml:id="Grohmann_APEL_141" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 141 (=  Chrest.Khoury I 09)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_141</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106587</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد من أثبت شهادته آخره أنّهم يعرفون حجّة ابنة يوسف بن عبد الحميد معرفة صحيحة تامّة 
+<lb n="3"/>  نفسها واسمها ونسبها ويعلمون ويشهدون أنّها يومئذ بنت بكر بالغ حرّة مسلمة صحيحة العقل 
+<lb n="4"/>  والبدن خاليّة من موانع النّكاح لم يعقد عليها عقدة نكاح إلـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">يو</supplied>م <supplied reason="lost" cert="high">تأ</supplied>ريخـ<supplied reason="lost" cert="high">ـه</supplied> وأن <supplied reason="lost" cert="high">أخا</supplied>ها شقيقها 
+<lb n="5"/>  سعد بن يوسف بن عبد الحميد مستحق ولاية تزويجها لما يعلمون لها <unclear reason="undefined" cert="high">ود</unclear><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـموه</unclear> يعـ<supplied reason="lost" cert="high">ـلـ</supplied>ـمون 
+<lb n="6"/>  كلّه ويشهدون بحقيقته ولمّا سألهم سائل إثبات شهادتهم بما علموه من ذلك وتحقّقوه أجابوا سواله 
+<lb n="7"/>  وأثبتو<supplied reason="omitted" cert="high">ا</supplied> لهم شهادتهم آخره وذلك بتأريخ الناثى والـعشرين من صفر سنة ثلاثة وأربعين وستّمائة 
+<lb n="8 right"/>  شهد بذلك 
+<lb n="9 right"/>  عثمان بن حسّان بن حسن 
+<lb n="10 right"/>  الجدّي وكتب عنه بأمره 
+<lb n="8 middle"/>  شهد بذلك 
+<lb n="9 middle"/>  عثمان بن صدقة بن طلائع 
+<lb n="10 middle"/>  وكتب عنه بأمره في تأريخه 
+<lb n="8 left"/>  شهد بذلك 
+<lb n="9 left"/>  عمر بن وهيب بن <app type="BL"><lem resp="APD">جميل </lem><rdg resp="APD">حميل </rdg><rdg resp="APD">خميل</rdg></app> 
+<lb n="10 left"/>  وكتب عنه بأمره ومحضره 
+<lb n="11"/>  تزوّجت بولاية أخيها المذكور من عبيد بن علي بن <app type="BL"><lem resp="APD">جميل </lem><rdg resp="APD">حميل </rdg><rdg resp="APD">خميل</rdg></app> على صداق مبلغه من العين الذّهب <app type="BL"><lem resp="APD">المعزّي </lem><rdg resp="Thung">المصريّ</rdg></app> عشرون دينارا 
+<lb n="12"/>  الحال من ذلك خمسة دينرا وباقي المهر وهو من <app type="BL"><lem resp="APD">العين </lem><rdg resp="Khoury">ø</rdg></app> المثلّثي خمسة عشر دينارا قسط السّنة عند سلخها 
+<lb n="13"/>  دينارين وفي سلخ <supplied reason="omitted" cert="high">الـ</supplied>ـسّنة الآخيرة منها دينر واحد ومدّتها تمانية سنين 
+<lb n="14 right"/>  حضرت ذلك 
+<lb n="15 right"/>  وكتب سائب بن محب بن جابر 
+<lb n="16 right"/>  <app type="BL"><lem resp="APD">تم </lem><rdg resp="Thung">بتأريخه</rdg></app> 
+<lb n="14 middle"/>  حضرت العقدة 
+<lb n="15 middle"/>  وكتب عبد <unclear reason="undefined" cert="high">العزيز</unclear> بن عبد الحي 
+<lb n="16 middle"/>  <app type="BL"><lem resp="APD">تم </lem><rdg resp="Thung">بتأريخه</rdg></app> 
+<lb n="14 left"/>  حضرت ذلك 
+<lb n="15 left"/>  كتبه يحيى بن عبد اللّه بن 
+<lb n="16 left"/>  عمر <app type="BL"><lem resp="APD">الموقاني </lem><rdg resp="APD">المروي</rdg></app> 
+<lb n="17a left"/>  في تأريخه 
+<lb n="17b left"/>  حضرت ذلك 
+<lb n="18 left"/>  وكتب يوسف <unclear reason="undefined" cert="high">بن</unclear> <unclear reason="undefined" cert="high">أحمد</unclear> <unclear reason="undefined" cert="high">بن</unclear> <unclear reason="undefined" cert="high">عزيز</unclear> 
+<lb n="19 left"/>  في <expan><ex>تأريخـ</ex><abbr>ـه</abbr></expan> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida man ʾaṯbata šahādata hu ʾāḫira hu ʾanna hum yaʿrifūna ḥuǧǧaẗa ĭbnaẗa yūsufa bni ʿabdi ăl ḥamīdi maʿrifaẗ:an ṣaḥīḥaẗ:an tāmmaẗ:an 
+ <lb n="3"/>nafsa hā wa ĭsma hā wa nasaba hā wa yaʿlamūna wa yašhadūna ʾanna hā yawma ʾiḏ:in bint:un bikr:un bāliġ:un ḥurraẗ:un muslimaẗ:un ṣaḥīḥaẗu ăl ʿaqli 
+ <lb n="4"/>wa ăl badani ḫāliyaẗ:un min mawāniʿi ăn nikāḥi lam yuʿqad ʿalay hā ʿuqdaẗu nikāḥ:in ʾilà yawmi taʾrīḫi hi wa ʾanna ʾaḫā hā šaqīqa hā 
+ <lb n="5"/>saʿda bna yūsufa bni ʿabdi ăl ḥamīdi mustaḥiqqu walāyaẗi tazwīǧi hā li mā yaʿlamūna la hā wa d*mwh yaʿlamūna 
+ <lb n="6"/>kulla hu wa yašhadūna bi ḥaqīqati hi wa lammā saʾala hum sāʾil:un ʾiṯbāta šahādati him bi mā ʿalimū hu min ḏālika wa taḥaqqaqū hu ʾaǧābū suʾāla hu 
+ <lb n="7"/>wa ʾaṯbatū la hum šahādata hum ʾāḫira hu wa ḏālika bi taʾrīḫi ăṯ ṯānī wa ăl ʿišrīna min ṣafar:in sanaẗa ṯalāṯaẗ:in wa ʾarbaʿīna wa sitti miʾaẗ:in 
+ <lb n="8"/>šahida bi ḏālika 
+ <lb n="9"/>ʿuṯmānu bnu ḥassāni bni ḥasan:in 
+ <lb n="10"/>ăl ǧuddiyyu wa kutiba ʿan hu bi ʾamri hi 
+ <lb n="11"/>šahida bi ḏālika 
+ <lb n="12"/>ʿuṯmānu bnu ṣadaqaẗa bni ṭalāʾiʿa 
+ <lb n="13"/>wa kutiba ʿan hu bi ʾamri hi fī taʾrīḫi hi 
+ <lb n="14"/>šahida bi ḏālika 
+ <lb n="15"/>ʿumaru bnu wuhayb:in bni ǧamīla ḥumayl:in ḫumayl:in ǧumayl:in ǧummayla 
+ <lb n="16"/>wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi 
+ <lb n="17"/>tazawwaǧat bi walāyaẗi ʾaḫī hā ăl maḏkūri min ʿubaydi bni ʿaliyyi bni ǧamīla ḥumayl:in ḫumayl:in ǧumayl:in ǧummayla ʿalà ṣadāq:in mablaġu hu mina ăl ʿayni ăḏ ḏahabi ăl muʿizziyyi miṣriyyi ʿišrūna dīnār:an 
+ <lb n="18"/>ăl ḥāllu min ḏālika ḫamsaẗu dīnār:an wa bāqī ăl mahri wa huwa mina ăl ø ʿayni ø ăl muṯallaṯiyyi ḫamsaẗa ʿašara dīnār:an qisṭu ăs sanaẗi ʿinda salḫi hā 
+ <lb n="19"/>dīnārayni wa fī salḫi ăs sanaẗi ăl ʾaḫīraẗi min hā dīnār:un wāḥid:un wa muddatu hā tamāniyaẗu sinīna 
+ <lb n="20"/>ḥaḍartu ḏālika 
+ <lb n="21"/>wa kataba sāʾibu bnu muḥibbi bni ǧābir:in 
+ <lb n="22"/>tamma bi ø taʾrīḫi ø hi 
+ <lb n="23"/>ḥaḍartu ăl ʿuqdaẗa 
+ <lb n="24"/>wa kataba ʿabdu ăl ʿazīzi bnu ʿabdi ăl ḥayyi 
+ <lb n="25"/>tamma bi ø taʾrīḫi ø hi 
+ <lb n="26"/>ḥaḍartu ḏālika 
+ <lb n="27"/>kataba hu yaḥyà bnu ʿabdi ăl lāhi bni 
+ <lb n="28"/>ʿumara ăl mūqāniyyu marawiyyu 
+ <lb n="29"/>fī taʾrīḫi hi 
+ <lb n="30"/>ḥaḍartu ḏālika 
+ <lb n="31"/>wa kataba yūsufu bnu ʾaḥmada bni ʿazīz:in 
+ <lb n="32"/>fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux!
+		Im Namen Gottes, des Barmherzigen, des Gütigen.
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Ceux qui ont apposé leurs témoignages au bas (du document) témoignent qu’ils connaissant Ḥuǧǧa, fille de Yūsuf Ibn ʿAbd al-Ḥamīd, vraiment et parfaitement bien,
+		Diejenigen, die ihre Unterschriften unter dieses hier gesetzt haben, belegten, dass sie Ḥuǧǧa, Tochter des Yūsuf b. ʿAbd al-Ḥamīd, sehr gut kennen,
+		Those who have set their signatures at the end hereof have born witness that they know Ḥuǧǧa, daughter of Yûsuf b. ʿAbd al-Ḥamîd, herself perfectly well,
+			<lb n="3"/>
+		beides sowohl durch ihre Verwandtschaft als auch ihren Namen, und sie wissen und versichern, dass sie zu diesem Zeitpunkt ein Mädchen, eine erwachsene Jungfrau, frei, von muslimischen Glauben, gesund in Geiste
+		both by her relationship and her name; and they know and testify that she is at this time a girl, an adult virgin, free, of Muslim faith, sound in mind
+		concernant sa personne, son nom et sa filiation; ils savent et témoignent qu’elle était en ce moment-là une jeune fille vierge, adulte, libre et musulmane, saine d’esprit
+			<lb n="4"/>
+		and body, free from (legal) impediments to marriage, no marriage contract has been concluded with regard to her until the day of the date hereof, and that her full brother
+		et de corps et exempte de tout empêchement de marriage, qu’il ne lui a été conclu aucun contrat de marriage jusqu’[au jou]r de [sa d]ate et que son [frère] germain
+		und Körper, frei von (rechtlichen) Hindernissen zur Heirat ist, kein Ehevertrag ist hinsichtlich ihr bis zu dem Tag mit dem Datum dieses hier abgeschlossen worden, und dass ihr voller Bruder
+			<lb n="5"/>
+		Saʿd b. Yūsuf b. ʿAbd al-Ḥamīd das Recht zur Brautvaterschaft um sie in die Ehe zu geben hat, weil sie wissen von ........... wi[ss]en
+		Saʿd b. Yûsuf b. ʿAbd al-Ḥamîd possesses the right of wilâya to give her in marriage because they know of her .......... kn[o]w
+		Saʿd Ibn Yūsuf Ibn ʿAbd al-Ḥamīd dispose du pouvoir legal de la marier, à cause de ce qu’ils savent d’elle et [...] savent
+			<lb n="6"/>
+		(dies) alles, und sie bestätigen seine Wahrhaftigkeit, und gefragt ihre Bestätigung zu bekräftigen über was sie wissen über diese Angelegenheit und sind bestimmt hinsichtlich dieser, sie waren einverstanden mit der Beauftragung
+		(this) all and they testify to its truth, and having been asked to confirm their testimony as what they know of this matter and are certain of theranent, they agreed to the request
+		tout cela et témignent de sa véracité. Et lorsque quelqu’un leur demanda d’apposer leurs témoignages concernant ce qu’ils savent et ce qu’ils considèrent comme véridique, ils répondirent à sa demande
+			<lb n="7"/>
+		and have confirmed for them their testimony at the end hereof and this on the twenty second of Ṣafar of the year six hundred and forty three.
+		et leur apposèrent leurs témoignages à la fin (du document), et ceci le vingt-deux ṣafar six cent quarante-trois.
+		und bekräftigen für sie ihre Bestätigung am Ende von diesem hier und dies am zweiundzwanzigsten Ṣafar des Jahres sechshundertdreiundvierzig.
+			<lb n="8"/>
+		A témoigné de cela
+		Witness to it is:
+		Zeuge dafür ist:
+			<lb n="9"/>
+		ʿUṯmân b. Ḥassân b. Ḥasan
+		ʿUṯmān b. Ḥassān b. Ḥasan,
+		ʿUṯmān Ibn Ḥassān Ibn Ḥasan
+			<lb n="10"/>
+		al-Ǧuddī et l’on écrivit pour lui sur son ordre.
+		originating from Ǧudda, and (it) has been written for him at his order.
+		stammend von Ǧudda, und (es) ist geschrieben worden für ihn in seinem Auftrag.
+			<lb n="11"/>
+		A témoigné de cela
+		Witness to it is:
+		Zeuge dafür ist:
+			<lb n="12"/>
+		ʿUṯmân b. Ṣadaqa b. Ṭalâʾiʿ
+		ʿUṯmān b. Ṣadaqa b. Ṭalāʾiʿ,
+		ʿUṯmān Ibn Ṣadaqa Ibn Ṭalāʾiʿ
+			<lb n="13"/>
+		and (it) has been written for im at his order on its date.
+		et l’on écrivit pour lui sur son ordre à sa date.
+		und (es) ist geschrieben worden für ihn auf seine Anordnung an diesem Datum.
+			<lb n="14"/>
+		A témoigné de cela
+		Witness to it is:
+		Zeuge dafür ist:
+			<lb n="15"/>
+		ʿUmar b. Wuhaib b. Ǧamîl
+		ʿUmar b. Wuhaib b. Ǧamīl,
+		ʿUmar Ibn Wuhayb Ibn Ǧamīl
+			<lb n="16"/>
+		and (it) has been written for him at his order and in his presence
+		et l’on écrivit pour lui sur son ordre et en sa présence.
+		und (es) ist geschrieben worden für ihn auf seine Anordnung und in seiner Gegenwart.
+			<lb n="17"/>
+		Elle fut mariée, par le moyen du mandat de son susnommé frère, à ʿUbayd Ibn ʿAlī Ibn ǧamīl, moyennant une dot dont la somme est de vingt dīnārs, en monnaie d’or d’al-Muʿizz,
+		She has been taken in marriage under the wilâya of her (above) mentioned brother by ʿUbaid b. ʿAlî b. Ǧamîl for the nuptial gilft which in gold-coins of al-Muʿizz amounts to twenty dînârs
+		Sie ist in die Ehe genommen worden unter der Brautvaterschaft von ihrem (oben) erwähnten Bruder durch ʿUbayd b. ʿAlī b. Ǧamīl zu der Brautgabe, in Goldmünzen im al-Muʾizz-Fuß zu zwanzig Dīnār.
+			<lb n="18"/>
+		Der fällige davon ist fünf Dīnār, und der zurückgehaltene der Brautgabe, nämlich fünfzehn Dīnār in Goldmünzen, gemünzt in Stücke zu einem Drittel Dīnār, in der Form jährlicher Ratenzahlung, an seinem Ende (des Jahres)
+		la partie payable immédiatement de cela étant de cinq dīnārs, alors que le reste de la dot – qui est en pièces d’or triangulaires – est de quinze dīnārs (à régler) par paiements annuels
+		the (part) falling due thereof is five dînârs, and the (part) held over of the nuptial gift (mahr), viz. fifteen dînârs in gold-coins, coined in pieces of a third of a dînâr, in the form of yearly instalments, at its (the year&#039;s) end
+			<lb n="19"/>
+		de deux dīnārs à la fin de chaque année et d’un seul dīnār à la fin de la dernière année, et cela pendant une durée de huit annés.
+		two dînârs and at the end of the last year one dînâr, the maturity (thereof) being eight years.
+		zwei Dīnār und am Ende des letzten Jahres einen Dīnār, die Frist ist acht Jahre.
+			<lb n="20"/>
+		Ich war dabei zugegen,
+		I was present at it,
+		J’ai assisté à cela
+			<lb n="21"/>
+		and Sâʾib b. Muḥibb b. Ǧabîr has written (it).
+		Et Sāʾib Ibn Muḥibb Ibn Ǧābir (l’)écrivit.
+		und Sāʾib b. Muḥibb b. Ǧābir schrieb (es).
+			<lb n="22"/>
+		Complete.
+		Fini.
+		Vollständig.
+			<lb n="23"/>
+		Ich war zugegen beim Schluss des Vertrages,
+		I was present at the conclusion of the contract,
+		J’ai assisté à la conclusion du contrat
+			<lb n="24"/>
+		and ʿAbd al-ʿAzîz (?) b. ʿAbd al-Ḥayy has written (it).
+		et ʿAbd al-ʿAzīz Ibn ʿAbd al-Ḥayy (l’)écrivit.
+		und ʿAbd al-ʿAzīz (?) b. ʿAbd al Ḥayy schrieb (es).
+			<lb n="25"/>
+		Complete.
+		Fini.
+		Vollständig.
+			<lb n="26"/>
+		Ich war dabei zugegen,
+		I was present at it;
+		J’ai assisté à cela
+			<lb n="27"/>
+		et Yaḥyā Ibn ʿAbd Allāh Ibn
+		geschrieben von Yaḥyā b. ʿAbdallāh
+		written by Yaḥyâ b. ʿAbdallâh
+			<lb n="28"/>
+		b. ʿUmar al-Mūqāmī
+		b. ʿUmar al-Mûqânî
+		ʿUmar al-Mūqānī (l’)écrivit.
+			<lb n="29"/>
+		an diesem Datum.
+		à sa date.
+		on its date.
+			<lb n="30"/>
+		Ich war dabei zugegen,
+		I was present at it,
+		J’ai assisté à cela
+			<lb n="31"/>
+		and Yûsuf b. Aḥmad b. ʿAzîz has written (it)
+		et Yūsuf Ibn Aḥmad Ibn ʿAbd (al-)ʿAzīz (l’)écrivit
+		und Yūsuf b. Aḥmad b. ʿAzīz schrieb (es).
+			<lb n="32"/>
+		à sa date.
+		on its date.
+</ab></div>
+</body>
+</text>
+</TEI>

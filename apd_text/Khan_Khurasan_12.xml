@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1215" xml:id="Khan_Khurasan_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169053</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب 
+<lb n="3"/>  من عمرو بن مرزوق عامل الأمير 
+<lb n="4"/>  خلد بن شيبان أكرمه اللّه على مدر 
+<lb n="5"/>  ورزم براه لباب بن بيك 
+<lb n="6"/>  إنّك أدّيت ممّا صار عليك 
+<lb n="7"/>  من خراج سنة تسع وأربعين 
+<lb n="8"/>  ومئة والقسمة الّتي تجري 
+<lb n="9"/>  معها اثنا عشر درهما ودانق 
+<lb n="10"/>  وثلثة أجزا دانق قبضت 
+<lb n="11"/>  ذلك منك وبرئت 
+<lb n="12"/>  إلي منها وكتب في رجب 
+<lb n="13"/>  سنة إحدى وخمسين ومئة 
+<lb n="14"/>  <gap reason="illegible" extent="4" unit="character" />ـد إلينا من واب بن بك 
+<lb n="15"/>  ضريبة كرم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un 
+ <lb n="3"/>min ʿamri bni marzūq:in ʿāmili ăl ʾamīri 
+ <lb n="4"/>ḫālidi bni šaybāna ʾakrama hu ăl lāhu ʿalà madra 
+ <lb n="5"/>wa rizma barāʾaẗ:un li bāba bni bayk:in 
+ <lb n="6"/>ʾinna ka ʾaddayta mimmā ṣāra ʿalay ka 
+ <lb n="7"/>min ḫarāǧi sanaẗi tisʿ:in wa ʾarbaʿīna 
+ <lb n="8"/>wa miʾaẗ:in wa ăl qismaẗi ăllatī taǧrī 
+ <lb n="9"/>maʿa hā ĭṯnā ʿašara dirham:an wa dānaq 
+ <lb n="10"/>wa ṯalāṯaẗa ʾaǧzāʾi dānaq:in qabaḍtu 
+ <lb n="11"/>ḏālika min ka wa bariʾta 
+ <lb n="12"/>ʾilay ya min hā wa kutiba fī raǧab:in 
+ <lb n="13"/>sanaẗa ʾiḥdà wa ḫamsīna wa miʾaẗ:in 
+ <lb n="14"/>****d ʾilay nā min wāba bni baka 
+ <lb n="15"/>ḍarībaẗu karm:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a document
+			<lb n="3"/>
+		from ʿAmr ibn Marzūq, the financial administrator of the governor
+			<lb n="4"/>
+		Khālid ibn Shaybān, may God grant him honour, (whose jurisdiction is) over Madr
+			<lb n="5"/>
+		and Rizm, a quittance for Bāb ibn Bēk.
+			<lb n="6"/>
+		You have delivered what you owe
+			<lb n="7"/>
+		with regard to the kharāj for the year one hundred and forty-nine
+			<lb n="8"/>
+		and the portion that is administered
+			<lb n="9"/>
+		with it, twelve dirhams and a dānaq
+			<lb n="10"/>
+		and three parts of a dānaq. I have received
+			<lb n="11"/>
+		that from you and you have been released
+			<lb n="12"/>
+		from (the obligation to pay) them to me. It has been written in Rajab
+			<lb n="13"/>
+		of the year one hundred and fifty-one.
+			<lb n="14"/>
+		... to us from Bāb ibn Bēk
+			<lb n="15"/>
+		orchard tax.
+</ab></div>
+</body>
+</text>
+</TEI>

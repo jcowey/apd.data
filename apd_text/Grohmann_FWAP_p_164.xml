@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="754" xml:id="Grohmann_FWAP_p_164" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 163 (= P.Marchands V/1 07)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_FWAP_p_164</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106830</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  حفظكم اللّه وأبقاكم وأمتع بكم وأتم نعمه عليكم ودفع السّو عنكم وعنّا وعن 
+<lb n="recto 3"/>  جميع أمّة محمّد إنّه على ذالك قادر برحمته قد بعثت إليكم مع <app type="BL"><lem resp="APD">ميمون </lem><rdg resp="“Rāġib”">ميميون</rdg></app> 
+<lb n="recto 4"/>  المكاري بصرّة فيها اثنين وأربعين دينر شهريّة لي وفيها دينرين لحمد بن <app type="BL"><lem resp="APD">حيّة </lem><rdg resp="“Rāġib”">حيّة</rdg></app> 
+<lb n="recto 5"/>  ومعها في الصّرّة صرّة لسلمن بن داود بن <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“Rāġib”">أخي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“Rāġib”">رشدين</rdg></app> وبن علي فانظر<del rend="erasure" status="unremarkable">و</del>و 
+<lb n="recto 6"/>  إذا وصلت إليكم أن <app type="BL"><lem resp="APD">تثبتو </lem><rdg resp="“Rāġib”">تكتبو</rdg></app> إلينا بوصلها إليكم إن شا اللّه وانظرو أن 
+<lb n="recto 7"/>  تشترو لي منديلين شقاق <app type="BL"><lem resp="APD">مختص </lem><rdg resp="“Rāġib”">محص </rdg><rdg resp="Diem, Review Wien">محض</rdg></app> ومنديلين رياط <del rend="erasure" status="unremarkable">رپاط</del> <app type="BL"><lem resp="APD">مختص </lem><rdg resp="“Rāġib”">محص </rdg><rdg resp="Diem, Review Wien">محض</rdg></app> 
+<lb n="recto 8"/>  وأنا باعث بتمام <del rend="erasure" status="unremarkable">حمسه</del> خمس مناديل حتّا يكن ثلثة رياط ومنديلين 
+<lb n="recto 9"/>  شقاق جياد فإن الشّقاق الّذي بعثت بها <app type="BL"><lem resp="APD">وحيش </lem><rdg resp="“Rāġib”">وخيش</rdg></app> جدّا فعليك 
+<lb n="recto 10"/>  بالجيّد فإن <app type="BL"><lem resp="APD">الجيّد </lem><rdg resp="“Rāġib”">ø</rdg></app> <app type="BL"><lem resp="APD">كويّس </lem><rdg resp="“Rāġib”">الوخيش</rdg></app> ليس له خروج واعلم يأبا علي أنّك قد استوفيت 
+<lb n="recto 11"/>  الدّينر الّذي كان بقي لك علي وبقي لك علي سدس والسّوق عندنا 
+<lb n="recto 12"/>  كاسد كاسد جدّا إلّا أن اللّه <app type="BL"><lem resp="APD">القانع </lem><rdg resp="“Rāġib”">الصّانع</rdg></app> انظر حفظك اللّه يأبا علي ألّا تشتري 
+<lb n="recto 13"/>  إلّا الجيّد من الشّقاق فقد نفر النّاس من <app type="BL"><lem resp="APD">الوخيش </lem><rdg resp="“Rāġib”">الوخيش</rdg></app> وقد كتبت إليك غير 
+<lb n="recto 14"/>  كتاب <app type="BL"><lem resp="APD">ببعث </lem><rdg resp="Diem; Rāġib">تبعث</rdg></app> إلي بالقلّة <app type="BL"><lem resp="APD">الحائج </lem><rdg resp="Diem; Rāġib">الكامخ</rdg></app> فلم تفعل 
+<lb n="recto 15"/>  <app type="BL"><lem resp="APD">فيخفى </lem><rdg resp="“Rāġib”">فبحقّي</rdg></app> <app type="BL"><lem resp="APD"><sic n="superfluous">عليّ</sic><supplied reason="omitted" cert="high">علپك</supplied> </lem><rdg resp="“Rāġib”">عليك</rdg></app> إلّا ما 
+<lb n="recto 16"/>  عجّلتها علي واشتري لي أربعة قلال <del rend="erasure" status="unremarkable">صا</del> صغار للجارية تستقي بهم الما 
+<lb n="recto 17"/>  فإنّي أحتاج إليهم <app type="BL"><lem resp="APD">وتسرّني </lem><rdg resp="“Rāġib”">وسرّني</rdg></app> بذالك وعجّل علي يأبا علي بأمتاع فإنّما <app type="BL"><lem resp="APD">تبيع </lem><rdg resp="“Rāġib”">نبيع</rdg></app> 
+<lb n="recto 18"/>  بتأخير فإذا <app type="BL"><lem resp="APD">خشيت </lem><rdg resp="“Rāġib”">خشيت</rdg></app> أنت <app type="BL"><lem resp="APD">وحسين </lem><rdg resp="“Rāġib”">وخشي</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">عپوف</unclear> </lem><rdg resp="“Rāġib”">غيرك</rdg></app> جا <app type="BL"><lem resp="APD">القلل </lem><rdg resp="“Rāġib”">القلق</rdg></app> فلا <app type="BL"><lem resp="“Grohmann, Rāġib”">نفعل </lem><rdg resp="“Rāġib”">نفعل </rdg><rdg resp="“Rāġib”">تغفل</rdg></app> ابعث 
+<lb n="recto 19"/>  بما <app type="BL"><lem resp="APD">نشا </lem><rdg resp="“Rāġib”">تهيّأ</rdg></app> الأوّل في الأوّل عسا اللّه پپپع <app type="BL"><lem resp="APD">لتا </lem><rdg resp="“Rāġib”">يبيع</rdg></app> اڤرى ألسپح حڤطه الله 
+<lb n="recto 20"/>  السّلم وأقرئ من أحببت السّلم وانظر ألّا <app type="BL"><lem resp="APD">تديم </lem><rdg resp="“Rāġib”">تدع</rdg></app> الكتاب <app type="BL"><lem resp="APD">پوصول </lem><rdg resp="“Rāġib”">إليّ</rdg></app> 
+<lb n="recto 21"/>  هذه الدّنانير <app type="BL"><lem resp="APD">و<unclear reason="undefined" cert="high">كتوب</unclear> </lem><rdg resp="“Rāġib”">وكتوب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“Rāġib”">ø</rdg></app> <app type="BL"><lem resp="APD">إلى </lem><rdg resp="“Rāġib”">أبي</rdg></app> الرّبيع بن <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“Rāġib”">رشدين</rdg></app> وبن علي وبن <app type="BL"><lem resp="APD">د<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“Rāġib”">حيّة</rdg></app> 
+<lb n="recto 22"/>  مع كتابي وقد دفعت إلى 
+<lb n="recto 23"/>  <app type="BL"><lem resp="APD">ميمون </lem><rdg resp="“Rāġib”">ميويون</rdg></app> حقّه فلا تدفع شي 
+<lb n="verso 1 right"/>  لأبي يعقوب وأبي علي حفظهما اللّه 
+<lb n="verso 2 right"/>  بن عبد إبرهيم والحسن بن عبد السّلم 
+<lb n="verso 1 left"/>  عبادة يدفع بن عبادة يدفع بالفيّوم 
+<lb n="verso 2 left"/>  عند ‮من χ قرط بربية ‪α‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa kumu ăl lāhu wa ʾabqā kum wa ʾamtaʿa bi kum wa ʾatamma niʿama hu ʿalay kum wa dafaʿa ăs sūʾa ʿan kum wa ʿan nā wa ʿan 
+ <lb n="3"/>ǧamīʿi ʾummaẗi muḥammad:in ʾinna hu ʿalà ḏālika qādir:un bi raḥmati hi qad baʿaṯtu ʾilay kum maʿa maymūn:ini maymayūna 
+ <lb n="4"/>ăl mukārī bi ṣurraẗ:in fī hā ĭṯnayni wa ʾarbaʿīna dīnār šahriyyaẗ:an l ī wa fī hā dīnārayni li ḥamdi bni ḥabbaẗa ḥayyaẗa 
+ <lb n="5"/>wa maʿa hā fī ăṣ ṣurraẗi ṣurraẗ:un li salmāna bni dāwūda bni **** ʾaḫī **** rišdayna wa bni ʿaliyy:in fa ŭnẓurū 
+ <lb n="6"/>ʾiḏā waṣalat ʾilay kum ʾan tuṯbitū taktubū ʾilay nā bi waṣli wuṣuli hā ʾilay kum ʾin šāʾa ăl lāhu wa ŭnẓurū ʾan 
+ <lb n="7"/>taštarū l ī mandīlayni šiqāq muḫtaṣṣ maḥḍ muḥuṣ wa mandīlayni riyāṭ muḫtaṣṣ maḥḍ muḥuṣ 
+ <lb n="8"/>wa ʾanā bāʿiṯ:un bi tamāmi ḫamsi manādīla ḥattā yakun ṯalāṯaẗa riyāṭ:in wa mandīlayni 
+ <lb n="9"/>šiqāq ǧiyād fa ʾinna ăš šiqāqa ăllaḏī baʿaṯta bi hā waḥīš:un waḫīš:un ǧidd:an fa ʿalay ka 
+ <lb n="10"/>bi ăl ǧayyidi fa ʾinna ăl ø ǧayyida ø ø ăl kuwayyis:un waḫīša laysa la hu ḫurūǧ:un wa ĭʿlam yā ʾabā ʿaliyy:in ʾanna ka qadi ĭstawfayta 
+ <lb n="11"/>ăd dīnāra ăllaḏī kāna baqiya la ka ʿalay ya wa baqiya la ka ʿalay ya suds:un wa ăs sūqu ʿinda nā 
+ <lb n="12"/>kāsid:un kāsid:un ǧidd:an ʾillā ʾanna ăl lāha ăl ăṣ qāniʿu ṣāniʿu ŭnẓur ḥafiẓa ka ăl lāhu yā ʾabā ʿaliyy:in ʾallā taštariya 
+ <lb n="13"/>ʾillā ăl ǧayyida mina ăš šiqāqi fa qad nafara ăn nāsu mina ăl waḥīši waḫīši wa qad katabtu ʾilay ka ġayra 
+ <lb n="14"/>kitāb:in bi ø baʿṯ:in tabʿaṯu ʾilay ya bi ăl qullaẗi ăl ḥāʾiǧi kāmiḫi fa lam tafʿal 
+ <lb n="15"/>fa bi yaḫfà ḥaqq ø ī ø ʿalay ya ka ʾillā mā 
+ <lb n="16"/>ʿaǧǧalta hā ʿalay ya wa ĭštarī l ī ʾarbaʿaẗa qilāl:in ṣiġār:in li l ǧāriyaẗi tastaqī bi himu ăl māʾa 
+ <lb n="17"/>fa ʾin nī ʾaḥtāǧu ʾilay him wa surri tasurru nī bi ḏālika wa ʿaǧǧil ʿalay ya yā ʾabā ʿaliyy:in bi ʾamtāʿ:in fa ʾinnamā nabīʿu tabīʿu 
+ <lb n="18"/>bi taʾḫīr:in fa ʾiḏā ḥasabta ḫašīta ʾanta wa ḥusayn:un ḫašiya ʿBwf ġayru ø ka ǧāʾa ăl qulalu qalaqu fa lā nafʿalu tafʿal taġful ĭbʿaṯ 
+ <lb n="19"/>bi mā našāʾu tahayyaʾa ăl ʾawwala fī ăl ʾawwali ʿasā ăl lāhu ʾan tabīʿa yabīʿa la nā ʾaqriʾi ăš šayḫa ḥafiẓa hu ăl lāhu 
+ <lb n="20"/>ăs salāma wa ʾaqriʾ man ʾaḥbabta ăs salāma wa ŭnẓur ʾallā tudīma tadaʿa ăl kitāba ø ʾilay ø ya bi wuṣūli 
+ <lb n="21"/>hāḏihi ăd danānīri wa kBwB kutūbi **** ø ʾilà ʾabī ăr rabīʿi bni **** rišdayna wa bni ʿaliyy:in wa bni d**** ḥayyaẗa 
+ <lb n="22"/>maʿa kitāb ī wa qad dafaʿtu ʾilà 
+ <lb n="23"/>maymūn:in maymayūna ḥaqqa hu fa lā tadfaʿ šayʾ 
+ <lb n="24"/>li ʾabī yaʿqūba wa ʾabī ʿaliyy:in ḥafiẓa humā ăl lāhu 
+ <lb n="25"/>ʾisḥāqa bni ʾibrāhīma wa ăl ḥasani bni ʿabdi ăs salāmi 
+ <lb n="26"/>min muḥammadi bni ʿubādaẗa yudfaʿ bi ăl fayyūmi 
+ <lb n="27"/>ʿinda masǧidi ăl ǧāmiʿi ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		May God protect you and preserve you and may He cause us to profit by you and fulfil His loving kindness unto you and keep away the evil from you and us and from
+		Que Dieu vous garde et vous conserve, qu&#039;Il laisse jouir (de votre présence), parachève Ses bienfaits envers vous et écarte le mal de vous, de nous et de
+			<lb n="3"/>
+		la totalité de la communauté de Muḥammad! Il est de cela capable par Sa miséricorde! Je vous ai envoyé avec Maymayūn
+		the whole community of Muhammad, verily He is mighty thereto by His mercy. I have already dispatched to you with Maimûn
+			<lb n="4"/>
+		l&#039;ânier une bourse contenant quarante-deux dinars ayant cours qui m&#039;appartiennent et deux qui appartiennent à Ḥamd b. Ḥayya.
+		the donkey-driver a purse therein (were) forty-two current dînârs to my credit and therein two dînârs belonging to Ḥamd ibn Ḥabba,
+			<lb n="5"/>
+		and therewith were in the purse a purse belonging to Salomon ibn Dawûd ibn ............ ibn ʿAlî. Thus you may consider,
+		(Cette bourse) renferme une autre appartenant à Salmān b. Dāwūd, le neveu de Rišdayn et à Ibn ʿAlī. Tâchez,
+			<lb n="6"/>
+		as soon as it reaches you (the purse), to acknowledge to us the arrival thereof, please God, and consider to
+		lorsqu&#039;elles vous parviendront, de nous écrire qu&#039;elles vous sont parvenues, si Dieu le veut! Tâchez
+			<lb n="7"/>
+		buy for me two bipartite, special kerchiefs and two special linen-garments.
+		de m&#039;acheter deux mouchoirs šiqqa-s lisses (?) et deux autres 〚rayṭa-s〛 rayṭa-s (également) lisses (?).
+			<lb n="8"/>
+		And I dispatch (now) all in all five kerchiefs so that it makes three linen-garments and two bipartite
+		Je t&#039;envoie le complément de 〚cinq〛 cinq mouchoirs afin de faire trois rayṭa-s et deux mouchoirs
+			<lb n="9"/>
+		good kerchiefs. Verily the cloths which thou hast dispatched are very poor; so thou ought (to send)
+		šiqqa-s de bonne qualité, car les šiqqa-s que tu as envoyés sont de très mauvaise qualité. À toi donc (d&#039;envoyer une marchandise)
+			<lb n="10"/>
+		de bonne qualité, car celle qui est de mauvaise qualité est sans débouché. Sache, Abū ʿAlī, que tu as intégralement reçu
+		good ones, for verily the good ones are nice, there is no getting away therefrom. And do know, o Abû ʿAlî, that thou has already got a full compensation
+			<lb n="11"/>
+		le dinar qui te restait dû par moi. Il te reste dû par moi un sixième (de dinar). Le marché est chez nous
+		the dînâr which had remained to thy credit (and) to my debit, and I still owe you a sixth (of a dînâr). The market is now with us
+			<lb n="12"/>
+		en baisse, fortement en baisse. Seulement Dieu est celui qui favorise! Tâche - que Dieu te garde! Abū ʿAlī, de m&#039;acheter
+		idle, very idle, exept that God is bearing up (therewith). Take into consideration - may God protect thee o Abû ʿAlî - that thou doest not buy
+			<lb n="13"/>
+		but the good ones of the garments, for the people shrink from the poor ones. And I have already written to thee another
+		(...) Ich habe dir bereits mehrmals geschrieben,
+		que des šiqqa-s de bonne qualité, car les gens fuient (la marchandise) de mauvaise qualité. Je t&#039;ai écrit plus
+			<lb n="14"/>
+		d&#039;une lettre pour que tu m&#039;envoies la cruche de kāmiḫ, mais tu ne l&#039;as pas fait.
+		letter, thou mightest dispatch to me the water-jug that I need, but thou hast not done (so).
+		mir den (bewußten) Krug Mixed Pickles zu übersenden, aber Du hast (dies immer noch) nicht getan.
+			<lb n="15"/>
+		Par égard pour moi, je te conjure
+		So it is out of my reach, unless
+			<lb n="16"/>
+		de me l&#039;envoyer rapidement. Achète-moi quatre 〚pe〛 petites cruches avec lesquelles l&#039;esclave ira chercher l&#039;eau.
+		thou hast speedily sent it to me ; and buy for me four small water-jugts for the slave girl so that she may offer to drink water by means of them.
+		(...) vier kleine Wasserkrüge für das Mädchen, damit sie miti hnen Wasser schöpfen kann.
+			<lb n="17"/>
+		For, verily, I need them and thou wilst give me pleasure therewith; and send me hastily the commodities, o Abû ʿAlî ; for thou sellest only
+		J&#039;en ai besoin. Réjouis-moi par cela. Envoie-moi rapidement, Abū ʿAlī, des marchandises. Seulement nous vendons
+			<lb n="18"/>
+		avec retard. Si tu crains et d&#039;autres craignent, le trouble s&#039;installera et nous ne ferons rien. Envoie-moi
+		in arrear. When thou and Ḥusain ...... art of the opinion ...... the water-jars come, do not do (so?); send
+		... Zögere also nicht, (sondern sende
+			<lb n="19"/>
+		ce qui est prêt au fur et à mesure. Peut-être que Dieu vendra pour nous. Envoie au šayḫ - que Dieu le garde!
+		das, was (bei Dir) bereits liegt, eins nach dem anderen. ...
+		what we wish, dispatch after dispatch, perhaps God (wills) that thou sellest for us. Greet the shêkh - may God protect him -
+			<lb n="20"/>
+		and greet whomsoever thou likest, and consider that thou doest not delay the letter (announcing) the arrival
+		le salut. Envoie à ceux que tu aimes le salut. Tâche de ne pas négliger de m&#039;écrire (pour m&#039;informer) de l&#039;arrivée de
+			<lb n="21"/>
+		ces dinars et des lettres d&#039;Abū l-Rabīʿ b. Rišdayn, d&#039;Ibn ʿAlī et d&#039;Ibn Ḥayya
+		of these dînârs and ..... to ar-Rabîʿ ibn ...... and Ibn ʿAlî and Ibn D.[......
+			<lb n="22"/>
+		avec ma lettre. J&#039;ai payé à 〚Mayma〛
+		with my letter. And I have already paid to 〚Maymû〛
+			<lb n="23"/>
+		Maimûn his claim; so do not pay anything.
+		Maymayūn son dû. Ne paie donc rien.
+			<lb n="24"/>
+		À Abū Yaʿqūb et Abū ʿAlī - que Dieu les garde! 
+		To Yaʿqûb and Abû ʿAlî may God protect them both
+			<lb n="25"/>
+		Isḥâq b. Ibrahîm and al-Ḥasan b. ʿAbd as&#039;Salâm
+		Isḥāq b. Ibrāhīm et al-Ḥasan b. ʿAbd al-Salām.
+			<lb n="26"/>
+		De la part de Muḥammad b. ʿUbāda. À délivrer au Fayyoum,
+		from Muḥammad b. ʿUbâda, to be handed over in al-Fayyûm
+			<lb n="27"/>
+		near the Great Mosque, please God.
+		près de la grande mosquée, si Dieu le veut!
+</ab></div>
+</body>
+</text>
+</TEI>

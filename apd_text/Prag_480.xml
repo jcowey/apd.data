@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1702" xml:id="Prag_480" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 48</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_480</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169452</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن جرجة بن إسطورس الجهبذ <unclear reason="undefined" cert="high">لسـ</unclear><supplied reason="lost" cert="high">ـنة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" extent="2" unit="character" />روسى من مال ططون <unclear reason="undefined" cert="high">وجملة</unclear> من <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‮‪ρκηγʹκʹδʹ‬ تذكـ<supplied reason="lost" cert="high">ـرة</supplied> <gap reason="illegible" extent="1" unit="character" /> ‪<unclear reason="undefined" cert="high">ν</unclear><gap reason="illegible" precision="low" extent="3"/>ʹ‬‬‬ 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> بيدي 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ذي</supplied> <supplied reason="lost" cert="high">ا</supplied>لـحجّة <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="recto 6"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‮‪λϛΧ‬ تذكرة η‬‬ 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="recto 8"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‮‪δʹιʹβʹ‬ <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بيد</supplied> <supplied reason="lost" cert="high">و</supplied>لده 
+<lb n="recto 10"/>  ‮<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه تلات υ‬ 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> الجملة أربع مائة دينار 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 13 right"/>  ‮<supplied reason="lost" cert="high">تذكـ</supplied>ـرة ‮‪ϛθΧηʹΧ‬‬‬ 
+<lb n="recto 14 right"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> الجهبذ 
+<lb n="recto 16 right"/>  بتأر<supplied reason="lost" cert="high">يـ</supplied>ـخ يوم الخميس مرقورة جهبذه 
+<lb n="recto 17 right"/>  ‮عن يوم الجمعة ‪κε 
+<lb n="recto 13 left"/>  ‮تذكرة ‪‪ρξεγʹηʹ‬‬‬ 
+<lb n="recto 14 left"/>  لياسر الجهبذ 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">بيد</unclear> شنودة التّاجر 
+<lb n="recto 16 left"/>  تأريخها يوم الأربعا 
+<lb n="recto 17 left"/>  أوّل بشنس 
+<lb n="verso 1"/>  ‮<supplied reason="lost" cert="high">تذكـ</supplied>ـرة ‪κζηʹ‬‬ 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">بيد</supplied> الجهبذ 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">جـ</supplied>ـر<supplied reason="lost" cert="high">جـ</supplied>ـة سرئلة 
+<lb n="verso 4"/>  ‮<gap reason="illegible" precision="low" extent="3"/> تذكرة ‪ϛδʹ‬‬ 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> بيد <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">ا</supplied>لعلا الجهبذ 
+<lb n="verso 6"/>  من <unclear reason="undefined" cert="high">أبو</unclear> الأ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 7"/>  ‮تذكرة ‪<gap reason="illegible" precision="low" extent="3"/>ʹʹ 
+<lb n="verso 8"/>  أيضا بخطّه 
+<lb n="verso 9"/>  سنـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 10"/>  <supplied reason="lost" cert="high">تـ</supplied>ـذكـ<supplied reason="lost" cert="high">ـ</supplied>ـرة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 11"/>  بيد أبو العلا ا<supplied reason="lost" cert="high">لـمـ</supplied>ـاسح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 12"/>  بخط ياسر الجهـ<supplied reason="lost" cert="high">ـبـ</supplied>ـذ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 13"/>  ‮تذكرة ‪ξ<unclear reason="undefined" cert="high">β</unclear>ϛʹ 
+<lb n="verso 14"/>  بخط جرجة بن إسطورس 
+<lb n="verso 15"/>  ياسر بن منصور 
+<lb n="verso 16"/>  نجم بووپه بتأريخ شعبان 
+<lb n="verso 17"/>  من شهر ربيع الأوّل سنة سبع 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>min ǧirǧaẗa bni ʾisiṭūrusa ăl ǧahbaḏi li sanaẗi *** 
+ <lb n="2"/>**rūsī min māli ṭuṭūna wa ǧumlaẗ:in min ***** *** 
+ <lb n="3"/>*** 128+1/3+1/24 taḏkiraẗu * 50+**+1/* 
+ <lb n="4"/>*** bi yaday 
+ <lb n="5"/>*** ḏī ăl ḥiǧǧaẗi ********* 
+ <lb n="6"/>*** 36+1/2 taḏkiraẗu 8 
+ <lb n="7"/>*** ******** 
+ <lb n="8"/>*** 1/4+1/12 *** 
+ <lb n="9"/>*** bi yadi waladi hi 
+ <lb n="10"/>***h talāt 400 
+ <lb n="11"/>*** ăl ǧumlaẗu ʾarbaʿu miʾaẗi dīnār:in 
+ <lb n="12"/>*** *** 
+ <lb n="13"/>taḏkiraẗu 99+1/2+1/8+1/48 
+ <lb n="14"/>*** ** ** ăl ǧahbaḏ 
+ <lb n="15"/>bi taʾrīḫi yawmi ăl ḫamīsi marqūraẗu ǧahbaḏu hu 
+ <lb n="16"/>ʿan yawmi ăl ǧumʿaẗi 25 
+ <lb n="17"/>taḏkiraẗu 165+1/3+1/8 
+ <lb n="18"/>li yāsir:ini ăl ǧahbaḏi 
+ <lb n="19"/>*** bi yadi šanūdaẗa ăt tāǧiri 
+ <lb n="20"/>taʾrīḫu hā yawmu ăl ʾarbaʿāʾi 
+ <lb n="21"/>ʾawwala bašansa 
+ <lb n="22"/>taḏkiraẗu 27+1/8 
+ <lb n="23"/>bi yadi ăl ǧahbaḏi 
+ <lb n="24"/>*** ḥ*** ǧirǧaẗ saraʾilaẗa 
+ <lb n="25"/>*** taḏkiraẗu 6+1/4 
+ <lb n="26"/>*** bi yadi ʾabī ăl ʿalāʾi ăl ǧahbaḏi 
+ <lb n="27"/>min ʾabū ăl ʾ*** *** 
+ <lb n="28"/>taḏkiraẗu *+1/** 
+ <lb n="29"/>ʾayḍ:an bi ḫaṭṭi hi 
+ <lb n="30"/>sanaẗa *** 
+ <lb n="31"/>taḏkiraẗu *** 
+ <lb n="32"/>bi yadi ʾabū ăl ʿalāʾi ăl māsiḥi *** 
+ <lb n="33"/>bi ḫaṭṭi yāsir:ini ăl ǧahbaḏi *** 
+ <lb n="34"/>taḏkiraẗu 62+1/6 
+ <lb n="35"/>bi ḫaṭṭi ǧirǧaẗa bni ʾisiṭūrusa 
+ <lb n="36"/>yāsiru bnu manṣūr:in 
+ <lb n="37"/>naǧmu baʾūniha bi taʾrīḫi šaʿbāna 
+ <lb n="38"/>min šahri rabīʿa ăl ʾawwali sanaẗa sabʿ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[v]on Ǧirǧe b. Isiṭōros, dem Zahlmeister, für das Ja[hr ...]
+			<lb n="2"/>
+		[...]rūsī (?) vom Geldaufkommen von Ṭuṭūn, ............[...]
+			<lb n="3"/>
+		[...] 128 1/3+1/24 Zahlungsauftrag 50 (?)
+			<lb n="4"/>
+		[...] durch
+			<lb n="5"/>
+		[... Ḏū]&#039;l-Ḥiǧǧa ........
+			<lb n="6"/>
+		[....]36 1/2 Zahlungsauftrag 8
+			<lb n="7"/>
+			<lb n="8"/>
+		[...] [..]1/4+1/12
+			<lb n="9"/>
+		[... durch] seinen [So]hn
+			<lb n="10"/>
+		[...]h Talāt 400
+			<lb n="11"/>
+		[...] der Gesamtbetrag ist vierhundert Dīnār
+			<lb n="12"/>
+			<lb n="13"/>
+		[Zahlungs]auftrag 99 1/2+1/8+1/48
+			<lb n="14"/>
+		[...] .... [..] der Zahlmeister
+			<lb n="15"/>
+		vom Dat[um] des Donnerstag, Merqūre der Zahlmeister,
+			<lb n="16"/>
+		anstatt Freitag. 25
+			<lb n="17"/>
+		Zahlungsauftrag 165 1/3+1/8
+			<lb n="18"/>
+		für Jāsir, den Zahlmeister,
+			<lb n="19"/>
+		durch Šanūda, den Kaufmann,
+			<lb n="20"/>
+		dessen Datum Mittwoch,
+			<lb n="21"/>
+		der erste Bašans.
+			<lb n="22"/>
+		[Zahlungs]auftrag 27 1/8
+			<lb n="23"/>
+		[von der Hand des]....., des Zahlmeisters
+			<lb n="24"/>
+		[..]....[......... Ǧ]ir[ǧ]e Saraʾile
+			<lb n="25"/>
+		[...] Zahlungsauftrag 6 1/4
+			<lb n="26"/>
+		[...] von der Hand des [Ab]u[&#039;]l-ʿAlā, des Zahlmeisters
+			<lb n="27"/>
+		von Abu&#039;l-A[...]...
+			<lb n="28"/>
+		Zahlungsauftrag [..]1/12
+			<lb n="29"/>
+		gleichfalls von seiner Hand
+			<lb n="30"/>
+		Jah[r] [.......]
+			<lb n="31"/>
+		[Z]ahlungsauftrag [...]
+			<lb n="32"/>
+		durch Abu&#039;l-ʿAlā, de[n Feld]messer, [...]
+			<lb n="33"/>
+		von der Hand des Zahl[mei]sters Yāsir [...]
+			<lb n="34"/>
+		Zahlungsauftrag 62 1/6
+			<lb n="35"/>
+		von der Hand des Ǧirǧe b. Isiṭōros,
+			<lb n="36"/>
+		Yāsir b. Manṣūr.
+			<lb n="37"/>
+		Rate Baūne mit Datum Šaʿbān
+			<lb n="38"/>
+		vom Monate Rabīʿ des Jahres 7
+</ab></div>
+</body>
+</text>
+</TEI>

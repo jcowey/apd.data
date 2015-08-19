@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1403" xml:id="Diem_Heid_II_33" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 33</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_33</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169194</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="10" unit="character" /> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">إيّك</unclear> </lem><rdg resp="APD">أنّك </rdg><rdg resp="APD">إنّك </rdg><rdg resp="APD">إيّك</rdg></app> 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> أ<unclear reason="undefined" cert="high">فضـ</unclear>ـل 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> إن شا اللّه <unclear reason="undefined" cert="high">ولا</unclear> <unclear reason="undefined" cert="high">تكسل</unclear> إلّا 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> من التسع لما <unclear reason="undefined" cert="high">من</unclear> الثّلثة 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" />ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـ<gap reason="illegible" extent="1" unit="character" /> إن شا اللّه 
+<lb n="recto 6"/>  وكرّر حبّك علي تأخذ ببيع الصّوف <unclear reason="undefined" cert="high">و</unclear>لو كنت 
+<lb n="recto 7"/>  تفضّلت وحببت تحمله إلى الـ<gap reason="illegible" extent="7" unit="character" /> 
+<lb n="recto 8"/>  وكتبت إلى أخوا أبو المعمّـ<unclear reason="undefined" cert="high">ـر</unclear> كتاب على <unclear reason="undefined" cert="high">ذ</unclear><supplied reason="lost" cert="high">لك</supplied> 
+<lb n="recto 9"/>  وأنـ<unclear reason="undefined" cert="high">فذ</unclear>ته إليه فكان <gap reason="illegible" extent="7" unit="character" /> حصل لباعته 
+<lb n="recto 10"/>  فلا تتوانا <app type="BL"><lem resp="APD">بحق </lem><rdg resp="Rāġib">بحقّي</rdg></app> عليك عن ذلك إن <supplied reason="lost" cert="high">شـ</supplied>ـا اللّه 
+<lb n="recto 11"/>  وابعث بالدّينر إلي أيضا أشتري <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 12"/>  <unclear reason="undefined" cert="high">والدّينر</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="APD">ثياب</rdg></app> <gap reason="illegible" extent="5" unit="character" /> <unclear reason="undefined" cert="high">الدّينر</unclear> فإنّي نحتاج 
+<lb n="recto 13"/>  إليها <unclear reason="undefined" cert="high">فـ</unclear>ـيما قبلنا <unclear reason="undefined" cert="high">لمن</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ـك </lem><rdg resp="APD">بعدك</rdg></app> عندنا فليس <unclear reason="undefined" cert="high">عند</unclear>نا 
+<lb n="recto 14"/>  لهم ثياب فأعلم ذلك ولا <app type="BL"><lem resp="fāʾ with one dot below “maġribī”">تغفل </lem><rdg resp="Rāġib">تقفل</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">مد</unclear>ي </lem><rdg resp="APD">مديّ </rdg><rdg resp="Rāġib">يدي </rdg><rdg resp="Diem, P.Vind.Arab. III">شرى </rdg><rdg resp="Diem, P.Vind.Arab. III">تشتري</rdg></app> <app type="BL"><lem resp="APD">الغلالتي </lem><rdg resp="Diem, P.Vind.Arab. III">الغلالتين</rdg></app> 
+<lb n="recto 15"/>  <app type="BL"><lem resp="APD">والشّعيبي </lem><rdg resp="Rāġib">والشّقّتي </rdg><rdg resp="Diem, P.Vind.Arab. III">والشّقّتين</rdg></app> وسلّمهم <app type="BL"><lem resp="APD">كل </lem><rdg resp="Rāġib">إلى</rdg></app> <app type="BL"><lem resp="APD">الـ<unclear reason="undefined" cert="high">ـعـ</unclear>ـصار </lem><rdg resp="Rāġib, Diem P.Vind.Arab. II">القصّار</rdg></app> فإنّي ويلك 
+<lb n="recto 16"/>  <app type="BL"><lem resp="APD">نحتاج </lem><rdg resp="Rāġib">محتاج</rdg></app> إلى ذلك فلا تتراخا فيه إن شا اللّه 
+<lb n="recto 17"/>  ونحن من الأراجيف الّتي قبلنا عن هذا 
+<lb n="recto right margin 1"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">ر</unclear>أ<unclear reason="undefined" cert="high">يت</unclear> <gap reason="illegible" extent="18" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـ<unclear reason="undefined" cert="high">ـعـ</unclear>ـلّقة واتّصل منك 
+<lb n="recto right margin 2"/>  <gap reason="illegible" extent="4" unit="character" /> كرا ڤى صحـ<unclear reason="undefined" cert="high">ـپپك</unclear> <gap reason="illegible" extent="15" unit="character" /> الڤرا عرا الـ<unclear reason="undefined" cert="high">ـى</unclear> دإك الرحل 
+<lb n="verso 1"/>  وليس نحب أن تغفل عن إسمعيل فـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـكتب إليه 
+<lb n="verso 2"/>  كتاب يصير إليك بما استخرجه من المال 
+<lb n="verso 3"/>  وتكتب إلى جريج يصير إليك لعلّك تقدر 
+<lb n="verso 4"/>  على بيع هذا القمح وتحصل ثمنه قبلك 
+<lb n="verso 5"/>  إن شا اللّه فرأيك فيه <sic n="superfluous">دلك</sic> موثّقا إن شا اللّه 
+<lb n="verso 6"/>  واشتري لنا فردة <gap reason="illegible" extent="16" unit="character" /> 
+<lb n="verso 7"/>  <gap reason="illegible" extent="12" unit="character" /> الرّحى <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 8"/>  من طلب <gap reason="illegible" extent="6" unit="character" /> <unclear reason="undefined" cert="high">ذلك</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 9"/>  <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">إن</supplied> شا اللّه <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso lower margin 1"/>  لأبي الحسن <unclear reason="undefined" cert="high">أبقا</unclear><supplied reason="lost" cert="high">ه</supplied> <unclear reason="undefined" cert="high">اللّه</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وحفظه</rdg></app> 
+<lb n="verso lower margin 2"/>  محمّد <gap reason="illegible" extent="7" unit="character" /> <unclear reason="undefined" cert="high">أسعده</unclear> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ********** ʾanna ʾB ʾinna ʾiyyā ka 
+ <lb n="2"/>*** ***** ʾafḍal 
+ <lb n="3"/>*** ***** ʾin šāʾa ăl lāhu wa lā taksal ʾillā 
+ <lb n="4"/>*** ****** mina ăt tisʿi li mā mina ăṯ ṯalāṯaẗi 
+ <lb n="5"/>*** * *** **** ʾin šāʾa ăl lāhu 
+ <lb n="6"/>wa karrir ḥubba ka ʿalay ya taʾḫuḏu bi bayʿi ăṣ ṣūfi wa law kunta 
+ <lb n="7"/>tafaḍḍalta wa ḥababta taḥmilu hu ʾilà ăl ******* 
+ <lb n="8"/>wa katabtu ʾilà ʾaḫū ʾabū ăl muʿammari kitāb ʿalà ḏālika 
+ <lb n="9"/>wa ʾanfaḏtu hu ʾilay hi fa kāna ******* ḥaṣala li bāʿati hi 
+ <lb n="10"/>fa lā tatawānā bi ḥaqq:in ḥaqq ø ī ʿalay ka ʿan ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="11"/>wa ĭbʿaṯ bi ăd dīnāri ʾilay ya ʾayḍ:an ʾaštarī **** 
+ <lb n="12"/>wa ăd dīnār ***** ṯiyāb **** ăd dīnār fa ʾin nī naḥtāǧu 
+ <lb n="13"/>ʾilay hā fī mā qibala nā li man *** baʿda ka ʿinda nā fa laysa ʿinda nā 
+ <lb n="14"/>la hum ṯiyāb:un fa ʾaʿlim ḏālika wa lā tuġfil tuqfil muddayya mudya yaday širà taštarī ăl ġilālatay ġilālatiyyi ġilālatayni 
+ <lb n="15"/>wa ăš šiqqatayni šuʿaybiyyi šaqqatay wa sallim hum kulla ʾilà ăl ʿuṣāri qaṣṣāri fa ʾin nī wayla ka 
+ <lb n="16"/>naḥtāǧu muḥtāǧ:un ʾilà ḏālika fa lā tatarāḫā fī hi ʾin šāʾa ăl lāhu 
+ <lb n="17"/>wa naḥnu mina ăl ʾarāǧīfi ăllatī qibala nā ʿan hāḏā 
+ <lb n="18"/>*** raʾayta raʾaytu ****************** muʿallaqaẗ wa ĭttaṣala min ka 
+ <lb n="19"/>**** kirāʾ fī ṣuḥbati ka *************** ăl Frʾ ʿrʾ ʾilà ḏāka ăr raḥli raǧuli 
+ <lb n="20"/>wa laysa nuḥibbu ʾan tuġfila ʿan ʾismāʿīla fa taktubu ʾilay hi 
+ <lb n="21"/>kitāb yaṣīru ʾilay ka bi mā ĭstaḫraǧa hu mina ăl māli 
+ <lb n="22"/>wa taktubu ʾilà ǧurayǧ:in yaṣīru ʾilay ka laʿalla ka taqdiru 
+ <lb n="23"/>ʿalà bayʿi hāḏā ăl qamḥi wa taḥṣulu ṯamana hu qibala ka 
+ <lb n="24"/>ʾin šāʾa ăl lāhu fa raʾyu ka fī hi muwaṯṯaq:an ʾin šāʾa ăl lāhu 
+ <lb n="25"/>wa ĭštirī la nā fardaẗa **************** 
+ <lb n="26"/>************ ăr raḥà *** *** 
+ <lb n="27"/>man ṭalaba ****** ḏālika *** ** *** 
+ <lb n="28"/>** ʾin šāʾa ăl lāhu **** 
+ <lb n="29"/>li ʾabī ăl ḥasani ʾabqā hu ăl lāhu *** wa ø ḥafiẓa ø hu 
+ <lb n="30"/>muḥammad ******* ʾasʿada hu ăl lāhu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] - - - Dich (?)
+			<lb n="2"/>
+		[...] - - - besser (?)
+			<lb n="3"/>
+		[...]  - - - so Gott will, und sei nicht faul (?),
+			<lb n="4"/>
+		[...] - - - von den neun  - - - der drei
+			<lb n="5"/>
+		[...] so Gott will,
+			<lb n="6"/>
+		und erweise mir erneut Deine Liebe, indem Du mit dem Verkauf de Wolle beginnst. Und wenn
+			<lb n="7"/>
+		Du doch so freundlich wärst und beliebtest, sie zu/nach  - - - zu bringen!
+			<lb n="8"/>
+		Ich habe an den Bruder von Abū l-Muʿammar dementsprechend einen Brief geschrieben
+			<lb n="9"/>
+		und habe sie (sc. die Wolle) ihm übersandt. Da war - - - wurde denen, die sie verkauften, zuteil.
+			<lb n="10"/>
+		Deshalb säume hierin bei (meinem) Anspruch gegen Dich nicht, so Gott will.
+			<lb n="11"/>
+		Sende mir ferner den bewußten Dinar, damit ich  - - - kaufe,
+			<lb n="12"/>
+		und der Dinar (?) - - - der Dinar  (?), denn ich bedarf
+			<lb n="13"/>
+		ihrer (sc. der zu kaufenden Ware) bei uns für - - - bei uns. Denn wir haben (?) keine
+		ihrer (sc. der zu kaufenden Ware) bei uns für diejenigen, die seit Deiner Abreise bei uns sind. Denn wir haben (?) keine
+			<lb n="14"/>
+		Kleider für sie, nimm dies zur Kenntnis! Und vergiß nicht den für al-Ġilālatī
+		(...) Ne boutonne pas les manches des deux robes
+		(...) Vergiß ja nicht, die beiden Tunikas
+			<lb n="15"/>
+		et des deux vêtements et remets-les au blanchisseur, car malheur à toi! j&#039;ai
+		und aš-Šuʿaybī bestimmten Modius, und übergib ihnen den ganzen Saft (?), denn ich benötige - wehe Dir -
+		und die beiden Gewänder zu kaufen und liefere sie beim Bleicher ab. (...)
+			<lb n="16"/>
+		besoin de ceci. (...)
+		diesen. Sei deshalb damit nicht nachlässig, so Gott will.
+			<lb n="17"/>
+		Wir sind wegen des leeren Geredes, das wir darüber haben
+			<lb n="18"/>
+		- - - ich sah (oder: Du sahst) (?) - - - hängt (?), und es kam von Dir an
+			<lb n="19"/>
+		- - - in Deiner Gesellschaft (?) - - - jene Fracht (?)
+			<lb n="20"/>
+		Ferner möchte ich nicht, daß Du Ismāʿīl außer Acht läßt. Schreibe ihm
+			<lb n="21"/>
+		also einen Brief, er möge Dir das Geld, das er kassiert hat, überbringen,
+			<lb n="22"/>
+		und schreibe Ǧurayǧ, er möge sich bei Dir einfinden; vielleicht kannst Du
+			<lb n="23"/>
+		diesen Weizen verkaufen und seinen Preis bei Dir einnehmen
+			<lb n="24"/>
+		so Gott will. Bilde Dir darüber Deine feste Meinung, so Gott will.
+			<lb n="25"/>
+		Und kaufe für uns eine halbe Traglast - - -
+			<lb n="26"/>
+		- - - die Mühle (?) - - -
+			<lb n="27"/>
+		wer - - - fordert - - -
+			<lb n="28"/>
+		[... so] Gott will [
+			<lb n="29"/>
+		Ab Abū l-Ḥasan - Gott erhalte ihn (?) [
+			<lb n="30"/>
+		Muḥammad - - - [Gott] mache ihn glücklich (?) [
+</ab></div>
+</body>
+</text>
+</TEI>

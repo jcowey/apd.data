@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1282" xml:id="David-Weill_Contrat" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillContrat</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Contrat</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169105</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  هذا ما استأجر عـ<supplied reason="lost" cert="high">ـبد</supplied> <supplied reason="lost" cert="high">الأحـ</supplied>ـد <app type="BL"><lem resp="APD">الجرار </lem><rdg resp="APD">الخزّاز </rdg><rdg resp="APD">الخرّاز </rdg><rdg resp="APD">الجرّار</rdg></app> استأجر رمضان بن يحي من أبيه يحي بن زكريّا <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">السّيّاح</unclear> </lem><rdg resp="APD">السّيّاح </rdg><rdg resp="APD">النّيّاح </rdg><rdg resp="APD">النّبّاح </rdg><rdg resp="APD">الرّبّاح</rdg></app> 
+ <lb n="3"/>  استأجره منه سنة كاملة <app type="BL"><lem resp="APD">ولاية </lem><rdg resp="APD">ولائه </rdg><rdg resp="APD">ولاية </rdg><rdg resp="Thung">واجبة</rdg></app> اثنا عشر شهرا طعامه وكسوته في السّنة ا<supplied reason="lost" cert="high">لمقـ</supplied>ـدّمة 
+ <lb n="4"/>  كل يوم وكل حين وأوّل سنة أوّلّ يوم من بشانس من شهور العجم من سنة ثلث وستّين ومائتي 
+ <lb n="5"/>  على أن يعمل له على الحمار فـيسقي الما وـيحمل لـحماره القرط ويعمل لـه جميع ما كان يعملـه في 
+ <lb n="6"/>  العام الماضي حتّى تتم له هذه السّنة المسمّاة في هذا الكتاب ليس لرمضان بن يحي أن <app type="BL"><lem resp="APD">يعطّل </lem><rdg resp="APD">يبطّل </rdg><rdg resp="APD">يعمل</rdg></app> عمل 
+ <lb n="7"/>  عبد الأحد حتّى تتم له السّنة المسمّاة في هذا الكتاب وذلك في شعبان سنة ثلث 
+ <lb n="8"/>  وستّين ومائتي شهد على ذلك <supplied reason="lost" cert="high">إ</supplied>براهيم بن موسى وكتب شهادته بخطّه على إقرار 
+ <lb n="9"/>  يحي بن زكري بـجميع ما في هذا الكتاب <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  شهد محمّد بن الرّبيع بن سلم الـ<gap reason="illegible" extent="2" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" />ـى <app type="BL"><lem resp="APD">و<sic n="superfluous">كپاپه</sic> </lem><rdg resp="Ragib">المؤذّن</rdg></app> <expan><ex>كپپ</ex> <ex>شهادته</ex></expan> بخطّه على إقرار يحيى ا<supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">زكري</supplied> <supplied reason="lost" cert="high">بجمـ</supplied>ـيع مـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> الكتاب 
+ <lb n="11"/>  شهد جعفر <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">يحيى</supplied> <supplied reason="lost" cert="high">ابن</supplied> <supplied reason="lost" cert="high">زكري</supplied> <supplied reason="lost" cert="high">بـجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭstaʾǧara ʿabdu ăl ʾaḥadi ăl ǧarrāru ḫarrāzu ǧazzāru ḫazzāzu ĭstaʾǧara ramaḍāna bna yaḥya min ʾabī hi yaḥya bni zakariyyāʾa ăs sabbāḫi sayyāḥi nabbāḥi nayyāḥi rabbāḥi 
+ <lb n="3"/>ĭstaʾǧara hu min hu sanaẗ:an kāmilaẗ:an walāʾa walāyaẗa wilāyaẗa wāǧibaẗ:an hu ĭṯnā ʿašara šahr:an ṭaʿāma hu wa kiswata hu fī ăs sanaẗi ăl muqaddimaẗi 
+ <lb n="4"/>kulla yawm:in wa kulla ḥīn:in wa ʾawwalu sanaẗ:in ʾawwalu yawmi min bašānsa min šuhūri ăl ʿaǧami min sanaẗi ṯalāṯ:in wa sittīna wa miʾatay 
+ <lb n="5"/>ʿalà ʾan yaʿmala la hu ʿalà ăl ḥimāri fa yasqī ăl māʾa wa yaḥmila li ḥimāri hi ăl qurṭa wa yaʿmalu la hu ǧamīʿa mā kāna yaʿmalu hu fī 
+ <lb n="6"/>ăl ʿāmi ăl māḍī ḥattà tatimma la hu hāḏihi ăs sanaẗu ăl musammāẗu fī hāḏā ăl kitābi laysa li ramaḍāna bni yaḥya ʾan yuʿaṭṭila yubaṭṭila yaʿmala ʿamala 
+ <lb n="7"/>ʿabdi ăl ʾaḥadi ḥattà tatimma la hu ăs sanaẗu ăl musammāẗu fī hāḏā ăl kitābi wa ḏālika fī šaʿbāna sanaẗi ṯalāṯ:in 
+ <lb n="8"/>wa sittīna wa miʾatay šahida ʿalà ḏālika ʾibrāhīmu bnu mūsà wa kataba šahādata hu bi ḫaṭṭi hi ʿalà ʾiqrāri 
+ <lb n="9"/>yaḥya bni zikrī bi ǧamīʿi mā fī hāḏā ăl kitābi *** 
+ <lb n="10"/>šahida muḥammadu bnu ăr rabīʿi bni sulaymāna salam:ini ăl ***iyyu muʾaḏḏinu wa kataba šahādata hu bi ḫaṭṭi hi ʿalà ʾiqrāri yaḥyà ĭbni zikrī bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="11"/>šahida ǧaʿfaru *** ʿalà ʾiqrāri yaḥyà ĭbni zikrī bi ǧamīʿi mā fī hāḏā ăl kitābi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément, miséricordieux!
+		 <lb n="2"/>
+ 	  Voici ce quʾa pris en location ʿAbd al-Aḥad le boucher (?); il a pris en location Ramaḍān ibn Yaḥya de son père Yaḥya ibn Zikriyā le sabbāḫ (ramasseur dʾengrais sabaḫ).
+		 <lb n="3"/>
+ 	  Il lʾa pris de lui en location pour une année entière, la durée de son service sera de douze mois contre sa nourriture et son habillement pendant lʾannée à venir
+		 <lb n="4"/>
+ 	  chaque jour et en tout temps, le premier jour de lʾannée étant le premier jour de pachons, lʾun des mois coptes (étrangers) de lʾan 263/877.
+		 <lb n="5"/>
+ 	  pour quʾil travaille pour lui concernant lʾâne, quʾil tire lʾeau et quʾil apporte à son âne la luzerne et quʾil fasse pour lui tout ce qui a été fait pendant
+		 <lb n="6"/>
+ 	  lʾexercice précédent jusquʾà ce que soit terminée cette année mentionnée dans le contrat sans que Ramaḍān ibn Yaḥya puisse cesser (chômer) le travail à faire
+		 <lb n="7"/>
+ 	  pour ʿAbd al-Aḥad jusquʾà la fin de cette année mentionnée dans ce contrat et cela au mois de šaʿbān trois
+		 <lb n="8"/>
+ 	  et soixante et deux cents/avril-mai 877. A témoigné de cela Ibrāhīm ibn Mūsā et il a écrit son témoignage de sa main pour la certification de
+		 <lb n="9"/>
+ 	  Yaḥya ibn Zikrī concernant tout le contenu de ce contrat
+		 <lb n="10"/>
+ 	  A témoigné Muḥammad ibn al-Rabīʿ ibn Salam al.....ī, et il a écrit (son témoignage de sa main) pour la certification de Yaḥya ibn Zikriyā concernant tout le contenu de ce contrat
+		 <lb n="11"/>
+ 	  A témoigné Ǧaʿfar ..... pour la certification de Yaḥya ibn Zikrī concernant tout le contenu de ce contrat.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

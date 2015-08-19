@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1441" xml:id="Diem_Heid_II_50" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 50</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_50</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169227</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> من خبرك وحالك <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">أعدمك</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الفـ</supplied>ـضل ولا أزال عنك النّعم أعلـ<supplied reason="lost" cert="high">ـمـ</supplied>ـك 
+<lb n="4"/>  <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">حا</supplied>لي وحال عيالي <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>ـن </rdg><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>ـي</rdg></app> <sic n="superfluous">ڤالحمد</sic> نحمد 
+<lb n="5"/>  <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">على</supplied> <unclear reason="undefined" cert="high">ذلـ</unclear>ـك وخبرك <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> إن طلعت خبر<unclear reason="undefined" cert="high">ك</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> بدأ اللّه بعلمه من <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">عـ<gap reason="illegible" extent="4" unit="character" />ـ </rdg><rdg resp="APD">صـ<gap reason="illegible" extent="4" unit="character" />ـ</rdg></app> 
+<lb n="8"/>  <supplied reason="lost" cert="high">والـ</supplied>ـكتاب إلي بخبرك وحالك 
+<lb n="9"/>  <supplied reason="lost" cert="high">وكـ</supplied>ـل حاجة إن بدت لك 
+<lb n="10"/>  <supplied reason="lost" cert="high">فأسـ</supplied>ـعا لك فيها بكلّما تحب 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپه من رعاية الحق وجميل الحفظ 
+<lb n="12"/>  <supplied reason="lost" cert="high">أخصّك</supplied> بأفضل السّلم وأ<unclear reason="undefined" cert="high">طـ</unclear>ـ<supplied reason="lost" cert="high">ـيبه</supplied> وعلى أبي 
+<lb n="13"/>  القاسم السّلم و<unclear reason="undefined" cert="high">على</unclear> أبي <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">السّلم</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** ***** 
+ <lb n="2"/>*** min ḫabari ka wa ḥāli ka lā ʾaʿdama ka 
+ <lb n="3"/>ăl lāhu ăl faḍla wa lā ʾazāla ʿan ka ăn niʿama ʾuʿlimu ka 
+ <lb n="4"/>ʾanna ḥāl ī wa ḥālu ʿiyāl ī **** ***n ***y naḥmadu 
+ <lb n="5"/>ăl lāha ʿalà ḏālika wa ḫabaru ka **** *** **** 
+ <lb n="6"/>*** ʾin ṭalaʿat ḫabaru ka *** 
+ <lb n="7"/>*** badaʾa ăl lāhu bi ʿilmi hi min ***** ʿ**** ṣ**** 
+ <lb n="8"/>wa ăl kitāb ʾilay ya bi ḫabari ka wa ḥāli ka 
+ <lb n="9"/>wa kulli ḥāǧaẗ:in ʾin badat la ka 
+ <lb n="10"/>fa ʾasʿā la ka fī hā bi kulli mā tuḥibbu 
+ <lb n="11"/>***Bh min riʿāyaẗi ăl ḥaqqi wa ǧamīli ăl ḥifẓi 
+ <lb n="12"/>ʾaḫuṣṣu ka bi ʾafḍali ăs salāmi wa ʾaṭyabi hi wa ʿalà ʾabī 
+ <lb n="13"/>ăl qāsimi ăs salāmu wa ʿalà ʾabī ***** ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...] bezüglich der Nachricht über Dich und Deines Zustands -
+			<lb n="3"/>
+		[Gott] beraube Dich nicht der Gnade und entferne von Dir nicht die Gnadenerweise! Ich teile Dir mit,
+			<lb n="4"/>
+		[daß] mein Zustand und der meiner Familie - - - ist - {Lob sei} wir loben
+			<lb n="5"/>
+		[Gott da]für, und die Nachricht über Dich [
+			<lb n="6"/>
+		[...] wenn ich Nachricht über Dich (?) erhalte [
+			<lb n="7"/>
+		[...] Gott beginne in seinem Wissen bei - - -
+			<lb n="8"/>
+		[Tei]le mir brieflich die Neuigkeiten über Dich, Deinen Zustand
+			<lb n="9"/>
+		[und je]de Angelegenheit mit, wenn sie sich für Dich ergibt,
+			<lb n="10"/>
+		[dann werde ich] mich für sie mit jeder von Dir gewünschten
+			<lb n="11"/>
+		[...] Beachtung des Rechtsanspruchs und sorgfältiger Berücksichtigung bemühen.
+			<lb n="12"/>
+		[Ich grüße Dich ganz besonders] mit dem vorzüglichsten und besten Gruß. Auch an Abū
+			<lb n="13"/>
+		l-Qāsim Grüße und an Abū - - -  Grüße!
+</ab></div>
+</body>
+</text>
+</TEI>

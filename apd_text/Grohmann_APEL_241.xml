@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2011" xml:id="Grohmann_APEL_241" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 241</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_241</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169739</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">إصـ</supplied>ـطفن زكري عن أناس شـ<supplied reason="lost" cert="high">ـتّى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  دينر ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> أدّى بلهيوه بهوه على يديه عن أناس شـ<supplied reason="lost" cert="high">ـتّى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  منه عن ثيدر ÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> شيشـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  برموده الشّمّاس <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  ابـ<supplied reason="lost" cert="high">ـنـ</supplied>ـة القمس <gap reason="illegible" extent="1" unit="character" /> ÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> أدّى ثيدر مسيس عن نفسـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> أدّى هيوا الأرملة عن نفسـ<supplied reason="lost" cert="high">ـها</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  عن <supplied reason="lost" cert="high">ا</supplied>لمئال علي بن أسباط <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso 2"/>  دينر دينر رڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 3"/>  ÷÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾiṣṭafanu zikrī ʿan ʾunās:in šattà *** 
+ <lb n="2"/>dīnār:un 2 1/2 *** 
+ <lb n="3"/>*** ʾaddà bilihyūhu bihūha ʿalà yaday hi ʿan ʾunās:in šattà *** 
+ <lb n="4"/>min hu ʿan ṯiyudura 8 6 1/24 * šīšah *** 
+ <lb n="5"/>barmūdahu ăš šammāsu * **** *** 
+ <lb n="6"/>ĭbnaẗu ăl qumusi * 1/8 * *** 
+ <lb n="7"/>*** ʾaddà ṯiyuduru masīsa ʿan nafsi hi *** 
+ <lb n="8"/>*** ʾaddà hīwā ăl ʾarmalaẗu ʿan nafsi hā *** 
+ <lb n="9"/>ʿani ăl miʾāli ʿaliyyu bnu ʾasbāṭa ***** 
+ <lb n="10"/>dīnār:un dīnār:un rf*** *** 
+ <lb n="11"/>113 2/3+1/8 * *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Iṣ]ṭafan Zikrî on behalf of dif[ferent] persons [
+			<lb n="2"/>
+		] dînâr 2 1/2
+			<lb n="3"/>
+		] Piliheu Paheu has paid by his hands on behalf of dif[ferent] persons [
+			<lb n="4"/>
+		] from him for Theodor 8  6 1/24 . Šîš[e
+			<lb n="5"/>
+		] Barmûde, the deacon, [..] ... [
+			<lb n="6"/>
+		] the dau[ght]er of al-Qomes 1/8+[.] .. [
+			<lb n="7"/>
+		] Theodor Moses has paid for [him]self [
+			<lb n="8"/>
+		] Hêwâ, the widow, has paid for [her]self [
+			<lb n="9"/>
+		For the garden-tax ʿAlî b. Asbâṭ .. [
+			<lb n="10"/>
+		Dînâr Dînâr ... [
+			<lb n="11"/>
+		113 2/3+1/8 [..] [
+</ab></div>
+</body>
+</text>
+</TEI>

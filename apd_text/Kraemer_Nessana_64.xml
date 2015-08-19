@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1047" xml:id="Kraemer_Nessana_64" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 64</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Nessana_64</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21494</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">ومئتي</supplied> <supplied reason="lost" cert="high">مدي</supplied> <supplied reason="lost" cert="high">[قمـ</supplied>ـح <supplied reason="lost" cert="high">ومثله</supplied> <supplied reason="lost" cert="high">زيتا</supplied> <supplied reason="lost" cert="high">وثمن </supplied>
+<lb n="2"/>  تسعة وسبعين ومئتي مدي قمح 
+<lb n="3"/>  <supplied reason="lost" cert="high">مپـ</supplied>ـله زيتا ثمنية عشر 
+<lb n="4"/>  <supplied reason="lost" cert="high">پپرا</supplied> <supplied reason="lost" cert="high">وثـ</supplied>ـلثي دينر وكتب 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> في شهر <supplied reason="lost" cert="high">ربيع</supplied> الأوّل 
+<lb n="6"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن سنة ستّة وخمسين 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  <supplied reason="lost" cert="high">فجمعـ</supplied>ـته تسعة وسبعين ومئتي 
+<lb n="19"/>  <supplied reason="lost" cert="high">مـ</supplied>ـدي قمح ومثله زيتا وثمن مثل 
+<lb n="20"/>  <supplied reason="lost" cert="high">ذ</supplied>ـلك ثمنية عشر دينرا 
+<lb n="21"/>  <supplied reason="lost" cert="high">و</supplied>ثلثي دينر 
+<lb n="22"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa miʾatay mudya qamḥ:in wa miṯla hu zayt:an wa ṯamanu 
+ <lb n="2"/>tisʿaẗ:in wa sabʿīna wa miʾatay mudyi qamḥ:in 
+ <lb n="3"/>wa miṯli hi zayt:an ṯamāniyaẗa ʿašara 
+ <lb n="4"/>dīnār:an wa ṯulṯay dīnār:in wa kataba 
+ <lb n="5"/>*** fī šahri rabīʿa ăl ʾawwali 
+ <lb n="6"/>min sanaẗi sittaẗ:in wa ḫamsīna 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="17"/>*** 
+ <lb n="18"/>*** 
+ <lb n="20"/>fa ǧumʿatu hu tisʿaẗ:un wa sabʿīna wa miʾatay 
+ <lb n="21"/>mudyi qamḥ:in wa miṯlu hu zayt:an wa ṯamanu miṯli 
+ <lb n="22"/>ḏālika ṯamāniyaẗa ʿašara dīnār:an 
+ <lb n="23"/>wa ṯulṯay dīnār:in 
+ <lb n="24"/>*** 
+ <lb n="25"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		... 279 mudd of wheat and the same of oil. And the price of
+			<lb n="2"/>
+		279 mudd of wheat and
+			<lb n="3"/>
+		the same of oil is 
+			<lb n="4"/>
+		18 2/3 dinars. Written by
+			<lb n="5"/>
+		... in the month of Rabīʿ
+			<lb n="6"/>
+		of the year 56.
+			<lb n="20"/>
+		And its total is 279
+			<lb n="21"/>
+		mudd of wheat and the same of oil. And the price likewise
+			<lb n="22"/>
+		is 18
+			<lb n="23"/>
+		2/3 dinars.
+</ab></div>
+</body>
+</text>
+</TEI>

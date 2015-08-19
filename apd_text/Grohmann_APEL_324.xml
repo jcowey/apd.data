@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1809" xml:id="Grohmann_APEL_324" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 324</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_324</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169548</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاكما</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّكما</supplied> <supplied reason="lost" cert="high">وتأييدكما</supplied> وسعادتكما وأتم نعمه عليكما وزاد في 
+<lb n="3"/>  إحسانه إليكما وجعلني فداكما عن سلامة ونعمة وللّه الحمد والمنّة وصلّى اللّه على علي 
+<lb n="4"/>  سيّد الأوّلين والآخرين وعلى آله الطّاهرين وسلّم <app type="BL"><lem resp="APD">تسليما </lem><rdg resp="Diem “corrected from taslīm÷an”">كثيرا</rdg></app> وبعد أيّدكما اللّه فقد 
+<lb n="5"/>  استخرت اللّه وحده لا شريك له واكتريت قارب صدقة الإسناوي وأنا حامل 
+<lb n="6"/>  فيه عـ<supplied reason="omitted" cert="high">ـنـ</supplied>ـد كتابي إلـ<supplied reason="omitted" cert="high">ـيـ</supplied>ـكما وهو يوم الاثنين لإحدى عشرة ليلة خلت من جمادى 
+<lb n="7"/>  <del rend="erasure" status="unremarkable">الاول</del> الآخر كتب <unclear reason="undefined" cert="high">علينا</unclear> السّلامة وقد كانت سنة مباركة <app type="BL"><lem resp="APD">كلأ </lem><rdg resp="‭Diem÷ ms. has ‫طلا‬">طال</rdg></app> ضامنها 
+<lb n="8"/>  <app type="BL"><lem resp="APD">بأرواحنا </lem><rdg resp="Diem">بأرواحنا</rdg></app> وأموالنا <app type="BL"><lem resp="APD">وللّه </lem><rdg resp="Diem">فللّه</rdg></app> الحمد كثيرا ولا تدعا أيّدكما اللّه أن تدفعا 
+<lb n="9"/>  إلى صاحب أبي صلح مفلح <app type="BL"><lem resp="APD">اعره </lem><rdg resp="Diem">لي</rdg></app> ألله پماپپه الدثاپپر معسوله وپاحدا 
+<lb n="10"/>  بذلك براه إلى قدومي إن شا اللّه نصفها أربعة الدّنانير والأمارة 
+<lb n="11"/>  أنّي كتبت <app type="BL"><lem resp="APD">عليها </lem><rdg resp="APD">عليكما</rdg></app> سفتجة قبل هذه بأربعين دينار وسبع قراريط <app type="BL"><lem resp="APD">و<gap reason="illegible" extent="8" unit="character" /> </lem><rdg resp="APD">والكمّية</rdg></app> 
+<lb n="12"/>  <app type="BL"><lem resp="APD">والحمد </lem><rdg resp="LS cf. Diem's translation">أعزّكما</rdg></app> <app type="BL"><lem resp="APD">للّه </lem><rdg resp="LS cf. Diem's translation">اللّه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="Diem. The scribe repeated this two words because they were hastily written.">وحسبي</rdg></app> <app type="BL"><lem resp="APD">وحسپى </lem><rdg resp="Diem">اللّه</rdg></app> الله وحده 
+<lb n="verso 1"/>  لأبي صلح أطال اللّه بقاه وأدام عزّه وتأييده 
+<lb n="verso 2"/>  وسعادته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitāb ī ʾaṭāla ăl lāhu baqāʾa kumā wa ʾadāma ʿizza kumā wa taʾyīda kumā wa saʿādata kumā wa ʾatamma niʿama hu ʿalay kumā wa zāda fī 
+ <lb n="3"/>ʾiḥsāni hi ʾilay kumā wa ǧaʿala nī fidāʾa kumā ʿan salāmaẗ:in wa niʿmaẗ:in wa li l lāhi ăl ḥamdu wa ăl minnaẗu wa ṣallà ăl lāhu ʿalà ʿaliyy:in 
+ <lb n="4"/>sayyidi ăl ʾawwalīna wa ăl ʾāḫirīna wa ʿalà ʾāli hi ăṭ ṭāhirīna wa sallama taslīm:an kaṯīr:an wa baʿdu ʾayyada kumā ăl lāhu fa qadi 
+ <lb n="5"/>ĭstaḫartu ăl lāha waḥda hu lā šarīka la hu wa ĭktaraytu qāriba ṣadaqaẗa ăl ʾisnāwiyyi wa ʾanā ḥāmil:un 
+ <lb n="6"/>fī hi ʿinda kitāb ī ʾilay kumā wa huwa yawmu ăli ĭṯnayni li ʾiḥdà ʿašaraẗa laylaẗ:an ḫalat min ǧumādà 
+ <lb n="7"/>ăl ʾāḫiri kataba ʿalay nā ăs salāmaẗa wa qad kānat sanaẗ:un mubārakaẗ:un kalaʾa ṭāla ḍāminu hā 
+ <lb n="8"/>bi ʾarwāḥi ʾazwāǧi nā wa ʾamwāli nā wa fa li l lāhi ăl ḥamdu kaṯīr:an wa lā tadaʿā ʾayyada kumā ăl lāhu ʾan tadfaʿā 
+ <lb n="9"/>ʾilà ṣāḥibi ʾabī ṣāliḥ:in mufliḥ:in ø l ø ī ʾaʿazza hu ăl lāhu ṯamāniyaẗa ăd danānīri maʿsūlaẗ:an wa taʾḫuḏā 
+ <lb n="10"/>bi ḏālika barāʾaẗ:an ʾilà qudūm ī ʾin šāʾa ăl lāhu niṣfu hā ʾarbaʿaẗu ăd danānīri wa ăl ʾamāraẗu 
+ <lb n="11"/>ʾan nī katabtu ʿalay hā kumā suftaǧaẗ:an qabla hāḏihi bi ʾarbaʿīna dīnār wa sabʿi qarārīṭa wa ******** ăl ø kammiyyaẗu ø la ø kumā 
+ <lb n="12"/>wa ʾaʿazza ăl kumā ḥamdu ø li ø l ăl lāhi lāhu ***** wa ø ḥasb ø ī ø ăl lāhu ø wa ḥasb ī ăl lāhu waḥda hu 
+ <lb n="13"/>li ʾabī ṣāliḥ:in ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu wa taʾyīda hu 
+ <lb n="14"/>wa saʿādata hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[I am writing - may God prolong your life and may He cause your might, strength] and happiness to continue and fulfil His loving kindness unto you and may He increase His
+			<lb n="3"/>
+		bounty unto you, and may He make me your ransom - in safety and well-being and to God be praise and thanks, and may the blessing of God be upon ʿAlî,
+			<lb n="4"/>
+		the lord of the first and the last, and upon his family, the pure and may He give him peace; and thereafter - may God strengthen you - I have already
+			<lb n="5"/>
+		chosen God alone for myself, He has no associate, while I have hired the boat of Ṣadaqa, originating from Esnâ, and I transport
+			<lb n="6"/>
+		goods therein at the moment I am writing t&lt;o&gt; you, viz. on Monday, when eleven nights have passed from Ǧumâdâ
+			<lb n="7"/>
+		II, (and) well-being has been credited to us in the (Heavenly) Ledger, and it has been a blessed year, may He, who is responsible therefor, guard
+		... Möge Er (sc. Gott) für uns Wohlbehaltenheit schreiben und bestimmen. Es war ein gesegnetes Jahr, dessen Garant (sc. Gott)
+			<lb n="8"/>
+		our associates and our properties, and to God be abundant praise. And do not neglect - may God strengthen you - to hand over
+		(uns) unser Leben und unser Hab und Gut gewährt (d.h. erhalten) hat. So sei denn Gott (hierfür) vielmals Lob! ...
+			<lb n="9"/>
+		to the master of Abû Ṣâliḥ, Mufliḥ, whom may God exalt, eight dînârs correctly counted out, and take
+			<lb n="10"/>
+		... . Abmachungsgemäß
+		therefor a receipt till my arrival, please God, the half thereof being four dînârs. It was determined
+			<lb n="11"/>
+		habe ich für Euch eine Zahlungsanweisung vor dieser über vierzig Dinar und sieben Karat ausgestellt, und der (ganze) Betrag ist zu Euren Gunsten
+		that I should make out to her debit a bill for forty dînârs and seven carats before the present one and ......
+			<lb n="12"/>
+		And praise be to God ......... and my sufficiency is God alone.
+		- Gott stütze Euch! ...
+			<lb n="13"/>
+		To Abû Ṣâliḥ, may God prolong his life and may He cause his might, strength and happiness to continue.
+</ab></div>
+</body>
+</text>
+</TEI>

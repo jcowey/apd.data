@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1760" xml:id="Prag_690" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 69</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_690</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169501</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮‪β‬ يوم برمهات <supplied reason="lost" cert="high">‮‪κα‬</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮سماروس ‮ν ‮‪μη‬ ‮<supplied reason="lost" cert="high">β</supplied> ‮<unclear reason="undefined" cert="high">μ</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮قصب بهموا 
+<lb n="4"/>  ‮γ يوم برمهات ‮‪κβ‬ ‮‪σα‬ ‮‪ρ‪ϙα‬‬ ‮ι ‮‪<supplied reason="omitted" cert="high">ν</supplied>ζ‬ β‬ 
+<lb n="5"/>  ‪‮δ <supplied reason="lost" cert="high">يو</supplied>م برمهات ‮‪κγ‬ ‮‪σβ‬ ‮‪ρϙβ‬ <app type="BL"><lem resp="APD">‮ι </lem><rdg resp="‫Diem‬">‮ϙ</rdg></app> ‮‪νζ‬ ‪<unclear reason="undefined" cert="high">α</unclear>Χ‬ 
+<lb n="6"/>  ‪‮ε يوم برمهات ‮‪κδ‬ ‮σ ‮‪ρπγ‬ ‮‪ιζ‬ ‮‪νε‬ <gap reason="illegible" extent="2" unit="character" />‬ 
+<lb n="7"/>  ‪‮ سماروس ‮‪<supplied reason="omitted" cert="high">ρ</supplied>ιθ‬ ‮‪<supplied reason="omitted" cert="high">ρ</supplied>ιε‬ <unclear reason="undefined" cert="high">‮δ</unclear> <supplied reason="lost" cert="high">‮‪νε‬</supplied> 
+<lb n="8"/>  ‪‮ϛ يوم برمهات ‮‪κε‬ ‮‪ροα‬ ‮‪ρξδ‬ ‮ζ <supplied reason="lost" cert="high">‮‪ρνα‬</supplied> <supplied reason="lost" cert="high">‪κζΧ‬</supplied>‬ 
+<lb n="9"/>  ‪‮<supplied reason="lost" cert="high">ζ</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـوم برمهات ‮‪κϛ‬ ‮ρ ‮‪ϙδ‬ ‮ϛ ‮‪κε‬ جرّة <gap reason="illegible" extent="2" unit="character" />‬ 
+<lb n="10"/>  ‪ـ مطر <unclear reason="undefined" cert="high">پڤص</unclear> <supplied reason="lost" cert="high">ا</supplied>لحمله لپأ 
+<lb n="11"/>  ‪‮ ڤڤه ‮‪χοα‬ ‮‪χιβ‬ ‮‪<supplied reason="omitted" cert="high">ν</supplied>θ‬ 
+<lb n="12"/>  ‪ـ الحمعه الراپع عسر 
+<lb n="13"/>  ‪‮<supplied reason="lost" cert="high">β</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـوم برمهات ‮‪κη‬ ‮‪ϙη‬ ‮‪πγ‬ ‮‪ιε‬ ‮μ β‬ 
+<lb n="14"/>  ‪‮<supplied reason="lost" cert="high">γ</supplied> <supplied reason="lost" cert="high">يو</supplied>م برمهات ‮‪κ<supplied reason="lost" cert="high">θ</supplied>‬ ‮<supplied reason="lost" cert="high">σ</supplied> ‮‪ρπδ‬ ‮‪ιϛ‬ ‮‪ξα‬ β‬ 
+<lb n="15"/>  ‪‮δ يوم برمهات ‮λ ‮‪ρπδ‬ ‮‪ρο‬ ‮‪ιδ‬ ‮‪με‬ β‬ 
+<lb n="16"/>  ‪‮<supplied reason="lost" cert="high">ε</supplied> <supplied reason="lost" cert="high">يوم</supplied> <supplied reason="lost" cert="high">برموده</supplied> <supplied reason="lost" cert="high">‮α</supplied> <supplied reason="lost" cert="high">‮‪ρπθ‬</supplied> ‮‪ρ<supplied reason="lost" cert="high">οε</supplied>‬ ‮‪ι<supplied reason="lost" cert="high">δ</supplied>‬ ‮<supplied reason="lost" cert="high">ξ</supplied> <gap reason="illegible" extent="2" unit="character" />‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>2 yawma baramhāta 21 *** 
+ <lb n="2"/>simārūsu 50 48 2 40 *** 
+ <lb n="3"/>qaṣabu bihamū 
+ <lb n="4"/>3 yawma baramhāta 22 201 191 10 57 2 
+ <lb n="5"/>4 yawma baramhāta 23 202 192 10 90 57 1+1/2 
+ <lb n="6"/>5 yawma baramhāta 24 200 183 17 55 ** 
+ <lb n="7"/>simārūsu 119 115 4 55 ** 
+ <lb n="8"/>6 yawma baramhāta 25 171 164 7 151 27+1/2 
+ <lb n="9"/>7 yawma baramhāta 26 100 94 6 25 ǧarraẗ:an ** 
+ <lb n="10"/>maṭar naqṣ ăl ǧumlaẗu la nā ʾublūǧaẗ:an‬ 
+ <lb n="11"/>quffaẗ 671 612 59 264 
+ <lb n="12"/>ăl ǧumʿaẗa ăr rābiʿa ʿašara ʾublūǧaẗ:an‬ 
+ <lb n="13"/>2 yawma baramhāta 28 98 83 15 40 2 
+ <lb n="14"/>3 yawma baramhāta 29 200 184 16 61 2 
+ <lb n="15"/>4 yawma baramhāta 30 184 170 14 45 2 
+ <lb n="16"/>5 yawma barmūdiha 1 189 175 14 60 ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Montag [21.] Baremhāt [...]
+			<lb n="2"/>
+		Simārōs 50 4[8] [2] 40(?) [...]
+			<lb n="3"/>
+		Zuckerrohr von Bihamū
+			<lb n="4"/>
+		Dienstag 22. Baremhāt 201 191 10 &lt;5&gt;7 2
+			<lb n="5"/>
+		Mi[ttwoc]h 23. Baremhāt 202 192 10 57 1 1/2
+			<lb n="6"/>
+		Donnerstag 24. Baremhāt 200 183 17 55 [.]
+			<lb n="7"/>
+		Simārōs &lt;1&gt;19 &lt;1&gt;15 4 [55 ...]
+			<lb n="8"/>
+		Freitag 25. Baremhāt 171 164 7 [151 27 1/2]
+			<lb n="9"/>
+		[Samst]ag 26. Baremhāt 100 94 6 25 [above the line: Krüge] //
+			<lb n="10"/>
+		Schläuche Manko [D]ie Summe zu unseren Gunsten Zuckerhüte
+			<lb n="11"/>
+		Körbe 671 612 &lt;5&gt;9 264
+			<lb n="12"/>
+		Freitag, den vierzehnten _ Zuckerhüte
+			<lb n="13"/>
+		[Mon]tag 28. Baremhāt 98 83 15 40 2
+			<lb n="14"/>
+		[Dienst]ag 2[9]. Baremhāt [200] 184 16 61 2
+			<lb n="15"/>
+		Mittwoch 30. Baremhāt 184 170 14 45 2
+			<lb n="16"/>
+		[Donnerstag 1. Barmūde 189] 1[75] 1[4] [60(?) ...]
+</ab></div>
+</body>
+</text>
+</TEI>

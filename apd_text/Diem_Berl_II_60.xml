@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1574" xml:id="Diem_Berl_II_60" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 60</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_60</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169332</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">كتبت</supplied> أطال اللّه بقاك و<supplied reason="lost" cert="high">أ</supplied>دام <supplied reason="lost" cert="high">عـ</supplied>ـزّك وكرامتك وأ<supplied reason="lost" cert="high">تـ</supplied>ـم <supplied reason="lost" cert="high">نعمته</supplied> عليك وزاد في إحـ<supplied reason="lost" cert="high">ـسـ</supplied>ـانه إليك وجميل مواهبه لديك 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">كتا</supplied>بي هذا أعـ<supplied reason="lost" cert="high">ـزّك</supplied> اللّه عن سلامة والحمد للّه كثيرا لا شريك له وصل كتابك أعزّك اللّه وسرّتني 
+<lb n="recto 4"/>  سلمتك وحمدت اللّه علـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="omitted" cert="high">ذ</supplied>لك كثيرا وسألته إدامتها لك بقدرته وفهمت ما كتبت به 
+<lb n="recto 5"/>  من أمر القوارب القمح فقد كتبت إليك مع جر<supplied reason="lost" cert="high">يـ</supplied>ـج الحارس وهو في المركب القمح القدسي بما أرجوا 
+<lb n="recto 6"/>  أن يكون قد وصل إليك إن شا اللّه فتقبض أعزّك اللّه ثمن تلك الأربعة مراكب 
+<lb n="recto 7"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">قمح</supplied> </lem><rdg resp="APD">القمح</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso 1 right"/>  لأبي الحسن وأبي بكر أطال اللّه بقاهما 
+<lb n="verso 2 right"/>  قسم بن سعيد وعبد الرّحمن بن محمّد أعزّهما اللّه 
+<lb n="verso 1-2"/>  من يعقوب بن الحسن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>katabtu ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ǧamīli mawāhibi hi laday ka 
+ <lb n="3"/>kitāb ī hāḏā ʾaʿazza ka ăl lāhu ʿan salāmaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an lā šarīka la hu waṣala kitābu ka ʾaʿazza ka ăl lāhu wa sarrat nī 
+ <lb n="4"/>salāmatu ka wa ḥamidtu ăl lāha ʿalà ḏālika kaṯīr:an wa saʾaltu hu ʾidāmata hā la ka bi qudrati hi wa fahimtu mā katabta bi hi 
+ <lb n="5"/>min ʾamri ăl qawāribi ăl qamḥi fa qad katabtu ʾilay ka maʿa ǧurayǧ:ini ăl ḥārisi wa huwa fī ăl markabi ăl qamḥi ăl qudsiyyi bi mā ʾarǧū 
+ <lb n="6"/>ʾan yakūna qad waṣala ʾilay ka ʾin šāʾa ăl lāhu fa taqbiḍ ʾaʿazza ka ăl lāhu ṯamana tilka ăl ʾarbaʿaẗi marākiba 
+ <lb n="7"/>qamḥ ăl ø qamḥi *** **** **** ***** 
+ <lb n="8"/>li ʾabī ăl ḥasani wa ʾabī bakr:in ʾaṭāla ăl lāhu baqāʾa humā 
+ <lb n="9"/>qāsimi bni saʿīd:in wa ʿabdi ăr raḥmāni bni muḥammad:in ʾaʿazza humā ăl lāhu 
+ <lb n="10"/>min yaʿqūba bni ăl ḥasani 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[Ich schreibe] - Gott lasse Dich lange leben, lasse Dein Ansehen und Deine ehrenvolle Stellung andauern, vollende seine Gnade an Dir und erweise Dir noch mehr sein Wohlwollen und seine schönen Gaben -
+			<lb n="3"/>
+		diesen meinen Brief - Gott stärke Dich - bei Gesundheit; Preis sei Gott vielmals! Er hat keinen Teilhaber! Dein Brief - Gott stärke Dich - ist angekommen, und es hat mich gefreut,
+			<lb n="4"/>
+		daß Du bei Gesundheit bist. Ich habe Gott hierfür vielmals gepriesen und ihn gebeten, Dir dies durch sein Macht auch weiterhin zu gewähren. Ich habe verstanden, was Du
+			<lb n="5"/>
+		wegen der Barken mit dem Weizen schreibst. Allerdings hatte ich bereits (vor Erhalt Deines Briefes) Ǧurayǧ dem Wächter - dieser befand sich an Bord des Schiffes mit dem Jerusalemer Weizen - eine Mitteilung für Dich mitgegeben, von der ich hoffe,
+			<lb n="6"/>
+		daß Du sie erhalten hast, so Gott will. Kassiere also - Gott stärke Dich - den Erlös aus den vier Schiff(sladungen)
+			<lb n="7"/>
+		[Weizen
+			<lb n="8"/>
+		An Abū l-Ḥasan und Abū Bakr - Gott lasse sie lange leben -
+			<lb n="9"/>
+		Qāsim ibn Saʿīd und ʿAbdarraḥmān ibn Muḥammad - Gott stärke sie -
+			<lb n="10"/>
+		Von Yaʿqūb ibn al-Ḥasan.
+</ab></div>
+</body>
+</text>
+</TEI>

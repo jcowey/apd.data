@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1575" xml:id="Diem_Berl_II_61" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 61</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_61</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169333</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أ<supplied reason="lost" cert="high">كـ</supplied>ـرمك اللّه وأبقاك وأبقا النّعمة عليك وزاد في إحسانه إليك وعندك كتبت إليك من الكتب شي لا 
+<lb n="3"/>  أحصـ<supplied reason="lost" cert="high">ـيهـ</supplied>ـا أسلك شرا حصيري زفت حمصي ولو أكسرتهم وصيّرتهم في قفّتين لا 
+<lb n="4"/>  تدع شراهم إن شا اللّه وسألتك أعزّك اللّـ<supplied reason="lost" cert="high">ـه</supplied> شرا خمسين رطل موز إن عزمت على ذلك 
+<lb n="5"/>  وإن كان الزّيت الفجل على سبعة أو سبعة إلّا ربع فاشتري قلّتين إن شا ا<supplied reason="lost" cert="high">للّـ</supplied>ـه واكتب إلي بخبر 
+<lb n="6"/>  متاع بن مسيحيّة وكتابي إليك وأ<supplied reason="lost" cert="high">نـ</supplied>ـا كنت غائب منذ جمعة والحمد للّه كثيرا ولو عرفت جرارك 
+<lb n="7"/>  وجّهت إليك <unclear reason="undefined" cert="high">بقـ</unclear><supplied reason="lost" cert="high">ـيّة</supplied> متاعه وسألتك شرا ربع دينر مسامير فلم تشتري ذلك حتّى حوّجتني 
+<lb n="8"/>  إلى أن <supplied reason="lost" cert="high">أ</supplied>شتري من السّوق بالغلا وتأخّر الزّفت لا تدع شراه ويكون جيّد حمصي وإن أصبت 
+<lb n="9"/>  مكسور في الحانوت جهّز خبر أحببت إعلامك ذلك لسكوني على أبي يعقوب حفظه اللّه السّلم كثيرا 
+<lb n="10"/>  واكتب إلي بسعر الحمصي لأعرفه إن شا اللّه وقد كتب أبي القسم حميد إلي أبي يعقوب في شرا 
+<lb n="11"/>  زفت فلا تدع شرا ما كتبت به إليك يكون مع متاعه واكتب إلي بالصّنف الّذي يخرج 
+<lb n="12"/>  إن شا اللّه أكرمك اللّه وأبقاك واشتري لي قيراطي سكّر يكونوا معك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu wa ʾabqā ka wa ʾabqā ăn niʿmaẗa ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka wa ʿinda ka katabtu ʾilay ka mina ăl kutubi šayʾ lā 
+ <lb n="3"/>ʾuḥṣī hā ʾasalu ka širāʾa ḥaṣīray zift:in ḥimṣiyy:in wa law ʾaksarta hum wa ṣayyarta hum fī quffatayni lā 
+ <lb n="4"/>tadaʿ širāʾa hum ʾin šāʾa ăl lāhu wa saʾaltu ka ʾaʿazza ka ăl lāhu širāʾa ḫamsīna raṭla mawz:in ʾin ʿazamta ʿalà ḏālika 
+ <lb n="5"/>wa ʾin kāna ăz zaytu ăl fuǧlu ʿalà sabʿaẗ:in ʾaw sabʿaẗ:in ʾillā rubʿ fa ĭštirī qullatayni ʾin šāʾa ăl lāhu wa ŭktub ʾilay ya bi ḫabari 
+ <lb n="6"/>matāʿi bni masīḥiyyaẗa wa kitāb ī ʾilay ka wa ʾanā kuntu ġāʾib munḏu ǧumʿaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an wa law ʿaraftu ǧirāra ka 
+ <lb n="7"/>waǧǧahtu ʾilay ka baqiyyaẗa matāʿi hi wa saʾaltu ka širāʾa rubʿi dīnāri masāmīra fa lam taštarī ḏālika ḥattà ḥawwaǧta nī 
+ <lb n="8"/>ʾilà ʾan ʾaštariya mina ăs sūqi bi ăl ġalāʾi wa taʾaḫḫara ăz ziftu lā tadaʿ širāʾa hu wa yakūnu ǧayyid ḥimṣiyy wa ʾin ʾaṣabta 
+ <lb n="9"/>maksūr fī ăl ḥānūti ǧahhiz ḫabar ʾaḥbabtu ʾiʿlāma ka ḏālika li sukūn ī ʿalà ʾabī yaʿqūba ḥafiẓa hu ăl lāhu ăs salāmu kaṯīr:an 
+ <lb n="10"/>wa ŭktub ʾilay ya bi siʿri ăl ḥimṣiyyi li ʾaʿrifa hu ʾin šāʾa ăl lāhu wa qad kataba ʾabī ăl qāsimi ḥamīd:un ʾilay ʾabī yaʿqūba fī širāʾi 
+ <lb n="11"/>zift:in fa lā tadaʿ širāʾa mā katabtu bi hi ʾilay ka yakūna maʿa matāʿi hi wa ŭktub ʾilay ya bi ăṣ ṣanfi ăllaḏī yaḫruǧu 
+ <lb n="12"/>ʾin šāʾa ăl lāhu ʾakrama ka ăl lāhu wa ʾabqā ka wa ĭštirī l ī qīrāṭay sukkar:in yakūnū maʿa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott ehre Dich, erhalte Dir seine Gnade und erweise Dir noch mehr seine Wohltaten! Ich habe Dir (schon)
+			<lb n="3"/>
+		unzählige Briefe geschrieben, um Dich zu bitten, zwei Matten ḥimṣischen Bitumens zu kaufen. Sei so gut, sie zu brechen und in zwei Körbe zu tun!
+			<lb n="4"/>
+		Kaufe sie unbedingt, so Gott will! Ich habe Dich ferner - Gott stärke Dich - gebeten, fünfzig Raṭl Bananen zu kaufen. Sei doch so gut, Dich (jetzt) ernsthaft darum zu bemühen!
+			<lb n="5"/>
+		Falls das Rettichöl bei einem Preis von sechsdreiviertel bis sieben (Dinar pro Krug) steht, dann kaufe zwei Krüge (davon), so Gott will. Teile mir ferner mit, wie es
+			<lb n="6"/>
+		mit der Ware Ibn Masīḥīyahs steht, denn ich schreibe Dir (jetzt), nachdem ich (immerhin) eine Woche abwesend gewesen war, Preis sei Gott vielmals! Hätte ich (vorher) gewußt, daß Du (mich) so lange hinhalten würdest,
+			<lb n="7"/>
+		hätte ich Dir den Re[st] (?) seiner Ware gesandt. Ich hatte Dich außerdem gebeten, für ein viertel Dinar Nägel zu kaufen, aber Du hast keine gekauft, so daß Du mich schließlich genötigt hast,
+			<lb n="8"/>
+		(sie hier) überteuert auf dem Markt zu kaufen. Das Bitumen ist immer noch nicht eingetroffen; kaufe es unbedingt. Es soll von bester Qualität und ḥimṣischer Provenienz sein. Falls Du
+			<lb n="9"/>
+		im Laden (Bitumen[?])-Bruchmaterial findest, gib (mir) Nachricht! Dies wollte ich Dir zu meiner eigenen Beruhigung mitteilen. An Abū Yaʿqūb - Gott schütze ihn - viele Grüße!
+			<lb n="10"/>
+		Teile mir den Preis des ḥimṣischen (Bitumen) mit, damit ich ihn erfahre, so Gott will. Abū l-Qāsim Ḥamīd hat an Abū Yaʿqūb ja schon wegen des Kaufs
+			<lb n="11"/>
+		von Bitumen geschrieben. Kaufe also unbedingt, was ich Dir geschrieben habe; es soll zusammen mit der für ihn bestimmten Ware überbracht werden. Teile mir auch die Ware mit,  die (von Dir) expediert wird,
+			<lb n="12"/>
+		so Gott will. Gott ehre und erhalte Dich! Und kaufe für mich (persönlich) für zwei Qīrāṭ Zucker; diese bringst Du dann mit!
+</ab></div>
+</body>
+</text>
+</TEI>

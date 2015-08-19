@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="465" xml:id="Raghib_March_2_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106652</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" extent="6" unit="character" />ـم <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> وأنا أنتضر فبعتها فاقدم بهـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>رجوا أن يتم اللّه لها بيع إن صـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> يصير إلى الّذي يدفع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا من سو ذكر النّاس له ورميهـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> فعجّل علي ياسيّدي <app type="BL"><lem resp="APD">ويابني </lem><rdg resp="APD">ويابنيّ</rdg></app> وياحبيبي ا<supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso"/>  <supplied reason="lost" cert="high">لأبي</supplied> <supplied reason="lost" cert="high">هـ</supplied>ـريرة أكرمه اللّه بطاعته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>******m *** *** 
+ <lb n="2"/>*** wa ʾanā ʾantaḍiru fa biʿta hā fa ĭqdam bi h**** 
+ <lb n="3"/>*** ʾarǧū ʾan yutimma ăl lāhu la hā bayʿ ʾin ṣ*** 
+ <lb n="4"/>*** yaṣīru ʾilà ăllaḏī yadfaʿu *** 
+ <lb n="5"/>*** **** **** *** 
+ <lb n="6"/>***ʾ min sūʾi ḏikri ăn nāsi la hu wa ramyi him *** 
+ <lb n="7"/>*** fa ʿaǧǧil ʿalay ya yā sayyid ī wa yā ĭbn bunay ī ya wa yā ḥabīb ī ʾl*** 
+ <lb n="8"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		] Moi j&#039;attends. Tu la vendras, viens alors avec .[
+			<lb n="3"/>
+		] J&#039;espère que Dieu conclue sa vente si .[
+			<lb n="4"/>
+		] et se rend chez celui qui paie [
+			<lb n="5"/>
+			<lb n="6"/>
+		] à cause des médisances que font les gens de lui et de [leurs] accusations [
+			<lb n="7"/>
+		] Envoie-moi rapidement, mon seigneur, mon fils, mon bien-aimé! [
+			<lb n="8"/>
+		[A Abū Hu]rayra - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+</ab></div>
+</body>
+</text>
+</TEI>

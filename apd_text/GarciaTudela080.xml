@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2051" xml:id="GarciaTudela080" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AsinTudela 6 (= P.Garcia-ArenalTudelaTarazona 08)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">GarciaTudela080</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم اشترا دون دمنك ألبرس وزوجتيه دون 
+<lb n="2"/>  ألبير بلايس من عبد اللّه ابن عبيدة الفدّان الّتي له بألنجيش قبليّها ساكية 
+<lb n="3"/>  وفي الجوف الطّريق متاع مرجان وفي الغرب فدّان أندرش وفي الشّرق فدّان 
+<lb n="4"/>  جوان من السّق بمنافع الفدّان ومرافقيه وعامّة حقوكيها كلّيها جمع بخمسين 
+<lb n="5"/>  <app type="BL"><lem resp="APD">مثقال </lem><rdg resp="García-Arenal">مثقالن</rdg></app> من الذّهب الطّيّب المرابطي اللّوبي وأنصفه من العدد والإإهالة وأدخل ضامنا 
+<lb n="6"/>  عندهما سلمة حنوج على فوير تطيلة أن ما قام <app type="BL"><lem resp="APD">قائم </lem><rdg resp="García-Arenal">قايم</rdg></app> <app type="BL"><lem resp="APD">فاالدّرك </lem><rdg resp="García-Arenal">فالأدرك</rdg></app> عليه وأشهدا به 
+<lb n="7"/>  في صفر الموافق لأغشت سنة ثلاثة وسبعين <app type="BL"><lem resp="APD">وخمسمائة </lem><rdg resp="APD">وخمس</rdg></app> <app type="BL"><lem resp="APD">احمد </lem><rdg resp="APD">ماية</rdg></app> أپن محمد الپحپپى 
+<lb n="8"/>  وعبد الملك ابن محمّد البحيني كتب عنه بأمره ودون بيطره المرابطي وأخوه دون جوان 
+<lb n="9"/>  ابن دون غوطه كتب عنهما بأمرهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ĭštarā dūn duminiku ʾalbarisu wa zawǧatī hi dūna 
+ <lb n="2"/>ʾalbīra bilāyisu min ʿabdi ăl lāhi ĭbni ʿubaydaẗa ăl faddāna ăllatī la hu bi ʾalinǧīša qibliyyu hā sākiyaẗ:un 
+ <lb n="3"/>wa fī ăl ǧawfi ăṭ ṭarīqu matāʿa murǧāna wa fī ăl ġarbi faddānu ʾandraša wa fī ăš šarqi faddānu 
+ <lb n="4"/>ǧuwāna mina ăs suqi bi manāfiʿi ăl faddāni wa marāfiqī hi wa ʿāmmaẗi ḥuqūkī hā kullī hā ǧamʿ bi ḫamsīna 
+ <lb n="5"/>miṯqāl miṯqālan mina ăḏ ḏahabi ăṭ ṭayyibi ăl murābiṭiyyi ăl lūbiyyi wa ʾanṣafa hu mina ăl ʿadadi wa ăl ʾiʾhālaẗi wa ʾadḫala ḍāmin:an 
+ <lb n="6"/>ʿinda humā salmaẗa ḥanūǧa ʿalà fuwayri tuṭīlaẗa ʾanna mā qāma qāʾim:un qāyim:un fā fa ăd ăl daraku ʾadraku ʿalay hi wa ʾašhadā bi hi 
+ <lb n="7"/>fī ṣafar:in ăl muwāfiqi li ʾaġušti sanaẗi ṯalāṯaẗ:in wa sabʿīna wa ḫamsi miʾaẗ:in ø ø miyaẗ:in ʾaḥmadu ĭbnu muḥammad:in ăl baḥīniyyu 
+ <lb n="8"/>wa ʿabdu ăl maliki ĭbnu muḥammad:in ăl baḥīniyyu kutiba ʿan hu bi ʾamri hi wa dūn bīṭruhu ăl murābiṭiyyu wa ʾaḫū hu dūn ǧuwānu 
+ <lb n="9"/>ĭbnu dūna ġūṭuha kutiba ʿan humā bi ʾamri himā 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

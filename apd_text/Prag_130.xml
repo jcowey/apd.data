@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1598" xml:id="Prag_130" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 13</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_130</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169354</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم الخـ<supplied reason="lost" cert="high">ـر</supplied>ا<supplied reason="lost" cert="high">ج</supplied> 
+ <lb n="3"/>  د<supplied reason="lost" cert="high">ينر</supplied> 
+ <lb n="4"/>  الّذي دفعت من الخراج الخضر اثني <supplied reason="lost" cert="high">عشر</supplied> 
+ <lb n="5"/>  وفي خراج الزّرع أو الحر<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  وأيضا <gap reason="illegible" extent="1" unit="character" />γ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> ε<supplied reason="lost" cert="high">κ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăl ḫarāǧ 
+ <lb n="3"/>dīnār 
+ <lb n="4"/>ăllaḏī dafaʿtu mina ăl ḫarāǧi ăl ḫuḍari ĭṯnay ʿašara 
+ <lb n="5"/>wa fī ḫarāǧi ăz zarʿi ʾaw ăl ḥr*** *** 
+ <lb n="6"/>wa ʾayḍ:an *3 *** 
+ <lb n="7"/>*** 25 *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  Im Namen Gottes, des Barmherzigen, Gütigen! Die Gru[nd]steu[er]
+		 <lb n="3"/>
+ 	  D[īnār]
+		 <lb n="4"/>
+ 	  Was Du an Grundsteuer für Gemüse(land) gezahlt hast, (sind) zwö[lf ...]
+ 	  Was ich an Grundsteuer für Gemüse(land) gezahlt habe (sind) zwö[lf ...]
+		 <lb n="5"/>
+ 	  und für die Grundsteuer für Saatland oder .......... [...]
+		 <lb n="6"/>
+ 	  Weiters [.]3 [...]
+		 <lb n="7"/>
+ 	  .. .. [2]5 [...]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

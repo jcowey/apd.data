@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1467" xml:id="Khan_Khalili_I_7" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 07 (= P.Khalili II 04)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_7</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169249</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  سفينة متّوس <supplied reason="lost" cert="high">النّوتيّ</supplied> <supplied reason="lost" cert="high">فيها</supplied> <gap reason="illegible" precision="low" extent="3"/> ليسوع النّصراني 
+ <lb n="2"/>  سفينة جرجة النّوتي <supplied reason="lost" cert="high">فيها</supplied> <supplied reason="lost" cert="high">عشرينن</supplied> <supplied reason="lost" cert="high">قنطر</supplied> خرّوب لموسى النّصراني 
+ <lb n="3"/>  وفيها خمسة وأربعين جرّت خمر <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">أيضا</supplied> 
+ <lb n="4"/>  وفيها عشرين قنطر خرّوب له أيضا 
+ <lb n="5"/>  سفينة مينو النّوتي <supplied reason="lost" cert="high">فيـ</supplied>ـها مائة وعشرين قلّة دبّوسة خمر له أيضا 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـيها خمسة وأربعين جرّت خمر له أيضا 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>safīnaẗu mattūsa ăn nūtiyyi fī hā *** li yasūʿa ăn naṣrāniyyi‬ 
+ <lb n="2"/>safīnaẗu ǧirǧaẗa ăn nūtiyyi fī hā ʿišrīna qinṭāra ḫarrūb:in li mūsà ăn naṣrāniyyi 
+ <lb n="3"/>wa fī hā ḫamsaẗ:un wa ʾarbaʿīna ǧarrata ḫamr:in la hu ʾayḍ:an 
+ <lb n="4"/>wa fī hā ʿišrīna qinṭāra ḫarrūb:in la hu ʾayḍ:an 
+ <lb n="5"/>safīnaẗu mīnū ăn nūtiyyi fī hā miʾaẗ:un wa ʿišrīna qullaẗa dabbūsaẗ:in ḫamr la hu ʾayḍ:an 
+ <lb n="6"/>*** fī hā ḫamsaẗ:un wa ʾarbaʿīna ǧarrata ḫamr:in la hu ʾayḍ:an 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  The ship of Matthew the [Sailor - in it are      ] for Yasuʿ the Christian.
+ 	  The ship of Mattūs the [sailor - in it are      ] for Yasūʿ the Christian.
+		 <lb n="2"/>
+ 	  The ship of George the Sailor - [in it are twenty (?) qinṭārs of] carobs for Musa the Christian,
+ 	  The ship of Girge the sailor - [in it are twenty (?) qinṭārs of] carobs for Mūsā the Christian,
+		 <lb n="3"/>
+ 	  and in it are forty five jars of wine [for him also],
+		 <lb n="4"/>
+ 	  and in it are twenty qinṭārs of carobs for him also.
+		 <lb n="5"/>
+ 	  ... one hundred and twenty drumstick-shaped amphorae of wine...
+ 	  The ship of Mino the sailor -  in it are one hundred and twenty hip jars of wine for him also,
+		 <lb n="6"/>
+ 	  [     in] it are forty five jars of wine for him also.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

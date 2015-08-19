@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1756" xml:id="Grohmann_APEL_300" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 300</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_300</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169497</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso 2"/>  كتابي أكرمكما اللّه من إسنا عن سلامة وللّه الحمد والمنّة ووصل 
+<lb n="verso 3"/>  كتابك مع مرقال <app type="BL"><lem resp="APD">النّوتي </lem><rdg resp="APD">النّوتيّ</rdg></app> وما <app type="BL"><lem resp="APD">حمّلته </lem><rdg resp="APD">حمّلهه</rdg></app> من الخروع والقمح وكنت 
+<lb n="verso 4"/>  تقدّمت إليك في أمر خليفة أن <app type="BL"><lem resp="APD">تحوّله </lem><rdg resp="APD">تحوّله</rdg></app> في موضع عيسى بعد أصعد 
+<lb n="verso 5"/>  من قيس وعرّفني على أنّه قد أصعد وحوّلته في موضعه وموضع 
+<lb n="verso 6"/>  خولص <app type="BL"><lem resp="APD">فأطلبه </lem><rdg resp="Diem">فاطلب</rdg></app> له غلام يكون <app type="BL"><lem resp="APD">فيه </lem><rdg resp="Diem">بينه</rdg></app> وبين إسحق البحري <app type="BL"><lem resp="APD">فآتيـ<supplied reason="omitted" cert="high">ـنـ</supplied>ـي </lem><rdg resp="Diem">فآتيني</rdg></app> القطعة 
+<lb n="verso 7"/>  الّتي <app type="BL"><lem resp="APD">فسدت </lem><rdg resp="Diem">فسّرت</rdg></app> أسفل منه ولا توحر أمرها إن شا اللّه وكذلك <app type="BL"><lem resp="APD">يلوي </lem><rdg resp="Diem">ينوي</rdg></app> 
+<lb n="verso 8"/>  خولص بالحها ولا <app type="BL"><lem resp="APD">يوحر </lem><rdg resp="Diem">يؤخّر</rdg></app> أمرها قرأت على جماعة أصحابنا أعزّهم اللّه السّلم 
+<lb n="verso 9"/>  <app type="BL"><lem resp="APD">والـ<supplied reason="omitted" cert="high">ـلـ</supplied>ـوپپا </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">والدحن </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> واحلطه واررعه <app type="BL"><lem resp="APD">ولأ </lem><rdg resp="Diem “suggestion”">والحنطة</rdg></app> پوحر امره 
+<lb n="recto 1"/>  يوصل إلى عديل <supplied reason="lost" cert="high">بـ</supplied>ـن إ<supplied reason="lost" cert="high">سـ</supplied>ـحق وحسن بن علي من يحنّس بن <supplied reason="lost" cert="high">قـ</supplied>ـلول 
+<lb n="recto 2"/>  أبقاهما اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitāb ī ʾakrama kumā ăl lāhu min ʾisnā ʿan salāmaẗ:in wa li l lāhi ăl ḥamdu wa ăl minnaẗu wa waṣala 
+ <lb n="3"/>kitābu ka maʿa mirqāla ăn nūbiyyi nūtiyyi wa mā ḥammalta ḥammala ø hu hu mina ăl ḫirwaʿi wa ăl qamḥi wa kuntu 
+ <lb n="4"/>taqaddamtu ʾilay ka fī ʾamri ḫalīfaẗa ʾan tuḥawwila yuḥawwila hu fī mawḍiʿi ʿīsà baʿda ʾaṣʿada 
+ <lb n="5"/>min qays:in wa ʿarrafa nī ʿalà ʾanna hu qad ʾaṣʿada wa ḥawwalta hu fī mawḍiʿi hi wa mawḍiʿi 
+ <lb n="6"/>ḫūliṣa fa ʾaṭlaba ŭṭlub hu فاطلب la hu ġulām ġulām:un yakūnu fī bayna hi hu wa bayna ʾisḥāqa ăl baḥriyyi fa ʾatat ʾātī nī ăl qiṭʿaẗu 
+ <lb n="7"/>ăllatī fasadat fussirat ʾasfala min hu wa lā tuʾaḫḫir ʾamra hā ʾin šāʾa ăl lāhu wa ka ḏālika yalwī yanwī 
+ <lb n="8"/>ḫūliṣu bi ø bāliḥa ʾlḥi hā wa lā tuʾaḫḫir yuʾaḫḫir ʾamra hā qaraʾtu ʿalà ǧamāʿaẗi ʾaṣḥābi nā ʾaʿazza humu ăl lāhu ăs salāma 
+ <lb n="9"/>ø *** ø *** wa ăl lūbiyā wa ăd duḫna wa ĭḫliṭ ăl hu ḥinṭaẗa wa ĭzraʿ hu wa lā tuʾaḫḫir ʾamra hu 
+ <lb n="10"/>yūṣal ʾilà ʿadīli bni ʾisḥāqa wa ḥasani bni ʿaliyy:in min yuḥannisa bni qalūla 
+ <lb n="11"/>ʾabqā humā ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		I am writing (to you) - may God benefit you both - from Esnâ in safety, and praise and thanks be to God. Your letter
+		Ich schreibe - Gott ehre Euch beide - aus Isnā in Wohlbehaltenheit - Preis und Lob sei Gott -, nachdem
+			<lb n="3"/>
+		Dein Brief durch Mirqāl, den Schiffer, überbracht worden ist wie auch der Rizinus und der Weizen, die Du ihm als Fracht mitgegeben hast. Ich hatte
+		has arrived with Mirqâl, the Nubian, and what you have supplied of castor-oil plants and wheat. I have already
+			<lb n="4"/>
+		applied to you for an order to Ḫalîfa that he may convey it in(to) the place of ʿÎsâ, after he has gone up-country
+		Dir in der Angelegenheit Ḫalīfas Anweisung gegeben, ihn in die Position ʿĪsās zu versetzen, nachdem er
+			<lb n="5"/>
+		from Qais, and he has informed me that he has already gone up-country and you have conveyed it in(to) his place an in(to) the place
+		von Qays nilaufwärts gekommen sein würde, und es hat mir ʿAlī mitgeteilt, daß er (sc. Ḫalīfa) nilaufwärts gekommen ist und Du ihn in seine (sc. ʿĪsās) Position und die Position
+			<lb n="6"/>
+		of Ḫôliṣ. Thus the lad requested him for him(self), so that he may be between him and Isḥâq, the sailor. There has reached me the piece
+		Ḫōliṣ&#039; versetzt hast. Besorge ihm (sc. Ḫalīfa) also einen Burschen, der zwischen ihm und Isḥāq, dem Seemann, (Verbindungsmann) sein soll! Kümmere Dich (?) umd das Stück (Land),
+			<lb n="7"/>
+		das weiter unten erläutert ist, und zwar unverzüglich, so Gott will! Und ebenso möge sich
+		which has become spoiled beneath him, and do not delay its matter, if God wills. And thus
+			<lb n="8"/>
+		Ḫôliṣ deferred the payment of ... ... ... ... and do not delay its matter. I greet all our friends - may God exalt them.
+		Ḫōliṣ den brachliegenden Teil dieses (Stücks Land) vornehmen, und zwar unverzüglich! Ich grüße alle unsere Freunde - Gott stärke sie!
+			<lb n="9"/>
+		[&lt;1-2 words missing&gt; (?)] und die Bohnen und die Hirse. Vermische es (?) und säe es aus, und zwar unverzüglich!
+		and the haricots and millet, mix it and sow it, and do not delay its matter.
+			<lb n="10"/>
+		To be delivered to ʿAdîl [be]n I[s]ḥâq and Ḥasan b. ʿAlî from Yoḥannes b. [Ke]lôl ([Qe]lôl),
+			<lb n="11"/>
+		may God prolong their sojourn on earth.
+</ab></div>
+</body>
+</text>
+</TEI>

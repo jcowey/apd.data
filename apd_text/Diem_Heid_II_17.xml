@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1368" xml:id="Diem_Heid_II_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169166</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أطال</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">الله</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">بقاءك</rdg></app> و<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" />ـك 
+<lb n="3"/>  قد فهمت كتابك 
+<lb n="4"/>  <del rend="erasure" status="unremarkable">اطال</del> <del rend="erasure" status="unremarkable">الله</del>وما ذكرت من أمر الحمار 
+<lb n="5"/>  فابعث به إلي مع حمّارين من قبلك 
+<lb n="6"/>  حتّى نعرف قضيّته فإن كان 
+<lb n="7"/>  لنا أخذناه وإن لم يكون لنا 
+<lb n="8"/>  سلّمناه إلى صاحبه إن شا اللّه 
+<lb n="9"/>  <gap reason="illegible" extent="20" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** ʾaṭāla *** ăl ø lāhu *** baqāʾa ø ka wa **** **** ka 
+ <lb n="3"/>qad fahimtu kitāba ka 
+ <lb n="4"/>wa mā ḏakarta min ʾamri ăl ḥimāri 
+ <lb n="5"/>fa ĭbʿaṯ bi hi ʾilay ya maʿa ḥammārayni min qibali ka 
+ <lb n="6"/>ḥattà naʿrifa qaḍiyyata hu fa ʾin kāna 
+ <lb n="7"/>la nā ʾaḫaḏnā hu wa ʾin lam yakūn la nā 
+ <lb n="8"/>sallamnā hu ʾilà ṣāḥibi hi ʾin šāʾa ăl lāhu 
+ <lb n="9"/>******************** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+			<lb n="3"/>
+		Ich habe Deinen Brief
+			<lb n="4"/>
+		〚Gott lasse Dich lange (?)〛sowie die von Dir erwähnte Angelegenheit mit dem Esel verstanden.
+			<lb n="5"/>
+		Sende ihn mir also durch zwei Eseltreiber von Dir,
+			<lb n="6"/>
+		damit wir erfahren, wie es mit ihm steht. Wenn
+			<lb n="7"/>
+		es uns dann möglich ist, übernehmen wir ihn, und wenn es uns nicht möglich ist,
+			<lb n="8"/>
+		geben wir ihn seinem Besitzer zurück, so Gott will.
+			<lb n="9"/>
+</ab></div>
+</body>
+</text>
+</TEI>

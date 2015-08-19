@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2229" xml:id="Thung_CPR_80" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 08</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_80</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والحدّ</supplied> <supplied reason="lost" cert="high">الرّابـ</supplied>ـع <supplied reason="lost" cert="high">الغربـ</supplied>ـي المنزلين الباقين وهما ا<supplied reason="lost" cert="high">لـ</supplied>ـمـ<supplied reason="lost" cert="high">ـنزلين</supplied> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والحـ</supplied>ـد <supplied reason="lost" cert="high">البـ</supplied>ـحري طريق المارّة وفيه يشرع باب أحد هاذين المنزلين والحـ<supplied reason="lost" cert="high">ـدّ</supplied> <supplied reason="lost" cert="high">الشّرقيّ</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">عـ</supplied>ـبد الخالق بن رجا فاشترى يعقوب بن علي من هبة الله بن محمّد بن عبد الواحد الپلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">هذه</supplied> <supplied reason="lost" cert="high">الثّلاثة</supplied> <supplied reason="lost" cert="high">المنازل</supplied> 
+ <lb n="4"/>  <supplied reason="lost" cert="high">ا</supplied>لمذكورة المحدودة في هذا الكتاب بحدودها كلّها وأرضها وبنائها وسفلها وعلوها <supplied reason="lost" cert="high">ومرافقها</supplied> <supplied reason="lost" cert="high">وكلّ</supplied> <supplied reason="lost" cert="high">قليل</supplied> <supplied reason="lost" cert="high">وكثير</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">لها</supplied> <supplied reason="lost" cert="high">فيها</supplied> <supplied reason="lost" cert="high">ومنها</supplied> <supplied reason="lost" cert="high">وكلّ</supplied> 
+ <lb n="5"/>  حق هو لها داخلا فيها وكل حق هو لها خارجا منها بتسعة دنانير مثاقيلا ذهبـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">عينا</supplied> <supplied reason="lost" cert="high">وازنة</supplied> <supplied reason="lost" cert="high">جياد</supplied> <supplied reason="lost" cert="high">شرى</supplied> <supplied reason="lost" cert="high">صحيحا</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">شرط</supplied> <supplied reason="lost" cert="high">فيه</supplied> 
+ <lb n="6"/>  <supplied reason="lost" cert="high">و</supplied>لا عدة ودفع يعقوب بن علي بن محمّد إلى هبة الله بن محمّد بن عبد الواحد جميع الثّمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">وأبرأه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">جميعه</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">قبضه</supplied> 
+ <lb n="7"/>  إيّاه منه واستيفائه منه وهو تسعة دنانير مثاقيلا ذهبا عينا وازنة جـ<supplied reason="lost" cert="high">ـيـ</supplied>ـا<supplied reason="lost" cert="high">د</supplied> <supplied reason="lost" cert="high">وسلّم</supplied> <supplied reason="lost" cert="high">هبة</supplied> <supplied reason="lost" cert="high">الله</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الواحد</supplied> <supplied reason="lost" cert="high">إلى</supplied> 
+ <lb n="8"/>  يعقوب بن علي بن محمّد جميع ما تبايعا عليه وقبضه منه وصار في يـ<supplied reason="lost" cert="high">ـده</supplied> <supplied reason="lost" cert="high">وقبضه</supplied> <supplied reason="lost" cert="high">بهذا</supplied> <supplied reason="lost" cert="high">الشّرى</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">معرفتهما</supplied> 
+ <lb n="9"/>  جميعا لجميع هذه المنازل ومعاينة منهما لها فتبايعا على ذلك وتفرّ<supplied reason="lost" cert="high">قا</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">البيع</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">بأبدانهما</supplied> <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">تراض</supplied> <supplied reason="lost" cert="high">منهما</supplied> <supplied reason="lost" cert="high">به</supplied> <supplied reason="lost" cert="high">فما</supplied> <supplied reason="lost" cert="high">أدرك</supplied> <supplied reason="lost" cert="high">يعقوب</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> 
+ <lb n="10"/>  بن محمّد <unclear reason="undefined" cert="high">المعجرف</unclear> فيما وقع عليه هذا البيع المذكور في هذا الكتاب وفي شئ منه من <supplied reason="lost" cert="high">حقوقه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">درك</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">أحد</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">النّاس</supplied> <supplied reason="lost" cert="high">كلّهم</supplied> <supplied reason="lost" cert="high">فعلى</supplied> <supplied reason="lost" cert="high">هبة</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الواحد</supplied> 
+ <lb n="11"/>  وكيل زوجته آمنة ابنت أحمد بن الفضل جميع الّذي يجب عليه من ذلك من حق و<supplied reason="lost" cert="high">يلزمه</supplied> <supplied reason="lost" cert="high">بسبب</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">البيع</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">حتّى</supplied> <supplied reason="lost" cert="high">يسلّم</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">يعقوب</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> 
+ <lb n="12"/>  بن محمّد على ما يوـ<supplied reason="lost" cert="high">ـجبـ</supplied>ـه له عليه هذا البيع المذكور في هذا الكتاب شهد على إقرار هـ<supplied reason="lost" cert="high">ـبة</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">الواحد</supplied> <supplied reason="lost" cert="high">ويعقوب</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">قرئ</supplied> <supplied reason="lost" cert="high">عليهما</supplied> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> 
+ <lb n="13"/>  من أوّله إلى آخره فأقرّا أن قد فهماه وعرفا جميع ما فيه في صحّة عقولهما وأبدانهما وجواز أ<supplied reason="lost" cert="high">مورهما</supplied> <supplied reason="lost" cert="high">طائعين</supplied> <supplied reason="lost" cert="high">غير</supplied> <supplied reason="lost" cert="high">مكرهين</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">مجبرين</supplied> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">معرفتهما</supplied> <supplied reason="lost" cert="high">بأعيانهما</supplied> <supplied reason="lost" cert="high">وأسمائهما</supplied> <supplied reason="lost" cert="high">وأنسابهما</supplied> 
+ <lb n="14"/>  وذلك في شهر صفر من سنة خمس وأربعين وثلثمائة وفي هذا الـ<supplied reason="lost" cert="high">ـكتاب</supplied> إصلاح <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="15"/>  أقر البائع هبة الله بن محمّد بن عبد الواحد بن <unclear reason="undefined" cert="high">ممّا</unclear><supplied reason="lost" cert="high">تيّ</supplied> و<supplied reason="lost" cert="high">كيـ</supplied>ـل ز<supplied reason="lost" cert="high">وجته</supplied> <supplied reason="lost" cert="high">آمنة</supplied> <supplied reason="lost" cert="high">ابنت</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">الفضل</supplied> <supplied reason="lost" cert="high">بالبيع</supplied> <supplied reason="lost" cert="high">وقبضه</supplied> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">الثّمن</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">والمشتري</supplied> 
+ <lb n="16"/>  يعقوب بن علي بن محمّد بالقبض والحوز لنفسه وكتب <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">صفر</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">خمس</supplied> <supplied reason="lost" cert="high">وأربعين</supplied> <supplied reason="lost" cert="high">وثلثمائة</supplied> 
+ <lb n="17"/>  شهد الحسن بن محمّد بن الفضل على إقرار البائع المسمّى في هذا الكتاب والمـ<supplied reason="lost" cert="high">ـشتري </supplied>
+ <lb n="18"/>  شهد عمر بن محمّد بن الفضل على إقرار البائع المسمّى في هذا الكتاب وعلـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">المشتري </supplied>
+ <lb n="19"/>  شهد علي بن سليم على إقرار هبة الله بن محمّد البائع وـ<supplied reason="lost" cert="high">ـعلى</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">يعقوب</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">المشتري </supplied>
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** wa ăl ḥaddu ăr rābiʿu ăl ġarbiyyu ăl manzilayni ăl bāqayni wa humā ăl manzilayni 
+ <lb n="2"/>*** *** wa ăl ḥaddu ăl baḥriyyu ṭarīqu ăl mārraẗi wa fī hi yašraʿu bābu ʾaḥadi hāḏayni ăl manzilayni wa ăl ḥaddu ăš šarqiyyu 
+ <lb n="3"/>ʿabdu ăl ḫāliqi bnu raǧāʾa fa ĭštarà yaʿqūbu bnu ʿaliyy:in min hibaẗi ăl lāhi bni muḥammadi bni ʿabdi ăl wāḥidi ăl *** ǧamīʿa hāḏihi ăṯ ṯalāṯaẗi ăl manāzili 
+ <lb n="4"/>ăl maḏkūraẗi ăl maḥdūdaẗi fī hāḏā ăl kitābi bi ḥudūdi hā kulli hā wa ʾarḍi hā wa bināʾi hā wa sufli hā wa ʿulwi hā wa marāfiqi hā wa kulli qalīl:in wa kaṯīr:in huwa la hā fī hā wa min hā wa kulli 
+ <lb n="5"/>ḥaqq:in huwa la hā dāḫil:an fī hā wa kulli ḥaqq:in huwa la hā ḫāriǧ:an min hā bi tisʿaẗi danānīra maṯāqīl:an ḏahab:an ʿayn:an wāzinaẗ:in ǧiyād:in šir:an ṣaḥīḥ:an lā šarṭa fī hi 
+ <lb n="6"/>wa lā ʿidaẗa wa dafaʿa yaʿqūbu bnu ʿaliyyi bni muḥammad:in ʾilà hibaẗi ăl lāhi bni muḥammadi bni ʿabdi ăl wāḥidi ǧamīʿa ăṯ ṯamani ăl maḏkūri fī hāḏā ăl kitābi wa ʾabraʾa hu min ǧamīʿi hi baʿda qabḍi hi 
+ <lb n="7"/>ʾiyyā hu min hu wa ǐstīfāʾi hi min hu wa huwa tisʿaẗu danānīra maṯāqīl:an ḏahab:an ʿayn:an wāzinaẗ:in ǧiyād:in wa sallama hibaẗu ăl lāhi bnu muḥammadi bni ʿabdi ăl wāḥidi ʾilà 
+ <lb n="8"/>yaʿqūba bni ʿaliyyi bni muḥammad:in ǧamīʿa mā tabāyaʿā ʿalay hi wa qabaḍa hu min hu wa ṣāra fī yadi hi wa qabḍi hi bi hāḏā ăš širà ăl maḏkūri fī hāḏā ăl kitābi wa ḏālika baʿda maʿrifati himā 
+ <lb n="9"/>ǧamīʿ:an li ǧamīʿi hāḏihi ăl manāzili wa muʿāyanaẗ:in min humā la hā fa tabāyaʿā ʿalà ḏālika wa tafarraqā baʿda hāḏā ăl bayʿi ăl maḏkūri fī hāḏā ăl kitābi bi ʾabdāni himā ʿan tarāḍ:in min humā bi hi fa mā ʾadraka yaʿqūba bna ʿaliyyi 
+ <lb n="10"/>bni muḥammadi ăl muʿaǧrafi fī mā waqaʿa ʿalay hi hāḏā ăl bayʿu ăl maḏkūru fī hāḏā ăl kitābi wa fī šayʾ:in min hu min ḥuqūqi hi min darak:in min ʾaḥad:in mina ăn nāsi kulli him fa ʿalà hibaẗi ăl lāhi bni muḥammadi bni ʿabdi ăl wāḥidi 
+ <lb n="11"/>wakīli zawǧati hi ʾāminaẗa ĭbnati ʾaḥmada bni ăl faḍli ǧamīʿu ăllaḏī yaǧibu ʿalay hi min ḏālika min ḥaqq:in wa yalzamu bi sababi hāḏā ăl bayʿi ăl maḏkūri fī hāḏā ăl kitābi ḥattà yusallima ḏālika ʾilà yaʿqūba bni ʿaliyyi 
+ <lb n="12"/>bni muḥammad:in ʿalà mā yūǧibu hu la hu ʿalay hi hāḏā ăl bayʿu ăl maḏkūru fī hāḏā ăl kitābi šuhida ʿalà ʾiqrāri hibaẗi ăl lāhi bni muḥammadi bni ʿabdi ăl wāḥidi wa yaʿqūba bni ʿaliyyi bni muḥammad:in bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay himā ǧamīʿu mā fī hi 
+ <lb n="13"/>min ʾawwali hi ʾilà ʾāḫiri hi fa ʾaqarrā ʾan qad fahimā hu wa ʿarafā ǧamīʿa mā fī hi fī ṣiḥḥaẗi ʿuqūli himā wa ʾabdāni himā wa ǧawāzi ʾumūri himā ṭāʾiʿayni ġayra mukrahayni wa lā muǧbarayni wa ʿalà maʿrifati himā bi ʾaʿyāni himā wa ʾasmāʾi himā wa ʾansābi himā 
+ <lb n="14"/>wa ḏālika fī šahri ṣafar:in min sanaẗi ḫams:in wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in wa fī hāḏā ăl kitābi ʾiṣlāḥ:un *** 
+ <lb n="15"/>ʾaqarra ăl bāʾiʿu hibaẗu ăl lāhi bnu muḥammadi bni ʿabdi ăl wāḥidi bni mammātiyy:in wakīlu zawǧati hi ʾāminaẗa ĭbnati ʾaḥmada bni ăl faḍli bi ăl bayʿi wa qabḍi hi ǧamīʿa ăṯ ṯamani ăl maḏkūri wa ăl muštarī 
+ <lb n="16"/>yaʿqūbu bnu ʿaliyyi bni muḥammad:in bi ăl qabḍi wa ăl ḥawzi li nafsi hi wa kutiba fī šahri ṣafar:in min sanaẗi ḫams:in wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="17"/>šahida ăl ḥasanu bnu muḥammadi bni ăl faḍli ʿalà ʾiqrāri ăl bāʾiʿi ăl musammà fī hāḏā ăl kitābi wa ăl muštarī 
+ <lb n="18"/>šahida ʿumaru bnu muḥammadi bni ăl faḍli ʿalà ʾiqrāri ăl bāʾiʿi ăl musammà fī hāḏā ăl kitābi wa ʿalà ʾiqrāri ăl muštarī 
+ <lb n="19"/>šahida ʿaliyyu bnu salīm:in ʿalà ʾiqrāri hibaẗi ăl lāhi bni muḥammad:in ăl bāʾiʿi ʿalà wa ʾiqrāri yaʿqūba bni ʿaliyy:ini ăl muštarī 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [... und die vierte Grenze, die westliche,] wird gebildet durch die beiden übrigen Häuser, und diese beiden sind die [Häuser
+		 <lb n="2"/>
+ 	  [...] ... und die nördliche Grenze ist die Durchgangsstraße, zu der die Tür eines dieser beiden Häuser Zugang bietet, und die [östliche] Grenze [
+		 <lb n="3"/>
+ 	  [...] ʿAbdalẖāliq b. Raǧāʾ. Yaʿqūb b. ʿAlī hat von Hibatallāh b. Muḥammad b. ʿAbdalwālid al-... [diese gesamten drei (?) Häuser,]
+		 <lb n="4"/>
+ 	  die in dieser Urkunde erwähnt sind und deren Grenzen festgelegt sind, gekauft mit allen ihren Grenzen, ihren Grundstücken und Gebäuden mit ihren oberen und unteren Teilen, [die Nebenräume und alles, es sei viel oder wenig, innerhalb und außerhalb von ihnen, was zu ihnen gehört, und jedes]
+		 <lb n="5"/>
+ 	  Recht innerhalb von ihnen, das zu ihnen gehört, und jedes Recht außerhalb von ihnen, das zu ihnen gehört, für neun [hervorragende] Golddinare des Miṯqālgewichts, [in barem Geld vom richtigen Gewicht, als rechtsgültigen Kauf, ohne Bedingung]
+		 <lb n="6"/>
+ 	  und ohne Versprechen. Yaʿqūb b. ʿAlī b. Muḥammad hat den ganzen [, in dieser Urkunde erwähnten,] Preis an Hibatallāh b. Muḥammad b. ʿAbdallāh bezahlt, [ und er hat ihn vom ganzen (Preis) entlastet, nachdem er]
+		 <lb n="7"/>
+ 	  ihn von ihm [genommen] und vollständig empfangen hatte, und dieser beträgt neun hervorragende Golddinare des Miṯqālgewichts, in barem Geld vom richtigen Gewicht. [Hibatallāh b. Muḥammad b. ʿAbdalwāḥid hat]
+		 <lb n="8"/>
+ 	  Yaʿqūb b. ʿAlī b. Muḥammad alles, was zu diesem Kauf gehört, [geliefert], und er (sc. Yaʿqūb b. ʿAlī) hat es von ihm in Empfang genommen, und es gelangte in [seinen Besitz und in seine Gewalt durch den in dieser Urkunde erwähnten Kauf. Und dieses (geschah) nach ihrer]
+		 <lb n="9"/>
+ 	  gemeinsame [Kenntnisnahme] und Inspizierung dieser gesamten Häuser. Daraufhin haben sie diesen Kauf miteinander abgeschloßen und sind [nach dem in dieser Urkunde erwähnten Kauf in gegenseitigem Einverständnis auseinandergegangen. Und wenn an Yaʿqūb b. ʿAlī]
+		 <lb n="10"/>
+ 	  b. Muḥammad al-Muʿaǧraf [irgendein Anspruch gestellt wird,] bezüglich dessen, was zu diesem in dieser Urkunde erwähnten Kauf gehört, oder bezüglich irgendeiner Sache, [die zu dessen Rechten gehört, von irgendeinem Menschen, dann geht zu Lasten von Hibatallāh b. Muḥammad b. ʿAbdalwāḥid,]
+		 <lb n="11"/>
+ 	  als Bevollmächtigten seiner Frau, Āminah, Tochter von Aḥmad b. al-Faḍl, alles, was ihm von diesem als Verpflichtung obliegt und [woran er gebunden ist aufgrund des in dieser Urkunde erwähnten Kaufs, bis er dieses an Yaʿqūb b. ʿAlī]
+		 <lb n="12"/>
+ 	  b. Muḥammad [geliefert hat], gemäß dem, wozu der in dieser Urkunde erwähnte Kauf ihn verpflichtet. Es wurde bezeugt, daß Hi[batallāh b. Muḥammad b. ʿAbdalwāḥid und Yaʿqūb b. ʿAlī b. Muḥammad all das, was in dieser Urkunde steht,] anerkannt haben, [nachdem den beiden alles, was darin steht]
+		 <lb n="13"/>
+ 	  vom Anfang bis zum Ende [vorgelesen wurde]. Daraufhin haben sie beide anerkannt, daß sie alles, was darin steht, verstanden und zur Kenntnis genommen haben und dies im Zustand ihrer geistigen und körperlichen Gesundheit und ihrer Geschäftsfähigkeit, [freiwillig, nicht gezwungen und nicht genötigt, wobei man sie kannte nach ihren Personen, ihren Namen und ihrer Abstammung,]
+		 <lb n="14"/>
+ 	  und dies im (Monat) Ṣafar des Jahres dreihundertfünfundvierzig. Diese [Urkunde] enthält eine Korrektur [
+		 <lb n="15"/>
+ 	  Der Verkäufer, Hibatallāh b. Muḥammad b. ʿAbdalwāḥid b. Mammā[tī](?), Bevollmächtigter [seiner Frau, Āminah, Tochter von Aḥmad b. al-Faḍl], hat [den Verkauf und den Empfang des gesamten erwähnten Preises] anerkannt, [und der Käufer]
+		 <lb n="16"/>
+ 	  Yaʿqūb b. ʿAlī b. Muḥammad (hat) den Empfang und die Inbesitznahme (des Kaufobjekts) für sich selbst (anerkannt), und es wurde geschrieben [im (Monat) Ṣafar des Jahres dreihundertfünfundvierzig.]
+		 <lb n="17"/>
+ 	  Es bezeugt al-Ḥasan b. Muḥammad b. al-Faḍl das Anerkenntnis des in dieser Urkunde genannten Verkäufers und (das Anerkenntnis) des [Käufers
+		 <lb n="18"/>
+ 	  Es bezeugt ʿUmar b. Muḥammad b. al-Faḍl das Anerkenntnis des in dieser Urkunde genannten Verkäufers, und [das Anerkenntnis des Käufers
+		 <lb n="19"/>
+ 	  Es bezeugt ʿAlī b. Salīm das Anerkenntnis von Hibatallāh b. Muḥammad, dem Verkäufer, und [das Anerkenntnis von Yaʿqūb b. ʿAlī, dem Käufer,
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

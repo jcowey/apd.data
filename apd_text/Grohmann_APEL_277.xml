@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2027" xml:id="Grohmann_APEL_277" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 277</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_277</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  جريدة بما بقي لتـ<supplied reason="omitted" cert="high">ـتـ</supplied>ـمّة نجم ذي الحجّة سنـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يد</supplied> الـ<supplied reason="lost" cert="high">ـعـ</supplied>ـبّاس بن أحمد العبّاسي مائة وستّة وسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـون</supplied> 
+<lb n="4"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـدي أحمد بن جرير ا<supplied reason="lost" cert="high">لقسـ</supplied>ـ<supplied reason="lost" cert="high">ـطا</supplied>ل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">على</supplied> يد<supplied reason="lost" cert="high">ي</supplied> عـ<supplied reason="lost" cert="high">ـبـ</supplied>ـد الرّحيم بن شوّ<supplied reason="lost" cert="high">ا</supplied>ل <supplied reason="lost" cert="high">مائة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يدي</supplied> علي بن محمّد بن الفضيل ديـ<supplied reason="lost" cert="high">ـنر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـدي أحمد بن زرعة بن بدر ابن محمّد خمسة وعشرين د<supplied reason="lost" cert="high">ينارا</supplied> 
+<lb n="8"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يدي</supplied> <gap reason="illegible" precision="low" extent="3"/> عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ǧarīdaẗ:un bi mā baqiya li tatimmaẗi naǧmi ḏī ăl ḥiǧǧaẗi sanaẗa *** 
+ <lb n="3"/>ʿalà yadi ăl ʿabbāsi bni ʾaḥmada ăl ʿabbāsiyyi miʾaẗ:un wa sittaẗ:un wa s**ūna 
+ <lb n="4"/>ʿalà yaday ʾaḥmada bni ǧarīr:ini ăl qusṭāli *** 
+ <lb n="5"/>ʿalà yaday ʿabdi ăr raḥīmi bni šawwāl:in miʾaẗ:un *** 
+ <lb n="6"/>ʿalà yaday ʿaliyyi bni muḥammadi bni ăl fuḍayli dīnār:un *** 
+ <lb n="7"/>ʿalà yaday ʾaḥmada bni zurʿaẗa bni badri ĭbni muḥammad:in ḫamsaẗ:un wa ʿišrīna dīnār:an 
+ <lb n="8"/>ʿalà yaday *** ʿ*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Reckoning of the arrears due to complete the instalments of Ḏûʾl-Ḥiǧǧa of the yea[r
+			<lb n="3"/>
+		[Through] al-[ʿA]bbâs b. Aḥmad al-ʿAbbâsî: one hundred and s[......ty]six.
+			<lb n="4"/>
+		[Thro]ugh Aḥmad b. Ǧarîr, th[e qusṭâl:
+			<lb n="5"/>
+		[Thro]ugh ʿA[b]d ar-Raḥmân b. Šaww[â]l: [one hundred and......
+			<lb n="6"/>
+		[Through] ʿAlî b. Muḥammad b. al-Fuḍail: dî[nârs
+			<lb n="7"/>
+		[Thro]ugh Aḥmad b. Zurʿa b. Badr Abû Muḥammad: twenty-five d[înârs
+			<lb n="8"/>
+		[Through......] ʿ[
+</ab></div>
+</body>
+</text>
+</TEI>

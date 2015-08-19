@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2213" xml:id="Thung_CPR_50" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 05</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_50</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيـ</supplied>ـم 
+ <lb n="2"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">الشّهود</supplied> <supplied reason="lost" cert="high">المسمّون</supplied> في هذا الكتاب على إقرار حسيـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عمر</supplied> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">المعروف</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">بـ</supplied>ـأبي <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أقرّ</supplied> <supplied reason="lost" cert="high">عندهم</supplied> <supplied reason="lost" cert="high">وأشهدهـ</supplied>ـم على نفسه في صحّة من عـ<supplied reason="lost" cert="high">ـقله</supplied> <supplied reason="lost" cert="high">وبدنه</supplied> <supplied reason="lost" cert="high">وجواز</supplied> <supplied reason="lost" cert="high">أمره</supplied> 
+ <lb n="4"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سهـ</supplied>ـر رمصان <supplied reason="lost" cert="high">سپه</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">وا</supplied>رپع مأيه أبه اپزا <app type="BL"><lem resp="APD">رو<supplied reason="lost" cert="high">حيه</supplied> </lem><rdg resp="APD">ترتية </rdg><rdg resp="APD">برنية </rdg><rdg resp="APD">ثرينة </rdg><rdg resp="APD">مرينة </rdg><rdg resp="APD">مريتة</rdg></app> <supplied reason="lost" cert="high">پرپپه</supplied> <supplied reason="lost" cert="high">اپپپ</supplied> 
+ <lb n="5"/>  <supplied reason="lost" cert="high">فـ</supplied>ـي أيّام حياته وبعد وفاته من جميع الدّعاوي والـ<supplied reason="lost" cert="high">ـمـ</supplied>ـطالـ<supplied reason="lost" cert="high">ـبات</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  حـ<supplied reason="lost" cert="high">ـقّ</supplied> ولا مال عين ولا ذهب ولا ورق ولا <app type="BL"><lem resp="APD">حلـ<supplied reason="lost" cert="high">ـي</supplied> </lem><rdg resp="LS">حلي</rdg></app> مصوغ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <supplied reason="lost" cert="high">و</supplied>لا آلة ولا كسوة ولا غطا ولا وطا <supplied reason="lost" cert="high">و</supplied>لا أثاث ولا أكل <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  الـ<gap reason="illegible" precision="low" extent="3"/>ـا كلّـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا ممّا يدّعوا النّاس بـ<supplied reason="lost" cert="high">ـعـ</supplied>ـضـهم <supplied reason="lost" cert="high">عـ</supplied>ـلى <supplied reason="lost" cert="high">بـ</supplied>ـعض <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـوجه</supplied> 
+ <lb n="9"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن الوجوه ولا سبب من الأسباب <supplied reason="lost" cert="high">كلّهـ</supplied>ـا وذلك بـ<supplied reason="lost" cert="high">ـأ</supplied>مر <supplied reason="lost" cert="high">حقّ</supplied> وا<supplied reason="lost" cert="high">جب</supplied> <supplied reason="lost" cert="high">لازم</supplied> <supplied reason="lost" cert="high">عرفه</supplied> <supplied reason="lost" cert="high">ولزمه</supplied> 
+ <lb n="10"/>  الإقرار به لزوجته <app type="BL"><lem resp="APD">ثرينة </lem><rdg resp="APD">ترتية </rdg><rdg resp="APD">برنية </rdg><rdg resp="APD">ثرينة </rdg><rdg resp="APD">مرينة </rdg><rdg resp="APD">مريتة</rdg></app> ا<supplied reason="lost" cert="high">بـ</supplied>ـنة كيل <supplied reason="lost" cert="high">وكـ</supplied>ـل <supplied reason="lost" cert="high">دعـ</supplied>ـوى يدّعيه <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ويدّعي</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">أحد</supplied> 
+ <lb n="11"/>  بسببه من حياته أو بعد وفاته <unclear reason="undefined" cert="high">عـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـد</unclear> <gap reason="illegible" precision="low" extent="3"/> له <unclear reason="undefined" cert="high">فيما</unclear> ا<unclear reason="undefined" cert="high">مـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  أو عند وفاته <gap reason="illegible" precision="low" extent="3"/> ومن ادّعى ذلـ<supplied reason="lost" cert="high">ـك</supplied> لـ<supplied reason="lost" cert="high">ـه</supplied> بسببه في <supplied reason="lost" cert="high">حـ</supplied>ـياته وبعـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">وفاته</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ويمين</supplied> 
+ <lb n="13"/>  يريدون استحلافا أو مطالبة أو منازعة أو علقـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">أو</supplied> <supplied reason="lost" cert="high">تبعة</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وهي</supplied> 
+ <lb n="14"/>  من جميع ذلك كلّـه بريّة <sic n="superfluous">ى</sic> لعلمه بذلك ولمعرفته أنّه لا يدّعي ذلك <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">يدّعيه</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">أحد</supplied> <supplied reason="lost" cert="high">بسببه</supplied> 
+ <lb n="15"/>  إلّا تعدّيا وظلما والله حسيبه وطليـ<supplied reason="lost" cert="high">ـبـ</supplied>ـه ومدركها ولا<supplied reason="lost" cert="high">حقها</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بوجه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الوجوه</supplied> 
+ <lb n="16"/>  ولا سـ<supplied reason="lost" cert="high">ـبب</supplied> من الأسباب كلّها شهد على إقرار حسين بن عمر بن <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="17"/>  فـ<supplied reason="lost" cert="high">ـي</supplied> صحّة مـ<supplied reason="lost" cert="high">ـن</supplied> عقله وبدنه وجواز أمره طائعا غير مكره ولا مجبر <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="18"/>  <supplied reason="lost" cert="high">شهـ</supplied>ـد على ذلك <gap reason="illegible" precision="low" extent="3"/> شهد عـ<supplied reason="lost" cert="high">ـليّ</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">حفص</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">حسين</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عمر</supplied> 
+ <lb n="19"/>  الخبّاز المعـ<supplied reason="lost" cert="high">ـروف</supplied> <supplied reason="lost" cert="high">بـأبي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="20"/>  شهد حفص بن علي بن حفص على إقرار 
+ <lb n="21"/>  حسين بن عمر المعروف بأبي <gap reason="illegible" extent="2" unit="character" />ـا<gap reason="illegible" extent="1" unit="character" /> المغربي 
+ <lb n="22"/>  لزوجته المـ<supplied reason="lost" cert="high">ـسـ</supplied>ـمّاة <supplied reason="lost" cert="high">فـ</supplied>ـي هذا الكتاب بجميع 
+ <lb n="23"/>  ما فيه وكتب بخطّه فـ<supplied reason="lost" cert="high">ـي</supplied> تأريخه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʿalà ʾiqrāri ḥusayni bni ʿumara bni *** ăl maʿrūfi 
+ <lb n="3"/>bi ʾabī *** ʾaqarra ʿinda hum wa ʾašhada hum ʿalà nafsi hi fī ṣiḥḥaẗ:in min ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi 
+ <lb n="4"/>*** šahri ramaḍāna sanaẗa **** wa ʾarbaʿi miyaẗ:in ʾanna hu ʾabraʾa zawǧata hu ṯarīnaẗa barniyyaẗa tartiyyaẗa yarīnaẗa marītaẗa maryanaẗa ĭbnata kayl:in 
+ <lb n="5"/>fī ʾayyāmi ḥayāti hi wa baʿda wafāti hi min ǧamīʿi ăd daʿāwī wa ăl muṭālabāẗi *** 
+ <lb n="6"/>ḥaqq:un wa lā mālu ʿayn:in wa lā ḏahab:un wa lā waraq:un wa lā ḥaly:un ḥil:an maṣūġ:un *** 
+ <lb n="7"/>wa lā ʾālaẗ:un wa lā kiswaẗ:un wa lā ġiṭāʾ:un wa lā wiṭāʾ:un wa lā ʾaṯāṯ:un wa lā ʾakl:un *** 
+ <lb n="8"/>ăl *** kullu hā mimmā yaddaʿū ăn nāsu baʿḍu hum ʿalà baʿḍ:in *** bi waǧh:in 
+ <lb n="9"/>mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi kulli hā wa ḏālika bi ʾamri ḥaqq:in wāǧib:in lāzim:in ʿarafa hu wa lazima hu 
+ <lb n="10"/>ăl ʾiqrāru bi hi li zawǧati hi ṯarīnaẗa barniyyaẗa tartiyyaẗa yarīnaẗa marītaẗa maryanaẗa ĭbnaẗi kayl:in wa kullu daʿw:an yaddaʿī hu *** wa yaddaʿī ḏālika la hu ʾaḥad:un 
+ <lb n="11"/>bi sababi hi min ḥayāti hi ʾaw baʿda wafāti hi *** *** *** la hu fī mā ʾm*** 
+ <lb n="12"/>ʾaw ʿinda wafāti hi *** wa man ĭddaʿà ḏālika hu la bi sababi hi fī ḥayāti hi wa baʿda wafāti hi *** wa yamīn:in 
+ <lb n="13"/>yurīdūna ĭstiḥlāf:an ʾaw muṭālabaẗ:in ʾaw munāzaʿaẗ:in ʾaw ʿulqaẗ:in ʾaw tabiʿaẗ:in *** wa hiya 
+ <lb n="14"/>min ǧamīʿi ḏālika kulli hi bariyyaẗ:un li ʿilmi hi bi ḏālika wa li maʿrifati hi ʾanna hu lā yaddaʿī ḏālika wa lā yaddaʿī hi la hu ʾaḥad:un bi sababi hi 
+ <lb n="15"/>ʾillā taʿaddī:an wa ẓulm:an wa ăl lāhu ḥasību hu wa ṭalību hu wa mudriku hā wa lāḥiqu hā *** bi waǧh:in min ăl wuǧūhi 
+ <lb n="16"/>wa lā sababi min ăl ʾasbābi kulli hā šahida ʿalà ʾiqrāri ḥusayni bni ʿumara bni *** 
+ <lb n="17"/>fī ṣiḥḥaẗ:in min ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ:an ġayra mukrah:in wa lā muǧbar:in *** 
+ <lb n="18"/>šuhida ʿalà ḏālika *** šahida ʿaliyyu bnu ḥafṣi bni ʾaḥmada ʿalà ʾiqrāri ḥusayni bni ʿumara 
+ <lb n="19"/>ăl ḫabbāzi ăl maʿrūfi bi ʾabī *** 
+ <lb n="20"/>šahida ḥafṣu bnu ʿaliyyi bni ḥafṣ:in ʿalà ʾiqrāri 
+ <lb n="21"/>ḥusayni bni ʿumara ăl maʿrūfi bi ʾabī **ʾ* ăl maġribiyyi 
+ <lb n="22"/>li zawǧati hi ăl musammāẗi fī hāḏā ăl kitābi bi ǧamīʿi 
+ <lb n="23"/>mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes, des Barmherzigen und Gnädigen!]
+		 <lb n="2"/>
+ 	  [Die] in dieser Urkunde [erwähnten Zeugen bezeugen] das Anerkenntnis des Ḥusay[n b. ʿUmar b. ..., der als]
+		 <lb n="3"/>
+ 	  Abū [... bekannt ist. Er hat in ihrer Anwesenheit,] im Zustand seiner [geistigen und körperlichen] Gesundheit [und Geschäftsfähigkeit anerkannt, und er hat sie] gegen sich [bezeugen lassen]
+		 <lb n="4"/>
+ 	  [... im Monat] Ramaḍān [des Jahres] vierhundert[und ...], daß er seine Frau Yarīnah(?), die Tochter von Kayl,]
+		 <lb n="5"/>
+ 	  für die Tage seines Lebens und nach seinem Tod von sämtlichen Ansprüchen und Forderungen entlastet hat. [Es bleibt zu ihren Lasten]
+		 <lb n="6"/>
+ 	  [weder ein Rechtsanspruch,] noch Besitz in Form einer Sache, weder in Gold, noch in Silber, noch in Schmuck [
+		 <lb n="7"/>
+ 	  und kein Werkzeug und keine Kleidung, Decken oder Bettbezug und keine Möbel und keine Nahrungsmittel [...
+		 <lb n="8"/>
+ 	  [...] von dem, was die Menschen einander gegenüber beanspruchen, [... auf irgendeine Weise]
+		 <lb n="9"/>
+ 	  oder aus irgendwelchem Grund. Und dieses aufgrund [eines verbindlichen, obligatorischen Rechtsanpruchs, der ihm bekannt ist, und dessen]
+		 <lb n="10"/>
+ 	  Anerkenntnis zugunsten seiner Frau Yarīnah(?), der Tochter von Kayl, [für ihn verbindlich ist]. Jeder Anspruch, den er erheben wird [... , oder den jemand zu seinen Gunsten]
+		 <lb n="11"/>
+ 	  aufgrund dieses zu seiner Lebenszeit oder nach seinem Tod [erheben wird,] ... ... ... [
+		 <lb n="12"/>
+ 	  oder bei seinem Sterben (?) ... . Und wer dies zu seiner Lebenszeit, oder nach seinem Tod beansprucht [... oder wenn sie von ihr]
+		 <lb n="13"/>
+ 	  verlangen den Eid zu schwören, oder eine Forderung, Abstreitung, Beschlagnahme [oder Anspruch, so ist all dieses falsch und nichtig und widerrechtlich, und sie ist]
+		 <lb n="14"/>
+ 	  von all diesem entlastet aufgrund seiner Kenntnis davon und seines Wissens, daß weder er [noch jemand anders zu seinen Gunsten aufgrund dieses,] dies beanspruchen kann,
+		 <lb n="15"/>
+ 	  außer durch Rechtsbruch und zu Unrecht, und Gott wird ihn zur Rechenschaft ziehen. Und was ihr hinterher zu lasten gelegt wird [... auf irgendeine Weise]
+		 <lb n="16"/>
+ 	  oder aus irgendeinem Grund. Es wurde bezeugt das Anerkenntnis des Ḥusayn b. ʿUmar b. [
+		 <lb n="17"/>
+ 	  im Zustand seiner geistigen und körperlichen Gesundheit und Geschäftsfähigkeit, freiwillig, nicht gezwungen oder genötigt, [
+		 <lb n="18"/>
+ 	  Dies wurde bezeugt. Es bezeugt ʿA[lī b. Ḥafṣ b. Aḥmad das Anerkenntnis des Ḥusayn b. ʿUmar,]
+		 <lb n="19"/>
+ 	  des Bäckers, des bekannten [als Abū
+		 <lb n="20"/>
+ 	  Es bezeugt Ḥafṣ b. ʿAlī Ḥafṣ, daß
+		 <lb n="21"/>
+ 	  Ḥusayn b. ʿUmar, bekannt als Abū ... al-Maġribī
+		 <lb n="22"/>
+ 	  zu Gunsten seiner in dieser Urkunde erwähnten Frau all das,
+		 <lb n="23"/>
+ 	  was in dieser Urkunde steht, anerkannt hat. Und er hat mit seinem Schriftzug am Datum der Urkunde unterschrieben.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

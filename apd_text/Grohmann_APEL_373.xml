@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1881" xml:id="Grohmann_APEL_373" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 373</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_373</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169618</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> حسن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عـ</supplied>ـلى يدي وإلى <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أيضـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> ويبات 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/>پ وحمل منه إلى الفسطاط ثلثمائة <supplied reason="lost" cert="high">إ</supplied>ر<supplied reason="lost" cert="high">دبّ</supplied> وثلثين إردبّا 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ويـ</supplied><unclear reason="undefined" cert="high">ـبات</unclear> وعشرين إردبّـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>ثلثين إردبّا وثلث 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>ثنا عشرة إردبّا ونصف لنفقة الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> عشرة 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> إلى جرجة بن قزمان الحارس ستّة أرادب ونصف 
+<lb n="7"/>  <supplied reason="lost" cert="high">وإلى</supplied> <supplied reason="lost" cert="high">إ</supplied>سمعيل وكيل الذّهب في رزقه دينرين وإلـ<supplied reason="lost" cert="high">ـى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ḥasan *** 
+ <lb n="2"/>*** ʿalà yaday wa ʾilà *** *** ʾayḍ:an *** waybāt:in 
+ <lb n="3"/>***B wa ḥumila min hu ʾilà ăl fusṭāṭi ṯalāṯu miʾaẗi ʾirdabb:in wa ṯalāṯīna ʾirdabb:an 
+ <lb n="4"/>*** waybāt:in wa ʿišrīna ʾirdabb:an *** wa ṯalāṯīna ʾirdabb:an wa ṯulṯ 
+ <lb n="5"/>*** ĭṯnā ʿašraẗa ʾirdabb:an wa niṣf:un li nafaqaẗi ăl *** *** ʿašaraẗ ʿašraẗa 
+ <lb n="6"/>*** ʾilà ǧirǧaẗa bni quzmāna ăl ḥārisi sittaẗu ʾarādiba wa niṣf:un 
+ <lb n="7"/>wa ʾilà ʾismāʿīla wakīli ăḏ ḏahabi fī rizqi hi dīnārayni wa ʾilà *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		]..... Ḥasan ..... [
+			<lb n="2"/>
+		th]rough _ and to ... [...] ... furthe[r ...] waibas
+			<lb n="3"/>
+		]... and there were transported by him to al-Fusṭât three hundred [a]r[tabas] and thirty artabas
+			<lb n="4"/>
+		wai]bas and twenty artabas, [and] thirty artabas and a third
+			<lb n="5"/>
+		t]welve artabas and a half, for the maintenance of al-[.....] ten
+			<lb n="6"/>
+		]to Ǧirǧe b. Quzmân, the watchman, six artabas and a half,
+			<lb n="7"/>
+		and to I]smaʿîl, the agent of aḏ-Ḏahab, for his maintenance two dînârs, and to[
+</ab></div>
+</body>
+</text>
+</TEI>

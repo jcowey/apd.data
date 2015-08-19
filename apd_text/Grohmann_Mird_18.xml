@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2444" xml:id="Grohmann_Mird_18" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Mird 18</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_18</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  لدرع بن عبد اللّه من عمر بن عبيد اللّه سلم عليك فإنّي أحمد إليك 
+<lb n="recto 3"/>  اللّه الّذي لا إله إلّا هو 
+<lb n="recto 4"/>  أمّا بعد أتم اللّه عليك أفضل عافيته في الدّنيا والآخرة 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">فإ</supplied>نّك كتبت إلي <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">مع</rdg></app> أم إياس بنت معارك فيما ذكرت لك من أخذ 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">ز</supplied>وجها متاعها ونفقتها وإنّي جمعت بينهما فسألته عن الّذي ذكرت 
+<lb n="recto 7"/>  فاعترف بمتاعها فرددته عليها وأنكر نفقتها فسألتني المره 
+<lb n="recto 8"/>  أن أجلبه إليك معها ففعلت أمرتهما جميعا أن يلحقاك 
+<lb n="recto 9"/>  وكتبت تأمرني أن أقيم ما <unclear reason="undefined" cert="high">بـ</unclear>ـر<gap reason="illegible" extent="4" unit="character" />ك لح<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>لا <gap reason="illegible" precision="low" extent="3"/> عا<gap reason="illegible" extent="5" unit="character" /> حضو<supplied reason="lost" cert="high">ر</supplied> 
+<lb n="recto 10"/>  عـ<gap reason="illegible" precision="low" extent="3"/>ـپ الـ<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  لدرع بن عبد اللّه من عـ<supplied reason="lost" cert="high">ـمـ</supplied>ـر بن عبيد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li dirʿi bni ʿabdi ăl lāhi min ʿumari bni ʿubaydi ăl lāhi salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka 
+ <lb n="3"/>ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʾatamma ăl lāhu ʿalay ka ʾafḍala ʿāfiyati hi fī ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="5"/>fa ʾinna ka katabta ʾilay ya min maʿa ʾummi ʾiyāsa binti muʿārik:in fī mā ḏakarat la ka min ʾaḫḏi 
+ <lb n="6"/>zawǧi hā matāʿa hā wa nafaqata hā wa ʾin nī ǧamaʿtu bayna humā fa saʾaltu hu ʿani ăllaḏī ḏakarta 
+ <lb n="7"/>fa ĭʿtarafa bi matāʿi hā fa radadtu hu ʿalay hā wa ʾankara nafaqata hā fa saʾalat nī ăl marʾaẗu 
+ <lb n="8"/>ʾan ʾaǧliba hu ʾilay ka maʿa hā fa faʿaltu ʾamartu humā ǧamīʿ:an ʾan yalḥaqā ka 
+ <lb n="9"/>wa katabta taʾmuru nī ʾan ʾuqīma mā br****k lḥ*** ***lʾ *** ʿʾ***** ḥuḍūr 
+ <lb n="10"/>ʿ***B ăl **** *** 
+ <lb n="11"/>li dirʿi bni ʿabdi ăl lāhi min ʿumari bni ʿubaydi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, des Gütigen!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Für Dirʿ bin ʿAbdallāh von ʿUmar bin ʿUbaidallāh. Heil über Dich. Einzig, ich lobpreise dich
+		To Dirʿ ibn ʿAbdallāh from ʿUmar ibn ʿUbaidallāh. Hail to you. Verily, I praise unto you
+			<lb n="3"/>
+		God, besides whom there is no god.
+		Gott, neben dem es keinen Gott gibt.
+			<lb n="4"/>
+		Hiernach, möge Gott Dich mit seiner unübertroffenen Einheit in dieser und der nächsten Welt ausfüllen.
+		Thereafter. May God fulfil in you His best integrity in this world and the world to come.
+			<lb n="5"/>
+		Besonders, Du hast mir mit Um Iyās, Tochter des Muʿārik, geschrieben über das, was sie erwähnte Dir gegenüber in Hinsicht auf
+		Verily, you have written to me with Umm Iyās, daughter of Muʿārik, about that which she has mentioned unto you concnerning
+			<lb n="6"/>
+		her [hus]bands taking away her property and her maintenance, and that I have confronted them both. I, then, asked him about that which you had mentioned.
+		ihren [Ehe]mann, der ihren Besitz und ihren Unterhalt nahm, und darüber, dass ich sie beide darauf ansprach. Ich habe ihn dann gefragt darüber, was du erwähnt hast.
+		... und ich habe die beide (Kontrahenten) miteinander konfrontiert ...
+			<lb n="7"/>
+		So he acknowledged her property. Therefore I handed it back to her, while he disowned her maintenance. So the wife asked me
+		Und er erkannte ihr Eigentum an. Hiernach übergab ich es ihr wieder, während er ihren Unterhalt unterschlug. Und die Ehefrau bittet mich,
+			<lb n="8"/>
+		dass ich ihn mit ihr zusammenbringe möge. Und ich tat (es). Ich befahl sie beide herbei, so dass sie beide Dich erreichen sollten.
+		that I might bring him with her unto you. So I did (it). I ordered them both together that they should both reach you,
+			<lb n="9"/>
+		and you have written ordering me that I may execute what ........ [...] .... [...] ... [...] presen[ce].
+		Und Du schriebst mir, dass ich ausführen solle, was ................[..].....[..].......[..] Gegen[wart].
+			<lb n="10"/>
+			<lb n="11"/>
+		To Dirʿ (i)bn ʿAbdallāh from ʿU[ma]r (i)bn ʿUbaidallāh.
+</ab></div>
+</body>
+</text>
+</TEI>

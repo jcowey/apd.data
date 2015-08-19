@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2347" xml:id="MoutonSourdel_Damas_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MariageSeparation 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdel_Damas_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>ـين وأربع ماية وفيه <gap reason="illegible" extent="5" unit="character" /> وإصلاح من <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">صحـ</supplied>ـيح في وثيقة وعليه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  شهد <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" extent="5" unit="character" /> الزّوج والمزوّج بتاريخه 
+<lb n="5"/>  شهد الـحسين بن أحمد بن البنّا بن حجار على 
+<lb n="6"/>  إقرار الزّوج والمزوّج بجميع ما فيه في تاريخه 
+<lb n="7"/>  شهد إبرهيم بن يونس بن محمّد الـخطيب 
+<lb n="8"/>  على الولي الأب والزّوج لها فيه في تاريخه 
+<lb n="9"/>  <supplied reason="lost" cert="high">شهد</supplied> <supplied reason="lost" cert="high">محمّد</supplied> بن علي بن أبي العلا المصيصي على إقرار الزّوج والمزوّج بجميع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  حضرت عقد هذا النّكاح وشهدت 
+<lb n="11"/>  على إقرار الزّوج والمزوّج بجميع ما في هذا الكتاب 
+<lb n="12"/>  وكتب <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> في تاريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>***īna wa ʾarbaʿi miyaẗ:in wa fī hi ***** wa ʾiṣlāḥ min *** ṣaḥīḥ fī waṯīqaẗ:in wa ʿalay hi *** 
+ <lb n="3"/>šahida *** *** *** 
+ <lb n="4"/>***** ăz zawǧi wa ăl muzawwiǧi bi tārīḫi hi 
+ <lb n="5"/>šahida ăl ḥusaynu bnu ʾaḥmada bni ăl bannāʾi bni ḥaǧāra ʿalà 
+ <lb n="6"/>ʾiqrāri ăz zawǧi wa ăl muzawwiǧi bi ǧamīʿi mā fī hi fī tārīḫi hi 
+ <lb n="7"/>šahida ʾibrāhīmu bnu yūnusa bni muḥammad:ini ăl ḫaṭību 
+ <lb n="8"/>ʿalà ăl waliyyi ăl ʾabi wa ăz zawǧi la hā fī hi fī tārīḫi hi 
+ <lb n="9"/>šahida muḥammadu bnu ʿaliyyi bni ʾabī ăl ʿalāʾi ăl maṣīṣiyyu ʿalà ʾiqrāri ăz zawǧi wa ăl muzawwiǧi bi ǧamīʿi *** 
+ <lb n="10"/>ḥaḍartu ʿaqda hāḏā ăn nikāḥi wa šahidtu 
+ <lb n="11"/>ʿalà ʾiqrāri ăz zawǧi wa ăl muzawwiǧi bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="12"/>wa kutiba *** *** *** fī tārīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		... quatre cents. Il y a .... et une correction ... authentique dans un engagement et il lui incombe ...
+			<lb n="3"/>
+		A témoigné ..........................................
+			<lb n="4"/>
+		..... l&#039;époux et l&#039;épousée à la date indiquée.
+			<lb n="5"/>
+		A témoigné al-Ḥusayn b. Aḥmad b. al-Bannā&#039; b. Ḥaǧār sur
+			<lb n="6"/>
+		l&#039;attestation (iqrār) de l&#039;époux et de l&#039;épousée, sur tout ce qui s&#039;y trouve à la date indiquée.
+			<lb n="7"/>
+		A témoigné Ibrāhīm b. Yūnis b. Muḥammad le prédicateur (al-ḫaṭīb)
+			<lb n="8"/>
+		sur le tuteur (walī), père de l&#039;épousée, et sur son époux, sur ce qui s&#039;y trouve (dans ce document) à la date indiquée.
+			<lb n="9"/>
+		[A témoigné Muḥammad] b. ʿAlī b. Abī Yaʿlā al-Maṣīṣī sur l&#039;attestation de l&#039;époux et de l&#039;épousée et sur tou ce qui s&#039;y trouve ...
+			<lb n="10"/>
+		J&#039;ai assisté à la conclusion du contrat de mariage (ʿaqd nikāḥ) et j&#039;ai témoigné
+			<lb n="11"/>
+		sur l&#039;attestation de l&#039;époux et de l&#039;épousée, sur tout ce qui se trouve dans ce document (kitāb)
+			<lb n="12"/>
+		et cela a été écrit par ............................................. à la date indiquée.
+</ab></div>
+</body>
+</text>
+</TEI>

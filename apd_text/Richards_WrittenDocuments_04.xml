@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2488" xml:id="Richards_WrittenDocuments_04" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.RichardsWrittenDocuments 04</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Richards_WrittenDocuments_04</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  يقول علی بن محمّد بن علی طباطبا الحسنی أن علي وعندي وفی 
+ <lb n="3"/>  قبلي لسيّدي وشيخي أبو الحسن الصّيرفی أدام اللّه علوّه من العين 
+ <lb n="4"/>  الوازن المصری دينار واحد أدفع ذلك إليه يوم عشرين 
+ <lb n="5"/>  من شهر شعبان من هذه السّنة ويلتزم علي شهد بذلك 
+ <lb n="6"/>  بخطّه في شهر شعبان سنة اثنتين وثلثين وأربع مائة 
+ <lb n="between lines 4 and 5"/>  ولا أحتج عليه فيه بحجّة ولا بسبب 
+ <lb n="above line 1, right"/>  شهدت وللّه المپه 
+ <lb n="centre"/>  شهدت والحمد للّه علی كل حال 
+ <lb n="left"/>  شهدت والحمد للّه علی پعمه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yaqūlu ʿaliyyu bnu muḥammadi bni ʿaliyy:in ṭabāṭabā ăl ḥasaniyyu ʾanna ʿalay ya wa ʿind ī wa fī 
+ <lb n="3"/>qibal ī li sayyid ī wa šayḫ ī ʾabū ăl ḥasani ăṣ ṣayrafiyyi ʾadāma ăl lāhu ʿuluwwa hu mina ăl ʿayni 
+ <lb n="4"/>ăl wāzini ăl miṣriyyi dīnār:un wāḥid:un ʾadfaʿu ḏālika ʾilay hi yawma ʿišrīna 
+ <lb n="5"/>min šahri šaʿbāna min hāḏihi ăs sanaẗi wa yaltazimu ʿalay ya šahida bi ḏālika 
+ <lb n="6"/>bi ḫaṭṭi hi fī šahri šaʿbāna sanaẗa ĭṯnatayni wa ṯalāṯīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="7"/>wa lā ʾaḥtaǧǧu ʿalay hi fī hi bi ḥuǧǧaẗ:in wa lā bi sabab:in 
+ <lb n="8"/>šahidtu wa li l lāhi ăl minnaẗu 
+ <lb n="9"/>šahidtu wa ăl ḥamdu li l lāhi ʿalà kulli ḥāl:in 
+ <lb n="10"/>šahidtu wa ăl ḥamdu li ăl lāhi ʿalà niʿami hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the Merciful, the Compassionate.
+		 <lb n="2"/>
+ 	  ʿAli ibn Muhammad ibn ʿAli ibn Tabataba al-Hasani declares: I owe to, and hold in my possession for,
+		 <lb n="3"/>
+ 	  the respected master, Abu al-Hasan the money-changer (may God continue his exaltedness), in cash
+		 <lb n="4"/>
+ 	  of full-weight Egyptian currency, one dinar, which I will pay to him on the twentieth day
+		 <lb n="5"/>
+ 	  of the month of Shaʿban of this year. This is a legal undertaking. He bore witness to that
+		 <lb n="6"/>
+ 	  in his own hand [herewith] in the month of Shaʿban, in the year four hundred and thirty-two
+		 <lb n="7"/>
+ 	  and I will not have recourse to any argument or pretext against him in this matter.
+		 <lb n="8"/>
+ 	  I bore witness, and to God is the favour.
+		 <lb n="9"/>
+ 	  I bore witness, and praise be to God in every circumstance.
+		 <lb n="10"/>
+ 	  I bore witness, and praise be to God for his blessings.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

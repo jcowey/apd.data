@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2458" xml:id="Diem_Steuerquittungen_180" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 18</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_180</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 right"/>  نجم بووپه 
+<lb n="1-2 left"/>  وزن سوا ÷÷ 
+<lb n="2 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى زريق المنادي عن الخراج 
+<lb n="4"/>  ثلثة عشرة دينار 
+<lb n="5"/>  مغسول بوزن سوا وذلك لخراج 
+<lb n="6"/>  سنة أربع وأربعين وثلثمائة الخراجيّة 
+<lb n="7"/>  وكتب عبد المسيح <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">أبرأ</unclear> </lem><rdg resp="APD">إبراء</rdg></app> <unclear reason="undefined" cert="high">له</unclear> <unclear reason="undefined" cert="high">منه</unclear> 
+<lb n="8"/>  ÷÷ وزن سوا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>naǧmu baʾūniha 
+ <lb n="2"/>wazn:un sawāʾ:un 13 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>ʾaddà zurayq:unu ăl munādī ʿani ăl ḫarāǧi 
+ <lb n="6"/>ṯalāṯaẗa ʿašraẗa dīnār 
+ <lb n="7"/>maġsūl bi wazn:in sawāʾ:in wa ḏālika li ḫarāǧi 
+ <lb n="8"/>sanaẗi ʾarbaʿ:in wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in ăl ḫarāǧiyyaẗi 
+ <lb n="9"/>wa kataba ʿabdu ăl masīḥi ʾabraʾa ʾibrāʾ:an la hu min hu 
+ <lb n="10"/>13 wazn:un sawāʾ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Rate des Payni
+			<lb n="2"/>
+		Genaues Gewicht 13
+			<lb n="3"/>
+		Im Namen Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="5"/>
+		Es zahlte Zurayq der Ausrufer für die Grundsteuer
+			<lb n="6"/>
+		dreizehn Dinar, 〚einen〛
+			<lb n="7"/>
+		gewaschen (und) mit genauem Gewicht, und zwar für die Steuer
+			<lb n="8"/>
+		des Steuerjahres dreihundertvierundvierzig.
+			<lb n="9"/>
+		Es schrieb (dies) ʿAbd al-Masīḥ, um ihn hiervon zu entlasten (?).
+			<lb n="10"/>
+		13 (mit) genauem Gewicht
+</ab></div>
+</body>
+</text>
+</TEI>

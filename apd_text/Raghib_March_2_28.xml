@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="488" xml:id="Raghib_March_2_28" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 28</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_28</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106673</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  حفظك اللّه وعافاك وأبقاك وأبقا نـ<supplied reason="lost" cert="high">ـعمـ</supplied>ـه عليك وزاد في إحسانه إليك وعندك في 
+<lb n="recto 3"/>  الدّنيا والآخرة برحمته قد كنت يابنتي <supplied reason="lost" cert="high">كتبـ</supplied>ـت إليك كتاب قبل هذا وبعثت إليك معه قر 
+<lb n="recto 4"/>  طاس ڤپه دوا لحوفك ڤإكپپى الى پالوصول وكپاپى وصل الپك وسرپپپه وابپڤعپى په 
+<lb n="recto 5"/>  إلي حتّا تطيب نفسي فإنّي مغمومة بك غم شديد أسل اللّه الفرج من عنده وهذا جارنا 
+<lb n="recto 6"/>  يجي عندكم يسمّا <app type="BL"><lem resp="APD">بليل </lem><rdg resp="APD">بليل</rdg></app> أرسلت كتابي معه فانظري أن تقولي لزوجك يقبض منه مروحة وبو 
+<lb n="recto 7"/>  ڤالپن صعار وحرفه <app type="BL"><lem resp="APD">ڤپها </lem><rdg resp="APD">مقرّة</rdg></app> <unclear reason="undefined" cert="high">معره</unclear> مدهپه وحرصپپن ڤصه لام الحسن وحاپم لسـ<gap reason="illegible" extent="2" unit="character" />ـى 
+<lb n="recto 8"/>  وانظري أن لا تبطى عنّي باـحواپ إن شا اللّه أخص نفسك بالسّلم وأبوك يقرئك السّلم وأبلغي أبو 
+<lb n="recto 9"/>  هريرة السّلم وأبو عبد اللّه يقرئه السّلم وعمّتك وبنتها يقروك السّلم تولّاك اللّه بحفظه 
+<lb n="verso 1 right"/>  لأبي هريرة أكرمه اللّه بطاعته 
+<lb n="verso 2 right"/>  جعفر بن أحمد 
+<lb n="verso 1 left"/>  من محمّد بن حمديّة بلّغ هداك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ki ăl lāhu wa ʿāfā ki wa ʾabqā ki wa ʾabqā niʿama hu ʿalay ki wa zāda fī ʾiḥsāni hi ʾilay ki wa ʿinda ki fī 
+ <lb n="3"/>ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi qad kuntu yā bint ī katabtu ʾilay ki kitāb qabla hāḏā wa baʿaṯtu ʾilay ki maʿa hu qirṭās 
+ <lb n="4"/>fī hi dawāʾ:un li ǧawfi ki fa ŭktubī ʾilay ya bi ăl wuṣūli wa kitāb ī waṣala ʾilay ki wa šaribtī hi wa ĭntafaʿtī bi hi fa ŭktubī 
+ <lb n="5"/>ʾilay ya ḥattā taṭība nafs ī fa ʾinn ī maġmūmaẗ:un bi ki ġamm šadīd ʾasalu ăl lāha ăl faraǧa min ʿindi hi wa hāḏā ǧāru nā 
+ <lb n="6"/>yaǧīʾu ʿinda kum yusammā bulayl bulbula ʾarsaltu kitāb ī maʿa hu fa ŭnẓurī ʾan taqūlī li zawǧi ki yaqbiḍu min hu mirwaḥaẗ:an wa būqālayni 
+ <lb n="7"/>ṣiġāra wa ḫirqaẗ:an fī hā mʿraẗ:un maqarraẗ:un muḏahhabaẗ:un wa ḫirṣatayni fiḍḍaẗ:an li ʾummi ăl ḥasani wa ḫātim:un li s**y ăṣ ṣabiyyaẗi 
+ <lb n="8"/>wa ŭnẓurī ʾan lā tubṭī ʿann ī bi ăl ǧawābi ʾin šāʾa ăl lāhu ʾaḫiṣṣi ʾaḫuṣṣu nafsa ki bi ăs salāmi wa ʾabū ki yuqriʾu ki ăs salāma wa ʾabliġī ʾabū 
+ <lb n="9"/>hurayraẗa ăs salāma wa ʾabū ʿabdi ăl lāhi yuqriʾu hu ăs salāma wa ʿammatu ki wa bintu hā yuqrū ki ăs salāma tawallā ki ăl lāhu bi ḥifẓi hi 
+ <lb n="10"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="11"/>ǧaʿfara bni ʾaḥmada 
+ <lb n="12"/>min muḥammadi bni ḥamadiyyaẗa balliġ hadā ka ø ăl ø lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu te garde et t&#039;accorde la paix, qu&#039;Il te conserve, conserve Ses bienfaits envers toi et augmente en bonté pour toi et les tiens dans
+			<lb n="3"/>
+		ce monde et dans l&#039;autre par Sa miséricorde! Je t&#039;[ai écrit], ma fille, une lettre avant celle-ci et je t&#039;ai envoyé avec elle un cor-
+			<lb n="4"/>
+		net renfermant un remède pour ton ventre. Ecris-moi qu&#039;ils te sont parvenus, que ma lettre t&#039;est parvenue, que tu as bu (le remède) et qu&#039;il t&#039;a fait du bien. Ecris-moi
+			<lb n="5"/>
+		afin que je me tranquillise: je suis accablée d&#039;une vive peine à cause de toi. Je demande à Dieu la délivrance venant de Lui. Voici notre voisin
+			<lb n="6"/>
+		qui vient chez vous. Il s&#039;appelle Bulbul, j&#039;ai envoyé ma lettre avec lui. Tâche de dire à ton mari de prendre de lui un éventail, deux cru-
+			<lb n="7"/>
+		chons petits, une bourse renfermant une ... dorée, deux boucles d&#039;oreille d&#039;argent pour Umm al-Ḥasan et une bague pour .... la gamine.
+			<lb n="8"/>
+		Tâche `de´ ne pas tarder à me répondre, si Dieu le veut! Je t&#039;adresse le salut. Ton père t&#039;envoie le salut. Transmets à Abū
+			<lb n="9"/>
+		Hurayra le salut. Abū ʿAbd Allāh lui envoie le salut. Ta tante paternelle et sa fille t&#039;envoient le salut. Que Dieu te secoure par Sa garde!
+			<lb n="10"/>
+		A Abū Hurayra - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+			<lb n="11"/>
+		Ǧaʿfar b. Aḥmad.
+			<lb n="12"/>
+		De la part de Muḥammad b. Ḥamadiyya. Transmet (le message), que (Dieu) te dirige!
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1676" xml:id="Grohmann_APEL_202" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 202</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_202</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169426</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سد</supplied>س وثمن شنوده الفرّاش نصف وربع 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وثمـ</supplied>ـن بسنّة كرسدودره ثلثة دنانير ونصف وثلثـ<supplied reason="omitted" cert="high">ـثـ</supplied>ـمن 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>سدس كيل بسنّه ثلثي وسدس تمن 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دينـ</supplied>ـر أدّى سويرس أبلّوا ثمن دينر 
+<lb n="recto 5"/>  أدّى ذلك 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سـ</supplied>ـدس أدّى جرجه بلوه دينر وثلث وربع 
+<lb n="recto 7"/>  أدّى ذلك 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ثـ</supplied>ـلث وربع أدّى مرقوره يحنّس ربع وسدس وسد<supplied reason="omitted" cert="high">س</supplied> ثمن 
+<lb n="recto 9"/>  أدّى ذلك 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـثمن أدّى سيسنّة الأجير أربعة دنانير وثلتـ<supplied reason="omitted" cert="high">ـثـ</supplied>ـمن 
+<lb n="recto 11"/>  وسدس ثمن و<unclear reason="undefined" cert="high">حبّتين</unclear> 
+<lb n="recto 12"/>  <supplied reason="lost" cert="high">سـ</supplied>ـدس ثمن أدّى ثدراق <app type="BL"><lem resp="APD">و<supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">تلـ</unclear>ـ</supplied>ـو </lem><rdg resp="APD">وتلو</rdg></app> شنوده دينرين وثلث وثمن 
+<lb n="recto 13"/>  أدّى دينر وثلث 
+<lb n="recto 14"/>  أدّى دينر وثلث 
+<lb n="recto 15"/>  <supplied reason="lost" cert="high">دينـ</supplied>ـر عبد الخالق وهو ثمن دينر 
+<lb n="recto 16"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">سيّد</unclear> </lem><rdg resp="UB">سدّ</rdg></app> 
+<lb n="recto 17"/>  <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso 1"/>  دينر 
+<lb n="verso 2"/>  ‮تسعة دنانير وثلث وثمن ‪ϑγʹηʹ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** suds:un wa ṯumn:un šanūdahu ăl farrāšu niṣf:un wa rubʿ:un 
+ <lb n="2"/>*** wa ṯumn:un basinnahu krisdūduraha ṯalāṯaẗu danānīra wa niṣf:un wa ṯulṯu ṯumn:in 
+ <lb n="3"/>*** wa suds:un kaylu basinnaha ṯulṯay wa sudsu tumn:in 
+ <lb n="4"/>*** dīnār:in ʾaddà sawīrusu ʾabullū ṯumnu dīnār:in 
+ <lb n="5"/>ʾaddà ḏālika 
+ <lb n="6"/>*** suds:un ʾaddà ǧirǧahu balūha dīnār:un wa ṯulṯ:un wa rubʿ:un 
+ <lb n="7"/>ʾaddà ḏālika 
+ <lb n="8"/>*** ṯulṯ:un wa rubʿ:un ʾaddà marqūrahu yuḥannisa rubʿ:un wa suds:un wa sudsu ṯumn:in 
+ <lb n="9"/>ʾaddà ḏālika 
+ <lb n="10"/>*** tumn:in ʾaddà sīsinnaẗu ăl ʾaǧīru ʾarbaʿaẗu danānīra wa ṯulṯu tumn:in 
+ <lb n="11"/>wa sudsu ṯumn:in wa ḥabbatayni 
+ <lb n="12"/>sudsu ṯumn:in ʾaddà ṯidurāqu wa bullū talū šanūdaha dīnārayni wa ṯulṯ:un wa ṯumn:un 
+ <lb n="13"/>ʾaddà dīnār wa ṯulṯ 
+ <lb n="14"/>ʾaddà dīnār wa ṯulṯ 
+ <lb n="15"/>dīnār:in ʿabdu ăl ḫāliqi wa huwa ṯumnu dīnār:in 
+ <lb n="16"/>sayyid:un sudda 
+ <lb n="17"/>***** 
+ <lb n="18"/>dīnār 
+ <lb n="19"/>tisʿaẗu danānīra wa ṯulṯ:un wa ṯumn:un ‪9 1/3+1/8 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		and a sixt]h and an eighth. Šanûda, the servant, one half and a quarter
+			<lb n="2"/>
+		and an eigh]th. Basinne Krisdôdore three dînârs and one half and a third of an eighth
+			<lb n="3"/>
+		and] a sixth. Chael Basinne two thirds and a sixth and an eighth
+			<lb n="4"/>
+		dînâ]r. He has paid. Severos Apollo one eighth of a dînâr.
+			<lb n="5"/>
+		He has paid this.
+			<lb n="6"/>
+		a six]th. He has paid. Ǧirǧe Paleu one dînâr and a third and a quarter.
+			<lb n="7"/>
+		He has paid this.
+			<lb n="8"/>
+		a th]ird and a quarter. He has paid. Merqûre Yoḥannes a quarter and a third and a sixth and a sixth of an eighth.
+			<lb n="9"/>
+		He has paid this.
+			<lb n="10"/>
+		and a ......] of an eighth. He has paid. Sîsinna, the journeyman, four dînârs and a third of an eighth
+			<lb n="11"/>
+		and a sixth of an eighth and two ḥabbas (?)
+			<lb n="12"/>
+		a si]xth of an eighth. He has paid. Theodorakios (Ṯidorâq) and [Apoll]o ([Boll]ô) Šanûda two dînârs and a third and an eighth.
+			<lb n="13"/>
+		He has paid one dînâr and one third.
+			<lb n="14"/>
+		He has paid one dînâr and one third.
+			<lb n="15"/>
+		dînâ]r. ʿAbd al-Ḫâliq, an eighth of a dînâr
+			<lb n="16"/>
+		it was settled.
+		who (is called) Sa(yy)id (?)
+			<lb n="17"/>
+			<lb n="18"/>
+		Dînâr
+			<lb n="19"/>
+		nine dînârs and one third and one eighth 9 1/3+1/8
+</ab></div>
+</body>
+</text>
+</TEI>

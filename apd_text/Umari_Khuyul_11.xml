@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2136" xml:id="Umari_Khuyul_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  من مال الجناب العالي المولوي القاضوي المحبّي سيّدنا ومولانا القاضي 
+<lb n="3"/>  محب الدّين بن العبد الفقير إلي اللّه تعالي العبد الشّهيد المقر العالي المولوي 
+<lb n="4"/>  الإمامي المعلّائي الولائي علا الدّين أبو الحسن علي بن رضى كاتب السّر 
+<lb n="5"/>  الشّريف بالكرك المحروس وما مع ذلك سقى اللّه عهده ونوره لحدّه ورحم أباه وجدّه 
+<lb n="6"/>  ولده المشتري الموقّع صاحب التّوقيع <app type="BL"><lem resp="APD">مكانه </lem><rdg resp="LS">مكان</rdg></app> الّذي <app type="BL"><lem resp="APD">پحدمپه </lem><rdg resp="LS">هو</rdg></app> الكافلى ملك الامرا 
+<lb n="7"/>  المقر الأشرف الكريم العالي المولوي الأميري الكبيري الدّيّن المالكي المخدومي الزّيني 
+<lb n="8"/>  سيباي كافل الشّام المحروس أعز اللّه <supplied reason="omitted" cert="high">أ</supplied>نصاره قبض المجلس العالي السّيفي جان بلاط <app type="BL"><lem resp="APD">من </lem><rdg resp="LS. This is the same person as in P.UmariKhuyul 9.4 and 9.8">بن</rdg></app> 
+<lb n="9"/>  آقبردي من طبقة الطّازيّة من الذّهب الأشرفي والظّاهري الطّيّب السّالم من العيب الشّرعي 
+<lb n="10"/>  عشرين دينار ما يعدل بالفضّة العـ<supplied reason="omitted" cert="high">ـد</supplied>ديّة خمسمائة نصف مصاري وهو ثمن ما باعه 
+<lb n="11"/>  وسلّمه له واعترف بتسلّمه ذلك جميع بغلة شاتها سودا عالية القد معلومة عندهما العلم 
+<lb n="12"/>  الشّرعي النّافي للجهالة بعد النّظر والمعرفة <app type="BL"><lem resp="APD">التّثبّت </lem><rdg resp="LS cf. P.UmariKhuyul 13.10">والتّثبّت</rdg></app> الشّرعي والقبض المذكور على يد المعلّم عبد العزيز 
+<lb n="13"/>  ابن يحيى أحد <supplied reason="omitted" cert="high">ا</supplied>لمعلّمين بسوق الخيل من شهر تاريخ شمول التّوكيل الشّرعي بتاريخ خامس 
+<lb n="14"/>  عشرين من شوّال سنة أحد عشر وتسعمائة وحسبي اللّه ونعم الوكيل 
+<lb n="right margin top"/>  شهد محمّد بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="right margin bottom"/>  شهد محمّد بن حسن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min māli ăl ǧanābi ăl ʿālī ăl mawlawiyyi ăl qāḍawiyyi ăl muḥibbiyyi sayyidi nā wa mawlā nā ăl qāḍī 
+ <lb n="3"/>muḥibbi ăd dīni bni ăl ʿabdi ăl faqīri ʾilà ăl lāhi taʿālà ăl ʿabdi ăš šahīdi ăl maqarri ăl ʿālī ăl mawlawiyyi 
+ <lb n="4"/>ăl ʾimāmiyyi ăl muʿallāʾiyyi ăl walāʾiyyi ʿalāʾi ăd dīni ʾabū ăl ḥasani ʿaliyyi bni riḍà kātibi ăs sirri 
+ <lb n="5"/>ăš šarīfi bi ăl karaki ăl maḥrūsi wa mā maʿa ḏālika saqà ăl lāhu ʿahda hu wa nūra hu li ḥaddi hi wa raḥima ʾabā hu wa ǧadda hu 
+ <lb n="6"/>walada hu ăl muštarī ăl muwaqqiʿi ṣāḥibi ăt tawqīʿi makāna hu ø ăllaḏī ø huwa bi ḫidmati hi ăl kāfiliyyi maliki ăl ʾumarāʾi 
+ <lb n="7"/>ăl maqarri ăl ʾašrafi ăl karīmi ăl ʿālī ăl mawlawiyyi ăl ʾamīriyyi ăl kabīriyyi ăd dayyini ăl mālikiyyi ăl maḫdūmiyyi ăz zayniyyi 
+ <lb n="8"/>sībāya kāfili ăš šāmi ăl maḥrūsi ʾaʿazza ăl lāhu ʾanṣāra hu qabaḍa ăl maǧlisu ăl ʿālī ăs sayfiyyu ǧānu bulāṭu min bnu 
+ <lb n="9"/>ʾāqbirdī min ṭabaqaẗi ăṭ ṭāziyyaẗi mina ăḏ ḏahabi ăl ʾašrafiyyi wa ăẓ ẓāhiriyyi ăṭ ṭayyibi ăs sālimi mina ăl ʿaybi ăš šarʿiyyi 
+ <lb n="10"/>ʿišrīna dīnār mā yaʿdilu bi ăl fiḍḍaẗi ăl ʿadadiyyaẗi ḫamsa miʾaẗi niṣf:in maṣārī wa huwa ṯamanu mā bāʿa hu 
+ <lb n="11"/>wa sallama hu la hu wa ĭʿtarafa bi tasallumi hi ḏālika ǧamīʿu baġlaẗ:in šātu hā sawdāʾu ʿāliyaẗi ăl qaddi maʿlūmaẗ:in ʿinda humā ăl ʿilma 
+ <lb n="12"/>ăš šarʿiyya ăn nāfiya li l ǧahālaẗi baʿda ăn naẓari wa ăl maʿrifaẗi ø wa ăt taṯabbuti ăš šarʿiyyi wa ăl qabḍu ăl maḏkūru ʿalà yadi ăl muʿallimi ʿabdi ăl ʿazīzi 
+ <lb n="13"/>ĭbni yaḥyà ʾaḥadi ăl muʿallimīna bi sūqi ăl ḫayli min šahri tārīḫi šumūli ăt tawkīli ăš šarʿiyyi bi tārīḫi ḫāmis:in 
+ <lb n="14"/>ʿišrīna min šawwāla sanaẗa ʾaḥada ʿašara wa tisʿi miʾaẗ:in wa ḥasb ī ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="15"/>šahida muḥammadu bnu *** 
+ <lb n="16"/>šahida muḥammadu bnu ḥasan:in 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="719" xml:id="Grohmann_Probleme_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 17 (= P.DiemFrüheUrkunden 06)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106800</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">÷÷</rdg></app> 
+<lb n="2"/>  ‮بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  هذا كتاب <app type="BL"><lem resp="APD">مـ<supplied reason="lost" cert="high">ـن</supplied> </lem><rdg resp="Diem">براءة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">من</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مولـ</supplied>ـى </lem><rdg resp="Diem">الصّباح</rdg></app> الامپر موسى پن عبسى 
+<lb n="4"/>  أطـ<supplied reason="lost" cert="high">ـال</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه بقاه وعامله على 
+<lb n="5"/>  خراج كور<supplied reason="lost" cert="high">ة</supplied> <supplied reason="lost" cert="high">الفـ</supplied>ـيّوم 
+<lb n="6"/>  وجميع أعـ<supplied reason="lost" cert="high">ـمالها</supplied> <supplied reason="lost" cert="high">لسنـ</supplied>ـة تسع وسبعين وماية 
+<lb n="7"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مـ</supplied>ـن </lem><rdg resp="Diem">وهو</rdg></app> <app type="BL"><lem resp="APD">سكّان </lem><rdg resp="Diem">يسكن</rdg></app> قرية تدعا 
+<lb n="8"/>  وهو 
+<lb n="9 = Diem 10"/>  <app type="BL"><lem resp="APD">ڤلا </lem><rdg resp="Diem">‮‪<gap reason="illegible" precision="low" extent="3"/></rdg></app> سپپل ڤپها لاحد 
+<lb n="10 = Diem 11"/>  عليه إن شا اللّه وكتب 
+<lb n="11 = Diem 12"/>  في شهر ربيع الأوّل سنة ثمانين و<supplied reason="lost" cert="high">مـ</supplied>ـاية 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 28 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min barāʾaẗ:in *** mina ø ăṣ ø ṣabāḥi mawlà ăl ʾamīri mūsà bni ʿīsà 
+ <lb n="4"/>ʾaṭāla ăl lāhu baqāʾa hu wa ʿāmili hi ʿalà 
+ <lb n="5"/>ḫarāǧi kūraẗi ăl fayyūmi 
+ <lb n="6"/>wa ǧamīʿi ʾaʿmāli hā li sanaẗi tisʿ:in wa sabʿīna wa miʾaẗ:in 
+ <lb n="7"/>* *** min wa ø huwa sukkāni yaskunu qaryaẗ:in tudʿā 
+ <lb n="8"/>wa huwa ø *** 
+ <lb n="9"/>ø ‮‪*** fa lā sabīla fī hā li ʾaḥad:in 
+ <lb n="10"/>ʿalay hi ʾin šāʾa ăl lāhu wa kataba kutiba 
+ <lb n="11"/>fī šahri rabīʿa ăl ʾawwali sanaẗa ṯamānīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		178
+		28
+			<lb n="2"/>
+		Im Namen des barmherzigen und gnädigen Gottes.
+		Im Namen Gottes des Barmherzigen, Gütigen!
+		lm Namen Gottes des Allbarmherzigen!
+			<lb n="3"/>
+		Dies ist die Urkunde von ..................., Freigelassenen des Statthalters Mûsa ibn ʾIsâ,
+		Dies ist die Urkunde v[on N. N. Freigelass]enen des Amīrs Mūsā b. ʿĪsā
+		Dies ist ein Quitt[ungs]schreiben [von as-Ṣabāḥ, Klient d]es Amīr Mūsā b. ʿĪsā - 
+			<lb n="4"/>
+		- [Gott er]halte ihn lange am Leben - und seinem Finanzdirektor über
+		Go[tt möge ihn la]nge leben lassen - und Beamter desselben über
+		Gott möge ihn lange leben lassen! und seinem Steuerverwalter für
+			<lb n="5"/>
+		der Grundsteuer der Provi[nz al-Fa]yyūm
+		... die Provinz (der Stadt) Fayyūm
+		die Steuer des Bezirkes el-Faijûm
+		die Steuer des Kreis[es al-Fa]yyūm
+			<lb n="6"/>
+		und alle [ihre Distrikte für] das Jahr einhundertundneunundsiebzig
+		und aller zu ihr gehörenden Verwaltungsdistrikte ...
+		und al[l seiner Verwaltungsbezirke für das Ja]hr hundertneunundsiebzig
+		und dessen sämtlichen Verwaltungsdistricten, für das Jahr einhundert neun und siebzig
+			<lb n="7"/>
+		 .   [gehörig zu] den Einwohnern des Dorfes, das heißt
+		| [und er] wohnt in einem Dorf namens
+		.................... von den Bewohnern des Dorfes, genannt ..........
+			<lb n="8"/>
+		Derselbe ist ...............
+		und er
+		und er ist
+			<lb n="9"/>
+		niemand hat darin
+		| So hat also niemand in ihr (oder: diesbezüglich) eine Handhabe
+		............. Und so gibt es keine Mittel und Wege darin (d.h. in diesem Bezirk)
+			<lb n="10"/>
+		gegen [ihn, so] Gott will. Geschrieben
+		gegen ihn (um ihn aufzuhalten oder gegen ihn etwas zu unternehmen), so Gott will! Geschrieben
+		ihm einen Schaden zuzufügen, so Gott will. Geschrieben
+			<lb n="11"/>
+		im Monate Rabīʿ I des Jahres hundertachtzig.
+		im Monat Rabīʿ al-Awwal im Jahre einhundertundachtzig.
+		im Monat Rebîʾ I des Jahres einhundert und achtzig.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1358" xml:id="Diem_Heid_II_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169159</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  فاعلى كل حال لا نخدعكما وقد كتبت إلى ‬<unclear reason="undefined" cert="high">يحـ‬</unclear>ـيـ‬<unclear reason="undefined" cert="high">ـا‬</unclear> و<unclear reason="undefined" cert="high">پـ‬</unclear>ـڤـ‬<unclear reason="undefined" cert="high">ـى</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">له </rdg><rdg resp="APD">عن‬ده</rdg></app> <app type="BL"><lem resp="APD">محراثين </lem><rdg resp="APD">بمحراثين </rdg><rdg resp="APD">لمحراثين</rdg></app> 
+<lb n="2"/>  حسب يبعث بهما إليكما إن شا اللّه فادفن بخمسة محاريث 
+<lb n="3"/>  وشق بثلثة فقد بعثت إليك بثلثة ودفع إليك إسحاق اثنين 
+<lb n="4"/>  وقد تكاريت أنت اثنين وعطاك ابن إسحاق واحد 
+<lb n="5"/>  <app type="BL"><lem resp="APD">فـ<unclear reason="undefined" cert="high">ـذ</unclear>لك </lem><rdg resp="APD">فلك</rdg></app> ثمانية فشق بثلثة وادفن بخمسة أو شق في أربعة وادفن في 
+<lb n="6"/>  أربعة فاعلى كل حال فادفن وشق بمحـ<supplied reason="lost" cert="high">ـر</supplied>اثين أو ثلثة فا<supplied reason="lost" cert="high">نـ</supplied>ـ<unclear reason="undefined" cert="high">ـظـ</unclear>ـر ما <supplied reason="lost" cert="high">تـ</supplied>ـ<unclear reason="undefined" cert="high">ـد</unclear><supplied reason="lost" cert="high">فـ</supplied>ـن 
+<lb n="7"/>  <unclear reason="undefined" cert="high">و</unclear><supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">تشـ</supplied>ـ<unclear reason="undefined" cert="high">ـف</unclear> و<gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">طـ</unclear>ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="15" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fā ʿalà kulli ḥāl:in lā naḫdaʿu kumā wa qad katabtu ʾilà yaḥyā wa baqiya *** la ʿinda ø hu ø bi li miḥrāṯayni 
+ <lb n="2"/>ḥasiba yabʿaṯu bi himā ʾilay kumā ʾin šāʾa ăl lāhu fa ĭdfin bi ḫamsaẗi maḥārīṯa 
+ <lb n="3"/>wa šuqqa bi ṯalāṯaẗ:in fa qad baʿaṯtu ʾilay ka bi ṯalāṯaẗ:in wa dafaʿa ʾilay ka ʾisḥāqu ĭṯnayni 
+ <lb n="4"/>wa qad takārayta ʾanta ĭṯnayni wa ʿaṭā ka ĭbnu ʾisḥāqa wāḥid 
+ <lb n="5"/>fa fa ḏālika la ø ka ṯamāniyaẗ:un fa šuqqa bi ṯalāṯaẗ:in wa ĭdfin bi ḫamsaẗ:in ʾaw šuqqi fī ʾarbaʿaẗ:in wa ĭdfin fī 
+ <lb n="6"/>ʾarbaʿaẗ:in fā ʿalà kulli ḥāl:in fa ĭdfin wa šuqqa bi miḥrāṯayni ʾaw ṯalāṯaẗ:in fa ŭnẓur mā tadfinu 
+ <lb n="7"/>wa mā tašuqqu wa **** ṭ***** ** *** ** wa ø ăs ø salāmu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Denn auf keinen Fall werden wir Euch (Dual) hintergehen. Ich habe an Yaḥyā (?) geschrieben; zwei Pflüge sind [...] übriggeblieben (?),
+			<lb n="2"/>
+		welche er Euch (Dual) zu senden gedachte, so Gott will. Pflüge also mit fünf Pflügen unter
+			<lb n="3"/>
+		und brich (die Scholle) mit drei. Ich habe Dir ja drei gesandt, Isḥāq hat Dir zwei ausgehändigt,
+			<lb n="4"/>
+		Du selbst hast zwei gemietet, und der Sohn von Isḥāq hat Dir einen gegeben.
+			<lb n="5"/>
+		Das macht acht. Brich also (die Scholle) mit drei und pflüge mit fünf unter, oder brich (die Scholle) mit vier und pflüge mit
+			<lb n="6"/>
+		vier unter. Auf jeden Fall aber nimm für das Unterpflügen und das Umbrechen (je) zwei oder drei Pflüge. Überlege Dir (?) also, was Du unterpflügst (?)
+			<lb n="7"/>
+		und (?) [was Du umbrich]st (?) und (?) [
+</ab></div>
+</body>
+</text>
+</TEI>

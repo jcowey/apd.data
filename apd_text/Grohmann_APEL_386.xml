@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1915" xml:id="Grohmann_APEL_386" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 386</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_386</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169652</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم الّذي لزم للبيت الّذي 
+<lb n="2"/>  لمسجد عيشونة في أبو <sic n="superfluous">مرواح</sic> <supplied reason="omitted" cert="high">مراوح</supplied> على الحيط الكبير 
+<lb n="3"/>  النّقّاطين نصف دينار 
+<lb n="4"/>  والبنا في أوّل يوم بنّائين وستّة رقّاصين معهم 
+<lb n="5"/>  ونصف رقّاص أجرة البنّائين ستّة الدّراهم وغداهم 
+<lb n="6"/>  درهم واحد وغدا ستّة رقّاصين درهم ونصف 
+<lb n="7"/>  اليو<supplied reason="lost" cert="high">م</supplied> الـ<supplied reason="lost" cert="high">ـثّاني</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـثله <supplied reason="lost" cert="high">و</supplied>اليـ<supplied reason="lost" cert="high">ـوم</supplied> الـ<supplied reason="lost" cert="high">ـثّـ</supplied>ـالث مثله 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăllaḏī lazima li l bayti ăllaḏī 
+ <lb n="2"/>li masǧidi ʿayšūnaẗa fī ʾabū marāwiḥa ʿalà ăl ḥayṭi ăl kabīri 
+ <lb n="3"/>ăn naqqāṭīnu niṣfu dīnār:in 
+ <lb n="4"/>wa ăl bināʾu fī ʾawwali yawm:in bannāʾayni wa sittaẗu raqqāṣīna maʿ hum 
+ <lb n="5"/>wa niṣfu raqqāṣ:in ʾuǧraẗu ăl bannāʾayni sittaẗu ăd darāhimi wa ġadāʾu hum 
+ <lb n="6"/>dirham:un wāḥid:un wa ġadāʾu sittaẗi raqqāṣīna dirham:un wa niṣf:un 
+ <lb n="7"/>ăl yawmu ăṯ ṯānī miṯlu hu wa ăl yawmu ăṯ ṯāliṯu miṯlu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. What was necessary for (the work on) the house,
+			<lb n="2"/>
+		belonging to the Mosque of ʿAišūna in (the quarter of) Abû Marâwiḥ on the great wall (is):
+			<lb n="3"/>
+		(For) the stone-cutters a half of a dînâr.
+			<lb n="4"/>
+		(For) the mason&#039;s work on the first day; two masons and six journeyman-masons accompagning them.
+			<lb n="5"/>
+		and a half journeyman-mason, the wages for the two masons (amounting to) six dirhams, their food (to)
+			<lb n="6"/>
+		one dirham, and the food of the six journeyman-masons (to) one and a half dirham.
+			<lb n="7"/>
+		The [second] da[y di]tto and the [thi]rd da[y] ditto.
+</ab></div>
+</body>
+</text>
+</TEI>

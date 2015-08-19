@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2402" xml:id="Grohmann_Mird_06" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Mird 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_06</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">رسول</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أرسله</supplied> <supplied reason="lost" cert="high">بالهـ</supplied>ـدی <supplied reason="lost" cert="high">وديـ</supplied>ـن <supplied reason="lost" cert="high">الحـ</supplied>ـق 
+<lb n="2"/>  <supplied reason="lost" cert="high">ليظهره</supplied> <supplied reason="lost" cert="high">علی</supplied> <supplied reason="lost" cert="high">الدّين</supplied> <supplied reason="lost" cert="high">كلّه</supplied> <supplied reason="lost" cert="high">ولو</supplied> <supplied reason="lost" cert="high">كره</supplied> المشر<supplied reason="lost" cert="high">كـ</supplied>ـون 
+<lb n="3"/>  <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أمير</supplied> <supplied reason="lost" cert="high">المومپپن</supplied> أ<supplied reason="lost" cert="high">صلحه</supplied> اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="2"/>li yuẓhira hu ʿalà ăd dīni kulli hi wa law kariha ăl mušrikūna 
+ <lb n="3"/>ʿabdu ăl lāhi *** ʾamīru ăl muʾminīna ʾaṣlaḥa hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Muḥammad is the Messenger of God. He has sent him with guid]ance and true [relig]ion,
+			<lb n="2"/>
+		[to help it to victory over all religions, even against resistance of those], who would set up partners to God.
+			<lb n="3"/>
+		[The servant of God, So an So, Commander of the Faithful], may Go[d] make [him vigorous].
+</ab></div>
+</body>
+</text>
+</TEI>

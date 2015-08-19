@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1311" xml:id="Diem_Heid_II_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169128</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="right margin"/>  المملوك منصور 
+<lb n="recto2"/>  يقبّل الأرض <sic n="superfluous">وبيـ</sic><supplied reason="lost" cert="high"><sic n="superfluous">ـهى</sic></supplied> <supplied reason="lost" cert="high">يـ</supplied>ـپن پدپن المعلم 
+<lb n="recto3"/>  وينهي <sic n="superfluous">المملوك</sic> <sic n="superfluous">الا</sic> المماليك أن الحال الكل 
+<lb n="recto4"/>  <app type="BL"><lem resp="mīm with dash above">متكفي </lem><rdg resp="mīm with dash above">متكفي</rdg></app> بحسن اللّه وحسن المعلّم جرجس 
+<lb n="recto5"/>  ونحن ما نخشا إلّا من المسّاحة بأن <supplied reason="lost" cert="high">لـ</supplied>ـا 
+<lb n="recto6"/>  ساعة يقولو اليوم يجو بعد السّلام 
+<lb n="recto7"/>  عليك وعلي كل من يحوط به علمك الكريم 
+<lb n="recto8"/>  اللّه اللّه لا تهمل أمر المجي فإن المماليك 
+<lb n="recto9"/>  ما هم شي إلّا <app type="BL"><lem resp="APD">تمجّدوهم </lem><rdg resp="APD">تمجّدوهم</rdg></app> أنهى المملوك ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl mamlūku manṣūr:un 
+ <lb n="3"/>yuqabbilu ăl ʾarḍa bayna yadayni ăl muʿallimi ăl ʾaǧalli 
+ <lb n="4"/>wa yunhī ăl mamālīku ʾanna ăl ḥāla ăl kulla 
+ <lb n="5"/>mitkafī mutakaffī mutkafī bi ḥusni ăl lāhi wa ḥusni ăl muʿallimi ǧirǧisa 
+ <lb n="6"/>wa naḥnu mā naḫšā ʾillā mina ăl massāḥaẗi bi ʾan lā 
+ <lb n="7"/>sāʿaẗ:an yaqūlū ăl yawma yaǧū yiǧū baʿda ăs salāmi 
+ <lb n="8"/>ʿalay ka wa ʿalà kulli man yaḥūṭu bi hi ʿilmu ka ăl karīmu 
+ <lb n="9"/>ăl lāhu ăl lāhu lā tuhmil ʾamra ăl maǧīʾi fa ʾinna ăl mamālīka 
+ <lb n="10"/>mā hum šayʾ:un ʾillā tumaǧǧidū tumǧidū hum ʾanhà ăl mamlūku ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Der Sklave Manṣūr
+			<lb n="3"/>
+		küßt die Erde {und tut kund} vor dem hochgeehrten Meister,
+			<lb n="4"/>
+		und {der Sklave} die Sklaven tun kund, daß der Zustand insgesamt
+			<lb n="5"/>
+		durch die Güte Gottes und die Güte des Meisters Ǧirǧis zufriedenstellend ist.
+			<lb n="6"/>
+		Wir fürchten uns nur insofern vor den Vermessern, als sie es (veilleicht) nicht
+			<lb n="7"/>
+		sofort sagen, an welchem Tag sie kommen. Ich schließe meine
+			<lb n="8"/>
+		Grüße an Dich und an jeden, den Dein edles Wissen umfaßt, an.
+			<lb n="9"/>
+		Bei Gott und abermals bei Gott: vernachlässige nicht die Sache mit dem Kommen, denn die Sklaven
+			<lb n="10"/>
+		sind nichts, wenn Ihr sie nicht beehrt. Dies tat der Sklave kund.
+</ab></div>
+</body>
+</text>
+</TEI>

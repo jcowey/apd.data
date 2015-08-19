@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1887" xml:id="Grohmann_APEL_408" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 408</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_408</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169624</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  ‮يوم ‪δ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  ‮يوم ‪ε‬ برمهات ‪ϰε‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  ‮يوم ‪ς‬ برمهات ‪ϰς‬ ‪ος‬ ‪ο‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  ‮يوم ‪α‬ برمهات ‪ϰη‬ ‪ϱϲε‬ ‪ϱοη‬ ‪ιζ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  ‮يوم ‪β‬ برمهات ‪ϰϑ‬ ‪ϱϰβ‬ ‪ϱμζ‬ ‪ε‬ ‪μζ‬ <supplied reason="lost" cert="high">‪δ‬ </supplied>
+<lb n="recto 6"/>  ‮يوم ‪γ‬ برمهات ‪λ‬ ‪ϱλε‬ ‪ϱϰε‬ ‪ι‬ ‪με‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  ‮يوم ‪δ‬ برموده ‪α‬ ‪ϱμ‬ ‪ϱλε‬ ‪ε‬ ‪μα‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  ‮يوم ‪ε‬ برموده ‪β‬ ‪ϱμ‬ ‪ϱλβ‬ ‪η‬ ‪η‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9 verso 1"/>  ‮يوم ‪ς‬ برموده ‪γ‬ ‪ϱν‬ ‪ϱμ‬ ‪ι‬ ‪μ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10 verso 2"/>  ‮يوم ‪α‬ برموده ‪ε‬ ‪ϱμ‬ ‪ϱλ‬ ‪ι‬ ‪λε‬ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11 verso 3"/>  ‮يوم ‪β‬ برموده ‪ς‬ ‪ϱοε‬ ‪ϱξζ‬ ‪ι‬ ‪να‬ ‪ε‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12 verso 4"/>  ‮يوم ‪γ‬ برموده ‪ζ‬ ‪ϱοε‬ ‪ϱνζ‬ ‪ιη‬ ‪με‬ ‪δ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13 verso 5"/>  ‮يوم ‪δ‬ برموده ‪η‬ ‪ϱο‬ ‪ϱμη‬ ‪ϰβ‬ ‪μα‬ ـــ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14 verso 6"/>  ‮يوم ‪ε‬ برموده ‪ϑ‬ ‪ϱζ‬ ‪ϱμδ‬ ـــ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15 verso 7"/>  ‮يوم ‪ς‬ بـ<supplied reason="lost" cert="high">ـر</supplied>مـ<supplied reason="lost" cert="high">ـوده</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16 verso 8"/>  <supplied reason="lost" cert="high">يوم</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawmu ‪4 *** 
+ <lb n="2"/>yawmu ‪5 baramhātu ‪25 *** 
+ <lb n="3"/>yawmu ‪6 baramhātu 28 ‪76 ‪70 *** 
+ <lb n="4"/>yawmu 1 baramhātu ‪28 ‪‪195 ‪178 ‪17 *** 
+ <lb n="5"/>yawmu ‪2 baramhātu ‪29 ‪152 ‪147 ‪5 ‪47 ‪4 
+ <lb n="6"/>yawmu ‪3 baramhātu ‪30 ‪135 ‪125 ‪10 ‪45 *** 
+ <lb n="7"/>yawmu ‪4 barmūdihu ‪1 ‪140 ‪135 ‪5 ‪41 *** 
+ <lb n="8"/>yawmu ‪5 barmūdihu ‪2 ‪140 ‪132 ‪8 ‪8 *** 
+ <lb n="9"/>yawmu ‪6 barmūdihu ‪3 ‪150 ‪140 ‪10 ‪40 *** 
+ <lb n="10"/>yawmu ‪1 barmūdihu ‪‪5 ‪140 ‪130 ‪10 ‪35 * *** 
+ <lb n="11"/>yawmu ‪2 barmūdihu ‪6 ‪175 ‪167 ‪10 ‪51 ‪5 *** 
+ <lb n="12"/>yawmu ‪3 barmūdihu ‪7 ‪175 ‪157 ‪18 ‪45 ‪4 *** 
+ <lb n="13"/>yawmu ‪4 barmūdihu ‪8 ‪170 ‪148 ‪22 41 *** 
+ <lb n="14"/>yawmu ‪4 barmūdihu ‪9 ‪107 ‪144 *** 
+ <lb n="15"/>yawmu ‪6 barmūdihu *** 
+ <lb n="16"/>yawmu *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Wednesday, [
+			<lb n="2"/>
+		Thursday, Baremhât 25th [
+			<lb n="3"/>
+		Friday, Baremhât 28th 76 70 [
+			<lb n="4"/>
+		Sunday, Baremhât 28th 195 178 17 [
+			<lb n="5"/>
+		Monday, Baremhât 29th 152 147 5 47 []4[
+			<lb n="6"/>
+		Tuesday, Baremhât 30th 135 125 10 45 [
+			<lb n="7"/>
+		Wednesday, Barmûde 1st 140 135 5 41 [
+			<lb n="8"/>
+		Thursday, Barmûde 2nd 140 132 8 8 [
+			<lb n="9"/>
+		Friday, Barmûde 3rd 150 140 10 40 [
+			<lb n="10"/>
+		Sunday, Barmûde 5th 140 130 10 35 . [
+			<lb n="11"/>
+		Monday, Barmûde 6th 175 167 10 51 []5 [
+			<lb n="12"/>
+		Tuesday, Barmûde 7th 175 157 18 45 []4 [
+			<lb n="13"/>
+		Wednesday, Barmûde 8th 170 148 22 41 . [
+			<lb n="14"/>
+		Thursday, Barmûde 9th 107 144 . [
+			<lb n="15"/>
+		Friday, Ba[r]m[ûde
+			<lb n="16"/>
+		[... ...] [day,
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2150" xml:id="P_Becker_Lateinisches_03" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerLateinisches 03 (= P.Lond. IV 1433 = CPR III 1 035)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Becker_Lateinisches_03</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  لا إله إلّا اللّه <unclear reason="undefined" cert="high">و</unclear>حده لا <unclear reason="undefined" cert="high">شريـ</unclear>ـك لـه 
+<lb n="5"/>  لم يلد وـلم <unclear reason="undefined" cert="high">يولد</unclear> ولم <sic n="superfluous">كين</sic><supplied reason="omitted" cert="high">پكن</supplied> لـه <app type="BL"><lem resp="APD">كفو </lem><rdg resp="Grohmann">كفؤا</rdg></app> أحد 
+<lb n="8"/>  <supplied reason="lost" cert="high">مـ</supplied>ـحمّد رسول اللّه أرسلـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">بــ</supplied>ـالهدى <unclear reason="undefined" cert="high">ودين</unclear> <unclear reason="undefined" cert="high">الحقّ</unclear> 
+<lb n="9"/>  <unclear reason="undefined" cert="high">عبد</unclear> <unclear reason="undefined" cert="high">اللّه</unclear> <unclear reason="undefined" cert="high">الوليد</unclear> <unclear reason="undefined" cert="high">أمير</unclear> <unclear reason="undefined" cert="high">المومپپن</unclear> 
+<lb n="12"/>  هذا ممّا أمر بـه الأمير عبد اللّه بن عبد الملك 
+<lb n="13"/>  في سـ<supplied reason="lost" cert="high">ـنة</supplied> ثمان وثمنين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="3"/>lam yalid wa lam yūlad wa lam yakun la hu kufuʾ kufuʾ:an ʾaḥad:un 
+ <lb n="4"/>muḥammad:un rasūlu ăl lāhi ʾarsala hu bi ăl hudà wa dīni ăl ḥaqqi 
+ <lb n="5"/>ʿabdu ăl lāhi ăl walīdu ʾamīru ăl muʾminīna 
+ <lb n="6"/>hāḏā mimmā ʾamara bi hi ăl ʾamīru ʿabdu ăl lāhi bnu ʿabdi ăl maliki 
+ <lb n="7"/>fī sanaẗi ṯamān:in wa ṯamānīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des barmherzigen Erbarmers.
+		In the name of God, the merciful, the compassionate.
+			<lb n="2"/>
+		Es gibt keinen Gott ausser Gott allein; er hat keinen Genossen.
+		There is no God but God, He alone. Verily He hath no associate.
+			<lb n="3"/>
+		Er hat nicht gezeugt und ist nicht gezeugt worden, und niemand ist ihm gleich.
+		He begets not, neither was He begotten, and there is none that is like unto Him.
+			<lb n="4"/>
+		Muḥammad is the apostle of God. He hath sent him with direction and true religion.
+		Muḥammed ist der Gesandte Gottes. Er hat ihn gesandt mit der Rechtleitung und der wahren Religion.
+			<lb n="5"/>
+		ʿAbdallāh el-Walīd, Amīr el-muʾminīn (Beherrscher der Gläubigen).
+		The Servant of God, Al-Walīd, Commander of the Faithful.
+			<lb n="6"/>
+		Dies gehört zu dem, das (anzufertigen) befohlen hat der Amīr ʿAbdallāh b. ʿAbdelmalik.
+		This belongs to what has been commanded by the Governor, ʿAbd-allāh b. ʿAbd-al-Malik.
+			<lb n="7"/>
+		Im Jahre 88.
+		In the year 88.
+</ab></div>
+</body>
+</text>
+</TEI>

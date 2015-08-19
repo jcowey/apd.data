@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2019" xml:id="Grohmann_APEL_272" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 272</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_272</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169747</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  على يد<supplied reason="lost" cert="high">ي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  الجملة الزّرع الخضر الـ<gap reason="illegible" precision="low" extent="3"/> الـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  فدّان فدّان فدّان فدّان فدّان <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/>س بن جعفر ÷÷÷÷÷ ÷÷÷÷ ÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷ ÷÷ ÷÷÷ ÷÷ خضر ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">÷÷</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ÷ ÷÷ ÷÷÷ ÷÷÷ ÷÷÷ 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿalà yaday *** 
+ <lb n="2"/>ăl ǧumlaẗu ăz zarʿu ăl ḫuḍaru ăl *** ăl *** *** 
+ <lb n="3"/>faddān:un faddān:un faddān:un faddān:un faddān:un *** 
+ <lb n="4"/>***su bnu ǧaʿfara 25+1/24+1/48 24+1/8+1/48 1/2+1/3+1/12 *** 
+ <lb n="5"/>*** 4+1/2 9+1/2 4+1/2+1/8 1+1/6 ḫuḍar:un 1+1/12 *** 46 *** 
+ <lb n="6"/>3 1/3+1/12+1/24 6+1/24 1/3+1/12 *** 
+ <lb n="7"/>*** ** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		throu[gh
+			<lb n="2"/>
+		] Total seedland leguminous plants .... ....
+			<lb n="3"/>
+		faddân faddân faddân faddân faddân...[
+			<lb n="4"/>
+		]s b. Ǧaʿfar 25 1/24+1/48 24 1/8+1/48 1/2+1/3+1/12
+			<lb n="5"/>
+		]4 1/2 .  9 1/2  4 1/2+1/8  1 1/6 leguminous plants 1 1/12 [...] 46 (?) [
+			<lb n="6"/>
+		3  1/3+1/12[+]1/24  6  1/24  1/3+1/12 [
+			<lb n="7"/>
+</ab></div>
+</body>
+</text>
+</TEI>

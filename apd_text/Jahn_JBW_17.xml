@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="629" xml:id="Jahn_JBW_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106744</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  هو <app type="BL"><lem resp="APD">واپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem, Review Wien">وأنا</rdg></app> <app type="BL"><lem resp="APD">حشا </lem><rdg resp="Diem, Review Wien">أخشا</rdg></app> على القرط إن <app type="BL"><lem resp="APD">حبسنا </lem><rdg resp="“Levi della Vida, Letters p. 136”">حبسناه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Levi della Vida, Letters p. 136”">تفسد</rdg></app> من <app type="BL"><lem resp="APD">پحنه </lem><rdg resp="“Levi della Vida, Letters p. 136”">تحته</rdg></app> 
+<lb n="3"/>  وقد كبر القرط جدّا فعجّل علي برأيك في القرط ولو 
+<lb n="4"/>  كنت كتبت إلي قبل اليوم لبعت منه مائة فدّان للجلّابين 
+<lb n="5"/>  قد آتاني مرّة ومرّة بكل ذاك لم أسـ<supplied reason="lost" cert="high">ـتـ</supplied>ـطيع أبيع لأحد 
+<lb n="6"/>  <supplied reason="lost" cert="high">إلّا</supplied> برأيك فنحمد اللّـ<supplied reason="lost" cert="high">ـه</supplied> على ذلك وأمّا القرط فلم <app type="BL"><lem resp="APD">ا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem, Review Wien">أرا</rdg></app> 
+<lb n="7"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـام </lem><rdg resp="Diem, Review Wien">استقام</rdg></app> أو <app type="BL"><lem resp="APD">حد<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem, Review Wien">جذّ</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤـپـ</supplied>ـحمد </lem><rdg resp="Diem, Review Wien">مثله</rdg></app> الله على دلك والسال 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem, Review Wien">وإنّ</rdg></app> القمح قمح جيّد <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Levi della Vida, Letters p. 136”">ولو </rdg><rdg resp="Diem, Review Wien">لو</rdg></app> <app type="BL"><lem resp="Jahn erroneously ‫دايته‬, but see translation">ورأيته </lem><rdg resp="“Levi della Vida, Letters p. 136”">رأيته</rdg></app> لعجبك نباته وزرعه 
+<lb n="9"/>  <supplied reason="lost" cert="high">فـ</supplied>ـنحمد اللّه على ذلك 
+<lb n="10"/>  <supplied reason="lost" cert="high">و</supplied>لم <app type="BL"><lem resp="APD">أعلق </lem><rdg resp="“Levi della Vida, Letters p. 136”">أعلف</rdg></app> الضّأن بعد حتّا يأتني رأيك في ذلك قد أردت 
+<lb n="11"/>  <supplied reason="lost" cert="high">أ</supplied>ن <app type="BL"><lem resp="APD">أغلقها </lem><rdg resp="“Levi della Vida, Letters p. 136”">أعلفها</rdg></app> حتّا أتاني كتابك <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـع </lem><rdg resp="“Levi della Vida, Letters p. 136”">في</rdg></app> <app type="BL"><lem resp="APD">الڤرط </lem><rdg resp="“Levi della Vida, Letters p. 136”">بيع</rdg></app> وراپك اڤصل 
+<lb n="12"/>  وقد بلغني حفظك اللّه أنّك لمّا جاك سروس فأخبرك أنّي 
+<lb n="13"/>  بعت دوابّه وغنم فمعاذ اللّه أن يكون ذلك من <app type="BL"><lem resp="APD">رأيي </lem><rdg resp="“Levi della Vida, Letters p. 136”">ذاتي</rdg></app> ولم يبلغ 
+<lb n="14"/>  <supplied reason="lost" cert="high">عـ</supplied>ـقلي هذا ولم أدري أنّه باع قليل ولا كثير حتّا أتاك فلمّا أتاك 
+<lb n="15"/>  <supplied reason="lost" cert="high">أتـ</supplied>ـاني الرّعا فأخبروني العجب أن سروس <app type="BL"><lem resp="APD">اعمد </lem><rdg resp="“Levi della Vida, Letters p. 136”">اعتمد</rdg></app> <app type="BL"><lem resp="APD">ڤاپع </lem><rdg resp="“Levi della Vida, Letters p. 136”">بائع</rdg></app> من كباش 
+<lb n="16"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/>ك </lem><rdg resp="“Levi della Vida, Letters p. 136”">ضأنك</rdg></app> سبعين كـ<supplied reason="lost" cert="high">ـبشا</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـدپپ </lem><rdg resp="APD">فكذّبت</rdg></app> ذلك <app type="BL"><lem resp="APD">فعاد </lem><rdg resp="“Levi della Vida, Letters p. 136”">فعادوا </rdg><rdg resp="Diem, Review Wien">فقالوا</rdg></app> <app type="BL"><lem resp="APD">إلى </lem><rdg resp="“Levi della Vida, Letters p. 136”">إلىّ </rdg><rdg resp="Diem, Review Wien">لي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="7" unit="character" /> </lem><rdg resp="“Levi della Vida, Letters p. 136”">وقالوا </rdg><rdg resp="Diem, Review Wien">واللّه </rdg><rdg resp="Diem, Review Wien">هل</rdg></app> 
+<lb n="17"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـليك </lem><rdg resp="APD">أن</rdg></app> <app type="BL"><lem resp="APD">الپها </lem><rdg resp="“Levi della Vida, Letters p. 136”">نحلّيك </rdg><rdg resp="“Levi della Vida, Letters p. 136”">ندلّيك</rdg></app> حـ<supplied reason="lost" cert="high">ـپإ</supplied> <gap reason="illegible" precision="low" extent="3"/> پرپك <app type="BL"><lem resp="APD">موصعا </lem><rdg resp="APD">نريك</rdg></app> ڤدهپپ <supplied reason="lost" cert="high">مپـ</supplied>ـهم <app type="BL"><lem resp="APD">الى </lem><rdg resp="“Levi della Vida, Letters p. 136”">معهم</rdg></app> 
+<lb n="18"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مكـ</supplied>ـان </lem><rdg resp="Diem, Review Wien">دكّان</rdg></app> عبيد الجزّار فوجدت في ضأنه خمسين كبش من كباشك 
+<lb n="19"/>  <supplied reason="lost" cert="high">و</supplied>عليها طابعك فصحت على عبيد حتّا اجتمع علي النّاس وعرفوا 
+<lb n="20"/>  النّاس طابعك على آذانها فقد أخذت الخمسين كبش ودفعتها 
+<lb n="21"/>  إلى <app type="BL"><lem resp="APD">بني </lem><rdg resp="APD">بئر</rdg></app> حاسة بحضرة محمّد <app type="BL"><lem resp="APD">وافي </lem><rdg resp="“Levi della Vida, Letters p. 136”">وأبي</rdg></app> سحر حتّا <app type="BL"><lem resp="APD">تقدم </lem><rdg resp="“Levi della Vida, Letters p. 136”">تقدم</rdg></app> <app type="BL"><lem resp="APD">ويرا </lem><rdg resp="“Levi della Vida, Letters p. 136”">وترا</rdg></app> رأيك 
+<lb n="22"/>  في ذلك فإن كان عندك سروس فلم تدعه <app type="BL"><lem resp="APD">بعلم </lem><rdg resp="“Levi della Vida, Letters p. 136”">يعلم</rdg></app> شي ممّا كتبت 
+<lb n="23"/>  إليك فيه فيهرب منّا ولكن إذا أتاك كتابي فابعثه إلي 
+<lb n="24"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وأ</supplied>ستوثق </lem><rdg resp="“Levi della Vida, Letters p. 136”">واستوثق </rdg><rdg resp="Diem, Review Wien">فأستوثق</rdg></app> منه <app type="BL"><lem resp="APD">وامر </lem><rdg resp="“Levi della Vida, Letters p. 136”">وامر</rdg></app> <app type="BL"><lem resp="APD">اللّذي </lem><rdg resp="Diem, Review Wien">الّذي</rdg></app> <app type="BL"><lem resp="APD">يدفعه </lem><rdg resp="“Levi della Vida, Letters p. 136”">تدفعه</rdg></app> إليه يدفعه إلي <app type="BL"><lem resp="APD">لاسمع </lem><rdg resp="Levi della Vida, Letters p. 136">لا</rdg></app> <app type="BL"><lem resp="APD">پاپن </lem><rdg resp="“Levi della Vida, Letters p. 136”">سمع</rdg></app> <app type="BL"><lem resp="APD">احدب </lem><rdg resp="“Levi della Vida, Letters p. 136”">بأني</rdg></app> 
+<lb n="25"/>  <supplied reason="lost" cert="high">الـ</supplied>ـكباش فيهرب منّا ورأيك أفضل اكتب إلى غلامك بخبرك 
+<lb n="26"/>  <supplied reason="lost" cert="high">و</supplied>حالك <app type="BL"><lem resp="APD">وهنئك </lem><rdg resp="Levi della Vida, Letters p. 136">وهنئك </rdg><rdg resp="÷Diem, CPR XVI and P.Berl.Arab. II with ‫وهيتك‬ in the papyrus.">وهيئتك</rdg></app> وبما أنت عليه حتّا نسر بذلك 
+<lb n="27"/>  وقد <app type="BL"><lem resp="APD">أعاش </lem><rdg resp="Diem, Review Wien">أعانني</rdg></app> اللّه <app type="BL"><lem resp="APD">علي </lem><rdg resp="“Levi della Vida, Letters p. 136f.”">عليّ</rdg></app> أربعة سواقي ساقيتين تسقي للقرط 
+<lb n="28"/>  وساقيتين تسقي للقمح فنحمد اللّه على ذلك الخيل والأتن والبغال 
+<lb n="29"/>  <app type="BL"><lem resp="APD">والدّمك </lem><rdg resp="APD">والرمك</rdg></app> والإبل والضّيعة كلّها على ما تحب وربّنا محمود 
+<lb n="30"/>  حفظك اللّه <app type="BL"><lem resp="APD">وعافع </lem><rdg resp="APD">وعافوك</rdg></app> بك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ***** **** 
+ <lb n="2"/>huwa wa ʾB*** ʾanā ḥašā ḥāšā ʾaḫšā ʿalà ăl qurṭi ʾin ḥabasnā hu *** tafassada min BḥBh taḥti hi 
+ <lb n="3"/>wa qad kabura ăl qurṭu ǧidd:an fa ʿaǧǧil ʿalay ya bi raʾyi ka fī ăl qurṭi wa law 
+ <lb n="4"/>kunta katabta ʾilay ya qabla ăl yawma la biʿtu min hu miʾaẗa faddān:in li l ǧallābīna 
+ <lb n="5"/>qad ʾātā nī marraẗ:an wa marraẗ:an bi kulli ḏāka lam ʾastaṭīʿ ʾabīʿu li ʾaḥad:in 
+ <lb n="6"/>ʾillā bi raʾyi ka fa naḥmadu ăl lāha ʿalà ḏālika wa ʾammā ăl qurṭu fa lam ʾa*** ʾarā ø qurṭ 
+ <lb n="7"/>***ʾm ĭstaqāma ʾaw ḥd*** ǧuḏḏa ø hu miṯla ø fa naḥmadu ăl lāha ʿalà ḏālika wa našāʾu ăs ăn sʾl sʾ**l ø miṯla ø *** 
+ <lb n="8"/>*** wa ø ʾinna ăl qamḥa qamḥu qamḥ:un ǧayyid:un *** wa ø ø law wa ø raʾaytu hu li ʿaǧabi ka nabāta hu wa zarʿa hu 
+ <lb n="9"/>fa naḥmadu ăl lāha ʿalà ḏālika 
+ <lb n="10"/>wa lam ʾaʿlif ʾuġliqi ăḍ ḍaʾna baʿdu ḥattā yaʾti nī raʾyu ka fī ḏālika qad ʾaradtu 
+ <lb n="11"/>ʾan ʾaʿlifa ʾuġliqa hā ḥattā ʾatā nī kitābu ka ø fī ***ʿ bayʿi ăl qurṭi wa raʾyu ka ʾafḍalu 
+ <lb n="12"/>wa qad balaġa nī ḥafiẓa ka ăl lāhu ʾanna ka lammā ǧāʾa ka sirūsu fa ʾaḫbara ka ʾan nī 
+ <lb n="13"/>biʿtu dawābba hu wa ġanam fa maʿāḏa ăl lāhi ʾan yakūna ḏālika min raʾy ḏāt ī wa lam yabluġ 
+ <lb n="14"/>ʿaql ī hāḏā wa lam ʾadrī ʾanna hu bāʿa qalīl wa lā kaṯīr ḥattā ʾatā ka fa lammā ʾatā ka 
+ <lb n="15"/>ʾatā nī ăr ruʿāʾu fa ʾaḫbarū nī ăl ʿaǧaba ʾanna sirūsa ʾʿmd ĭʿtamada FʾBʿ bāʾiʿ min kibāši 
+ <lb n="16"/>*** ḍaʾni ka sabʿīna kabš:an ø fa ***dBB kaḏḏabtu ḏālika fa ʿāda ʿādū qālū ʾilà ʾilay l ø ya ī **** wa hal qālū ăl ø lāhi ø ʾa ø *** tuḥibbu 
+ <lb n="17"/>ø ʾan ***ly nuḥalliya nudalliya ka ʾilay hā ḥattā *** BrB nuriya ka mawḍiʿ:an fa ḏahabtu min maʿa hum ʾilà 
+ <lb n="18"/>makāni dukkāni ʿubayd:ini ăl ǧazzāri fa waǧadtu fī ḍaʾni hi ḫamsīna kabš min kibāši ka 
+ <lb n="19"/>wa ʿalay hā ṭābiʿu ka fa ṣiḥtu ʿalà ʿubayd:in ḥattā ĭǧtamaʿa ʿalay ya ăn nāsu wa ʿarafū 
+ <lb n="20"/>ăn nāsu ṭābiʿa ka ʿalà ʾāḏāni hā fa qad ʾaḫaḏtu ăl ḫamsīna kabš wa dafaʿtu hā 
+ <lb n="21"/>ʾilà banī biʾri ḥāsaẗa bi ḥaḍraẗi muḥammad:in wʾfy wa ø ʾabī saḥr:in ḥattā taqdamu yaqdamu wa tarā yarā raʾya ka 
+ <lb n="22"/>fī ḏālika fa ʾin kāna ʿinda ka sirūsu fa lam tadaʿ hu bi ø ʿilmi yaʿlamu šayʾ šayʾ:in mimmā katabtu 
+ <lb n="23"/>ʾilay ka fī hi fa yahrubu min nā wa lākin ʾiḏā ʾatā ka kitāb ī fa ĭbʿaṯ hu ʾilay ya 
+ <lb n="24"/>wa fa ʾastawṯiqu ĭstawṯiq min hu wa ʾāmuru ŭmuri ăllaḏī tadfaʿu yadfaʿu hu ʾilay hi yadfaʿa hu ʾilay ya ø lā li ø ʾasmaʿa samiʿa bi ʾayna ʾan ø nī ʾaḫaḏtu ʾuḫiḏati 
+ <lb n="25"/>ăl kibāšu fa yahrubu min nā wa raʾyu ka ʾafḍalu ŭktub ʾilà ġulāmi ka bi ḫabari ka 
+ <lb n="26"/>wa ḥāli ka wa hanaʾi hanati hayʾati ka wa bi mā ʾanta ʿalay hi ḥattā nasurra bi ḏālika 
+ <lb n="27"/>wa qad ʾaʿāša ʾaʿāna nī ø ăl lāhu ʿalà ʿalay ø ya ʾarbaʿaẗa ʾarbaʿaẗi sawāqī sāqiyatayni tasqī li l qurṭi 
+ <lb n="28"/>wa sāqiyatayni tasqī li l qamḥi fa naḥmadu ăl lāha ʿalà ḏālika ăl ḫaylu wa ăl ʾutunu wa ăl biġālu 
+ <lb n="29"/>wa ăd ăr damku ramaku wa ăl ʾibilu wa ăḍ ḍayʿaẗu kullu hā ʿalà mā tuḥibbu wa rabbu nā maḥmūd:un 
+ <lb n="30"/>ḥafiẓa ka ăl lāhu wa ʿʾfʿ ʿāfā ka bi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		........... den Klee, wenn wir ........
+		er. Ich aber befürchtete, daß der Klee, wenn wir ihn (weiterhin) zurückhalten, von unten her verdirbt,
+		... except the clover which, if we withhold it, will deteriorate from below (?)
+			<lb n="3"/>
+		da doch der Klee schon sehr groß geworden ist. So teile mir schleunigst Deine Ansicht über den Klee mit, und wenn
+		... is up (in price) ...
+		nachdem der Klee so überaus groß geworden ist. Teile mir also so schnell wie möglich Deine Entscheidung bezüglich des Klees mit! Wenn
+			<lb n="4"/>
+		Du mir vor dem heutigen Tage geschrieben hättest, hätte ich den Händlern davon 100 Faddān verkauft.
+		Du mir vor dem heutigen Tag geschrieben (und den Verkauf befohlen) hättest, hätte ich davon hundert Faddān den Händler verkaufen können.
+			<lb n="5"/>
+		Er (sc. Händler oder Makler) kam mir nämlich damit ein um das andere Mal, (aber) ich konnte keinem
+		Nun hat er mir all&#039; das mal für mal gebracht, ich aber habe an keinen zu verkaufen die Möglichkeit gehabt
+			<lb n="6"/>
+		ohne Deine (diesbezügliche) Entscheidung (Klee) verkaufen. So preisen wir denn Gott hierfür! Was den Klee betrifft, so habe ich keinen [Kl]ee, 
+		oh]ne Deine Meinung(säußerung). So preisen wir den Got[t] darob, was aber den Klee anbelangt, so habe ich nicht .... [...]
+			<lb n="7"/>
+		[sei es, daß er aufrecht] stand oder geschnitten war, [wie ihn] gesehen. [So pr]eisen wir denn Gott hierfür! Der Wuchs ist wie
+		............. So preisen wir denn Gott darob - und ......
+			<lb n="8"/>
+		... and if you would see it, you would be pleased by its shaft and grain.
+		[   ]. Der Weizen ist ausgezeichneter Weizen. Wenn Du ihn sehen könntest, würden Dir seine Halme und sein Korn gefallen.
+		der Weizen, trefflicher(?) Weizen und ich habe in zu Deiner Überraschung gesehen, sein Wachsen und seine Saat.
+			<lb n="9"/>
+		So preisen wir denn Gott hierfür!
+		So preisen wir Gott darob!
+			<lb n="10"/>
+		Ich habe dem Kleinvieh noch kein Grünfutter (sc. Klee) gegeben, (sondern warte ab), bis ich deine diesbezügliche Entscheidung erhalte. Ich hatte
+		Ich werde die Schafe erst dann einsperren, bis mir Deine Ansicht hierüber zukommt. Nun wollte ich
+		I do not fodder the herd any longer until your decision on this subject comes. I wanted
+			<lb n="11"/>
+		ihnen Grünfutter geben wollen, bis dann Dein Brief bezüglich des Verkaufs des Kleess eintraf. Deine Entscheidung hat Vorrang!
+		sie einsperren, als mir Dein Schreiben betreffs des [...] des Klees zukam, und Deine Ansicht ist besser.
+		to fodder them (but will wait) until the arrival of your letter concerning the sale of the clover.
+			<lb n="12"/>
+		Ich habe erfahren – Gott erhalte Dich -, daß, als Siros zu Dir gekommen ist, er Dir mitgeteilt hat, ich
+		Nun habe ich erfahren, daß - Gott schütze Dich - als Sirūs zu Dir kam, er Dir mitgeteilt hat, daß ich
+			<lb n="13"/>
+		hätte ein Lasttier und Schafe verkauft. Gott sei davor, daß derartiges von meiner Person geschehen sollte! Das (ganze) will mir einfach nicht
+		seine Maultiere und Schafe(?) verkauft hätte. Doch da sei Gott vor, daß das meine Meinung wäre; dies ist mir auch gar nie
+		that that should have been done by me. I cannot
+			<lb n="14"/>
+		in den Kopf! Ich wußte gar nicht, daß er irgendetwas verkauft hatte, bis er zu Dir gekommen war. Als er nämlich zu Dir gekommen (und somit abwesend) war,
+		in den Sinn gekommen, und ich habe nicht gewußt, ob er wenig oder viel verkauft hat, bis er zu Dir kommt. Doch als er zu Dir gekommen war,
+		understand this ... until he came to you ...
+			<lb n="15"/>
+		kamen die Hirten zu mir. Sie berichteten mir das Erstaunliche, daß Sirūs ........... von den Hammeln
+		kamen die Hirten zu mir und teilten mir, o Wunder, mit, daß Siros sich darangemacht und von den Hammeln
+		... that Sirūs had undertaken to sell
+			<lb n="16"/>
+		Deines [Kleinviehs] siebzig Ha[mmel] verkauft hatte. Ich konnte das gar nicht glauben, da sagten sie zu mir: ‚[    ] Willst Du,
+		Deines [...] siebzig H[ammeln ..]....... dies. Dann kehrte er zu ........ zurück .......
+		seventy rams from your flock. I refused to believe that. Then they came back to me and said: &#039;Do you want
+			<lb n="17"/>
+		daß wir Dich zu ihnen [brin]gen, so daß wir Dir (also) einen gewissen Ort zeigen?‘ So ging ich also zusammen mit ihnen zu
+		Dir sie, bis [daß ......] Dir einen Ort ... [...]. Da ging ich [von] ihnen zum
+		us to take you to them (or: to point them out to you) so that we show you a certain place (where they are)?&#039; So I went with them ...
+			<lb n="18"/>
+		[dem La]den ʿUbayds, des Metzgers, worauf ich unter seinem Kleinvieh fünfzig von Deinen Hammeln,
+		Haus des Metzger&#039;s ʿUbaid. Da fand ich unter seinen Schafen fünfzig Hammel von Deinen Hammeln
+			<lb n="19"/>
+		mit Deinem Zeichen an ihnen fand. Da erhob ich gegen ʿUbayd meine stimme, so daß sich die Leute gegen mich zusammenrotteten, aber sie (sc. die Hirten) zeigten den Leuten
+		mit Deiner Marke, da erhob ich meine Stimme gegen ʿUbaid, so daß sich die Leute um mich versammelten. Da erkannten
+			<lb n="20"/>
+		Dein Zeichen an den Ohren jener (Hammel). So nahm ich denn die fünfzig Hammel und übergab sie
+		die Leute Deine Marke an ihren Ohren. Da nahm ich die fünfzig Hammel und übergab sie
+			<lb n="21"/>
+		den Benī Hāsa(?) in Anwesenheit Muḥammad&#039;s ......... bis er kommt und Deine Ansicht
+		in Gegenwart von Muḥammad und Abū Siḥr den Banū Ḥāsa, (bei denen sie bleiben werden), bis Du kommst und Deine Entscheidung
+		to Biʾr Ḥāsa (sc. place name) in presence of Muḥammad and Abū Saḥr, until you come and take a decision.
+			<lb n="22"/>
+		diesbezüglich kennt. Doch wenn Sirūs bei Dir ist, so hast Du ihn nicht in Kenntnis irgend einer Sache von dem, was ich
+		If Sirūs is still with you, let him not know ...
+		über das (weitere Verfahren bei den Hammeln) triffst. Falls Siros (noch) bei Dir ist, dann laß ihn nichts von dem wissen, was ich
+			<lb n="23"/>
+		Dir (hier) über ihn schreibe, da er dann vor uns fliehen würde. Vielmehr, wenn Du meinen Brief erhältst, dann sende ihn zu mir.
+		Dir über ihn geschrieben habe, gesetzt, so daß ...
+		Dir über ihn geschrieben habe, holen zu lassen, so daß er von uns entflieht, sondern, wenn Dich mein Brief erreicht, so schicke ihn zu mir
+			<lb n="24"/>
+		and give him assurance and order him to deliver to me what you will deliver to him. May he not hear that I took
+		Ich würde ihn dann festsetzen und (dem Metzger ʿUbayd) befehlen, daß er das (Geld), das er ihm (sc. Siros) (für die bereits geschlachteten Hammel) aushändigen würde, mir aushändigt. Er (sc. Siros) soll nicht hören, daß ich (dem Metzger) die Hammel abgenommen habe,
+		[und] ich werde mich seiner versichern und das, was er ihm ausgefolgt hat mir auszufolgen anordnen; damit ich höre, wo [die] Hammel
+			<lb n="25"/>
+		da er dann vor uns fliehen würde. Aber deine Entscheidung hat Vorrang! Schreibe (mir), deinem Burschen, die Dich betreffende Neuigkeiten,
+		genommen worden sind; dann mag er uns entfliehen, und Deine Meinung ist besser. Schreib Deinem Diener
+		the rams and run away from us ...
+			<lb n="26"/>
+		Deinen Zustand und deine Verfassung, ferner, wie es dir geht, damit ich dadurch erfreut werde!
+		über Dein Befinden und Deine Sache, und was ihm Dir gegenüber obliegt(?) bis daß wir dadurch erfreut werden
+		... your health and how you are ...
+			<lb n="27"/>
+		God has called into life four watering canals through my work
+		Gott hat mir (übrigens) zu vier Schöpfwerken verholfen: zwei Schöpfwerken, die den Klee bewässern,
+		Gott möge die vier Leitungskanäle erhalten: die beiden Kanäle, welche den Klee bewässern
+			<lb n="28"/>
+		und die beiden Kanäle, die den Weizen tränken - und wir preisen Gott darob. - Die Pferde, Eselinnen, Maultiere,
+		und zwei Schöpfwerken, die den Weizen bewässern.
+			<lb n="29"/>
+		die Winden, die Kamele und die ganze Domäne sind wie Du es wünschst und unser Herr sei gepriesen.
+		So preisen wir denn Gott hierfür! Die Pferde, die Esel, die Maultiere, die Stuten und die Kamele, ja das ganze Landgut sind in einem guten Zustand, den Du Dir nur wünschen kannst, der Herr sei gepriesen!
+		... the mares ...
+			<lb n="30"/>
+		Gott behüte Dich und erhalte Dich gesund.
+		Gott schütze Dich und erhalte Dich gesund!
+</ab></div>
+</body>
+</text>
+</TEI>

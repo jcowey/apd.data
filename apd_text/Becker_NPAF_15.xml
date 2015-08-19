@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="510" xml:id="Becker_NPAF_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 15 (= P.Cair.Arab. 162)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106682</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="- (P.Cair.Arab. 1)"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1 (P.Cair.Arab. 2)"/>  بسم اللّه الرّحن الرّحيم 
+<lb n="2 (P.Cair.Arab. 3)"/>  هذا كتب من قرّة بن شريك لـأهـ<unclear reason="undefined" cert="high">ـل</unclear> 
+<lb n="3 (P.Cair.Arab. 4)"/>  <app type="BL"><lem resp="APD">أروس </lem><rdg resp="“Moritz”">أذوس</rdg></app> مريّة من القر<unclear reason="undefined" cert="high">ى</unclear> الشّرقيّة إنّه أصابكم 
+<lb n="4 (P.Cair.Arab. 5)"/>  من جزية سنة ثمان وثمنين ثلثين دينر وسدس 
+<lb n="5 (P.Cair.Arab. 6)"/>  <gap reason="illegible" precision="low" extent="3"/> دپپر عددا وكپپ راسد ڤى 
+<lb n="6 (P.Cair.Arab. 7)"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> إ<supplied reason="lost" cert="high">حدى</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>hāḏā kitāb:un min qurraẗa bni šarīka li ʾahli 
+ <lb n="4"/>ʾurūsi ʾḏws mariyyaẗa mina ăl qurà ăš šarqiyyaẗi ʾinna hu ʾaṣāba kum 
+ <lb n="5"/>min ǧizyaẗi sanaẗi ṯamān:in wa ṯamānīna ṯalāṯīna dīnār wa sudsu 
+ <lb n="6"/>dīnār:in ʿadad:an wa kataba rāšid:un fī ṣafar:in 
+ <lb n="7"/>min sanaẗi ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		[In] the name of God, the Compassionate, the Merciful. 
+			<lb n="3"/>
+		This is a letter from Qorra b. Šarîk to the people 
+			<lb n="4"/>
+		of Orôs Maria belonging to the eastern villages. Verily, it has fallen upon you (as your part) 
+			<lb n="5"/>
+		of the gold-tax of the year eighty-eight, thirty counted dînârs and a sixth 
+			<lb n="6"/>
+		......... of a dînâr; and Râšid has written (it) in Ṣafar 
+			<lb n="7"/>
+		[of the year ninety-one].
+</ab></div>
+</body>
+</text>
+</TEI>

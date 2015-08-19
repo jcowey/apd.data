@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1309" xml:id="Diem_Heid_II_3_recto" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 03 recto</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_3_recto</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169126</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <unclear reason="undefined" cert="high">المملوك</unclear> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="recto 2"/>  فسد أبو جرجس ديني أن له عند باسيـ<supplied reason="lost" cert="high">ـ<unclear reason="undefined" cert="high">ـل</unclear></supplied> 
+<lb n="recto 3"/>  الشّلقامي المقيم ببلنسورة بطرس الحوالة إرد<supplied reason="lost" cert="high">بّ</supplied> 
+<lb n="recto 4"/>  ونصف قمح من مقرّر الكتّان وكان المملوك اتّفق هو وصاحبه 
+<lb n="recto 5"/>  على أخذي عنها الإردب <supplied reason="omitted" cert="high">ونصف</supplied> وقبل المذكور الحوالة بالإردب ونـ<supplied reason="lost" cert="high">ـصف</supplied> 
+<lb n="recto 6"/>  وأوعد إلي التزامه ومطل المملوك شهرين إلى صر<supplied reason="lost" cert="high">فـها</supplied> <supplied reason="lost" cert="high">و</supplied>جرى 
+<lb n="recto 7"/>  فلمّا جري وكان المحيل حمل كتّانه وسافر فلمّا إنّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="recto 8"/>  سافر قال ما له عندي شي وأهل منتوت يعلموا أنّه 
+<lb n="recto 9"/>  أحالني <del rend="erasure" status="unremarkable">علي</del> عليه بإردب ونصف حوالة صحيحة و<sic n="superfluous">أنّه</sic>ان المملوك 
+<lb n="recto 10"/>  <unclear reason="undefined" cert="high">قبـ</unclear>ـض منها <sic n="superfluous">شى</sic> شيًا يسيرا وكان المملوك قد لازمه <supplied reason="lost" cert="high">بها</supplied> 
+<lb n="recto 11"/>  فلا أمكنه من الصّرف فلمّا كان هذا شتموا المملوك <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 12"/>  وغنيم تهوّسوا عليه والمملوك ما له شي إلّا <unclear reason="undefined" cert="high">لنا</unclear> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 13"/>  و<unclear reason="undefined" cert="high">ذلّ</unclear> الأجناد وسوال المملوك خلاص حقّه من إردب 
+<lb n="recto 14"/>  ونصف أنهى المملوك ذلك والرّأي أعلا والحمد <supplied reason="lost" cert="high">للّه</supplied> 
+<lb n="recto 15"/>  وحده وصلواته على سيّدنا محمّد وآله وصحبه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl mamlūk **** **** **** *** 
+ <lb n="2"/>fa sadda ʾabū ǧirǧisa dayn ī ʾanna la hu ʿinda bāsīla 
+ <lb n="3"/>ăš šulqāmiyyi šalqāmiyyi ăl muqīmi bi balansūraẗa buṭrusa ăl ḥawālaẗu ʾirdabbi 
+ <lb n="4"/>wa niṣfi qamḥ:in min muqarrari ăl kattāni wa kāna ăl mamlūku ĭttafaqa huwa wa ṣāḥibu hu 
+ <lb n="5"/>ʿalà ʾaḫḏ ī ʿan hā ăl ʾirdabba wa niṣf wa qabila ăl maḏkūru ăl ḥawālaẗa bi ăl ʾirdabbi wa niṣf:in 
+ <lb n="6"/>wa ʾawʿada ʾilay ya ĭltizāma hu wa maṭala ăl mamlūka šahrayni ʾilà ṣarfi hā wa ǧarà 
+ <lb n="7"/>fa lammā ǧarà wa kāna ăl muḥīlu ḥamala kattāna hu wa sāfara fa lammā ʾinna hu 
+ <lb n="8"/>sāfara qāla mā la hu ʿind ī šayʾ:un wa ʾahlu mantūta yaʿlamū ʾanna hu 
+ <lb n="9"/>ʾaḥāla nī ʿalay hi bi ʾirdabb:in wa niṣf:in ḥawālaẗ:an ṣaḥīḥaẗ:an wa ʾanna ăl mamlūka 
+ <lb n="10"/>qabaḍa min hā šayʾ:an yasīr:an wa kāna ăl mamlūku qad lāzama hu bi hā 
+ <lb n="11"/>fa lā ʾamkana hu mina ăṣ ṣarfi fa lammā kāna hāḏā šatamū ăl mamlūka **** 
+ <lb n="12"/>wa ġanīm tahawwasū ʿalay hi wa ăl mamlūku mā la hu šayʾ:un ʾillā la nā ** 
+ <lb n="13"/>wa ḏull ăl ʾaǧnādi wa suʾālu ăl mamlūki ḫalāṣa ḥaqqi hi min ʾirdabb:in 
+ <lb n="14"/>wa niṣf:in ʾanhà ăl mamlūku ḏālika wa ăr raʾyu ʾaʿlā wa ăl ḥamdu li l lāhi 
+ <lb n="15"/>waḥda hu wa ṣalawātu hu ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa ṣaḥbi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		der Sklave (?) - - - [
+			<lb n="2"/>
+		Da beglich Abū(?) Ǧirǧis den mir geschuldeten Betrag dadurch, daß er zu Lasten von Bāsīl
+			<lb n="3"/>
+		aš-Šalqāmī, wohnhaft in Balansūrat Buṭrus, den (oben erwähnten) Wechsel auf eineinhalb
+			<lb n="4"/>
+		Artaben Weizen in Höhe des für den Flachs festgesetzten Preises hatte, und zwar hatten der Sklave und sein Partner vereinbart,
+			<lb n="5"/>
+		daß ich aufgrund dieses Wechsels die ein&lt;einhalb&gt; Artaben erhalten solle. Der Erwähnte (sc. Bāsīl) akzeptierte den Wechsel über eineinhalb Artaben und
+			<lb n="6"/>
+		versprach mir, die Verbindlichkeit einzuhalten. Er hielt den Sklaven zwei Monate mit der Einlösung des Wechsels hin, und der Monat verstrich.
+			<lb n="7"/>
+		Als er verstrichen war - inzwischen hatte der Aussteller des Wechsels seinen Flachs weggebracht und war abgereist -, als er also
+			<lb n="8"/>
+		abgereist war, da sagte er (sc. Bāsīl): &#034;Er hat bei mir kein Guthaben&#034;, während die Einwohner von Mantūt wissen, daß er (sc. Abū Ǧirǧis).
+			<lb n="9"/>
+		mir auf ihn (sc. Bāsīl) einen gültigen Wechsel in Höhe von eineinhalb Artaben ausgestellt hat. Der Sklave hat
+			<lb n="10"/>
+		davon nur einen geringfügigen Teil in Empfang genommen, und zwar hatte der Sklave ihm (sc. Bāsīl) ständig zugesetzt,
+			<lb n="11"/>
+		aber er (sc. Bāsīl) ermöglichte ihm nicht die Einlösung. Als nun dies geschehen war, schmähten sie den Sklaven [als - - -
+			<lb n="12"/>
+		und als leichte Beute, über die sie sich wie verrückt lustig machten, während der Sklave nichts hatte außer [
+			<lb n="13"/>
+		- - - Soldaten (?). Die Bitte des Sklaven geht dahin, ihm sein Recht, nämlich eineinhalb Artaben (Weizen), zu verschaffen.
+			<lb n="14"/>
+		Der Sklave hat dies kundgetan, und die Meinung (sc. des Herrn) hat Vorrang. Lob sei Gott
+			<lb n="15"/>
+		allein! Seine Gebete seien auf unserem Herrn Muḥammad, seiner Familie und seinen Gefährten!
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="721" xml:id="Grohmann_Probleme_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 15</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106802</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮الرّقعة ‪ϛʹ‬ عين‬ 
+<lb n="2"/>  ‮‪ϛʹηʹ‬‬ 
+<lb n="3"/>  ‮بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أدّى الحسن بن عبد الرّزّاق 
+<lb n="5"/>  عن النّخل بالمدينة 
+<lb n="6"/>  سدس وثمن دينر معسول 
+<lb n="7"/>  بلا صرف ولا حسم ممّا 
+<lb n="8"/>  لخراج سنة عشرين وثلثماية 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăr ruqʿaẗu 6 ʿayn:un 
+ <lb n="2"/>1/6+1/8 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà ăl ḥasanu bnu ʿabdi ăr razzāqi 
+ <lb n="5"/>ʿani ăn naḫli bi ăl madīnaẗi 
+ <lb n="6"/>sudsa wa ṯumna dīnār:in maʿsūl:in 
+ <lb n="7"/>bi lā ṣarf:in wa lā ḥasm:in mimmā 
+ <lb n="8"/>li ḫarāǧi sanaẗi ʿišrīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="10"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Folio 6 Goldgeld
+			<lb n="2"/>
+		1/6+1/8
+			<lb n="3"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen! 
+			<lb n="4"/>
+		Gezahlt hat al-Ḥasan b. ʿAbd ar-Razāq 
+			<lb n="5"/>
+		von den Palmen in al-Madīna (der Hauptstadt) 
+			<lb n="6"/>
+		einen Sechstel und einen Achtel Dīnār richtiger (Münzen)
+			<lb n="7"/>
+		ohne Aufgeld und ohne Abzug von dem, was 
+			<lb n="8"/>
+		für die Steuer des Jahres 320 (zu erlegen war) 
+			<lb n="10"/>
+</ab></div>
+</body>
+</text>
+</TEI>

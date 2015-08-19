@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="883" xml:id="Grohmann_World_p_156_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 156 b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_156_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113647</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮دفعت دينر ‪δ‬‬ 
+<lb n="2"/>  تذكرة ما أجلب إلى مكّة من <app type="BL"><lem resp="APD">القرظ </lem><rdg resp="APD">القرط</rdg></app> ستّة 
+<lb n="3"/>  ثلثة ثلثة 
+<lb n="4"/>  ثمانية عشر وعشرة واثنتي عشرة وأربعة 
+<lb n="5"/>  أربعة أربعة <app type="BL"><lem resp="APD">أربعة </lem><rdg resp="Diem">عشرة</rdg></app> واحد 
+<lb n="6"/>  وستّة وسبعة وخمسة إلّا ربع 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>dafaʿtu dīnār 4 
+ <lb n="2"/>taḏkiraẗu mā ʾaǧlibu ʾilà makkaẗa mina ăl qaraẓi qurṭi sittaẗ:un 
+ <lb n="3"/>ṯalāṯaẗ:un ṯalāṯaẗ:un 
+ <lb n="4"/>ṯamāniyaẗa ʿašara wa ʿašaraẗ:un wa ĭṯnatay ʿašraẗa wa ʾarbaʿaẗ:un 
+ <lb n="5"/>ʾarbaʿaẗ:un ʾarbaʿaẗ:un ʾarbaʿaẗ:un ʿašaraẗ:un wāḥid:un 
+ <lb n="6"/>wa sittaẗ:un wa sabʿaẗ:un wa ḫamsaẗ:un ʾillā rubʿ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		I have paid dînâr 4
+			<lb n="2"/>
+		Record of that which I export to Makka of acacia-leaves: six
+			<lb n="3"/>
+		three | three
+			<lb n="4"/>
+		eighteen | and ten | and twelve | and four
+			<lb n="5"/>
+		four | four | four | one
+			<lb n="6"/>
+		and six | and seven | and five | less a quarter
+</ab></div>
+</body>
+</text>
+</TEI>

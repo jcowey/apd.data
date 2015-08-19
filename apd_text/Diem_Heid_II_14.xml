@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1363" xml:id="Diem_Heid_II_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169163</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه يا سيّدي بقاك <app type="BL"><lem resp="APD">ڤد </lem><rdg resp="APD">أعلمك</rdg></app> <app type="BL"><lem resp="APD">كپپپ </lem><rdg resp="APD">أنّي</rdg></app> الى صـ<supplied reason="lost" cert="high">ـاحپى</supplied> 
+<lb n="3"/>  ويثبت على بابه دينار <app type="BL"><lem resp="APD">وعشرين </lem><rdg resp="APD">وعشر</rdg></app> <app type="BL"><lem resp="APD">دپپار </lem><rdg resp="APD">من</rdg></app> لى <supplied reason="lost" cert="high">ڤاپه</supplied> 
+<lb n="4"/>  أيّدك اللّه منعني <app type="BL"><lem resp="APD">في </lem><rdg resp="APD">من</rdg></app> حصاد زرع لي بها <gap reason="illegible" precision="low" extent="3"/> فـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <app type="BL"><lem resp="APD">أخذ </lem><rdg resp="APD">أجد</rdg></app> حظّي بالمال وأنت عارف بما زر<supplied reason="lost" cert="high">عت</supplied> 
+<lb n="6"/>  فقد قطع العام ذلك الزّرع وتعرّفني أيّدك اللّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  فتدبّر خلاصي من هذا المال <unclear reason="undefined" cert="high">فـ</unclear>ـأرا ما عليـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">بلي</supplied> 
+<lb n="8"/>  أطال اللّه يا سيّدي بقاك <gap reason="illegible" precision="low" extent="3"/> الحمد للّه <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="9"/>  فقد أرا المال بلي لأنّا سبـ<unclear reason="undefined" cert="high">ـق</unclear> <supplied reason="lost" cert="high">لنا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  مع الكتاب <sic n="superfluous">پكل</sic> <sic n="superfluous">پحپرك</sic> <supplied reason="omitted" cert="high">بكل خبرك</supplied> وحالك وحاجاتـ<supplied reason="lost" cert="high">ـك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11 left margin 1"/>  لسـ<supplied reason="lost" cert="high">ـيّدي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12 left margin 2"/>  <app type="BL"><lem resp="APD">وحاجاتك </lem><rdg resp="Diem, P.Vind.Arab. III">وصل</rdg></app> <app type="BL"><lem resp="APD">پا </lem><rdg resp="Diem, P.Vind.Arab. III">كتابك</rdg></app> سـ<supplied reason="lost" cert="high">ـيدى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13 left margin 3"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">ا</unclear>لقبط 
+<lb n="14 left margin 4"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu yā sayyid ī baqāʾa ka ø ʾuʿlimu ka ø ʾan nī qad katabtu ʾilà ṣāḥib ī 
+ <lb n="3"/>wa yaṯbutu ʿalà bābi hi dīnār:un ʿušrayni wa ʿušr:un wa ʿišrīna ø min dīnār dīnār:in l ī fa ʾinna hu 
+ <lb n="4"/>ʾayyada ka ăl lāhu manaʿa nī fī min ḥiṣādi zarʿ:in l ī bi hā *** fa *** 
+ <lb n="5"/>ʾaḫaḏa ʾaǧidu ḥaẓẓ ī bi ăl māli wa ʾanta ʿārif:un bi mā zaraʿtu 
+ <lb n="6"/>fa qad qaṭaʿa ăl ʿāma ḏālika ăz zarʿa wa tuʿarrifu nī ʾayyada ka ăl lāhu *** 
+ <lb n="7"/>fa tudabbiru ḫalāṣ ī min hāḏā ăl māli fa ʾarā mā ʿalay hi baliya 
+ <lb n="8"/>ʾaṭāla ăl lāhu yā sayyid ī baqāʾa ka *** ăl ḥamdu li l lāhi **** 
+ <lb n="9"/>fa qad ʾarā ăl māla baliya liʾan nā sabaqa la nā *** 
+ <lb n="10"/>maʿa ăl kitābi bi kulli ḫabari ka wa ḥāli ka wa ḥāǧāti ka *** 
+ <lb n="11"/>li sayyid ī *** 
+ <lb n="12"/>wa waṣala ḥāǧātu ø ka ø ø kitābu ø ka yā sayyid ī *** 
+ <lb n="13"/>*** ăl qibṭ 
+ <lb n="14"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich, oh mein Herr, lange leben! vacat Ich habe an [meinen (?) Geschäft]spartner geschrieben,
+			<lb n="3"/>
+		und es besteht für mich zu Lasten seines Kontos ein Guthaben von einundzwanzig (?) Dinaren, [denn]
+			<lb n="4"/>
+		er hat mich - Gott stütze Dich - an der Ernte von Getreide, das mir gehört, in Höhe dieses Betrags gehindert [...] Da [...]
+			<lb n="5"/>
+		nahm er meinen Anteil am (?) Geld; Du weißt ja, was ich gesä[t habe.]
+			<lb n="6"/>
+		Denn er hat heuer jenes (von mir) gesäte Getreide geschnitten. Laß mich bitte wissen - Gott stütze Dich - [was ...]
+			<lb n="7"/>
+		Kümmere Dich also darum, mir dieses mir zustehende Geld zu verschaffen, denn ich betrachte das Geld, das er schuldet, schon [als verloren.]
+			<lb n="8"/>
+		Möge Gott Dich, oh mein Herr, lange leben lassen! vacat Lob sei Gott [...]
+			<lb n="9"/>
+		Denn ich betrachte das Geld schon als verloren, weil [wir] schon früher [Streit (?) hatten.]
+			<lb n="10"/>
+		Teile mir brieflich \alle/ Dich betreffenden Neuigkeiten, Deinen Zustand und Deine Anliegen mit!
+			<lb n="11"/>
+		An [meinen He]rrn
+			<lb n="12"/>
+		und Deine Anliegen, oh [mein H]err
+			<lb n="13"/>
+		- - - die Kopten (?)
+			<lb n="14"/>
+</ab></div>
+</body>
+</text>
+</TEI>

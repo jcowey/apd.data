@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="666" xml:id="Dietrich_Topkapi_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DietrichTopkapi 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Dietrich_Topkapi_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106751</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيمّ</supplied> 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وكر<supplied reason="lost" cert="high">امتك</supplied> <supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">وسلامتك</unclear> </supplied>
+<lb n="3"/>  وأتم نعـ<supplied reason="lost" cert="high">ـمتـه</supplied> علـ<supplied reason="lost" cert="high">ـيـ</supplied>ـك <supplied reason="lost" cert="high">وز</supplied>ا<supplied reason="lost" cert="high">د</supplied> في إحـ<supplied reason="lost" cert="high">ـسانه</supplied> <supplied reason="lost" cert="high">إليك </supplied>
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa salāmata ka 
+ <lb n="3"/>wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im] Namen Gott[es, des Barmherzigen, Gütigen!] 
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Deine Stärke, Deinen [Edelmut und Deine Gesundheit (?)] andauern [
+			<lb n="3"/>
+		vollende [seine] Gna[de] a[n] Dir [und ver]meh[re] seine Wohl[taten an Dir
+</ab></div>
+</body>
+</text>
+</TEI>

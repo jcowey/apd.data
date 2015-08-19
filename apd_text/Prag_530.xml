@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1717" xml:id="Prag_530" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 53</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_530</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169464</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  من أبي <app type="BL"><lem resp="APD">حازم </lem><rdg resp="APD">خازم </rdg><rdg resp="APD">جازم</rdg></app> إلى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بسم اللّه الرّحمن <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="3"/>  عافانا ا<supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">وإيّاك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  حل لعه <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  واحبس <supplied reason="lost" cert="high">مـ</supplied>ـا سوى ذلك إن شا اللّه 
+<lb n="6"/>  وقد بعثت إليك في تلك الدّراهم 
+<lb n="7"/>  أن تشتري لنا بها حاجتنا فأراك يا <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="8"/>  قد حبست رسولـي فـاشـ<supplied reason="lost" cert="high">ـتر</supplied> 
+<lb n="9"/>  حاجته وعجّله <sic n="superfluous">علنيا</sic> <supplied reason="omitted" cert="high">علينا</supplied> السّاعة ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  إن شا اللّه وابعث إلينا بـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  وقرع وفقّوس وغـ<supplied reason="lost" cert="high">ـيره</supplied> إ<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـا اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="12"/>  عافانا الـ<supplied reason="lost" cert="high">ـلّه</supplied> <supplied reason="lost" cert="high">وإيّاك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>min ʾabī ḥāzim:in ḫāzim:in ǧāzim:in ʾilà *** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʿāfā nā ăl lāhu wa ʾiyyā ka *** 
+ <lb n="4"/>ḥl lʿh *** *** *** 
+ <lb n="5"/>wa ĭḥbis mā siwà ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="6"/>wa qad baʿaṯtu ʾilay ka fī tilka ăd darāhimi 
+ <lb n="7"/>ʾan taštariya la nā bi hā ḥāǧata nā fa ʾarā ka yā **** 
+ <lb n="8"/>qad ḥabasta rasūl ī fa ĭštari 
+ <lb n="9"/>ḥāǧata hu wa ʿaǧǧil hu ʿalay nā ăs sāʿaẗa ʾ*** 
+ <lb n="10"/>ʾin šāʾa ăl lāhu wa ĭbʿaṯ ʾilay nā bi *** 
+ <lb n="11"/>wa qarʿ:in wa faqqūs:in wa ġayri hi ʾin šāʾa ăl lāhu 
+ <lb n="12"/>ʿāfā nā ăl lāhu wa ʾiyyā ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Von Abū Ḥāzim an [...]
+			<lb n="2"/>
+		Im Namen Gottes, des Barmherzige[n, Gütigen!]
+			<lb n="3"/>
+		G[ott] erhalte uns [und Dich] gesund!
+			<lb n="4"/>
+			<lb n="5"/>
+		und halte fest, [w]as außer jenem, so Gott will!
+			<lb n="6"/>
+		Und ich habe bereits an Dich wegen jenes Geldes geschickt,
+			<lb n="7"/>
+		daß Du uns dafür unsern Bedarf einkauftest, doch nehme ich von Dir, oh[ ....], an,
+			<lb n="8"/>
+		daß Du meinen Boten schon festgehalten hast. So ka[uf]
+			<lb n="9"/>
+		seinen Bedarf ein und schick ihn schleunig sofort an uns..[...],
+			<lb n="10"/>
+		so Gott will! Und schick und ...[...]
+			<lb n="11"/>
+		und Kürbisse und Gurken und an[deres], s[o] Go[tt wi]ill!
+			<lb n="12"/>
+		Go[tt] erhalte uns [und Dich] gesund!
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1632" xml:id="Grohmann_APEL_174" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 174</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_174</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169387</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  هذ<supplied reason="lost" cert="high">ا</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـتب <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عامل</supplied> <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">عبيد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">الحبحاب</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">أعلا</supplied> 
+<lb n="3"/>  أشمون لـ<supplied reason="lost" cert="high">ـشنـ</supplied>ـوده بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ڤدا هره <unclear reason="undefined" cert="high">القمر</unclear> من أهـ<supplied reason="lost" cert="high">ـ</supplied>ـل مدينة أشمـ<supplied reason="lost" cert="high">ـون</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  إنّي أذنت لك <unclear reason="undefined" cert="high">عپطپ</unclear> ماس <unclear reason="undefined" cert="high">الصّمد</unclear> <gap reason="illegible" precision="low" extent="3"/> واسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ا<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6"/>  لوفا جزيته ومعيشته و<supplied reason="lost" cert="high">أ</supplied>جّلته خـ<supplied reason="lost" cert="high">ـمسة</supplied> <supplied reason="lost" cert="high">أشهر</supplied> 
+<lb n="7"/>  من مستـ<supplied reason="lost" cert="high">ـهـ</supplied>ـل شعبان سنة ثلث ومئة إلى <supplied reason="lost" cert="high">انسلخ</supplied> 
+<lb n="8"/>  ذي الحجّة مـ<supplied reason="lost" cert="high">ـ</supplied>ـن سنة <supplied reason="lost" cert="high">ثـ</supplied>ـلـ<supplied reason="lost" cert="high">ـث</supplied> ومئة <supplied reason="lost" cert="high">و</supplied>طپعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> فـ<supplied reason="lost" cert="high">ـمـ</supplied>ـن لقـ<supplied reason="lost" cert="high">ـ</supplied>ـيـ<supplied reason="lost" cert="high">ـ</supplied>ـه بعد ا<supplied reason="lost" cert="high">لأ</supplied>جل الّذي أ<supplied reason="lost" cert="high">جّلته</supplied> 
+<lb n="10"/>  فليـ<supplied reason="lost" cert="high">ـ</supplied>ـپده إلى مدينة والسّلم على من اتّبع <supplied reason="lost" cert="high">الهدى</supplied> 
+<lb n="11"/>  وكتب سعيد في شـ<supplied reason="lost" cert="high">ـعـ</supplied>ـبان سنة ثلث <supplied reason="lost" cert="high">ومئة</supplied> 
+<lb n="seal 1"/>  اللّه و<gap reason="illegible" extent="2" unit="character" /> 
+<lb n="seal 2"/>  سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min *** bni *** ʿāmili ăl ʾamīri ʿubaydi ăl lāhi bni ăl ḥabḥābi ʿalà ʾaʿlā 
+ <lb n="3"/>ʾašmūna li šanūdaha bni *** *** *** 
+ <lb n="4"/>Fdʾ hrh ăl qamar min ʾahli madīnaẗi ʾašmūna *** 
+ <lb n="5"/>ʾin nī ʾaḏintu la ka ʿBṭt mās ăṣ ṣamad *** wa ʾs*** ʾ**** 
+ <lb n="6"/>li wafāʾi ǧizyati hi wa maʿīšati hi wa ʾaǧǧaltu hu ḫamsaẗa ʾašhur:in 
+ <lb n="7"/>min mustahalli šaʿbāna sanaẗa ṯalāṯ:in wa miʾaẗ:in ʾilà ĭnsilāḫi 
+ <lb n="8"/>ḏī ăl ḥiǧǧaẗi min sanaẗi ṯalāṯ:in wa miʾaẗ:in wa ṭBʿ*** 
+ <lb n="9"/>B**** fa man laqiya hu baʿda ăl ʾaǧali ăllaḏī ʾaǧǧaltu hu 
+ <lb n="10"/>fa li yBd hu ʾilà madīnaẗ:in wa ăs salāmu ʿalà mani ĭttabaʿa ăl hudà 
+ <lb n="11"/>wa kataba saʿīdu fī šaʿbāna sanaẗa ṯalāṯ:in wa miʾaẗ:in 
+ <lb n="12"/>ăl lāhu w** 
+ <lb n="13"/>s*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful].
+			<lb n="2"/>
+		Thi[s] is a document [from So and So, son of So and So, administrator of the Amîr ʿUbaidallâh b. al-Ḥabḥâb over Upper-]
+			<lb n="3"/>
+		Ašmûn for [Šan]ûda b[en ...................................................]
+			<lb n="4"/>
+		................................................................, one of the people of the town of Aš[mûn]
+			<lb n="5"/>
+		Verily, I have permitted thee to .........[.........]......[...............]
+			<lb n="6"/>
+		to pay his poll-tax and (to obtain) his subsistence, and I have appointed to him (as a term) fi[ve months]
+			<lb n="7"/>
+		from the lunation of Šaʿbân of the year one hundred and three to [the end]
+			<lb n="8"/>
+		of Ḏu&#039;l-Ḥiǧǧa of the year one hundred and three. And
+			<lb n="9"/>
+		...... [...] ............... ; and [wh]osoever meets him after the [pe]riod which [I have appointed to him]
+			<lb n="10"/>
+		................................................ and hail to him who follows [the guidance].
+			<lb n="11"/>
+		And Saʿīd wrote (it) in Ša[ʿ]bân of the year [one hundred and] three.
+			<lb n="12"/>
+		God ......
+			<lb n="13"/>
+</ab></div>
+</body>
+</text>
+</TEI>

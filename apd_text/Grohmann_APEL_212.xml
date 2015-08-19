@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1696" xml:id="Grohmann_APEL_212" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 212</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_212</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169446</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  ‮ـ<gap reason="illegible" extent="4" unit="character" /> ‪χγʹιʹβʹ‬ جالية <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="3"/>  ‮بلتوس بن برموده ‪χγʹιʹβʹ‬ <gap reason="illegible" extent="1" unit="character" /> دويد بن أبلوه <gap reason="illegible" extent="1" unit="character" />ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮جالية ‪͵γʹ‬ جالية <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮بمون بن بطرس ‪χγʹ<unclear reason="undefined" cert="high">η</unclear>ʹ‬ <app type="BL"><lem resp="APD">بست </lem><rdg resp="APD">بست</rdg></app> بن الڤلپن ‪<unclear reason="undefined" cert="high">ς</unclear>ηʹ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮مراعي ‪<gap reason="illegible" extent="1" unit="character" /> ͵γʹ‬ مراعي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ‪‬‮اصطڤن الرّاعي ‪βχγʹ‬ فيلد بن لسّه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  وأيّوب مراعي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ‮موي الرّاعي ‪ςʹηʹ‬ <gap reason="illegible" extent="1" unit="character" /> إبشاده بن بقطر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  مراعي مراعي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>**** 
+ <lb n="2"/>**** ‪1/2+1/3+1/12 ǧāliyaẗ:un ***** 
+ <lb n="3"/>bilatūsu bnu barmūdaha ‪1/2+1/3+1/12 * dawīdu bnu ʾabalawha B*** 
+ <lb n="4"/>ǧāliyaẗ:un ‪1/3 ǧāliyaẗ:un *** 
+ <lb n="5"/>bamūnu bnu buṭrusa ‪1/2+1/3+1/8 bastu nastu bnu ʾlflBn ‪6 1/8 *** 
+ <lb n="6"/>marāʿī ‪1/3 * marāʿī *** 
+ <lb n="7"/>ʾiṣṭafanu ăr rāʿī 2 1/2+1/3 fīladu bnu lassaha *** 
+ <lb n="8"/>wa ʾayyūbu marāʿī *** 
+ <lb n="9"/>mūyu ăr rāʿī 1/6+1/8 * ʾibšādahu bnu buqṭura *** 
+ <lb n="10"/>marāʿī marāʿī 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		............... 1/2+1/3+1/12 poll-tax ... [
+			<lb n="3"/>
+		Pilatus b. Barmûde 1/2+1/3+1/12 Dawîd b. Apa Lau .[
+			<lb n="4"/>
+		poll-tax 1/3 carat (?) poll-tax [
+			<lb n="5"/>
+		Pamûn b. Buṭrus 1/2+1/3+1/8 Nest(os) b. ...... 6 1/8 [
+			<lb n="6"/>
+		pasture-tax 1/3 carat pasture-tax [
+			<lb n="7"/>
+		Stephen (Iṣṭafan), the shepherd 2 1/2+1/3 Fîlad b. Lassa [
+			<lb n="8"/>
+		and Job pasture-tax [
+			<lb n="9"/>
+		Mûi, the shepherd 1/6+1/8 carat Ibšâda b. Boqṭor [
+			<lb n="10"/>
+		pasture-tax pasture-tax.
+</ab></div>
+</body>
+</text>
+</TEI>

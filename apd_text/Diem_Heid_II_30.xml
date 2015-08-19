@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1395" xml:id="Diem_Heid_II_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169187</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظكما اللّه وعافاكما كتبت إليكم و<supplied reason="lost" cert="high">أ</supplied>نا بحال عافية و<supplied reason="lost" cert="high">سـ</supplied>ـلامة 
+<lb n="3"/>  واللّه محمود مشكور وأخبر<supplied reason="lost" cert="high">كم</supplied> أنّي ما زلت في <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> <unclear reason="undefined" cert="high">خبركم</unclear> 
+<lb n="4"/>  ولم أفرغ بعد من السّعي في أ<unclear reason="undefined" cert="high">مر</unclear><supplied reason="lost" cert="high">كم</supplied> <gap reason="illegible" extent="20" unit="character" /> 
+<lb n="5"/>  المسير <supplied reason="lost" cert="high">إ</supplied>لى طهرو<supplied reason="lost" cert="high">ح</supplied> في هذه الجمعة إن شا <supplied reason="lost" cert="high">اللّه</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وأبعث</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بما</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أقبض</rdg></app> 
+<lb n="6"/>  من ثمنه ولسـ<supplied reason="lost" cert="high">ـت</supplied> أحبس إلّا يوم أو يومين وقد بعثت إلـ<supplied reason="lost" cert="high">ـيـكم</supplied> 
+<lb n="7"/>  بكبشين <app type="BL"><lem resp="APD">و<gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">وبعثتهم</rdg></app> <supplied reason="lost" cert="high">إلى</supplied> جارنا الّذي يسكن في دار الجديدة 
+<lb n="8"/>  وهو إبراهيم الجـ<unclear reason="undefined" cert="high">ـبّاس</unclear> فاقبضوهم منه أ<supplied reason="lost" cert="high">قـ</supplied>ـواتا إن شا ا<supplied reason="lost" cert="high">للّه</supplied> 
+<lb n="9"/>  <app type="BL"><lem resp="APD">فأحرّم </lem><rdg resp="APD">فأحرم</rdg></app> علي أن <supplied reason="lost" cert="high">تجوعوا</supplied> <supplied reason="lost" cert="high">ويـ</supplied>ـعطونـكم علف جيّد ولا يضيعونكم 
+<lb n="10"/>  وما أدري ما مـ<supplied reason="lost" cert="high">ـنعـ</supplied>ـكم من الكتاب إلي في أمر الصّبيّة 
+<lb n="11"/>  على أن حالي بليّة تركتمونا في هم كثير من أمر<unclear reason="undefined" cert="high">ها</unclear> 
+<lb n="12"/>  أبلغوا أنفسكم السّلم والسّلم عليكم ورحمت 
+<lb n="13"/>  اللّه <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> وأقروا <supplied reason="lost" cert="high">حـ</supplied>ـكيم السّلم وقولوا له 
+<lb n="14"/>  <supplied reason="lost" cert="high">منّي</supplied> <supplied reason="lost" cert="high">ولا</supplied> تغفلوا عن هذا إن كنت لم تجد <unclear reason="undefined" cert="high">شي</unclear> <unclear reason="undefined" cert="high">تشتر</unclear><supplied reason="lost" cert="high">يه</supplied> 
+<lb n="15"/>  <gap reason="illegible" extent="6" unit="character" /> <unclear reason="undefined" cert="high">من</unclear> <gap reason="illegible" extent="6" unit="character" />د الـ<gap reason="illegible" precision="low" extent="3"/> إلى الـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إن</supplied> شا اللّه 
+<lb n="upper margin"/>  لأبي يحيى أبقاه اللّه من أبي <unclear reason="undefined" cert="high">عـ</unclear>ـبيـ<unclear reason="undefined" cert="high">ـد</unclear> عمـ<unclear reason="undefined" cert="high">ـرو</unclear> <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa kumā ăl lāhu wa ʿāfā kumā katabtu ʾilay kum wa ʾanā bi ḥāli ʿāfiyaẗ:in wa salāmaẗ:in 
+ <lb n="3"/>wa ăl lāhu maḥmūd:un maškūr:un wa ʾuḫbiru kum ʾan nī mā ziltu fī ** **** ****** ḫabar kum 
+ <lb n="4"/>wa lam ʾafruġ baʿdu mina ăs saʿyi fī ʾamri kum ******************** 
+ <lb n="5"/>ăl masīr ʾilà ṭahrūḥa fī hāḏihi ăl ǧumʿaẗi ʾin šāʾa ăl lāhu *** wa ø ʾabʿaṯu *** bi ø mā *** ʾaqbiḍu 
+ <lb n="6"/>min ṯamani hi wa lastu ʾaḥbisu ʾillā yawm ʾaw yawmayni wa qad baʿaṯtu ʾilay kum 
+ <lb n="7"/>bi kabšayni wa ***** baʿaṯtu hum ʾilà ǧāri nā ăllaḏī yaskunu fī dāri ăl ǧadīdaẗi 
+ <lb n="8"/>wa huwa ʾibrāhīmu ăl ǧabbāsu fa ăqbiḍū hum min hu ʾaqwāt:an ʾin šāʾa ăl lāhu 
+ <lb n="9"/>fa ʾuḥarrimu ʾuḥrima ʿalay ya ʾan taǧūʿū wa yuʿṭūna kum ʿalaf ǧayyid wa lā yuḍīʿūna kum 
+ <lb n="10"/>wa mā ʾadrī mā manaʿa kum mina ăl kitābi ʾilay ya fī ʾamri ăṣ ṣabiyyaẗi 
+ <lb n="11"/>ʿalà ʾanna ḥāl ī baliyyaẗ:un taraktumū nā fī hamm:in kaṯīr:in min ʾamri hā 
+ <lb n="12"/>ʾabliġū ʾanfusa kumu ăs salāma wa ăs salāmu ʿalay kum wa raḥmatu 
+ <lb n="13"/>ăl lāhi *** ** wa ʾaqrū ḥakīm:ini ăs salāma wa qūlū la hu 
+ <lb n="14"/>min nī wa lā taġfulū ʿan hāḏā ʾin kunta lam taǧid šayʾ taštarī hi 
+ <lb n="15"/>****** min ******d ăl *** ʾilà ăl *** ***** 
+ <lb n="16"/>*** ʾin šāʾa ăl lāhu 
+ <lb n="17"/>li ʾabī yaḥyà ʾabqā hu ăl lāhu min ʾabī ʿubayd:in ʿamr:in **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott beschütze Euch (Dual) und erhalte Euch (Dual)! Ich schreibe an Euch (Plural), während ich wohlbehalten und bei Gesundheit bin -
+			<lb n="3"/>
+		Gott sei gelobt und gepriesen! Ich teile Euch folgendes mit: Ich bin immer noch in [...] Nachricht von Euch (?),
+			<lb n="4"/>
+		und ich bin noch nicht fertig mit meinen Bemühungen in [Eurer (?) Angelegenheit (?) ... und ich beabsichtige,]
+			<lb n="5"/>
+		an diesem Freitag nach Ṭahrū[ḥ] zu gehen, so [Gott] will [
+			<lb n="6"/>
+		von ihrem (sc. der verkauften Ware) Verkaufserlös, und ich halte (ihn) (sc. den Erlös) nur einen oder zwei Tage zurück. Ich habe Euch
+			<lb n="7"/>
+		zwei Widder gesandt, und [zwar an] unseren Nachbarn, der im neuen Haus wohnt,
+			<lb n="8"/>
+		nämlich Ibrāhīm den Gipser (?). Nehmt sie von ihm als Nahrungsmittel in Empfang, so Gott will!
+			<lb n="9"/>
+		Denn ich könnte es mir nicht verzeihen, wenn [Ihr Hunger leiden müßtet (?)], und sie (sc. die Nachbarn) werden Euch Futter bester Qualität geben und Euch nicht im Stich lassen.
+			<lb n="10"/>
+		Ich weiß nicht, was Euch davon abgehalten hat, mir in der Angelegenheit der Kleinen zu schreiben;
+			<lb n="11"/>
+		indes ist mein Zustand Niedergeschlagenheit, weil Ihr mich wegen ihr in großer Sorge gelassen habt.
+			<lb n="12"/>
+		Laßt Euch grüßen, und mit Euch seien der Friede und die Gnade Gottes [...] Richtet
+			<lb n="13"/>
+		Grüße an Ḥakīm aus und sagt ihm [von mir] und vergeßt es [nicht]: &#034;Wenn Du nichts
+			<lb n="14"/>
+		findest, was Du kaufen könntest (?),
+			<lb n="15"/>
+		[...] von [...] - - - an [...]
+			<lb n="16"/>
+		[...] so Gott will.
+			<lb n="17"/>
+		An Abū Yaḥyā - Gott erhalte ihn - von Abū ʿUbayd (?) ʿAmr [ 
+</ab></div>
+</body>
+</text>
+</TEI>

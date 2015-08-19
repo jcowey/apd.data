@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="529" xml:id="Becker_PAF_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 09 (= P.Heid.Arab. I 08)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">19855</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شريك</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">أهل</supplied> بنده بديده من كورة <app type="BL"><lem resp="APD">القيس </lem><rdg resp="fāʾ with two dots above “Becker, PAF 9; earlier Becker, PSR I, p. 24”">الفیس</rdg></app> <app type="BL"><lem resp="APD">فا </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 8”">فأعطوا</rdg></app> 
+<lb n="3"/>  ڤپصوا من ماروپ كورپكم حمسپن رطل <app type="BL"><lem resp="“Becker, PAF 8”">حدپد </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 8”">مرتزّ </rdg><rdg resp="“earlier Becker, P.Heid.Arab. I 8”">مرتزئ</rdg></app> 
+<lb n="4"/>  من حديد الإمارة فاصنعوا منها ثلثة وثلثين رطل 
+<lb n="5"/>  وثلث رطل مسامير ثم <app type="BL"><lem resp="APD">ادفعوا </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 8”">فأرسلوا</rdg></app> ما صنعتم إلى عبد 
+<lb n="6"/>  لاعلى بن أبي <unclear reason="undefined" cert="high">حكيم</unclear> لـ<unclear reason="undefined" cert="high">ـصنـ</unclear>ـعة العپن <app type="BL"><lem resp="APD">والقوادس </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 8”">الفوارس</rdg></app> <app type="BL"><lem resp="APD">سنة </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 8”">منه</rdg></app> 
+<lb n="7"/>  تسعين لجيش سنة إحدى وتسعين فإن أعطيتم الأجر 
+<lb n="8"/>  <supplied reason="lost" cert="high">فـ</supplied>ـأعطوا دينر وثلث دينر وكتب 
+<lb n="9"/>  <supplied reason="lost" cert="high">مـ</supplied>ـرثد في شوّال من سنة تسعين 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà ʾahli bandah badiyadaha min kūraẗi ăl qaysi faysi fa ĭqbiḍū ʾaʿṭū 
+ <lb n="3"/>min māzūti kūrati kum ḫamsīna raṭl ḥadīd maziyyun murtazz:in murtaziʾ:in 
+ <lb n="4"/>min ḥadīdi ăl ʾimāraẗi fa ĭṣnaʿū min hā ṯalāṯaẗ:an wa ṯalāṯīna raṭl 
+ <lb n="5"/>wa ṯulṯa raṭl:in masāmīra ṯumma ø fa ĭdfaʿū ʾarsilū mā ṣanaʿtum ʾilà ʿabdi 
+ <lb n="6"/>ăl ʾaʿlà bni ʾabī ḥakīm:in li ṣanʿaẗi ăl ʿBni wa ăl qawādisi fawāris sanaẗa min ø hu 
+ <lb n="7"/>tisʿīna li ǧayši sanaẗi ʾiḥdà wa tisʿīna fa ʾin ʾaʿṭaytumu ăl ʾaǧra 
+ <lb n="8"/>fa ʾaʿṭū dīnār wa ṯulṯa dīnār:in wa kataba 
+ <lb n="9"/>murṯid:un fī šawwāl:in min sanaẗi tisʿīna 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Name Gottes des Allerbarmers! 
+		Im Namen Gottes, des B]armherzigen, des Erbarmers
+			<lb n="2"/>
+		Von Qorra --- an] --- ? --- im Kreise el-Qais
+		Von Qorra b. Šarīk an die Bewohner von Πέντε Πεδιάδες im Kreise el-Qais. 
+			<lb n="3"/>
+		Empfanget von dem μειζότερος Eures Kreises fünfzig Pfund Roheisen 
+		Gebet (?) ----] fünfzig riṭl, neue, verkleinerte (?) 
+			<lb n="4"/>
+		-------]- dreiunddreißig riṭl 
+		von dem der Regierung gehörigen Eisen und machet daraus dreiunddreissig 
+			<lb n="5"/>
+		und ein Drittel Pfund Nägel. Dann gebet, was ihr gemacht habt, an ʿAbd el-
+		--- und sendet,] was Ihr gemacht habt, an ʿAbda[llāh 
+			<lb n="6"/>
+		Aʿlā b. Abī Ḥakīm zur Herstellung von ......-Schiffen und grossen Schiffen im (resp. für das) Jahr 
+		-------]-- und die Reiter von ihm 
+			<lb n="7"/>
+		90 für das Heer des Jahres einundneunzig; und wenn ihr (lieber) Lohn zahlt, 
+		-------]-- und wenn Ihr den Lohn gebt, 
+			<lb n="8"/>
+		so gebet ein und ein Drittel Dīnār. Es hat (dies) geschrieben 
+			<lb n="9"/>
+		Murṯid im Šawwāl des Jahres neunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

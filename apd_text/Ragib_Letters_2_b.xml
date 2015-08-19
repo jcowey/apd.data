@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1394" xml:id="Ragib_Letters_2_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 02 b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Letters_2_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169186</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso 2"/>  من خالد بن يزيد إلى سلّام 
+<lb n="verso 3"/>  بن محمّد سلم عليـك فـإنّي 
+<lb n="verso 4"/>  أحمد إليـك اللّه 
+<lb n="verso 5"/>  الّذي لا إله إلّا هو 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ḫālidi bni yazīda ʾilà sallāmi 
+ <lb n="3"/>bni muḥammad:in salām:un ʿalay ka fa ʾin nī 
+ <lb n="4"/>ʾaḥmadu ʾilay ka ăl lāha 
+ <lb n="5"/>ăllaḏī lā ʾilāha ʾillā huwa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		De la part de Ḫālid b. Yazīd à Sallām
+			<lb n="3"/>
+		b. Muḥammad. Salut sut toi! Je
+			<lb n="4"/>
+		loue pour toi Dieu
+			<lb n="5"/>
+		qui est la seule divinité!
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1480" xml:id="Khan_Khalili_I_16" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 16 (= P.Khalili II 42)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_16</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169261</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه </lem><rdg resp="Diem">خدّامه</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">المجبستـ</unclear><supplied reason="lost" cert="high">ـيّ</supplied> </lem><rdg resp="APD">المجبسيّ </rdg><rdg resp="Diem">وعبيده</rdg></app> 
+ <lb n="2"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="3"/>  أصلح اللّه الأمير و<supplied reason="lost" cert="high">أطـ</supplied>ـال بقاه 
+ <lb n="4"/>  إنّه لم يخفا على الأمير أبقـ<supplied reason="lost" cert="high">ـاه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> ما <supplied reason="lost" cert="high">حصـ</supplied>ـل بنا في 
+ <lb n="5"/>  هذه السّنة من <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> مرضا وضيق هذه 
+ <lb n="6"/>  السّنة وقد حبسنا في الحـ<supplied reason="lost" cert="high">ـبـ</supplied>ـس ومنعنا من العمارة 
+ <lb n="7"/>  والأمير يعلم أن مثل هـ<supplied reason="lost" cert="high">ـذا</supplied> <supplied reason="lost" cert="high">اليـ</supplied>ـوم نحمل <sic n="superfluous">الزّيل</sic><supplied reason="omitted" cert="high">الزبل</supplied> <app type="BL"><lem resp="APD">ونعلّي </lem><rdg resp="Diem">ونفلي</rdg></app> زرعنا 
+ <lb n="8"/>  وإنّما زرعنا للّه <app type="BL"><lem resp="APD">والأمـ<supplied reason="lost" cert="high">ـير</supplied> </lem><rdg resp="Diem">وللأمير</rdg></app> <supplied reason="lost" cert="high">يعلم</supplied> <supplied reason="lost" cert="high">أنّا</supplied> <supplied reason="lost" cert="high">لم</supplied> <del rend="erasure" status="unremarkable">پپسول</del> نأخذ منه شيا 
+ <lb n="9"/>  حتّا <app type="BL"><lem resp="APD">وفى </lem><rdg resp="Diem">نوفي</rdg></app> الخراج فإن <app type="BL"><lem resp="APD">في </lem><rdg resp="Diem">وفى</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">هذا</supplied> </lem><rdg resp="Diem">الخراج</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـمكان </lem><rdg resp="Diem">مكان</rdg></app> لنا <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">والانحباس</unclear> </lem><rdg resp="Diem">وللاپحار</rdg></app> وقد 
+ <lb n="10"/>  عطبنا في هذه السّـ<supplied reason="lost" cert="high">ـنة</supplied> وإنّما الزّراع باللّه وبزرعه 
+ <lb n="11"/>  فرأيك في أمرنا أبقاك اللّه فإنّا في ضيق <app type="BL"><lem resp="APD">ومنافر </lem><rdg resp="Diem">ومنّا</rdg></app> <app type="BL"><lem resp="APD">اللّه </lem><rdg resp="Diem">واللّه</rdg></app> ممّن 
+ <lb n="12"/>  لا يجد الطّعام فانظر في <supplied reason="lost" cert="high">أمرنا</supplied> نظر اللّه إليك أبقاك اللّه وحماك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>***h ḫuddāmu ø hu ăl wa maǧubsatiyy maǧubsiyy ʿabīdu ø hu 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaṣlaḥa ăl lāhu ăl ʾamīra wa ʾaṭāla baqāʾa hu 
+ <lb n="4"/>ʾinna hu lam yaḫfā ʿalà ăl ʾamīri ʾabqā hu ăl lāhu mā ḥaṣala bi nā fī 
+ <lb n="5"/>hāḏihi ăs sanaẗi min *** *** maraḍ:an wa ḍīqa hāḏihi 
+ <lb n="6"/>ăs sanaẗi wa qad ḥubisnā fī ăl ḥabsi wa muniʿnā mina ăl ʿimāraẗi 
+ <lb n="7"/>wa ăl ʾamīru yaʿlamu ʾan miṯla hāḏā ăl yawmi naḥmilu ăz zibla zubula wa nuʿallī naflī zarʿa nā 
+ <lb n="8"/>wa ʾinnamā zarʿu nā li l lāhi wa ø li ăl l ʾamīru ʾamīri yaʿlamu ʾan nā lam naʾḫuḏ min hu šayʾ:an 
+ <lb n="9"/>ḥattā wafà nūfī ăl ḫarāǧa ḫarāǧi fa ʾinna fī wafà hāḏā ăl ø ḫarāǧi ăl makāni makān:un la nā wa ø li ăl l ĭnḥibāsi ʾBḥʾr wa qad 
+ <lb n="10"/>ʿaṭibnā fī hāḏihi ăs sanaẗi wa ʾinnamā ăz zirāʿu bi ăl lāhi wa bi zarʿi hi 
+ <lb n="11"/>fa raʾya ka fī ʾamri nā ʾabqā ka ăl lāhu fa ʾin nā fī ḍīq:in wa munāfari min ø nā ø wa ăl lāhi mimman 
+ <lb n="12"/>lā yaǧidu ăṭ ṭaʿāma fa ănẓur fī ʾamri nā naẓara ăl lāhu ʾilay ka ʾabqā ka ăl lāhu wa ḥamā ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  seine Diener und Sklaven
+		 <lb n="2"/>
+ 	  In the name of God the merciful [and compassionate].
+		 <lb n="3"/>
+ 	  May God grant well being to the ʾamīr and prolong his life.
+		 <lb n="4"/>
+ 	  The ʾamīr, may God preserve him, is aware of what has befalled us
+		 <lb n="5"/>
+ 	  this year with respect to[   ]disease and distress this
+		 <lb n="6"/>
+ 	  year. We have been detained in prison and prevented from cultivating (the land).
+		 <lb n="7"/>
+ 	  ... daß wir an einem Tag wie diesen den Dünger (hinaus)bringen und (damit) unsere Saat zum Wachsen bringen (?)
+ 	  The ʾamīr knows that around this time we bring our baskets and carry off our crops.
+ 	   ... und wir reinigen unsere Saat von Ungeziefer.
+		 <lb n="8"/>
+ 	  Behold, our crops belong to God and to the ʾamīr...
+ 	  But our crops have been wasted (?) The ʾamīr [knows that we have not] [[begged]] taken anything from him
+		 <lb n="9"/>
+ 	  until paying the land tax in full. In our confinement in this place we have been
+ 	  vielmehr zahlen wir voll die Grundsteuer, denn die volle Bezahlung der Grundsteuer bedeutet für uns und für die... Ansehen.
+		 <lb n="10"/>
+ 	  afflicted this year and our crops are wasted.
+		 <lb n="11"/>
+ 	  (Please communicate to us) your view of the case, may God preserve you. We are in distress and misfortune,
+ 	  ... und unter uns sind, bei Gott, (sogar) Leute, welche
+		 <lb n="12"/>
+ 	  keine Nahrung finden. (...) Gott bewahre und schütze dich.
+ 	  unable to find food. Look into [our case] and may God look to you (with favour). May God preserve you and embellish you.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

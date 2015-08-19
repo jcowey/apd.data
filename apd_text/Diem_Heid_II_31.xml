@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1396" xml:id="Diem_Heid_II_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 31</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169188</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  عافانا اللّه وإيّاك من السّو 
+<lb n="recto 3"/>  ادفع إلى جريج الخادم قطعة من ذلك 
+<lb n="recto 4"/>  البزيون الأبيض الّذي بعثنا به إلى سلامة 
+<lb n="recto 5"/>  حتّى يكف بها ركّابي سرجه 
+<lb n="recto 6"/>  إن شا ا<supplied reason="lost" cert="high">لـ</supplied>ـلّه عافانا اللّه و<supplied reason="lost" cert="high">إيّا</supplied>ك من الـ<supplied reason="lost" cert="high">ـسّو</supplied> <supplied reason="lost" cert="high">بر</supplied>حمـ<supplied reason="lost" cert="high">ـته</supplied> 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">لأ</supplied>بي قير الخادم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿāfā nā ăl lāhu wa ʾiyyā ka mina ăs sūʾi 
+ <lb n="3"/>ĭdfaʿ ʾilà ǧurayǧ:ini ăl ḫādimi qiṭʿaẗ:an min ḏālika 
+ <lb n="4"/>ăl buzyūni ăl ʾabyaḍi ăllaḏī baʿaṯnā bi hi ʾilà salāmaẗa 
+ <lb n="5"/>ḥattà yakuffa bi hā rakkābay sarǧi hi 
+ <lb n="6"/>ʾin šāʾa ăl lāhu ʿāfā nā ăl lāhu wa ʾiyyā ka mina ăs sūʾi bi raḥmati hi 
+ <lb n="7"/>li ʾabī qīra ăl ḫādimi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott bewahre uns und Dich vor dem Übel!
+			<lb n="3"/>
+		Händige Ǧurayǧ, dem Diener, ein Stück von jenem
+			<lb n="4"/>
+		weißen Brokat aus, den wir (auch) an Salāmah gesandt haben,
+			<lb n="5"/>
+		damit er (sc. Ǧurayǧ) damit die Steigbügel seines Sattels besäumen kann,
+			<lb n="6"/>
+		so Gott will. Gott bewahre uns und Dich vor dem Übel!
+			<lb n="7"/>
+		[An A]bū Qīr, den Diener.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1123" xml:id="Diem_CPR_16_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168979</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وأبقاك وأمتع بك ومد في عمرك وجعلني فداك 
+<lb n="3"/>  وكفاك ما همّك من أمر آخرتك ودنياك 
+<lb n="4"/>  كتبت إليك حفظك اللّه وضيعتك وجميـ<sic n="superfluous">ـپـ</sic>ـع ما قبلنا في عافية واللّه محمود 
+<lb n="5"/>  قد <supplied reason="lost" cert="high">كـ</supplied>ـتبت إليك حفظك اللّه كتاب قبل هذا أخبرك فيه بأنّهم ساقوا 
+<lb n="6"/>  إسحاق بن بريع وعيسى بن يحيى ويحيى الزّيّات وهم محبسين إلى أن كتبت 
+<lb n="7"/>  <sic n="superfluous">الى</sic> إليك وهم في يديه بالمدينة على أن يكتب عليهم ضمان الغلّة وهم 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/><del rend="erasure" status="unremarkable">ـا</del> يأبوا وقدم على كتابك إليه يوم كتبت إليك وهو يوم الخميس وأنا ذاهب 
+<lb n="9"/>  به إلى المدينة إليه يوم كتبت إليك وأسلّم غلّته فإن أمره ممّا يغمّنا وبن 
+<lb n="10"/>  أخي بن خليل عندنا في القرية قد غمّنا ومعه <gap reason="illegible" extent="10" unit="character" /><supplied reason="lost" cert="high"> مع</supplied> 
+<lb n="11"/>  أبي حامد مد اللّه في عمره وبارك لك في قدومـ<supplied reason="lost" cert="high">ـه</supplied> إ<supplied reason="lost" cert="high">ليـ</supplied>ـك <supplied reason="lost" cert="high">بـ</supplied>ـسلام فنسل اللّه 
+<lb n="12"/>  أن يبارك لك في قدومه وأقرئ أبو العبّاس بلغ الـ<supplied reason="lost" cert="high">ـلّـ</supplied>ـه به السّلم كثيرا 
+<lb n="13"/>  أبقاك اللّه وحفظك ومد فـ<supplied reason="lost" cert="high">ـي</supplied> عمرك وأ<supplied reason="lost" cert="high">متع</supplied> <supplied reason="lost" cert="high">بك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾamtaʿa bi ka wa madda fī ʿumri ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="3"/>wa kafā ka mā hamma ka min ʾamri ʾāḫirati ka wa dunyā ka 
+ <lb n="4"/>katabtu ʾilay ka ḥafiẓa ka ăl lāhu wa ḍayʿaẗu ka wa ǧamīʿu mā qibala nā fī ʿāfiyaẗ:in wa ăl lāhu maḥmūd:un 
+ <lb n="5"/>qad katabtu ʾilay ka ḥafiẓa ka ăl lāhu kitāb qabla hāḏā ʾuḫbiru ka fī hi bi ʾanna hum sāqū 
+ <lb n="6"/>ʾisḥāqa bna barīʿa wa ʿīsà bna yaḥyà wa yaḥyà ăz zayyāta wa hum muḥbasīna ʾilà ʾan katabtu 
+ <lb n="7"/>ʾilay ka wa hum fī yaday hi bi ăl madīnaẗi ʿalà ʾan yuktaba ʿalay him ḍamānu ăl ġallaẗi wa hum 
+ <lb n="8"/>***ā yaʾbaw wa qadima ʿalay ya kitābu ka ʾilay hi yawma katabtu ʾilay ka wa huwa yawmu ăl ḫamīsi wa ʾanā ḏāhib:un 
+ <lb n="9"/>bi hi ʾilà ăl madīnaẗi ʾilay hi yawma katabtu ʾilay ka wa ʾusallimu ġallaẗa hu fa ʾinna ʾamra hu mimmā yaġummu nā wa bnu 
+ <lb n="10"/>ʾuḫayyi bni ḫalīl:in ʿinda nā fī ăl qaryaẗi qad ġamma nā wa maʿa hu ********** maʿa 
+ <lb n="11"/>ʾabī ḥāmid:in madda ăl lāhu fī ʿumri hi wa bāraka la ka fī qudūmi hi ʾilay ka bi salām:in fa nasalu ăl lāha 
+ <lb n="12"/>ʾan yubārika la ka fī qudūmi hi wa ʾaqriʾ ʾabū ăl ʿabbāsi balaġa ăl lāhu bi hi ăs salāma kaṯīr:an 
+ <lb n="13"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa madda fī ʿumri ka wa ʾamtaʿa bi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott Beschütze und erhalte Dich, gebe an Dir Freude, verlängere Deine Lebenszeit, mache mich zu Deinem Lösegeld
+			<lb n="3"/>
+		und erspare Dir, was Dir bei Deinem Jenseits und Diesseits Sorgen bereiten könnte!
+			<lb n="4"/>
+		Ich schreibe Dir - Gott beschütze Dich -, wobei Dein Landgut und alle Meinigen bei Gesundheit sind, Gott sei gelobt!
+			<lb n="5"/>
+		Ich hatte Dir - Gott beschütze Dich - schon vor diesem (Brief) einen Brief geschrieben, um Dir darin mitzuteilen, daß man
+			<lb n="6"/>
+		Isḥāq b. Barīʿ, ʿĪsā b. Yaḥyā und Yaḥyā den Ölhändler abgeführt hat, wobei sie bis jetzt, da ich Dir schreibe, in Haft sind,
+			<lb n="7"/>
+		und zwar sind sie in seiner (sc. eines Dritten) Gewalt in der Stadt, insofern als die Haftung für die Ernte gegen sie festgesetzt werden soll, während sie
+			<lb n="8"/>
+		sich weigern. Dein Brief an ihn ist bei mir an eben dem Tag, an dem ich Dir (diesen Brief) schreibe - es ist der Donnerstag - bei mir angekommen, und ich werde
+			<lb n="9"/>
+		ihn gleich an dem (heutigen) Tag, an dem ich Dir (diesen Brief) schreibe, zu ihm in die Stadt bringen und seine Ernte retten, denn seine Angelegenheit bereitet uns Kummer. Der Sohn
+			<lb n="10"/>
+		von ʾUḫayy b. Ḫalīl bei uns im Dorf hat uns (auch) Kummer gemacht, wobei er bei sich hatte [... ich übersende den Brief durch (?)]
+			<lb n="11"/>
+		Abū Ḥāmid - Gott verlängere seine Lebenszeit und segne Dir zuliebe seine Ankunft b[ei Di]r (?) in Wohlbehaltenheit! So bitten wir denn Gott,
+			<lb n="12"/>
+		er segne Dir zuliebe seine Ankunft! Grüße Abū l-ʿAbbās - Gott lasse ihn (sein vorhergesehenes Lebensende) erreichen - vielmals!
+			<lb n="13"/>
+		Gott erhalte und beschütze Dich, verlängere Deine Lebenszeit und ge[be an Dir Freude!]
+</ab></div>
+</body>
+</text>
+</TEI>

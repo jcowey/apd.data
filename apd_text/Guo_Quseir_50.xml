@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="924" xml:id="Guo_Quseir_50" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 50</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_50</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113682</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <sic n="superfluous">لى</sic> <expan><ex>بسم</ex> <ex>اللّه</ex> <ex>الرّحمن</ex> <ex>الرّحيم</ex></expan> 
+<lb n="2"/>  تأريخ سنة اثنا عشر ستّمائة 
+<lb n="3"/>  إلى ساحل القصير للشّيخ أبو إسحاق 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> المرحهى على يد سعد علام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taʾrīḫ:un sanaẗu ĭṯnā ʿašara sitti miʾaẗ:in 
+ <lb n="3"/>ʾilà sāḥili ăl quṣayri li š šayḫi ʾabū ʾisḥāqa 
+ <lb n="4"/>*** ăl marǧahiyy ʿalà yadi saʿd:in ġulāmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		The date: the year six hundred and twelve.
+			<lb n="3"/>
+		To the port of Quseir, to [the care of ] Shaykh Abū Isḥāq,
+			<lb n="4"/>
+		[from...] al-Marjahī, to be handed over by Saʿd, the slave boy of [......].
+</ab></div>
+</body>
+</text>
+</TEI>

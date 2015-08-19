@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="697" xml:id="Raghib_March_3_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106778</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="5" unit="character" /> اپپپن وعسرپن <unclear reason="undefined" cert="high">درهما</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ونصف بالسّبعة <app type="BL"><lem resp="APD">كرهت </lem><rdg resp="APD">صرفت</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  كان فيها قطع كثيرة ولو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  الشّرا ولقد كسد وبا<supplied reason="omitted" cert="high">ر</supplied> المتـ<supplied reason="lost" cert="high">ـاع</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" extent="5" unit="character" /> لڤاڤه وپعپپ ا<supplied reason="lost" cert="high">لپك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ثلاثة وعشرين درهم بدينر و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/>ـا ارپعه من الپمانپه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <supplied reason="lost" cert="high">و</supplied>ارپعه اپوأپ مپهأ <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="10"/>  <gap reason="illegible" extent="2" unit="character" /> واپعپ په البك ڤكإن المپاع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> الڤپوم ووالله لڤد حرصپ ڤى 
+<lb n="12 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> لى الحمله ڤما فدرپ ان أنـ<supplied reason="lost" cert="high">ـو</supplied>لا <supplied reason="lost" cert="high">ألـ</supplied>ـتپع 
+<lb n="13 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> اپپك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ** *** 
+ <lb n="2"/>***** ĭṯnayni wa ʿišrīna dirham:an *** 
+ <lb n="3"/>wa niṣf bi ăs sabʿaẗi karihtu ṣaraftu *** 
+ <lb n="4"/>kāna fī hā qiṭaʿ:un kaṯīraẗ:un wa law *** 
+ <lb n="5"/>ăš širāʾ wa la qad kasada wa bāra ăl matāʿu *** 
+ <lb n="6"/>***** lifāfaẗ wa baʿaṯtu ʾilay ka *** 
+ <lb n="7"/>ṯalāṯaẗ wa ʿišrīna dirham bi dīnār:in wa *** 
+ <lb n="8"/>***ʾ ʾarbaʿaẗ mina ăṯ ṯamāniyaẗi *** 
+ <lb n="9"/>wa ʾarbaʿaẗ ʾaṯwāb:in min hā **** 
+ <lb n="10"/>** wa ʾabʿaṯu bi hi ʾilay ka fa kāna ăl matāʿu *** 
+ <lb n="11"/>*** ăl fayyūm wa wa ăl lāhi la qad ḥaraṣtu fī 
+ <lb n="12"/>*** **** l ī ăl ǧumlaẗ fa mā qadartu ʾan ʾatawallā ăl bayʿa 
+ <lb n="13"/>*** ** ʾabī ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[....] vingt-deux dirhams (?) [
+			<lb n="3"/>
+		et demi pour les sept. J&#039;ai répugné à [
+			<lb n="4"/>
+		Ils comprenaient de nombreux fragments découpés. Si [
+			<lb n="5"/>
+		l&#039;achat. La marchan[dise] est en baisse et ne se vend pas [
+			<lb n="6"/>
+		[.]..[..] une lifāfa. Je [t]&#039;ai envoyé [
+			<lb n="7"/>
+		vingt-trois dirhams pour un dinar et [
+			<lb n="8"/>
+		[.].. quatre des huit [
+			<lb n="9"/>
+		[et] quatre pièces d&#039;étoffe d&#039;entre elles. [
+			<lb n="10"/>
+		[..] et je te l&#039;enverrai. La marchandise était [
+			<lb n="11"/>
+		].. al-Fayyoum. Par Dieu! J&#039;ai été vigilant au sujet de
+			<lb n="12"/>
+		].... la totalité. Je n&#039;ai pu me charger de vendre
+			<lb n="13"/>
+		].. ton père
+</ab></div>
+</body>
+</text>
+</TEI>

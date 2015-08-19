@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1419" xml:id="Diem_Heid_II_38" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 38</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_38</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169207</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="verso 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="verso 2"/>  <sic n="superfluous">أ</sic>اطال اللّه بقاك وأدام عزّك و<unclear reason="undefined" cert="high">كر</unclear><supplied reason="lost" cert="high">ا</supplied><unclear reason="undefined" cert="high">متـ</unclear>ـك وتأييدك وسعادتك وأتم نعمته 
+<lb n="verso 3"/>  عليك وزاد في فضله وإحسانه إليك و<unclear reason="undefined" cert="high">جـ</unclear>ـزيل <unclear reason="undefined" cert="high">فـ</unclear>ـسحه لديك وعندك برحمتـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="verso 4"/>  <supplied reason="lost" cert="high">كتبت</supplied> في هذا اليوم سفتجة بثلاثين دينار واليوم أنا أعد القطعتين أقل من ثلاثين دينار 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> الفولي ولي قبله نحو من ثلاثين دينار وباللّه العظيم الرّحمن الرّحيم 
+<lb n="verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السّـ</supplied>ـفتجة وأنا أعلم أن سوف يلحقك في الرّد إخلاق <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">پحپپر </rdg><rdg resp="APD">عپپر</rdg></app> وخسارة 
+<lb n="verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> ـ<gap reason="illegible" extent="2" unit="character" />ـپك تلك السّفاتج صيانة لك لأنّلا يلحقك إخلاق وأنت فتحب أن يلحقني 
+<lb n="verso 8"/>  <supplied reason="lost" cert="high">إخلاق</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">و</supplied>علمت قومك طلبت إخلاقي <gap reason="illegible" extent="1" unit="character" /> واحسبك پلعك 
+<lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه تعلم ما أنا فيه وما أنا عليه وأعمل على أنّه سوف يجيك 
+<lb n="verso 10"/>  <gap reason="illegible" precision="low" extent="3"/> على هذا الأمر والسّلم مثل الصّدر وأجل 
+<lb n="recto 1 right"/>  لأبي القسم أطال اللّه بقاه وأدام عزّه 
+<lb n="recto 2 right"/>  وتأييده وسعادته ونعمته 
+<lb n="recto 1 left"/>  من أحمد بن محمّد <app type="BL"><lem resp="APD">الصّلوفي </lem><rdg resp="APD">الصّلوقيّ </rdg><rdg resp="Rāġib">الصّيرفي</rdg></app> 
+<lb n="recto 2 left"/>  أبو القسم هشام بن عبد اللّه بن <app type="BL"><lem resp="APD">محمّد </lem><rdg resp="Rāġib">عمر</rdg></app> <app type="BL"><lem resp="APD">الصّلوفي </lem><rdg resp="APD">الصّلوقيّ </rdg><rdg resp="Rāġib">الصّيرفي</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka wa saʿādata ka wa ʾatamma niʿmata hu 
+ <lb n="3"/>ʿalay ka wa zāda fī faḍli hi wa ʾiḥsāni hi ʾilay ka wa ǧazīli fasḥi hi laday ka wa ʿinda ka bi raḥmati hi 
+ <lb n="4"/>katabtu fī hāḏā ăl yawmi suftaǧaẗ:an bi ṯalāṯīna dīnār wa ăl yawma ʾanā ʾaʿuddu ăl qiṭʿatayni ʾaqalla min ṯalāṯīna dīnār 
+ <lb n="5"/>*** ăl fūliyy wa l ī qibala hu naḥwa min ṯalāṯīna dīnār wa bi ăl lāhi ăl ʿaẓīmi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>*** ăs suftaǧaẗ wa ʾanā ʾaʿlamu ʾanna sawfa yulḥiqu ka fī ăr raddi ʾiḫlāq:un ***** BḥBBr ʿBBr wa ḫasāraẗ:un 
+ <lb n="7"/>*** **B ka tilka ăs safātiǧ ṣiyānaẗ:an la ka liʾanna lā yulḥiqu ka ʾiḫlāq:un wa ʾanta fa tuḥibbu ʾan yulḥiqa nī 
+ <lb n="8"/>ʾiḫlāq:un **** wa ʿalimtu qawma ka ṭalabat ʾiḫlāq ī wa ʾaḥsibu ka balaġa ka ʾanna nī 
+ <lb n="9"/>*** ***h taʿlamu mā ʾanā fī hi wa mā ʾanā ʿalay hi wa ʾaʿmalu ʿalà ʾanna hu sawfa yaǧī ka 
+ <lb n="10"/>*** ʿalà hāḏā ăl ʾamri wa ăs salāmu miṯla ăṣ ṣadri wa ʾaǧallu 
+ <lb n="11"/>li ʾabī ăl qāsimi ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu 
+ <lb n="12"/>wa taʾyīda hu wa saʿādata hu wa naʿmata hu 
+ <lb n="13"/>min ʾaḥmada bni muḥammad:in ăṣ ṣalūfiyyi ṣalūqiyyi ṣayrafiyyi 
+ <lb n="14"/>ʾabū ăl qāsimi hišāmu bnu ʿabdi ăl lāhi bnu muḥammad:ini ʿumar:ini ăṣ ṣalūfiyyi ṣalūqiyyi ṣayrafiyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen, Deine ehrenvolle Stellung (?), Deine Unterstützung und Dein Glück andauern, vollende seine Gnade
+			<lb n="3"/>
+		an Dir, erweise Dir in seiner Gnade noch mehr seine Gunst und sein Wohlwollen und messe Dir noch reichlicher (Lebenszeit) zu!
+			<lb n="4"/>
+		[Ich habe] am heutigen Tage eine Zahlungsanweisung über dreißig Dinare [ausgestellt], aber ich halte heute (?) die beiden Grund(?)stücke für weniger als dreißig Dinare
+			<lb n="5"/>
+		[...] al-Fūlī (?), und ich habe ihm ein Guthaben etwa in der Höhe der dreißig Dinare stehen, und bei Gott, dem Allmächtigen, dem Barmherzigen und Gnädigen,
+			<lb n="6"/>
+		[... die Zah]lungsanweisung, wobei ich weiß, daß Dich bei einer Ablehnung Mühe - - - und Verlust betreffen würden.
+			<lb n="7"/>
+		[...] Dich/Dir diese Zahlungsanweisungen, um Dich zu schützen, damit Dich keine Mühe betrifft. Was hingegen Dich angeht, so wünschst Du, daß mich
+			<lb n="8"/>
+		[Mühe ...] betrifft, [und] ich habe bemerkt, daß Deine Leute es darauf abgesehen hatten, mir Mühe zu machen. Ich nehme an, daß Du erfahren hast, daß ich
+			<lb n="9"/>
+		[...] Du kennst meine Lage und Situation. Ich werde darauf hinwirken, daß bestimmt zu Dir kommt
+			<lb n="10"/>
+		[...] gemäß dieser Angelegenheit. Der Gruß sei wie der Beginn (des Briefes) und noch bedeutsamer!
+			<lb n="11"/>
+		An Abū l-Qāsim - Gott lasse ihn lange leben und lasse sein Ansehen,
+			<lb n="12"/>
+		seine Unterstützung, sein Glück und seine Gnade andauern - 
+			<lb n="13"/>
+		von Aḥmad b. Muḥammad aṣ-Ṣalūfī.
+			<lb n="14"/>
+		Abū l-Qāsim Hišām b. ʿAbdallāh b. Muḥammad aṣ-Ṣalūfī.
+</ab></div>
+</body>
+</text>
+</TEI>

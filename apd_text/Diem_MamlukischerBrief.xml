@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2036" xml:id="Diem_MamlukischerBrief" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Philad.Arab. 113 = P.DiemMamlukischerBrief</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_MamlukischerBrief</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حيم 
+<lb n="2"/>  أعلم حضرة <supplied reason="lost" cert="high">صديقي</supplied> الأمير فارس الدّوادار <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه بقاه وأدام علاه وسناه 
+<lb n="3"/>  وكبت حسدته وأعداه حضور شنوده موصل هذه الأحرف 
+<lb n="4"/>  شريك الدّيوان السّعيد <unclear reason="undefined" cert="high">المأمريّ</unclear> يشكوا ما حل به من قبله وهو يعلم 
+<lb n="5"/>  <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">الدّيوان</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـرر </lem><rdg resp="APD">قرّر</rdg></app> ما كان يجب عليه <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> فقد 
+<lb n="6"/>  صار ما يخصّه برسم الدّيوان والواجب عليه يكف ويتّقيني صديق له 
+<lb n="7"/>  ويصلني كتابه في أنس إليه وأشكر عليه ويعوّل علي في حوائجه 
+<lb n="8"/>  إن شا اللّه 
+<lb n="9"/>  الحمد للّه وحده وصلواته على سيّدنا محمّد وصحبه و<supplied reason="lost" cert="high">الـ</supplied>ـسّلام 
+<lb n="10"/>  حسبنا اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾuʿlimu ḥaḍraẗa ṣadīq ī ăl ʾamīra fāris ăd dawādāra ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿalāʾa hu wa sanāʾa hu 
+ <lb n="3"/>wa kabata ḥasadata hu wa ʾaʿdāʾa hu ḥuḍūra šanūdaha mūṣili hāḏihi ăl ʾaḥrufi 
+ <lb n="4"/>šarīki ăd dīwāni ăs saʿīdi ăl maʾmariyyi yaškū mā ḥalla bi hi min qibali hi wa huwa yaʿlamu 
+ <lb n="5"/>ʾanna ăd dīwāna ***rr qarrara mā kāna yaǧibu ʿalay hi *** *** fa qad 
+ <lb n="6"/>ṣāra mā yaḫuṣṣu hu bi rasmi ăd dīwāni wa ăl wāǧibu ʿalay hi yakuffu wa yattaqī nī ṣadīq la hu 
+ <lb n="7"/>wa yaṣil nī kitābu hu fī ʾuns:in ʾilay hi wa ʾaškuru ʿalay hi wa yuʿawwilu ʿalay ya fī ḥawāʾiǧi hi 
+ <lb n="8"/>ʾin šāʾa ăl lāhu 
+ <lb n="9"/>ăl ḥamdu li l lāhi waḥda hu wa ṣalawātu hu ʿalà sayyidi nā muḥammad:in wa ṣaḥbi hi wa ăs salāmu 
+ <lb n="10"/>ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen des barmherzigen und gnädigen Gottes.
+			<lb n="2"/>
+		Ich setze seine Exzellenz, meinen [Freu]nd, dem Amīr Fāris, den Sekret[är],  - Gott möge ihn [lange] erhalten, seiner Hoheit und seinem Glanz Dauer verleihen
+			<lb n="3"/>
+		und seine Neider und Feinde erniedrigen - davon in Kenntnis, daß sich Šenūde, der Überbringer dieser Zeilen,
+			<lb n="4"/>
+		der Partner des Dīwān [...] eingefunden hat, um sich über das zu beklagen, was ihm von Ihnen widerfahren ist, obwohl Sie doch wissen
+			<lb n="5"/>
+		[daß der Dīwān] das Ihnen Obliegende [festgelegt hat ...]. Somit
+		[daß der Dīwān ...] das Ihnen Obliegende [...]. Somit
+			<lb n="6"/>
+		geschah das, was Sie betrifft, durch Erlaß des Dīwāns. Es steht Ihnen wohl an, sich zurückzuhalten und mich als Freund zu respektieren.
+			<lb n="7"/>
+		Ich erbitte Nachricht über seine (sc. Šenūdes) milde Behandlung und danke hierfür. Verlassen Sie sich in allen Ihren Angelegenheiten auf mich,
+			<lb n="8"/>
+		so Gott will.
+			<lb n="9"/>
+		Lob gebührt Gott allein, und seine Gebete seien auf unserem Herrn Muḥammad und seinen Gefährten. Gruß.
+			<lb n="10"/>
+		Mein Genüge ist Gott; wie sehr ist auf ihn Verlaß!
+</ab></div>
+</body>
+</text>
+</TEI>

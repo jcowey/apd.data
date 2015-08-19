@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1732" xml:id="Prag_620" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 62</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_620</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169477</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ادفع إلى غلام أبو زكري 
+<lb n="3"/>  ‮ومطارق من الخبز رطل ‮ϛ إن شا 
+<lb n="4"/>  ‮اللّه وكتب في توت ‪κα 
+<lb n="5"/>  ‮سنة ‪σε 
+<lb n="6"/>  ‮في خبز رطل ‮δ β 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ ʾilà ġulāmi ʾabū zikrī 
+ <lb n="3"/>wa muṭāriq:in mina ăl ḫubzi raṭl 6 ʾin šāʾa 
+ <lb n="4"/>ăl lāhu wa kutiba fī tūta 21 
+ <lb n="5"/>sanaẗa 205 
+ <lb n="6"/>fī ḫubz:in raṭl 4 2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Übergib an den Burschen des Abū Zikrī
+			<lb n="3"/>
+		und Muṭāriq vom Brot Pfunde 6, so Gott
+			<lb n="4"/>
+		will! Und es wurde geschrieben am 21. Thot
+			<lb n="5"/>
+		des Jahres 205
+			<lb n="6"/>
+		für Brot Pfund 4  2
+</ab></div>
+</body>
+</text>
+</TEI>

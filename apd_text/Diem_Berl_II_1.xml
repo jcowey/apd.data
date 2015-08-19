@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1496" xml:id="Diem_Berl_II_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 23</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169272</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  لعبد اللّه بن قيس من يحيى بن <supplied reason="lost" cert="high">الحجّاج</supplied> <supplied reason="lost" cert="high">سلم</supplied> <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">فإنّي</supplied> <supplied reason="lost" cert="high">أحمد</supplied> 
+<lb n="recto 3"/>  إليك اللّه الّذي لا إله إ<supplied reason="lost" cert="high">لّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="recto 4"/>  أمّا بعد أصلحنا اللّه وإيّاك صـ<supplied reason="lost" cert="high">ـلاح</supplied> <supplied reason="lost" cert="high">الدّنيا</supplied> <supplied reason="lost" cert="high">والآخرة</supplied> <supplied reason="lost" cert="high">ووفّقنا</supplied> <supplied reason="lost" cert="high">لما</supplied> <supplied reason="lost" cert="high">نكسب</supplied> 
+<lb n="recto 5"/>  به رضوانه والجنّة فإن أهل <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">من</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ڤد</supplied> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <supplied reason="lost" cert="high">سكوا</supplied> 
+<lb n="recto 6"/>  لي أن أنباطا لهم سكّان بقرية <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">ذكرت</supplied> <supplied reason="lost" cert="high">أسماوهم</supplied> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="recto 7"/>  <unclear reason="undefined" cert="high">الكـ</unclear><supplied reason="lost" cert="high">ـتـ</supplied><unclear reason="undefined" cert="high">ـا</unclear><supplied reason="lost" cert="high">ب</supplied> <supplied reason="lost" cert="high">الّـ</supplied><unclear reason="undefined" cert="high">ـذي</unclear> <unclear reason="undefined" cert="high">في</unclear> <supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">أنكروا</supplied> 
+<lb n="recto 8"/>  الّذي عليهم من <app type="BL"><lem resp="APD">الجـ<supplied reason="lost" cert="high">ـزية</supplied> </lem><rdg resp="APD">الخراج</rdg></app> وعمـ<supplied reason="lost" cert="high">ـلوا</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">معاصي</supplied> </lem><rdg resp="APD">المعاصي</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 9"/>  فإن رأيت يرحمنا اللّه وإ<supplied reason="lost" cert="high">يّاك</supplied> <supplied reason="lost" cert="high">أن</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">تستخرج</supplied> </lem><rdg resp="APD">تنظر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">لهم</supplied> </lem><rdg resp="APD">في</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">حقّهم</supplied> </lem><rdg resp="APD">أمرهم</rdg></app> 
+<lb n="recto 10"/>  <supplied reason="lost" cert="high">وتكتب</supplied> كـ<supplied reason="lost" cert="high">ـتابـ</supplied>ـا إلـ<supplied reason="lost" cert="high">ـينـ</supplied>ـا <supplied reason="lost" cert="high">مـ</supplied>ـع ا<supplied reason="lost" cert="high">لـ</supplied>ـرّسول <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="recto 11"/>  وفّقنا الله وإيّاك لمحـ<supplied reason="lost" cert="high">ـبّته</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والسّلم</supplied> <supplied reason="lost" cert="high">عليك</supplied> 
+<lb n="recto 12"/>  ورحمت <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وبركاته</supplied> 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">لعبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">قيس</supplied> <supplied reason="lost" cert="high">من</supplied> يحيى بن الحجّاج 
+<lb n="verso 2 upside down"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li ʿabdi ăl lāhi bni qays:in min yaḥyà bni ăl ḥaǧǧāǧi salām:un ʿalay ka fa ʾin nī ʾaḥmadu 
+ <lb n="3"/>ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʾaṣlaḥa nā ăl lāhu wa ʾiyyā ka ṣalāḥa ăd dunyā wa ăl ʾāḫiraẗi wa waffaqa nā li mā naksibu 
+ <lb n="5"/>bi hi riḍwāna hu wa ăl ǧannaẗa fa ʾinna ʾahl ʾahla *** min ø *** qad šakaw ĭštakū 
+ <lb n="6"/>l ī ʾanna ʾanbāṭ:an la hum sukkān sukkān:un bi qaryaẗi *** qad ḏukirat ʾasmāʾu hum fī 
+ <lb n="7"/>ăl kitābi ăllaḏī fī kitāb ī hāḏā ʾilay ka qad ʾankarū 
+ <lb n="8"/>ăllaḏī ʿalay him mina ăl ǧizyaẗi ḫarāǧi wa ʿamilū ø ăl maʿāṣiya maʿāṣiya *** 
+ <lb n="9"/>fa ʾin raʾayta yarḥamu nā ăl lāhu wa ʾiyyā ka ʾan tastaḫriǧa tanẓura la fī hum ø ḥaqqa ʾamri hum him 
+ <lb n="10"/>wa taktuba kitāb:an ʾilay nā maʿa ăr rasūli ʾin šāʾa ăl lāhu 
+ <lb n="11"/>waffaqa nā ăl lāhu wa ʾiyyā ka li maḥabbati hi *** wa ăs salāmu ʿalay ka 
+ <lb n="12"/>wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="13"/>li ʿabdi ăl lāhi bni qays:in min yaḥyà bni ăl ḥaǧǧāǧi 
+ <lb n="14"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		An ʿAbdallāh ibn Qays von Yaḥyā ibn [al-Ḥaǧǧāǧ. Friede sei auf Dir, denn ich lobe]
+			<lb n="3"/>
+		Dir gegenüber Gott, au[ßer dem] es keinen Gott gibt.
+			<lb n="4"/>
+		Aber danach - Gott schenke uns und Dir Ge[deihen im Diesseits und Jenseits und ermögliche uns ein Verhalten,]
+			<lb n="5"/>
+		durch das [wir] sein Wohlgefallen und das Paradies [erwerben]: Leute [- - -  haben sich]
+			<lb n="6"/>
+		bei mir [darüber beklagt], daß ihnen gehörende Eingeborene, wohnhaft in dem Dorf [- - -, deren Namen in]
+			<lb n="7"/>
+		dem Brief [genannt sind], der [diesem meinem an Dich gerichteten Brief] beiliegt,
+			<lb n="8"/>
+		die ihnen obliegende [Kopf]steuer [verweigert] und sich [aufsässig] benommen hätten [- - - .]
+			<lb n="9"/>
+		Sei also so freundlich - Gott erbarme sich unser und [Deiner -, ihnen ihr Recht zu verschaffen]
+			<lb n="10"/>
+		[und] uns durch den Boten schriftlich [Bescheid zu geben, so Gott will!]
+			<lb n="11"/>
+		Gott ermögliche es uns und Dir, daß wir ihn lie[ben - - - ! Der Friede]
+			<lb n="12"/>
+		und [Gottes] Gnade [und Segnungen seien auf Dir!]
+			<lb n="13"/>
+		[An ʿAbdallāh ibn Qays von] Yaḥyā ibn al-Ḥaǧǧāǧ.
+</ab></div>
+</body>
+</text>
+</TEI>

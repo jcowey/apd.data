@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="606" xml:id="Jahn_JBW_6" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 06 (= P.World p. 184)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_6</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106728</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2"/>  أطال اللّه بقاك <supplied reason="lost" cert="high">وأدام</supplied> عـ<supplied reason="lost" cert="high">ـزّ</supplied>ك <supplied reason="lost" cert="high">وكرامتك</supplied> 
+ <lb n="3"/>  وتأييدك وسعادتك وأتم نعمه عليك وزاد في فضله 
+ <lb n="4"/>  وإحسانه إليك وجعلني فداك <app type="BL"><lem resp="APD">لمزارك </lem><rdg resp="“Levi della Vida”">لمرايرك </rdg><rdg resp="Grohmann; Diem">لم</rdg></app> 
+ <lb n="5"/>  أطال اللّه بقاك <app type="BL"><lem resp="“Jahn; Grohmann”"><supplied reason="omitted" cert="high">اپى</supplied> </lem><rdg resp="“Levi della Vida”">إنّي</rdg></app> <app type="BL"><lem resp="“Jahn; Grohmann”"><supplied reason="omitted" cert="high">كپپ</supplied> </lem><rdg resp="“Levi della Vida”">كنت</rdg></app> أتوقّع سرعة قدومك 
+ <lb n="6"/>  أقدمك اللّه علينا في خير وعافية وسرور 
+ <lb n="7"/>  ودفع عنك مكاره الدّنيا والآخرة برحمته 
+ <lb n="8"/>  فإنّه على ذلك قادر حتّى اتّصل بنا ما اغتممت 
+ <lb n="9"/>  له من علّتك لا أعلّك اللّه ولا أرانا فيك 
+ <lb n="10"/>  سوا ولا مكروها <app type="BL"><lem resp="APD">وأرجو </lem><rdg resp="Grohmann; Diem">وأرجوا</rdg></app> أن يكون اللّه عز وجل 
+ <lb n="11"/>  قد وهب لك العافية <app type="BL"><lem resp="“Jahn; Grohmann”">فتأمّر </lem><rdg resp="Dietrich; Diem">فتأمر </rdg><rdg resp="“Dietrich”">فتتفضّل</rdg></app> أطال اللّه بقاك 
+ <lb n="12"/>  <app type="BL"><lem resp="Jahn; Dietrich; Diem “written by mistake”">بالأمر </lem><rdg resp="“Grohmann”">بالاثر </rdg></app> بالكتاب إلي <app type="BL"><lem resp="APD">ومعرفتي </lem><rdg resp="“Grohmann”">وتعرّفنى</rdg></app> خبرك في نفسك 
+ <lb n="13"/>  وبأمرك <app type="BL"><lem resp="APD">وعقبك </lem><rdg resp="“Grohmann”">ونهيك</rdg></app> أقف عنده <app type="BL"><lem resp="APD">وانتهى </lem><rdg resp="“Grohmann”">وأنتهي</rdg></app> موفّقا 
+ <lb n="14"/>  إن شا اللّه أطال اللّه بقاك وأدام عزّك وكرامتك 
+ <lb n="15"/>  وتأييدك وسعادتك وأتم نعمه عليك وزاد في فضله 
+ <lb n="16"/>  وإحسانه إليك وجعلني فداك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka 
+ <lb n="3"/>wa taʾyīda ka wa saʿādata ka wa ʾatamma niʿama hu ʿalay ka wa zāda fī faḍli hi 
+ <lb n="4"/>wa ʾiḥsāni hi ʾilay ka wa ǧaʿala nī fidāʾa ka li lam mazāri marāʾiri ø ka ø ø ʾara ʾazal ø ka 
+ <lb n="5"/>ʾaṭāla ăl lāhu baqāʾa ka ø ʾin ø nī ø kuntu ʾatawaqqaʿu surʿaẗa qudūmi ka 
+ <lb n="6"/>ʾaqdama ka ăl lāhu ʿalay nā fī ḫayr:in wa ʿāfiyaẗ:in wa surūr:in 
+ <lb n="7"/>wa dafaʿa ʿan ka makāriha ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi 
+ <lb n="8"/>fa ʾinna hu ʿalà ḏālika qādir:un ḥattà ĭttaṣala bi nā mā ĭġtamamtu 
+ <lb n="9"/>la hu min ʿillati ka lā ʾaʿalla ka ăl lāhu wa lā ʾarā nā fī ka 
+ <lb n="10"/>sūʾ:an wa lā makrūh:an wa ʾarǧū ʾan yakūna ăl lāhu ʿazza wa ǧalla 
+ <lb n="11"/>qad wahaba la ka ăl ʿāfiyaẗa fa taʾmuru taʾammar tatafaḍḍal tatafaḍḍalu ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="12"/>bi ăl ʾamri ʾaṯari bi ăl kitābi ʾilay ya wa maʿrifat tuʿarrif ī nī ḫabara ka fī nafsi ka 
+ <lb n="13"/>wa bi ʾamri ka wa ʿaqbi nahyi ka ʾaqifu ʿinda hu wa ʾantahī ĭntahà muwaffaq:an 
+ <lb n="14"/>ʾin šāʾa ăl lāhu ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka 
+ <lb n="15"/>wa taʾyīda ka wa saʿādata ka wa ʾatamma niʿama hu ʿalay ka wa zāda fī faḍli hi 
+ <lb n="16"/>wa ʾiḥsāni hi ʾilay ka wa ǧaʿala nī fidāʾa ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Im Namen Gottes, des Barmherzigen, Gütigen!]
+ 	  [In the name of God, the Compassionate, the Merciful!]
+		 <lb n="2"/>
+ 	  Gott lasse Dich lange leben und lasse dauern Dein Ansehen, Deinen Edelsinn
+ 	  [May] God prolong thy life and [may He cause to continue] thy mi[gh]t, [au]tho[rity]
+		 <lb n="3"/>
+ 	  Deinen Beistand und Dein Glück, und vollende seine Gnade an Dir, überhäufe Dich mit seiner Gunst
+ 	  strength [and hap]piness, and may He ful[f]il His loving kindness upon thee and increase this benefits
+		 <lb n="4"/>
+ 	  and bounty unto thee, and may He make me thy ransom. I have not seen thee
+ 	  ... Ich
+ 	  ... may I be a ransom for your bitterness
+ 	  und seiner Wohltat und mache mich zu Deinem Opfer für Dein Grabmal!
+		 <lb n="5"/>
+ 	  Gott lasse Dich lange leben! Ich erwarte Deine baldige Ankunft
+ 	  I was ... expecting your prompt arrival
+ 	  - may God prolong thy life - (although) I expect speedily thy coming,
+ 	  wartete immer noch – Gott lass Dich lange leben – auf Dein baldiges Eintreffen – 
+		 <lb n="6"/>
+ 	  Gott lasse Dich bei guter Gesundheit und Freude eintreffen
+ 	  Gott lasse Dich im besten Wohlsein und Vergnügen ankommen,
+ 	  - may God let thee come unto us in wellbeing, health and happiness,
+		 <lb n="7"/>
+ 	  and may He avert from thee the adversities of this world and of the world to come,
+ 	  und die Barmherzigkeit Gottes wende von Dir ab die Widerwärtigkeiten dieser und jener Welt
+ 	  und er wende in seiner Barmherzigkeit von Dir ab die Widerwärtigkeiten dieser und jener Welt,
+ 	  und wende von Dir die unangenehmen Dinge des Diesseits und Jenseits in Seiner Gnade ab,
+		 <lb n="8"/>
+ 	  denn er ist es im Stande, bis uns zu Ohren kam, was mich bekümmert hat 
+ 	  denn Er ist hierzu ja fähig -, bis wir
+ 	  denn er ist in dieser allvermögend!, bis uns zu Ohren kam, was den Schreiber dieser Zeilen bekümmert hat,  
+ 	  for He is mighty thereto - until there has reached us (the news)
+		 <lb n="9"/>
+ 	  nämlich: die Nachricht von Deiner Erkrankung. Gott mache Dich nicht krank und lasse uns in Dir 
+ 	  of thy illness, about which I am grieved - may God not cause thee to be ill and may He not show us in thee neither
+ 	  von Deiner Erkrankung, die mich sehr bekümmert hat, erfuhren – Gott lasse Dich nicht (weiter) krank sein und lasse uns, was Dich betrifft,
+ 	  von Deiner Erkrankung. Gott mache Dich nicht krank und lasse uns an Dir sehen
+		 <lb n="10"/>
+ 	  evil nor adversity. And I hope that God - He is mighty and sublime -
+ 	  nichts Schlimmes oder Unangenehmes erleben! Ich hoffe, daß Dir Gott – Er ist mächtig und gewaltig – 
+ 	  nichts Schlimmes und nichts Widerwärtiges! Ich hoffe, daß Gott, der mächtig und erhaben ist,
+ 	  nichts Schlimmes und nichts Widerwärtiges sehen! Ich hoffe, daß Gott, der mächtig und erhaben ist, 
+		 <lb n="11"/>
+ 	  Dir die Gesundheit bereits geschenkt hat! So befiehl denn, Gott lasse Dich lange leben!,
+ 	  has already given thee health. So give order - may God prolong thy life -
+ 	  inzwischen Gesundung geschenkt hat. Befiehl also – Gott lasse dich lange leben –
+		 <lb n="12"/>
+ 	  daß ich brieflich über Dein Befinden in Kenntnis gesetzt werde;
+ 	  {den Befehl}, mir zu schreiben und meine Kenntnisnahme der Neuigkeiten über Dich persönlich wie auch,
+ 	  to write to me immediately a letter and inform me about thy news respecting thyself
+		 <lb n="13"/>
+ 	  and thy command and prohibition, on which I shall bestow the fullest attention and from which I shall successfully refrain
+ 	  ich verharre vertrauensvoll bezüglich Deiner Sache und des Ausganges, es möge (Alles) zu einem befriedigenden Ende geführt werden, 
+ 	  ich verharre vertrauensvoll bezüglich (dieser) Deiner Sache und des Ausganges, es möge Alles zu einem befriedigenden Ende geführt werden, 
+ 	  (mir) Deinen Befehl und Dein Verbot (mitzuteilen), damit ich diese erfolgreich beachte und befolge,
+		 <lb n="14"/>
+ 	  if God wills. May God prolong thy life and may He cause to continue thy might, authority,
+ 	  so Gott will. ...
+ 	  so Gott will! Gott lasse Dich lange leben und lasse dauern Dein Ansehen, Deinen Edelsinn,
+		 <lb n="15"/>
+ 	  Deinen Beistand und Dein Glück, und vollende seine Gnade an Dir, überhäufe Dich mit seiner Gunst -
+ 	  strength and happiness, and may He fulfil His loving kindness upon thee and increase His benefits
+		 <lb n="16"/>
+ 	  and bounty unto thee, and may He make me thy ransom.
+ 	  und seiner Wohltat und mache mich zu Deinem Opfer!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

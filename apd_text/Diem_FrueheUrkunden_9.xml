@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1061" xml:id="Diem_FrueheUrkunden_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168929</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>انه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <supplied reason="lost" cert="high">سلم</supplied> <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">فإنّي</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّذي</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> إلّا هو 
+<lb n="4"/>  <supplied reason="lost" cert="high">أمّا</supplied> <supplied reason="lost" cert="high">بعد</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه أن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> وا<supplied reason="lost" cert="high">ستـ</supplied>ـأذنّي لينطلق 
+<lb n="6"/>  <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> فأذنت له 
+<lb n="7"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">ينطلق</supplied> <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ويعـ</supplied>ـمل إلى سنة اثنتي عشر<supplied reason="lost" cert="high">ة</supplied> 
+<lb n="8"/>  <supplied reason="lost" cert="high">ومائة</supplied> <supplied reason="lost" cert="high">وأجّلته</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">جمدى</supplied> الآخر<supplied reason="lost" cert="high">ة</supplied> سنة ا<supplied reason="lost" cert="high">ثنـ</supplied>ـتي عشرة ومائة 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الأمير</supplied> <supplied reason="lost" cert="high">أصلحه</supplied> اللّه في أ<supplied reason="lost" cert="high">جل</supplied> كتبي أسره 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">حملا </lem><rdg resp="APD">عملا</rdg></app> به وما عليه من الجزية 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى الأميـ<supplied reason="lost" cert="high">ـر</supplied> أصلحه اللّـه أن يأذن 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أسل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> عون الأمير وعافيته والسّلم 
+<lb n="13"/>  <supplied reason="lost" cert="high">عليك</supplied> <supplied reason="lost" cert="high">ورحمت</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">وكـ</supplied>ـ<supplied reason="lost" cert="high">ـتب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>***ʾnh *** 
+ <lb n="3"/>salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ***h ʾanna *** 
+ <lb n="5"/>*** wa ĭstaʾḏan nī li yanṭaliqa 
+ <lb n="6"/>ʾilà *** fa ʾaḏintu la hu 
+ <lb n="7"/>ʾan yanṭaliqa ʾilà *** wa yaʿmala ʾilà sanaẗi ĭṯnatay ʿašraẗa 
+ <lb n="8"/>wa miʾaẗ:in wa ʾaǧǧaltu hu ʾilà ǧumādà ăl ʾāḫiraẗi sanaẗa ĭṯnatay ʿašraẗa wa miʾaẗ:in 
+ <lb n="9"/>*** ăl ʾamīr ʾaṣlaḥa hu ăl lāhu fī ʾaǧali kitāb ī ʾasara ʾasra hu 
+ <lb n="10"/>*** ḥamalā ḥamlan ʿamal:an ʿamilā bi hi wa mā ʿalay hi mina ăl ǧizyaẗi 
+ <lb n="11"/>***y ăl ʾamīru ʾaṣlaḥa hu ăl lāhu ʾan yaʾḏana 
+ <lb n="12"/>*** ʾasʾalu ăl lāha ʿawna ăl ʾamīri wa ʿāfiyaẗa hu wa ăs salāmu 
+ <lb n="13"/>ʿalay ka wa raḥmatu ăl lāhi wa kataba *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen des barmherzigen und gnädigen Gottes]
+			<lb n="2"/>
+			<lb n="3"/>
+		[Heil sein auf Dir. Ich lobe Dir Gott,] außer dem [es keinen Gott gibt.]
+			<lb n="4"/>
+		[...] daß [
+			<lb n="5"/>
+		[...] und bat mich um die Erlaubnis, daß er weggehe
+			<lb n="6"/>
+		[nach ... ] Da gab ich ihm die Erlaubnis
+			<lb n="7"/>
+		[daß er weggehe nach ... und arbe]ite bis zum Jahre zwölf
+			<lb n="8"/>
+		[und hundert und setzte ihm eine Frist bis zum] Zweiten [Ǧumādā] im Jahre einhundertzwölf
+			<lb n="9"/>
+		[...  Amīr  - es erhalte ihn] Gott - innerhalb der Gültigkeitsdauer des von mir ausgestellten Passes seine Inhaftierung (oder : inhaftierte ihn)
+			<lb n="10"/>
+		[...] sie (Dual) bürgten (oder : Bürgschaft) für ihn und die ihm obliegende Kopfsteuer
+			<lb n="11"/>
+		[...] der Amīr - Gott erhalte ihn -, zu erlauben
+			<lb n="12"/>
+		[...  Ich bitte Gott] um Hilfe und Gesundheit für den Amīr. Und das Heil sei
+			<lb n="13"/>
+		[auf Dir und die Gnade Gottes. Gesch]rie[ben von
+</ab></div>
+</body>
+</text>
+</TEI>

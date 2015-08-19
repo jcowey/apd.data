@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2145" xml:id="Diem_Terminkauf_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Terminkauf 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Terminkauf_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">ذ</supplied>كر <supplied reason="lost" cert="high">حـ</supplied>ـق <supplied reason="lost" cert="high">مطـ</supplied>ـهّر <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبـ</supplied>ـد ا<supplied reason="lost" cert="high">للّه</supplied> و<gap reason="illegible" extent="6" unit="character" /> بن <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+<lb n="3"/>  وكيله على عنقود كيل <supplied reason="lost" cert="high">مـ</supplied>ـن سكّان <supplied reason="lost" cert="high">سـ</supplied><unclear reason="undefined" cert="high">ـدمنـ</unclear><supplied reason="lost" cert="high">ـت</supplied> 
+<lb n="4"/>  من كورة الفيّوم عليه <supplied reason="lost" cert="high">ثـ</supplied>ـلثة قناطير وخمسة وستّين رطل 
+<lb n="5"/>  كتّان بالعيار اللّيثي <supplied reason="lost" cert="high">لا</supplied> عيار فليومي قالوبي نقي من التّبن 
+<lb n="6"/>  والخرب والقصر والرّجـ<supplied reason="lost" cert="high">ـ<unclear reason="undefined" cert="high">ـس</unclear></supplied> إ<supplied reason="lost" cert="high">نّ</supplied> <supplied reason="lost" cert="high">ثمـ</supplied>ـ<unclear reason="undefined" cert="high">ـن</unclear> ذلك منه ثلثة دنانير 
+<lb n="7"/>  <supplied reason="lost" cert="high">وثـ</supplied>ـلـ<supplied reason="lost" cert="high">ـث</supplied> <supplied reason="lost" cert="high">وقيراطيـ[ـن</supplied> و<supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">قبض</supplied> <supplied reason="lost" cert="high">عنـ</supplied>ـقود كيل الثلثة دنانير وثلث وقيراطين 
+<lb n="8"/>  وبرئ مطهّر بن عبد <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن عبد اللّه وكيله منها إليه 
+<lb n="9"/>  ومحل الكتّان في بـ<supplied reason="lost" cert="high">ـ<unclear reason="undefined" cert="high">ـووپه</unclear></supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">شهور</supplied> العجم سنة إحدى ومايتي 
+<lb n="10"/>  من أحال عليه أقـ<supplied reason="lost" cert="high">ـرّ</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">بحقّه</supplied> <supplied reason="lost" cert="high">ومن</supplied> <supplied reason="lost" cert="high">قام</supplied> بذكر الحق اقتضا ما فيه والقوّة للّه 
+<lb n="11"/>  ‮وإسحق بن يوسف <supplied reason="lost" cert="high">كتب</supplied> شهادته في شوّال سنة ‪σ‬ 
+<lb n="12"/>  والحارث بن عـ<supplied reason="lost" cert="high">ـبد</supplied> اللّه كتب شهادته بما فيه في شوّال سنة مايتين 
+<lb n="13"/>  ‮وإسحق بن <unclear reason="undefined" cert="high">علـ</unclear><supplied reason="lost" cert="high">ــيّ</supplied> <supplied reason="lost" cert="high">كتب</supplied> <supplied reason="lost" cert="high">شهاد</supplied>ته في شوّال سنة ‪σ‬ 
+<lb n="14"/>  سوار بن عبد الـ<supplied reason="lost" cert="high">ـلّه</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـتب شهادته بخطّه 
+<lb n="15"/>  شهد على ذلك نوفل بن يحيى الـهـ<gap reason="illegible" precision="low" extent="3"/>ـي 
+<lb n="16"/>  وكتب عبد اللّه بن نوفل شهادته بما فيه فـ<supplied reason="lost" cert="high">ـي</supplied> شوّال في سنة مايتين 
+<lb n="17"/>  وكتب بشر بن حسّان شهادته في شوّال سنة مايتي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi muṭahhari bni ʿabdi ăl lāhi wa ****** bni ʿabdi ăl lāhi 
+ <lb n="3"/>wakīli hi ʿalà ʿunqūdi kayl:in min sukkāni sadamanta 
+ <lb n="4"/>min kūraẗi ăl fayyūmi ʿalay hi ṯalāṯaẗu qanāṭīra wa ḫamsaẗ:un wa sittīna raṭla 
+ <lb n="5"/>kattān:in bi ăl ʿiyāri ăl layṯiyyi lā ʿiyār:in falyūmiyy:in qālūbiyy:in naqiyy:in mina ăt tibni 
+ <lb n="6"/>wa ăl ḫarbi wa ăl qaṣri wa ăr riǧsi ʾinna ṯamana ḏālika min hu ṯalāṯaẗu danānīra 
+ <lb n="7"/>wa ṯulṯ:un wa qīrāṭayni wa qad qabaḍa ʿunqūdu kayl:in ăṯ ṯalāṯaẗa danānīra wa ṯulṯ wa qīrāṭayni 
+ <lb n="8"/>wa bariʾa muṭahharu bnu ʿabdi ăl lāhi wa *** bnu ʿabdi ăl lāhi wakīlu hu min hā ʾilay hi 
+ <lb n="9"/>wa maḥillu ăl kattāni fī baʾūnaha min šuhūri ăl ʿaǧami sanaẗa ʾiḥdà wa miyatay 
+ <lb n="10"/>man ʾaḥāla ʿalay hi ʾaqarra la hu bi ḥaqqi hi wa man qāma bi ḏikri ăl ḥaqqi ĭqtaḍā mā fī hi wa ăl quwwaẗu li l lāhi 
+ <lb n="11"/>wa ʾisḥāqu bnu yūsufa kataba šahādata hu fī šawwāli sanaẗi ‪200 
+ <lb n="12"/>wa ăl ḥāriṯu bnu ʿabdi ăl lāhi kataba šahādata hu bi mā fī hi fī šawwāli sanaẗi miyatayni 
+ <lb n="13"/>wa ʾisḥāqu bnu ʿaliyy:in kataba šahādata hu fī šawwāli sanaẗi ‪200 
+ <lb n="14"/>sawāru bnu ʿabdi ăl lāhi kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="15"/>šahida ʿalà ḏālika nawfalu bnu yaḥyà ăl h***iyyu 
+ <lb n="16"/>wa kataba ʿabdu ăl lāhi bnu nawfala šahādata hu bi mā fī hi fī šawwāl:in fī sanaẗi miyatayni 
+ <lb n="17"/>wa kataba bišru bnu ḥassān:in šahādata hu fī šawwāli sanaẗi miyatay 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und sich Erbarmenden!]
+			<lb n="2"/>
+		[(Dies ist ein) Sch]ein über das Anrecht von [Muṭa]hhar [ibn ʿAb]d A[llāh] und [N.N.] ibn [ʿAbd Allāh],
+			<lb n="3"/>
+		seinem Bevollmächtigten, zu Lasten von ʿUnqūd Kayl [vo]n den Einwohnern von [Sa]dama[nt] (?)
+			<lb n="4"/>
+		von der Provinz al-Fayyūm, und zwar schuldet (ihm) dieser drei Qinṭār und fünfundsechzig Raṭl
+			<lb n="5"/>
+		Flachs nach dem Layṯī-Standard, [nicht] Falyūmer (!) (oder) Qālūber (!) Standard, rein von Stroh
+			<lb n="6"/>
+		Zerstörung, (zu großer) Kürze und Schm[utz (?). Der Pr]eis (?) dieses von ihm (zu Liefernden) beträgt drei Dinar
+			<lb n="7"/>
+		[und ein D]ritt[el (Dinar) und] zwei Karat. [ʿUn]qūd Kayl hat die(se) drei Dinar und ein Drittel (Dinar) und \zwei Karat/ in Empfang genommen,
+			<lb n="8"/>
+		und Muṭahhar ibn ʿAbd [Allāh und N.N. ib]n ʿAbd Allāh, sein Bevollmächtigter, sind ihm gegenüber davon entlastet worden.
+			<lb n="9"/>
+		Die Fälligkeit des Flachses ist (der Monat) Pa[yni (?) von den Monaten] der Nichtaraber im Jahre zweihunderteins {Jahr}.
+			<lb n="10"/>
+		Demjenigen, dem er (diesen Anrechtsschein) überträgt, erkennt er sein Recht an. Und wer den Anrchtsschein vorweist, kann das darin Stehende einfordern, aber über Macht verfügt Gott (allein)!
+			<lb n="11"/>
+		Isḥāq ibn Yūsuf [schrieb] seine Bezeugung im Šawwāl des Jahres 200.
+			<lb n="12"/>
+		al-Ḥāriṯ ibn ʿA[bd] Allāh schrieb seine Bezeugung des darin Stehenden im Šawwāl des Jahres zweihundert.
+			<lb n="13"/>
+		Isḥāq ibn ʿAl[ī (?) schrieb] seine [Bezeug]ung im Šawwāl des Jahres 200.
+			<lb n="14"/>
+		Sawār ibn ʿAbd Al[lāh ... schr]ieb seine Bezeugung eigenhändig.
+			<lb n="15"/>
+		Es bezeugte dies Nawfal ibn Yaḥyā al-H...ī.
+			<lb n="16"/>
+		Es schrieb ʿAbd Allāh ibn Nawfal \seine Bezeugung/ des darin Stehenden im Šawwāl im Jahre zweihundert.
+			<lb n="17"/>
+		Es schrieb Bišr ibn Ḥassān seine Bezeugung im Šawwāl des Jahres zweihundert.
+</ab></div>
+</body>
+</text>
+</TEI>

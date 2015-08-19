@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2563" xml:id="Grohmann_CPR_III_091" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusprotokolle p. 66 (= CPR III 1 091)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_091</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  لا إله إلّا اللّه وحد<supplied reason="lost" cert="high">ه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Grohmann">محمّد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Grohmann">رسول</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Grohmann">اللّه</rdg></app> 
+ <lb n="right margin 1"/>  <app type="BL"><lem resp="APD">سنة </lem><rdg resp="Grohmann">ø</rdg></app> 
+ <lb n="right margin 2"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أر</supplied>بعـ<supplied reason="lost" cert="high">ـين</supplied> </lem><rdg resp="Karabacek">أربع </rdg><rdg resp="Grohmann">ø</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>lā ʾilāha ʾillā ăl lāha waḥda hu *** muḥammad:un *** rasūlu *** ăl *** lāhi 
+ <lb n="4"/>sanaẗa ø 
+ <lb n="5"/>ʾarbaʿīna ʾarbaʿ:in ø 
+   </ab></div>
+ <div type="translation"><ab>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

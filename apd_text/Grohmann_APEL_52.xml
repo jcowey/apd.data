@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="994" xml:id="Grohmann_APEL_52" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 052 (= P.World p. 200 = Chrest.Khoury I 23)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_52</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168900</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">شـ</supplied>ـهد الشّهود المـ<supplied reason="lost" cert="high">ـسـ</supplied>ـمّون في هذا الكتاب 
+<lb n="3"/>  على إقرار الحسين بن صلح الزّجّاج وقامه 
+<lb n="4"/>  ابنت إدريس السّاكني مدينة أشمون 
+<lb n="5"/>  أن الحائط الّذي بحـ<supplied reason="lost" cert="high">ـريّ</supplied> <supplied reason="lost" cert="high">منز</supplied>ل الحـ<supplied reason="lost" cert="high">ـسين</supplied> <supplied reason="lost" cert="high">بن</supplied> صلـ<supplied reason="lost" cert="high">ـح</supplied> 
+<lb n="6"/>  وقبلي مـ<supplied reason="lost" cert="high">ـنزل</supplied> <supplied reason="lost" cert="high">قامـ</supplied>ـه <supplied reason="lost" cert="high">ا</supplied>بنت إدريس 
+<lb n="7"/>  فيما بينهما بنصفين ليس لأحد 
+<lb n="8"/>  منهما أن يمنع صاحبه من وضع خشبة 
+<lb n="9"/>  <supplied reason="lost" cert="high">أ</supplied>و جريدة على هـ<supplied reason="lost" cert="high">ـذ</supplied>ا الحائط ولهما 
+<lb n="10"/>  الـ<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">تخا</supplied>رج كل حقّه ومتى أصاب 
+<lb n="11"/>  هذا الحائط عدم أو استرم فعلى 
+<lb n="12"/>  الحسين بن صلح بناه <app type="BL"><lem resp="APD">وترمّمه </lem><rdg resp="APD">ومرمّته</rdg></app> من ماله 
+<lb n="13"/>  و<unclear reason="undefined" cert="high">حـ</unclear>ـدر شهد على ذلك سليمن بن داود 
+<lb n="14"/>  المودن على إقرارهما جميعا بجميع 
+<lb n="15"/>  ما في هذا الكتاب وكتب في ذي الحجّة سنة أربع 
+<lb n="16"/>  وسبعين ومائتن <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">إقرارهما</supplied> 
+<lb n="17"/>  جميعا بجميع ما في هذا الكتاب <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> 
+<lb n="18"/>  في ذي الحجّة <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـنـ<supplied reason="lost" cert="high">ـة</supplied> أربع وسبعين ومائتـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="19"/>  شهد عثمن بن <app type="BL"><lem resp="APD">بـ<gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="“Grohmann, World”">بـ<gap reason="illegible" extent="6" unit="character" /></rdg></app> على إقرارهما جميـ<supplied reason="lost" cert="high">ـعا</supplied> <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="20"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">وكتب</supplied> شهادته في ذ<supplied reason="lost" cert="high">ي</supplied> الحجّة سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">أربع</supplied> <supplied reason="lost" cert="high">وسبعين</supplied> 
+<lb n="21"/>  <supplied reason="lost" cert="high">ومائتن</supplied> <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/>ر بن جوهر على إقرارهمـ<supplied reason="lost" cert="high">ـا</supplied> <supplied reason="lost" cert="high">جميعا</supplied> <supplied reason="lost" cert="high">بجميع</supplied> 
+<lb n="22"/>  <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ذي</supplied> <supplied reason="lost" cert="high">الحجّة</supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+<lb n="23"/>  <supplied reason="lost" cert="high">أربع</supplied> <supplied reason="lost" cert="high">وسبعين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> <gap reason="illegible" extent="12" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi 
+ <lb n="3"/>ʿalà ʾiqrāri ăl ḥusayni bni ṣāliḥ:ini ăz zaǧǧāǧi wa qāmaha 
+ <lb n="4"/>ĭbnati ʾidrīsa ăs sākinay madīnaẗa ʾušmūna 
+ <lb n="5"/>ʾanna ăl ḥāʾiṭa ăllaḏī baḥriyya manzili ăl ḥusayni bni ṣāliḥ:in 
+ <lb n="6"/>wa qibliyya manzili qāmaha ĭbnati ʾidrīsa 
+ <lb n="7"/>fī mā bayna humā bi niṣfayni laysa li ʾaḥad:in 
+ <lb n="8"/>min humā ʾan yamnaʿa ṣāḥiba hu min waḍʿi ḫašabaẗ:in 
+ <lb n="9"/>ʾaw ǧarīdaẗ:in ʿalà hāḏā ăl ḥāʾiṭi wa la humā 
+ <lb n="10"/>*** ăl taḫāraǧa kulla ḥaqqi hi wa matà ʾaṣāba 
+ <lb n="11"/>hāḏā ăl ḥāʾiṭa ʿadam:un ʾawi ĭstaramma fa ʿalà 
+ <lb n="12"/>ăl ḥusayni bni ṣāliḥ:in bināʾu hu wa tarammumu marammatu hu min māli hi 
+ <lb n="13"/>wa ḥdr šahida ʿalà ḏālika sulaymānu bnu dāwuda 
+ <lb n="14"/>ăl muʾaḏḏinu ʿalà ʾiqrāri himā ǧamīʿ:an bi ǧamīʿi 
+ <lb n="15"/>mā fī hāḏā ăl kitābi wa kataba fī ḏī ăl ḥiǧǧaẗi sanaẗa ʾarbaʿ:in 
+ <lb n="16"/>wa sabʿīna wa miʾatayni šahida *** bnu *** ʿalà ʾiqrāri himā 
+ <lb n="17"/>ǧamīʿ:an bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu 
+ <lb n="18"/>fī ḏī ăl ḥiǧǧaẗi min sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni 
+ <lb n="19"/>šahida ʿuṯmānu bnu b****** B****** ʿalà ʾiqrāri himā ǧamīʿ:an bi ǧamīʿi mā fī 
+ <lb n="20"/>hāḏā ăl kitābi wa kataba šahādata hu fī ḏī ăl ḥiǧǧaẗi sanaẗa ʾarbaʿ:in wa sabʿīna 
+ <lb n="21"/>wa miʾatayni šahida ***r bnu ǧawhara ʿalà ʾiqrāri himā ǧamīʿ:an bi ǧamīʿi 
+ <lb n="22"/>mā fī hāḏā ăl kitābi wa kataba šahādata hu fī ḏī ăl ḥiǧǧaẗi sanaẗa 
+ <lb n="23"/>ʾarbaʿ:in wa sabʿīna wa miʾatayni ************ 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Les témoins men[tio]nnés dans ce document ont [té]moigné
+		The witnesses na[me]d in this document, [tes]tify to
+		The witnesses na[me]d in this document, testify to
+			<lb n="3"/>
+		de la reconnaissance d&#039;al-Ḥusayn Ibn Ṣāliḥ le verrier, et de Qāma
+		the acknowledgment by al-Ḥusain b. Ṣâliḥ, glassmaker, and by Qâme,
+			<lb n="4"/>
+		daughter of Idrîs, both residing in the town of Ashmûn,
+		daughter of Idrîs, both residing in the town of Ašmûn,
+		fille d&#039;Idrīs, qui habitent tous les deux la ville d&#039;Ašmūn,
+			<lb n="5"/>
+		que le mur qui se trou[ve au nord de la maiso]n d&#039;al-Ḥu[sayn Ibn] Ṣāli[ḥ]
+		that the wall forming the nor[th side of the dwelling] house of al-Ḥu[sain b.] Ṣâli[ḥ],
+			<lb n="6"/>
+		and the south side of the dwe[lling house of Qâm]e, [dau]ghter of Idrîs,
+		et au sud de la mai[son de Qām]a, [f]ille d&#039;Idrīs,
+			<lb n="7"/>
+		appartient à eux deux en deux moitiés, et qu&#039;aucun
+		is in equal parts their common property. It is not in the power
+			<lb n="8"/>
+		d&#039;eux n&#039;a le droit d&#039;empêcher son partenaire de mettre une poutre
+		of the one party to prevent the other from laying any beam
+			<lb n="9"/>
+		[o]r palm-branch upon th[is] wall, and to each is accorded
+		[or] palm-branch upon th[is] wall, and to each is accorded
+		[o]u un rameau de palmier sur c[e] mur, et tous les deux ont
+			<lb n="10"/>
+		le[.... la même pa]rt sur tout le droit là-dessus; et si
+		the [......... and equal] share in every right therein, and should
+			<lb n="11"/>
+		ce mur était atteint d&#039;un dommage ou avait besoin d&#039;être réparé, ainsi il incomberait
+		this wall be damaged or be in need of repairs, it is the obligation
+			<lb n="12"/>
+		à al-Ḥusayn Ibn Ṣāliḥ de le construire et de le réparer à ses propres frais,
+		of al-Ḥusain b. Ṣâliḥ to carry out the rebuilding or repairing of the said wall at his own expense
+			<lb n="13"/>
+		and ......... Witness to it is Sulaimân b. Dâʾûd,
+		et (...?). A témoigné de cela Sulaymān Ibn Dāwūd,
+			<lb n="14"/>
+		le muezzin, de leur reconnaissance, tous les deux, de tout
+		the muezzin, i.e. to the acknowledgment by both parties together respecting all
+			<lb n="15"/>
+		le contenu de ce document, et il (l&#039;)écrivit en ḏū l-ḥiǧǧa de l&#039;an
+		that (is contained) in this document, and he has written (it) in Dhu ʾl-Ḥiǧǧa of the year two hundred
+		that (is contained) in this document, and he has written (it) in Ḏu ʾl-Ḥiǧǧa of the year two hundred
+			<lb n="16"/>
+		and seventy four. [So and So, son of So and So, is witness to the acknowledgment by both (parties)]
+		deux sent soixante-quatorze. [A témoigné un tel, fils d&#039;un tel de leur reconnaissance], 
+			<lb n="17"/>
+		together respecting all that (is contained) in this document, [and he has written his testimony]
+		tous les deux, de tout le contenu de ce document, [et il écrivit son témoignage]
+			<lb n="18"/>
+		en ḏū l-ḥiǧǧa [de l&#039;a]n deux cent soixante-quatorze.
+		in Dhu ʾl-Ḥiǧǧa [of the] ye[ar] two hundr[ed] and seventy four.
+		in Ḏu ʾl-Ḥiǧǧa [of the] ye[ar] two hundr[ed] and seventy four.
+			<lb n="19"/>
+		A témoigné ʿUṯmān Ibn [...] de la reconnaissance de tous les [deux de tout le contenu de]
+		ʿUṯmân b...[...] ...is witness to the acknowledgment by both (parties) toge[ther respecting all that (is contained) in]
+		ʿUthmân b....[...]... is witness to the acknowledgment by both (parties) toge[ther respecting all that (is contained) in]
+			<lb n="20"/>
+		[ce document, et il écrivit] son témoignage en ḏ[ū] l-ḥiǧǧa de l&#039;a[n]
+		[this document, and he has written] his testimony in Dh[u] ʾl-Ḥiǧǧa of the ye[ar seventy four] 
+		[this document, and he has written] his testimony in Ḏ[u] ʾl-Ḥiǧǧa of the ye[ar seventy four]
+			<lb n="21"/>
+		[and two hundred .........] b. Ǧauhar [is witness] to the acknowledgment by bot[h (parties) together respecting all]
+		[and two hundred ......]r b. Ǧauhar [is witness] to the acknowledgment by bot[h (parties) together respecting all]
+		[deux sent soixante-quatorze. A témoigné ...]r Ibn Ǧauhar de la reconnaissance [de tous les deux de tout]
+			<lb n="22"/>
+		[le contenu de ce document, et il écrivit son témoignage en ḏū l-ḥiǧǧa]
+		[that (is contained) in this document, and he has written his testimony in Dhu ʾl-Ḥiǧǧa of the year]
+		[that (is contained) in this document, and he has written his testimony in Ḏu ʾl-Ḥiǧǧa of the year]
+			<lb n="23"/>
+		[deux cent soixante-quatorze...]
+		[two hundred and seventy four ............]
+</ab></div>
+</body>
+</text>
+</TEI>

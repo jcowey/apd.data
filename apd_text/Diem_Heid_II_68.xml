@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1478" xml:id="Diem_Heid_II_68" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 68</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_68</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169259</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم وهو حسبي 
+<lb n="2"/>  سلام اللّه تعالى ورحمته وبركاته وأزكى تحياته على الوالد 
+<lb n="3"/>  كمستحقّها أبقاه اللّه تعالى في خير وعافية وسلامة بمحمّد وآله والّذي 
+<lb n="4"/>  يحيط به علمك الكريم أن نحن طيّبين بخير وعافية وأن كتابكم وصل إلينا وقرأناه 
+<lb n="5"/>  وفهمنا ما فيه وأن نحن وفينا دين القاضي شرف الدّين يحيى 
+<lb n="6"/>  وأخذنا منه المسطور والبلد خير أخضر وابتلع 
+<lb n="7"/>  وجبنا فيه الإوز خاصّة واشترينا قمح نقي 
+<lb n="8"/>  عشرة أرادب وأن البحر طيّب وهو في تسعة عشر 
+<lb n="9"/>  ذراعا ورويت البلاد جميعها وأن جميع أهل 
+<lb n="10"/>  البيت طيّبين ويسلّموا عليكم والسّلام على <supplied reason="omitted" cert="high">ا</supplied><unclear reason="undefined" cert="high">لأخ</unclear> <unclear reason="undefined" cert="high">إن</unclear> <unclear reason="undefined" cert="high">جـ</unclear>ـاك 
+<lb n="11"/>  ونحن سافرنا المراكب الـ<unclear reason="undefined" cert="high">ـجيـ</unclear>ـاد بدمياط وجيئا بخير وعافية 
+<lb n="12 margin 1"/>  ونسألكم الدّعا في الأماكن لنا كـ<unclear reason="undefined" cert="high">ـثير</unclear>ا 
+<lb n="13 margin 2"/>  وعلى اللّه القبول ونسأل اللّه تعالى الاجتماع 
+<lb n="14 margin 3"/>  بكم قريب بمحمّد وآله إنّه على ما يشا فدپر 
+<lb n="15 margin 4"/>  والسّلام 
+<lb n="16 margin 5"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">وانـ</unclear>ـى </lem><rdg resp="UB">وإنّي</rdg></app> عر<unclear reason="undefined" cert="high">د</unclear> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">لى</unclear> </lem><rdg resp="UB">لي</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ڤوپ</unclear> </lem><rdg resp="APD">بعت</rdg></app> الخام الهولى <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="17 margin 6"/>  وإن أهل البيت يسلّموا على 
+<lb n="18 margin 7"/>  أختها ووالدتها وجميع 
+<lb n="19 margin 8"/>  الأهل الحمد للّه وحده 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa huwa ḥasb ī 
+ <lb n="2"/>salāmu ăl lāhi taʿālà wa raḥmatu hu wa barakātu hu wa ʾazkà taḥiyyāti hi ʿalà ăl wālidi 
+ <lb n="3"/>ka mustaḥiqqi hā ʾabqā hu ăl lāhu taʿālà fī ḫayr:in wa ʿāfiyaẗ:in wa salāmaẗ:in bi muḥammad:in wa ʾāli hi wa ăllaḏī 
+ <lb n="4"/>yuḥīṭu bi hi ʿilmu ka ăl karīmu ʾan naḥnu ṭayyibīna bi ḫayr:in wa ʿāfiyaẗ:in wa ʾanna kitāba kum waṣala ʾilay nā wa qaraʾnā hu 
+ <lb n="5"/>wa fahimnā mā fī hi wa ʾan naḥnu wafaynā dayna ăl qāḍī šarafi ăd dīni yaḥyà 
+ <lb n="6"/>wa ʾaḫaḏnā min hu ăl masṭūra wa ăl baladu ḫayr:un ʾaḫḍaru wa ĭbtalaʿa 
+ <lb n="7"/>wa ǧibnā fī hi ăl ʾiwazza ḫāṣṣaẗ:an wa ĭštaraynā qamḥ naqiyy 
+ <lb n="8"/>ʿašaraẗa ʾarādiba wa ʾanna ăl baḥra ṭayyib:un wa huwa fī tisʿaẗi ʿašara 
+ <lb n="9"/>ḏirāʿ:an wa rawiyati ăl bilādu ǧamīʿu hā wa ʾanna ǧamīʿa ʾahli 
+ <lb n="10"/>ăl bayti ṭayyibīna wa yusallimū ʿalay kum wa ăs salāmu ʿalà ăl ʾaḫi ʾin ǧāʾa ka 
+ <lb n="11"/>wa naḥnu sāfarnā ăl marākiba ăl ǧiyāda bi dimyāṭa wa ǧiʾnā bi ḫayr:in wa ʿāfiyaẗ:in 
+ <lb n="12"/>wa nasʾalu kumu ăd duʿāʾa fī ăl ʾamākini la nā kaṯīr:an 
+ <lb n="13"/>wa ʿalà ăl lāhi ăl qabūlu wa nasʾalu ăl lāha taʿālà ăli ĭǧtimāʿa 
+ <lb n="14"/>bi kum qarīb bi muḥammad:in wa ʾāli hi ʾinna hu ʿalà mā yašāʾu qadīr:un 
+ <lb n="15"/>wa ăs salāmu 
+ <lb n="16"/>wa ʾin ʾny nī ø ʿrd l ly ī ø FwB biʿtu ăl ḫām ăl hwly ** 
+ <lb n="17"/>wa ʾinna ʾahla ăl bayti yusallimū ʿalà 
+ <lb n="18"/>ʾuḫti hā wa wālidati hā wa ǧamīʿi 
+ <lb n="19"/>ăl ʾahli ăl ḥamdu li l lāhi waḥda hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Er ist mein Genüge!
+			<lb n="2"/>
+		Der Friede, die Gnade, die Segnungen und die reinsten Grüße Gottes des Erhabenen seien auf dem Vater,
+			<lb n="3"/>
+		wie er sie verdient - Gott der Erhabene erhalte ihn in guten Umständen, bei Gesundheit und in Wohlbehaltenheit um Muḥammads und seiner Familie willen!
+			<lb n="4"/>
+		Dein edles Wissen möge folgendes zur Kenntnis nehmen: Es geht uns gut, und wir sind in guten Umständen und bei Gesundheit. Euer Brief ist bei uns angekommen, wir haben ihn gelesen,
+			<lb n="5"/>
+		und wir haben seinen Inhalt verstanden. Wir haben die Schuld, die gegenüber dem Richter Šarafaddīn Yaḥyā bestand, bezahlt
+			<lb n="6"/>
+		und von ihm das Dokument erhalten. Das Land ist in gutem Zustand und grün; es hat sich (mit Wasser) vollgesogen,
+			<lb n="7"/>
+		und wir haben nur die Gänse hinausgebracht. Wir haben reinen Weizen gekauft,
+			<lb n="8"/>
+		zehn Artaben. Der Fluß (sc. der Nil) ist gut, und zwar hat er eine Höhe von neunzehn
+			<lb n="9"/>
+		Ellen, und das gesamte Land ist reichlich bewässert. Der ganzen Fami-
+			<lb n="10"/>
+		lie geht es gut. Sie grüßen Euch, und auch Grüße an den Bruder (?), falls er zu Dir kommt (?).
+			<lb n="11"/>
+		Übrigens haben wir die ausgezeichneten (?) Schiffe in Damietta bestiegen (?) und sind unter guten Umständen und bei Gesundheit (heim)gekommen.
+			<lb n="12"/>
+		Wir bitten Euch, an den (heiligen) Orten für uns sehr zu beten,
+			<lb n="13"/>
+		und Gott obliegt es, es (sc. das Gebet) anzunehmen. Wir bitten Gott, den Erhabenen, daß wir
+			<lb n="14"/>
+		um Muḥammads und seiner Familie willen bald mit Euch vereint werden; er vermag das, was er will.
+			<lb n="15"/>
+		Gruß!
+			<lb n="16"/>
+		- - - das Rohgewebe - - -.
+			<lb n="17"/>
+		Die Familie grüßt (auch)
+			<lb n="18"/>
+		Ihre Schwester und Ihre Mutter und alle
+			<lb n="19"/>
+		Angehörigen. Lob gebührt Gott allein!
+</ab></div>
+</body>
+</text>
+</TEI>

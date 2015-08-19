@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="575" xml:id="Grohmann_TWAe_16" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 16</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_16</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106713</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1 right"/>  <gap reason="illegible" extent="5" unit="character" /> 
+ <lb n="recto 2 right"/>  درهم κδχδʹ‎ 
+ <lb n="recto 3 right"/>  زكري <app type="BL"><lem resp="APD">العالم </lem><rdg resp="“earlier Karabacek, PERF 721”">القلم</rdg></app> 
+ <lb n="recto 4 right"/>  في ثمن مكحلة ζδʹ‎ 
+ <lb n="recto 5 right"/>  في ثمن ميزان αχ 
+ <lb n="recto 6 right"/>  في ثمن فراش ζ 
+ <lb n="recto 7 right"/>  في ثمن فراش أيضا θ 
+ <lb n="recto 9 right"/>  عند <unclear reason="undefined" cert="high">معافا</unclear> في ثمن سمسار λβχ 
+ <lb n="recto 10 right"/>  في ثمن سمسار λγʹ‎ 
+ <lb n="recto 11 right"/>  <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـڤعرى βγʹ‎ 
+ <lb n="recto 12 right"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه 
+ <lb n="recto 13 right"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـعى 
+ <lb n="recto 14 right"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="recto 2 left"/>  في ثمن قميص <app type="BL"><lem resp="APD">قطر </lem><rdg resp="Diem">قطن</rdg></app> ις قير<supplied reason="lost" cert="high">اط</supplied> 
+ <lb n="recto 3 left"/>  في ثمن عنبرة αγʹ‎ β 
+ <lb n="recto 4 left"/>  في ثمن حصيرة β 
+ <lb n="recto 6 left"/>  أبو كرينة ιγ 
+ <lb n="recto 7 left"/>  في تمن <app type="BL"><lem resp="APD">أفواح </lem><rdg resp="Diem">أقداح</rdg></app> αχ 
+ <lb n="recto 8 left"/>  في ثمن قميص ηχγʹ‎ 
+ <lb n="recto 10 left"/>  في ثمن السّاج وهو مخيّر 
+ <lb n="recto 11 left"/>  في ثمن قدح χδʹ‎ γχγʹ‎ 
+ <lb n="recto 12 left"/>  في ثمن مشط γιʹ‎βʹ‎ 
+ <lb n="recto 13 left"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="recto 14 left"/>  أدّى هاشـ<supplied reason="lost" cert="high">ـم </supplied>
+ <lb n="verso 1 right"/>  <app type="BL"><lem resp="APD">ثلثي </lem><rdg resp="Diem">ثمن</rdg></app> <app type="BL"><lem resp="APD">وسبع </lem><rdg resp="Diem">ربع</rdg></app> <app type="BL"><lem resp="APD">ومئة </lem><rdg resp="Diem">رطل</rdg></app> 
+ <lb n="verso 2 right"/>  عبد اللّه <supplied reason="lost" cert="high">بن</supplied> عـ<supplied reason="lost" cert="high">ـيسـ</supplied>ـى ηχδʹ‎ 
+ <lb n="verso 3 right"/>  في ثمن <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">رڤراف </rdg><rdg resp="APD">رعراف </rdg><rdg resp="APD">رحراف</rdg></app> 
+ <lb n="verso 4 right"/>  محمّد بن سراقة αχ 
+ <lb n="verso 5 right"/>  في ثمن منديل 
+ <lb n="verso 6 right"/>  أبو الرّويم في ثمن جبّة κβςʹ‎ 
+ <lb n="verso 7 right"/>  عيسى بن عرفة ληδʹ‎ 
+ <lb n="verso 9 right"/>  متاع <app type="BL"><lem resp="APD">معايش </lem><rdg resp="Diem">معاش</rdg></app> 
+ <lb n="verso 10 right"/>  محمّد <gap reason="illegible" precision="low" extent="3"/> βγٰ أوفا صالح بن جنّاح βγʹ‎ 
+ <lb n="verso 11 right"/>  لنفقات 
+ <lb n="verso 12 right"/>  أبو عبد اللّـ<supplied reason="lost" cert="high">ـه </supplied>
+ <lb n="verso 1 left"/>  مـ<supplied reason="lost" cert="high">ـحمّـ</supplied>ـد بن إسحق القهقاوي 
+ <lb n="verso 2 left"/>  في ثمن مصلّا 
+ <lb n="verso 3 left"/>  أحمد بن عـ<supplied reason="omitted" cert="high">ـسـ</supplied>ـيل διʹ‎βʹ‎ 
+ <lb n="verso 4 left"/>  في ثمن ستر 
+ <lb n="verso 5 left"/>  أبو كدرة في ε 
+ <lb n="verso 6 left"/>  ثمن <app type="BL"><lem resp="APD">معنقة </lem><rdg resp="Diem">مقنعة</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>***** 
+ <lb n="2"/>‫dirham:un 24 1/2+1/4 
+ <lb n="3"/>zakarī ăl ʿālimu qalam 
+ <lb n="4"/>fī ṯamani mukḥulaẗ:in 7 1/4 
+ <lb n="5"/>fī ṯamani mīzān:in 1 2/3 
+ <lb n="6"/>fī ṯamani firāš:in 7 
+ <lb n="7"/>fī ṯamani firāš:in ʾayḍ:an 9 
+ <lb n="9"/>ʿinda muʿāfā fī ṯamani simsār:in 32 2/3 
+ <lb n="10"/>fī ṯamani simsār:in 30 1/3 
+ <lb n="11"/>fī *FBʿry 2 1/3 
+ <lb n="12"/>***h 
+ <lb n="13"/>***ʿy 
+ <lb n="14"/>*** ** 
+ <lb n="16"/>fī ṯamani qamīṣi qamīṣ:in quṭr:in quṭn:in 16 qīrāṭ 
+ <lb n="17"/>fī ṯamani ʿanbaraẗ:in 1 1/3 2 
+ <lb n="18"/>fī ṯamani ḥaṣīraẗ:in 2 
+ <lb n="20"/>ʾabū karīnaẗa 13 
+ <lb n="21"/>fī tamani ʾafwāḥ:in ʾaqdāḥ:in 1 1/2 
+ <lb n="22"/>fī ṯamani qamīṣ:in 8 1/2+1/3 
+ <lb n="24"/>fī ṯamani ăs sāǧi wa huwa muḫayyar:un 
+ <lb n="25"/>fī ṯamani qadaḥ:in 1/2+1/4 3 1/2+1/3 
+ <lb n="26"/>fī ṯamani mušṭ:in 3 1/12 
+ <lb n="27"/>*** 
+ <lb n="28"/>ʾaddà hāšim:un 
+ <lb n="29"/>ṯulṯay ṯamanu wa rubʿi subʿ:un wa raṭl:in miʾaẗ:un 
+ <lb n="30"/>ʿabdu ăl lāhi bnu ʿīsà 8 1/2+1/4 
+ <lb n="31"/>fī ṯamani ***** rFrʾf rʿrʾf rḥrʾf 
+ <lb n="32"/>muḥammadu bnu surāqaẗa 1 1/2 
+ <lb n="33"/>fī ṯamani mandīl:in 
+ <lb n="34"/>ʾabū ăr ruwaymi fī ṯamani ǧubbaẗ:in 22 1/6 
+ <lb n="35"/>ʿīsà bnu ʿarafaẗa 38 1/4 
+ <lb n="37"/>matāʿu maʿāyiša maʿāš:in 
+ <lb n="38"/>muḥammad:un *** 2 1/3 ʾawfà ṣāliḥu bnu ǧannāḥa 2 1/3 
+ <lb n="39"/>li nafaqāt:in 
+ <lb n="40"/>ʾabū ʿabdi ăl lāhi 
+ <lb n="41"/>muḥammadu bnu ʾisḥāqa ăl qahqāwiyyu 
+ <lb n="42"/>fī ṯamani muṣallā 
+ <lb n="43"/>ʾaḥmadu bnu ʿasīla 4 1/12 
+ <lb n="44"/>fī ṯamani sitr:in 
+ <lb n="45"/>ʾabū kadraẗa fī 5 
+ <lb n="46"/>ṯamani miʿnaqaẗ:in miqnaʿaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  Dirham 24 1/2+1/4
+		 <lb n="3"/>
+ 	  Zacharias der Gelehrte:
+		 <lb n="4"/>
+ 	  für den Preis einer Collyriumbüchse 7 1/4
+		 <lb n="5"/>
+ 	  für den Preis einer Wage 1 2/3
+		 <lb n="6"/>
+ 	  für den Preis einer Matratze 7
+		 <lb n="7"/>
+ 	  für den Preis einer Matratze nochmals 9
+		 <lb n="9"/>
+ 	  Bei ... für die Vergütung des Sensals 32 2/3
+		 <lb n="10"/>
+ 	  für die Vergütung des Sensals 30 1/3
+		 <lb n="11"/>
+ 	  für .......... 2 1/3
+		 <lb n="12"/>
+ 	  für ..........
+		 <lb n="13"/>
+		 <lb n="14"/>
+		 <lb n="16"/>
+ 	  für den Kaufpreis eines parfümierten Hemdes 16
+		 <lb n="17"/>
+ 	  für den Preis von Ambra 1 1/3
+		 <lb n="18"/>
+ 	  für den Preis einer Rohrmatte 2
+		 <lb n="20"/>
+ 	  Abū Karīna 13
+		 <lb n="21"/>
+ 	  für den Preis von Wohlgerüchen 1 1/2
+		 <lb n="22"/>
+ 	  für den Preis eines Hemdes 8 1/2+1/3
+		 <lb n="24"/>
+ 	  für den Preis einer Kopfbinde u. zw. einer ausgesuchten
+		 <lb n="25"/>
+ 	  für den Preis eines Bechers 1/2+1/4, 3 1/2+1/3
+		 <lb n="26"/>
+ 	  für den Preis eines Kammes 3 1/12
+		 <lb n="28"/>
+ 	  Gezahlt hat Hāšim.
+		 <lb n="29"/>
+ 	  Zwei Drittel und ein Siebentel und Hundert (?)
+		 <lb n="30"/>
+ 	  ʿAbdallāh [b.] ʿ[Ī]sā 8 1/2+1/4
+		 <lb n="31"/>
+ 	  für den Preis eines ......
+		 <lb n="32"/>
+ 	  Muḥammad b. Surāqa 1 1/2
+		 <lb n="33"/>
+ 	  für den Preis eines Schnupftuchs
+		 <lb n="34"/>
+ 	  Abū Ruwaim für den Preis einer Joppe 22 1/6
+		 <lb n="35"/>
+ 	  ʿĪsā b. ʿArafa 38 1/4
+		 <lb n="37"/>
+ 	  (Ausgaben) für Lebensmittel
+ 	  Lebensmittel
+		 <lb n="38"/>
+ 	  Muḥammad ...... 2 1/3 Ṣāliḥ b. Ǧannāḥ hat voll bezahlt 2 1/3
+		 <lb n="39"/>
+ 	  für den Unterhalt [
+		 <lb n="40"/>
+ 	  Abū ʿAbdallā[h
+		 <lb n="41"/>
+ 	  Mu[ḥamm]ad b. Isḥāq aus Qahqau
+		 <lb n="42"/>
+ 	  für den Preis eines Gebetsteppichs
+		 <lb n="43"/>
+ 	  Aḥmad b. ʿAsīl 4 1/12
+		 <lb n="44"/>
+ 	  für den Preis eines Vorhangs
+		 <lb n="45"/>
+ 	  Abū Kadra für 5
+		 <lb n="46"/>
+ 	  den Preis eines Halsbandes
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2205" xml:id="Diem_Heid_III_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  كتابي يا ولدي وقرّة عيني العزيز علی أطال اللّه بقاك وأدام عزّك 
+<lb n="3"/>  وتأييدك وسعادتك وأتم نعمته عليك من المنزل عن 
+<lb n="4"/>  سلامة ونعمة للّه الحمد كثيرا وعن <supplied reason="lost" cert="high">وحشة</supplied> <supplied reason="lost" cert="high">لبعـ</supplied>ـدك <supplied reason="lost" cert="high">و</supplied>شوق إليك 
+<lb n="5"/>  شديد ولا <unclear reason="undefined" cert="high">قليل</unclear> جمع اللّه بيننا في خير وعافية والحمد للّه 
+<lb n="6"/>  وإنّكم تعلموا أن الموت عندي فداكم والمر إذا فارق أصحا<supplied reason="lost" cert="high">به</supplied> 
+<lb n="7"/>  ما يدري ما يقضى عليه ووالدتك صانها اللّه هي علی 
+<lb n="8"/>  مثل <unclear reason="undefined" cert="high">الشوق</unclear> وقلقة لبعدك عنها ولو لا شـ<supplied reason="lost" cert="high">ـغـ</supplied>ـلـ<supplied reason="lost" cert="high">ـی</supplied> كنت 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="Upper margin 1"/>  يصل هذا ا<supplied reason="lost" cert="high">لـ</supplied>كتاب إلی حسين بن طرّاد 
+<lb n="Upper margin left between 1 and 2"/>  من إبرهيم بن بهلول 
+<lb n="Upper margin 2"/>  للهيثم علی <unclear reason="undefined" cert="high">بـ</unclear><supplied reason="lost" cert="high">ـعـ</supplied><unclear reason="undefined" cert="high">ـد</unclear> من المنزل <app type="BL"><lem resp="APD">صبيه </lem><rdg resp="Diem">صبيه</rdg></app> <app type="BL"><lem resp="APD">العلڤوی </lem><rdg resp="Diem">القلفويّ</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitāb ī yā walad ī wa qurraẗa ʿayn ī ăl ʿazīza ʿalay ya ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="3"/>wa taʾyīda ka wa saʿādata ka wa ʾatamma niʿmata hu ʿalay ka mina ăl manzili ʿan 
+ <lb n="4"/>salāmaẗ:in wa niʿmaẗ:in li l lāhi ăl ḥamdu kaṯīr:an wa ʿan waḥšaẗ:in li buʿdi ka wa šawq:in ʾilay ka 
+ <lb n="5"/>šadīd:in wa lā qalīl:in ǧamaʿa ăl lāhu bayna nā fī ḫayr:in wa ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi 
+ <lb n="6"/>wa ʾinna kum taʿlamū ʾanna ăl mawta ʿind ī fidāʾu kum wa ăl marʾu ʾiḏā fāraqa ʾaṣḥāba hu 
+ <lb n="7"/>mā yadrī mā yuqḍà ʿalay hi wa wālidatu ka ṣāna hā ăl lāhu hiya ʿalà 
+ <lb n="8"/>miṯli ăl šawqi wa qaliqaẗ:un li buʿdi ka ʿan hā wa law lā šuġl ī kuntu 
+ <lb n="9"/>******* *** 
+ <lb n="10"/>yaṣilu hāḏā ăl kitābu ʾilà ḥusayni bni ṭarrād:in 
+ <lb n="11"/>min ʾibrāhīma bni buhlūla 
+ <lb n="12"/>li l hayṯami ʿalà buʿd:in mina ăl manzili ṣabiyyi ṣBBh hi ăl ăl ʿlfwy qilfawiyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Ich schreibe Dir, mein Junge und mir teurer Liebling - Gott lasse Dich lange leben, gewähre Dir weiterhin Ansehen,
+			<lb n="3"/>
+		Unterstützung und Glück und schenke Dir seine vollkommene Gnade - von zu Hause in
+			<lb n="4"/>
+		Wohlbehaltenheit und Annehmlichkeit - Preis sei Gott (hierfür) vielmals - und in [dem Gefühl von Verlassenheit, weil] Du [fern b]ist, [und] (in)
+			<lb n="5"/>
+		heftiger und (keineswegs) geringer (?) Sehnsucht nach Dir - Gott vereinige uns in Gutem und Gesundheit, Preis sei Gott!
+			<lb n="6"/>
+		Ihr wißt, daß mir der Tod als Lösegeld für Euch gilt. Wenn jemand von [seinen] Gefährten (bei Antritt einer Reise) scheidet,
+			<lb n="7"/>
+		weiß er ja nicht, was ihm beschieden ist. Deine Mutter - Gott erhalte sie - empfindet
+			<lb n="8"/>
+		dieselbe Sehnsucht (?) und ist ängstlich, weil Du von ihr fern bist. Wenn [ich] nicht besch[äftigt] wäre, wäre ich
+			<lb n="9"/>
+			<lb n="10"/>
+		Dieser Brief gelange zu Ḥusayn ibn Ṭarrād
+			<lb n="11"/>
+		von Ibrāhīm ibn Buhlūl.
+			<lb n="12"/>
+		für al-Hayṯam, fern (?) von zu Hause (?), .......
+</ab></div>
+</body>
+</text>
+</TEI>

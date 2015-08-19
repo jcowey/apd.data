@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2195" xml:id="Abbott_Marriage020" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.AbbottMarriageContracts 2 (= Chrest.Khoury I 15)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Marriage020</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  شهد الشّهود المسمّون في صدر هذا الكتاب أن <app type="BL"><lem resp="APD">الثّنية </lem><rdg resp="APD">الپپپه </rdg><rdg resp="Khoury">إلينة</rdg></app> ابنت أنتناس بن يحنّس بن <app type="BL"><lem resp="APD">سلد </lem><rdg resp="Khoury">بنيلة</rdg></app> لارس النّصراني 
+ <lb n="4"/>  أقرّت عندهم وأشهدتهم على نفسها في صحّة بدنها وتمامة عقلها وجواز أمرها أنّها أبرأت زوجها 
+ <lb n="5"/>  <app type="BL"><lem resp="APD">ڤپرڤه </lem><rdg resp="APD">ڤپرڤه</rdg></app> بن <app type="BL"><lem resp="APD">تيدر </lem><rdg resp="Khoury and al-Mudarris">ثيدر</rdg></app> بن سمويل النّصراني من جميع الباقي لها عليه من موحر صداقها الّذي كان عقد 
+ <lb n="6"/>  عليه نكاحها وهو ثمانون دينارا مثاقيل ذهبا عينا وازنا صحاحا جيادا معسولة عزيزيّة 
+ <lb n="7"/>  وأسقطت رهنه عنه وجعلته من جميعه في حل وسعة في الدّنيا والآخرة وأقرّت أن جميع 
+ <lb n="8"/>  ما ينسب إليها من منزل بأسوان وما ضمّه من أصناف الأمتعة كلّها من ثياب ونحاس وحديد 
+ <lb n="9"/>  وشوار وخشب وقليل وكثير ممّا <app type="BL"><lem resp="APD">يتنوّله </lem><rdg resp="al-Mudarris">يتناوله</rdg></app> النّاس لزوجها <app type="BL"><lem resp="APD">قيرقة </lem><rdg resp="APD">ڤپرڤه</rdg></app> بن <app type="BL"><lem resp="APD">تيدر </lem><rdg resp="Khoury and al-Mudarris">ثيدر</rdg></app> مالا من ماله وحقّا 
+ <lb n="10"/>  من حقوقه وملكا له دونها ودون النّاس أجمعين بأمر حق وأكتبت ذكر حـ<supplied reason="lost" cert="high">ـقّ</supplied> بحرّيّته لزوجها الإحرار له به 
+ <lb n="11"/>  فقبل ذلك منها <app type="BL"><lem resp="Khoury and al-Mudarris “not dots specified by Abbott”">مخاطبه </lem><rdg resp="Diem">مخاطبه </rdg><rdg resp="Thung">بمخاطبة</rdg></app> منه <app type="BL"><lem resp="APD">أباها </lem><rdg resp="Khoury, Thung, al-Mudarris">إيّاها</rdg></app> عليه شهد على إقرارهما بما في هذا الكتاب في صحّتهما وجواز أمورهما طائعن 
+ <lb n="12"/>  غير مكرهين في ذو الحجّة من سنة ثمان وسبعين <app type="BL"><lem resp="APD">وثلثمائة </lem><rdg resp="al-Mudarris">وثلاثمائة</rdg></app> شهد علي بن جعفر بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن أحمد 
+ <lb n="13"/>  على إقرارهما بما في هذا الكتاب وكتب شهادته بخطّه 
+ <lb n="14"/>  شهد الحسن بن أحمد بن رزق اللّه بن محمّد وكتب شهادته على إقرار <app type="BL"><lem resp="APD">الثّنية </lem><rdg resp="Khoury and al-Mudarris">إلينة</rdg></app> ابنت أنتناس بتأريخه 
+ <lb n="15"/>  شهد عبد اللّه بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> على إقرار الزّوج <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">وكپپ</supplied> </lem><rdg resp="Khoury and al-Mudarris">وكتب</rdg></app> بخطّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>šahida ăš šuhūdu ăl musammawna fī ṣadri hāḏā ăl kitābi ʾanna ăṯ ø ṯanyaẗa BBBh ʾilīnaẗa ĭbnata ʾantanāsa bni yuḥannisa bni sld banīlaẗi lārisa ăn naṣrāniyyi 
+ <lb n="4"/>ʾaqarrat ʿinda hum wa ʾašhadat hum ʿalà nafsi hā fī ṣiḥḥaẗi badani hā wa tamāmaẗi ʿaqli hā wa ǧawāzi ʾamri hā ʾanna hā ʾabraʾat zawǧa hā 
+ <lb n="5"/>FBrFh qīriqaẗa bna ṯiyudura tīdura bni samawīla ăn naṣrāniyya min ǧamīʿi ăl bāqī la hā ʿalay hi min muʾaḫḫari ṣadāqi hā ăllaḏī kāna ʿuqida 
+ <lb n="6"/>ʿalay hi nikāḥu hā wa huwa ṯamānūna dīnār:an maṯāqīla ḏahab:an ʿayn:an wāzin:an ṣiḥāḥ:an ǧiyād:an maʿsūlaẗ:an ʿazīziyyaẗ:an 
+ <lb n="7"/>wa ʾasqaṭat rahna hu ʿan hu wa ǧaʿalat hu min ǧamīʿi hi fī ḥall:in wa saʿaẗ:in fī ăd dunyā wa ăl ʾāḫiraẗi wa ʾaqarrat ʾanna ǧamīʿa 
+ <lb n="8"/>mā yunsabu ʾilay hā min manzil:in bi ʾaswāna wa mā ḍamma hu min ʾaṣnāfi ăl ʾamtiʿaẗi kulli hā min ṯiyāb:in wa nuḥās:in wa ḥadīd:in 
+ <lb n="9"/>wa šawār:in wa ḫašab:in wa qalīl:in wa kaṯīr:in mimmā yatanawwalu yatanāwalu hu ăn nāsu li zawǧi hā FBrFh qīriqaẗa bni ṯiyudura tīdura māl:an min māli hi wa ḥaqq:an 
+ <lb n="10"/>min ḥuqūqi hi wa milk:an la hu dūna hā wa dūna ăn nāsi ʾaǧmaʿīna bi ʾamr:in ḥaqq:in wa ʾaktabat ḏikra ḥaqq:in bi ḥurriyyati hi li zawǧi hā ăl ʾiḥrāra la hu bi hi 
+ <lb n="11"/>fa qabila ḏālika min hā ø bi muḫāṭabaẗ:an muḫāṭiba muḫāṭabaẗ:in hu ø min hu ʾabā ʾiyyā hā ʿalay hi šuhida ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ṣiḥḥati himā wa ǧawāzi ʾumūri himā ṭāʾiʿayni 
+ <lb n="12"/>ġayra mukrahayni fī ḏū ăl ḥiǧǧaẗi min sanaẗi ṯamān:in wa sabʿīna wa ṯalāṯi miʾaẗ:in šahida ʿaliyyu bnu ǧaʿfara bni ʾibrāhīma bni ʾaḥmada 
+ <lb n="13"/>ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="14"/>šahida ăl ḥasanu bnu ʾaḥmada bni rizqi ăl lāhi bni muḥammad:in wa kataba šahādata hu ʿalà ʾiqrāri ăṯ ø ṯanyaẗi ʾilīnaẗa ĭbnati ʾantanāsa bi taʾrīḫi hi 
+ <lb n="15"/>šahida ʿabdu ăl lāhi bnu ʾibrāhīma ʿalà ʾiqrāri ăz zawǧi wa kataba bi ḫaṭṭi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="2"/>
+ 	  Au nom de Dieu clément et miséricordieux!
+ 	  Im Namen Gottes, des Barmherzigen, des Gütigen!
+ 	  In the name of God the Merciful, the Compassionate!
+		 <lb n="3"/>
+ 	  Die Zeugen, die in diesem Dokument benannt sind, bestätigen, daß Al-...., Tochter des Antanās b. Yuḥannis b. S-l-d Lāris, dem Christen
+ 	  Les témoins nommés au début de ce document ont témoigné qu&#039;Elena, fille d&#039;Antanās Ibn Yoḥannes Ibn Panīle Lāris, le chrétien,
+ 	  The witnesses named in this document testify that Al.... daughter of Antanās son of Yuḥannis son of S-l-d Lāris the Christian
+		 <lb n="4"/>
+ 	  acknowledged before them and caused them to bear witness for her, she being sound in body and sane of mind and capable of transacting her affairs, that she released her husband
+ 	  a reconnu en leur présence et les a pris à témoins, étant dans la plénitude de ses facultés physique et mentale et dans sa capacité juridique, qu&#039;elle a acquitté son mari 
+ 	  vor ihnen anerkannte und sie dazu veranlaßte, für sie Zeugnis abzulegen, sie ist gesund an Körper und voll bei Verstand und geschäftsfähig, daß sie erließ ihrem Gatten
+		 <lb n="5"/>
+ 	  Ḳīriḳah (?) son of Tīdur son of Samawīl the Christian from all the balance due her of the deferred instalment of her dowry which had been contracted
+ 	  Qīriqa (?) b. Tīdur b. Samawīl, dem Christen, alle ihr zu Gunsten noch fälligen Beträge der verzögerten Gabe ihrer Brautgabe, die festgelegt worden war
+ 	  Qīriqe Ibn Théodore Ibn Samawīl, le chrétien, de toute la somme restante qu&#039;il lui devait, de la partie repoussée de sa dot, moyennant quoi avait été contracté
+		 <lb n="6"/>
+ 	  for her in her marriage contract, that being eightly dinars, maṯāḳīl gold coin, of full-weight, correctly-minted, good, true dinars of ʿAzīz.
+ 	  für sie in ihrem Heiratsvertrag, diese betrug achtzig Dīnār, Goldmünzen des Maṯāqīl-Fußes, voll aufgewogen, korrekt geprägt, vollwertig, echte Dīnār von ʿAzīz.
+ 	  son mariage (avec lui), à savoir quatre-vingts dīnārs en pièces d&#039;or bien pesés en miṯqāl-s, des pièces d&#039;or intactes, excellentes et authentiques d&#039; al-ʿAzīz,
+		 <lb n="7"/>
+ 	  And she released him from his pledge for it and set him with respect to all of it free and at ease in this world and the next. And she acknowledged that all
+ 	  qu&#039;elle a renoncé au gage (présenté) par lui, qu&#039;elle le déchargea et le dégagea de tout cela dans ce monde et dans c l&#039;autre. (Et ils ont témoigné) qu&#039;elle a reconnu que tout
+ 	  Und sie erließ ihm seine Verpflichtung dazu und setzte ihn hinsichtlich all dessen frei und ohne Obligationen in diese Welt und die nächste. Und sie erkannte all dies an
+		 <lb n="8"/>
+ 	  ce qui est attribué à elle comme maison à Aswān avec tout ce que celle-ci contient d&#039;objets variés, comme habits, cuivre et fer,
+ 	  daß, was ihr gehörte zusammen mit einer Wohnung im Haus in Aswān und was alles hinzukommt an jeglichen Möbeln, Kleidungsstücken, und an Messing, und Eisen,
+ 	  that which pertained to her by way of a residence in (the) house at Aswān and (all) that is connected with it of all the variety of furnishings, of clothes, and brass, and iron
+		 <lb n="9"/>
+ 	  and kitchen-ware, and wood, and little and much that the people handle - all this belongs to her husband, Ḳīrḳah, son of Tīdur, as a property of his properties and a rightful holding
+ 	  mobiliers, ustensiles de ménage et bois, en petite ou en grande quantité, de ce que les gens se procurent, appartient à son mari Qīrqe Ibn Théodore, en tant que bien de son bien, droit
+ 	  und Geschirr, und Holz, und mehr oder weniger womit die Leute arbeiten, all dies ihrem Ehegatten gehört, Qīriqa b. Tīdur, als ein Besitz seiner Besitze und ein rechtlicher Anteil
+		 <lb n="10"/>
+ 	  de son droit et comme propriété personelle, elle et tous les autres gens exclus, sur ordre valide. Et elle laissa écrire une lettre d&#039;obligation déchargeant par là son mari et l&#039;acquittant.
+ 	  of his rightful holdings, and as a possession belonging to him exclusive of her and of all people by legal mandate. And she caused to be written for her husband a legal deed regarding his freedom which constitutes his release.
+ 	  seiner rechtlichen Anteile, und als sein Besitz ihm gehörend außer ihr und allen Leuten durch ein gültiges Mandat. Und sie veranlaßte, daß ihrem Ehegatten eine gültige Übertragungsurkunde geschrieben werde hinsichtlich seiner Freiheit, die seine Lossagung herstellt.
+		 <lb n="11"/>
+ 	  Ainsi il accepta cela d&#039;elle, dans un entretien avec elle à ce sujet. Témoins de la reconnaissance des deux de ce que contient ce document, les deux étant dans la plénitude de leurs santés et leur capacité juridique
+ 	  And he accepted that from her (having) discussed it with her father. Testimony was given to their acknowledgement of what is in this document the two being in sound health and capable of transacting their affairs, voluntarily
+ 	  Und er akzeptierte dies mit ihrem Vater Diskutierte. Bestätigung zu ihrer Anerkennung über den Inhalt dieses Dokuments wurde gegeben, sie beide sind körperlich gesund und geschäftsfähig, freien Willens
+		 <lb n="12"/>
+ 	  and without compulsion, in Dhū al-Ḥijjah of the year three hundred and seventyeight. ʿAlī ibn Jaʿfar ibn Aḥmad testified
+ 	  et non contraints, en ḏū-ḥiǧǧa de l&#039;an trois cent soixante-dix-huit: a témoigné ʿAlī Ibn Ǧaʿfar Ibn Ibrāhīm Ibn Aḥmad
+ 	  und nicht unter Druck, im Ḏū al-Ḥiǧǧa des Jahres dreihundertachtundsiebzig. ʿAlī  b. Ǧaʿfar b. Aḥmad bezeugte
+		 <lb n="13"/>
+ 	  de leur reconnaissance du contenu de ce document, et il écrivit son témoignage de sa main;
+ 	  ihre Anerkennung über den Inhalt des Dokuments und schrieb seine Bezeugung eigenhändig.
+ 	  to their acknowledgement of what is in this document and wrote his testimony with his (own) hand.
+		 <lb n="14"/>
+ 	  Al-Ḥasan b. Aḥmad b. Rizq Allāh b. Muḥammad legte Zeugnis ab und schrieb seine Bezeugung hinsichtlich der Anerkennung von Al-...., Tochter de  Antanās, am selben Datum wie das des Dokuments
+ 	  Al-Ḥasan ibn Aḥmad ibn Rizḳ Allah Muḥammad gave witness and wrote his testimony regarding the acknowledgement of Al.... daughter of Antanās on the same date as that of the document
+ 	  a témoigné al-Ḥasan Ibn Aḥmad Ibn Rizq Allāh Ibn Muḥammad, et il écrivit son témoignage de sa main, de la reconnaissance d&#039;Elena, fille de Antanās, à sa date;
+		 <lb n="15"/>
+ 	  ʿAbdallāh b. Ibrāhīm bezeugte die Anerkennung des Ehegatten eigenhändig.
+ 	  ʿAbd Allah ibn Ibrahim testified to the acknowledgement of the husband with his (own) hand.
+ 	  a témoigné ʿAbd Allāh Ibn Ibrāhīm de la reconnaissance du mari, &lt;et il écrivit&gt; de sa main
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

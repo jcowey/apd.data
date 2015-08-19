@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1981" xml:id="Grohmann_APEL_259" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 259</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_259</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169713</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ا</supplied>لرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> إن شا اللّه إصطفن بن سيلة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـس راعي دسية بمين راعي دسية <gap reason="illegible" extent="13" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">المان</unclear> 
+<lb n="6"/>  ديسي بن <unclear reason="undefined" cert="high">سليمن</unclear> أبلّوا أبهرمس سوي بن سوا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  أبرم راعي دسية موسى راعي دسية <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  شرحيل بن عيشة <app type="BL"><lem resp="APD">نادر </lem><rdg resp="APD">بادر</rdg></app> بن سليمن مقارة الرّا<supplied reason="lost" cert="high">عي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  سائب بن آدم 
+<lb n="10"/>  الحسن بن يعقوب ورثة عمرو وهو عسل ورثة عمرو و<supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">عسل</supplied> 
+<lb n="11"/>  أصحاب المال عن بني مقران 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** ʾin šāʾa ăl lāhu ʾiṣṭafanu bnu sīlaẗa *** 
+ <lb n="3"/>***** *** 
+ <lb n="4"/>***s rāʿī dasyaẗa bamīnu rāʿī dasyaẗa ************* *** 
+ <lb n="5"/>*** ʾlmʾn 
+ <lb n="6"/>dīsī bnu sulaymāna ʾabullū ʾabahirmisa saway bnu sawā*** *** 
+ <lb n="7"/>ʾabramu rāʿī dasyaẗa mūsà rāʿī dasyaẗa ******* *** 
+ <lb n="8"/>šuraḥīlu bnu ʿayšaẗa bādiru nādiru bnu sulaymāna maqāraẗu ăr rāʿī *** 
+ <lb n="9"/>sāʾibu bnu ʾādama 
+ <lb n="10"/>ăl ḥasanu bnu yaʿqūba waraṯaẗu ʿamr:in wa huwa ʿasal:un waraṯaẗu ʿamr:in wa huwa ʿasal:un 
+ <lb n="11"/>ʾaṣḥābu ăl māli ʿan banī miqrāna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, t]he Compassionate the Merciful.
+			<lb n="2"/>
+		[...] if God will. Iṣṭafan, son of Sîla [
+			<lb n="3"/>
+			<lb n="4"/>
+		[...]s, shepherd of Dasya Bamîn, shepherd of Dasya .................[
+			<lb n="5"/>
+			<lb n="6"/>
+		Deesi, son of Sulaimân Apollo Apa Hermes Saway, son of Sawâ..[...]
+			<lb n="7"/>
+		Abram, shepherd of Dasya Mûsâ, shepherd of Dasya ......[.....] [
+			<lb n="8"/>
+		Šuraḥîl b. ʿAiša Nâdir b. Sulaimân Maqâre, the shep[herd
+			<lb n="9"/>
+		Sâʾib b. Adam
+			<lb n="10"/>
+		al-Ḥasan b. Yaʿqûb the heirs of ʿAmr who (is called) ʿAsal the heirs of ʿAmr who [(is called) ʿAsal]
+			<lb n="11"/>
+		Owners of money (?) on behalf of the Banû Miqrân
+</ab></div>
+</body>
+</text>
+</TEI>

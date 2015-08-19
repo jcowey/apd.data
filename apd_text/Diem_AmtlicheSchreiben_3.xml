@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1066" xml:id="Diem_AmtlicheSchreiben_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannAperçu p. 90 n. 2 (= P.GrohmannProbleme III p. 148 n. 3 = P.HusseinSteuersystem p. 159 = P.DiemFrüheUrkunden p. 150 = P.DiemAmtlicheSchreiben 3)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_AmtlicheSchreiben_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168934</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّ<supplied reason="lost" cert="high">حمن</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حيم 
+<lb n="2"/>  لأبي إسمعيل أكرمه اللّه من هلال وعبد الكريم سلم <supplied reason="lost" cert="high">عليك</supplied> فإنّا 
+<lb n="3"/>  نحمد إليك اللّه الّذي لا إله إلّا هو 
+<lb n="4"/>  أمّا بعد أصلحك اللّه وحفظك وأتم عليك في <supplied reason="lost" cert="high">الدّنيا</supplied> <supplied reason="lost" cert="high">والآخرة</supplied> <supplied reason="lost" cert="high">نعمه</supplied> <supplied reason="lost" cert="high">فإنّي</supplied> 
+<lb n="5"/>  أخبرك أمتع ا<supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـك أنّه لمّا بلغنا أن جرجه جلا فدخلنا <supplied reason="lost" cert="high">بيته</supplied> <supplied reason="lost" cert="high">لأنا</supplied> <supplied reason="lost" cert="high">لم</supplied> <supplied reason="lost" cert="high">نجيد</supplied> 
+<lb n="6"/>  في قريته أحد <supplied reason="lost" cert="high">يخبر</supplied>نا عن دوابّه فوجدنا له اثنين وستّين وما<supplied reason="lost" cert="high">ئـ</supplied>ـة <app type="BL"><lem resp="APD">ضـ<supplied reason="lost" cert="high">ـان</supplied> </lem><rdg resp="APD">ضأنيّة</rdg></app> 
+<lb n="7"/>  واثنين وستّين <app type="BL"><lem resp="APD">خـ<supplied reason="lost" cert="high">ـروف</supplied> </lem><rdg resp="“earlier Grohmann”">خاروف</rdg></app> ومن البقر خمسة <supplied reason="omitted" cert="high">و</supplied>عشرين بين صغير وكبير 
+<lb n="8"/>  وثلثة أجمال وبكرا وخمسة احمور بين صغير وكبير وسبعة من البراذين وإنّا <app type="BL"><lem resp="APD">نخبّرك </lem><rdg resp="“Diem, Probleme”">نخبّرك</rdg></app> 
+<lb n="9"/>  أنّنا لم نجيد أحد من <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">لأ</supplied>جرا </lem><rdg resp="“earlier Grohmann”">أجراء</rdg></app> فـرا في ذلك رايك فاكتب إلينا برأيك 
+<lb n="10"/>  في الدّواب ولم نجيد في منزله شاي أسل اللّه لك العون 
+<lb n="11"/>  والعافية في الدّنيا والآخرة والسّلم عليك 
+<lb n="12"/>  رحمپ اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>li ʾabī ʾismāʿīla ʾakrama hu ăl lāhu min hilāl:in wa ʿabdi ăl karīmi salām:un ʿalay ka fa ʾin nā 
+ <lb n="3"/>naḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʾaṣlaḥa ka ăl lāhu wa ḥafiẓa ka wa ʾatamma ʿalay ka fī ăd dunyā wa ăl ʾāḫiraẗi niʿama hu fa ʾin nī 
+ <lb n="5"/>ʾuḫbiru ka ʾamtaʿa ăl lāhu bi ka ʾanna hu lammā balaġa nā ʾanna ǧirǧaha ǧalà fa daḫalnā bayta hu li ʾan nā lam naǧīd 
+ <lb n="6"/>fī qaryaẗi hi ʾaḥad yuḫbiru nā ʿan dawābbi hi fa waǧadnā la hu ĭṯnayni wa sittīna wa miʾaẗa ḍaʾn:in ḍaʾniyyaẗ:in 
+ <lb n="7"/>wa ĭṯnayni wa sittīna ḫarūf ḫārūf wa min ăl baqari ḫamsaẗ:an wa ʿišrīna bayna ṣaġīr:in wa kabīr:in 
+ <lb n="8"/>wa ṯalāṯaẗa ʾaǧmāl:in wa bakr:an wa ḫamsaẗa ŭḥmūr:in bayna ṣaġīr:in wa kabīr:in wa sabʿaẗan mina ăl barāḏīni wa ʾin nā nuḫabbiru nuḫbiru ka 
+ <lb n="9"/>ʾan nā lam naǧīd ʾaḥad mina ăl ø ʾuǧarāʾi ʾuǧarāʾa fa rā fī ḏālika raʾya ka fa ŭktub ʾilay nā bi raʾyi ka 
+ <lb n="10"/>fī ăd dawābbi wa lam naǧīd fī manzili hi šāy ʾasalu ăl lāha la ka ăl ʿawna 
+ <lb n="11"/>wa ăl ʿāfiyaẗa fī ăd dunyā wa ăl ʾāḫiraẗi wa ăs salāmu ʿalay ka 
+ <lb n="12"/>wa raḥmatu ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen des barm[herzigen und gnä]digen Gottes.
+		Im Namen Gottes des Barmherzigen, des Erbarmenden!
+			<lb n="2"/>
+		An Abû Ismaʿîl (dem Gott sich gnädig erweisen möge!)  - Von Hilâl und ʿAbd el-Kerîm. Friede über Dich! Wir
+		An Abū Ismāʿīl - Gott möge ihm Ehre erweisen - von Hilāl und ʿAbdalkarīm. Heil sei [auf Dir]. Wir
+			<lb n="3"/>
+		preisen Dir Gott, außer dem es keinen Gott gibt.
+		preisen gegen Dich Gott, außer dem es keinen Gott gibt!
+			<lb n="4"/>
+		Sodann - Gott möge Dich gesund erhalten, Dich bewahren und Dir im [Diesseits und Jenseits seine vollen Gnaden] erweisen - 
+		Und weiter: Gott erweise Dir Wohlthaten, beschütze Dich und vollende seine Gnaden an Dir! Ich
+			<lb n="5"/>
+		benachrichtige Dich (Gott erhalte Dich am Leben!), daß, nachdem zu uns die Kunde gelangte, Georgios sei ausgewandert, wir uns
+		teile ich Dir - Gott möge an Dir Freude geben - Folgendes mit: Als wir erfuhren, daß Georgios geflohen war, da gingen wir [in sein Haus, denn wir fanden]
+			<lb n="6"/>
+		in sein Dorf begaben, um den Thierbestand sicherzustellen. Wir fanden bei ihm 162 Schöpfe,
+		niemanden in seinem Dorf, der uns über seine Tiere [hätte Auskunft geben können]. In seinem Besitz fanden wir einhundertundzweiundsechzig Sch[afe],
+			<lb n="7"/>
+		62 Lämmer, 25 junge und alte Rinder, 
+		zweiundsechzig L[ämme]r, fünf&lt;und&gt;zwanzig Rinder, teils junge, teils alte Tiere,
+			<lb n="8"/>
+		7 Saumthiere, 3 Kameele, ein junges Kameel und 5 junge und alte Esel. Ferner bringen wir Dir zur Kenntniss,
+		drei Kamele, ein junges Kamel und fünf Esel, teil junge, teils alte Tiere \und sieben Lastpferde/. Wir teilen Dir außerdem mit,
+			<lb n="9"/>
+		daß wir niemanden von den Dienstleuten vorfanden. Gieb daher dieserwegen uns Deine Meinung kund, schreib&#039; uns Deinen Rath
+		daß wir niemanden von [den] Taglöhnern vorfanden. Bilde Dir also Deine Meinung über die Tiere und schreibe uns Deine Entscheidung
+			<lb n="10"/>
+		betreffs der Tiere. In seinem Wohnhaus fanden wir nichts. Ich bitte Gott um Hilfe
+		bezüglich der Thiere. In seiner Wohnung fanden wir nichts. Ich bitte zu Gott für Dich um den Beistand
+			<lb n="11"/>
+		und den Schutz in dieser und jener Welt. Und Friede sei über Dich und
+		und Gesundheit im Diesseits und Jenseits für Dich. Das Heil sei auf Dir und
+			<lb n="12"/>
+		die Barmherzigkeit Gottes!
+		die Gnade Gottes.
+</ab></div>
+</body>
+</text>
+</TEI>

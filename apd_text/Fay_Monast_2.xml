@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1450" xml:id="Fay_Monast_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Fay.Monast. 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Fay_Monast_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169235</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذ</supplied>ا ما اشترى قلحش بن بقطر من مرقورة بن كيل من سكّان أبو الجسوق المعروف ببرش 
+<lb n="3"/>  <supplied reason="lost" cert="high">اشتر</supplied>ا منه ومن والدته أقطهون ابن أبو تيدر المنزل الّذي لهم بأبو الجسوق برش من كورة 
+<lb n="4"/>  الفيّوم بثمان الدّنانير من تلك دينار واحد <app type="BL"><lem resp="APD">خوّان </lem><rdg resp="Diem">جواز</rdg></app> والسّبع الدّنانير معسولة صحاحا وازنا 
+<lb n="5"/>  بالمثاقيل الجدئد وهو المنزل الّذي حدّه القبلي ينتهي إلى منزل متوس بن دهلة وحدّه 
+<lb n="6"/>  البحري منزل ورثة بني قسا وحدّه الشّرقي منزل فقري بن شنودة وحدّه الغربي منزل 
+<lb n="7"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">توسانة</supplied> </lem><rdg resp="Thung">توساقة </rdg><rdg resp="Thung">توسافة</rdg></app> ابنت بسنت اشترا قلحش بن بقطر من مرقورة بن كيل ومن والدته أقطهون ابن أبو تيدر 
+<lb n="8"/>  حـ<supplied reason="lost" cert="high">ـقّـ</supplied>ـهم بالمنزل المحدود الموصوف بما دارت عليه الحدود الأربع حدّه وحدوده وكل 
+<lb n="9"/>  حق هو له داخلا فيه وخارجًا منه بهذا الثّمان الدّنانير الموصوفة في هذا الكتاب 
+<lb n="10"/>  وسلّم به قلحش بن بقطر إلى مرقورة بن كيل هذا الثّمن تماما وافيا وأبرأه من جميع الثّمن براه قبض 
+<lb n="11"/>  وتراضا وافترقا عن اتراض منهما وتشاور على بيع الإسلام وشروطه بلا خيار منهما ولا فسخ 
+<lb n="12"/>  <supplied reason="lost" cert="high">هذا</supplied> بما تبايعا عليه فما أدرك قلحش بن بقطر من درك أو <unclear reason="undefined" cert="high">تبعة</unclear> <gap reason="illegible" precision="low" extent="3"/> أو علقة من أحد من النّاس 
+<lb n="13"/>  بسبب من الأسباب أو جهة من الوجوه فعلى مرقورة بن كيل ضمان ذلك وعقدته وذلك 
+<lb n="14"/>  في صفر من سنة ستّة وثلاثين وثلثمائة شهد على ذلك علي بن إبرهيم الأسواني بجميع ما في هذا الكتاب 
+<lb n="15"/>  في صفر من سنة ست وثلثين وثلثمائة شهد على ذلك محمّد بن <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">القسر</unclear> </lem><rdg resp="APD">القسى </rdg><rdg resp="APD">القسم</rdg></app> بجميع ما في هذا الكتاب وكتب عنه علي بن إبرهيم 
+<lb n="16"/>  بأمره ومحضره 
+<lb n="17"/>  شهد محمّد بن الحسين بجميع ما في هذا الكتاب وكتب بخطّه 
+<lb n="18"/>  شهد أحمد بن الخشرم بجميع ما في هذا الكتاب وكتب بخطّه 
+<lb n="19"/>  شهد <unclear reason="undefined" cert="high">فساو</unclear> بن أحمد بجميع ما في هذا الكتاب وكتب عنه علي بن إبرهيم بأمره ومحضره 
+<lb n="20"/>  شهد أحمد بن محمّد بجميع ما في هذا الكتاب 
+<lb n="21"/>  شهد علي بن حسين بجميع ما في هذا الكتاب وكتب شهـ<supplied reason="lost" cert="high">ـادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà qalḥašu bnu buqṭura min marqūraẗa bni kayl:in min sukkāni ʾabū ăl ǧusūqi ăl maʿrūfi bi burša 
+ <lb n="3"/>ĭštarā min hu wa min wālidati hi ʾaqṭahūna ĭbni ʾabū tīdura ăl manzila ăllaḏī la hum bi ʾabū ăl ǧusūqi burša min kūraẗi 
+ <lb n="4"/>ăl fayyūmi bi ṯamāni ăd danānīra min tilka dīnār:un wāḥid:un ḫawwān:un ǧawāz:un wa ăs sabʿu ăd danānīri maʿsūlaẗ:un ṣiḥāḥ:an wāzin:an 
+ <lb n="5"/>bi ăl maṯāqīli ăl ǧadāʾidi wa huwa ăl manzilu ăllaḏī ḥaddu hu ăl qibliyyu yantahī ʾilà manzili matūsa bni dahlaẗa wa ḥaddu hu 
+ <lb n="6"/>ăl baḥriyyu manzilu waraṯaẗi banī qasā wa ḥaddu hu ăš šarqiyyu manzilu faqriyyi bni šinūdaẗa wa ḥaddu hu ăl ġarbiyyu manzilu 
+ <lb n="7"/>tūsānaẗa tūsāfaẗa tūsāqaẗa ĭbnati bisanta ĭštarā qalḥašu bnu buqṭura min marqūraẗa bni kayl:in wa min wālidati hi ʾaqṭahūna ĭbni ʾabū tīdura 
+ <lb n="8"/>ḥaqqa hum bi ăl manzili ăl maḥdūdi ăl mawṣūfi bi mā dārat ʿalay hi ăl ḥudūdu ăl ʾarbaʿu ḥadda hu wa ḥudūda hu wa kulla 
+ <lb n="9"/>ḥaqq:in huwa la hu dāḫil:an fī hi wa ḫāriǧ:an min hu bi hāḏā ăṯ ṯamāni ăd danānīri ăl mawṣūfaẗi fī hāḏā ăl kitābi 
+ <lb n="10"/>wa sallama bi hi qalḥašu bni buqṭura ʾilà marqūraẗa bni kayl:in hāḏā ăṯ ṯamana tamām:an wāfiy:an wa ʾabraʾa hu min ǧamīʿi ăṯ ṯamani barāʾaẗa qabḍ:in 
+ <lb n="11"/>wa tarāḍā wa ĭftaraqā ʿan ĭtrāḍ:in min humā wa tašāwara tašāwur:in ʿalà bayʿi ăl ʾislāmi wa šurūṭi hi bi lā ḫiyār:in min humā wa lā fasḫ:in 
+ <lb n="12"/>hāḏā bi mā tabāyaʿā ʿalay hi fa mā ʾadraka qalḥaša bna buqṭura min darak:in ʾaw tabiʿaẗ:in *** ʾaw ʿulqaẗ:in min ʾaḥad:in mina ăn nāsi 
+ <lb n="13"/>bi sabab:in mina ăl ʾasbābi ʾaw ǧihaẗ:in mina ăl wuǧūhi fa ʿalà marqūraẗa bni kayl:in ḍamānu ḏālika wa ʿuqdatu hu wa ḏālika 
+ <lb n="14"/>fī ṣafar:in min sanaẗi sittaẗ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in šahida ʿalà ḏālika ʿaliyyu bnu ʾibrāhīma ăl ʾaswāniyyu bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="15"/>fī ṣafar:in min sanaẗi sitt:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in šahida ʿalà ḏālika muḥammadu bnu ăl qasri qasà qāsimi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba ʿan hu ʿaliyyu bnu ʾibrāhīma 
+ <lb n="16"/>bi ʾamri hi wa maḥḍari hi 
+ <lb n="17"/>šahida muḥammadu bnu ăl ḥusayni bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="18"/>šahida ʾaḥmadu bnu ăl ḫašrami bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="19"/>šahida fasāwu bnu ʾaḥmada bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba ʿan hu ʿaliyyu bnu ʾibrāhīma bi ʾamri hi wa maḥḍari hi 
+ <lb n="20"/>šahida ʾaḥmadu bnu muḥammad:in bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="21"/>šahida ʿaliyyu bnu ḥusayn:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the merciful, the compassionate.
+			<lb n="2"/>
+		This is what Ḳalḥash, son of Boḳtor, bought from Marḳūrah, son of Kail, of the inhabitants of Abū al-Jusūḳ, known as Bursh.
+			<lb n="3"/>
+		He bought from him and from his mother, Aḳṭahūn, (daughter) of Ibn Abī Tīdur, their house in Abū al-Jusūḳ Bursh of the district (kurah) of the
+			<lb n="4"/>
+		Fayyūm for eight dinars, of which one dinar is debased and seven dinars unadulterated, sound
+			<lb n="5"/>
+		full weight by the new mithḳāls. And it is the house whose southern boundary extends to the house of Matūs, son of Dahlah, and its
+			<lb n="6"/>
+		northern boundary (is) the house of the heirs of Banī Ḳasā, and its eastern boundary the house of Faḳrī, son of Shinūdah, and its western boundary the house of
+			<lb n="7"/>
+		Tūsānah, daughter of Bisanti. Ḳalḥash, son of Boḳṭor, bought from Marḳūrah, son of Kail, and from his mother, Aḳṭahūn, (daughter) of Ibn Abī Tīdur, their right
+			<lb n="8"/>
+		in the house delimited and described by the four boundaries, and every
+			<lb n="9"/>
+		right pertaining to it, entering in it, and issuing from it, for these eight dinars specified in this deed.
+			<lb n="10"/>
+		And Ḳalḥash, son of Boḳṭor, delivered it to Marḳūrah, son of Kail, this entire sum in full payment, and he receipted him with a receipt for full payment received.
+			<lb n="11"/>
+		And they were satisfied and parted on terms of mutual satisfaction on their part. And they consulted (with each other) in accordance with the Muslim law of sale and its stipulations without option for either of them and without annulment.
+			<lb n="12"/>
+		These are the terms on which they concluded the sale. And whatsoever should ensue to Ḳalḥash, son of Boḳṭor, by way of damages or claims or attachments from anyone whatsoever
+			<lb n="13"/>
+		for any reason whatsoever or in any manner whatsoever - the responsibility for that and security for it rests on Marḳūrah, son of Kail. And that
+			<lb n="14"/>
+		in Ṣafar of the year six and thirty and three hundred. ʿAlī, son of Ibrahīm, al-Aswānī, gave witness to that, to all that is in this deed
+			<lb n="15"/>
+		in Ṣafar of the year six and thirty and three hundred. Muḥammad, son of al-Ḳasr, gave witness to that, to all that is in this deed, and ʿAlī, son of Ibrahīm, wrote (signed) for him
+			<lb n="16"/>
+		by his order and in his presence.
+			<lb n="17"/>
+		Muḥammad, son of al-Ḥusain, gave witness to all that is in this deed and wrote with his own hand.
+			<lb n="18"/>
+		Aḥmad, son of al-Khashram, testified to all that is in this deed and wrote with his own hand.
+			<lb n="19"/>
+		Fasau(?), son of Aḥmad, gave witness to all that is in this deed, and ʿAlī, son of Ibrahīm, wrote for him by his order and his presence.
+			<lb n="20"/>
+		Aḥmad, son of Muḥammad, gave witness to all that is in this deed.
+			<lb n="21"/>
+		ʿAlī, son of Ḥusain, gave witness to all that is in this deed and wrote his testimony with his own hand.
+</ab></div>
+</body>
+</text>
+</TEI>

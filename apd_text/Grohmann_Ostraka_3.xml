@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1285" xml:id="Grohmann_Ostraka_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannOstraka 4</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Ostraka_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169108</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  وانظر الجدي الأسود <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto2"/>  والجدي الأملح أجود <app type="BL"><lem resp="APD">فإ<supplied reason="lost" cert="high">ن</supplied> </lem><rdg resp="APD">كاـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto3"/>  وأعلم واللّه لو لا توسّعت محر <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" />پپمه 
+<lb n="recto4"/>  أبدا فأعلم ذلك وادراه إذا سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto5"/>  وانظر الدّرهم الّذي لي عندك ابعث إلي به <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="recto6"/>  ذلك فألزمك <unclear reason="undefined" cert="high">والحمد</unclear> واعلم الدّهر ليس <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="recto7"/>  هذه المرّة حتّا أغشاك مرار كتبه وإن لا فاپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto8"/>  فإذا وجّهت الـ<gap reason="illegible" extent="6" unit="character" />ـ <unclear reason="undefined" cert="high">ڤعرمه</unclear> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto9"/>  ثمنهم فـإن كان زيادته <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto10"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso1"/>  <supplied reason="lost" cert="high">إلى</supplied> أبي يعقو<supplied reason="lost" cert="high">ب</supplied> 
+<lb n="verso2"/>  من جرجة بن يوسف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ŭnẓuri ăl ǧadya ăl ʾaswada *** 
+ <lb n="2"/>wa ăl ǧadyu ăl ʾamlaḥu ʾaǧwadu fa kā*** ʾin *** 
+ <lb n="3"/>wa ăʿlam wa ăl lāhi law lā tawassaʿta mḤr ***** *** *BBmh 
+ <lb n="4"/>ʾabad:an fa ăʿlam ḏālika wa ĭdrā hu ʾiḏā s*** 
+ <lb n="5"/>wa ŭnẓuri ăd dirhama ăllaḏī l ī ʿinda ka ĭbʿaṯ ʾilay ya bi hi ********* 
+ <lb n="6"/>ḏālika ʾalzama fa ʾulzimu ka wa ăl ḥamdu wa ĭʿlami ăd dahru laysa ******* 
+ <lb n="7"/>hāḏihi ăl marraẗ ḥattā ʾaġšā ʾuġšā ka mirār katbi hi wa ʾin lā fa fʾB** ʾB** ø 
+ <lb n="8"/>fa ʾiḏā waǧǧahta ăl ****** Fʿrmh ****** *** 
+ <lb n="9"/>ṯaman hum fa ʾin kāna ziyādatu hu *** *** 
+ <lb n="10"/>** ******** *** 
+ <lb n="11"/>ʾilà ʾabī yaʿqūba 
+ <lb n="12"/>min ǧirǧaẗa bni yūsufa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Und siehe, der schwarze Bock [...]
+			<lb n="2"/>
+		und der weiss-schwarz gefleckte Bock ist besser. Doch wenn [...]
+			<lb n="3"/>
+		Und wisse, bei Gott, wenn Du nicht grosszügig bist [...] [...] .....
+			<lb n="4"/>
+		niemals. So nimm dies zur Kenntnis und versteh es! Wenn .... [...]
+			<lb n="5"/>
+		Und siehe den Dirham, den ich bei Dir gut habe, send ihn mir ..........
+			<lb n="6"/>
+		dies. So mache ich Dirʾs zur Pflicht. Und (Gott sei) Lob. Und wisse, nicht ist die Zeit ..........
+			<lb n="7"/>
+		diesmal, so dass ich Dich überrasche......; sollte (dies) aber nicht (der Fall) sein, so ......... [...]
+			<lb n="8"/>
+		Wenn Du aber nicht geschickt hast den ......., so ..... [...]
+			<lb n="9"/>
+		ihren Preis. Doch wenn es mehr ausmacht [...]
+			<lb n="10"/>
+			<lb n="11"/>
+		[An] Abū Yaʿqūb
+			<lb n="12"/>
+		von Ǧirǧe b. Yūsuf.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1432" xml:id="Diem_Heid_II_46_recto" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 46 recto</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_46_recto</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169220</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـ<unclear reason="undefined" cert="high">ـل</unclear> پپمپه <app type="BL"><lem resp="APD">ديانتي </lem><rdg resp="APD">ديانتي </rdg><rdg resp="APD">دبابتي</rdg></app> وهذا رجل ما زرع قط يستخرج ولا 
+ <lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/>ل قد أنفذ إلي كتاب منه إليك وأنفذ السجل قد أنفذت الكتاب 
+ <lb n="recto 4"/>  <app type="BL"><lem resp="APD"> </lem><rdg resp="APD">والسّجلّ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">إليك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> پدپر امر هدا الرحل وپرپل عپه مأ اپپ عليه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** **** ****** *** **** 
+ <lb n="2"/>***l BBmBh dBʾBt diyānat dubābat ī wa hāḏā raǧul:un mā zaraʿa qaṭṭu yastaḫriǧu wa lā 
+ <lb n="3"/>***l qad ʾanfaḏa ʾilay ya kitāb min hu ʾilay ka wa ʾanfaḏa ăs siǧilla qad ʾanfaḏtu ăl kitāba 
+ <lb n="4"/>*** wa ø ăs ø siǧilla *** ʾilay ø ka tudabbiru ʾamra hāḏā ăr raǧuli wa tuzīlu ʿan hu mā ʾanta ʿalay hi wa lā 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  ] - - - meine - - -, und dies ist ein Mann, der niemals gesät hat, damit er einnimmt (?), und nicht
+		 <lb n="3"/>
+ 	  ] er hat einen von ihm an Dich gerichteten Brief an mich gesandt, und er hat die Urkunde übersandt. Ich sende den Brief
+		 <lb n="4"/>
+ 	  ] damit Du die Angelegenheit dieses Mannes erledigst und ihn von der bewußten Sache befreist, und nicht
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

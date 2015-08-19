@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2331" xml:id="Ragib_Edfou_4" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.RagibEdfou 4</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Edfou_4</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> على ما وصفت من سلامتك <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> بعد فلا أقدم واللّه يأبالقسم <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> و<unclear reason="undefined" cert="high">حسّـ</unclear>ـسني بك أسل اللّه أن يمن علينا با<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> اللّه الشّكر الّذي وجّهت به مع بن بكر وفهمت ما ذكرت من <supplied reason="lost" cert="high">كتا</supplied>بك <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">أنّ</rdg></app> <app type="BL"><lem resp="APD">پلع </lem><rdg resp="Diem">اللّه</rdg></app> ڤبه مپلع العلى <app type="BL"><lem resp="APD">ڤالحمد </lem><rdg resp="Diem">العلم</rdg></app> لله الدى اعاپك على طهورك ويسرپى د<supplied reason="lost" cert="high">لك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> بحمد اللّه ما انعقد عاجلا برحمته 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">جعلت</supplied> فداك قد <gap reason="illegible" precision="low" extent="3"/> لا أحتشمك في <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high"><unclear reason="undefined" cert="high">هـ</unclear>ـ</supplied>ـديّة ما حضر <gap reason="illegible" precision="low" extent="3"/>ك من شي فليس تحتشم من القـ<supplied reason="lost" cert="high">ـريب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> لمحتشم لما بعثت به إليك جدّا ألا أن قلّة الحشمة حملـ<supplied reason="lost" cert="high">ـتـني</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> على السّير مع من حمل كتابي إليك وهو عبد اللّه بن أ<supplied reason="lost" cert="high">حمد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> الحفصي بخرقة ملـ<supplied reason="lost" cert="high">ـفـ</supplied>ـوفة داخلها كسا حرير معلّـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> خضرا ومنديل و<gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ʿalà mā waṣafta min salāmati ka *** 
+ <lb n="2"/>*** baʿdu fa lā ʾaqdamu wa ăl lāhi yā ʾabā l qāsimi *** 
+ <lb n="3"/>*** wa ḥassasa nī bi ka ʾasalu ăl lāha ʾan yamunna ʿalay nā bi ʾ*** 
+ <lb n="4"/>*** ăl lāh ăš šukr ăllaḏī waǧǧahta bi hi maʿa bni bakr:in wa fahimtu mā ḏakarta min kitābi ka *** 
+ <lb n="5"/>ø ʾanna *** ăl *** lāha balaġa fī hi mablaġa ăl ʿulà ʿilmi fa ăl ḥamdu li l lāhi ăllaḏī ʾaʿāna ka ʿalà ẓuhūri ka wa yasurru nī ḏālika *** 
+ <lb n="6"/>*** bi ḥamdi ăl lāhi mā ĭnʿaqada ʿāǧil:an bi raḥmati hi 
+ <lb n="7"/>*** ǧuʿiltu fidāʾa ka qad *** lā ʾaḥtašimu ka fī *** 
+ <lb n="8"/>*** hadiyyaẗ mā ḥaḍara *** ka min šayʾ:in fa laysa taḥtašimu mina ăl qarībi *** 
+ <lb n="9"/>*** la muḥtašim:un li mā baʿaṯtu bi hi ʾilay ka ǧidd:an ʾa lā ʾanna qillaẗa ăl ḥišmaẗi ḥamalat nī *** 
+ <lb n="10"/>*** ʿalà ăs sayri maʿa man ḥamala kitāb ī ʾilay ka wa huwa ʿabdu ăl lāhi bnu ʾaḥmada *** 
+ <lb n="11"/>*** ăl ḥafṣiyyu bi ḫirqaẗ:in malfūfaẗ:in dāḫilu hā kisāʾu ḥarīr:in muʿallam:in *** 
+ <lb n="12"/>*** ḫaḍrāʾ wa mindīl wa *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ... sur ce que tu as décrit de ta santé ...
+		 <lb n="2"/>
+ 	  après, je ne me trouve pas tout près, Bū-l-Qāsim, ...
+		 <lb n="3"/>
+ 	  ... tu m&#039;as touché. Je demande à Dieu de nous accorder la faveur de ...
+		 <lb n="4"/>
+ 	  ... Dieu, le remerciement que tu as envoyé avec Ibn Bakr, et j&#039;ai compris ce que tu as mentionné dans ta lettre ...
+		 <lb n="5"/>
+ 	  ... qui l&#039;a fait parvenir au degré suprême. Louange à Dieu qui t&#039;a aidé à te manifester. J&#039;en suis satisfait ...
+		 <lb n="6"/>
+ 	  ... Dieu en soit loué pour ce qui a été conclu rapidement par Sa miséricorde.
+		 <lb n="7"/>
+ 	  ...puissé-je te servir de rançcon! ... je n&#039;aurai pas honte de toi pour ...
+		 <lb n="8"/>
+ 	  ... un présent ... de rien. N&#039;aie pas honte du proche ...
+		 <lb n="9"/>
+ 	  ... confus de ce que je t&#039;ai envoyé comme présent. Est-ce que le peu de honte m&#039;a conduit ...
+		 <lb n="10"/>
+ 	  ... à accompagner le porteur de ma lettre vers toi, qui est ʿAbd Allāh b. Aḥmad ...
+		 <lb n="11"/>
+ 	  ... al-Ḥafṣī, une pièce d&#039;étoffe enveloppée, à l&#039;intérieur de laquelle se trouvent un vêtement de soie rayée ...
+		 <lb n="12"/>
+ 	  ... verte, et un turban ...
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

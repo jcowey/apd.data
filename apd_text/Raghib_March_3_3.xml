@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="592" xml:id="Raghib_March_3_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106722</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">أ</supplied>كرمك اللّه كرامة من رضي عنه وصل إلي ثوبين لك 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">و</supplied>قد بعتها بأربعة اعشر قيراط وربع سبعة و<supplied reason="lost" cert="high">نصف</supplied> وسبعة إلّا ربع 
+<lb n="recto 4"/>  وقد وجّهت بمتاع جيّد كان الحرز لك فأسل اللّه أن يعجّل 
+<lb n="recto 5"/>  عليك نفعة الحج وخلف الحج سريع وثوابه كبير تولّا اللّه كفايتك 
+<lb n="recto 6"/>  وحفظك على الشّيخ أكرمه اللّه السّلم وأعلمه أنّي صرت 
+<lb n="recto 7"/>  إلى أبي <app type="BL"><lem resp="APD">شبر </lem><rdg resp="APD">شبّر </rdg><rdg resp="APD">شتر </rdg><rdg resp="APD">سير </rdg><rdg resp="APD">شير </rdg><rdg resp="APD">سين </rdg><rdg resp="APD">شين</rdg></app> فأخبرني أنّه دفع إلي أرجوا أن الدّراهم اشتروا بها ثوب 
+<lb n="recto 8"/>  ولو دفع إلي شي لاشتريت للشّيخ حاجته من الكتّان 
+<lb n="recto 9"/>  تولّا اللّه حفظك 
+<lb n="verso 1 right"/>  لأبي هريرة أكرمه اللّه بطاعته 
+<lb n="verso 2 right"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="verso 1 left"/>  من محمّد بن عمرو بن <supplied reason="lost" cert="high">ثور</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu karāmaẗa man raḍiya ʿan hu waṣala ʾilay ya ṯawbayni la ka 
+ <lb n="3"/>wa qad biʿtu hā bi ʾarbaʿaẗa ĭʿšara qīrāṭ wa rubʿ:in sabʿaẗ:in wa niṣf:in wa sabʿaẗ:in ʾillā rubʿ:in 
+ <lb n="4"/>wa qad waǧǧahta bi matāʿ:in ǧayyid:in kāna ăl ḥirzu la ka fa ʾasalu ăl lāha ʾan yuʿaǧǧila 
+ <lb n="5"/>ʿalay ka nafʿaẗa ăl ḥaǧǧi wa ḫalafu ăl ḥaǧǧi sarīʿ:un wa ṯawābu hu kabīr:un tawallā ăl lāhu kifāyata ka 
+ <lb n="6"/>wa ḥafiẓa ka ʿalà ăš šayḫi ʾakrama hu ăl lāhu ăs salāmu wa ʾaʿlim hu ʾan nī ṣirtu 
+ <lb n="7"/>ʾilà ʾabī šabbara šabr:in šatr:in šibr:in sīr:in šīr:in sīn:in šīn:in fa ʾaḫbara nī ʾanna hu dafaʿa ʾilay ya ʾarǧū ʾanna ăd darāhima ĭštaraw bi hā ṯawb 
+ <lb n="8"/>wa law dafaʿa ʾilay ya šayʾ la ĭštaraytu li š šayḫi ḥāǧata hu mina ăl kattāni 
+ <lb n="9"/>tawallā ăl lāhu ḥifẓa ka 
+ <lb n="10"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="11"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="12"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au] nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;honneur de ceux qu&#039;Il agrée! Deux pièces d&#039;étoffe t&#039;appartenant me sont parvenues.
+			<lb n="3"/>
+		Je les ai vendues pour quatorze qīrāṭ-s et quart : sept et [demi] et sept moins un quart. 
+			<lb n="4"/>
+		Tu as adressé une bonne marchandise dont le profit revient. Je demande à Dieu qu&#039;il hâte pour toi
+			<lb n="5"/>
+		l&#039;avantage du pèlerinage. L&#039;effet du pèlerinage est rapide et sa récompense grande. Que Dieu te secoure par Sa protection 
+			<lb n="6"/>
+		et te garde! Sur le šayḫ - que Dieu l&#039;honore! le salut. Informe-le que je suis allé trouver
+			<lb n="7"/>
+		Abū Šibr. Il m&#039;a informé qu&#039;il m&#039;a payé. J&#039;espère qu&#039;ils ont acheté avec les dirhams une pièce d&#039;étoffe.
+			<lb n="8"/>
+		S&#039;il m&#039;avait payé quelque chose, j&#039;aurais acheté au šayḫ ce dont il a besoin comme lin.
+			<lb n="9"/>
+		Que Dieu te secoure en te gardant!
+			<lb n="10"/>
+		À Abū Hurayra - que Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+			<lb n="11"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="12"/>
+		De la part de Muḥammad b. ʿAmr b. [Ṯawr]
+</ab></div>
+</body>
+</text>
+</TEI>

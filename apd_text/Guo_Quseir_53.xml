@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="928" xml:id="Guo_Quseir_53" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments II 2 (= P.QuseirArab. I 53)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_53</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113686</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <sic n="superfluous">لى</sic> <expan><ex>پسم</ex> <ex>الله</ex> <ex>الرحمن</ex> <ex>الرّحپم</ex></expan> 
+<lb n="2"/>  يتسلّم الشّيخ إبراهيم بن أبو مفرّج رحمه اللّه من <app type="BL"><lem resp="Guo; AK">عبد </lem><rdg resp="Guo">عبد</rdg></app> الشّيخ 
+<lb n="3"/>  حسن التّاجر السكندري صحبة مفلح غلام 
+<lb n="4"/>  العريف حملين كتّان أربع قطع 
+<lb n="5"/>  والسّلام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yatasallami ăš šayḫu ʾibrāhīmu bnu ʾabū mufarriǧ:in raḥima hu ăl lāhu min ʿabdi ʿindi ăš šayḫi 
+ <lb n="3"/>ḥasan:ini ăt tāǧiri ăli skandariyyi ṣuḥbaẗa mufliḥ:in ġulāmi 
+ <lb n="4"/>ăl ʿarīfi ḥimlayni kattān ʾarbaʿa qiṭaʿ:in 
+ <lb n="5"/>wa ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		Shaykh Ibrāhīm, the son of Abū Mufarrij - may God have mercy on him! - is to receive from Shaykh
+			<lb n="3"/>
+		Ḥasan, the merchant of Alexandria, accompanied by Mufliḥ, the young slave boy
+		Ḥasan, the merchant of Alexandria, accompanied by Mufliḥ, the young slave boy (ghulām)
+			<lb n="4"/>
+		of the superintendent (al-ʿarīf), two loads of flax (kattān) [in] four bundles (qitaʿ).
+		of the superintendent, two loads of flax [in] four bundles.
+			<lb n="5"/>
+		Peace.
+		Peace [be upon you].
+</ab></div>
+</body>
+</text>
+</TEI>

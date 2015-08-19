@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1710" xml:id="Prag_Beilage050" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. Beilage V</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_Beilage050</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169458</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـم <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر احر<gap reason="illegible" precision="low" extent="3"/> غنم ‮‪͵<gap reason="illegible" extent="1" unit="character" />δ‬ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮دمونة الشّمّاس ضأن وغنم ‮‪͵ρι‬ ‮<gap reason="illegible" precision="low" extent="3"/> ڤا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮هليس أثناس <sic n="superfluous">واعن</sic> <expan><ex>وأدّى</ex> <ex>عن</ex></expan> نفسه ضأن وغنم ‮‪͵οζ‬ ‮‪͵α‬ پپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮مرقورة ببيج <sic n="superfluous">واعن</sic> <expan><ex>وأدّى</ex> <ex>عن</ex></expan> نفسه غنم ‮‪͵ριθ‬ ‮‪͵λε‬ ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮قزمان بولة <sic n="superfluous">واعن</sic> <expan><ex>وأدّى</ex> <ex>عن</ex></expan> نفسه غنم ‮‪͵ξα‬ ‮‪͵ιϛ‬ اپپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮بسل دديمة <sic n="superfluous">واعن</sic> <expan><ex>وأدّى</ex> <ex>عن</ex></expan> نفسه غنم ‮‪͵οδ‬ ‮‪͵κβ‬ پپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ‮دسي دلهوس غنم ‮‪͵κζ‬ ‮‪͵η‬ ڤر<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  ‮حارس الأرملة غنم ‮‪͵ι‬ ‮‪͵β‬ أبو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  ‮ثيدر بقطر <sic n="superfluous">واعن</sic> <expan><ex>وأدّى</ex> <ex>عن</ex></expan> نفسـه غنم ‮‪͵ρκβ‬ ‮‪͵ιϛ‬ نصر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ‮أبولّوا سمح <sic n="superfluous">واعن</sic> <expan><ex>وأدّى</ex> <ex>عن</ex></expan> نفسـه غنم ‮‪͵<gap reason="illegible" extent="1" unit="character" />α‬ ‮‪͵α‬ ثيدر<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***m ***r ʾḥr*** ġanam *+4 *** *** 
+ <lb n="2"/>damūnaẗu ăš šammāsu ḍaʾn wa ġanam 110 *** Fʾ*** 
+ <lb n="3"/>halīsu ʾaṯanāsa wa ʾaddà ʿan nafsi hi ḍaʾn wa ġanam 77 1 BB*** 
+ <lb n="4"/>marqūraẗu babīǧa wa ʾaddà ʿan nafsi hi ġanam 119 35 ʾ*** 
+ <lb n="5"/>quzmānu būlaẗa wa ʾaddà ʿan nafsi hi ġanam 60 16 ʾBB*** 
+ <lb n="6"/>basilu didīmaẗa wa ʾaddà ʿan nafsi hi ġanam 74 22 BB*** 
+ <lb n="7"/>disī dilhūsa ġanam 27 8 Fr*** 
+ <lb n="8"/>ḥārisu ăl ʾarmalaẗi ġanam 10 2 ʾabū *** 
+ <lb n="9"/>ṯiyuduru buqṭura wa ʾaddà ʿan nafsi hi ġanam 122 16 naṣru *** 
+ <lb n="10"/>ʾabūllū simḥ:in wa ʾaddà ʿan nafsi hi ġanam *+1 1 ṯiyuduru *** 
+ <lb n="11"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[.....] im [...]......[...] Schafe [..] 4 [...] [
+			<lb n="2"/>
+		Damūne, der Diakon, Schöpse und Schafe 110 [...] Fā[
+			<lb n="3"/>
+		Helis Athanas, und er zahlt für sich selbst, Schöpse und Schafe 77 1 ..[
+			<lb n="4"/>
+		Merqūre Babīǧ, und er zahlt für sich selbst, Schafe 119 35 A[
+			<lb n="5"/>
+		Quzmān Būle, und er zahlte für sich selbst, Schafe 61 16 A..[
+			<lb n="6"/>
+		Basil Didyme, und er zahlte für sich selbst, Schafe 74 22 ..[
+			<lb n="7"/>
+		Deesi Dilhūs Schafe 27 8 Far[
+			<lb n="8"/>
+		Der Wächter der Armen Schafe 10 2 Abū[
+			<lb n="9"/>
+		Theodor Boqṭor, und er zahlte für sich selbst, Schafe 122 16 Naṣr[
+			<lb n="10"/>
+		Apollo Simḥ, und er zahlte für sich selbst, [.]1 1 Theodor[
+</ab></div>
+</body>
+</text>
+</TEI>

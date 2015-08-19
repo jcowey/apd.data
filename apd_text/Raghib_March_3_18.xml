@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="673" xml:id="Raghib_March_3_18" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 18</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_18</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106758</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أكرمك اللّه بطاعته وهباك كرامته في الدّنيا 
+<lb n="3"/>  والآخرة برحمتـه وصل إلي كتابك وسرّني سلامتك وعشرة 
+<lb n="4"/>  أثواب وفارقتني على أن توجّه متاع كثير جيّد وآخر 
+<lb n="5"/>  يحرج قبلنا <sic n="superfluous">ما</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">قد</supplied> </lem><rdg resp="“AK”">ما</rdg></app> شاهدت إلّا الجيّد الكثير و<unclear reason="undefined" cert="high">ما</unclear> وجّهتني 
+<lb n="6"/>  متاع يحرج قبلنا وقد بعت لك من العشرة أربعة 
+<lb n="7"/>  أثواب بدينر وقيراطين وقد وجّهت إليك <app type="BL"><lem resp="APD">تسعة </lem><rdg resp="APD">سبعة</rdg></app> 
+<lb n="8"/>  دننير وعشرين درهم غير ثلث فأثبت ذلك عند<supplied reason="lost" cert="high">ك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  وأرجوا يأتي اللّه بالمشتري والـسّوق على ما خلفته 
+<lb n="10"/>  على الشّيخ أكرمه اللّه 
+<lb n="11"/>  السّلم وقد أوصلت 
+<lb n="12"/>  كتبك إلى المنزل وكتبوا 
+<lb n="13"/>  جواب الكتب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā 
+ <lb n="3"/>wa ăl ʾāḫiraẗi bi raḥmati hi waṣala ʾilay ya kitābu ka wa sarra nī salāmatu ka wa ʿašaraẗu 
+ <lb n="4"/>ʾaṯwāb:in wa fāraqta nī ʿalà ʾan tuwaǧǧiha matāʿ kaṯīr ǧayyid wa ʾāḫar 
+ <lb n="5"/>yuḥraǧu qibala nā qad mā šāhadtu ʾillā ăl ǧayyida ăl kaṯīra wa mā waǧǧahta nī 
+ <lb n="6"/>matāʿ yuḥraǧu qibala nā wa qad biʿtu la ka mina ăl ʿašaraẗi ʾarbaʿaẗa 
+ <lb n="7"/>ʾaṯwāb:in bi dīnār:in wa qīrāṭayni wa qad waǧǧahtu ʾilay ka sabʿaẗa tisʿaẗa 
+ <lb n="8"/>danānīra wa ʿišrīna dirham ġayra ṯulṯ:in fa ʾaṯbit ḏālika ʿinda ka *** 
+ <lb n="9"/>wa ʾarǧū yaʾtī ăl lāhu bi ăl muštarī wa ăs sūqu ʿalà mā ḫalafta hu 
+ <lb n="10"/>ʿalà ăš šayḫi ʾakrama hu ăl lāhu 
+ <lb n="11"/>ăs salāmu wa qad ʾawṣaltu 
+ <lb n="12"/>kutuba ka ʾilà ăl manzili wa katabū 
+ <lb n="13"/>ǧawāba ăl kutubi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et t&#039;accorde Sa magnanimité dans ce monde
+			<lb n="3"/>
+		et dans l&#039;autre par Sa miséricorde! Ta lettre m&#039;est parvenue. Ta santé m&#039;a réjoui. Dix
+			<lb n="4"/>
+		pièces d&#039;étoffe (me sont également parvenues). Tu m&#039;as quitté en t&#039;engageant à m&#039;adresser une marchandise abondante et bonne, et une autre
+			<lb n="5"/>
+		qui serait criée chez nous. Je n&#039;ai vu que le bon et l&#039;abondant. Tu ne m&#039;as pas (?) adressé
+			<lb n="6"/>
+		de marchandise qui serait criée chez nous. Des dix (pièces d&#039;étoffe), j&#039;ai vendu pour toi quatre
+			<lb n="7"/>
+		pour un dinar et deux qīrāṭ-s. Je t&#039;ai adressé neuf
+			<lb n="8"/>
+		dinars et vingt dirhams moins un tiers. Enregistre ceci chez toi [...]
+			<lb n="9"/>
+		J&#039;espère que Dieu amènera l&#039;acheteur. Le marché est comme tu l&#039;as laissé.
+			<lb n="10"/>
+		Sur le šayḫ - que Dieu l&#039;honore!
+			<lb n="11"/>
+		le salut! J&#039;ai fait parvenir
+			<lb n="12"/>
+		tes lettres à domicile et ils ont écrit
+			<lb n="13"/>
+		la réponse aux lettres.
+</ab></div>
+</body>
+</text>
+</TEI>

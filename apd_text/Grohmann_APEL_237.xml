@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2002" xml:id="Grohmann_APEL_237" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 237</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_237</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169730</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ح 
+<lb n="2"/>  عبد الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">مـ</supplied>ـن أنصنى دينر يحيى بن الحسن والقسم بن نصر من أنصنى دينر <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="6" unit="character" />ـه من أبو جرجه ثلث دينرا 
+<lb n="3"/>  عبّاس بن الوليد وا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> ثلثة الدّنانير سسنّه الـ<gap reason="illegible" extent="4" unit="character" /> من الا<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ثلثـ</supplied>ـي دينر حسّان من الضّيعة دينر وربع دينرا 
+<lb n="4"/>  بلبس من أنصنى دينر موسى بن سريق مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـدينة دينرا زكري بن شبيب دينر 
+<lb n="5"/>  رميه من أبي جرجه دينرين وثلث دينرا أحمد بن ـ<gap reason="illegible" extent="1" unit="character" />ا<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر من المدينة خمسة الدّنانير إسمعيل دليل سيفة دينر 
+<lb n="6"/>  إسحق الأزرق الحائك من المنية ثلثة الدّنانير مزارع سيفة ستّة الدّنانير سويرس بن مونة من المدينة دينر 
+<lb n="7"/>  أسباط بن الخردل من أنصنى أربعة الدّنانير الفجّال دينر مرقوره الخولي من المدينة دينر 
+<lb n="8"/>  درّاج من قلنديون دينرا أحمد البطرون من قلنديون دينرين يحنّس الخولي من سرّين سبعة الدّنانير 
+<lb n="9"/>  أبو مصلح عن بقايا أزهر بن <app type="BL"><lem resp="APD">سوار </lem><rdg resp="APD">سوّار</rdg></app> أربعة الدّنانير هميسه من أبو جرجه سدس دينرا الماس بن شبيب دينرين 
+<lb n="10"/>  فجميع ذلك خمسين دينرا وسدس دينر الّذي أخذ في عمارة سنة تسع وأربعين وماتين 
+<lb n="11"/>  مزارع مقطول الفتح من أهل بسودة على يدي جرجه الحارس وسليمن بن بني ثلثة عشرة دينرا 
+<lb n="12"/>  وجميع اصتلح من النّاس 
+<lb n="13"/>  زكري من هور دينر مونه من معلد نصف دينر بيسة نواهه دينر زفر بن سعيد دينرين 
+<lb n="14"/>  كيل ومرقس بن ترشن من قلنديون معهراف دينرين ڤپاص وهور من قلنديون دينر قلته حول كماله من قلنديون دينرا 
+<lb n="15"/>  إبرهيم الشّمّاس من قلنديون دينرين حپر أحمد بن يعقوب البطرون نصف دينر أبو قير جرجه من قلنديون دينر 
+<lb n="16"/>  ببدوله ملي من المدينة دينرين متاوس من منهلّاده دينر يقفيس من منهلّاده دينر ونصف دينر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ***ḥ 
+ <lb n="2"/>ʿabdu ăr raḥīmi **** min ʾanṣinà dīnār:un yaḥyà bnu ăl ḥasani wa ăl qāsimu bnu naṣr:in min ʾanṣinà dīnār:un * ******h min ʾabū ǧirǧaha ṯulṯu dīnār:an 
+ <lb n="3"/>ʿabbāsu bnu ăl walīdi wa ʾ*** ** ṯalāṯaẗu ăd danānīri sisinnahu ăl **** mina ăl ʾ*** ṯulṯay dīnār:in ḥassān:un mina ăḍ ḍayʿaẗi dīnār:un wa rubʿu dīnār:an 
+ <lb n="4"/>balbusu min ʾanṣinà dīnār:un mūsà bnu sryq mina ăl madīnaẗi dīnār:an zikrī bnu šabīb:in dīnār:un 
+ <lb n="5"/>ramiyahu min ʾabī ǧirǧaha dīnārayni wa ṯulṯu dīnār:an ʾaḥmadu bnu *ʾ***r mina ăl madīnaẗi ḫamsaẗu ăd danānīri ʾismāʿīlu dalīlu sīfaẗa dīnār:un 
+ <lb n="6"/>ʾisḥāqu ăl ʾazraqu ăl ḥāʾiku mina ăl minyaẗi ṯalāṯaẗu ăd danānīri muzāriʿu sīfaẗa sittaẗu ăd danānīri sawīrusu bnu mūnaẗa mina ăl madīnaẗi dīnār:un 
+ <lb n="7"/>ʾasbāṭu bnu ăl ḫardali min ʾanṣinà ʾarbaʿaẗu ăd danānīri ăl faǧǧālu dīnār:un marqūrahu ăl ḫawliyyu mina ăl madīnaẗi dīnār:un 
+ <lb n="8"/>darrāǧ:un durrāǧ:un min qalandiyūna dīnār:an ʾaḥmadu ăl baṭrūnu min qalandiyūna dīnārayni yuḥannisu ăl ḫawliyyu min sirrayna sabʿaẗu ăd danānīri 
+ <lb n="9"/>ʾabū muṣliḥ:in ʿan baqāyā ʾazhara bni sawwār:in siwār:in ʾarbaʿaẗu ăd danānīri humīsahu min ʾabū ǧirǧaha sudsu dīnār:an ăl māsu bnu šabīb:in dīnārayni 
+ <lb n="10"/>fa ǧamīʿu ḏālika ḫamsīna dīnār:an wa sudsu dīnār:ini ăllaḏī ʾuḫiḏa fī ʿimāraẗi sanaẗi tisʿ:in wa ʾarbaʿīna wa miاtayni 
+ <lb n="11"/>muzāriʿu maqṭūla ăl fatḥu min ʾahli basūdaẗa ʿalà yadayi ǧirǧaha ăl ḥārisi wa sulaymāna bni banà ṯalāṯaẗa ʿašraẗa dīnār:an 
+ <lb n="12"/>wa ǧamīʿ:uni ĭṣtalaḥa mina ăn nāsi 
+ <lb n="13"/>zikrī min hūra dīnār:un mūnahu min maʿlada niṣfu dīnār:in bīsaẗu nawāhaha dīnār:un zufaru bnu saʿīd:in dīnārayni 
+ <lb n="14"/>kayl:un wa murqusu bnu taršana min qalandiyūna mʿhrʾf dīnārayni fBʾṣ wa hūru min qalandiyūna dīnār:un qultahu ḥūli kamālaha min qalandiyūna dīnār:an 
+ <lb n="15"/>ʾibrāhīmu ăš šammāsu min qalandiyūna dīnārayni ḥBr ʾaḥmadu bnu yaʿqūba ăl baṭrūnu niṣfu dīnār:in ʾabū qīra ǧirǧaha min qalandiyūna dīnār:un 
+ <lb n="16"/>babadūlahu malī mina ăl madīnaẗi dīnārayni matāwusu min manhillādaha dīnār:un yaqufīsu min manhillādaha dīnār:un wa niṣfu dīnār:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		ʿAbd ar-Raḥî[m b. ......], orignating from Anṣinâ, one dînâr. [Ya]ḥyâ b. [al-]Ḥasan and al-Qâsim b. Naṣr, originating from Anṣinâ, one dînâr, [.]......e originating from Abû Ǧirǧe, a third of a dînâr.
+			<lb n="3"/>
+		ʿAbbâs b. al-Walîd and A[...]..., three dînârs, Sisinne, the [...], originating from al-A[......, two thir]ds of a dînâr. Ḥassân, originating from the estate, one dînâr and a quarter of a dînâr.
+			<lb n="4"/>
+		Balbos, originating from Anṣinâ, one dînâr. Mûsâ b. ..[.]..., originating from the capital, one dînâr. Zikrî b. Šabîb, one dînâr.
+			<lb n="5"/>
+		Remiya, originating from Abû Ǧirǧe, two dînârs and a third of a dînâr. Aḥmad b. ..[..].., originating from the capital, five dînârs. Ismaʿîl, the guide of Sîfa, one dînâr.
+			<lb n="6"/>
+		Isḥâq, the grey-eyed, the weaver, originating from al-Miniya, three dînârs. A cultivator from Sîfa, six dînârs. Sawîros, son of Mône, originating from the capital, one dînâr.
+			<lb n="7"/>
+		Asbâṭ b. al-Ḫardal, originating from Anṣinâ, four dînârs. Al-Faǧǧâl, one dînâr. Merqûre, the guardian, originating from the capital, one dînâr.
+		... Merqûre, the gardener, ...
+			<lb n="8"/>
+		Darrâǧ, originating from Qalandiyûn, one dînâr. Aḥmed, the patronus, originating from Qalandiyûn, two dînârs, Yoḥannes, the gardener, originating from Sirrain (?), seven dînârs.
+			<lb n="9"/>
+		Abû Muṣliḥ on account of the arrears of Azhar b. Siwâr, four dînârs. Homîse, originating from Abû Ǧirǧe, a sixth of a dînâr. Almâs b. Šabîb, two dînârs.
+			<lb n="10"/>
+		The total amount thereof (makes) fifty dînârs and a sixth of a dînâr, which have been taken in for the amelioration of the year two hundred and forty-nine.
+			<lb n="11"/>
+		A cultivator from Maqṭûl. Al-Fatḥ of the people of Bsôde through Ǧirǧe, the guardian, and Sulaimân, son of Banâ, thirteen dînârs.
+			<lb n="12"/>
+		And on all (this) people had agreed (?).
+			<lb n="13"/>
+		Zikrî, originating from Hûr, one dînâr. Mône, originating from Maʿlad (?), one half of a dînâr. Bîsa Nawâhe (?) one dînâr. Zufar b. Saʿîd, two dînârs.
+			<lb n="14"/>
+		Chael and Morqos, son of Taršan (?), originating from Qalandiyûn, two dînârs .................. and Hôr, originating from Qalandiyûn, one dînâr. Qolte Ḥôl Kamâle (?), originating from Qalandiyûn, one dînâr.
+			<lb n="15"/>
+		Ibrahîm, the deacon, originating from Qalandiyûn, two dînârs ......(?) Aḥmad b. Yaʿqûb, the patronus, a half of a dînâr. Abuqîr Ǧirǧe, originating from Qalandiyûn, one dînâr.
+			<lb n="16"/>
+		Babadûle Malî (?), originating from the capital, two dînârs. Matthew, originating from Manhellâde, one dînâr. Jacob (Yaqufîs), originating from Manhellâde, one dînâr and a half of a dînâr.
+</ab></div>
+</body>
+</text>
+</TEI>

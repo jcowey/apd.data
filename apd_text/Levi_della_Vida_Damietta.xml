@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="805" xml:id="Levi_della_Vida_Damietta" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.LevidellaVidaDamietta (= Grohmann, World p. 122 = P.Philad.Arab. 075)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Levi_della_Vida_Damietta</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106855</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> لم <app type="BL"><lem resp="APD">نرا </lem><rdg resp="“Levi della Vida, Damietta; Levi della Vida, P.Philad.Arab.">ترا </rdg><rdg resp="“Levi della Vida, P.Philad.Arab.”">يرا</rdg></app> يأبا <app type="BL"><lem resp="APD">جعفر </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">حفص</rdg></app> جعلت فداك <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كـ</supplied>ـما </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">قد</rdg></app> كتبت إليك قبل <unclear reason="undefined" cert="high">كتابي</unclear> هذا <gap reason="illegible" extent="12" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> لأكتب سألتك في كتابي أن تكتب إلي <app type="BL"><lem resp="APD">عن </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">بخبرك</rdg></app> <app type="BL"><lem resp="APD">كو<supplied reason="omitted" cert="high">ن</supplied> </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">ø</rdg></app> <app type="BL"><lem resp="APD">حالك </lem><rdg resp="Diem">وحالك</rdg></app> وحوائجك فإن شرّفتني <gap reason="illegible" extent="14" unit="character" /> 
+<lb n="3"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تـ</supplied>ـنظر أكرمك اللّه أن تكتب إلي <app type="BL"><lem resp="APD">عن </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">بخبرك</rdg></app> <app type="BL"><lem resp="APD">كون </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">وخبر</rdg></app> أم <app type="BL"><lem resp="APD">جعفر </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">حفص</rdg></app> أبقاها اللّه والصّبيان أعزّهم اللّه <supplied reason="lost" cert="high">وحفظهم</supplied> 
+<lb n="4"/>  <supplied reason="lost" cert="high">بأ</supplied>بقا عافية يأبا <app type="BL"><lem resp="APD">جعفر </lem><rdg resp="“Grohmann; Levi della Vida, P.Philad.Arab.”">حفص</rdg></app> لو رأيت ما النّاس فيه عندنا اليوم من التّخليط والسّخرة يوحد 
+<lb n="5"/>  ا<supplied reason="lost" cert="high">لنّوا</supplied>تيّة وغير النّواتيّة وكلّمن ڤدروا علپه احدوه پدحلوأ كل پوم يحماعه من كل موصع اسل 
+<lb n="6"/>  الـ<supplied reason="lost" cert="high">ـلّه</supplied> الفرج من عند رحمته والأمير أيّده اللّه قد خرج إلى المحلّة ودمياط من يوم الخميس 
+<lb n="7"/>  وهو أوّل يوم من مسرى وأخرج معه جماعة من <app type="BL"><lem resp="APD">الخيل </lem><rdg resp="“Grohmann; Levi della Vida, P.Philad.Arab.”">الجند</rdg></app> وذلك أنّه ورد عليه كتاب 
+<lb n="8"/>  من أمير المومپپن أعزّه اللّه يشدّد عليه أن <app type="BL"><lem resp="“Levi della Vida, Damiette; Levi della Vida; P.Philad.Arab.”">يريّح </lem><rdg resp="“Grohmann; Levi della Vida, P.Philad.Arab.”">يريح</rdg></app> عندي رسم كتاب لا أقدر أن أكتب به إليك 
+<lb n="9"/>  وإذا وردت عليه الخريطة لعلّه الأمير أبقاه <supplied reason="omitted" cert="high">اللّه</supplied> خرج <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD"><gap reason="illegible" extent="20" unit="character" /></rdg></app> 
+<lb n="10"/>  <app type="BL"><lem resp="“Levi della Vida, Damietta; Grohmann; Levi della Vida, P.Philad.Arab.”"><unclear reason="undefined" cert="high">حرك</unclear> </lem><rdg resp="“Levi della Vida, P.Philad.Arab.”">حرل</rdg></app> أبي العبّاس أخي أبقاه اللّه يكتـ<supplied reason="lost" cert="high">ـب</supplied> <gap reason="illegible" extent="8" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **** lam narā tarā yarā yā ʾabā ǧaʿfara ḥafṣ:in ǧuʿiltu fidāʾa ka kamā qad katabtu ʾilay ka qabla kitāb ī hāḏā ************ 
+ <lb n="2"/>*** li ʾaktuba saʾaltu ka fī kitāb ī ʾan taktuba ʾilay ya ʿan bi ø ḫabari ø ka kawni ø ø wa ḥāli ka wa ḥawāʾiǧi ka fa ʾin šarrafta nī ************** 
+ <lb n="3"/>ʾan tanẓura ʾakrama ka ăl lāhu ʾan taktuba ʾilay ya ʿan bi ø ḫabari ø ka kawni wa ø ḫabari ʾummi ǧaʿfara ḥafṣ:in ʾabqā hā ăl lāhu wa ăṣ ṣibyāni ʾaʿazza humu ăl lāhu wa ḥafiẓa hum 
+ <lb n="4"/>bi ʾabqā ʿāfiyaẗ:in yā ʾabā ǧaʿfara ḥafṣ:in law raʾayta mā ăn nāsu fī hi ʿinda nā ăl yawma mina ăt taḫlīṭi wa ăs suḫraẗi yuʾḫaḏu 
+ <lb n="5"/>ăn nawātiyyaẗu wa ġayru ăn nawātiyyaẗi wa kullu man man qadarū ʿalay hi ʾaḫaḏū hu yadḫulū kulla yawm:in bi ǧamāʿaẗ:in min kulli mawḍiʿ:in ʾasalu 
+ <lb n="6"/>ăl lāha ăl faraǧa min ʿindi raḥmati hi wa ăl ʾamīru ʾayyada hu ăl lāhu qad ḫaraǧa ʾilà ăl maḥallaẗi wa dimyāṭa min yawmi ăl ḫamīsi 
+ <lb n="7"/>wa huwa ʾawwalu yawm:in min misrà wa ʾaḫraǧa maʿa hu ǧamāʿaẗ:an mina ăl ḫayli ǧundi wa ḏālika ʾanna hu warada ʿalay hi kitāb:un 
+ <lb n="8"/>min ʾamīri ăl muʾminīna ʾaʿazza hu ăl lāhu yušaddidu ʿalay hi ʾan yurayyiḥa yurīḥa ʿind ī rasmu kitāb:in lā ʾaqdiru ʾan ʾaktuba bi hi ʾilay ka 
+ <lb n="9"/>wa ʾiḏā waradat ʿalay hi ăl ḫarīṭaẗu laʿalla hu ăl ʾamīru ʾabqā hu ăl lāhu ḫaraǧa *** ******************** 
+ <lb n="10"/>ḥrk ḥrl ʾabī ăl ʿabbāsi ʾaḫ ī ʾabqā hu ăl lāhu yaktubu ******** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] .... we did not think (or: you did not think), o Abū Jaʿfar, - may I be made your ransom - as I wrote you before this letter of mine (?) ± 12
+		[...].... we (or he, or she, or you) did not think, o Abū Ḥafṣ, may I be made your ransom - I wrote you before this letter of mine ± 12
+			<lb n="2"/>
+		[...] that I write. I asked you in my letter to write me about your health and your needs; and if you would honor me ± 14
+		[...] that I write. I asked you in my letter to write me about your state, your situation and your needs, and if you would honor me ± 14
+			<lb n="3"/>
+		[to s]ee - may God give you honor - to write me about the state and situation of Umm Ḥafṣ - may God grant her a long life - and of the children - may God strengthen [and preserve them]
+		[to s]ee - may God give you honor - to write me about the state of Umm Jaʿfar - may God grant her a long life - and the children - may God strengthen [and preserve them]
+			<lb n="4"/>
+		[in the most] lasting welfare. O Abū Ḥafṣ, if you only could see the confusion and pressure in which people are now here!
+		[in the most] lasting welfare. O Abū Jaʿfar, if only you could see the confusion and pressure in which people are now here!
+		O Abû Ḥafṣ, if only you could see the confusion and pressure in which people are here now!
+			<lb n="5"/>
+		Both sailors and those who are not sailors are taken away. They took everybody whom they could get. Every day they bring in a troop from each place; I ask
+		Both the sailors and those who are no sailors are taken away. They took everybody whom they could reach. Every day they come in with troops from all places. I ask
+			<lb n="6"/>
+		G[od] for relief by His mercy! The Emir - may God assist him - left for al-Maḥalla and Damietta on Thursday,
+		God for relief by His mercy! The Governor - may God strengthen him - already left for al-Maḥalla and Damietta on Thursday,
+			<lb n="7"/>
+		the first day of Misrâ, and took out with him a troop of the army, and this as he received a letter
+		which is the first of Mesori, and took out with him a troop of cavalry. This happened because he received a letter
+		which is the first of Mesorī, and took out with him troops from the army. This happened because he received a letter
+			<lb n="8"/>
+		from the Commander of the Faithful - may God help him - pressing him hard to move; I habe a copy of the letter about which I cannot write you,
+		from the Commander of the Faithful - may God strengthen him - urging him to give rest. I have a copy of a letter about which I cannot write you;
+			<lb n="9"/>
+		and since the message arrived to him, perhaps the Emir - may God give him a long life - left ...
+		and when he received the dispatch, perhaps the Governor - may God prolong his life - left.
+			<lb n="10"/>
+		.... my brother Abuʾl-ʿAbbās - may &lt;God&gt; give him a long life -; he will wri[te] ....
+</ab></div>
+</body>
+</text>
+</TEI>

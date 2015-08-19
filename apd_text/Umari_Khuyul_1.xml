@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2100" xml:id="Umari_Khuyul_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بِسم اللّهِ الرَّحمنِ الرَّحيمِ وهو حسبي 
+<lb n="2"/>  أقر محمّد بن عبد اللّه بن أحمد المعروف بابن الوديناتي الإقرار 
+<lb n="3"/>  الشّرعي أنّه قبض وتسلّم من المعلّم علي بن عبد الرّحمن بن خضر المعروف بصبي المعلّم محمّد 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> من الفضّة الأنصاف العدديّة العين من معاملة تاريخه بالدّيار المصريّة 
+<lb n="5"/>  مايتئ نصف وخمسة وسبعين نصفا قبضا شرعيّا وأنّه ثمن ما ابتاعه منه وتسلّمه 
+<lb n="6"/>  التّسلّم الشّرعي وهو جميع بغل أحمر اللّون مدوّر القد عليه داغ المقام الشّريف 
+<lb n="7"/>  المعلوم عندهما العلم الشّرعي النّافي للجهالة بعد النّظر والمعرفة والمعايدة 
+<lb n="8"/>  الشّرعيّة والتّقليب الشّرعي والإحاطة بذلك علما وخبرة نافية للجهالة وصدر 
+<lb n="9"/>  بينهما البيع من البغل المذكور بشرط البرا من كل عيب لا ضمان فيه 
+<lb n="10"/>  سوى درك الحال وأكل العليق المعتاد قبض المشتري بذلك القبض الشّرعي 
+<lb n="11"/>  باعترافه بذلك يشهدون وتصادقهما عليه التّصادق الشّرعي شهد عليها بها 
+<lb n="12"/>  حادي عشرين شهر شوّال المبارك <gap reason="illegible" precision="low" extent="3"/> سنة أربع وتسعمائة وحسبي اللّه ونعم الوكيل 
+<lb n="13"/>  شهد عليها بذلك شهد عليها بذلك 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> عبد اللّه بن أحمد الوديناتي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa huwa ḥasb ī 
+ <lb n="2"/>ʾaqarra muḥammadu bnu ʿabdi ăl lāhi bni ʾaḥmada ăl maʿrūfu bi ĭbni ăl wadīnātī ăl ʾiqrāra 
+ <lb n="3"/>ăš šarʿiyya ʾanna hu qabaḍa wa tasallama mina ăl muʿallimi ʿaliyyi bni ʿabdi ăr raḥmāni bni ḫiḍr:in ăl maʿrūfi bi ṣabiyyi ăl muʿallimi muḥammad:in 
+ <lb n="4"/>*** mina ăl fiḍḍaẗi ăl ʾanṣāfa ăl ʿadadiyyaẗa ăl ʿayna min muʿāmalaẗi tārīḫi hi bi ăd diyāri ăl miṣriyyaẗi 
+ <lb n="5"/>miʾatay niṣf:in wa ḫamsaẗ:an wa sabʿīna niṣf:an qabḍ:an šarʿiyy:an wa ʾanna hu ṯamanu mā ĭbtāʿa hu min hu wa tasallama hu 
+ <lb n="6"/>ăt tasallumu ăš šarʿiyyu wa huwa ǧamīʿu baġl:in ʾaḥmara ăl lawni mudawwari ăl qaddi ʿalay hi dāġu ăl maqāmi ăš šarīfi 
+ <lb n="7"/>ăl maʿlūmu ʿinda humā ăl ʿilmu ăš šarʿiyyu ăn nāfī li l ǧahālaẗi baʿda ăn naẓari wa ăl maʿrifaẗi wa ăl muʿāyadaẗi 
+ <lb n="8"/>ăš šarʿiyyaẗi wa ăt taqlībi ăš šarʿiyyi wa ăl ʾiḥāṭaẗi bi ḏālika ʿilm:an wa ḫibraẗ:an nāfiyaẗ:an li l ǧahālaẗi wa ṣadara 
+ <lb n="9"/>bayna humā ăl bayʿu mina ăl baġli ăl maḏkūri bi šarṭi ăl barāʾi min kulli ʿayb:in lā ḍamāna fī hi 
+ <lb n="10"/>siwà daraki ăl ḥāli wa ʾakli ăl ʿalīqi ăl muʿtādi qabaḍa ăl muštarī bi ḏālika ăl qabḍa ăš šarʿiyya 
+ <lb n="11"/>bi ĭʿtirāfi hi bi ḏālika yašhadūna wa taṣāduqu humā ʿalay hi ăt taṣāduqu ăš šarʿiyyu šuhida ʿalay hā bi hā 
+ <lb n="12"/>ḥādiya ʿišrīna šahri šawwāla ăl mubāraki *** sanaẗa ʾarbaʿ:in wa tisʿi miʾaẗ:in wa ḥasb ī ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="13"/>šahida ʿalay hā bi ḏālika šahida ʿalay hā bi ḏālika 
+ <lb n="14"/>*** ʿabdu ăl lāhi bnu ʾaḥmada ăl wadīnātī 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

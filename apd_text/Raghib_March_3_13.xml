@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="663" xml:id="Raghib_March_3_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 13 (= P.Berl.Arab. II 44)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106748</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">أ</supplied>كـ<supplied reason="lost" cert="high">ـرمك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بطاعته</supplied> <supplied reason="lost" cert="high">وهباك</supplied> <supplied reason="lost" cert="high">كرامته</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">الدّنيا</supplied> 
+<lb n="2"/>  والآخرة بـ<supplied reason="lost" cert="high">ـرحمته</supplied> <supplied reason="lost" cert="high">وصل</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كتابك</supplied> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <app type="BL"><lem resp="APD">وثلاثة </lem><rdg resp="Diem">وثلثة</rdg></app> أثوا<supplied reason="lost" cert="high">ب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  سالم <app type="BL"><lem resp="APD">وحصر </lem><rdg resp="Diem">وحصر</rdg></app> <app type="BL"><lem resp="APD">غير </lem><rdg resp="Diem">عشرة</rdg></app> <app type="BL"><lem resp="APD">مـ<supplied reason="lost" cert="high">ـرّة</supplied> </lem><rdg resp="Diem">ø</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  وثوبين مكمودين <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  الثّمن وأرجـ<supplied reason="lost" cert="high">ـوا</supplied> <supplied reason="lost" cert="high">أ</supplied>قبض <app type="BL"><lem resp="APD">مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">منه</rdg></app> 
+<lb n="7"/>  <app type="BL"><lem resp="APD">و<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا<gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="Diem">وجاء</rdg></app> <app type="BL"><lem resp="APD">پولا </lem><rdg resp="Diem">بـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> الله كـ<supplied reason="lost" cert="high">ـڤاپپك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  وقد كنت وجّهت إليك مـ<supplied reason="lost" cert="high">ـن</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">ثمن</rdg></app> 
+<lb n="9"/>  <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">إليك</rdg></app> و<gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـق <gap reason="illegible" extent="2" unit="character" /> <app type="BL"><lem resp="APD">كتبه </lem><rdg resp="Diem">كتب</rdg></app> وقـ<supplied reason="lost" cert="high">ـد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10 right margin 1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">وصل</rdg></app> <app type="BL"><lem resp="APD">پن </lem><rdg resp="Diem">مع</rdg></app> عباس المڤصور اپا أنپعه 
+<lb n="11 right margin 2"/>  <supplied reason="lost" cert="high">وأ</supplied>بعث <app type="BL"><lem resp="APD">إليه </lem><rdg resp="Diem">إليك</rdg></app> بالثّمن إن شا اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā 
+ <lb n="2"/>wa ăl ʾāḫiraẗi bi raḥmati hi waṣala ʾilay ya kitābu *** ka ø *** 
+ <lb n="3"/>wa ṯalāṯaẗ ʾaṯwāb:in *** 
+ <lb n="4"/>sālim wa ḥaḍara ḥuṣur ġayra ʿašaraẗ marraẗ:in ø *** 
+ <lb n="5"/>wa ṯawbayni makmūdayni ** *** 
+ <lb n="6"/>ăṯ ṯaman wa ʾarǧū ʾaqbiḍu m*** min ø hu 
+ <lb n="7"/>wa wa *ʾ***** ǧāʾa ø bi ø *** tawallā ăl lāhu kifāyata ka *** 
+ <lb n="8"/>wa qad kuntu waǧǧahtu ʾilay ka min *** ṯamani ø ăl ø *** 
+ <lb n="9"/>ăl ʾilay ** ka wa ****q ** kataba kataba hu ø wa qad *** 
+ <lb n="10"/>*** waṣala ø maʿa bn ʿayyāša ăl maqṣūr ʾanā ʾabīʿu hu 
+ <lb n="11"/>wa ʾabʿaṯu ʾilay hi ka bi ăṯ ṯamani ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Gott eh]r[e Dich dadurch, daß Du ihm gehorsam bist, und schenke Dir seine Gunst im Diesseits]
+		[Que Dieu t&#039;]h[onore par l&#039;obéissance (qui Lui est due) et t&#039;accorde Sa magnanimité dans ce monde] 
+			<lb n="2"/>
+		et dans l&#039;autre [par sa miséricorde! Ta lettre m&#039;est parvenue ....]
+		und Jenseits in [seiner Gnade! Ich habe erhalten - - -]
+			<lb n="3"/>
+		ainsi que trois pièces d&#039;étoffe [....]
+		und drei Gewän[der - - -]
+			<lb n="4"/>
+		Sālim. Il est venu plus d&#039;une fois [....]
+		wohlbehalten, und zehn (?) Gebetsmatten [- - -]
+			<lb n="5"/>
+		deux pièces d&#039;étoffe caties .. [....]
+		und zwei satinierte Gewänder [- - -]
+			<lb n="6"/>
+		den Erlös. Ich hoffe, zu kassieren [hier]von [- - -,]
+		le prix. J&#039;espère toucher [....]
+			<lb n="7"/>
+		[.] .... Que Dieu te secoure par [Sa protection!....]
+		und er brachte - - -  - Gott übernehme es, [Dich] zu sch[ützen! - - -.]
+			<lb n="8"/>
+		Ich habe Dir bereits übersandt vo[n dem Erlös (aus dem Verkauf) von - - -]
+		Je t&#039;avais adressé du [....]
+			<lb n="9"/>
+		an Dich, und [- - -] er schrieb (?), und be[reits - - -]
+		.... [..] . [..] il a écrit ....
+			<lb n="10"/>
+		[- - - Ib]n ʿAyyāš das Gewalkte. Ich werde es verkaufen,
+		[....] ibn ʿAyyāš. La (pièce d&#039;étoffe) blanchie, je la vendrai
+			<lb n="11"/>
+		[et] lui en enverrai le prix, si Dieu le veut!
+		[und ich werde] Dir den Erlös übersenden, so Gott will.
+</ab></div>
+</body>
+</text>
+</TEI>

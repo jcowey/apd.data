@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2371" xml:id="Bosch_Huesca_050" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BoschHuesca 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Bosch_Huesca_050</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  تعاوض الأسقوف من وشقة دون إشتابن عن أمر الأركذياكنه دون برناض من وشقة وصاحب المفاتيح والكُنْبَانْتُه من الكنسيّة شنت مريّة 
+<lb n="3"/>  مع محمّد بن يوسف النّجّار بوشقة فيما يأتي به <app type="BL"><lem resp="APD">المذكور </lem><rdg resp="LS">الذّكر</rdg></app> عنهم بعد هذا إن شا اللّه وذلك أن الأسقوف المذكور وجميع من ذكرنا معه دفعوا إلى 
+<lb n="4"/>  محمّد المذكور جميع الكرم الأعناب والمثمرة بحومة المايدة بوشقة قبليّه كرم إسحق بن يساف وشرقيّه طريق وجوفيّه كرم صاحب 
+<lb n="5"/>  الأحكام بن حمتول تصر لورثته وغربيّه كرم لب بن وهب اللّه ودفع محمّد بن يوسف المذكور إلى الأسقوف المذكور وإلى من ذكرنا معه 
+<lb n="6"/>  جميع الكرم الفاشة الّتي له بحوز العسكر بوشقة قبليّه كرم بني صنوانه وشرقيّه كرم القرشته للكنسيّة المذكورة 
+<lb n="7"/>  وجوفيّه كرم باره أللبار وغربيّه كرم القرشته المذكورة بجميع منافع ما خرج لكل واحد من المتعاوضين ودواله وثماره 
+<lb n="8"/>  ومدخله ومخرجه وحقوقه كلّها أجمع الدّاخلة فيه والخارجة عنه معاوضة صحيحة جايزة لم يتّصل بها شرط مفسد 
+<lb n="9"/>  ولا ثني ولا خيار عرفوا قدرها ومبلغها ومنتها خطرها لم يجهلوا شيّا منها وضمن الكرم الخارج إلى محمّد المذكور <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  على سيرة البلد عن الأسقوف وعن من ذكرنا معه <gap reason="illegible" precision="low" extent="3"/> <supplied reason="omitted" cert="high">ا</supplied>لباريُوقه وشمون من القرشته ضمانا لازما لمالهما وذمّتهما 
+<lb n="11"/>  وضمن عن محمّد المذكور الكرم الخارج إلى الأسقوف المذكور وإلى من ذكرنا معه أحمد بن محمّد بن صفوان ختنه ومحمّد بن موسى 
+<lb n="12"/>  الحجّام ضمانا لازما لمالهما وذمّتهما وعلى أن يغرم محمّد المذكور من الكرم الخارج إليه ما كان يغرم من متاعه من خرص لمن يجب وعشور 
+<lb n="13"/>  وبرميسية للكنسيّة المذكورة ويكون الكرم الخارج إلى الأسقوف وإلى من ذكرنا معه حر من ذلك كلّه شهد على إشهاد المتعاوضين 
+<lb n="14"/>  والمضمـ<supplied reason="omitted" cert="high">ـنـ</supplied>ـان المذكورين بذلك كلّه من عرفهم في صحّتهم وجايز أمرهم في شهر المحرّم من سنة تسع وسبعين وخمسمائة ووافق ذلك 
+<lb n="15"/>  شهر مايه سنة إحدى وعشرين ومايتين من تأريخ الصّفر والكتاب نسختين فيه ملحق دون برناض من وشقة أن وعلى 
+<lb n="16"/>  محو الكرم ومصلح الصّفر وصح منه وفيه أيضا ملحق بن محمّد وصح من أصله وفيه أيضا ملحق لمن يجب للكنيسه المذكورة 
+<lb n="17"/>  وصح منه يوسف بن محمّد بن عبد الملك الأموي وغرسيّة يوانس اليستسية كتب عنه بأمره <app type="BL"><lem resp="APD">وبحضره </lem><rdg resp="LS">ومحضره</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>taʿāwaḍa ăl ʾusqūfu min wašqaẗa dūn ʾištābanu ʿan ʾamri ăl ʾarkaḏiyākunuhi dūn barnāḍa min wašqaẗa wa ṣāḥibi ăl mafātīḥi wa ăl kunbāntuhi mina ăl kanisiyyaẗi šanta mariyyaẗa 
+ <lb n="3"/>maʿa muḥammadi bni yūsufa ăn naǧǧāri bi wašqaẗa fī mā yaʾtī bi hi ăl ăḏ maḏkūru ḏikru ʿan hum baʿda hāḏā ʾin šāʾa ăl lāhu wa ḏālika ʾanna ăl ʾusqūfa ăl maḏkūra wa ǧamīʿa man ḏakarnā maʿa hu dafaʿū ʾilà 
+ <lb n="4"/>muḥammad:ini ăl maḏkūri ǧamīʿa ăl karmi ăl ʾaʿnābi wa ăl muṯmiraẗi bi ḥawmaẗi ăl māyidaẗi bi wašqaẗa qibliyyu hu karmu ʾisḥāqa bni yusāfa wa šarqiyyu hu ṭarīq:un wa ǧawfiyyu hu karmu ṣāḥibi 
+ <lb n="5"/>ăl ʾaḥkāmi bni ḥamtūla taṣiru li waraṯati hi wa ġarbiyyu hu karmu lubbi bni wahbi ăl lāhi wa dafaʿa muḥammadu bnu yūsufa ăl maḏkūru ʾilà ăl ʾusqūfi ăl maḏkūri wa ʾilà man ḏakarnā maʿa hu 
+ <lb n="6"/>ǧamīʿa ăl karmi ăl fāšaẗi ăllatī la hu bi ḥawzi ăl ʿaskari bi wašqaẗa qibliyyu hu karmu banī ṣanwānuha ṣinwāni hi ø wa šarqiyyu hu karmu ăl qirištuhi li l kanisiyyaẗi ăl maḏkūraẗi 
+ <lb n="7"/>wa ǧawfiyyu hu karmu bāruha ʾallbāra wa ġarbiyyu hu karmu ăl qirištuhi ăl maḏkūraẗu bi ǧamīʿi manāfiʿi mā ḫaraǧa li kulli wāḥid:in mina ăl mutaʿāwiḍayni wa dawāli hi wa ṯimāri hi 
+ <lb n="8"/>wa madḫali hi wa maḫraǧi hi wa ḥuqūqi hi kulli hā ʾaǧmaʿ:in ăd dāḫilaẗi fī hi wa ăl ḫāriǧaẗi ʿan hu muʿāwaḍaẗ:an ṣaḥīḥaẗ:an ǧāyizaẗ:an lam yattaṣil bi hā šarṭ:un mufsid:un 
+ <lb n="9"/>wa lā ṯany:un wa lā ḫiyār:un ʿarafū qadra hā wa mablaġa hā wa muntahā ḫaṭari hā lam yaǧhalū šayy:an min hā wa ḍamina ăl karma ăl ḫāriǧa ʾilà muḥammad:ini ăl maḏkūri *** 
+ <lb n="10"/>ʿalà sīraẗi ăl baladi ʿani ăl ʾusqūfi wa ʿan man ḏakarnā maʿa hu *** ăl bāryūquhu wa šimūnu mina ăl qirištuhi ḍamān:an lāzim:an li māli himā wa ḏimmati himā 
+ <lb n="11"/>wa ḍamina ʿan muḥammad:ini ăl maḏkūri ăl karma ăl ḫāriǧa ʾilà ăl ʾusqūfi ăl maḏkūri wa ʾilà man ḏakarnā maʿa hu ʾaḥmadu bnu muḥammadi bni ṣafwāna ḫatanu hu wa muḥammadu bnu mūsà 
+ <lb n="12"/>ăl ḥaǧǧāmu ḍamān:an lāzim:an li māli himā wa ḏimmati himā wa ʿalà ʾan yaġrama muḥammad:unu ăl maḏkūru mina ăl karmi ăl ḫāriǧi ʾilay hi mā kāna yaġramu min matāʿi hi min ḫarṣ:in li man yaǧibu wa ʿušūr:in 
+ <lb n="13"/>wa birimīsiyaẗ:in li l kanisiyyaẗi ăl maḏkūraẗi wa yakūnu ăl karmu ăl ḫāriǧu ʾilà ăl ʾusqūfi wa ʾilà man ḏakarnā maʿa hu ḥurr:un min ḏālika kulli hi šahida ʿalà ʾišhādi ăl mutaʿāwiḍayni 
+ <lb n="14"/>wa ăl muḍmināni ăl maḏkūrayni bi ḏālika kulli hi man ʿarafa hum fī ṣiḥḥati him wa ǧāyizi ʾamri him fī šahri ăl muḥarrami min sanaẗi tisʿ:in wa sabʿīna wa ḫamsi miʾaẗ:in wa wāfaqa ḏālika 
+ <lb n="15"/>šahra māyhu sanaẗi ʾiḥdà wa ʿišrīna wa miyatayni min taʾrīḫi ăṣ ṣufri wa ăl kitābu nusḫatayni fī hi mulḥaq:un dūn barnāḍa min wašqaẗa ʾanna wa ʿalà 
+ <lb n="16"/>maḥwi ăl karmi wa muṣlaḥ:un ăṣ ṣufri wa ṣaḥḥa min hu wa fī hi ʾayḍ:an mulḥaq:un bnu muḥammad:in wa ṣaḥḥa min ʾaṣli hi wa fī hi ʾayḍ:an mulḥaq:un li man yaǧibu li l kanisiyyaẗi ăl maḏkūraẗi 
+ <lb n="17"/>wa ṣaḥḥa min hu yūsufu bnu muḥammadi bni ʿabdi ăl maliki ăl ʾumawiyyu wa ġarsiyyaẗu yuwānisu ăl yustisyaẗu kutiba ʿan hu bi ʾamri hi wa bi ø ḥaḍri maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		El opispo de Huesca don Esteban, procediendo a instancias del arcediano don Bernad de Huesca, del clavario (ṣāḥib al-mafātīḥ) y del convento de la iglesia de Santa María,
+			<lb n="3"/>
+		permuta con Muḥammad ibn Yūsuf, carpintero, en esta ciudad, lo que a continuación se va a decir, si Dios quiere. Elle es que el mencionado opispo y quienes hemos nombrado con él entregan al
+			<lb n="4"/>
+		referido Muḥammad la viña - los racimos y los frutales - situada en el barrio de al-Māʾida, en Huesca. Limita a madiodia con la viña de Isḥaq ibn Yosaf, a levante con un camino, al norte con la viña del zavalaquén
+			<lb n="5"/>
+		Ibn Ḥamtūl, perteneciente a sus herederos, y a poniente con la viña de Lubb ibn Wahb Allāh. El referido Muḥammad ibn Yūsuf, por su parte, entrega al obispo mencionado y a quienes hemos nombrado con él
+			<lb n="6"/>
+		la faja de viña que tiene en el término de al-ʾAskar, en Huesca. Limita a mediodía con la viña de los ¿hijos de San Juan? (¿Sanjuanistas?), a levante y poniente con la viña del Cristo, perteneciente a la iglesia referida,
+			<lb n="7"/>
+		y al norte con la viña de Pero Alber. Esta permuta se hace con todas la utilidades que corresponden a cada uno de los permutantes, con sus cepas y frutos,
+			<lb n="8"/>
+		sus entradas y salidas y con sus derechos todos, así dentro como fuera de ella, en permuta perfecta, lícita, que no lleva aneja condición viciosa alguna
+			<lb n="9"/>
+		ni cláusula de retroventa ni de opción. Ambas partes conocen el valor y alcance de la permuta y la conclusión del contrato, sin ignorar nada de él. Salieron fiadores de la viña que corresponde a Muḥammad...,
+			<lb n="10"/>
+		según costumbre del país, por el obispo y por quienes hemos mencionado con él... del párroco y Simón del Cristo, en fianza obligatoria, con la garantía de sus bienes y bajo su responsabilidad;
+			<lb n="11"/>
+		y, por Muḥammad, de la viña que corresponde al obispo y a quienes con él se han mencionado, Aḥmad ibn Muḥammad ibn Ṣafwān, su cuñado, y Muḥammad ibn Mūsà,
+			<lb n="12"/>
+		barbero, en fianza obligatoria, con la garantía de sus bienes y bajo su responsabilidad. Se pone come condición que Muḥammad pague a quien corresponda, por la viña que pasa a ser suya, le que pagaba por el aprovechamiento de la que deja de serlo y los diezmos
+			<lb n="13"/>
+		y primicias que corresponden a la iglesia mencionada; y que la viña que pasa a ser del obispo y de quienes hemos mencionado con él esté exenta de todo eso. Dió testimonio de todo cuanto aquí consta, a requerimiento de los permutantes
+			<lb n="14"/>
+		y de los fiadores referidos, quien les conoce y sabe que están en el pleno uso de sus facultades y con capacidad legal para contratar. Hecho en el mes de muḥarram del año 579 que corresponde
+			<lb n="15"/>
+		al mes de mayo del año [1]221 de la era española (= 1183). Hay dos copias de la escritura. En ésta se ha añadido Dūn Barnāḍ min Wašqa y an; está
+			<lb n="16"/>
+		emborronado al-karm y corregido y corregido al-Ṣufar. Vale. Se ha añadido, también, ibn Muḥammad. Concuerda con su original. Asimismo se ha añadido li-man yaŷibu y li-l-kanisīya al-maḏkūra.
+			<lb n="17"/>
+		Vale. Yūsuf ibn Muḥammad ibn ʿAbd al-Malik al-Umawī. García Iohanes, justicia. Se firmó por él, a instancias suyas y en su presencia.
+</ab></div>
+</body>
+</text>
+</TEI>

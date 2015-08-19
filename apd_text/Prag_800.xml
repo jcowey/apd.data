@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1778" xml:id="Prag_800" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 80</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_800</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169519</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـم 
+<lb n="3"/>  <supplied reason="lost" cert="high">درهم</supplied> واحد لحم 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> يوم الأحد 
+<lb n="5"/>  <supplied reason="lost" cert="high">درهمـ</supplied>ـين وذلك في الأجرة 
+<lb n="6"/>  <supplied reason="lost" cert="high">مـ</supplied>ـحمّد بن زكريّا 
+<lb n="7"/>  <supplied reason="lost" cert="high">والحمد</supplied> للّه رب العالمين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ***** 
+ <lb n="2"/>***m 
+ <lb n="3"/>dirham wāḥid laḥm 
+ <lb n="4"/>*** yawm ăl ʾaḥadi 
+ <lb n="5"/>dirhamayni wa ḏālika fī ăl ʾuǧraẗi 
+ <lb n="6"/>muḥammadi bni zakariyyāʾa 
+ <lb n="7"/>wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="3"/>
+		ein [Dirham] Fleisch
+			<lb n="4"/>
+		Sonntag
+			<lb n="5"/>
+		zwei [Dirham] und dies für die Entlohnung des
+			<lb n="6"/>
+		Muḥammad b. Zakarīyā.
+			<lb n="7"/>
+		[Und Lob sei] Gott, dem Herrn der Wesenheiten.
+</ab></div>
+</body>
+</text>
+</TEI>

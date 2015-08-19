@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1332" xml:id="Ragib_Baux_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibBaux 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Baux_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169140</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما أكرى محمّد المكنّا بأبي بكر بن عبد الواحد البيّاع <supplied reason="lost" cert="high">السّاكن</supplied> <supplied reason="lost" cert="high">مدينة</supplied> <supplied reason="lost" cert="high">أشمون</supplied> 
+<lb n="3"/>  أكرى <app type="BL"><lem resp="APD">بفام </lem><rdg resp="APD">بفام</rdg></app> بن قرقاس الشّمّاس السّاكن مديـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">أشمون</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  أشمون في خط يعرف بكنيسة مكييل <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">حدود</supplied> <supplied reason="lost" cert="high">هذا</supplied> 
+<lb n="5"/>  المنزل الأوّل وهو القبلي يلي المسجد الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والبحريّ</supplied> <supplied reason="lost" cert="high">يلي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  والشّرقي يلي منزل لسسنّة الحجّام والغـ<supplied reason="lost" cert="high">ـربيّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾakrà muḥammad:uni ăl mukannā bi ʾabī bakri bnu ʿabdi ăl wāḥidi ăl bayyāʿu ăs sākinu madīnaẗa ʾušmūna 
+ <lb n="3"/>ʾakrà bifāma biqāma bnu qurqāsa ăš šammāsa ăs sākina madīnaẗa ʾušmūna *** 
+ <lb n="4"/>ʾašmūn fī ḫaṭṭ:in yuʿrafu bi kanīsaẗi mikayīla ** *** ḥudūd hāḏā 
+ <lb n="5"/>ăl manzili ăl ʾawwalu wa huwa ăl qibliyyu yalī ăl masǧida ăl *** wa ăl baḥriyyu yalī *** 
+ <lb n="6"/>wa ăš šarqiyyu yalī manzil li sisinnaẗa ăl ḥaǧǧāmi wa ăl ġarbiyyu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+			<lb n="2"/>
+		Voici ce qu&#039;a loué Muḥammad qui porte la kunya d&#039;Abū Bakr b. ʿAbd al-Wāḥid le vendeur [qui habite la ville d&#039;Ašmūn].
+			<lb n="3"/>
+		Il a loué à Biqām b. Qurqās, le diacre qui habite la ville [d&#039;Ašmūn...]
+			<lb n="4"/>
+		Ašmūn dans le quartier connu sous le nom de l&#039;église Saint-Michel.. [ ... Voici les limites de cette]
+			<lb n="5"/>
+		demeure : la première qui est celle du sud touche l&#039;oratoire .. [ ... (la limite) nord touche ...]
+			<lb n="6"/>
+		(la limite) est touche une demeure appartenant à Sisinna le ventouseur et (la limit) ouest [...]
+</ab></div>
+</body>
+</text>
+</TEI>

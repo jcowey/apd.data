@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1870" xml:id="Grohmann_APEL_360" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 360</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_360</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169607</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يأبا زكريّا أطال <supplied reason="omitted" cert="high">اللّه</supplied> بقاك وجعلني فداك 
+<lb n="3"/>  أطلق لسيّدي أبي الحسن بن سلام أدام اللّه عزّه 
+<lb n="4"/>  ‮ستّة وعشرين دينرا وثلثي دينر مثاقيل معسولة ‪ϰςη‬ 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā ʾabā zakariyyāʾa ʾaṭāla ăl lāhu baqāʾa ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="3"/>ʾaṭliq li sayyid ī ʾabī ăl ḥasani bni salām:in ʾadāma ăl lāhu ʿizza hu 
+ <lb n="4"/>sittaẗ:an wa ʿišrīna dīnār:an wa ṯulṯay dīnār:in maṯāqīla maʿsūlaẗ:an 26 2/3 
+ <lb n="5"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		O Abû Zakariyyâ - may (God) prolong your life and may He make me your ransom -
+			<lb n="3"/>
+		grant to my lord Abu&#039;l-Ḥasan b. Salâm - may God cause his might to continue -
+			<lb n="4"/>
+		twenty-six dînârs and two thirds of a dînâr miṯqâlî, correctly counted out, 26 2/3
+			<lb n="5"/>
+</ab></div>
+</body>
+</text>
+</TEI>

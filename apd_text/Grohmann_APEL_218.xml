@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1955" xml:id="Grohmann_APEL_218" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 218</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_218</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169687</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وله زرع ستّة <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  وله زرع تسعة وثمن ونصف <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  اللّيث بن يحـ<supplied reason="lost" cert="high">ـيـ</supplied>ـى زرع أربعة وثمن ونصف <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وله زرع تلتة وعشرين <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  عبد الرّحمن بن موسى زرع تلتة عشـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  پمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> پحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـڤپن زرع خمسة <expan><abbr><sic n="superfluous">ع</sic></abbr><ex>عشر</ex></expan> ونصف <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa la hu zarʿu sittaẗ:in * *** 
+ <lb n="2"/>wa la hu zarʿu tisʿaẗ:in wa ṯumn:in wa niṣf:in * *** 
+ <lb n="3"/>ăl layṯu bnu yaḥyà zarʿu ʾarbaʿaẗ:in wa ṯumn:in wa niṣf:in * *** 
+ <lb n="4"/>wa la hu zarʿu talātaẗ:in wa ʿišrīna * *** 
+ <lb n="5"/>ʿabdu ăr raḥmāni bnu mūsà zarʿu talātaẗa ʿašara *** 
+ <lb n="6"/>bm*** Bḥ***fBn zarʿu ḫamsaẗa ʿašara wa niṣf:in *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		and he has seed land six
+			<lb n="2"/>
+		and he has seed land nine and an eighth and a half
+			<lb n="3"/>
+		al-Laiṯ b. Yaḥ[y]â has seed land four and an eighth and a half
+			<lb n="4"/>
+		and he has seed land twenty-three
+			<lb n="5"/>
+		ʿAbd ar-Rahmân b. Mûsâ has seed land thirteen
+			<lb n="6"/>
+		.................. has seed land fifteen and a half
+</ab></div>
+</body>
+</text>
+</TEI>

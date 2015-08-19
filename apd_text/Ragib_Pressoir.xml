@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1391" xml:id="Ragib_Pressoir" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibPressoir (= Chrest.Khoury I 65)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Pressoir</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169183</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="Khoury 1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="Khoury 2"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="Khoury 3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="1 = Khoury 4"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2 = Khoury 5"/>  هذا كتاب من عصفور مولى 
+<lb n="3 = Khoury 6"/>  الأمير محمّد بن السّري ووكيله على ضياعه 
+<lb n="4 = Khoury 7"/>  بـكورة الفيّوم لجعفر بن عبد العزيز إنّك 
+<lb n="5 = Khoury 8"/>  سألتـني وطلبت إلـي أن أقبّلك 
+<lb n="6 = Khoury 9"/>  المعصرة الّتي بأقنا بثلثين دينارا مثاقيل بلا دواب 
+<lb n="7 = Khoury 10"/>  ولا مونة فأجبتـك إلى ذلك وقبّلتك هذه المعصرة 
+<lb n="8 = Khoury 11"/>  على أن تودى إلـي هذا المال في نجمين في كل 
+<lb n="9 = Khoury 12"/>  ستّة أشهر <supplied reason="lost" cert="high">و</supplied>هو ثلثين دينارا وأوّل سنتـك مستهل بونه 
+<lb n="10 = Khoury 13"/>  من أشهر العجم سنة خمس ومائتين 
+<lb n="11 = Khoury 14"/>  وليس لعصفور مولى الأمير أن يدخل عليك أحدا 
+<lb n="12 = Khoury 15"/>  حتّى تنقضي سنتك وانقضاها في انسلخ 
+<lb n="13 = Khoury 16"/>  بشنس وإن افتقدت من المعصرة شيا كان 
+<lb n="14 = Khoury 17"/>  لازم لجعفر بن عبـ<sic n="superfluous">ـپـ</sic>ـد العزيز شهد على ذلك 
+<lb n="15 = Khoury 18"/>  نمران بن عبد اللّه الكلاعي ثم السّلفي وكتب شهادته بخطّه 
+<lb n="16 = Khoury 19"/>  <app type="BL"><lem resp="APD">والحسن </lem><rdg resp="Khoury">الحسين</rdg></app> بن <app type="BL"><lem resp="APD">مجنار </lem><rdg resp="Khoury">محپاد</rdg></app> اللّخمي وكتب شهادته بخطّه <gap reason="illegible" extent="1" unit="character" /> وفيه لحق ستّة أشهر 
+<lb n="17 = Khoury 20"/>  وأحمد بن الحكم الأزدي وكتب نمران شهادته بأمره ومحضره 
+<lb n="18 = Khoury 21"/>  <app type="BL"><lem resp="APD">وعتّاس </lem><rdg resp="APD">وعبّاس </rdg><rdg resp="APD">وعيّاس </rdg><rdg resp="APD">وعنّاس </rdg><rdg resp="APD">وعتّاس </rdg><rdg resp="APD">عَمَّاسُ</rdg></app> بن عبد اللّه 
+<lb n="seal 1"/>  اللّه ثقة 
+<lb n="seal 2"/>  عصفور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** 
+ <lb n="3"/>*** 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>hāḏā kitāb:un min ʿuṣfūra mawlà 
+ <lb n="6"/>ăl ʾamīri muḥammadi bni ăs sariyyi wa hi wakīli ʿalà ḍiyāʿi hi 
+ <lb n="7"/>bi kūraẗi ăl fayyūmi li ǧaʿfara bni ʿabdi ăl ʿazīzi ʾinna ka 
+ <lb n="8"/>saʾalta nī wa ṭalabta ʾilay ya ʾan ʾuqabbila ka 
+ <lb n="9"/>ăl maʿṣaraẗa ăllatī bi ʾaqnā bi ṯalāṯīna dīnār:an maṯāqīla bi lā dawābba 
+ <lb n="10"/>wa lā mūnaẗ:in fa ʾaǧabtu ka ʾilà ḏālika wa qabbaltu ka hāḏihi ăl maʿṣaraẗa 
+ <lb n="11"/>ʿalà ʾan tuʾaddiya ʾilay ya hāḏā ăl māla fī naǧmayni fī kulli 
+ <lb n="12"/>sittaẗi ʾašhur:in wa huwa ṯalāṯīna dīnār:an wa ʾawwalu sanati ka mustahallu baʾuniha 
+ <lb n="13"/>min ʾašhuri ăl ʿaǧami sanaẗa ḫams:in wa miʾatayni 
+ <lb n="14"/>wa laysa li ʿuṣfūra mawlà ăl ʾamīri ʾan yudḫila ʿalay ka ʾaḥad:an 
+ <lb n="15"/>ḥattà tanqaḍī sanatu ka wa ĭnqiḍā hā fī ĭnsilāḫi 
+ <lb n="16"/>bašansa wa ʾini ĭftaqadat ĭftaqadtu mina ăl maʿṣaraẗi šayʾ:an kāna 
+ <lb n="17"/>lāzim li ǧaʿfara bni ʿabdi ăl ʿazīzi šahida ʿalà ḏālika 
+ <lb n="18"/>nimrānu bnu ʿabdi ăl lāhi ăl kalāʿiyyu ṯumma ăs sulafiyyu wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="19"/>wa ăl ḥusaynu ḥasanu bnu miǧnāda muḫtār:in ăl laḫmiyyu wa kataba šahādata hu bi ḫaṭṭi hi * wa fī hi laḥaq:un laḥiqa sittaẗu ʾašhur:in 
+ <lb n="20"/>wa ʾaḥmadu bnu ăl ḥakami ăl ʾazdiyyu wa kataba nimrānu šahādata hu bi ʾamri hi wa maḥḍari hi 
+ <lb n="21"/>wa ʿabbāsu ʿannāsu ʿattāsu ʿayyāsu ʿayyāšu ʿammāsu bnu ʿabdi ăl lāhi 
+ <lb n="22"/>ăl lāhu ṯiqaẗu 
+ <lb n="23"/>ʿuṣfūra 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="3"/>
+		de (?) [....]
+			<lb n="4"/>
+		Au nom de Dieu, clément et miséricordieux !
+		&#039;Im Namen Gottes des Allbarmherzigen!
+			<lb n="5"/>
+		Ceci est un acte (adressé) par ʿUṣfūr, client
+		Ceci est un document de la part de ʿUṣfūr, client
+		Dies ist die Urkunde von ʿUsfûr, dem Freigelassenen
+			<lb n="6"/>
+		de l&#039;émir Muḥammad b. al-Sarī et son mandataire pour ses domaines
+		des Statthalters Muhammed ibn al-Sarîjj, dem Administrator seiner Domänen
+			<lb n="7"/>
+		dans la circonscription d&#039;al-Fayyūm à Ǧaʿfar b. ʿAbd al-ʿAzīz: Tu
+		de la circonscription d&#039;al-Fayyoum à Ǧaʿfar b. ʿAbd al-ʿAzīz. Tu
+		Im Bezirke el-Fajjûm - für Dschaʿfar ibn ʿAbd al-ʿAzîz. Fürwahr, Du
+			<lb n="8"/>
+		batest mich und begehrtest von mir, dass ich Dir
+		m&#039;as demandé et sollicité de t&#039;affermer
+			<lb n="9"/>
+		die Ölpresse, welche sich in (dem Orte) Iknâ befindet, um dreissig Dînâre des Mitskâl-Fusses (=362 Goldkronen) bewillige, und zwar ohne (Dreh-) Thiere
+		le pressoir qui se trouve à Aqnā pour trente dinars (pesés) en miṯqāl-s, sans bêtes de somme
+		le pressoir qui se trouve à Iqnā pour trente dīnārs pesés en miṯqāl-s, sans bêtes de somme
+			<lb n="10"/>
+		ni nourriture, et je t&#039;ai accordé cela et t&#039;ai affermé ce pressoir
+		ni nourriture. Je t&#039;ai accordé cela et je t&#039;ai affermé le pressoir
+		und ohne Futtervorrath. Ich habe Dir nun zugestimmt und bewillige Dir diese Ölpresse,
+			<lb n="11"/>
+		à condition que tu me paies cet argent en deux termes, tous
+		à condition que tu me verses cette somme en deux termes, tous
+		auf dass Du mir dieses Geld zahlest in zwei Raten
+			<lb n="12"/>
+		[am Rande steht hinzugefügt: &#039;in je sechs Monaten&#039;], und das sind dreissig Dînâre. Und der Anfang Deines Jahres ist der erste Tag des Payni (=26. Mai)
+		les six mois, à savoir trente dīnārs. Le début de ton année (de bail) étant le premier payni,
+		&#039;les six mois&#039;, savoir trente dinars. Ton année (de bail) commence au premier baʾūna
+			<lb n="13"/>
+		des mois étrangers, l&#039;an 205.
+		(l&#039;un) des mois des non arabes, de l&#039;année deux cent cinq.
+		von den Monaten der Kopten, des Jahres zweihundert und fünf (=821 n. Chr.).
+			<lb n="14"/>
+		Es steht dem ʿUsfûr, dem Freigelassenen des Statthalters nicht zu, dass er den Empfang des Geldes früher von Dir fordere,
+		Il n&#039;appartient pas à ʿUṣfūr, client de l&#039;émir, d&#039;introduire un tiers (dans ton contrat),
+			<lb n="15"/>
+		als bis Dein Jahr vollendet ist, und der Ablauf desselben ist mit dem Zuendegehen
+		jusqu&#039;à ce que ton année (de bail) expire, et son expiration aura lieu à la fin
+		jusqu&#039;à ce que ton année (de bail) expire, expiration qui aura lieu fin
+			<lb n="16"/>
+		bašans. Si un élément du pressoir vient à manquer,
+		de bašans. Et si je constate qu&#039;un élément manque dans le pressoir,
+		des Pachon (25. Mai 822 n.Chr.). Wenn etwas von der Presse (bei der Übernahme) auf seinen Zustand geprüft werden soll, so ist es
+			<lb n="17"/>
+		à Ǧaʿfar b. ʿAbd al-ʿAzīz incombe (de le remplacer). [second hand] A témoigné de ceci
+		il incombe à Ǧaʿfar Ibn ʿAbd al-ʿAzīz (de le remplacer). Ont témoigné de celà.
+		Sache des Dschaʿfar ibn ʿAbd al-ʿAzîz. Urkund dessen gaben ihr Zeugniss:
+			<lb n="18"/>
+		Nimrān b. ʿAbd Allāh al-Kalāʿī puis al-Sulafī et écrit son témoignage de sa main.
+		Nimrān b. ʿAbd Allāh al-Kalāʿī puis al-Sulafī, et il écrivit son témoignage de sa main,
+		Schehrzâr ibn ʿAbd allâh el-Kilâʿijj, auch genannt as-Salfijj, er schrieb sein Zeugniss eigenhändig.
+			<lb n="19"/>
+		et al-Ḥusayn Ibn Miǧnād al-Laḫmī, et il écrivit son témoignage de sa main - dans le document se trouve une addition &#034;six mois&#034; -
+		[third hand] Et al-Ḥasan b. Muḫtār al-Laḫmī qui a écrit son témoignage de sa main. [first hand] Dans (l&#039;acte) se trouve une addition : «six mois».
+		Und el-Husein ibn Midschnâd der Lachmite, er schrieb sein Zeugniss eigenhändig und (bemerkt:) darin (in der Urkunde) befindet sich der Zusatz &#039;sechs Monate&#039;.
+			<lb n="20"/>
+		et Aḥmad Ibn al-Ḥakam al-Azdī, et Nimrān écrivit son témoignage (à sa place) sur son ordre et en sa présence.
+		[second hand] Et Aḥmad b. al-Ḥakam al-Azdī. Nimrān a écrit son témoignage sur son ordre et en sa présence.
+		Und Ahmed ibn el-Hakam el Azdijj: es schrieb sein Zeugnis (weil des Schreibens unkundig) in seinem Auftrage und in seiner Gegenwart Schehrzâr.
+			<lb n="21"/>
+		Et Abbās Ibn ʿAbd Allāh.
+		[second hand?] Et ʿAyyāš b. ʿAbd Allāh.
+		Und ʿAbbâs ibn ʿAbd allâh.&#039;
+			<lb n="22"/>
+		Dieu est la confiance
+		God is the confidence of
+		Gott ist das Vertrauen
+			<lb n="23"/>
+		des ʿUsfûr.
+		de ʿUṣfūr.
+		ʿUṣfûr
+</ab></div>
+</body>
+</text>
+</TEI>

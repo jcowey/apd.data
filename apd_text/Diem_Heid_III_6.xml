@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2215" xml:id="Diem_Heid_III_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  نسل اللّه أن يكفيك يا سيّدی 
+<lb n="3"/>  أطال اللّه بقاك<del rend="erasure" status="unremarkable">لا</del>پالعرپر 
+<lb n="4"/>  علی لم يتهيّأ لي الدّخول 
+<lb n="5"/>  منك وليس عليك علّتی 
+<lb n="6"/>  وأنا الغد متّصل بأبو 
+<lb n="7"/>  اليسر نفع اللّه به 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>nasalu ăl lāha ʾan yakfiya ka yā sayyid ī 
+ <lb n="3"/>ʾaṭāla ăl lāhu baqāʾa ka yā ăl ʿazīza 
+ <lb n="4"/>ʿalay ya lam yatahayyaʾ l ī ăd duḫūlu 
+ <lb n="5"/>min ka wa laysa ʿalay ka ʿillaẗ ī 
+ <lb n="6"/>wa ʾanā ăl ġada muttaṣil:un bi ʾabū 
+ <lb n="7"/>ăl yusri nafaʿa ăl lāhu bi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Ich bitte Gott, Dich zu schützen, o mein Herr!
+			<lb n="3"/>
+		Gott lasse Dich lange leben, [[nicht]] o
+			<lb n="4"/>
+		mir Teurer! Es war mir nicht möglich, mich
+			<lb n="5"/>
+		von Dir weg (unmittelbar) in die Stadt zu begeben, wobei mein Entschuldigungsgrund nicht zu Deinen Lasten geht.
+			<lb n="6"/>
+		Ich werde mich (aber) morgen (in der Stadt) mit Abū
+			<lb n="7"/>
+		l-Yusr in Verbindung setzen - Gott gebe durch ihn Nutzen!
+</ab></div>
+</body>
+</text>
+</TEI>

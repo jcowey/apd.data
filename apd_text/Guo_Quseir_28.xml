@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="891" xml:id="Guo_Quseir_28" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 28</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_28</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113653</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">اللّه</supplied> عزّه ونعماه وتكرّمه 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> علاه ومن حسن الپوڤپق 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">لا</supplied> أخلاه و<supplied reason="lost" cert="high">جـ</supplied>ـمع <app type="BL"><lem resp="APD">الرّسول </lem><rdg resp="“Friedman, Quṣayr p. 407”">الشمل</rdg></app> بيننا عل أسر حال 
+<lb n="recto 4"/>  وسوا ذلك تحفظ قماشي جميعه 
+<lb n="recto 5"/>  وثلثة عشر قطعة دقيق بركين كبار أرز 
+<lb n="recto 6"/>  بركين آخر أرز تحطّهم و<gap reason="illegible" precision="low" extent="3"/> وجميع 
+<lb n="recto 7"/>  الحوائج تحطّهم ولا تفرّط فيهم أنت 
+<lb n="recto 8"/>  وكيلي كل شي وإن <app type="BL"><lem resp="APD">امتحنوا </lem><rdg resp="APD">استحوا </rdg><rdg resp="“AK”">أشحنوا</rdg></app> انجز 
+<lb n="recto 9"/>  لي <sic n="superfluous">واتب</sic> <sic n="superfluous">ت</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">وأتبت</supplied> </lem><rdg resp="“AK”">وأنت</rdg></app> بالجميع <gap reason="illegible" precision="low" extent="3"/> الحاج <gap reason="illegible" precision="low" extent="3"/> وذلك 
+<lb n="recto 10"/>  وتسيّر لي جواب <unclear reason="undefined" cert="high">إنجاز</unclear> وتكشف لي عن 
+<lb n="recto 11"/>  المركب ترحل به وتسيّر لي المشكور 
+<lb n="recto right margin"/>  <gap reason="illegible" precision="low" extent="3"/>لف <gap reason="illegible" precision="low" extent="3"/> والله يعال يطول عمرك والحاح وصل وڤد عر عليه موپ 
+<lb n="verso 1"/>  ويتسلّم <app type="BL"><lem resp="APD">بن </lem><rdg resp="AK">من</rdg></app> مبارك أربع فوط وعبائين 
+<lb n="verso 2"/>  تأتيهم إلى بتاعي مسعود الّذي بقا 
+<lb n="verso 3"/>  وتسيّر الجواب وتسلّم <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ʾadāma ăl lāhu ʿizza hu wa naʿmāʾa hu wa takarrama takarruma hu 
+ <lb n="2"/>*** ʿalāʾa hu wa min ḥusni ăt tawfīqi 
+ <lb n="3"/>lā ʾaḫlā hu wa ǧamaʿa ăr ăš rasūlu šamla bayna nā ʿala ʾasarri ḥāl:in 
+ <lb n="4"/>wa siwā ḏālika taḥfaẓ qumāš ī ǧamīʿa hu 
+ <lb n="5"/>wa ṯalāṯaẗa ʿašara qiṭʿaẗ:an daqīq barkayni kibār ʾaruzz 
+ <lb n="6"/>barkayni ʾāḫar ʾaruzz taḥuṭṭi him wa *** wa ǧamīʿa 
+ <lb n="7"/>ăl ḥawāʾiǧi taḥuṭṭi him wa lā tufarriṭ fī him ʾanta 
+ <lb n="8"/>wakīl ī kulla šayʾ:in wa ʾini ĭmtaḥanū ĭstaḥaw ʾašḥanū ŭnǧuz 
+ <lb n="9"/>l ī wa ʾatbit ʾanta bi ăl ǧamīʿi *** ăl ḥāǧǧ *** wa ḏālika 
+ <lb n="10"/>wa tusayyir l ī ǧawāba ʾinǧāz:in wa takšif l ī ʿan 
+ <lb n="11"/>ăl markabi tarḥalu bi hi wa tusayyir l ī ăl maškūra 
+ <lb n="12"/>***lf wa ăl lāhu taʿāla yuṭawwilu ʿumra ka wa ăl ḥāǧǧu waṣala wa qad ʿazza ʿalay hi mawtu karīmati ka 
+ <lb n="13"/>wa yatasallam yatasallami bnu min mubārak:in ʾarbaʿa fuwaṭ:in wa ʿabāʾayni 
+ <lb n="14"/>tuʾtī him ʾilà bitāʿī masʿūd:ini ăllaḏī baqā 
+ <lb n="15"/>wa tusayyiri ăl ǧawāba wa tusallim *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[To so-and-so] - May God prolong his strength, his happiness, his nobility
+			<lb n="2"/>
+		[.........] and his high status. [May God] not deprive him
+			<lb n="3"/>
+		of success. May the Prophet reunite us in the best circumstances! -
+			<lb n="4"/>
+		[And now to the topic:] You should keep an eye on all my fabrics,
+			<lb n="5"/>
+		thirteen qiṭʿa-containers of flour, two large bark-bales of rice,
+			<lb n="6"/>
+		and [another] two bales of rice. Put them [...] and all
+			<lb n="7"/>
+		the commodities [in a safe place]. Don&#039;t over charge (?) these. You are
+		... Und begehe bei ihnen keine Nachlässigkeit! ...
+			<lb n="8"/>
+		my agent in charge of everything. If they inspect [the aforesaid commodities], then you should carry the task out
+			<lb n="9"/>
+		on my behalf, and notify all [parties involved] that [......;] the ḥājj [......]
+			<lb n="10"/>
+		Send me a follow-up and inspect, on my behalf,
+			<lb n="11"/>
+		the boat with which you will depart. ...
+		the cargo with which you have traveled. Send me an acknowledgment note (?) [......].
+			<lb n="12"/>
+		... about your sister&#039;s death
+		[......] May God Almighty prolong your life! The ḥājj has arrived and he is sorry about your daughter&#039;s death.
+			<lb n="13"/>
+		Ibn Mubārak is to receive four fūṭa-waist wrappers and two ʿabāʾ-cloaks.
+			<lb n="14"/>
+		Give them to Bitāʿī (?) Masʿūd, who has stayed behind.
+		Give them to the estate/possession of Masʿūd, ...
+			<lb n="15"/>
+		Send [me] a receipt. Give my regards [to ......].
+</ab></div>
+</body>
+</text>
+</TEI>

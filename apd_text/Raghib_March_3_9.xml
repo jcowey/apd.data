@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="619" xml:id="Raghib_March_3_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106735</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أكرمك اللّه بطاعته وهباك كرامته في الدّنيا والآخرة 
+<lb n="3"/>  برحمته وصل <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">كتابك</supplied> مع عبد الصّمد المكاري وستّة 
+<lb n="4"/>  أثواب بعت لك ثلاثة بدينر وسدس وثلاثة بدينر وقيراط 
+<lb n="5"/>  فذلك دينارين وخمسة قراريط من الثّمن وأنا أرجوا أن 
+<lb n="6"/>  <unclear reason="undefined" cert="high">أقبض</unclear> <unclear reason="undefined" cert="high">الثّمن</unclear> <unclear reason="undefined" cert="high">قبل</unclear> يوم الأربعا وأوجّهـ<supplied reason="omitted" cert="high">ـه</supplied> إليك مع قشّاش 
+<lb n="7"/>  وما بعت من السّتّة الّتي وجّهت <supplied reason="lost" cert="high">بها</supplied> مع قشّاش إلّا ثوبين 
+<lb n="8"/>  من جيادها بأربعة اعشر قيراط وأنا على بيع 
+<lb n="9"/>  الأربعة الآخر وقد كنت وجّهت إليك مع قشّاش 
+<lb n="10"/>  بالحوائج مقنعة شهجانيّة بثلث دينر ونصف قيراط ووقيّة 
+<lb n="11"/>  زعفران بثلاث الدّراهم ونعل <unclear reason="undefined" cert="high">صرّار</unclear> بدرهمان ونعل حذا 
+<lb n="12"/>  بدرهم وربع فذلك <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـه <gap reason="illegible" extent="11" unit="character" /> 
+<lb n="right margin 1"/>  لك قبلي ثلاث الدّراهم و<gap reason="illegible" extent="4" unit="character" /> ونصف 
+<lb n="right margin 2"/>  ا<gap reason="illegible" extent="8" unit="character" /> <supplied reason="lost" cert="high">وقد</supplied> <supplied reason="lost" cert="high">وجّهت</supplied> إليك مع عبد الصّمد 
+<lb n="right margin 3"/>  بنصف ويبة شعير <app type="BL"><lem resp="APD">بثلـ<supplied reason="lost" cert="high">ـث</supplied> </lem><rdg resp="APD">ثلثي</rdg></app> درهم ونصف دانق 
+<lb n="top left margin 1"/>  والـ<unclear reason="undefined" cert="high">ـخرقة</unclear> قد وجّهت بها إليك مع 
+<lb n="top left margin 2"/>  عبد الصّمد المـ<supplied reason="lost" cert="high">ـكاري</supplied> 
+<lb n="top left margin 3"/>  <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="top right 1"/>  لأبي هريرة أكرمه اللّه 
+<lb n="top right 2"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="top left 1"/>  من محمّد بن عمرو بن ثور 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="3"/>bi raḥmati hi waṣala ʾilay ya kitābu ka maʿa ʿabdi ăṣ ṣamadi ăl mukārī wa sittaẗu 
+ <lb n="4"/>ʾaṯwāb:in biʿtu la ka ṯalāṯaẗ:an bi dīnār:in wa suds:in wa ṯalāṯaẗ:an bi dīnār:in wa qīrāṭ:in 
+ <lb n="5"/>fa ḏālika dīnārayni wa ḫamsaẗu qarārīṭa mina ăṯ ṯamani wa ʾanā ʾarǧū ʾan 
+ <lb n="6"/>ʾaqbiḍa ăṯ ṯamana qabla yawmi ăl ʾarbaʿāʾi wa ʾuwaǧǧiha hu ʾilay ka maʿa qaššāš:in 
+ <lb n="7"/>wa mā biʿtu mina ăs sittaẗi ăllatī waǧǧahta bi hā maʿa qaššāš:in ʾillā ṯawbayni 
+ <lb n="8"/>min ǧiyādi hā bi ʾarbaʿaẗa ĭʿšara qīrāṭ wa ʾanā ʿalà bayʿi 
+ <lb n="9"/>ăl ʾarbaʿaẗi ăl ʾuḫari wa qad kuntu waǧǧahtu ʾilay ka maʿa qaššāš:in 
+ <lb n="10"/>bi ăl ḥawāʾiǧi miqnaʿaẗ:in šahǧāniyyaẗ:in bi ṯulṯi dīnār:in wa niṣfi qīrāṭ:in wa wuqiyyaẗi 
+ <lb n="11"/>zaʿfarān:in bi ṯalāṯi ăd darāhimi wa naʿl:in ṣarrār:in bi dirhamāni wa naʿl:in ḥiḏāʾ:in 
+ <lb n="12"/>bi dirham:in wa rubʿ:in fa ḏālika **ẗ *********** 
+ <lb n="13"/>la ka qibal ī ṯalāṯu ăd darāhimi wa **** wa niṣf 
+ <lb n="14"/>ʾ******** wa qad waǧǧahtu ʾilay ka maʿa ʿabdi ăṣ ṣamadi 
+ <lb n="15"/>bi niṣfi waybaẗi šaʿīr:in bi ṯulṯi ṯulṯay dirham:in wa niṣfi dānaq:in 
+ <lb n="16"/>wa ăl ḫirqaẗu qad waǧǧahtu bi hā ʾilay ka maʿa 
+ <lb n="17"/>ʿabdi ăṣ ṣamadi ăl mukārī 
+ <lb n="18"/>******* 
+ <lb n="19"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu 
+ <lb n="20"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="21"/>min muḥammadi bni ʿamri bni ṯawr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! 
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et t&#039;accorde Sa magnanimité dans ce monde et dans l&#039;autre
+			<lb n="3"/>
+		par sa miséricorde! [Ta lettre m&#039;]est parvenue avec ʿAbd al-Ṣamad l&#039;ânier, ainsi que six
+			<lb n="4"/>
+		pièces d&#039;étoffe. J&#039;en ai vendu pour toi trois pour un dinar un sixième et trois pour un dinar et un qīrāṭ.
+			<lb n="5"/>
+		Cela fait deux dinars et cinq qīrāṭ-s comme prix. J&#039;espère
+			<lb n="6"/>
+		toucher (?) le prix (?) avant (?) le jour du mercredi et te l&#039;adresser avec Qaššāš.
+			<lb n="7"/>
+		Je n&#039;ai vendu des six (pièces d&#039;étoffe) que tu m&#039;as adressées avec Qaššāš que deux
+			<lb n="8"/>
+		des bonnes pour quatorze qīrāṭ-s. Je suis sur le point de vendre
+			<lb n="9"/>
+		les quatres autres. Je t&#039;avais adressé avec Qaššāš
+			<lb n="10"/>
+		ce dont tu avais besoin : un voile Šahǧānī pour un tiers de dinar et demi-qīrāṭ, une wuqiyya
+			<lb n="11"/>
+		de safran pour trois dirhams, une (paire de) sandales qui craquent (?) pour deux dirhams et une (paire de) sandales ḥiḏāʾ
+			<lb n="12"/>
+		pour un dirham et quart. Cela fait .....
+			<lb n="13"/>
+		Tu as chez moi trois dirhams .... et demi
+			<lb n="14"/>
+		.... [Je] t&#039;[ai adressé] avec ʿAbd al-Ṣamad
+			<lb n="15"/>
+		une demi-wayba d&#039;orge pour un tiers de dirham et un demi-dānaq.
+			<lb n="16"/>
+		Le manteau (?), je te l&#039;ai adressé avec
+			<lb n="17"/>
+		ʿAbd al-Ṣamad l&#039;ânier
+			<lb n="18"/>
+			<lb n="19"/>
+		À Abū Hurayra - que Dieu l&#039;honore! 
+			<lb n="20"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+			<lb n="21"/>
+		De la part de Muḥammad b. ʿAmr b. Ṯawr.
+</ab></div>
+</body>
+</text>
+</TEI>

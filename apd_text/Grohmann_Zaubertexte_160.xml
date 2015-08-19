@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="648" xml:id="Grohmann_Zaubertexte_160" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Bad. V 160</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Zaubertexte_160</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">105700</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  باب لقطع الرّزق لمن شيت وجزأت تدفن في أي 
+<lb n="2"/>  موضع إن شيت تأخذ سبع فلفلات وسبع خردلات 
+<lb n="3"/>  وسبع حبّات من الحبّة السّودا وتصرّهم في خرقة 
+<lb n="4"/>  كفن فيها هذه الأسما <del rend="erasure" status="unremarkable">قد</del> <sic n="superfluous">وتدفيها</sic> <supplied reason="omitted" cert="high">وتدفنها</supplied> في الموضع 
+<lb n="5"/>  الّذي يكون فيه الخصم بعد أن تكتب اسمه و<supplied reason="omitted" cert="high">اسم </supplied>أمّه 
+<lb n="6"/>  وهذا الّذي تكتبه 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  حملڤسل علهڤسع عو <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="9"/>  حعللي صعسصڤع <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  تم الباب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bāb:un li qaṭʿi ăr rizqi li man šīta wa ǧazaʾta tadfinu fī ʾayyi 
+ <lb n="2"/>mawḍiʿ:in ʾin šīta taʾḫuḏu sabʿa filfilāt:in wa sabʿa ḫardalāt:in 
+ <lb n="3"/>wa sabʿa ḥabbāt:in mina ăl ḥabbaẗi ăs sawdāʾi wa taṣurru hum fī ḫirqaẗi 
+ <lb n="4"/>kafan:in fī hā hāḏihi ăl ʾasmāʾu wa tadfinu hā fī ăl mawḍiʿi 
+ <lb n="5"/>ăllaḏī yakūnu fī hi ăl ḫaṣmu baʿda ʾan taktuba ĭsma hu wa ĭsma ʾummi hi 
+ <lb n="6"/>wa hāḏā ăllaḏī taktubu hu 
+ <lb n="7"/>*** 
+ <lb n="8"/>ḥmlFsl ʿlFhsʿ ʿw * 
+ <lb n="9"/>ḥʿlly ṣʿsṣFʿ * 
+ <lb n="10"/>*** 
+ <lb n="11"/>tamma ăl bābu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Kapitel, um den Lebensunterhalt zu bringen, wen du willst, und mit wem du dich begnügst. Man vergräbt es an
+			<lb n="2"/>
+		einem Orte; wenn du willst, nimmst du sieben Pfefferkörner, sieben Senfkörner
+			<lb n="3"/>
+		und sieben Schwarzkümmelkörner und packst sie in einen Streifen von
+			<lb n="4"/>
+		einem Leichentuche, auf dem folgende Namen stehen, und gräbst ihn an dem Orte ein,
+			<lb n="5"/>
+		an dem sich der Gegner befindet, nachdem du seinen Namen und (den Namen) seiner Mutter (darauf) geschrieben hast;
+			<lb n="6"/>
+		und was du schreibst, ist folgendes:
+			<lb n="7"/>
+		Zauberzeichen und nomina barbara
+			<lb n="8"/>
+		(Zauberzeichen und nomina barbara)
+			<lb n="9"/>
+		(Zauberzeichen und nomina barbara)
+			<lb n="10"/>
+		Zauberzeichen und nomina barbara
+			<lb n="11"/>
+		Zu Ende ist das Kapitel.
+</ab></div>
+</body>
+</text>
+</TEI>

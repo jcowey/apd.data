@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1825" xml:id="Grohmann_APEL_331" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 331</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_331</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169562</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  المستخرج على جهته وباللّه قسم <app type="BL"><lem resp="APD">الحالف </lem><rdg resp="Diem">لي</rdg></app> 
+ <lb n="2"/>  إنّي في إضاقة عظيمة <app type="BL"><lem resp="APD">لولا </lem><rdg resp="UB and Diem">لو</rdg></app> <app type="BL"><lem resp="APD">دلك </lem><rdg resp="UB and Diem">لا</rdg></app> لما 
+ <lb n="3"/>  <app type="BL"><lem resp="UB, accounting for Grohmann's translation">صايفت </lem><rdg resp="Grohmann in edition and reading UB">ضايقت</rdg></app> غلامه في هذا المقدار وأمّا 
+ <lb n="4"/>  قوله أن رسم الكرم <app type="BL"><lem resp="APD">عين </lem><rdg resp="Diem÷ quotiation of recto line 9, of which we have no image">غير</rdg></app> رسم الحكم 
+ <lb n="5"/>  فالأمر أقرب من هذا وقد مضى <app type="BL"><lem resp="APD">الى </lem><rdg resp="Diem÷ the scribe omitted the name of the person who went to Ṭaḥā"><gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+ <lb n="6"/>  طحا يجيني بشي لي هناك بأي وقت ورد 
+ <lb n="7"/>  أنفذت إليه الدّينارين ولم أوحرها 
+ <lb n="8"/>  عنه سمعا وطاعة لأمره إن شا اللّه 
+ <lb n="9"/>  توكّلت على اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl mustaḫraǧ ʿalà ǧihati hi wa bi ăl lāhi qasama ø l ø ī ăl ḥālifi ḥālifu ḥālu 
+ <lb n="2"/>ʾin nī fī ʾiḍāqaẗ:in ʿaẓīmaẗ:in li law walāʾi ø lā ḏālika la lammā mā ø 
+ <lb n="3"/>ṣāyaftu ḍāyaqtu ġulāma hu fī hāḏā ăl miqdāri wa ʾammā 
+ <lb n="4"/>qawlu hu ʾanna rasma ăl karmi ʿaynu ġayru rasmi ăl ḥukmi 
+ <lb n="5"/>fa ăl ʾamru ʾaqrabu min hāḏā wa qad maḍà ø *** ʾilà 
+ <lb n="6"/>ṭaḥā yaǧī nī bi šayʾ:in l ī hunāka bi ʾayyi waqt:in warada 
+ <lb n="7"/>ʾanfaḏtu ʾilay hi ăd dīnārayni wa lam ʾuʾaḫḫir hā 
+ <lb n="8"/>ʿan hu samʿ:an wa ṭāʿaẗ:an li ʾamri hi ʾin šāʾa ăl lāhu 
+ <lb n="9"/>tawakkaltu ʿalà ăl lāhi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  das zu seinen Lasten zu erhebende. Bei Gott, die Umstände haben mir (das Schicksal) zugeteilt,
+ 	  The copy of the letter which has been sent to its place (?), and by God, it is the oath of him who swears (i.e. I&#039;m swearing),
+ 	  The (letter) which has been sent to its place (?) And he who has taken the oath has taken it in the name of God.
+		 <lb n="2"/>
+ 	  daß ich in einer riesengroßen finanziellen Schwierigkeit bin. Wenn dies nicht wäre,
+ 	  I am in great affliction. If it was not for that (affliction), I would not
+ 	  Verily, I am in great affliction because of being that man&#039;s friend, when
+		 <lb n="3"/>
+ 	  hätte ich seinem (sc. des Adressaten) Burschen nicht solche Schwierigkeiten wegen dieses Betrages gemacht. ...
+ 	  have troubled his boy to this extent. And as to
+ 	  I hired his mate for the summer in this space of time. And as to
+		 <lb n="4"/>
+ 	  his saying &#034;the tax on the vines is the same as the regular tax&#034;,
+		 <lb n="5"/>
+ 	  now the matter is nearer (more probable) than this. He has already departed to
+		 <lb n="6"/>
+ 	  Ṭaḥâ, to bring me what appertains there to me. As soon as he has arrived
+ 	  ... Wann auch immer er ankommt,
+		 <lb n="7"/>
+ 	  I paid to him the two dînârs, and I never withheld it
+ 	  werde ich ihm (sc. dem Schreiber von recto) die zwei Dinar übersenden und sie ihm nicht vorenthalten,
+		 <lb n="8"/>
+ 	  from him. I hear and obey his order, if God wills.
+ 	  indem ich seinem (sc. des Adressaten) Befehl unverzüglich gehorche. ...
+		 <lb n="9"/>
+ 	  I trust in God.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1462" xml:id="Khan_Khalili_I_5" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 05 (= P.Khalili II 09 recto)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_5</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169246</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> دينر قبضت من ذلك <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  مبلغ كرى دار الخربة دينرين وثلثي دينر وقيراط وثلث قبضت من ذلك نصف وربع دينر و<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  مبلغ كرى دار أم مكّي ثلثة دنانير ونصف وقراط قبضت من ذلك دينر ونصف دينر و<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <supplied reason="lost" cert="high">مبلـ</supplied>ـغ كـ<supplied reason="lost" cert="high">ـر</supplied>ى معمر <app type="BL"><lem resp="APD">مخروب </lem><rdg resp="Diem">معيوب</rdg></app> دينرين وثلثي دينر قبضت <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  مبلغ كرى دار رفّا وطرّف دينرين قبضت من ذلك دينر 
+ <lb n="6"/>  <supplied reason="lost" cert="high">مبلـ</supplied>ـغ كر<supplied reason="lost" cert="high">ى</supplied> <supplied reason="lost" cert="high">حو</supplied>انيت المغازلي دينرين وسدس دينر قبضت من ذلك نصف وثمن دينر <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <supplied reason="lost" cert="high">مبلـ</supplied>ـغ كرى دار السّمنّودي ثلثة <supplied reason="lost" cert="high">دنانير</supplied> <supplied reason="lost" cert="high">وثـ</supplied>ـلث وقيراطين قبضت من ذلك نصف وثلث <supplied reason="lost" cert="high">دينر</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** dīnār:un qabaḍtu min ḏālika *** 
+ <lb n="2"/>mablaġu kirà dāri ăl ḫirbaẗi dīnārayni wa ṯulṯay dīnār:in wa qīrāṭ:un wa ṯulṯ:un qabaḍtu min ḏālika niṣfa wa rubʿa dīnār:in wa *** 
+ <lb n="3"/>mablaġu kirà dāri ʾummi makkiyy:in ṯalāṯaẗu danānīra wa niṣf:un wa qirāṭ:un qabaḍtu min ḏālika dīnār wa niṣfa dīnār:in wa *** 
+ <lb n="4"/>mablaġu kirà maʿmari maʿmar:in maḫrūb:in maʿyūb:in dīnārayni wa ṯulṯay dīnār:in qabaḍtu min ḏālika *** 
+ <lb n="5"/>mablaġu kirà dāri raffāʾ:in wa ṭarrāf:in dīnārayni qabaḍtu min ḏālika dīnār 
+ <lb n="6"/>mablaġu kirà ḥawānīti ăl maġāziliyyi dīnārayni wa sudsu dīnār:in qabaḍtu min ḏālika niṣfa wa ṯumna dīnār:in *** 
+ <lb n="7"/>mablaġu kirà dāri ăs samannūdiyyi ṯalāṯaẗu danānīra wa ṯulṯ:un wa qīrāṭayni qabaḍtu min ḏālika niṣfa wa ṯulṯa dīnār:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [   ...]dīnār. I have received of that[   ]
+ 	  [   ...]dīnār. Of that I have received [   ]
+		 <lb n="2"/>
+ 	  The amount of rent from the house of the ruin - two dīnārs, two thirds of a dīnār, a qīrāṭ and a third. Of that I have received a half and a quarter of a dīnār and [  ]
+ 	  The amount of the rent of the house of the ruin - two dīnārs, two thirds of a dīnār, a qīrāṭ and a third. I have received of that a half and a quarter of a dīnār and [  ]
+		 <lb n="3"/>
+ 	  The amount of rent from the house of Umm Makki - three dīnārs and a half and a qīrāṭ. Of that I have received one dīnār and a half dīnār and [  ]
+ 	  The amount of the rent of the house of ʾUmm Makkī - three dīnārs and a half and a qīrāṭ. I have received of that one dīnār and a half dīnār and [  ]
+		 <lb n="4"/>
+ 	  The amount of rent from a ruined dwelling - two dīnārs and two thirds of a dīnār. Of that I have received...
+ 	  [The amount] of the rent of a ruined dwelling - two dīnārs and two thirds of a dīnār. I have received [of that...]
+ 	  [The amount] of the rent of the dwelling(?) of Maʿyūb
+		 <lb n="5"/>
+ 	  The amount of rent from the house of a darner and a cobbler - two dīnārs. Of that I have received one dīnār.
+ 	  The amount of the rent of the house of a darner and a cobbler - two dīnārs. I have received of that one dīnār.
+		 <lb n="6"/>
+ 	  The amount of rent from the shops of the spindle-maker - two dīnār and a sixth of a dīnār. Of that I have received a half and an eighth of a dīnār [   ]
+ 	  [The amount] of the rent of the shops of the spindle-maker - two dīnār and a sixth of a dīnār. I have received of that a half and an eighth of a dīnār [   ]
+		 <lb n="7"/>
+ 	  The amount of rent from the house of al-Samannudi - three [dīnārs and] a third and two qīrāṭs. Of that I have received a half and a third [dīnār].
+ 	  [The amount] of the rent of the house of al-Samannūdī - three [dīnārs and] a third and two qīrāṭs. I have received of that a half and a third [dīnār].
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2080" xml:id="Frantz-MurphyContracts041" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyContracts 4</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz-MurphyContracts041</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  هذا كتاب سجل من علي بن إسمعيل وعمر بن أبي عمران المقاطعين على القرية بزماخير من قرى الـ<gap reason="illegible" precision="low" extent="3"/> الأسفل 
+ <lb n="3"/>  من كورة أخميم كتباه لموسى بن عيسى الأ<unclear reason="undefined" cert="high">هووريّ</unclear> إنّك سألتني وطلبت إلينا أن نسجّلك مجالتين 
+ <lb n="4"/>  إحداهما مجالة على نفر أبو بقطر الكبير والمجالة الأخرى على نفر يعرف بحـ<gap reason="illegible" precision="low" extent="3"/> بن <unclear reason="undefined" cert="high">حوپلد</unclear> وهي 
+ <lb n="5"/>  المجا<unclear reason="undefined" cert="high">لتين</unclear> <unclear reason="undefined" cert="high">بلا</unclear> <unclear reason="undefined" cert="high">سقيتين</unclear> بور و<unclear reason="undefined" cert="high">مستوط</unclear> وحلافي ورأس أرض طين سودا بستّة عشر دينرا مثاقيل 
+ <lb n="6"/>  طري نقد بيت المال ووزنه وكسورة مقاطعة بلا مساحة لخراج سنة أربع وسبعين ومائتين المنسوب 
+ <lb n="7"/>  إلى سنة خمس وسبعين ومائتين فأجبت لك إلى ذلك فازرع على بركة اللّه وحسن عونه ولك الوفا بذلك 
+ <lb n="8"/>  وكتب في شهر ربيع الأوّل سنة خمس وسبعين ومائتين شهد عن ذلك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitābu siǧill:in min ʿaliyyi bni ʾismāʿīla wa ʿumari bni ʾabī ʿimrāna ăl muqāṭaʿayni ʿalà ăl qaryaẗi bi zamāḫīra min qurà ăl *** ăl ʾasfali 
+ <lb n="3"/>min kūraẗi ʾaḫmīma katabā hu li mūsà bni ʿīsà ăl ʾhwwriyyi ʾinna ka saʾalta nī wa ṭalabta ʾilay nā ʾan nusaǧǧila ka maǧālatayni 
+ <lb n="4"/>ʾiḥdā humā maǧālaẗ:un ʿalà nafari ʾabū buqṭura ăl kabīri wa ăl maǧālaẗu ăl ʾuḫrà ʿalà nafar:in yuʿrafu bi ḥ*** bni ḥwBld wa hiya 
+ <lb n="5"/>ăl maǧālatayni bi lā sāqiyatayni būr:un wa mustawṭaʾ:un wa ḥalāfī wa raʾsu ʾarḍi ṭīn:in sawdāʾa bi sittaẗa ʿašara dīnār:an maṯāqīla 
+ <lb n="6"/>ṭariyy:in naqdi bayti ăl māli wa wazni hi wa kusūraẗu muqāṭaʿaẗ:in bi lā misāḥaẗ:in li ḫarāǧi sanaẗi ʾarbaʿ:in wa sabʿīna wa miʾatayni ăl mansūbi 
+ <lb n="7"/>ʾilà sanaẗi ḫams:in wa sabʿīna wa miʾatayni fa ʾaǧabtu la ka ʾilà ḏālika fa ĭzraʿ ʿalà barakaẗi ăl lāhi wa ḥusni ʿawni hi wa la ka ăl wafāʾu bi ḏālika 
+ <lb n="8"/>wa kutiba fī šahri rabīʿa ăl ʾawwali sanaẗa ḫams:in wa sabʿīna wa miʾatayni šuhida ʿan ḏālika 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the Beneficient the Merciful.
+		 <lb n="2"/>
+ 	  This registration writing is from ʿAlī ibn Abī Ismaʿil and ʿUmar ibn Abī ʿUmrān the two muqaṭaʿ of the village known asn Zamākhīr, one of the villages of the (lower) section
+		 <lb n="3"/>
+ 	  of the district of Ikhmīm. The two wrote it for Mūsā ibn ʿIsā the (  ). Verily you asked us and requested that we register two fields for you.
+		 <lb n="4"/>
+ 	  One of the two is the field belonging to the person Abū Baqṭar the Big. The other field belongs to the person known as (  ibn  ). And they are
+		 <lb n="5"/>
+ 	  the two fiel(ds without water wheels) fallow and (low lying, and esparto grasses and the side) of the land of black soil for 16 dinars, weight
+		 <lb n="6"/>
+ 	  of the new standard of the Treasury and its weight. And the sloping land of the muqaṭaʿ is without survey for the tax for the year 274 ascribed
+		 <lb n="7"/>
+ 	  to the year 275. And I grant that to you. So sow with the blessing of God and the goodness of His aid. And you are res[pon]sible for that.
+		 <lb n="8"/>
+ 	  And this was written in the month of rabīʿ the first in the year 275. Witness was given to that.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2622" xml:id="Grohmann_Mird_55" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Mird 55</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_55</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">الكتـ</supplied>ـاب إلينا الهـ<gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>ـپه ولا فی 
+ <lb n="3"/>  <supplied reason="lost" cert="high">رضی</supplied> اللّه عنه 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied><unclear reason="undefined" cert="high">ـهـ</unclear>ـل 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl kitābu ʾilay nā ăl h* 
+ <lb n="2"/>***Bh wa lā fī 
+ <lb n="3"/>raḍiya ăl lāhu ʿan hu 
+ <lb n="4"/>*** ʾahl 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [the lett]er to us ...
+		 <lb n="2"/>
+ 	  [...] ... and not in
+		 <lb n="3"/>
+ 	  [may] God be [well pleased] with him
+		 <lb n="4"/>
+ 	  [...] people (?)
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

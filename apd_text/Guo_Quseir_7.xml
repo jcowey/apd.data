@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="823" xml:id="Guo_Quseir_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments I 1 (= P.QuseirArab. I 07)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113604</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <app type="BL"><lem resp="APD">المضيّـ<supplied reason="lost" cert="high">ـعـ</supplied>ـي </lem><rdg resp="APD">المطيعيّ </rdg><rdg resp="APD">المضيّئى</rdg></app> 
+<lb n="recto 2"/>  إبراهيم 
+<lb n="recto 3"/>  الخادم 
+<lb n="recto 4 left"/>  ابن نصر اللّه 
+<lb n="recto 4 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 5"/>  يقبّل الأرض بين يدي المولا الوال <sic n="superfluous">الميفق</sic><supplied reason="omitted" cert="high">الموفّق</supplied> الشّيخ 
+<lb n="recto 6"/>  الأجل أبو مفرّج أدام اللّه سعوده وأباد 
+<lb n="recto 7"/>  حسوده وينهي إليه أنّني وصلت إلى قوص مع 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  إلى القصير يسلّم للشّيخ أبو مفرّج صاحب الشّونة <app type="BL"><lem resp="APD">دا<supplied reason="lost" cert="high">م</supplied> </lem><rdg resp="Guo, P.QuseirArab. 7">دامت</rdg></app> 
+<lb n="verso 2"/>  سعادته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl muḍayyaʿiyyu muṭīʿiyyu muḍayyaʾiyyu 
+ <lb n="2"/>ʾibrāhīmu 
+ <lb n="3"/>ăl ḫādimu 
+ <lb n="4"/>ĭbnu naṣri ăl lāhi 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>yuqabbilu ăl ʾarḍi bayna yadayi ăl mawlā ăl wālidi ăl muwaffaqi ăš šayḫi 
+ <lb n="7"/>ăl ʾaǧalli ʾabū mufarriǧ:in ʾadāma ăl lāhu suʿūda hu wa ʾabāda 
+ <lb n="8"/>ḥasūda hu wa yunhī ʾilay hi ʾanna nī waṣaltu ʾilà qūṣa maʿa 
+ <lb n="9"/>*** 
+ <lb n="10"/>ʾilà ăl quṣayri yusallam li š šayḫi ʾabū mufarriǧ:in ṣāḥibi ăš šūnaẗi dāma dāmat 
+ <lb n="11"/>saʿādatu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The enlightened (?)
+		The humbly lost
+		The obedient
+			<lb n="2"/>
+		servant Ibrāhīm
+			<lb n="4"/>
+		ibn Naṣr Allāh
+			<lb n="5"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="6"/>
+		kisses the ground in front of the master, the father, the successful,
+			<lb n="7"/>
+		and the most exalted Shaykh Abū Mufarrij - may God prolong his fortune and crush
+			<lb n="8"/>
+		his envious [enemies] - and reports: I have arrived at Qūṣ with [...].
+		his envious [enemies] - and reports that I have arrived at Qūṣ with (...)
+			<lb n="10"/>
+		to al-Quṣayr, to be delivered to Shaykh Abu Mufarrij, the owner of the warehouse. May
+		To Quseir, to be delivered to Shaykh Abū Mufarrij, the owner of the warehouse. May
+			<lb n="11"/>
+		his happiness last forever.
+</ab></div>
+</body>
+</text>
+</TEI>

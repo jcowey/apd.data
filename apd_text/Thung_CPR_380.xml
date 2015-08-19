@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2340" xml:id="Thung_CPR_380" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 38</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_380</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  قد وصل إلي من قبل هميسه جميع ما لي 
+<lb n="3"/>  عنده من القرط وغير<supplied reason="lost" cert="high">ه</supplied> ولم 
+<lb n="4"/>  يبقا لي عليه إلى أحد وعشرين من مسرى 
+<lb n="5"/>  قليل ولا كثير ولا دينار ولا درهم 
+<lb n="6"/>  وكتب إسرائل بخطّه وكفا 
+<lb n="7"/>  باللّه شهيدا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qad waṣala ʾilay ya min qibali humīsaha ǧamīʿu mā l ī 
+ <lb n="3"/>ʿinda hu mina ăl qurṭi wa ġayri hi wa lam 
+ <lb n="4"/>yabqā l ī ʿalay hi ʾilà ʾaḥad:in wa ʿišrīna min misrà 
+ <lb n="5"/>qalīl:un wa lā kaṯīr:un wa lā dīnār:un wa lā dirham:un 
+ <lb n="6"/>wa kataba ʾisrāʾilu bi ḫaṭṭi hi wa kafā 
+ <lb n="7"/>bi ăl lāhi šahīd:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Bei mir ist von seiten des Humīsah all das, was ihm zu meinen Gunsten
+			<lb n="3"/>
+		an Luzerne und sonstigem obliegt, angelangt.
+			<lb n="4"/>
+		Es bleibt ihm bis zum einundzwanzigsten Misrā nichts zu seinen Lasten übrig,
+			<lb n="5"/>
+		weder wenig noch viel, weder Dinar noch Dirham.
+			<lb n="6"/>
+		Es hat Isrāʾīl mit seinem Schriftzug geschrieben.
+			<lb n="7"/>
+		Gott ist als Zeuge genug.
+</ab></div>
+</body>
+</text>
+</TEI>

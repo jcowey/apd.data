@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2474" xml:id="Diem_Steuerquittungen_220" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 22</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_220</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  يوم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <supplied reason="lost" cert="high">نجـ</supplied>ـم <supplied reason="lost" cert="high">مسـ</supplied>ـرى دينـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="3 left"/>  ÷ 
+<lb n="3 right"/>  <app type="BL"><lem resp="APD">راضي </lem><rdg resp="APD">راضيّ</rdg></app> 
+<lb n="4"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="5"/>  أدّى إبرهيم بن <app type="BL"><lem resp="APD">معسرية </lem><rdg resp="APD">معشرية</rdg></app> عـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">خراج</supplied> <supplied reason="lost" cert="high">ما</supplied> 
+<lb n="6"/>  بزر لشريك فيه راضي عـ<supplied reason="lost" cert="high">ـشرة</supplied> <supplied reason="lost" cert="high">دنانير</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـإ<supplied reason="lost" cert="high">بـ</supplied>ـشادة 
+<lb n="7"/>  لخراج سنة ثمان وخمسين وثلثما<supplied reason="lost" cert="high">ئة</supplied> 
+<lb n="8-9 left"/>  دينـ<supplied reason="lost" cert="high">ـر</supplied> ÷ 
+<lb n="9 right"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ر</supplied>اضي </lem><rdg resp="APD">راضيّ</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawmu *** 
+ <lb n="2"/>naǧmu misrà dīnār:un 
+ <lb n="3"/>10 
+ <lb n="4"/>rāḍī rāḍiyy:un 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>ʾaddà ʾibrāhīmu bnu mʿsriyaẗa mʿšriyaẗa ʿan ḫarāǧi mā 
+ <lb n="7"/>bazara li šarīk:in fī hi rāḍī ʿašaraẗa danānīra bi ʾibšādaẗa 
+ <lb n="8"/>li ḫarāǧi sanaẗi ṯamān:in wa ḫamsīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="9"/>dīnār:un 10 
+ <lb n="10"/>rāḍī rāḍiyy:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Tag [...]
+			<lb n="2"/>
+		[Ra]te des [Meso]ri _ Dina[r]
+			<lb n="3"/>
+		10
+			<lb n="4"/>
+		Zufriedenstellend
+			<lb n="5"/>
+		Im Namen Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="6"/>
+		Es zahlte Ibrāhīm ibn Mʿsrīyah fü[r die Grundsteuer dessen, was]
+			<lb n="7"/>
+		für die Steuer des Jahres dreihund[ert]achtundfünfzig.
+			<lb n="8"/>
+		er /[in] I[b]šādah\ säte für einen Teilhaber daran zufriedenstellend(e) z[ehn Dinar]
+			<lb n="9"/>
+		Dina[r] 10
+			<lb n="10"/>
+		[Zu]friedenstellend
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2344" xml:id="Thung_CPR_400" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 40</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_400</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  دفع إلي القسم بن الصّبّاغ البزّاز 
+<lb n="3"/>  من أجرة الدّكّان الّذي في يده 
+<lb n="4"/>  لسنة تسع وعشرين وثلثمائة 
+<lb n="5"/>  دينار واحد وثلثين 
+<lb n="6"/>  حسبي ثقتي باللّه 
+<lb n="7"/>  صح ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>dafaʿa ʾilay ya ăl qāsimu bnu ăṣ ṣabbāġi ăl bazzāzu 
+ <lb n="3"/>min ʾuǧraẗi ăd dukkāni ăllaḏī fī yadi hi 
+ <lb n="4"/>li sanaẗi tisʿ:in wa ʿišrīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="5"/>dīnār wāḥid wa ṯalāṯīna 
+ <lb n="6"/>ḥasb ī ṯiqat ī bi ăl lāhi 
+ <lb n="7"/>ṣaḥḥa ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Es hat mir al-Qāsim b. aṣ-Ṣabbāġ, der Stoffhändler,
+			<lb n="3"/>
+		als Miete für den Laden, der in seiner Hand ist,
+			<lb n="4"/>
+		für das Jahr dreihundertneunundzwanzig
+			<lb n="5"/>
+		einzweidrittel Dinar bezahlt.
+			<lb n="6"/>
+		Mir genügt mein Vertrauen in Gott.
+			<lb n="7"/>
+		Dies ist richtig.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="643" xml:id="Grohmann_Zaubertexte_155" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Bad. V 155 (= P.Blockprints p. 134-136)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Zaubertexte_155</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">105695</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="2"/>  <app type="BL"><lem resp="APD">قل </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">هو </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">اللّه </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">أحد </lem><rdg resp="Schaefer">ـ<gap reason="illegible" extent="2" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" />ك</rdg></app> <app type="BL"><lem resp="APD">اللّه </lem><rdg resp="Schaefer">بأسماء</rdg></app> <app type="BL"><lem resp="APD">الصّمد </lem><rdg resp="Schaefer">الحسنى</rdg></app> <app type="BL"><lem resp="APD">مـ<unclear reason="undefined" cert="high">ـد</unclear><gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  يااللّه يارحمن يارحيم ياحمـ<supplied reason="lost" cert="high">ـيد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <app type="BL"><lem resp="APD">ياكبير </lem><rdg resp="Schaefer">ياضارّ</rdg></app> ياحي ياقيّوم <app type="BL"><lem resp="APD">ياصـ<supplied reason="lost" cert="high">ـبور</supplied> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/>يا</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  <app type="BL"><lem resp="APD">ياظاهر </lem><rdg resp="Schaefer">يامتكبّر</rdg></app> ياأوّل ياآخر <app type="BL"><lem resp="APD">ياطا<supplied reason="lost" cert="high">لب</supplied> </lem><rdg resp="Schaefer">ياظاهر</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  ياباطن ياقادر ياقاهر <app type="BL"><lem resp="APD">ياعلـ<supplied reason="lost" cert="high">ـىّ</supplied> </lem><rdg resp="Schaefer">ياعدل</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <app type="BL"><lem resp="APD">ياقابض </lem><rdg resp="Schaefer">ياناصر</rdg></app> ياجليل ياخبير <app type="BL"><lem resp="APD">ياضـ<supplied reason="lost" cert="high">ـارّ</supplied> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/>يا</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  ياوكيل ياعظيم <app type="BL"><lem resp="APD">ياعليم </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/>يا</rdg></app> ياحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  ياكريم ياتوّاب <app type="BL"><lem resp="APD">يا<unclear reason="undefined" cert="high">اڤاپ</unclear> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> ياڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  يابديع <app type="BL"><lem resp="APD">پا<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Schaefer">ياسميع</rdg></app> يارفيع <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  <app type="BL"><lem resp="APD">يابصير </lem><rdg resp="Schaefer">ياجبّار</rdg></app> <app type="BL"><lem resp="APD">پا<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Schaefer">ياقدير</rdg></app> يامجيد <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  <app type="BL"><lem resp="APD">ياخفي </lem><rdg resp="Schaefer">ياصمد</rdg></app> <app type="BL"><lem resp="APD">پا<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Schaefer">يامغني</rdg></app> ياهادي <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="13"/>  <app type="BL"><lem resp="APD">يا </lem><rdg resp="Schaefer">يافاضل</rdg></app> محصي ياحق پاعد<supplied reason="lost" cert="high">ل</supplied> 
+ <lb n="14"/>  يامجيب <app type="BL"><lem resp="APD">ياجبّار </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">يالـ<supplied reason="lost" cert="high">ـطيف</supplied> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="15"/>  <app type="BL"><lem resp="APD">ياكـ<supplied reason="lost" cert="high">ـا</supplied>في </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">پاحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">ياماجـ<supplied reason="lost" cert="high">ـد</supplied> </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="16"/>  <app type="BL"><lem resp="APD">ياأحد </lem><rdg resp="Schaefer"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <supplied reason="lost" cert="high">پا</supplied><gap reason="illegible" precision="low" extent="3"/> پا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="17"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qul *** huwa *** ăl *** lāhu ʾaḥad:un **k ăl ʾasmāʾi bi lāhu ăṣ ṣamadu ḥusnà md* *** *** 
+ <lb n="3"/>yā ăl lāhu yā raḥmānu yā raḥīmu yā ḥamīdu *** 
+ <lb n="4"/>yā kabīru ḍārru yā ḥayyu yā qayyūmu yā ṣabūru ‫*** *** 
+ <lb n="5"/>yā ẓāhiru mutakabbiru yā ʾawwalu yā ʾāḫiru yā ṭālibu ẓāhiru *** 
+ <lb n="6"/>yā bāṭinu yā qādiru yā qāhiru yā ʿaliyyu ʿadlu *** 
+ <lb n="7"/>yā qābiḍu nāṣiru yā ǧalīlu yā ḫabīru yā ḍārru *** *** 
+ <lb n="8"/>yā wakīlu yā ʿaẓīmu yā ʿalīmu *** yā ḥ*** *** 
+ <lb n="9"/>yā karīmu yā tawwābu yā *** ʾFʾB yā F*** *** 
+ <lb n="10"/>yā badīʿu yā **** samīʿu yā rafīʿu *** 
+ <lb n="11"/>yā baṣīru ǧabbāru yā **** qadīru yā maǧīdu *** 
+ <lb n="12"/>yā ḫafiyyu ṣamadu yā **** muġnī yā hādī *** 
+ <lb n="13"/>yā muḥṣī fāḍilu yā ḥaqqu yā ʿadlu *** 
+ <lb n="14"/>yā muǧību yā *** ǧabbāru yā *** laṭīfu *** 
+ <lb n="15"/>yā *** kāfī yā *** ḥ*** yā *** māǧidu *** 
+ <lb n="16"/>yā *** ʾaḥadu yā *** yā *** *** 
+ <lb n="17"/>***** *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen, Gütig[en!
+ 	  In the name of Allah, Most Gracious, Most Merci[ful]
+		 <lb n="2"/>
+ 	  Sprich: Er ist ein Gott, Gott der Ewige ... [
+ 	  [...] ... you by your Beautiful (?) Names [...]
+		 <lb n="3"/>
+ 	  o Gott, o Barmherziger, o Gütiger, o höchst Lobenswürdig[er,
+ 	  Oh Allah Oh Compassionate Oh Merciful Oh Praiseworthy
+		 <lb n="4"/>
+ 	  o Großer, o Ewiglebender, o durch sich selbst bestehender, o Langmütig[er,
+ 	  ... Oh Powerful Oh Self-Subsisting Oh (?)
+		 <lb n="5"/>
+ 	  Oh Majestic Oh First (One) Oh Last (One) [...]
+ 	  o klar Erkennbarer, o Erster, o Letzter, o Forde[rnder
+		 <lb n="6"/>
+ 	  Oh Hidden Oh Powerful Oh Victorious [...]
+ 	  o Verborgener, o Bestimmer, o Überwinder, o Höchs[ter
+		 <lb n="7"/>
+ 	  Oh Protector Oh Majestic Oh Gracious Oh (?)
+ 	  o Zurücknehmer (der Seelen), o Ehrfurcht einflößender, o Allwissender, o Schä[diger
+		 <lb n="8"/>
+ 	  Oh Advocate Oh Mighty Oh [...] [...]
+ 	  o Sachwalter, o Allerhöchster, o Allwissender, o ..[
+		 <lb n="9"/>
+ 	  o Edelmütiger, o Vielverzeihender, o ....., o ..... [
+ 	  Oh Bountiful Oh Relenting One [...] [...]
+		 <lb n="10"/>
+ 	  Oh Marvelous Oh All-Hearing (?) Oh Exalter [...]
+ 	  o Urheber (der Schöpfung), o ....., o Erbarmer (Erhabener) [
+		 <lb n="11"/>
+ 	  o alles Sehender, o ....., o Großmütiger (Glorreichster) [
+ 	  Oh Almighty Oh Powerful (?) Oh Glorious [...]
+		 <lb n="12"/>
+ 	  Oh Indepedent (?) Oh Enricher (?) Oh Guide [...]
+ 	  o Unsichtbarer, o ....., o Rechtleiter [
+		 <lb n="13"/>
+ 	  Oh Excellent One Oh Truth Oh Just One [...]
+ 	  o im Wissen Allumfassender, o wirklich Seiender, o Gerechter [
+		 <lb n="14"/>
+ 	  o Erhörender, o Höchster (Allbezwinger), o Milder [
+ 	  Oh Responsive (?) [...]
+		 <lb n="15"/>
+ 	  o Genügender, o ....., o Glorreicher [
+		 <lb n="16"/>
+ 	  o Einzi[ger], o ... [
+		 <lb n="17"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

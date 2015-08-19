@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1919" xml:id="Grohmann_APEL_390" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 390</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_390</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169656</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <app type="BL"><lem resp="APD">إن </lem><rdg resp="APD">إن</rdg></app> سلّم وبلغ برحمتك لڤلڤى 
+<lb n="3"/>  بن أسد وأبوكم رزمة عددها 
+<lb n="4"/>  خمسة عشر ثوب مرتفعة 
+<lb n="5"/>  الثّمن ستّة عشر دينار منها 
+<lb n="6"/>  ثلث عشر تم اللّه خير حفظا 
+<lb n="7"/>  وهو الرّحمن الرّحيم لا حول ولا قوّة 
+<lb n="8"/>  إلّا باللّه الولي العظيم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾin ʾinna sullima wa balaġa bi raḥmati ka li FlFy 
+ <lb n="3"/>bni ʾasad:in wa ʾabū kum rizmaẗ:an ʿadadu hā 
+ <lb n="4"/>ḫamsaẗa ʿašara ṯawb murtafiʿaẗu 
+ <lb n="5"/>ăṯ ṯamani sittaẗa ʿašara dīnār min hā 
+ <lb n="6"/>ṯalāṯa ʿašara tamma ăl lāhu ḫayru ḥufaẓāʾa 
+ <lb n="7"/>wa huwa ăr raḥmānu ăr raḥīmu lā ḥawla wa lā quwwaẗa 
+ <lb n="8"/>ʾillā bi ăl lāhi ăl waliyyi ăl ʿaẓīmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Verily there has been delivered - and may it have arrived with your pardon - to ... ... ...
+			<lb n="3"/>
+		b. Asad and your father a bale (containing clothes) numbering
+			<lb n="4"/>
+		fifteen garments, amounting
+			<lb n="5"/>
+		in price to sixteen dînârs, of which
+			<lb n="6"/>
+		thirteen are complete. God is the best Preserver (of all things).
+			<lb n="7"/>
+		He is the Compassionate, the Merciful, there is no strength nor power
+			<lb n="8"/>
+		but by means of God, the High, the Great.
+</ab></div>
+</body>
+</text>
+</TEI>

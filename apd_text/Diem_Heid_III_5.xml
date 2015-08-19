@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2214" xml:id="Diem_Heid_III_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">الحا</supplied>كم بأمر اللّه سلام اللّه عليه لا بلّغه من جميل 
+<lb n="2"/>  <supplied reason="lost" cert="high">السّتـ</supplied>ـر بالحضرة المطهّرة إلّى أبعد غاية وأتم نهاية 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـن أماله وفسح في مدّته ودرّكه أمثال هذه 
+<lb n="4"/>  <supplied reason="lost" cert="high">الأيّام</supplied> <supplied reason="lost" cert="high">المباركـ</supplied>ـة مقبول مسرور وحسبي اللّه ونعم الوكيل 
+<lb n="5"/>  <supplied reason="lost" cert="high">وصلّى</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">علی</supplied> <supplied reason="lost" cert="high">نبيّـ</supplied>ـه محمّد وآله الطّيّبين وسلّم تسليما 
+<lb n="lower left corner 1"/>  لمولاي أبي اليسر <gap reason="illegible" extent="1" unit="character" />ـاس<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" /> 
+<lb n="lower left corner 2"/>  بن السّماح <unclear reason="undefined" cert="high">أيّده</unclear> اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥākim bi ʾamri ăl lāhi salāmu ăl lāhi ʿalay hi lā ballaġa hu min ǧamīli 
+ <lb n="2"/>ăs sitri bi ăl ḥaḍraẗi ăl muṭahharaẗi ʾillà ʾabʿada ġāyaẗ:in wa ʾatamma nihāyaẗ:in 
+ <lb n="3"/>*** min ʾāmāli hi wa fasaḥa fī muddaẗi hi wa darraka hu ʾamṯāla hāḏihi 
+ <lb n="4"/>ăl ʾayyāmi ăl mubārakaẗi maqbūl masrūr wa ḥasb ī ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="5"/>wa ṣallà ăl lāhu ʿalà nabiyyi hi muḥammad:in wa ʾāli hi ăṭ ṭayyibīna wa sallama taslīm:an 
+ <lb n="6"/>li mawlā ya ʾabī ăl yusri BʾsBBB 
+ <lb n="7"/>bni ăs samāḥi ʾayyada hi ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[al-Ḥā]kim bi-ʾamr Allah - der Friede Gottes sei auf ihm - Er lasse ihn von dem schönen
+			<lb n="2"/>
+		[Schu]tz in der erlauchten Gegenwart nur das weiteste Ziel / und den vollständigsten Abschluß
+			<lb n="3"/>
+		[...] seiner Wünsche erreichen, gewähre ihm für seine Lebenszeit weiten Raum und lasse ihn (auch in Zukunft) solche
+			<lb n="4"/>
+		[gesegnet]e [Tage] beliebt und glücklich erleben! Mein Genüge ist Gott; er ist der beste Sachwalter!
+			<lb n="5"/>
+		[Gott segne seinen Prophet]en Muḥammad und dessen treffliche Sippe und spende (ihnen) Heil!
+			<lb n="6"/>
+		An meinen Patron Abū l-Yusr (?) ...
+			<lb n="7"/>
+		ibn as-Samāḥ (?) - Gott stütze ihn!
+</ab></div>
+</body>
+</text>
+</TEI>

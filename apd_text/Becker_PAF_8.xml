@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="528" xml:id="Becker_PAF_8" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 08 (= P.Heid.Arab. I 07)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_8</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">19857</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> و<unclear reason="undefined" cert="high">القواد</unclear>س وا 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> قبـ<unclear reason="undefined" cert="high">ـل</unclear> عبد الأعلى بن أبي حكيم 
+<lb n="3"/>  <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">تسعين</supplied> <supplied reason="lost" cert="high">لجيش</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">إ</supplied>حدى وتسعين <app type="BL"><lem resp="APD">نبطيّين </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">پپطپپن</rdg></app> <app type="BL"><lem resp="APD">نو </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">پوا</rdg></app> 
+<lb n="4"/>  <supplied reason="lost" cert="high">پحپن</supplied> <supplied reason="lost" cert="high">وپحار</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">معثسه</supplied> پلپه اسهر ڤأن 
+<lb n="5"/>  <supplied reason="lost" cert="high">الأجر</supplied> <supplied reason="lost" cert="high">فأعطوا</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">أجر</supplied> <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">نو</supplied><unclear reason="undefined" cert="high">بـ</unclear>ـج دينرين وفي <app type="BL"><lem resp="“Becker, PAF 8; earlier Becker, P.Heid.Arab. I 7”">آخر </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">آخر </rdg><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">أمر</rdg></app> كل <app type="BL"><lem resp="APD">رجـ<supplied reason="lost" cert="high">ـل</supplied> </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">رجب</rdg></app> 
+<lb n="6"/>  <gap reason="illegible" extent="5" unit="character" /> <supplied reason="lost" cert="high">دينر</supplied> <unclear reason="undefined" cert="high">ونصف</unclear> <unclear reason="undefined" cert="high">وفي</unclear> أجر <app type="BL"><lem resp="APD">نبطي </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">پپطن</rdg></app> <app type="BL"><lem resp="APD">نجّار </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">پحاد</rdg></app> دينر وثلث في 
+<lb n="7"/>  <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">مر</supplied>ثد في ذي الحجّة <app type="BL"><lem resp="APD">تما </lem><rdg resp="“earlier Becker, P.Heid.Arab. I 7”">بها</rdg></app> 
+<lb n="8"/>  سنة تسعين 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** *** wa ăl qawādis wa ʾ 
+ <lb n="2"/>*** qibala ʿabdi ăl ʾaʿlà bni ʾabī ḥakīm:in 
+ <lb n="3"/>sanaẗa tisʿīna li ǧayši sanaẗi ʾiḥdà wa tisʿīna BBṭBBn nabaṭiyyayni nawbaǧayni Bwʾ 
+ <lb n="4"/>wa naǧǧār:an wa ***** maʿīšaẗ ṯalāṯaẗi ʾašhur:in fa ʾin ʾaʿṭaytumu 
+ <lb n="5"/>ăl ʾaǧra fa ʾaʿṭū fī ʾaǧri kulli nawbaǧ:in dīnārayni wa fī ʾāḫiri ʾaǧri ʾamri kulli raǧul:in raǧab:in 
+ <lb n="6"/>***** dīnār wa niṣf wa fī ʾaǧri nabaṭiyy:in BBṭn naǧǧār:in Bḥʾd dīnār wa ṯulṯ fī 
+ <lb n="7"/>kulli šahr:in wa kataba murṯid:un fī ḏī ăl ḥiǧǧaẗi tamāma bi ø hā 
+ <lb n="8"/>sanaẗi tisʿīna 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Liefert zur Instandsetzung der Schiffe] 
+			<lb n="2"/>
+		zu Händen des ʿAbd el-Aʿlā b. Abī Ḥakīm 
+			<lb n="3"/>
+		[im Jahre 90 für das Heer des Jahres] einundneunzig zwei eingeborene 
+		-- Jahr] einundneunzig -----?
+			<lb n="4"/>
+		---d]rei Monate und wenn Ihr gebt, 
+		[Schiffszimmerleute und einen Schreiner und einen Kalfater mitsamt ihrem Unterhalt für] drei Monate; und wenn ihr [Lohn] gebt, 
+			<lb n="5"/>
+		[so gebt für den Lohn jedes Schiffszimmer]manns zwei Dīnār und für den Lohn jedes 
+		----]- zwei Dīnār und am Ende jedes - [ 
+			<lb n="6"/>
+		----]---- ein Dīnār und ein Drittel in 
+		[Kalfaters anderthalb D.] und für den Lohn jedes eingeborenen Schreiners ein und ein Drittel D. 
+			<lb n="7"/>
+		----]- im Dū-l-ḥiǵǵe in ihm (dem Jahr)
+		monatlich. Es hat dies geschrieben Murṯid im Ḏū-l-ḥiǵǵe Ende des 
+			<lb n="8"/>
+		Jahres neunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

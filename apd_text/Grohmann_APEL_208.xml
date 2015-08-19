@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1689" xml:id="Grohmann_APEL_208" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 208</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_208</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169439</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بقطر <expan><abbr><sic n="superfluous">داعن</sic></abbr><ex>دفع</ex> <ex>عن</ex></expan> نفسـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮أيّوب بن پحشل <gap reason="illegible" extent="1" unit="character" /> ‪<unclear reason="undefined" cert="high">ζ</unclear>‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮شبيب الأعرج ‪β<unclear reason="undefined" cert="high">ιʹβʹ</unclear>‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮كيل <expan><abbr><sic n="superfluous">داعن</sic></abbr><ex>دفع</ex> <ex>عن</ex></expan> نفسه ‪γχ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮إسلده <expan><abbr><sic n="superfluous">داعن</sic></abbr><ex>دفع</ex> <ex>عن</ex></expan> نفسه ‪<unclear reason="undefined" cert="high">γ</unclear>χ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  قرا الأرملة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <supplied reason="lost" cert="high">مر</supplied>قوره <expan><abbr><sic n="superfluous">داعن</sic></abbr><ex>دفع</ex> <ex>عن</ex></expan> نفسـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>buqṭuru dafaʿa ʿan nafsi hi *** 
+ <lb n="2"/>ʾayyūbu bnu Bḥšla * ‪‪7 *** 
+ <lb n="3"/>šabību ăl ʾaʿraǧu ‪2 1/12 *** 
+ <lb n="4"/>kaylu dafaʿa ʿan nafsi hi ‪3 2/3 *** 
+ <lb n="5"/>ʾisladah dafaʿa ʿan nafsi hi ‪3 2/3 *** 
+ <lb n="6"/>qirā ăl ʾarmalaẗu *** 
+ <lb n="7"/>marqūrahu dafaʿa ʿan nafsi hi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Boqṭor has paid for [him]self [
+			<lb n="2"/>
+		Job b. ...... [.] 7 [
+			<lb n="3"/>
+		Šabîb, the lame 2 1/12 [
+			<lb n="4"/>
+		Chael has paid for himself 3 2/3 [
+			<lb n="5"/>
+		Eslade has paid for himself 3 2/3 [
+			<lb n="6"/>
+		Qerâ, the widow . [
+			<lb n="7"/>
+		[Mer]qûre has paid for [him]self [
+</ab></div>
+</body>
+</text>
+</TEI>

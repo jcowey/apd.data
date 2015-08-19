@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="894" xml:id="Guo_Quseir_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 31 recto</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113656</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <expan><abbr><sic n="superfluous">لى</sic></abbr><ex>پسم</ex> <ex>الله</ex> <ex>الرحمن</ex> <ex>الرّحپم</ex></expan> 
+<lb n="2"/>  يتسلّم الشّيخ محمّد بن جعفر وفّقه اللّه تعالى 
+<lb n="3"/>  من <app type="BL"><lem resp="APD">سنقر </lem><rdg resp="“AK”">سقر</rdg></app> بن <sic n="superfluous">عباش</sic><supplied reason="omitted" cert="high">عيّاش</supplied> <app type="BL"><lem resp="final nūn with dot above">بن </lem><rdg resp="AK">من</rdg></app> <app type="BL"><lem resp="APD">العساوري </lem><rdg resp="AK">العشاريّة</rdg></app> 
+<lb n="4"/>  ثمانية أرادب وويبة قمح طيّب <app type="BL"><lem resp="APD">وبرنيّة </lem><rdg resp="“AK”">ومرينة</rdg></app> زيت 
+<lb n="5"/>  وهي لـ<supplied reason="omitted" cert="high">ـأ</supplied>بو الكرم بن نصر <app type="BL"><lem resp="APD">بالسّلام </lem><rdg resp="AK">والسّلم</rdg></app> 
+<lb n="6"/>  وصحبت عبد اللّه بن أحمد <app type="BL"><lem resp="APD">العساو<supplied reason="omitted" cert="high">ر</supplied>ي </lem><rdg resp="APD">العساويّ </rdg><rdg resp="AK">العشاريّ</rdg></app> 
+<lb n="7"/>  ستّة أرادب وويبة <app type="BL"><lem resp="APD">وبرنيّة </lem><rdg resp="“AK”">ومرينة</rdg></app> زيت 
+<lb n="8"/>  <app type="BL"><lem resp="APD">والعشرة </lem><rdg resp="AK">والعبرة</rdg></app> أربعين والكرا ستّة أمداد والقمح 
+<lb n="9"/>  طيّب <app type="BL"><lem resp="APD">بالسّلام </lem><rdg resp="AK">والسّلم</rdg></app> وهي من غلّة أبو الكرم 
+<lb n="10"/>  بن نصر <app type="BL"><lem resp="APD">بالسّلام </lem><rdg resp="AK">والسّلم</rdg></app> وحضر حسين بن <app type="BL"><lem resp="APD">زكريّـ<supplied reason="omitted" cert="high">ـا</supplied> </lem><rdg resp="“AK”">زكري</rdg></app> 
+<lb n="11"/>  وهو يسلّم عليك وعلى الرّشيد هرون 
+<lb n="12"/>  وعلى خلف وعلى عمر بن أبو الحسن 
+<lb n="13"/>  وعلي الشّيخ يوسف بن قاسم وتعرفه أنّي 
+<lb n="14"/>  قد سيّرت له <app type="BL"><lem resp="APD">جملة </lem><rdg resp="AK">جملة</rdg></app> غلّتي اتنين وثلاثين 
+<lb n="15"/>  إردب وويبة <app type="BL"><lem resp="APD"><sic n="superfluous">والرجاپه</sic><supplied reason="omitted" cert="high">والمرجانة</supplied> </lem><rdg resp="AK">والزكائب</rdg></app> <app type="BL"><lem resp="APD">والمراي </lem><rdg resp="AK">والمراني</rdg></app> 
+<lb n="16"/>  والسّلام عليك ورحمة اللّه <app type="BL"><lem resp="APD">وحده </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">وبركاته</rdg></app> 
+<lb n="17"/>  والكرا ستّة أمداد <app type="BL"><lem resp="APD">والعشرة </lem><rdg resp="AK">والعبرة</rdg></app> أربعين 
+<lb n="right margin"/>  وإن كان السّعر جيّد فبيع عند كيلات لا كلّـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yatasallami ăš šayḫu muḥammadu bnu ǧaʿfara waffaqa hu ăl lāhu taʿālà 
+ <lb n="3"/>min sunqura saqri bni ʿayyāša bni mina ăl ʿasāwiriyyi ʿušāriyyaẗi 
+ <lb n="4"/>ṯamāniyaẗa ʾarādiba wa waybaẗa qamḥ:in ṭayyib:in wa barniyyaẗa marīnaẗa zayt:in 
+ <lb n="5"/>wa hiya li ʾabū ăl karami bni naṣr:in bi wa ăs salāmi salāmu 
+ <lb n="6"/>wa ṣuḥbata ʿabdi ăl lāhi bni ʾaḥmada ăl ʿasāwiriyyi ʿasāwiyyi ʿušāriyyi 
+ <lb n="7"/>sittaẗu ʾarādiba wa waybaẗ:un wa barniyyaẗu marīnaẗa zayt:in 
+ <lb n="8"/>wa ăl ʿušraẗu ʿibraẗu ʾarbaʿīna wa ăl kirāʾu sittaẗu ʾamdād:in wa ăl qamḥu 
+ <lb n="9"/>ṭayyib:un bi wa ăs salāmi salāmu wa hiya min ġallaẗi ʾabū ăl karami 
+ <lb n="10"/>bni naṣr:in bi wa ăs salāmi salāmu wa ḥaḍara ḥusaynu bnu zakariyyāʾa zikrī 
+ <lb n="11"/>wa huwa yusallimu ʿalay ka wa ʿalà ăr rašīdi harūna 
+ <lb n="12"/>wa ʿalà ḫalaf:in wa ʿalà ʿumara bni ʾabū ăl ḥasani 
+ <lb n="13"/>wa ʿalà ăš šayḫi yūsufa bni qāsim:in wa tuʿrif hu ʾan nī 
+ <lb n="14"/>qad sayyartu la hu ḥimlaẗa ǧumlaẗa ġallat ī ĭtnayni wa ṯalāṯīna 
+ <lb n="15"/>ʾirdabb wa waybaẗ:an wa ăl ăz marǧānaẗa zakāʾiba wa ăl marāya marāniya 
+ <lb n="16"/>wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi waḥda wa ø barakātu hu 
+ <lb n="17"/>wa ăl kirāʾu sittaẗu ʾamdād:in wa ăl ʿušraẗu ʿibraẗu ʾarbaʿīna 
+ <lb n="18"/>wa ʾin kāna ăs siʿru ǧayyid fa bīʿ ʿinda kaylāt:in lā kull *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		To be delivered to Shaykh Muḥammad ibn Jaʿfar - may God Almighty make him successful! - 
+			<lb n="3"/>
+		from Sunqur ibn ʿAyyāsh ibn al-ʿAsāwirī
+			<lb n="4"/>
+		are eight irdabbs and one wayba of pure wheat and one bottle of oil.
+			<lb n="5"/>
+		They are for Abū al-Karam ibn Naṣr bi-al-Salām.
+			<lb n="6"/>
+		To be accompanied by ʿAbd Allāh ibn Aḥmad al-ʿAsāwirī
+			<lb n="7"/>
+		[are actually] six irdabbs and one wayba [of wheat] and one bottle of oil.
+			<lb n="8"/>
+		The tithe tax is forty [mudds of wheat?] and the commission is six mudds. The wheat
+			<lb n="9"/>
+		is of high quality and in good condition. It is the provision for Abū al-Karam
+			<lb n="10"/>
+		ibn Naṣr bi-al-Salām. Ḥusayn ibn Zakarīyā is here
+			<lb n="11"/>
+		and sends his regards to you, as well as to al-Rashīd Hārūn,
+			<lb n="12"/>
+		Khalaf, ʿUmar ibn Abū al-Ḥasan,
+			<lb n="13"/>
+		and Shaykh Yūsuf ibn Qāsim. Please tell him that I
+			<lb n="14"/>
+		have dispatched to him a cargo of my ghalla dues [, which include] thirty-three
+			<lb n="15"/>
+		irdabbs and one wayba [of wheat] as well as corals and mirrors.
+			<lb n="16"/>
+		Peace be upon you. God&#039;s mercy alone is to be thanked.
+			<lb n="17"/>
+		The commission is six mudds and the tithe tax forty.
+			<lb n="18"/>
+		If the prices are right, you may sell [them] in small portions, but not [in bulk?......].
+</ab></div>
+</body>
+</text>
+</TEI>

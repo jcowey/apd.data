@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1854" xml:id="Grohmann_APEL_370" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 370</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_370</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169591</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮بلاطس هلس إردب ‮δ موي تجلّس إردب ‮α أبهوه مڤر<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮بطرس بمين إردب ‮α مرقورة رميل إردب ‮α القاضي الــ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮بليوس موحش ويبة ‮γ السّمّان ويبة ‮γ بمين اپـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮سلقانة دبمين إردب ‮α سون النّشّال إردب ‮β <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮هروج الكنّاس إردب ‮α وهول بسارة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> لا <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bilāṭusu halisa ʾirdabb 4 muwī tiǧallisa ʾirdabb 1 ʾabahawhu mFr* *** 
+ <lb n="2"/>buṭrusu bamīna ʾirdabb 1 marqūraẗu ramīla ʾirdabb 1 ăl qāḍī ăl *** *** 
+ <lb n="3"/>balīwisu mawḥiša waybaẗ:an 3 ăs sammānu waybaẗ:an 3 bamīnu ʾB*** *** 
+ <lb n="4"/>silqānaẗu dabamīna ʾirdabb 1 sūnu ăn naššālu ʾirdabb 2 *** 
+ <lb n="5"/>harūǧu ăl kannāsu ʾirdabb 1 wa hūlu bisāraẗa *** 
+ <lb n="6"/>*** lā *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Pilatos Helis artaba(s) 4 Mui Tigellis artaba 1 Apaheu M.........[
+			<lb n="2"/>
+		Butrus Pamin artaba 1 Merqûre Remîl artaba 1 the judge.........[
+			<lb n="3"/>
+		Palîvis ...
+		Pilatos Mauḥiš (?) waiba(s) 3 the retailer waiba(s) 3 Pamin ......[
+			<lb n="4"/>
+		Silqâna Dapamin artabe 1 Sôn, the robber (?), artaba(s) 2 [
+			<lb n="5"/>
+		Ḥarûǧ [sic], the sweeper, artaba 1, and Hôl Psâre[
+			<lb n="6"/>
+		[...]lâ[
+</ab></div>
+</body>
+</text>
+</TEI>

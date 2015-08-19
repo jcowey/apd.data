@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1515" xml:id="Khan_Khalili_I_25" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 25 (= P.Khalili II 56)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_25</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169286</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وعافاك وتمّم نعمه 
+<lb n="3"/>  عليك قد بعثت إليك 
+<lb n="4"/>  بثلثة أثواب الّتي كانت 
+<lb n="5"/>  عند <app type="BL"><lem resp="APD">الأ<supplied reason="lost" cert="high">نـ</supplied>ـصار </lem><rdg resp="Diem">القصّار</rdg></app> وقد كنت 
+<lb n="6"/>  فسّرت لك ما صار إليك 
+<lb n="7"/>  وجملة ذلك أحد وعشرين 
+<lb n="8"/>  دينرا وربع دينر في 
+<lb n="9"/>  بطاقة بعثت بها البارحة 
+<lb n="10"/>  إليك حفظك اللّه وعافاك 
+<lb n="11"/>  <supplied reason="lost" cert="high">و</supplied>تولّاك بالكلاية وحسّن 
+<lb n="12"/>  الدّفاع عنك وكتب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʿāfā ka wa tammama niʿama hu 
+ <lb n="3"/>ʿalay ka qad baʿaṯtu ʾilay ka 
+ <lb n="4"/>bi ṯalāṯaẗi ʾaṯwāb:in ăllatī kānat 
+ <lb n="5"/>ʿinda ăl ʾanṣāri qaṣṣāri wa qad kuntu 
+ <lb n="6"/>fassartu la ka mā ṣāra ʾilay ka 
+ <lb n="7"/>wa ǧumlaẗu ḏālika ʾaḥad:un wa ʿišrīna 
+ <lb n="8"/>dīnār:an wa rubʿu dīnār:in fī 
+ <lb n="9"/>biṭāqaẗ:in baʿaṯtu bi hā ăl bāriḥaẗa 
+ <lb n="10"/>ʾilay ka ḥafiẓa ka ăl lāhu wa ʿāfā ka 
+ <lb n="11"/>wa tawallā ka bi ăl kilāyaẗi wa ḥassana 
+ <lb n="12"/>ăd difāʿa ʿan ka wa kutiba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+			<lb n="2"/>
+		May God preserve you, grant you health and give you a full measure of his bounty.
+			<lb n="3"/>
+		Ich übersende Dir
+		I have sent to you
+			<lb n="4"/>
+		die drei Kleider, welche
+		three garments which
+			<lb n="5"/>
+		beim Bleicher gewesen waren.
+		the Christians had.
+			<lb n="6"/>
+		I have indicated to you what has accrued to you
+			<lb n="7"/>
+		- the total of this being 21 1/4 dīnārs -
+		- the total of this being twenty one
+			<lb n="8"/>
+		dīnārs and a quarter - in
+			<lb n="9"/>
+		a note which I sent you yesterday.
+			<lb n="10"/>
+		May God preserve you and give you health
+		May God preserve you, may He give you health
+			<lb n="11"/>
+		and grant you protection and a goodly
+		and may He grant you protection and a goodly
+			<lb n="12"/>
+		defence. It has been written.
+</ab></div>
+</body>
+</text>
+</TEI>

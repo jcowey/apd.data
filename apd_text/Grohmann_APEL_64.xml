@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1097" xml:id="Grohmann_APEL_64" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 064</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_64</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168963</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="“LR”">ثبّت </lem><rdg resp="“AK”">ثبت</rdg></app> عندي جميع ما نص وشرح فيه وكتب محمّد 
+<lb n="2"/>  بن عبيد اللّه بن حفص بخطّه في شهر رمضان سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">إحدى</supplied> 
+<lb n="3 left"/>  واربعين وأربع مائـ<supplied reason="lost" cert="high">پة</supplied> 
+<lb n="3 right"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحـ</supplied>ـمن الرّحيم وصلّى اللّه على سيّدنا محمّد رسوله وسلّمه بالسّلام 
+<lb n="4"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">اشترى</supplied> <supplied reason="lost" cert="high">قلته</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">كيل</supplied> <supplied reason="lost" cert="high">القـ</supplied>ـزّاز السّاكن مدينة الأشمونين الّتي من أرض صعيد مصر من والده كيل بن جـ<supplied reason="lost" cert="high">ـريج</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">القزّاز</supplied> <supplied reason="lost" cert="high">السّاكن</supplied> <supplied reason="lost" cert="high">بهذه</supplied> <supplied reason="lost" cert="high">المدينة</supplied> <supplied reason="lost" cert="high">المذكو</supplied>رة اشترى منه بـ<supplied reason="lost" cert="high">ـمـ</supplied>ـا<supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">لنفـ</supplied>ـسه الّذي أنعم اللّه عز وجل <app type="BL"><lem resp="APD">عليه </lem><rdg resp="“Dietrich”">به</rdg></app> حميع ما اعـ<supplied reason="lost" cert="high">ـلمه</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">أنّه</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">وبملكه</supplied> <supplied reason="lost" cert="high">وفي</supplied> <supplied reason="lost" cert="high">يده</supplied> <supplied reason="lost" cert="high">ملكا</supplied> <supplied reason="lost" cert="high">صحيحا</supplied> <supplied reason="lost" cert="high">وحقّا</supplied> <supplied reason="lost" cert="high">واجبا</supplied> <supplied reason="lost" cert="high">وهو</supplied> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">المنزل</supplied> <supplied reason="lost" cert="high">ا</supplied>لّذي بهذه المدينة المذكورة في الجا<supplied reason="lost" cert="high">نب</supplied> 
+<lb n="7"/>  <supplied reason="lost" cert="high">البحريّ</supplied> <supplied reason="lost" cert="high">منها</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">الكوم</supplied> <supplied reason="lost" cert="high">المطلّ</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">الكنيسيّة</supplied> <supplied reason="lost" cert="high">المعروفة</supplied> <supplied reason="lost" cert="high">بالبرتانـ</supplied>ـس ويحيط بهذا المنزل المبيّع بأسره و<supplied reason="lost" cert="high">كماله</supplied> 
+<lb n="8"/>  <supplied reason="lost" cert="high">ويجمعه</supplied> <supplied reason="lost" cert="high">ويشتمل</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">حدود</supplied> <supplied reason="lost" cert="high">أربعة</supplied> <supplied reason="lost" cert="high">فالحدّ</supplied> <supplied reason="lost" cert="high">القبليّ</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">الزّقاق</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـنّافذ من طرفيه إلي طرق شتّى وفيه يشـ<supplied reason="lost" cert="high">ـرع</supplied> 
+<lb n="9"/>  <supplied reason="lost" cert="high">بابه</supplied> <supplied reason="lost" cert="high">الأوّل</supplied> <supplied reason="lost" cert="high">كان</supplied> <supplied reason="lost" cert="high">الحدّ</supplied> <supplied reason="lost" cert="high">البحريّ</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">بئر</supplied> <supplied reason="lost" cert="high">تعرف</supplied> <supplied reason="lost" cert="high">با</supplied>لصّعيدي وإلى بو طوربن مقابر المُسلمين والحد 
+<lb n="10"/>  <supplied reason="lost" cert="high">الشّرقيّ</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">عرصة</supplied> <supplied reason="lost" cert="high">لبقطر</supplied> <supplied reason="lost" cert="high">البنّا</supplied> <supplied reason="lost" cert="high">وإلى</supplied> <supplied reason="lost" cert="high">دار</supplied> <supplied reason="lost" cert="high">منصـ</supplied>ـور الرّسول كان وإلى منزل يُعرف <sic n="superfluous">يسكبى</sic><supplied reason="omitted" cert="high">بسكنى</supplied> 
+<lb n="11"/>  <supplied reason="lost" cert="high">غطارف</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">مفلح</supplied> <supplied reason="lost" cert="high">كان</supplied> <supplied reason="lost" cert="high">والحدّ</supplied> <supplied reason="lost" cert="high">الغربيّ</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">ينتهي</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">منزل</supplied> <supplied reason="lost" cert="high">جـ</supplied>ـعفر بن سياع الإبشادي فاشترى منه جميع هذا 
+<lb n="12"/>  <supplied reason="lost" cert="high">المنزل</supplied> <supplied reason="lost" cert="high">المحدود</supplied> <supplied reason="lost" cert="high">الموصوف</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">بحـ</supplied>ـدّه وحدوده وأرضه وسمائه وبنائه وفنائه وكل قليل وكثير 
+<lb n="13"/>  <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">داخل</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">وكلّ</supplied> <supplied reason="lost" cert="high">قليل</supplied> <supplied reason="lost" cert="high">وكثير</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">خارج</supplied> <supplied reason="lost" cert="high">منه</supplied> <supplied reason="lost" cert="high">وما</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">معـ</supplied>ـروف له ومنسوب إليه ظاهره وباطنه وعامره وغامره 
+<lb n="14"/>  <supplied reason="lost" cert="high">صفقة</supplied> <supplied reason="lost" cert="high">واحدة</supplied> <supplied reason="lost" cert="high">بثمن</supplied> <supplied reason="lost" cert="high">مبلغه</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دنانير</supplied> <supplied reason="lost" cert="high">مسـ</supplied>ـتنصريّة وازنة جياد العيون شرى صحيحا وبيعا 
+<lb n="15"/>  <supplied reason="lost" cert="high">نافذا</supplied> <supplied reason="lost" cert="high">ماضيا</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">شرط</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">خيار</supplied> <supplied reason="lost" cert="high">و</supplied>لا استثنى ولا إقالة ولا إعادة ولا رجعة ولا مثنويّة لا لردّه 
+<lb n="16"/>  <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">لنفسه</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">لأجل</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">لأبد</supplied> <supplied reason="lost" cert="high">ولا</supplied> هو على سبيل رهن ولا هبة ولا تلجئة ودفع المشتري 
+<lb n="17"/>  <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الكتاب</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">البائع</supplied> <supplied reason="lost" cert="high">المذكور</supplied> فيه جميع هذا الثّمن المذكور فقبضه منه لنفسه نقدا 
+<lb n="18"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">يده</supplied> <supplied reason="lost" cert="high">تامّا</supplied> <supplied reason="lost" cert="high">وافيا</supplied> <supplied reason="lost" cert="high">وأبرأه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">ومن</supplied> <supplied reason="lost" cert="high">نقـ</supplied>ـده ووزنه ومن اليمين عليه أو على شي منه براة 
+<lb n="19"/>  <supplied reason="lost" cert="high">قبض</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">واستيفا</supplied> <supplied reason="lost" cert="high">بجميعه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">قول</supplied> <supplied reason="lost" cert="high">وحجّة</supplied> <supplied reason="lost" cert="high">ويمين</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">الوجو</supplied>ه والأسباب كلّها وسلّم البايع إلى ولد<supplied reason="lost" cert="high">ه</supplied> 
+<lb n="20"/>  <supplied reason="lost" cert="high">قلته</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">كيل</supplied> <supplied reason="lost" cert="high">جميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <app type="BL"><lem resp="“LR”"><supplied reason="lost" cert="high">وقع</supplied> </lem><rdg resp="“AK”">وقع</rdg></app> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">البيع</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">وتسـ</supplied>ـلّمه منه وحازه لنفسه وصار في يده 
+<lb n="21"/>  <supplied reason="lost" cert="high">وملكه</supplied> <supplied reason="lost" cert="high">ومالا</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ماله</supplied> <supplied reason="lost" cert="high">يتحكّم</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">بحكم</supplied> <supplied reason="lost" cert="high">الملّاك</supplied> في أملاكهم وذلك بعد معرفتهما لما تبايعا 
+<lb n="22"/>  <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">وتقليب</supplied> <supplied reason="lost" cert="high">منهما</supplied> <supplied reason="lost" cert="high">بجميعه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وإنفاذ</supplied> </lem><rdg resp="“Diem”">ونفاذ</rdg></app> <supplied reason="lost" cert="high">منهما</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">فتبايعا</supplied> <supplied reason="lost" cert="high">ذلك</supplied> بينهما عن تر<supplied reason="lost" cert="high">اضيهما</supplied> <supplied reason="lost" cert="high">علـ</supplied>ـى حكم بيع الإسلام 
+<lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> ولا ملك 
+<lb n="24"/>  <gap reason="illegible" precision="low" extent="3"/> ولا <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṯabata ṯubbita ʿind ī ǧamīʿu mā nuṣṣa wa šuriḥa fī hi wa kataba muḥammadu 
+ <lb n="2"/>bnu ʿubaydi ăl lāhi bni ḥafṣ:in bi ḫaṭṭi hi fī šahri ramaḍāna sanaẗa ʾiḥdà 
+ <lb n="3"/>wa ʾarbaʿīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in rasūli hi wa sallama hu bi ăs salāmi 
+ <lb n="6"/>hāḏā mā ĭštarà qultahu bnu kayl:ini ăl qazzāzu ăs sākinu madīnaẗa ăl ʾušmūnayni ăllatī min ʾarḍi ṣaʿīdi miṣra min wālidi hi kayli bni ǧurayǧ:ini 
+ <lb n="7"/>ăl qazzāzi ăs sākini bi hāḏihi ăl madīnaẗi ăl maḏkūraẗi ĭštarà min hu bi māli hi li nafsi hi ăllaḏī ʾanʿama ăl lāhu ʿazza wa ǧalla ø bi ø hi ʿalay hi ǧamīʿa mā ʾaʿlama hu 
+ <lb n="8"/>ʾanna hu la hu wa bi milki hi wa fī yadi hi milk:an ṣaḥīḥ:an wa ḥaqq:an wāǧib:an wa huwa ǧamīʿu ăl manzili ăllaḏī bi hāḏihi ăl madīnaẗi ăl maḏkūraẗi fī ăl ǧānibi 
+ <lb n="9"/>ăl baḥriyyi min hā ʿalà ăl kawmi ăl muṭilli ʿalà ăl kunaysiyyaẗi ăl maʿrūfaẗi bi ăl bartānusi wa yuḥīṭu bi hāḏā ăl manzili ăl mabīʿi bi ʾasri hi wa kamāli hi 
+ <lb n="10"/>wa yaǧmaʿu hu wa yaštamilu ʿalay hi ḥudūd:un ʾarbaʿaẗ:un fa ăl ḥaddu ăl qibliyyu min hu yantahī ʾilà ăz zuqāqi ăn nāfiḏi min ṭarafay hi ʾilà ṭuruq:in šattà wa fī hi yašraʿu 
+ <lb n="11"/>bābu hu ăl ʾawwalu kāna ăl ḥaddu ăl baḥriyyu min hu yantahī ʾilà biʾr:in tuʿrafu bi ăṣ ṣaʿīdiyyi wa ʾilà bū ṭūrbuna maqābiri ăl muslimīna wa ăl ḥaddu 
+ <lb n="12"/>ăš šarqiyyu min hu yantahī ʾilà ʿarṣaẗ:in li buqṭura ăl bannāʾi wa ʾilà dāri manṣūr:ini ăr rasūli kāna wa ʾilà manzil:in yuʿrafu bi suknà 
+ <lb n="13"/>ġaṭārifa bni mufliḥ:in kāna wa ăl ḥaddu ăl ġarbiyyu min hu yantahī ʾilà manzili ǧaʿfara bni sibāʿa ăl ʾibšādiyyi fa ĭštarà min hu ǧamīʿa hāḏā 
+ <lb n="14"/>ăl manzili ăl maḥdūdi ăl mawṣūfi fī hāḏā ăl kitābi bi ḥaddi hi wa ḥudūdi hi wa ʾarḍi hi wa samāʾi hi wa bināʾi hi wa fināʾi hi wa kulli qalīl:in wa kaṯīr:in 
+ <lb n="15"/>huwa la hu dāḫil fī hi wa kulli qalīl:in wa kaṯīr:in huwa la hu ḫāriǧ min hu wa mā huwa maʿrūf:un la hu wa mansūb:un ʾilay hi ẓāhira hu wa bāṭina hu wa ʿāmira hu wa ġāmira hu 
+ <lb n="16"/>ṣafqaẗ:an wāḥidaẗ:an bi ṯaman:in mablaġu hu *** danānīra mustanṣiriyyaẗ:in wāzinaẗ:in ǧiyādi ăl ʿuyūni šir:an ṣaḥīḥ:an wa bayʿ:an 
+ <lb n="17"/>nāfiḏ:an māḍiy:an lā šarṭa fī hi wa lā ḫiyār:un wa lā ĭstiṯn:an wa lā ʾiqālaẗ:un wa lā ʾiʿādaẗ:un wa lā raǧʿaẗ:un wa lā maṯnawiyyaẗ:un lā li raddi hi 
+ <lb n="18"/>wa lā li nafsi hi lā li ʾaǧal:in wa lā li ʾabad:in wa lā huwa ʿalà sabīli rahn:in wa lā hibaẗ:in wa lā talǧiʾaẗ:in wa dafaʿa ăl muštarī 
+ <lb n="19"/>ăl maḏkūru fī hāḏā ăl kitābi ʾilà ăl bāʾiʿi ăl maḏkūri fī hi ǧamīʿa hāḏā ăṯ ṯamani ăl maḏkūri fa qabaḍa hu min hu li nafsi hi naqd:an 
+ <lb n="20"/>fī yadi hi tāmm:an wāfiy:an wa ʾabraʾa hu min ḏālika wa min naqdi hi wa wazni hi wa mina ăl yamīni ʿalay hi ʾaw ʿalà šayʾ:in min hu barāʾaẗa 
+ <lb n="21"/>qabḍ:in la hu wa ĭstīfāʾ:in bi ǧamīʿi hi min kulli qawl:in wa ḥuǧǧaẗ:in wa yamīn:in ʿalà ǧamīʿi ăl wuǧūhi wa ăl ʾasbābi kulli hā wa sallama ăl bāyiʿu ʾilà waladi hi 
+ <lb n="22"/>qultaha bni kayl:in ǧamīʿa mā waqaʿa wuqqiʿa ʿalay hi hāḏā ăl bayʿu ăl maḏkūru wa tasallama hu min hu wa ḥāza hu li nafsi hi wa ṣāra fī yadi hi 
+ <lb n="23"/>wa milki hi wa māl:an min māli hi yataḥakkamu fī hi bi ḥukmi ăl mullāki fī ʾamlāki him wa ḏālika baʿda maʿrifati himā li mā tabāyaʿā 
+ <lb n="24"/>ʿalay hi wa taqlīb:in min humā bi ǧamīʿi hi wa ʾinfāḏ:in nafāḏ:in min humā la hu fa tabāyaʿā ḏālika bayna humā ʿan tarāḍī himā ʿalà ḥukmi bayʿi ăl ʾislāmi 
+ <lb n="25"/>*** wa lā milka 
+ <lb n="26"/>*** wa lā *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		All that is specially mentioned and explained herein has been proved in my presence and Muḥa[mmad]
+			<lb n="2"/>
+		b. ʿUbaidallâh b. Ḥafṣ has written (it) in his (own) handwriting in the month of Ramaḍân of the ye[ar]
+			<lb n="3"/>
+		four hundre[d] and forty[one].
+			<lb n="4"/>
+		[In the name of God, the Compassio]nate, the Merciful. May the blessing of God be upon our Lord Muḥammad, His Messenger, and may He give him peace.
+			<lb n="6"/>
+		[This is what Qolte b. Chael, the silk]-mercer, residing in the town of al-Ušmûnain, which belongs to the territory of upper Egypt, has bought from his father Chael b. Ǧu[raiǧ],
+			<lb n="7"/>
+		[the silk-mercer, residing in this (above) mentioned town]: he has bought from him with [his own mo]ney, which God - He is mighty and sublime - has bestowed upon him as a favour, all that he (the seller) informed him
+			<lb n="8"/>
+		[that it was belonging to him and in his possession and in his hand(s) as a legal possession, and a declared right, namely the whole of the dwelling house], that stands to the north side of the (above) mentioned town,
+			<lb n="9"/>
+		[on the hill looking down upon the little church known as al-Bartâno]s (of the Virgin). Now four boundaries enclose,
+			<lb n="10"/>
+		[encompass and surround this dwelling house], which is sold entirely [completely: the southern boundary thereof extends to the lane] forming from both sides the thoroughfare to diverse roads, with which
+			<lb n="11"/>
+		[its former first door communicates; and the northern boundary thereof extends to a well known as a]ṣ-Ṣaʿîdî and to Bû Ṭûrbon, the Muslim cemetery; and the eas-
+			<lb n="12"/>
+		[tern boundary thereof extends to the open area, belonging to Boqṭor, the builder, and to the former house of Man]ṣûr, the messenger, and to the dwelling house known as the former habitation
+			<lb n="13"/>
+		[of Ġaṭârif b. Mufliḥ; and the western boundary thereof extends to the dwellinghouse of Ǧa]ʿfar b. Sibâʿ, originating from Ibšâda. So he has bought from him the whole of this
+			<lb n="14"/>
+		[dwelling house defined and described in this act, to its li]mit and its boundaries, and its land and its sky, and its building(s) and its fore-court and all of little and much
+			<lb n="15"/>
+		[connected with it within and all of little and much connected with it without, and what is known as ap]pertaining and relating to it, (be it) outside or inside, inhabited or empty,
+			<lb n="16"/>
+		[in one striking (of hands) for a price which amounts to ...... dînârs] in full weight, good gold-coins of [al-Mu]stanṣir, in form of a valid purchase and an effectual
+			<lb n="17"/>
+		[(and fully) completed sale, in which is no condition and no option (of return)] and no reservation and no rescission (by mutual consent) and no possibility of recurrence and no proviso of the right of reversal and no reserving (of the right) either to return it
+			<lb n="18"/>
+		[or to annul it, either temporarily or for good, and] it is not in the way of a pledge nor as a gift nor as an exclusive bequest. And the buyer
+			<lb n="19"/>
+		[mentioned in this act has paid to the seller mentioned] herein the whole of this (above) mentioned price; so he (the seller) has received it from him for himself as a cash payment (paid)
+			<lb n="20"/>
+		[into his hand(s) fully and entirely, and he has released him from it and from its ready mon]ey and its weight and from the oath with regard to it or any portion thereof, by means of a receipt
+			<lb n="21"/>
+		[(acknowledging that he has) received for him(self) fully and entirely the whole of it, which releases him from any affirmation or proof or oath for any cau]ses or reasons whatever; and the seller has handed over to [his] son,
+			<lb n="22"/>
+		[Qolte b. Chael, all in respect to which the (above) mentioned sale was effected, and he (the buyer) has taken] it over from him and acquired possession of it for himself and it has passed into his hand(s)
+			<lb n="23"/>
+		[and possession and has become his own property, he (the buyer) having free disposition of it according to the free disposition of proprietors] over their property, and this after their having been aware of what they both have sold and bought (respectively),
+			<lb n="24"/>
+		[and their having examined all of it and their having effected it (the transaction). So they both have bargained] together to [their mutual] satis[faction accor]ding to the rule of Islamic law of sale.
+			<lb n="25"/>
+		[...] and no possession
+			<lb n="26"/>
+		[...] and no [...]
+</ab></div>
+</body>
+</text>
+</TEI>

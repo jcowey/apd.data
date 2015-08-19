@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1301" xml:id="Ragib_SaufConduits_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibSauf-conduits 6</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_SaufConduits_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169123</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بـسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هـ</supplied>ـذا كتب من حازم <supplied reason="lost" cert="high">مولى</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">موسى</supplied> <supplied reason="lost" cert="high">وجابر</supplied> <supplied reason="lost" cert="high">بن</supplied> عبيد عاملا الأمير 
+<lb n="3"/>  عبد الملك بن يزيد على كـ<supplied reason="lost" cert="high">ـورة</supplied> <supplied reason="lost" cert="high">منف</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أقنى جزيم 
+<lb n="4"/>  من أهل شبرا مدوه من كورة منف <supplied reason="lost" cert="high">وأ</supplied>ذنّا له يعمل بالفسطاط 
+<lb n="5"/>  وأسفل الأرض في جزيته ومعيشته وأجّلناه إلى ثلث ليالي 
+<lb n="6"/>  بقين من رمضان سنة ثلث وثلثين ومئة فمن لقيه من عمّال 
+<lb n="7"/>  <supplied reason="lost" cert="high">ا</supplied>لأمير أصلحه اللّه فلا يعرض له إلى ذلك 
+<lb n="8"/>  من الأجل إلّا بخير وكتب إبرهيم في مستهل 
+<lb n="9"/>  رجب سنة ثلث وثلثين ومئة 
+<lb n="between right seal and margin"/>  δαυιδ 
+<lb n="right seal line 1"/>  أفاض اللّه 
+<lb n="right seal line 2"/>  على حازم 
+<lb n="right seal line 3"/>  أعز نعمه 
+<lb n="left seal line 1"/>  فوّض جابر 
+<lb n="left seal line 2"/>  أمره إلى الرّحمن 
+<lb n="left seal line 3"/>  الرّحيم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min ḥāzim:in mawlà ʾabī mūsà wa ǧābiri bni ʿubayd:in ʿāmilā ăl ʾamīri 
+ <lb n="3"/>ʿabdi ăl maliki bni yazīda ʿalà kūraẗi manfa *** *** ʾaqnà ǧasīm 
+ <lb n="4"/>min ʾahli šubrā madūha min kūraẗi manfa wa ʾaḏinnā la hu yaʿmalu bi ăl fusṭāṭi 
+ <lb n="5"/>wa ʾasfali ăl ʾarḍi fī ǧizyati hi wa maʿīšati hi wa ʾaǧǧalnā hu ʾilà ṯalāṯi layālī 
+ <lb n="6"/>baqīna min ramaḍāna sanaẗa ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in fa man laqiya hu min ʿummāli 
+ <lb n="7"/>ăl ʾamīri ʾaṣlaḥa hu ăl lāhu fa lā yaʿriḍ la hu ʾilà ḏālika 
+ <lb n="8"/>mina ăl ʾaǧali ʾillā bi ḫayr:in wa kataba ʾibrāhīmu fī mustahalli 
+ <lb n="9"/>raǧab:in sanaẗa ṯalāṯ:in wa ṯalāṯīna wa miʾaẗ:in 
+ <lb n="10"/>*** 
+ <lb n="11"/>ʾafāḍa ăl lāhu 
+ <lb n="12"/>ʿalà ḥāzim:in 
+ <lb n="13"/>ʾaʿazza niʿami hi 
+ <lb n="14"/>fawwaḍa ǧābir:un 
+ <lb n="15"/>ʾamra hu ʾilà ăr raḥmāni 
+ <lb n="16"/>ăr raḥīmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom] de Dieu, clément et miséricordieux !
+			<lb n="2"/>
+		Ceci est une lettre de Ḥāzim [client d&#039;Abū Mūsā et de Ǧābir b] ʿUbayd, agents de l&#039;émir
+			<lb n="3"/>
+		ʿAbd al-Malik b. Yazīd sur le dist[trict de Manf à ], ... ayant le nez aquilin, corpulent,
+			<lb n="4"/>
+		des gens de Šubrā Madūh du district de Manf. Nous lui avons permis de travailler à Fusṭāṭ
+			<lb n="5"/>
+		et en Basse-Égypte pour sa capitation et sa subsistance et nous lui avons fixé pour délai trois nuits avant la fin
+			<lb n="6"/>
+		de ramadan l&#039;année cent trente-trois. Qui donc le rencontrera des agents
+			<lb n="7"/>
+		de l&#039;émir - que Dieu lui donne probité ! ne devra lui montrer
+			<lb n="8"/>
+		jusqu&#039;à ce délai que du bien. Ecrit par Ibrāhīm le premier jour de la lune
+			<lb n="9"/>
+		de raǧab l&#039;année cent trente-trois.
+			<lb n="10"/>
+		David
+			<lb n="11"/>
+		Que Dieu répande
+			<lb n="12"/>
+		sur Ḥāzim
+			<lb n="13"/>
+		Ses plus chers bienfaits !
+			<lb n="14"/>
+		Ǧābir a remis
+			<lb n="15"/>
+		son sort à (Dieu), clément
+			<lb n="16"/>
+		et miséricordieux !
+</ab></div>
+</body>
+</text>
+</TEI>

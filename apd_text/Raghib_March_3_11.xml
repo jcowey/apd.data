@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="659" xml:id="Raghib_March_3_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106746</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">أكرمك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بطاعته</supplied> <supplied reason="lost" cert="high">وهباك</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـرامته في الدّنيا والآخرة برحمته 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> بضاعة فيها ستّة اعشر ثوبا سـ<supplied reason="lost" cert="high">ـتّة</supplied> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بعت</supplied> لك السّتّة بدينارين إلّا ربع وقيراط وثوبين 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ثمـ</supplied>ـانية أثواب الباقي لك من جميع 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>ثواب أربعة ولفافة <supplied reason="lost" cert="high">وموجّه</supplied> <supplied reason="lost" cert="high">إليـ</supplied>ـك الـ<supplied reason="lost" cert="high">ـثّمن</supplied> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> النّاس من أسعارهم بعـ<supplied reason="lost" cert="high">ـت</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> الكسب والخسار<supplied reason="lost" cert="high">ة</supplied> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa habā ka karāmata hu fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi 
+ <lb n="2"/>*** biḍāʿaẗ fī hā sittaẗa ĭʿšara ṯawb:an sittaẗ 
+ <lb n="3"/>*** biʿtu la ka ăs sittaẗa bi dīnārayni ʾillā rubʿ wa qīrāṭ wa ṯawbayni 
+ <lb n="4"/>*** ṯamāniyaẗ ʾaṯwāb:in ăl bāqī la ka min ǧamīʿi 
+ <lb n="5"/>*** ʾaṯwāb ʾarbaʿaẗ wa lifāfaẗ wa muwaǧǧih:un ʾilay ka ăṯ ṯamana 
+ <lb n="6"/>*** ăn nās min ʾasʿāri him biʿtu *** 
+ <lb n="7"/>*** ăl kasb wa ăl ḫasāraẗ ** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Que Dieu t&#039;honore par l&#039;obéissance qui Lui est due et t&#039;accorde] Sa [ma]gnanimité dans ce monde et dans l&#039;autre par sa miséricorde! 
+			<lb n="2"/>
+		[....] une balle contenant seize pièces d&#039;étoffe: six
+			<lb n="3"/>
+		[... J&#039;ai vendu] pour toi les six pour deux dinars moins un quart `et un qīrāṭ´ et deux pièces d&#039;étoffe
+			<lb n="4"/>
+		[.... h]uit pièces d&#039;étoffe. Restent pour toi de la totalité
+			<lb n="5"/>
+		[....] pièces d&#039;étoffe et une lifāfa. [Je] t&#039;[adresserai] le [prix]
+			<lb n="6"/>
+		[....] les gens de leur prix. [J&#039;ai] vendu [....]
+			<lb n="7"/>
+		[....] le profit e la perte .. [....]
+</ab></div>
+</body>
+</text>
+</TEI>

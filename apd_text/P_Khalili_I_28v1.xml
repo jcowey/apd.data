@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1531" xml:id="P_Khalili_I_28v1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 28 verso 1(a)-3(a) (= P.Khalili II 55 first letter = P.DiemKhalili 1 document description)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Khalili_I_28v1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169302</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1(a)"/>  أطال اللّه بقاك 
+<lb n="2(a)"/>  وسعادتك وسلامتك <app type="BL"><lem resp="APD">و<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem “square brackets”">وكفايتك</rdg></app> 
+<lb n="3(a)"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">وزاد</rdg></app> في <app type="BL"><lem resp="APD">أخذ </lem><rdg resp="Diem">إحسانه</rdg></app> <app type="BL"><lem resp="APD">يد </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">إليك</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaṭāla ăl lāhu baqāʾa ka ø wa ø ʾadāma ø ʿizza ø ka ø wa ø ka karāmata ø 
+ <lb n="2"/>wa saʿādata ka wa salāmata ka wa *** kifāyata ø ka ø wa ø *** 
+ <lb n="3"/>*** wa ø zāda fī ʾaḫḏi hi ʾiḥsāni ø ø yadi ø ăl ʾilay *** ka ø wa ø *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		May God prolong your life [
+			<lb n="2"/>
+		and your happiness and your well-being and [
+			<lb n="3"/>
+		... taking the hand of... [
+</ab></div>
+</body>
+</text>
+</TEI>

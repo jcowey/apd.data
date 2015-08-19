@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2322" xml:id="Diem_Heid_III_41" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 41</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_41</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  ليعتمد ذلك 
+ <lb n="recto 2"/>  المرسوم العالی أعلاه اللّه تعالی 
+ <lb n="recto 3"/>  أن يحمل إلی بيت المال المعمور من جهة حسن 
+ <lb n="recto 4"/>  الشّمس حمّال الخشّابين من الخالص <expan><ex>دراهـ</ex><abbr>ـم</abbr></expan> ثمن خضر 
+ <lb n="recto 5"/>  وأصناف للأمير العالی بكتش الجمدار 
+ <lb n="recto 6 left margin"/>  <expan><abbr>ما</abbr><ex>ئة</ex></expan> خمسة وخمسين 
+ <lb n="recto 7"/>  ثمن أصناف ثمن خضر 
+ <lb n="recto 8"/>  خمسة وتسعين ستّين 
+ <lb n="recto 9"/>  سرعة سرعة 
+ <lb n="recto 10"/>  كتب في حادي عشر ربيع الأوّل سنة سبع وتسعين <expan><ex>وسبع</ex></expan> مئة 
+ <lb n="verso 1"/>  زقاق سنينات اطلب كاتب بكتش الجمدار 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>li yuʿtamada ḏālika 
+ <lb n="2"/>ăl marsūmu ăl ʿālī ʾaʿlā hu ăl lāhu taʿālà 
+ <lb n="3"/>ʾan yuḥmala ʾilà bayti ăl māli ăl maʿmūri min ǧihaẗi ḥasan:ini 
+ <lb n="4"/>ăš šamsi ḥammāli ăl ḫaššābīna mina ăl ḫāliṣi darāhima ṯamani ḫuḍar:in 
+ <lb n="5"/>wa ʾaṣnāf:in li l ʾamīri ăl ʿālī baktaša ăl ǧamdāri 
+ <lb n="6"/>miʾaẗ:un ḫamsaẗ:un wa ḫamsīna 
+ <lb n="7"/>ṯamanu ʾaṣnāf:in ṯamanu ḫuḍar:in 
+ <lb n="8"/>ḫamsaẗ:un wa tisʿīna sittīna 
+ <lb n="11"/>surʿaẗ:an surʿaẗ:an 
+ <lb n="12"/>kutiba fī ḥādiya ʿašara rabīʿa ăl ʾawwali sanaẗa sabʿ:in wa tisʿīna wa sabʿi miʾaẗ:in 
+ <lb n="13"/>zuqāqu sunaynāt:ini ŭṭlub kātiba baktaša ăl ǧamdāri 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Dies werde ausgeführt!
+		 <lb n="2"/>
+ 	  Der hohe Erlaß - Gott, der Erhabene, erhöhe ihn - ist,
+		 <lb n="3"/>
+ 	  daß in das gedeihende Schatzhaus abgeführt werde seitens des Ḥasan
+		 <lb n="4"/>
+ 	  aš-Šams, des Trägers der Holzhändler, netto (Dirh)ame (für) Wertabgabe für Gemüse
+		 <lb n="5"/>
+ 	  und Verschiedenes zugunsten des hohen Emirs Baktaš al-Ǧamdār
+		 <lb n="6"/>
+ 	  einhundertfünfundfünfzig
+		 <lb n="7"/>
+ 	  Wertabgabe für Verschiedenes | Wertabgabe für Gemüse
+		 <lb n="8"/>
+ 	  fünfundneunzig | sechzig
+		 <lb n="11"/>
+ 	  (und zwar) augenblicklich!
+		 <lb n="12"/>
+ 	  Geschrieben am elften Rabīʿ al-Awwal im Jahre (sieben)hundertsiebenundneunzig.
+		 <lb n="13"/>
+ 	  Sunaynātgasse. Suche den Sekretär von Baktaš al-Ǧamdār auf!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

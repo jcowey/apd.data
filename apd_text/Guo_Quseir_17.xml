@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="855" xml:id="Guo_Quseir_17" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 17</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_17</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113632</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  صحبة <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">للشّيخ</supplied> </lem><rdg resp="“AK”">الشّيخ</rdg></app> <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">إسحاق</supplied> <supplied reason="lost" cert="high">إبراهيم</supplied> 
+<lb n="2"/>  بن أبي مفرّج بتأ<supplied reason="omitted" cert="high">ر</supplied>يخ التّاسع <app type="BL"><lem resp="APD">عشرين </lem><rdg resp="“AK”">عشر</rdg></app> <app type="BL"><lem resp="APD">جماد<supplied reason="omitted" cert="high">ى</supplied> </lem><rdg resp="“AK”">من</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سپه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <sic n="superfluous">وعشري</sic><supplied reason="omitted" cert="high">وعسرنن</supplied> وستّمائة الحمد للّه حسبنا ونعم وكيلنا هو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وقد سيّرت <sic n="superfluous">لـ</sic>ـلكم السّلب صحبة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṣuḥbaẗa *** li ø š ăš šayḫi ʾabū ʾisḥāqa ʾibrāhīma 
+ <lb n="2"/>bni ʾabī mufarriǧ:in bi taʾrīḫi ăt tāsiʿa tāsiʿi ʿišrīna ʿašara ø min ǧumādà *** sanaẗa *** 
+ <lb n="3"/>wa ʿišrīna wa sitt miʾaẗ:ini ăl ḥamdu li l lāhi ḥasbu nā wa niʿma wakīlu nā huwa *** 
+ <lb n="4"/>wa qad sayyartu la kumu ăs salaba ṣuḥbaẗa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the company of [......; to Shaykh Abū Isḥāq Ibrāhīm]
+			<lb n="2"/>
+		ibn Abū Mufarrij; on the 29th day, the month of Jumādā [I or II, the year]
+			<lb n="3"/>
+		six hundred and twenty [...]. Praise be to God. Our sufficiency is in Him. What an excellent trustee He is! [...]
+			<lb n="4"/>
+		I have sent you ropes, accompanied by [.....].
+</ab></div>
+</body>
+</text>
+</TEI>

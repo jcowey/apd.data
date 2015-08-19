@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="61" xml:id="Karabacek_Papyrusfund_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusfund 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Karabacek_Papyrusfund_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106498</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  و اثصا پلاپه الدراهم 
+<lb n="2"/>  و اثصا پلاپه الدرهم 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  قبضت من علي بن حسن ثمن من كرا منزل ابنه 
+<lb n="5"/>  ثلثة الدّراهم وثلث من سنة ثمانية 
+<lb n="6"/>  ‮وأربعين ومائين <gap reason="illegible" extent="1" unit="character" /> وكتب بخطّه 
+<lb n="7"/>  وأيضا قبضت من علي ثلثة ونصف 
+<lb n="8"/>  في <gap reason="illegible" precision="low" extent="3"/> سلخ مشير وأيضا ثلثة إلّا دانق 
+<lb n="9"/>  ولم يبق عليه من كرا سنة ثمانية 
+<lb n="10"/>  وأربعين ومائتن من أوّل سنة أوّل بوپپه إلى 
+<lb n="11"/>  بوپه سنة 
+<lb n="12"/>  تسعة وأربعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ʾayḍ:an ṯalāṯaẗ ăd darāhimi wa niṣf 
+ <lb n="2"/>wa ʾayḍ:an ṯalāṯaẗ ăd darāhimi wa ṯulṯ 
+ <lb n="3"/>bi ĭsmi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>qabaḍtu min ʿaliyyi bni ḥasan:in ṯaman min kirāʾi manzili ĭbni hi 
+ <lb n="5"/>ṯalāṯaẗa ăd darāhimi wa ṯulṯ min sanaẗi ṯamāniyaẗ:in 
+ <lb n="6"/>wa ʾarbaʿīna wa miʾatayni * wa kataba bi ḫaṭṭi hi 
+ <lb n="7"/>wa ʾayḍ:an qabaḍtu min ʿaliyy:in ṯalāṯaẗ:an wa niṣf 
+ <lb n="8"/>fī *** salḫi mašīra wa ʾayḍ:an ṯalāṯaẗ:an ʾillā dānaq 
+ <lb n="9"/>wa lam yabqa ʿalay hi min kirāʾi sanaẗi ṯamāniyaẗ:in 
+ <lb n="10"/>wa ʾarbaʿīna wa miʾatayni min ʾawwali sanaẗ:in ʾawwali baʾunīha ʾilà 
+ <lb n="11"/>baʾuniha sanaẗi 
+ <lb n="12"/>tisʿaẗ:in wa ʾarbaʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Und weiters die drei Dirhem und den Halben (Dirhem).
+			<lb n="2"/>
+		Und weiters die drei Dirhem und den Drittel (Dirhem).
+			<lb n="3"/>
+		Im Namen Gottes des Allbarmherzigen!
+			<lb n="4"/>
+		Ich empfing von ʿAlî ibn Hasan den Preis der Miethe der Wohnung seines Sohnes: 
+			<lb n="5"/>
+		Die drei Dirhem und den Drittel- (Dirhem) vom Jahre acht 
+			<lb n="6"/>
+		und vierzig und zweihundert. (Cross) Er schrieb mit seinem Federstrich. 
+			<lb n="7"/>
+		Und weiteres empfing ich vonʿAlî die drei (Dirhem) und den Halben (Dirhem) 
+			<lb n="8"/>
+		zu Ende des Meschîr. Und weiters die drei (Dirhem) weniger einen Dâniḳ. 
+			<lb n="9"/>
+		Und nichts bleibt ihm übrig (zu bezahlen) von der Miethe des Jahres acht 
+			<lb n="10"/>
+		und vierzig und zweihundert, vom Beginne des Jahres d.i. dem ersten Payni bis zum 
+			<lb n="11"/>
+		Payni des Jahres 
+			<lb n="12"/>
+		neun und vierzig.
+</ab></div>
+</body>
+</text>
+</TEI>

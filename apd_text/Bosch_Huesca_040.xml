@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2370" xml:id="Bosch_Huesca_040" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BoschHuesca 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Bosch_Huesca_040</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أشهد عبد العزيز بن يحيى المغربي القرّاق ومفرّج بن مسعود قرقنالش على أنفسهما 
+<lb n="3"/>  <app type="BL"><lem resp="APD">شهد </lem><rdg resp="UB">شهّد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">في</supplied> </lem><rdg resp="UB">ø</rdg></app> هذا الكتاب أن عليهما وفي مالهما وذمّتهما لغلند بلّيطه الشّقرشطانه 
+<lb n="4"/>  أو لمن يستظهر بالعقد مائة دينر واحدة وخمسة عشر دينر زائدة قناشر فضّة 
+<lb n="5"/>  من السّكّة الجارية الآن وذلك من نصف الغلّة الّتي تقوم من حين هذا إلى شهر 
+<lb n="6"/>  ينّير الأقرب من قليل وكثير في جنان بن سامرة في الجوف موحره 
+<lb n="7"/>  عنهما النّصف <app type="BL"><lem resp="APD">العدد </lem><rdg resp="LS">الأوّل</rdg></app> إلى نصف أغشط الأقرب والنّصف 
+<lb n="8"/>  الثّاني إلى شهر ينّير المذكور وضمن عنهما العدد المذكور إلى الأمدين المذكورين 
+<lb n="9"/>  عيسى بن عبد الملك عظيم الرّأس القرّاق ضمانا لازما لماله وذمّته 
+<lb n="10"/>  ورب الحق مخيّر في أخذ من شا منهم حاضرهم بغائبهم شهد على الغريم 
+<lb n="11"/>  <app type="BL"><lem resp="APD">والصّلح </lem><rdg resp="LS">والضّامن</rdg></app> من سمع ذلك منهم وعرفهم في صحّتهم وجائز أمرهم في شهر 
+<lb n="12"/>  ذي الحجّة من سنة ثنتين وسبعين وخمسمائة فيه مصلح حا وصح منه 
+<lb n="13"/>  عبيد اللّه بن عبد الملك بن محمّد النّحوي ومحمّد بن عبد اللّه بن محمّد النّحوي 
+<lb n="14"/>  وإبراهيم بن محمّد بن خلف التّجيبي 
+<lb n="1 left"/>  قبض من هذا الرّسم ستّة وثلاثين دنر 
+<lb n="15"/>  دفع مع عبد العزيز عشر دنانير 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> ڤپص من <app type="BL"><lem resp="APD">هدا </lem><rdg resp="LS">العدد</rdg></app> العڤل اثپپين وپلاپين 
+<lb n="right margin"/>  وقبض أيضا عشر دنانير <gap reason="illegible" extent="4" unit="character" /> خمسة عشرة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾašhada ʿabdu ăl ʿazīzi bnu yaḥyà ăl maġribiyyu ăl qarrāqu wa mufarriǧu bnu masʿūd:in qarqanālišu ʿalà ʾanfusi himā 
+ <lb n="3"/>šuhhada šuhida fī ø hāḏā ăl kitābi ʾanna ʿalay himā wa fī māli himā wa ḏimmati himā li ġalinda ballīṭuha ăš šaqrišṭānuhi 
+ <lb n="4"/>ʾaw li man yastaẓhiru bi ăl ʿaqdi miʾaẗu dīnār:in wāḥidaẗ:un wa ḫamsaẗa ʿašara dīnār zāʾidaẗ:un qanāširu fiḍḍaẗ:in 
+ <lb n="5"/>mina ăs sikkaẗi ăl ǧāriyaẗi ăl ʾāna wa ḏālika min niṣfi ăl ġallaẗi ăllatī taqūmu min ḥīni hāḏā ʾilà šahri 
+ <lb n="6"/>yannayra ăl ʾaqrabi min qalīl:in wa kaṯīr:in fī ǧanāni bni sāmiraẗa fī ăl ǧawfi muʾaḫḫaraẗ:an 
+ <lb n="7"/>ʿan humā ăn ø niṣfu ăl ʿadadi ʾawwalu ʾilà niṣfi ʾaġušṭa ăl ʾaqrabi wa ăn niṣfu 
+ <lb n="8"/>ăṯ ṯānī ʾilà šahri yannayra ăl maḏkūri wa ḍamina ʿan humā ăl ʿadada ăl maḏkūra ʾilà ăl ʾamadayni ăl maḏkūrayni 
+ <lb n="9"/>ʿīsà bnu ʿabdi ăl maliki ʿaẓīmu ăr raʾsi ăl qarrāqu ḍamān:an lāzim:an li māli hi wa ḏimmati hi 
+ <lb n="10"/>wa rabbu ăl ḥaqqi muḫayyar:un fī ʾaḫḏi man šāʾa min hum ḥāḍira hum bi ġāʾibi him šahida ʿalà ăl ġarīmi 
+ <lb n="11"/>wa ăṣ ăḍ ṣulḥi ḍāmini man samiʿa ḏālika min hum wa ʿarafa hum fī ṣiḥḥati him wa ǧāʾizi ʾamri him fī šahri 
+ <lb n="12"/>ḏī ăl ḥiǧǧaẗi min sanaẗi ṯnatayni wa sabʿīna wa ḫamsi miʾaẗ:in fī hi muṣlaḥ:un ḥʾ wa ṣaḥḥa min hu 
+ <lb n="13"/>ʿubaydu ăl lāhi bnu ʿabdi ăl maliki bni muḥammad:ini ăn naḥwiyyu wa muḥammadu bnu ʿabdi ăl lāhi bni muḥammad:ini ăn naḥwiyyu 
+ <lb n="14"/>wa ʾibrāhīmu bnu muḥammadi bni ḫalaf:ini ăt tuǧībiyyu 
+ <lb n="15"/>qabaḍa min hāḏā ăr rasmi sittaẗ:an wa ṯalāṯīna dinār 
+ <lb n="16"/>dufiʿa maʿa ʿabdi ăl ʿazīzi ʿašru danānīra 
+ <lb n="17"/>qabaḍa min hāḏā ăl ʿaqli ʿadadi ĭṯnatayni wa ṯalāṯīna danīr 
+ <lb n="18"/>wa qabaḍa ʾayḍ:an ʿašra danānīra **** ḫamsaẗa ʿašraẗa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		ʿAbd al-ʿAzīz bin Yaḥyà al-Maġribī, alcorquero, y Muḥammad ibn Masʿūd Carcanales declaran por sí mismos,
+			<lb n="3"/>
+		en este documente, con la garantía de sus bienes y bajo su responsabilidad, deber a Galindo Bellido, sacristán,
+			<lb n="4"/>
+		o a quien presente la escritura, ciento quince dīnar qanāšir, de plata,
+			<lb n="5"/>
+		 de la acuñación corriente ahora. Y esto, a pagar en dos plazos, por la mitad de la cosecha que se valore desde ahora hasta el próximo mes
+			<lb n="6"/>
+		de enero, sea poca o mucha, en el huerto de Ben Sāmira, al norte, entregando
+			<lb n="7"/>
+		la mitad de la cantidad que ha de ser satisfecha, lo más tarde a mediados del próximo agosto y la otra
+			<lb n="8"/>
+		mitad en el dicho mes de enero. Salió fiador sobre dicha cantidad, a pagar en dos veces,
+			<lb n="9"/>
+		ʿIsà ibn ʿAbd al-Malik, el &#034;Cabezudo&#034;, alcorquero, en fianza obligada, con la garantía de sus bienes y bajo su responsabilidad.
+			<lb n="10"/>
+		El acreedor puede elegir en tomar de quien quiera de ellos, los presentes por los ausentes. Dió testimonio, de parte del acreedor
+			<lb n="11"/>
+		y de los deudores, quien ha oído esto de ellos, les conoce y sabe que están en el pleno uso de sus facultades y con capacidad legal para contratar. Hecho en el mes
+			<lb n="12"/>
+		de ḏū-l-ḥiŷŷa del año 572 / 31 de mayo a 20 junio de 1177. En esta escritura está coregido ḥā. Vale.
+			<lb n="13"/>
+		ʿUbayd Allāh bin ʿAbd al-Malik ibn Muḥammad al-Naḥwī. Muḥammad ibn ʿAbd Allāh ibn Muḥammad al-Naḥwī.
+			<lb n="14"/>
+		Ibrāhīm ibn Muḥammad ibn Jalaf al-Tuŷībī.
+			<lb n="15"/>
+		Recibió, a cuenta de la cantidad fijada en esta escritura, treinta y seis dinar.
+			<lb n="16"/>
+		ʿAbd al-ʿAzīz entregó diez danānīr.
+			<lb n="17"/>
+		Recibió, a cuenta de la cantidad fijada en este contrato, treinta y dos dineros (dinīr).
+			<lb n="18"/>
+		Recibió también diez danānīr........ quince....
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="712" xml:id="Grohmann_EBU_19" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 19 (= P.World p. 166 = P.Marchands V/1 08)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_19</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106793</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم أبقاكما اللّه وحفظكما وتمّم نعمه عليكما في الدّنيا والآخرة 
+<lb n="recto 2"/>  قد بعثت إليكم مع محمّد <app type="BL"><lem resp="APD">سجلّيّة </lem><rdg resp="Diem, Review Wien">سجلّيّة</rdg></app> بستّة الدّنانير منها خمسة لي ودينر لهيثم <app type="BL"><lem resp="APD">لي </lem><rdg resp="Rāġib">ولي</rdg></app> عندك عشرة فذالك 
+<lb n="recto 3"/>  لي قبلك خمسة اعشر دينرا <app type="BL"><lem resp="APD">فأثبت </lem><rdg resp="Rāġib; Diem">فأثبت</rdg></app> ذالك لي قبلك وانظر أبقاك اللّه أن تعجّل بالمتاع علي 
+<lb n="recto 4"/>  فقد ظننت مد اللّه في عمرك يأبا علي أنّك لا تقطع بي في هذا العيد وقد وصل إلي متاع الرّجل فجزاك 
+<lb n="recto 5"/>  اللّه خيرا يأبا علي <app type="BL"><lem resp="APD">بذالك </lem><rdg resp="Rāġib">فذالك</rdg></app> ظنّي بك ورجائي فيك لا تدع حفظك اللّه <app type="BL"><lem resp="APD">تعجّل </lem><rdg resp="“Dietrich, World p. 86”">تعجيل</rdg></app> المتاع علي وليكن فيها 
+<lb n="recto 6"/>  ثوب بخمس قراريط للخادم وهيثم يقرئك السّلم ويقول لك أرسل إلي بثوب أقطعه سراولات 
+<lb n="recto 7"/>  لنا فإن ما منّا أحد له سراويل وعجّل بذالك علينا شيخك سالم بخير على أفضل ما تحب واللّه محمود 
+<lb n="recto 8"/>  <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">قبـ</supplied>ـلوا </lem><rdg resp="Rāġib">أبلّغكم </rdg><rdg resp="Diem">أبلغا</rdg></app> أنفسكم السّلم وعلى جميع عيالكم السّلم والـسّلم عليك ورحمت اللّه وكتب 
+<lb n="verso address 1"/>  لأبي يعقوب وأبي علي <app type="BL"><lem resp="APD">الحسين </lem><rdg resp="Rāġib">الحسن</rdg></app> بن عبد السّلم من <gap reason="illegible" extent="2" unit="character" /> الهيثم بن خلد ويوسف بن يزيد بالفيّوم في مسجد الجامع 
+<lb n="verso address 2"/>  في البزّازين <app type="BL"><lem resp="APD">پلـ<supplied reason="lost" cert="high">ـع</supplied> </lem><rdg resp="Rāġib">بلّغ</rdg></app> رحمك اللّه 
+<lb n="verso postscript 1"/>  <app type="BL"><lem resp="APD">وقدّمنا </lem><rdg resp="“Dietrich, World p. 86; Rāġib”">وقد</rdg></app> <app type="BL"><lem resp="APD">ولد </lem><rdg resp="“Dietrich, World p. 86”">يناولك </rdg><rdg resp="“Rāġib”">قطع</rdg></app> <app type="BL"><lem resp="APD">اپوك </lem><rdg resp="“Rāġib”">لك</rdg></app> ألساح وهو پاعپ بدپع <app type="BL"><lem resp="APD">مبمون </lem><rdg resp="“Dietrich, World p. 86; Rāġib”">به</rdg></app> <app type="BL"><lem resp="APD">ان </lem><rdg resp="“Dietrich, World p. 86; Rāġib”">مع</rdg></app> سا إلله ڤاپطر پحڤپا <app type="BL"><lem resp="“Grohmann; Hopkins, Grammar p. 249”">علپك </lem><rdg resp="“Dietrich, World p. 86; Rāġib”">فانظر</rdg></app> <app type="BL"><lem resp="APD">لما </lem><rdg resp="“Dietrich, World p. 86”">لحقّنا</rdg></app> پعپپ پالپوپ 
+<lb n="verso postscript 2"/>  <app type="BL"><lem resp="APD">به </lem><rdg resp="Rāġib">ø</rdg></app> القراريط القديمة الّتي عندك أقطعه لهم سرويلات في العيد فإنّهم عراة ولي عندك بها <app type="BL"><lem resp="APD">الدّينر </lem><rdg resp="Rāġib">الدّننير</rdg></app> خمسة طريّة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾabqā kumā ăl lāhu wa ḥafiẓa kumā wa tammama niʿama hu ʿalay kumā fī ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="2"/>qad baʿaṯtu ʾilay kum maʿa muḥammadi muḥammad:in saḥuliyyaẗ:an siǧilliyyaẗan siḥliyyaẗa bi sittaẗi ăd danānīri min hā ḫamsaẗ:un l ī wa dīnār:un li hayṯama ø wa l ī ʿinda ka ʿašaraẗ:un fa ḏālika 
+ <lb n="3"/>l ī qibala ka ḫamsaẗa ĭʿšara dīnār:an fa ʾaṯbattu ʾaṯbit ḏālika l ī qibala ka wa ŭnẓur ʾabqā ka ăl lāhu ʾan tuʿaǧǧila bi ăl matāʿi ʿalay ya 
+ <lb n="4"/>fa qad ẓanantu madda ăl lāhu fī ʿumri ka yā ʾabā ʿaliyy:in ʾanna ka lā taqṭaʿu b ī fī hāḏā ăl ʿīdi wa qad waṣala ʾilay ya matāʿu ăr raǧuli fa ǧazā ka 
+ <lb n="5"/>ăl lāhu ḫayr:an yā ʾabā ʿaliyy:in bi fa ḏālika ḏālika ẓann ī bi ka wa raǧāʾ ī fī ka lā tadaʿu ḥafiẓa ka ăl lāhu tuʿaǧǧilu taʿǧīla ăl matāʿa matāʿi ʿalay ya wa li yakun fī hā 
+ <lb n="6"/>ṯawb:un bi ḫamsi qarārīṭa li l ḫādimi wa hayṯamu yuqriʾu ka ăs salāma wa yaqūlu la ka ʾarsil ʾilay ya bi ṯawb:in ʾaqṭaʿa hu sarāwilāt:in 
+ <lb n="7"/>la nā fa ʾinna mā min nā ʾaḥad:un la hu sarāwīlu wa ʿaǧǧil bi ḏālika ʿalay nā šayḫu ka sālim:un bi ḫayr:in ʿalà ʾafḍali mā tuḥibbu wa ăl lāhu maḥmūd:uni 
+ <lb n="8"/>ĭqbalū ʾuballiġu ʾabliġā ø kum ʾanfusa kumu ăs salāma wa ʿalà ǧamīʿi ʿiyāli kumu ăs salāmu wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa kutiba 
+ <lb n="9"/>li ʾabī yaʿqūba wa ʾabī ʿaliyy:ini ăl ḥusayni ḥasani bni ʿabdi ăs salāmi mina ** ăl hayṯami bni ḫālid:in wa yūsufa bni yazīda bi ăl fayyūmi fī masǧidi ăl ǧāmiʿi 
+ <lb n="10"/>fī ăl bazzāzīna ø balliġ raḥima ka ăl lāhu 
+ <lb n="11"/>qaddama wa nā qad ø yunāwilu qaṭaʿa ka ø waladu la ø ka ʾabū ka ăs sāǧa wa huwa bāʿiṯ:un bi dabġi hi ø maʿa maymūn:in ʾin šāʾa ăl lāhu fa ʾanẓuru ŭnẓur bi li ḥaqqi nā ʿalay ka lammā baʿaṯta bi ăṯ ṯawbi 
+ <lb n="12"/>bi ø hi ø ăl qarārīṭa qarārīṭu ăl qadīmaẗa qadīmaẗu ăllatī ʿinda ka ʾaqṭaʿu hu la hum sirwīlāt:in fī ăl ʿīdi fa ʾinna hum ʿurāẗ:un wa l ī ʿinda ka bi hā ăd dīnāru danānīru ḫamsaẗ:un ṭariyyaẗ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! Que Dieu vous conserve, vous garde et parachève Ses bienfaits envers vous dans ce monde et dans l&#039;autre!
+		Im Namen Gottes, des Barmherzigen, Gütigen! Gott lasse Euch beide lange leben und behüte Euch beide und vollende für Euch beide seine Gnaden in dieser und jener Welt.
+		In the name of God, the Compassionate, the Merciful! May God preserve you both and protect you and fulfil his bounty unto you in this world and in the world to come.
+			<lb n="2"/>
+		Ich habe bereits an Euch mit Muḥammad ein Stück saḥūlischen Stoffes mit den sechs Dīnāren gesandt - davon gehören fünf mir und ein Dīnār dem Haiṯam; ich habe bei Dir zehn (Dīnāre) gut, das macht also
+		I have already sent to you with Muḥammad a piece of Saḥûlî linen containing six dînârs, of which five belong to me and one dînâr to Haitham; there are ten dînârs to my credit in thy possesion so that
+		Je vous ai envoyé avec Muḥammad Siḥliyya six dinars, dont cinq m&#039;appartiennent et un appartient à Hayṯam. J&#039;en ai déjà chez toi dix qui m&#039;appartiennent. Cela fait
+			<lb n="3"/>
+		que j&#039;ai chez toi quinze dinars qui m&#039;appartiennent. Enregistre cela chez toi comme m&#039;appartenant. Tâche - que Dieu te conserve! de m&#039;envoyer rapidement la marchandise.
+		thou owest me fifteen dînârs. I have stated this (being) to my credit and thy debit, and take care - may God prolong thy life - to dispatch the commodity with the utmost speed to me.
+		zu meinen Gunsten zu Deinen Lasten fünfzehn Dīnāre. Ich habe dies also zu meinen Gunsten und zu Deinen Lasten als gültig festgestellt, und sie zu - Gott lasse Dich lange leben - daß Du mir die Ware schleunigst zukommen lassest.
+			<lb n="4"/>
+		Bin ich doch schon der Meinung - Gott verlängere Dein Leben, o Abū ʿAlī -, daß Du mich an diesem Feste nicht zu kurz kommen läßt. Schon ist die Ware des Mannes an mich gelangt, so lohne Dir Gott
+		I opine - may God lengthen thy life o Abû ʿAlî - that thou doest not let me come off badly in this feast and the commodity of the man reached me, may God reward thee therefor with good,
+		J&#039;ai pensé - que Dieu prolonge ta vie! Abū ʿAlī, que tu ne me priverais pas de mes moyens de subsistance en cette fête. La marchandise de l&#039;homme m&#039;est parvenue. Que Dieu t&#039;accorde
+			<lb n="5"/>
+		in Gutem, o Abū ʿAlī. Ich habe also die Meinung von Dir und setze meine Hoffnung auf Dich, Du werdest es - Gott behüte Dich - nicht unterlassen, mir die Ware schleunigst zukommen zu lassen, und es sei darin
+		o Abû ʿAlî. I therefore have a good opinion of thee, and I entertain the hope unto thee that thou - may God protect thee - doest not fail to dispatch me the commodity with the utmost speed, and there may be (inclined) therein.
+		un bonheur (mérité), Abū ʿAlī! C&#039;est ce que je pense de toi et espère pour toi. Ne manque pas - que Dieu te garde! de m&#039;envoyer rapidement la marchandise et qu&#039;elle comporte
+			<lb n="6"/>
+		a piece of cloth for five carats for the servant. And Haitham sends thee greetings and tells thee &#034;send me cloth so that I may cut it out for trousers for us therefrom.
+		ein Stück Stoff um fünf Karate für den Diener. Und Haiṯam läßt Dich grüßen und sagt Dir &#034;Schick mir Stoff, damit ich ihn mir zu Hosen für uns zuschneide;
+		une pièce d&#039;étoffe  à cinq qīrāṭ-s pour l&#039;esclave. Hayṯam t&#039;envoie le salut et te dit : «Envoie-moi une pièce d&#039;étoffe pour que j&#039;en fasse couper des pantalons
+			<lb n="7"/>
+		denn es gibt von uns keinen, der Hosen hat. So laß uns dies schleunigst zukommen&#034;. Deinem Šēḫ Sālim geht es so gut, wie Du es am besten wünschen (kannst), und Gott sei gelobt.
+		For there is nobody who has trousers. So dispatch it to us with the utmost speed.&#034; Thy Shêkh Sâlim is as well as thou mightest best wish it, and God be praised.
+		pour nous, car aucun d&#039;entre nous n&#039;a de pantalons. Envoie-nous rapidement ceci.» Ton šayḫ est en bonne santé autant que tu puisses le souhaiter. Dieu soit loué!
+			<lb n="8"/>
+		Accept yourselves the greetings to all your family, and hail unto thee and mercy of God, and it has been written.
+		Empfanget Ihr selbst den Gruß und Gruß Eurer ganzen Familie, und Heil Dir und Barmherzigkeit Gottes, und man schrieb (es).
+		Je vous transmets le salut. Sur toute la famille le salut! Que le salut soit sur toi, ainsi que la miséricorde de Dieu! (Ceci a été) écrit.
+			<lb n="9"/>
+		À Abū Yaʿqūb et Abū ʿAlī al-Ḥasan b. ʿAbd al-Salām. De la part d&#039;al-Hayṯam b. Ḫālid et Yūsuf b. Yazīd. À délivrer au Fayyoum, à la grande mosquée,
+		An Abū Yaʿqūb und Abū ʿAlī al-Ḥusain b. ʿAbd as-Salām von al-Haiṯam b. Ḫālid und Yūsuf b. Yazīd in al-Fayyūm in der Hauptmoschee
+		To Abû Yaʿqûb and Abû ʿAlî al-Ḥusain ibn ʿAbd as-Salâm - from al-Haitham b. Khâlid and Yûsuf b. Yazîd in al-Fayyûm in the Great Mosque
+			<lb n="10"/>
+		at the linen-merchants&#039;. May God be gracious unto thee.
+		au quartier des marchands d&#039;étoffe. Transmets (le message), que Dieu te prenne en miséricorde!
+		bei den Linnenhändlern. Gott sei Dir gnädig.
+			<lb n="11"/>
+		Achte also, bei unserem Anrecht gegen Dich, darauf, wenn Du das Tuch sendest,
+		And the boy of thy father has brought us the frying-pan and now he is sending the tannin of Maimûn, if God wills. - I, therefore, will delay our claim unto thee, when thou has sent the cloth,
+		... so I shall look into how much you owe us when you have swent the garment.
+		Ton père t&#039;a coupé le collet-manteau. Il te l&#039;enverra avec Maymūn, si Dieu le veut! Tâche, par égard pour nous, lorsque tu enverras la pièce d&#039;étoffe,
+		Und der Bursche Deines Vaters hat uns die Backplatte gebracht und er sendet den Gerbstoff des Maimūn, so Gott will. So will ich denn unsern Anspruch zu Deinen Lasten aufschieben, wenn Du den Stoff sendest,
+		Vielleicht wird Dein Vater Dir den sāǧ aushändigen, er wird ihn Dir (dann) mit Maimūn schicken, so Gott will. So beachte (denn) unsern Rechtsanspruch Dir gegenüber, wenn Du den Stoff geschickt haben wirst
+			<lb n="12"/>
+		&lt;dass es soviel kostet wie&gt; die (mir) von Dir geschuldeten alten Karate, (also das Tuch) aus dem ich ihnen Hosen zuschneiden werde.
+		(de m&#039;envoyer aussi) les anciens qīrāṭ-s qui sont chez toi. Je leur ferai couper (dans la pièce d&#039;étoffe) des pantalons pour la fête, car ils sont nus. J&#039;ai chez toi cinq dinars à fleur de coin qui m&#039;appartiennent.
+		in dem (sich) die alten Karate (befinden), die bei Dir (stehen); ich werde ihn (den Stoff) zu Hosen für sie zum Feste zuschneiden. Denn wahrlich, sie sind nackt. Und ich habe bei Dir damit den Dīnār gut. Fünf frischgeprägte.
+		in which are the old carats, which are in thy possession; I shall cut trousers of it for them for the feast. For indeed they are naked; and thou owest me therefore the dînâr(s), five newly minted.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2135" xml:id="Bauden_Achat020" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BaudenAchat 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Bauden_Achat020</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم والحمد للّه تعالى 
+<lb n="2"/>  باع التّاجر شمس الدّين محمّد بن عسكر بن صَابر الطّرابلسي للقس بزيلَ لينَاونوا 
+<lb n="3"/>  ابن ساردوا قس قنصل طايفة الفرنج البنادقة جميع ما ذكر أنّه في ملكه بيده 
+<lb n="4"/>  وتصرّفه إلى تأريخه وذلك جميع الأسير الوارد صحبته في بحر الملح في عام تأريخه 
+<lb n="5"/>  المدعو مرين بن أنجلي البولي بيعا شرعيّا بثمن مبلغه عن الأسير المذكور فيه 
+<lb n="6"/>  من الذّهب الدّكات الفرنجي البندقي خمسة وثلاثون دكاتا الحال من ذلك خمسة وعشرون 
+<lb n="7"/>  دكاتا اعترف البائع المذكور بقبضها القبض الشّرعي وباقي ذلك وهو عشرة دكاتات 
+<lb n="8"/>  يقوم له بذلك جملة واحدة في سلخ عشرة <del rend="erasure" status="unremarkable">عسـ</del> أيّام أوائل من تأريخه تعاقدا على ذلك 
+<lb n="9"/>  لذلك تعاقدا شرعنا بإيجاب وقبول وتسلّم القس بزيل ليناونوا المذكور 
+<lb n="10"/>  فيه الأسير المبيع فيه التّسلّم الشّرعي وصار ذلك كلّه بيده وحوزه والدّرك في ذلك 
+<lb n="11"/>  حيث يجب شرعا شهد عليهما بذلك طائعين مختارين في صحّة منهما وجواز أمر بتـ<supplied reason="lost" cert="high">ـأر</supplied>يخ 
+<lb n="12"/>  خامس عشر جمادى الثّاني عام ثمانية عشر وثماني مائة وحسبنا اللّه ونعم الوكيل 
+<lb n="13 right"/>  شهدت عليهما بذلك 
+<lb n="14 right"/>  كتب أحمد بن <gap reason="illegible" precision="low" extent="3"/> الرّوضي 
+<lb n="15 right"/>  وعرفهما 
+<lb n="13 center"/>  مصلح فيه على كشط أيّام صحيح ذلك كتب محمد الرّيغي 
+<lb n="13 left"/>  شهدت عليهما بذلك 
+<lb n="14 left"/>  كتب محمّد بن أحمد بن محمّد الرّيغي 
+<lb n="15 left"/>  وعرفهما 
+<lb n="16 right margin"/>  الحمد للّه تعالى اعترف البايع الأسير أنّه قبض وتسلّم من القس بزيل لناونوا المشتري الأسير 
+<lb n="17 right margin"/>  العشرة دكاتات الباقية التّامّة قبضا شرعيّا ولم يتأخّر له قبله من الثّمن المذكور التّام شي قل ولا جل وأبرأه 
+<lb n="18 right margin"/>  من ذلك براه شرعيّة شهد عليه بذلك طائعا في سابع شهر رمضان سنة تأريخه الـ<gap reason="illegible" precision="low" extent="3"/> شهد<supplied reason="omitted" cert="high">ت</supplied> عليـ<supplied reason="omitted" cert="high">ـه</supplied> بذلك 
+<lb n="19 right margin"/>  كتب محمّد بن أحمد الرّيغي 
+<lb n="18 end of line"/>  شهدت عليه بذلك 
+<lb n="19 end of line"/>  كتب أحمد بن <gap reason="illegible" precision="low" extent="3"/> الرّوضي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ăl ḥamdu li l lāhi taʿālà 
+ <lb n="2"/>bāʿa ăt tāǧiru šamsu ăd dīni muḥammadu bnu ʿaskara bni ṣābir:ini ăṭ ṭarābulsiyyu li l qassi bazīla līnāwnū 
+ <lb n="3"/>ĭbni sārdū qassi qunṣuli ṭāyifaẗi ăl faranǧi ăl banādiqaẗi ǧamīʿa mā ḏakara ʾanna hu fī milki hi bi yadi hi 
+ <lb n="4"/>wa taṣarrufi hi ʾilà taʾrīḫi hi wa ḏālika ǧamīʿu ăl ʾasīri ăl wāridi ṣuḥbata hu fī baḥri ăl milḥi fī ʿāmi taʾrīḫi hi 
+ <lb n="5"/>ăl madʿuwwu marīna bni ʾanǧalī ăl būliyya bayʿ:an šarʿiyy:an bi ṯaman:in mablaġu hu ʿani ăl ʾasīri ăl maḏkūri fī hi 
+ <lb n="6"/>mina ăḏ ḏahabi ăd dukāti ăl faranǧiyyi ăl bunduqiyyi ḫamsaẗ:un wa ṯalāṯūna dukāt:an ăl ḥāllu min ḏālika ḫamsaẗ:un wa ʿišrūna 
+ <lb n="7"/>dukāt:an ĭʿtarafa ăl bāʾiʿu ăl maḏkūru bi qabḍi hā ăl qabḍa ăš šarʿiyya wa bāqī ḏālika wa huwa ʿašaraẗu dukātāt:in 
+ <lb n="8"/>yaqūmu la hu bi ḏālika ǧumlaẗ:an wāḥidaẗ:an fī salḫi ʿašaraẗi ʾayyām:in ʾawāʾila min taʾrīḫi hi taʿāqadā ʿalà ḏālika 
+ <lb n="9"/>li ḏālika taʿāqud:an šarʿiyy:an bi ʾīǧāb:in wa qubūl:in wa tasallama ăl qassu bazīlu līnāwnū ăl maḏkūru 
+ <lb n="10"/>fī hi ăl ʾasīra ăl mabīʿa fī hi ăt tasalluma ăš šarʿiyya wa ṣāra ḏālika kulla hu bi yadi hi wa ḥawzi hi wa ăd daraku fī ḏālika 
+ <lb n="11"/>ḥayṯu yaǧibu šarʿ:an šuhida ʿalay himā bi ḏālika ṭāʾiʿayni muḫtārayni fī ṣiḥḥaẗ:in min humā wa ǧawāzi ʾamr:in bi taʾrīḫi 
+ <lb n="12"/>ḫāmisa ʿašara ǧumādà ăṯ ṯānī ʿāma ṯamāniyaẗa ʿašara wa ṯamānī miʾaẗ:in wa ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="13"/>šahidtu ʿalay himā bi ḏālika 
+ <lb n="14"/>kataba ʾaḥmadu bnu *** ăr rawḍiyyu 
+ <lb n="15"/>wa ʿarafa humā 
+ <lb n="16"/>muṣlaḥ:un fī hi ʿalà kašṭ:in ʾayyām:in ṣaḥīḥu ḏālika kataba muḥammad:unu ăr rīġiyyu 
+ <lb n="17"/>šahidtu ʿalay himā bi ḏālika 
+ <lb n="18"/>kataba muḥammadu bnu ʾaḥmada bni muḥammad:ini ăr rīġiyyu 
+ <lb n="19"/>wa ʿarafa humā 
+ <lb n="20"/>ăl ḥamdu li l lāhi taʿālà ĭʿtarafa ăl bāyiʿu ăl ʾasīra ʾanna hu qabaḍa wa tasallama mina ăl qassi bazīla lināwnū ăl muštarī ăl ʾasīra 
+ <lb n="21"/>ăl ʿašaraẗa dukātāt:in ăl bāqiyaẗa ăt tāmmaẗa qabḍ:an šarʿiyy:an wa lam yataʾaḫḫar la hu qibala hu mina ăṯ ṯamani ăl maḏkūri ăt tāmmi šayʾ:un qalla wa lā ǧalla wa ʾabraʾa hu 
+ <lb n="22"/>min ḏālika barāʾaẗ:an šarʿiyyaẗ:an šuhida ʿalay hi bi ḏālika ṭāʾiʿ:an fī sābiʿi šahri ramaḍāna sanaẗa taʾrīḫi hi ăl *** šahidtu ʿalay hi bi ḏālika 
+ <lb n="23"/>kataba muḥammadu bnu ʾaḥmada ăr rīġiyyu 
+ <lb n="24"/>šahidtu ʿalay hi bi ḏālika 
+ <lb n="25"/>kataba ʾaḥmadu bnu *** ăr rawḍiyyu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu le Miséricordieux, le Tout miséricorde. Louange à Dieu Très-Haut.
+			<lb n="2"/>
+		Le marchand Shams al-Dīn Muḥammad ibn ʿAskar ibn Ṣābir al-Ṭarābulusī a vendu au prētre Basile Lignano [?],
+			<lb n="3"/>
+		fils de Sardo, prêtre du consul de la communauté des Francs vénitiens, tout ce qu&#039;il a mentionné être en sa possession directe
+			<lb n="4"/>
+		et de son droit d&#039;en disposer jusqu&#039;à la date de cet acte, c&#039;est-à-dire tout le captif qui est arrivé en sa compagnie de la mer Méditerranée la même année,
+			<lb n="5"/>
+		du nom de Marino, fils d&#039;Angelo, de Pola, en une vente légale pour un prix dont le montant pour le captif susdit
+			<lb n="6"/>
+		en ducats d&#039;or francs vénitiens est de 35 ducats, la partie exigible de cela correspondant à 25
+			<lb n="7"/>
+		ducats. Le vendeur susdit a reconnu les avoir reçus légalement. Le solde, 10 ducats,
+			<lb n="8"/>
+		il le lui versera en un paiement à l&#039;issue de dix jours à partir de la date de cet acte. Il ont tous deux conclu un accord légal sur cela
+			<lb n="9"/>
+		pour cela par offre et acceptation. Le prêtre Basile Lignano [?] susmentionné a reçu
+			<lb n="10"/>
+		légalement le captif ci-vendu. Celui-ci tout entier est devenu sa possession et sa propriété, le revendication à ce sujet,
+			<lb n="11"/>
+		là où elle est de rigueur, étant légale. Témoignage a été pris de cela pour eux, qui agissent de leur propre volonté et de leur propre chef, sains [de corps et d&#039;esprit] et en état de capacité juridique à la date du
+			<lb n="12"/>
+		15 jumādā II de l&#039;an 818. Dieu nous suffit. Quel excellent gardien Il fait!
+			<lb n="13"/>
+		J&#039;ai témoigné de cela pour eux
+			<lb n="14"/>
+		Écrit par Aḥmad ibn ... al-Rawḍī
+			<lb n="15"/>
+		et il les a identifiés
+			<lb n="16"/>
+		Corrigé avec la rature [dans le mot] ayyām au sein de ce [document]. Cela est authentique. Écrit par Muḥammad al-Rīghī.
+			<lb n="17"/>
+		J&#039;ai témoigné de cela pour eux
+			<lb n="18"/>
+		Écrit par Muḥammad ibn Aḥmad ibn Muḥammad al-Rīghī
+			<lb n="19"/>
+		et il les a identifiés
+			<lb n="20"/>
+		Louange à Dieu Très-Haus. Le vendeur du captif a reconnu qu&#039;il avait reçu et réceptionné du prêtre Basile Lignano [?], acquéreur du captif,
+			<lb n="21"/>
+		les dix ducats restants et complets légalement, et qu&#039;aucun retard dans son chef à son égard concernant le prix complet mentionné, peu ou prou, n&#039;a été constaté et pour lequel il lui a délivré
+			<lb n="22"/>
+		une quittance légale. Témoignage a été pris de cela pour lui, agissant de sa propre volonté, le sept ramaḍān de la même année [de la rédaction de l&#039;acte]... J&#039;ai témoigné de cela pour lui
+			<lb n="23"/>
+		Écrit par Muḥammad ibn Aḥmad al-Rīghī
+			<lb n="24"/>
+		J&#039;ai témoigné de cela pour lui
+			<lb n="25"/>
+		Écrit par Aḥmad ibn ... al-Rawḍī
+</ab></div>
+</body>
+</text>
+</TEI>

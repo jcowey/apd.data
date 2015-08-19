@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2140" xml:id="Bauden_Interpreters1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BaudenInterpreters</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Bauden_Interpreters1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم وصلوته على سيّدنا محمّد وآله 
+<lb n="2"/>  حضر عند شهوده في تأريخه من مجلس سيّدنا الفقير إلى اللّه تعالى الجناب العالي الرّيّسي 
+<lb n="3"/>  النّاصري ناصر الدّين أبي عبد اللّه محمّد أستادار سيّدنا ومولانا العبد الفقير إلى اللّه 
+<lb n="4"/>  تعالى المقر الأشرف العالي المولوي الإمامي العلّامي النّاصري ناصر الدّين صدر المدرّسين 
+<lb n="5"/>  <sic n="superfluous">المدرسين</sic> أبي عبد اللّه محمّد العطّار ملك الأمرا نائب السّلطنة المعظّمة بثغر الإسكندريّة المحروس 
+<lb n="6"/>  أعز اللّه أنصاره كل واحد من شمس الدّين محمّد بن العدل <supplied reason="omitted" cert="high">و</supplied>تقي الدّين محمّد بن الأسيوطي 
+<lb n="7"/>  وشمس الدّين محمّد بن عثمان ومحمّد بن عمر ومحمّد بن حمزة بن محمّد ومحمّد بن علي بن كندك 
+<lb n="8"/>  فهم جماعة التّراجمة المسلمون بالثّغر المذكور فيه ومردوخ بن شموال اليهودي 
+<lb n="9"/>  التّرجمان أيضا وأقسموا على أنفسهم باللّه تعالى جل ذكره وتقدّست أسماوه 
+<lb n="10"/>  ثم بنعمته على مولانا السّلطان الملك المويد خلّد اللّه تعالى ملكه وثبّت قواعد 
+<lb n="11"/>  دولته أنّهم من تأريخه وإلى مستقبل من الزّمن جميع البضائع الّتي 
+<lb n="12"/>  ترد إلى الثّغر والّتي بالخمس السّعيد لا يتحدّثوا في بيعها مع أحد 
+<lb n="13"/>  من التّجّار ولا من النّاس إلّا إن يعلموا بها الجناب المشار إليه فيه من غير تهاون 
+<lb n="14"/>  ولا تأخير وأنّهم متى والعياذ باللّه تعالى ظهر عليهم أو على أحد منهم الأمر 
+<lb n="15"/>  بخلاف ذلك كان عليه حنث اليمين ودرك القسامة الشّريفة وما يوجبه ولي الأمر 
+<lb n="16"/>  بسبب ذلك وكتبت هذه شاهدة عليهم لآمر بقضا<supplied reason="lost" cert="high">ئـ</supplied>ـه بتـ<supplied reason="lost" cert="high">ـأريـ</supplied>ـخ تاسع عشرين صفر سنة <supplied reason="omitted" cert="high">ا</supplied>ثنتين وعشرين <supplied reason="omitted" cert="high">و</supplied>ثمانمائة 
+<lb n="17 right"/>  شهدت عليـهم بذلك 
+<lb n="18 right"/>  كتبه محمّد بن عبد الرّحمن الخطيب 
+<lb n="19"/>  وعرفهم 
+<lb n="17 left"/>  شهدت عليهم بذلك 
+<lb n="18 left"/>  كتبه عبد الرّحمن بن محمّد بن <app type="BL"><lem resp="APD">المخاطب </lem><rdg resp="APD">المخاطبيّ</rdg></app> وعرفهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ṣalawātu hu ʿalà sayyidi nā muḥammad:in wa ʾāli hi 
+ <lb n="2"/>ḥaḍara ʿinda šuhūdi hi fī taʾrīḫi hi min maǧlisi sayyidi nā ăl faqīri ʾilà ăl lāhi taʿālà ăl ǧanābi ăl ʿālī ăr rayyisiyyi 
+ <lb n="3"/>ăn nāṣiriyyi nāṣiri ăd dīni ʾabī ʿabdi ăl lāhi muḥammad:in ʾustādāri sayyidi nā wa mawlā nā ăl ʿabdi ăl faqīri ʾilà ăl lāhi 
+ <lb n="4"/>taʿālà ăl maqarri ăl ʾašrafi ăl ʿālī ăl mawlawiyyi ăl ʾimāmiyyi ăl ʿallāmiyyi ăn nāṣiriyyi nāṣiri ăd dīni ṣadri ăl mudarrisīna 
+ <lb n="5"/>ʾabī ʿabdi ăl lāhi muḥammad:in ăl ʿaṭṭāri maliki ăl ʾumarāʾi nāʾibi ăs salṭanaẗi ăl muʿaẓẓamaẗi bi ṯaġri ăl ʾiskandariyyaẗi ăl maḥrūsi 
+ <lb n="6"/>ʾaʿazza ăl lāhu ʾanṣāra hu kullu wāḥid:in min šamsi ăd dīni muḥammadi bni ăl ʿadli wa taqiyyi ăd dīni muḥammadi bni ăl ʾasyūṭiyyi 
+ <lb n="7"/>wa šamsi ăd dīni muḥammadi bni ʿuṯmāna wa muḥammadi bni ʿumara wa muḥammadi bni ḥamzaẗa bni muḥammad:in wa muḥammadi bni ʿaliyy:in bni kundaka 
+ <lb n="8"/>fa hum ǧamāʿaẗu ăt tarāǧimaẗi ăl muslimūna bi ăṯ ṯaġri ăl maḏkūri fī hi wa mardūḫu bnu šimwāla ăl yahūdiyyu 
+ <lb n="9"/>ăt tarǧumānu ʾayḍ:an wa ʾaqsamū ʿalà ʾanfusi him bi ăl lāhi taʿālà ǧalla ḏikru hu wa taqaddasat ʾasmāʾu hu 
+ <lb n="10"/>ṯumma bi niʿmati hi ʿalà mawlā nā ăs sulṭāni ăl maliki ăl muʾayyadi ḫallada ăl lāhu taʿālà mulka hu wa ṯabbata qawāʿida 
+ <lb n="11"/>dawlati hi ʾanna hum min taʾrīḫi hi wa ʾilà mustaqbal:in mina ăz zamani ǧamīʿa ăl baḍāʾiʿi ăllatī 
+ <lb n="12"/>taridu ʾilà ăṯ ṯaġri wa ăllatī bi ăl ḫumsi ăs saʿīdi lā yataḥaddaṯū fī bayʿi hā maʿa ʾaḥad:in 
+ <lb n="13"/>mina ăt tuǧǧāri wa lā mina ăn nāsi ʾillā ʾin yuʿlimū bi hā ăl ǧanāba ăl mušāra ʾilay hi fī hi min ġayri tahāwun:in 
+ <lb n="14"/>wa lā taʾḫīr:in wa ʾanna hum matà wa ăl ʿiyāḏu bi ăl lāhi taʿālà ẓahara ʿalay him ʾaw ʿalà ʾaḥad:in min hum ăl ʾamru 
+ <lb n="15"/>bi ḫilāfi ḏālika kāna ʿalay hi ḥinṯu ăl yamīni wa daraku ăl qasāmaẗi ăš šarīfaẗi wa mā yūǧibu hu waliyyu ăl ʾamri 
+ <lb n="16"/>bi sababi ḏālika wa kutibat hāḏihi šāhidaẗ:an ʿalay him li ʾāmir:in bi qaḍāʾi hi bi taʾrīḫi tāsiʿ:in ʿišrīna ṣafara sanaẗi ĭṯnatayni wa ʿišrīna wa ṯamāni miʾaẗ:in 
+ <lb n="17"/>šahidtu ʿalay him bi ḏālika 
+ <lb n="18"/>kataba hu muḥammadu bnu ʿabdi ăr raḥmāni ăl ḫaṭību 
+ <lb n="19"/>wa ʿarafa hum 
+ <lb n="20"/>šahidtu ʿalay him bi ḏālika 
+ <lb n="21"/>kataba hu ʿabdu ăr raḥmāni bni muḥammadi bni ăl muḫāṭibi muḫāṭibiyyi wa ʿarafa hum 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the Name of God, the Compassionate, the Merciful. Be His blessings upon our Lord Muḥammad and his family.
+			<lb n="2"/>
+		On the date [given below], there came before his witnesses before the court of our Lord, the Needy of God, the Exalted, the Most Honourable, the Great Chief
+			<lb n="3"/>
+		al-Nāṣirī Nāṣir al-dīn Abū ʿAbd Allāh Muḥammad, Majordomo (ustādār) of our Lord and Master, the servant [of God], the Needy of God,
+			<lb n="4"/>
+		the Exalted, the Noblest and High Excellency, the Master, the Imam, the Erudite, al-Nāṣirī, Nāṣir al-dīn, the Leader of
+			<lb n="5"/>
+		the instructors, Abū ʿAbd Allāh Muḥammad al-ʿAṭṭār, Commander of the emirs, Viceroy in the protected place of Alexandria
+			<lb n="6"/>
+		- May God strengthen his helpers - each of the following: Shams al-dīn Muḥammad ibn al-ʿAdl, Taqī al-dīn Muḥammad ibn al-Asyūṭī,
+			<lb n="7"/>
+		Shams al-dīn Muḥammad ibn ʿUthmān, Muḥammad ibn ʿUmar, Muḥammad ibn Ḥamza ibn Muḥammad and Muḥammad ibn ʿAlī ibn Kundak,
+			<lb n="8"/>
+		being the community of Muslim interpreters in the aformentioned place, as well as Mardūkh ibn Shimwāl al-Yahūdī,
+			<lb n="9"/>
+		also interpreter. They swore upon themselves by God the Exalted - Glorious is His invocation and sanctified are His names - ,
+			<lb n="10"/>
+		then by His favours upon our Master, the Sultan al-Malik al-Muʾayyad - May God the Exalted perpetuate his rule and consolidate the supports
+			<lb n="11"/>
+		of his state - that from the date [of this document] and in the future they would not negotiate the selling of all merchandise
+			<lb n="12"/>
+		reaching the harbour which is liable to the auspicious quint with any
+			<lb n="13"/>
+		of the merchants nor anyone else unless they had informed the aforesaid Honourable about it without any neglect
+			<lb n="14"/>
+		and no delay. Whenever - God forbid! - the situation proved to be otherwise for them or one of them,
+			<lb n="15"/>
+		he would be a perjurer and liable for the penalty of the noble oath and what the holder of the authority would impose
+			<lb n="16"/>
+		because of that. This was written as a piece of evidence against them for those who would order its being judged upon, on the 29th of Ṣafar in the year 822 [27 March 1419].
+			<lb n="17"/>
+		I bore witness to that for them.
+			<lb n="18"/>
+		Muḥammad ibn ʿAbd al-Raḥmān al-Khaṭīb wrote it
+			<lb n="19"/>
+		and acknowledged them.
+			<lb n="20"/>
+		I bore witness to that for them.
+			<lb n="21"/>
+		ʿAbd al-Raḥmān ibn Muḥammad ibn al-Mukhāṭib wrote it and acknowledged them.
+</ab></div>
+</body>
+</text>
+</TEI>

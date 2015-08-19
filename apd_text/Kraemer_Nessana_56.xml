@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1052" xml:id="Kraemer_Nessana_56" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 56</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Nessana_56</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21487</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> اللّه الرّحمن الرّ<supplied reason="lost" cert="high">حيم</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“AK”">هذا</rdg></app> ما <gap reason="illegible" precision="low" extent="3"/> الأسود بن عد<supplied reason="lost" cert="high">يّ</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> ط <gap reason="illegible" precision="low" extent="3"/> ما بخمسـ<supplied reason="lost" cert="high">ـين</supplied> <supplied reason="lost" cert="high">دينر</supplied> فقد صدّڨ عليـ<supplied reason="lost" cert="high">ـه</supplied> بعـ<supplied reason="lost" cert="high">ـشرين</supplied> 
+<lb n="3"/>  <supplied reason="lost" cert="high">دينر</supplied> <gap reason="illegible" precision="low" extent="3"/> ثلثون دينر وشرط 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> قيار أن بـ<supplied reason="lost" cert="high">ـنـه</supplied> سا <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه من اسا أن بـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـع ا 
+<lb n="5"/>  <supplied reason="lost" cert="high">شهـ</supplied>د يزيد بن فائد وهـ<supplied reason="lost" cert="high">ـﮌ</supplied><gap reason="illegible" extent="1" unit="character" /> بن ربيع وعبد الرّحمن بن عويذ 
+<lb n="6"/>  وسعيد بن <supplied reason="lost" cert="high">عبـ</supplied>ـد الـ<supplied reason="lost" cert="high">ـلّه</supplied> كتب <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ﮣـ</supplied>ـن سنـ<supplied reason="lost" cert="high">ـة</supplied> سبع وستّين سلم 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi *** hāḏā mā *** ăl ʾaswadu bnu ʿadiyy:in 
+ <lb n="2"/>*** ṭ *** mā bi ḫamsīna dīnār fa qad ṣaddaqa ʿalay hi bi ʿišrīna 
+ <lb n="3"/>dīnār *** ṯalāṯūna dīnār wa šaraṭa 
+ <lb n="4"/>*** qiyār:un ʾanna bna hu sā *** hu man ʾsʾ ʾanna b**ā **ʿ ʾ 
+ <lb n="5"/>šahida yazīdu bnu fāʾid:in wa h** bnu rabīʿa wa ʿabdu ăr raḥmāni bnu ʿuwayḏ:in 
+ <lb n="6"/>wa saʿīd:u bnu ʿabdi ăl lāhi kataba **n sanaẗa sabʿ:in wa sittīna salām:un 
+ <lb n="7"/>*** 
+ <lb n="8"/>*** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+ <lb n="17"/>*** 
+ <lb n="18"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. This is (?) what ... agreed (?) ... al-Aswad ibn ʿAdī
+			<lb n="2"/>
+		... fifty dinars. And he gave to him for the sake of God (ṣadaqa) twenty
+			<lb n="3"/>
+		dinars ... thirty dinars, and he made the condition
+			<lb n="4"/>
+		that his son (?) shall ... whoever wishes that ...
+			<lb n="5"/>
+		Witnessed by Yazīd ibn Fāʾid and H... ibn Rabīʿ and ʿAbd ar-Raḥmān ibn ʿUwaidh
+			<lb n="6"/>
+		and Saʿīd ibn ʿAbd Allāh. Written by ...n, year 67. Salām.
+</ab></div>
+</body>
+</text>
+</TEI>

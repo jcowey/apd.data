@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1795" xml:id="Grohmann_APEL_362" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 362</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_362</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169536</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم الّذي مع الرّاعي زبلول من الغنم لأبي النّدا تمّا عشرة 
+<lb n="recto 2"/>  سوا عشرين رأس من جهة أبي السّمح أيّده اللّه 
+<lb n="recto 3"/>  أوّل أيّام زبلول الّتي عمل معي فيها أوّل يوم من كهيك مـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+<lb n="verso 1 right"/>  <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـلّه بقاه 
+<lb n="verso 2 right"/>  <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّه</supplied> <supplied reason="lost" cert="high">وكرامته</supplied> <supplied reason="lost" cert="high">وسعـ</supplied>ـادته 
+<lb n="verso 1 left"/>  من مكين بن عبد الصّمد بن عبدون 
+<lb n="verso 2 left"/>  أبو السّمح عقبة بن خليفة أعزّه اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăllaḏī maʿa ăr rāʿī zublūla mina ăl ġanami li ʾabī ăn nidāʾi tāmm:an ʿašaraẗu 
+ <lb n="2"/>siwā ʿišrīna raʾs min ǧihaẗi ʾabī ăs samḥi ʾayyada hu ăl lāhu 
+ <lb n="3"/>ʾawwalu ʾayyāmi zublūla ăllatī ʿamila maʿ ī fī hā ʾawwalu yawm:in min kahīka min sanaẗi 
+ <lb n="4"/>ʾilà *** bni *** ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="5"/>wa ʾadāma ʿizza hu wa karāmata hu wa saʿādata hu 
+ <lb n="6"/>min makīni bni ʿabdi ăṣ ṣamadi bni ʿabdūna 
+ <lb n="7"/>ʾabū ăs samḥi ʿuqbaẗu bnu ḫalīfaẗa ʾaʿazza hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. The total of that which is with the shepherd Zublûl of sheep belonging to Abu&#039;n-Nidâ amounts to ten [head] [ ... ... ... ...
+			<lb n="2"/>
+		apart-from twenty head on the side of Abu&#039;s-Samḥ, whom God strengthen.
+			<lb n="3"/>
+		The first day on which Zublūl has worked with me is the first of Choiak of the [year ... ... .. ... ...
+			<lb n="4"/>
+		[To So and So, son of So and So, may Go]d [prolong] his life,
+			<lb n="5"/>
+		[and may He cause his might, honour and happi]ness [to continue]
+			<lb n="6"/>
+		from Makîn b. ʿAbd aṣ-Ṣamad b. Abdûn
+			<lb n="7"/>
+		Abu&#039;s-Samḥ ʿUqba b. Ḫalîfa, may God exalt him.
+</ab></div>
+</body>
+</text>
+</TEI>

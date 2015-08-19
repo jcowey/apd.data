@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1115" xml:id="Dietrich_Eheurkunde_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DietrichEheurkunde 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Dietrich_Eheurkunde_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168971</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه ا<supplied reason="lost" cert="high">لرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيـ</supplied>ـم 
+<lb n="2"/>  أستحلفت خبا الـ<supplied reason="lost" cert="high">ـزّوجة</supplied> <supplied reason="lost" cert="high">البمپـ</supplied>ـن مع شهودها <app type="BL"><lem resp="APD">المـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“UB”">المذكورين</rdg></app> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا <unclear reason="undefined" cert="high">باللّه</unclear> 
+<lb n="3"/>  <gap reason="illegible" extent="16" unit="character" /> <supplied reason="lost" cert="high">يمينا</supplied> <supplied reason="lost" cert="high">مسـ</supplied>ـتوفاة جامعة لـمعاني الحلف أن شهودها شهد<supplied reason="lost" cert="high">وا</supplied> <supplied reason="lost" cert="high">بحقّها</supplied> <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> تقبض موحر صداقها 
+<lb n="4"/>  المشهودَ لها <supplied reason="lost" cert="high">به</supplied> وهو <supplied reason="lost" cert="high">خمسة</supplied> و<supplied reason="lost" cert="high">عـ</supplied>ـشرون دينارا ولا شيا منه ولا أحالت به ولا بشي منه ولا <gap reason="illegible" extent="11" unit="character" /> <supplied reason="lost" cert="high">شـ</supplied>ـي منه ولا تعوّضت عنه ولا عن شي منه ولا أبرأته منه ولا من شـ<supplied reason="lost" cert="high">ـي</supplied> منه 
+<lb n="5"/>  <supplied reason="lost" cert="high">و</supplied>لا أسقطت عنه بوجه إسقاط ولا وكّلت في شـ<supplied reason="lost" cert="high">ـي</supplied> <supplied reason="lost" cert="high">توكيـ</supplied><unclear reason="undefined" cert="high">ـلا</unclear> كا<supplied reason="lost" cert="high">ن</supplied> لوليّها في ذمّته إلى حين استحلا<supplied reason="lost" cert="high">فها</supplied> <supplied reason="lost" cert="high">فإنّـ</supplied>ـها تستحق قبضه من تركه فـحلفت كما استحلفت بمحضر من <supplied reason="lost" cert="high">رجـ</supplied>ـل عد<supplied reason="lost" cert="high">ل</supplied> 
+<lb n="6"/>  حسن بن علي بن حسين كان النّائب في الحكم بمدينة البهـ<supplied reason="lost" cert="high">ـنسا</supplied> <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">الفقيه</supplied> <supplied reason="lost" cert="high">الأجلّ</supplied> <supplied reason="lost" cert="high">الإمـ</supplied>ـام العالم تقـ<supplied reason="lost" cert="high">ـيّ</supplied> الدّ<supplied reason="lost" cert="high">ين</supplied> جمال العلما <gap reason="illegible" extent="1" unit="character" />دا<gap reason="illegible" extent="1" unit="character" /> الفضلا فخر الاصفيا أبي البقا صالح بن الفقيه شرف الدّين الحسين بن طلحة 
+<lb n="7"/>  القرشي الشّافعي متولّي <supplied reason="lost" cert="high">الحكم</supplied> <supplied reason="lost" cert="high">الشّريف</supplied> <gap reason="illegible" extent="12" unit="character" /> <supplied reason="lost" cert="high">و</supplied>إن أقام الشّهو<supplied reason="lost" cert="high">د</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">حقّه</supplied> <gap reason="illegible" extent="4" unit="character" /> هم الـ<supplied reason="lost" cert="high">ـعد</supplied>لين الخطّايين إسماعيل بن الـ<supplied reason="lost" cert="high">ـقاضي</supplied> الوجيه أبي الكرم محمّد بن إسماعيل والحاج بركات 
+<lb n="8"/>  كتابهما <supplied reason="lost" cert="high">و</supplied><unclear reason="undefined" cert="high">الطّلـ</unclear><supplied reason="lost" cert="high">ـبـ</supplied><unclear reason="undefined" cert="high">ـة</unclear> <unclear reason="undefined" cert="high">الّـ</unclear>ـ<supplied reason="lost" cert="high">ـتي</supplied> <gap reason="illegible" extent="26" unit="character" /> وكتابا منهم بإدخال الأوليا بعد أن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="16" unit="character" /> بالمشهود <supplied reason="lost" cert="high">عـ</supplied>ـليه عارف وما علم <unclear reason="undefined" cert="high">معها</unclear> 
+<lb n="9"/>  <supplied reason="lost" cert="high">ا</supplied>لشّهادة إلى حين ا<supplied reason="lost" cert="high">ستحلافها</supplied> <gap reason="illegible" extent="21" unit="character" /><unclear reason="undefined" cert="high">ه</unclear> وأمضاه بسوال من خبا <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">الزّوجة</rdg></app> واستحـ<supplied reason="lost" cert="high">ـلافها</supplied> <supplied reason="lost" cert="high">بتأريخ</supplied> <supplied reason="lost" cert="high"><supplied reason="omitted" cert="high">الـ</supplied>ـثّا[لث</supplied> <supplied reason="lost" cert="high">عشـ</supplied>ـر من صفر سنة تسع عشرة وستّمائة 
+<lb n="a 10"/>  حضرت 
+<lb n="a 11"/>  استحلاف المذكورة وشهدت على 
+<lb n="a 12"/>  النّائب في الحكم بما نسب إليه فيه 
+<lb n="a 13"/>  وكتب إسمعيل بن محمّد بن إسمعيل في <unclear reason="undefined" cert="high">تأريخه</unclear> 
+<lb n="a 14"/>  تم 
+<lb n="b 10"/>  حضرت 
+<lb n="b 11"/>  استحلاف المذكورة وشهدت 
+<lb n="b 12"/>  على النّائب في الحكم بما نسب إليه فيه 
+<lb n="b 13"/>  وكتب سلامة بن عبد الوهّاب ابن أسد في تأريخه 
+<lb n="c 10"/>  وبمثل ذلك أشهد 
+<lb n="c 11"/>  وكتب محمّد بن رضوان بن عبد الرّحمن 
+<lb n="c 12"/>  في تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ŭstuḥlifat ḫibāʾu ăz zawǧaẗu bi ăl yamīni maʿa šuhūdi hā ăl m*** maḏkūrīna ***ʾ bi ăl lāhi 
+ <lb n="3"/>**************** yamīn:an mustawfāẗ:an ǧāmiʿaẗ:an li maʿānī ăl ḥalfi ʾanna šuhūda hā šahidū bi ḥaqqi hā ******* *** taqbiḍu muʾaḫḫara ṣadāqi hā 
+ <lb n="4"/>ăl mašhūda la hā bi hi wa huwa ḫamsaẗ:un wa ʿišrūna dīnār:an wa lā šayʾ:an min hu wa lā ʾaḥālat bi hi wa lā bi šayʾ:in min hu wa lā *********** šayʾ min hu wa lā taʿawwaḍat ʿan hu wa lā ʿan šayʾ:in min hu wa lā ʾabraʾat hu min hu wa lā min šayʾ:in min hu 
+ <lb n="5"/>wa lā ʾasqaṭat ʿan hu bi waǧhi ʾisqāṭ:in wa lā wakkalat fī šayʾ:in tawkīl:an kāna li waliyyi hā fī ḏimmati hi ʾilà ḥīni ĭstiḥlāfi hā fa ʾinna hā tastaḥiqqu qabḍa hu min tarki hi fa ḥalafat ka mā ŭstuḥlifat bi maḥḍar:in min raǧul:in ʿadl:in 
+ <lb n="6"/>ḥasan:ini bni ʿaliyyi bni ḥusayn:in kāna ăn nāʾiba fī ăl ḥukmi bi madīnaẗi ăl bahnasā ʿani ăl faqīhi ăl ʾaǧalli ăl ʾimāmi ăl ʿālimi taqiyyi ăd dīni ǧamāli ăl ʿulamāʾi *dā* ăl fuḍalāʾi faḫri ăl ʾaṣfiyāʾi ʾabī ăl baqāʾi ṣāliḥ:ini bni ăl faqīhi šarafi ăd dīni ăl ḥusayni bni ṭalḥaẗa 
+ <lb n="7"/>ăl qurašiyyi ăš šāfiʿiyyi mutawallī ăl ḥukmi ăš šarīfi ************ wa ʾin ʾaqāma ăš šuhūda fī ḥaqqi hi **** humu ăl ʿadlayni ăl ḫaṭṭābayni ʾismāʿīla bna ăl qāḍī ăl waǧīhi ʾabī ăl karami muḥammad:ini bni ʾismāʿīla wa ăl ḥāǧǧa barakāt:in 
+ <lb n="8"/>kitābu humā wa ăṭ ṭalibaẗu ăllatī ************************** wa kitāb:an min hum bi ʾidḫāli ăl ʾawliyāʾi baʿda ʾan *** ** *** **************** bi ăl mašhūdi ʿalay hi ʿārif:un wa mā ʿalima maʿa hā 
+ <lb n="9"/>ăš šahādaẗa ʾilà ḥīni ĭstiḥlāfi hā ********************* hu wa ʾamḍà hu bi suʾāl:in min ḫibāʾa ***** ăz ø zawǧaẗi wa ĭstiḥlāfu hā bi taʾrīḫi ăṯ ṯāliṯa ʿašara min ṣafar:in sanaẗa tisʿa ʿašraẗa wa sitti miʾaẗ:in 
+ <lb n="10"/>ḥaḍartu 
+ <lb n="11"/>ĭstiḥlāfa ăl maḏkūraẗi wa šahidtu ʿalà 
+ <lb n="12"/>ăn nāʾibi fī ăl ḥukmi bi mā nusiba ʾilay hi fī hi 
+ <lb n="13"/>wa kataba ʾismāʿīlu bnu muḥammadi bni ʾismāʿīla fī taʾrīḫi hi 
+ <lb n="14"/>tamma 
+ <lb n="15"/>ḥaḍartu 
+ <lb n="16"/>ĭstiḥlāfa ăl maḏkūraẗi wa šahidtu 
+ <lb n="17"/>ʿalà ăn nāʾibi fī ăl ḥukmi bi mā nusiba ʾilay hi fī hi 
+ <lb n="18"/>wa kataba salāmaẗu bnu ʿabdi ăl wahhābi ĭbni ʾasad:in fī taʾrīḫi hi 
+ <lb n="19"/>wa bi miṯli ḏālika ʾašhadu 
+ <lb n="20"/>wa kataba muḥammadu bnu riḍwāna bni ʿabdi ăr raḥmāni 
+ <lb n="21"/>fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, d[es Barmherzigen, Güti]gen!
+			<lb n="2"/>
+		Der [Ehefrau] Ḫibāʾ ist trotz ihrer [oben angeführten (?)] Zeugen [der Ei]d auferlegt worden [...] .. bei Gott (?),
+			<lb n="3"/>
+		[... einen vollständig] geleisteten, alle Bedeutungen des Schwurs enthaltenden [Eid], daß ihre Zeugen [wahrheitsgemäß] Zeugnis abgelegt [haben ...] ...... den Rest ihres Ehegeschenks,
+			<lb n="4"/>
+		[für den] zu ihren Gunsten Zeugnis abgelegt worden ist, zu empfangen, nämlich [fünf]und[zw]anzig Dīnāre, nicht (nur) einen Teil davon. Auch hat sie ihn weder ganz noch teilweise abgetreten, weder ganz noch teil[weise...], weder ganz noch teilweise einen Gegenwert für ihn erhalten, ihn ihm weder ganz noch teilwe[ise] erlassen,
+			<lb n="5"/>
+		in keiner Weise auf ihn verzichtet und keinerlei (Einziehungs)auftrag [erteilt. (Vielmehr) hatte] ihr Muntwalt ihn (nur) in seiner Obhut bis zum Zeitpunkt ihrer Verteidig[ung, und (nun)] besteht sie auf ihrem Recht, ihn zu empfangen, anstatt darauf zu verzichten. So hat sie den Eid geleistet, wie er ihr auferlegt worden war, in Gegenwart eines unbescho[ltenen Man]nes, (nämlich des)
+			<lb n="6"/>
+		Ḥasan b. ʿAlī b. Ḥusain, ehemaligen Richterstellvertreters in der Stadt al-Bah[nasā in Vertretung des hochachtbaren Rechtsgelehrten, des gelehr]ten Imāms Taq[ī] ad-d[īn], der Zierde der Gelehrten, ... ... [..] .. der Ausgezeichneten, Ruhmes der Auserwählten Abū ʾl-Baqāʾ Ṣāliḥ, Sohnes des Rechtsgelehrten Šaraf ad-dīn al-Ḥusain b. Ṭalḥa,
+			<lb n="7"/>
+		des Quraišiten, des Šāfiʿiten, Präsidenten [des hohen Gerichts ... und] wenn er [zum Zwecke seines Wahrheitsbeweises (?)] die Zeuge[n] beibringt, (dann) ... ... die beiden Notare (?) und Brautwerber, nämlich Ismāʿīl, Sohn des angesehenen [Richters (?)] Abū ʾl-Karam Muḥammad b. Ismāʿīl und al-Ḥāǧǧ Barakāt.
+			<lb n="8"/>
+		Ihrer beider Urkunde [und] das Ges[u]ch (?), wel[ches (?) ...] und eine schriftliche Anweisung von ihnen, die Sachwalter heranzuziehen, nachdem [...] hatte (zwar) Kenntnis von dem [Ge]genstand des Zeugnisses, kannte aber mit ihr (?) (noch) nicht
+			<lb n="9"/>
+		[da]s Zeugnis (selbst) bis zum Zeitpunkt i[hrer Verteidigung ...] .. und er machte ihn (= den Eid, ḥilf) unwiderruflich auf Grund eines Antrages von seiten Ḫibāʾs ..... Und ihre Ver[eidigung (fand statt) am Datu]m des dr[eizeh]nten Ṣafar des Jahres sechshundertneunzehn.
+			<lb n="10"/>
+		Ich war zugegen
+			<lb n="11"/>
+		bei der Vereidigung der Genannten und bin Zeuge für
+			<lb n="12"/>
+		den Richterstellvertreter hinsichtlich dessen, was sich darin auf ihn bezieht.
+			<lb n="13"/>
+		Geschrieben hat (es) Ismāʿīl b. Muḥammad b. Ismāʿīl an ihrem Datum (?)
+			<lb n="14"/>
+		Schluß.
+			<lb n="15"/>
+		Ich war zugegen
+			<lb n="16"/>
+		bei der Vereidigung der Genannten und bin Zeuge
+			<lb n="17"/>
+		für den Richterstellvertreter hinsichtlich dessen, was sich darin auf ihn bezieht.
+			<lb n="18"/>
+		Geschrieben hat (es) Salāma b. ʿAbdalwahhāb b. Asad an ihrem Datum. 
+			<lb n="19"/>
+		Ich bezeuge dasselbe.
+			<lb n="20"/>
+		Geschrieben hat (es) Muḥammad b. Riḍwān b. ʿAbdarraḥmān
+			<lb n="21"/>
+		an ihrem Datum.
+</ab></div>
+</body>
+</text>
+</TEI>

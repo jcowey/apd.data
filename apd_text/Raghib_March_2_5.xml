@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="432" xml:id="Raghib_March_2_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106627</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم الـ<supplied reason="lost" cert="high">ـلّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أكرم اللّه وجهك بـر<supplied reason="lost" cert="high">حمـ</supplied>ـته وأبقا<supplied reason="lost" cert="high">ك</supplied> 
+<lb n="3"/>  و<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> ورضي <supplied reason="lost" cert="high">عنك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  أ<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">يسـ</supplied>ـعدك <gap reason="illegible" extent="7" unit="character" /> إلى مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" extent="4" unit="character" /> الأمر والحمد للّه كثيرا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وأوعدوني بأن نصير إلى الأمير <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  بما يكون إن شا اللّه وأرجـ<supplied reason="lost" cert="high">ـوا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  أقري أبا موسى هرون بن عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  وأبا العبّاس وجميع مـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ولم يمنعني أن أكتب إليهم <supplied reason="lost" cert="high">إلّا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <unclear reason="undefined" cert="high">تحبّ</unclear> <unclear reason="undefined" cert="high">لو</unclear> تكتب بالّذي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  أكرمك اللّه بطاعته و<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="right margin 1"/>  وأنا كتبت إليك بخبر الصّـ<supplied reason="lost" cert="high">ـبيـ</supplied>ـان وبخبر <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" />ى </lem><rdg resp="Diem">عمّتي</rdg></app> <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="right margin 2"/>  مذ كلّمني به <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">سـ[ـهّل</supplied> <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه </supplied>
+<lb n="verso"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">أحمد</supplied> بن عبد المومن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ăl lāhu waǧha ka bi raḥmati hi wa ʾabqā ka 
+ <lb n="3"/>wa ** ******** ** wa raḍiya ʿan ka *** 
+ <lb n="4"/>ʾan yusʿida ka ******* ʾilà m*** 
+ <lb n="5"/>**** ăl ʾamr wa ăl ḥamdu li l lāhi kaṯīr:an *** 
+ <lb n="6"/>wa ʾawʿadū nī bi ʾan naṣīra ʾilà ăl ʾamīri *** 
+ <lb n="7"/>bi mā yakūnu ʾin šāʾa ăl lāhu wa ʾarǧū *** 
+ <lb n="8"/>ʾaqriʾ ʾabā mūsà hārūna bna ʿ*** 
+ <lb n="9"/>wa ʾabā ăl ʿabbāsi wa ǧamīʿa man *** 
+ <lb n="10"/>wa lam yamnaʿ nī ʾan ʾaktuba ʾilay him ʾillā *** 
+ <lb n="11"/>tuḥibbu law taktubu bi ăllaḏī *** 
+ <lb n="12"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa ***** 
+ <lb n="13"/>wa ʾanā katabtu ʾilay ka bi ḫabari ăṣ ṣibyāni wa bi ḫabari **y ʿammat ø ī ********* 
+ <lb n="14"/>muḏ kallama nī bi hi **** **** sahhil ʾin šāʾa ăl lāhu 
+ <lb n="15"/>*** **** ʾaḥmad bn ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de D[ieu, clément et miséricordieux]!
+			<lb n="2"/>
+		Que Dieu honore ton visage par Sa [misé]ricorde et [te] conserve, [
+			<lb n="3"/>
+		et [..] .... [.. t]&#039;agrée [
+			<lb n="4"/>
+		[qu&#039;Il] te rende heureux .... [.] vers .[
+			<lb n="5"/>
+		. [..] . l&#039;affaire. Dieu soit loué à foison! [
+			<lb n="6"/>
+		Ils m&#039;ont promis que nous irions chez l&#039;émir [
+			<lb n="7"/>
+		comme il sera, si Dieu le veut! J&#039;espère [
+			<lb n="8"/>
+		Envoie à Abū Mūsā Hārūn v. ʿ[
+			<lb n="9"/>
+		et Abū l-ʿAbbās et tous ceux [
+			<lb n="10"/>
+		Ne m&#039;a empêché de leur écrire [que
+			<lb n="11"/>
+		tu le souhaites (?) si (?) tu écris ce que [
+			<lb n="12"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et .. [
+			<lb n="13"/>
+		Je t&#039;ai écrit au sujet des garçons et au sujet de .... [
+			<lb n="14"/>
+		depuis qu&#039;il m&#039;en a parlé [..] .. [....] facilite, si Dieu le veut!
+			<lb n="15"/>
+		] . [..] .. [Aḥmad] b. ʿAbd al-Muʾmin.
+</ab></div>
+</body>
+</text>
+</TEI>

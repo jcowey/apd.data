@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2158" xml:id="Frantz-MurphyTransformation" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Frantz-MurphyTransformation</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Frantz-MurphyTransformation</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  صح ذلك قبل الضّمان والمبلغ ستّة دنانير 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم والحمد للّه وحده نصف <unclear reason="undefined" cert="high">ثمن</unclear> 
+ <lb n="3"/>  أدّى <unclear reason="undefined" cert="high">پحوپس</unclear> بن <unclear reason="undefined" cert="high">هرمپسه</unclear> صاحب <unclear reason="undefined" cert="high">د</unclear><gap reason="illegible" extent="2" unit="character" /><unclear reason="undefined" cert="high">پر</unclear> بن مينا الطّطوني عن خراج زرعة بيت طوطـ<supplied reason="lost" cert="high">ـن</supplied> 
+ <lb n="4"/>  لسنة اثنتي وخمسين وأربعمائة الخراجيّة من العين الوازن 
+ <lb n="5 left"/>  ستّة دنانير 
+ <lb n="6 left"/>  ونصف <app type="BL"><lem resp="APD">ثمن </lem><rdg resp="LS">وثمن</rdg></app> 
+ <lb n="5 right"/>  النّصف من ذلك ثلثة دينار ربع 
+ <lb n="6 right"/>  ونصف ثمن 
+ <lb n="7"/>  وكتب محمّد بن حسن صح بخطّه عنه وعن أبي بكر بأمرهم ومحضرهم 
+ <lb n="8"/>  في شهر جمادى الآخر سنة خمس وخمسين وأربعمائة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ṣaḥḥa ḏālika qibala ăḍ ḍamāni wa ăl mablaġu sittaẗu danānīra 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa ăl ḥamdu li l lāhi waḥda hu niṣfu ṯumn:in 
+ <lb n="3"/>ʾaddà BḥwBs bnu hrmBsh ṣāḥibu d**Br bni mīnā ăṭ ṭuṭūniyyi ʿan ḫarāǧi zarʿaẗi bayti ṭūṭuna 
+ <lb n="4"/>li sanaẗi ĭṯnatay wa ḫamsīna wa ʾarbaʿi miʾaẗ:in ăl ḫarāǧiyyaẗi mina ăl ʿayni ăl wāzini 
+ <lb n="5"/>sittaẗa danānīra 
+ <lb n="6"/>wa niṣf niṣfa ø wa ṯumn:in ṯumn 
+ <lb n="7"/>ăn niṣfu min ḏālika ṯalāṯaẗu dīnār:in rubʿ:un 
+ <lb n="8"/>wa niṣfu ṯumn:in 
+ <lb n="9"/>wa kataba muḥammadu bnu ḥasan:in ṣaḥḥa bi ḫaṭṭi hi ʿan hi wa ʿan ʾabī bakr:in bi ʾamri him wa maḥḍari him 
+ <lb n="10"/>fī šahri ǧumādà ăl ʾāḫiri sanaẗa ḫams:in wa ḫamsīna wa ʾarbaʿi miʾaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  That is valid toward the guarantee. The total is six dinars
+		 <lb n="2"/>
+ 	  In the name of God the Beneficent the Merciful. Thanks be to God alone. Half of an eighth
+		 <lb n="3"/>
+ 	  (Bakhūs?) ibn (Harmisah?) master (ṣāḥib) of (D_ _ _r) ibn Mīnā al-Ṭuṭūnī for the tax on the fields (zarʿa) of the habitation (bayt) of Ṭūṭu[n
+		 <lb n="4"/>
+ 	  for the tax year two and fifty and four hundred in full weight coin
+		 <lb n="5"/>
+ 	  six dinars
+		 <lb n="6"/>
+ 	  and a half and an eighth
+ 	  and a half eighth
+		 <lb n="7"/>
+ 	  The half of that is three dinars a fourth
+		 <lb n="8"/>
+ 	  and a half of an eighth
+		 <lb n="9"/>
+ 	  And Muḥammad ibn Ḥasan wrote valid with his hand on his behalf and, on behalf of Abū Bakr, at their request and presence
+		 <lb n="10"/>
+ 	  in the month of jumādā al-ākhir of the year five and fifty and four hundred.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

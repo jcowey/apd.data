@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="831" xml:id="Guo_Quseir_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113612</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 left"/>  أخوه 
+<lb n="2 left"/>  فرج الحاطبي 
+<lb n="2 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  حضرة الشّيخ الأجل أبو مفرّج أدام اللّه سعادته 
+<lb n="4"/>  والّذي أعلمك به أنّي قد سيّرت إليك صحبة علي 
+<lb n="5"/>  بن فلّاح الحلّي ثلثي دقيق وهي قطعتين 
+<lb n="6"/>  فتسلّمهم <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">الجواب </lem><rdg resp="“AK”">الجراب</rdg></app> صحبة موصلها 
+<lb n="7"/>  وشريت عشر وربع ويبات الّتي طلبتهم 
+<lb n="8"/>  وشريت لك الكسوة وهي واصلة صحبتي 
+<lb n="9"/>  <expan><ex>إن</ex> <ex>شا</ex> <ex>اللّه</ex></expan> <app type="BL"><lem resp="APD">ولنا </lem><rdg resp="“Friedman, Qusayr p. 404; AK”">وأنا</rdg></app> خارج يوم الخميس <expan><ex>إن</ex> <ex>شا</ex> <ex>اللّه</ex></expan> تعل 
+<lb n="10"/>  واللّه اللّه وثم <app type="BL"><lem resp="APD">لهم </lem><rdg resp="“Friedman, Qusayr p. 404”">اللّه</rdg></app> تشحنوا ولا تعوقهم 
+<lb n="11"/>  من كل بد <app type="BL"><lem resp="“AK”">والسّلام </lem><rdg resp="APD">والسّلم</rdg></app> عليك ورحمة اللّه وبركاته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaḫū hu 
+ <lb n="2"/>faraǧ:uni ăl ḥāṭibiyyu 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="5"/>ḥaḍraẗu ăš šayḫi ăl ʾaǧallu ʾabū mufarriǧ:in ʾadāma ăl lāhu saʿādata hu 
+ <lb n="6"/>wa ăllaḏī ʾuʿlimu ka bi hi ʾan nī qad sayyartu ʾilay ka ṣuḥbaẗa ʿaliyyi 
+ <lb n="7"/>bni fallāḥa ăl ḥilliyyi ṯulṯay daqīq:in wa hiya qiṭʿatayni 
+ <lb n="8"/>fa tusallim hum *** ăl ǧawāb ǧirāb ṣuḥbaẗa mūṣili hā 
+ <lb n="9"/>wa šaraytu ʿašra wa rubʿa waybāt:ini ăllatī ṭalabta hum 
+ <lb n="10"/>wa šaraytu la ka ăl kiswaẗa wa hiya wāṣilaẗ:un ṣuḥbat ī 
+ <lb n="11"/>ʾin šāʾa ăl lāhu wa la ʾanā nā ḫāriǧ:un yawma ăl ḫamīsi ʾin šāʾa ăl lāhu taʿāla 
+ <lb n="12"/>wa ăl lāhu ăl lāhu wa ṯumma la ăl hum lāhu tašḥanū wa lā taʿūq hum 
+ <lb n="13"/>min kulli budd:in wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[From] his brother
+			<lb n="2"/>
+		Faraj al-Ḥāṭibī.
+			<lb n="3"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="5"/>
+		To the most noble Shaykh Abū Mufarrij - may God make his happiness everlasting! -.
+			<lb n="6"/>
+		... I have dispatched to you ...
+		This is to inform you that I have sent to you, to be accompanied by ʿAlī 
+			<lb n="7"/>
+		ibn Fallāḥ al-Ḥillī, two-thirds of the flour [I owed to you?], and they are [packed in] two containers.
+		... two thirds of the flour [as you requested? or that I owe your?] and they are in two qiṭʿas.
+			<lb n="8"/>
+		Please give them [to ... and then issue] a receipt, to be carried [back] by the carrier who delivered them.
+			<lb n="9"/>
+		I bought ten and a quarter waybas [of flour] as you had demanded.
+			<lb n="10"/>
+		I also bought you kiswa-cloaks, and they will be brought over by myself, 
+			<lb n="11"/>
+		God willing! We are supposed to leave the town this Thursday, God willing!
+			<lb n="12"/>
+		O God, O God! load them [as soon as possible] and do not delay in their [shipping]
+			<lb n="13"/>
+		by all means! Peace be upon you, God&#039;s mercy and blessings [be upon you].
+</ab></div>
+</body>
+</text>
+</TEI>

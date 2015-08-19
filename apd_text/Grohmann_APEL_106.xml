@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="307" xml:id="Grohmann_APEL_106" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 106 (= Chrest.Khoury I 35)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_106</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106548</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر دينار بن سليمن المودن ببلجسوق <app type="BL"><lem resp="APD">أقر </lem><rdg resp="Diem p. 71">إقرار</rdg></app> <app type="BL"><lem resp="APD">له </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="3"/>  طوع راغب <expan><abbr>و</abbr><ex>طا</ex><abbr>لب</abbr></expan> وأشهد على نفسه في صحّة 
+<lb n="4"/>  من <app type="BL"><lem resp="APD">عقله </lem><rdg resp="Thung p. 152">وجواز</rdg></app> <app type="BL"><lem resp="APD">أقر </lem><rdg resp="Thung p. 152">أمر</rdg></app> طائعا غـ<supplied reason="lost" cert="high">ـير</supplied> مكـ<supplied reason="lost" cert="high">ـره</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـجبر ولا مضّهد 
+<lb n="5"/>  ولا جاهلا بما <supplied reason="lost" cert="high">أقرّ</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">عليه</supplied> <supplied reason="lost" cert="high">وعند</supplied>ه وقبله 
+<lb n="6"/>  وفي ذمّته وخالص ماله دينا ثابتا وحقّا لازما 
+<lb n="7"/>  <app type="BL"><lem resp="APD">له </lem><rdg resp="Thung p. 38">لرمه</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Thung">ø</rdg></app> الإقرار به لزمزوم بن <app type="BL"><lem resp="APD">نضر </lem><rdg resp="APD">نضر</rdg></app> من القمح 
+<lb n="8"/>  الطّيّب <app type="BL"><lem resp="APD">الصّل </lem><rdg resp="Levi della Vida, confirmed by Thung p. 100 and 104 and Diem p. 71 and 112">النّصيل</rdg></app> السّالم من العلث أربعة <expan><abbr>أ</abbr><ex>ر</ex><abbr>ا</abbr><ex>د</ex><abbr>ب</abbr></expan> 
+<lb n="9"/>  وثلث يقوم بذلك في آخر <app type="BL"><lem resp="APD">صفر </lem><rdg resp="Diem p. 71/77">صيفة</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">ø</rdg></app> سنة ستّة وعشرين 
+<lb n="10"/>  بغير مدافعة ولا مما<supplied reason="lost" cert="high">نعـ</supplied>ـة ولا احتجاج بـ<supplied reason="lost" cert="high">ـحـ</supplied>ـجّة دون 
+<lb n="11"/>  الخروج من الـ<supplied reason="lost" cert="high">ـمبـ</supplied>ـلـ<supplied reason="lost" cert="high">ـغ</supplied> ا<supplied reason="lost" cert="high">لمذ</supplied>كـ<supplied reason="lost" cert="high">ـور</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـلـ<supplied reason="lost" cert="high">ـى</supplied> <supplied reason="lost" cert="high">تمـ</supplied>ـا<supplied reason="lost" cert="high">مه</supplied> <supplied reason="lost" cert="high">و</supplied>كماله و<supplied reason="omitted" cert="high">بـ</supplied>ـذلك 
+<lb n="12"/>  أقر وأشهد على نفسه في العشر الثّاني من محرّم 
+<lb n="13"/>  سنة سبع وعشرين وخمسمائة 
+<lb n="14"/>  شهدت عليه بذلك وكتب 
+<lb n="15"/>  إسمعيل بن زيد بن أحمد بن عبد اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra dīnāru bnu sulaymāna ăl muʾaḏḏinu bi bulǧusūqa ʾaqarra ʾiqrār la ø hu ø 
+ <lb n="3"/>ṭawʿ rāġib wa ṭālib wa ʾašhada ʿalà nafsi hi fī ṣiḥḥaẗ:in 
+ <lb n="4"/>min ʿaqli wa hi ǧawāzi ʾaqarra ʾamr:in ṭāʾiʿ:an ġayra mukrah:in wa lā muǧbar:in wa lā muḍḍahad:in 
+ <lb n="5"/>wa lā ǧāhil:an bi mā ʾaqarra fī hi ʾanna ʿalay hi wa ʿinda hu wa qibala hu 
+ <lb n="6"/>wa fī ḏimmaẗi hi wa ḫāliṣi māli hi dayn:an ṯābit:an wa ḥaqq:an lāzim:an 
+ <lb n="7"/>la lazima hu mina ø ăl ʾiqrāri ʾiqrāru bi hi li zamzūma bni naṣar:in naḍr:in naṣr:in mina ăl qamḥi 
+ <lb n="8"/>ăṭ ṭayyibi ăṣ ăn ṣalli naṣīli ăs sālimi mina ăl ʿalaṯi ʾarbaʿaẗa ʾarādiba 
+ <lb n="9"/>wa ṯulṯ:un yaqūmu bi ḏālika fī ʾāḫiri ṣafar:in ṣayfaẗi min ø sanaẗi sittaẗ:in wa ʿišrīna 
+ <lb n="10"/>bi ġayri mudāfaʿaẗ:in wa lā mumānaʿaẗ:in wa lā ĭḥtiǧāǧ:in bi ḥuǧǧaẗ:in dūna 
+ <lb n="11"/>ăl ḫurūǧi mina ăl mablaġi ăl maḏkūri ʿalà tamāmi hi wa kamāli hi wa bi ḏālika 
+ <lb n="12"/>ʾaqarra wa ʾašhada ʿalà nafsi hi fī ăl ʿašri ăṯ ṯānī min muḥarram:in 
+ <lb n="13"/>sanaẗa sabʿ:in wa ʿišrīna wa ḫamsi miʾaẗ:in 
+ <lb n="14"/>šahidtu ʿalay hi bi ḏālika wa kataba 
+ <lb n="15"/>ʾismāʿīlu bnu zaydi bni ʾaḥmada bni ʿabdi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux!
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Dînâr b. Sulaimân, the Muezzin in Bulǧusûq, has acknowledged, (viz.) he has acknowledged for him(self)
+		Dīnār Ibn Sulaymān, le muezzin à Bulǧusūq, a reconnu,
+			<lb n="3"/>
+		de bon gré, (le) désirant et demandant, et pris à témoin, étant dans la plénitude de sa faculté
+		voluntarily, desiring (and) demanding (it) and has called witnesses to testify to his obligation, he being in a state of sound
+			<lb n="4"/>
+		mentale, il a reconnu, de bon gré, n[on] cont[raint, ni for]cé, ni maltraité,
+		mind: he has acknowledged voluntarily, without compulsion and not against his will and not under constraint,
+			<lb n="5"/>
+		and not ignorant of what he has acknowledged herein, viz. that he owes, has in his possession, is in debt
+		ni ignorant de ce qu’[il a reconnu, qu’il a à son débit comme dette],
+			<lb n="6"/>
+		and under obligation for, with his undiminished property, as an obligatory debt and an obligation incumbent
+		sous sa protection et de son bien intégral, une dette  valide et une obligation l’engageant
+			<lb n="7"/>
+		à reconnaître à Zamzūm Ibn Naṣr comme blé
+		upon him on the basis of the acknowledgment thereto, to Zamzûm b. Naṣr of good, cleansed
+			<lb n="8"/>
+		bon, nettoyé et sans mélange, quatre a[rde]bs
+		wheat, free from any admixture, four artabas
+			<lb n="9"/>
+		and a third (of an artaba) with which he will present himself on the last Ṣafar of the year (five hundred and) twenty six
+		et un tiers; il (lui) livrera cela à la fin de ṣafar de l’année vingt-six (sic),
+			<lb n="10"/>
+		sans chercher d’ajournement, ni de prétexte de re[fu]s, ni d’invocation d’aucun [ar]gument, mais plutôt
+		without any delay, or pretext for refusal, or by bringing forward any argument beyond
+			<lb n="11"/>
+		paiera la som[me men]ti[onée entièremnt et] complètement.
+		the paying of the afore-mentioned amount comple[tely and] fully; thereto
+			<lb n="12"/>
+		he has acknowledged and has called witnesses to testify to his obligation in the second decade of Muḥarram
+		Il a reconnu cela et pris à témoin dans la deuxième décade de muḥarram
+			<lb n="13"/>
+		de l’année cinq cent vingt-sept.
+		of the year five hundred and twenty seven.
+			<lb n="14"/>
+		I have testified thereto for him and
+		J’ai témoigné de cela à son débit, et (l’)écrivit
+			<lb n="15"/>
+		Ismaʿîl b. Zaid b. Aḥmad b. ʿAbdallâh has written (it).
+		Ismāʿīl Ibn Zayd Ibn Aḥmad Ibn ʿAbd Allāh.
+</ab></div>
+</body>
+</text>
+</TEI>

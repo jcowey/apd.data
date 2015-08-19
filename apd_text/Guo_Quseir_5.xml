@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="821" xml:id="Guo_Quseir_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113602</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <expan><ex>بسم</ex> <ex>اللّه</ex> <ex>الرّحمن</ex> <ex>الرّحيم</ex></expan> 
+<lb n="recto 2"/>  يصل كتابي هذا إلى الأ<supplied reason="lost" cert="high">خ</supplied> <supplied reason="lost" cert="high">أبي</supplied> مفرّج لرعـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  الحاج عبد الكريم <gap reason="illegible" precision="low" extent="3"/>ى مسلّمه علي البطوي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  هذه الورقة تصـ<supplied reason="lost" cert="high">ـل</supplied> أحجامها تام السّلام وأفاد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  والحاج <gap reason="illegible" precision="low" extent="3"/> سلّمو عليك وقد سيّر لك كتاب عبد <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  علي قطـ<supplied reason="lost" cert="high">ـعتين</supplied> <gap reason="illegible" precision="low" extent="3"/> عبد الكريم وَحمو حسن وَقطعتين للـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  حامل هاذه 
+<lb n="verso 2"/>  الورقة اسمه 
+<lb n="verso 3"/>  عالي الحمّال 
+<lb n="verso 4"/>  العجوز 
+<lb n="verso 5"/>  حامل قطعين 
+<lb n="verso 6"/>  لعبد المحسن 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yaṣilu kitāb ī hāḏā ʾilà ăl ʾaḫi ʾabī mufarriǧ:in li rʿ*** *** 
+ <lb n="3"/>ăl ḥāǧǧ ʿabd ăl karīmi ***y musallimu hu ʿaliyy:uni ăl baṭawiyyu *** 
+ <lb n="4"/>hāḏihi ăl waraqaẗu taṣilu ʾaḥǧāmu hā tāmma ăs salāmi wa ʾafāda *** 
+ <lb n="5"/>wa ăl ḥāǧǧu *** sallamū ʿalay ka wa qad sayyara la ka kitāba ʿabdi *** 
+ <lb n="6"/>ʿaliyy qiṭʿatayni *** ʿabd ăl karīmi wa ḥamū ḥasan:in wa qiṭʿatayni li l*** 
+ <lb n="7"/>ḥāmilu hāḏihi 
+ <lb n="8"/>ăl waraqaẗi ĭsmu hu 
+ <lb n="9"/>ʿāliyy:uni ăl ḥammālu 
+ <lb n="10"/>ăl ʿaǧūzu 
+ <lb n="11"/>ḥāmilu qiṭʿayni 
+ <lb n="12"/>li ʿabdi ăl muḥsini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		This letter of mine is to Brother Abū Mufarrij [......]
+			<lb n="3"/>
+		Ḥājj ʿAbd al-Karīm [......]. ʿAlī al-Baṭawī is to deliver it.
+			<lb n="4"/>
+		As regarding this notice, the bulk of its contents (?) has arrived safely and in good condition. It says [that ......]
+			<lb n="5"/>
+		and Ḥājj [......] all send their regards to you. He had sent you the letter of ʿAbd [.....]
+			<lb n="6"/>
+		ʿAlī [regarding] two qiṭʿa-loads [.... for Ḥājj] ʿAbd al-Karīm and Ḥasan&#039;s father-in-law, and two qiṭʿa-loads for [......].
+			<lb n="7"/>
+		The carrier of this
+			<lb n="8"/>
+		notice, his name is
+			<lb n="9"/>
+		ʿAlī the porter,
+			<lb n="10"/>
+		the Old Man.
+			<lb n="11"/>
+		He has carried two qiṭʿa-loads
+			<lb n="12"/>
+		for ʿAbd al-Muḥsin.
+</ab></div>
+</body>
+</text>
+</TEI>

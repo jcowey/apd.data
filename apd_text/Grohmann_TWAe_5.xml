@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="440" xml:id="Grohmann_TWAe_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106632</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أبقاك اللّه وحفظك 
+<lb n="3"/>  <app type="BL"><lem resp="APD">سجل </lem><rdg resp="Diem">كيل</rdg></app> لفرّوخ بن خروف 
+<lb n="4"/>  <app type="BL"><lem resp="APD">مائتن </lem><rdg resp="Diem">مائپي</rdg></app> قسط عسل أباليم 
+<lb n="5"/>  ومائة قسط عسل رفيع 
+<lb n="6"/>  من الأمطار إن شا اللّه 
+<lb n="7"/>  أبقاك اللّه وحفظك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+ <lb n="3"/>siǧill:un kīl li farrūḫa bni ḫarūfa 
+ <lb n="4"/>miʾatayni miʾatay qisṭi ʿasali ʾabālīma 
+ <lb n="5"/>wa miʾaẗu qisṭi ʿasal:in rafīʿ:in 
+ <lb n="6"/>mina ăl ʾamṭāri ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+			<lb n="2"/>
+		Gott erhalte Dich und behüte Dich.
+			<lb n="3"/>
+		Order für Farrūḫ b. Ḫarūf:
+			<lb n="4"/>
+		zweihundert Xestes Ambrahonig
+			<lb n="5"/>
+		und hundert Xestes feinsten Honig
+			<lb n="6"/>
+		aus Schläuchen, so Gott will.
+			<lb n="7"/>
+		Gott erhalte Dich und behüte Dich.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1362" xml:id="Grohmann_Berlin_15" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 15 (= Chrest.Khoury I 16 = P.RagibQalamun 3)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_15</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169162</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 left"/>  ثبت عندي ذلك وكتب عبد الصّمد 
+<lb n="2 left"/>  بن إبراهيم بن ميمون بخطّه في تأريخه 
+<lb n="2 right = Rāġib 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3 = Rāġib 2"/>  أقر شبيب <app type="BL"><lem resp="APD">وشاذل </lem><rdg resp="Rāġib">وبارك</rdg></app> وحسين <app type="BL"><lem resp="APD">وقند </lem><rdg resp="APD">وفند </rdg><rdg resp="APD">وقند</rdg></app> أولاد <app type="BL"><lem resp="APD">تمّام </lem><rdg resp="APD">تمّام</rdg></app> بن <app type="BL"><lem resp="APD">قند </lem><rdg resp="APD">فند </rdg><rdg resp="APD">قند</rdg></app> الرّبعي من سكّان الضّيعة المعروفة 
+<lb n="4 = Rāġib 3"/>  بقوص <app type="BL"><lem resp="APD">برمودة </lem><rdg resp="variant preferred by Rāġib">نرمودة </rdg><rdg resp="APD">برمودة</rdg></app> وأشهدوا على نفوسهم في صحّة عقولهم وأبدانهم وجواز أمورهم 
+<lb n="5 = Rāġib 4"/>  طائعين غير مكرهين ولا مضطهدين أنّهم سلّموا إلى محمود بن رديني المقيم بهذه 
+<lb n="6 = Rāġib 5"/>  الضّيعة المقدّم ذكرها ربع دينار في دير الـ<supplied reason="lost" cert="high">ـقلمـ</supplied>ـون ملك إلى <app type="BL"><lem resp="APD">أبدا </lem><rdg resp="Khoury">أبد</rdg></app> <app type="BL"><lem resp="APD">ودهر </lem><rdg resp="added by Khoury">الأبدين</rdg></app> الداهرپن ودلك 
+<lb n="7 = Rāġib 6"/>  عن بعض موحر صداق أخته وردة ابنت <app type="BL"><lem resp="APD">ردين </lem><rdg resp="Rāġib">رديني</rdg></app> بن <app type="BL"><lem resp="APD">جواد </lem><rdg resp="APD">جواد</rdg></app> وهذا الرّبع دينار ملك بنصف وربع دينار 
+<lb n="8 = Rāġib 7"/>  لمحمود بن رديني بن <app type="BL"><lem resp="APD">جوّاد </lem><rdg resp="APD">جواد</rdg></app> ولـعقب عقبه إن شا باع وإن شا وهب وإن شا صدق <app type="BL"><lem resp="APD">لأبد </lem><rdg resp="Rāġib, Thung">لا</rdg></app> 
+<lb n="9 = Rāġib 8"/>  على يده ومتى أدرك محمود بن <app type="BL"><lem resp="APD">ردين </lem><rdg resp="Rāġib">رديني</rdg></app> بن <app type="BL"><lem resp="APD">جواد </lem><rdg resp="APD">جواد</rdg></app> درك أو علقة أو خصومة طارئ بدين 
+<lb n="10 = Rāġib 9"/>  أو مستحق بميراث أو <app type="BL"><lem resp="APD">يتدعّى </lem><rdg resp="Khoury, Rāġib">مدّعي</rdg></app> بشفعة كان على شبيب <app type="BL"><lem resp="APD">وشاذل </lem><rdg resp="Rāġib">وبارك</rdg></app> وحسين <app type="BL"><lem resp="APD">وفند </lem><rdg resp="APD">وفند </rdg><rdg resp="APD">وقند</rdg></app> 
+<lb n="11 = Rāġib 10"/>  أولاد <app type="BL"><lem resp="APD">تمام </lem><rdg resp="Rāġib">تمّام</rdg></app> بن <app type="BL"><lem resp="APD">فند </lem><rdg resp="APD">فند </rdg><rdg resp="APD">قند</rdg></app> الرّبعي الدّرك عليهم <sic n="superfluous">الحالص</sic> <app type="BL"><lem resp="APD">من </lem><rdg resp="Rāġib">الخلاص</rdg></app> حالص مالهم كاپن ما كان وپالع ما پلع وبدلك 
+<lb n="12 = Rāġib 11"/>  أشهدوا على نفوسهم وكتب في سلخ شعبان من سنة ثمان وأربعين وأربع مائة شهد على ذلك 
+<lb n="13 right = Rāġib 1-2nd witness"/>  شهد أبو <app type="BL"><lem resp="APD">دين </lem><rdg resp="Rāġib">الدّين</rdg></app> وراهب أولاد رمضان 
+<lb n="14 right = Rāġib 1-2nd witness"/>  على إقرار المقرّين بجميع ما فيه وكتب عنهم 
+<lb n="15 right = Rāġib 1-2nd witness"/>  بأمرهم ومحضرهم 
+<lb n="13 middle = Rāġib 3rd witness"/>  شهد موسى بن حسين على 
+<lb n="14 middle = Rāġib 3rd witness"/>  إقرار المقرّين بجميع ما فيه 
+<lb n="15 middle = Rāġib 3rd witness"/>  وكتب عنه بأمره ومحضره 
+<lb n="13 left = Rāġib 4th witness"/>  شهد أبو القسم بن تميم 
+<lb n="14 left = Rāġib 4th witness"/>  على إقرار المقرّين بجميع ما فيه 
+<lb n="15 left = Rāġib 4th witness"/>  وكتب عنه بأمره ومحضره 
+<lb n="16 right = Rāġib 5th witness"/>  شهد <del rend="erasure" status="unremarkable">على</del> عبد العزيز بن الحسين 
+<lb n="17 right = Rāġib 5th witness"/>  على المقرّين بما فيه وكتب بخطّه 
+<lb n="18 right = Rāġib 5th witness"/>  في تأريخه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ṯabata ʿind ī ḏālika wa kataba ʿabdu ăṣ ṣamadi 
+ <lb n="2"/>bnu ʾibrāhīma bni maymūn:in bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaqarra šabīb:un šubayb:un wa šāḏil:un bārik:un wa ḥusayn:un wa fayd:un find:un qnd ʾawlādu tamāma tammāma bni fayd:ini find:ini qnd ăr rabaʿiyyi rabʿiyyi min sukkāni ăḍ ḍayʿaẗi ăl maʿrūfaẗi 
+ <lb n="5"/>bi qūṣa barmūdaẗa narmūdaẗa tarmūdaẗa wa ʾašhadū ʿalà nufūsi him fī ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him 
+ <lb n="6"/>ṭāʾiʿīna ġayra mukrahīna wa lā muḍṭahadīna ʾanna hum sallamū ʾilà maḥmūdi bni rudayniyy:ini ăl muqīmi bi hāḏihi 
+ <lb n="7"/>ăḍ ḍayʿaẗi ăl muqaddami ḏikru hā rubʿa dīnār:in fī dayri ăl qalamūni milk ʾilà ʾabad:an ʾabadi ø ăl ʾabadīna wa dahra ăd dāhirīna wa ḏālika 
+ <lb n="8"/>ʿan baʿḍi muʾaḫḫari ṣadāqi ʾuḫti hi wardaẗa ĭbnati rudayni rudayniyyi bni ǧawāda ǧawwāda wa hāḏā ăr rubʿu dīnār:in milk:un bi niṣfi wa rubʿi dīnār:in 
+ <lb n="9"/>li maḥmūdi bni rudayniyyi bni ǧawāda ǧawwāda wa li ʿuqabi ʿaqbi hi ʾin šāʾa bāʿa wa ʾin šāʾa wahaba wa ʾin šāʾa ṣadaqa li lā ʾabad:in ø yada 
+ <lb n="10"/>ʿalà yadi hi wa matà ʾadraka maḥmūda bna rudayni rudayniyyi bni ǧawāda ǧawwāda darak:un ʾaw ʿulqaẗ:un ʾaw ḫuṣūmaẗ:un ṭāriʾ:un bi dayn:in 
+ <lb n="11"/>ʾaw mustaḥiqq:un bi mīrāṯ:in ʾaw yatadaʿʿà muddaʿī bi šufʿaẗ:in kāna ʿalà šubayb:in wa šāḏil:in bārik:in wa ḥusayn:in wa fayd:in find:in qnd 
+ <lb n="12"/>ʾawlādi tamāma tammāma bni fayd:ini find:ini qnd ăr rabaʿiyyi ăd daraku ʿalay himi ăl ḫalāṣu ḫāliṣu min ḫāliṣi māli him kāʾin mā kāna wa bāliġ mā balaġa wa bi ḏālika 
+ <lb n="13"/>ʾašhadū ʿalà nufūsi him wa kutiba fī salḫi šaʿbāna min sanaẗi ṯamān:in wa ʾarbaʿīna wa ʾarbaʿi miʾaẗ:in šuhida ʿalà ḏālika 
+ <lb n="14"/>šahida ʾabū ø ăd dīn:in dīni wa rāhib:un ʾawlādu ramaḍāna 
+ <lb n="15"/>ʿalà ʾiqrāri ăl muqirrīna bi ǧamīʿi mā fī hi wa kutiba ʿan hum 
+ <lb n="16"/>bi ʾamri him wa maḥḍari him 
+ <lb n="17"/>šahida mūsà bnu ḥusayn:in ʿalà 
+ <lb n="18"/>ʾiqrāri ăl muqirrīna bi ǧamīʿi mā fī hi 
+ <lb n="19"/>wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi 
+ <lb n="20"/>šahida ʾabū ăl qāsimi bnu tamīm:in 
+ <lb n="21"/>ʿalà ʾiqrāri ăl muqirrīna bi ǧamīʿi mā fī hi 
+ <lb n="22"/>wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi 
+ <lb n="23"/>šahida ʿabdu ăl ʿazīzi bnu ăl ḥusayni 
+ <lb n="24"/>ʿalà ăl muqirrīna bi mā fī hi wa kataba bi ḫaṭṭi hi 
+ <lb n="25"/>fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ceci a été enregistré chez moi. ʿAbd al-Ṣamad
+		Das steht vor mir fest und es hat geschrieben (es) geschrieben ʿAbd aṣ-Ṣamad
+		On m&#039;a apporté la preuve de cela, et ʿAbd al-Ṣamad
+			<lb n="2"/>
+		b. Ibrāhīm b. Maimūn mit seinem Schriftzuge an seinem Datum.
+		b. Ibrāhīm b. Maymūn a écrit de son écriture à la date (de l&#039;écrit).
+		Ibn Ibrāhīm Ibn Maymūn (l&#039;)écrivit de sa main, à la date.
+			<lb n="3"/>
+		Au nom de Dieu clément et miséricordieux !
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="4"/>
+		Anerkannt hat Šabīb und Šāḏil und Ḥusain und Faid, die Söhne des Tamām b. Faid vom Stamme Rabīʿa, von den Bewohnern der unter dem Namen
+		Šabīb, Bārik, Ḥusayn et Fayd, les fils de Tammām b. Fayd al-Rabaʿī des habitants du village connu sous le nom de
+		Šabīb, Šāḏil, Ḥusayn et Fayd, les fils de Tamām Ibn Fayd al-Rabʿī, appartenant aux habitants du village connu sous le nom
+			<lb n="5"/>
+		de Qūṣ Tarmūde, on reconnu et pris à témoins, étant dans la plénitude de leurs facultés physiques et mentales et leur capacité juridique,
+		Qūṣ Narmūda ont reconnu devant témoins dans la plénitude de leurs facultés mentales et physiques, leur capacité juridique et
+		Qūṣ Tarmūde bekannten Domäne und sie haben zu ihren Lasten bezeugen lassen im Zustande (voller) Gesundheit ihres Verstandes und Körpers und (im Stande) der Geschäftsfähigkeit,
+			<lb n="6"/>
+		de leur gré, non contraints ni maltraités, qu&#039;ils ont donné à Maḥmūd Ibn Rudaynī, qui habite ce
+		freiwillig, nicht erzwungen und nicht überwältigt: daß sie übergeben haben an Maḥmūd b. Rudainī, der seinen Wohnsitz in dieser
+		leur assentiment, sans violence, ni oppression qu&#039;ils ont livré à Maḥmūd b. Rudaynī qui réside dans ce
+			<lb n="7"/>
+		village mentionné ci-dessus un quart de dinar dans le monastère d&#039;al-[Qala]mūn comme propriété à jamais et pour toujours. Et ceci
+		village susnommé, un quart de dīnār dans le monastère d&#039;al-[Qalamūn], comme propriété pour toujours et jusqu&#039;à la fin des temps, et ce (quart de dīnār)
+		vorerwähnten Domäne hat, einen Vierteldīnār im Kloster des [Qalam]ūn zu eigen für immer und ewige Zeiten, und dies(er  Vierteldīnār)
+			<lb n="8"/>
+		comme solde du douaire de sa soeur Warda, la fille de Rudaynī b. Ǧawād. Ce quart de dinar de propriété (a été cédé) `pour trois quarts de dinar´
+		provient de la partie repoussée de la dot de sa soeur Warda, fille de Rudayn Ibn Ǧawwād; et ce quart de dīnār (en dessus est ajouté : pour un demin dīnār et un quart de dīnār) comme propriété
+		stammt aus dem rückständigen Teile des Ehegeschenkes seiner Schwester Warda, der Tochter des Rudain b. Ǧawwād. Und dieser Vierteldīnār (Nachtrag: an stelle eines halben und Vierteldīnār) ist  Eigentum
+			<lb n="9"/>
+		à Maḥmūd b. Rudaynī b. Ǧawād et sa postérité. S&#039;il le veut, il vendra ; s&#039;il le veut, il en fera don ; s&#039;il le veur, il en fera aumōne. Nul ne pourra s&#039;emparer
+		des Maḥmūd b. Rudainī b. Ǧawwād und seiner Deszendenten: wenn er will so verkauft er und wenn er will so schenkt er und wenn er will so gibt er (ihn) als Almosen für immer,
+		pour Maḥmūd Ibn Rudaynī Ibn Ǧawwād et les descendants de ses descendants, s&#039;il veut il le vend, s&#039;il veut il (le) donne comme cadeau et s&#039;il veut il le donne comme aumône pour toujours,
+			<lb n="10"/>
+		da sa propre main, et lorsque Maḥmūd Ibn Rudayn Ibn Ǧawwād a affaire à une question quelconque de dédommagement, ou d&#039;un droit légitime lié à cela ou d&#039;une controverse juridique avec quelqu&#039;un qui survient tout d&#039;un coup à cause d&#039;une dette,
+		de ce qui se trouve en sa possession. Si Maḥmūd b. Rudaynī b. Ǧawād est atteint d&#039;une revendication, d&#039;un litige, d&#039;un démêlé ou d&#039;une contestation de la part d&#039;un créancier imprévu,
+		eigenhändig und wenn Maḥmūd b. Rudain b. Ǧawwād ein Vindikation(sanspruch) oder irgend ein damit verbundener Rechtsanspruch treffen sollte oder ein Rechtsstreit von seitens eines (Gläubigers, der im Nachhinein) mit einer Geldforderung auftaucht,
+			<lb n="11"/>
+		d&#039;un réclamant un héritage ou prétendant à un droit de préemption, Šabīb, Bārik, Ḥusayn et Fayd,
+		oder einen Erbschaftsanspruch oder ein Vorkaufsrecht geltend macht, so obliegt es dem Šabīb und Šāḏil und Ḥusain und Faid,
+		ou qui a droit à un héritage ou qui revendique un droit de préemption, ainsi il incombe à Šabīb, Šāḏil, Ḥusayn et Fayd,
+			<lb n="12"/>
+		den Söhnen des Tamām b. Faid vom Stamme Rabīʿa die Schadloshaltung aus ihrem ungeschmälerten Vermögen, was immer es sei und worauf immer es sich belaufen möge, und dies
+		fils de Tamām Ibn Fayd al-Rabʿī, de dédommager de leur bien intégral, quoi que cela soit et quel qu&#039;en soit le montant.
+		les fils de Tammām b. Fayd al-Rabaʿī `devront l&#039;en déliver´ de leurs biens propres, quels qu&#039;n soient la nature et le montant. De cela
+			<lb n="13"/>
+		Et ils ont laissé témoigner de cela. On écrivit à la fin de šaʿbān de l&#039;année quatre cents quarante-huit. Témoins de cela:
+		haben sie zu ihren Lasten bezeugen lassen und man schrieb (es) am Ende des Šaʿbān des Jahres vierhundertundachtundvierzig. Das hat bezeugt:
+		ils ont pris témoins. Écrit fin šaʿbān de l&#039;année quatre cent quarante-huit. On a témoigné de cela.
+			<lb n="14"/>
+		A témoigné Abū Dīn et Rāhib, fils de Ramaḍān,
+		Ont témoigné Abū-l-dīn et Rāhib, les fils de Ramaḍān
+		Zeugen sind Abū Dīn und Rāhib, die Söhne des Ramaḍān
+			<lb n="15"/>
+		de la reconnaissance de ceux qui ont reconnu tout le contenu de (ce document), et l&#039;on écrivit à leur place,
+		de la reconnaissance des vendeurs de la totalité du contenu de (l&#039;écrit). On a écrit pour eux
+		für das Anerkenntnis der alles, was darin (steht), Anerkennenden, und et hat (es) an ihrer Statt
+			<lb n="16"/>
+		In ihrem Auftrag und ihrer Gegenwart geschrieben.
+		sur leur ordre et en leur présence.
+			<lb n="17"/>
+		A témoigné Mūsā Ibn Ḥusayn de
+		Zeuge ist Mūsā b. Ḥusain für
+			<lb n="18"/>
+		das Anerkenntnis der alles, was darin (steht), Anerkennenden,
+		la reconnaissance de ceux qui ont reconnu tout le contenu de (ce document),
+		la reconnaissance des vendeurs du contenu de (l&#039;écrit).
+			<lb n="19"/>
+		et l&#039;on écrivit à sa place, sur son ordre et en sa présence.
+		On a écrit pour lui sur son ordre et en sa présence.
+		und er hat (es) an seiner Statt in seinem Auftrage und in seiner Gegenwart geschrieben.
+			<lb n="20"/>
+		A témoigné Abū l-Qāsim Ibn Tamīm
+		Zeuge ist Abuʾ l-Qāsim b. Tamīm
+			<lb n="21"/>
+		de la reconnaissance de ceux qui ont reconnu tout le contenu de (ce document),
+		de la reconnaissance des vendeurs de la totalité du contenu (de l&#039;écrit).
+		für das Anerkenntnis der alles, was darin (steht), Anerkennenden,
+			<lb n="22"/>
+		et l&#039;on écrivit à sa place, sur son ordre et en sa présence.
+		On a écrit pour lui sur son ordre et en sa présence.
+		und er hat es an seiner statt in seinem Auftrage und in seiner Gegenwart geschrieben.
+			<lb n="23"/>
+		A témoigné ʿAbd al-ʿAzīz Ibn al-Ḥusayn
+		Zeuge ist ʿAbd al-ʿAzīz b. Ḥusain
+			<lb n="24"/>
+		de la reconnaissance de ceux qui ont reconnu le contenu de (ce document) et il écrivit de sa main,
+		de la reconnaissance des vendeurs du contenu de (l&#039;écrit). Il a écrit de son écriture
+		für die das, was darin (steht), Anerkennenden, und er hat (es) mit seinem Schriftzuge
+			<lb n="25"/>
+		à la date de (l&#039;écrit).
+		An seinem Datum geschrieben.
+		à sa date.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1786" xml:id="Grohmann_APEL_311" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 311</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_311</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169527</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2 = Diem verso 1"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عزّك</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وكرامتك</supplied> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وجعلني</supplied> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كلّ</supplied> </lem><rdg resp="Diem">وأعلمك</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الأسو</supplied>ا </lem><rdg resp="Diem">جعلت</rdg></app> فداك <app type="BL"><lem resp="APD">أنّي </lem><rdg resp="Diem">أنّي</rdg></app> أطلب الخروج إلى <app type="BL"><lem resp="APD">المقدّر </lem><rdg resp="Diem">المقتدر</rdg></app> في <app type="BL"><lem resp="APD">سفينتي </lem><rdg resp="Diem">عشيّتي</rdg></app> هذه فـ<supplied reason="omitted" cert="high">ـا</supplied>شتري لي قليل زنبق ودكن وزيت فلسطينن 
+ <lb n="3 = Diem verso 2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـس ريحيّة تسع وقيّة <app type="BL"><lem resp="APD">وقيّة </lem><rdg resp="Diem">وقيّة</rdg></app> تعمل لي عليها علب وتملأها لي زنبق وأرجوا أن تكون قد 
+ <lb n="4 = Diem verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">القسط</supplied> الكبير من <app type="BL"><lem resp="APD">القلي </lem><rdg resp="Diem">القلي</rdg></app> ونحن نتوقّع قدومك لكتابك إلي ولم أحمل <app type="BL"><lem resp="APD">الجدال </lem><rdg resp="Diem">الحمار</rdg></app> <app type="BL"><lem resp="APD">وركپ </lem><rdg resp="Diem">أن</rdg></app> <app type="BL"><lem resp="APD">الپك </lem><rdg resp="Diem">أركب</rdg></app> وڤد اكپر ألپى 
+ <lb n="5 = Diem verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـڤه </lem><rdg resp="Diem">معه</rdg></app> إن شا اللّه <app type="BL"><lem resp="APD">حتّى </lem><rdg resp="Diem">خصّ</rdg></app> <app type="BL"><lem resp="APD">تنفّذ </lem><rdg resp="Diem">نفسك</rdg></app> <app type="BL"><lem resp="APD">السّلم </lem><rdg resp="LS">بالسّلم</rdg></app> كثيرا مع الكتاب بخبرك وحالك ومهمّاتك 
+ <lb n="6 = Diem verso 5"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فإنّك</rdg></app> <app type="BL"><lem resp="APD">ڤلپل </lem><rdg resp="APD">تسرّني</rdg></app> <app type="BL"><lem resp="APD">ڤطن </lem><rdg resp="APD">بذلك</rdg></app> <app type="BL"><lem resp="APD">پاپا </lem><rdg resp="APD">وخذ</rdg></app> <app type="BL"><lem resp="APD">مڤطلپى </lem><rdg resp="APD">لي</rdg></app> وسعر القطن عيدپأ سپعه ارطال پدپپار وحسپى الله وحده 
+ <lb n="7 = Diem verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">في </lem><rdg resp="Diem">ـ <gap reason="illegible" extent="1" unit="character" />پره</rdg></app> هذه السّنة <unclear reason="undefined" cert="high">سارّة</unclear> كلّها تقرأ على الشّيخ إبراهيم السّلم عـ<gap reason="illegible" precision="low" extent="3"/>ـ <gap reason="illegible" extent="5" unit="character" /> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">سڤوڤه</unclear> </lem><rdg resp="UB">سقوفه</rdg></app> <unclear reason="undefined" cert="high">أنّ</unclear> عمارته مستقيمة 
+ <lb n="Diem verso 7 cf. P.Cair.Arab. 312 &#034;recto 1&#034;"/>  <gap reason="illegible" precision="low" extent="3"/> نصفه قسط قطران بليغ للغنم إن شا اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa *** karāmata ka wa *** ǧaʿala nī min *** kulli wa ø ʾuʿlimu ø ka ăl ø ʾaswāʾi ǧuʿiltu fidāʾa ka ʾan ʾin nī ʾaṭlubu ăl ḫurūǧa ʾilà ăl muqaddiri muqtadiri fī safīnat ʿašiyyat ī hāḏihi fa ĭštirī l ī qalīla zanbaq:in wa dakn:in wa zayt:in filasṭīniyy:in 
+ <lb n="3"/>***s rīḥiyyaẗ tasaʿu wiqiyyaẗ:an wa wiqiyyaẗ:an fī ø hi ø taʿmalu l ī ʿalay hā ʿulab wa tamlaʾu hā l ī zanbaq wa ʾarǧū ʾan takūna qad 
+ <lb n="4"/>*** ăl qisṭ ăl kabīr mina ăl qilà qilyi qly wa naḥnu natawaqqaʿu qudūma ka li kitābi ka ʾilay ya wa lam ʾaḥmili ăl ǧidāla ḥimāra ø ʾan wa ø rakiba ʾarkaba ʾilay ka wa qad ʾakṯara ăllatī 
+ <lb n="5"/>*** ***fh maʿa ø hu ʾin šāʾa ăl lāhu ḥattà ḫaṣṣa ḫuṣṣi tunaffiḏa nafsa ø ka ø bi ăs salāma salāmu salāmi kaṯīr:an maʿa ăl kitābi bi ḫabari ka wa ḥāli ka mahammāti wa muhimmāti ka 
+ <lb n="6"/>ø fa ø ʾinna ø ka ø tasurru ø nī ø bi ø ḏālika ø wa ø ḫuḏ *** l ø ī qalīla quṭn:in yā ʾabā maqṭalinà wa siʿru ăl quṭni ʿinda nā sabʿaẗu ʾarṭāl:in bi dīnār:in wa ḥasb ī ăl lāhu waḥda hu 
+ <lb n="7"/>*** fī **rh hāḏihi ăs sanaẗi sārraẗ kull hā taqraʾu ʿalà ăš šayḫi ʾibrāhīma ăs salāma ʿ*** ***** sfwfh suqūf hu ʾanna ʿimārata hu mustaqīmaẗ:un 
+ <lb n="8"/>*** niṣfu hu qisṭu qaṭrāna balīġ:in li l ġanami ʾin šāʾa ăl lāhu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [In the name of God, the Compassionate, the Merciful.]
+		 <lb n="2"/>
+ 	  [3-4 Wörter. Ich teile Dir (ferner) mit -] möge ich zu Deinem Lösegeld [gemacht werden], daß ich beabsichtige, heute Abend zu al-Muqtadir (?) abzureisen. Kaufe für mich also etwas Jasminessenz, Schwärze und palästinensisches Olivenöl
+ 	  [May God prolong your life and may He cause your might and honour to continue and may He make me for all evi]l your ransom. Verily I require (your) departure to al-Muqaddir in this my ship (?); so buy for me a little oil of jasmine and blackish colour (?) and Palestinian olive-oil
+ 	  (...) Verily I require (your) departure to the estimator in this my ship (?); (...)
+		 <lb n="3"/>
+ 	  [2-3 Wörter und so-und-so-viele] Parfüm[fläschchen], die jeweils eine Unze (Parfüm) aufnehmen, für die Du mir (bitte) Schachteln machst und in die Du mir die Jasminessenz einfüllst. Ich hoffe auch, daß Du [mir] bereits
+ 	  [... a ...] ... for scents containing one ounce, and you may make therein for me at her expenses boxes and fill them for me with oil of jasmine, and I hope that you have already
+		 <lb n="4"/>
+ 	  [besorgt hast 2-3 Wörter und] den großen [Qisṭ] Pottasche. Wir erwarten Dein Eintreffen (bei uns) gemäß Deinem Brief an mich, und ich habe auch den Esel nicht mitgebracht, so daß ich (meinerseits) zu Dir reiten könnte. Und er (?) hat diejenige(n) vermehrt, die
+ 	  [...] the great [xestes] of sesame-oil, and we expect that you will set to write to me, and I can not bear (any longer) the dispute, while he rode to you. And he has already added to that
+		 <lb n="5"/>
+ 	  [4-5 Wörter] dabei[hat], so Gott will. Laß Dich vielmals ganz besonders grüßen. Schreibe (mir), welche Neuigkeiten es über Dich gibt, wie es Dir geht und welche Anliegen Du hast,
+ 	  [...] ...... if God wills, till you transmit many greetings with your letter (informing me) about your news, condition and your enterprises.
+		 <lb n="6"/>
+ 	  [denn Du würdest mich damit erfreuen. Besorge mir auch] etwas Baumwoll(garn), o Abū Maqtalinī; der Preis des Baumwoll(garns) ist bei uns sieben Raṭl für einen Dinar. Gott allein ist mein Genüge!
+ 	  [...] little of cotton, O Abû Maqṭalenâ, the price of cotton being with us one dînâr for seven pounds (raṭl), and my sufficiency is God alone.
+		 <lb n="7"/>
+ 	  [4-5 Wörter]... dieses Jahr(es) in jeder Hinsicht erfreulich. Wir grüßen den Scheich Ibrāhīm [ca. 2 Wörter] mehrere Wörter
+ 	  [... was] in this year entirely pleasing. Greet the master Ibrâhîm ......... and ...... that his building is in good order.
+		 <lb n="8"/>
+ 	  [Und besorge 1-2 Wörter], die Hälfte hiervon ein Qisṭ wirksames (?) Pech für die Schafe, so Gott will!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

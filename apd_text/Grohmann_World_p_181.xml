@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="947" xml:id="Grohmann_World_p_181" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 181</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_181</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113699</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> س <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">عـ</supplied>ـاڤپه الهلاك واحمل په 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/>ك وان كاپپ پڤسى مرنصه وڤلپى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/>ك والسلام 
+<lb n="4"/>  <supplied reason="lost" cert="high">اشتـ</supplied>ـد الكتاب على الحمامة 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> زحتا وقعت بين يدي الجارية 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** s * ʿāqibaẗ:uni ăl halāku wa ĭḥmil bi hi *** 
+ <lb n="2"/>*** k wa ʾin kānat nafs ī marīḍaẗ:an wa qalb ī *** 
+ <lb n="3"/>*** k wa ăs salāmu 
+ <lb n="4"/>ĭštadda ăl kitābu ʿalà ăl ḥamāmaẗi 
+ <lb n="5"/>*** zḥtʾ waqaʿat bayna yadayi ăl ǧāriyaẗi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...]... its [e]nd will be destruction. So be ready to save him ...[...]
+			<lb n="2"/>
+		though my soul is sick and my heart [......]
+			<lb n="3"/>
+		[......] and greetings!
+			<lb n="4"/>
+		[......] the letter [t]ied to the pigeon,
+			<lb n="5"/>
+		[......] ...... until it (the pigeon) shall alight before the slave-girl.
+</ab></div>
+</body>
+</text>
+</TEI>

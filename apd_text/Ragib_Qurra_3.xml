@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="350" xml:id="Ragib_Qurra_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibQurra 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Qurra_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106581</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">فـإنّي</supplied> أحمد اللّه <supplied reason="lost" cert="high">الّذي</supplied> <supplied reason="lost" cert="high">لا</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">إ</supplied>له إلّا هو 
+<lb n="3"/>  <supplied reason="lost" cert="high">أمّا</supplied> بعد فـإن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> قريب 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> لضر فـإذا جـ<supplied reason="lost" cert="high">ـاك</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">كتبي</supplied> هذا فـاستو <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> به <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> لـأهل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <supplied reason="lost" cert="high">وا</supplied>لسّلم على من <supplied reason="lost" cert="high">اتّبع</supplied> 
+<lb n="10"/>  <supplied reason="lost" cert="high">الهدى</supplied> وكتب مسلـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">لبنن</supplied> 
+<lb n="11"/>  <supplied reason="lost" cert="high">ونسخ</supplied> الصّلت بن مسعو<supplied reason="lost" cert="high">د</supplied> 
+<lb n="12"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ر</supplied>بيع الأوّل سنة إحـ<supplied reason="lost" cert="high">ـدى</supplied> <supplied reason="lost" cert="high">وتسعين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fa ʾin nī ʾaḥmadu ăl lāha ăllaḏī lā 
+ <lb n="2"/>ʾilāha ʾillā huwa 
+ <lb n="3"/>ʾammā baʿdu fa ʾinna *** 
+ <lb n="4"/>*** qarīb 
+ <lb n="5"/>*** lḍr fa ʾiḏā ǧāʾa ka 
+ <lb n="6"/>kitāb ī hāḏā fa ʾstw *** 
+ <lb n="7"/>*** bi hi *** 
+ <lb n="8"/>*** li ʾahli *** 
+ <lb n="9"/>wa ăs salāmu ʿalà mani ĭttabaʿa 
+ <lb n="10"/>ăl hudà wa kataba muslimu bnu labnāna 
+ <lb n="11"/>wa nasaḫa ăṣ ṣaltu bnu masʿūd:in 
+ <lb n="12"/>fī rabīʿa ăl ʾawwali sanaẗa ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Je loue Dieu qui es la seule
+			<lb n="2"/>
+		divinité!
+			<lb n="3"/>
+		Maintenant passons aux affaires ...
+			<lb n="4"/>
+		... proche ...
+			<lb n="5"/>
+		Lorsque te parviendra
+			<lb n="6"/>
+		ma lettre que voici ...
+			<lb n="7"/>
+			<lb n="8"/>
+		... pour les gens de ...
+			<lb n="9"/>
+		Que le salut soit sur celui qui suit
+			<lb n="10"/>
+		la direction! Ecrit par Muslim b. Labnān
+			<lb n="11"/>
+		et copié par al-Ṣalt b. Masʿūd
+			<lb n="12"/>
+		en Rabīʿ I de l&#039;année 91.
+</ab></div>
+</body>
+</text>
+</TEI>

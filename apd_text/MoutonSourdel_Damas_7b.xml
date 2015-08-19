@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2376" xml:id="MoutonSourdel_Damas_7b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MariageSeparation 07b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdel_Damas_7b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> <supplied reason="lost" cert="high">كتبه</supplied> <gap reason="illegible" extent="12" unit="character" /> بن علي الرّحبي المعروف بابن الأعرج الهـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="11" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" extent="20" unit="character" /> وأشهد به علي نفسه طوعا في صحّة عقله <supplied reason="lost" cert="high">وبدنه</supplied> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="4"/>  <supplied reason="lost" cert="high">إ</supplied>نّني يا حسن ابنة <app type="BL"><lem resp="APD">غير </lem><rdg resp="APD">نمير</rdg></app> تزوّجتك تزويجا صحيحا بولی مرشد ومهر معلوم بشها<supplied reason="lost" cert="high">دات</supplied> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="5"/>  إليك وأولدتك ابنة أسميناها عابدة ولها يوميذ اثنا عشر سنة وجرت <supplied reason="lost" cert="high">بيننا</supplied> <supplied reason="lost" cert="high">مشاجرة</supplied> <gap reason="illegible" extent="11" unit="character" /> 
+<lb n="6"/>  عنك فيها بطلاق لا غيره وأوجبت تخريقك لكتاب صداقك وأنّك <gap reason="illegible" extent="22" unit="character" /> 
+<lb n="7"/>  في يدك بصحّة الزّوجيّة بيننا وحجّة بما يذكر لك علی فيه فأنت زوجتي و<gap reason="illegible" extent="17" unit="character" /> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> دنانير وازنة جيادا دينا في ذمّتي حالا وحقّا واجبا أقرّت <gap reason="illegible" extent="21" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un kataba hu ************ bnu ʿaliyy:ini ăr raḥabiyyu ăl maʿrūfu bi ĭbni ăl ʾaʿraǧi ăl h** 
+ <lb n="3"/>*** wa ʾašhada bi hi ʿalà nafsi hi ṭawʿ:an fī ṣiḥḥaẗi ʿaqli hi wa badani hi *** 
+ <lb n="4"/>ʾinna nī yā ḥusna ĭbnaẗa ġayr:in numayr:in tazawwaǧtu ki tazwīǧ:an ṣaḥīḥ:an bi waliyy:in muršid:in wa mahr:in maʿlūm:in bi šahādāti šahādāt:in *** 
+ <lb n="5"/>ʾilay ki wa ʾawladtu ki ĭbnaẗ:an ʾasmaynā hā ʿābidaẗa wa la hā yawmayiḏ:ini ĭṯnā ʿašara sanaẗ:an wa ǧarat bayna nā mušāǧaraẗ:un *** 
+ <lb n="6"/>ʿan ki fī hā bi ṭalāq:in lā ġayri hi wa ʾawǧabtu taḫrīqa ki li kitābi ṣadāqi ki wa ʾanna ki *** 
+ <lb n="7"/>fī yadi ki bi ṣiḥḥaẗi ăz zawǧiyyaẗi bayna nā wa ḥuǧǧaẗ bi mā yuḏkaru la ki ʿalay ya fī hi fa ʾanti zawǧat ī wa *** 
+ <lb n="8"/>*** danānīra wāzinaẗ:an ǧiyād:an dayn:an fī ḏimmat ī ḥāl:an wa ḥaqq:an wāǧib:an ʾaqarrtu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, le C]lé[ment, le Miséricordieux],
+			<lb n="2"/>
+		[Ceci est le document qu&#039;a écrit ...] b. ʿAlī al-Raḥabī connu comme le fils du boîteux (Ibn al-Aʿraǧ) al-H[...]
+			<lb n="3"/>
+		[...] il fait témoigner à ce sujet et à ses propes dépens, de plein gré, étant sain d&#039;esprit [et de corps ...]
+			<lb n="4"/>
+		«Je t&#039;ai épousée, ô Ḥusn, fille de Ġayr, selon un mariage légitime avec un tuteur responsable (walī muršid), une dot explicite (mahr maʿlūm) et des témoigna[ges ...]
+			<lb n="5"/>
+		envers toi et je t&#039;ai donné pour enfant une fille que nous avons nommée ʿĀbida et qui a aujourd&#039;hui 12 ans, puis est survenue [entre nous deux une dispute ...]
+			<lb n="6"/>
+		sans autre solution que me séparer de toi par une répudiation. Je t&#039;ai contrainte à déchirer ton document de dot (kitāb ṣadāq) et certes tu [...]
+			<lb n="7"/>
+		entre tes mains, grâce à la validité de l&#039;état de mariage entre nous et à la preuve de ce ce qui y est dit en ta faveur et à mes dépens car tu es ma femme [...]
+			<lb n="8"/>
+		[...] dinars de poids juste, de bon aloi, comme dette immédiate sous ma garantie et comme obligation contraignante. J&#039;atteste [...]»
+</ab></div>
+</body>
+</text>
+</TEI>

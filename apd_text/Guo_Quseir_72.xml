@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="971" xml:id="Guo_Quseir_72" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 72</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_72</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113716</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وعلى حامل كتاب يوقّق القاضي عليه ويختمه 
+<lb n="2"/>  <app type="BL"><lem resp="APD">وسلّمه </lem><rdg resp="AK">ويسلّمه</rdg></app> لصاحب الرّهن بيدك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa ʿalà ḥāmili kitāb:in yuwaqqifi ăl qāḍī ʿalay hi wa yaḫtim hu 
+ <lb n="2"/>wa sallim yusallim hu li ṣāḥibi ăr rahni bi yadi ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[A]nd the carrier of the letter ought see to that the judge looks at it and seals it off with a stamp.
+		The carrier of the letter [should see to it] that the judge looks at it and seals it off with a stamp. 
+			<lb n="2"/>
+		And [then] deliver it, by hand, to the person who owes the rahn-security deposit. 
+		And [then] you deliver it, by hand, to the person who pledges commenda property for a debt (ṣāḥib al-rahn).
+</ab></div>
+</body>
+</text>
+</TEI>

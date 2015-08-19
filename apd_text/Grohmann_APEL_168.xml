@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1623" xml:id="Grohmann_APEL_168" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 168</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_168</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169379</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> د<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـونه بهو<supplied reason="lost" cert="high">ه</supplied> من أهل دير أبي أمونه وإ<supplied reason="lost" cert="high">سـ</supplied>ـحق بن يحـ<supplied reason="lost" cert="high">ـنّس</supplied> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>له من أهل مدينة أشمون وعبد الكريم <gap reason="illegible" extent="1" unit="character" /> بن <supplied reason="lost" cert="high">يـ</supplied>ـزيد 
+<lb n="4"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">أهل</supplied> <supplied reason="lost" cert="high">مدينة</supplied> <supplied reason="lost" cert="high">أشـ</supplied>ـمون شهد على ذلك محمّد بن زيد الجمحي وكتب اسمه وشهادته 
+<lb n="5"/>  <supplied reason="lost" cert="high">بخطّه</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن سيّار الهاشمي من صحابة السّلم وعبد اللّه بن عيسى الأنصاري 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـمپن</unclear> وعبد الواحد بن إسمعيل المعافري وسعيد 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن بن ذكر اللّيثي <app type="BL"><lem resp="APD">وسيّد </lem><rdg resp="APD">وسند</rdg></app> بن أبي بعير الـ<supplied reason="omitted" cert="high">ـكـ</supplied>ـاتب وكتب 
+<lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">في</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سـ</supplied>ـنة تسع وخمسين ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** d*** *** 
+ <lb n="2"/>*** mūnah bihūh min ʾahli dayri ʾabī ʾamūnaha wa ʾisḥāq bn yuḥannisa 
+ <lb n="3"/>*** ***lah min ʾahli madīnaẗi ʾašmūna wa ʿabd ăl karīmi * bn yazīda 
+ <lb n="4"/>min ʾahli madīnaẗi ʾašmūna šahida ʿalà ḏālika muḥammadu bnu zayd:ini ăl ǧumaḥiyyu wa kataba ĭsma hu wa šahādata hu 
+ <lb n="5"/>bi ḫaṭṭi hi wa *** bnu sayyāra ăl hāšimiyyu min ṣaḥābaẗi ăs salmi wa ʿabdu ăl lāhi bnu ʿīsà ăl ʾanṣāriyyu 
+ <lb n="6"/>*** ***mBn wa ʿabdu ăl wāḥidi bnu ʾismāʿīla ăl maʿāfiriyyu wa saʿīdu 
+ <lb n="7"/>*** ***nu bnu ḏakar:in ăl layṯiyyu wa sanadu sayyidu bnu ʾabī baʿīr:in ăl kātibu wa kataba 
+ <lb n="8"/>*** fī *** sanaẗa tisʿ:in wa ḫamsīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		M]ône Piheu of the people of Deir Abî Amûne, and Isaac (Isḥâq) b. John (Yoḥannes)
+			<lb n="3"/>
+		]le of the people of the town of Ašmûn, and ʿAbd al-Karîm b. Yazîd
+			<lb n="4"/>
+		of the people of the town of Ašmūn. There have testified thereto Muḥammad b. Zaid, the Ǧumaḥite, who has written his name and his testimony
+			<lb n="5"/>
+		[with his (own) handwriting. And So and So], son of Sayyâr, the Hâšimite, of the companions of as-Salm, and ʿAbdallâh b. ʿÎsâ, the Anṣârite,
+			<lb n="6"/>
+		[...] ..... and ʿAbd al-Wâḥid b. Ismaʿîl, the Maʿâfirite, and Saʿîd,
+			<lb n="7"/>
+		[............] . b. Ḏakar, the Laiṯite, and Sayyid b. Abî Baʿîr, the scribe, and he has written (it)
+			<lb n="8"/>
+		[in ......... of the y]ear one hundred and fifty-nine.
+</ab></div>
+</body>
+</text>
+</TEI>

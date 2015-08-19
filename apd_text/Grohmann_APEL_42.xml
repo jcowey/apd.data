@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1025" xml:id="Grohmann_APEL_42" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 042</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_42</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168911</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه ا<supplied reason="lost" cert="high">لرّحمن</supplied> <supplied reason="lost" cert="high">الـ[ـرّ</supplied>حـ<supplied reason="lost" cert="high">ـيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">أصدق</supplied> <supplied reason="lost" cert="high">حميد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شهران</supplied> <supplied reason="lost" cert="high">أصـ[ـدق</supplied> <gap reason="illegible" extent="12" unit="character" /> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">العين</supplied> 
+<lb n="3"/>  الجيّد <supplied reason="lost" cert="high">المصريّ</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عـ</supplied>ـشرين دينارا <unclear reason="undefined" cert="high">طـ</unclear><supplied reason="lost" cert="high">ـري</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">تاما</supplied> 
+<lb n="4"/>  <supplied reason="lost" cert="high">وافيـ</supplied>ـا وأبرأته من ذلك براه قبض واستيفى ويبقى لها <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دينـ</supplied>ـارا موحر لها عليه إلى انقضى ثمانية حجج متواليات 
+<lb n="5"/>  أوّلهن تأريخ هذا الكتاب وعليه أن يتّقي اللّه عز وجـ<supplied reason="lost" cert="high">ـلّ</supplied> <supplied reason="lost" cert="high">فيها</supplied> <supplied reason="lost" cert="high">ويحسن</supplied> <supplied reason="lost" cert="high">صحبتها</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـالمعروف كما أمره اللّه تبارك وتعالى 
+<lb n="6"/>  به في كتابه وسنّة محمّد رسوله صلّى اللّه عليه وعلى آ<supplied reason="lost" cert="high">له</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">فيـ</supplied>ـما عليه من ذلك ودرجة زائدة كقول 
+<lb n="7"/>  اللّه تعالى وللرّجال عليهن درجة واللّـ<supplied reason="lost" cert="high">ـه</supplied> عزيز حكيم وتولّى تزويجها <gap reason="illegible" extent="19" unit="character" /> وبأمرها 
+<lb n="8"/>  ورضائها وتوكيلها إيّاه بذلك وإشهادها لها <supplied reason="lost" cert="high">وعليـ</supplied>ـها وهي يومئذ بنت بكر بالغ صحيحة العقل 
+<lb n="9"/>  والبدن جائزة الأمر لها وعليها فـ<supplied reason="lost" cert="high">ـرضي</supplied> <supplied reason="lost" cert="high">حميد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شهران</supplied> <supplied reason="lost" cert="high">بهذا</supplied> الصّداق المذكور عاجله وآجله 
+<lb n="10"/>  وعلى الشّرائط المذكورة فيه وقبل <supplied reason="lost" cert="high">الزّوج</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">النّكاح</supplied> المقر بما شرط له وعليه 
+<lb n="11"/>  <unclear reason="undefined" cert="high">بزوج</unclear> <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">صحّة</supplied> <supplied reason="lost" cert="high">عقولهم</supplied> <supplied reason="lost" cert="high">وأبدانهم</supplied> <supplied reason="lost" cert="high">وجواز</supplied> <supplied reason="lost" cert="high">أمورهم</supplied> <supplied reason="lost" cert="high">طائعين</supplied> <supplied reason="lost" cert="high">غير</supplied> <supplied reason="lost" cert="high">مكرهين</supplied> و<supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">مجـ</supplied>ـبرين ولا <supplied reason="lost" cert="high">مضـ</supplied>ـطّهدين 
+<lb n="12"/>  <gap reason="illegible" extent="6" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa ḥamīdu ḥumaydu bnu šahrāna ʾaṣdaqa ************ mina ăl ʿayni 
+ <lb n="3"/>ăl ǧayyidi ăl miṣriyyi *** ʿišrīna dīnār:an ṭarī *************** tāmm:an 
+ <lb n="4"/>wāfiy:an wa ʾabraʾat hu min ḏālika barāʾaẗa qabḍ:in wa ĭstīf:an wa yabqà la hā *** dīnār:an muʾaḫḫar la hā ʿalay hi ʾilà ĭnqiḍà ṯamāniyaẗi ḥiǧaǧ:in mutawāliyāt:in 
+ <lb n="5"/>ʾawwalu hunna taʾrīḫu hāḏā ăl kitābi wa ʿalay hi ʾan yattaqiya ăl lāha ʿazza wa ǧalla fī hā wa yuḥsina ṣuḥbata hā bi ăl maʿrūfi kamā ʾamara hu ăl lāhu tabāraka wa taʿālà 
+ <lb n="6"/>bi hi fī kitābi hi wa sunnaẗi muḥammad:in rasūli hi ṣallà ăl lāhu ʿalay hi wa ʿalà ʾāli hi **** fī mā ʿalay hi min ḏālika wa daraǧaẗ:un zāʾidaẗ:un ka qawli 
+ <lb n="7"/>ăl lāhi taʿālà wa li ăr riǧāli ʿalay hinna daraǧaẗ:un wa ăl lāhu ʿazīz:un ḥakīm:un wa tawallà tazwīǧa hā ******************* wa bi ʾamri hā 
+ <lb n="8"/>wa riḍāʾi hā wa tawkīli hā ʾiyyā hu bi ḏālika wa ʾišhādi hā la hā wa ʿalay hā wa hiya yawma ʾiḏ:in bint:un bikr:un bāliġ:un ṣaḥīḥaẗu ăl ʿaqli 
+ <lb n="9"/>wa ăl badani ǧāʾizaẗu ăl ʾamri la hā wa ʿalay hā fa raḍiya ḥamīdu ḥumaydu bnu šahrāna bi hāḏā ăṣ ṣadāqi ăl maḏkūri ʿāǧilu hu wa ʾāǧilu hu 
+ <lb n="10"/>wa ʿalà ăš šarāʾiṭi ăl maḏkūraẗi fī hi wa qabila ăz zawǧu ăl maḏkūru hāḏā ăn nikāḥa ăl muqarra bi mā šaraṭa la hu wa ʿalay hi 
+ <lb n="11"/>bi zawǧ ** fī ṣiḥḥaẗi ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him ṭāʾiʿayni ġayri mukrahayni wa lā muǧbarayni wa lā muḍṭahadayni 
+ <lb n="12"/>*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, des Gü[ti]g[en!]
+		In the name of God, the Compassionate, the Mer[ci]f[ul.]
+			<lb n="2"/>
+		Dies ist, was Ḥumaid b. Šahrān als Brautgabe bestimmt hat: er hat als Brautgabe bestimmt für ..........]
+		This is what Ḥumaid b. Šahrân has stipulated as a nuptial gift: he has stipu[lated as a nuptial gift to ............]
+			<lb n="3"/>
+		[Ägyptische Goldmünzen zwan]zig Dīnār. [................. völlig]
+		[Egyptian gold coins twen]ty dînârs. [............... fully]
+			<lb n="4"/>
+		[enti]re, and she has given him a quittance for it by means of a receipt (acknowledging that she has) received and taken (it) over fully, and there remain for her(?) [x dîn]ârs outstanding to her credit (and) his debti till the expiration of eight successive years,
+		[gesa]mt, und sie hat ihm eine Quittung dafür in Form eines Empfangsscheins (anerkennend, dass sie) erhielt und (es) gänzlich entgegennahm, und es verbleiben für sie (?) [x Dīn]ār ausstehend zu ihren Gunsten (und) seinen Lasten bis zum Ablauf der folgenden acht Jahre,
+			<lb n="5"/>
+		beginnend mit dem Datum des Vertrages. Und es obliegt ihm, zu fürchten Gott – Er ist allmächtig und erha[ben – in Hinsicht auf sie, und die Beziehung zu ihr schön zu gestalten in] Liebenswürdigkeit, entsprechend der Anordnung von Gott – möge Er gesegnet und gepriesen sein – 
+		reckoning from the date of this act. And it is his obligation to fear God - He is mighty and sub[lime - in respect to her, and to make relationship to her pleasing in] amenity, according to the ordinance of God - may He be blessed and exalted -
+			<lb n="6"/>
+		in His book, and to the rule of Muḥammad, his Messenger, - may the blessing of God be upon him and upon his fami[ly ......... in] what is incumbent upon him with regard to that, seeing that he is a rank higher, as
+		in Seinem Buch, und (entsprechend) den Regeln Muḥammads, seines Boten, - möge Gottes Segen auf ihm sein und auf seiner Fami[lie ............ in] dem, was ihm Pflicht ist in Hinsicht auf dies, bemerkend, dass er einen Rang höher ist, wie
+			<lb n="7"/>
+		God - may He be exalted - says: but men are one rank above them, and Go[d] is mighty (and) wise ...... has undertaken to give her in marriage and by her order ............
+		Gott – möge Er gepriesen sein – sagt: aber Männer sind einen Rang über ihnen, und Got[t] ist allmächtig (und) weise ..... er ist ernannt sie in die Ehe zu übergeben und mit ihrem Auftrag ........
+			<lb n="8"/>
+		and with her consent and her having entrusted him with it and her calling witnesses as to her rights [and to he]r obligations, she being at this time a maid, an adult virgin, sound in mind
+		und mit ihrem Einverständnis und dass sie ihm damit vertraut hat und dass sie Zeugen herbeiholte zu ihrem Rechten [und zu ih]ren Pflichten, sie ist zu diesem Zeitpunkt eine Jungfrau, eine erwachsene Jungfrau, gesund im Geiste
+			<lb n="9"/>
+		and body, capable of transacting business both with respect to rights and obligations. [Ḥumaid b. Šahrân has,] therefore[, agreed to this above] mentioned nuptial gift, (part) immediately exigible and (part) held over,
+		und Körper, fähig ihre Angelegenheiten auszuüben beides mit Hinsicht auf Rechte und Pflichten. [Ḥumaid b. Šahrān hat,] damit [zugestimmt zu diesem oben] erwähnten Brautgeschenk, (teils) unverzüglich auszuzahlen und (teils) zurückgehalten,
+			<lb n="10"/>
+		and in respect to the conditions mentioned herein. And th[e above-mentioned husband] has accepted [this marriage], and has acknowledged that which he has stipulated as his right and as his obligation
+		und in Anerkennung der hierin erwähnten Bedingungen. Und de[r oben erwähnte Ehemann] hat anerkannt [diese Ehe] und hat zugestimmt zu dem, was er als sein Recht und seine Pflicht annimmt
+			<lb n="11"/>
+		.................. [being in a state of sound mind and body, and capable of transacting their business, voluntarily, without compulsion] and [not against their] will and not [under con]straint.
+		................. [im Zustand gesunden Verstandes und Körpers, und fähig der Durchführung ihrer Geschäfte, freiwillig, ohne Zwang] und [nicht gegen ihren] Willen und nicht [unter Bedrä]ngung.
+			<lb n="12"/>
+</ab></div>
+</body>
+</text>
+</TEI>

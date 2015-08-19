@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2289" xml:id="Thung_CPR_26" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 26</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_26</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر بقام بن شنوده بن إصطفن أن لز<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  عندي خمسة أرادب ونصف قمح نقي جياد <supplied reason="lost" cert="high">أدفـ</supplied>ـع <supplied reason="lost" cert="high">ذلـ</supplied>ـك 
+<lb n="4"/>  إليه في بأونه من سنة اثنين وخمسين ومائتـ<supplied reason="lost" cert="high">ـين</supplied> وكتب 
+<lb n="5"/>  بقام بن شنوده بخطّه وأشهـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">وكفى</supplied> 
+<lb n="6"/>  باللّه شهيدا وهو خمسة أرادب ونصف 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra biqāmu bnu šanūdaha bni ʾiṣṭafana ʾanna li z** *** 
+ <lb n="3"/>ʿind ī ḫamsaẗa ʾarādiba wa niṣf qamḥ naqiyy ǧiyād ʾadfaʿu ḏālika 
+ <lb n="4"/>ʾilay hi fī baʾūniha min sanaẗi ĭṯnayni wa ḫamsīna wa miʾatayni wa kataba 
+ <lb n="5"/>biqāmu bnu šanūdaha bi ḫaṭṭi hi wa ʾašhada ăl lāha ʿalà ḏālika wa kafà 
+ <lb n="6"/>bi ăl lāhi šahīd:an wa huwa ḫamsaẗu ʾarādiba wa niṣf:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen] Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Es hat Bqām b. Šinūdah b. Iṣṭafan anerkannt: Ich schulde Z[...]
+			<lb n="3"/>
+		fünfeinhalb Artaben reinen, hervorragenden Weizens, [die ich] ihm
+			<lb n="4"/>
+		im (Monat) Baʾūnah des Jahres zweihundertzweiundfünfzig [aushändigen werde]. Es hat
+			<lb n="5"/>
+		Bqam b. Šinūdah (dies) mit seinem Schriftzug geschrieben, und [er hat Gott hierfür zum Zeugen angerufen, und]
+			<lb n="6"/>
+		Gott ist als Zeuge [genug]. Es sind fünfeinhalb Artaben.
+</ab></div>
+</body>
+</text>
+</TEI>

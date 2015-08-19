@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="536" xml:id="Becker_PAF_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 12 (= P.BeckerNPAF 07 =  P.Cair.Arab. 150)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106699</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن قرّة بن شريك إ<supplied reason="lost" cert="high">لى</supplied> 
+<lb n="3"/>  بسيل صاحب إشقوه 
+<lb n="4"/>  <supplied reason="lost" cert="high">فـ</supplied>ـإنّي أحمد اللّه الّذي 
+<lb n="5"/>  لا إله إلّا <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="6"/>  أمّا بعد فإن ناسا من الجند 
+<lb n="7"/>  ذكروا لي <unclear reason="undefined" cert="high">كتبة</unclear> <supplied reason="lost" cert="high">مـ</supplied>ـ<unclear reason="undefined" cert="high">ن</unclear> <supplied reason="lost" cert="high">قريتـهـ</supplied><unclear reason="undefined" cert="high">ـم</unclear> 
+<lb n="8"/>  كانت تجري عليهم منذ 
+<lb n="9"/>  پعين سنة ولم <app type="BL"><lem resp="APD">يـ<supplied reason="lost" cert="high">ـجب</supplied> </lem><rdg resp="APD">يحلّ </rdg><rdg resp="“Grohmann”">نجد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عليهم</supplied> </lem><rdg resp="APD">لهم </rdg><rdg resp="“Grohmann”"><gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+<lb n="10"/>  شي من <unclear reason="undefined" cert="high">ا</unclear>لكتب فلا أدري ما 
+<lb n="11"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="“Grohmann”">صدق</rdg></app> ذلك من <app type="BL"><lem resp="APD">كـ<unclear reason="undefined" cert="high">ـپـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">كذبه</rdg></app> 
+<lb n="12"/>  فإذا جاك كتبي <supplied reason="lost" cert="high">هذا</supplied> 
+<lb n="13"/>  فلا <unclear reason="undefined" cert="high">تـ</unclear><supplied reason="lost" cert="high">ـقـ</supplied><unclear reason="undefined" cert="high">ـد</unclear><supplied reason="lost" cert="high">مـ</supplied><unclear reason="undefined" cert="high">ـنّ</unclear> قرية من <supplied reason="lost" cert="high">كـ</supplied>ـو<supplied reason="lost" cert="high">رتك</supplied> 
+<lb n="14"/>  إلّا سألت <unclear reason="undefined" cert="high">أهلــ</unclear><supplied reason="lost" cert="high">ـهـ</supplied>ـا 
+<lb n="15"/>  عمّا في قريتهم من تلك 
+<lb n="16"/>  لكتبه ولمن هي فإذا عـ<unclear reason="undefined" cert="high">ـلـ</unclear><supplied reason="lost" cert="high">ـمت</supplied> 
+<lb n="17"/>  ما في كل قرية منها فارفع 
+<lb n="18"/>  <app type="BL"><lem resp="APD">إلي </lem><rdg resp="“Grohmann”">إليّ</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">كاتب</unclear> </lem><rdg resp="“Grohmann”">كتاب</rdg></app> ما و<unclear reason="undefined" cert="high">جـ</unclear><supplied reason="lost" cert="high">ـد</supplied> 
+<lb n="19"/>  <supplied reason="lost" cert="high">پ</supplied> من دلك ڤى كل 
+<lb n="20"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">وتكتبن </rdg><rdg resp="“Diem, Aphrodito p. 257”">واكتب</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ر</unclear>حل </lem><rdg resp="“Grohmann”">لكلّ</rdg></app> <app type="BL"><lem resp="APD">كل </lem><rdg resp="“Grohmann”">رجل</rdg></app> <app type="BL"><lem resp="APD">پاسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">كتابا</rdg></app> 
+<lb n="21"/>  <supplied reason="lost" cert="high">منّـ</supplied>ـى <supplied reason="lost" cert="high">و</supplied>كتب ولـ<supplied reason="lost" cert="high">ـيد</supplied> 
+<lb n="22"/>  شهر ربيع الأوّل من سـ<supplied reason="lost" cert="high">ـنـ</supplied>ـة 
+<lb n="23"/>  تسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà 
+ <lb n="3"/>basīla ṣāḥibi ʾišqawha 
+ <lb n="4"/>fa ʾin nī ʾaḥmadu ăl lāha ăllaḏī 
+ <lb n="5"/>lā ʾilāha ʾillā huwa 
+ <lb n="6"/>ʾammā baʿdu fa ʾinna nās:an mina ăl ǧundi 
+ <lb n="7"/>ḏakarū l ī kitbaẗ:an min qaryati him 
+ <lb n="8"/>kānat taǧrī ʿalay him munḏu 
+ <lb n="9"/>ʾarbaʿīna sanaẗ:an wa lam yaǧib yaḥilli naǧid ʿalay la *** him hum 
+ <lb n="10"/>šayʾ šayʾ:un mina ăl kitabi fa lā ʾadrī mā 
+ <lb n="11"/>***** ṣidqu ḏālika min kB*** kiḏbi ø hi 
+ <lb n="12"/>fa ʾiḏā ǧāʾa ka kitāb ī hāḏā 
+ <lb n="13"/>fa lā taqdamanna qaryaẗ:an min kūrati ka 
+ <lb n="14"/>ʾillā saʾalta ʾahla hā 
+ <lb n="15"/>ʿammā fī qaryati him min tilka 
+ <lb n="16"/>ăl kitbaẗi wa li man hiya fa ʾiḏā ʿalimta 
+ <lb n="17"/>mā fī kulli qaryaẗ:in min hā fa ĭrfaʿ 
+ <lb n="18"/>ʾilà ʾilay ø ya kātib:in kitāba mā waǧadta 
+ <lb n="19"/>min ḏālika fī kulli qaryaẗ:in 
+ <lb n="20"/>*** wa ø taktubanna ŭktub ø li ø kulli raǧul:in rḥl kull kitāb:an Bʾs*** saʾala ø hu 
+ <lb n="21"/>minn ī wa kataba walīdu 
+ <lb n="22"/>šahra rabīʿa ăl ʾawwali min sanaẗi 
+ <lb n="23"/>tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful. 
+			<lb n="2"/>
+		From Qorra b. Šarîk t[o] 
+			<lb n="3"/>
+		Basil, administrator of Išqauh. 
+			<lb n="4"/>
+		I praise God, be-
+			<lb n="5"/>
+		sides [whom] there is no god. 
+			<lb n="6"/>
+		As to the matter in hand: men of the military force 
+		Leute von den Truppen haben mir 
+			<lb n="7"/>
+		mentioned to me a (certain) registration (kitba) practised [b]y their villages 
+		über eine kitba in ihrer Ortschaft berichtet, 
+			<lb n="8"/>
+		in deren Genuss sie seit vierzig 
+		on their behalf constantly for the past for-
+			<lb n="9"/>
+		Jahren stünden, und es [kommt ihnen nicht zu] 
+		ty years, though we did not find (?) 
+			<lb n="10"/>
+		any of such documents. Therefore I cannot tell 
+		irgend etwas von den kitba&#039;s, und ich weiss nicht, was 
+			<lb n="11"/>
+		.... dies von .... 
+		the truth of this from the false. 
+			<lb n="12"/>
+		Drum wenn dieser mein Brief zu dir kommt, 
+		Now when [this] my letter comes to thee 
+			<lb n="13"/>
+		so begib dich  nach allen Ortschaften deines Kreises 
+		thou shouldest not [come] to any village of thy dis[trict] 
+			<lb n="14"/>
+		und frage ihre Bewohner, 
+		without asking its people 
+			<lb n="15"/>
+		about what there may be of this 
+		was sich in ihrer Ortschaft von dieser 
+			<lb n="16"/>
+		kitba befindet und wem sie gehört. Wenn du dann weisst, 
+		registration (kitba) in their village, and in whose favour it is. And when thou knowest 
+			<lb n="17"/>
+		was sich davon in jeder Ortschaft befindet, so gebe 
+		what there is thereof in each village, submit 
+			<lb n="18"/>
+		den Befund jeder Ortschaft einem 
+		to me a report of what thee hast fou[nd] 
+			<lb n="19"/>
+		Schreiber zu Protokoll.
+		thereof in each village, 
+			<lb n="20"/>
+		and thou shalt write for each man such a certificate as he has applied for 
+			<lb n="21"/>
+		[to] me. And Wa[lîd (?)] wrote (it) [in] 
+			<lb n="22"/>
+		the month of Rabîʿ I of the y[ea]r 
+			<lb n="23"/>
+		ninety. 
+</ab></div>
+</body>
+</text>
+</TEI>

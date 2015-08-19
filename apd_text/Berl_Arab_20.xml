@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1361" xml:id="Berl_Arab_20" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. I 20 (= P.RagibQalamun 4)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Berl_Arab_20</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169161</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى المكنّا بأبو الدّين بن رمضان بن سفيان من محمود بن رديني بن جواد وهما جميعا يومئذٍ من 
+<lb n="3"/>  سكّان الضّيعة المعروفة <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">بڤوص</unclear> </lem><rdg resp="Rāġib">بقوص</rdg></app> <app type="BL"><lem resp="APD">نرمودة </lem><rdg resp="Rāġib">نرمودة</rdg></app> من الضّياع الفيّوميّة بصعيد مصر اشترى منه سفقة واحدة 
+<lb n="4"/>  عقد واحد ربع دينار ملك له في <app type="BL"><lem resp="APD">دين </lem><rdg resp="Rāġib"> دير</rdg></app> <app type="BL"><lem resp="APD">العلمون </lem><rdg resp="Rāġib">القلمون</rdg></app> ملك له ولعقبه من بعده اشترى المكنّا بأبو الدّين بن رمضان من 
+<lb n="5"/>  محمود بن رديني بن جواد هذا الرّبع دينار بمال مبلغه من العين المستنصري <app type="BL"><lem resp="APD">والظّاهري </lem><rdg resp="Rāġib">والظّاهريّ</rdg></app> نصف وربع 
+<lb n="6"/>  سلّم محمود بن رديني بن جواد هذا الرّبع دينار الملك المحدود في صدر هذا الكتاب وملكه وحازه وصار مالا 
+<lb n="7"/>  من ماله وملكا من ملكه يتحكّم فيه حكم الملّاك في أملاكهم إن شا باع و<supplied reason="omitted" cert="high">إ</supplied>ن شا وهب وإن شا 
+<lb n="8"/>  صدق لا يد على يده ومتى أدرك في هذا الشّرى من درك أو علقة أو خصومة من أحد من النّاس 
+<lb n="9"/>  طالب بدين أو مستحق بميراث أو مدّعي بشفعة فخلاص ذلك ونفاذه على محمود بن رديني 
+<lb n="10"/>  بن جواد من خالص ماله كائن ما كان وبالغ ما بلغ وذلك شرى قاطعا لا دلسة فيه ولا ريبة 
+<lb n="11"/>  لا على سبيل رهن ولا وديعة وعلى البائع المذكور خلاص هذا الشّرى المذكور وبذلك أشهد 
+<lb n="12"/>  على نفسه بنفذ البيع وقبض الثّمن وكتب في يوم الثّلثا ليومين خلون من شهر رمضان من سنة ثمان 
+<lb n="13"/>  <del rend="erasure" status="unremarkable">وارپعپن</del> و<supplied reason="omitted" cert="high">أ</supplied>ربعين وأربع مائة شهد على ذلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà ăl mukannā bi ʾabū ăd dīni bnu ramaḍāna bni sufyāna min maḥmūdi bni rudayniyyi bni ǧawāda wa humā ǧamīʿ:an yawma ʾiḏ:in min 
+ <lb n="3"/>sukkāni ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi Fwṣ qūṣa barmūdaẗa narmūdaẗa min ăḍ ḍiyāʿi ăl fayyūmiyyaẗi bi ṣaʿīdi miṣra ĭštarà min hu safqaẗ:an wāḥidaẗ:an 
+ <lb n="4"/>ʿaqd wāḥid rubʿa dīnār:in milk la hu fī dayni dayri ăl ʿlmūn qalamūni milk la hu wa li ʿaqbi hi min baʿdi hi ĭštarà ăl mukannā bi ʾabū ăd dīni bnu ramaḍāna min 
+ <lb n="5"/>maḥmūdi bni rudayniyyi bni ǧawāda hāḏā ăr rubʿa dīnār:in bi māl:in mablaġu hu mina ăl ʿayni ăl mustanṣiriyyi wa ăṭ ăẓ ṭāhiriyyi ẓāhiriyyi niṣf:un wa rubʿ:un 
+ <lb n="6"/>sallama maḥmūdu bnu rudayniyyi bni ǧawāda hāḏā ăr rubʿa dīnār:in ăl milka ăl maḥdūda fī ṣadri hāḏā ăl kitābi wa malaka hu wa ḥāza hu wa ṣāra māl:an 
+ <lb n="7"/>min māli hi wa milk:an min milki hi yataḥakkamu fī hi ḥukma ăl mullāki fī ʾamlāki him ʾin šāʾa bāʿa wa ʾin šāʾa wahaba wa ʾin šāʾa 
+ <lb n="8"/>ṣadaqa lā yada ʿalà yadi hi wa matà ʾadraka fī hāḏā ăš širà min darak:in ʾaw ʿulqaẗ:in ʾaw ḫuṣūmaẗ:in min ʾaḥad:in min ăn nāsi 
+ <lb n="9"/>ṭālib:in bi dayn:in ʾaw mustaḥiqq:in bi mīrāṯ:in ʾaw muddaʿī bi šufʿaẗ:in fa ḫalāṣu ḏālika wa nafāḏu hu ʿalà maḥmūdi bni rudayniyyi 
+ <lb n="10"/>bni ǧawāda min ḫāliṣi māli hi kāʾin mā kāna wa bāliġ mā balaġa wa ḏālika šir:an qāṭiʿ:an lā dulsaẗa fī hi wa lā rībaẗa 
+ <lb n="11"/>lā ʿalà sabīli rahn:in wa lā wadīʿaẗ:in wa ʿalà ăl bāʾiʿi ăl maḏkūri ḫalāṣu hāḏā ăš širà ăl maḏkūri wa bi ḏālika ʾašhada 
+ <lb n="12"/>ʿalà nafsi hi bi nafāḏi ăl bayʿi wa qabḍi ăṯ ṯamani wa kutiba fī yawmi ăṯ ṯulāṯāʾi li yawmayni ḫalawna min šahri ramaḍāna min sanaẗi ṯamān:in 
+ <lb n="13"/>wa ʾarbaʿīna wa ʾarbaʿi miʾaẗ:in šuhida ʿalà ḏālika 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+			<lb n="2"/>
+		Voici ce qu&#039;a acheté celui qui porte la kunya d&#039;Abū-l-dīn b. Ramaḍān b. Sufyān de Maḥmūd b. Rudaynī b. Ǧawwād, qui tous deux en ce jour
+			<lb n="3"/>
+		habitent le village connu sous le nom de Qūṣ Narmūda, des villages du Fayyoum, du Ṣaʿīd de l&#039;Égypte. Il lui a acheté en une seule fois
+			<lb n="4"/>
+		et un seul contrat le quart de dinar qui était sa propriété au monastère d&#039;al-Qalamūn, qui était sa propriété et celle de sa postérité après lui. Celui qui porte la kunya d&#039;Abū-l-dīn b.Ramaḍān a acheté de
+			<lb n="5"/>
+		Maḥmūd b. Rudaynī b. Ǧawād ce quart de dinar pour une somme dont le montant en espèces d&#039;al-Mustanṣir et d&#039;al-Ẓāhir est de trois quarts de dinar.
+			<lb n="6"/>
+		Maḥmūd b. Rudaynī a livré ce quart de dinar de propriété définie au début de cet écrit. Il en est devenu le propriétaire. C&#039;est devenu un bien
+			<lb n="7"/>
+		parmi ses biens et une propriété parmi ce qu&#039;il possède. Il en usera comme les propriétaires usent de leurs biens : s&#039;il le veut, il vendra ; s&#039;il le veut, il en fera don ; s&#039;il le veut,
+			<lb n="8"/>
+		il en fera aumône. Nul ne pourra s&#039;emparer de ce qui se trouve en sa possession. Pour toute atteinte au sujet de cet achat : revendication, litige, démêlé ou contestation de la part de l&#039;un des hommes,
+			<lb n="9"/>
+		créancier imprévu, réclamant un héritage ou prétendant à un droit de préemption, la délivrance de cela et son exécution incombent à Maḥmūd b. Rudaynī
+			<lb n="10"/>
+		b. Ǧawād de ses biens propres, quels qu&#039;en soient la nature et le montant. Ceci est un achat décisif, sans dol ni soupçon
+			<lb n="11"/>
+		sous motif de gage ou de dépôt. Il incombe au vendeur mentionné de libérer cet achat mentionné. De cela il a pris témoins
+			<lb n="12"/>
+		de l&#039;exécution de la vente et du prix touché. Écrit le jour du mardi 2 ramadan de l&#039;année
+			<lb n="13"/>
+		four hundred [[and fourty]] and fourty eight. This has been witnessed.
+		quatre cent quarante -[[quatre]]. On a témoigné de cela.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1132" xml:id="Diem_CPR_16_19" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 19</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_19</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168987</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم] 
+<lb n="2"/>  أطال اللّه بقاك وأدام <supplied reason="lost" cert="high">عزّك</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وكرامتك</rdg></app> 
+<lb n="3"/>  يوم الأحد وأنا ومن قبلي بحال عافية <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  القسطال ووصلت إلي <supplied reason="lost" cert="high">كتبك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  حصر المسجد والمسك في المخزن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وصل مع يعقوب القسطـ<supplied reason="lost" cert="high">ـا</supplied>ل <gap reason="illegible" extent="6" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وأرجو</rdg></app> 
+<lb n="7"/>  أن المحتسب <gap reason="illegible" extent="2" unit="character" /> يحل أن نفرشها وأعجل أبقاك <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  النّبات السّعدانة أنا أ<supplied reason="lost" cert="high">و</supplied>صلته إلى محمّد <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="9"/>  إن شا اللّه فقد نفّذت <supplied reason="omitted" cert="high">إليك</supplied> وخبّرتك مع محمّد بذلـ<supplied reason="lost" cert="high">ـك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  وأخرج إلى ما قبلك إن شا اللّه فاطمئن إلّا <supplied reason="lost" cert="high">أن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  أوحش قلبي وأوجعني واللّه يدفع بخير إن شا ا<supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">أن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  وأشتري البزر <app type="BL"><lem resp="APD">المسپر </lem><rdg resp="APD">المستر</rdg></app> لأمر أن عرّ<supplied reason="lost" cert="high">فتنـ</supplied>ـي عن ذلك <gap reason="illegible" extent="1" unit="character" />ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  فأمّك أنا وأعجبنا من جوابك كثيرا وسر <gap reason="illegible" extent="2" unit="character" />ـاوو<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  لا تجعل فيه نبات فقد اشتريت أبزار موتـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  ذكرت ما بلغت <app type="BL"><lem resp="sīn with dash above">السّاقية </lem><rdg resp="APD">السَّاقية</rdg></app> وما أعلمتني بحرصك <supplied reason="lost" cert="high">على</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  في تعجيل كتابك بخبرك وحالك وأمرك و<supplied reason="lost" cert="high">نهـ</supplied>ـيك موفّـ<supplied reason="lost" cert="high">ـقا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  على أفضل حال بحمد <supplied reason="omitted" cert="high">اللّه</supplied> ومنّه تقرئ منّي عبد ا<supplied reason="lost" cert="high">للّه</supplied> السّلم <supplied reason="lost" cert="high">كـ</supplied>ـثيرا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="18"/>  شا اللّه عليك يأبا الفضل <supplied reason="omitted" cert="high">السّلم</supplied> ولعلّي آخذ لك ڤدا 
+<lb n="19"/>  ذكر الحرب وأخذوا ما نشتري <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="20 right margin"/>  عجّلا على أعزّكما الله السّفط والحبل مع كتّان <sic n="superfluous">حپا</sic> لاصر ڤپه المپاع وڤد اسپرپپ حادم صقلبيه 
+<lb n="21 right margin"/>  لم يبيعها صـ<supplied reason="lost" cert="high">ـا</supplied>حبها إلّا <sic n="superfluous">پسرط</sic> لمن پحرحها عن الڤسطاط فصمنپ لها ان أحرحها وأپا احرحها معى 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka *** karāmaẗa wa ka *** 
+ <lb n="3"/>yawma ăl ʾaḥadi wa ʾanā wa man qibal ī bi ḥāli ʿāfiyaẗ:in *** ø maʿa ø *** 
+ <lb n="4"/>ăl qusṭāl wa waṣalat ʾilay ya kutubu ka *** 
+ <lb n="5"/>ḥuṣuru ăl masǧidi wa ăl misku fī ăl maḫzani *** 
+ <lb n="6"/>waṣala maʿa yaʿqūba ăl qusṭāli ****** *** wa ø ʾarǧū 
+ <lb n="7"/>ʾanna ăl muḥtasiba ** yuḥillu ʾan nafruša hā wa ʾaʿǧil ʾabqā ka ăl lāhu *** 
+ <lb n="8"/>ăn nabāta ăs saʿdānaẗa ʾanā ʾawṣaltu hu ʾilà muḥammad:in ***** 
+ <lb n="9"/>ʾin šāʾa ăl lāhu fa qad naffaḏtu ʾilay ka wa ḫabbartu ka maʿa muḥammad:in bi ḏālika *** 
+ <lb n="10"/>wa ʾaḫruǧu ʾilà mā qibala ka ʾin šāʾa ăl lāhu fa ĭṭmaʾin ʾillā ʾan *** 
+ <lb n="11"/>ʾawḥaša qalb ī wa ʾawǧaʿa nī wa ăl lāhu yadfaʿ bi ḫayr:in ʾin šāʾa ăl lāhu ʾan *** 
+ <lb n="12"/>wa ʾaštarī ăl bizra ăl msBra musattara li ʾamri ʾan ʿarrafta nī ʿan ḏālika **** 
+ <lb n="13"/>fa ʾummu ka ʾanā wa ʾuʿǧibnā min ǧawābi ka kaṯīr:an wa sr **ʾww*** 
+ <lb n="14"/>lā taǧʿal fī hi nabāt fa qadi ĭštaraytu ʾabzāra mwt*** *** 
+ <lb n="15"/>ḏakarta mā balaġati ăs sāqiyaẗu wa mā ʾaʿlamta nī bi ḥirṣi ka ʿalà *** 
+ <lb n="16"/>fī taʿǧīli kitābi ka bi ḫabari ka wa ḥāli ka wa ʾamri ka wa nahyi ka muwaffaq:an *** 
+ <lb n="17"/>ʿalà ʾafḍali ḥāl:in bi ḥamdi ăl lāhi wa manni hi tuqriʾ min nī ʿabda ăl lāhi ăs salāma kaṯīr:an *** 
+ <lb n="18"/>šāʾa ăl lāhu ʿalay ka yā ʾabā ăl faḍli ăs salāmu wa laʿall ī ʾāḫuḏu la ka Fdʾ*** 
+ <lb n="19"/>ḏakara ăl ḥarba wa ʾaḫaḏū mā naštarī *** 
+ <lb n="20"/>ʿaǧgilā ʿalay ya ʾaʿazza kumā ăl lāhu ăs safaṭa wa ăl ḥabla maʿa kattān:in ḥattā li ʾaṣurra fī hi ăl matāʿa wa qadi ĭštaraytu ḫādim ṣaqlabīyaẗan 
+ <lb n="21"/>lam yabīʿ hā ṣāḥibu hā ʾillā bi šarṭ:in li man yuḫriǧu hā ʿani ăl fusṭāṭi fa ḍamintu la hā ʾan ʾuḫriǧa hā wa ʾanā ʾuḫriǧu hā maʿ ī 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen [und Gnädigen]!
+			<lb n="2"/>
+		Gott lasse Dich lange leben und lasse [Dein Ansehen - - - andauern. Ich schreibe an Dich]
+			<lb n="3"/>
+		am Sonntag, wobei ich und die Meinigen gesund sind [
+			<lb n="4"/>
+		dem Zahlmeister, und es erreichten mich [Deine Briefe (?) ..., daß
+			<lb n="5"/>
+		die Moscheematten und der Moschus im Magazin sind [... und]
+			<lb n="6"/>
+		durch Yaʿqūb den Zahlmeister erreichte (mich) [(Name einer Ware) ... ich hoffe,]
+			<lb n="7"/>
+		daß der Marktaufseher es für rechtmäßig erklärt, daß wir sie (sc. bestimmte Ware) ausbreiten. Sende eilends - [Gott] erhalte Dich - [(Name einer Ware)
+			<lb n="8"/>
+		die Saʿdānah-Pflanzen habe ich an Muḥammad (?) weitergeleitet [
+			<lb n="9"/>
+		so Gott will. Denn ich habe &lt;an Dich&gt; gesandt und Dich durch Muḥammad davon benachrichtigt [
+			<lb n="10"/>
+		und ich werde mich zu Dir begeben, so Gott will; sei also beruhigt, außer daß [
+			<lb n="11"/>
+		hat mein Herz betrübt und mich mit Schmerz erfüllt; Gott möge (es) mit Gutem abwenden, so Gott will [
+			<lb n="12"/>
+		Ich werde die  - - - Körner kaufen, weil Du mich davon in Kenntnis gesetzt hast [... Deine Mutter läßt Dir ausrichten: &#034;...,]
+			<lb n="13"/>
+		denn ich bin deine Mutter.&#034; Wir haben uns über Deine Antwort sehr gewundert und - - - [
+			<lb n="14"/>
+		Tu keine Pflanzen hinein, denn ich habe  - - - Gewürzkörner gekauft [... Du hast nicht]
+			<lb n="15"/>
+		erwähnt, wieviel das Schöpfrad gekostet hat, und Du hast mich nicht Deines Eifers versichert, [... Sei nicht nachlässig,]
+			<lb n="16"/>
+		baldigst erfolgreich die Dich betreffenden Neuigkeiten, Deinen Zustand und alle Deine Wünsche mitzuteilen [... N.N.]
+			<lb n="17"/>
+		ist durch die Güte und Gnade Gottes in bester Verfassung. Grüße mir ʿAbdallāh von mir vielmals! [... so]
+			<lb n="18"/>
+		Gott will. An Dich, Abū l-Faḍl, Grüße! Vielleicht besorge (?) ich Dir (?) [
+			<lb n="19"/>
+		er erwähnte den Krieg (?), und sie nahmen, was wir kaufen [
+			<lb n="20"/>
+		Sendet (Dual) mir eilends - Gott stärke Euch (Dual) - den Korb und die Schnur nebst Leinen, damit ich die Ware darin einwickeln kann. Ich habe eine slavische Sklavin gekauft,
+			<lb n="21"/>
+		(...) Da leistete ich für sie die Garantie, daß ich sie wegbringen würde (...)
+		die ihr Besitzer nur {unter der Bedingung} demjenigen verkaufen wollte, der sie aus al-Fusṭāṭ wegbringen würde. Da garantierte ich ihr (!), daß ich sie wegbringen würde, und ich werde sie mit mir wegbringen.
+</ab></div>
+</body>
+</text>
+</TEI>

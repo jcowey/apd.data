@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1905" xml:id="Rodriguez_Masari_40" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 4</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_40</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169642</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّى اللّه على محمّد وسلّم 
+<lb n="2"/>  اشترى الفارس النّجد المجاهد أبو جعفر أحمد بن سعيد بن مساعد 
+<lb n="3"/>  من المكرّم أبو عبد اللّه محمّد بن علي العرّاش جميع المصريّة بقرب مسجد 
+<lb n="4"/>  البصيلي من داخل غرناطة وقبليّها لطزالة وجوفيّها للعشّاب وشرقيّها 
+<lb n="5"/>  الجرف وغربيّها الزّقاق بحقوقها وحرمها ومدخلها ومخرجها اشترا تامّا بثمن قدره 
+<lb n="6"/>  مائة دينار واحدة وسبعة وخمسون دينارا ونصف دينار من الفضّـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="7"/>  العشْريّة قبض البائع منها ومن صفتها مائة دينار <unclear reason="undefined" cert="high">من</unclear> <unclear reason="undefined" cert="high">أصل</unclear> واحدا 
+<lb n="8"/>  وثلاثين دينارا فضّيّة وصارت بيده وبرّأه منها تم دنانير فضّيّة 
+<lb n="9"/>  وعينيّة وبعد <unclear reason="undefined" cert="high">التّحلّل</unclear> <unclear reason="undefined" cert="high">لشطريها</unclear> كما يجب وبرّأه منها <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  والشّطر بالحلول وحكمه و<unclear reason="undefined" cert="high">بذلك</unclear> خلص للمشتري في تملّك مشتراه خلوصا تامّا 
+<lb n="11"/>  على السّنّة ومرجع الدّرك ولم يبق للبائع لها بقيّة حق وبعد 
+<lb n="12"/>  النّظر والتّقليب والـرّضا والعلم بأنّها للبنا والأصلاح بشق وبق 
+<lb n="13"/>  مجرّفة مركوبة <unclear reason="undefined" cert="high">في</unclear> مطمّرة المرحاض ومرحاضها مشترك مع العشّاب 
+<lb n="14"/>  والحائط الّذي بالجهة القبليّة مشترك مع طزالة وبين المبيع 
+<lb n="15"/>  وبين مسكن طزالة قناة لما الغرس فرضيها لذلك والتزمها <unclear reason="undefined" cert="high">وعرفا</unclear> <unclear reason="undefined" cert="high">قدره</unclear> 
+<lb n="16"/>  وأشهدا به من عرفهما بحال <unclear reason="undefined" cert="high">صحّة</unclear> <unclear reason="undefined" cert="high">وجواز</unclear> <unclear reason="undefined" cert="high">في</unclear> الخامس عشر لشهر شوّال عام 
+<lb n="17"/>  <app type="BL"><lem resp="ed.">أربعة </lem><rdg resp="transl.">ثمانية</rdg></app> وخمسين وثمانمائة 
+<lb n="18 right margin"/>  <unclear reason="undefined" cert="high">شهد</unclear> <unclear reason="undefined" cert="high">بمحضر</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="19 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà muḥammad:in wa sallama 
+ <lb n="2"/>ĭštarà ăl fārisu ăn naǧidu ăl muǧāhidu ʾabū ǧaʿfara ʾaḥmadu bnu saʿīdi bni musāʿid:in 
+ <lb n="3"/>mina ăl mukarrami ʾabū ʿabdi ăl lāhi muḥammadi bni ʿaliyy:ini ăl ʿarrāši ǧamīʿa ăl maṣriyyaẗi bi qurbi masǧidi 
+ <lb n="4"/>ăl baṣīliyyi min dāḫili ġarnāṭaẗa wa qibliyyu hā li ṭazālaẗa wa ǧawfiyyu hā li l ʿaššābi wa šarqiyyu hā 
+ <lb n="5"/>ăl ǧurfu wa ġarbiyyu hā ăz zuqāqu bi ḥuqūqi hā wa ḥurumi hā wa madḫali hā wa maḫraǧi hā ĭštirāʾ:an tāmm:an bi ṯaman:in qadru hu 
+ <lb n="6"/>miʾaẗu dīnār:in wāḥidaẗ:un wa sabʿaẗ:un wa ḫamsūna dīnār:an wa niṣfu dīnār:in mina ăl fiḍḍaẗi 
+ <lb n="7"/>ăl ʿušriyyaẗi qabaḍa ăl bāʾiʿu min hā wa min ṣifati hā miʾaẗa dīnār:in min ʾaṣl:in wāḥid:an 
+ <lb n="8"/>wa ṯalāṯīna dīnār:an fiḍḍiyyaẗ:an wa ṣārat bi yadi hi wa barraʾa hu min hā tm danānīr fiḍḍiyyaẗ 
+ <lb n="9"/>wa ʿayniyyaẗ wa baʿda ăt taḥalluli li šaṭray hā kamā yaǧibu wa barraʾa hu min hā *** 
+ <lb n="10"/>wa ăš šaṭru bi ăl ḥulūli wa ḥukmi hi wa bi ḏālika ḫalaṣa li l muštarī fī tamalluki muštarā hu ḫulūṣ:an tāmm:an 
+ <lb n="11"/>ʿalà ăs sunnaẗi wa marǧiʿi ăd daraki wa lam yabqa li l bāʾiʿi la hā baqiyyaẗu ḥaqq:in wa baʿda 
+ <lb n="12"/>ăn naẓari wa ăt taqlībi wa ăr riḍāʾi wa ăl ʿilmi bi ʾanna hā li l bināʾi wa ăl ʾiṣlāḥi bi šaqq:in wa baqq:in 
+ <lb n="13"/>muǧarrafaẗ:un markūbaẗ:un fī muṭammaraẗi ăl mirḥāḍi wa mirḥāḍu hā muštarak:un maʿa ăl ʿaššābi 
+ <lb n="14"/>wa ăl ḥāʾiṭu ăllaḏī bi ăl ǧihaẗi ăl qibliyyaẗi muštarak:un maʿa ṭazālaẗa wa bayna ăl mabīʿi 
+ <lb n="15"/>wa bayna maskani ṭazālaẗa qanāẗ:un li māʾi ăl ġarsi fa raḍiya hā li ḏālika wa ĭltazama hā wa ʿarafā qadra hu 
+ <lb n="16"/>wa ʾašhadā bi hi man ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī ăl ḫāmisa ʿašara li šahri šawwāl:in ʿāma 
+ <lb n="17"/>ʾarbaʿaẗ:in ṯamāniyaẗ:in wa ḫamsīna wa ṯamāni miʾaẗ:in 
+ <lb n="18"/>šahida bi maḥḍari *** 
+ <lb n="19"/>*** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Bienfaiteur et Miséricordieux. Que Dieu bénisse et sauve Muḥammad et sa famille.
+			<lb n="2"/>
+		Le courageux et combattant chevalier Abū Ǧaʿfar Aḥmad ibn Saʿīd ibn Musāʿid
+			<lb n="3"/>
+		achète du béni Abū ʿAbd Allāh Muḥammad ibn ʿAlī al-ʿArrāš la totalité de la maṣriyya (située) près de la Mosquee
+			<lb n="4"/>
+		d&#039;al-Baṣīlī, à l&#039;intérieur de Grenade, (qui limite) à Midi avec Ṭazāla, au Nord avec al-ʿAššāb, à l&#039;Est
+			<lb n="5"/>
+		avec le ravin (ǧurf), et à l&#039;Ouest avec la ruelle (zuqāq), avec les droits et les dépendances inhérents ou provenants de la même. Celle-ci est un achat accompli par un prix dont la portée
+			<lb n="6"/>
+		est de cent cinquante-sept dinars et demie d&#039;argent
+			<lb n="7"/>
+		d&#039;à dix. Le vendeur reçoit cent trente dinars d&#039;argent en monnaie de la classe exprimée,
+			<lb n="8"/>
+		il se charge d&#039;eux et donne (à l&#039;acheteur) quittance par les dinars d&#039;argent
+			<lb n="9"/>
+		et de billon, après que (la quantité) [se diviserait en deux moitiés?] comme il est obligé, c&#039;est pourquoi il livre [...].
+			<lb n="10"/>
+		L&#039;(autre) moitié (sera payée) sur demande et ordre (du vendeur). [En vertu du paiement du prix], (le vendeur) donne à l&#039;acheteur une livraison accomplie de sa propriété,
+			<lb n="11"/>
+		en accord avec la loi, et avec indemnisation pour dommage, sans réserve d&#039;aucun droit par le vendeur sur ce qui est vendu. L&#039;acheteur a
+			<lb n="12"/>
+		examiné son achat, il l&#039;a inspecté, il s&#039;est montré satisfait avec celui-ci, et il sait qu&#039;il (a besoin) d&#039;oeuvres et de réformes pour installer
+			<lb n="13"/>
+		la canalisation des eaux dans la fosse d&#039;aisances des latrines. (En outre), ses latrines sont partagées avec al-ʿAššāb,
+			<lb n="14"/>
+		la paroi (qui se leve) par son côté méridional est partagée avec Ṭazāla, et, entre (la maṣriyya) vendue
+			<lb n="15"/>
+		et le logement de Ṭazāla, il y a un canal (qui reprend) l&#039;eau d&#039;une plantation. L&#039;acheteur accepte ceci, en s&#039;obligeant (à tels vices). [Les deux (parties) connaissent la portée] (de l&#039;accord adopté),
+			<lb n="16"/>
+		et demandent le témoignages (des témoins instrumentaires), qui leurs connaissent (et savent qu&#039;elles jouissent) de capacité [physique et légale] (suffisante). Le 15 du mois de šawwāl de l&#039;année
+			<lb n="17"/>
+		858 (= 8 octobre 1454).
+			<lb n="18"/>
+		[Il prête témoignage en présence... ?].
+			<lb n="19"/>
+		[Signatures illisibles].
+</ab></div>
+</body>
+</text>
+</TEI>

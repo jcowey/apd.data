@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1718" xml:id="Prag_540" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 54</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_540</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169465</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ممّا 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/>را الأربع أرادب 
+<lb n="4"/>  قمح الّتي أخذتماها من قمح 
+<lb n="5"/>  أحمد بن <app type="BL"><lem resp="APD">وقّار </lem><rdg resp="cf. Grohmann P.Prag.Arab. 25 document description">وفار</rdg></app> 
+<lb n="6"/>  فاردداها إليه 
+<lb n="7"/>  ولا يرجع إلي ثانية فيها 
+<lb n="8"/>  إن شا اللّه 
+<lb n="9"/>  عافانا اللّه وإيّاكما 
+<lb n="10"/>  وكتبت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>**** *** 
+ <lb n="2"/>*** *** mimmā 
+ <lb n="3"/>***rʾ ăl ʾarbaʿ ʾarādibb:in 
+ <lb n="4"/>qamḥ ăllatī ʾaḫaḏtumā hā min qamḥi 
+ <lb n="5"/>ʾaḥmada bni wafāra waqqār:in 
+ <lb n="6"/>fa ŭrdudā hā ʾilay hi 
+ <lb n="7"/>wa lā yurǧaʿ ʾilay ya ṯāniyaẗ:an fī hā 
+ <lb n="8"/>ʾin šāʾa ăl lāhu 
+ <lb n="9"/>ʿāfā nā ăl lāhu wa ʾiyyā kumā 
+ <lb n="10"/>wa katabtu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...]..... von dem, was
+			<lb n="3"/>
+		[...].... die vier Artaben
+			<lb n="4"/>
+		Weizen, welche ihr beide genommen habt vom Weizen
+			<lb n="5"/>
+		des Aḥmad b. Waqqār.
+			<lb n="6"/>
+		So erstattet sie ihm zurück,
+			<lb n="7"/>
+		und man möge ihretwegen nicht abermals zu mir zurückkehren,
+			<lb n="8"/>
+		so Gott will!
+			<lb n="9"/>
+		Gott erhalte uns und Euch beide gesund.
+			<lb n="10"/>
+		Und ich habe (es) geschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

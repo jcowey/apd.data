@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="906" xml:id="Grohmann_World_p_162" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 162</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_162</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113667</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه 
+<lb n="2"/>  لأبى الحكم أمّا بعد أصلح 
+<lb n="3"/>  اللّه لك أمرك كلّه 
+<lb n="4"/>  <app type="BL"><lem resp="APD">أتجر </lem><rdg resp="“Dietrich”">أتجرّ </rdg><rdg resp="Diem">اتّجر</rdg></app> في <app type="BL"><lem resp="cf. additional corrections “inlay”">نطيق </lem><rdg resp="“Dietrich”">نطيق</rdg></app> يرحمك 
+<lb n="5"/>  اللّه فإنّه مسكين 
+<lb n="6"/>  وليس يهمّك ما عليه 
+<lb n="7"/>  إن شا اللّه 
+<lb n="8"/>  ذكر لي أنّك 
+<lb n="9"/>  تسله خمسة أثواب 
+<lb n="10"/>  فهي الآن في بيته 
+<lb n="11"/>  يريد أن يأتيك بها 
+<lb n="12"/>  وإنّما عليه 
+<lb n="13"/>  في هذا الطّبل 
+<lb n="14"/>  ثلثة دننير فأضع 
+<lb n="15"/>  عنه ما <app type="BL"><lem resp="APD">أحـ<supplied reason="lost" cert="high">ـسـ</supplied>ـنـ<supplied reason="lost" cert="high">ـت</supplied> </lem><rdg resp="Diem">أحببت</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إليه</supplied> </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="16"/>  <gap reason="illegible" extent="15" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi 
+ <lb n="2"/>li ʾabī ăl ḥakami ʾammā baʿdu ʾaṣlaḥa 
+ <lb n="3"/>ăl lāhu la ka ʾamra ka kulla hu 
+ <lb n="4"/>ʾa ĭttaǧir tǧr tuǧirru fī baṭīqa naṭīqa yarḥamu ka 
+ <lb n="5"/>ăl lāhu fa ʾinna hu miskīn:un 
+ <lb n="6"/>wa laysa yahummu ka mā ʿalay hi 
+ <lb n="7"/>ʾin šāʾa ăl lāhu 
+ <lb n="8"/>ḏakara l ī ʾanna ka 
+ <lb n="9"/>tasalu hu ḫamsaẗa ʾaṯwāb:in 
+ <lb n="10"/>fa hiya ăl ʾāna fī bayti hi 
+ <lb n="11"/>yurīdu ʾan yaʾtiya ka bi hā 
+ <lb n="12"/>wa ʾinnamā ʿalay hi 
+ <lb n="13"/>fī hāḏā ăṭ ṭabli 
+ <lb n="14"/>ṯalāṯaẗa danānīra fa ʾaḍiʿ 
+ <lb n="15"/>ʿan hu mā ʾaḥsanta ʾaḥbabta ʾilay ø hi ø 
+ <lb n="16"/>*************** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God!
+			<lb n="2"/>
+		To Abuʾl-Ḥakam. Thereafter. May God well arrange
+			<lb n="3"/>
+		for thee all thy affairs.
+			<lb n="4"/>
+		Erwirb Dir bezüglich Baṭīqs (durch ein entgegenkommendes Verhalten) Verdienst (im Jenseits) – Gott erbarme
+		Thou implorest (God&#039;s) protection respecting Baṭīq? May God
+		Wirst Du bezüglich Batīq einen Zahlungsaufschub gewähren?
+			<lb n="5"/>
+		have mercy upon thee, for he is poor,
+		sich Deiner -, denn er ist arm.
+			<lb n="6"/>
+		and that which he owes is not so important for thee,
+			<lb n="7"/>
+		if God wills.
+			<lb n="8"/>
+		He related to me that thou
+			<lb n="9"/>
+		askest him about five pieces of cloth;
+			<lb n="10"/>
+		they are now in his house,
+			<lb n="11"/>
+		he will bring them to thee,
+			<lb n="12"/>
+		but he owes
+			<lb n="13"/>
+		on the account of his (tax-) instalment
+			<lb n="14"/>
+		three dînârs. Thus grant
+		... Ziehe
+			<lb n="15"/>
+		as much as a deduction as thou kindly mightest be able to do for him......
+		ihm also, was auch immer du beliebst.
+			<lb n="16"/>
+</ab></div>
+</body>
+</text>
+</TEI>

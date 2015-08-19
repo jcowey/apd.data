@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="513" xml:id="Raghib_March_2_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 32 (= P.Berl.Arab. II 48)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106684</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الرّحمن الرّحيم 
+<lb n="recto 2"/>  أبقاك اللّه وحفظك وتمّم نعمته عليك <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">في</supplied> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الدّنيا</supplied> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">والآخـ</supplied>ـرة </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">برحمته</supplied> </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <app type="BL"><lem resp="APD">ما </lem><rdg resp="APD">بما </rdg><rdg resp="Diem">فأصبت</rdg></app> <app type="BL"><lem resp="APD">بقيت </lem><rdg resp="APD">كتبت </rdg><rdg resp="Diem">ø</rdg></app> أم سلمة عليلة وهي شديدة العلّة فإذا قرأت كتابي <app type="BL"><lem resp="APD">فـ<gap reason="illegible" precision="low" extent="3"/>ـك </lem><rdg resp="Diem">فعليك</rdg></app> 
+<lb n="recto 4"/>  ألّا تضعه من يدك حتّى تقدم فإنّها مشتـ<sic n="superfluous">ـڤـ</sic>ـاقة إلى روپپك <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">ø</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">ø</rdg></app> 
+<lb n="recto 5"/>  فعلت ذلك موفّقا إ<supplied reason="lost" cert="high">ن</supplied> شا اللّه 
+<lb n="recto 6"/>  أبقاك اللّه وحفظك 
+<lb n="verso"/>  <gap reason="illegible" precision="low" extent="3"/> من جعفر بن أحمد بن عبـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa tammama niʿmata hu ʿalay ka fī *** ăd *** dunyā ø wa *** ăl ø ʾāḫiraẗi ø bi *** raḥmati ø hi ø *** 
+ <lb n="3"/>ø bi fa mā mā ʾaṣabtu baqiyat katabat ø ʾummu salamaẗa ʿalīlaẗ:an wa hiya šadīdaẗu ăl ʿillaẗi fa ʾiḏā qaraʾta kitāb ī f***k fa ø ʿalay ø ka 
+ <lb n="4"/>ʾallā taḍaʿa hu min yadi ka ḥattà taqdamu fa ʾinna hā muštāqaẗ:un ʾilà ruʾyati ka *** ø *** ø 
+ <lb n="5"/>faʿalta ḏālika muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="6"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+ <lb n="7"/>*** min ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu], clément et miséricordieux!
+		[Im Namen Gott]es, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott erhalte und schütze Dich und vollende seine Gnade an Dir [- - - ! - - -,]
+		Que Dieu te conserve, te garde et parachève Ses bienfaits envers toi [dans ce monde et dans l&#039;autre par Sa miséricorde! ....].
+			<lb n="3"/>
+		[da] fand ich Umm Salamah krank vor, und zwar ist sie sehr krank. Wenn Du also (diesen) meinen Brief liest, dann mußt Du
+		Umm Salama est toujours malade, gravement malade. Lorsque tu liras ma lettre ....
+			<lb n="4"/>
+		à ne l&#039;ôter de la main jusqu&#039;à ta venue, car elle désire ardemment te voir ... [.].
+		sofort, wenn Du ihn aus der Hand legst, kommen, denn sie hat Sehnsucht danach, Dich zu sehen;
+			<lb n="5"/>
+		Puisses-tu le faire avec succès, s[i] Dieu le veut!
+		sei so gut, dies erfolgreich zu tun, so Gott will!
+			<lb n="6"/>
+		Gott erhalte und schütze Dich!
+		Que Dieu te conserve et te garde!
+			<lb n="7"/>
+		[An Abū - - -] von Ǧaʿfar ibn Aḥmad ibn ʿAb[dalmuʾmin].
+		De la part de Ǧaʿfar b. Aḥmad b. ʿAb[d al-Muʾmin].
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1125" xml:id="Diem_CPR_16_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168981</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  حفظك اللّه وأبقاك وأمتع بك كتبت إليك 
+<lb n="3"/>  <supplied reason="lost" cert="high">وأنا</supplied> <supplied reason="lost" cert="high">و</supplied>ما قبلي بحال عافية وسلامة واللّه محمود 
+<lb n="4"/>  <supplied reason="lost" cert="high">قد</supplied> <supplied reason="lost" cert="high">وصلـ</supplied>ـت إلي كتبك وقرأ<supplied reason="lost" cert="high">تـ</supplied>ـها وفهمت كل الّذي 
+<lb n="5"/>  <supplied reason="lost" cert="high">ذكرت</supplied> وقد صار أمرنا <supplied reason="lost" cert="high">بـ</supplied>ـحمد اللّه ونعمته على ما تحب 
+<lb n="6"/>  <supplied reason="lost" cert="high">قـ</supplied>ـد خرج الكتاب إلى العامل بالإذن لنا بالحصاد <app type="BL"><lem resp="APD">والفضل </lem><rdg resp="Khan">والفضل</rdg></app> 
+<lb n="7"/>  <supplied reason="lost" cert="high">وأنـ</supplied>ـا أرجوا أن تفرغ من مقاطعة القوم بعد كتابي إليك 
+<lb n="8"/>  <supplied reason="lost" cert="high">بذلك</supplied> إن شا اللّه اعذرني في القرطاس فإن كـ<supplied reason="lost" cert="high">ـتا</supplied>بي إليك 
+<lb n="9"/>  على <supplied reason="lost" cert="high">عـ</supplied>ـجلة أبي حامد <sic n="superfluous">وپاپه</sic> وإنّه ومن قبله بحال عـ<supplied reason="lost" cert="high">ـا</supplied>فية وسلامة 
+<lb n="10"/>  واللّه محمود أقرئ نفسك ومن أحببت السّلام 
+<lb n="11"/>  <app type="BL"><lem resp="Diem erroneously ‫اپا ...‬, but see plate, and personal communication by Diem">وأنا </lem><rdg resp="Diem erroneously ‫اپا ...‬, but see plate, and personal communication by Diem">وأنا </rdg><rdg resp="APD">ولنا</rdg></app> <app type="BL"><lem resp="APD">خر<supplied reason="lost" cert="high">جنا</supplied> </lem><rdg resp="APD">خرجت </rdg><rdg resp="APD">نخرج</rdg></app> <supplied reason="lost" cert="high">يوم</supplied> السّبت 
+<lb n="12 top margin"/>  <supplied reason="lost" cert="high">لأبي</supplied> عبد اللّه من أبي جعفر 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka wa ʾamtaʿa bi ka katabtu ʾilay ka 
+ <lb n="3"/>wa ʾanā wa mā qibal ī bi ḥāli ʿāfiyaẗ:in wa salāmaẗ:in wa ăl lāhu maḥmūd:un 
+ <lb n="4"/>qad waṣalat ʾilay ya kutubu ka wa qaraʾtu hā wa fahimtu kulla ăllaḏī 
+ <lb n="5"/>ḏakarta wa qad ṣāra ʾamru nā bi ḥamdi ăl lāhi wa niʿmati hi ʿalà mā tuḥibbu 
+ <lb n="6"/>qad ḫaraǧa ăl kitābu ʾilà ăl ʿāmili bi ăl ʾiḏni la nā bi ăl ḥiṣādi faḍli wa ăl qaṣli 
+ <lb n="7"/>wa ʾanā ʾarǧū ʾan tafraġa min muqāṭaʿaẗi ăl qawmi baʿda kitāb ī ʾilay ka 
+ <lb n="8"/>bi ḏālika ʾin šāʾa ăl lāhu ĭʿḏir nī fī ăl qirṭāsi fa ʾinna kitāb ī ʾilay ka 
+ <lb n="9"/>ʿalà ʿaǧalaẗi ʿaǧalaẗ:in ʾabī ḥāmid:in wa ʾinna hu wa man qibala hu bi ḥāli ʿāfiyaẗ:in wa salāmaẗ:in 
+ <lb n="10"/>wa ăl lāhu maḥmūd:un ʾaqriʾ nafsa ka wa man ʾaḥbabta ăs salāma 
+ <lb n="11"/>wa ʾanā ʾin la nā ø nā ḫaraǧnā ḫaraǧtu naḫruǧu yawma ăs sabti 
+ <lb n="12"/>li ʾabī ʿabdi ăl lāhi min ʾabī ǧaʿfara 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott beschütze und erhalte Dich und gebe an Dir Freude! Ich schreibe an Dich,
+			<lb n="3"/>
+		[während ich und] die Meinigen gesund und wohlbehalten sind, Gott sei gelobt!
+			<lb n="4"/>
+		Deine Briefe [sind bei mir angekomm]en, ich habe sie gelesen und alles, was
+			<lb n="5"/>
+		[Du erwähnst], verstanden. Unsere Angelegenheit hat sich durch die Güte und Gnade Gottes gemäß Deinem Wunsch entwickelt;
+			<lb n="6"/>
+		denn der Brief, der uns die Erlaubnis zur Ernte und zum Mähen gibt, ist an den (zuständigen) Beamten hinausgegangen.
+			<lb n="7"/>
+		Ich hoffe, daß Du nun, da ich Dir [dies] schreibe, damit zu Ende kommst, die Leute gegen Pauschalzahlung (für die Ernte) anzuwerben,
+			<lb n="8"/>
+		so Gott will. Verzeih mir wegen des Papiers; ich schreibe an Dich
+			<lb n="9"/>
+		auf dem [Wa]gen von Abū Ḥāmid; er und die Seinigen sind gesund und wohlbehalten,
+		in Eile! Abū Ḥāmid {ist körperlich} und die Seinigen sidn gesund und wohlbehalten,
+			<lb n="10"/>
+		Gott sei gelobt! Grüße an Dich und an wen Du willst!
+			<lb n="11"/>
+		Wir (?) sind am Samstag abgereist (?).
+			<lb n="12"/>
+		[An Abū] ʿAbdi (?) llāh von | Abū Ǧaʿfar.
+</ab></div>
+</body>
+</text>
+</TEI>

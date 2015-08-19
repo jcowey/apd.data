@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1603" xml:id="Prag_160" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_160</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169359</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮الرّقعة <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high"> مسر</supplied>ى ‪κζʹ‬ 
+<lb n="2"/>  ‮<supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> ‪χιʹβʹ͵χʹ‬ 
+<lb n="3"/>  <supplied reason="lost" cert="high">أدّى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> نصف وقيراطين وثلثي 
+<lb n="4"/>  <supplied reason="lost" cert="high">قيراط</supplied> <supplied reason="lost" cert="high">نقد</supplied> <supplied reason="lost" cert="high">بيت</supplied> <supplied reason="lost" cert="high">المال</supplied> <supplied reason="lost" cert="high">و</supplied>وزنه دفع ذلك إلى 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>بي <app type="BL"><lem resp="APD">السّري </lem><rdg resp="Diem">اليسر</rdg></app> اللّيث 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> بقطر <app type="BL"><lem resp="APD">بما </lem><rdg resp="Diem">ممّا</rdg></app> يجب عليه 
+<lb n="7"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ر لشهور سنة تسعين 
+<lb n="8"/>  ‮<supplied reason="lost" cert="high">ومائـ</supplied>ــــــتين ‪σϛ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăr ruqʿaẗu * misrà 27 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 1/2+1/12+1/36 1/2+1/12+1/72 
+ <lb n="3"/>ʾaddà *** bnu *** niṣf wa qīrāṭayni wa ṯulṯay 
+ <lb n="4"/>qīrāṭ:in naqda bayti ăl māli wa wazna hu dafaʿa ḏālika ʾilà 
+ <lb n="5"/>*** *** ʾabī ăs ăl sariyyi yusri ăl layṯi 
+ <lb n="6"/>*** *** buqṭur bi mimmā mā yaǧibu ʿalay hi 
+ <lb n="7"/>min *** **r li šuhūri sanaẗi tisʿīna 
+ <lb n="8"/>wa miʾatayni 290 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Folio x Mesor]i 27
+			<lb n="2"/>
+		[Im Namen Gottes, des Barmherzigen, Gütigen!] 1/2+1/12+2/3 Karat
+			<lb n="3"/>
+		[Gezahlt hat N.N., Sohn des N.N.] einen halben (Dīnār) und zwei Karat und zwei Drittel
+			<lb n="4"/>
+		[Karat vollwertiger und vollwichtiger Münze des] Schatzhauses. Er hat dies gezahlt an
+			<lb n="5"/>
+		[.......... A]bu&#039;s-Sarī al-Laiṯ
+			<lb n="6"/>
+		[............] Viktor mit dem, was ihm obliegt
+			<lb n="7"/>
+		[an ........]... für die Monate des Jahres neunzig
+			<lb n="8"/>
+		[und zweihun]dert 290.
+</ab></div>
+</body>
+</text>
+</TEI>

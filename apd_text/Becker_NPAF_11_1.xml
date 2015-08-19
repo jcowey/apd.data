@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="504" xml:id="Becker_NPAF_11_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 11 (= P.Cair.Arab. 156)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_11_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106678</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">ا<unclear reason="undefined" cert="high">ع</unclear> </lem><rdg resp="“Grohmann”">بلع</rdg></app> لك مـ<unclear reason="undefined" cert="high">ـن</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2 right (P.Cair.Arab. 3 right)"/>  لا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3 left"/>  <gap reason="illegible" precision="low" extent="3"/> أعرفن ما ا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3 right (P.Cair.Arab. 4 right)"/>  <app type="BL"><lem resp="APD">پمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">ثمّ</rdg></app> 
+<lb n="4 left"/>  <gap reason="illegible" precision="low" extent="3"/> پدا بعد كتبي هـ<supplied reason="lost" cert="high">ـذ</supplied><unclear reason="undefined" cert="high">ا</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4 right (P.Cair.Arab. 5 right)"/>  لك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5 left"/>  <gap reason="illegible" precision="low" extent="3"/> في نفسك حاجـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5 right (P.Cair.Arab. 6 right)"/>  وا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6 left"/>  <gap reason="illegible" precision="low" extent="3"/> للّه ما <app type="BL"><lem resp="APD">ا<unclear reason="undefined" cert="high">پـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">اپپـ<gap reason="illegible" precision="low" extent="3"/> ـ</rdg></app> 
+<lb n="6 right (P.Cair.Arab. 7 right)"/>  <app type="BL"><lem resp="APD">وحا </lem><rdg resp="“Grohmann”">حا</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7 left"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">لا</unclear> منهم <unclear reason="undefined" cert="high">بشي</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7 right (P.Cair.Arab. 8 right)"/>  <app type="BL"><lem resp="APD">منذ </lem><rdg resp="“Grohmann”">منك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8 left"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">پپه</unclear> غرامة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8 right (P.Cair.Arab. 9 right)"/>  فمن <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">احد</supplied> </lem><rdg resp="“Grohmann”">أخذ</rdg></app> 
+<lb n="9 left"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">ø</rdg></app> <app type="BL"><lem resp="APD">لك </lem><rdg resp="“Grohmann”">ذلك</rdg></app> منهم <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">ڤـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Grohmann”">فـ<gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+<lb n="9 right (P.Cair.Arab. 10 right)"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">عپن</unclear> </lem><rdg resp="APD">حپن</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10 left"/>  <gap reason="illegible" precision="low" extent="3"/>ا والسّلم <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">على</supplied> </lem><rdg resp="“Grohmann”">على</rdg></app> 
+<lb n="10 right (P.Cair.Arab. 11 right)"/>  من ا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11 left"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied>تّبع ا<supplied reason="lost" cert="high">لهد</supplied><unclear reason="undefined" cert="high">ى</unclear> 
+<lb n="11 right (P.Cair.Arab. 12 right)"/>  <app type="BL"><lem resp="APD">كتب </lem><rdg resp="“Grohmann”">وكتب</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12 left"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عـ</supplied>ـبد اللّه <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="“Grohmann”">في</rdg></app> 
+<lb n="12 right (P.Cair.Arab. 13 right)"/>  شهر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13 left"/>  <gap reason="illegible" precision="low" extent="3"/> ر<unclear reason="undefined" cert="high">بيع</unclear> الأوّل <app type="BL"><lem resp="APD">مـ<supplied reason="lost" cert="high">ـن</supplied> </lem><rdg resp="“Grohmann”">من</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">سپه</supplied> </lem><rdg resp="“Grohmann”">سنة</rdg></app> 
+<lb n="13 right (P.Cair.Arab. -)"/>  <app type="BL"><lem resp="APD">من </lem><rdg resp="“Grohmann”">ø</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">تـ</supplied>ـسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** ʿl balaġa la ka man min *** 
+ <lb n="3"/>lā *** 
+ <lb n="4"/>*** ʾaʿrifanna mā ا *** 
+ <lb n="5"/>ṯumma Bm*** 
+ <lb n="6"/>*** Bdʾ baʿda kitāb ī hāḏā *** 
+ <lb n="7"/>la ka *** 
+ <lb n="8"/>*** fī nafsi ka ḥāǧaẗ *** 
+ <lb n="9"/>wa ʾ *** 
+ <lb n="10"/>*** li l lāhi mā ʾB*** ʾBB*** 
+ <lb n="11"/>wa ø ḥʾ *** 
+ <lb n="12"/>*** lā min hum bi šayʾ:in *** 
+ <lb n="13"/>munḏu min ø ka *** 
+ <lb n="14"/>*** BBh ġarāmaẗ *** 
+ <lb n="15"/>fa man min *** ʾaḫaḏa 
+ <lb n="16"/>*** ø la ka ḏālika ø min hum f*** F*** 
+ <lb n="17"/>ʿBn ḥBn *** 
+ <lb n="18"/>***ʾ wa ăs salāmu ø ʿalà 
+ <lb n="19"/>mani ʾ *** 
+ <lb n="20"/>*** ĭttabaʿa ăl hudà 
+ <lb n="21"/>ø wa kataba *** 
+ <lb n="22"/>*** ʿabd ăl lāhi ø fī 
+ <lb n="23"/>šahri *** 
+ <lb n="24"/>*** rabīʿa ăl ʾawwali *** min ø sanaẗi 
+ <lb n="25"/>min ø *** 
+ <lb n="26"/>*** tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[   ] has reached you from [   ] 
+			<lb n="3"/>
+		[   ] I do not 
+			<lb n="4"/>
+		wish to learn that... [   ] 
+			<lb n="5"/>
+			<lb n="6"/>
+		...... after this my letter 
+			<lb n="7"/>
+		to you [.........
+			<lb n="8"/>
+		 if] you need anything yourself, 
+			<lb n="9"/>
+		by 
+			<lb n="10"/>
+		God ........ [   ] 
+			<lb n="11"/>
+			<lb n="12"/>
+		of them anything 
+			<lb n="13"/>
+		from you [   ] 
+			<lb n="14"/>
+		...... a fine; 
+			<lb n="15"/>
+		but whosoever [has] this [taken] 
+			<lb n="16"/>
+		from them, ... [   ] 
+			<lb n="17"/>
+			<lb n="18"/>
+		[   ] and hail [to] 
+			<lb n="19"/>
+		him 
+			<lb n="20"/>
+		who follows the g[uidanc]e, [and] 
+			<lb n="21"/>
+		[ʿAbd] 
+			<lb n="22"/>
+		allâh has written (it) in 
+			<lb n="23"/>
+		the month 
+			<lb n="24"/>
+		of Rabîʿ I o[f the year] 
+			<lb n="26"/>
+		nin[e]ty
+</ab></div>
+</body>
+</text>
+</TEI>

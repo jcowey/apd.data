@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1570" xml:id="Prag_050" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_050</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169328</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فدّان</supplied> <supplied reason="lost" cert="high">بدينر</supplied> 
+<lb n="2"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">θ</supplied> θ 
+<lb n="3"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم 
+<lb n="4"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> پپسك أرون بن موي 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />لكه إنّكما سألتما 
+<lb n="6"/>  <supplied reason="lost" cert="high">وطلبتما</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">أكريـ</supplied>ـك تسعة فدّان ممّا كان 
+<lb n="7"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">يدي</supplied> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" />اڤح </lem><rdg resp="LS according to Grohmann's translation">بن</rdg></app> پپسعه الدباتپر 
+<lb n="8"/>  <supplied reason="lost" cert="high">نقد</supplied> <supplied reason="lost" cert="high">بيت</supplied> <supplied reason="lost" cert="high">المال</supplied> <supplied reason="lost" cert="high">وو</supplied>زنه من حساب الفدّان 
+<lb n="9"/>  <supplied reason="lost" cert="high">بدينر</supplied> <supplied reason="lost" cert="high">فأجبتك</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">فاز</supplied>رع على بركة اللّه 
+<lb n="10"/>  <supplied reason="lost" cert="high">وعونه</supplied> <supplied reason="lost" cert="high">فما</supplied> <supplied reason="lost" cert="high">تزيّد</supplied>ت فحساب ذلك وما بوّرت 
+<lb n="11"/>  ‮<supplied reason="lost" cert="high">فخراجه</supplied> <supplied reason="lost" cert="high">لازم</supplied> <supplied reason="lost" cert="high">لك</supplied> <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">لخراج</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـنة ‪σογ‬ 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپه 
+<lb n="13"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> γ محمّد الزّجّاج α 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عـ[ـلى</supplied> <supplied reason="lost" cert="high">السّلم</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">[مـ</supplied>ـلك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** faddān:un bi dīnār:in 
+ <lb n="2"/>‮*** 9 9 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>hāḏā kitāb:un min *** **sk ʾarūna bni muwiya 
+ <lb n="5"/>*** **lkh ʾinna kumā saʾaltumā 
+ <lb n="6"/>wa ṭalabtumā ʾilay ya ʾan ʾukriya ka tisʿaẗa faddān:in mimmā kāna 
+ <lb n="7"/>fī yaday *** *** ø bni *ʾFḥ bi tisʿaẗi ăd danānīri 
+ <lb n="8"/>naqda bayti ăl māli wa wazna hu min ḥisābi ăl faddāni 
+ <lb n="9"/>bi dīnār:in fa ʾaǧabtu ka ʾilà ḏālika fa ĭzraʿ ʿalà barakaẗi ăl lāhi 
+ <lb n="10"/>wa ʿawni hi fa mā tazayyadta fa ḥisābu ḏālika wa mā bawwarta 
+ <lb n="11"/>fa ḫarāǧu hu lāzim:un la ka wa ḏālika li ḫarāǧi sanaẗi 273 
+ <lb n="12"/>*** **Bh 
+ <lb n="13"/>*** bn *** *** 3 muḥammad ăz zaǧǧāǧ 1 
+ <lb n="14"/>*** ʿalà ăs silmi bni malik:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... Faddān um Dīnār(e)]
+			<lb n="2"/>
+		[... 9] 9
+			<lb n="3"/>
+		[Im Namen Gottes, des Barmherzigen, G]ütigen!
+			<lb n="4"/>
+		[Dies ist eine Urkunde von seiten des .......] ....... Aron b. Mui
+			<lb n="5"/>
+		[... ]..... Ihr habt fürwahr gebeten
+			<lb n="6"/>
+		[und von mir verlangt, daß ich] Dir [verpachte] neun Faddān von dem (Lande), das sich
+			<lb n="7"/>
+		[im Besitz des N.N. Sohnes des N.N.]... befand, um 9 Dīnāre,
+			<lb n="8"/>
+		[vollgewich]tiges [(Standard]geld des Schatzhauses] in Berechnung eines Faddān
+			<lb n="9"/>
+		[per Dīnār. So habe ich denn diesem (Antrage) zugestimmt. S]äe [also] mit Gottes Segen
+			<lb n="10"/>
+		[und Hilfe. Was Du mehr leiste]st, darüber findet Abrechnung statt, und was Du brach läßt,
+			<lb n="11"/>
+		[dessen Grundsteuer obliegt Dir, und zwar für die Steuer des Jah]res 273.
+			<lb n="12"/>
+			<lb n="13"/>
+		[N.N Sohn des N.N.] 3 Muḥammad, der Glasmacher 1
+			<lb n="14"/>
+		[........ zu Las]ten des as-Silm b. [Ma]lik.
+</ab></div>
+</body>
+</text>
+</TEI>

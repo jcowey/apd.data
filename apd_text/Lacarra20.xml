@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2181" xml:id="Lacarra20" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.LacarraTratados 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Lacarra20</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  أنا ملتزم ما في هذا العقد ما عقد به مع الأمير شنجه بن غرسيّة سلّمه اللّه جميع ما ثبتَ في هذا الكتاب إن شا اللّه واللّه المستعان 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>ʾanā multazimu mā fī hāḏā ăl ʿaqdi mā ʿuqida bi hi maʿa ăl ʾamīri šanǧuha bni ġarsiyyaẗa sallama hu ăl lāhu ǧamīʿa mā ṯabata fī hāḏā ăl kitābi ʾin šāʾa ăl lāhu wa اl lāhu ăl mustaʿānu 
+ <lb n="3"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		Yo estoy obligado a cuanto [hay] en este tratado, al que se pactó en él con el príncipe Sanchi hijo de García - Dios le guarde - , y a todo le que consta en este excrito, si Dios quiere y de El se implora el auxilio.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2022" xml:id="Grohmann_APEL_249" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 249</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_249</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷÷÷ ÷÷ ÷ ÷÷÷ 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ر وهو ÷÷÷ ÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن عـ<supplied reason="lost" cert="high">ـبد</supplied> اللّه ÷÷ ÷ ÷÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">هـ</supplied>ـارون بن عبد الـملك ÷÷÷÷÷÷ ÷÷÷÷÷ ÷÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـر بن سلـ<supplied reason="lost" cert="high">ـيـ</supplied>ـم ÷÷÷÷÷÷ ÷÷÷÷ ÷÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">بـ</supplied>ـن يسار ÷÷÷ ÷÷÷÷ ÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/>پ بن <supplied reason="lost" cert="high">إ</supplied>سمعيل <gap reason="illegible" extent="1" unit="character" /> ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> بن عثمن ÷÷÷ ÷÷÷÷ ÷÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> بكـ<supplied reason="lost" cert="high">ـيـ</supplied>ـر مولى سفين وهو <app type="BL"><lem resp="APD">اپپحو </lem><rdg resp="UB">إسحق</rdg></app> غلام ÷÷÷÷÷ ÷÷÷÷÷÷ ÷÷ ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  بن عمرو 
+<lb n="11"/>  <supplied reason="lost" cert="high">فذ</supplied>لك ÷÷÷÷÷÷÷÷ ÷÷÷÷÷÷÷ ÷÷÷÷ ÷÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  ÷÷<unclear reason="undefined" cert="high">÷</unclear>÷÷ ÷÷÷÷÷÷ ÷ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 5 2/3+1/48 1 1/6+1/48 1/6+1/48 *** 
+ <lb n="2"/>*** ***r wa huwa 1/3+1/48 1/6+1/48 1/48 *** 
+ <lb n="3"/>*** bnu ʿabdi ăl lāhi 1 1/3 2/3 1/24+1/48 1/96 *** 
+ <lb n="4"/>hārūnu bnu ʿabdi ăl maliki 2 1/2+1/12+1/48 1 1/6+1/8+1/48 12 1/48 1/48 *** 
+ <lb n="5"/>*** ****ru bnu salīm:in sulaym:in 2 1/3+1/24+1/48 1 1/6+1/24 1/12+1/48 1/48 *** 
+ <lb n="6"/>*** **** bnu yasāra 3 1/12 1 1/2+1/24 1/3+1/8 1/12 *** 
+ <lb n="7"/>***b bnu ʾismāʿīla * 1/3+1/24 * * *** 
+ <lb n="8"/>**** **** bnu ʿuṯmāna 3 1/48 1 1/2+1/48 1 1/12 1/8 *** 
+ <lb n="9"/>*** * bukayru mawlà sufyāna wa huwa ʾBBḥw ʾisḥāqu ġulāmu 58 1/6+1/48 29 1/12+1/48 3 2/3 2/3 *** 
+ <lb n="10"/>bni ʿamr:in 
+ <lb n="11"/>fa ḏālika 361 1/2+1/12+1/48 186 2/3+1/24+1/48 29 1/2+1/4 1/48 * *** 
+ <lb n="12"/>78 1/6+1/48 24 1/12+1/48 3 2/3 * * *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		]  5 2/3+1/48  1 1/6+1/48  1/6+1/48 [
+			<lb n="2"/>
+		]r who (is called) 1/3+1/48 1/6+1/48 1/48 [
+			<lb n="3"/>
+		ib]n ʿA[bd] Allâh  1 1/3  2/3 1/24+1/48  1/96 [
+			<lb n="4"/>
+		H]ârûn b. ʿAbd al-Malik 2 1/2+1/12+1/48  1 1/6+1/8+1/48  12 1/48  1/48 [
+			<lb n="5"/>
+		].. [....]r b. Sal[î]m 2 1/3+1/24+1/48 1 1/6+1/24 1/12+1/48 [.] 1/48 [  
+			<lb n="6"/>
+		].. [... ib]n Yasâr 3 1/12 1 1/2+1/24 1/3+1/8 1/12 [
+			<lb n="7"/>
+		]b b. [I]smaʿîl . 1/3+1/24 .  .  [
+			<lb n="8"/>
+		].. [...].. b. ʿUṯmân 3 1/48  1 1/2+1/48 1 1/12 1/8 [
+			<lb n="9"/>
+		] Buka[i]r, freedman of Sufyân who is ....., hireling of 58 1/6+1/48 29 1/12+1/48 3 2/3 2/3 [
+			<lb n="10"/>
+		b. ʿAmr
+			<lb n="11"/>
+		That] makes: 361 1/2+1/12+1/48 186 2/3+1/24+1/48 29 1/2+1/4 ..1/48 [
+			<lb n="12"/>
+		78 1/6+1/48 24 1/12+1/48 3 2/3 ..[
+</ab></div>
+</body>
+</text>
+</TEI>

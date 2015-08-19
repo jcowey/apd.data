@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1124" xml:id="Diem_CPR_16_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168980</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حيم 
+<lb n="recto 2"/>  أطال اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">بقـ</supplied>ـاك قد أتاني <supplied reason="lost" cert="high">كتـ</supplied>ـا<supplied reason="lost" cert="high">بـ</supplied>ـك فقرأته وفهمت 
+<lb n="recto 3"/>  ما ذكرت <supplied reason="lost" cert="high">فـ</supplied>ـي الأرض فإن كنت تعلم أنّك تزرعهم فتعل 
+<lb n="recto 4"/>  حتّا نراهم وأنت تعلم أن ليس عندي شعير <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـاپ 
+<lb n="recto 5"/>  فقد وضعتهم حتّا أزرع الفدّان أرض وقد أتاني شنودة 
+<lb n="recto 6"/>  يوپپپى خردل الأربوع وأمّا الأرض الّذي في <app type="BL"><lem resp="fāʾ with one dot below “Maġribī”">شفا </lem><rdg resp="fāʾ with one dot below “Maġribī”">سفا</rdg></app> فأنا أجعلها 
+<lb n="recto 7"/>  قرط إن شا اللّه وعن أمر أرض ڤڤلا وا<gap reason="illegible" extent="1" unit="character" />ـ<gap reason="illegible" extent="1" unit="character" /> فأحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـد الّذي 
+<lb n="recto 8"/>  يزرعهم وهذا أحمد يجيك <sic n="superfluous">ڤكپف</sic> <sic n="superfluous">ا</sic> في بيتك ويبلّغك 
+<lb n="recto 9"/>  حفظك <supplied reason="omitted" cert="high">اللّه</supplied> وأبقاك 
+<lb n="verso"/>  لأبي <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">عليّ</rdg></app> حفظه اللّه من <app type="BL"><lem resp="APD">مرـ<gap reason="illegible" extent="2" unit="character" />ـ </lem><rdg resp="APD">مرقس </rdg><rdg resp="APD">مرقورة</rdg></app> الشّمّاس 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka qad ʾatā nī kitābu ka fa qaraʾtu hu wa fahimtu 
+ <lb n="3"/>mā ḏakarta fī ăl ʾarḍi fa ʾin kunta taʿlamu ʾanna ka tazraʿu hum fa taʿāla 
+ <lb n="4"/>ḥattā narā hum wa ʾanta taʿlamu ʾan laysa ʿind ī šaʿīr:un ****ā ***āB 
+ <lb n="5"/>fa qad waḍaʿtu hum ḥattā ʾazraʿa ăl faddāna ʾarḍ wa qad ʾatā nī šanūdaẗu 
+ <lb n="6"/>yuʾtī nī ḫardala ăl ʾurbūʿa wa ʾammā ăl ʾarḍu ăllaḏī fī sifā šifā fa ʾanā ʾaǧʿalu hā 
+ <lb n="7"/>qurṭ ʾin šāʾa ăl lāhu wa ʿan ʾamri ʾarḍi FFlā wa ʾa** fa ʾaḥmadu ăllaḏī 
+ <lb n="8"/>yazraʿu hum wa hāḏā ʾaḥmadu yaǧīʾu ka fī bayti ka wa yuballiġu ka 
+ <lb n="9"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+ <lb n="10"/>li ʾabī ** ʿaliyy:in ḥafiẓa hu ăl lāhu min mar** marqūraẗa marqusa ăš šammāsi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott möge Dich lange leben lassen! Dein Brief ist bei mir angekommen; ich habe ihn gelesen
+			<lb n="3"/>
+		und Deine Mitteilung über das Land verstanden. Wenn Du Dir also darüber im klaren bist, sie (sc. bestimmte Felder) bebauen zu lassen, dann komm (?),
+			<lb n="4"/>
+		damit wir sie ansehen. Aber Du weißt ja, daß ich keine (Saat-)Gerste habe [ 
+			<lb n="5"/>
+		Deshalb ich habe sie (sc. die Felder ?) beiseite gelassen, um (zuerst) den Faddān Land zu bestellen, nachdem Šenute zu mir gekommen war,
+			<lb n="6"/>
+		um mir den Senf(samen) von al-Urbūʿ zu bringen. Aber das Land in Šifā werde ich mit
+			<lb n="7"/>
+		Luzerne bestellen, so Gott will. Was das Land in Q- - - und - - - betrifft, so ist Aḫmad derjenige, der
+			<lb n="8"/>
+		sie (sc. die beiden Felder) bebauen wird, und eben diese Aḥmad wird zu Dir in Dein Haus kommen und Dich informieren.
+			<lb n="9"/>
+		&lt;Gott&gt; beschütze und erhalte Dich!
+			<lb n="10"/>
+		An Abū - - - - Gott beschütze ihn - von | M- - - dem Diakon.
+</ab></div>
+</body>
+</text>
+</TEI>

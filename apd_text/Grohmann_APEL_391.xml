@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1920" xml:id="Grohmann_APEL_391" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 391</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_391</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169657</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا حساب أبو محـ<supplied reason="lost" cert="high">ـمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="3"/>  مروان البزّاز <app type="BL"><lem resp="APD">منعت </lem><rdg resp="cf. transl.">فعلت</rdg></app> له 
+<lb n="4"/>  بطانة صفرا بالحشيش 
+<lb n="5"/>  وفرد بطانة حمرا بالبقّم 
+<lb n="6"/>  وجبّة خز حمرى صغار 
+<lb n="7"/>  وقميص وسراويل معصفر 
+<lb n="8"/>  بدرهمين وأيضا جبّة 
+<lb n="9"/>  عنابيّة وبطانتها صفرا 
+<lb n="10"/>  ‮وهذا حساب خالد ‪γʹ 
+<lb n="11"/>  وصل إليه ثمن كراة السّنة 
+<lb n="12"/>  ‮<del rend="erasure" status="unremarkable"><unclear reason="undefined" cert="high">‪ϛʹ‬</unclear></del> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā ḥisābu ʾabū muḥammad:in bni 
+ <lb n="3"/>marwāna ăl bazzāzi manaʿtu faʿaltu la hu 
+ <lb n="4"/>biṭānaẗ:an ṣafrāʾa bi ăl ḥašīši 
+ <lb n="5"/>wa farda biṭānaẗ:in ḥamrāʾa bi ăl baqqami 
+ <lb n="6"/>wa ǧubbaẗa ḫazz:in ḥamrà ṣiġār 
+ <lb n="7"/>wa qamīṣ wa sarāwīla muʿaṣfar 
+ <lb n="8"/>bi dirhamayni wa ʾayḍ:an ǧubbaẗ:an 
+ <lb n="9"/>ʿunnābiyyaẗ:an wa biṭānatu hā ṣafrāʾu 
+ <lb n="10"/>wa hāḏā ḥisābu ḫālid:in 1/3 
+ <lb n="11"/>waṣala ʾilay hi ṯamanu kirāẗi ăs sanaẗi 
+ <lb n="12"/>1/6 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is the account of Abû Muḥa[mmad b.]
+			<lb n="3"/>
+		Marwân, the cloth-merchant. I made for him
+			<lb n="4"/>
+		a yellow lining (filled) with dry grass,
+			<lb n="5"/>
+		and a single lining red (coloured) with Brazil-wood,
+			<lb n="6"/>
+		and a small red upper-gown of velvet,
+			<lb n="7"/>
+		and a shirt and trousers, dyed yellow,
+			<lb n="8"/>
+		for two dirhams, and further a nut-brown
+			<lb n="9"/>
+		upper-gown with yellow lining.
+			<lb n="10"/>
+		And this is the account of Ḫâlid 1/3
+			<lb n="11"/>
+		There has reached him as an equivalent of the annual rent
+			<lb n="12"/>
+		〚1/6〛
+</ab></div>
+</body>
+</text>
+</TEI>

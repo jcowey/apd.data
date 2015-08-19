@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="41" xml:id="Heid_Arab_I_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106484</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الـرحمن الـرحيم 
+<lb n="2"/>  من قرّة بن شريك إلى زكريّا صا<supplied reason="lost" cert="high">حب</supplied> 
+<lb n="3"/>  أشمون العليا فإنّي أحمد اللّه الذي لا 
+<lb n="4"/>  له إلّا هو 
+<lb n="5"/>  أمّا بعد فإن يحنّس بن شنوده أخبرني أن له 
+<lb n="6"/>  ثمنية عشر دينرا دين على أنبا صـ<unclear reason="undefined" cert="high">ـلـ</unclear>ـم 
+<lb n="7"/>  من كورته وغلبه على حقّه فإن كان 
+<lb n="8"/>  ما أخبرني حقّا وأقام على ذلك البيّنة 
+<lb n="9"/>  فاجمع بينه وبين صاحبه فما كان له 
+<lb n="10"/>  من حق فاستخرجه له ولا <app type="BL"><lem resp="APD">تظلمن </lem><rdg resp="APD">يظلمنّ</rdg></app> عبدك 
+<lb n="11"/>  والسلم على من اتبع الهد<unclear reason="undefined" cert="high">ى</unclear> وكتب مسلم 
+<lb n="12"/>  بن <app type="BL"><lem resp="APD">لپپں </lem><rdg resp="“Grohmann, P.Cair.Arab. III p. 29”">لبنن</rdg></app> ونسخ سعيد في جمادى <unclear reason="undefined" cert="high">الأولى</unclear> سنة 
+<lb n="13"/>  پن 
+<lb n="13"/>  إحدى وتسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà zakariyyāʾa ṣāḥibi 
+ <lb n="3"/>ʾušmūna ăl ʿulyā fa ʾin nī ʾaḥmadu ăl lāha ăllaḏī lā 
+ <lb n="4"/>ʾilāha ʾillā huwa 
+ <lb n="6"/>ʾammā baʿdu fa ʾinna yuḥannisa bna šanūdaẗa ʾaḫbara nī ʾanna la hu 
+ <lb n="7"/>ṯamāniyaẗa ʿašara dīnār:an dayn ʿalà ʾanbā ṣalm:in 
+ <lb n="8"/>min kūrati hi wa ġalaba hu ʿalà ḥaqqi hi fa ʾin kāna 
+ <lb n="9"/>mā ʾaḫbara nī ḥaqq:an wa ʾaqāma ʿalà ḏālika ăl bayyinaẗa 
+ <lb n="10"/>fa ĭǧmaʿ bayna hu wa bayna ṣāḥibi hi fa mā kāna la hu 
+ <lb n="11"/>min ḥaqq:in fa ĭstaḫriǧ hu la hu wa lā taẓlimanna yaẓlimanna yuẓlamannaَّ ʿabda ʿabdu ka 
+ <lb n="12"/>wa ăs salāmu ʿalà mani ĭttabaʿa ăl hudà wa kataba muslim:un 
+ <lb n="13"/>bnu lBBBa lubnāna ʾamīna wa nasaḫa saʿīd:un fī ǧumādà ăl ʾūlà sanaẗa 
+ <lb n="14"/>ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, des Erbarmers!
+			<lb n="2"/>
+		Von Qorra, dem Sohne des Šarīk, an Zacharias, den Vorsteher
+			<lb n="3"/>
+		Von Ober-Ušmūn. Ich preise Gott, außer dem es
+			<lb n="4"/>
+		Keinen Gott gibt.
+			<lb n="6"/>
+		Des Weiteren: Johannes, der Sohn des Šenūda, hat mir erzählt, 
+			<lb n="7"/>
+		Daß ihm Anbā Ṣalm (?) aus seinem Kreis 18 Dīnār
+			<lb n="8"/>
+		Schuldet, und er hat sie ihm widerrechtlich mit Gewalt abgenommen. Wenn seine
+			<lb n="9"/>
+		Erzählung wahr ist und er den Beweis dafür erbringt,
+			<lb n="10"/>
+		So konfrontiere ihn mit seinem Gegner und was er
+			<lb n="11"/>
+		Mit Recht beansprucht, das verschaffe ihm; denn wahrlich nicht sollst Du Deinen Knecht vergewaltigen.
+			<lb n="12"/>
+		Heil über den, welcher der Rechtleitung folgt! Es hat (dies) geschrieben Muslim,
+			<lb n="13"/>
+		Der Sohn des N.N., und abgeschrieben Saʿīd im Ǧumādā I des Jahres
+			<lb n="14"/>
+		Einundneunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

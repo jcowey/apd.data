@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2092" xml:id="Hanafi_TwoPaperDocuments031" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HanafiTwoPaperDocuments 3</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Hanafi_TwoPaperDocuments031</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">كتب</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">يوم</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">شهر</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سنة</supplied> أربع وأربعين ومائة 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> <supplied reason="lost" cert="high">مـ</supplied><unclear reason="undefined" cert="high">ـن</unclear> يعقوب اليهودي ويوسف بن يعقوب اليهو<supplied reason="lost" cert="high">ديّ</supplied> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> بن يوسف اليهودي ومعه بغلة له 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> كرم فخلفها مع غلام له 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">وخرجـ</unclear>ـكما أخبرهم فـباعها بعشـ<supplied reason="lost" cert="high">ـرة</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">دنانير</supplied> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ أمّه صلح أن يبيعها 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>kutiba fī yawmi *** šahra *** sanaẗa ʾarbaʿ:in wa ʾarbaʿīna wa miʾaẗ:in 
+ <lb n="2"/>hāḏā kitāb:un min yaʿqūba ăl yahūdiyyi wa yūsufa bni yaʿqūba ăl yahūdiyyi 
+ <lb n="3"/>*** *** bn yūsufa ăl yahūdiyy wa maʿa hu baġlaẗ:un la hu 
+ <lb n="4"/>*** karam:un fa ḫalafa hā maʿa ġulām:in la hu 
+ <lb n="5"/>*** wa ḫaraǧa kamā ʾaḫbara hum fa bāʿa hā bi ʿašaraẗi 
+ <lb n="6"/>danānīra 
+ <lb n="7"/>***B ʾummu hu ṣalāḥ ṣaluḥa ʾan yabīʿu hā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		It was written on such and such a day of such and such a month of the year] one hundred and forty-four
+			<lb n="2"/>
+		This is a document from] the Jew Jacob and Joseph son of Jacob the Je[w
+			<lb n="3"/>
+		... so and so] son of Joseph the Jew [went?] and with him there was a mule he owned.
+			<lb n="4"/>
+		in order that] Karam [might sell it] so he left it with his servant [[...]]
+			<lb n="5"/>
+		...] and went out, as he told them, and then he sold it for te[n
+			<lb n="6"/>
+		dīnārs] (vac.)
+			<lb n="7"/>
+		...] its mother (i.e. the she-ass) [becomes well] he can sell it.
+</ab></div>
+</body>
+</text>
+</TEI>

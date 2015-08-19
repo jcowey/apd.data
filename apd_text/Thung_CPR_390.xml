@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2341" xml:id="Thung_CPR_390" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 39</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_390</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  براه لحمد بن مروان <app type="BL"><lem resp="APD">الغسّال </lem><rdg resp="APD">الغسّال</rdg></app> من ربع دينر 
+<lb n="3"/>  أوصله إلى جعفر بن أحمد بن عبد الرّحمن 
+<lb n="4"/>  من الصّك الّذي له عليه بأربعة الدّنانير 
+<lb n="5"/>  فقد قبض جعفر بن أحمد بن عبد الرّحمن هذا 
+<lb n="6"/>  الرّبـ<supplied reason="lost" cert="high">ـع</supplied> دينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li ḥamdi bni marwāna ăl ʿassāli ġassāli min rubʿi dīnār:in 
+ <lb n="3"/>ʾawṣala hu ʾilà ǧaʿfara bni ʾaḥmada bni ʿabdi ăr raḥmāni 
+ <lb n="4"/>mina ăṣ ṣakki ăllaḏī la hu ʿalay hi bi ʾarbaʿaẗi ăd danānīri 
+ <lb n="5"/>fa qad qabaḍa ǧaʿfaru bnu ʾaḥmada bni ʿabdi ăr raḥmāni hāḏā 
+ <lb n="6"/>ăr rubʿa dīnār:in *** *** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Quittung für Ḥamd b. Marwān, den Honighändler, über einen viertel Dinar,
+			<lb n="3"/>
+		den er Ǧaʿfar b. Aḥmad b. ʿAbdarraḥmān gebracht hat
+			<lb n="4"/>
+		wegen des Schuldscheins über vier Dinar zu dessen Gunsten und seinen Lasten.
+			<lb n="5"/>
+		Es hat Ǧaʿfar b. Aḥmad b. ʿAbdarraḥmān bereits diesen
+			<lb n="6"/>
+		viertel Dinar genommen [
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1665" xml:id="Prag_340" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 34</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_340</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169416</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـسو <unclear reason="undefined" cert="high">پـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  محمّد بن سالـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  ‮أهل بور <supplied reason="lost" cert="high">نـ</supplied>ـعمان <app type="BL"><lem resp="APD">شا<supplied reason="lost" cert="high">ة</supplied> </lem><rdg resp="LS cf. translation">شاء</rdg></app> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">β</supplied>ι 
+<lb n="recto 4"/>  ‮يعقوب بن فيّاض راعي سية غنم ε 
+<lb n="recto 5"/>  ‮علـ<supplied reason="lost" cert="high">ـيّ</supplied> بـ<supplied reason="lost" cert="high">ـن</supplied> فصيح راعي سية غنم ι 
+<lb n="recto 6"/>  ‮<gap reason="illegible" precision="low" extent="3"/> بن هرو<supplied reason="lost" cert="high">ن</supplied> غنم وضأن  η 
+<lb n="recto 7"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">راعي</supplied> سية غنم ‪ιϛ 
+<lb n="recto 8"/>  ‮‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">راعي</supplied> سية غنم‬ ‪ιε 
+<lb n="recto 9"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">راعي</supplied> سـ<supplied reason="lost" cert="high">ـية</supplied> <supplied reason="lost" cert="high">غنم</supplied> ϛ‬ 
+<lb n="verso 1"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> ر<supplied reason="lost" cert="high">اعـ</supplied>ـي <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـوس 
+<lb n="verso 2"/>  ‮<gap reason="illegible" precision="low" extent="3"/> بهوه النّجّار و<gap reason="illegible" extent="2" unit="character" />ـلر وأصحابه ضأن δ 
+<lb n="verso 3"/>  ولهم جزر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 4"/>  <supplied reason="lost" cert="high">بـ</supplied>ـهوه سلبانة <app type="BL"><lem resp="APD">شـ<supplied reason="lost" cert="high">ـ</supplied>ـا<supplied reason="lost" cert="high">ة</supplied> </lem><rdg resp="LS cf. translation">شاء</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 5"/>  <supplied reason="lost" cert="high">بـ</supplied>ـهوه أبجوش <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 6"/>  دونة غـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **sw B*** *** 
+ <lb n="2"/>muḥammadu bnu sālim:in *** 
+ <lb n="3"/>ʾahlu būri nuʿmāna šāẗ šāʾ wa *** 12 
+ <lb n="4"/>yaʿqūbu bnu fayyāḍ:in rāʿī siyaẗa ġanam 5 
+ <lb n="5"/>ʿaliyyu bnu faṣīḥ:in rāʿī siyaẗa ġanam 10 
+ <lb n="6"/>*** bnu hārūna ġanam wa ḍaʾn 8 
+ <lb n="7"/>*** bnu *** rāʿī siyaẗa ġanam 16 
+ <lb n="8"/>*** bnu *** rāʿī siyaẗa ġanam 15 
+ <lb n="9"/>*** bnu *** rāʿī siyaẗa ġanam 6 
+ <lb n="10"/>**** ** *** rāʿī ***ūsa 
+ <lb n="11"/>*** bihawhu ăn naǧǧāru wa **lr wa ʾaṣḥābu hu ḍaʾn 4 
+ <lb n="12"/>wa la hum ǧazar:un *** 
+ <lb n="13"/>bihawhu silbānaẗa šāẗ šāʾ *** 
+ <lb n="14"/>bihawhu ʾabǧūša *** *** 
+ <lb n="15"/>dūnaẗu ġ*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Muḥammad b. Sāli[m ...]
+			<lb n="3"/>
+		Die Leute des Brachlands von Nuʿmān. Schaf[e und ...... 1[2]
+			<lb n="4"/>
+		Yaʿqūb b. Fayyāḍ, der Hirte des Siya. Kleinvieh 5
+			<lb n="5"/>
+		ʿAl[ī] b. Faṣīḥ, der Hirte des Siya. Kleinvieh 10
+			<lb n="6"/>
+		[N.N.,] Sohn des Harū[n]. Kleinvieh und Schafe 8
+			<lb n="7"/>
+		[N.N., Sohn des N.N., der Hirte des] Siya. Kleinvieh 16
+			<lb n="8"/>
+		[N.N., Sohn des N.N., der Hirte des] Siya. Kleinvieh 15
+			<lb n="9"/>
+		[N.N., Sohn des N.N., der Hirte des] Si[ya. Kleinvieh] 6
+			<lb n="10"/>
+		[...]..[...], der Hirte des [...]ūs
+			<lb n="11"/>
+		Pihau, der Tischler und .....l.r und seine Gefährten. Schafe 4
+			<lb n="12"/>
+		und sie haben Schlachtschafe [...]
+			<lb n="13"/>
+		[Pi]hau Silbāne Schafe [...]
+			<lb n="14"/>
+		[Pi]hau Abǧōš [...]
+			<lb n="15"/>
+		Dūne G..[...]
+</ab></div>
+</body>
+</text>
+</TEI>

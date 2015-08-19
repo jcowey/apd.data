@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1944" xml:id="Grohmann_APEL_395" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 395</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_395</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169676</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  الّذي دخل في ثلثة أمطار 
+<lb n="3"/>  ثلثة وعشرون قسط وثلث 
+<lb n="4"/>  وفي الدّستيجة قسط وربع 
+<lb n="5"/>  الجملة أر<supplied reason="lost" cert="high">بعـ</supplied>ـة وعشرون قسط 
+<lb n="6"/>  ونصف وأربع أواق الّتي ثلثة الدّنانـ<supplied reason="lost" cert="high">ـير</supplied> 
+<lb n="7"/>  ونصف وربع قيراط ونصف دانـ<supplied reason="lost" cert="high">ـق</supplied> 
+<lb n="8"/>  اثنا عشرة رطل إلّا ربع الّذ<supplied reason="lost" cert="high">ي</supplied> 
+<lb n="9"/>  دينر وسدس ودانق 
+<lb n="10"/>  ورطل وربع بنفسج ا<supplied reason="lost" cert="high">لّذ</supplied> 
+<lb n="11"/>  سدس إلّا ربع قيراط <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăllaḏī daḫala fī ṯalāṯaẗi ʾamṭār:in 
+ <lb n="3"/>ṯalāṯaẗ:un wa ʿišrūna qisṭ wa ṯulṯ:un 
+ <lb n="4"/>wa fī ăd dastīǧaẗi qisṭ:un wa rubʿ:un 
+ <lb n="5"/>ăl ǧumlaẗu ʾarbaʿaẗ:un wa ʿišrūna qisṭ 
+ <lb n="6"/>wa niṣf:un wa ʾarbaʿu ʾawāq:in ăllatī ṯalāṯaẗu ăd danānīri 
+ <lb n="7"/>wa niṣf:un wa rubʿu qīrāṭ:in wa niṣfu dāniq:in 
+ <lb n="8"/>ĭṯnā ʿašraẗa raṭl ʾillā rubʿ:un ăllaḏī 
+ <lb n="9"/>dīnār:un wa suds:un wa dāniq:un 
+ <lb n="10"/>wa raṭl:un wa rubʿ:un banafsaǧ ăllaḏī 
+ <lb n="11"/>suds:un ʾillā rubʿu qīrāṭ:in *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		That which has gone into three leather vessels,
+			<lb n="3"/>
+		is twenty-three xestes (qisṭ) and a third;
+			<lb n="4"/>
+		and what has gone into the glass-vessel (is) one xestes and a quarter,
+			<lb n="5"/>
+		the total (thereof being) twenty-four xestes
+			<lb n="6"/>
+		and a half and four ounces (waqîya), which comes to three
+			<lb n="7"/>
+		and a half dînâ[rs] and a quarter of a carat and a half dâni[q].
+			<lb n="8"/>
+		Further twelve pounds (raṭl) less a quarter, which comes to
+			<lb n="9"/>
+		one dînâr and a sixth and one dâniq.
+			<lb n="10"/>
+		And one pound and a quarter violets, which comes to
+			<lb n="11"/>
+		a sixth (of a dînâr) less a quarter of a carat [...]
+</ab></div>
+</body>
+</text>
+</TEI>

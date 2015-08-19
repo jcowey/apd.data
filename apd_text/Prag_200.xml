@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1608" xml:id="Prag_200" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 20</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_200</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169364</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1 right margin"/>  <supplied reason="lost" cert="high">معـ</supplied>ـد بن <supplied reason="lost" cert="high">آ</supplied>دم 
+ <lb n="2 right margin"/>  عدّال أمر بالخراج 
+ <lb n="1"/>  <gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" extent="2" unit="character" /><del rend="erasure" status="unremarkable">χ</del> 
+ <lb n="3"/>  سعيد بن إبرهيم χγʹ‎κʹ‎δʹ‎χ ιβχκʹ‎δʹ‎χ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="4"/>  وهو عبد الغني بن عبيد 
+ <lb n="5"/>  محمّد بن يحيى δʹ‎χ γϛʹ‎κʹ‎δʹ‎ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="6"/>  وهو حكم 
+ <lb n="5 right margin"/>  أدّى القيّار 
+ <lb n="6 right margin"/>  معد بن آدم عدّال 
+ <lb n="7 right margin"/>  أمر بالخراج 
+ <lb n="8"/>  <app type="BL"><lem resp="APD">حسنون </lem><rdg resp="APD">حبشون</rdg></app> بن حفص γʹ‎κʹ‎δʹ‎ εϛʹ‎ηʹ‎ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="8 right margin"/>  أدّى القيّار 
+ <lb n="9 right margin"/>  سعيد أمر عبد اللّه بالخراج 
+ <lb n="10"/>  يعقوب بن حميد γγʹ‎ιʹ‎βʹ‎χ ναχηʹ‎ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="11"/>  <del rend="erasure" status="unremarkable">وهو</del> <del rend="erasure" status="unremarkable">موسى</del> 
+ <lb n="12"/>  يونس بن إبرهيم γʹ‎κʹ‎δʹ‎χ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="13"/>  وهو عبد الغني بن عبيد 
+ <lb n="14"/>  فذلك εχ σνδχγʹ‎ιʹ‎βʹ‎χ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>maʿadd bn ʾādama 
+ <lb n="2"/>ʿaddāl:un ʾamara bi ăl ḫarāǧi 
+ <lb n="3"/>* * 
+ <lb n="4"/>saʿīd bn ʾibrāhīma 1/2+1/3+1/24+1/48 12+2/3+1/24+1/48 * * 
+ <lb n="5"/>wa huwa ʿabdi ăl ġaniyyi bni ʿubayd:in 
+ <lb n="6"/>muḥammad bn yaḥyà 1/4+1/48 3+1/6+1/24 * * 
+ <lb n="7"/>wa huwa ḥakam:in 
+ <lb n="8"/>ʾaddà ăl qayyāru 
+ <lb n="9"/>maʿadd bn ʾādama ʿaddāl:un 
+ <lb n="10"/>ʾamara bi ăl ḫarāǧi 
+ <lb n="11"/>ḥasnūn ḥusnūn ḥabšūn bn ḥafṣ:in 1/3+1/24 5+1/6+1/8 * * 
+ <lb n="12"/>ʾaddà ăl qayyāru 
+ <lb n="13"/>saʿīd ʾamara ʿabdu ăl lāhi bi ăl ḫarāǧi 
+ <lb n="14"/>yaʿqūb bn ḥamīd:in ḥumayd:in 3+1/3+1/12+1/48 51+1/2+1/8 * * 
+ <lb n="15"/>ø 
+ <lb n="16"/>yūnus bn ʾibrāhīma 1/3+1/24+1/48 * * * 
+ <lb n="17"/>wa huwa ʿabdi ăl ġaniyyi bni ʿubayd:in 
+ <lb n="18"/>fa ḏālika 5+2/3 254+1/2+1/12+1/48 * * 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Maʿa]dd b. Ādam
+		 <lb n="2"/>
+ 	  ʿAddāl hat die Grundsteuer vorgeschrieben
+		 <lb n="3"/>
+ 	  〚..........1/48......〛• •
+		 <lb n="4"/>
+ 	  Saʿīd b. Ibrāhīm 1/2+1/3+1/24+1/48 12 2/3+1/24+1/48 • •
+		 <lb n="5"/>
+ 	  der (im Hause des) ʿAbd al-Ġanī b. ʿUbaid (ist)
+		 <lb n="6"/>
+ 	  Muḥammad b. Yaḥyā 1/4+1/48  3 1/6+1/24 • •
+		 <lb n="7"/>
+ 	  der (im Hause des) Ḥakam (ist)
+		 <lb n="8"/>
+ 	  Es hat gezahlt der Pechhändler
+		 <lb n="9"/>
+ 	  Maʿadd b. Ādam, ʿAddāl
+		 <lb n="10"/>
+ 	  hat die Grundsteuer vorgeschrieben
+		 <lb n="11"/>
+ 	  Ḥasnūn b. Ḥafṣ 1/3+1/24 5 1/6+1/8 • •
+		 <lb n="12"/>
+ 	  Es hat gezahlt der Pechhändler
+		 <lb n="13"/>
+ 	  Saʿīd. ʿAbdallāh hat die Grundsteuer vorgeschrieben.
+		 <lb n="14"/>
+ 	  Yaʿqūb b. Ḥumaid 3 1/3+1/12+1/48 51 1/2+1/8 • •
+		 <lb n="15"/>
+ 	  〚der (im Hause des) Mūsā (ist)〛
+		 <lb n="16"/>
+ 	  Yūnus b. Ibrāhīm 1/3+1/24+1/48 • • •
+		 <lb n="17"/>
+ 	  der (im Hause des) ʿAbd al-Ġanī b. ʿUbaid (ist)
+		 <lb n="18"/>
+ 	  Dies macht: 5 2/3 254 1/2+1/3+1/12+1/48 • •
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

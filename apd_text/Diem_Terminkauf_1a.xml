@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2203" xml:id="Diem_Terminkauf_1a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Terminkauf 1a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Terminkauf_1a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  وإسحق بن <supplied reason="lost" cert="high">يـ</supplied>ـوسف <supplied reason="lost" cert="high">كـ</supplied>ـتب شـ<supplied reason="lost" cert="high">ـهاد</supplied>تـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="3"/>  شـ<supplied reason="lost" cert="high">ـهـ</supplied>ـد علی ذلك نـ<supplied reason="lost" cert="high">ـوفـ</supplied>ـل بن يحـ<supplied reason="lost" cert="high">ـيی</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وكتب عبـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه <supplied reason="lost" cert="high">بـ</supplied>ـن نوفل شهادته <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  كتـ<supplied reason="lost" cert="high">ــ</supplied>ــ<supplied reason="lost" cert="high">ــ</supplied>ـب <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>** *** 
+ <lb n="2"/>wa ʾisḥāqu bnu yūsufa kataba šahādata hu 
+ <lb n="3"/>šahida ʿalà ḏālika nawfalu bnu yaḥyà *** 
+ <lb n="4"/>wa kataba ʿabdu ăl lāhi bnu nawfala šahādata hu *** 
+ <lb n="5"/>kataba *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Isḥāq ibn [Y]ūsuf [sch]rieb [seine] Bezeu[gung]
+			<lb n="3"/>
+		Es be[zeu]gte dies Na[wfa]l ibn Yaḥ[ā] ..
+			<lb n="4"/>
+		Es schrieb ʿAb[d A]llāh [ib]n Nawfal seine Bezeugung [...]
+			<lb n="5"/>
+		Es sch[rie]b [...]
+</ab></div>
+</body>
+</text>
+</TEI>

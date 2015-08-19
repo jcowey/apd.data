@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2008" xml:id="Grohmann_APEL_240" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 240</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_240</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169736</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  يوم ÷ ذي الحجّة ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" extent="1" unit="character" /> أدّى شنودة بن <unclear reason="undefined" cert="high">مپاعر</unclear> بضياع ورثة محمّد ÷÷÷ <gap reason="illegible" extent="2" unit="character" />÷ ÷÷÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  من أحمد بن <unclear reason="undefined" cert="high">مرزوق</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ÷÷÷÷÷ ÷÷÷ ÷÷÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ÷÷÷ ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ÷ أدّى ا<gap reason="illegible" precision="low" extent="3"/> بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> عـ<supplied reason="lost" cert="high">ـن</supplied> ابـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ÷<supplied reason="lost" cert="high">÷</supplied> ÷÷ <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawmu 4 ḏī ăl ḥiǧǧaẗi 6 *** 
+ <lb n="2"/>* *** 
+ <lb n="3"/>* ʾaddà šanūdaẗu bnu mBʾʿr bi ḍiyāʿi waraṯaẗi muḥammad:in 2/3+1/8+1/48 **+5 1 1/2+1/3+1/12+1/48 *** 
+ <lb n="4"/>min ʾaḥmada bni marzūq:in *** 
+ <lb n="5"/>67 1/2+1/3+1/8 12 2/3 15 1/12 *** 
+ <lb n="6"/>1 2/3+1/8 1/8+1/48 *** 
+ <lb n="7"/>2 ʾaddà ʾ*** bnu *** ***** ʿan ʾb*** 1/12 1/24 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Wednesday, Ḏu&#039;l-Ḥiǧǧa 6th
+			<lb n="2"/>
+			<lb n="3"/>
+		...... Šanûda, son of Munâġî (?), (residing) in the estates of the heirs of Muḥammad, has paid 2/3+1/8+1/48 5[..] 1 1/2+1/3+1/12+1/48
+			<lb n="4"/>
+		from Aḥmad b. Marzûq (?)
+			<lb n="5"/>
+		67 1/2+1/3+1/8  12 2/3  15 1/12
+			<lb n="6"/>
+		1 2/3+1/8  1/8+1/48
+			<lb n="7"/>
+		2 A.... b[en] ...... has paid on behalf of A.. [...] 1/12 1/24 [
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2410" xml:id="Diem_Steuerquittungen_100" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_100</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1-2 right"/>  ÷ <supplied reason="lost" cert="high">مـ</supplied>ـ<supplied reason="lost" cert="high">ـخـ</supplied>ـير 
+<lb n="2-3 left"/>  دينر ÷ 
+<lb n="4"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="5"/>  أدّى محمّد بن إبرهيم بن مسلم وـ<supplied reason="lost" cert="high">ـمـ</supplied>ـرقورة 
+<lb n="6"/>  بن مينا عمّا زرعا على جعفر بن المهدي 
+<lb n="7"/>  بإبشادة لسنة سبع عشر وثلثمائة 
+<lb n="8"/>  من العين المغسول بوزن سوا عشرة دنانير 
+<lb n="9"/>  وكتب جعفر بن المهدي بخطّه 
+<lb n="10"/>  في المحرّم سنة ثمان عشر وثلثمائة 
+<lb n="11-12 right"/>  دينر ÷ 
+<lb n="11 left"/>  عن سنة ÷÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>3 maḫīr:in 
+ <lb n="2"/>dīnār:un 10 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà muḥammadu bnu ʾibrāhīma bni muslim:in wa marqūraẗu 
+ <lb n="5"/>bnu mīnā ʿammā zaraʿā ʿalà ǧaʿfara bni ăl mahdiyyi 
+ <lb n="6"/>bi ʾibšādaẗa li sanaẗi sabʿa ʿašara wa ṯalāṯi miʾaẗ:in 
+ <lb n="7"/>mina ăl ʿayni ăl maġsūli bi wazn:in sawā ʿašaraẗa danānīra 
+ <lb n="8"/>wa kataba ǧaʿfaru bnu ăl mahdiyyi bi ḫaṭṭi hi 
+ <lb n="9"/>fī ăl muḥarrami sanaẗa ṯamāni ʿašara wa ṯalāṯi miʾaẗ:in 
+ <lb n="10"/>dīnār:un 10 
+ <lb n="11"/>ʿan sanaẗi 317 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		3 Me[ch]eir
+			<lb n="2"/>
+		Dinar 10
+			<lb n="3"/>
+		Im Namen Gottes des Barmherzigen und sich Erbarmenden!
+			<lb n="4"/>
+		Es zahlten Muḥammad ibn Ibrāhīm ibn Muslim und [Ma]rqūrah
+			<lb n="5"/>
+		ibn Mīnā für das von ihnen auf (dem Land von) Ǧaʿfar ibn al-Mahdī
+			<lb n="6"/>
+		in Ibšādah Angebaute für das (Steuer)jahr dreihundertsiebzehn
+			<lb n="7"/>
+		an gewaschenem Geld mit genauem Gewicht zehn Dinar.
+			<lb n="8"/>
+		Es schrieb (dies) Ǧaʿfar ibn al-Mahdī eigenhändig
+			<lb n="9"/>
+		im Muḥarram des Jahres dreihundertachtzehn.
+			<lb n="10"/>
+		Dinar 10
+			<lb n="11"/>
+		für das (Steuer)jahr 317
+</ab></div>
+</body>
+</text>
+</TEI>

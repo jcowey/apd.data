@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1978" xml:id="Grohmann_APEL_227" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 227</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_227</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169710</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> ÷<gap reason="illegible" extent="1" unit="character" /> ÷ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> ÷÷ ÷÷÷÷ ÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  فدّ<supplied reason="lost" cert="high">ان</supplied> 
+<lb n="4"/>  فذلك 
+<lb n="5"/>  ÷÷<unclear reason="undefined" cert="high">÷</unclear><supplied reason="lost" cert="high">÷</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <app type="BL"><lem resp="APD">الحصـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="UB">الحصاد</rdg></app> <unclear reason="undefined" cert="high">پپون</unclear> 
+<lb n="7"/>  من ÷ <app type="BL"><lem resp="APD">غنيم </lem><rdg resp="APD">غنتم </rdg><rdg resp="APD">غنيم </rdg><rdg resp="APD">عيثم</rdg></app> حزر ÷÷ ÷÷ ÷÷ ÷÷ ÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  من ÷ وله أيضا حزر ÷÷ ÷÷ ÷÷÷ ÷÷÷ ÷÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  من ÷ بقام الجبّان حزر ÷÷ ÷÷ ÷÷ ÷÷÷ <gap reason="illegible" precision="low" extent="3"/> ÷<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  من ÷ عمر حزر ومن الكرم ÷÷ ÷÷÷ ÷<gap reason="illegible" extent="1" unit="character" /> ÷÷÷ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/>ا <gap reason="illegible" precision="low" extent="3"/>ا <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 1* 7 *** 
+ <lb n="2"/>*** 8 1/2 54 2/3+1/8 4+*** 
+ <lb n="3"/>faddān:un 
+ <lb n="4"/>fa ḏālika 
+ <lb n="5"/>110 1/24 *** 
+ <lb n="6"/>ăl ḥaṣ*** ḥiṣād BBwn 
+ <lb n="7"/>min 8 ʿayṯamu ġunaym:un ġuntumu ʿuṯaym:un ḥazr:un 11 13 14 43 *3* 
+ <lb n="8"/>min 8 wa la hu ʾayḍ:an ḥazr:un 2 1/2 4 1/2 17 1/2 17 1/2 4 1/2+*** 
+ <lb n="9"/>min 8 baqāmu ăl ǧabbānu ḥazr:un 12 12 17 10 2/3+1/2 *** 1/2+*** 
+ <lb n="10"/>min 8 ʿumar:un ḥazr:un wa mina ăl karmi 22 18 1/2 3* 31 1/2 ** *** 
+ <lb n="11"/>***ʾ ***ʾ *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] 1.  7 [
+			<lb n="2"/>
+		[...] 8 1/2  54 2/3+1/8 [..]4 [
+			<lb n="3"/>
+		fadd[ân
+			<lb n="4"/>
+		That makes:
+			<lb n="5"/>
+		110 1/24
+			<lb n="6"/>
+		al-Ḥaṣ[...]..ûn (?)
+		the har[vest] .. ūn (?)
+			<lb n="7"/>
+		(rented) at 8 (dînârs) ʿUṯaim, chick-peas: 11  13  14  43  [.]3[
+			<lb n="8"/>
+		(rented) at 8 (dînârs) and he has chick-peas once more: 2 1/2  4 1/2  17 1/2  17 1/2  4 1/2[
+			<lb n="9"/>
+		(rented) at 8 (dînârs) Bqâm, cheese-monger, chick-peas: 12  12  17  10 2/3+1/2 [...] 1/2[
+			<lb n="10"/>
+		(rented at) 8 (dînârs) ʿUmar, chick-peas, and of vine: 22  18 1/2  3.  31 1/2 [..]..[
+			<lb n="11"/>
+</ab></div>
+</body>
+</text>
+</TEI>

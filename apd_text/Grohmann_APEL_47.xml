@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1029" xml:id="Grohmann_APEL_47" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 047</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_47</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168915</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  شهد الحسين بن إبرهيم على إقرار الزّوج والولي بجميع <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="2"/>  شهد موسى بن أحمد بن الحسن على إقرار الزوج والولي بجميع ما فيه وكتـ<supplied reason="lost" cert="high">ـب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="3"/>  شهد عصفور بن حسن بن مومل على إقرار الزّوج و<supplied reason="lost" cert="high">الوليّ</supplied> <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="4"/>  شهد مسلم بن علي بما فيه وكتب بخـ<supplied reason="lost" cert="high">ـطّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>šahida ăl ḥusaynu bnu ʾibrāhīma ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi ǧamīʿi mā fī hi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="2"/>šahida mūsà bnu ʾaḥmada bni ăl ḥasani ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi ǧamīʿi mā fī hi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="3"/>šahida ʿuṣfūru bnu ḥasani bni muʾammal:in ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi ǧamīʿi mā fī hi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="4"/>šahida muslimu bnu ʿaliyy:in bi mā fī hi wa kataba bi ḫaṭṭi hi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		al-Ḥusain b. Ibrahîm is witness to the acknowledgment by the husband and the sponsor of all [that (is contained) herein, and he has written his testimony in his (own) handwriting].
+			<lb n="2"/>
+		Mûsâ b. Aḥmad b. al-Ḥasan is witness to the acknowledgment by the husband and the sponsor of all that (is contained) herein, and he has writ[ten his testimony in his (own) handwriting].
+			<lb n="3"/>
+		ʿUṣfûr b. Ḥasan b. Muʾammal is witness to the acknowledgment by the husband and [the sponsor of all that (is contained) herein, and he has written his testimony in his (own) handwriting].
+			<lb n="4"/>
+		Muslim b. ʿAlî is witness to all that (is contained) herein, and he has written in [his (own)] hand[writing].
+</ab></div>
+</body>
+</text>
+</TEI>

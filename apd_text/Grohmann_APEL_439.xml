@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1943" xml:id="Grohmann_APEL_439" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 439</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_439</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169675</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> أبو الخير بن المنير 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> بن <app type="BL"><lem resp="APD">زيّان </lem><rdg resp="APD">زبان </rdg><rdg resp="APD">زيّان </rdg><rdg resp="APD">ربان</rdg></app> χγʹ‎ أبو شجاع الخبّاز β 
+ <lb n="4"/>  <gap reason="illegible" extent="4" unit="character" /> دنيل الصّبّاغ βιʹ‎βʹ‎ جعفر التّمّار α 
+ <lb n="5"/>  <gap reason="illegible" extent="4" unit="character" /> النّمر بن ملك αςʹ‎ηʹ‎ <app type="BL"><lem resp="final nūn with dot above">نارون </lem><rdg resp="APD">فارون</rdg></app> ـــــ 
+ <lb n="6"/>  <gap reason="illegible" extent="4" unit="character" /> أبو طالب α قوريل <unclear reason="undefined" cert="high">أجنى</unclear> ιε 
+ <lb n="7"/>  <gap reason="illegible" extent="4" unit="character" /> χηʹ‎ بن رجا γʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** *** *** **** 
+ <lb n="2"/>*** ʾabū ăl ḫayri bnu ăl munīri 
+ <lb n="3"/>*** bnu rayyāna rbʾn zayyān:in zibāna ‪1/2+1/3 ʾabū šuǧāʿ:in ăl ḫabbāzu ‪2 
+ <lb n="4"/>**** danyalu ăṣ ṣabbāġu ‪2 1/12 ǧaʿfaru ăt tammāru ‪1 
+ <lb n="5"/>**** ăn nimru bnu malik:in ‪1 1/6+1/8 nārūnu fārūnu ‪1 
+ <lb n="6"/>**** ʾabū ṭālib:in ‪1 qūrīlu ʾaǧnà ‪15 
+ <lb n="7"/>**** ‪1/2+1/8 bn riǧā ‪1/3 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  ] Abu &#039;l-Ḫair b. Munîr
+		 <lb n="3"/>
+ 	  ] Ibn Rayyân 1/2+1/3, Abû Šuǧâʿ, the baker, 2
+		 <lb n="4"/>
+ 	  ].. Daniel, the dyer, 2 1/12, Ǧaʿfar, the date-merchant 1
+		 <lb n="5"/>
+ 	  ].. an-Nimr b. Malik 1 1/6+1/8 Nârûn (?) --- 1
+		 <lb n="6"/>
+ 	  ].. Abû Ṭâlib 1, Cyril Agnâ 15
+		 <lb n="7"/>
+ 	  ].. 1/2+1/8, Ibn Riǧâ 1/3
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

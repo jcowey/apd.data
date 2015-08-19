@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1793" xml:id="Grohmann_APEL_316" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 316</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_316</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169534</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  تفضّل يا سيّدي أطال اللّه بقاك واكتب لسيّدي أبي الحسن 
+<lb n="3"/>  أيّده اللّه براه عن طوبة باثنا عشر دراهما كنت دفعته إليك 
+<lb n="4"/>  ‮بصرّة وزنها ‪ιγχ‬ بها جواز ‪δχ‬ فصار الجمع معسول محتق ‪ιβ‬ 
+<lb n="5"/>  فلا توحر عنه البراه بذلك إن شا اللّه 
+<lb n="6"/>  ما صار في جملة نفقات سيّدي أيّده اللّه حسبنا اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>tafaḍḍal yā sayyid ī ʾaṭāla ăl lāhu baqāʾa ka wa ŭktub li sayyid ī ʾabī ăl ḥasani 
+ <lb n="3"/>ʾayyada hu ăl lāhu barāʾaẗ:an ʿan ṭūbaẗa bi ĭṯnā ʿašara darāhim:an kuntu dafaʿtu hu ʾilay ka 
+ <lb n="4"/>bi ṣurraẗ:in waznu hā ‪13 1/2 bi hā ǧawāz:un ‪4 1/2 fa ṣāra ăl ǧamʿu maʿsūl:un muḥtaqq:un ‪12 
+ <lb n="5"/>fa lā tuʾaḫḫir ʿan hu ăl barāʾaẗa bi ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="6"/>mā ṣāra fī ǧumlaẗi nafaqāti sayyid ī ʾayyada hu ăl lāhu ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Be so good, O my lord - may God prolong your life - and write to my lord Abu&#039;l-Ḥasan
+			<lb n="3"/>
+		- may God help him - a quittance from (the month of) Tybi (Ṭûbe) for twelve dirhams, which I had delivered to you
+			<lb n="4"/>
+		in a purse weighing 13 1/2 (dirhams) therein were current 4 1/2, so that the total was 12 correctly counted out, adjusted.
+			<lb n="5"/>
+		So do not keep back from him the quittance concerning this, if God wills.
+			<lb n="6"/>
+		What has come for the entire maintenance of my lord - may God help him. Our sufficiency is God, and He is the best trustee.
+</ab></div>
+</body>
+</text>
+</TEI>

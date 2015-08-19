@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2312" xml:id="Thung_CPR_330" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 33</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_330</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـع المقيم بنواي وأشهد على نفسه في صحّة من 
+ <lb n="2"/>  <supplied reason="lost" cert="high">عـ</supplied>ـقله وبدنه أن عليـ<supplied reason="lost" cert="high">ـه</supplied> وعنده وفي ذمّته لبقطر 
+ <lb n="3"/>  <supplied reason="lost" cert="high">بـ</supplied>ـن حنّون الكاتب من الورق الواضح نقد مصر 
+ <lb n="4"/>  تلاتين درهما النّصف من ذالك خمسة تعشر درهما 
+ <lb n="5"/>  يقوم له بذالك في سلخ شوّال من شهور سنة تسع وثلاثين وستّمائة 
+ <lb n="6"/>  وبه شهد عليه في العشرين من شهر رجب الرّحمن من شهور سنة 
+ <lb n="7"/>  تسع وثلاثين وستّمايه أشهدني بذلك وكتب 
+ <lb n="8 right"/>  صادق بن عمروس 
+ <lb n="7 left"/>  أشهدني بذلك وكتب 
+ <lb n="8 left"/>  إبراهيم بن علي بن عبد الصّمد 
+ <lb n="9 left"/>  بن محمّد عمروس <expan><ex>ڤى</ex> <ex>پا</ex><abbr>رپحه</abbr></expan> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>**ʿ ăl muqīmu bi nawāya wa ʾašhada ʿalà nafsi hi fī ṣiḥḥaẗ:in min 
+ <lb n="2"/>ʿaqli hi wa badani hi ʾanna ʿalay hi wa ʿinda hu wa fī ḏimmati hi li buqṭura 
+ <lb n="3"/>bni ḥannūna ăl kātibi mina ăl waraqi ăl wāḍiḥi naqdi miṣra 
+ <lb n="4"/>talātīna dirham:an ăn niṣfu min ḏālika ḫamsaẗa taʿašara dirham:an 
+ <lb n="5"/>yaqūmu la hu bi ḏālika fī salḫi šawwāl:in min šuhūri sanaẗi tisʿ:in wa ṯalāṯīna wa sitti miʾaẗ:in 
+ <lb n="6"/>wa bi hi šuhida ʿalay hi fī ăl ʿišrīna min šahri raǧabi ăr raḥmāni min šuhūri sanaẗi 
+ <lb n="7"/>tisʿ:in wa ṯalāṯīna wa sitti miʾaẗ:in ʾašhada nī bi ḏālika wa kataba 
+ <lb n="8"/>ṣādiqu bnu ʿumrūsa 
+ <lb n="9"/>ʾašhada nī bi ḏālika wa kataba 
+ <lb n="10"/>ʾibrāhīmu bnu ʿaliyyi bni ʿabdi ăṣ ṣamadi 
+ <lb n="11"/>bni muḥammadi bni ʿumrūsa fī taʾrīḫi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [...] wohnhaft in Nawāy, und er hat im Zustand seiner
+		 <lb n="2"/>
+ 	  geistigen und körperlichen Gesundheit gegen sich bezeugen lassen, daß er Buqṭur
+		 <lb n="3"/>
+ 	  b. Ḥannūn, dem Schreiber, dreißig vollwichtige (?) waraq-Dirham ägyptischer Währung schuldet,
+		 <lb n="4"/>
+ 	  deren Hälfte fünfzehn Dirham beträgt.
+		 <lb n="5"/>
+ 	  Er wird ihm dies am Ende des Monats Šawwāl des Jahres sechshundertneununddreißig zahlen.
+		 <lb n="6"/>
+ 	  Dies wurde gegen ihn bezeugt am zwanzigsten des gnädigen Monats Raǧab des Jahres
+		 <lb n="7"/>
+ 	  sechshundertneununddreißig. Er hat mich zum Zeugen hiervon gemacht, und es hat unterschrieben
+		 <lb n="8"/>
+ 	  Ṣādiq b. ʿUmrūs.
+		 <lb n="9"/>
+ 	  Er hat mich zum Zeugen hiervon gemacht, und es hat unterschrieben
+		 <lb n="10"/>
+ 	  Ibrāhīm b. ʿAlī b. ʿAbdaṣṣamad
+		 <lb n="11"/>
+ 	  b. Muḥammad b. ʿUmrūs am Datum dieser Urkunde.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

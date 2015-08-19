@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="398" xml:id="Abbott_Qurra_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Qurra 4</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Qurra_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">45364</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> و<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مـ</supplied>ـن </lem><rdg resp="“Diem, Aphrodito p. 259”">على</rdg></app> أرضك فوجدته 
+<lb n="3"/>  بقي عليك مال عظيم 
+<lb n="4"/>  وقد علمت الّذي <app type="BL"><lem resp="APD">حضر </lem><rdg resp="APD">خصر </rdg><rdg resp="APD">حصر</rdg></app> 
+<lb n="5"/>  من الزّمان وإنّما تقدّم 
+<lb n="6"/>  علي الآن ولعمري إن 
+<lb n="7"/>  عاملا من عمّال تأخّر 
+<lb n="8"/>  بعد الأجل الّذي أجّلته 
+<lb n="9"/>  أو تقدّم علي وقد ترك 
+<lb n="10"/>  خلفه من المال شيا 
+<lb n="11"/>  لأحمق مغتر هينة عليه 
+<lb n="12"/>  نفسه فإذآ جاك 
+<lb n="13"/>  كتبي هذا فاجمع ما على 
+<lb n="14"/>  أرضك من الجزية 
+<lb n="15"/>  پواپ والفضول ثم اقدم 
+<lb n="16"/>  علي بمال أرضك وبالّذين 
+<lb n="17"/>  أمرتك أن تقدم إلي بهم 
+<lb n="18"/>  من أهل أرضك فلعمري 
+<lb n="19"/>  لقد كنت أظن أن عملك 
+<lb n="20"/>  هو أنجح وخيرا ممّا 
+<lb n="21"/>  اپپ وقد فعلت ما لم 
+<lb n="22"/>  يفعل أحد من العمّال 
+<lb n="23"/>  في تأخير الّذي عليك <supplied reason="lost" cert="high">و</supplied>فی 
+<lb n="24"/>  عجزك في عملك وإنّه 
+<lb n="25"/>  واللّه ما لأحد عندي 
+<lb n="26"/>  أخّر هذا المال إلّا 
+<lb n="27"/>  ما قبح وجهه ولا يكونن 
+<lb n="28"/>  لما قبلك حبس وإيّاك 
+<lb n="29"/>  والعلل فإنّي لست 
+<lb n="30"/>  ممّن يصدّق بالعلل 
+<lb n="31"/>  لا يعذر بها والسّلم 
+<lb n="32"/>  على من اتّبع الهدى 
+<lb n="33"/>  وكتب خليفة يوم الاثنين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** wa **** ḥisāb 
+ <lb n="2"/>min ʿalà ʾarḍi ka fa waǧadtu hu 
+ <lb n="3"/>baqiya ʿalay ka māl:un ʿaẓīm:un 
+ <lb n="4"/>wa qad ʿalimta ăllaḏī ḥaḍara ḥaṣira ḫaṣira 
+ <lb n="5"/>mina ăz zamāni wa ʾinnamā taqaddam 
+ <lb n="6"/>ʿalay ya ăl ʾāna wa la ʿamr ī ʾinna 
+ <lb n="7"/>ʿāmil:an min ʿummāl:in taʾaḫḫara 
+ <lb n="8"/>baʿda ăl ʾaǧali ăllaḏī ʾaǧǧaltu hu 
+ <lb n="9"/>ʾaw taqaddama ʿalay ya wa qad taraka 
+ <lb n="10"/>ḫalfa hu mina ăl māli šayʾ:an 
+ <lb n="11"/>la ʾaḥmaqu muġtarr:un hayyinaẗ:un ʿalay hi 
+ <lb n="12"/>nafsu hu fa ʾiḏā ǧāʾa ka 
+ <lb n="13"/>kitāb ī hāḏā fa ĭǧmaʿ mā ʿalà 
+ <lb n="14"/>ʾarḍi ka mina ăl ǧizyaẗi 
+ <lb n="15"/>wa ăl ʾabwābi wa ăl fuḍūli ṯumma ĭqdam 
+ <lb n="16"/>ʿalay ya bi māli ʾarḍi ka wa bi ăllaḏīna 
+ <lb n="17"/>ʾamartu ka ʾan taqdama ʾilay ya bi him 
+ <lb n="18"/>min ʾahli ʾarḍi ka fa la ʿamr ī 
+ <lb n="19"/>la qad kuntu ʾaẓunnu ʾanna ʿamala ka 
+ <lb n="20"/>huwa ʾanǧaḥu wa ḫayr:an mimmā 
+ <lb n="21"/>raʾaytu wa qad faʿalta mā lam 
+ <lb n="22"/>yafʿal ʾaḥad:un mina ăl ʿummāli 
+ <lb n="23"/>fī taʾḫīri ăllaḏī ʿalay ka wa fī 
+ <lb n="24"/>ʿaǧzi ka fī ʿamali ka wa ʾinna hu 
+ <lb n="25"/>wa ăl lāhi mā li ʾaḥad:in ʿind ī 
+ <lb n="26"/>ʾaḫḫara hāḏā ăl māla ʾillā 
+ <lb n="27"/>mā qabuḥa waǧhu hu wa lā yakūnanna 
+ <lb n="28"/>li mā qibala ka ḥabs:un wa ʾiyyā ka 
+ <lb n="29"/>wa ăl ʿilala fa ʾinn ī lastu 
+ <lb n="30"/>mimman yuṣaddiqu bi ăl ʿilali 
+ <lb n="31"/>wa lā yaʿḏiru bi hā wa ăs salāmu 
+ <lb n="32"/>ʿalà mani ĭttabaʿa ăl hudà 
+ <lb n="33"/>wa kataba ḫalīfaẗu yawma ăli ĭṯnayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		.... and .... 
+		[das, was ...] und [was ...]
+			<lb n="2"/>
+		Dein Gebiet schul[det], so daß ich von ihm festgestellt habe, daß 
+		from your land, and I have found it. 
+			<lb n="3"/>
+		es von Dir noch aussteht, ist eine große Steuerschuld. 
+		You still owe a large amount of revenue. 
+			<lb n="4"/>
+		You well know what time it has come to be; 
+			<lb n="5"/>
+		so appear 
+			<lb n="6"/>
+		before me now. By my life, if 
+			<lb n="7"/>
+		any finance officer delays 
+		... Ein Beamter, welcher ... 
+			<lb n="8"/>
+		beyond the term which I appointed, 
+			<lb n="9"/>
+		or appears before me having left 
+			<lb n="10"/>
+		behind him aught of the revenue, 
+			<lb n="11"/>
+		ist fürwahr dumm ...
+		truly, he is but a self-deceiving fool who has light regard for 
+			<lb n="12"/>
+		his life. So when there has come to you 
+			<lb n="13"/>
+		this my letter, collect what is due from 
+			<lb n="14"/>
+		your land of gold tax and 
+			<lb n="15"/>
+		imposts and extraordinary taxes. Then come 
+			<lb n="16"/>
+		to me with the revenue of your land, together with those 
+			<lb n="17"/>
+		whom I had ordered you to bring with you 
+			<lb n="18"/>
+		of the people of your land. Now, by my life, 
+			<lb n="19"/>
+		I really used to think your administration 
+			<lb n="20"/>
+		more successful and better than what 
+			<lb n="21"/>
+		I have seen. For you have indeed done what not 
+			<lb n="22"/>
+		one of the finance officers has done 
+			<lb n="23"/>
+		in the delaying of what is due from you and in 
+			<lb n="24"/>
+		the incompetence of your administration. For indeed, 
+			<lb n="25"/>
+		by God, there is in my service not one 
+		Jeder bei mir, der ... 
+			<lb n="26"/>
+		who has delayed this revenue 
+			<lb n="27"/>
+		erhält eine entehrende Strafe. ...
+		without being disgraced. Let there be no 
+			<lb n="28"/>
+		withholding of what is with you. And beware 
+			<lb n="29"/>
+		of excuses, for I am not 
+			<lb n="30"/>
+		of those who believe in excuses 
+			<lb n="31"/>
+		or accept them. Peace 
+			<lb n="32"/>
+		be with those who follow the guidance. 
+			<lb n="33"/>
+		Written by Khalīfah on Monday. 
+</ab></div>
+</body>
+</text>
+</TEI>

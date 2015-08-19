@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="895" xml:id="Guo_Quseir_31_verso" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 31 verso</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_31_verso</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113657</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 left"/>  مملوكه 
+<lb n="2 left"/>  محمّد بن جعـ<supplied reason="lost" cert="high">ـفر</supplied> 
+<lb n="2 right"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أعلم السّيّد الشّيخ مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> وفّقه اللّه لطاعته 
+<lb n="4"/>  وجعله من أهل درايته أن وصلني <app type="BL"><lem resp="APD">الطّريز </lem><rdg resp="AK">المطرين</rdg></app> 
+<lb n="5"/>  والبطّة وقد وصل عسكر المزيد سالمين 
+<lb n="6"/>  فللّه الحمد على ذلك والسّعر <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">كلّـ</unclear>ـه </lem><rdg resp="AK">غير</rdg></app> <app type="BL"><lem resp="APD">تحرّك </lem><rdg resp="AK">متحرّك</rdg></app> 
+<lb n="7"/>  سوى القمح دينارين إلّا قيراطين والدّقيق 
+<lb n="8"/>  <unclear reason="undefined" cert="high">دينـ</unclear>ـارين إلّا <app type="BL"><lem resp="APD">عشر </lem><rdg resp="AK">ثمن</rdg></app> <app type="BL"><lem resp="APD">درهم </lem><rdg resp="AK">ø</rdg></app> <app type="BL"><lem resp="APD">إردب </lem><rdg resp="AK">الإردبّ</rdg></app> والعسكر وصل 
+<lb n="9"/>  أوّله والسّيّد عدل إلى الفرنج والسّيّد 
+<lb n="10"/>  أبو عالي جا <app type="BL"><lem resp="APD">لبيع </lem><rdg resp="“AK”">يبيع</rdg></app> وتعرف أبو علي حسين 
+<lb n="11"/>  <app type="BL"><lem resp="APD">بن </lem><rdg resp="AK">أنّ</rdg></app> <app type="BL"><lem resp="APD">الرّحبين </lem><rdg resp="AK">الزّكيبتين</rdg></app> <app type="BL"><lem resp="APD">وصلنا </lem><rdg resp="AK">وصلتا</rdg></app> إلى <app type="BL"><lem resp="APD"><sic n="superfluous">سووق</sic><supplied reason="omitted" cert="high">سوق</supplied> </lem><rdg resp="AK">هَرُونَ</rdg></app> 
+<lb n="12"/>  وقد باع هرون <app type="BL"><lem resp="APD">رجيب </lem><rdg resp="AK">زكيبة</rdg></app> <app type="BL"><lem resp="APD">مجد </lem><rdg resp="AK">فجل</rdg></app> دينارين 
+<lb n="13"/>  الإردب ولم <app type="BL"><lem resp="APD">نبع </lem><rdg resp="“AK”">نبيع</rdg></app> شي <app type="BL"><lem resp="APD">فلنا </lem><rdg resp="“AK”">قلنا</rdg></app> لعل زائد وبنعمة 
+<lb n="14"/>  اللّه <app type="BL"><lem resp="APD">أكري </lem><rdg resp="AK">أكتري</rdg></app> على غلّتك ولا توقّف عن <app type="BL"><lem resp="APD">أموالك </lem><rdg resp="AK">اشتغالك</rdg></app> 
+<lb n="15"/>  <app type="BL"><lem resp="APD">والنّاس </lem><rdg resp="AK">بذلك</rdg></app> <app type="BL"><lem resp="APD">جا </lem><rdg resp="AK">وجاء</rdg></app> أوّلهم وما ندري أيش <app type="BL"><lem resp="APD">بعت </lem><rdg resp="AK">ثبت  </rdg></app> 
+<lb n="16"/>  معهم من الأسعار ونحن نبيع ما <app type="BL"><lem resp="APD">نتوقّف </lem><rdg resp="AK">نتوقّف</rdg></app> 
+<lb n="17"/>  والسّلام عليك وعلى الشّيخ أبي علي حسين 
+<lb n="right margin"/>  والشّيخ أبو قاسم يسلّم عليك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>mamlūku hu 
+ <lb n="2"/>muḥammadu bnu ǧaʿfara 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾuʿlimu ăs sayyida ăš šayḫa m*** waffaqa hu ăl lāhu li ṭāʿati hi 
+ <lb n="5"/>wa ǧaʿala hu min ʾahli dirāyati hi ʾan waṣala nī ăṭ ăl ṭarīzu maṭarayni 
+ <lb n="6"/>wa ăl baṭṭaẗu wa qad waṣala ʿaskaru ăl mazīdi sālimīna 
+ <lb n="7"/>fa li l lāhi ăl ḥamdu ʿalà ḏālika wa ăs siʿru kullu ġayru hu ø taḥarraka mutaḥarrik:in 
+ <lb n="8"/>siwà ăl qamḥi dīnārayni ʾillā qīrāṭayni wa ăd daqīqu 
+ <lb n="9"/>dīnārayni ʾillā ʿašra ṯumn dirham:in ø ø ăl ʾirdabb ʾirdabbu wa ăl ʿaskaru waṣala 
+ <lb n="10"/>ʾawwalu hu wa ăs sayyidu ʿadl:un ʾilà ăl firanǧi wa ăs sayyidu 
+ <lb n="11"/>ʾabū ʿāliyy:in ǧāʾa li ø bayʿ:in yabīʿu wa tuʿrif ʾabū ʿaliyy:in ḥusayna 
+ <lb n="12"/>bna ʾanna ăr ăz raḥbayni zakībatayni waṣalatā waṣalnā ʾilà sūq:in hārūna 
+ <lb n="13"/>wa qad bāʿa harūnu raǧība zakībaẗa maǧd:in fuǧl:in dīnārayni 
+ <lb n="14"/>ăl ʾirdabba wa lam nabiʿ nabīʿ šayʾ fa qulnā la ø nā ø laʿalla zāʾid wa bi niʿmaẗi 
+ <lb n="15"/>ăl lāhi ʾukrī ʾaktarī ʿalà ġallati ka wa lā tawaqqaf tuwaqqif ʿan ʿani ʾamwāli ĭštiġāli ka 
+ <lb n="16"/>wa ø ăn bi nāsu ḏālika ø wa ǧāʾa ǧāʾa ʾawwalu hum wa mā nadrī ʾayš biʿta ṯabata 
+ <lb n="17"/>maʿa hum mina ăl ʾasʿāri wa naḥnu nabīʿu mā natawaqqafu yatawaqqafu 
+ <lb n="18"/>wa ăs salāmu ʿalay ka wa ʿalà ăš šayḫi ʾabī ʿaliyy:in ḥusayn:in 
+ <lb n="19"/>wa ăš šayḫu ʾabū qāsim:in yusallimu ʿalay ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[From] His servant 
+			<lb n="2"/>
+		Muḥammad ibn Jaʿ[far].
+			<lb n="3"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="4"/>
+		I am writing to inform the Master, [...] Shaykh - may God make him (i.e., you) successful for his obedience to Him
+			<lb n="5"/>
+		and make him among His acquaintances! - that the embroidery has arrived,
+			<lb n="6"/>
+		and so has the bottle-container. The additional troops (?) have arrived, all in good shape and health.
+			<lb n="7"/>
+		Thank God for that! The prices have all changed
+			<lb n="8"/>
+		exept for wheat[, which is now] two dinars minus two qīrāṭs [per irdabb]. Flour [can be had at]
+			<lb n="9"/>
+		two dinars minus ten dirhams per irdabb. The troops have come,
+			<lb n="10"/>
+		one after the other. [They] and the notary [are going] to [battle] the Franks. Sayyid
+			<lb n="11"/>
+		Abū ʿAlī has come to sell [his goods]. Please tell Abū ʿAlī Ḥusayn
+			<lb n="12"/>
+		ibn al-Raḥbayn that we went to the marketplace,
+			<lb n="13"/>
+		and that Hārūn sold to Rajīb Majd [wheat at the price of] two dinars
+			<lb n="14"/>
+		per irdabb. We did not sell anything. So we have perhaps some surplus. By the grace
+			<lb n="15"/>
+		of God, I will collect commission for [transporting?] your grain. So do not withhold your money.
+			<lb n="16"/>
+		People [all] came, one after the other. We don&#039;t know at what prices you sold [it]
+			<lb n="17"/>
+		to them. We just sell according to what is fixed [with regard to price].
+			<lb n="18"/>
+		Peace be upon you and Shaykh Abū ʿAlī Ḥusayn.
+			<lb n="19"/>
+		Shaykh Abū Qāsim says hello to you.
+</ab></div>
+</body>
+</text>
+</TEI>

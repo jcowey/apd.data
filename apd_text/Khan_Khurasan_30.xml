@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1265" xml:id="Khan_Khurasan_30" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 30</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_30</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169092</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب ما أعتق الحرث بن ملك 
+<lb n="3"/>  أعتق خادما له تسمّى نوفاح وثلثة أولادتها منهم 
+<lb n="4"/>  العبّاس وحاتم وابنت تسمّا سنديّة أعتقهم 
+<lb n="5"/>  لوجه اللّه ليس لأحد عليهم 
+<lb n="6"/>  سبيل إلّا سبيل الولا وللحرث 
+<lb n="7"/>  بن ملك وعقبه من بعده ولاهم 
+<lb n="8"/>  شهد بشر بن أبي <app type="BL"><lem resp="APD">الحرقا </lem><rdg resp="APD">الخرقاء</rdg></app> وزلاد جوزجان بن الجوزجان 
+<lb n="9"/>  وداود بن خويلد الأزدي وعمرو بن عبّاس الحنظلي 
+<lb n="10"/>  ومحمّد بن يزيد الأزدي وعيسى بن سالم الحنظلي وهرون 
+<lb n="11"/>  بن عبد الملك الباهلي وزكريا بن عبّاس 
+<lb n="12"/>  وإبرهيم بن عبد اللّه الباهلي ومسلم بن أبي 
+<lb n="13"/>  <app type="BL"><lem resp="APD">الحرقا </lem><rdg resp="APD">الخرقاء</rdg></app> وخلد مولى غالب 
+<lb n="14"/>  وكتب في 
+<lb n="15"/>  شعبان سنة ستّين ومائة 
+<lb n="seal 1"/>  الحرث بن ملك 
+<lb n="seal 2"/>  اللّه يحمد 
+<lb n="seal 3"/>  اللّه يحمد 
+<lb n="seal 4"/>  محمّد 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitābu mā ʾaʿtaqa ăl ḥāriṯu bnu malik:in 
+ <lb n="3"/>ʾaʿtaqa ḫādim:an la hu tusammà nūfāḥa wa ṯalāṯaẗa ʾawlādati hā min humu 
+ <lb n="4"/>ăl ʿabbāsu wa ḥātim:un wa ĭbnat:un tusammā sindiyyaẗa ʾaʿtaqa hum 
+ <lb n="5"/>li waǧhi ăl lāhi laysa li ʾaḥad:in ʿalay him 
+ <lb n="6"/>sabīl:un ʾillā sabīla ăl walāʾi wa li ăl ḥāriṯi 
+ <lb n="7"/>bni malik:in wa ʿaqbi hi min baʿdi hi walāʾu hum 
+ <lb n="8"/>šahida bišru bnu ʾabī ăl ḥarqāʾi ḫarqāʾi wa zulādu ǧūzǧāna bnu ăl ǧūzǧāni 
+ <lb n="9"/>wa dāʾūdu bnu ḫuwaylid:ini ăl ʾazdiyyu wa ʿamru bnu ʿabbāsa ăl ḥanẓaliyyu 
+ <lb n="10"/>wa muḥammadu bnu yazīda ăl ʾazdiyyu wa ʿīsà bnu sālim:ini ăl ḥanẓaliyyu wa hārūnu 
+ <lb n="11"/>bnu ʿabdi ăl maliki ăl bāhiliyyu wa zakariyyāʾu bnu ʿabbāsa 
+ <lb n="12"/>wa ʾibrāhīmu bnu ʿabdi ăl lāhi ăl bāhiliyyu wa muslimu bnu ʾabī 
+ <lb n="13"/>ăl ḥarqāʾi ḫarqāʾi wa ḫālid:un mawlà ġālib:in 
+ <lb n="14"/>wa kutiba fī 
+ <lb n="15"/>šaʿbāna sanaẗa sittīna wa miʾaẗ:in 
+ <lb n="16"/>ăl ḥāriṯu bnu malik:in 
+ <lb n="17"/>ăl lāhu yuḥmadu 
+ <lb n="18"/>ăl lāhu yuḥmadu 
+ <lb n="19"/>muḥammad:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is the document of what al-Ḥārith bin Malik has emancipated.
+			<lb n="3"/>
+		He has emancipated a slave belonging to him called Nufāḥ and her three children, these being
+			<lb n="4"/>
+		al-ʿAbbās, Ḥātim and a girl Sindiyya. He has emancipated them
+			<lb n="5"/>
+		for the sake of God. Nobody has
+			<lb n="6"/>
+		any right over them except the right of patronage. To al-Ḥārith
+			<lb n="7"/>
+		ibn Malik and his descendants after him belongs their patronage.
+			<lb n="8"/>
+		It has been witnessed by Bishr ibn ʾAbī al-Ḥarqāy, Žulād Jūzjān ibn al-Jūzjān,
+			<lb n="9"/>
+		Dāʾūd ibn Khuwaylid al-ʾAzdī, ʿAmr ibn ʿAbbās al-Ḥanẓalī,
+			<lb n="10"/>
+		Muḥammad ibn Yazīd al-ʾAzdī, ʿĪsā ibn Sālim al-Ḥanẓalī, Hārūn
+			<lb n="11"/>
+		ibn ʿAbd al-Malik al-Bāhilī, Zakariyāʾ ibn ʿAbbās,
+			<lb n="12"/>
+		ʾIbrāhīm ibn ʿAbd Allāh al-Bāhilī, Muslim ibn ʾAbī
+			<lb n="13"/>
+		al-Ḥarqāʾ and Khālid the client of Ġālib.
+			<lb n="14"/>
+		It has been written in
+			<lb n="15"/>
+		Shaʿbān of the year one hundred and sixty.
+			<lb n="16"/>
+		al-Ḥārith ibn Malik
+			<lb n="17"/>
+		May God be praised
+			<lb n="18"/>
+		May God be praised
+			<lb n="19"/>
+		Muḥammad
+</ab></div>
+</body>
+</text>
+</TEI>

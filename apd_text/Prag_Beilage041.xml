@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1709" xml:id="Prag_Beilage041" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. Beilage IV</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_Beilage041</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169457</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="A 15"/>  الدّاخل الخراج المراعي الجوالي 
+<lb n="A 16"/>  ‮منه عن أقلول ‮‪γμʹηʹ‬ ‮‪αΧγʹκʹδʹ‬ ‮<gap reason="illegible" extent="2" unit="character" /> ‪αΧγʹιʹβʹ͵ϛʹ 
+<lb n="A 17"/>  ‮وعن المنية ‮‪αγʹκʹδʹ͵Χ‬ ‮<gap reason="illegible" extent="2" unit="character" /> ‮‪αγʹκʹδʹ‬ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="C 3"/>  الدّاخل الخراج المراعي الجالية <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="C 4"/>  ‮عن <unclear reason="undefined" cert="high">نقلوا</unclear> ‮‪ϛΧκʹδʹ‬ ‮‪δΧηʹ‬ ‮// ‪αΧγʹιʹβʹ 
+<lb n="C 5"/>  ‮عن سها ‮‪κεκʹδΧΧ͵γʹ‬ ‮‪ιγ‪<gap reason="illegible" precision="low" extent="3"/>ζ<gap reason="illegible" extent="1" unit="character" />ι‬ʹβʹ‪‬‬ ‮‪κʹδʹ͵δʹ‬ // 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăd dāḫilu ăl ḫarāǧu ăl marāʿī ăl ǧawālī 
+ <lb n="2"/>min hu ʿan ʾuqlūla 3+1/48 1+1/2+1/3+1/24 ** 1+1/2+1/3+1/12+1/144 
+ <lb n="3"/>wa ʿani ăl minyaẗi 1+1/3+1/24+1/36 ** 1+1/3+1/24 ** *** 
+ <lb n="4"/>ăd dāḫilu ăl ḫarāǧu ăl marāʿī ăl ǧāliyaẗu *** 
+ <lb n="5"/>ʿan naqlū 6+2/3+1/24 4+2/3+1/8 ** 1+1/2+1/3+1/12 
+ <lb n="6"/>ʿan sahā 25+1/24+1/96+1/72 13+***+7+*+1/12 1/2+1/96 ** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Eingang _ die Grundsteuer _ die Weidesteuer _ die Kopfsteuern
+			<lb n="2"/>
+		Davon (stammt) aus Uqlūl 3 1/48 _ 1 1/2+1/3+1/24 _ // _ 1 1/2+1/3+1/12+1/6 Karat
+			<lb n="3"/>
+		und aus al-Minya 1 1/3+1/24+2/3 Karat _ // _ 1 1/3+1/24 _ //
+			<lb n="4"/>
+		Eingang _ die Grundsteuer _ die Weidesteuer _ die Kopfsteuer [
+			<lb n="5"/>
+		aus Naqlū _ 6 2/3+1/24 _ 4 2/3+1/8 _ // _ 1 1/2+1/3+1/12
+			<lb n="6"/>
+		aus Sahā 25 1/24+1/96+1/3 Karat _ 13[...]7+?+1/12 _ 1/24+1/4 Karat _ //
+</ab></div>
+</body>
+</text>
+</TEI>

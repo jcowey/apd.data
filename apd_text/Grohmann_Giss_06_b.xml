@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1315" xml:id="Grohmann_Giss_06_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Giss.Arab. p. 33 a (= P.RagibSauf-conduits 4)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Giss_06_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169130</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">إنّى</supplied> <supplied reason="lost" cert="high">أدپپ</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">يعمل</supplied> 
+<lb n="2 = Rāġib 1"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بـ</supplied>ـالفسطاط </lem><rdg resp="Rāġib">الفسطاط</rdg></app> <supplied reason="lost" cert="high">لوفا</supplied> <supplied reason="lost" cert="high">جزيته</supplied> <supplied reason="lost" cert="high">والتماس</supplied> 
+<lb n="3 = Rāġib 2"/>  معيشه وأ<supplied reason="lost" cert="high">جّلته</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">سهرپن</supplied> </lem><rdg resp="Rāġib">ثلثة</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="Rāġib">أشهر</rdg></app> 
+<lb n="4 = Rāġib 3"/>  مستهل ربيع <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الأوّل</supplied> </lem><rdg resp="Rāġib">الآخر</rdg></app> إلى ا<supplied reason="lost" cert="high">نسلخ</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ربيع</supplied> </lem><rdg resp="Rāġib">خمدى</rdg></app> 
+<lb n="5 = Rāġib 4"/>  الآخر سنة ست عشر<supplied reason="lost" cert="high">ة</supplied> <supplied reason="lost" cert="high">ومئة</supplied> 
+<lb n="6 = Rāġib 5"/>  <app type="BL"><lem resp="APD">ويجعل </lem><rdg resp="Rāġib">وتكفّل</rdg></app> لربّه <app type="BL"><lem resp="APD">لحس </lem><rdg resp="Rāġib">يحنس</rdg></app> <app type="BL"><lem resp="APD">أسو<supplied reason="lost" cert="high">د</supplied> </lem><rdg resp="Rāġib">أسو</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7 = Rāġib 6"/>  يقيم جزيته ويرجع إلى <supplied reason="lost" cert="high">الأجل</supplied> 
+<lb n="8 = Rāġib 7"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">الّذي</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">أجّلته</rdg></app> فمن لقيـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">من</supplied> 
+<lb n="9 = Rāġib 8"/>  عمّالنا فلا يعترض لـ<supplied reason="lost" cert="high">ـه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">في</supplied> </lem><rdg resp="Rāġib">إلى</rdg></app> 
+<lb n="10 = Rāġib 9"/>  ذلك من الأجل إلّا بخـ<supplied reason="lost" cert="high">ـير</supplied> 
+<lb n="11 = Rāġib 10"/>  وكتب عاصم لمستهل <supplied reason="lost" cert="high">ربيع</supplied> 
+<lb n="Rāġib 11"/>  الآخر سـ<supplied reason="lost" cert="high">ـنـ</supplied>ـة <supplied reason="lost" cert="high">سـ</supplied>ـت عشرة و<supplied reason="lost" cert="high">مائة</supplied> 
+<lb n="seal"/>  <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾin nī ʾaḏintu la hu ʾan yaʿmala 
+ <lb n="2"/>bi ăl fusṭāṭi fusṭāṭ li wafāʾi ǧizyati hi wa ĭltimāsi 
+ <lb n="3"/>maʿīšati hi wa ʾaǧǧaltu hu ø ṯalāṯaẗa šahrayni ʾašhur:in min 
+ <lb n="4"/>mustahalli rabīʿa ăl ʾawwali ʾāḫari ʾilà ĭnsilāḫi rabīʿa ǧumādà 
+ <lb n="5"/>ăl ʾāḫari ʾāḫiri sanaẗa sitta ʿašraẗa wa miʾaẗ:in 
+ <lb n="6"/>wa yaǧʿalu takaffala li rabbi hi lḥs yuḥannisa ʾaswad ʾsw *** 
+ <lb n="7"/>yuqīmu ǧizyaẗa hu wa yarǧaʿu ʾilà ăl ʾaǧali 
+ <lb n="8"/>*** ăllaḏī *** ʾaǧǧaltu ø hu fa man laqiya hu min 
+ <lb n="9"/>ʿummāli nā fa lā yaʿtariḍ la hu fī ʾilà 
+ <lb n="10"/>ḏālika mina ăl ʾaǧali ʾillā bi ḫayr:in 
+ <lb n="11"/>wa kataba ʿāṣim:un li mustahalli rabīʿa 
+ <lb n="12"/>ăl ʾāḫari sanaẗa sitta ʿašraẗa wa miʾaẗ:in 
+ <lb n="13"/>* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		that I allowed him to work
+			<lb n="2"/>
+		Al-Fusṭāṭ [pour s&#039;acquitter de sa capitation et gagner]
+			<lb n="3"/>
+		sa subsistance et je [lui ai fixé un délai de trois mois, du]
+			<lb n="4"/>
+		premier jour de la lune de rabīʿ II à la fin de ǧumādā
+			<lb n="5"/>
+		II l&#039;année [cent] seize.
+			<lb n="6"/>
+		Il a garanti à son maître Yuḥannis Asw[...]
+			<lb n="7"/>
+		de payer sa capitation et de revenir [au délai]
+			<lb n="8"/>
+		que j&#039;ai fixé. Qui donc [le] rencontrera [de]
+			<lb n="9"/>
+		nos agents ne devra lui montrer [jusqu&#039;à]
+			<lb n="10"/>
+		ce délai que du b[ien].
+			<lb n="11"/>
+		Écrit par ʿĀṣim le premier jour de la lune [de rabīʿ]
+			<lb n="12"/>
+		II l&#039;année [cent] seize.
+</ab></div>
+</body>
+</text>
+</TEI>

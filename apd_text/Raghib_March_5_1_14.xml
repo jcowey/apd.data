@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="767" xml:id="Raghib_March_5_1_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands V/1 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_1_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106837</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="recto 2"/>  أبقاك اللّه وحفظك وأدا<supplied reason="lost" cert="high">م</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">ا</supplied>پى دحلپ سوق الرڤپـ<supplied reason="lost" cert="high">ـق</supplied> پو<supplied reason="lost" cert="high">م</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  نوبي <gap reason="illegible" extent="5" unit="character" /> خماسي أو أصغـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  انظر حفظك اللّه ألّا تدفع من دنانير خالي إلى بن <app type="BL"><lem resp="APD">سوار </lem><rdg resp="APD">سوار </rdg><rdg resp="APD">سرّار</rdg></app> شي 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">پـ</supplied>ـن عبد السلم پالڤپوم عبد مسحد 
+<lb n="verso 3"/>  الجامع 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka wa ʾadāma *** 
+ <lb n="3"/>ʾinn ī daḫaltu sūqa ăr raqīqi yawma *** 
+ <lb n="4"/>nūbiyy ***** ḫumāsiyy ʾaw ʾaṣġar ** *** 
+ <lb n="5"/>ŭnẓur ḥafiẓa ka ăl lāhu ʾallā tadfaʿa min danānīri ḫāl ī ʾilà bni sawwāra siwāra suwwāra sarrāra šayʾ 
+ <lb n="6"/>bn ʿabdi ăs salāmi bi ăl fayyūmi ʿinda masǧidi 
+ <lb n="7"/>ăl ǧāmiʿi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clé[ment et miséricordieux]!
+			<lb n="2"/>
+		Que Dieu te conserve, te garde et perpétue [
+			<lb n="3"/>
+		Je suis entré au marché des escla[ves] le jour du [
+			<lb n="4"/>
+		nubien .[..]... de cinq empans ou moins .. [
+			<lb n="5"/>
+		Tâche - que Dieu te garde! de ne rien payer à Ibn Sawwār des dinars de mon oncle maternel. [
+			<lb n="6"/>
+		] b. ʿAbd al-Salām. Au Fayyoum, près de la grande mosquée.
+</ab></div>
+</body>
+</text>
+</TEI>

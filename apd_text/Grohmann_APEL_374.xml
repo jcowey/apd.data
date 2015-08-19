@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1883" xml:id="Grohmann_APEL_374" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 374</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_374</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169620</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮معوّذ ‪οε 
+<lb n="2"/>  ‮<supplied reason="lost" cert="high">مـ</supplied>ـدركة عن الحسن ‮ε وصلت إليـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="3"/>  ‮وعن دينر <gap reason="illegible" extent="2" unit="character" /> ‮κ 
+<lb n="4"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‪κγ 
+<lb n="5"/>  ‮وعن إبرهيم ν 
+<lb n="6"/>  ‮فذلك ‪ϙχ 
+<lb n="7"/>  ‮منه <unclear reason="undefined" cert="high">مدوّر</unclear> ‪ζ‪<gap reason="illegible" extent="1" unit="character" />‬ 
+<lb n="8"/>  ‪‮وبقي <gap reason="illegible" extent="4" unit="character" /> ‮α إردب <gap reason="illegible" precision="low" extent="3"/>‬ 
+<lb n="9"/>  ‪‮الباقي له ‮‪κγχ‬ <del rend="erasure" status="unremarkable">حمل</del> پن بنوح ‪<gap reason="illegible" extent="1" unit="character" />χ‬ 
+<lb n="10"/>  ‪وأغلبه عن بجوج إردب بقي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  له إردب بصسه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  وقد يوصل إلى زرع فدّان قمح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  عن أرض بجوج <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>muʿawwiḏ:un 75 
+ <lb n="2"/>mudrikaẗu ʿani ăl ḥasani 5 waṣalat ʾilay hi 
+ <lb n="3"/>wa ʿan dīnāra ** 20 
+ <lb n="4"/>*** 23 
+ <lb n="5"/>wa ʿan ʾibrāhīma 50 
+ <lb n="6"/>fa ḏālika 90+1/2 
+ <lb n="7"/>min hu mudawwar:un 7* 
+ <lb n="8"/>wa baqiya **** 1 ʾirdabb *** 
+ <lb n="9"/>ăl bāqī la hu 23+2/3 ḥimlu bnu tanūḫa *+1/2 
+ <lb n="10"/>wa ʾaġlabu hu ʿan baǧūǧa ʾirdabb baqiya *** 
+ <lb n="11"/>la hu ʾirdabb:un bṣsh *** 
+ <lb n="12"/>wa qad yūṣalu ʾilà zarʿi faddāni qamḥ:in *** 
+ <lb n="13"/>ʿan ʾarḍi baǧūǧa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Muʿawwiz [sic] 75
+			<lb n="2"/>
+		[Mu]drika on behalf of al-Ḥasan 5 there has reached hi[m
+			<lb n="3"/>
+		and on behalf of Dînâr ... 20 [
+			<lb n="4"/>
+		[...].......... 23 [
+			<lb n="5"/>
+		and on behalf of Ibrahîm 50 [
+			<lb n="6"/>
+		That makes 90 1/2 [
+			<lb n="7"/>
+		Thereof round (wheat) 7[.] ... [
+			<lb n="8"/>
+		and there remained ....... 1 artabas[
+			<lb n="9"/>
+		The remainder to his credit 23 2/3 Ḥiml b. Tanûḫ [
+			<lb n="10"/>
+		and the main part on behalf of Beǧôǧ one artaba, there remains[
+			<lb n="11"/>
+		To him belongs one artaba ........ [
+			<lb n="12"/>
+		and for sowing one faddân there has arrived of wheat [
+			<lb n="13"/>
+		And on behalf of the land of Beǧôǧ [
+</ab></div>
+</body>
+</text>
+</TEI>

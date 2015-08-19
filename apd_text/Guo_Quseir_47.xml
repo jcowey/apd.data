@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="921" xml:id="Guo_Quseir_47" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 47</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_47</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113679</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الّذي أعلم به الأخ أحمد 
+<lb n="2"/>  <app type="BL"><lem resp="APD">أن </lem><rdg resp="AK">أنّي</rdg></app> علي بن إحسان سيّرت إلي 
+<lb n="3"/>  شونة أبو مفرّج <app type="BL"><lem resp="APD">زكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; EG”">زكيبة</rdg></app> لوز <app type="BL"><lem resp="“Diem, P.QuseirArab. p. 169; EG”">وزكيـ<supplied reason="omitted" cert="high">ـبـ</supplied>ـة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; EG”">وزكيبة</rdg></app> 
+<lb n="4"/>  كعك <app type="BL"><lem resp="APD">وزكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; EG”">وزكيبة</rdg></app> دقاق وذاك 
+<lb n="5"/>  التّلاتة خمسة مائة رطلة 
+<lb n="6"/>  خمسة <app type="BL"><lem resp="APD">وتسعين </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">وسبعين</rdg></app> 
+<lb n="7"/>  وجد العيبي الّذي فيهم وأنا واصل 
+<lb n="8"/>  ورا هاذه <unclear reason="undefined" cert="high">الرّوحة</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăllaḏī ʾuʿlimu bi hi ăl ʾaḫa ʾaḥmada 
+ <lb n="2"/>ʾanna ʾan ø nī ʿaliyya bna ʾiḥsāna sayyartu ʾilà 
+ <lb n="3"/>šūnaẗi ʾabū mufarriǧ:in zakiyyaẗa zakībaẗa lawz:in wa zakībaẗa zakiyyaẗa 
+ <lb n="4"/>kaʿk:in wa zakiyyaẗa zakībaẗa diqāq:in duqāq:in wa ḏāka 
+ <lb n="5"/>ăt talātaẗu ḫamsaẗu miʾaẗi raṭlaẗ:in 
+ <lb n="6"/>ḫamsaẗ:un wa tisʿīna sabʿīna 
+ <lb n="7"/>wa ǧidi ăl ʿaybī ăllaḏī fī him wa ʾanā wāṣil:un 
+ <lb n="8"/>warāʾa hāḏihi ăr rawḥaẗi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		That which I [am writing to] inform Brother Aḥmad
+			<lb n="2"/>
+		is as follows: [I,] ʿAlī ibn Iḥsān dispatched to
+			<lb n="3"/>
+		Abū Mufarrij&#039;s warehouse high quality nuts,
+		... a total of five hundred raṭls of fine nuts (zakīyat lawz), good quality 
+			<lb n="4"/>
+		baked goods, and flour. These
+		cake (zakīyat kaʿk), and pure flour (zakīyat 
+			<lb n="5"/>
+		duqāq) ...
+		three [items total] five hundred
+			<lb n="6"/>
+		and  ninety-five pounds.
+			<lb n="7"/>
+		Find the defects in them. I will arrive [immediately]
+			<lb n="8"/>
+		following this shipment [........].
+</ab></div>
+</body>
+</text>
+</TEI>

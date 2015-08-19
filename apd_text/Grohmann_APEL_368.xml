@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1850" xml:id="Grohmann_APEL_368" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 368</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_368</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169587</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">بفام </lem><rdg resp="LS">بفام</rdg></app> من القرط الخالص 
+<lb n="3"/>  ‮<supplied reason="lost" cert="high">و</supplied>أيضا ‮‪πβ‬ <gap reason="illegible" extent="1" unit="character" /> وأيضا ‮‪πβ‬ وأيضا ‪λϛ 
+<lb n="4"/>  ‮<supplied reason="lost" cert="high">و</supplied>أيضا ‮μ وأيضا ‮‪πζ‬ وأيضا ‪ϙα 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** bifām biqām mina ăl qurṭi ăl ḫāliṣi 
+ <lb n="3"/>wa ʾayḍ:an 82 * wa ʾayḍ:an 82 wa ʾayḍ:an 36 
+ <lb n="4"/>wa ʾayḍ:an 40 wa ʾayḍ:an 87 wa ʾayḍ:an 91 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the na]me of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		[.........]...... Pqâm of unmingled trefoil.
+			<lb n="3"/>
+		[and] again 82 • And again 82 and again 36 .........
+			<lb n="4"/>
+		[and] again 40 _ and again 87 and again 91
+</ab></div>
+</body>
+</text>
+</TEI>

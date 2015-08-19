@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="929" xml:id="Guo_Quseir_54" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 54</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_54</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113687</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المسيّر إلى ساحل القصير من جعـ<supplied reason="lost" cert="high">ـفر</supplied> الحاج 
+<lb n="2"/>  توكّل على يد الحمّال سلطان بن عونه 
+<lb n="3"/>  فردتين فيهم ستّة ويبات إلّا ربع قمح 
+<lb n="4"/>  وحجر <app type="BL"><lem resp="nūn with a dot above"><unclear reason="undefined" cert="high">كيزان</unclear> </lem><rdg resp="APD">كتّان </rdg><rdg resp="APD">كميزان</rdg></app> وبطّة قطّارة <unclear reason="undefined" cert="high">وحولها</unclear> كمّاد 
+<lb n="5"/>  واحد عسر ڤمڤم ممپار والمسلم اپراهپم 
+<lb n="6"/>  بن أبو مفرّج دامت سعاد<supplied reason="omitted" cert="high">ته</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl musayyaru ʾilà sāḥili ăl quṣayri min ǧaʿfara ăl ḥāǧǧi 
+ <lb n="2"/>tuwukkila ʿalà yadi ăl ḥammāli sulṭāna bni ʿawni ʿawnihi hi ø 
+ <lb n="3"/>fardatayni fī him sittaẗu waybāt:in ʾillā rubʿ qamḥ 
+ <lb n="4"/>wa ḥaǧaru kīzān:in kattān:in ka ø mīzān:in wa baṭṭaẗu qaṭṭāraẗ:in wa ḥawla hā kammād:un 
+ <lb n="5"/>wa ʾaḥada ʿašara qumqum mumtāz wa ăl musallamu musallimu ʾibrāhīmu 
+ <lb n="6"/>bnu ʾabū mufarriǧ:in dāmat saʿādatu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		To be dispatched to the shore of Quseir, from Jaʿfar the ḥājj,
+			<lb n="2"/>
+		entrusted to the hands of Sulṭān ibn ʿAwnihi the porter,
+			<lb n="3"/>
+		are two farda-loads, which contain six minus a quarter waybas of wheat,
+			<lb n="4"/>
+		stoneware cups, a sugar container along with (?) a juice presser,
+			<lb n="5"/>
+		and eleven fine sprinkler bottles. He who is to receive and safe-keep them is Ibrāhīm
+			<lb n="6"/>
+		ibn Abū Mufarrij - may his prosperity last forever!
+</ab></div>
+</body>
+</text>
+</TEI>

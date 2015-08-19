@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2096" xml:id="Hanafi_BusinessLetter" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.HanafiBusinessLetter</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Hanafi_BusinessLetter</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">قيـ</supplied>ـس بن حجر وإن الثّيب 
+<lb n="2"/>  أكسد ما رأيتها قد وبرطل 
+<lb n="3"/>  ونصف فلفلا ولـ<supplied reason="lost" cert="high">ـقـ</supplied>ـد كتبت <sic n="superfluous">الپى</sic> <supplied reason="omitted" cert="high">إليّ</supplied> في 
+<lb n="4"/>  شأن ثمنية دننير من ثمن الإزر على 
+<lb n="5"/>  هانئ بن نمر فزعموا أنّها قد بلغتك 
+<lb n="6"/>  والسّلم عليك ورحمت اللّه وإن 
+<lb n="7"/>  الذّهب الّتي أرسلت مع قيس بن حجر 
+<lb n="8"/>  من ثمن الثّلثة الأثوب الّتي مع قيس بن حجر 
+<lb n="9"/>  <sic n="superfluous">والبوث</sic> <supplied reason="omitted" cert="high">والثّوب</supplied> الّذي لحقّـي في الحج 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>qaysu bnu ḥaǧar:in wa ʾinna ăṯ ṯiyāba 
+ <lb n="2"/>ʾaksadu mā raʾaytu hā qaddu wa bi raṭl:in 
+ <lb n="3"/>wa niṣf:in filfil:an wa la qad katabta ʾilay ya fī 
+ <lb n="4"/>šaʾni ṯamāniyaẗi danānīra min ṯamani ăl ʾizāri ʿalà 
+ <lb n="5"/>hāniʾi bni namir:in fa zaʿamū ʾanna hā qad balaġat ka 
+ <lb n="6"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa ʾinna 
+ <lb n="7"/>ăḏ ḏahaba ḏuhuba ăllatī ʾarsalta maʿa qaysi bni ḥaǧar:in 
+ <lb n="8"/>min ṯamani ăṯ ṯalāṯaẗi ăl ʾaṯwābi ăllatī maʿa qaysi bni ḥaǧar:in 
+ <lb n="9"/>wa ăṯ ṯawbi ăllaḏī li ḥaqq ī fī ăl ḥaǧǧi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		... Qay]s ibn Ḥajar, and as for the clothes,
+			<lb n="2"/>
+		the market is more stagnant that I have ever seen it, and with one pound
+			<lb n="3"/>
+		and half of pepper. And you [have] written to me concerning
+			<lb n="4"/>
+		the subject of the eight dīnārs for the price of the waist wrapper which is due from
+			<lb n="5"/>
+		Hāniʾ ibn Namir. Well, they claimed that you have already received them (= the dīnārs).
+			<lb n="6"/>
+		Peace be upon you and God&#039;s mercy. And
+			<lb n="7"/>
+		the gold that you have sent with Qays ibn Ḥajar
+			<lb n="8"/>
+		is for part for the price for the three clothes which are with Qays ibn Ḥajar
+			<lb n="9"/>
+		and for the garment which is my entitlement for the pilgrimage.
+</ab></div>
+</body>
+</text>
+</TEI>

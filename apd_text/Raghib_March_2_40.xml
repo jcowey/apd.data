@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="569" xml:id="Raghib_March_2_40" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 40</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_40</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106709</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ولكن اللّه تبارك وتعالا أشغلنا بحقّه ما قد علمت وأرجوا أن يكون قد <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  على ما قد نزل بنا وبك من غم و<gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">الحمد</supplied> <supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">ر</supplied>ب العالمين الّذي أبان لي من أمرك 
+<lb n="3"/>  <supplied reason="lost" cert="high">وقد</supplied> صح عندي عذرك في <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> وجدّك وا<supplied reason="lost" cert="high">لحـ</supplied>ـمد للّه <supplied reason="lost" cert="high">ر</supplied>ب العالمين أبان لنا لطفه 
+<lb n="4"/>  وجعلنا بخير فله الـحمد وله <sic n="superfluous">الـ</sic><supplied reason="lost" cert="high"><sic n="superfluous">ـسـ</sic></supplied><sic n="superfluous">ـركر</sic> <supplied reason="omitted" cert="high">الشّـكر</supplied> وما زلنا منذ فارقناك نتبع أثر الدّابّة 
+<lb n="5"/>  ويخبرونا عنها أنّها صائرة إلى المدينة حتّى صرنا إلى المدينة بعد العتمة فصرنا إلى منزل 
+<lb n="6"/>  الرّجل و<gap reason="illegible" extent="2" unit="character" />ا<gap reason="illegible" extent="1" unit="character" />نـ<supplied reason="lost" cert="high">ـا</supplied> بابه فإذا هي واقفـ<supplied reason="lost" cert="high">ـة</supplied> عـ<supplied reason="lost" cert="high">ـلـ</supplied>ـى البـ<supplied reason="lost" cert="high">ـا</supplied>ب فواللّه لقد سرّنا ذلك سرور 
+<lb n="7"/>  ما أقدر أصفه والحمد للّه رب العالمين الّذي جمع <gap reason="illegible" extent="4" unit="character" /> وا<gap reason="illegible" extent="2" unit="character" /> الحمد للّه رب العالمين ولقد سرّني 
+<lb n="8"/>  أعلمك <app type="BL"><lem resp="APD">أ<supplied reason="lost" cert="high">نّ</supplied> </lem><rdg resp="APD">أنّ</rdg></app> <gap reason="illegible" extent="8" unit="character" /> أبي عبد اللّه حفظه اللّـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" extent="2" unit="character" /> و<gap reason="illegible" extent="5" unit="character" /> لك وأرجوا أن يسرّك في ولدك وا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  فلو أن <gap reason="illegible" extent="6" unit="character" /> فيها لك ما كانت إن شا اللّه <gap reason="illegible" extent="4" unit="character" /> أكثر قد شرح اللّه لك قلبي به 
+<lb n="10"/>  ممّا قد بان لك في كتابي وما سألت اللّه لك لمحبّة <gap reason="illegible" extent="6" unit="character" /> أن يعطيك ما سألته 
+<lb n="11"/>  ولك الشّكر للّه واحمده وصلني بكتابك <unclear reason="undefined" cert="high">وحظّك</unclear> من أمور <gap reason="illegible" extent="8" unit="character" /> المعاملة فلك في ذلك خير 
+<lb n="12"/>  و<gap reason="illegible" extent="8" unit="character" /> واللّه ولي من ينصر <gap reason="illegible" extent="2" unit="character" /> الا <gap reason="illegible" extent="4" unit="character" /> ا<gap reason="illegible" extent="4" unit="character" /> والأ<gap reason="illegible" extent="6" unit="character" />ـوه <unclear reason="undefined" cert="high">ولحدبى</unclear> إن شا اللّه كتابي 
+<lb n="left margin"/>  <gap reason="illegible" precision="low" extent="3"/> في <gap reason="illegible" precision="low" extent="3"/>ـك وا<gap reason="illegible" extent="4" unit="character" />م بما أرجوا وصل ذلك أختك عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa lākinna ăl lāha tabāraka wa taʿālā ʾašġala nā bi ḥaqqi hi mā qad ʿalimta wa ʾarǧū ʾan yakūna qad ***** 
+ <lb n="2"/>ʿalà mā qad nazala bi nā wa bi ka min ġamm:in wa **** ăl ḥamdu li l lāhi rabbi ăl ʿālamīna ăllaḏī ʾabāna l ī min ʾamri ka 
+ <lb n="3"/>wa qad ṣaḥḥa ʿind ī ʿuḏru ka fī **** ***** wa ǧidd ka wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna ʾabāna la nā luṭfa hu 
+ <lb n="4"/>wa ǧaʿala nā bi ḫayr:in fa la hu ăl ḥamdu wa la hu ăš šukru wa mā zilnā munḏu fāraqnā ka natbaʿu ʾaṯara ăd dābbaẗi 
+ <lb n="5"/>wa yuḫbirū nā ʿan hā ʾanna hā ṣāʾiraẗ:un ʾilà ăl madīnaẗi ḥattà ṣirnā ʾilà ăl madīnaẗi baʿda ăl ʿatmaẗi fa ṣirnā ʾilà manzili 
+ <lb n="6"/>ăr raǧuli wa **ʾ*nā bāba hu fa ʾiḏā hiya wāqifaẗ:un ʿalà ăl bābi fa wa ăl lāhi la qad sarra nā ḏālika surūr 
+ <lb n="7"/>mā ʾaqdiru ʾaṣifu hu wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna ăllaḏī ǧamaʿa **** wʾ** ăl ḥamdu li l lāhi rabbi ăl ʿālamīna wa la qad sarra nī 
+ <lb n="8"/>ʾuʿlimu ka ʾan ʾanna ******** ʾabī ʿabdi ăl lāhi ḥafiẓa hu ăl lāhu ** wa ***** la ka wa ʾarǧū ʾan yasurra ka fī waladi ka wa ʾ*** 
+ <lb n="9"/>fa law ʾanna ****** fī hā la ka mā kānat ʾin šāʾa ăl lāhu **** ʾakṯar qad šaraḥa ăl lāhu la ka qalb ī bi hi 
+ <lb n="10"/>mimmā qad bāna la ka fī kitāb ī wa mā saʾaltu ăl lāha la ka li maḥabbaẗ ****** ʾan yuʿṭiya ka mā saʾaltu hu 
+ <lb n="11"/>wa la ka ăš šukru li l lāhi wa ĭḥmad hu wa ṣil nī bi kitābi ka wa ḥaẓẓi ka min ʾumūr ******** ăl muʿāmalaẗ fa la ka fī ḏālika ḫayr:un 
+ <lb n="12"/>wa ******** wa ăl lāhu waliyyu man yanṣuru ** ʾlʾ **** ʾ**** wa ăl ʾ******wh wa lḥdby ʾin šāʾa ăl lāhu kitāb ī 
+ <lb n="13"/>*** fī *** ka wa ʾ****m bi mā ʾarǧū wa ṣil ḏālika ʾuḫta ka ʿ*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Mais Dieu - qu&#039;Il soit exalté et béni! nous a occupés à son égard comme tu le sais. J&#039;espère qu&#039;il .[..]..
+			<lb n="2"/>
+		pour les peines que nous avons subies, toi et moi .[.... Dieu soit loué, Sei]gneur des mondes! qui m&#039;a montré ton sort.
+			<lb n="3"/>
+		J&#039;ai trouvé ton excuse bon pour ....[....] et ton zèle. Dieu soit loué, Seigneur des mondes! qui nous a montré Sa bonté
+			<lb n="4"/>
+		et rendu heureux. Qu&#039;Il soit loué et remercié! Nous n&#039;avons cessé, depuis que nous t&#039;avons quitté, de suivre les traces de la monture.
+			<lb n="5"/>
+		On nous a appris qu&#039;elle était allée en ville, si bien que nous sommes allés en ville après la prière du soir. Nous sommes alors allés au domicile
+			<lb n="6"/>
+		de l&#039;homme .... sa porte. Et la voici debout devant la porte. Ceci m&#039;a rempli d&#039;une joie
+			<lb n="7"/>
+		que je ne puis décrire. Dieu soit loué, Seigneur des mondes! qui a réuni .... et .... Dieu soit loué, Seigneur des mondes! Il m&#039;a réjoui.
+			<lb n="8"/>
+		Je t&#039;informe que .... Abū ʿAbd Allāh - que Dieu le garde! .... pour toi. J&#039;espère qu&#039;il te réjouira dans ton enfant et ....
+			<lb n="9"/>
+		... Gott hat mich veranlaßt, Dir mein Herz darüber auszuschütten, 
+		Si .... pour toi ce qu&#039;il en est, si Dieu le veut! .... davantage. Que Dieu dilate mon coeur pour toi
+			<lb n="10"/>
+		nämlich über das, was Dir in diesem Brief wohl klar geworden ist. (...)
+		par ce qui t&#039;apparaîtra dans ma lettre! Et ce que j&#039;ai demandé à Dieu pour toi par amitié .... et qu&#039;Il te donne ce que je Lui ai demandé. 
+			<lb n="11"/>
+		Il t&#039;appartient de remercier Dieu et de Le louer. Et continue de m&#039;écrire et (de m&#039;informer) de ta chance dans les affaires .... du commerce. Tu feras du bien par ceci.
+			<lb n="12"/>
+		et .... Dieu est l&#039;ami de celui qui secourt .... si Dieu le veut! ma lettre
+			<lb n="13"/>
+		] dans .... ce que j&#039;espère. Fais parvenir ceci à ta soeur. [
+</ab></div>
+</body>
+</text>
+</TEI>

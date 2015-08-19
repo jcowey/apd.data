@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2099" xml:id="AbdarrahmanLease" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Abdel-RahmanLease</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">AbdarrahmanLease</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما استأجر أسد بن منصو<supplied reason="lost" cert="high">ر</supplied> الصّوّاف وهو يومئذ رجل شاب معتدل القامة 
+<lb n="3"/>  <supplied reason="lost" cert="high">وجهه</supplied> <supplied reason="lost" cert="high">مشو</supplied>ب بحمرة واضح الجبهة بها غضون مقرون الحاجبين خفي كحل العينين 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> الأنف خفيف شعر العارضين وبأعلا حاجبه الأيمن أثر من محارب بن جعفر 
+<lb n="5"/>  استأجر منه صفقة واحدة وعقدا واحدا جميع الطّبقة الوسطا الّتي 
+<lb n="6"/>  من حقوق الدّار الّتي بفسطاط مصر بدرب مجد الملك بممرّه داخلة في الزّقاق 
+<lb n="7"/>  الغير نافذ مجاورة لدار القاضي الموپمن دام <gap reason="illegible" precision="low" extent="3"/> بعد 
+<lb n="8"/>  والقاعة السّفلى برسم الفوّارة والسّلّم المتوصّل عليه إلى علوّه بأوّل حق 
+<lb n="9"/>  طبقتان متطابقتان وضعت الإجارة على المنزل الأوسط الّذي 
+<lb n="10"/>  من حقوق الطّبقة الثّالثة وفراغ الشّاغل لها بعدّة ستّة شهور 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> إليهم أوّلها الحادي عشر من رجب سنة سبع وستّين وخمس مائة وآخرها 
+<lb n="12"/>  انقضا العاشر من محرّم من سنة ثمان وستّين وخمس مائة بأجرة مبلغها في كل شهر <unclear reason="undefined" cert="high">ستّة</unclear> <unclear reason="undefined" cert="high">دراهم</unclear> 
+<lb n="13"/>  ورقا جيادا إجارة نافذة ماضية يقوم بها قسط كل شهر سلخه دون 
+<lb n="14"/>  مدافعة ولا ممانعة وتسلّم ما استأجره ووجب الانتفاع به طول هذه المدّة بها 
+<lb n="15"/>  وإلى انقضائها بعد النّظر والرّضى والافتراق بالأبدان وضمان الدّرك 
+<lb n="16"/>  شهد على إقرار المستأجر بما فيه بالحادي عشر من رجب سنة 
+<lb n="17"/>  سبع وستّين وخمس مائة فيه مصلّح وبأعلا حاجبه وهو صحيح 
+<lb n="18"/>  أشهدني بتصليحه ذلك 
+<lb n="19"/>  وكتب القيّم بن <unclear reason="undefined" cert="high">الأمين</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭstaʾǧara ʾasadu bnu manṣūr:in ăṣ ṣawwāfu wa huwa yawmaʾiḏ:in raǧul:un šābb:un muʿtadilu ăl qāmaẗi 
+ <lb n="3"/>waǧhu hu mašūb:un bi ḥumraẗ:in wāḍiḥu ăl ǧabhaẗi bi hā ġuḍūn:un maqrūnu ăl ḥāǧibayni ḫafiyyu kuḥli ăl ʿaynayni 
+ <lb n="4"/>*** ăl ʾanfi ḫafīfu šaʿri ăl ʿāriḍayni wa bi ʾaʿlā ḥāǧibi hi ăl ʾaymani ʾaṯar:un min muḥāribi bni ǧaʿfara 
+ <lb n="5"/>ĭstaʾǧara min hu ṣafqaẗ:an wāḥidaẗ:an wa ʿaqd:an wāḥid:an ǧamīʿa ăṭ ṭabaqaẗi ăl wusṭā ăllatī 
+ <lb n="6"/>min ḥuqūqi ăd dāri ăllatī bi fusṭāṭi miṣra bi darbi maǧdi ăl mulki bi mamarri hi dāḫilaẗ:an fī ăz zuqāqi 
+ <lb n="7"/>ăl ġayri nāfiḏ:in muǧāwiraẗ:an li dāri ăl qāḍī ăl muʾtamani dāma *** baʿdu 
+ <lb n="8"/>wa ăl qāʿaẗu ăs suflà bi rasmi ăl fawwāraẗi wa ăs sullamu ăl mutawaṣṣalu ʿalay hi ʾilà ʿuluwwi hi bi ʾawwali ḥaqq:in 
+ <lb n="9"/>ṭabaqatāni mutaṭābiqatāni wuḍiʿati ăl ʾiǧāraẗu ʿalà ăl manzili ăl ʾawsaṭi ăllaḏī 
+ <lb n="10"/>min ḥuqūqi ăṭ ṭabaqaẗi ăṯ ṯāliṯaẗi wa farāġu ăš šāġili la hā bi ʿiddaẗi sittaẗi šuhūr:in 
+ <lb n="11"/>*** ʾilay him ʾawwalu hā ăl ḥādī ʿašara min raǧaba sanaẗa sabʿ:in wa sittīna wa ḫamsi miʾaẗ:in wa ʾāḫiru hā 
+ <lb n="12"/>ĭnqiḍāʾu ăl ʿāširi min muḥarram:in min sanaẗi ṯamān:in wa sittīna wa ḫamsi miʾaẗ:in bi ʾuǧraẗ:in mablaġu hā fī kulli šahr:in sittaẗu darāhima 
+ <lb n="13"/>waraq:an ǧiyād:an ʾiǧāraẗ:an nāfiḏaẗ:an māḍiyaẗ:an yaqūmu bi hā qisṭa kulli šahr:in salḫa hu dūna 
+ <lb n="14"/>mudāfaʿaẗ:in wa lā mumānaʿaẗ:in wa tasallama mā ĭstaʾǧara hu wa waǧaba ăl ĭntifāʿu bi hi ṭūla hāḏihi ăl muddaẗi bi hā 
+ <lb n="15"/>wa ʾilà ĭnqiḍāʾi hā baʿda ăn naẓari wa ăr riḍà wa ăli ĭftirāqi bi ăl ʾabdāni wa ḍamāni ăd daraki 
+ <lb n="16"/>šuhida ʿalà ʾiqrāri ăl mustaʾǧiri bi mā fī hi bi ăl ḥādī ʿašara min raǧaba sanaẗa 
+ <lb n="17"/>sabʿ:in wa sittīna wa ḫamsi miʾaẗ:in fī hi muṣallaḥ:un wa bi ʾaʿlā ḥāǧibi hi wa huwa ṣaḥīḥ:un 
+ <lb n="18"/>ʾašhada nī bi taṣlīḥi hi ḏālika 
+ <lb n="19"/>wa kataba ăl qayyimu bnu ăl ʾamīni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Merciful the Compassionate
+			<lb n="2"/>
+		this is what Asad Ibn Manṣū[r] the wool weaver, has rented and he is a man, at that day, a young man of straight stature
+			<lb n="3"/>
+		[his face is slight]ly reddish, his forehead is clear with wrinkels by the end of the two eyebrows, his two eyes&#039; kohl is slight
+			<lb n="4"/>
+		the nose is ... (and) above his right eyebrow (there is) a scar, from Muḥārib Ibn Ǧaʿfar
+			<lb n="5"/>
+		he has rented from him in one deal and one contract all the middle storey which is
+			<lb n="6"/>
+		from the contents of the house which is in Fusṭāṭ Miṣr at the alley of Maǧd El-Mulk at its passageway, it is inside
+			<lb n="7"/>
+		the blocked alley located beside the house of the judge Al-Muʾtaman may he stay long... after
+			<lb n="8"/>
+		and the lower hall which is dedicated for the fountain and the staircase which someone can reach through it to a roof, first to be related to (the house)
+			<lb n="9"/>
+		they are two storeys, one over the other, and the rental value was implemented on the middle apartment which is
+			<lb n="10"/>
+		from the contents of the third floor, the renter&#039;s period exceeds six month
+			<lb n="11"/>
+		... to them [?] its beginning is on the eleventh of Raǧab in the year five hundred sixty seven (February 16th, [1172 A.D.] and its end (will be)
+			<lb n="12"/>
+		the departure of the tenth of Muḥarram in the year five hundred sixty eight [August 13, 1172 A.D.] the rental value, its amount in each month is &#034;six&#034; dirhams [?] of
+			<lb n="13"/>
+		good silver, [it should be] a forward executed rent the installment [is to be] paid every month, its last day with no
+			<lb n="14"/>
+		quarrel of forbearance, and he received what he has rented, and the benefit of it is a must during this period in it
+			<lb n="15"/>
+		and to its end, [that happened] after examination, satisfaction, separation of persons’ bodies and guarantee of the indemnity
+			<lb n="16"/>
+		[the scribe?] has testified the acknowledgement of the renter including what it contains, on the eleventh of Raǧab, year
+			<lb n="17"/>
+		five hundred sixty seven, there is a corrected [phrase which is] &#034;and above his eyebrow&#034; and it is correct
+			<lb n="18"/>
+		he made me [I the scribe] witnessed on that correction
+			<lb n="19"/>
+		and Al-Qayyim Ibn al-Amīn [?] wrote [this deed]
+</ab></div>
+</body>
+</text>
+</TEI>

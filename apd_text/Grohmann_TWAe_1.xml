@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="427" xml:id="Grohmann_TWAe_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106622</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="2"/>  حفظك اللّه ومسّاك بعافية وسرور 
+<lb n="3"/>  إن رأيت <app type="BL"><lem resp="APD">فأسل </lem><rdg resp="Diem, Review Wien">ياسيّدي</rdg></app> أن تبعث إلي بذلك <app type="BL"><lem resp="sīn with three dots above">الشقوف </lem><rdg resp="Levi della Vida; Diem; sīn with three dots above">السّفوف</rdg></app> وبذينّك 
+<lb n="4"/>  الخلطين الّذي بفيا من الدّوا <sic n="superfluous">وتعملنى</sic><supplied reason="omitted" cert="high">وپعلمني</supplied> <app type="BL"><lem resp="APD">خبر </lem><rdg resp="Diem">خبر</rdg></app> <app type="BL"><lem resp="APD">ثمنهما </lem><rdg resp="Diem">ثمنها</rdg></app> <app type="BL"><lem resp="APD">فعلت </lem><rdg resp="Levi della Vida; Diem">فعلت</rdg></app> 
+<lb n="5"/>  أبقاك اللّه وأمتع بك وكتب وبيّن لي الصّفة وكيف 
+<lb n="6"/>  أعمله وكيف أشربه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi * 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa massā ka bi ʿāfiyaẗ:in wa surūrin 
+ <lb n="3"/>ʾin raʾayta fa yā ʾasalu sayyid ø ī ʾan tabʿaṯa ʾilay ya bi ḏālika ăš ăs šuqūfi safūfi wa bi ḏaynika 
+ <lb n="4"/>ăl ḫalṭayni ăllaḏī baqiyā mina ăd dawāʾi wa tuʿlima nī ḫabara ḫayra ṯamani himā hā fa ø ʿallātu faʿalta 
+ <lb n="5"/>ʾabqā ka ăl lāhu wa ʾamtaʿa bi ka wa kutiba wa bayyin li ya ăṣ ṣifaẗa wa kayfa 
+ <lb n="6"/>ʾaʿmalu hu wa kayfa ʾašrabu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen.
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Gott behüte Dich und bringe Dir am Abend Sicherheit (vor Üblem) und Freude.
+		Gott behüte Dich und bringe Dir einen Abend in Gesundheit und Freude!
+			<lb n="3"/>
+		to send that medical powder to me
+		Wenn Du der Meinung bist, so bitte ich Dich, daß Du an mich jene Ostraka schickst und jene
+		Wenn Du, o mein Herr (?), der Meinung bist, mir jenes Pulver und jene
+			<lb n="4"/>
+		beiden Mixturen, die von der Arznei übrig sind, und Du mich ihren besten Preis wissen läßt; denn ich bin krank.
+		beiden Mixturen, die von der (zu bereitenden) Medizin noch verbleiben, zu senden und mir ihren Preis mitzuteilen, dann tu (dies bitte)!
+			<lb n="5"/>
+		Gott erhalte Dich und lasse Dich leben, und man schrieb&#039;(s). Und erkläre mir genau die Beschreibung und wie
+		Gott erhalte Dich und schenke an Dir Nutzen! Es wurde geschrieben. Und gib mir das genaue Rezept an, ferner wie
+			<lb n="6"/>
+		ich sie bereiten und wie ich sie trinken soll.
+		ich sie (sc. die Medizin) bereiten und wie ich sie einnehmen soll.
+</ab></div>
+</body>
+</text>
+</TEI>

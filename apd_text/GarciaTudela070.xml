@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2050" xml:id="GarciaTudela070" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Garcia-ArenalTudelaTarazona 07</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">GarciaTudela070</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  اشترا لأبط متع بيرولة غليا 
+ <lb n="3"/>  م ارمپد والڤرپلپن مبع پپروله 
+ <lb n="4"/>  شركهم غانم التّرميسي جنانا في منز 
+ <lb n="5"/>  القرش وهو الجنان الّذي حدّه في 
+ <lb n="6"/>  القبلة جنان لأخته شمسي ما كان 
+ <lb n="7"/>  مقسوم من الجنان وفي الجوف جنان 
+ <lb n="8"/>  بنو المعيدي وفي الغرب فدّان أبو 
+ <lb n="9"/>  سمرة وفي الشّرك طريق السّا 
+ <lb n="10"/>  لك ال عپپرول اسپرا مپه 
+ <lb n="11"/>  ما ذكرنا بما له من المنافع والمرا 
+ <lb n="12"/>  ڤق وپدحول الپه والحروح 
+ <lb n="13"/>  وبكل حقوقه فيها داخل وخارج 
+ <lb n="14"/>  عنها لم يستبق البائع المذكور 
+ <lb n="15"/>  في جميع الجنان حقّا ولا ملكا 
+ <lb n="16"/>  ولا مرتفقا قليلا ولا كثيرا إلّا و 
+ <lb n="17"/>  خرج عنها البائع للمبتاعون 
+ <lb n="18"/>  وبثمن عدّه ستّة مثاقيل مرا 
+ <lb n="19"/>  پطپه سعدپه 
+ <lb n="20"/>  جميعها لأبط المذكور جميع العدّة 
+ <lb n="21"/>  إل البائع تام الوزن تام صرفها 
+ <lb n="22"/>  وأبرأهم به منها فبرئ وأنزلهم 
+ <lb n="23"/>  في البيع المذكور 
+ <lb n="24"/>  <sic n="superfluous">ولا</sic> <sic n="superfluous">مرپڤڤا</sic> 
+ <lb n="25"/>  <sic n="superfluous">الا</sic> <sic n="superfluous">وحرح</sic> 
+ <lb n="26"/>  <sic n="superfluous">عون</sic> <sic n="superfluous">واپرلهم</sic> 
+ <lb n="27"/>  لهم وحلهم 
+ <lb n="28"/>  ومحل ذي ملك في ملكه عل 
+ <lb n="29"/>  سنّة المسلمين في طيّبات 
+ <lb n="30"/>  بيوعهم ومرجع أدركـ<supplied reason="lost" cert="high">ـهـ</supplied>ـم ولهم 
+ <lb n="31"/>  في درك ما توجبه السّنّة شهد 
+ <lb n="32"/>  عل البائع المذكور <supplied reason="lost" cert="high">و</supplied>عل المبتا 
+ <lb n="33"/>  عون پما دكر عپهم من عرڤهم 
+ <lb n="34"/>  منهم وهم عل صحّة والجواز وكتب بشهر 
+ <lb n="35"/>  ذالحجّة من ست وسبعين 
+ <lb n="36"/>  وخمس مائة وأدخل ضامنا عل 
+ <lb n="37"/>  قدر المذكر لعبد الرّحمن ابن 
+ <lb n="38"/>  حلف متا<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> بمايطلة وخرج 
+ <lb n="39"/>  الجنان <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="40"/>  به وكتب في التّأريخ المورح 
+ <lb n="41"/>  فرج بن مسعود ابن ملك 
+ <lb n="42"/>  الخازين وكتب عنه بأمره 
+ <lb n="43"/>  ومحضره <app type="BL"><lem resp="doc. description">وأرند </lem><rdg resp="índice de nombres de persona">وأرند</rdg></app> ولد بيتر 
+ <lb n="44"/>  يوست السّهر وكتب عنه بأمر 
+ <lb n="45"/>  ه ومحصره عپد الله اپن 
+ <lb n="46"/>  أبكر 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭštarā l ʾabaṭu mataʿa bīruwilaẗa ġilyāmu 
+ <lb n="3"/>ʾarmandu wa ăl firaylīna mataʿa bīruwilaẗa min 
+ <lb n="4"/>šariki him ġānim:ini ăt tirmīsiyyi ǧinān:an fī manzi 
+ <lb n="5"/>ăl quraši wa huwa ăl ǧinānu ăllaḏī ḥaddu hu fī 
+ <lb n="6"/>ăl qiblaẗi ǧinān:un li ʾuḫti hi šamsī mā kāna 
+ <lb n="7"/>maqsūm mina ăl ǧināni wa fī ăl ǧawfi ǧinānu 
+ <lb n="8"/>banū ăl maʿīdiyyi wa fī ăl ġarbi faddānu ʾabū 
+ <lb n="9"/>samraẗa wa fī ăš šarki ṭarīqu ăs sāliki 
+ <lb n="10"/>ʾila ġanyarūla ĭštarā min hu ǧamiʿa 
+ <lb n="11"/>mā ḏakarnā bi mā la hu mina ăl manāfiʿi wa ăl marāfiqi 
+ <lb n="12"/>wa bi d duḫūli ʾilay hi wa ăl ḫurūǧi ʿan hā 
+ <lb n="13"/>wa bi kulli ḥuqūqi hi fī hā dāḫil wa ḫāriǧ 
+ <lb n="14"/>ʿan hā lam yastabqi ăl bāʾiʿu ăl maḏkūru 
+ <lb n="15"/>fī ǧamīʿi ăl ǧināni ḥaqq:an wa lā milk:an 
+ <lb n="16"/>wa lā murtafiq:an qalīl:an wa lā kaṯīr:an ʾillā wa 
+ <lb n="17"/>ḫaraǧa ʿan hā ăl bāʾiʿu li l mubtāʿūna 
+ <lb n="18"/>wa bi ṯaman:in ʿaddu hu sittaẗu maṯāqīla murābiṭiyyaẗ:un 
+ <lb n="19"/>saʿdiyyaẗ:un ʾaḥḍara hā 
+ <lb n="20"/>ǧamīʿa hā l ʾabaṭu ăl maḏkūru ǧamīʿa ăl ʿiddaẗi 
+ <lb n="21"/>ʾila ăl bāʾiʿi tāmma ăl wazni tāmma ṣarfi hā 
+ <lb n="22"/>wa ʾabraʾa hum bi hi min hā fa bariʾa wa ʾanzala hum 
+ <lb n="23"/>fī ăl bayʿi ăl maḏkūri 
+ <lb n="24"/>ø 
+ <lb n="25"/>ø 
+ <lb n="26"/>ka manzili him 
+ <lb n="27"/>wa ḥalla hum ka maḥalli hi 
+ <lb n="28"/>wa maḥalli ḏī milk:in fī milki hi ʿala 
+ <lb n="29"/>sunnaẗi ăl muslimīna fī ṭayyibāti 
+ <lb n="30"/>buyūʿi him wa marǧiʿi ʾadraki him wa la hum 
+ <lb n="31"/>fī daraki mā tūǧibu hu ăs sunnaẗu šahida 
+ <lb n="32"/>ʿala ăl bāʾiʿi ăl maḏkūri wa ʿala ăl mubtāʿūna 
+ <lb n="33"/>bi mā ḏukira ʿan hum man ʿarafa hum wa samiʿa 
+ <lb n="34"/>min hum wa hum ʿala ṣiḥḥaẗ:in wa ăl ǧawāzi wa kutiba bi šahri 
+ <lb n="35"/>ḏā l ḥiǧǧaẗi min sitt:in wa sabʿīna 
+ <lb n="36"/>wa ḫamsi miʾaẗ:in wa ʾadḫala ḍāmin:an ʿala 
+ <lb n="37"/>qadri ăl maḏkuri li ʿabdi ăr raḥmāni ĭbni 
+ <lb n="38"/>ḥalaf:in matā* *** bmʾyṭlaẗa wa ḫaraǧa 
+ <lb n="39"/>ăl ǧināna *** 
+ <lb n="40"/>bi hi wa kutiba fī ăt taʾrīḫi ăl muʾarraḫi 
+ <lb n="41"/>faraǧu bnu masʿūdi ĭbni malik:in 
+ <lb n="42"/>ăl ḫāzīni wa kutiba ʿan hu bi ʾamri hi 
+ <lb n="43"/>wa maḥḍari hi wa ʾarnadu ʾarrandu waladu bītra 
+ <lb n="44"/>yūsta ăs saharu wa kutiba ʿan hu bi ʾamri hi 
+ <lb n="45"/>wa maḥḍari hi ʿabdu ăl lāhi ĭbnu maḥmūd:in 
+ <lb n="46"/>ʾubakra 
+   </ab></div>
+ <div type="translation"><ab>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

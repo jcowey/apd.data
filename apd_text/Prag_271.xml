@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1646" xml:id="Prag_271" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 27</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_271</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169400</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  أدّى جعفر بن هاشم على يدي پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮ مپه عن مبنا پن اپوپ β 
+<lb n="3"/>  ‮أدّى محمّد بن سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـد <gap reason="illegible" precision="low" extent="3"/>ف η <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaddà ǧaʿfaru bnu hāšim:in ʿalà yaday B*** 
+ <lb n="2"/>min hu ʿan mīnā bni ʾayyūba 2 *** 
+ <lb n="3"/>ʾaddà muḥammadu bnu s**d ***f 8 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Ǧaʿfar b. Hāšim hat gezahlt durch ...[
+			<lb n="2"/>
+		Davon für Mīnā, Sohn des Job 2 [
+			<lb n="3"/>
+		Muḥammad b. S[..]d [...]f 8
+</ab></div>
+</body>
+</text>
+</TEI>

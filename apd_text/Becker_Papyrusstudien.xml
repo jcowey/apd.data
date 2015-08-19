@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="558" xml:id="Becker_Papyrusstudien" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPapyrusstudien</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_Papyrusstudien</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">18408</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  من قرّة بن شريك إلى أهل <app type="BL"><lem resp="APD">پـ<gap reason="illegible" extent="1" unit="character" />پده </lem><rdg resp="APD">بوبله</rdg></app> من مدينة أنـ<supplied reason="lost" cert="high">ـصنى</supplied> 
+<lb n="3"/>  عطوا <supplied reason="lost" cert="high">لـ</supplied><unclear reason="undefined" cert="high">ـبعـ</unclear>ـث نواتيّة <unclear reason="undefined" cert="high">سـ</unclear>ـفن <supplied reason="lost" cert="high">أ</supplied><unclear reason="undefined" cert="high">مير</unclear> المو<supplied reason="lost" cert="high">مپپـ</supplied><unclear reason="undefined" cert="high">ـن</unclear> إلى إفريقيّة <supplied reason="lost" cert="high">قبل</supplied> <supplied reason="lost" cert="high">عبد</supplied> 
+<lb n="4"/>  <unclear reason="undefined" cert="high">اللّه</unclear> بن موسى بن <supplied reason="lost" cert="high">نـ</supplied>ـصـ<supplied reason="lost" cert="high">يـ</supplied>ـر <unclear reason="undefined" cert="high">سنة</unclear> <supplied reason="lost" cert="high">أ</supplied><unclear reason="undefined" cert="high">ربع</unclear> <supplied reason="lost" cert="high">و</supplied><unclear reason="undefined" cert="high">تسعيـ</unclear>ـن لجيش سـ<supplied reason="lost" cert="high">ـنة</supplied> 
+<lb n="5"/>  خمس و<unclear reason="undefined" cert="high">تسعين</unclear> نوتيّين ونصف <unclear reason="undefined" cert="high">نوتيّ</unclear> <gap reason="illegible" precision="low" extent="3"/> فـ<supplied reason="lost" cert="high">ـأ</supplied>عطو<supplied reason="lost" cert="high">ا</supplied> 
+<lb n="6"/>  فى أجر كل نوتي <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إحدى</supplied> </lem><rdg resp="“Diem, Aphrodito p. 256”">أحد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عشرة</supplied> </lem><rdg resp="“Diem, Aphrodito p. 256”">عشر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">دينر</supplied> </lem><rdg resp="“Diem, Aphrodito p. 256”">دينرا</rdg></app> <supplied reason="lost" cert="high">وسدس</supplied> <supplied reason="lost" cert="high">دينر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  إلى <gap reason="illegible" precision="low" extent="3"/> من بيت المال 
+<lb n="8"/>  كتب <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Diem, Aphrodito p. 256”">الصلت</rdg></app> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">خمس</supplied> وتسعين 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà ʾahli B*Bdh būbalaha min madīnaẗi ʾanṣinà 
+ <lb n="3"/>fa ʾaʿṭū li baʿṯi nawātiyyaẗi sufuni ʾamīri ăl muʾminīna ʾilà ʾifrīqiyyaẗa qibala ʿabdi 
+ <lb n="4"/>ăl lāhi bni mūsà bni nuṣayr:in sanaẗa ʾarbaʿ:in wa tisʿīna li ǧayši sanaẗi 
+ <lb n="5"/>ḫams:in wa tisʿīna nūtiyyayni wa niṣfa nūtiyy:in *** fa ʾaʿṭū 
+ <lb n="6"/>fī ʾaǧri kulli nūtiyy:in ʾiḥdà ʾaḥada ʿašaraẗa ʿašara dīnār dīnār:an wa sudsa dīnār:in *** 
+ <lb n="7"/>ʾilà *** min bayti ăl māli 
+ <lb n="8"/>kataba ăl ăṣ *** ṣaltu min sanaẗi ḫams:in wa tisʿīna 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Allerbarmers! 
+			<lb n="2"/>
+		Von Qorra b. Šarīk an die Leute [des Dorfes x] zugehörig zu(m Bezirk) der Stadt An[tinoe. Stel-]
+			<lb n="3"/>
+		let für das Aufge[bot] von Matrosen für die [Sch]iffe des Be[herrschers] der Gläu[bi]gen(, das) nach Afrika [zu (mit) ʿAbd-]
+			<lb n="4"/>
+		Allāh b. Mūsā b. Nuṣair (abgehen soll,) auf Rechnung des Jahres 94 für die Expedition des Jahr[es] 
+			<lb n="5"/>
+		95 zwei und einen halben Matrosen ...... und gebet 
+			<lb n="6"/>
+		als Lohn jedes Matrosen [11 1/6 Dinar .....] 
+			<lb n="7"/>
+		Nach ..... [..........] aus dem Schatzhaus. 
+			<lb n="8"/>
+		Es hat dies geschrieben El-[..... im Monat x] des Jahres 95. 
+</ab></div>
+</body>
+</text>
+</TEI>

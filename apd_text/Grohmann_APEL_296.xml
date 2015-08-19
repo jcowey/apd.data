@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1752" xml:id="Grohmann_APEL_296" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 296</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_296</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169493</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وجعلني</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـلّه 
+<lb n="3"/>  <supplied reason="lost" cert="high">فـ</supplied>ـد<supplied reason="lost" cert="high">اك</supplied> 
+<lb n="4"/>  كنت <app type="BL"><lem resp="APD">علمپپى </lem><rdg resp="APD">أعلمتني</rdg></app> أن ليس عندك 
+<lb n="5"/>  قمح وقد علـ<supplied reason="lost" cert="high">ـمت</supplied> أنّك 
+<lb n="6"/>  إنّما أردت أن تصيّره <app type="BL"><lem resp="APD">بثمن </lem><rdg resp="Diem">يثمر</rdg></app> 
+<lb n="7"/>  فإن أحببت أن تجعله بثمن إلى 
+<lb n="8"/>  الغلّة فافعل وإن أحببت 
+<lb n="9"/>  أن أشتريه لك فعلت 
+<lb n="10"/>  فإنّي لا أحب أن يكون شيئا 
+<lb n="11"/>  <sic n="superfluous">متعاصى</sic> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">يتقاضونه</unclear> </lem><rdg resp="APD">متقاضى</rdg></app> من أمر حبسته 
+<lb n="12"/>  عليك فافعل من هذا 
+<lb n="13"/>  ما تحب إن شا اللّه 
+<lb n="14"/>  جعلت فداك وأطال اللّه 
+<lb n="15"/>  بقاك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ǧaʿala nī ăl lāhu 
+ <lb n="3"/>fidāʾa ka 
+ <lb n="4"/>kunta ʾaʿlamta ʿallamta nī ʾanna laysa ʿinda ka 
+ <lb n="5"/>qamḥ:un wa qad ʿalimtu ʾanna ka 
+ <lb n="6"/>ʾinnamā ʾaradta ʾan tuṣayyira hu bi yuṯmiru ṯaman:in 
+ <lb n="7"/>fa ʾin ʾaḥbabta ʾan taǧʿala hu bi ṯaman:in ʾilà 
+ <lb n="8"/>ăl ġallaẗi fa ĭfʿal wa ʾin ʾaḥbabta 
+ <lb n="9"/>ʾan ʾaštariya hu la ka faʿaltu 
+ <lb n="10"/>fa ʾin nī lā ʾuḥibbu ʾan yakūna šayʾ:an 
+ <lb n="11"/>yataqāḍūna mutaqāḍ:an hu ø min ʾamr:in ḥabasta hu 
+ <lb n="12"/>ʿalay ka fa ĭfʿal min hāḏā 
+ <lb n="13"/>mā tuḥibbu ʾin šāʾa ăl lāhu 
+ <lb n="14"/>ǧuʿiltu fidāʾa ka wa ʾaṭāla ăl lāhu 
+ <lb n="15"/>baqāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[May God prolong your life and may G]od [make me]
+			<lb n="3"/>
+		your [ra]ns[om.]
+			<lb n="4"/>
+		You have already informed me that you have no
+			<lb n="5"/>
+		... Aber ich weiß, daß Du
+		wheat in store. But I know that
+			<lb n="6"/>
+		in Wirklichkeit die Absicht hast, ihn (sc. den Weizen) Profit abwerfen zu lassen.
+		you will only deliver it for cash.
+			<lb n="7"/>
+		And if you like to supply it for cash till
+		Wenn du also wünschst, ihn bis
+			<lb n="8"/>
+		the harvest, do so; and if you wish
+		zur (neuen) Ernte Profit abwerfen zu lassen, dann tu dies. Und wenn Du wünschst,
+			<lb n="9"/>
+		daß ich ihn Dir abkaufe (?), dann tue ich dies.
+		me to buy it for you, I shall do so.
+			<lb n="10"/>
+		But indeed I would not like that anything should be a
+			<lb n="11"/>
+		matter of litigation, which belongs to something
+			<lb n="12"/>
+		that you have reserved for your(self). Do of these,
+			<lb n="13"/>
+		whatever you like, if God wills.
+			<lb n="14"/>
+		May I be made your ransom, and may God prolong
+			<lb n="15"/>
+		your life.
+</ab></div>
+</body>
+</text>
+</TEI>

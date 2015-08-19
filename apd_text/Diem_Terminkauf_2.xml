@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2196" xml:id="Diem_Terminkauf_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Terminkauf 2</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Terminkauf_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  ذكر حق <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">لپپر</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">ڤپا</rdg></app> أحمد بن سلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">علی</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السّاكن</supplied> 
+<lb n="3"/>  مدينة أشمون له عليه وقبله أربعة <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">قمح</supplied> 
+<lb n="4"/>  جيّد بريّا من التّبن والتّراب والعلـ<supplied reason="lost" cert="high">ـث</supplied> <supplied reason="lost" cert="high">يوفّيه</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">شهر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  سنة خمس وثمانين ومائتين لا يحتج فـ<supplied reason="lost" cert="high">ـيه</supplied> <supplied reason="lost" cert="high">بحجّة</supplied> <supplied reason="lost" cert="high">بوجه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الوجوه</supplied> 
+<lb n="6"/>  بويبة إبرهيم بن صلح الوافية <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  شهد علی إقرار محمّد بن جعفر القـ<supplied reason="lost" cert="high">ـصّار</supplied> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">القمح</supplied> <supplied reason="lost" cert="high">المذكور</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> 
+<lb n="8"/>  الذّكر الحق قبله يوفّي ذلـ<supplied reason="lost" cert="high">ـك</supplied> 
+<lb n="9"/>  شهد علي <unclear reason="undefined" cert="high">بن</unclear> <unclear reason="undefined" cert="high">إبراهيم</unclear> بن الفضل بن <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">علی</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">جعفر</supplied> 
+<lb n="10"/>  القصّار بجميع ما في هذا ذكر <supplied reason="lost" cert="high">الحقّ</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="11"/>  شهد <unclear reason="undefined" cert="high">المعزّ</unclear> بن دو<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">علی</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">جعفر</supplied> <supplied reason="lost" cert="high">القصّار</supplied> 
+<lb n="12"/>  بجميع ما <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">الذكر</supplied> <supplied reason="lost" cert="high">الحقّ</supplied> <supplied reason="lost" cert="high">وكتب</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqq *** lBBr *** FBa ʾaḥmada bni sl* ʿalà *** bni *** ăs sākini 
+ <lb n="3"/>madīnaẗa ʾušmūna la hu ʿalay hi wa qibala hu ʾarbaʿaẗu *** qamḥ:in 
+ <lb n="4"/>ǧayyid:in bariyy:an mina ăt tibni wa ăt turābi wa ăl ʿalṯi yuwaffī hi ḏālika fī šahri *** 
+ <lb n="5"/>sanaẗa ḫams:in wa ṯamānīna wa miʾatayni lā yaḥtaǧǧu fī hi bi ḥuǧǧaẗ:in bi waǧh:in mina ăl wuǧūhi 
+ <lb n="6"/>bi waybaẗi ʾibrāhīma bni ṣāliḥ:ini ăl wāfiyaẗi *** 
+ <lb n="7"/>šuhida ʿalà ʾiqrāri muḥammadi bni ǧaʿfara ăl qaṣṣāri ʾanna ăl qamḥa ăl maḏkūra fī hāḏā 
+ <lb n="8"/>ăḏ ḏikri ăl ḥaqqi qibala hu yuwaffī ḏālika 
+ <lb n="9"/>šahida ʿaliyyu bnu ʾibrāhīma bni ăl faḍli bni *** *** ʿalà ʾiqrāri muḥammadi bni ǧaʿfara 
+ <lb n="10"/>ăl qaṣṣāri bi ǧamīʿi mā fī hāḏā ḏikri ăl ḥaqqi wa kataba bi ḫaṭṭi hi 
+ <lb n="11"/>šahida ăl muʿizzu bnu dw*** ʿalà ʾiqrāri muḥammadi bni ǧaʿfara ăl qaṣṣāri 
+ <lb n="12"/>bi ǧamīʿi mā fī hāḏā ăḏ ḏikri ăl ḥaqqi wa kataba bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen [und sich Erbarmenden!]
+			<lb n="2"/>
+		(Dies ist ein) Schein über das Anrecht von ... Aḥmad ibn Sl[... zu Lasten von N.N. ibn N.N., wohnhaft]
+			<lb n="3"/>
+		in der Stadt Ušmūn, und zwar schuldet ihm dieser vier [... Weizen,]
+			<lb n="4"/>
+		hervorragend, frei von Stroh, Erde und Beimen[gung, wobei er ihm dies vollständig übergeben wird im Monat ...]
+			<lb n="5"/>
+		im Jahre zweihundertundfünfundachtzig, ohne zu erheben [dies]bezüglich [einen Einspruch in irgendeiner Weise],
+			<lb n="6"/>
+		(und zwar) in der vollen Waybah des Ibrāhīm ibn Ṣāliḥ [...]
+			<lb n="7"/>
+		Es wurde das Anerkenntnis Muḥammad ibn Ǧaʿfars des Blei[chers] bezeugt, [daß der in diesem]
+			<lb n="8"/>
+		Anrechtsschein [erwähnte Weizen (?)] von ihm geschuldet wird, wobei er dies voll übergeben wird [...]
+			<lb n="9"/>
+		Es bezeugte ʿAlī ibn (?) Ibrāhīm (?) ibn al-Faḍl ibn ... [.. das Anerkenntnis Muḥammad b. Ǧaʿfars]
+			<lb n="10"/>
+		des Bleichers bezüglich des gesamten Inhalts dieses [Anrechts]scheins, [und er schrieb (dies) eigenhändig,]
+			<lb n="11"/>
+		Es bezeugte al-Muʿizz (?) b. Dw[... das Anerkenntnis Muḥammad b. Ǧaʿfars des Bleichers]
+			<lb n="12"/>
+		bezüglich des gesamten Inhalts [dieses Anrechtsscheins, und er schrieb (dies) eigenhändig.]
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1458" xml:id="Khan_Khalili_I_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 02 (= P.Khalili II 01)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169242</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  كتاب جماعة ما <supplied reason="lost" cert="high">ارتفع</supplied> 
+<lb n="3"/>  من مساحة كورة دلاص وقرى أهنـ<supplied reason="lost" cert="high">ـاس</supplied> 
+<lb n="4"/>  من أرض الزّرع والكروم والأجنّة وغير ذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  فيـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا من كورة دلاص ثمنية ألف وتسعة وثلثيـ<supplied reason="lost" cert="high">ـنن</supplied> <supplied reason="lost" cert="high">فدّانا</supplied> 
+<lb n="6"/>  من ذلك أرض السّجلّات ثلثة آلف وثماني مائة <app type="BL"><lem resp="APD">وأربـ<supplied reason="lost" cert="high">ـعين</supplied> </lem><rdg resp="APD">وأربعة</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فدّانا</supplied> </lem><rdg resp="APD">فدادين</rdg></app> 
+<lb n="7"/>  الفضل على السّجلّات ألفين وثلثمائة وأربعة <supplied reason="lost" cert="high">فدادين</supplied> 
+<lb n="8"/>  زرع الأمير حفظه اللّه <app type="BL"><lem resp="APD">ستّـ<supplied reason="lost" cert="high">ـين</supplied> </lem><rdg resp="APD">ستّة</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فدّانا</supplied> </lem><rdg resp="APD">فدادين</rdg></app> 
+<lb n="9"/>  قطيعة <unclear reason="undefined" cert="high">عبد</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  ومنها قرى أهناس خمسة ألف وأربع مائة وستّـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">وثلثين</supplied> 
+<lb n="11"/>  فـ<supplied reason="lost" cert="high">ـدّانا</supplied> 
+<lb n="12"/>  من ذلك أرض السّجلّات أربعة ألف ومائتن وخمسة وأربعين <supplied reason="lost" cert="high">فدّانا</supplied> 
+<lb n="13"/>  الفضل على السّجلّات ألف ومائة وتسعين فدّانا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  فجميع فضل كورة دلاص وقرى أهـ<supplied reason="lost" cert="high">ـناس</supplied> 
+<lb n="15"/>  على السّجلّات <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso"/>  وبويط وقرى أهناس 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitābu ǧamāʿaẗi mā ĭrtafaʿa 
+ <lb n="3"/>min misāḥaẗi kūraẗi dalāṣa wa qurà ʾahnāsa 
+ <lb n="4"/>min ʾarḍi ăz zarʿi wa ăl kurūmi wa ăl ʾaǧinnaẗi wa ġayri ḏālika *** 
+ <lb n="5"/>fī hā min kūraẗi dalāṣa ṯamāniyaẗu ʾālāf:in wa tisʿaẗ:un wa ṯalāṯīna faddān:an 
+ <lb n="6"/>min ḏālika ʾarḍu ăs siǧillāti ṯalāṯaẗu ʾālāf:in wa ṯamānī miʾaẗ:in wa ʾarbaʿīna ʾarbaʿaẗu faddān:an fadādīna 
+ <lb n="7"/>ăl faḍlu ʿalà ăs siǧillāti ʾalfayna wa ṯalāṯu miʾaẗ:in wa ʾarbaʿaẗu fadādīna 
+ <lb n="8"/>zarʿu ăl ʾamīri ḥafiẓa hu ăl lāhu sittīna sittaẗu faddān:an fadādīna 
+ <lb n="9"/>qaṭīʿaẗu ʿabdi *** *** 
+ <lb n="10"/>wa min hā qurà ʾahnāsa ḫamsaẗu ʾālāf:in wa ʾarbaʿu miʾaẗ:in wa sittaẗ:un wa ṯalāṯīna 
+ <lb n="11"/>faddān:an 
+ <lb n="12"/>min ḏālika ʾarḍu ăs siǧillāti ʾarbaʿaẗu ʾālāf:in wa miʾatayni wa ḫamsaẗ:un wa ʾarbaʿīna faddān:an 
+ <lb n="13"/>ăl faḍlu ʿalà ăs siǧillāti ʾalf:un wa miʾaẗ:un wa tisʿīna faddān:an *** 
+ <lb n="14"/>fa ǧamīʿu faḍli kūraẗi dalāṣa wa qurà ʾahnāsa 
+ <lb n="15"/>ʿalà ăs siǧillāti *** 
+ <lb n="16"/>wa buwayṭ wa qurà ʾahnāsa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Merciful and Compassionate.
+			<lb n="2"/>
+		Document of the aggregate of the gross receipts
+		Record of the aggregate account of the gross receipts
+			<lb n="3"/>
+		from the survey of the disctrict of Dalāṣ and the villages of Ahnās
+		from the survey of the disctrict of Dalas and the villages of Ahnas
+			<lb n="4"/>
+		in respect of the sown land, vineyards, gardens etc.
+			<lb n="5"/>
+		(situated) in them. In the district of Dalāṣ eight thousand and thirty nine [faddāns].
+		(situated) in them. In the district of Dalas there are 8,039 [faddāns].
+			<lb n="6"/>
+		Of this the land of the registers - three thousand, eight hundred and forty/four [faddāns].
+		Of this, the land (recorded in) the registers is 3,8?? [faddāns].
+			<lb n="7"/>
+		The increase over (the amount recorded in) the registers is 2,3?4 [faddāns].
+		The increase over the registers - two thousand, three hundred and [?]-four [faddāns].
+			<lb n="8"/>
+		The sown land of the amir - May God preserve him! - six [...faddāns]
+		The sown land of the ʾamīr, may God preserve him, - sixty/six [faddāns]
+			<lb n="9"/>
+		The estate of...
+		The estate of ʿAbd...
+			<lb n="10"/>
+		And in respect of them (i.e., the sown land, vienyards, gardens etc.) the villages of Ahnās - five thousands, four hundred and thirty-six
+		And in respect of (the same), the villages fo Ahnas are 5,436
+			<lb n="11"/>
+		f[addāns].
+			<lb n="12"/>
+		Of this the land of the registers - four thousand, two hundred and forty [faddāns].
+		Of this, the land (recorded in) the registers is 4,245 [faddāns].
+			<lb n="13"/>
+		The increase over (the amount recorded in) the registers is 1,190 faddāns.
+		The increase over the registers - one thousand, one hundred and ninety faddāns.
+			<lb n="14"/>
+		The total of the increase of the district of Dalāṣ and the villages of Ahnās
+		The total of the increase of the district of Dalas and the villages of Ahnas
+			<lb n="15"/>
+		over the registers [   ].
+			<lb n="16"/>
+		And Buwayṭ and the villages of Ahnās
+		... and Buwayt and the villages of Ahnas
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1397" xml:id="Diem_Heid_II_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 32</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169189</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أكرمك اللّه بطاعته وأيّدك بتوفيقه ووفّقك لمحبّـ<supplied reason="lost" cert="high">ـتـ</supplied>ـه وألبسك عافيته وجمع لنا ولك <supplied reason="lost" cert="high">خير</supplied> <supplied reason="lost" cert="high">الدّنيا</supplied> <supplied reason="lost" cert="high">والآخرة</supplied> 
+<lb n="recto 3"/>  برحمته وسترنا وإيّاك بستره الجميل وكفانا وإيّاك المهم برحمته كتابي إليك أكرمك اللّه <app type="BL"><lem resp="APD">لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">لثلاث </rdg><rdg resp="APD">لستّ </rdg><rdg resp="APD">لسبع </rdg><rdg resp="APD">لثمان </rdg><rdg resp="APD">لتسع </rdg><rdg resp="APD">لعشر</rdg></app> <supplied reason="lost" cert="high">ليال</supplied> 
+<lb n="recto 4"/>  خلون من جمادى الأولى وأنا في عافية والحمد للّه كثيرا لا شريك له وصلّى اللّه على نبيّه محمّد وآله وقد <supplied reason="lost" cert="high">وصل</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">كتابك</supplied> 
+<lb n="recto 5"/>  وكان أسر الكتب إلي <unclear reason="undefined" cert="high">و</unclear>قرأته وفهمت ما ذكرت فـ<supplied reason="lost" cert="high">ـيـ</supplied>ـه من علم خبرك وحالك <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied><unclear reason="undefined" cert="high">حوائجك</unclear> </lem><rdg resp="APD">وحاجاتك</rdg></app> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="recto 6"/>  عليك وأعلمتنا في كتابك أكرمك اللّه أنّك قبضت من أحمد بن <unclear reason="undefined" cert="high">قـ</unclear>ـاسم خمسة وأربعين ديـ<supplied reason="lost" cert="high">ـنرا</supplied> <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="recto 7"/>  وقبضت من أصحاب حمدون الأصم عشرين دينرا وقد <unclear reason="undefined" cert="high">كان</unclear> خالـ<unclear reason="undefined" cert="high">ـي</unclear> حفظه اللّه قبض من أصحاب حمد<supplied reason="lost" cert="high">ون</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="APD">ثلاث </rdg><rdg resp="APD">أربع </rdg><rdg resp="APD">خمس </rdg><rdg resp="APD">ستّ </rdg><rdg resp="APD">سبع </rdg><rdg resp="APD">ثماني </rdg><rdg resp="APD">تسع</rdg></app> 
+<lb n="recto 8"/>  مايـ<supplied reason="lost" cert="high">ـة</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وثلاثة </rdg><rdg resp="APD">وأربعة </rdg><rdg resp="APD">وخمسة </rdg><rdg resp="APD">وستّة </rdg><rdg resp="APD">وسبعة </rdg><rdg resp="APD">وثمانية </rdg><rdg resp="APD">وتسعة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپن </lem><rdg resp="APD">وعشرين </rdg><rdg resp="APD">وثلاثين </rdg><rdg resp="APD">وأربعين </rdg><rdg resp="APD">وخمسين </rdg><rdg resp="APD">وستّين </rdg><rdg resp="APD">وسبعين </rdg><rdg resp="APD">وثمانين </rdg><rdg resp="APD">وتسعين</rdg></app> دينرا <app type="BL"><lem resp="APD">و<supplied reason="lost" cert="high">الـ</supplied><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">والثّلاث </rdg><rdg resp="APD">والأربع </rdg><rdg resp="APD">والخمس </rdg><rdg resp="APD">والسّتّ </rdg><rdg resp="APD">والسّبع </rdg><rdg resp="APD">والثّماني </rdg><rdg resp="APD">والتّسع</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـه </lem><rdg resp="APD">مائة</rdg></app> دينر والنّصف دينر اللّتي وجّهت بها 
+<lb n="recto 9"/>  <gap reason="illegible" extent="30" unit="character" /> <supplied reason="lost" cert="high">وذكرت</supplied> في كتابك أكرم اللّه وجهك من البار أنّك 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الـ</supplied>ـعافية </lem><rdg resp="APD">العاقبة </rdg><rdg resp="APD">العافية</rdg></app> إنّه على ذ<supplied reason="lost" cert="high">لـ</supplied>ـك قاد<supplied reason="lost" cert="high">ر</supplied> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin"/>  فنعجّل به عليك إن شا اللّه و<gap reason="illegible" extent="1" unit="character" />حپپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto upper margin 1"/>  <gap reason="illegible" extent="15" unit="character" /> <supplied reason="lost" cert="high">بـ</supplied>ـن عبد اللّه يقرئك السّلم كثيرا وعلى أبو طلحة 
+<lb n="recto upper margin 2"/>  <supplied reason="lost" cert="high">السّلم</supplied> <supplied reason="lost" cert="high">كثيرا</supplied> <supplied reason="lost" cert="high">وعلى</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـب بن خير اللّه السّلم كثيرا 
+<lb n="verso 1 right"/>  <supplied reason="lost" cert="high">لأبي</supplied> <gap reason="illegible" precision="low" extent="3"/> أكرمه اللّه بطاعته 
+<lb n="verso 2 right"/>  <supplied reason="lost" cert="high">مـ</supplied>ـوسى بن قاسم حفظه اللّه 
+<lb n="verso 3 right"/>  <unclear reason="undefined" cert="high">وأبقا</unclear><supplied reason="lost" cert="high">ه</supplied> 
+<lb n="verso 1 left"/>  من عبد اللّه بن جرم وداود بن محمّد بن كامل 
+<lb n="verso 2 left"/>  يدفع <app type="BL"><lem resp="sīn with dash above‬">لسپاڤا </lem><rdg resp="APD">لسپاڤل </rdg><rdg resp="APD">لسيّدنا</rdg></app> إن شا اللّه بلّغ سلّمك اللّه 
+<lb n="verso 3 left"/>  وأجرك الرّوضة وعليك السّلم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa ʾayyada ka bi tawfīqi hi wa waffaqa ka li maḥabbati hi wa ʾalbasa ka ʿāfiyata hu wa ǧamaʿa la nā wa la ka ḫayra ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="3"/>bi raḥmati hi wa satara nā wa ʾiyyā ka bi satri hi ăl ǧamīli wa kafā nā wa ʾiyyā ka ăl muhimma bi raḥmati hi kitāb ī ʾilay ka ʾakrama ka ăl lāhu li *** ṯalāṯi sitti sabʿi ṯamāni tisʿi ʿašri layāl:in 
+ <lb n="5"/>ḫalawna min ǧumādà ăl ʾūlà wa ʾanā fī ʿāfiyaẗ:in wa ăl ḥamdu li ăl lāhi kaṯīr:an lā šarīka la hu wa ṣallà ăl lāhu ʿalà nabiyyi hi muḥammad:in wa ʾāli hi wa qad waṣala ʾilay ya kitābu ka 
+ <lb n="6"/>wa kāna ʾasarra ăl kutubi ʾilay ya wa qaraʾtu hu wa fahimtu mā ḏakarta fī hi min ʿilmi ḫabari ka wa ḥāli ka wa ḥawāʾiǧi ḥāǧāti ka **** ********** 
+ <lb n="7"/>ʿalay ka wa ʾaʿlamta nā fī kitābi ka ʾakrama ka ăl lāhu ʾanna ka qabaḍta min ʾaḥmada bni qāsim:in ḫamsaẗ:an wa ʾarbaʿīna dīnār:an ****** 
+ <lb n="8"/>wa qabaḍta min ʾaṣḥābi ḥamdūna ăl ʾaṣammi ʿišrīna dīnār:an wa qad kāna ḫāl ī ḥafiẓa hu ăl lāhu qabaḍa min ʾaṣḥābi ḥamdūna ****** ṯalāṯa ʾarbaʿa ḫamsa sitta sabʿa ṯamāniya tisʿa 
+ <lb n="9"/>miʾaẗ:in wa *** ṯalāṯaẗ:an ʾarbaʿaẗ:an ḫamsaẗ:an sittaẗ:an sabʿaẗ:an ṯamāniyaẗ:an tisʿaẗ:an ø wa ***īna ʿišrīna ṯalāṯīna ʾarbaʿīna ḫamsīna sittīna sabʿīna ṯamānīna tisʿīna dīnār:an wa ăl **** ṯalāṯa ʾarbaʿa ḫamsa sitta sabʿa ṯamāniya tisʿa ****ẗ miʾaẗi dīnār:in wa ăn niṣfa dīnār:ini ăllatī waǧǧahta bi hā 
+ <lb n="10"/>****************************** wa ḏakarta fī kitābi ka ʾakrama ăl lāhu waǧha ka mina ăl bārri ʾanna ka 
+ <lb n="11"/>*** ăl ʿāfiyaẗ ʿāFiyaẗ ʿāqibaẗ ʾinna hu ʿalà ḏālika qādir:un 
+ <lb n="12"/>*** * *** 
+ <lb n="13"/>fa nuʿaǧǧilu bi hi ʿalay ka ʾin šāʾa ăl lāhu wa *ḥBB*** 
+ <lb n="14"/>*************** bn ʿabdi ăl lāhi yuqriʾu ka ăs salāma kaṯīr:an wa ʿalà ʾabū ṭalḥaẗa 
+ <lb n="15"/>ăs salāma kaṯīr:an wa ʿalà ***B bni ḫayri ăl lāhi ăs salāma kaṯīr:an 
+ <lb n="16"/>li ʾabī *** ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="17"/>mūsà bni qāsim:in ḥafiẓa hu ăl lāhu 
+ <lb n="18"/>wa ʾabqā hu 
+ <lb n="19"/>min ʿabdi ăl lāhi bni ǧarm:in wa dāwuda bni muḥammadi bni kāmil:in 
+ <lb n="20"/>yudfaʿ li sBʾFʾ sBʾFl sayyidi ø nā ʾin šāʾa ăl lāhu balliġ sallama ka ăl lāhu 
+ <lb n="21"/>wa ʾaǧru ka ăr rawḍaẗu wa ʿalay ka ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott ehre Dich durch Gehorsam ihm gegenüber, stütze Dich dadurch, daß er (Dir) Erfolg verleiht, lasse Dich seiner Liebe teilhaftig werden, erhalte Dich gesund, vereinige für uns und Dich [das Gute des Diesseits und des Jenseits]
+			<lb n="3"/>
+		in seiner Gnade, gewähre uns und Dir seinen schönen Schutz und erspare uns und Dir in seiner Gnade Sorgen! Mein Brief ergeht an Dich - Gott ehre Dich -, da (Zahl 3-10) Nächte
+			<lb n="5"/>
+		vom Monat Ǧumādā l-ʾūlā verstrichen sind, wobei ich mich bei Gesundheit befinde, Lob sei Gott vielmals - er hat keinen Gefährten; möge Gott seinen Propheten Muḥammad und seine Familie segnen! [Dein Brief ist bei mir angekommen],
+			<lb n="6"/>
+		und es war ein mir sehr erfreulicher Brief. Ich habe ihn gelesen und die Information, die Du darin über Neuigkeiten von Dir, über Deinen Zustand und über Deine Anliegen (?) gegeben hast, verstanden [
+			<lb n="7"/>
+		auf Dir. Du hast uns in Deinem Brief - Gott ehre Dich - davon benachrichtigt, daß Du von Aḥmad b. Qāsim fünfundvierzig Dinare [und (Bruchzahl)] eines Dinars kassiert hast,
+			<lb n="8"/>
+		und daß Du von den Partnern Ḥamdūns des Tauben zwanzig Dinare kassiert hast, nachdem bereits mein Onkel - Gott beschütze ihn - von den Partnern Ḥamdūns [(Zahl von 3-9)]
+			<lb n="9"/>
+		hundert [und (Einerzahl) und (Zehnerzahl)]zig Dinare kassiert hatte. [was die (Zahl von 3-9) hund]ert und einhalb Dinar betrifft, welche Du gesandt hast,
+			<lb n="10"/>
+		[so .... Ferner hast Du] in Deinem Brief - Gott ehre Dein Gesicht - die pietätvolle Tatsache erwähnt, daß Du [
+			<lb n="11"/>
+		[...] Ende (oder: Gesundheit); er ist dazu fähig (?).
+			<lb n="13"/>
+		wir werden es Dir also eilends senden, so Gott will, und  - - - [
+			<lb n="14"/>
+		[...]ibn ʿAbdallāh grüßt Dich vielmals. An Abū Ṭalḥah
+			<lb n="15"/>
+		[viele Grüße und an ...]b b. Ḫayrallāh viele Grüße!
+			<lb n="16"/>
+		[An Abū ...] - Gott ehre ihn durch Gehorsam ihm gegenüber - 
+			<lb n="17"/>
+		Mūsā b. Qāsim - Gott beschütze
+			<lb n="18"/>
+		und erhalte ihn (?) -
+			<lb n="19"/>
+		von ʿAbdallāh b. Ǧarm und Dāwūd b. Muḥammad b. Kāmil.
+			<lb n="20"/>
+		Zu übergeben an - - -, so Gott will. Überbringe, dann wird Dich Gott bewahren,
+			<lb n="21"/>
+		und Dein Lohn wird das Paradies sein. Friede sei mit Dir!
+</ab></div>
+</body>
+</text>
+</TEI>

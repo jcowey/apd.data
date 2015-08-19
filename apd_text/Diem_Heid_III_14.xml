@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2232" xml:id="Diem_Heid_III_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 14a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  الأبويّة الأسعديّة 
+<lb n="recto 3"/>  يقبّل الأرض وينهی <sic n="superfluous">رڤع</sic> <supplied reason="omitted" cert="high">بعد</supplied> رفع الدّعا الصّالح 
+<lb n="recto 4"/>  تقبّله الإله من التّلميذ ومن كل داع مخلص والّذي 
+<lb n="recto 5"/>  ينهيه التّلميذ بأن من يوم مفارقته من بين أياديه 
+<lb n="recto 6"/>  الكريمة ولا يسأل أبونا ما علی قلب التّلميذ 
+<lb n="recto 7"/>  لأجل وحدتك ولم أقدر علی ابن 
+<lb n="recto 8"/>  أخوك بحيلة وما كانت نجزت اقتربت 
+<lb n="recto 9"/>  من المحلّة وتسيّر لي صحبة إسحق جزلة حبل 
+<lb n="recto 10"/>  فإنّني مضرور إليها والصّوف الّذی 
+<lb n="recto 11"/>  سيّره إليك سمعان إمّا يتحيّل أبونا 
+<lb n="recto 12"/>  في عمله أو يسيّره صحبة اسحق بعد تقبيل أيادی 
+<lb n="recto 13"/>  أبونا وأيادي من بالدّار الكريمة كلّيّتهم <unclear reason="undefined" cert="high">باسمه</unclear> 
+<lb n="recto 14"/>  التّلميذ الحقير 
+<lb n="recto 15"/>  <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto right margin"/>  فإن الرّاهب الّذي يعرفه أبونا حضر وأعطيته الرّبع ويشتهي تذكر<supplied reason="lost" cert="high">ه</supplied> أبـ<supplied reason="lost" cert="high">ـونا</supplied> في صلواتك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăl ʾabawiyyaẗu ăl ʾasʿadiyyaẗu 
+ <lb n="3"/>yuqabbilu ăl ʾarḍa wa yunhī baʿda rafʿi ăd duʿāʾi ăṣ ṣāliḥi 
+ <lb n="4"/>taqabbala hu ăl ʾilāhu mina ăt tilmīḏi wa min kulli dāʿ:in muḫliṣ:in wa ăllaḏī 
+ <lb n="5"/>yunhī hi ăt tilmīḏu bi ʾanna min yawmi mufāraqaẗi hi min bayni ʾayādī hi 
+ <lb n="6"/>ăl karīmaẗi wa lā yasʾalu ʾabū nā mā ʿalà qalbi ăt tilmīḏi 
+ <lb n="7"/>li ʾaǧli waḥdaẗi ka wa lam ʾaqdir ʿalà ĭbni 
+ <lb n="8"/>ʾaḫū ka bi ḥīlaẗ:in wa mā kānat naǧǧaztu ĭqtarabtu 
+ <lb n="9"/>mina ăl maḥallaẗi wa tusayyir l ī ṣuḥbaẗa ʾisḥāqa ǧizlaẗa ḥabl:in 
+ <lb n="10"/>fa ʾinna nī maḍrūr:un ʾilay hā wa ăṣ ṣūfu ăllaḏī 
+ <lb n="11"/>sayyara hu ʾilay ka samʿānu ʾimmā yataḥayyalu ʾabū nā 
+ <lb n="12"/>fī ʿamali hi ʾaw yusayyiru hu ṣuḥbaẗa ʾisḥāqa baʿda taqbīli ʾayādī 
+ <lb n="13"/>ʾabū nā wa ʾayādī man bi ăd dāri ăl karīmaẗi kulliyyaẗa hum bi ĭsmi hi 
+ <lb n="14"/>ăt tilmīḏu ăl ḥaqīru 
+ <lb n="15"/>***** 
+ <lb n="16"/>fa ʾinna ăr rāhiba ăllaḏī yaʿrifu hu ʾabū nā ḥaḍara wa ʾaʿṭaytu hu ăr rubʿa wa yaštahī taḏkuru hu ʾabū nā fī ṣalawāti ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		(An) die überaus glückliche väterliche (Exzellenz).
+			<lb n="3"/>
+		küßt die Erde und tut kund {die Darbringung} &lt;nach&gt; der Darbringung frommer Fürbitte
+			<lb n="4"/>
+		- Gott nehme sie vom Novizen und von jedem aufrichtigen Fürbitter an -, und zwar ist das,
+			<lb n="5"/>
+		was der Novize kundtut, daß vom Tage, da er sich von (dem Ort) vor seinen
+			<lb n="6"/>
+		edlen Händen getrennt hat, und unser Vater frage nicht, was dem Novizen auf dem Herzen lastet
+			<lb n="7"/>
+		wegen der (Empfindung der) Verlassenheit von Dir. Ich konnte gegen den Sohn
+			<lb n="8"/>
+		Deines Bruders nichts ausrichten, und ich habe es nicht geschafft, mich
+			<lb n="9"/>
+		al-Maḥallah (auch nur) zu nähern. Laß mir durch Isḥāq ein kurzes Stück Schnur überbringen,
+			<lb n="10"/>
+		denn ich benötige es ganz dringend. Was die Wolle betrifft, die
+			<lb n="11"/>
+		Dir Samʿān (für mich) übersandt hat, so möge unser Vater entweder eine Möglichkeit ausfindig machen,
+			<lb n="12"/>
+		sie verarbeiten zu lassen, oder sie (mir) durch Isḥāq überbringen lassen. Es seien die Hände
+			<lb n="13"/>
+		unseres Vaters geküßt und die Hände all (?) derer, die im edlen Haus sind, in seinem Namen (?).
+			<lb n="14"/>
+		Der geringe Novize
+			<lb n="15"/>
+			<lb n="16"/>
+		Der Mönch, den unser Vater kennt, hat sich (übrigens) eingefunden, und ich habe ihm das Viertel gegeben. Er wünscht sich, daß Du, unser Vater, [ihn] in Deinen Gebeten erwähnst.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1355" xml:id="Diem_Heid_II_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169156</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="5" unit="character" />ـ<unclear reason="undefined" cert="high">ـك</unclear> <unclear reason="undefined" cert="high">وأنا</unclear> بعافية وا<supplied reason="lost" cert="high">لحمد</supplied> <supplied reason="lost" cert="high">للّه</supplied> 
+<lb n="2"/>  أعلمك حفظك اللّه أنّي لم <supplied reason="lost" cert="high">أخلوا</supplied> 
+<lb n="3"/>  من الحرص والاجتهاد في <supplied reason="lost" cert="high">حاجتك</supplied> 
+<lb n="4"/>  منذ أمس إلى هذه الغاية فلم 
+<lb n="5"/>  يجيبني الرّجل على <app type="BL"><lem resp="APD">ما </lem><rdg resp="Khan">الذي</rdg></app> طلبته <supplied reason="lost" cert="high">فيهـ</supplied>ـا 
+<lb n="6"/>  إلّا بدينر على أنّه فيما <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="7"/>  إنّه إنّما يقضي لنا حاجة و<gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" extent="1" unit="character" />پپا 
+<lb n="8"/>  منذ وفد واللّه وحزمنا كرا<supplied reason="lost" cert="high">ريسـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  منذ غدوة وأسرج دابّته للخروج 
+<lb n="10"/>  في البقايا فتحسبه لموضعك 
+<lb n="11"/>  وإن لا <app type="BL"><lem resp="APD">ترى </lem><rdg resp="Khan">ترا</rdg></app> إنّي فرّطت لك في 
+<lb n="12"/>  حاجة فإن كان لك في ذلك 
+<lb n="13"/>  المنتفع والرّضا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <app type="BL"><lem resp="APD">فرأيك </lem><rdg resp="APD">فرأيك</rdg></app> فيما أعلمتك 
+<lb n="15"/>  أبقاك اللّه وحفظك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***** ka wa ʾanā bi ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi 
+ <lb n="2"/>ʾuʿlimu ka ḥafiẓa ka ăl lāhu ʾan nī lam ʾaḫlū 
+ <lb n="3"/>mina ăl ḥirṣi wa ăli ĭǧtihādi fī ḥāǧati ka 
+ <lb n="4"/>munḏu ʾamsi ʾilà hāḏihi ăl ġāyaẗi fa lam 
+ <lb n="5"/>yuǧīb nī ăr raǧulu ʿalà mā ălladī ṭalabtu hu fī hā 
+ <lb n="6"/>ʾillā bi dīnār:in ʿalà ʾanna hu fī mā ********** 
+ <lb n="7"/>ʾinna hu ʾinnamā yaqḍī la nā ḥāǧaẗ:an wa ****BBʾ 
+ <lb n="8"/>munḏu wafada wa ăl lāhi wa ḥazamnā karārīs *** *** 
+ <lb n="9"/>munḏu ġudwaẗ:in wa ʾasraǧa dābbata hu li l ḫurūǧi 
+ <lb n="10"/>fī ăl baqāyā fa taḥsubu hu li mawḍiʿi ka 
+ <lb n="11"/>wa ʾin lā tarà tarā ʾan nī farraṭtu la ka fī 
+ <lb n="12"/>ḥāǧaẗ:in fa ʾin kāna la ka fī ḏālika 
+ <lb n="13"/>ăl muntafaʿu wa ăr riḍā *** 
+ <lb n="14"/>fa raʾyu raʾya ka fī mā ʾaʿlamtu ka 
+ <lb n="15"/>ʾabqā ka ăl lāhu wa ḥafiẓa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] Dich - während ich bei Gesundheit bin, Lob sei Gott,
+			<lb n="2"/>
+		um Dir mitzuteilen - Gott beschütze Dich -, daß ich es nicht
+			<lb n="3"/>
+		an Eifer und Mühe bei [Deiner Angelegenheit]
+			<lb n="4"/>
+		von gestern bis zu diesem Zeitpunkt [habe fehlen lassen]. Denn
+			<lb n="5"/>
+		der Mann hat mir für das, was ich [in Bezug auf] sie (sc. Angelegenheit) gefordert habe,
+			<lb n="6"/>
+		nur gegen Zahlung eines Dinars seine Zusage gegeben, und zwar derart, daß er bei dem, was [
+			<lb n="7"/>
+		daß er für uns überhaupt eine Angelegenheit erledigt. Und - - -,
+			<lb n="8"/>
+		seit er eingetroffen ist, bei Gott, und wir haben die He[fte (?) von
+			<lb n="9"/>
+		seit dem frühen Morgen geschnürt, und er hat sein Reittier gesattelt, um
+			<lb n="10"/>
+		sich wegen der Rückstände auf den Weg zu machen. Rechne also mit ihm für Deinen Ort!
+			<lb n="11"/>
+		Wenn Du also so freundlich wärst, nicht der Meinung zu sein, daß ich Dir gegenüber in
+			<lb n="12"/>
+		irgendeiner Angelegenheit nachlässig gewesen sei! Wenn Du hierbei
+			<lb n="13"/>
+		Nutzen und Zufriedenheit hast, [dann (?)
+			<lb n="14"/>
+		Bilde Dir also Deine Meinung über das, was ich Dir mitgeteilt habe!
+			<lb n="15"/>
+		Gott erhalte und beschütze Dich!
+</ab></div>
+</body>
+</text>
+</TEI>

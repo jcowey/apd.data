@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1532" xml:id="P_Khalili_I_28v2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 28 verso (= P.Khalili II 55 third letter = P.DiemKhalili 1 recto)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">P_Khalili_I_28v2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169303</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1 (Diem 2)"/>  <app type="BL"><lem resp="APD">الأمور </lem><rdg resp="Diem">إلّا</rdg></app> <app type="BL"><lem resp="APD">ان </lem><rdg resp="Diem">بعد</rdg></app> <app type="BL"><lem resp="APD">ڤصصپهإ </lem><rdg resp="Diem">أن</rdg></app> <app type="BL"><lem resp="APD">قـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">فضضتهما</rdg></app> 
+<lb n="2 (Diem 3)"/>  <app type="BL"><lem resp="APD">الرّوضة </lem><rdg resp="APD">الرّفضة</rdg></app> وقولك وإن لم يتهيّأ لك 
+<lb n="3 (Diem 4)"/>  <app type="BL"><lem resp="APD">رفع </lem><rdg resp="Diem">دفع</rdg></app> <app type="BL"><lem resp="APD">غرمي </lem><rdg resp="Diem">عشرين</rdg></app> <app type="BL"><lem resp="APD">ورا </lem><rdg resp="‭Diem translation ‫درهما‬ but see corrigendum p. 60">دينارا</rdg></app> رددت الكتب <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">إلـ</supplied>ـيه </lem><rdg resp="Diem">فإنّك</rdg></app> 
+<lb n="4 (Diem 5)"/>  تعلم أعزّك اللّه ما قد احتملت به وأدّيته 
+<lb n="5 (Diem 6)"/>  <app type="BL"><lem resp="APD">وصار </lem><rdg resp="Diem">وضمّان</rdg></app> أصحابه <app type="BL"><lem resp="APD">بطّلين </lem><rdg resp="Diem">بطلبتي</rdg></app> قد أخلفوني 
+<lb n="6 (Diem 7)"/>  وقد رددت إليه <app type="BL"><lem resp="APD">كتابي </lem><rdg resp="Diem">الكتابين</rdg></app> فإن كان له أعزّه اللّه 
+<lb n="7 (Diem 8)"/>  صبر إلى مصيري إلى النّاحية قبضتها 
+<lb n="8 (Diem 9)"/>  <app type="BL"><lem resp="APD">وعملت </lem><rdg resp="Diem">وعجّلت</rdg></app> ما <app type="BL"><lem resp="APD">بها </lem><rdg resp="Diem">تهيّأ</rdg></app> واستخرجت من <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">البقايا</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ʾillā ʾumūr ø ø baʿda ʾan ʾin qaṣaṣta faḍaḍtu hā humā fa *** lā ø ʾaradtu 
+ <lb n="2"/>ăr rawḍaẗ rafḍaẗa wa qawlu ka wa ʾin lam yatahayyaʾ la ka 
+ <lb n="3"/>rafʿu dafʿu ġurm ʿišrīna ī ø warāʾa dīnār:an radadta ăl kutuba ʾilay fa hi ʾinna ø ka 
+ <lb n="4"/>taʿlamu ʾaʿazza ka ăl lāhu mā qadi ĭḥtamaltu bi hi wa ʾaddaytu hu 
+ <lb n="5"/>wa ḍummānu ṣāra ʾaṣḥābi ʾaṣḥābu hi hu baṭṭālīna bi ø ṭalibat ø ī qad ʾaḫlafū nī 
+ <lb n="6"/>wa qad radadtu ʾilay ø ăl hi kitāb kitābayni ī ø fa ʾin kāna la hu ʾaʿazza hu ăl lāhu 
+ <lb n="7"/>ṣabr:un ʾilà maṣīr ī ʾilà ăn nāḥiyaẗi qabaḍtu hā 
+ <lb n="8"/>wa ʿamiltu ʿaǧǧaltu mā bi tahayyaʾa hā ø wa ĭstaḫraǧtu mina ăl *** baqāyā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		erst nachdem ich sie erbrochen hatte, denn ich hatte (sie) nicht (von vornherein)
+		the affairs if you relate them...
+			<lb n="2"/>
+		... As for your words, &#034;If you are not in a position
+		the garden. As for your words: &#039;If you are not in a position
+		zurückweisen wollen. Was Deine Worte &#034;Wenn es Dir nicht möglich ist,
+			<lb n="3"/>
+		to pay twenty dīnārs, return the documents&#039;, you do know
+		to remit my debt return the documents to him,&#039;
+		to remit my debt, return the documents to him&#034;,
+		zwanzig Dirham auszuzahlen, gibst Du die Dokumente zurück&#034; betrifft, so
+			<lb n="4"/>
+		weißt Du - Gott stärke Dich - doch, was ich seinetwegen schon auf mich genommen und bezahlt habe,
+		you - may God give you strength - know the expenditure I have undertaken.
+		you - may God give you strength! - know the expenditure I have undertaken.
+			<lb n="5"/>
+		His companions have become idle. They have let me down.
+		wobei diejenigen seiner Geschäftspartner, welche für meine Forderung geradestehen sollten, (dann) ihr Versprechen mit gegenüber gebrochen haben!
+			<lb n="6"/>
+		Ich gebe (deshalb) hiermit die beiden Dokumente zurück. Falls er sich - Gott stärke ihn -
+		I replied to him. If he - may God give him strength - has
+		I replied to him. If he - may God give him strength! - has
+			<lb n="7"/>
+		geduldet, bis ich in die (betreffende) Gegend komme, kassiere ich sie,
+		patience to (wait) until I go to the village I will take the receipt of them
+			<lb n="8"/>
+		and do what is required with regard to them and extract...
+		sende schnell so viel (Geld) wie möglich und treibe von den (dann noch verbleibenden) Rückständen ein
+</ab></div>
+</body>
+</text>
+</TEI>

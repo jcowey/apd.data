@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="858" xml:id="Grohmann_World_p_152_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 152 b (= Chrest.Khoury II 15)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_152_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113635</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="1" unit="character" /> بسم اللّه الرّحمن الرّحيم قد قبضت منك يا <app type="BL"><lem resp="APD">برمودة </lem><rdg resp="“Khoury”">پرموده</rdg></app> 
+<lb n="2"/>  وثمنين وإن سنة وثمنين وإن <app type="BL"><lem resp="APD">قبضتها </lem><rdg resp="Khoury; Diem">قبضها</rdg></app> من سنة أربع وثمنين 
+<lb n="3"/>  <app type="BL"><lem resp="Grohmann; Diem">وثلاثمائة </lem><rdg resp="Khoury">وثلثمائة</rdg></app> ولم يبقا لي قبلك شي من هاذه <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">ألـ</supplied>ـاجرة </lem><rdg resp="APD">الأجرة</rdg></app> وكتب مثاقيل 
+<lb n="4"/>  بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>* bi smi ăl lāhi ăr raḥmāni ăr raḥīmi qad qabaḍtu min ka yā barmūdaẗu 
+ <lb n="2"/>ʾuǧraẗa sanaẗi ṯalāṯ:in wa ṯamānīna wa ʾinna qabḍata qabḍa hā min sanaẗi ʾarbaʿ:in wa ṯamānīna 
+ <lb n="3"/>wa ṯalāṯi miʾaẗ:in wa lam yabqā l ī qibala ka šayʾ:un min hāḏihi ø ăl ʾuǧraẗ:an ʾuǧraẗi wa kataba muḥammad:un 
+ <lb n="4"/>bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen! Ich habe bereits von Dir, oh Barmūde,
+		In the name of God, the Compassionate, the Merciful! I have already received from thee, o Barmûde,
+			<lb n="2"/>
+		die Miete des Jahres (dreihundert)unddreiundachtzig in Empfang genommen, doch (datiert) ihr Empfang aus dem Jahre dreihundert-
+		the wages of the year eighty-three, although the receipt thereof dates from the year three hundred
+			<lb n="3"/>
+		and eighty four; and there has not remained to my favour to thy debit anything out of these wages, and Muḥammad has written it
+		undvierundachtzig, und es ist zu meinen Gunsten und Deinen Lasten von dieser Miete nichts als Rest geblieben, und Muḥammad hat (es) mit
+			<lb n="4"/>
+		in his (own) handwriting.
+		seinem Schriftzuge geschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

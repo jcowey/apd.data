@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="973" xml:id="Guo_Quseir_71" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 71</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_71</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113718</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أقر الأستاذ ماهر <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> پكپپ عليهم ڤى صحپه 
+<lb n="4"/>  <supplied reason="omitted" cert="high">منه وسلامه وجواز أمره</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> المعطم دكره سهور ارپع 
+<lb n="6"/>  لي غلّة وعليه سلم و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> الپاڤى الدڤبق الى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" extent="4" unit="character" /> لى پپعه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> علپه مپى ما طالپ 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> للدكان او پهأرا صناحا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> پاول <gap reason="illegible" precision="low" extent="3"/> الله سپحاپه 
+<lb n="13"/>  والحاكم <gap reason="illegible" precision="low" extent="3"/> وهو الرّز المذكور 
+<lb n="14"/>  وهو المقّر له لذالك ببيع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  وأقر على نفسه طوعا في السّلم وشهد على هذا 
+<lb n="16 right"/>  شهدت بذالك <app type="BL"><lem resp="Guo erroneously ‫كتب‬, but see commentary">وكتب </lem><rdg resp="“EG”">وكتبت</rdg></app> 
+<lb n="17 right"/>  شهدت <app type="BL"><lem resp="APD">وكتب </lem><rdg resp="“EG”">وكتبت</rdg></app> 
+<lb n="18 right"/>  في تأريخه 
+<lb n="19 right"/>  شهد بذلك كرام 
+<lb n="20 right"/>  بن سعد وكتب عنه 
+<lb n="21 right"/>  بأمره <app type="BL"><lem resp="APD">وبحقّه </lem><rdg resp="“Guo; Friedman, Quṣayr p. 408; Diem, P.QuseirArab. p. 168; EG”">ومحضره</rdg></app> في تأريخه 
+<lb n="22 right"/>  شهدت بذلك 
+<lb n="23 right"/>  وكتب حسن بن أبي الحسن 
+<lb n="24 right"/>  شهدت بذلك 
+<lb n="25 right"/>   
+<lb n="26 right"/>  وكتب أبو الكرم بن 
+<lb n="27 right"/>  يوسف في تأريخه 
+<lb n="28 right"/>   
+<lb n="16 left"/>  <app type="BL"><lem resp="Guo erroneously ‫والربان‬, but see scan “EG”">والزّبان </lem><rdg resp="“EG”">الرّيّان</rdg></app> موسى <app type="BL"><lem resp="APD">وححاح </lem><rdg resp="“EG”">بن
+</rdg></app> <app type="BL"><lem resp="APD">سهد </lem><rdg resp="“EG”">حجّاج</rdg></app> 
+<lb n="17 left"/>  بذلك وكتب عنه بأمره <app type="BL"><lem resp="APD">وبحقّه </lem><rdg resp="“Guo; Friedman, Quṣayr p. 408; Diem, P.QuseirArab. p. 168; EG”">ومحضره</rdg></app> 
+<lb n="18 left"/>  في تأريخـه 
+<lb n="19 left"/>  شهدت بذلك 
+<lb n="20 left"/>  وكتب قاسم بن خدمه 
+<lb n="21 left"/>  في تأريخه 
+<lb n="22 left"/>  شهد بذلك وپل 
+<lb n="23 left"/>  بن محمود وكتب 
+<lb n="24 left"/>  عنه بأمره <app type="BL"><lem resp="APD">وبحقّه </lem><rdg resp="“Guo; Friedman, Quṣayr p. 408; Diem, P.QuseirArab. p. 168; EG”">ومحضره</rdg></app> 
+<lb n="25 left"/>  في تأريخه 
+<lb n="26 left"/>  شهد بذلك ساور 
+<lb n="27 left"/>  بن حيلة وكتب عنه 
+<lb n="28 left"/>  بأمره <sic n="superfluous">وپحق</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">وبحقّه</supplied> </lem><rdg resp="“Guo; Friedman, Quṣayr p. 408; Diem, P.QuseirArab. p. 168; EG”">ومحضره</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ăl ʾustāḏu māhir:un *** *** 
+ <lb n="3"/>*** yaktubu ʿalay him fī ṣiḥḥati hi 
+ <lb n="4"/>min hu wa salāmi hi wa ǧawāzi ʾamri hi *** 
+ <lb n="5"/>*** ăl muʿaẓẓam ḏikru hu šuhūr ʾarbaʿ 
+ <lb n="6"/>l ī ġallaẗ wa ʿalay hi salām:un wa *** 
+ <lb n="7"/>*** ăl bāqī ăd daqīq ʾilà *** 
+ <lb n="8"/>**** l ī bayʿ hu *** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** ʿalay hi minn ī mā ṭālaba 
+ <lb n="11"/>*** li d dukkāni ʾaw nahār:an ṣabāḥ:an *** 
+ <lb n="12"/>*** bi ʾawwali *** ăl lāhu subḥāna hu 
+ <lb n="13"/>wa ăl ḥākimu *** wa huwa ăr ruzzu ăl maḏkūru 
+ <lb n="14"/>wa huwa ăl muqqaru la hu li ḏālika bi bayʿ *** 
+ <lb n="15"/>wa ʾaqarra ʿalà nafsi hi ṭawʿ:an fī ăs salām:in wa šahida ʿalà hāḏā 
+ <lb n="16"/>šahidtu bi ḏālika ø wa wa kataba katabtu 
+ <lb n="17"/>šahidtu wa kataba katabtu 
+ <lb n="18"/>fī taʾrīḫi hi 
+ <lb n="19"/>šahida bi ḏālika karāmu 
+ <lb n="20"/>bnu saʿd:in wa kataba kutiba ʿan hu 
+ <lb n="21"/>bi ʾamri hi wa bi ø ḥaqqi maḥḍari hi fī taʾrīḫi hi 
+ <lb n="22"/>šahidtu bi ḏālika 
+ <lb n="23"/>wa kataba ḥasanu bnu ʾabī ăl ḥasani 
+ <lb n="24"/>šahidtu bi ḏālika 
+ <lb n="26"/>wa kataba ʾabū ăl karami bnu 
+ <lb n="27"/>yūsufa fī taʾrīḫi hi 
+ <lb n="29"/>wa ø ăz ăr zabānu rayyānu mūsà ø bnu wa ø ḥaǧǧāǧu ḥaǧǧāǧa šahida 
+ <lb n="30"/>bi ḏālika wa kataba kutiba ʿan hu bi ʾamri hi wa bi ø ḥaqqi maḥḍari hi 
+ <lb n="31"/>fī taʾrīḫi hi 
+ <lb n="32"/>šahidtu bi ḏālika 
+ <lb n="33"/>wa kataba qāsimu bnu ḫadami ḫadamuhu hi ø 
+ <lb n="34"/>fī taʾrīḫi hi 
+ <lb n="35"/>šahida bi ḏālika wāʾil:un 
+ <lb n="36"/>bnu maḥmūd:in wa kataba kutiba 
+ <lb n="37"/>ʿan hu bi ʾamri hi wa bi ø ḥaqqi maḥḍari hi 
+ <lb n="38"/>fī taʾrīḫi hi 
+ <lb n="39"/>šahida bi ḏālika sāwiru 
+ <lb n="40"/>bnu ḥīlaẗa wa kataba kutiba ʿan hu 
+ <lb n="41"/>bi ʾamri hi wa bi ø ḥaqqi maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		Master Māhir [...] acknowledges [the following]
+			<lb n="3"/>
+		in writing. [This is done while] he is sound of body
+			<lb n="4"/>
+		[and mind, and legally competent.]
+			<lb n="5"/>
+		[.....,] whose mention is to be glorified, for four months
+			<lb n="6"/>
+		[he has provided?] me with grains, and upon him be peace!
+			<lb n="7"/>
+		[......] the remaining flour to [......]
+			<lb n="8"/>
+		[......] sell it on my behalf [......]
+			<lb n="9"/>
+			<lb n="10"/>
+		[...] upon him from me whatever he has demanded
+			<lb n="11"/>
+		[......] the store, day and night
+			<lb n="12"/>
+		[.......] gradually [......,] God is praised!
+			<lb n="13"/>
+		The judge [.... regarding] the rice in question.
+			<lb n="14"/>
+		This is the beneficiary of this document, by the authority of which he would sell [...].
+			<lb n="15"/>
+		And he is issuing the acknowledgment on his own, voluntarily, and sound [of body and mind]. To serve as witnesses to that [are]:
+			<lb n="16"/>
+		&#034;I witness that in writing.&#034;
+			<lb n="17"/>
+		&#034;I witness that in writing,
+			<lb n="18"/>
+		on the document&#039;s date.&#034;
+			<lb n="19"/>
+		&#034;Karām ibn Saʿd
+			<lb n="20"/>
+		... it was written in his name, 
+		witnesses that and writes,
+			<lb n="21"/>
+		at his order and in his right, on the document&#039;s date.&#034;
+		by his instructions and in his presence ...
+			<lb n="22"/>
+		&#034;I witness that, and
+			<lb n="23"/>
+		Ḥasan ibn Abū al-Ḥasan writes.&#034;
+			<lb n="24"/>
+		&#034;I witness that, and
+			<lb n="26"/>
+		Abū al-Karam ibn Yūsuf 
+			<lb n="27"/>
+		writes, on the document&#039;s date.&#034;
+			<lb n="29"/>
+		&#034;Al-Rayyān Mūsā ibn Ḥajjāj witnesses
+		&#034;The customers Mūsā and Ḥajjāj witness
+			<lb n="30"/>
+		and write it at his order and in his right, 
+		... it was written in his name, by his instructions and in his presence
+			<lb n="31"/>
+		on the document&#039;s date.&#034;
+			<lb n="32"/>
+		&#034;I witness that, and
+			<lb n="33"/>
+		Qāsim ibn Khadamihi writes,
+			<lb n="34"/>
+		on the document&#039;s date.&#034;
+			<lb n="35"/>
+		&#034;Wāʾil ibn Maḥmūd witnesses that
+			<lb n="36"/>
+		and writes
+		... it was written
+			<lb n="37"/>
+		at his order and in his right,
+		in his name, by his instructions and in his presence
+			<lb n="38"/>
+		on the document&#039;s date.&#034;
+			<lb n="39"/>
+		&#034;Sāwir ibn Ḥīla witness that
+			<lb n="40"/>
+		and writes,
+		... it was written in his name, 
+			<lb n="41"/>
+		at his order and in his right.&#034;
+		by his instructions and in his presence
+</ab></div>
+</body>
+</text>
+</TEI>

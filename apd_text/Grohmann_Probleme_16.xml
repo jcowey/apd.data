@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="743" xml:id="Grohmann_Probleme_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106822</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮يوم ‪ε‬ توت ‪ιγ΄‬ الرّقعة ‪γ‬ وهي ‪θ‬ دينـ<supplied reason="lost" cert="high">ـر</supplied> ‪β‬ 
+<lb n="2"/>  ‮بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى قلّبوا بن صلح عمّا يلزمه من خراج المراعي عن المدينة 
+<lb n="4"/>  دينرين مثقال إلى قوريل القسطال 
+<lb n="5"/>  بحضرة خليفتي جعفر بن محمّد والعلا بن هـ<supplied reason="lost" cert="high">ـاشـ</supplied>ـم 
+<lb n="6"/>  عاملي أبي الحسن أحمد بن محمّد أعزّه اللّه 
+<lb n="7"/>  ‮لخراج سنة ‪σμζ‬ 
+<lb n="8"/>  شهد علّان بن الحسن على ما في هذه البراه 
+<lb n="9"/>  شهد سليمن بن مطر على صحّة هذه البراه 
+<lb n="10"/>  لخراج سنة سبع وأربعين ومايتين 
+<lb n="11"/>  شهد مفرج بن عبد الرّحمن على إقرار قوريل 
+<lb n="12"/>  القسطال بصحّة هذه البراه والمال دينرين 
+<lb n="13"/>  ‮لخراج سنة ‪σμζ‬ وكتب في رجب سنة ‪σμη‬ 
+<lb n="14"/>  شهد داود بن <app type="BL"><lem resp="APD">توبة </lem><rdg resp="APD">بونه </rdg><rdg resp="APD">بوية </rdg><rdg resp="APD">بوبة </rdg><rdg resp="APD">بونة</rdg></app> على مثل ذلك 
+<lb n="15"/>  ‮منه عن المراعي ‪αχ‬ وعن الصّدقة ‪χ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawm:un 5 tūtu 13 ăr ruqʿaẗu 3 wa hiya 9 dīnār:un 2 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà qullubū bnu ṣāliḥ:in ʿammā yalzamu hu min ḫarāǧi ăl marāʿī ʿani ăl madīnaẗi 
+ <lb n="4"/>dīnārayni miṯqāl ʾilà qūrīla ăl qusṭāli 
+ <lb n="5"/>bi ḥaḍraẗi ḫalīfaẗay ǧaʿfara bni muḥammad:in wa ăl ʿalāʾi bni hāšim:in 
+ <lb n="6"/>ʿāmilay ʾabī ăl ḥasani ʾaḥmada bni muḥammad:in ʾaʿazza hu ăl lāhu 
+ <lb n="7"/>li ḫarāǧi sanaẗi 247 
+ <lb n="8"/>šahida ʿallānu bnu ăl ḥasani ʿalà mā fī hāḏihi ăl barāʾaẗi 
+ <lb n="9"/>šahida sulaymānu bnu maṭar:in ʿalà ṣiḥḥaẗi hāḏihi ăl barāʾaẗi 
+ <lb n="10"/>li ḫarāǧi sanaẗi sabʿ:in wa ʾarbaʿīna wa miʾatayni 
+ <lb n="11"/>šahida mufriǧu bnu ʿabdi ăr raḥmāni ʿalà ʾiqrāri qūrīla 
+ <lb n="12"/>ăl qusṭāli bi ṣiḥḥaẗi hāḏihi ăl barāʾaẗi wa ăl māli dīnārayni 
+ <lb n="13"/>li ḫarāǧi sanaẗi 247 wa kataba fī raǧabi sanaẗi 248 
+ <lb n="14"/>šahida dāwidu bnu būbaẗa būnaẗa būnuha būyaẗa tawbaẗa ʿalà miṯli ḏālika 
+ <lb n="15"/>min hu ʿani ăl marāʿī 1+1/2‬ wa ʿani ăṣ ṣadaqaẗi 1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(Wochen)tag 5, Tot 13, folio 3 beziehungsweise 9 Dīnā[r] 2
+			<lb n="2"/>
+		Im Namen Gottes des Barmherzigen, Gütigen!
+			<lb n="3"/>
+		Gezahlt hat Kollobo(s) b. Ṣāliḥ von seiner Schuldigkeit aus der Weidesteuer von al-Madīna
+			<lb n="4"/>
+		zwei Dīnāre des Miṯqālfußes an Kyrill den Qusṭāl
+			<lb n="5"/>
+		in Gegenwart der beiden Vertreter des Ǧaʿfar b. Muḥammad und al-ʿAlāʾ b. H[āši]m
+			<lb n="6"/>
+		der beiden Kreisrentamtsdirektoren des Abū ʾl-Ḥasan b. Aḥmed - Gott stärke ihn -
+			<lb n="7"/>
+		für die Steuer des Jahres 247.
+			<lb n="8"/>
+		Zeuge ist ʿAllān b. al-Ḥasan für das was in dieser Quittung (steht).
+			<lb n="9"/>
+		Zeuge ist Sulaimān b. Maṭar für die Richtigkeit dieser Quittung
+			<lb n="10"/>
+		für die Steuer des Jahres zweihundertsiebenundvierzig.
+			<lb n="11"/>
+		Zeuge ist Mufriǧ b. ʿAbd ar-Raḥmān für das Anerkenntnis des Qusṭāl Kyrill
+			<lb n="12"/>
+		bezüglich der Richtigkeit dieser Quittung und des Geld(betrag)s (Zinsgroschens) von zwei Dīnāren
+			<lb n="13"/>
+		für die Steuer des Jahres 247 und er schrieb (es) im Raǧab des Jahres 248.
+			<lb n="14"/>
+		Zeuge ist Dāwid b. Tauba für desgleichen.
+			<lb n="15"/>
+		Davon (stammen) aus der Weidesteuer 1 1/2 und von der Ṣadaqa 1/2.
+</ab></div>
+</body>
+</text>
+</TEI>

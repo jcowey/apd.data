@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="361" xml:id="Grohmann_APEL_144" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 144</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_144</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106589</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  فدّان دينر 
+ <lb n="2"/>  δ θγʹ‎ιʹ‎βʹ‎ 
+ <lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="4"/>  هذا كتاب من عبد الحميد بن يحيى لإسمعيل بن ا<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  فدّانين بور من أرض القاسم تزرعها قمح <unclear reason="undefined" cert="high">الحرا</unclear><gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="6"/>  بأربعة دنانير ونصف وثلث فأجبتك إلى <supplied reason="lost" cert="high">ذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  في نجوم السّلطان وأوقاته فازرع على بركة اللّه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  الخراج سنة <app type="BL"><lem resp="APD">سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="APD">تسعة</rdg></app> عشر ومائى <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  وفدّانين ما كان في يديك في العام الماضي في سا<gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="10"/>  پررعه قمح δχιʹ‎βʹ‎ من حساب βϝʹ‎ηʹ‎ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>faddān:un dīnār:un 
+ <lb n="2"/>‮‪4 9+1/3+1/12 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>hāḏā kitāb:un min ʿabdi ăl ḥamīdi bni yaḥyà li ʾismāʿīla bni ʾ*** 
+ <lb n="5"/>faddānayni būr min ʾarḍi ăl qāsimi tazraʿu hā qamḥa ăl ḥrʾ** 
+ <lb n="6"/>bi ʾarbaʿaẗi danānīra wa niṣf:in wa ṯulṯ:in fa ʾaǧabtu ka ʾilà ḏālika *** 
+ <lb n="7"/>fī nuǧūmi ăs sulṭāni wa ʾawqāti hi fa ĭzraʿ ʿalà barakaẗi ăl lāhi *** 
+ <lb n="8"/>ăl ḫarāǧ sanaẗa sabʿaẗa tisʿaẗa ʿašara wa miʾatay *** 
+ <lb n="9"/>wa faddānayni mā kāna fī yaday ka fī ăl ʿāmi ăl māḍī fī sʾ** 
+ <lb n="10"/>tazraʿu hu qamḥ 4+1/2+1/12 min ḥisābi 2+1/6+1/8 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Faddân Dînâr
+		 <lb n="2"/>
+ 	  4 9 1/3 + 1/12
+		 <lb n="3"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="4"/>
+ 	  This is a document from ʿAbd al-Ḥamîd b. Yaḥyâ for Ismaʿîl b. A[
+		 <lb n="5"/>
+ 	  two faddâns fallow belonging to the land of al-Qâsim, that thou mayest sow with wheat ......... [
+		 <lb n="6"/>
+ 	  for four dînârs and a half and a third (of a dînâr). I have, therefore, granted thee [this
+		 <lb n="7"/>
+ 	  by the instalments due to the Governor at the due time. Sow, then, with the blessing of God [
+		 <lb n="8"/>
+ 	  for the impost of the year two hundred and s[even(?)]teen. [
+		 <lb n="9"/>
+ 	  and two faddâns of that which was in thy hands during the past year .... [
+		 <lb n="10"/>
+ 	  thou mayest sow it with wheat 4 1/2 + 1/12 reckoning at (the rate) of 2 1/6 + 1/8 (dînârs per faddân).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

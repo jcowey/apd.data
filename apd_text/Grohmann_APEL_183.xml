@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1642" xml:id="Grohmann_APEL_183" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 183</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_183</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169397</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عامـ</supplied>ـل <supplied reason="lost" cert="high">أبـ</supplied>ـي الحسن <supplied reason="lost" cert="high">أ</supplied>حمد بن محمّـ<supplied reason="lost" cert="high">ـد</supplied> 
+ <lb n="2"/>  اعره الله لخراج سـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">ثمـ</supplied>ـان وأربعين وماتين σμη 
+ <lb n="3"/>  سهد عبد الوهّاب بن مسلم على صحّة هذه البراه لخراج سنة σμη 
+ <lb n="4"/>  لحراح سنة σμη 
+ <lb n="5"/>  دينر 
+ <lb n="6"/>  <gap reason="illegible" extent="1" unit="character" />η 
+ <lb n="7"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" extent="2" unit="character" />χ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** *** bn *** ʿāmil ʾabī ăl ḥasani ʾaḥmada bni muḥammad:in 
+ <lb n="2"/>ʾaʿazza hu ăl lāhu li ḫarāǧi sanaẗi ṯamān:in wa ʾarbaʿīna wa mitayni ‪248 
+ <lb n="3"/>šahida ʿabdu ăl wahhābi bnu muslim:in ʿalà ṣiḥḥaẗi hāḏihi ăl barāʾaẗi li ḫarāǧi sanaẗi ‪248 
+ <lb n="4"/>li ḫarāǧi sanaẗi ‪248 
+ <lb n="5"/>dīnār 
+ <lb n="6"/>‮ ‪8 
+ <lb n="7"/>‮ min **‪1/2 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [..... So and So, son of So and So, administra]tor of [Ab]uʾl-Ḥasan [Aḥ]mad b. Muḥamma[d]
+		 <lb n="2"/>
+ 	  - may God exalt him - for the impost of the ye[ar] two hundred and forty[-ei]ght 248.
+		 <lb n="3"/>
+ 	  ʿAbd al-Wahhâb b. Muslim is witness to the validity of this quittance for the impost of the year 248.
+		 <lb n="4"/>
+ 	  For the impost of the year 248
+		 <lb n="5"/>
+ 	  Dînâr
+		 <lb n="6"/>
+ 	  8
+		 <lb n="7"/>
+ 	  [reckoning at ....] 1/2 (dînârs per faddân).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

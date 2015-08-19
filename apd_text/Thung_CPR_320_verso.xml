@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2311" xml:id="Thung_CPR_320_verso" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 32 verso</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_320_verso</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  أشهدني الفقيه الأمين إبرا<supplied reason="lost" cert="high">هيم</supplied> بن عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="2"/>  عبد اللّه أنّه قبض وتسلّم واستوفـ<supplied reason="lost" cert="high">ـى</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـثّوم المذكور باطنها 
+ <lb n="4"/>  وهو إردبّين ونصف إردب وأبرأ 
+ <lb n="5"/>  حنّا من الثّوم المذكور ولم يبق منها 
+ <lb n="6"/>  سوى العـ<supplied reason="lost" cert="high">ـنـ</supplied>ـب المذكور باطنها وشهد 
+ <lb n="7"/>  عليه بذلك بتأريخ ثاني ذي الحجّة سنة 
+ <lb n="8"/>  تسع و<sic n="superfluous">پلپپن</sic> <supplied reason="omitted" cert="high">عسرپن</supplied> وسپماپه 
+ <lb n="9 left"/>  إبرا<supplied reason="lost" cert="high">هـ</supplied>ـيم بن علي بن عبد الصّمد 
+ <lb n="10 left"/>  بن محمّد بن عمروس <expan><ex>في</ex> <ex>تأ</ex><abbr>ريخه</abbr></expan> 
+ <lb n="9 right"/>  أشهدني بذلك كتب 
+ <lb n="10 right"/>  ـ <gap reason="illegible" precision="low" extent="3"/> پن عـ<supplied reason="lost" cert="high">ـپد</supplied> الحمپد 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾašhada nī ăl faqīhu ăl ʾamīnu ʾibrāhīmu bnu ʿ** 
+ <lb n="2"/>ʿabdi ăl lāhi ʾanna hu qabaḍa wa tasallama wa ĭstawfà 
+ <lb n="3"/>kulla ăṯ ṯūmi ăl maḏkūri bāṭina hā 
+ <lb n="4"/>wa huwa ʾirdabbayni wa niṣfu ʾirdabb:in wa ʾabraʾa 
+ <lb n="5"/>ḥannā mina ăṯ ṯūmi ăl maḏkūri wa lam yabqa min hā 
+ <lb n="6"/>siwà ăl ʿinabi ăl maḏkūri bāṭina hā wa šuhida 
+ <lb n="7"/>ʿalay hi bi ḏālika bi taʾrīḫi ṯānī ḏī ăl ḥiǧǧaẗi sanaẗa 
+ <lb n="8"/>tisʿ:in wa ʿišrīna wa sitti miʾaẗ:in wa kataba 
+ <lb n="9"/>ʾibrāhīmu bnu ʿaliyyi bni ʿabdi ăṣ ṣamadi 
+ <lb n="10"/>bni muḥammadi bni ʿumrūsa fī taʾrīḫi hi 
+ <lb n="11"/>ʾašhada nī bi ḏālika kataba 
+ <lb n="12"/>*** bnu ʿabdi ăl ḥamīdi *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Mich hat der zuverlässige Rechtsgelehrte Ibrāh[īm] b. .[
+		 <lb n="2"/>
+ 	  ʿAbdallāh bezeugen lassen, daß er in Besitz genommen, empfangen und vollständig erhalten hat:
+		 <lb n="3"/>
+ 	  [den ganzen] auf Recto (dieses Papiers) erwähnten Knoblauch,
+		 <lb n="4"/>
+ 	  und zwar zweieinhalb Artaben. Und er hat
+		 <lb n="5"/>
+ 	  Ḥannā vom erwähnten Knoblauch entlastet und es bleibt von der Schuld nichts übrig
+		 <lb n="6"/>
+ 	  außer den auf Recto (dieses Papiers) erwähnten Weintrauben. Dies wurde
+		 <lb n="7"/>
+ 	  gegen ihn bezeugt am Datum des zweiten Ḏū l-Ḥiǧǧah des Jahres
+		 <lb n="8"/>
+ 	  sechshundertneunund{dreißig} &lt;zwanzig&gt;. Es hat geschrieben
+		 <lb n="9"/>
+ 	  Ibrāhīm b. ʿAlī b. ʿAbdaṣṣamad
+		 <lb n="10"/>
+ 	  b. Muḥammad b. ʿUmrūs am Datum dieser Urkunde.
+		 <lb n="11"/>
+ 	  Er hat mich zum Zeugen hiervon gemacht und es hat unterschrieben
+		 <lb n="12"/>
+ 	  *** b. ʿAbdalḥamīd ***
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

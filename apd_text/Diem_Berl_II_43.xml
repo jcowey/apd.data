@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1538" xml:id="Diem_Berl_II_43" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 43</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_43</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169309</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وسعادتك وتأييدك وأتم نعمته عليك 
+<lb n="3"/>  وز<supplied reason="lost" cert="high">اد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> <supplied reason="lost" cert="high">إ</supplied>ليك وجميل مواهبه لد<supplied reason="lost" cert="high">يـ</supplied>ـك وفضله الجزيل عندك 
+<lb n="4"/>  غلطت أعزّك اللّه في تقدير الخيش لأنّا قدّرنا لألف ثوب فيّو<supplied reason="lost" cert="high">مـ</supplied>ـي 
+<lb n="5"/>  ا<supplied reason="lost" cert="high">ثنيـ</supplied>ـن <supplied reason="lost" cert="high">وستّـ</supplied>ـين عدلا وهي سبعة وستّين عدل فصار هاهنا خمسة أعدال 
+<lb n="6"/>  والكسر <supplied reason="lost" cert="high">فـ</supplied>ـقدّرنا خمسة أعدال وهي سبعة أعدال لثمانين ثوبا وثمانين ثوبا 
+<lb n="7"/>  فصار <supplied reason="lost" cert="high">هنـ</supplied>ـا سبع أ<supplied reason="lost" cert="high">عـ</supplied>ـدال فإن رأيت أعزّك اللّه أن تخرج من عندي <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  لها جـ<supplied reason="lost" cert="high">ـميعـ</supplied>ـا <supplied reason="lost" cert="high">وإن</supplied> <supplied reason="lost" cert="high">لم</supplied> <supplied reason="lost" cert="high">تر</supplied>ضى مزيده على تقديرنا نستأنف فرأيك أدام اللّه عزّك 
+<lb n="9"/>  فيما أعلـ<supplied reason="lost" cert="high">ـمتـ</supplied>ـك موفّقا إن شا اللّه 
+<lb n="10"/>  أ<supplied reason="lost" cert="high">طال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> <supplied reason="lost" cert="high">وأدام</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـزّك وكرامتك وسعادتك وتأييدك وأتم نعمته عليك وزاد في 
+<lb n="11"/>  إحسـ<supplied reason="lost" cert="high">ـانه</supplied> <supplied reason="lost" cert="high">إلـ</supplied>ـيك وجميل مواهبه لديك و<supplied reason="lost" cert="high">فـ</supplied>ـضله الجزيل عندك 
+<lb n="12"/>  <supplied reason="lost" cert="high">والحمد</supplied> <supplied reason="lost" cert="high">للّه</supplied> <supplied reason="lost" cert="high">و</supplied>حد<supplied reason="lost" cert="high">ه</supplied> <supplied reason="lost" cert="high">و</supplied>صـ<supplied reason="lost" cert="high">ـلّى</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه على محمّد النّبي وآله وسلّم كثيرا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa saʿādata ka wa taʾyīda ka wa ʾatamma niʿmata hu ʿalay ka 
+ <lb n="3"/>wa zāda fī ʾiḥsāni hi ʾilay ka wa ǧamīli mawāhibi hi laday ka wa faḍli hi ăl ǧazīli ʿinda ka 
+ <lb n="4"/>ġaliṭtu ʾaʿazza ka ăl lāhu fī taqdīri ăl ḫayši liʾan nā qaddarnā li ʾalfi ṯawb:in fayyūmiyy:in 
+ <lb n="5"/>ĭṯnayni wa sittīna ʿidl:an wa hiya sabʿaẗ:un wa sittīna ʿidl fa ṣāra hāhunā ḫamsaẗa ʾaʿdāl:in 
+ <lb n="6"/>wa ăl kasru fa qaddarnā ḫamsaẗa ʾaʿdāl:in wa hiya sabʿaẗu ʾaʿdāl:in li ṯamānīna ṯawb:an wa ṯamānīna ṯawb:an 
+ <lb n="7"/>fa ṣāra hunā sabʿu ʾaʿdāl:in fa ʾin raʾayta ʾaʿazza ka ăl lāhu ʾan taḫruǧa min ʿind ī salaf:an 
+ <lb n="8"/>la hā ǧamīʿ:an wa ʾin lam tarḍà mazīda hu ʿalà taqdīri nā nastaʾnifu fa raʾyu ka ʾadāma ăl lāhu ʿizza ka 
+ <lb n="9"/>fī mā ʾaʿlamtu ka muwaffaq:an ʾin šāʾa ăl lāhu 
+ <lb n="10"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa saʿādata ka wa taʾyīda ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī 
+ <lb n="11"/>ʾiḥsāni hi ʾilay ka wa ǧamīli mawāhibi hi laday ka wa faḍli hi ăl ǧazīli ʿinda ka 
+ <lb n="12"/>wa ăl ḥamdu li l lāhi waḥda hu wa ṣallà ăl lāhu ʿalà muḥammad:ini ăn nabiyyi wa ʾāli hi wa sallama kaṯīr:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen, Deine ehrenvolle Stellung, Dein Glück und Deine Unterstützung andauern, vollende Seine Gnade an Dir
+			<lb n="3"/>
+		und spen[de Dir noch mehr sein Wohlwollen], seine schöne Gaben und seine reichliche Huld!
+			<lb n="4"/>
+		Ich habe mich - Gott stärke Dich - bei der Kalkulation des Segeltuchs geirrt, denn wir hatten für tausend fayyūmische Gewänder
+			<lb n="5"/>
+		z[we]i[undse]chzig Ballen kalkuliert, während es (in Wirklichkeit) siebenundsechzig Ballen sind. Damit haben sich fünf Ballen (mehr als kalkuliert) ergeben.
+			<lb n="6"/>
+		Was die darüber hinausgehende Zahl (von Gewändern) betrifft, so hatten wir (für sie) fünf Ballen kalkuliert, während es (in Wirklichkeit) sieben Ballen sind, (beide Zahlen) jeweils für achtzig Gewänder.
+			<lb n="7"/>
+		Damit haben sich (insgesamt) sieben Ballen (mehr als kalkuliert) ergeben. Wenn Du der Meinung bist - Gott stärke Dich - daß ich sie expedieren soll 〚\- - -/〛, (dies) unter (der Bedingung von) Vorauszahlung
+			<lb n="8"/>
+		für sie a[ll]e, (werde ich dies tun). [Wenn Du hingegen nicht einverst]anden bist mit seinem Mehrbetrag gegenüber unserer Kalkulation, werden wir (die Gewänder) neu verpacken. Bilde Dir also erfolgreich Deine Meinung - Gott lasse Dein Ansehen andauern -
+			<lb n="9"/>
+		über das, was ich Dir hiermit mitgeteilt habe, so Gott will!
+			<lb n="10"/>
+		[Gott lasse Dich lange leben, lasse Dein An]sehen, Deine ehrenvolle Stellung, Dein Glück und Deine Unterstützung [andauern], vollende seine Gnade an Dir und spende Dir noch mehr
+			<lb n="11"/>
+		sein Wohl[wollen], seine schönen Gaben und seine reichliche Huld!
+			<lb n="12"/>
+		[Preis sei Gott a]ll[ein! Go]tt segne Muḥammad den Propheten und seine Sippe und spende (ihnen) vielmals Heil!
+</ab></div>
+</body>
+</text>
+</TEI>

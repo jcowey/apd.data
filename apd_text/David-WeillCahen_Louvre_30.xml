@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1278" xml:id="David-WeillCahen_Louvre_30" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 30</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_30</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169102</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  من سلام بن أبي محيرات <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  أحمد إليك اللّه الّذي لا <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+ <lb n="4"/>  أمّا بعد عـ<supplied reason="lost" cert="high">ـافا</supplied>نا اللّه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  علينا يرحمك <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  فطر <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">فإنّ</unclear> </lem><rdg resp="APD">قاربها</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">بها</unclear> </lem><rdg resp="APD">ø</rdg></app> واللّه تكتب <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  إلي في قارب شعير <supplied reason="lost" cert="high">يـ</supplied>ـطحنـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  فيخلّى سبيلها وكتب إلي <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  بكورة صان وإبليل و<unclear reason="undefined" cert="high">كتب</unclear> 
+ <lb n="10"/>  ولم أحب أن أكتب إليه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  عجّل علي شعير أبو إنبطة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="12"/>  لعلّه يأمر لنا بها فإنّي قد حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="13"/>  من أبي عبد اللّه وعجّل إلى عا<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14"/>  <sic n="superfluous">لـ</sic>ـلتكب بذلك إليه أسل اللّه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="15"/>  والسّلم عليك ورحمت <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min salāmi bni ʾabī muḥayrāt:in ø 
+ <lb n="3"/>ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ʿāfā nā ăl lāhu *** 
+ <lb n="5"/>ʿalay nā yarḥamu ka ăl lāhu *** 
+ <lb n="6"/>faṭara faṭr fa qāribi qāribu ʾinna hā bi ø hā wa ăl lāhi taktubu ø 
+ <lb n="7"/>ʾilay ya fī qāribi šaʿīr:in yaṭḥanu hu ø 
+ <lb n="8"/>fa yuḫallà sabīla hā wa kataba ʾilay ya *** 
+ <lb n="9"/>bi kūraẗi ṣāna wa ʾiblīla wa kataba 
+ <lb n="10"/>wa lam ʾuḥibbi ʾan ʾaktuba ʾilay hi ø 
+ <lb n="11"/>ʿaǧǧil ʿalay ya šaʿīra ʾabū ʾinbiṭaẗa ø 
+ <lb n="12"/>laʿalla hu yaʾmuru la nā bi hā fa ʾin nī qad ḥ**** 
+ <lb n="13"/>min ʾabī ʿabdi ăl lāhi wa ʿaǧǧil ʾilà ʿā*** 
+ <lb n="14"/>li taktuba bi ḏālika ʾilay hi ʾasalu ăl lāha *** 
+ <lb n="15"/>wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément  miséricordieux.
+		 <lb n="2"/>
+ 	  De Salām b. abī Muhayrāt
+		 <lb n="3"/>
+ 	  Je loue pour toi Dieu unique
+		 <lb n="4"/>
+ 	  Ensuite: Dieu te conserve en santé ....
+		 <lb n="5"/>
+ 	  sur nous, Dieu t&#039;ait en sa miséricorde
+		 <lb n="6"/>
+ 	  (rupture) (???) par Dieu tu écris
+		 <lb n="7"/>
+ 	  à moi au sujet de la barque d&#039;orge (à moudre)
+		 <lb n="8"/>
+ 	  qu&#039;on lui laisse poursuivre son chemin; il m&#039;a écrit
+		 <lb n="9"/>
+ 	  dans la kūra de Ṣān et Iblīl, (il a écrit)
+		 <lb n="10"/>
+ 	  je n&#039;ai pas envie de lui écrire
+		 <lb n="11"/>
+ 	  Dépêche-toi de m&#039;envoyer l&#039;orge d&#039;Abu Anbiṭa
+		 <lb n="12"/>
+ 	  peut-être ordonnera-t-il (qu&#039;on nous la livre), car j&#039;ai déjà ....
+		 <lb n="13"/>
+ 	  d&#039;Abu ʿAbdallāh, envoie vite à ......
+		 <lb n="14"/>
+ 	  pour que (tu puisses lui écrire?) à ce sujet. Je prie Dieu ....
+		 <lb n="15"/>
+ 	  Salut à toi et miséricorde ...
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

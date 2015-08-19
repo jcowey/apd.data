@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1869" xml:id="Grohmann_APEL_359" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 359</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_359</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169606</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  مد اللّه في عمرك وأطال بقاك 
+<lb n="3"/>  ادفع إلي صاحب الخردل 
+<lb n="4"/>  أربع الدّراهم هذا وأخذ منك 
+<lb n="5"/>  <app type="BL"><lem resp="APD">أمسي </lem><rdg resp="Diem">أمس</rdg></app> ثلث عشرة درهما 
+<lb n="6"/>  مد اللّه في عمرك وأطال بقاك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>madda ăl lāhu fī ʿumri ka wa ʾaṭāla baqāʾa ka 
+ <lb n="3"/>ĭdfaʿ ʾilà ṣāḥibi ăl ḫardali 
+ <lb n="4"/>ʾarbaʿa ăd darāhimi hāḏā wa ʾaḫaḏa min ka 
+ <lb n="5"/>ʾamsī ʾamsi ṯalāṯa ʿašraẗa dirham:an 
+ <lb n="6"/>madda ăl lāhu fī ʿumri ka wa ʾaṭāla baqāʾa ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		May God lengthen your life and prolong your sojourn (on earth).
+			<lb n="3"/>
+		Händige dem Senf(körner)händler
+		Hand over to the charlock-dealer
+			<lb n="4"/>
+		these four dirhams, and yesterday he
+		vier Dirham aus, dies, nachdem er von Dir
+			<lb n="5"/>
+		gestern (bereits) dreizehn Dirham erhalten hat.
+		took over from you thirteen dirhams.
+			<lb n="6"/>
+		May God lengthen your life and prolong your sojourn (on earth).
+</ab></div>
+</body>
+</text>
+</TEI>

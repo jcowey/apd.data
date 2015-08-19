@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="305" xml:id="Grohmann_APEL_105" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 105 (= P.World p. 210)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_105</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106547</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  أقر بول الشّمسي بن أبو البدر المقيم ببلجسوق 
+ <lb n="3"/>  <app type="BL"><lem resp="APD">أقر </lem><rdg resp="Diem, Terminkauf p. 71">إقرار</rdg></app> <app type="BL"><lem resp="APD">له </lem><rdg resp="Diem">ø</rdg></app> طوع راغب <expan><abbr>و</abbr><ex>طا</ex><abbr>لب</abbr></expan> وأشهد على نفسه 
+ <lb n="4"/>  في صـ<supplied reason="lost" cert="high">ـحّـ</supplied>ـة <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="Thung p. 152">منه</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عقله</supplied> </lem><rdg resp="Thung p. 152">وجواز</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>أ<supplied reason="lost" cert="high">قرّ</supplied> </lem><rdg resp="Thung p. 152">أمر</rdg></app> طائعا غير مكره ولا مجبر 
+ <lb n="5"/>  ولا مضطهد و<supplied reason="lost" cert="high">لا</supplied> جاهلا بما أقر به فيه أن عليه 
+ <lb n="6"/>  وعنده وقبله وفي ذمّته وخالص ماله دينا 
+ <lb n="7"/>  ثابتا وحقّا لازما <app type="BL"><lem resp="APD">له </lem><rdg resp="Thung p. 38">لزمه</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Thung">ø</rdg></app> الإقرار به لزمزوم 
+ <lb n="8"/>  بن <app type="BL"><lem resp="APD">نصر </lem><rdg resp="APD">نضر</rdg></app> من القمح الطّيّب <app type="BL"><lem resp="APD">الصّل </lem><rdg resp="Levi della Vida, confirmed by Thung p. 100 and Diem p. 71 and 112">النّصيل</rdg></app> 
+ <lb n="9"/>  السّالـ<supplied reason="lost" cert="high">ـم</supplied> <supplied reason="lost" cert="high">من</supplied> <app type="BL"><lem resp="APD">الغلـ<supplied reason="lost" cert="high">ـث</supplied> </lem><rdg resp="“LR”">الغلث</rdg></app> والطّـ<supplied reason="lost" cert="high">ـيـ</supplied>ـن <supplied reason="lost" cert="high">ثـ</supplied>ـلثة عشر إردبّا 
+ <lb n="10"/>  النّصـ<supplied reason="lost" cert="high">ـف</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـن ذلك سـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـة <expan><abbr>أ</abbr><ex>ر</ex><abbr>ا</abbr><ex>د</ex></expan><supplied reason="lost" cert="high">ب</supplied> ونصف يقوم بذلك 
+ <lb n="11"/>  عند استهـ<supplied reason="lost" cert="high">ـلال</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مـ</supplied>ـحرّم </lem><rdg resp="Diem p. 77">صيفة</rdg></app> سنة ستّة وعشرين وخمسمية 
+ <lb n="12"/>  بغير مدافعة ولا ممانعة ولا احتجاج بحجّة دون 
+ <lb n="13"/>  الخروج من المبلغ المذكور على تمامه وكماله <app type="BL"><lem resp="APD">وذلك </lem><rdg resp="APD">بذلك</rdg></app> 
+ <lb n="14"/>  أقر وأشهد على نفسه في العشر الثّانى من محرّم 
+ <lb n="15"/>  سنة سبع وعشرين أشهدت عليه بذلك وكتب 
+ <lb n="16"/>  إسـ<supplied reason="lost" cert="high">ـمـ</supplied>ـعـ<supplied reason="lost" cert="high">ـيـ</supplied>ـل <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">زيد</supplied> بن أحمد بن عبد اللّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra būlu ăš šamsiyyu šumsiyyu bnu ʾabū ăl badri ăl muqīmu bi bulǧusūqa 
+ <lb n="3"/>ʾaqarra ʾiqrāra la ø hu ø ṭawʿ ṭawʿ:in rāġib wa ṭālib wa ʾašhada ʿalà nafsi hi 
+ <lb n="4"/>fī ṣiḥḥaẗ:in min ø hu ʿaqli wa hi ǧawāzi wa ʾaqarra ʾamr:in ṭāʾiʿ:an ġayra mukrah:in wa lā muǧbar:in 
+ <lb n="5"/>wa lā muḍṭahad:in wa lā ǧāhil:an bi mā ʾaqarra bi hi fī hi ʾanna ʿalay hi 
+ <lb n="6"/>wa ʿinda hu wa qibala hu wa fī ḏimmaẗi hi wa ḫāliṣi māli hi dayn:an 
+ <lb n="7"/>ṯābit:an wa ḥaqq:an lāzim:an la lazima hu min ø ăl ʾiqrāri ʾiqrāru bi hi li zamzūma 
+ <lb n="8"/>bni naṣar:in naḍr:in naṣr:in mina ăl qamḥi ăṭ ṭayyibi ăṣ ăn ṣalli naṣīli 
+ <lb n="9"/>ăs sālimi mina ăl ʿalaṯi ġuluṯi wa ăṭ ṭīni ṯalāṯaẗa ʿašara ʾirdabb:an 
+ <lb n="10"/>ăn niṣfu min ḏālika sittaẗu ʾarādiba wa niṣf:un yaqūmu bi ḏālika 
+ <lb n="11"/>ʿinda ĭstihlāli muḥarrami ṣayfaẗi sanaẗi sittaẗ:in wa ʿišrīna wa ḫamsi miyaẗ:in 
+ <lb n="12"/>bi ġayri mudāfaʿaẗ:in wa lā mumānaʿaẗ:in wa lā ĭḥtiǧāǧ:in bi ḥuǧǧaẗ:in dūna 
+ <lb n="13"/>ăl ḫurūǧi mina ăl mablaġi ăl maḏkūri ʿalà tamāmi hi wa kamāli hi wa bi ḏālika 
+ <lb n="14"/>ʾaqarra wa ʾašhada ʿalà nafsi hi fī ăl ʿašri ăṯ ṯānī min muḥarram:in 
+ <lb n="15"/>sanaẗa sabʿ:in wa ʿišrīna ʾašhadtu ʿalay hi bi ḏālika wa kataba 
+ <lb n="16"/>ʾismāʿīlu bnu zaydi bni ʾaḥmada bni ʿabdi ăl lāhi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="2"/>
+ 	  Bûl aš-Šamsī, son of Abu&#039;l-Badr, residing in Bulǧusûq, has acknowledged, (viz.)
+ 	  Bûl aš-Šams, son of Abu&#039;l-Badr, residing in Bulǧusûq, has acknowledged, (viz.)
+		 <lb n="3"/>
+ 	  he has acknowledged for him(self) voluntarily, desiring and demanding (it) and has called witnesses to testify to his obligation,
+		 <lb n="4"/>
+ 	  he being in a state of sound [mind and has] ack[nowledged] voluntarily, without compulsion and not against his will
+		 <lb n="5"/>
+ 	  and not under constraint, and not ignorant of what he has acknowledged herein, viz. that he owes,
+		 <lb n="6"/>
+ 	  has in his possession, is in debt and under obligation for, with his undiminished property, as an obligatory
+		 <lb n="7"/>
+ 	  debt and an obligation incumbent upon him on the basis of the acknowledgment thereto, to Zamzûm
+		 <lb n="8"/>
+ 	  b. Naṣr of good, cleansed wheat
+		 <lb n="9"/>
+ 	  fre[e from] any admixture or (lumps of) earth, thirteen artabas -
+		 <lb n="10"/>
+ 	  the half [thereo]f being [si]x and a half artabas - with which he will present himself
+		 <lb n="11"/>
+ 	  at the new moon (i.e. in the first night) of [Mu]ḥarram of the year (five hundred and) twenty six
+		 <lb n="12"/>
+ 	  without any delay, or pretext for refusal, or by bringing forward any argument beyond
+		 <lb n="13"/>
+ 	  the paying of the afore-mentioned amount completely and fully. Thereto
+		 <lb n="14"/>
+ 	  he has acknowledged and has called witnesses to testify to his obligation in the second decade of Muḥarram
+		 <lb n="15"/>
+ 	  of the year (five hundred and) twenty seven. I have testified thereto for him and
+		 <lb n="16"/>
+ 	  Ismaʿîl b. Zaid b. Aḥmad b. ʿAbdallâh has written (it).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

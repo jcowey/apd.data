@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="812" xml:id="Grohmann_FWAP_p_139_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 139 a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_FWAP_p_139_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106859</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ادفع إلى كافو 
+<lb n="3"/>  ر پلپه 
+<lb n="4"/>  لحم ويكون سمين 
+<lb n="5"/>  <app type="BL"><lem resp="APD">واليوم </lem><rdg resp="Diem">اليوم</rdg></app> <supplied reason="omitted" cert="high">پوم</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ ʾilà kāfūra 
+ <lb n="3"/>ṯalāṯaẗa ʾarṭāl:in 
+ <lb n="4"/>laḥm wa yakūnu samīn 
+ <lb n="5"/>wa ø ăl yawma ăli ĭṯnayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Hand over to Kâfûr
+			<lb n="3"/>
+		three pounds
+			<lb n="4"/>
+		of meat, but it should be fat.
+			<lb n="5"/>
+		And to-day is Monday.
+</ab></div>
+</body>
+</text>
+</TEI>

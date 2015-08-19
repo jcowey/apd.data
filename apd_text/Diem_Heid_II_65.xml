@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1472" xml:id="Diem_Heid_II_65" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 65</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_65</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169254</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">مع</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">والكتاب</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الكپاپ</supplied> </lem><rdg resp="APD">إليّ</rdg></app> <supplied reason="lost" cert="high">بخبرك</supplied> 
+<lb n="2"/>  وأحوالك وما يعرض من حاجاتك فإنّي أسر بذلك وما كان <unclear reason="undefined" cert="high">مـ</unclear>ـ<supplied reason="lost" cert="high">ـن</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">حاجة</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فتكتب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">به</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إليّ</rdg></app> 
+<lb n="3"/>  <supplied reason="lost" cert="high">فـ</supplied>ـإن رأيت أيّدك اللّه أن تمتن بمواصلتي بكتبك مضمّنا ما تقدّم <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">أطـ</supplied>ـال اللّه بقاك وأدام <supplied reason="lost" cert="high">عـ</supplied>ـزّ<supplied reason="lost" cert="high">ك</supplied> وتأييدك وسعادتك وسلامتك وكفايـ<supplied reason="lost" cert="high">ـتك</supplied> <supplied reason="lost" cert="high">وزاد</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">إحسانه</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">إليك</supplied> وفضله عندك وجعلـ<supplied reason="lost" cert="high">ـني</supplied> مـ<supplied reason="lost" cert="high">ـن</supplied> كل سو ومكروه فداك وقدّ<supplied reason="lost" cert="high">مني</supplied> <supplied reason="lost" cert="high">قبلك</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ø ăl ăl wa kitābi kitābu ø kitābu ø ʾilay ø ya bi ḫabari ka 
+ <lb n="2"/>wa ʾaḥwāli ka wa mā yaʿriḍu min ḥāǧāti ka fa ʾin nī ʾusarru bi ḏālika wa mā kāna min *** ḥāǧaẗ:in *** fa ø taktubu *** bi ø hi *** ʾilay ø ya 
+ <lb n="3"/>fa ʾin raʾayta ʾayyada ka ăl lāhu ʾan tamtanna bi muwāṣalat ī bi kutubi ka muḍammin:an mā taqaddama min *** 
+ <lb n="4"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka wa salāmata ka wa kifāyata ka wa zāda fī ʾiḥsāni hi 
+ <lb n="5"/>ʾilay ka wa faḍli hi ʿinda ka wa ǧaʿala nī min kulli sūʾ:in wa makrūh:in fidāʾa ka wa qaddama nī qibala ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... Teile brieflich die Neuigkeiten über Dich,]
+			<lb n="2"/>
+		Deine Umstände und Deine sich ergebenden Anliegen mit, denn ich freue mich darüber, und was es gibt an [
+			<lb n="3"/>
+		Wenn Du also so freundlich wärst, mich auch künftig mit Deinen Briefen zu bedenken, wobei Du (in sie) aufnimmst, was vorher [
+			<lb n="4"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen, Deine Unterstützung, Dein Glück, Dein Wohlbefinden und [Deinen] Schutz andauern, [erweise Dir noch mehr]
+			<lb n="5"/>
+		seine Gunst und sein Wohlwollen, mache mich zu Deinem Lösegeld, das Dich von allem Bösen und Unangenehmen errettet und gebe [mir bei Dir den Vorrang!]
+</ab></div>
+</body>
+</text>
+</TEI>

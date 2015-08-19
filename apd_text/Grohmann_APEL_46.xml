@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1028" xml:id="Grohmann_APEL_46" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 046</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_46</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168914</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> وضمانهم عن جميل الطّفل وحوز المشترية   
+<lb n="2"/>  <supplied reason="lost" cert="high">بما</supplied> <supplied reason="lost" cert="high">فيـ</supplied>ـه وكتب بخطّه في تأريخه  
+<lb n="3"/>    وكتب <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="4"/>  حمدون بن ميمو<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">بجميع</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">فيه</supplied> 
+<lb n="5"/>  عنه خضر بن عبـ<supplied reason="lost" cert="high">ـد</supplied> <gap reason="illegible" precision="low" extent="3"/>  
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>šahida ʿalà ḏālika ḫaḍiru bnu ʿabdi *** ʿalà ʾiqrāri 
+ <lb n="2"/>ʾabī ăl ʿabbāsi bi maʿrifati hi wa ǧamīʿi mā fī hāḏā 
+ <lb n="3"/>ăl kitābi ăṣ ṣadāqi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="4"/>wa šahida ḥamdūnu bnu maymūn:in bi ǧamīʿi mā fī hi 
+ <lb n="5"/>wa kataba ʿan hu ḫaḍiru bnu ʿabdi *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		(The following witnesses) have testified to it. Ḫ[aḍir b. ʿAbd ...... (is witness) to the acknowledgment]
+			<lb n="2"/>
+		by Abuʾl-ʿAbbâs that he has understood (it) and al[l that (is contained) in this]
+			<lb n="3"/>
+		agreement concerning the nuptial gift, and he has written [his testimony in his (own) handwriting].
+			<lb n="4"/>
+		Ḥamdûn b. Maimû[n] is witness [to all that (is contained) herein],
+			<lb n="5"/>
+		and Ḫaḍir b. ʿAb[d ...] has written (it) for him.
+</ab></div>
+</body>
+</text>
+</TEI>

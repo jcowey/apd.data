@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1605" xml:id="Prag_180" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 18</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_180</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169361</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">عـ</supplied>ـلى يدي ببسطلس بن مرقورة عن اناس شـ<supplied reason="lost" cert="high">ـتّى</supplied> 
+<lb n="3"/>  ‮منه عن نفسه ‪αχδʹ‬ و<supplied reason="lost" cert="high">عن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮وعن شنودة بن دويد ‪χγʹηʹ͵γʹ‬ وعن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮وعن كيل بوفيم وأخته ‪βχ‬ و<supplied reason="lost" cert="high">عن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿalà yaday babusṭulusa bni marqūraẗa ʿan ʾānās:in šattà 
+ <lb n="3"/>min hu ʿan nafsi hi 1+1/2+1/4 wa ʿan *** 
+ <lb n="4"/>wa ʿan šanūdaẗa bni dawīda 1/2+1/3+1/8+(1/24×2/3) wa ʿan *** 
+ <lb n="5"/>wa ʿan kayli būfīma wa ʾuḫti hi 2+2/3 wa ʿan *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		d[urch Papostolos Sohn des Merkūre für verschiedene Leu[te
+			<lb n="3"/>
+		davon für ihn selbst 1 1/2+1/4 und [für
+			<lb n="4"/>
+		und für Šanūda, Sohn des Dawīd 1/2+1/3+1/8+1/3 Karat und für [
+			<lb n="5"/>
+		und für Chael Būfīm und seine Brüder 2 2/3 und [für
+</ab></div>
+</body>
+</text>
+</TEI>

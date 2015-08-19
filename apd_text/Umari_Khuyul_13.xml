@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2138" xml:id="Umari_Khuyul_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر المجلس العالي جان بلاط من آقبردي من طبقة الطّازيّة 
+<lb n="3"/>  سكـ<supplied reason="omitted" cert="high">ـنـ</supplied>ـه باب الفتوح الإقرار الصّحيح أنّه قبض وتسلّم من المجلس 
+<lb n="4"/>  العالي السّيفي أركماس من قانصوه من طبقة الغور من الذّهب الأشرفي 
+<lb n="5"/>  والظّاهري الطّيّب السّالم من العيب الشّرعي مائة وعشرون <supplied reason="lost" cert="high">د</supplied>ينارا 
+<lb n="6"/>  <gap reason="illegible" extent="28" unit="character" /> إحدى عشر <supplied reason="lost" cert="high">د</supplied>ينار ونصف <supplied reason="lost" cert="high">د</supplied>ينار مصاري 
+<lb n="7"/>  وهو ثمن ما باعه وسلّمه له واعترف بتسلّمه وهو جميع فحل شاته 
+<lb n="8"/>  أحمر اللّون أغر عصفور بجهته شامة مضمّر به داغ المقام 
+<lb n="9"/>  الشّريف وبه داغ كريمة معلوم عندهما العلم الشّرعي النّافي للجهالة بعد النّظر 
+<lb n="10"/>  والمعرفة والتّثبّت الشّرعي والبيع بشرط البر<supplied reason="omitted" cert="high">ا</supplied> من العيب الشّرعي ولا ضمان سوى 
+<lb n="11"/>  درك الحال وأكل العليق المعتاد 
+<lb n="12"/>  <gap reason="illegible" extent="21" unit="character" /> تاريخ ثلاثة عشرين جمادى سنة أحد عشر وتسعمائة 
+<lb n="13"/>  <gap reason="illegible" extent="5" unit="character" /> عبد العزيز 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ăl maǧlisu ăl ʿālī ǧānu bulāṭu min ʾāqbirdī min ṭabaqaẗi ăṭ ṭāziyyaẗi 
+ <lb n="3"/>sakanu hu bābu ăl futūḥi ăl ʾiqrāra ăṣ ṣaḥīḥa ʾanna hu qabaḍa wa tasallama mina ăl maǧlisi 
+ <lb n="4"/>ăl ʿālī ăs sayfiyyi ʾarkamāsa min qānṣūha min ṭabaqaẗi ăl ġawri min ăḏ ḏahabi ăl ʾašrafiyyi 
+ <lb n="5"/>wa ăẓ ẓāhiriyyi ăṭ ṭayyibi ăs sālimi mina ăl ʿaybi ăš šarʿiyyi miʾaẗ:an wa ʿišrūna dīnār:an 
+ <lb n="6"/>**************************** ʾiḥdà ʿašara dīnār wa niṣf dīnār:in maṣārī 
+ <lb n="7"/>wa huwa ṯamanu mā bāʿa hu wa sallama hu la hu wa ĭʿtarafa bi tasallumi hi wa huwa ǧamīʿu faḥl:in šātu hu 
+ <lb n="8"/>ʾaḥmaru ăl lawni ʾaġarra ʿuṣfūr:in bi ǧihati hi šāmaẗ:un muḍammar:in bi hi dāġu ăl maqāmi 
+ <lb n="9"/>ăš šarīfi wa bi hi dāġ:un karīmaẗ:un maʿlūm:in ʿinda humā ăl ʿilma ăš šarʿiyya ăn nāfiya li ăl ǧahālaẗi baʿda ăn naẓari 
+ <lb n="10"/>wa ăl maʿrifaẗi wa ăt taṯabbuti ăš šarʿiyyi wa ăl bayʿu bi šarṭi ăl barāʾi mina ăl ʿaybi ăš šarʿiyyi wa lā ḍamāna siwà 
+ <lb n="11"/>daraki ăl ḥāli wa ʾakli ăl ʿalīqi ăl muʿtādi 
+ <lb n="12"/>********************* tārīḫ ṯalāṯaẗ:in ʿišrīna ǧumādà sanaẗa ʾaḥada ʿašara wa tisʿi miʾaẗ:in 
+ <lb n="13"/>***** ʿabdu ăl ʿazīzi 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

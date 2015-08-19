@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1479" xml:id="Khan_Khalili_I_15_b" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 15 verso (= P.Khalili II 30 verso)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_15_b</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169260</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  من نعيم بن <app type="BL"><lem resp="APD">شجر </lem><rdg resp="Diem">سپى</rdg></app> إلى علي بن مسلم سلم عليك فإنّي أحمد إليك اللّه الّذي لا إله إلّا هو 
+ <lb n="4"/>  أمّا بعد فإنّا سالمون صالحون <app type="BL"><lem resp="APD">وإنّا </lem><rdg resp="Diem">ø</rdg></app> ربّنا محمود نسأل اللّه تمام النّعمة 
+ <lb n="5"/>  علينا وعليك والزّادة من فضله وإنّنا بخير به وله وبلغني كتبك فقرأتها 
+ <lb n="6"/>  وفهمت <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min nuʿaymi bni šaǧar:in sBy ʾilà ʿaliyyi bni muslim:in salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="3"/>ʾammā baʿdu fa ʾin nā sālimūna ṣāliḥūna wa ø ʾin ø nā rabbu nā maḥmūd:un nasʾalu ăl lāha tamāma ăn niʿmaẗi 
+ <lb n="4"/>ʿalay nā wa ʿalay ka wa ăz zādaẗa min faḍli hi wa ʾinna nā bi ḫayr:in bi hi wa la hu wa balaġa nī kutubu ka fa qaraʾtu hā 
+ <lb n="5"/>wa fahimtu *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the merciful and compassionate.
+		 <lb n="2"/>
+ 	  From Nuʿaym ibn Šajara to ʿAlī ibn Muslim, peace be upon you. I praise for your sake God, other than whom there is no other god.
+		 <lb n="3"/>
+ 	  As for what follows, we are well and in good health. We - may our Lord be praised - aks of God the completion of his favour
+		 <lb n="4"/>
+ 	  upon us and upon you and the increase in his bounty. We are well through Him and on account of Him. Your letter has reached me and I have read
+		 <lb n="5"/>
+ 	  and understood it [       ].
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

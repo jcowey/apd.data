@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="946" xml:id="Guo_Quseir_59" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments II 6 (= P.QuseirArab. I 59)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_59</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113698</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم <app type="BL"><lem resp="APD">لمملوكه </lem><rdg resp="“EG”">مملوكه</rdg></app> أبو الحمد 
+<lb n="2"/>  الواصل صحبة مساعد الحسابي بما هو 
+<lb n="3"/>  للشّيخ أبو الحمد ستّة قطع دقيق 
+<lb n="4"/>  على الرّز مكتوب الرّز مكتوب أبو القاسم 
+<lb n="5"/>  <app type="BL"><lem resp="Guo; AK">النّاجي </lem><rdg resp="AK">الباجيّ</rdg></app> <sic n="superfluous">مسملّهم</sic><supplied reason="omitted" cert="high">مسلمهم</supplied> المولا <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">حين</unclear> </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">حسين</rdg></app> <app type="BL"><lem resp="APD">وتكتب </lem><rdg resp="APD">ويكتب</rdg></app> لهم 
+<lb n="6"/>  رقعة والسّلام عليك رحمة اللّه وبركاته 
+<lb n="7"/>  وهو أبو الحمد صهـ<supplied reason="lost" cert="high">ـر</supplied> يوسف <app type="BL"><lem resp="nūn with a dot above">زيتون </lem><rdg resp="“EG”">رپتوت</rdg></app> 
+<lb n="8"/>  السّلام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi li ø mamlūki mamlūku hi hu ʾabū ăl ḥamdi 
+ <lb n="2"/>ăl wāṣilu ṣuḥbaẗa musāʿidi ăl ḥisābiyyi bi mā huwa 
+ <lb n="3"/>li š šayḫi ʾabū ăl ḥamdi sittaẗu qiṭaʿ:in daqīq 
+ <lb n="4"/>wa qiṭʿatayni ʾaruzz ʿalà ăr ruzzi maktūb:un ʾabū ăl qāsimi 
+ <lb n="5"/>ăn ăl nāǧī bāǧiyyu musallamu musallimu hum humu ăl mawlā ḥīn ḥusayn:un wa taktub yaktub la hum 
+ <lb n="6"/>ruqʿaẗ:an wa ăs salāmu ʿalay ka raḥmaẗu ăl lāhi wa barakātu hu 
+ <lb n="7"/>wa huwa ʾabū ăl ḥamdi ṣihru yūsufi zaytūna zBtwt 
+ <lb n="8"/>ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate. To His servant Abū al-Ḥamd.
+			<lb n="2"/>
+		Having arrived - in the company of the assistant to the accountant -
+		Having arrived - in the company of the assistant to the accountant (al-ḥisābī) -
+			<lb n="3"/>
+		for Shaykh Abū al-Ḥamd are: six containers of flour,
+		for Shaykh Abū al-Ḥamd are: six containers (qiṭʿa) of flour,
+			<lb n="4"/>
+		and two sacks of rice. The rice is consigned for Abū al-Qāsim
+		and two sacks of rice. The rice is destined for Abū al-Qāsim
+		... Auf dem (Sack mit dem) Reis ist &#039;Abū
+			<lb n="5"/>
+		al-Nājī. He who is to receive them (i.e., the commodities) for safekeeping in a timely manner (?) is the master (al-mawlā). Please write (taktub), on account of them,
+		al-Nājī. He who is to receive them (i.e., the flour and rice) for safekeeping (musallam) in a timely manner is [you], the master (Shaykh Abū Mufarriǧ?). Please write, on account of them, 
+		l-Qāsim&#039; geschrieben. ...
+			<lb n="6"/>
+		a receipt. Peace be upon you. God&#039;s mercy and blessings be upon you. 
+		a receipt (ruqʿa). Peace be upon you. God&#039;s mercy and blessings be upon you. 
+			<lb n="7"/>
+		[The recipient] is Abū al-Ḥamd, the son-in-law (ṣahr) of Yūsuf Zaytūn. 
+		The recipient is Abū al-Ḥamd, the son-in-law of Yūsuf Zaytūn. 
+			<lb n="8"/>
+		Greetings.
+		Peace.
+</ab></div>
+</body>
+</text>
+</TEI>

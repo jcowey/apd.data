@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1198" xml:id="Diem_CPR_16_32" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 32</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_32</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169036</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto1"/>  بسم اللّه الرّحمن الرّحيم أكرمك اللّه بطاعته وتولّاك بحفظه وحاطك بعافيته وصرف عنك جميع الأسوا كلّها بقدرته وصلّى اللّه على محمّد وعلى جميع 
+<lb n="recto2"/>  آله وسلّم كثيرا وصل كتابك أسعدك اللّه وسرّني عنه علم خبرك أطابه اللّه ووقفت به على الّذي ذكرت فيه من تأخير كتابي عنك وإنّما كتبت إلى الأخ كتابا مع إنسان عجل علي ولم يمكنني 
+<lb n="recto3"/>  لسرعة خروجه كتاب إليك معه فكتبت إليه <app type="BL"><lem resp="APD">يحمل </lem><rdg resp="APD">يحمل</rdg></app> كتابي إليك <sic n="superfluous">وپما</sic> <supplied reason="omitted" cert="high">وإنّما</supplied> أرجوا أن تكون قد وقفت على جميعه إن شا اللّه وأنت أعزّك اللّه الأخ البار الودود 
+<lb n="recto4"/>  الّذي له في القلب وإن غاب عنه الشخص المودّة الّتي أنا أسل اللّه أن يجعلها له وفيه ولا يقعن بقلبك غير هذا أعزّك اللّه فيلحقك <sic n="superfluous">منى</sic> من هذا 
+<lb n="recto5"/>  إتم خلّصك اللّه وإيّانا من الآتام كلّها ووقانا وإيّاك يا أخي جميع ذلك في الدّنيا والآخرة برحمته وأنا أحب يا أخي يأبا نصر أعزّك اللّه أن تسلني جميع حوائجك 
+<lb n="recto6"/>  صغيرها وكبيرها ممّا يكون قبلي لتسرّنى بذلك وتكون المواصلة بيننا فعلت ذلك متفضّلا وتدع الحشمة والسّلم عليك ورحمت اللّه وبركاته 
+<lb n="recto7"/>  الصّدر وأجل منه 
+<lb n="verso 1 right"/>  لأبي نصر أطال اللّه بقاه وأدام عزّه 
+<lb n="verso 2 right"/>  علي بن زكريّا البزّاز ولله العز 
+<lb n="verso 1-2 left"/>  من أخيه محمّد بن جعفر بن محمّد البزّاز 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾakrama ka ăl lāhu bi ṭāʿati hi wa tawallā ka bi ḥifẓi hi wa ḥāṭa ka bi ʿāfiyati hi wa ṣarafa ʿan ka ǧamīʿa ăl ʾaswāʾi kulla hā bi qudrati hi wa ṣallà ăl lāhu ʿalà muḥammad:in wa ʿalà ǧamīʿi 
+ <lb n="2"/>ʾāli hi wa sallama kaṯīr:an waṣala kitābu ka ʾasʿada ka ăl lāhu wa sarra nī ʿan hu ʿilmu ḫabari ka ʾaṭāba hu ăl lāhu wa waqaftu bi hi ʿalà ăllaḏī ḏakarta fī hi min taʾḫīri kitāb ī ʿan ka wa ʾinnamā katabtu ʾilà ăl ʾaḫi kitāb:an maʿa ʾinsān:in ʿaǧila ʿalay ya wa lam yumkin nī 
+ <lb n="3"/>li surʿaẗi ḫurūǧi hi kitāb:un ʾilay ka maʿa hu fa katabtu ʾilay hi bi ø ḥamli yaḥmilu kitāb ī ʾilay ka wa ʾinnamā ʾarǧū ʾan takūna qad waqafta ʿalà ǧamīʿi hi ʾin šāʾa ăl lāhu wa ʾanta ʾaʿazza ka ăl lāhu ăl ʾaḫu ăl bārru ăl wadūdu 
+ <lb n="4"/>ăllaḏī la hu fī ăl qalbi wa ʾin ġāba ʿan hu ăš šaḫṣu ăl mawaddaẗu ăllatī ʾanā ʾasalu ăl lāha ʾan yaǧʿala hā la hu wa fī hi wa lā yaqaʿanna bi qalbi ka ġayru hāḏā ʾaʿazza ka ăl lāhu fa yalḥaqu ka min hāḏā 
+ <lb n="5"/>ʾitm:un ḫallaṣa ka ăl lāhu wa ʾiyyā nā mina ăl ʾātāmi kulli hā wa waqā nā wa ʾiyyā ka yā ʾaḫ ī ǧamīʿa ḏālika fī ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi wa ʾanā ʾuḥibbu yā ʾaḫ ī yā ʾabā naṣr:in ʾaʿazza ka ăl lāhu ʾan tasala nī ǧamīʿa ḥawāʾiǧi ka 
+ <lb n="6"/>ṣaġīra hā wa kabīra hā mimmā yakūnu qibal ī li tasurra nī bi ḏālika wa takūna ăl muwāṣalaẗu bayna nā faʿalta ḏālika mutafaḍḍil:an wa tadaʿa tadaʿi tadaʿu ăl ḥišmaẗa wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="7"/>ăṣ ṣadru wa ʾaǧallu min hu 
+ <lb n="8"/>li ʾabī naṣr:in ʾaṭāla ăl lāhu baqāʾa hu wa ʾadāma ʿizza hu 
+ <lb n="9"/>ʿaliyyi bni zakariyyāʾa ăl bazzāzi wa li ăl lāhi ăl ʿizzu 
+ <lb n="10"/>min ʾaḫī hi muḥammadi bni ǧaʿfara bni muḥammad:ini ăl bazzāzi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Gott ehre Dich durch Gehorsam ihm gegenüber, lasse Dir Schutz angedeihen, behüte Dich, indem er Dir Gesundheit schenkt, und wende in seiner Allmacht alle erdenklichen schlimmen Dinge von Dir ab! Gott segne Muḥammad und seine ganze
+			<lb n="2"/>
+		Familie und spende (ihnen) vielmals Heil! Dein Brief - Gott mache Dich glücklich - ist angekommen, und ich habe mich gefreut, aus ihm die Neuigkeiten über Dich zu erfahren - Gott lasse sie (auch künftig) gut sein! Ich habe aus dem Brief Deinen Hinweis ersehen, daß ich mit dem Schreiben im Rückstand sein soll. Tatsächlich habe ich an den Bruder einen Brief über einen Mann, der sich in großer Eile bei mir einfand, gerichtet. Da es mir
+			<lb n="3"/>
+		wegen seiner schnellen Abreise nicht möglich war, ihm einen Brief für Dich mitzugeben, schrieb ich ihm, er möge Dir meinen Brief überbringen, und ich hoffe doch sehr, daß Du den ganzen Brief zur Kenntnis genommen hast, so Gott will. Du bist - Gott stärke Dich - der liebevolle und freundliche Bruder,
+			<lb n="4"/>
+		der in seinem Herzen auch dann, wenn die (andere) Person von ihm fern ist, die Liebe (zu ihr) bewahrt, eine Liebe, die ihm zu geben und in ihn zu pflanzen ich Gott bitte. In Deinem Herzen soll sich kein anderes Gefühl (sc. außer Liebe) einstellen - Gott stärke Dich -, denn sonst würde Dich 〚meinetwegen〛 deswegen
+			<lb n="5"/>
+		eine Sünde heimsuchen - Gott errette Dich und uns von allen Sünden und bewahre uns und Dich, oh mein Bruder, im Diesseits und Jenseits in seiner Gnade vor allem Derartigen! Ich möchte gern, oh Bruder, oh Abū Naṣr - Gott stärke
+			<lb n="6"/>
+		Dich -, daß Du mich um alle Deine Anliegen mir gegenüber, seien es große oder kleine, bittest, damit Du mich damit erfreust und damit wir weiterhin in Verbindung bleiben - sei so freundlich! Und lege Deine Scheu ab! Der Friede sei mit Dir und Gottes Gnade und Segnungen!
+			<lb n="7"/>
+		(Es gelte) der Briefanfang (mit seinen Segenswünschen), und (diese seien) noch großartiger!
+			<lb n="8"/>
+		An Abū Naṣr - Gott lasse ihn lange leben und lasse sein Ansehen andauern-
+			<lb n="9"/>
+		ʿAlī b. Zakarīyāʾ den Tuchhändler | Gott gebührt die Ehre!
+			<lb n="10"/>
+		von seinem Bruder Muḥammad b. Ǧaʿfar b. Muḥammad dem Tuchhändler.
+</ab></div>
+</body>
+</text>
+</TEI>

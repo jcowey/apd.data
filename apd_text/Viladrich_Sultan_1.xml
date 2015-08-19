@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2616" xml:id="Viladrich_Sultan_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.ViladrichSultán</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Viladrich_Sultan_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  ملك باللّه تعالى 
+ <lb n="2"/>  كتب في ثالث شهر القعدة الحرام 
+ <lb n="3"/>  سنة <unclear reason="undefined" cert="high">٨٣٢</unclear> 
+ <lb n="4"/>  <app type="BL"><lem resp="APD">جز </lem><rdg resp="DP">حسب</rdg></app> المرسوم الشّريف 
+ <lb n="5"/>  هو أيمن مشموله بـالخط الشّريف 
+ <lb n="6"/>  والحمد للّه وحده وصلواتـه على سيّدنا محمّد وآله وصحبـه وسلام 
+ <lb n="7"/>  <app type="BL"><lem resp="APD">وپالله </lem><rdg resp="DP">وحسب</rdg></app> فپعم الوكپل 
+ <lb n="8"/>  الاسْمُ الشّريف 
+ <lb n="9"/>  مرْسُوم شريفٌ بأن نتقدّم كل واقف عليه به تمام ما برزت به المراسيم الشّريفَة 
+ <lb n="10"/>  من إجابة الفرنج الكيتلان إلى ما سألوه من الفصول المرسُومة لهم بما فيه وذلك عند 
+ <lb n="11"/>  حضُور المحتشم الموقَّر بيرُو دَكَازَا<supplied reason="lost" cert="high">سـ</supplied>ـاجَا <supplied reason="lost" cert="high">ا</supplied>لرّ<supplied reason="lost" cert="high">سو</supplied>ل الواصل من قبل <supplied reason="lost" cert="high">المـ</supplied>ـلك الجليل 
+ <lb n="12"/>  <supplied reason="omitted" cert="high">و</supplied>إفر أنطُونيو فلُوريان إلى الأبواب الشَّريفة بمَا علـ<supplied reason="lost" cert="high">ـى</supplied> يده مكاتبة <app type="BL"><lem resp="APD">من </lem><rdg resp="DP">مُرسلي</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">تسليم</supplied> </lem><rdg resp="DP">ø</rdg></app> <supplied reason="lost" cert="high">حا</supplied>كم 
+ <lb n="13"/>  رُودس المشَار إليـه بما وقع من الاتّتّفاق بحضرته على الفصُول المذكورة بين رُسل 
+ <lb n="14"/>  الأبواب الشّريفة القاضي ناصر الدّين محمّد بن التّيميّة والأمير سَيف الدّين شَاهين التّرجمَان 
+ <lb n="15"/>  وبين رسل المَلك الجلِيل أركُون حَاكِم الكيتَلان والمعَاهَدة على ذلك 
+ <lb n="16"/>  على مشرّح فيه 
+ <lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="18"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>تين </lem><rdg resp="DP">ورقتين</rdg></app> أحدـهمَا من مرسلـه وـا<supplied reason="lost" cert="high">لثّا</supplied>نية من الملك 
+ <lb n="19"/>  أركون حَاكم ا<supplied reason="lost" cert="high">لكيـ</supplied>ـتلان وأخبر متَملِّك رُودِس أن الملـ<supplied reason="lost" cert="high">ـك</supplied> 
+ <lb n="20"/>  أركُون المذكور جهّز رسُوليـه هما المحتشمَان الموقّران 
+ <lb n="21"/>  <supplied reason="lost" cert="high">ر</supplied>فايل فرار <supplied reason="omitted" cert="high">و</supplied>لُويس <app type="BL"><lem resp="APD">شروين </lem><rdg resp="DP">شرويت</rdg></app> إلَى رُودِس وسَأل 
+ <lb n="22"/>  الملكان المشَار إليهمَا الصّدفات الشّريفة تخير من لهُ فهم 
+ <lb n="23"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="24"/>  على كلام متملّك رُودس في سوال الملك أركُون 
+ <lb n="25"/>  وطايفه الكيتلان وبرزت المراسم الشّريفة بكتابة 
+ <lb n="26"/>  هذه الشّروط المشروحة في هذا المرسُوم وأن يحدوا على 
+ <lb n="27"/>  يمين مخلّد ونسختها بديوانِ الإنشَا الشّريف يتمسّك كُلّ الشّروط 
+ <lb n="28"/>  الصَّادرة ومن خالف منهم فيها شيا أو تحرير والعيَاذ 
+ <lb n="29"/>  باللّه تَعالى على تجاوز شيئ منها حـ<supplied reason="lost" cert="high">ـابـ</supplied>ـوا الـ<supplied reason="lost" cert="high">ـمـ</supplied>ـخالفين باختلاف عليه <sic n="superfluous">قصيرنا</sic> <supplied reason="omitted" cert="high">فصيّرنا</supplied> 
+ <lb n="30"/>  المكاتبة إلى الأبواب الشَّريفة على يد رسُوله المحتشم الموقَّر 
+ <lb n="31"/>  بيرو دكازاساجا <supplied reason="omitted" cert="high">لـ</supplied>ــنرين الشُّروط المجهّز<supplied reason="lost" cert="high">ة</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـها </lem><rdg resp="DP">بنسختها</rdg></app> 
+ <lb n="32"/>  من قبل رسل الأبواب الشّريفة ورسل الملك أركون وعَرض 
+ <lb n="33"/>  على الأرآ الشّريفة إجابة رسل الملك أركُون 
+ <lb n="34"/>  ما عاهدوا عليه الفَصل الأوّل 
+ <lb n="35"/>  أن يكون بين مولانا السُّلطان من جهة وبين الملك أركون 
+ <lb n="36"/>  من جهة وبين رعيتهما وذويـهمَا بعد ثبوت الصُّلح 
+ <lb n="37"/>  الجيّد أن جميع ما صدر من الضّرر في الأنفس والأموال 
+ <lb n="38"/>  والجراحات والموت وضرر ونحسٍ وقع وعُمل على أي 
+ <lb n="39"/>  سبب كان من الأيّام الماضية وإلى يوم ثبوت هذه الشّروطِ 
+ <lb n="40"/>  المذكورة والصُّلح الواقع يكون الجهتانِ مبرّأتين مُخلصين وأن 
+ <lb n="41"/>  ذلك الّذي وقع لا يذكر دايمًا أبدا إلّا إن ظهر بين رعية 
+ <lb n="42"/>  مولانا السّلطان ورعية الملك أركون دين شرعي أو التزام 
+ <lb n="43"/>  أو معَاملات في الماضِي على وجه الحق بمقتضى مسَاطير 
+ <lb n="44"/>  ثابتة واضحة لسبب ذلك يُعمل بها وأن كلًّا من <supplied reason="lost" cert="high">الـ</supplied>ـجهتين إذا كان 
+ <lb n="45"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أجيبوا</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">سألوه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">الفصل</supplied> <supplied reason="lost" cert="high">الثّاني</supplied> 
+ <lb n="46"/>  يسألون الصّدقات الشّريفة <supplied reason="lost" cert="high">بعـ</supplied>ـد تقرير هذا الصُّلح 
+ <lb n="47"/>  وثبوته تسلّمـهم الصَّدقات الشّريفة بإجهار النّدآ بالصُّلح 
+ <lb n="48"/>  في ساير البلاد والثّغُو<supplied reason="lost" cert="high">ر</supplied> الإسلاميّة وكذلك يفعل 
+ <lb n="49"/>  ملكهم أركون يُجهر النّدا في مملكة بالصُّلح أيضًا وأبطَل 
+ <lb n="50"/>  جميع أسباب الضّرر <supplied reason="lost" cert="high">أجيـ</supplied>ـبوا إلى ما سألوه من ذلك 
+ <lb n="51"/>  <supplied reason="lost" cert="high">الفصل</supplied> <supplied reason="lost" cert="high">الثّالث</supplied> <supplied reason="lost" cert="high">يسألون</supplied> <supplied reason="lost" cert="high">الصّدقات</supplied> <supplied reason="lost" cert="high">الشّريفة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="52"/>  أجناسـها يحصل لها نوٌ بإختلاف الأريَاح أو خوفٌ من 
+ <lb n="53"/>  عدو على أي وجه كان ويصلُون إلى مينًا أو بر أو ساحل 
+ <lb n="54"/>  من بلاد مولانا السُّلطان وبالمراكب المذكورة بضَايع 
+ <lb n="55"/>  التّجّار والرّعية بمملكة الملك أركون يسألون الصّـ<supplied reason="lost" cert="high">ـدقا</supplied>ت 
+ <lb n="56"/>  الشّريفة أن جميع البضايع والمتاجر والأموال الّتي يحضرون بها 
+ <lb n="57"/>  إلّا البضَايع الّتي يكونون أباعوها وأنّه والعيَاذ باللّه تَعالى 
+ <lb n="58"/>  إن حصل للـمراكب المذكورة كسر وجميع الأنفس الّذين يكونون 
+ <lb n="59"/>  <sic n="superfluous">يكونون</sic> <app type="BL"><lem resp="APD">ملزُومين </lem><rdg resp="APD">ملزُومين</rdg></app> بتحضيرـهم وانهم يبيعوا حميع الّاشيا 
+ <lb n="60"/>  يختارُونها ومن ابتاع منهم شَيا يلزمه بإعطآ الثّمن الّذي 
+ <lb n="61"/>  ابتاع به منهم وأن يمكنوا من <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">مشترين</unclear> </lem><rdg resp="DP">مشترى</rdg></app> <supplied reason="lost" cert="high">جـ</supplied>ـميع ما يحتا<supplied reason="lost" cert="high">جون</supplied> 
+ <lb n="62"/>  لإصلاح مراكبهم بدرهمهم وذلك ما يكُونونَ مضرُورين إليه 
+ <lb n="63"/>  وأن يمكنوا من السّفر بجميع موجُودهم آمنين مطمونين بَعد 
+ <lb n="64"/>  وزنهم الموجب السُّلطاني عن جميع البضَايع الّتي 
+ <lb n="65"/>  أبيعت بمثل ذلك بفعلون مع رعية مولانا السّلطان 
+ <lb n="66"/>  في جميع بلاد الملك أركون ومملكته أجيبوا إلى 
+ <lb n="67"/>  ما سألوه من ذَلك الفَصل الرّابع يسألون 
+ <lb n="68"/>  الصَّدقات الشَّريفة أن جميع البطارنة بالمراكب والشّواني 
+ <lb n="69"/>  على اختلاف أجنَاسها من رعية الملك أركُون الّذي 
+ <lb n="70"/>  يردون إلى ثغر الإسكندرسه أو بقية المينى والسّواحل والّتي 
+ <lb n="71"/>  بجميع مملكة مولانا السّلطَان لا يُلزمُوا بإعطآ قلُوع 
+ <lb n="72"/>  بسبب من الأسباب ولا يَغصبهم أحد ولا غَـ<supplied reason="lost" cert="high">ـير</supplied>ـهم على 
+ <lb n="73"/>  ذلك وإنّما يكونُون مُخلصين لأنفسهم وأموالهم ولا يلزمُوا 
+ <lb n="74"/>  أن يعطوا ديوان مولانا السُّلطان ولا أحدًا من 
+ <lb n="75"/>  <supplied reason="lost" cert="high">ا</supplied>لمباشرين أو ذويهم ولا أحدًا من الرّعية من جميع البضَايع 
+ <lb n="76"/>  الّتي يجلبُونها في مراكبهم على اختلاف أجْنَاسها شيئًا من 
+ <lb n="77"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="78"/>  أجيبوا إلى ما سألُوه من ذلك الفَصل الخامس 
+ <lb n="79"/>  يَسألون الصَّدقات الشّريفة أن البطارنة الرّئِسا وأصحاب 
+ <lb n="80"/>  المراكب والتّجّار بأي مركب كانوا على اختلاف 
+ <lb n="81"/>  أجناسهم من رعية الملك أركون الّذين يَردُّون إلى 
+ <lb n="82"/>  مينا الإسكندريّة أو فيرها من الأمكنة من بلَاد مولانَا 
+ <lb n="83"/>  السّلطان لا يلزمُوا بتفريغ شي من البضَايع 
+ <lb n="84"/>  يُعيدونها ويُوسقونها في مراكبهم يمكنونهم من ذلك 
+ <lb n="85"/>  بعد وزن الموجب السُّلطاني من غير زايد عن ذلك أجيبُوا 
+ <lb n="86"/>  إلى ما سألوه من ذلك الفَصل السّادس 
+ <lb n="87"/>  يسألون الصّدقات الشّريفة أن أصحَاب المراكب والتّجّار 
+ <lb n="88"/>  رعية الملك أركون الّذين يردُّون إلى ثغر الإسكندريّة 
+ <lb n="89"/>  أو غيرها من للاد مولانا السُّلطان قَبل تحدّثهم <supplied reason="lost" cert="high">فـ</supplied>ـي 
+ <lb n="90"/>  بيع بضَايعهم ومتاجرهم أو بعد نحدُّثهم لا يلزمُوا 
+ <lb n="91"/>  الموجب إلّا الموجب السُّلطانِي لا غير من جميع ما يكونون 
+ <lb n="92"/>  أباعُوه على ما جرت به العَادةُ القدِيمَةُ 
+ <lb n="93"/>  أجيبوا إلى ما سألوه من ذلك الفَصل السّابع 
+ <lb n="94"/>  اتجار والرّعية بمملكة الملك أركون يسألون الصّـ<supplied reason="lost" cert="high">ـدقا</supplied>ت 
+ <lb n="95"/>  الشّريفة أن جميع البضايع والمتاجر والأموال الّتي يحضرون بها 
+ <lb n="96"/>  ويداخلونها بأي مكان كان من مملكة مولانا السُّّلطان 
+ <lb n="97"/>  لا يلزم أحدٌ منهم بوزن الموجب السُّلطاني إلّا بَعد 
+ <lb n="98"/>  بيع جميع بضَايعهم إلّا إن اختار التّجّار يقومون 
+ <lb n="99"/>  بالموجب قبل أن يبيعُوا أو يقايضُوا بمتاجرهم حسبما 
+ <lb n="100"/>  قوم في الدّيوان يفـ<supplied reason="lost" cert="high">ـعـ</supplied>ـلون ذلك بطّيّبة من خواطِر<supplied reason="lost" cert="high">هم</supplied> 
+ <lb n="101"/>  أو يوفّوا الموجب درهما أو بضَايع بسعر قُوم عليهم 
+ <lb n="102"/>  وبَعد وزن الموجب المذكور يكونُون أباعُوا أو قايضوا 
+ <lb n="103"/>  بأزيد أو بأقل لا يلزمُوا شي من الموجب زايدا عمًّا 
+ <lb n="104"/>  أُخِذ منهم على ما تميّز لَهم أو نقص وكان في المقايضَة 
+ <lb n="105"/>  وإن <sic n="superfluous">پكوپوا</sic> كانوا ما وزنُوا الموجب قَبل البيع أو المقايضَة 
+ <lb n="106"/>  يقومون بالموجَب على حكم ما أباعوا أو قايضُوا 
+ <lb n="107"/>  أجيبُوا إلى ما سألوه من ذلك الفَصل الثّامن 
+ <lb n="108"/>  يسألون الصّدقات الشّريفة أن مولانا السُّلطان 
+ <lb n="109"/>  والمباشرين وكلًّا من رعيَة لا يأخذُوا في الدّيوان بثغر 
+ <lb n="110"/>  الإسكندريّة ولا في بيرُوت ولا بعُشر دمشق 
+ <lb n="111"/>  ولا في دواوين جميع الممالك بـالبلاد الّتي يوخد فيها الموجب 
+ <lb n="112"/>  ولا خارج عن ذلك من جميع المتاجر وموجُودهم م رعيَّة 
+ <lb n="113"/>  الملك أركون لا يثمّن يثمنٍ إلّا يـرضا صاحب البضَاعة 
+ <lb n="114"/>  والموجُود وإذَا كان لمولانا السُّلطان أو لأحد 
+ <lb n="115"/>  من المباشرين غرض في مشترى البضَاعة يقُومون 
+ <lb n="116"/>  بالثّمن حسبنا يقع عليه الاتّفاق بالحاضر من غير تعويق 
+ <lb n="117"/>  ولا يُلزمونهم بمشترى ولا بأخذ شي من البهار ولا بسكَّةٍ 
+ <lb n="118"/>  ولا ميرة ولا جوهر ولا شي م البضَايع ولا من الأمتعَة 
+ <lb n="119"/>  إلّا برضَاهم ولا يُعطَوه بوجه من الوجُوه وإن كان أحَد 
+ <lb n="120"/>  من بقية الطّوَايف الإفرنج يأخذون أو يشترُون 
+ <lb n="121"/>  فرعية الملك أركون لا يعصبُوا ولا يلزمُو<supplied reason="omitted" cert="high">ا</supplied> بشي من ذلك 
+ <lb n="122"/>  أجيبوا إلى ما سألوه من ذلك الفَصل التّاسع 
+ <lb n="123"/>  يسألون الصّدقات الشّريفة من كان عليه من التّجّار أو رعية 
+ <lb n="124"/>  الملك أركون تعلّق بسبَب دين أو ثمن بضاعة <unclear reason="undefined" cert="high">أ</unclear>بيعت 
+ <lb n="125"/>  عليهم بالنّسيئة أو وديعة والحق لأحد من رعية مولَانا 
+ <lb n="126"/>  السّلُطان ذهبًا كان أو فضّة أو بضَاعة لا يلزمُوا عن 
+ <lb n="127"/>  بعضهم البعض من ذلك لا الوالد عن الولد ولا الولد عن أبيه 
+ <lb n="128"/>  وإنّما يلزم الّذي يكون الحق عليه أو المودَع عندَه والكـ<supplied reason="lost" cert="high">ـافـ</supplied>ـل في 
+ <lb n="129"/>  ذمّته أجيبـُوا إلى ما سألوه من ذلك الفصل الـ<supplied reason="lost" cert="high">ـعـ</supplied>ـاشر 
+ <lb n="130"/>  يسألون الصّدقات الشّريفة إن كان أحد من رعيَة الملك 
+ <lb n="131"/>  أركون أو أحد من بقية طوايف الفرنج كانوا عمّروا فبل 
+ <lb n="132"/>  ثبوت الصُّلح أو بَعد ثبوته شَيا من المراكب والأغربة 
+ <lb n="133"/>  على اختلاف أجنَاسها في جميي مملكة الملك أركون 
+ <lb n="134"/>  وحصَل منهم ضرر لأحد من رعية مولانا السّلطان 
+ <lb n="135"/>  كبيرًا كان أو صغيرًا غنيًا كان أو فقيرا أو له بيت 
+ <lb n="136"/>  أو سكن أو متأهّلٌ في مملكة مولانا السّلطان 
+ <lb n="137"/>  لا يكن متأهّلا خارجًا عن مملكة وظهر أن طايفه الكيتلان 
+ <lb n="138"/>  أو غيرهم من بقية الطّوايف أوّوهم أو قوّوهم يكونون 
+ <lb n="139"/>  حينئذ ملززمين بهم وإن اتّفق أن أحدًا من رعية الملك 
+ <lb n="140"/>  أركون عمّرُوا أو يُعمّرون مراكب أو أغربة خارجًا عن 
+ <lb n="141"/>  مملكته وحصَل منهم ضرر لأحدٍ من رعية مولانا السّلطان 
+ <lb n="142"/>  حسبما ذكر أعلاه فتكون الطّايفة الّذين عمّرُوا عندَهم 
+ <lb n="143"/>  أو أوليك الّذين عمّروا أو قوّوهُم ملزومين 
+ <lb n="144"/>  بذلك ولا تلزَم طايفه الكيتلان بشيءٍ من ذلك إلّا إن كانوا 
+ <lb n="145"/>  أوّوهم أو قوّوهُم أو عمّرُوا عندَهم وإن بتين أن الّذي 
+ <lb n="146"/>  عمّروا خارجًا عن مملكة الملك أركُون وإن لهم موجُود في 
+ <lb n="147"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="148"/>  العدَاوة بين المغار<supplied reason="lost" cert="high">بة</supplied> والتّركمان وبين طايفه الفرنج بسبب 
+ <lb n="149"/>  الحكم المَذكُور الفَصل الحادي عشَر 
+ <lb n="150"/>  يسألون الصّدقات الشّريفة أنّه إذا وقع بين رعيَة مولا<supplied reason="lost" cert="high">نا</supplied> 
+ <lb n="151"/>  السّلطان أو أحد من تجّار المسلمين وتجّار الفر<supplied reason="lost" cert="high">نج</supplied> ور<supplied reason="lost" cert="high">عـ</supplied>ـيَة 
+ <lb n="152"/>  الملك أركون مخاصمةٌ أو خلف لا <supplied reason="lost" cert="high">يـ</supplied>ـحكـ<supplied reason="lost" cert="high">ـم</supplied> بينهم إلّا <app type="BL"><lem resp="APD">من </lem><rdg resp="DP">ملك</rdg></app> الأمرآ 
+ <lb n="153"/>  أو ناظر الدّيوان في جميع <supplied reason="lost" cert="high">بـ</supplied>ـلاد مولانا السُّلطان بالمكان 
+ <lb n="154"/>  الّذي يكون به الخلف والمخاصمة ولا تنقل مخاصمتهم 
+ <lb n="155"/>  <gap reason="illegible" precision="low" extent="3"/>ـها ولا بسبب ولا يُغصبُوا بنقل محاكمتهم إلى غير المباشرين 
+ <lb n="156"/>  ولا غير البلد الّذي <sic n="superfluous">يكون</sic> تكون بها الـ<supplied reason="lost" cert="high">ـمحـ</supplied>ـاكمة إلّا باختيار رعية الملك 
+ <lb n="157"/>  <supplied reason="lost" cert="high">أركون</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="158"/>  إلى ذلك مع العمل أيضًا بالشّرع الشّريف الفَصل 
+ <lb n="159"/>  الثّاني عشر يسْألون الصّدقات الشّريفة إذا كان لأحدٍ 
+ <lb n="160"/>  من رعية الملك أركون مراكب على اختلاف أنواعها وأجناسها 
+ <lb n="161"/>  واكترى أحد من تجّار المسلمين أو من الإنزال شَيا منها أو من 
+ <lb n="162"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مولانا</supplied> 
+ <lb n="163"/>  السُّلطان بشي من ذلك لا في أنفسهم ولا أموالهم ويلزم بذلك 
+ <lb n="164"/>  الرّهاين والكافل الّذي رضي المكتري به ووقع الاتّفاق 
+ <lb n="165"/>  بينهم وبين البطرون عليه لا غيّر ولا يلزم القنصل بضمانٍ 
+ <lb n="166"/>  ولا إن يكون رهينة عن البطرُون المذكور وإن وقع في شي 
+ <lb n="167"/>  من ذلك لا يلزم أحد من رعية الملك أركون بشي إلّا القنصُل 
+ <lb n="168"/>  خاصّة ولا يمكن القنصل من فتح خمّارة بالفندق حتمًا 
+ <lb n="169"/>  <supplied reason="lost" cert="high">الفصل</supplied> <supplied reason="lost" cert="high">الثّالث</supplied> <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">يسألون</supplied> <supplied reason="lost" cert="high">الصّدقات</supplied> <supplied reason="lost" cert="high">الشّريفة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="170"/>  معتبرين وإذا أقاموا ضَمانًا معتبرين لا يقيّدُوا ولا يُحدّدُوا 
+ <lb n="171"/>  ويُعاملوا بالمعاملة الحسنة أجيبُوا إلى 
+ <lb n="172"/>  ما سألوه منپ <supplied reason="lost" cert="high">ذ</supplied>لك الفصل الرّابع عشَر يسألون 
+ <lb n="173"/>  الصّدقات الشّريفَة أن أحدًا من رعية الملك أركُون 
+ <lb n="174"/>  أو تجّاره لا يعُوق عليه بأبواب ثغر الإسكندريّة المحروسة بكلام 
+ <lb n="175"/>  <sic n="superfluous">بكلام</sic> أحد من رعية مولانا السّلطان ولا بكلام أحَدٍ 
+ <lb n="176"/>  من تجّار المسلمين ولا من ساير الـ<supplied reason="lost" cert="high">ـ</supplied>ـطّوَايف إلّا إن يكون 
+ <lb n="177"/>  بأمرٍ شريفٍ من مولانا السُّلطان أو لملك الأمرآ أو أحَد 
+ <lb n="178"/>  من مباشري الدّيوان الشّريف أجيبُوا إلى ما سألوه 
+ <lb n="179"/>  من ذلك الفَصل الخامِس عشر يسألُون الصّدقات 
+ <lb n="180"/>  الشّريفة أن جميع المُبايعات الّتي تُعمل في ثغر الإسكندريّة 
+ <lb n="181"/>  وفي جميع بلاد مولانا السُّلطان إذا كانت بالنّقد 
+ <lb n="182"/>  أو بالمضايضه أو بالنّسيئة من <supplied reason="lost" cert="high">البهار</supplied> أو من ساير البضَايع 
+ <lb n="183"/>  والمتاجر تُكتب في ديوان القبّان والمكان الّذي لا يكن فيه 
+ <lb n="184"/>  ديوان قبّان تُكتب شَاهدي عدل والإشهاد الّذي يقع 
+ <lb n="185"/>  بينهم يكون على حسب الموافقة بينهم وإذا وقع البيع يُلزم 
+ <lb n="186"/>  المشتري أن يعطي الثّمن على حكم الإشهاد لا غيـ<supplied reason="lost" cert="high">ـره</supplied> وجميع المبايعات 
+ <lb n="187"/>  الّتي تُشهَدُ بها على الوجه المعتبر لا تُفسخُ ولا تُغيَّرُ ويُومرُوا 
+ <lb n="188"/>  الشّهودُ بإعطآءِ نسخة الشّهادة لكل من البايع والمشتري 
+ <lb n="189"/>  من غير كلفة ولا تعويق وإن امتنع الشَّاهِد من ذلك 
+ <lb n="190"/>  يلزم ويُحَّم عليه ويبرز الأمر الشّريف بإجهار والنّدا في 
+ <lb n="191"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أجيبوا</supplied> <supplied reason="lost" cert="high">إلى</supplied> 
+ <lb n="192"/>  <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">سألوه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">الفصل</supplied> <supplied reason="lost" cert="high">السّادس</supplied> <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">يسألون</supplied> 
+ <lb n="193"/>  <supplied reason="lost" cert="high">الصّدقات</supplied> <supplied reason="lost" cert="high">الشّريفة</supplied> <supplied reason="lost" cert="high">أنّ</supplied> <supplied reason="lost" cert="high">أحدا</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">رعية</supplied> <supplied reason="lost" cert="high">الملك</supplied> 
+ <lb n="194"/>  أركون يمكنوا من عمل المبايعات في البيع والشرا مع أي 
+ <lb n="195"/>  ترجمان أو سمسار أمنوا إليه واختاروا وأن نايب ثغر الإسكندريّة 
+ <lb n="196"/>  وناظرها أو أحدًا من المباشرين أو غيرهم لا يمنع أحدا من 
+ <lb n="197"/>  التّراجمة والسّماسرة من عمل مبايعة جميع بضايعهم ومتاجرهم في 
+ <lb n="198"/>  جميع المبايعات الّتي يختـ<supplied reason="lost" cert="high">ـار</supplied>ونها أجيبوا إلى ما سألوه من ذلك 
+ <lb n="199"/>  القصل السّابع عشَر يسألون الصّدقات الشّريفَة أن 
+ <lb n="200"/>  النّاظر بثغر الإسكندريّة والمستوفي بها <sic n="superfluous">وشمسار</sic> <supplied reason="omitted" cert="high">وسّمسار</supplied> السّلطان 
+ <lb n="201"/>  وغيـ<supplied reason="lost" cert="high">ـرهـ</supplied>ـم من المباشرين <sic n="superfluous">والشماسره</sic> <supplied reason="omitted" cert="high">والسّماسرة</supplied> لا يتعرّضُوا لأحد من رعية الملك 
+ <lb n="202"/>  أركون بغير حق ولا يُطالب أحد منهم بموجب شي من البضايع 
+ <lb n="203"/>  إلّا الموجب المعتاد على ما جرت بـه العوائد القديمة وـإن رسم العطارة 
+ <lb n="204"/>  والسّـ<supplied reason="lost" cert="high">ـمسـ</supplied>ـم الّذي مختص <supplied reason="omitted" cert="high">بـهما</supplied> نايب ثغر الإسكندريّة يكون أسوة بـ<supplied reason="lost" cert="high">ـ</supplied>ـطوايف 
+ <lb n="205"/>  الفرنج وأن يُعمل بالضّرايب القديمة في أجر البحريّة المسلـ<supplied reason="lost" cert="high">ـميـ</supplied>ـن في التّفريغ 
+ <lb n="206"/>  وكذلك الحمّالين والعتّالين <sic n="superfluous">والسماسرة</sic> <supplied reason="omitted" cert="high">والسّماسرة</supplied> والقبّانيّة وجميع 
+ <lb n="207"/>  أرباب الوظايف المتعلّقين بمتاجرهم <supplied reason="lost" cert="high">و</supplied>لَـ<supplied reason="lost" cert="high">ــهم</supplied> دخل في 
+ <lb n="208"/>  البضايع وأن لا يوحد منهم إلّا الـ<supplied reason="lost" cert="high">ـمو</supplied>جب القديم والعوايد 
+ <lb n="209"/>  القديمة المعتَاد بها من قديم الزّمان أجيبوا إلى ما سألو<supplied reason="lost" cert="high">ه</supplied> من ذلك 
+ <lb n="210"/>  الفصل الثّامن عشر يسألون الصّدقات الشّريفة 
+ <lb n="211"/>  أن أحدا من رعية الملك أركون لا يلزمُوا في جميع بضايعهم الّتي 
+ <lb n="212"/>  يحضرونها من بلاد الفرنج ولا جميع ما يبتاعُونه من بلاد المسلمين 
+ <lb n="213"/>  بنزل إلّا النّزل الجا<supplied reason="lost" cert="high">ر</supplied>ي به العوايِد القديمة ولا يلزمُوا 
+ <lb n="214"/>  بإعطآ صادر إلّا على ما يَشهد الضّرايب القديمة 
+ <lb n="215"/>  أجيبوا إلى ما سألوه من ذلك الفصل التّاسع عشَر 
+ <lb n="216"/>  أن المكارية الّذين ببيرُوت وبدمشق إذا تسلّموا البضَائع من 
+ <lb n="217"/>  التّجّار ويتسلّمونها بالقبَّان وييعيدونها للتّجّار أيضًا 
+ <lb n="218"/>  <supplied reason="lost" cert="high">بالقّبـ</supplied>ـان <supplied reason="omitted" cert="high">و</supplied>في كل مكان يتسلّمُونها يكون بشَاهدين عدلين 
+ <lb n="219"/>  ويُسلّمونه لأربَابه أيضًا بشَاهِدين عدلين <supplied reason="lost" cert="high">نـ</supplied>ـظير ما تسلّموه 
+ <lb n="220"/>  ومهمَا نقص من ذلك تلزم المكاريَّة يه ويقابلون بما يسَاحقونه 
+ <lb n="221"/>  على ما اعتمدُوه في البضَاعة من الإفساد <app type="BL"><lem resp="APD">والنّحس </lem><rdg resp="DP">والنّحس</rdg></app> 
+ <lb n="222"/>  أ<supplied reason="lost" cert="high">جيبـ</supplied>ـوا إلى ما سألُوه من ذلك الفصل العشرُون 
+ <lb n="223"/>  أن الدّلّالين <sic n="superfluous">والشَماسرة</sic> <supplied reason="omitted" cert="high">والسَّماسرة</supplied> بالشّام المحروس و<supplied reason="lost" cert="high">بـ</supplied>ـثغر الإسكندريّة 
+ <lb n="224"/>  إذا عملُوا بيعةً لأحـ<supplied reason="lost" cert="high">ـد</supplied> من تجّار رعية الملك أركون على أحد من 
+ <lb n="225"/>  المسلمين بالنّسيئة وذكر <sic n="superfluous">الشماشِرة</sic> <supplied reason="omitted" cert="high">السّماسِرة</supplied> والدّلّالُون لصاحب 
+ <lb n="226"/>  ا<supplied reason="lost" cert="high">لـ</supplied>ـمتجر أن المشتـ<supplied reason="lost" cert="high">ـر</supplied>ي موتمنٌ على قادرٌ ثـ<supplied reason="lost" cert="high">ـمّ</supplied> انكسر الـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـاجِر 
+ <lb n="227"/>  المسلم أو هرب أو قصَّر عن وفايه بالثّمن فيكون ذلك 
+ <lb n="228"/>  أغرارا من <sic n="superfluous">الشَماسرة</sic> <supplied reason="omitted" cert="high">السَّماسرة</supplied> والدّلّالين فيكونون بسبب <supplied reason="lost" cert="high">ذلك</supplied> 
+ <lb n="229"/>  ملزومين بأّن كُلًّا منهم يُوفّي التّاجر الكيتلاني ما أباع على ذلك 
+ <lb n="230"/>  المسلم وما نأخر عليه أجيبوا إلى <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـألوه من ذلك 
+ <lb n="231"/>  الفصل الحَادِي والعشرُون إذا كان لأحَدٍ من 
+ <lb n="232"/>  <supplied reason="lost" cert="high">رعيـ</supplied>ـة الملك أركُون بضَايع بخمس الإسكندريّة وعُشر 
+ <lb n="233"/>  دمشق وكان بهما لأحد من طوايف الفرنج <supplied reason="lost" cert="high">بـ</supplied>ـضَايع فالنّاظر 
+ <lb n="234"/>  والمباشرون يقدّمون الكيتلان علـ<supplied reason="lost" cert="high">ـى</supplied> جميع الطّوايف ويخرجون 
+ <lb n="235"/>  بضَايعهم قبل إخراج بضَايع غيرهم من بقية طوايف الفرنج 
+ <lb n="236"/>  أجيبوا إلى ما سألوه من ذلك إذا كانوا سابقين غيرهم 
+ <lb n="237"/>  الفَصل الثّاني والعشرُون لا يمنع مولانا السُّلطان 
+ <lb n="238"/>  ولا نايب ثغر الإسكندريّـ<supplied reason="lost" cert="high">ـة</supplied> ولا ناظرهَا ولا <supplied reason="omitted" cert="high">أ</supplied>حد من المُباشرين 
+ <lb n="239"/>  بها أحد من الدّلّالين ولا <sic n="superfluous">الشَماسرة</sic> <supplied reason="omitted" cert="high">السَّماسرة</supplied> ولا التّراجـ<supplied reason="lost" cert="high">ـم</supplied> ولا البيّاعين 
+ <lb n="240"/>  ولا أحد من النّاسِ من شرا بضايع رعيَة الملك أركون 
+ <lb n="241"/>  <supplied reason="lost" cert="high">حـ</supplied>ـيث أن كل أحد منهم يبيع ويَشتري على حسب اختياره من <supplied reason="lost" cert="high">غير</supplied> تعويق 
+ <lb n="242"/>  أجيبُوا إلى ما سألُوه من ذلك الفصل الثّالث والعشرُون 
+ <lb n="243"/>  إذا اختار قنصل الكيتلان الحضُور إلى المواقف الشّريفَة 
+ <lb n="244"/>  يمكن من الحضُور بالتّجّار الّذين يختارهم وإن لم يختار الحضُـ<supplied reason="lost" cert="high">ـور</supplied> 
+ <lb n="245"/>  واختَار أن يجهّز أحدًا من التّجّار بسَبب من الأسباب 
+ <lb n="246"/>  فيمكن من ذلك على حسب اختياره وأن تجّار الكيتلان إذا اختارُوا 
+ <lb n="247"/>  الحضور إلى القاهرة إلى بلد من بلاد مو<supplied reason="lost" cert="high">لانـ</supplied>ـا السّلطان 
+ <lb n="248"/>  لاعتماد مصلحة متاجرهم يمكّنُوا من ذلك ولا يمنعُوا من 
+ <lb n="249"/>  الخروج من أبواب الثّغر على حسب اختيَارهم وأن نايب ثغر 
+ <lb n="250"/>  الإسكندريّة لا يعوّقوهم ويُسَاعدونهم على الـ<supplied reason="lost" cert="high">ـخرو</supplied>ج إلى 
+ <lb n="251"/>  الأبواب الشّريفَة كلّما سَألو<supplied reason="lost" cert="high">ا</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـي ذلك من غير كلفة يتكلّفُونها 
+ <lb n="252"/>  أجيبُوا إلى ما سألوه من ذلك الفصل 
+ <lb n="253"/>  الرّابع والعشرُون يسأَلون الصّدقا<supplied reason="lost" cert="high">ت</supplied> الشَّريفة 
+ <lb n="254"/>  <supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـي روز الأمر الشَّريف بـ<supplied reason="lost" cert="high">ــعمـ</supplied>ـارة فندق الكيتلان وترميمه 
+ <lb n="255"/>  من غير أن يكلَّف القنصل والتّجّار إلى شي من المصرُوف 
+ <lb n="256"/>  أجيبُوا إلى ما سألُوه من ذلك الفصل الخامس والعشرون 
+ <lb n="257"/>  إذا هلك أحد من تجّار الكيتلان أو رعية ملكهم في البلاد 
+ <lb n="258"/>  الإسلاميّة عن <del rend="erasure" status="unremarkable">عپر</del> وصيه يكون حـ<supplied reason="lost" cert="high">ـميع</supplied> موجُوده تحت يد 
+ <lb n="259"/>  وصيّه الشّرعي فإن هلك عن غير وصيـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـيكون ماله تحت يد 
+ <lb n="260"/>  القنصل أو تحت يد أحد من تجّار الكيتلان الموجودين 
+ <lb n="261"/>  بالبلد الّذي هلك فيها إذا لم يكن تم قُنصـ<supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ــ</supplied>ـل 
+ <lb n="262"/>  وأن مولانا الـ<supplied reason="lost" cert="high">ـسّـ</supplied>ـلطان أو أحد من المبپاشِرين 
+ <lb n="263"/>  وغيرهم لا يتعرّضُوا إليهم في ذلك أجيبُوا إلى ما سألوه مِن ذلك 
+ <lb n="264"/>  القَصل السّادس والعشرُون يمكن قنصل 
+ <lb n="265"/>  <supplied reason="lost" cert="high">الـ</supplied>ـكيتلان من الحكم في تجّار الكيتلان ورعية ملكهم حـ<supplied reason="lost" cert="high">ـسـ</supplied>ـب 
+ <lb n="266"/>  اختيارهم واجتيار تجّار طايفته وأن <supplied reason="lost" cert="high">مولا</supplied>نا السّلطان 
+ <lb n="267"/>  والمباشرين وغيرهم لا يمنعُوه من ذلك وإذا وقعت مخاصمةٌ 
+ <lb n="268"/>  أ<supplied reason="lost" cert="high">و</supplied> <supplied reason="lost" cert="high">محـ</supplied>ـاكمة بين أحد من تجّار المسلمين وتجّار <supplied reason="lost" cert="high">الـ</supplied>ـكيتلان 
+ <lb n="269"/>  ورعية ملكهم واختار الخصمان وا<supplied reason="lost" cert="high">تّفـ</supplied>ـقا <supplied reason="lost" cert="high">عـ</supplied>ـلى أن القنصل 
+ <lb n="270"/>  يپفق بينهم يمكن القنصل من ذلك وإن لم يختارا ذلك فـيتحاكمون 
+ <lb n="271"/>  لدى أوليَا الأمور وذلك الأمرآ والنّاظر بالثّغر حسبمَا ذكر 
+ <lb n="272"/>  وأن يُحرَّر القنصلُ على عَادة من تقدّم القناصلة 
+ <lb n="273"/>  أجيبوا إلى ما سألوه من ذلك الفَصل السّابع <supplied reason="lost" cert="high">و</supplied>العشرون 
+ <lb n="274"/>  أن القنصل الّذي أقامه الملك أركون مقام نفسه 
+ <lb n="275"/>  إذا طر<supplied reason="lost" cert="high">ئ</supplied> لأحدٍ من التّجّار الكيتلان أو رعية ملكهم ضرُورة 
+ <lb n="276"/>  يمكن القنصل من التّحدّث فيهم وخلاصهم في جميع ما يحتاجون 
+ <lb n="277"/>  <unclear reason="undefined" cert="high">إليه</unclear> <gap reason="illegible" precision="low" extent="3"/> المواقف الشّريفة وجميع الأمرآ وأوليآ الأمُور وملك الأمرآ 
+ <lb n="278"/>  والقضاة والمباشرين لا يمنع من شي من ذلك من غير <supplied reason="lost" cert="high">أ</supplied>ن يحصل له ضررٌ 
+ <lb n="279"/>  <supplied reason="lost" cert="high">فـ</supplied>ـي نفس أو مال بسَبب من الأسباب أجيبوا إلى ما سألوه 
+ <lb n="280"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ذلك</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـفَصل الثّامن والعشرُون يسألون 
+ <lb n="281"/>  الصّدققات الشّريفة بروز الأمر الشَّريف بصرف جامكيّة القنصل 
+ <lb n="282"/>  <supplied reason="lost" cert="high">علـ</supplied>ـى عادة من تقدّمه من القناصلة طايفـ<supplied reason="lost" cert="high">ـه</supplied> الكيتلان وهي كل سَنة 
+ <lb n="283"/>  <unclear reason="undefined" cert="high">مايتا</unclear> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="DP">مثقال</rdg></app> <app type="BL"><lem resp="APD">هرجً </lem><rdg resp="DP">ذهبًا</rdg></app> وأن يصرف ذلك من مـ<supplied reason="lost" cert="high">ـو</supplied>جب بضَايع <app type="BL"><lem resp="APD">تجّار </lem><rdg resp="DP">تجّاره</rdg></app> 
+ <lb n="284"/>  ومن الموجب السّلُّطاني وأن يمكنوا من إدخال <supplied reason="lost" cert="high">مـ</supplied>ـشرُوب 
+ <lb n="285"/>  القنصل في كل سَنة على جاري عادة من نقد<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">من</supplied> القـ<supplied reason="lost" cert="high">ـناصـ</supplied>ـلة 
+ <lb n="286"/>  وكذلك يمكن التّجّار من إدخال مشرُوبهم على جاري 
+ <lb n="287"/>  عادة من تقدّمهم من غير كلـ<supplied reason="lost" cert="high">ـفة</supplied> ولا عزلة تقع عليهم <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـوا إلى 
+ <lb n="288"/>  ذلك والمشرُوب على قدر الكفاية المعتادة 
+ <lb n="289"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">يسـ</supplied>ـألُون الصَّد<supplied reason="lost" cert="high">قا</supplied>ت 
+ <lb n="290"/>  الشّريفة يمكن القنصل من إقامة من يأمنه ويختاره من تراجـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="291"/>  ديوان <supplied reason="lost" cert="high">القبّان</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">أيّ</supplied> <supplied reason="lost" cert="high">طائفة</supplied> <supplied reason="lost" cert="high">كانت</supplied> <supplied reason="lost" cert="high">مسلما</supplied> <supplied reason="lost" cert="high">كان</supplied> 
+ <lb n="292"/>  أو يهوديًّا أو نصرانيًّا بسَبب البيع والشّرآ داخِل الفندق 
+ <lb n="293"/>  أ<supplied reason="lost" cert="high">و</supplied> ظاهره من التّحدث فـ<supplied reason="lost" cert="high">ـي</supplied> <supplied reason="lost" cert="high">أيّ</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـبضائع والمتاجر وفي جمـ<supplied reason="lost" cert="high">ـيع</supplied> ا<supplied reason="lost" cert="high">لـ</supplied>ـمتاجر 
+ <lb n="294"/>  الّتي يختارونها لكمال البيع أجيبوا إلى ما سألُوه 
+ <lb n="295"/>  من ذلك الفَصل الثّلاثُون يَسألُون الصّدقات 
+ <lb n="296"/>  <supplied reason="lost" cert="high">ا</supplied>لشّريفة أن القنصل إذا أراد تغيّر الفندقاني ويُقِيم من 
+ <lb n="297"/>  يختاره فندقانيًّا يمكن من ذلك ولا يمع من ذلك بحكم أن الفندقاني 
+ <lb n="298"/>  الّذي يقيمه يكون رجلا جيّدًا مأمونًا معروفًا 
+ <lb n="299"/>  أجيبوا إلى ما سألوه من <supplied reason="lost" cert="high">ذلـ</supplied>ـك الفَصل <supplied reason="lost" cert="high">ا</supplied>لـ<supplied reason="lost" cert="high">ـحـ</supplied>ـادي والثّلاثون 
+ <lb n="300"/>  يَسألون الصَّدقات الشّريفَة أن القنصل إذا وصل إلى 
+ <lb n="301"/>  ثغر الإسكندريّة يمكـ<supplied reason="lost" cert="high">ـن</supplied> من تقبّل ضريبةٍ على حكم الضّرا<supplied reason="lost" cert="high">ئب</supplied> القد<supplied reason="lost" cert="high">يمـ</supplied>ـة 
+ <lb n="302"/>  ويعمل بها وأن تجّار الكيتلان لا يعطَوا ما يتعلّق بهم من 
+ <lb n="303"/>  العشُور إلّا على ما تشهَد به الضّرايب القديمة <supplied reason="lost" cert="high">و</supplied>لا يمنع من <supplied reason="lost" cert="high">ذ</supplied>لك 
+ <lb n="304"/>  أجيبوا إلى ما سألوه من ذلك الفَصل الثّاني والثّلاثون 
+ <lb n="305"/>  يَسألون الصَّدقات الشَّريفة إذا أثبتَ هذا الصُّلح وسُطرت 
+ <lb n="306"/>  فصُول الشّـ<supplied reason="lost" cert="high">ـر</supplied>ُوط المذكورة أعلاه يثبت حكمها وتتوّج 
+ <lb n="307"/>  الشّرُوط بعلامة مولانا السّـ<supplied reason="lost" cert="high">ـ</supplied>ـلطان بيَده الشّريفة 
+ <lb n="308"/>  أجيبُوا إلى ما سألوه من ذلك الفَصل الثّالث والثّلاثون 
+ <lb n="309"/>  ثم بعد تمام هذه الشّرُوط اشترطت المراسيم الشّريفَة 
+ <lb n="310"/>  على الرّسُول المذكور وهو المحتشم دكازاسَاجَا أنَّه 
+ <lb n="311"/>  مَهما حدث من طوايف الفرنج الكيتلان ورعية الملك أركون 
+ <lb n="312"/>  من الـ<supplied reason="lost" cert="high">ـضّـ</supplied>ـرر لأحد م المسلمين من التّجّار والرّعايَا 
+ <lb n="313"/>  وأرباب المراكب والتّركمان والمغَـ<supplied reason="lost" cert="high">ـ</supplied>ـا<supplied reason="lost" cert="high">ربة</supplied> وغيرهم من 
+ <lb n="314"/>  حدُود المملكة الـ<supplied reason="omitted" cert="high">ـإ</supplied>سلاميّة من العُمَّتدين 
+ <lb n="315"/>  وإلى طرسوس لا بداخل البحر ولا بالسّواحل ومن يعـ<supplied reason="lost" cert="high">ـر</supplied>ض 
+ <lb n="316"/>  من طايفه الكيتلان إلى أحد من المسلمين يصرارٍ في <supplied reason="lost" cert="high">نفـ</supplied>ـسٍ 
+ <lb n="317"/>  أو مال بالحدود المذكورة ألزموا بإعادة ما أخذ من مال 
+ <lb n="318"/>  وغيره وذلك إن تعرّض أحد من المسلمين أو مراكبهم أو المغاربة 
+ <lb n="319"/>  أو التّركمان إلى أحد من طايفه الكيتلان في الحدود المذكو<supplied reason="lost" cert="high">ر</supplied>ة 
+ <lb n="320"/>  في نفس أو مال ألزمنا المتعرّضين من المسلمبن بإعادة ما أخذ من 
+ <lb n="321"/>  مال أو غيره وما كان خارجًا عن حُدود المملكة الإسلاميّة 
+ <lb n="322"/>  المذكورة لا يُطالبهم بما يقع فيها وهم أيضا لا يُطالبوا بها 
+ <lb n="323"/>  فأجاب المحتشم بير دكـ<supplied reason="lost" cert="high">ـ</supplied>ـازاساجا أن المـ<supplied reason="lost" cert="high">ـغـ</supplied>ـاربة 
+ <lb n="324"/>  والتّركمان ربّما يُوخدو<supplied reason="omitted" cert="high">ن</supplied> أي <supplied reason="lost" cert="high">مـ</supplied>ـن هذه الحدُود فيكبتون 
+ <lb n="325"/>  محاضر ملفّقة ويجعلون أخذهم في حـ<supplied reason="lost" cert="high">ـ</supplied>ـدُود هذه المملكة الإسلـ<supplied reason="lost" cert="high">ـاميّة</supplied> 
+ <lb n="326"/>  فأجابه المرسوم الشّريف أنّنا تنحقق عداوة المغاربة 
+ <lb n="327"/>  والتّركمان مع طايغه الكيتلان قيّما ومن أحضر منهم محضرًا 
+ <lb n="328"/>  لا نقبله ولا نَمشيه لهم على الكيتلان ولا نر<gap reason="illegible" precision="low" extent="3"/>ـم أن نكتب 
+ <lb n="329"/>  عليهم محاضر بالمملكة الإسلاميّة ولا نعمل بشهَادهم عليكم لثبوت 
+ <lb n="330"/>  العداوة بين المغاربة وللتركمان وبين طايفه الكيتلان 
+ <lb n="331"/>  قديمًا وحديثًا والاعتماد فيه على الخـ<supplied reason="lost" cert="high">ـطّ</supplied> الشّريف 
+ <lb n="332"/>  شرّفه اللّه تعالى وعظّمه أعلاه حجّه بما فيه 
+ <lb n="333"/>  لا زال يُبسّط عَلَى كافّة الرّعَـ<supplied reason="lost" cert="high">ـا</supplied>يا عدلا ويُوسّعهم 
+ <lb n="334"/>  من كرمه إحسَانًا وفضْلًا أن يُعتمد ما برزت به 
+ <lb n="335"/>  والميز الإسلاميّة وقُرِئَت الشّرُوط المذكورة على 
+ <lb n="336"/>  المسامع الشّريفة شرّفها اللّه وعظّمهما وحَصل الإقبال الشّريف 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>mulk:un bi ăl lāhi taʿālà 
+ <lb n="2"/>kataba fī ṯāliṯi šahri ăl qaʿdaẗi ăl ḥarāmi 
+ <lb n="3"/>sanaẗa 832 
+ <lb n="4"/>ǧuzʾu ḥasaba ăl marsūmi ăš šarīfi 
+ <lb n="5"/>huwa ʾaymana mašmūla hu bi ăl ḫaṭṭi ăš šarīfi 
+ <lb n="6"/>wa ăl ḥamdu li ăl lāhi waḥda hu wa ṣalawātu hu ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa ṣaḥbi hi wa salām:un 
+ <lb n="7"/>ø wa ø ḥasbu ø nā wa bi ăl lāhi fa niʿma ăl wakīlu 
+ <lb n="8"/>ăli ĭsmu ăš šarīfu 
+ <lb n="9"/>marsūm:un šarīf:un bi ʾan nataqaddama kulla wāqif:in ʿalay hi bi hi tamāma mā barazat bi hi ăl marāsīmu ăš šarīfaẗu 
+ <lb n="10"/>min ʾiǧābaẗi ăl faranǧi ăl kaytalāni ʾilà mā saʾalū hu mina ăl fuṣūli ăl marsūmaẗi la hum bi mā fī hi wa ḏālika ʿinda 
+ <lb n="11"/>ḥuḍūri ăl muḥtašimi ăl muwaqqari bīrū da kāzāsāǧā ăr rasūli ăl wāṣili min qibali ăl maliki ăl ǧalīli 
+ <lb n="12"/>wa ʾifra ʾanṭūnīyū flūriyāni ʾilà ăl ʾabwābi ăš šarīfaẗi bi mā ʿalà yadi hi mukātabaẗun min mursalay taslīmi ø ḥākimi 
+ <lb n="13"/>rūdisa ăl mušāri ʾilay hi bi mā waqaʿa mina ăli ĭttifāqi bi ḥaḍrati hi ʿalà ăl fuṣūli ăl maḏkūraẗi bayna rusuli 
+ <lb n="14"/>ăl ʾabwābi ăš šarīfaẗi ăl qāḍī nāṣiri ăd dīni muḥammadi bni ăt taymiyyaẗi wa ăl ʾamīri sayfi ăd dīni šāhīna ăt tarǧumāni 
+ <lb n="15"/>wa bayna rusuli ăl maliki ăl ǧalīli ʾarakūna ḥākimi ăl kaytalāni wa ăl muʿāhadaẗu ʿalà ḏālika 
+ <lb n="16"/>ʿalà mušarraḥ:in fī hi 
+ <lb n="17"/>*** 
+ <lb n="18"/>***tayni waraqatayni ʾaḥadu humā min mursali hi wa ăṯ ṯāniyaẗu mina ăl maliki 
+ <lb n="19"/>ʾarakūna ḥākimi ăl kaytalāni wa ʾaḫbara mutamalliku rūdisa ʾanna ăl malika 
+ <lb n="20"/>ʾarakūna ăl maḏkūri ǧahhaza rasūlay hi humā ăl muḥtašimāni ăl muwaqqarāni 
+ <lb n="21"/>rafāʾilu firāru wa lūʾisu širwīnu širwītu ʾilà rūdisa wa saʾala 
+ <lb n="22"/>ăl malikāni ăl mušāru ʾilay himā ăṣ ṣadaqāti ăš šarīfaẗa taḫīru man la hu fa hum 
+ <lb n="23"/>*** 
+ <lb n="24"/>ʿalà kalāmi mutamalliki rūdisa fī suʾāli ăl maliki ʾarakūna 
+ <lb n="25"/>wa ṭāʾifaẗi ăl kaytalāni wa barazati ăl marāsimu ăš šarīfaẗu bi kitābaẗi 
+ <lb n="26"/>hāḏihi ăš šurūṭi ăl mašrūḥaẗi fī hāḏā ăl marsūmi wa ʾan yuḥaddū ʿalà 
+ <lb n="27"/>yamīn:in muḫallad:in wa nusḫatu hā bi dīwāni ăl ʾinšāʾi ăš šarīfi yatamassaku kulla ăš šurūṭi 
+ <lb n="28"/>ăṣ ṣādiraẗi wa man ḫālafa min hum fī hā šayʾ:an ʾaw taḥrīr:un wa ăl ʿiyāḏu 
+ <lb n="29"/>ăl bi lāhi taʿālà ʿalà taǧāwuzi šayʾ:in min hā ǧābū ăl muḫālifīna bi ĭḫtilāf:in ʿalay hi fa ṣayyarnā 
+ <lb n="30"/>ăl mukātabaẗu ʾilà ăl ʾabwābi ăš šarīfaẗi ʿalà yadi rasūli hi ăl muḥtašimi ăl muwaqqari 
+ <lb n="31"/>bīrū da kāzāsāǧā li tazayyuni ăš šurūṭi ăl muǧahhazaẗi ø bi *** nusḫaẗi hā 
+ <lb n="32"/>min qibali rusuli ăl ʾabwābi ăš šarīfaẗi wa rusuli ăl maliki ʾarakūna wa ʿaraḍa 
+ <lb n="33"/>ʿalà ăl ʾarāʾi ăš šarīfaẗi ʾiǧābaẗa rusuli ăl maliki ʾarakūna 
+ <lb n="34"/>mā ʿāhadū ʿalay hi ăl faṣlu ăl ʾawwalu 
+ <lb n="35"/>ʾan yakūna bayna mawlā nā ăs sulṭāni min ǧihaẗ:in wa bayna ăl maliki ʾarakūna 
+ <lb n="36"/>min ǧihaẗ:in wa bayna raʿiyati himā wa ḏawī himā baʿda ṯubūti ăṣ ṣulḥi 
+ <lb n="37"/>ăl ǧayyidi ʾanna ǧamīʿa mā ṣadara mina ăḍ ḍarari fī ăl ʾanfusi wa ăl ʾamwāli 
+ <lb n="38"/>wa ăl ǧarāḥāti wa ăl mawti wa ḍarar:in wa naḥs:in waqaʿa wa ʿumila ʿalà ʾayyi 
+ <lb n="39"/>sabab:in kāna mina ăl ʾayyāmi ăl māḍiyaẗi wa ʾilà yawmi ṯubūti hāḏihi ăš šurūṭi 
+ <lb n="40"/>ăl maḏkūraẗi wa ăṣ ṣulḥu ăl wāqiʿu yakūnu ăl ǧihatāni mubarraʾatayni muḫliṣayni wa ʾanna 
+ <lb n="41"/>ḏālika ăllaḏī waqaʿa lā yaḏkuru dāʾim:an ʾabad:an ʾillā ʾin ẓahara bayna raʿiyaẗi 
+ <lb n="42"/>mawlā nā ăs sulṭāni wa raʿiyaẗi ăl maliki ʾarakūna dayn:un šarʿiyy:un ʾawi ăli ĭltizām:un 
+ <lb n="43"/>ʾaw muʿāmalāt:un fī ăl māḍī ʿalà waǧhi ăl ḥaqqi bi muqtaḍà masāṭīra 
+ <lb n="44"/>ṯābitaẗ:in wāḍiḥaẗ:in li sababi ḏālika yuʿmalu bi hā wa ʾanna kull:an mina ăl ǧihatayni ʾiḏā kāna 
+ <lb n="45"/>*** ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăṯ ṯānī 
+ <lb n="46"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa baʿda taqrīri hāḏā ăṣ ṣulḥi 
+ <lb n="47"/>wa ṯubūti hi tusullima humu ăṣ ṣadaqātu ăš šarīfaẗu bi ʾiǧhāri ăn nidāʾi bi ăṣ ṣulḥi 
+ <lb n="48"/>fī sāʾiri ăl bilādi wa ăṯ ṯuġūri ăl ʾislāmiyyaẗi wa ka ḏālika yafʿalu 
+ <lb n="49"/>hum maliku ʾarakūna yuǧhiru ăn nidāʾu fī mamlakaẗi bi ăṣ ṣulḥi ʾayḍ:an wa ʾabṭala 
+ <lb n="50"/>ǧamīʿa ʾasbābi ăḍ ḍarari ʾuǧībū ʾilà mā saʾalū hu min ḏālika 
+ <lb n="51"/>ăl faṣlu ăṯ ṯāliṯu yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa *** 
+ <lb n="52"/>ʾaǧnās hā yaḥṣulu la hā nawʾ:un bi ĭḫtilāfi ăl ʾaryāḥi ʾaw ḫawf:un min 
+ <lb n="53"/>ʿadūw:in ʿalà ʾayyi waǧh:in kāna wa yaṣilūna ʾilà miyan:an ʾaw barr:in ʾaw sāḥil:in 
+ <lb n="54"/>min bilādi mawlā nā ăs sulṭāni wa bi ăl marākibi ăl maḏkūraẗi baḍāʾiʿu 
+ <lb n="55"/>ăt tuǧǧāri wa ăr raʿiyaẗi bi mamlakaẗi ăl maliki ʾarakūna yasʾalūna ăṣ ṣadaqāti 
+ <lb n="56"/>ăš šarīfaẗa ʾanna ǧamīʿa ăl baḍāʾiʿi wa ăl matāǧiri wa ăl ʾamwāli ăllatī yaḥḍurūna bi hā 
+ <lb n="57"/>ʾillā ăl baḍāʾiʿa ăllatī yakūnūna ʾabāʿū hā wa ʾanna hu wa ăl ʿiyāḏi bi ăl lāhi taʿālà 
+ <lb n="58"/>ʾin ḥaṣala li l marākibi ăl maḏkūraẗi kasr:un wa ǧamīʿu ăl ʾanfusi ăllaḏīna yakūnūna 
+ <lb n="59"/>bi malzūmīna taḥḍīri him wa ʾanna hum yabīʿū ǧamīʿa ăl ʾašyāʾi ăllatī 
+ <lb n="60"/>yaḫtārūna hā wa mani ĭbtāʿa min hum šayʾ:an yulzamu hu bi ʾiʿṭāʾi ăṯ ṯamani ăllaḏī 
+ <lb n="61"/>ĭbtāʿa bi hi min hum wa ʾan yumkinū min muštarīna muštarà ǧamīʿi mā yaḥtāǧūna 
+ <lb n="62"/>li ʾiṣlāḥi marākibi him bi dirhami him wa ḏālika mā yakūnūna maḍrūrīna ʾilay hi 
+ <lb n="63"/>wa ʾan yumkinū mina ăs safari bi ǧamīʿi mawǧūdi him ʾāminīna muṭmaʾinnīna baʿda 
+ <lb n="64"/>wazni himi ăl mūǧabi ăs sulṭāniyyi ʿan ǧamīʿi ăl baḍāʾiʿi ăllatī 
+ <lb n="65"/>ʾubīʿat bi miṯli ḏālika yafʿalūna maʿa raʿiyaẗi mawlā nā ăs sulṭāni 
+ <lb n="66"/>fī ǧamīʿi bilādi ăl maliki ʾarakūna wa mamlakati hi ʾuǧībū ʾilà 
+ <lb n="67"/>mā saʾalū hu min ḏālika ăl faṣlu ăr rābiʿu yasʾalūna 
+ <lb n="68"/>ăṣ ṣadaqāti ăš šarīfaẗa ʾanna ǧamīʿa ăl baṭāranaẗi bi ăl marākibi wa ăš šawānī 
+ <lb n="69"/>ʿalà ĭḫtilāfi ʾaǧnāsi hā min raʿiyaẗi ăl maliki ʾarakūna ăllaḏī 
+ <lb n="70"/>yaruddūna ʾilà ṯaġri ăl ʾiskandariyyaẗi ʾaw baqiyaẗi ăl mīnà wa ăs sawāḥili wa ăllatī 
+ <lb n="71"/>bi ǧamīʿi mamlakaẗi mawlā nā ăs sulṭāni lā yulzamū bi ʾiʿṭāʾi qulūʿ:in 
+ <lb n="72"/>bi sabab:in mina ăl ʾasbābi wa lā yaġṣibu hum ʾaḥad:un wa lā ġayra hum ʿalà 
+ <lb n="73"/>ḏālika wa ʾinna mā yakūnūna muḫliṣīna li ʾanfusi him wa ʾamwāli him wa lā yulzamū 
+ <lb n="74"/>ʾan yuʿṭaw dīwāna mawlā nā ăs sulṭāni wa lā ʾaḥad:an mina 
+ <lb n="75"/>ăl mubāširīna ʾaw ḏawī him wa lā ʾaḥad:an mina ăr raʿiyaẗi min ǧamīʿi ăl baḍāʾiʿi 
+ <lb n="76"/>ăllatī yaǧlibūna hā fī marākibi him ʿalà ĭḫtilāfi ʾaǧnāsi hā šayʾ:an min 
+ <lb n="77"/>*** 
+ <lb n="78"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăl ḫāmisu 
+ <lb n="79"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾanna ăl baṭāranaẗa ăr raʾisāʾa wa ʾaṣḥāba 
+ <lb n="80"/>ăl marākibi wa ăt tuǧǧāra bi ʾayyi markab:in kānū ʿalà ĭḫtilāfi 
+ <lb n="81"/>ʾaǧnāsi him min raʿiyaẗi ăl maliki ʾarakūna ăllaḏīna yaruddūna ʾilà 
+ <lb n="82"/>mīnāʾi ăl ʾiskandariyyaẗi ʾaw ġayri hā mina ăl ʾamkinaẗi min bilādi mawlā nā 
+ <lb n="83"/>ăs sulṭāni lā yulzamū bi tafrīġi šayʾ:in mina ăl baḍāʾiʿi 
+ <lb n="84"/>yuʿīdūna hā wa yūsiqūna hā fī marākibi him yumkinūna hum min ḏālika 
+ <lb n="85"/>baʿda wazni ăl mūǧabi ăs sulṭāniyyi min ġayri zāʾid:in ʿan ḏālika ʾuǧībū 
+ <lb n="86"/>ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăs sādisa 
+ <lb n="87"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗi ʾanna ʾaṣḥāba ăl marākibi wa ăt tuǧǧāra 
+ <lb n="88"/>raʿiyaẗi ăl maliki ʾarakūna ăllaḏīna yaruddūna ʾilà ṯaġri ăl ʾiskandariyyaẗi 
+ <lb n="89"/>ʾaw ġayri hā min bilādi mawlā nā ăs sulṭāni qabla taḥadduṯi him fī 
+ <lb n="90"/>bayʿi baḍāʾiʿi him wa matāǧiri him ʾaw baʿda taḥadduṯi him lā yulzamū 
+ <lb n="91"/>ăl mūǧaba ʾillā ăl mūǧaba ăs sulṭāniyyi lā ġayra min ǧamīʿi mā yakūnūna 
+ <lb n="92"/>ʾabāʿū hu ʿalà mā ǧarat bi hi ăl ʿādaẗu ăl qadīmaẗu 
+ <lb n="93"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăs sābiʿu 
+ <lb n="94"/>ăt tuǧǧāru wa ăr raʿiyaẗi bi mamlakaẗi ăl maliki ʾarakūna yasʾalūna ăṣ ṣadaqāti 
+ <lb n="95"/>ăš šarīfaẗa ʾanna ǧamīʿa ăl baḍāʾiʿi wa ăl matāǧiri wa ăl ʾamwāli ăllatī yaḥḍurūna bi hā 
+ <lb n="96"/>wa yudāḫilūna hā bi ʾayyi makān:in kāna min mamlakaẗi mawlā nā ăs sulṭāni 
+ <lb n="97"/>lā yulzamu ʾaḥad:un min hum bi wazni ăl mūǧabi ăs sulṭāniyyi ʾillā baʿda 
+ <lb n="98"/>bayʿi ǧamīʿi baḍāʾiʿi him ʾillā ʾin ĭḫtāra ăt tuǧǧāru yuqūmūna 
+ <lb n="99"/>bi ăl mūǧabi qabla ʾan yabīʿū ʾaw yuqāyiḍū bi matāǧiri him ḥasaba mā 
+ <lb n="100"/>qūma fī ăd dīwāni yafʿalūna ḏālika bi ṭayyibaẗ:in min ḫawāṭiri him 
+ <lb n="101"/>ʾaw yūfū ăl mūǧaba dirham:an ʾaw baḍāʾiʿa bi siʿr:in qūma ʿalay him 
+ <lb n="102"/>wa baʿda wazni ăl mūǧabi ăl maḏkūri yakūnūna ʾabāʿū ʾaw qāyaḍū 
+ <lb n="103"/>bi ʾazyada ʾaw bi ʾaqalla lā yulzamū šayʾ min ăl mūǧabi zāʾid:an ʿāmm:an 
+ <lb n="104"/>ʾuḫiḏa min hum ʿalà mā tamayyaza la hum ʾaw naqaṣa wa kāna fī ăl muqāyaḍaẗi 
+ <lb n="105"/>wa ʾin kānū mā wazanū ăl mūǧaba qabla ăl bayʿi ʾaw ăl muqāyaḍaẗi 
+ <lb n="106"/>yaqūmūna bi ăl mūǧabi ʿalà ḥukmi mā ʾabāʿū ʾaw qāyaḍū 
+ <lb n="107"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăṯ ṯāminu 
+ <lb n="108"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾanna mawlā nā ăs sulṭāna 
+ <lb n="109"/>wa ăl mubāširīna wa kull:an min raʿiyaẗ:in lā yaʾḫuḏū fī ăd dīwāni bi ṯaġri 
+ <lb n="110"/>ăl ʾiskandariyyaẗi wa lā fī bayrūta wa lā bi ʿušri dimašqa 
+ <lb n="111"/>wa lā fī dawāwīna ǧamīʿi ăl mamāliki bi ăl bilādi ăllatī yuʾḫaḏu fī hā ăl mūǧabu 
+ <lb n="112"/>wa lā ḫāriǧa ʿan ḏālika min ǧamīʿi ăl matāǧiri wa mawǧūdi him min raʿiyaẗi 
+ <lb n="113"/>ăl maliki ʾarakūna lā yuṯammin bi ṯaman:in ʾillā bi riḍāʾi ṣāḥibi ăl biḍāʿaẗi 
+ <lb n="114"/>wa ăl mawǧūdi wa ʾiḏā kāna li mawlā nā ăs sulṭāni ʾaw li ʾaḥad:in 
+ <lb n="115"/>mina ăl mubāširīna ġaraḍ:un fī muštarà ăl biḍāʿaẗi yaqūmūna 
+ <lb n="116"/>bi ăṯ ṯamani ḥasaba mā yaqaʿu ʿalay hi ăli ĭttifāqi bi ăl ḥāḍiri min ġayri taʿwīq:in 
+ <lb n="117"/>wa lā yulzamūna hum bi muštar:an wa lā bi ʾaḫḏi šayʾ:in mina ăl bahāri wa lā bi sikkaẗ:in 
+ <lb n="118"/>wa lā mīraẗa wa lā ǧawhara wa lā šayʾa mina ăl baḍāʾiʿi wa lā min ăl ʾamtiʿaẗi 
+ <lb n="119"/>ʾillā bi riḍāʾi him wa lā yuʿṭaw hu bi waǧh:in mina ăl wuǧūhi wa ʾin kāna ʾaḥad:un 
+ <lb n="120"/>min baqiyaẗi ăṭ ṭawāʾifi ăl ʾifranǧi yaʾḫuḏūna ʾaw yaštarūna 
+ <lb n="121"/>fa raʿiyaẗu ăl maliki ʾarakūna lā yuʿṣabū wa lā yulzamū bi šayʾ:in min ḏālika 
+ <lb n="122"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăt tāsiʿu 
+ <lb n="123"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa man kāna ʿalay hi mina ăt tuǧǧāri ʾaw raʿiyaẗi 
+ <lb n="124"/>ăl maliki ʾarakūna taʿalluq:un bi sababi dayn:in ʾaw ṯamani biḍāʿaẗi ʾubīʿat 
+ <lb n="125"/>ʿalay him bi ăn nasīʾaẗi ʾaw wadīʿaẗ:in wa ăl ḥaqqu li ʾaḥad:in min raʿiyaẗi mawlā nā 
+ <lb n="126"/>ăs sulṭāni ḏahab:an kāna ʾaw fiḍḍaẗ:an ʾaw biḍāʿaẗ:an lā yulzamū ʿan 
+ <lb n="127"/>baʿḍi him ăl baʿḍa min ḏālika lā ăl wālidu ʿani ăl waladi wa lā ăl waladu ʿan ʾabī hi 
+ <lb n="128"/>wa ʾinna mā yulzamu ăllaḏī yakūnu ăl ḥaqqu ʿalay hi ʾaw ăl mūdaʿu ʿinda hu wa ăl kāfilu fī 
+ <lb n="129"/>ḏimmati hi ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăl ʿāširu 
+ <lb n="130"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾin kāna ʾaḥad:un min raʿiyaẗi ăl maliki 
+ <lb n="131"/>ʾarakūna ʾaw ʾaḥad:un min baqiyaẗi ṭawāʾifi ăl faranǧi kānū ʿammarū qabla 
+ <lb n="132"/>ṯubūti ăṣ ṣulḥi ʾaw baʿda ṯubūti hi šayʾ:an mina ăl marākibi wa ăl ʾaġribaẗi 
+ <lb n="133"/>ʿalà ĭḫtilāfi ʾaǧnāsi hā fī ǧamīʿi mamlakaẗi ăl maliki ʾarakūna 
+ <lb n="134"/>wa ḥaṣala min hum ḍarar:un li ʾaḥad:in min raʿiyaẗi mawlā nā ăs sulṭāni 
+ <lb n="135"/>kabīr:an kāna ʾaw ṣaġīr:an ġanīy:an kāna ʾaw faqīr:an ʾaw la hu bayt:un 
+ <lb n="136"/>ʾaw sakan:un ʾaw mutaʾahhil:un fī mamlakaẗi mawlā nā ăs sulṭāni 
+ <lb n="137"/>lā yakun mutaʾahhil:an ḫāriǧ:an ʿan mamlakaẗ:in wa ẓahara ʾanna ṭāʾifaẗa ăl kaytalāni 
+ <lb n="138"/>ʾaw ġayri him min baqiyaẗi ăṭ ṭawāʾifi ʾawwaw hum ʾaw qawwaw hum yakūnūna 
+ <lb n="139"/>ḥīnaʾiḏ:in malzūmīna bi him wa ʾini ĭttafaqa ʾanna ʾaḥad:an min raʿiyaẗi ăl maliki 
+ <lb n="140"/>ʾarakūna ʿammarū ʾaw yuʿammirūna marākiba ʾaw ʾaġribaẗ:an ḫāriǧ:an ʿan 
+ <lb n="141"/>mamlakati hi wa ḥaṣala min hum ḍarar:un li ʾaḥad:in min raʿiyaẗi mawlā nā ăs sulṭāni 
+ <lb n="142"/>ḥasaba mā ḏakara ʾaʿlā hu fa takūnu ăṭ ṭāʾifaẗu ăllaḏīna ʿammarū ʿinda hum 
+ <lb n="143"/>ʾaw ʾūlāʾika ăllaḏīna ʿammarū ʾaw qawwaw hum malzūmīna 
+ <lb n="144"/>bi ḏālika wa lā tulzamu ṭāʾifaẗu ăl kaytalāni bi šayʾ:in min ḏālika ʾillā ʾin kānū 
+ <lb n="145"/>ʾawwaw hum ʾaw qawwaw hum ʾaw ʿammarū ʿinda hum wa ʾin tabayyana ʾanna ăllaḏī 
+ <lb n="146"/>ʿammarū ḫāriǧ:an ʿan mamlakaẗi ăl maliki ʾarakūna wa ʾin la hum mawǧūd:un fī 
+ <lb n="147"/>*** 
+ <lb n="148"/>ăl ʿadāwaẗ bayna ăl maġāribaẗi wa ăt turkmāni wa bayna ṭāʾifaẗi ăl faranǧi bi sababi 
+ <lb n="149"/>ăl ḥukmi ăl maḏkūri ăl faṣlu ăl ḥādī ʿašara 
+ <lb n="150"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾanna hu ʾiḏā waqaʿa bayna raʿiyaẗi mawlā nā 
+ <lb n="151"/>ăs sulṭāni ʾaw ʾaḥad:in min tuǧǧāri ăl muslimīna wa tuǧǧāri ăl faranǧi wa raʿiyaẗi 
+ <lb n="152"/>ăl maliki ʾarakūna muḫāṣamaẗ:un ʾaw ḫalaf:un lā yaḥkumu bayna hum ʾillā mina malika ăl ʾumarāʾi 
+ <lb n="153"/>ʾaw nāẓira ăd dīwāni fī ǧamīʿi bilādi mawlā nā ăs sulṭāni bi ăl makāni 
+ <lb n="154"/>ăllaḏī yakūnu bi hi ăl ḫalafu wa ăl muḫāṣamaẗu wa lā tanqulu muḫāṣamaẗu hum 
+ <lb n="155"/>*** hā wa lā bi sabab:in wa lā yuġṣabū bi naqli muḥākamati him ʾilà ġayri ăl mubāširīna 
+ <lb n="156"/>wa lā ġayri ăl baladi ăllaḏī takūnu bi hā ăl muḥākamaẗu ʾillā bi ĭḫtiyāri raʿiyaẗi ăl maliki 
+ <lb n="157"/>ʾarakūna *** 
+ <lb n="158"/>ʾilà ḏālika maʿa ăl ʿamali ʾayḍ:an bi ăš šarʿi ăš šarīfaẗi ăl faṣlu 
+ <lb n="159"/>ăṯ ṯānī ʿašara yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾiḏā kāna li ʾaḥad:in 
+ <lb n="160"/>min raʿiyaẗi ăl maliki ʾarakūna marākibu ʿalà ĭḫtilāfi ʾanwāʿi hā wa ʾaǧnāsi hā 
+ <lb n="161"/>wa ĭktarà ʾaḥad:un min tuǧǧāri ăl muslimīna ʾaw min ăl ʾinzāli šayʾ:an min hā ʾaw min 
+ <lb n="162"/>*** mawlā nā 
+ <lb n="163"/>ăs sulṭāni bi šayʾ:in min ḏālika lā fī ʾanfusi him wa lā ʾamwāli him wa yulzamu bi ḏālika 
+ <lb n="164"/>ăr rahāʾinu wa ăl kāfilu ăllaḏī raḍiya ăl muktarī bi hi wa waqaʿa ăli ĭttifāqu 
+ <lb n="165"/>bayna hum wa bayna ăl baṭrūni ʿalay hi lā ġayyara wa lā yulzamu ăl qunṣulu bi ḍamān:in 
+ <lb n="166"/>wa lā ʾin yakūnu rahīnaẗ:un ʿan ăl baṭrūni ăl maḏkūri wa ʾin waqaʿa fī šayʾ:in 
+ <lb n="167"/>min ḏālika lā yulzamu ʾaḥad:un min raʿiyaẗi ăl maliki ʾarakūna bi šayʾin ʾillā ăl qunṣulu 
+ <lb n="168"/>ḫāṣṣaẗ:an wa lā yumkinu ăl qunṣulu min fatḥi ḫammāraẗ:in bi ăl funduqi ḥatm:an 
+ <lb n="169"/>ăl faṣlu ăṯ ṯāliṯu ʿašara yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa *** 
+ <lb n="170"/>muʿtabarīna wa ʾiḏā ʾaqāmū ḍamān:an muʿtabarīna lā yuqayyidū wa lā yuḥaddidū 
+ <lb n="171"/>wa yuʿāmilū bi ăl muʿāmalaẗi ăl ḥasanaẗi ʾuǧībū ʾilà 
+ <lb n="172"/>mā saʾalū hu min ḏālika ăl faṣlu ăr rābiʿu ʿašara yasʾalūna 
+ <lb n="173"/>ăṣ ṣadaqāti ăš šarīfaẗa ʾanna ʾaḥad:an min raʿiyaẗi ăl maliki ʾarakūna 
+ <lb n="174"/>ʾaw tuǧǧāri hi lā yaʿūq ʿalay hi bi ʾabwābi ṯaġri ăl ʾiskandariyyaẗi ăl maḥrūsaẗi bi kalāmi 
+ <lb n="175"/>ʾaḥad:in min raʿiyaẗi mawlā nā ăs sulṭāni wa lā bi kalāmi ʾaḥad:in 
+ <lb n="176"/>min tuǧǧāri ăl muslimīna wa lā min sāʾiri ăṭ ṭawāʾifi ʾillā ʾin yakūnu 
+ <lb n="177"/>bi ʾamr:in šarīf:in min mawlā nā ăs sulṭāni ʾaw li maliki ăl ʾumarāʾi ʾaw ʾaḥad:in 
+ <lb n="178"/>min mubāširī ăd dīwāni ăš šarīfi ʾuǧībū ʾilà mā saʾalū hu 
+ <lb n="179"/>min ḏālika ăl faṣlu ăl ḫāmisu ʿašara yasʾalūna ăṣ ṣadaqāti 
+ <lb n="180"/>ăš šarīfaẗa ʾanna ǧamīʿa ăl mubāyaʿāti ăllatī tuʿmalu fī ṯaġri ăl ʾiskandariyyaẗi 
+ <lb n="181"/>wa fī ǧamīʿi bilādi mawlā nā ăs sulṭāni ʾiḏā kānat bi ăn naqdi 
+ <lb n="182"/>ʾaw bi ăl muqāyaḍaẗi ʾaw bi ăn nasīʾaẗi min ăl bahāri ʾaw min sāʾiri ăl baḍāʾiʿi 
+ <lb n="183"/>ăl wa matāǧiri tuktabu fī dīwāni ăl qabbāni wa ăl makāni ăllaḏī lā yakun fī hi 
+ <lb n="184"/>dīwānu qabbān:in tuktabu šāhiday ʿadl:in wa ăl ʾišhādu ăllaḏī yaqaʿu 
+ <lb n="185"/>bayna hum yakūnu ʿalà ḥasabi ăl muwāfaqaẗi bayna hum wa ʾiḏā waqaʿa ăl bayʿu yulzamu 
+ <lb n="186"/>ăl muštarī ʾan yuʿṭiya ăṯ ṯamana ʿalà ḥukmi ăl ʾišhādi lā ġayri hi wa ǧamīʿu ăl mubāyaʿāti 
+ <lb n="187"/>ăllatī tušhadu bi hā ʿalà ăl waǧhi ăl muʿtabari lā tufsaḫu wa lā tuġayyaru wa yuʾmarū 
+ <lb n="188"/>ăš šuhūdu bi ʾiʿṭāʾi nusḫaẗi ăš šahādaẗi li kull:in mina ăl bāʾiʿi wa ăl muštarī 
+ <lb n="189"/>min ġayri kalafaẗ:in wa lā taʿwīq:in wa ʾin ĭmtanaʿa ăš šāhidu min ḏālika 
+ <lb n="190"/>yulzamu wa yuḥattamu ʿalay hi wa yubrazu ăl ʾamru ăš šarīfu bi ʾiǧhār:in wa ăn nidāʾi fī 
+ <lb n="191"/>*** ʾuǧībū ʾilà 
+ <lb n="192"/>mā saʾalū hu min ḏālika ăl faṣlu ăs sādisu ʿašara yasʾalūna 
+ <lb n="193"/>ăṣ ṣadaqāti ăš šarīfaẗa ʾanna ʾaḥad:an min raʿiyaẗi ăl maliki 
+ <lb n="194"/>ʾarakūna yumkinū min ʿamali ăl mubāyaʿāti fī ăl bayʿi wa ăš širāʾi maʿa ʾayyi 
+ <lb n="195"/>tarǧumān:in ʾaw simsār:in ʾaminū ʾilay hi wa ĭḫtārū wa ʾanna nāʾiba ṯaġri ăl ʾiskandariyyaẗi 
+ <lb n="196"/>wa nāẓira hā ʾaw ʾaḥad:an mina ăl mubāširīna ʾaw ġayri him lā yamnaʿ ʾaḥad:an mina 
+ <lb n="197"/>ăt tarāǧimaẗi wa ăs samāsiraẗi min ʿamali mubāyaʿaẗi ǧamīʿi baḍāʾiʿi him wa matāǧiri him fī 
+ <lb n="198"/>ǧamīʿi ăl mubāyaʿāti ăllatī yaḫtārūna hā ʾuǧibū ʾilà mā saʾalū hu min ḏālika 
+ <lb n="199"/>ăl faṣlu ăs sābiʿu ʿašara yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾanna 
+ <lb n="200"/>ăn nāẓira bi ṯaġri ăl ʾiskandariyyaẗi wa اlmustawfī bi hā wa ssimsāra ăs sulṭāni 
+ <lb n="201"/>waġayri him mina ăl mubāširīna wa ăs samāsiraẗi lā yataʿarraḍūا li ʾaḥad:in man raʿiyaẗi ăl maliki 
+ <lb n="202"/>ʾarakūna bi ġayri ḥaqq:in wa lā yuṭālib ʾaḥad:un min hum bi mūǧabi šayʾ:in mina ăl baḍāʾiʿi 
+ <lb n="203"/>ʾillā ăl mwǧabi ăl muʿtādi ʿalà mā ǧarat bi hi ăl ʿawāʾidu ăl qadīmaẗu wa ʾin rasama ăl ʿiṭāraẗa 
+ <lb n="204"/>wa ăs simsima ăllaḏī muḫtaṣṣ:un bi himā nāʾibu ṯaġri ăl ʾiskandariyyaẗi yakūnu ʾuswaẗ:an bi ṭawāʾifi 
+ <lb n="205"/>ăl faranǧi wa ʾan yuʿmala bi ăḍ ḍarāʾibi ăl qadīmaẗi fī ʾaǧri ăl baḥriyyaẗi ăl muslimīna fī ăt tafrīġi 
+ <lb n="206"/>wa ka ḏālika ăl ḥammālīna wa ăl ʿattālīna wa ăs samāsiraẗi wa ăl qabbāniyyaẗi wa ǧamīʿi 
+ <lb n="207"/>ʾarbābi ăl waẓāʾifi ăl mutaʿalliqīna bi matāǧiri him wa la hum daḫl:un fī 
+ <lb n="208"/>ăl baḍāʾiʿi wa ʾan lā yuʾḫaḏa min hum ʾillā ăl mūǧaba ăl qadīma wa ăl ʿawāʾida 
+ <lb n="209"/>ăl qadīmaẗa ăl muʿtāda bi hā min qadīmi ăz zamāni ʾuǧībū ʾilà mā saʾalū hu min ḏālika 
+ <lb n="210"/>ăl faṣlu ăṯ ṯāminu ʿašara yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa 
+ <lb n="211"/>ʾanna ʾaḥad:an min raʿiyaẗi ăl maliki ʾarakūna lā yulzamū fī ǧamīʿi baḍāʾiʿi himi ăllatī 
+ <lb n="212"/>yaḥḍurūna hā min bilādi ăl faranǧi wa lā ǧamīʿa mā yabtāʿūna hu min bilādi ăl muslimīna 
+ <lb n="213"/>bi nazl:in ʾillā ăn nazli ăl ǧārī bi hi ăl ʿawāʾida ăl qadīmaẗa wa lā yulzamū 
+ <lb n="214"/>bi ʾiʿṭāʾi ṣādir:in ʾillā ʿalà mā yašhadu ăl ḍarāʾiba ăl qadīmaẗa 
+ <lb n="215"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăt tāsiʿu ʿašara 
+ <lb n="216"/>ʾanna ăl mukāriyaẗa ăllaḏīna bi bayrūta wa bi dimašqa ʾiḏā tasallamū ăl baḍāʾiʿa mina 
+ <lb n="217"/>ăt tuǧǧāri wa yatasallamūna hā bi ăl qabbāni wa yuʿīdūna hā li ăt tuǧǧāri ʾayḍ:an 
+ <lb n="218"/>bi ăl qabbāni wa fī kulli makān:in yatasallamūna hā yakūnu bi šāhidayni ʿadlayni 
+ <lb n="219"/>wa yusallamūna hu li ʾarbābi hi ʾayḍ:an bi šāhidayni ʿadlayni naẓīra mā tasallamū hu 
+ <lb n="220"/>wa mahmā naqaṣa min ḏālika tulzamu ăl mukāriyyaẗu bi hi wa yuqābilūna bi mā yusāḥiqūna hu 
+ <lb n="221"/>ʿalà mā ĭʿtamadū hu fī ăl biḍāʿaẗi mina ăl ʾifsādi wa ăl ăn baḫsi naḥsi 
+ <lb n="222"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăl ʿišrūna 
+ <lb n="223"/>ʾanna ăd dallālīna wa ăs samāsiraẗa bi ăš šāmi ăl maḥrūsi wa bi ṯaġri ăl ʾiskandariyyaẗi 
+ <lb n="224"/>ʾiḏā ʿamilū bayʿaẗ:an li ʾaḥad:in min tuǧǧāri raʿiyaẗi ăl maliki ʾarakūna ʿalà ʾaḥad:in mina 
+ <lb n="225"/>ăl muslimīna bi ăn nasīʾaẗi wa ḏakara ăs samāsiraẗu wa ăl dallālūna li ṣāḥibi 
+ <lb n="226"/>ăl matǧari ʾanna ăl muštariya muʾtaman:un ʿalà qādir:in ṯumma ĭnkasara ăt tāǧiru 
+ <lb n="227"/>ăl muslimu ʾaw haraba ʾaw qaṣṣara ʿan wafāʾi hi bi ăṯ ṯamani fa yakūnu ḏālika 
+ <lb n="228"/>ʾaġrār:an mina ăs samāsiraẗi wa ăd dallālīna fa yakūnūna bi sababi ḏālika 
+ <lb n="229"/>malzūmīna bi ʾanna kull:an min hum yuwaffī ăt tāǧira ăl kaytalāniyya mā ʾabāʿa ʿalà ḏālika 
+ <lb n="230"/>ăl muslimu wa mā taʾaḫḫara ʿalay hi ʾuǧībū ʾilà mā saʾalū hu min ḏālika 
+ <lb n="231"/>ăl faṣlu ăl ḥādī wa ăl ʿišrūna ʾiḏā kāna li ʾaḥad:in min 
+ <lb n="232"/>raʿiyaẗi ăl maliki ʾarakūna baḍāʾiʿu bi ḫumsi ăl ʾiskandariyyaẗi wa ʿušri 
+ <lb n="233"/>dimašqa wa kāna bi himā li ʾaḥad:in min ṭawāʾifi ăl faranǧi baḍāʾiʿu fa ăn nāẓiru 
+ <lb n="234"/>wa ăl mubāširūna yuqaddimūna ăl kaytalāna ʿalà ǧamīʿi ăṭ ṭawāʾifi wa yaḫruǧūna 
+ <lb n="235"/>baḍāʾiʿa hum qabla ʾiḫrāǧi baḍāʾaʿa ġayra hum min baqiyaẗi ṭawāʾifi ăl faranǧi 
+ <lb n="236"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ʾiḏā kānū sābiqīna ġayra hum 
+ <lb n="237"/>ăl faṣlu ăṯ ṯānī wa ăl ʿišrūna lā yamnaʿ mawlā nā ăs sulṭānu 
+ <lb n="238"/>wa lā nāʾibu ṯaġri ăl ʾiskandariyyaẗi wa lā nāẓiru hā wa lā ʾaḥada mina ăl mubāširīna 
+ <lb n="239"/>bi hā ʾaḥad:un mina ăd dallālīna wa lā ăs samāsiraẗa wa lā ăt tarāǧima wa lā ăl bayyāʿīna 
+ <lb n="240"/>wa lā ʾaḥada mina ăn nāsi min širāʾi baḍāʾiʿi raʿiyaẗi ăl maliki ʾarakūna 
+ <lb n="241"/>ḥayṯu ʾanna kulla ʾaḥad:in min hum yabīʿu wa yaštarī ʿalà ḥasabi ĭḫtiyāri hi min ġayri taʿwīq:in 
+ <lb n="242"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăṯ ṯāliṯu wa ăl ʿišrūna 
+ <lb n="243"/>ʾiḏā ĭḫtāra qunṣulu ăl kaytalāni ăl ḥuḍūra ʾilà ăl mawāqifi ăš šarīfaẗi 
+ <lb n="244"/>yumkinu mina ăl ḥuḍūri bi ăt tuǧǧāri ăllaḏīna yaḫtāru hum wa ʾin lam yaḫtāru ăl ḥuḍūra 
+ <lb n="245"/>wa ĭḫtāra ʾan yuǧahhiza ʾaḥad:an mina ăt tuǧǧāri bi sabab:in mina ăl ʾasbābi 
+ <lb n="246"/>fa yumkinu min ḏālika ʿalà ḥasabi ĭḫtiyāri hi wa ʾanna tuǧǧāra ăl kaytalāni ʾiḏā ĭḫtārū 
+ <lb n="247"/>ăl ḥuḍūra ʾilà ăl qāhiraẗi ʾilà balad:in min bilādi mawlā nā ăs sulṭāni 
+ <lb n="248"/>li ĭʿtimādi maṣlaḥaẗi matāǧiri him yumakkinū min ḏālika wa lā yamnaʿū mina 
+ <lb n="249"/>ăl ḫurūǧi min ʾabwābi ăṯ ṯaġri ʿalà ḥasabi ĭḫtiyāri him wa ʾanna nāʾiba ṯaġri 
+ <lb n="250"/>ăl ʾiskandariyyaẗi lā yuʿawwiqū hum wa yusāʿidūna hum ʿalà ăl ḫurūǧi ʾilà 
+ <lb n="251"/>ăl ʾabwābi ăš šarīfaẗi kulla mā saʾalū fī ḏālika min ġayri kalafaẗ:in yatakallafūna hā 
+ <lb n="252"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu 
+ <lb n="253"/>ăr rābiʿu wa ăl ʿišrūna yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa 
+ <lb n="254"/>***ī rwz ăl ʾamr ăš šarīf bi ʿimāraẗi funduqi ăl kaytalāni wa tarmīmi hi 
+ <lb n="255"/>min ġayri ʾan yukallafa ăl qunṣulu wa ăt tuǧǧāru ʾilà šayʾ:in mina ăl maṣrūfi 
+ <lb n="256"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăl ḫāmisu wa ăl ʿišrūna 
+ <lb n="257"/>ʾiḏā halaka ʾaḥad:un min tuǧǧāri ăl kaytalāni ʾaw raʿiyaẗi maliki him fī ăl bilādi 
+ <lb n="258"/>ăl ʾislāmiyyaẗi ʿan ġayri waṣiyyaẗ:in yakūnu ǧamīʿu mawǧūdi hi taḥta yadi 
+ <lb n="259"/>waṣiyyi hi ăš šarʿiyyi fa ʾin halaka ʿan ġayri waṣiyyaẗ:in fa yakūnu mālu hu taḥta yadi 
+ <lb n="260"/>ăl qunṣuli ʾaw taḥta yadi ʾaḥad:in min tuǧǧāri ăl kaytalāni ăl mawǧūdīna 
+ <lb n="261"/>bi ăl baladi ăllaḏī halaka fī hā ʾiḏā lam yakun ṯumma qunṣul:un 
+ <lb n="262"/>wa ʾanna mawlā nā ăs sulṭāna ʾaw ʾaḥad mina ăl mubāširīna 
+ <lb n="263"/>wa ġayra hum lā yataʿarraḍū ʾilay him fī ḏālika ʾuǧībū ʾilà mā saʾalū hu min ḏālika 
+ <lb n="264"/>ăl faṣlu ăs sādisu wa ăl ʿišrūna yumkinu qunṣulu 
+ <lb n="265"/>ăl kaytalāni mina ăl ḥukmi fī tuǧǧāri ăl kaytalāni wa raʿiyaẗi maliki him ḥasaba 
+ <lb n="266"/>ĭḫtiyāri him wa ĭḫtiyāri tuǧǧāri ṭāʾifati hi wa ʾanna mawlā nā ăs sulṭāna 
+ <lb n="267"/>wa ăl mubāširīna wa ġayra hum lā yamnaʿū hu min ḏālika wa ʾiḏā waqaʿat muḫāṣamaẗ:un 
+ <lb n="268"/>ʾaw muḥākamaẗ:un bayna ʾaḥad:in min tuǧǧāri ăl muslimīna wa tuǧǧāri ăl kaytalāni 
+ <lb n="269"/>wa raʿiyaẗi maliki him wa ĭḫtāra ăl ḫaṣmāni wa ĭttafaqā ʿalà ʾanna ăl qunṣula 
+ <lb n="270"/>yuwaffiqu bayna hum yumkinu ăl qunṣulu min ḏālika wa ʾin lam yaḫtārā ḏālika fa yataḥākamūna 
+ <lb n="271"/>ladà ʾawliyāʾi ăl ʾumūri wa ḏālika ăl ʾumarāʾu wa ăn nāẓiru bi ăṯ ṯaġri ḥasaba mā ḏakara 
+ <lb n="272"/>ʾan wa yuḥarrara ăl qunṣulu ʿalà ʿādaẗi man taqaddama ăl qanāṣilaẗa 
+ <lb n="273"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăs sābiʿu wa ăl ʿišrūna 
+ <lb n="274"/>ʾanna ăl qunṣulu ăllaḏī ʾaqāma hu ăl maliku ʾarakūna maqāma nafsi hi 
+ <lb n="275"/>ʾiḏā ṭuriʾa li ʾaḥad:in mina ăt tuǧǧāri ăl kaytalāni ʾaw raʿiyaẗi maliki him ḍarūraẗ:an 
+ <lb n="276"/>yumkinu ăl qunṣulu mina ăt taḥadduṯi fī him wa ḫalāṣi him fī ǧamīʿi mā yaḥtāǧūna 
+ <lb n="277"/>ʾilay hi *** ăl mawāqif ăš šarīfaẗ wa ǧamīʿ ăl ʾumarāʾi wa ʾawliyāʾ ăl ʾumūri wa malik ăl ʾumarāʾi 
+ <lb n="278"/>wa ăl quḍāẗ wa ăl mubāširīna lā yamnaʿ min šayʾ:in min ḏālika min ġayri ʾan yaḥṣula la hu ḍarar:un 
+ <lb n="279"/>fī nafs:in ʾaw māl:in bi sabab:in mina ăl ʾasbābi ʾuǧībū ʾilà mā saʾalū hu 
+ <lb n="280"/>min ḏālika ăl faṣlu ăṯ ṯāminu wa ăl ʿišrūna yasʾalūna 
+ <lb n="281"/>ăṣ ṣadaqāti ăš šarīfaẗa burūza ăl ʾamri ăš šarīfi bi ṣarfi ǧāmakiyyaẗi ăl qunṣuli 
+ <lb n="282"/>ʿalà ʿādaẗi man taqaddama hu mina ăl qanāṣilaẗi ṭāʾifaẗa ăl kaytalāni wa hiya kulla sanaẗ:in 
+ <lb n="283"/>miʾatā *** miṯqāl:in hrǧ:an ḏahab:an wa ʾan yaṣrifa ḏālika min mūǧabi baḍāʾiʿi tuǧǧār:in tuǧǧāri ø hi 
+ <lb n="284"/>wa mina ăl mūǧabi ăs sulṭāniyyi wa ʾan yumkinū min ʾidḫāli mašrūbi 
+ <lb n="285"/>ăl qunṣuli fī kulli sanaẗ:in ʿalà ǧārī ʿādaẗi man taqaddama mina ăl qanāṣilaẗi 
+ <lb n="286"/>wa ka ḏālika yumkinu ăt tuǧǧāru min ʾidḫāli mašrūbi him ʿalà ǧārī 
+ <lb n="287"/>ʿādaẗi man taqaddama hum min ġayri kalafaẗ:in wa lā ʿuzlaẗa taqaʿu ʿalay him ***ū ʾilà 
+ <lb n="288"/>ḏālika ăl wa mašrūbu ʿalà qadri ăl kifāyaẗi ăl muʿtādaẗi 
+ <lb n="289"/>*** yasʾalūna ăṣ ṣadaqāti 
+ <lb n="290"/>ăš šarīfaẗa yumkinu ăl qunṣulu min ʾiqāmaẗi man yaʾmunu hu wa yaḫtāru hu min tarāǧimi 
+ <lb n="291"/>dīwāni ăl qabbāni min ʾayyi ṭāʾifaẗ:in kānat muslim:an kāna 
+ <lb n="292"/>ʾaw yahūdiyy:an ʾaw naṣrāniyy:an bi sababi ăl bayʿi wa ăš širāʾi dāḫila ăl funduqi 
+ <lb n="293"/>ʾaw ẓāhira hu mina ăt taḥadduṯi fī ʾayyi ăl baḍāʾiʿi wa ăl matāǧiri wa fī ǧamīʿi ăl matāǧiri 
+ <lb n="294"/>ăllatī yaḫtārūna hā li kamāli ăl bayʿi ʾuǧībū ʾilà mā saʾalū hu 
+ <lb n="295"/>min ḏālika ăl faṣlu ăṯ ṯalāṯūna yasʾalūna ăṣ ṣadaqāti 
+ <lb n="296"/>ăš šarīfaẗa ʾanna ăl qunṣula ʾiḏā ʾarāda taġayyura ăl funduqāniyyi wa yuqīmu man 
+ <lb n="297"/>yaḫtāru hu funduqāniyy:an yumkinu min ḏālika wa lā yamnaʿ min ḏālika bi ḥukm:in ʾanna ăl funduqāniyya 
+ <lb n="298"/>ăllaḏī yuqīmu hu yakūnu raǧul:an ǧayyid:an maʾmūn:an maʿrūf:an 
+ <lb n="299"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăl ḥādī wa ăṯ ṯalāṯūna 
+ <lb n="300"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾanna ăl qunṣula ʾiḏā waṣala ʾilà 
+ <lb n="301"/>ṯaġri ăl ʾiskandariyyaẗi yumkinu min taqabbuli ḍarībaẗ:in ʿalà ḥukmi ăḍ ḍarāʾibi ăl qadīmaẗi 
+ <lb n="302"/>wa yaʿmalu bi hā wa ʾanna tuǧǧāra ăl kaytalāni lā yuʿṭaw mā yataʿallaqu bi him min 
+ <lb n="303"/>ăl ʿušūri ʾillā ʿalà mā tušhadu bi hi ăḍ ḍarāʾibu ăl qadīmaẗu wa lā yamnaʿ min ḏālika 
+ <lb n="304"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăṯ ṯānī wa ăṯ ṯalāṯūna 
+ <lb n="305"/>yasʾalūna ăṣ ṣadaqāti ăš šarīfaẗa ʾiḏā ʾaṯbata hāḏā ăṣ ṣulḥu wa suṭirat 
+ <lb n="306"/>fuṣūlu ăš šurūṭi ăl maḏkūraẗi ʾaʿlā hu yuṯbitu ḥukma hā wa tatawwaǧa 
+ <lb n="307"/>ăš šurūṭu bi ʿalāmaẗi mawlā nā ăs sulṭāni bi yadi hi ăš šarīfaẗi 
+ <lb n="308"/>ʾuǧībū ʾilà mā saʾalū hu min ḏālika ăl faṣlu ăṯ ṯāliṯu wa ăṯ ṯalāṯūna 
+ <lb n="309"/>ṯumma baʿda tamāmi hāḏihi ăš šurūṭi ĭštaraṭati ăl marāsīmu ăš šarīfaẗu 
+ <lb n="310"/>ʿalà ăr rasūli ăl maḏkūri wa huwa ăl muḥtašimu da kāzāsāǧā ʾanna hu 
+ <lb n="311"/>mahmā ḥadaṯa min ṭawāʾifi ăl faranǧi ăl kaytalāni wa raʿiyaẗi ăl maliki ʾarakūna 
+ <lb n="312"/>mina ăḍ ḍarari li ʾaḥad:in mina ăl muslimīna mina ăt tuǧǧāri wa ăr riʿāyā 
+ <lb n="313"/>wa ʾarbābi ăl marākibi wa ăt turkmāni wa ăl maġāribaẗi wa ġayri him min 
+ <lb n="314"/>ḥudūdi ăl mamlakaẗi ăl ʾislāmiyyaẗi mina ăl ʿummatadīni 
+ <lb n="315"/>wa ʾilà ṭarsūsa lā bi dāḫili ăl baḥri wa lā bi ăs sawāḥili wa man yuʿriḍu 
+ <lb n="316"/>min ṭāʾifaẗi ăl kaytalāni ʾilà ʾaḥad:in mina ăl muslimīna bi ḍarār:in fī nafs:in 
+ <lb n="317"/>ʾaw māl:in bi ăl ḥudūdi ăl maḏkūraẗi ʾalzamū bi ʾiʿādaẗi mā ʾaḫaḏa min māl:in 
+ <lb n="318"/>wa ġayri hi wa ḏālika ʾin taʿarraḍa ʾaḥad:un mina ăl muslimīna ʾaw marākibi him ʾawi ăl maġāribaẗi 
+ <lb n="319"/>ʾawi ăt turkmāni ʾilà ʾaḥad:in min ṭāʾifaẗi ăl kaytalāni fī ăl ḥudūdi ăl maḏkūraẗi 
+ <lb n="320"/>fī nafs:in ʾaw māl:in ʾalzamnā ăl mutaʿarriḍīna mina ăl muslimīna bi ʾiʿādaẗi mā ʾaḫaḏa min 
+ <lb n="321"/>māl:in ʾaw ġayri hi wa mā kāna ḫāriǧ:an ʿan ḥudūdi ăl mamlakaẗi ăl ʾislāmiyyaẗi 
+ <lb n="322"/>ăl maḏkūraẗi lā yuṭālib hum bi mā yaqaʿu fī hā wa hum ʾayḍ:an lā yuṭālibū bi hā 
+ <lb n="323"/>fa ʾaǧāba ăl muḥtašimu bīru da kāzāsāǧā ʾanna ăl maġāribaẗa 
+ <lb n="324"/>wa ăt turkmāna rubbamā yuʾḫuḏūna ʾayya min hāḏihi ăl ḥudūdi fa yaktubūna 
+ <lb n="325"/>maḥāḍira mulaffaqaẗ:an wa yaǧʿalūna ʾaḫḏa hum fī ḥudūdi hāḏihi ăl mamlakaẗi ăl ʾislāmiyyaẗi 
+ <lb n="326"/>fa ʾaǧāba hu ăl marsūmu ăš šarīfu ʾanna nā nataḥaqqaqu ʿadāwaẗa ăl maġāribaẗi 
+ <lb n="327"/>wa ăt turkmāni maʿa ṭāʾifaẗi ăl kaytalāni qiyyam:an wa man ʾaḥḍara min hum maḥḍar:an 
+ <lb n="328"/>lā naqbalu hu wa lā namšī hi la hum ʿalà ăl kaytalāni wa lā nr***m ʾan naktuba 
+ <lb n="329"/>ʿalay him maḥāḍira bi ăl mamlakaẗi ăl ʾislāmiyyaẗi wa lā naʿmalu bi šahādi him ʿalay kum li ṯubūti 
+ <lb n="330"/>ăl ʿadāwaẗi bayna ăl maġāribaẗi wa ăt turkmāni wa bayna ṭāʾifaẗi ăl kaytalāni 
+ <lb n="331"/>qadīm:an wa ḥadīṯ:an wa ăli ĭʿtimādi fī hi ʿalà ăl ḫaṭṭi ăš šarīfi 
+ <lb n="332"/>šarrafa hu ăl lāhu taʿālà wa ʿaẓẓama hu ʾaʿlā hu ḥaǧǧa hu bi mā fī hi 
+ <lb n="333"/>lā zāla yubassiṭu ʿalà kāffaẗi ăr riʿāyā ʿadl:an wa yuwassiʿu hum 
+ <lb n="334"/>min karami hi ʾiḥsān:an wa faḍl:an ʾan yuʿtamada mā burizat bi hi 
+ <lb n="335"/>wa ăl myz ăl ʾislāmiyyaẗ wa quriʾati ăš šurūṭu ăl maḏkūraẗu ʿalà 
+ <lb n="336"/>ăl masāmiʿi ăš šarīfaẗi šarrafa hā ăl lāhu wa ʿaẓẓama humā wa ḥaṣala ăl ʾiqbālu ăš šarīfu 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  La autoridad corresponde a Dios, el Altísimo.
+		 <lb n="2"/>
+ 	  Escrito del tercero del mes de ḏū-l-qaʿda para la negociación ...
+		 <lb n="3"/>
+ 	  año 832.
+		 <lb n="4"/>
+ 	  Capítulo de la elevada disposición.
+		 <lb n="5"/>
+ 	  El [Allāh] bendiga su contenido en la Noble Escritura.
+		 <lb n="6"/>
+ 	  Alabado sea Dios, el único. La oración sea sobre nuestro señor Muḥammad, su familia y sus amigos y la paz.
+		 <lb n="7"/>
+ 	  Dios es la mejor garantía.
+		 <lb n="8"/>
+ 	  El Noble Nombre.
+		 <lb n="9"/>
+ 	  Noble pacto que presenta cada uno de sus subscriptores, según lo que expusieron los nobles decretos
+		 <lb n="10"/>
+ 	  de la repuesta de los francos catalanes a las preguntas que se les hicieron sobre los capítulos escritos al respecto. Esto sucede en
+		 <lb n="11"/>
+ 	  presencia del digno y honrado Bīrū Dakāzāṣaŷā (Pero o Pere de Casassaggia), el represantante enviado de parte del rey Magnánimo,
+		 <lb n="12"/>
+ 	  [y] de Ifra Anṭūniyū Fūlūriyān (Fra Antonio de Fluvià) ante las Nobles Puertas, llevando entre manos la correspondencia entregada por el Gran Maestre
+		 <lb n="13"/>
+ 	  de Rodas, mediador ante ellas, con lo que se acordó en su presencia acerca de los mencionados capítulos entre los enviados
+		 <lb n="14"/>
+ 	  de las Nobles Puertas, el cadí Nāṣir al-Dīn Muḥammad ibn al-Taymiyya y el emir Sayf al-Dīn Šāhīn al-Tarŷumān,
+		 <lb n="15"/>
+ 	  y los mensajeros del rey Magnánimo de Aragón, gobernador de los catalanes, y el pacto que dicha correspondencia contiene
+		 <lb n="16"/>
+ 	  con la conformidad del rey.
+		 <lb n="18"/>
+ 	  ...[Frau Antonio de Fluvià remite dos documentos: uno de su embajador [Pere de Casassaggia] y el segundo del rey
+		 <lb n="19"/>
+ 	  de Aragón, gobernador de los catalanes. [El Gran Maestre de Rodas] (mutamallik) ha informado de que el rey
+		 <lb n="20"/>
+ 	  de Aragón mencionado había enviado sus dos embajadores, los nobles y honrados
+		 <lb n="21"/>
+ 	  [Ra]fāyl Fārrār y Luwīs Širwīn (Rafel Ferrer y Lluís Sirvent), a Rodas.
+		 <lb n="22"/>
+ 	  A los dos reyes indicados se les consultaron los nobles pactos para que designaran a sus expertos. Ellos
+		 <lb n="24"/>
+ 	  de acuerdo con las palabras del Gan Maestre de Rodas, a requerimiento del rey de Aragón
+		 <lb n="25"/>
+ 	  y del grupo de los catalanes, se ha dado publicidad a los nobles decretos poniendo por escrito
+		 <lb n="26"/>
+ 	  estas cláusulas que se explican en este documento y que se fijan con
+		 <lb n="27"/>
+ 	  un juramento perpetuo. Su copia, en la noble cancillería, contiene las cláusulas
+		 <lb n="28"/>
+ 	  correspondientes. Dios nos libre de quienes no respeten lo pactado, o redacten
+		 <lb n="29"/>
+ 	  respondiendo lo contrario, y de sus aliados. Nosotros hicimos llegar
+		 <lb n="30"/>
+ 	  la correspondencia a las Nobles Puertas por mano del embajador [del Magnánimo], el noble y honrado
+		 <lb n="31"/>
+ 	  Pero de Casassaggia, para que vieran las cláusulas que en ella se han establecido
+		 <lb n="32"/>
+ 	  de parte de los embajadores de las Nobles Puertas y los embajadores del rey de Aragón. Y se ha expuesto
+		 <lb n="33"/>
+ 	  ante las nobles opiniones la respuesta de los embajadores del rey de Aragón.
+		 <lb n="34"/>
+ 	  Lo que acordaron. Cláusula 1
+		 <lb n="35"/>
+ 	  que se establece entre nuestro señor el sultán, por una parte, y el rey de Aragón,
+		 <lb n="36"/>
+ 	  por otra, y entre los súbditos y familiares de ambos. Establecido el excelente tratado
+		 <lb n="37"/>
+ 	  de paz, en relación a los perjuicios que se hubieren producido a las personas y los bienes,
+		 <lb n="38"/>
+ 	  lesiones, muertes, daños o pérdidas que hubieran tenido lugar
+		 <lb n="39"/>
+ 	  por cualquier causa del pasado, hasta el día en que se establecieren estos acuerdos
+		 <lb n="40"/>
+ 	  citados, según el tratado de paz vigente, las dos partes quedan libres y absueltas.
+		 <lb n="41"/>
+ 	  La deuda que se produjo [en su día] no se mencionará nunca, a menos que aparezcan entre los súbditos
+		 <lb n="42"/>
+ 	  de nuestro señor el sultán y los súbditos del rey de Aragón, deudas, compromisos
+		 <lb n="43"/>
+ 	  u obligaciones discutidas en el pasado en virtud del derecho y en base a parámetros
+		 <lb n="44"/>
+ 	  fijados y claros al respecto y que las dos partes
+		 <lb n="45"/>
+ 	  [...] Cláusula 2
+		 <lb n="46"/>
+ 	  Solicitan los nobles pactos, después de establecer y confirmar este
+		 <lb n="47"/>
+ 	  acuerdo, que se dé publicidad al mismo y que se declare público
+		 <lb n="48"/>
+ 	  en todas las ciudades y puertos islámicos. Así procederá
+		 <lb n="49"/>
+ 	  el rey de Aragón a su vez, haciendo proclamar la paz en su reino y la abrogación
+		 <lb n="50"/>
+ 	  de la totalidad de los Motivos de conflicto. Se les contestó a lo que pidieron sobre esto:
+		 <lb n="51"/>
+ 	  Cláusula 3 [...]
+		 <lb n="52"/>
+ 	  sus géneros y resulte un percance por cambio de los vientos pot temor a [encontrar]
+		 <lb n="53"/>
+ 	  un enemigo, en cualquier lugar en que se encuentren, lleguen a un puerto, a tierra firme o a la costa
+		 <lb n="54"/>
+ 	  del país del sultán nuestro señor, y en las embarcaciones mencionadas haya mercancías
+		 <lb n="55"/>
+ 	  de los comerciantes y los súbditos del reino de Aragón, solicitan los pactos
+		 <lb n="56"/>
+ 	  que todos los géneros, las mercancías y las riquezas que se encuentren en ellos [estén exentas de tributo]
+		 <lb n="57"/>
+ 	  excepto las mercancías que se hayan vendido. Dios el Altísimo nos libre
+		 <lb n="58"/>
+ 	  de que los barcos mencionados sufran desperfectos y el conjunto de las personas
+		 <lb n="59"/>
+ 	  se vean obligadas a traer y vender las cosas que escojan. Quienes
+		 <lb n="60"/>
+ 	  les compraran estarían obligados a pagar el precio que
+		 <lb n="61"/>
+ 	  se les requiriera para que [aquéllos] pudiesen [comprar]lo que necesiten
+		 <lb n="62"/>
+ 	  para la reparación de sus barcos, con su dinero, tras lo cual
+		 <lb n="63"/>
+ 	  podrian viajar con garantías de seguridad, después
+		 <lb n="64"/>
+ 	  de haber ponderado la obligación hacia el sultán de todos los géneros que
+		 <lb n="65"/>
+ 	  vendieron. De igual forma se hará con los súbditos del sultán nuestro señor
+		 <lb n="66"/>
+ 	  en todos los países del rey de Aragón y su reino. Se les contestó a lo
+		 <lb n="67"/>
+ 	  que pidieron sobre esta cuarta cláusula: Cláusula 4
+		 <lb n="68"/>
+ 	  Solicitan los nobles pactos que todos los patrones de las embarcaciones y los navíos
+		 <lb n="69"/>
+ 	  de las diversas nacionalidades de los súbditos del rey de Aragón que
+		 <lb n="70"/>
+ 	  lleguen al puerto de Alejandría, o a otros puertos o costas, y
+		 <lb n="71"/>
+ 	  a todos los lugares en el reino del sultán nuestro señor, no estarán obligados a la donación de las velas,
+		 <lb n="72"/>
+ 	  bajo ningún concepto, y nadie les obligará a
+		 <lb n="73"/>
+ 	  ello. Y serán honrados ellos y sus bienes, y no estarán obligados
+		 <lb n="74"/>
+ 	  a donar al dīwān del sultán nuestro señor, ni a
+		 <lb n="75"/>
+ 	  los gerentes, ni a los súbditos, ni a nadie, nada de las variadas mercancías
+		 <lb n="76"/>
+ 	  que lleven en sus barcos.
+		 <lb n="77"/>
+		 <lb n="78"/>
+ 	  Se les contestó a lo que pidieron sobre esto: Cláusula 5
+		 <lb n="79"/>
+ 	  Piden los nobles pactos que los patrones y capitanes
+		 <lb n="80"/>
+ 	  de las embarcaciones y los comerciantes de cualquier barco perteneciente a las distintas
+		 <lb n="81"/>
+ 	  nacionalidades de los súbditos del rey de Aragón que lleguen a
+		 <lb n="82"/>
+ 	  al puerto de Alejandría o a otro de los lugares del país del sultán nuestro señor,
+		 <lb n="83"/>
+ 	  no estarán obligados a descargar sus mercancías.
+		 <lb n="84"/>
+ 	  [Si descargan] por voluntad propia pueden volver a cargar y fletar sus barcos
+		 <lb n="85"/>
+ 	  tras [pagar] el tributo al sultán, sin más exacción que ésta. Se les contestó
+		 <lb n="86"/>
+ 	  a lo que pidieron sobre esto: Cláusula 6
+		 <lb n="87"/>
+ 	  Solicitan los nobles pactos que los propietarios de barcos y los comerciantes
+		 <lb n="88"/>
+ 	  súbditos del rey de Aragón que lleguen la puerto de Alejandría
+		 <lb n="89"/>
+ 	  o a otro de los dominios del sultán nuestro señor, antes o después de negociar
+		 <lb n="90"/>
+ 	  la venta de sus mercancías y sus géneros, no estén obligados
+		 <lb n="91"/>
+ 	  a pagar otra tasa sino la del sultán nuestro señor, y nada más [que grave] todo lo que hayan
+		 <lb n="92"/>
+ 	  vendido, según la norma consuetudinaria.
+		 <lb n="93"/>
+ 	  Se les contestó a lo que pidieron sobre esto: Cláusula 7
+		 <lb n="94"/>
+ 	  Los mercaderes y los súbditos del reino del rey de Aragón solicitan de los nobles
+		 <lb n="95"/>
+ 	  pactos que, en relación a todos los bienes, mercancías y riquezas que se envíen y
+		 <lb n="96"/>
+ 	  que se introduzcan en cualquier lugar del reino del sultán nuestro señor,
+		 <lb n="97"/>
+ 	  nadie esté obligado a pagar tributo al sultán hasta después
+		 <lb n="98"/>
+ 	  de la venta de todos sus géneros. Si los comerciantes escogieran satisfacer
+		 <lb n="99"/>
+ 	  los tributos antes de vender o intercambiar sus mercancías, tal como
+		 <lb n="100"/>
+ 	  dictase el dīwān, a iniciativa propia, pagarían las tasas
+		 <lb n="101"/>
+ 	  en metálico o en especie, de acuerdo con lo que se les ordenase.
+		 <lb n="102"/>
+ 	  Tras la tasación del impuesto mencionado, si vendieran o intercambiaran
+		 <lb n="103"/>
+ 	  en exceso o en defecto en relación a dicha tasación, no estarían obligados a pagar otro incremento de la tasa,
+		 <lb n="104"/>
+ 	  salvo el correspondiente a dicho exceso del total general, cobrándoseles lo que excediera a su favor; [en el caso contrario] se restaría y les sería compensado.
+		 <lb n="105"/>
+ 	  Si no hubieran pagado la tasa antes de la venta o el trueque,
+		 <lb n="107"/>
+ 	  Se les contestó a lo que pidieron sobre esto: Cláusula 8
+		 <lb n="108"/>
+ 	  Solicitan los nobles pactos que nuestro señor el sultán,
+		 <lb n="109"/>
+ 	  los agentes y todos sus súbditos, no cobren el impuesto ni en la aduana del puerto
+		 <lb n="110"/>
+ 	  de Alejandría, ni en Beirut, ni en la tierra tributaria de Damasco,
+		 <lb n="111"/>
+ 	  ni tampoco en las aduanas de todo el reino, y que en dichos lugares no se imponga
+		 <lb n="112"/>
+ 	  contribución por todas las mercancías y existencias de los súbditos
+		 <lb n="113"/>
+ 	  del rey de Aragón, y no se cobre sin acuerdo del propietario de las mercancías
+		 <lb n="114"/>
+ 	  y las existencias. Si el sultán nuestro señor o uno
+		 <lb n="115"/>
+ 	  de los agentes tuvieran interés por la compra de la mercancía, se establecería
+		 <lb n="116"/>
+ 	  el precio según las cuentas y perseverando en el acuerdo al contado, sin dilaciones.
+		 <lb n="117"/>
+ 	  Y no obligarán a los mercaderes a comprar ni especias, ni monedas,
+		 <lb n="118"/>
+ 	  ni alimentos, ni joyas, ni ninguna mercancía u objetos personales
+		 <lb n="119"/>
+ 	  sin su aprobación, ni se les regalará de ninguna de las maneras. Sie fueran
+		 <lb n="120"/>
+ 	  del resto de las nacionalidades de los francos quienes tomaran o compraran,
+		 <lb n="121"/>
+ 	  los súbditos del rey de Aragón no estarán implicados ni obligados a nada.
+		 <lb n="122"/>
+ 	  Se les contestó a lo que pidieron sobre esto: Cláusula 9
+		 <lb n="123"/>
+ 	  Solicitan los nobles pactos que aquellos comerciantes o súbditos
+		 <lb n="124"/>
+ 	  del rey de Aragón que estén pendientes de deudas o del cobro de una mercancía vendida
+		 <lb n="125"/>
+ 	  a crédito, y el pleito sea a favor de uno de los súbditos del sultán
+		 <lb n="126"/>
+ 	  nuestro señor, ya sea en oro, en plata o en mercancías, no estarán obligados
+		 <lb n="127"/>
+ 	  uno por otro, ni padre por hijo, ni hijo por su padre,
+		 <lb n="128"/>
+ 	  y lo estará quien tenga el pleito o quienes sean sus avales y garantes en
+		 <lb n="129"/>
+ 	  dicha responsibilidad. Se les contestó a lo que pidieron sobre esto: Cláusula 10
+		 <lb n="130"/>
+ 	  Solicitan los nobles pactos que si uno de los súbditos del rey
+		 <lb n="131"/>
+ 	  de Aragón o de uno de los reinos restantes de los francos, antes
+		 <lb n="132"/>
+ 	  de la consolidación del pacto de paz o después de la misma, armara algún barco o nave
+		 <lb n="133"/>
+ 	  de diversos tipos en el conjunto de los reinos del rey de Aragón
+		 <lb n="134"/>
+ 	  y provinieran de ellos perjuicios para uno de los súbditos del sultán nuestro señor,
+		 <lb n="135"/>
+ 	  mayor o joven, rico o pobre, y [aquéllos] tuvieran casa
+		 <lb n="136"/>
+ 	  o residencia o cónyuge en el reino del sultán nuestro señor,
+		 <lb n="137"/>
+ 	  sin vínculos matrimoniales fuera del reino, y se hiciera que los catalanes
+		 <lb n="138"/>
+ 	  u otros de los restantes reinos los refugiaran o los defendieran,
+		 <lb n="139"/>
+ 	  entonces éstos estarían implicados como aquéllos. En el caso que uno de los súbditos del rey
+		 <lb n="140"/>
+ 	  de Aragón armara barcos o naves fuera de
+		 <lb n="141"/>
+ 	  su reino y perjudicara a uno de los súbditos del sultán nuestro señor,
+		 <lb n="142"/>
+ 	  según lo arriba mencionada, sería el grupo que les suministrara
+		 <lb n="143"/>
+ 	  o en donde se refugiasen, o que les diera apoyo, responsable
+		 <lb n="144"/>
+ 	  por ello. No lo sería cualquiera del reino catalán sino aquellos que
+		 <lb n="145"/>
+ 	  los refugiasen o participasen en su protección o en el armamento del buque. Y si se concluyera que aquéllos que
+		 <lb n="146"/>
+ 	  armaron el buque fuera del reino de Aragón tuvieran existencias en
+		 <lb n="147"/>
+		 <lb n="148"/>
+ 	  los enemigos entro los magrbíes y los turcomanos y entre el grupo de los francos según
+		 <lb n="149"/>
+ 	  la legislación mencionada. Cláusula 11
+		 <lb n="150"/>
+ 	  Solicitan los nobles pactos: si tuviera lugar, entre uno de los súbditos de nuestro señor
+		 <lb n="151"/>
+ 	  el sultán o uno de los comerciantes musulmanes y uno de los francos o uno de los [súbditos]
+		 <lb n="152"/>
+ 	  del rey de Aragón, una disputa o una diferencia, tan sólo podrá fallar entre ellos,
+		 <lb n="153"/>
+ 	  en todos los países de nuestro señor el sultán, uno de los emires o el inspector de aduanas del lugar
+		 <lb n="154"/>
+ 	  en que se produzca la desavenencia y la disputa. Y no se trasladarán las demandas?
+		 <lb n="155"/>
+ 	  [...], ni las causas, ni podrán ser obligados a transferir sus vistas [procesales] ni a otro agentes
+		 <lb n="156"/>
+ 	  ni a otra ciudad distinta a aquélla en la que se dé vista al proceso, sino a elección de los súbditos del rey
+		 <lb n="157"/>
+		 <lb n="158"/>
+ 	  En todo caso se procederá de acuerdo con ley islámica. Cláusula
+		 <lb n="159"/>
+ 	  12 Solcitan los nobles pactos: si tuviera uno
+		 <lb n="160"/>
+ 	  de los súbditos del rey de Aragón barcos de cualquier tipo
+		 <lb n="161"/>
+ 	  y uno de los comerciantes musulmanes o de los residentes lo alquilara
+		 <lb n="162"/>
+ 	  [aquéllos no estrarían obligado a pagar]
+		 <lb n="163"/>
+ 	  al sultán nada, ni por sus personas, ni por sus bienes. Estarán obligados
+		 <lb n="164"/>
+ 	  por las hipotecas el avalador escogido por quien alquile el barco
+		 <lb n="165"/>
+ 	  y el patrón. El cónsul no está obligado a actuar como garante ni a responder por el patrón mencionado si ocurriese cualquier cosa.
+		 <lb n="166"/>
+ 	  Si no hubiese una hipoteca sobre los patrones mencionados y se llegara a algún acuerdo
+		 <lb n="167"/>
+ 	  sobre ello, ningun otro súbdito del rey de Aragón estrará obligado sino el cónsul
+		 <lb n="168"/>
+ 	  en persona. El cónsul no podrá, terminamente, abrir una taberna en la alhóndiga.
+		 <lb n="169"/>
+ 	  [Cláusula 13]
+		 <lb n="170"/>
+ 	  ... solventes y se establecerían unas fianzas ponderadas. [los súbditos del rey de Aragón] no serán esposados ni encarcelados
+		 <lb n="171"/>
+ 	  y recibirán un buen trato. Se les respondió a
+		 <lb n="172"/>
+ 	  lo que pidieron sobre esto: Cláusula 14 Piden
+		 <lb n="173"/>
+ 	  los nobles pactos que a los súbditos del rey de Aragón
+		 <lb n="174"/>
+ 	  o a sus comerciantes no se les pueda privar la entrada en el puerto de Alejandría, por la palabra
+		 <lb n="175"/>
+ 	  de uno de los súbditos de nuestro señor el sultán, no por la de alguno
+		 <lb n="176"/>
+ 	  de los comerciantes musulmanes o de los demás grupos, a no ser 
+		 <lb n="177"/>
+ 	  por orden del noble sultán nuestro señor o del rey de los emires o de uno
+		 <lb n="178"/>
+ 	  de los funcionarios del noble dīwān. Se les respondió a lo que pidieron
+		 <lb n="179"/>
+ 	  sobre esta cláusula 15: [Cláusula 15] Piden los nobles
+		 <lb n="180"/>
+ 	  pactos que todas las ventas que se lleven a cabo en el puerto de Alejandría
+		 <lb n="181"/>
+ 	  o en todos los países del sultán nuestro señor, bien en metálico
+		 <lb n="182"/>
+ 	  o en intercambio, de especias (al-buhār), o demás géneros
+		 <lb n="183"/>
+ 	  y mercancías, se registren por escrito en la aduana de los pesos (diwān al-qabbān). En los lugares en que no la haya,
+		 <lb n="184"/>
+ 	  se concertarán dos [personas] imparciales y los testigos verídicos que se establezcan
+		 <lb n="185"/>
+ 	  entre ellos de su confianza y, si se acuerda la venta, los compradores
+		 <lb n="186"/>
+ 	  estarán obligados a recibir el precio según el dictamen de los testigos y no otr. Todas las ventas,
+		 <lb n="187"/>
+ 	  que se declararán según la tabla de estimación, no serán abrogadas ni modificadas, y se ordenará
+		 <lb n="188"/>
+ 	  a los testigos que entreguen la copia de la declaración a cada uno, al vendedor y al comprador,
+		 <lb n="189"/>
+ 	  sin otro gasto ni impedimento. Si los testigos se opusieran a dicha
+		 <lb n="190"/>
+ 	  declaración, estarían obligados y serían constreñidos a ello, haciéndose resaltar la orden del Nobles en las proclamas de los pregones en
+		 <lb n="191"/>
+ 	  [Alejandría y Damasco ...]
+		 <lb n="192"/>
+ 	  [... Cláusula 16 ...]
+		 <lb n="193"/>
+		 <lb n="194"/>
+ 	  [los súbditos del rey] de Aragón podrán realizar las transacciones, las ventas y las compras con cualesquiera
+		 <lb n="195"/>
+ 	  de los traductores o corredores en quien se confíe, a su elección. Los representantes del puerto de Alejandría
+		 <lb n="196"/>
+ 	  y sus interventores u otros comisarios no impedirán que cualquiera de
+		 <lb n="197"/>
+ 	  los intérpretes y corredores hagan el trabajo de la venta de todos sus géneros y mercancías en
+		 <lb n="198"/>
+ 	  todas las transacciones que elijan. Se les respondió a lo que pidieron sobre esto:
+		 <lb n="199"/>
+ 	  Cláusula 17 Piden los nobles pactos que
+		 <lb n="200"/>
+ 	  el inspector del puerto de Alejandría, los intendentes, los corredores del sultán
+		 <lb n="201"/>
+ 	  y otros representantes y corredores, no pondrán dificultades a ninguno de los súbditos del rey
+		 <lb n="202"/>
+ 	  de Aragón bajo ningún concepto y no pedirán, a ninguno de ellos, ningún tributo por las ventas
+		 <lb n="204"/>
+ 	  y el sésamo, cuyos derechos corresponden al inspector del de Alejandría, se seguirá [para establecer la tributación] el modelo de los grupos
+		 <lb n="205"/>
+ 	  de los francos. Si se procediera de acuerdo con las normas consuetudinarias en relación al salario de los marineros musulmanes - descargadores
+		 <lb n="206"/>
+ 	  y cargadores - los jornaleros, los corredores, los pesadores y todos los
+		 <lb n="207"/>
+ 	  que trabajan en el comercio y la exportación
+		 <lb n="208"/>
+ 	  de mercancías, [éstos] no percibirán de aquéllos [los catalanes] sino los impuestos
+		 <lb n="209"/>
+ 	  antiguos, de acuerdo con las costumbres del tiempo ancestral. Se les respondió a lo que pidieron sobre esto:
+		 <lb n="210"/>
+ 	  Cláusula 18 Solicitan los nobles pactos
+		 <lb n="211"/>
+ 	  que los súbditos del rey de Aragón no estén obligados [a pagar por] todas las ventas
+		 <lb n="212"/>
+ 	  de lo que trigan del país de los francos, ni por todo lo que compren en el país de los musulmanes,
+		 <lb n="213"/>
+ 	  en relación al nazl. Tan sólo [deberán pagar] el nazl habitual según la costumbe antigua; tampoco están obligados
+		 <lb n="214"/>
+ 	  al pago del ṣādir, sino en lo que establezcan los impuestos usuales.
+		 <lb n="215"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 19
+		 <lb n="216"/>
+ 	  Los agentes que se encuentren en Beirut o en Damasco y que se hagan cargo de las mercancías de
+		 <lb n="217"/>
+ 	  los comerciantes, las recibirán a través de la aduana de los pesos (dīwān al-qabbān) y también las retornarán a los comerciantes a través de ella.
+		 <lb n="218"/>
+ 	  [En la] aduana, en cada lugar donde se entregue la mercancía como cuando se devuelva a sus dueños.
+		 <lb n="219"/>
+ 	  Si faltase algo serían reponsables
+		 <lb n="220"/>
+ 	  los agentes según les corresponda por derecho
+		 <lb n="221"/>
+ 	  teniendo en cuenta lo que se pierda de las ventas por el sabotaje y el daño.
+		 <lb n="222"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 20
+		 <lb n="223"/>
+ 	  Los intermediarios y corredores de la Siria protegida y del puerto de Alejandría
+		 <lb n="224"/>
+ 	  que firmasen un contrato entre un comerciante súbdito del rey de Aragón y un
+		 <lb n="225"/>
+ 	  musulmán en persona, e indicasen al que vende
+		 <lb n="226"/>
+ 	  que el comprador era de confianza y solvente, si despues el comerciante musulmán
+		 <lb n="227"/>
+ 	  quebrase o huyera o no tuviera sufuciente para el pago completo del precio, responderían
+		 <lb n="228"/>
+ 	  por ello los intermediarios y los corredores. Éstos, por esta causa, estarían
+		 <lb n="229"/>
+ 	  obligados, cada uno de ellos, cumplir con el comerciante catalán lo que se hubiese estipulado entre aquel
+		 <lb n="230"/>
+ 	  musulmán y este comerciante. Se les respndió a lo que pidieron sobre esto:
+		 <lb n="231"/>
+ 	  Cláusula 21 Si uno de
+		 <lb n="232"/>
+ 	  los súbditos del rey de Aragón tuviera mercancías en la región tributaria del quinto (jums) de Alejandría y en el ʿušr
+		 <lb n="233"/>
+ 	  de Damasco y hubiera en ambas [regiones] mercancías de los grupos francos, entonces el inspector
+		 <lb n="234"/>
+ 	  y el gerente antepondrán a los catalanes a todos los grupos y sus mercancías
+		 <lb n="235"/>
+ 	  saldrán antes de que salgan las de los restantes grupos de francos.
+		 <lb n="236"/>
+ 	  Se les respondió a lo que pidieron sobre esto, existiendo otros precedentes:
+		 <lb n="237"/>
+ 	  Cláusula 22 Ni el sultán nuestro señor,
+		 <lb n="238"/>
+ 	  ni el delegado del puerto de Alejandría, ni sus inspectores
+		 <lb n="239"/>
+ 	  ni ninguno de sus gerentes, impediran ni a los subastadores, corredores, intérpretes y vendedores
+		 <lb n="240"/>
+ 	  ni a ninguna de las gentes, ni la compras ni las ventas a los súbditos del rey de Aragón,
+		 <lb n="241"/>
+ 	  ni tampoco que éstos vendan o compren según su preferencia y sin impedimento.
+		 <lb n="242"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 23
+		 <lb n="243"/>
+ 	  Si el cónsul catalán decidiera presentarse ante las Nobles Puertas,
+		 <lb n="244"/>
+ 	  le será posible hacerlo junto a los comerciantes que lo desearan. [Pero] si
+		 <lb n="245"/>
+ 	  por cualquier causa prefiera delegar a uno de los comerciantes
+		 <lb n="246"/>
+ 	  ello sería posible. Si uno de los comerciantes catalanes prefiera
+		 <lb n="247"/>
+ 	  presentarse en el Cairo, o [residir] en cualquiera de los países del sultán nuestro señor,
+		 <lb n="248"/>
+ 	  en base a los intereses de su comercio, le sería posible sin que se le impidiera
+		 <lb n="249"/>
+ 	  salir de los límites del puerto por su propia elección. El responsable del puerto
+		 <lb n="250"/>
+ 	  de Alejandría no le pondrá dificultades, y les ayudará a dirigirse hacia
+		 <lb n="251"/>
+ 	  las Nobles Puertas cada vez ue quieran sin coste alguno.
+		 <lb n="252"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula
+		 <lb n="253"/>
+ 	  24 Piden los nobles pactos
+		 <lb n="254"/>
+ 	  que el mandato del Noble [autorice] los gastos de construcción  de la alhóndiga de los calanes,
+		 <lb n="255"/>
+ 	  sin que recaiga sobre el cónsul ni sobre los comerciantes ningun tipo de impuesto.
+		 <lb n="256"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 25
+		 <lb n="257"/>
+ 	  Si uno de los comerciantes catalanes o de los súbditos de su rey muriera en tierras
+		 <lb n="258"/>
+ 	  del Islam con testamento, todos sus haberes se pondrán bajo mano de
+		 <lb n="259"/>
+ 	  su heredero legítimo. Si muriera sin testamento sus riquezas pasarían a la custodia
+		 <lb n="260"/>
+ 	  del cónsul o a la de uno de los comerciantes catalanes presentes
+		 <lb n="261"/>
+ 	  en el país en donde hubiese muerto, si entonces no hubiere allí cónsul.
+		 <lb n="262"/>
+ 	  Ni el sultán nuestro señor ni ninguno de sus agentes
+		 <lb n="263"/>
+ 	  u otros [funcionarios] se opndrían a ello. Se les respondió a lo que pidieron sobre esto:
+		 <lb n="264"/>
+ 	  Cláusula 26 El cónsul
+		 <lb n="265"/>
+ 	  de los catalanes podrá juzgar entre los comerciantes catalanes o los súbditos de su rey, si estos
+		 <lb n="266"/>
+ 	  lo prefieren y según la elección de los comerciantes de su grupo. Ni el sultán [nuestro señor]
+		 <lb n="267"/>
+ 	  ni los agentes y otros [funcionarios] se lo impedirán. Si ocurrieran disputas
+		 <lb n="268"/>
+ 	  o litigios entre uno de los comerciantes musulmanes y un comerciante catalán,
+		 <lb n="269"/>
+ 	  súbdito de su rey, y decidieran los litigantes que el cónsul
+		 <lb n="270"/>
+ 	  mediara entre ellos, el cónsul podría hacerlo. De lo contrario serían llevados
+		 <lb n="271"/>
+ 	  ante los señores de la jurisdicción de los emires, es decir, el emir y el inspector en el puerto, de acuerdo con lo que se ha dicho,
+		 <lb n="272"/>
+ 	  y el cónsul procederá de acuerdo con los precedentes del consulado.
+		 <lb n="273"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 27
+		 <lb n="274"/>
+ 	  Si alguno de los comerciantes catalanes o súbditos de su rey sufre daños,
+		 <lb n="275"/>
+ 	  el cónsul que designe el rey de Aragón en representación suya,
+		 <lb n="276"/>
+ 	  podrá escucharles y abonarles todo lo que precisen,
+		 <lb n="277"/>
+ 	  [sin la oposición] de las Nobles Puertas. Todos los emires, los valíes, el rey de los emires,
+		 <lb n="278"/>
+ 	  los cadíes y los agentes no lo impedirán de ningún modo, a no ser que, por alguna causa,
+		 <lb n="279"/>
+ 	  resultara algún perjuicio personal o patrimonial. Se les respondió a lo que pidieron
+		 <lb n="280"/>
+ 	  [sobre esto]: Cláusula 28 [Establecen]
+		 <lb n="281"/>
+ 	  los nobles pactos que el Noble señor [conceda] en pago por el salario del cónsul,
+		 <lb n="282"/>
+ 	  lo acostumbrado de antemano para el consulado del grupo de los catalanes, o sea, cada año
+		 <lb n="283"/>
+ 	  [...] que se abonarán con cargo a las ventas del comercio
+		 <lb n="284"/>
+ 	  y con cargo a l sultán. El cónsul podrá proceder a la importación anual
+		 <lb n="285"/>
+ 	  de bebidas según la costumbre establecida para el consulado
+		 <lb n="286"/>
+ 	  y también los comerciantes podrán importar sus bebidas como es habitual,
+		 <lb n="287"/>
+ 	  sin ningún coste y sin que recaiga sobre ellos [ningun cargo o tasación].
+		 <lb n="288"/>
+ 	  Las bebidas corresponderán a la cantidad suficiente acostumbrada.
+		 <lb n="289"/>
+ 	  Cláusula 29 Solicitan los nobles pactos
+		 <lb n="290"/>
+ 	  que el cónsul pueda designar a quien confie y elegirlo como traductor
+		 <lb n="291"/>
+ 	  del dīwān [perteneciente a cualquier grupo, sea musulmán],
+		 <lb n="292"/>
+ 	  judío o cristiano, para la venta o la compra, dentro o fuera
+		 <lb n="293"/>
+ 	  de la alhóndiga, y para los tratos sobre géneros y mercancías entre los comerciantes y en todas las mercancías
+		 <lb n="294"/>
+ 	  que elijan para completar la venta. Se les respondió a lo que pidieron
+		 <lb n="295"/>
+ 	  sobre esto: Cláusula 30 Piden los Nobles pactos
+		 <lb n="296"/>
+ 	  que, cuando el cónsul lo desee, pueda sustituir al posadero de la alhóndiga
+		 <lb n="297"/>
+ 	  y nombrara uno de sus comerciantes y no se le prohibirá esto siempre y cuando el posadero
+		 <lb n="298"/>
+ 	  que designe sea un hombre bueno, fiable y conocido.
+		 <lb n="299"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 31
+		 <lb n="300"/>
+ 	  Establecen los nobles pactos que en cuanto llegue el cónsil al
+		 <lb n="301"/>
+ 	  puerto de Alejandría, podrá iniciar las percepciones de acuerdo con los impuestos antiguos.
+		 <lb n="302"/>
+ 	  A los comerciantes catalanes no se les cobrará más de lo que les corresponda [pagar]
+		 <lb n="303"/>
+ 	  de los diezmos [ʿušūr] según los tributos usuales [y esto] no le será negado [al cónsul].
+		 <lb n="304"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 32
+		 <lb n="305"/>
+ 	  Solicitan los nobles pactos que se confirme esto tratado de paz y que las líneas
+		 <lb n="306"/>
+ 	  de los capítulos de las cláusulas expuestas se públicas y se consoliden en arreglo al derecho,
+		 <lb n="307"/>
+ 	  y que las cláusulas se culminen con la firma [ʿalāma] del sultán nuestro señor y por su noble mano.
+		 <lb n="308"/>
+ 	  Se les respondió a lo que pidieron sobre esto: Cláusula 33
+		 <lb n="309"/>
+ 	  Después de que se completaran estas condiciones los representantes del Noble
+		 <lb n="310"/>
+ 	  exigieron al mencionado enviado, el honrado De Casassaggia, uno
+		 <lb n="311"/>
+ 	  de los dos portavoces del grupo franco de los catalanes y súbdito del rey de Aragón,
+		 <lb n="312"/>
+ 	  que no se dañará a ninguno de los comerciantes musulmanes o de los súbditos,
+		 <lb n="313"/>
+ 	  a los propetarios de barcos, a los turcomanos y magrebíes, y a otros pertenecientes
+		 <lb n="314"/>
+ 	  a los límites del reino del Islam (salāmiyya) desde al-ʿAmīdayn
+		 <lb n="315"/>
+ 	  hasta Tarso, ni en alta mar ni en las costas. Quien del grupo
+		 <lb n="316"/>
+ 	  de los catalanes inflingiera daño personal a laguien de los [reinos] islámicos,
+		 <lb n="317"/>
+ 	  o material, en las fronteras mencionadas, estaría obligado a pagar lo que tomase de dinero
+		 <lb n="318"/>
+ 	  y demás. Si uno de los musulmanes, los magrebíes
+		 <lb n="319"/>
+ 	  o los turcomanos causaran dañor a uno de los catalanes en las fronteras mencionadas
+		 <lb n="320"/>
+ 	  en su persona o en las riquezas temporales exhibidas ante los musulmanesrepetidas veces, [los catalanes] no tomarán
+		 <lb n="321"/>
+ 	  ni dinero ni otro bien y, si esto sucede fuera de los límites mencionados del reino islámico,
+		 <lb n="322"/>
+ 	  no les será reclamado [a los musulmanes] por lo que obtengan en ellas, pues ellos, a su vez, tempoco reclamarán
+		 <lb n="323"/>
+ 	  Respondió el honrado Pero de Casassaggia que era posible
+		 <lb n="324"/>
+ 	  que los magrebíes y los turcomanos roben en estas fronteras y escribieron
+		 <lb n="325"/>
+ 	  el informe correspondiente y pusiero como condición su ayuda [de los súbditos del sultán] en las fronteras del reino islámico
+		 <lb n="326"/>
+ 	  y les respondieron las ordenanzas del Nobles: “Nosotros estamos convencidos de la enemistad permanente de los magrebíes
+		 <lb n="327"/>
+ 	  y de los turcomanos con el valeroso grupo de los catalanes y, ante su presencia, la ayuda
+		 <lb n="328"/>
+ 	  no la garantizamos. No obstante, no nos aliaremos con ellos contra los catalanes y no cederemos, ya que hemos escrito
+		 <lb n="329"/>
+ 	  un acuerdo en el reino islámico y no participaremos en sus declaraciones contra vosotros por la enemistad
+		 <lb n="330"/>
+ 	  persistente entre magrbíes y turcomanos contra el grupo de los catalanes,
+		 <lb n="331"/>
+ 	  antigua y reconocida. Se aprueba por la noble firma,
+		 <lb n="332"/>
+ 	  Dios el Altísimo la ennoblezca y se mantengan su superioridad, su nobleza y su autoridad
+		 <lb n="333"/>
+ 	  no cesa de dar con generosidad a la totalidad de sus súbditos con justicia y, dada
+		 <lb n="334"/>
+ 	  su gererosidad, les colma de beneficios y favores – Que se mantenga lo que se ha publicado
+		 <lb n="335"/>
+ 	  ... y las costumbres islámicas. Se han leído las cláusulas mencionadas ante
+		 <lb n="336"/>
+ 	  los nobles oídos – Dios les dé honor y grandeza – y han obtenido la noble aprobación.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

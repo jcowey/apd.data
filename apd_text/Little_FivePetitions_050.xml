@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2543" xml:id="Little_FivePetitions_050" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.LittleFivePetitions 310 recto</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Little_FivePetitions_050</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="upper right margin 1"/>  المملوك 
+ <lb n="upper right margin 2"/>  <unclear reason="undefined" cert="high">إبراهيم</unclear> النّاصري 
+ <lb n="1"/>  بسم اللّه الرَّحمن الرّحيم 
+ <lb n="2"/>  يقبّل الأرض ويُنهي أنّ المملوك فقير وذو 
+ <lb n="3"/>  عائلة من حمّال كتاب اللّه العزيز ومن طلبة العلم الشّريف 
+ <lb n="4"/>  والمسول من إحسانِ المخدوم أعز اللّه تعالى أنصاره 
+ <lb n="5"/>  أن يكون المملوك منزلا بتربة المرحوم السّيفي طاز 
+ <lb n="6"/>  تغمّده اللّه تعالى بالرّحمة والرّضوان مقرئا أسوة 
+ <lb n="7"/>  المنزلين بها من القرّا ويغتنم الأجر والدّعا من المملوك 
+ <lb n="8"/>  ومن عائلته واللّه تعالى يوپّده بمنّه وكرمه أنهى ذلك 
+ <lb n="9"/>  الحمد للّه رب العالمين وصلّي اللّه على سيّدنا محمّد وعلى آله وصحبه 
+ <lb n="10"/>  إن شا اللّه تعالى 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl mamlūku 
+ <lb n="2"/>ʾibrāhīmu ăn nāṣiriyyu 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>yuqabbilu ăl ʾarḍa wa yunhī ʾanna ăl mamlūka faqīr:un wa ḏū 
+ <lb n="5"/>ʿāʾilaẗ:in min ḥummāli kitābi ăl lāhi ăl ʿazīzi wa min ṭalabaẗi ăl ʿilmi ăš šarīfi 
+ <lb n="6"/>wa ăl masūlu min ʾiḥsāni ăl maḫdūmi ʾaʿazza ăl lāhu taʿālà ʾanṣāra hu 
+ <lb n="7"/>ʾan yakūna ăl mamlūku munazzal:an bi turbaẗi ăl marḥūmi ăs sayfiyyi ṭāza 
+ <lb n="8"/>taġammada hu ăl lāhu taʿālà bi ăr raḥmaẗi wa ăr riḍwāni muqriʾ:an ʾuswaẗa 
+ <lb n="9"/>ăl munazzalīna bi hā mina ăl qurrāʾi wa yaġtanimu ăl ʾaǧra wa ăd duʿāʾa mina ăl mamlūki 
+ <lb n="10"/>wa min ʿāʾilati hi wa ăl lāhu taʿālà yuʾayyidu hu bi manni hi wa karami hi ʾanhà ḏālika 
+ <lb n="11"/>ăl ḥamdu li l lāhi rabbi ăl ʿālamīna wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʿalà ʾāli hi wa ṣaḥbi hi 
+ <lb n="12"/>ʾin šāʾa ăl lāhu taʿālà 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  The slave
+		 <lb n="2"/>
+ 	  Ibrāhīm al-Nāṣirī
+		 <lb n="3"/>
+ 	  In the name of God the Compassionate, the Merciful
+		 <lb n="4"/>
+ 	  kisses the ground and reports that the slave is poor and has
+		 <lb n="5"/>
+ 	  a family; he is a bearer of the Glorious Book and a seeker of the noble science.
+		 <lb n="6"/>
+ 	  The request from the beneficence of the master, may God the Exalted strengthen his victories,
+		 <lb n="7"/>
+ 	  is that the slave be installed in the Mausoleum of the late Sayf al-Dīn Ṭāz,
+		 <lb n="8"/>
+ 	  may God the Exalted envelop him in mercy and favor, as reciter, on the model
+		 <lb n="9"/>
+ 	  of these reciters (already) installed there and gain (thereby) the reward (God&#039;s) and the prayers of the slave
+		 <lb n="10"/>
+ 	  and his family, and may God the Exalted support him with his favor and generosity. He reported that.
+		 <lb n="11"/>
+ 	  Praise be to God, Lord of the worlds. May God bless Our Lord Muḥammad, his family, and companions.
+		 <lb n="12"/>
+ 	  God the Exalted willing.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

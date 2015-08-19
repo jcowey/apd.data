@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="914" xml:id="Guo_Quseir_43" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 43</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_43</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113674</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  يسلّم إلي الشّيخ أبو مفرّج من خارج 
+<lb n="2"/>  حمل وثپمانية ويبات <app type="BL"><lem resp="APD">وعر<supplied reason="lost" cert="high">پله</supplied> </lem><rdg resp="APD">وعرپله </rdg><rdg resp="“Diem, P.QuseirArab. p. 168”">عديلة </rdg><rdg resp="AK">عديلتين</rdg></app> <supplied reason="lost" cert="high">زيت</supplied> 
+<lb n="3"/>  من حمولة <unclear reason="undefined" cert="high">أخبارك</unclear> السّوا<supplied reason="lost" cert="high">ري</supplied> 
+<lb n="4"/>  يسلّم <sic n="superfluous">من</sic> إلي الشّيخ أبو مفرّج من 
+<lb n="5"/>  <supplied reason="lost" cert="high">ا</supplied>لقبل حمل وربع <app type="BL"><lem resp="APD">وغربلة </lem><rdg resp="“Diem, P.QuseirArab. p. 168”">عديلة</rdg></app> زيت 
+<lb n="6"/>  من حمولة السّواري 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yusallam ʾilà ăš šayḫi ʾabū mufarriǧ:in min ḫāriǧ:in 
+ <lb n="2"/>ḥiml:un wa ṯamāniyaẗu waybāt:in wa ʿadīlaẗu ġarbalaẗu ʿadīlatayni zayt:in 
+ <lb n="3"/>min ḥumūlaẗi ʾaḫbāri ka ăs sawārī 
+ <lb n="4"/>yusallam ʾilà ăš šayḫi ʾabū mufarriǧ:in mina 
+ <lb n="5"/>ăl qibli ḥiml:un wa rubʿ:un wa ġarbalaẗu ʿadīlaẗu zayt:in 
+ <lb n="6"/>min ḥumūlaẗi ăs sawārī 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		To be delivered to Shaykh Abū Mufarrij from abroad (?) are
+			<lb n="2"/>
+		one load and eight waybas [of grain] and an [oil] strainer,
+			<lb n="3"/>
+		to be loaded on the carrier &#034;Your Good Tidings.&#034;
+			<lb n="4"/>
+		To be delivered to Shaykh Abū Mufarrij from
+			<lb n="5"/>
+		the south are: one and a quarter loads [of grain] and an oil strainer, 
+			<lb n="6"/>
+		to be loaded on the carrier &#034;[Your] Good Tidings.&#034;
+</ab></div>
+</body>
+</text>
+</TEI>

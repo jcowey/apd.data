@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1860" xml:id="Grohmann_APEL_350" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 350</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_350</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169597</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  ادفع يا علي إلى قسم 
+ <lb n="3"/>  <supplied reason="lost" cert="high">د</supplied>رهمپن β 
+ <lb n="4"/>  وكتب أبو الجربز 
+ <lb n="5"/>  بخطّه 
+ <lb n="6"/>  وهو عن كرا 
+ <lb n="7"/>  توت 
+ <lb n="8"/>  وادفع إليه عن كرا بابه 
+ <lb n="9"/>  درهم واحد 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ yā ʿaliyyu ʾilà qāsim:in 
+ <lb n="3"/>dirhamayni ‪2 
+ <lb n="4"/>wa kataba ʾabū ăl ǧurbuzi 
+ <lb n="5"/>bi ḫaṭṭi hi 
+ <lb n="6"/>wa huwa ʿan kirāʾi 
+ <lb n="7"/>tūta 
+ <lb n="8"/>wa ĭdfaʿ ʾilay hi ʿan kirāʾi bābiha 
+ <lb n="9"/>dirham wāḥid 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="2"/>
+ 	  O ʿAlî pay to Qâsim
+		 <lb n="3"/>
+ 	  two dirhams 2.
+		 <lb n="4"/>
+ 	  And Abu&#039;l-Ǧurbuz has written (it)
+		 <lb n="5"/>
+ 	  in his (own) handwriting.
+		 <lb n="6"/>
+ 	  And this is (on account) of the rent
+		 <lb n="7"/>
+ 	  of Thot.
+		 <lb n="8"/>
+ 	  And pay to him (on account) of the rent of Bâbe
+		 <lb n="9"/>
+ 	  One dirham.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

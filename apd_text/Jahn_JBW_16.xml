@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="628" xml:id="Jahn_JBW_16" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 16</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_16</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106743</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وأتم نعمته عليك وزاد في إحـ<supplied reason="lost" cert="high">ـسانه</supplied> <supplied reason="lost" cert="high">إلـ</supplied>ـيك 
+<lb n="3"/>  صرت أعزّك اللّه إلى بوصير مع الرّجل الّذي <app type="BL"><lem resp="APD">قلت </lem><rdg resp="“Levi della Vida, Letters p. 135”">تلقيت </rdg><rdg resp="Diem">بلينا</rdg></app> به <app type="BL"><lem resp="APD">فرجّع </lem><rdg resp="“Levi della Vida, Letters p. 135”">فرجّع</rdg></app> إلى طلب الدّنانير والمقام 
+<lb n="4"/>  لمدّة الأيّام ثم إنّه سألني دفعها <app type="BL"><lem resp="APD">واپصراڤه </lem><rdg resp="Diem">إليه</rdg></app> عپى ڤلم ار <app type="BL"><lem resp="APD">أڤطع </lem><rdg resp="Diem">أرا</rdg></app> <app type="BL"><lem resp="APD">سي </lem><rdg resp="Diem">قطع</rdg></app> من امره 
+<lb n="5"/>  إلى معاودتك ومعرفة رأيك في الدّفع ومقامه أو انصرافه 
+<lb n="6"/>  وخفت أعزّك اللّه أن <app type="BL"><lem resp="APD">ترى </lem><rdg resp="Diem">أتركه</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">تـ</supplied>ـصرف </lem><rdg resp="“Levi della Vida, Letters p. 135”">الانصراف </rdg><rdg resp="Diem">ينصرف</rdg></app> فيحتج أنّه لم <app type="BL"><lem resp="APD">يخذ </lem><rdg resp="“Levi della Vida, Letters p. 135”  	">يجدني</rdg></app> شي فيكون في ذلك ما لا 
+<lb n="7"/>  يحتاج إليه وقد دفعته وداريته إلى ورود كتابك <app type="BL"><lem resp="APD">ڤاعـ<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Levi della Vida; Diem">فَأَعْلِمْنِي</rdg></app> <app type="BL"><lem resp="APD">لي </lem><rdg resp="Levi della Vida; Diem">ø</rdg></app> <app type="BL"><lem resp="APD">ما </lem><rdg resp="Diem">بما</rdg></app> <app type="BL"><lem resp="APD">أمرته </lem><rdg resp="Diem">تأمر</rdg></app> 
+<lb n="8"/>  إن شا اللّه <app type="BL"><lem resp="APD">واهتممت </lem><rdg resp="“Levi della Vida, Letters p. 135”"><gap reason="illegible" precision="low" extent="3"/>و </rdg><rdg resp="Diem">وإنّك</rdg></app> جعلني اللّه فداك <app type="BL"><lem resp="APD">عالم </lem><rdg resp="“Levi della Vida, Letters p. 135”">على</rdg></app> <app type="BL"><lem resp="APD">لا </lem><rdg resp="APD">ø</rdg></app> <app type="BL"><lem resp="APD">تحتاج </lem><rdg resp="Diem">تحتاج </rdg><rdg resp="“Levi della Vida, Letters p. 135”">الاحتياج</rdg></app> إلى مبصر 
+<lb n="9"/>  في أمرك والمبادرة بالكتب مع <app type="BL"><lem resp="APD">نصر </lem><rdg resp="“Levi della Vida, Letters p. 135”">أحد</rdg></app> عند وصول كتابي إليك 
+<lb n="10"/>  ممّا أن <app type="BL"><lem resp="ḍād with two dots above">تضيها </lem><rdg resp="“Levi della Vida, Letters p. 135”">ارتضيتها </rdg><rdg resp="Diem">أرتضيها</rdg></app> <app type="BL"><lem resp="APD">ويعود </lem><rdg resp="“Levi della Vida, Letters p. 135”">ويعود</rdg></app> <app type="BL"><lem resp="APD">دفعها </lem><rdg resp="Levi della Vida; Diem">نفعها</rdg></app> علي وعليك <app type="BL"><lem resp="APD">وينقطع </lem><rdg resp="Levi della Vida; Diem">وينقطع</rdg></app> عنّا <app type="BL"><lem resp="APD">الغيت </lem><rdg resp="“Levi della Vida, Letters p. 135”">التعيث </rdg><rdg resp="Diem">العنت</rdg></app> 
+<lb n="11"/>  من هذه النّاحية فاكتب أعزّك اللّه غيى <app type="BL"><lem resp="APD">ماه </lem><rdg resp="“Levi della Vida, Letters p. 135 under reserve”">منافق </rdg><rdg resp="Diem">مأمور</rdg></app> <app type="BL"><lem resp="APD">ورّكته </lem><rdg resp="“Levi della Vida, Letters p. 135”">وكسل </rdg><rdg resp="Diem">كتبك</rdg></app> بك <app type="BL"><lem resp="APD">واقعا </lem><rdg resp="“Levi della Vida, Letters p. 135”">وألقا </rdg><rdg resp="Diem">وانفذ</rdg></app> غلامك 
+<lb n="12"/>  إلي في السّاعة الّتي <app type="BL"><lem resp="APD">نزل </lem><rdg resp="“Levi della Vida, Letters p. 135”">يرد</rdg></app> كتابي عليك <app type="BL"><lem resp="APD">لأن </lem><rdg resp="“Levi della Vida, Letters p. 135”">لأن</rdg></app> لا <app type="BL"><lem resp="APD">بد </lem><rdg resp="Levi della Vida; Diem">يذهب </rdg><rdg resp="Diem">تذهب</rdg></app> ممّا لا <app type="BL"><lem resp="APD">يلزم </lem><rdg resp="Levi della Vida; Diem">الأيّام</rdg></app> والدّنانير <app type="BL"><lem resp="APD">وأصير </lem><rdg resp="Diem">ويصير</rdg></app> 
+<lb n="13"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">فكتب</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="Diem">اللّه</rdg></app> السلامة لنا وحسن <app type="BL"><lem resp="APD">عاقبة </lem><rdg resp="Diem">عاقبة</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi ʾilay ka ø wa ø ʿinda ø ka 
+ <lb n="3"/>ṣirtu ʾaʿazza ka ăl lāhu ʾilà būṣīra maʿa ăr raǧuli ăllaḏī qultu talaqqaytu bulīnā bi hi fa raǧǧaʿa raǧaʿa ʾilà ṭalabi ăd danānīri wa ăl maqāmi 
+ <lb n="4"/>li muddaẗi ăl ʾayyāmi ṯumma ʾinna hu saʾala nī dafʿa hā ø ʾilay ø hi wa ĭnṣirāfa hu ʿann ī fa lam ʾara ʾarā ʾaqṭaʿu qaṭʿa šayʾ šayʾ:in min ʾamri hi 
+ <lb n="5"/>ʾilà muʿāwadati ka wa maʿrifaẗi raʾyi ka fī ăd dafʿi wa maqāmi hi ʾawi ĭnṣirāfi hi 
+ <lb n="6"/>wa ḫiftu ʾaʿazza ka ăl lāhu ʾan tarà ʾatruka ø hu ø ăli taṣrifu ĭnṣirāfa yanṣarifu fa yaḥtaǧǧu ʾanna hu lam yaḫuḏ yaǧid ø nī šayʾ fa yakūnu fī ḏālika mā lā 
+ <lb n="7"/>yaḥtāǧu yuḥtāǧu ʾilay hi wa qad dafaʿtu hu wa dāraytu hu ʾilà wurūdi kitābi ka fa ʾʿ*** ʾaʿlim nī l ø ī ø ø bi mā ʾamarta taʾmuru hu ø ø bi ø hi 
+ <lb n="8"/>ʾin šāʾa ăl lāhu wa ĭhtamamtu *** ʾinna ø ka ǧaʿala nī ăl lāhu fidāʾa ka ʿālim:un ʿalà lā ø ø taḥtāǧu ăli yaḥtāǧu ĭḥtiyāǧi ʾilà mabṣar:in mubaṣṣir:in 
+ <lb n="9"/>fī ʾamri ka wa ăl mubādaraẗu bi ăl katbi maʿa naṣr:in ʾaḥad:in ʿinda wuṣūli kitāb ī ʾilay ka 
+ <lb n="10"/>mimmā ʾan tḍy ĭrtaḍayta ʾartaḍī hā wa taʿūda yaʿūda dafʿa nafʿu hā ʿalay ya wa ʿalay ka wa tanqaṭiʿa yanqaṭiʿa ʿan nā ăl ăt ġayṯu taʿayyuṯu ʿanatu 
+ <lb n="11"/>min hāḏihi ăn nāḥiyaẗi fa ŭktub ʾaʿazza ka ăl lāhu ġayra māh munāfiq:in maʾmūr:in warrakat wa kutuba hu kasil:in ka bi ka wāqiʿ:an wa ʾalqā ŭnfuḏ ġulāma ka 
+ <lb n="12"/>ʾilay ya fī ăs sāʿaẗi ăllatī nazala yaridu kitāb ī ʿalay ka liʾan liʾanna lā budda taḏhaba yaḏhaba mimmā lā yalzamu ăl ʾayyāmu wa ăd danānīri danānīru wa ʾaṣīru yaṣīru 
+ <lb n="13"/>*** fa ø kataba ****** ăl ø lāhu ăs salāmaẗa salāmaẗu la nā wa ḥusnu ʿāfiyaẗ:in ʿāqibaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben und gewähre Dir weiterhin Ansehen und Ehre, schenke Dir seine vollständige Gnade und erweise Dir noch mehr in jeder Hinsicht sein Wohlwollen!
+		Gott lasse Dich lange leben und lasse dauern Deine Kraft und Dein Ansehen und vollende seine Gnade an Dir und überhäufe Dich mit [seiner Gunst].
+			<lb n="3"/>
+		Ich habe mich - Gott erhöhe Dich - nach Būṣīr begeben, zusammen mit dem Manne, mit dem ich gesprochen hatte. Da kam er wiederum auf die Forderung der Dīnāre und den Aufenthalt
+		Ich habe mich – Gott stärke Dich – zusammen mit dem Mann, mit dem wir geschlagen sind, nach Būṣīr begeben, da er wieder der (ursprünglichen) Meinung war, die Dinare (von den Schuldnern) zu verlangen und
+		I went - may God strengthen you - to Būṣīr with the man whom I met, and he repeated to me the request for the dīnārs, (with the condition of) staying (namely, in Būṣīr) 
+			<lb n="4"/>
+		für die Dauer der (hierfür notwendigen) Tage zu bleiben. Hierauf erbat er von mir (aber doch) ihre (sofortige) Auszahlung an ihn und seine Abreise von mir. Ich aber wollte in seiner Angelegenheit nichts entscheiden,
+		until the end of the term (set for the repayment of the loan). Later, he asked me for the delivery of them and (the permission) to leave. However, I did not think I could decide anything about this affair 
+		wegen seiner langen Dauer zurück. Hierauf verlangte er von mir [ihre] Bezahlung und (bat) um seinen Abschied; ich bin jedoch nicht der Ansicht, irgend etwas von seiner Sache entscheiden zu können,
+			<lb n="5"/>
+		bevor ich Dich konsultiert und Deine Meinung bezüglich der Auszahlung (der Dinare) an ihn und seines Bleibens oder Abreisens erfahren hätte.
+		ehe Du zurück gekehrt bist und ich Deine Ansicht betreffs der Auszahlung an ihn, sein Verweilen oder seine Abreise zur Kenntnis genommen habe.
+		until you would write me again and I may know your opinion about delivering to him the money, with the condition of staying or leaving. 
+			<lb n="6"/>
+		I am afraid - may God strenghten you - that if you think that he may leave, he may argue (at the time set for the repayment) that he did not find me (?), and consequently something un-
+		Ich befürchtete (nämlich) – Gott stärke Dich -, daß ich [ihm] (nach Übergabe des Geldes) erlau[ben] würde, abzureisen, und er hierauf argumentieren würde, er habe nichts erhalten, was Konsequenzen hätte, die (nun wirklich) nicht
+		Und ich fürchtete - Gott erhöhe Dich - daß Du der Meinung sein wirst, (ihn) fortzuschicken. Er wird aber als Ausrede gebrauchen, daß er gar nichts erhalten hat und so wird darin etwas sein, dessen er gar nicht
+			<lb n="7"/>
+		bedarf. Ich habe ihn zurück gehalten und bis zur Ankunft Deines Briefes freundlich behandelt. So ...... mir, was Du befohlen hast.
+		desirable (i.e., the loss of the money lent) may happen in that case. I have been holding and putting him off until your letter comes. Now let me know what you command,
+		nötig sind. Ich habe ihn (deshalb) hingehalten und hofiert (und werde dies weiterhin tun), bis Dein Brief (mit Deiner Antwort bei mir) eintrifft. [Teile mir] also [mit], was du (zu tun) befiehlst,
+			<lb n="8"/>
+		God be pleased, and ......... - may God make me your ransom - the need to reflect
+		so Gott will. Du – Gott mache mich zu Deinem Lösegeld – weißt ja (selbst) Bescheid und bedarfst niemands, der (Dir)
+		So Gott will! Und ich habe mich ernstlich bemüht - Gott mache mich zu Deinem Lösegeld - ein Wissender braucht keines Beweises, in
+			<lb n="9"/>
+		Deiner Angelegenheit. Und beeile Dich, mir sogleich beim Erhalt meines Schreibens schriftlich mitzuteilen,
+		in Deiner Angelegenheit Einsicht verleiht. Und laß die Briefe so schnell wie möglich durch Naṣr überbringen, sobald mein Brief bei Dir ankommt,
+		 upon your affair, and, as soon as my letter reaches you, write speedily by somebody a decision (?) 
+			<lb n="10"/>
+		daß Du ..... und seine Bezahlung zurückweisest zu meinen und Deinen Lasten, und uns der reichliche Regen(?)
+		etwas (sc. Briefe), mit denen [sic] ich (hoffentlich) zufrieden bin, aus denen mir und Dir Nutzen erwächst und (durch die) die leidige Sache für uns
+		with which you are pleased and which may result in an advantage both for you and me, so that a waste of money
+			<lb n="11"/>
+		dieses Distrikts versiege. So schreib - Gott erhöhe Dich - ... und ... Deinen Diener
+		in dieser Hinsicht ein Ende nimmt. Schreibe also – Gott stärke Dich -, ohne daß man es Dir befehlen könnte, Deine Briefe und sende Deinen Burschen
+		on this side may be avoided to us. Therefore write - may God strengthen you - without being hypocritical and indolent (?) and send (?) me your servant
+			<lb n="12"/>
+		as soon as my letter reaches your, in order that both time and money be not lost. ...
+		noch in dem Augenblick, in dem (dieser) mein Brief bei dir ankommt, (mi den Briefen) zu mir, damit nicht die Tage und die Dinare entschwinden, und er (?) soll sich begeben (?)
+		zu mir in derselben Stunde, in der mein Brief zu Dir kommt; denn es gibt kein Entrinnen von dem, was nicht pflichtgemäß obliegt und den Dīnāren, und ich werde ....
+			<lb n="13"/>
+		[...] Friede Sei uns und treffliche Gesundheit.
+		 [          ].[   ]..[   ].[   ] So best[imme] denn G[o]tt Wohlbehaltenheit für uns und einen guten Ausgang (dieser Angelegenheit)!
+</ab></div>
+</body>
+</text>
+</TEI>

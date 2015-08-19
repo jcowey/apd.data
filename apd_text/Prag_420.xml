@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1687" xml:id="Prag_420" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 42</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_420</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169437</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم الـ<supplied reason="lost" cert="high">ـلّه</supplied> الرّحـ<supplied reason="lost" cert="high">ـمن</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم 
+<lb n="recto 2"/>  ما استخرجته من مال سنة <unclear reason="undefined" cert="high">خمس</unclear> وما قبلها من <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="recto 3"/>  ســــــــه <del rend="erasure" status="unremarkable"><unclear reason="undefined" cert="high">الحراح</unclear></del> 
+<lb n="recto 4"/>  من مال سنة أربع ممّا حمل على يد 
+<lb n="recto 5"/>  شنودة الدّلام وهو خمسين <unclear reason="undefined" cert="high">دينرا</unclear> 
+<lb n="recto 6"/>  ‮عن ‮‪νηΧ‬ عدد‬‬ 
+<lb n="recto 7"/>  المزارعين 
+<lb n="recto 8"/>  ‮أبيمة بن قلمون ‮‪αΧγʹηʹ‬ إسحق القزّاز ‪Χγʹιʹβʹ‬‬‬ 
+<lb n="recto 9"/>  ‮<supplied reason="lost" cert="high">بشـ</supplied>ـة ‪Χγʹιʹβʹ‬‬ 
+<lb n="recto 10"/>  ‮<supplied reason="lost" cert="high">دري</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن طورس ‮‪Χγʹηʹ‬ برمودة بن سبينة ‪Χγʹηʹ‬‬‬ 
+<lb n="recto 11"/>  ‮<gap reason="illegible" precision="low" extent="3"/> بشة ‪ϛʹηʹ‬‬ 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> بيد ولدي 
+<lb n="recto 13"/>  ‮<supplied reason="lost" cert="high">بولس</supplied> <supplied reason="lost" cert="high">بن</supplied> <app type="BL"><lem resp="APD">بلبة </lem><rdg resp="APD">بلتة</rdg></app> ‮‪Χγʹηʹ‬ بطرس بن موسى ‪Χγʹηʹ 
+<lb n="recto 14"/>  ‮<supplied reason="lost" cert="high">ثمن</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـتّان ‮α ‮‪γʹιʹβʹ‬ بشة 
+<lb n="recto 15"/>  ‮<supplied reason="lost" cert="high">بشـ</supplied>ـة ‮‪ΧγʹηʹΧ‬ ‮α بتوح 
+<lb n="recto 16"/>  <supplied reason="lost" cert="high">بيـ</supplied>ـد <supplied reason="lost" cert="high">و</supplied>لدي 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مائـ</supplied>ـة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن السّبّاك ‮‪βΧηʹ‬ بلتوس بن مرقورة ‪βΧγʹ 
+<lb n="verso 3"/>  <supplied reason="lost" cert="high">ثمن</supplied> كتّان وأبو الحر بن جرجة سرئلة 
+<lb n="verso 4"/>  ‮<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـون ‮‪αΧγʹκʹδʹ‬ ‮‪Χγʹιʹβʹ‬ ‪αΧγʹιʹβʹ 
+<lb n="verso 5"/>  ‮<gap reason="illegible" precision="low" extent="3"/> غدر ‪ϛʹηʹ 
+<lb n="verso 6"/>  ‮<supplied reason="lost" cert="high">بشـ</supplied>ـة ‮‪βΧηʹ‬ بطرس بن موسى ‪γΧδʹ 
+<lb n="verso 7"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‮‪Χγʹηʹ‬ بشة ‪<gap reason="illegible" extent="2" unit="character" />γʹιʹβʹ 
+<lb n="verso 8"/>  ‮<supplied reason="lost" cert="high">بولـ</supplied>ـس بن <app type="BL"><lem resp="APD">بلبة </lem><rdg resp="APD">بلتة</rdg></app> ‮‪Χγʹιʹβʹ‬ عن <unclear reason="undefined" cert="high">دينر</unclear> <unclear reason="undefined" cert="high">عين</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 9"/>  ‮<supplied reason="lost" cert="high">بشـ</supplied>ـة ‮‪γʹιʹβʹΧ‬ برمودة بن سبينة ‪<supplied reason="lost" cert="high">βΧϛ‪</supplied>‬ʹηʹ 
+<lb n="verso 10"/>  ‮<supplied reason="lost" cert="high">بـيد</supplied> <supplied reason="lost" cert="high">بولـ</supplied>ـس ‮‪Χγʹηʹ‬ ‮‪Χγʹιʹβʹ‬ ‮‪<gap reason="illegible" extent="1" unit="character" />γʹιʹβʹ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 11"/>  ‮<supplied reason="lost" cert="high">إسـ</supplied>ـحق القزّاز ‮‪αγʹκʹδʹ‬ دري بن طورس <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 12"/>  ‮<gap reason="illegible" precision="low" extent="3"/> و<supplied reason="lost" cert="high">ر</supplied>ق بيد <app type="BL"><lem resp="APD">بفام </lem><rdg resp="LS cf. P.Cair.Arab. 86.5, “cf. Thung, CPR XXVI 26.2” where Grohmann refers to an emendation by Karabacek to P.Berl.Arab. 12 “not yet in the database”">بفام</rdg></app> ‮‪ϛʹηʹ‬ ‪‪<gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">κ</supplied>‬ʹδʹ 
+<lb n="verso 13"/>  ‮<supplied reason="lost" cert="high">مـ</supplied>ـرقورة بن مرقس ‮‪γʹηʹ‬ بشـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 14"/>  <gap reason="illegible" extent="5" unit="character" /> ورق ثمن كتّان بيد سر<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 15"/>  <gap reason="illegible" precision="low" extent="3"/> وأبو الرّيح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 16"/>  ‮<supplied reason="lost" cert="high">بشـ</supplied>ـة ‮‪βΧγʹιʹβʹ‬ بشة ‪<gap reason="illegible" extent="2" unit="character" />ʹηʹ 
+<lb n="verso 17"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بيـ</supplied>ـد كيل بن شنودة ثمن كتّان أيضا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 18"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‮γ بشة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 19"/>  ‮<gap reason="illegible" precision="low" extent="3"/> نقص ‪ϛʹ‬ بتوح ‮‪ιʹβʹ‬ بـيد <app type="BL"><lem resp="APD">بقام </lem><rdg resp="‭LS cf. P.Cair.Arab. 86.5">بفام</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 20"/>  ‮<gap reason="illegible" precision="low" extent="3"/> بن كيل ثمن كتّان عن ‮‪γΧ‬ <gap reason="illegible" precision="low" extent="3"/>‮ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>mā ĭstaḫraǧtu hu min māli sanaẗi ḫams:in wa mā qabla hā min ****** 
+ <lb n="3"/>sh ăl ḫarāǧi 
+ <lb n="4"/>min māli sanaẗi ʾarbaʿ:in mimmā ḥumila ʿalà yadi 
+ <lb n="5"/>šanūdaẗa ăd dulāmu wa huwa ḫamsīna dīnār:an 
+ <lb n="6"/>ʿan 58+1/2 ʿadad 
+ <lb n="7"/>ăl muzāriʿīna 
+ <lb n="8"/>ʾabīmaẗu bnu qalamūna 1+1/2+1/3+1/8 ʾisḥāqu ăl qazzāzu 1/2+1/3+1/12 
+ <lb n="9"/>bišaẗu 1/2+1/3+1/12 
+ <lb n="10"/>darī bnu ṭawrusa 1/2+1/3+1/8 barmūdaẗu bnu sabīnaẗa 1/2+1/3+1/8 
+ <lb n="11"/>*** bišaẗu 1/6+1/8 
+ <lb n="12"/>*** bi yadi walad ī 
+ <lb n="13"/>būlusu bnu balbaẗa baltaẗa 1/2+1/3+1/8 buṭrusu bnu mūsà 1/2+1/3+1/8 
+ <lb n="14"/>ṯamanu kattān:in 1 1/3+1/12 bišaẗu 
+ <lb n="15"/>bišaẗu 1/2+1/3+1/8+1/48 1 batūḥu 
+ <lb n="16"/>bi yadi walad ī 
+ <lb n="17"/>*** miʾaẗ *** 
+ <lb n="18"/>*** bnu ăs sabbāki 2+1/2+1/3 bilatūsu bnu marqūraẗa 2+1/2+1/3 
+ <lb n="19"/>ṯamanu kattān:in wa ʾabū ăl ḥurri bnu ǧirǧaẗa saraʾilaẗa 
+ <lb n="20"/>***ūn 1+1/2+1/3+1/24 1/2+1/3+1/12 1+1/2+1/3+1/12 
+ <lb n="21"/>*** ġadr 1/6+1/8 
+ <lb n="22"/>bišaẗu 2+2/3+1/8 buṭrusu bnu mūsà 3+1/2+1/4 
+ <lb n="23"/>*** 1/2+1/3+1/8 bišaẗu **+1/3+1/12 
+ <lb n="24"/>būlusu bnu balbaẗa baltaẗa 1/2+1/3+1/12 ʿan dīnār:in ʿayn:in *** 
+ <lb n="25"/>bišaẗu 1/3+1/12+1/48 barmūdaẗu bnu sabīnaẗa 2+1/2+1/6+1/8 
+ <lb n="26"/>bi yadi būlusa 1/2+1/3+1/8 1/2+1/3+1/12 *+1/3+1/12 *** 
+ <lb n="27"/>ʾisḥāqu ăl qazzāzu 1+1/3+1/24 darī bnu ṭawrusa *** 
+ <lb n="28"/>*** waraq bi yadi bifāma biqāma 1/6+1/8 **+1/24 
+ <lb n="29"/>marqūraẗu bnu marqusa 1/3+1/8 bišaẗu *** 
+ <lb n="30"/>***** waraq ṯamanu kattān:in bi yadi sr* *** 
+ <lb n="31"/>*** wa ʾabū ăr rīḥi *** 
+ <lb n="32"/>bišaẗu 2+1/2+1/3+1/12 bišaẗu *+1/*+1/8 
+ <lb n="33"/>*** bi yadi kayli bni šanūdaẗa ṯamana kattān:in ʾayḍ:an *** 
+ <lb n="34"/>*** 3 bišaẗu *** 
+ <lb n="35"/>*** naqṣ 1/6 batūḥu 1/12 bi yadi bifāma biqāma *** 
+ <lb n="36"/>*** bni kayl:in ṯamana kattān:in ʿan 3+1/2 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Got[tes], der Barmher[zigen, Gü]tigen!
+			<lb n="2"/>
+		Was ich erhoben habe an (Steuer)geld des Jahres fünf und des vorangehenden aus ......
+			<lb n="3"/>
+		......... 〚der Grundsteuer〛
+			<lb n="4"/>
+		vom (Steuer)einkommen des Jahres vier, das eingesandt worden ist durch
+			<lb n="5"/>
+		Šanūda, den Schwarzen, und zwar fünfzig (?) Dīnāre
+			<lb n="6"/>
+		anstatt 58 1/2 gezählten.
+			<lb n="7"/>
+		Die Pächter:
+			<lb n="8"/>
+		Abīme b. Qalamōn 1 /2+1/3+1/8 Isḥāq, der Seidenhändler, 1/2+1/3+1/12
+			<lb n="9"/>
+		[Bš]a 1/2+1/3+1/12
+			<lb n="10"/>
+		[Darī be]n Ṭauros 1/2+1/3+1/8 Barmūde b. Sabīne 1/2+1/3+1/8
+			<lb n="11"/>
+		[...] Bša 1/6+1/8
+			<lb n="12"/>
+		[...] durch meinen Sohn
+			<lb n="13"/>
+		[Būlos b.] Balbe 1/2+1/3+1/8 Buṭrus b. Mūsā 1/2+1/3+1/8
+			<lb n="14"/>
+		[Wertabgabe von Fla]chs 1 1/3+1/12 Bša
+			<lb n="15"/>
+		[Bš]a 1/2+1/3+1/8+1/48 _ 1 Batūḥ
+			<lb n="16"/>
+		[du]rch meinen Sohn
+			<lb n="17"/>
+		[... hun]dert[...]
+			<lb n="18"/>
+		[... b.] as-Sabbāk 2 1/2+1/8 Bilatūs b. Merqūre 2 1/2+1/3
+			<lb n="19"/>
+		[Wertabgabe von] Flachs _ und Abu&#039;l-Ḥurr b. Ǧirǧe Saraʾile
+			<lb n="20"/>
+		[...]ūn 1 1/2+1/3+1/24 _ 1/2+1/3+1/12 _ 1 1/2+1/3+1/12
+			<lb n="21"/>
+		[...] Rückstand 1/6 +1/8
+			<lb n="22"/>
+		[Bš]a 2 2/3+1/8 Buṭrus b. Mūsā 3 1/2+1/4
+			<lb n="23"/>
+		[...] 1/2+1/3+1/8 Bša [..]1/3+1/12
+			<lb n="24"/>
+		[Būlos] b. Balbe 1/2+1/3+1/12 zu einem Dīnār Goldgeld (?) (per Faddān)
+			<lb n="25"/>
+		[B]ša 1/3+1/12+1/48 Barmūde b. Sabīne [2 1/2]+1/6+1/8
+			<lb n="26"/>
+		[durch Būlo]s 1/2+1/3+1/8 _ 1/2+1/3+1/12 _ [1/2]+1/3+1/12
+			<lb n="27"/>
+		[Iṣ]ḥāq, der Seidenhändler, 1 1/3+1/24 Darī b. Ṭauros [...]
+			<lb n="28"/>
+		[...] Sil[ber]geld durch Bqām 1/6+1/8[..]1/24 [....]
+			<lb n="29"/>
+		[Me]rqūre b. Morqos 1/3+1/8 Bš[a ...]
+			<lb n="30"/>
+		[...]... Silbergeld Wertabgabe von Flachs durch ... [...]
+			<lb n="31"/>
+		[...] und Abū Rīḥ [...]
+			<lb n="32"/>
+		[Bš]a 2 1/2+1/3+1/12 Bša [..]+1/8[...]
+			<lb n="33"/>
+		[dur]ch Chael b. Šanūda ebenfalls Wertabgabe von Flachs [...]
+			<lb n="34"/>
+		[...] 3 Bša [...]
+			<lb n="35"/>
+		[...] Manko 1/6 Batūḥ 1/12 durch Bqām [...]
+			<lb n="36"/>
+		[...] b. Chael, Wertabgabe für Flachs, zu 3 1/2
+</ab></div>
+</body>
+</text>
+</TEI>

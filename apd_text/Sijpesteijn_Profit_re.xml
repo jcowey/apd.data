@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="422" xml:id="Sijpesteijn_Profit_re" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SijpesteijnProfit recto</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Sijpesteijn_Profit_re</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106618</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/><supplied reason="lost" cert="high">  هذا</supplied> كتاب لأبي النّجم بدر الكبير مولى الأمير أطال اللّه بقا الأمير وأخلد عزّه كتبه له الحسن وعلي ابني هلل من سكّان هلّليّة الفـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="3"/>  ومز<supplied reason="lost" cert="high">ا</supplied>رعها من كورة أهناس إنّا سألنا القسم بن العبّاس السّيفي عاملك أعزّك اللّه على هذه الضّيعة فطلبنا إ<supplied reason="lost" cert="high">ليه</supplied> <supplied reason="lost" cert="high">أ</supplied>ن يضمّنّا و<supplied reason="lost" cert="high">جه</supplied> 
+<lb n="4"/>  بعضا من بعض بوجه وماله وما يجب على كل واحد منّا من العمارة لسنة ثمان وثمانين ومائتين قضا له ضمانا صحيحا 
+<lb n="5"/>  لازما لنا وواجبا علينا في ذمّتنا ومالنا على أصح الضّمانات وأحسنها وآكدها وكل واحد منّا كفيل ضـ<supplied reason="lost" cert="high">ـامن</supplied> 
+<lb n="6"/>  عن صاحبه بأمر صاحبه حيّنا بذلك عن ميّتنا ومليّنا عن معدمنا وشاهدنا عن غائبنا شهد على إقرار علي والحسـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="7"/>  بجميع ما في هذا الكتاب بعد أن قرئ عليهما فعرفوا وأقرّوا بفهمه وبمعرفة ما فيه حرفا حرفا وذلك في شهر رمضان سنـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="8"/>  ثمان وثمنين ومائتين شهد حميدي بن إبرهيم التّمّار على إقرار الحسن وعلي بن هلال بجميع ما في هذا الكتاب وكتب <supplied reason="lost" cert="high">بخطّه</supplied> 
+<lb n="9"/>  شهد الحسين بن هرون كتب بيده 
+<lb n="10"/>  شهد هرون بن يحيى على إقرار الحسن وعلي ابني هلال بجميع ما في هذا الكتاب وكتب بخطّه 
+<lb n="11"/>  شهد موسى بن نمر علي ما في هذا الكتاب وكتب بخطّه <gap reason="illegible" extent="1" unit="character" /> شهد إبرهيم بن السّيّدي على <supplied reason="omitted" cert="high">إ</supplied>قرار الحسن وعلي بن هلا<supplied reason="lost" cert="high">ل</supplied> 
+<lb n="12"/>  بجميع ما في هذا الكتاب وكتب بخطّه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="13"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="14"/>  هذا كتاب لأبي النّجم بدر الكبير مولى الأمير أطال اللّه بقا الأمير وأخلد عزّه كتبه له الحسن وعلي ابني هلل من سكّان هلّليّة <supplied reason="lost" cert="high">الفـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  ومزارعها من كورة أهناس إنّا سألنا القسم بن العبّاس السّيفي عاملك أعزّك اللّه على هذه الضّيعة لهذه السّنة وطلبـ<supplied reason="lost" cert="high">ـنا</supplied> 
+<lb n="16"/>  إليه أن يضمّنّا وجه إبرهيم أخونا وعيسى بن <app type="BL"><lem resp="APD">كبّاش </lem><rdg resp="APD">كبّاش</rdg></app> البيّاع من سكّان سفط <sic n="superfluous">من</sic> ارسپن من كوره اهپاس پوحهمأ ومالهمـ<supplied reason="lost" cert="high">ـا</supplied> 
+<lb n="17"/>  وما يجب عليهما من العمارة لسنة ثمان وثمنين ومائتين فإن زاغ أحد منهما أو تغيّب فعلينا جميع ما سـتطالب بهما من خا<supplied reason="lost" cert="high">لص</supplied> 
+<lb n="18"/>  أموالنا كائنا ما كان وبالغا ما بلغ والقول في ذلك قول القسم بن العبّاس السّيفي أو من يقوم مقامه من وكلائه وكتّابه 
+<lb n="19"/>  حتّى تستوفي منّا هذا الضّمان شهد على إقرار الحسن وعلي ابني هلال بجميع ما في هذا الكتاب بعد أن قرئ عليهما فعرفاه 
+<lb n="20"/>  وأقرّا بفهمه وبمعرفة ما فيه حرفا حرفا وذلك في شهر رمضان سنة ثمان وثمنين ومائتين 
+<lb n="21"/>  شهد حميدي بن التّمّار على إقرار الحسن وعلي ابني هلال بجميع ما في هذا الكتاب وكتب بخطّه لا إله إلّا اللّه 
+<lb n="22"/>  شهد الحسين بن هرون كتب بيده 
+<lb n="23"/>  شهد هرون بن يحيى على إقرار الحسن وعلي ابني هلال بجميع ما في هذا الكتاب وكتب بخطّه 
+<lb n="24"/>  شهد موسى بن نمر على ما في هذا الكتاب وكتب بخطّه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="25"/>  شهد إبرهيم بن السّيّدي على إقرار الحسن وعلي ابني هلال بجميع ما في هذا الكتاب وكتب بخطّه <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un li ʾabī ăn naǧmi badr:ini ăl kabīri mawlà ăl ʾamīri ʾaṭāla ăl lāhu baqāʾa ăl ʾamīri wa ʾaḫlada ʿizza hu kataba hu la hu ăl ḥasanu wa ʿaliyyu ĭbnay hilāla min sukkāni hilliliyyaẗa ăl f*** 
+ <lb n="3"/>wa mazāriʿ hā min kūraẗi ʾahnāsa ʾin nā saʾalnā ăl qāsima bna ăl ʿabbāsi ăs sayfiyya ʿāmila ka ʾaʿazza ka ăl lāhu ʿalà hāḏihi ăḍ ḍayʿaẗi fa ṭalabnā ʾilay hi ʾan yuḍammin nā waǧ hu 
+ <lb n="4"/>baʿḍ:an min baʿḍ:in bi waǧh:in wa māli hi wa mā yaǧibu ʿalà kulli wāḥid:in min nā mina ăl ʿimāraẗi li sanaẗi ṯamān:in wa ṯamānīna wa miʾatayni qaḍā la hu ḍamān:an ṣaḥīḥ:an 
+ <lb n="5"/>lāzim:an la nā wa wāǧib:an ʿalay nā fī ḏimmati nā wa māli nā ʿalà ʾaṣaḥḥi ăḍ ḍamānāti wa ʾaḥsani hā wa ʾākadi hā wa kullu wāḥid:in min nā kafīl:un ḍāmin:un 
+ <lb n="6"/>ʿan ṣāḥibi hi bi ʾamri ṣāḥibi hi ḥayyu nā bi ḏālika ʿan mayyiti nā wa maliyyu nā ʿan muʿdimi nā wa šāhidu nā ʿan ġāʾibi nā šuhida ʿalà ʾiqrāri ʿaliyy:in wa ăl ḥasani 
+ <lb n="7"/>bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay himā fa ʿarafū wa ʾaqarrū bi fahmi hi wa bi maʿrifaẗi mā fī hi ḥarf:an ḥarf:an wa ḏālika fī šahri ramaḍāna sanaẗa 
+ <lb n="8"/>ṯamān:in wa ṯamānīna wa miʾatayni šahida ḥamīdiyyu ḥumaydiyyu bnu ʾibrāhīma ăt tammāru ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi bni hilāla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="9"/>šahida ăl ḥusaynu bnu hārūna kataba bi yadi hi 
+ <lb n="10"/>šahida hārūnu bnu yaḥyà ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi ĭbnay hilāla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="11"/>šahida mūsà bnu nimr:in ʿalà mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi * šahida ʾibrāhīmu bnu ăs sayyidiyyi ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi bni hilāla 
+ <lb n="12"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi * 
+ <lb n="13"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="14"/>hāḏā kitāb:un li ʾabī ăn naǧmi badr:ini ăl kabīri mawlà ăl ʾamīri ʾaṭāla ăl lāhu baqāʾa ăl ʾamīri wa ʾaḫlada ʿizza hu kataba hu la hu ăl ḥasanu wa ʿaliyyu ĭbnay hilāla min sukkāni hilliliyyaẗa ăl f*** 
+ <lb n="15"/>wa mazāriʿ hā min kūraẗi ʾahnāsa ʾin nā saʾalnā ăl qāsima bna ăl ʿabbāsi ăs sayfiyya ʿāmila ka ʾaʿazza ka ăl lāhu ʿalà hāḏihi ăḍ ḍayʿaẗi li hāḏihi ăs sanaẗi wa ṭalabnā 
+ <lb n="16"/>ʾilay hi ʾan yuḍammin nā waǧha ʾibrāhīma ʾaḫū nā wa ʿīsà bni kabbāsa kabbāša kubbāsa kubbāša ăl bayyāʿi min sukkāni safṭ:in min ʾiršīna min kūraẗi ʾahnāsa bi waǧ himā wa māli himā 
+ <lb n="17"/>wa mā yaǧibu ʿalay himā mina ăl ʿimāraẗi li sanaẗi ṯamān:in wa ṯamānīna wa miʾatayni fa ʾin zāġa ʾaḥad:un min humā ʾaw taġayyaba fa ʿalay nā ǧamīʿu mā sa tuṭālibu bi himā min ḫāliṣi 
+ <lb n="18"/>ʾamwāli nā kāʾin:an mā kāna wa bāliġ:an mā balaġa wa ăl qawlu fī ḏālika qawlu ăl qāsimi bni ăl ʿabbāsi ăs sayfiyyi ʾaw man yaqūmu maqāma hu min wukalāʾi hi wa kuttābi hi 
+ <lb n="19"/>ḥattà tastawfī min nā hāḏā ăḍ ḍamāna šuhida ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi ĭbnay hilāla bi ǧamīʿi mā fī hāḏā ăl kitābi baʿda ʾan quriʾa ʿalay himā fa ʿarafā hu 
+ <lb n="20"/>wa ʾaqarrā bi fahmi hi wa bi maʿrifaẗi mā fī hi ḥarf:an ḥarf:an wa ḏālika fī šahri ramaḍāna sanaẗa ṯamān:in wa ṯamānīna wa miʾatayni 
+ <lb n="21"/>šahida ḥamīdiyyu ḥumaydiyyu bnu ăt tammāri ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi ĭbnay hilāla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi lā ʾilāha ʾillā ăl lāhu 
+ <lb n="22"/>šahida ăl ḥusaynu bnu hārūna kataba bi yadi hi 
+ <lb n="23"/>šahida hārūnu bnu yaḥyà ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi ĭbnay hilāla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="24"/>šahida mūsà bnu nimr:in ʿalà mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi * 
+ <lb n="25"/>šahida ʾibrāhīmu bnu ăs sayyidiyyi ʿalà ʾiqrāri ăl ḥasani wa ʿaliyyi ĭbnay hilāla bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi * 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This] document is for Abū al-Najm Badr al-Kabīr freedman (mawlā) of the amīr, may God prolong the life of the amīr and may He perpetuate his honour. For him wrote it al-Ḥasan and ʿAlī, the sons of Hilāl from the inhabitants of Hillīyah al-F[…]
+			<lb n="3"/>
+		and its f[iel]ds in the district Ahnās. We asked al-Qāsim ibn al-ʿAbbās al-Sayfī, your agent, may God honour you, over this estate (ḍayʿa) and we requested [from him] that he accept our guarantee of ap[pearance]
+			<lb n="4"/>
+		the one for the other, for his being present and his payment and what is due on each one of us from the assessment for the year 288. He passed a judgement in favour of it as a valid guarantee
+			<lb n="5"/>
+		binding on us and obligatory to us in our debt and on our property as the most valid guarantee and the best one and the firmest one. And each one of us is a guarantor gu[aranteeing]
+			<lb n="6"/>
+		for his partner at his partner’s request, the one of us who is alive in that matter for the one of us who is dead and the one of us who is solvent for the one of us who has no money and the one of us who is present for the one of us who is absent. It was witnessed, the acknowledgement of ʿAlī and al-Ḥas[an]
+			<lb n="7"/>
+		to everything that is in this document after it was read to both of them and they were cognizant of and acknowledged understanding it and knowledge of what was in it, letter by letter. And this took place in the month Ramaḍān of the yea[r]
+			<lb n="8"/>
+		 288. Ḥumaydī ibn Ibrāhīm the date dealer witnessed the acknowledgement of Ḥasan and ʿAlī son of Hilāl to everything that is in this document and he wrote [in his handwriting.]
+			<lb n="9"/>
+		al-Ḥusayn ibn Hārūn was a witness. He wrote with his hand.
+			<lb n="10"/>
+		Hārūn ibn Yaḥyā witnessed the acknowledgement of al-Ḥasan and ʿAlī, the two sons of Hilāl, to everything that is in this document and he wrote in his handwriting.
+			<lb n="11"/>
+		Mūsā ibn Nimr witnessed what is in the document and he wrote in his handwriting. ◦ Ibrāhīm ibn al-Sayyidī witnessed the acknowledgement of al-Ḥasan and ʿAlī son of Hilā[l]
+			<lb n="12"/>
+		to everything that is in this document and he wrote in his handwriting.
+			<lb n="13"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="14"/>
+		This document is for Abū al-Najm Badr al-Kabīr freedman (mawlā) of the amīr, may God prolong the life of the amīr and may He perpetuate his honour. For him wrote it al-Ḥasan and ʿAlī, the sons of Hilāl from the inhabitants of Hillīyah [al-F…]
+			<lb n="15"/>
+		and its fields in the district Ahnās. We asked al-Qāsim ibn al-ʿAbbās al-Sayfī, your agent, may God honour you, over this estate (ḍayʿa) for this year and we ask[ed]
+			<lb n="16"/>
+		him to accept our guarantee of appearance for Ibrāhīm our brother and ʿῙsā ibn Kabbās, the merchant from the inhabitants of Safṭ &lt;from&gt; Irshīn in the district Ahnās in respect to both their being present and both their payment
+			<lb n="17"/>
+		and whatever is obligatory to both of them from the assessment for the year 288. And if one of the two of them disappears or is absent, then we are obliged to (pay) all that you will demand from the two of them from our cle[ar]
+			<lb n="18"/>
+		property, being what it may and adding up to whatever amount. The (decisive) word in this matter will be the word of al-Qāsim ibn al-ʿAbbās al-Sayfī, or of whomever will come in his place from among his representatives and secretaries,
+			<lb n="19"/>
+		until you will have received in full from us this guarantee. It was witnessed, the acknowledgement of al-Ḥasan and ʿAlī, the sons of Hilāl of everything that was written in this document, after it was read to both of them and they both knew it
+			<lb n="20"/>
+		and they both acknowledged understanding it and knowledge of what it contains letter by letter. And this took place in the month of Ramaḍān of the year 288.
+			<lb n="21"/>
+		Ḥumaydī son of the date dealer witnessed the acknowledgement of Ḥasan and ʿAlī the two sons of Hilāl to everything that is in this document and he wrote in his handwriting. There is no god but God.
+			<lb n="22"/>
+		al-Ḥusayn ibn Hārūn was a witness. He wrote with his hand.
+			<lb n="23"/>
+		Hārūn ibn Yaḥyā witnessed the acknowledgement of al-Ḥasan and ʿAlī, the two sons of Hilāl to everything that is in this document and he wrote in his handwriting
+			<lb n="24"/>
+		Mūsā ibn Nimr witnessed what is in the document and he wrote in his handwriting.
+			<lb n="25"/>
+		Ibrāhīm ibn al-Sayyidī witnessed the acknowledgement of al-Ḥasan and ʿAlī son of Hilāl to everything that is in this document and he wrote in his handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

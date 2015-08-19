@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="341" xml:id="Grohmann_APEL_130" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 130</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_130</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106572</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  وكتب شهـ]ـادته بخطّه شهد محمّد بن عبد اللّه بن صلح القفطي على مثل ما 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> شهد محمّد بن عبد اللّه بن العلا القهـ<supplied reason="lost" cert="high">ـقوي </supplied>
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa kataba šahādaẗa hu bi ḫaṭṭi hi šahida muḥammadu bnu ʿabdi ăl lāhi bni ṣāliḥ:ini ăl qifṭiyyu ʿalà miṯli mā 
+ <lb n="2"/>*** šahida muḥammadu bnu ʿabdi ăl lāhi bni ăl ʿalāʾi ăl qahqawiyyu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		and he has written his testi]mony in his (own) handwriting. Muḥammad b. ʿAbdallâh b. al-Ṣâliḥ, originating from al-Qifṭ, is witness to the same what [.....
+			<lb n="2"/>
+		Muḥammad b. ʿAbdallâh b. al-ʿAlâ, originating from Qah[qau], is witness.
+</ab></div>
+</body>
+</text>
+</TEI>

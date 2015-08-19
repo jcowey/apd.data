@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="596" xml:id="Berl_Arab_I_15_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. I 15 verso (= P.David-WeillMarchand 2 = P.Marchands III 39)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Berl_Arab_I_15_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106723</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="3 (David-Weill 1, Rāġib top 1)"/>  لأبي هريرة أكرمه اللّه من إبرهيم بن عمرو بن ثور يدفع بالفيّوم 
+<lb n="4 (David-Weill 2, Rāġib top 2)"/>  جعفر بن أحمد بن عبد المومن 
+<lb n="5 (David-Weill 3, Rāġib 1)"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="6 (David-Weill 4, Rāġib 2)"/>  حفظك اللّه بما حفظ به أولياه وأهل طاعته وصل إلي كتابك 
+<lb n="7 (David-Weill 5, Rāġib 3)"/>  وقد وجّهت إليك <app type="BL"><lem resp="APD">عمامه </lem><rdg resp="“David-Weill”"><gap reason="illegible" precision="low" extent="3"/> </rdg><rdg resp="“Rāġib”">عمامة</rdg></app> بربع دينر ونصف قيراط <del rend="erasure" status="unremarkable">وپلپ</del> <del rend="erasure" status="unremarkable">مڤاپع</del> 
+<lb n="8 (David-Weill 6, Rāġib 4)"/>  <del rend="erasure" status="unremarkable">طارد</del> <del rend="erasure" status="unremarkable">پپسع</del> <del rend="erasure" status="unremarkable">ڤرارپط</del> <app type="BL"><lem resp="APD">وسپ </lem><rdg resp="“David-Weill, Rāġib”">طارد</rdg></app> <app type="BL"><lem resp="APD">دهاڤپن </lem><rdg resp="“David-Weill”">ø </rdg><rdg resp="“Rāġib”">بسبع</rdg></app> پحمس ڤرارپط الا ربع 
+<lb n="9 (David-Weill 7, Rāġib 5)"/>  وخمس مقانع نوليّة <del rend="erasure" status="unremarkable">پڤپراطپن</del> بتسع قراريط إلّا ربع وبطيط بدرهم لا تدع الدّعا 
+<lb n="10 (David-Weill 8, Rāġib 6)"/>  <del rend="erasure" status="unremarkable">ڤپما</del> <app type="BL"><lem resp="“Abel”">ڤاپا </lem><rdg resp="“David-Weill”">وحمد </rdg><rdg resp="“Rāġib”">ø</rdg></app> <app type="BL"><lem resp="APD">ادعو </lem><rdg resp="“David-Weill, Rāġib”">فأنا</rdg></app> ألله على پن <app type="BL"><lem resp="“Abel, David-Weill”">احبك </lem><rdg resp="“Rāġib; Diem”">من</rdg></app> <app type="BL"><lem resp="“Abel, David-Weill”">ألسلم </lem><rdg resp="“Rāġib”">أحببت </rdg><rdg resp="“Diem”">أحببتم</rdg></app> حڤطك الله واكرمك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu min ʾibrāhīma bni ʿamri bni ṯawr:in yudfaʿ bi ăl fayyūmi 
+ <lb n="2"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ḥafiẓa ka ăl lāhu bi mā ḥafiẓa bi hi ʾawliyāʾa hu wa ʾahla ṭāʿati hi waṣala ʾilay ya kitābu ka 
+ <lb n="5"/>wa qad waǧǧahtu ʾilay ka ***ʾBh *** ʿimāmaẗ:an bi rubʿi dīnār:in wa niṣfi qīrāṭ:in wa ss* ṯalāṯa maqāniʿa 
+ <lb n="6"/>*** ṭārid:in bi *Bʿ ø sabʿi qarārīṭa wa sitta dahāqīna bi ḫamsi qarārīṭa ʾillā rubʿ:in 
+ <lb n="7"/>wa ḫamsa maqāniʿa nūliyyaẗ:in bi tisʿi qarārīṭa ʾillā rubʿ wa baṭīṭ bi dirham:in lā tadaʿi ăd duʿāʾa 
+ <lb n="8"/>wa ø ăl ø ḥamdu ḥamd:un wa fa ʾanā ʾadʿū ăl lāha ʿalà bni man ʾaḫī ʾaḥbabta ʾaḥbabtumu ka ø ø ăs salāmu ḥafiẓa ka ăl lāhu wa ʾakrama ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		À Abū Hurayra - que Dieu l&#039;honore! De la part d&#039;Ibrāhīm b. ʿAmr b. Ṯawr. À déllivrer au Fayyoum.
+		A Abū Hurayra que Dieu l&#039;honore, de la part d&#039;Ibrahīm b. Amr(u) b. Thawr
+			<lb n="2"/>
+		Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin.
+		Djaʿfar b. Aḥmad b. ʿAbd al-Muʾmin
+			<lb n="3"/>
+		Au nom de Dieu Clément et Miséricordieux
+			<lb n="4"/>
+		Que Dieu te garde comme il garde ses amis et ceux qui lui obéissent; ta lettre m&#039;est parvenue
+			<lb n="5"/>
+		et je viens de t&#039;envoyer [.......] pour 1/4 de dīnār et 1/2 qīrāṭ et des voiles
+		Je t&#039;ai adressé un turban pour un quart de dinar et un demi-qīrāṭ, 〚trois voiles〛
+			<lb n="6"/>
+		〚ṭārid pour sept qīrāṭ-s〛, six dihqān-s pour cinq qīrāṭ-s moins un quart,
+		en ṭārid et six dahāqīn pour 5 qīrāṭ moins 1/4
+			<lb n="7"/>
+		cinq voiles nūlī-s 〚pour deux qīrāṭ-s〛 `pour neuf qīrāṭ-s´ moins un quart et une (paire de) mules pour un dirham. Ne manque pas d&#039;invoquer (Dieu en ma faveur),
+		et cinq voiles en nūlī pour 9 qīrāṭ moins 1/4 et des mules pour 1 dirham; ne cesse pas de prier
+			<lb n="8"/>
+		〚en ce que〛, car moi j&#039;invoque (Dieu en ta faveur)! Le salut soit sur ceux que tu aimes! Que Dieu te garde et t&#039;honore!
+		... et de louer et moi aussi j&#039;invoque Dieu; au fils de ton frère salut, que Dieu te garde et qu&#039;il t&#039;honore. 
+</ab></div>
+</body>
+</text>
+</TEI>

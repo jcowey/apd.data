@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="780" xml:id="Raghib_March_5_1_21" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 07 (= P.Marchands V/1 21)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_1_21</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106845</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">يسّر</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه له من الفضل والعز برحمته والرّأفة برعـ<supplied reason="lost" cert="high">ـايـ</supplied>ـته و<supplied reason="lost" cert="high">عـ</supplied>ـنايته مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" extent="6" unit="character" /> الله حرا الامپر و<del rend="erasure" status="unremarkable">اپپ</del>وڤڤه وارسده وحمل عپه ما طوڤه وحاطه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <supplied reason="lost" cert="high">الأمير</supplied> أبقاه اللّه إنّي رجل من أهل المدينة <del rend="erasure" status="unremarkable">ولى</del> من <app type="BL"><lem resp="“David-Weill”">النّجّار </lem><rdg resp="“David-Weill, Rāġib”">التّجّار</rdg></app> معروف بمـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  إنّي <del rend="erasure" status="unremarkable">ما</del> مكاتب <del rend="erasure" status="unremarkable">لرحل</del> لامرأة من أهل المدينة <app type="BL"><lem resp="APD">يقال </lem><rdg resp="“Rāġib”">يقال</rdg></app> لها أم القاسم ابنت يحيى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  مولى عبد اللّه بن عبّاس بن عبد المطّلب <app type="BL"><lem resp="APD">كاتبني </lem><rdg resp="Rāġib">كاتبتني</rdg></app> على نفسـي وابنت لي بألـ<supplied reason="lost" cert="high">ـف</supplied> <supplied reason="lost" cert="high">دينر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وإن اللّه وله الحمد أعان من ذلك على ست مائة دينر أوصلتها إليهـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <del rend="erasure" status="unremarkable">وپڤپپ</del> <del rend="erasure" status="unremarkable">على</del> <del rend="erasure" status="unremarkable">ارپع</del> <del rend="erasure" status="unremarkable">ماپه</del> <del rend="erasure" status="unremarkable">پالاحپهاد</del> <del rend="erasure" status="unremarkable">ڤى</del> 
+<lb n="8"/>  تحضر حتّى سهّلها اللّه <app type="BL"><lem resp="APD">وأذنتها </lem><rdg resp="only David-Weill">وأذنتها</rdg></app> إليها وبقيت أربع مائة دينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <del rend="erasure" status="unremarkable">ڤحملپى</del> <del rend="erasure" status="unremarkable">ما</del> 
+<lb n="10"/>  <del rend="erasure" status="unremarkable">وڤد</del> <del rend="erasure" status="unremarkable">حعل</del> 
+<lb n="11"/>  <del rend="erasure" status="unremarkable">ڤى</del> <del rend="erasure" status="unremarkable">الرڤاپ</del> <del rend="erasure" status="unremarkable">ما</del> <del rend="erasure" status="unremarkable">حعل</del> 
+<lb n="12"/>  وقد جعل اللّه عند الأمير أبقاه اللّه من المعرفة باللّه <del rend="erasure" status="unremarkable">وسپه</del> <del rend="erasure" status="unremarkable">رسـ</del>ــ<supplied reason="lost" cert="high">ـوله</supplied> 
+<lb n="13"/>  وسنّة نبيّه صلّى اللّه عليه وسلّم <gap reason="illegible" precision="low" extent="3"/><del rend="erasure" status="unremarkable">ـا</del> ما حملپى على رڤع 
+<lb n="14"/>  ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> <del rend="erasure" status="unremarkable">الله</del> <del rend="erasure" status="unremarkable">امپا</del> <del rend="erasure" status="unremarkable">على</del> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>mā yassara ăl lāhu la hu mina ăl faḍli wa ăl ʿizzi bi raḥmati hi wa ăr raʾfaẗi bi riʿāyati hi wa ʿināyati hi m***** 
+ <lb n="2"/>****** ăl lāhu ǧazāʾa ăl ʾamīri wa waffaqa hu wa ʾaršada hu wa ḥamala ʿan hu mā ṭawwaqa hu wa ḥāṭa hu *** 
+ <lb n="3"/>ăl ʾamīr ʾabqā hu ăl lāhu ʾin nī raǧul:un min ʾahli ăl madīnaẗi mina ăn ăt naǧǧāri tuǧǧāri maʿrūf:un bi m*** 
+ <lb n="4"/>ʾinn ī mukātab:un li ĭmraʾaẗ:in min ʾahli ăl madīnaẗi tuqālu yuqālu la hā ʾumma ăl qāsimi ĭbnata yaḥyà *** 
+ <lb n="5"/>mawlà ʿabdi ăl lāhi bni ʿabbāsa bni ʿabdi ăl muṭṭalibi kātaba kātabat nī ʿalà nafs ī wa ĭbnat:in l ī bi ʾalfi dīnār:in *** 
+ <lb n="6"/>wa ʾinna ăl lāha wa la hu ăl ḥamdu ʾaʿāna min ḏālika ʿalà sitti miʾaẗi dīnār:in ʾawṣaltu hā ʾilay hā *** 
+ <lb n="7"/>bi ăl ʾiǧtihādi wa ăl k*** 
+ <lb n="8"/>taḥḍuru ḥattà sahhala hā ăl lāhu wa ʾaddaytu ʾaḏintu hā ʾilay hā wa baqiyat ʾarbaʿu miʾaẗi dīnār:in *** 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>wa qad ǧaʿala ăl lāhu ʿinda ăl ʾamīri ʾabqā hu ăl lāhu mina ăl maʿrifaẗi bi ăl lāhi *** 
+ <lb n="13"/>wa sunnaẗi nabiyyi hi ṣallà ăl lāhu ʿalay hi wa sallama mā ḥamala nī ʿalà rafʿi ʾ*** 
+ <lb n="14"/>ا*** **** *** ****** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[ce dont Dieu] l&#039;a [favorisé], comme mérite et puissance par Sa miséricorde et comme mansuétude par Sa garde et Sa grâce ....[
+		...de la faveur (?)...
+			<lb n="2"/>
+		.... Dieu .... la récompense de l&#039;émir de 〚toi〛 - que (Dieu) l&#039;assiste et le conduise dans la bonne direction, le soulage de ses souffrances et le protège [
+		... l&#039;émir et il&#039; assiste et le dirige et écate de lui ce qui le ceinture (?) et l&#039;encercle (?) [et je fais savoir à l&#039;émir] que Dieu le
+			<lb n="3"/>
+		[l&#039;émir] - que Dieu le conserve! Je suis un homme des gens de Médine 〚je〛 et des négociants. Je suis connu sous le nom de M[
+		perpétue! que je suis un homme d&#039;entre les habitants de Médine, faisant partie des marchands (ou: des Nadjdjâr?) connu sous le nom de M....,
+			<lb n="4"/>
+		et que je suis un mukâtab d&#039;une femme d&#039;entre les habitants de Médine appelée Umm al-Qâsim fille de Yahya [fils de ...?]
+		Je 〚ne〛 suis en train de me racheter auprès 〚d&#039;un homme〛 `d&#039;une femme´ des gens de Médine appelée Umm al-Qāsim ibnat Yaḥyā[
+			<lb n="5"/>
+		..affranchi de ʿAbd allah ibn ʿAbbâs ibn ʿAbd al Muṭṭalib qui avait contracté vis-à vis de moi e d&#039;une fille à moi un contrat de mukâtaba.....
+		client de ʿAbd Allāh b. ʿAbbās b. ʿAbd al-Muṭṭalib. Elle a aconclu vis-à-vis de moi et de ma fille un contrat de rachat pour mil[le dinars
+			<lb n="6"/>
+		...certes Allah et à lui soit la louange aida à cela pour six cents dinars que je lui fis parvenir
+		Dieu - qu&#039;Il soit loué! m&#039;a aidé (à gagner) six cent dinars que je lui ai fait parvenir [
+			<lb n="7"/>
+		〚Je reste débiteur de quatre cent par l&#039;effort en ceci〛. Par effort et .[
+		[mots rayés] avec l&#039;effort et [?]
+			<lb n="8"/>
+		[et angoisse) jusqu&#039;au moment où Allah les rendit faciles, et je les lui versai, et il restait quatre cent dinars
+		viennent jusqu&#039;à ce que Dieu ait facilité (que je les obitenne) et que je les lui ai réglés. Il reste quatre cent dinars [
+			<lb n="9"/>
+		〚J&#039;ai été poussé par ce que j&#039;ai vu de l&#039;équité de l&#039;émir - que Dieu le conserve! et par ce dont Dieu l&#039;a favorisé comme mérite〛 [
+		ligne rayé
+			<lb n="10"/>
+		〚Dieu m&#039;a donné ainsi qu&#039;à mes semblables la part qu&#039;Il a imposée comme〛 [
+		ligne rayé
+			<lb n="11"/>
+		〚les esclaves ce qu&#039;il a été donné de ceci de ce qu&#039;il connaît〛 [
+		ligne rayé
+			<lb n="12"/>
+		...Allah a placé chez l&#039;émir, Allah le perpétue! la somme de connaissance d&#039;Allah
+		Dieu a rempli l&#039;émir - que Dieu le conserve! de la connaissance de Dieu 〚et de la Coutume de [Son] envoyé〛 [
+			<lb n="13"/>
+		et de la sunna de son Prophète, bénédiction d&#039;Allah sur lui et salut! qui me poussa à élever [vers lui une supplique]
+		la Coutume de Son Prophète - que Dieu le bénisse et lui accorde le salut! 〚....〛, ce qui m&#039;a poussé à porter [
+			<lb n="14"/>
+		..[..〛....[.]..[....] 〚Dieu par sécurité ....[
+</ab></div>
+</body>
+</text>
+</TEI>

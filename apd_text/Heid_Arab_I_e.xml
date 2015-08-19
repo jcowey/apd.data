@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="21" xml:id="Heid_Arab_I_e" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I e</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_e</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106474</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  من جزية سنة ثمان وثمنين ثلثين دينرا وسدس 
+<lb n="2"/>  دينر عددا ومن ضر<unclear reason="undefined" cert="high">يبة</unclear> الطعام ثمنية عشر 
+<lb n="3"/>  إردب قمح ونصف وربع إردب 
+<lb n="4"/>  وكتب راشد في صفر من سنة إحدى وتسعين 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>min ǧizyaẗi sanaẗi ṯamān:in wa ṯamānīna ṯalāṯīna dīnār:an sudsu 
+ <lb n="2"/>dīnār:in ʿadad:an wa min ḍarībaẗi ăṭ ṭaʿāmi ṯamāniyaẗa ʿašara 
+ <lb n="3"/>ʾirdabb:in qamḥ wa niṣf:un wa rubʿu ʾirdabb:in 
+ <lb n="4"/>wa kataba rāšid:un fī ṣafar:in min sanaẗi ʾiḥdà wa tisʿīna 
+ <lb n="5"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

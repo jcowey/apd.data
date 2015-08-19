@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2436" xml:id="Diem_Steuerquittungen_120" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 12</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_120</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  نجـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  بسم اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="3"/>  أدّى مرقورة <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  عن ما باسم <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ممّا</supplied> 
+<lb n="5"/>  زرعه باپپـ<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  بغربي المديـ<supplied reason="lost" cert="high">ـنة</supplied> <supplied reason="lost" cert="high">لخراج</supplied> <supplied reason="lost" cert="high">سنة</supplied> 
+<lb n="7"/>  ثلاثة وعشرين و<supplied reason="lost" cert="high">ثلثمائة</supplied> 
+<lb n="8"/>  دينار واحـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">مغسول</supplied> <supplied reason="lost" cert="high">بوزن</supplied> 
+<lb n="9"/>  سوا وكتب ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  بن سپر ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  دينـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="12"/>  ÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>naǧmu *** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà marqūraẗu bnu *** 
+ <lb n="4"/>ʿan mā bi ĭsmi *** mimmā 
+ <lb n="5"/>zaraʿa hu bi ʾBB* *** 
+ <lb n="6"/>bi ġarbiyyi ăl madīnaẗi li ḫarāǧi sanaẗi 
+ <lb n="7"/>ṯalāṯaẗ:in wa ʿišrīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="8"/>dīnār wāḥid maġsūl bi wazn:in 
+ <lb n="9"/>sawā wa kataba ʾ*** 
+ <lb n="10"/>bni sBr ʾ*** 
+ <lb n="11"/>dīnār:un 
+ <lb n="12"/>1 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Rat[e x
+			<lb n="2"/>
+		Im Namen Gottes, des Barm[herzigen und Erbarmenden]!
+			<lb n="3"/>
+		Es bezahlte Marqūrah [ibn Fulān]
+			<lb n="4"/>
+		für das, was auf den Namen von [Fulān (registiert) ist, und zwar das, was]
+			<lb n="5"/>
+		er bestellt hat in ........ [.......]
+			<lb n="6"/>
+		in (dem Gebiet) westlich der Sta[dt, für die Steuer des Jahres]
+			<lb n="7"/>
+		[dreihundert]dreiundzwanzig
+			<lb n="8"/>
+		einen Dinar, [gewaschen und mit]
+			<lb n="9"/>
+		genauem [Gewicht]. Es schrieb (dies) .[
+			<lb n="10"/>
+		ibn S.r .[
+			<lb n="11"/>
+		Dina[r]
+			<lb n="12"/>
+		1
+</ab></div>
+</body>
+</text>
+</TEI>

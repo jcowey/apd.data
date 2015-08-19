@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="523" xml:id="Becker_PAF_5" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 05</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_5</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106693</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">فإنّي</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <unclear reason="undefined" cert="high">الّذي</unclear> <unclear reason="undefined" cert="high">لا</unclear> 
+<lb n="2"/>  <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> هو 
+<lb n="3"/>  <supplied reason="lost" cert="high">أمّا</supplied> <supplied reason="lost" cert="high">بعد</supplied> فإذا جاك 
+<lb n="4"/>  <supplied reason="lost" cert="high">كتبي</supplied> <supplied reason="lost" cert="high">هذا</supplied> فانظرالڤمص 
+<lb n="5"/>  <supplied reason="lost" cert="high">الّتي</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">أرضـ</supplied><unclear reason="undefined" cert="high">ـك</unclear> فعجّل 
+<lb n="6"/>  <supplied reason="lost" cert="high">بها</supplied> <supplied reason="lost" cert="high">إليّ</supplied> <supplied reason="lost" cert="high">وحـ</supplied>ـين تنظر في 
+<lb n="7"/>  <supplied reason="lost" cert="high">القمص</supplied> <supplied reason="lost" cert="high">فلا</supplied> توحرن منها 
+<lb n="8"/>  <supplied reason="lost" cert="high">شيا</supplied> <supplied reason="lost" cert="high">فإنّي</supplied> أريد أن 
+<lb n="9"/>  <supplied reason="lost" cert="high">أرسل</supplied> <supplied reason="lost" cert="high">بها</supplied> إلى أمير 
+<lb n="10"/>  <supplied reason="lost" cert="high">المومپپن</supplied> <supplied reason="lost" cert="high">إ</supplied>ن شا اللّه 
+<lb n="11"/>  <supplied reason="lost" cert="high">واعلم</supplied> <supplied reason="lost" cert="high">أنّـ</supplied><unclear reason="undefined" cert="high">ـي</unclear> لئن أخّرت 
+<lb n="12"/>  <supplied reason="lost" cert="high">منها</supplied> <supplied reason="lost" cert="high">شيا</supplied> ليصيبنّك منّي 
+<lb n="13"/>  <supplied reason="lost" cert="high">ما</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يضرّك</supplied> </lem><rdg resp="APD">يحزنك</rdg></app> في نفسك 
+<lb n="14"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مالك</supplied> </lem><rdg resp="APD">وعائلتك</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وتعهّد</supplied> </lem><rdg resp="APD">وابذل</rdg></app> <app type="BL"><lem resp="Becker erroneously ‫ليوفقني‬, but see translation">لتوفقني </lem><rdg resp="“Diem, Aphrodito p. 255”">لتوفّيني</rdg></app> ما 
+<lb n="15"/>  <supplied reason="lost" cert="high">أمرتك</supplied> <supplied reason="lost" cert="high">به</supplied> قبل الأضحى 
+<lb n="16"/>  <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">اليوم</supplied> <supplied reason="lost" cert="high">بثـ</supplied>ـلثين والسّلم 
+<lb n="17"/>  <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">اتّـ</supplied>ـبع الهدى 
+<lb n="18"/>  <supplied reason="lost" cert="high">وكتب</supplied> خبيش بن عدي 
+<lb n="19"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ذي</supplied> <supplied reason="lost" cert="high">ا</supplied>لقعدة من سنة 
+<lb n="20"/>  <supplied reason="lost" cert="high">تسعين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fa ʾin nī ʾaḥmadu ăl lāha ăllaḏī lā 
+ <lb n="2"/>ʾilāha ʾillā huwa 
+ <lb n="3"/>ʾammā baʿdu fa ʾiḏā ǧāʾa ka 
+ <lb n="4"/>kitāb ī hāḏā fa ŭnẓuri ăl qumuṣa 
+ <lb n="5"/>ăllatī ʿalà ʾarḍi ka fa ʿaǧǧil 
+ <lb n="6"/>bi hā ʾilay ya wa ḥīna tanẓur fī 
+ <lb n="7"/>ăl qumuṣi fa lā tuʾaḫḫiranna min hā 
+ <lb n="8"/>šayʾ:an fa ʾin nī ʾurīdu ʾan 
+ <lb n="9"/>ʾursila bi hā ʾilà ʾamīri 
+ <lb n="10"/>ăl muʾminīna ʾin šāʾa ăl lāhu 
+ <lb n="11"/>wa ĭʿlam ʾan nī la ʾin ʾaḫḫarta 
+ <lb n="12"/>min hā šayʾ:an la yuṣībanna ka minn ī 
+ <lb n="13"/>mā yaḍurru yuḥzinu ka fī nafsi ka 
+ <lb n="14"/>wa māli ʿāʾilati ka wa taʿahhad ĭbḏil li tuwaffiqa tuwaffiya nī mā 
+ <lb n="15"/>ʾamartu ka bi hi qabla ăl ʾaḍḥà 
+ <lb n="16"/>baʿda ăl yawmi bi ṯalāṯīna wa ăs salāmu 
+ <lb n="17"/>ʿalà mani ĭttabaʿa ăl hudà 
+ <lb n="18"/>wa kataba ḫubayšu bnu ʿadiyy:in 
+ <lb n="19"/>fī ḏī ăl qaʿdaẗi min sanaẗi 
+ <lb n="20"/>tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Ich lobe Gott,] ausser dem 
+			<lb n="2"/>
+		[es keinen Gott gibt. 
+			<lb n="3"/>
+		Des weiteren:] Wenn 
+			<lb n="4"/>
+		[dieser mein Brief] zu dir kommt, so inspiziere die Untergewänder (qamīṣ) 
+			<lb n="5"/>
+		[deren Lieferung deinem Lande obliegt,] und schicke 
+			<lb n="6"/>
+		[sie mir] eilends, und wann du 
+			<lb n="7"/>
+		[sie] inspizierst, so verzögere 
+			<lb n="8"/>
+		[nichts] von ihnen; 
+			<lb n="9"/>
+		[denn] ich will 
+			<lb n="10"/>
+		[sie] dem Beherrscher [der Gläubigen schicken,] wenn Gott will. 
+			<lb n="11"/>
+		[Wisse, dass] dich im Falle einer Verzögerung 
+			<lb n="12"/>
+		treffen wird, 
+			<lb n="13"/>
+		was dir selbst 
+			<lb n="14"/>
+		[und deinem Eigentum Schaden bringen wird; drum gib dir Mühe,] dass du 
+			<lb n="15"/>
+		[meinen Befehl] zu meiner Zufriedenheit erfüllst vor dem Aḍḥā-Fest, 
+		mir zukommen läßt das, was ...
+			<lb n="16"/>
+		[d.h. heute in] 30 [Tagen]. Heil sei 
+			<lb n="17"/>
+		[über den, welcher] der Rechtleitung folgt. 
+			<lb n="18"/>
+		[Und es hat (dies) geschrieben] Ḥubaiš b. ʿAdī 
+			<lb n="19"/>
+		[im Ḏū-]l-Qaʿda des Jahres 
+			<lb n="20"/>
+		[neunzig]. 
+</ab></div>
+</body>
+</text>
+</TEI>

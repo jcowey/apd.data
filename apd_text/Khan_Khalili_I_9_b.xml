@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1276" xml:id="Khan_Khalili_I_9_b" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 09.6-12 (= P.Khalili II 97)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_9_b</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169100</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="6"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="7"/>  براه لعبد اللّه <supplied reason="lost" cert="high">بن</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">جيّان</supplied> </lem><rdg resp="APD">جيّان </rdg><rdg resp="APD">جنان </rdg><rdg resp="APD">حيّان </rdg><rdg resp="APD">حبّان </rdg><rdg resp="APD">حبّار </rdg><rdg resp="APD">حيار</rdg></app> من نصف دينر <app type="BL"><lem resp="APD">وقد </lem><rdg resp="Diem">وهو</rdg></app> <app type="BL"><lem resp="APD">ڤپص </lem><rdg resp="Diem “ā in brackets”">ما</rdg></app> <supplied reason="lost" cert="high">وپراه</supplied> 
+ <lb n="8"/>  سليم بن <app type="BL"><lem resp="APD">أحوز </lem><rdg resp="APD">أحوز</rdg></app> <app type="BL"><lem resp="APD">الحضـ<supplied reason="lost" cert="high">ـرميّ</supplied> </lem><rdg resp="“Diem”">السرجي</rdg></app> من ثمن <app type="BL"><lem resp="APD">فأبين </lem><rdg resp="“Diem”"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD">لا </lem><rdg resp="in manuscript ‫لاورپه‬ “Diem”">لورثة </rdg></app> <app type="BL"><lem resp="APD">ورثة </lem><rdg resp="“Diem”">ø</rdg></app> <app type="BL"><lem resp="APD">لحرث </lem><rdg resp="“Diem”">الحرث</rdg></app> بن 
+ <lb n="9"/>  سريج الحضرمي فقد برئ منه <app type="BL"><lem resp="APD">شهد </lem><rdg resp="APD">شهد</rdg></app> <app type="BL"><lem resp="APD">عبد </lem><rdg resp="“Diem÷ no reading for the rest of the line”"><gap reason="illegible" precision="low" extent="3"/></rdg></app> اللّه بن سليم 
+ <lb n="10"/>  وسليم بن <app type="BL"><lem resp="APD">أحوز </lem><rdg resp="APD">أحوز</rdg></app> على نفسه <app type="BL"><lem resp="APD">وعبد </lem><rdg resp="“Diem÷ no reading proposed for the rest of the line”">و<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> الملك بن أيّوب 
+ <lb n="11"/>  وكتب يوم السّبت لتلات أيّام من شوّال سنة أربع 
+ <lb n="12"/>  وماية 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li ʿabdi ăl lāhi bni ḥabbān:in ḥanāna ḥayyān:in ǧayyān:in ḥibbāna ǧinān:in ḥubbāna ḥabbār:in ḥiyār:in min niṣfi dīnār:in wa qad huwa ø mā qabaḍa wa barraʾa hu 
+ <lb n="3"/>sulaymu bnu ʾaḥwara ʾaḥwaza ăl ăs ḥaḍramiyyu sarǧiyyu min ṯamani ṯumn:in fa ـ***ـ ʾubīna ø lā li ø waraṯaẗi ø ø waraṯaẗa li ăl ḥāriṯi bni 
+ <lb n="4"/>surayǧ:ini ăl ḥaḍramiyyi fa qad bariʾa min hu šahhada šahida ʿabda *** ăl lāhi bna sulaym:in 
+ <lb n="5"/>wa sulayma sulaymu bna bnu ʾaḥwara ʾaḥwaza ʿalà nafsi hi wa ʿabda *** ăl maliki bna ʾayyūba 
+ <lb n="6"/>wa kutiba yawma ăs sabti li talāti ʾayyām:in min šawwāl:in sanaẗa ʾarbaʿ:in 
+ <lb n="7"/>wa miyaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the merciful and compassionate
+		 <lb n="2"/>
+ 	  (This is) a quittance for ʿAbdallāh [ibn Ḥanān] for one half dīnār
+ 	  (This is) a quittance for ʿAbdallah [ibn Hanan] for one half dīnār.
+		 <lb n="3"/>
+ 	  Sulayman ibn Ahwaz al-Hadrami received [and acquitted him] of an eighth, and it was established that there were no heirs to Harith ibn
+ 	  Sulaymān ibn Aḥwaz the Ḥaḍramī received [and acquitted him] of an eighth and it was established that there were no heirs to Ḥāriṯ ibn
+ 	  Sulaym ibn Aḥwaz the Ḥaḍramī (acquitted him) of the price of *** for the heirs of al-Ḥāriṯ ibn
+		 <lb n="4"/>
+ 	  [...] Es bezeugten (dies) ***(Name),
+ 	  Surayj al-Hadrami, and so he was acquitted of (the remainder). ʿAbdallah ibn Sulaym
+ 	  Surayj the Ḥaḍramī and so he was acquitted of it. He caused ʿAbdallāh ibn Sulaym
+		 <lb n="5"/>
+ 	  and Sulaym ibn Aḥwaz to bear witness to him and (also) ʿAbd al-Malik ibn Ayyūb
+ 	  and Sulaym ibn Aḥwaz witnessed the act in person, as did ʿAbd al-Malik ibn Ayyub,
+ 	  Sulaym ibn ʾAḥwar gegen sich selbst und ***(Name)
+		 <lb n="6"/>
+ 	  and it was written on Saturday, when three days (remained?) of Shawwal in the year 104.
+ 	  It was written on Saturday, when three days (remained?) of Šawwāl in the year one hundred
+		 <lb n="7"/>
+ 	  and four.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

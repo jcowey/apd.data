@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2035" xml:id="Grohmann_APEL_282" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 282</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_282</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> جباية قرية تدعى پدسادة ليوم الأربعا ليلتين خلتا من توت 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> ودراهم ثمنية درهم المئال المبقال بصل الدّاخل 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> عـ<supplied reason="lost" cert="high">ـلـ</supplied>ـى يدي سلمون بن شراحيل عن نفسه دينر دينر وسبعة قراريط ونصف 
+ <lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> على يدي <app type="BL"><lem resp="the dots of tāʾ and nūn might also belong to yaday in the previous line “LS”.">أتنابيبه </lem><rdg resp="the dots of tāʾ and nūn might also belong to yaday in the previous line “LS”.">أببانيبة</rdg></app> أهوس عن نفسه ثلثة <del rend="erasure" status="unremarkable">ديپر</del> دنانير دينارين ونصف 
+ <lb n="6"/>  <supplied reason="lost" cert="high">سـ</supplied>ـتّة قراريط على يدي يحنّس الشّمّاس عن نفسه دينرين دينر وثلثي ونصف ثمن 
+ <lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> يدي محمّد بن أبي داود عن نفسه أربعة عشر دينارا ثلثة عشر و<del rend="erasure" status="unremarkable">پلپى</del> <del rend="erasure" status="unremarkable">ونصف</del> <del rend="erasure" status="unremarkable">پمن</del> قيراط 
+ <lb n="8"/>  ثلث وسدس ثمن 
+ <lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">يدي</supplied> <gap reason="illegible" extent="1" unit="character" />ارپن ـه صاحپ الطپاڤس عن <del rend="erasure" status="unremarkable">نفسه</del>انفسهما دپپر <sic n="superfluous">وادپم</sic> <sic n="superfluous">هم</sic> <supplied reason="omitted" cert="high">واحد</supplied> <supplied reason="omitted" cert="high">ودرهم</supplied> <del rend="erasure" status="unremarkable">وپصف</del> ودنپر 
+ <lb n="10"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> دراهم اثنا عشر درهما 
+ <lb n="11"/>  د<supplied reason="lost" cert="high">ينـ</supplied>ـر نصف وربع ونصف ثمن 
+ <lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـر <supplied reason="lost" cert="high">بـ</supplied>ـن بولس سر<gap reason="illegible" extent="2" unit="character" /> خمسة عشر درهما ثلث وربع وسدس ثمن 
+ <lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ـ</del></supplied><del rend="erasure" status="unremarkable">ـدر</del> 
+ <lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** ǧibāyaẗu qaryaẗ:in tudʿà Bdsādaẗa li yawmi ăl ʾarbaʿāʾi laylatayni ḫalatā min tūt:in 
+ <lb n="3"/>*** wa darāhim ṯamāniyaẗu dirham:in ăl miʾālu ăl mibqālu baṣal:un ăd dāḫilu 
+ <lb n="4"/>*** ʿalà yaday salmūna bni šurāḥīla ʿan nafsi hi dīnār:un dīnār:un wa sabʿaẗu qarārīṭa wa niṣf:un 
+ <lb n="5"/>*** ʿalà yaday ʾababānībaẗi ʾatnāBībaẗi ʾahūsa ʿan nafsi hi ṯalāṯaẗu danānīra dīnārayni wa niṣf:un 
+ <lb n="6"/>sittaẗu qarārīṭa ʿalà yaday yuḥannisa ăš šammāsi ʿan nafsi hi dīnārayni dīnār:un wa ṯulṯay wa niṣfu ṯumn:in 
+ <lb n="7"/>*** ʿalà yaday muḥammadi bni ʾabī dāwid:in ʿan nafsi hi ʾarbaʿaẗa ʿašara dīnār:an ṯalāṯaẗa ʿašara wa qīrāṭ:un 
+ <lb n="8"/>ṯulṯ:un wa sudsu ṯumn:in 
+ <lb n="9"/>*** ʿalà yaday *ʾrBnh ṣāḥibi ăṭ ṭanāfisi ʿan ʾanfusi himā dīnār:un wāḥid:un wa dirham:un wa dīnār:un wa niṣf:un 
+ <lb n="10"/>**** **** darāhima ĭṯnā ʿašara dirham:an 
+ <lb n="11"/>dīnār:un niṣf:un wa rubʿ:un wa niṣfu ṯumn:in 
+ <lb n="12"/>*** ***ra bni būlusa sar** ḫamsaẗa ʿašara dirham:an ṯulṯ:un wa rubʿ:un wa sudsu ṯumn:in 
+ <lb n="13"/>ø 
+ <lb n="14"/>*** ***h 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ] In the name of God, the Compassionate, the Merciful.
+		 <lb n="2"/>
+ 	  .......... of] the impost of the village called Bedsâde(?) for Wednesday, when two nights had passed of Thot.
+		 <lb n="3"/>
+ 	  ] and dirhams: eight dirhams  the dirhams  the vegetable gardens  onions the income
+		 <lb n="4"/>
+ 	  ] Through Salmôn b. Šurâḥîl for himself: one dînâr  one dînâr and seven and a half carats.
+		 <lb n="5"/>
+ 	  ] Through Apapânîbe Ahûs for himself: three dînârs  two dînârs and one half (of a dînâr).
+		 <lb n="6"/>
+ 	  s]ix carats. Through Yoḥannes, the deacon, for himself: two dînârs  one dînâr and two thirds and a half of an eighth.
+		 <lb n="7"/>
+ 	  ] Through Muḥammad b. Abî Dawûd for himself: fourteen dînârs thirteen dînârs and [two thirds and a half] carat.
+		 <lb n="8"/>
+ 	  ] a third and a sixth of an eighth.
+		 <lb n="9"/>
+ 	  Through] ........ the carpet-dealer, for themselves: one dînâr and one dirham and one dînâr and a half.
+		 <lb n="10"/>
+ 	  dir]hams: twelfe dirhams
+		 <lb n="11"/>
+ 	  ] one dînâr  a half and a quarter and a half of an eighth.
+		 <lb n="12"/>
+ 	  ]......r [so]n of Bûlos Sar[...]  fifteen dirhams and a third and a quarter and a sixth of an eighth.
+		 <lb n="13"/>
+ 	  ]dr ..[...].......................
+		 <lb n="14"/>
+ 	  ]  [...]h
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

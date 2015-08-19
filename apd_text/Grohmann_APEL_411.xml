@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1892" xml:id="Grohmann_APEL_411" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 411</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_411</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169629</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـــ<supplied reason="lost" cert="high">ـــ</supplied>ـى 
+<lb n="3"/>  <supplied reason="lost" cert="high">دينـ</supplied>ـر 
+<lb n="4"/>  ‮عن <supplied reason="lost" cert="high">الرّ</supplied>و<supplied reason="lost" cert="high">اتب</supplied> ‪γι<supplied reason="lost" cert="high">ʹβʹ</supplied>‬‪‬ 
+<lb n="5"/>  ‮ـ<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـملـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا عرا ــ<supplied reason="lost" cert="high">ــــ</supplied>ه المران ‪ζςʹηʹ‬ 
+<lb n="6"/>  ‮وإلى <gap reason="illegible" extent="2" unit="character" />ا<gap reason="illegible" extent="2" unit="character" /> بن <app type="BL"><lem resp="APD">صبرة </lem><rdg resp="APD">صيرة</rdg></app> الجندي ‪χχ‬ 
+<lb n="7"/>  ‮وإلى <unclear reason="undefined" cert="high">الـ</unclear><supplied reason="lost" cert="high">ـسّـ</supplied><unclear reason="undefined" cert="high">ـپمديّ</unclear> وصاحب القصر ‪ηʹ‬ 
+<lb n="8"/>  ‮المكاري الّذي قدم بالكتب ‪ιʹβʹ‬ 
+<lb n="9"/>  ‮ـ<supplied reason="lost" cert="high">ا</supplied>لحارس الّذي خرج بالكتب ‪ιʹβʹχ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **** 
+ <lb n="2"/>*** ***y 
+ <lb n="3"/>dīnār:un 
+ <lb n="4"/>ʿani ăr rawātibi ‪3 1/12 
+ <lb n="5"/>*ml*ʾ ʿrʾ h ăl mrʾn ‪7 1/6+1/8 
+ <lb n="6"/>wa ʾilà **ʾ** bni ṣabiraẗa ṣīraẗa ăl ǧundiyyi ‪1/2+1/48 
+ <lb n="7"/>wa ʾilà ăs sBmdiyyi wa ṣāḥibi ăl qaṣri ‪1/8 
+ <lb n="8"/>ăl mukāriyyu ăllaḏī qadima bi ăl kutubi ‪1/12 
+ <lb n="9"/>ăl ḥārisu ăllaḏī ḫaraǧa bi ăl kutubi ‪1/12+1/48 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[...]nî
+			<lb n="3"/>
+		dînâr
+			<lb n="4"/>
+		Of [the sa]lar[ies] 3 1/1[2]
+			<lb n="5"/>
+		.................................................... the ............ 7 1/6+1/8
+			<lb n="6"/>
+		and to ...... ibn Ṣabira, the soldier. 1/2+1/48
+			<lb n="7"/>
+		and to as-S.madî and the master of the castle 1/8
+			<lb n="8"/>
+		the donkey-driver who arrived with the letters 1/12
+			<lb n="9"/>
+		[th]e watchman who went out with the letters 1/12+1/48
+</ab></div>
+</body>
+</text>
+</TEI>

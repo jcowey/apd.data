@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="252" xml:id="Grohmann_APEL_89" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 089</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_89</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106528</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  اكـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> أخيه إسحق بن حمّاد في حارة 
+<lb n="2"/>  العبّاس بن عون وهو <app type="BL"><lem resp="APD">العـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/>ا </lem><rdg resp="APD">‮الڤـ<gap reason="illegible" precision="low" extent="3"/>ا</rdg></app> <supplied reason="lost" cert="high">الّـ</supplied>ـذي كانت حمبقة تسكنه فى 
+<lb n="3"/>  السّنة الماضية أكريها سنة ا<supplied reason="lost" cert="high">ثنـ</supplied>ـا <supplied reason="lost" cert="high">عشر</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـهـ<supplied reason="lost" cert="high">ـ</supplied>ـرا 
+<lb n="4"/>  بدينر وسدس وأوّل سنته أوّل يوم مسرى من شهور العجم 
+<lb n="5"/>  من سنة تسع ومائتن وقد وصل إلى محمّد بن حمّاد من كرا هذه السّنة 
+<lb n="6"/>  دينر قائم شهد على ذلك 
+<lb n="7"/>  ‮أحمد بن نعڤوي وكتبفي ر<supplied reason="lost" cert="high">بيـ</supplied>ـع الآخر من سنة ‪σθ‬ 
+<lb n="8"/>  وشهد الحسين بن <app type="BL"><lem resp="APD">رياح </lem><rdg resp="APD">رباح</rdg></app> على إقرار محمّد بن حمّاد بما في هذا الكتاب <supplied reason="omitted" cert="high">و</supplied>كپپ شهادته في ربيع الآخره سنة تسع ومائتن 
+<lb n="9"/>  وعبد اللّه بن حمّاد العريني وكتب شهادته بيده <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="10"/>  <app type="BL"><lem resp="APD">و<supplied reason="omitted" cert="high">پـ</supplied>ـسلم </lem><rdg resp="APD">ومسلم</rdg></app> بن مسافر وكتب شهادته على ما في هذا الكتاب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾ** **** ʾaḫī hi ʾisḥāqa bni ḥammāda fī ḥāraẗi 
+ <lb n="2"/>ăl ʿabbāsi bni ʿawn:in wa huwa ăl ʿ***ʾ F***ʾ ăllaḏī kānat ḥambaqaẗu taskunu hu fī 
+ <lb n="3"/>ăs sanaẗi ăl māḍiyaẗi ʾakrà hā sanaẗa ĭṯnā ʿašara šahr:an 
+ <lb n="4"/>bi dīnār:in wa suds:in wa ʾawwalu sanaẗi hi ʾawwalu yawmi misrà min šuhūri ăl ʿaǧami 
+ <lb n="5"/>min sanaẗi tisʿ:in wa miʾatayni wa qad waṣala ʾilà muḥammadi bni ḥammāda min kirāʾi hāḏihi ăs sanaẗi 
+ <lb n="6"/>dīnār:un qāʾim:un šahida ʿalà ḏālika 
+ <lb n="7"/>ʾaḥmadu bnu yaʿqūba wa kataba fī rabīʿa ăl ʾāḫari min sanaẗi 209 
+ <lb n="8"/>wa šahida ăl ḥusaynu bnu rabāḥa riyāḥa ʿalà ʾiqrāri muḥammadi bni ḥammāda bi mā fī hāḏā ăl kitābi wa kataba šahādaẗa hu fī rabīʿa ăl ʾāḫiraẗi sanaẗa tisʿ:in wa miʾatayni 
+ <lb n="9"/>wa ʿabdu ăl lāhi bnu ḥammāda ăl ʿarīniyyu wa kataba šahādaẗa hu bi yadi hi **** 
+ <lb n="10"/>wa salamu salmu silmu muslimu bnu musāfir:in wa kataba šahādaẗa hu ʿalà mā fī hāḏā ăl kitābi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		has let on [lease ........................... ] his brohter Isḥâq b. Ḥammâd in the quarter
+			<lb n="2"/>
+		of al-ʿAbbâs b. ʿAun, the ... [......] in [wh]ich Ḥambaqa was dwelling during
+			<lb n="3"/>
+		the past year; he has let it on lease for one year (consisting of) t[wel]ve [mo]nths
+			<lb n="4"/>
+		for one dînâr and a sixth (of a dînâr), his year beginning with the first of Mesore of the months of the non-Arabs
+			<lb n="5"/>
+		of the year two hundred and nine. And there has come to (the hands of) Muḥammad b. Ḥammâd from the lease of this year 
+			<lb n="6"/>
+		one dînâr of prescribed weight. (The following witnesses) have testified to it:
+			<lb n="7"/>
+		Aḥmad b. Yaʿqûb, who has written (it) in Ra[bî]ʿ II of the year 209.
+			<lb n="8"/>
+		And al-Ḥusain b. Riyâḥ is witness to the acknowledgment by Muḥammad b. Ḥammâd of what is herein, (and) he has written his testimony in Rabîʿ II of the year two hundred and nine; 
+			<lb n="9"/>
+		and ʿAbdallâh b. Ḥammâd, originating from al-ʿArîn, and he has written his testimony with his (own) hand .........
+			<lb n="10"/>
+		and Muslim (?) b. Musâfir, and he has written his testimony to the tenor of this deed.
+</ab></div>
+</body>
+</text>
+</TEI>

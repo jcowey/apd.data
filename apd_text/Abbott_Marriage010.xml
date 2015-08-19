@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2191" xml:id="Abbott_Marriage010" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.AbbottMarriageContracts 1 (= Chrest.Khoury I 10) </title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Abbott_Marriage010</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما أصدق <app type="BL"><lem resp="APD">ثيدر </lem><rdg resp="Khoury">ثيدر</rdg></app> بن سمويل بن <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">سلـ</supplied>ـد </lem><rdg resp="Khoury">بنيلة</rdg></app> لارس بن شنودة الشّمّاس دبلي أداي ابنت يحنّس بن بقطر 
+<lb n="3"/>  بن يحنّس القسّيس وتزوّجها به أصدقها تسعين دينرا ذهبا عينا جيادا صحاحا مثاقيل عينا 
+<lb n="4"/>  <app type="BL"><lem resp="APD">مغسولة </lem><rdg resp="APD">مغسولة</rdg></app> عجّل لها من ذلك خمسة عشر دينر بهذه <app type="BL"><lem resp="Abbott speaks of a ‹miniature mīm›, still it is definitely present">المصفّة </lem><rdg resp="APD">الصّفيّة </rdg><rdg resp="Hopkins">الصّفة</rdg></app> فقبضها منه أبوها يحنّس بن بقطر 
+<lb n="5"/>  وأبرأته منها وبقي على <app type="BL"><lem resp="APD">ثيدر </lem><rdg resp="Khoury">ثيدر</rdg></app> بن سمويل لامرأته دبلي أداي ابنت يحنّس بن بقطر من هذا الصّداق خمسة 
+<lb n="6"/>  وسبعون دينرا ذهبا عينا جيادا صحاحا مثاقيل عينا معسوله دينا ثابتا وحقّا واجبا لها عليه 
+<lb n="7"/>  هو يقر أنّه <app type="BL"><lem resp="APD">تلى </lem><rdg resp="Hopkins">مليء</rdg></app> بذلك واصل إليه <app type="BL"><lem resp="APD">كل </lem><rdg resp="Hopkins">يحلّ</rdg></app> ذلك عليه في جمادى الآخرة من سنة سبع وثلثين وثلثمائة وتولّا يحنّس 
+<lb n="8"/>  بن بقطر بن يحنّس عقد نكاح ابنته دبلي أداي من <app type="BL"><lem resp="APD">تيدر </lem><rdg resp="Khoury">ثيدر</rdg></app> بن سمويل <app type="BL"><lem resp="APD">وإكتاب </lem><rdg resp="Hopkins">واكتتاب</rdg></app> هذا الكتاب لها عليه 
+<lb n="9"/>  وهي بكر في <app type="BL"><lem resp="APD">حجره </lem><rdg resp="Dietrich, Hopkins">حجره</rdg></app> <app type="BL"><lem resp="APD">بيتها </lem><rdg resp="Dietrich “emendation disguised as quotation”">وولايته </rdg><rdg resp="Hopkins">يليها</rdg></app> بعد أن <app type="BL"><lem resp="APD">اشتار </lem><rdg resp="Hopkins">استأذنها</rdg></app> <app type="BL"><lem resp="APD">بها </lem><rdg resp="Hopkins">ø</rdg></app> في ذلك <app type="BL"><lem resp="APD">فضمنه </lem><rdg resp="Hopkins">فضمّنه </rdg><rdg resp="LS cf. aṭ-Ṭaḥāwī's formulary for the marriage of adult virgins">فصمتت</rdg></app> <app type="BL"><lem resp="APD">وقبله </lem><rdg resp="Hopkins">وقبّله </rdg><rdg resp="LS÷ something like ‹fa-qabila z-zawǧu n-nikāḥa› is to be expected, or ‹fa-qabila ʾabūhā l-wikālaẗa›, but the first fits better with the following line.">فقبله</rdg></app> بهذا الصّداق المسمّا في هذا الكتاب 
+<lb n="10"/>  <app type="BL"><lem resp="APD">ويحالف </lem><rdg resp="Khoury">وتحالف </rdg><rdg resp="Hopkins">وبما</rdg></app> <app type="BL"><lem resp="APD">الله </lem><rdg resp="Hopkins">أمر</rdg></app> په من حسن الصحپه وحمپل العسره سهد على اڤرار پپدر <app type="BL"><lem resp="APD">ثن </lem><rdg resp="APD">ثيدر</rdg></app> سموبل پن سلد <app type="BL"><lem resp="APD">لارس </lem><rdg resp="Khoury">بنيلة</rdg></app> پن سبوده 
+<lb n="11"/>  ويحنّس بن بقطر بن يحنّس النّصراني بما في هذا الكتاب في صحّتهما وجواز أمرهما طائعين غير مكرهين 
+<lb n="12"/>  يوم الخميس لإحدى وعشرين ليلة خلت من جمادى الآخرة سنة ست وثلثين وثلثمائة 
+<lb n="13"/>  جعفر بن إبرهيم بن أحمد شهد على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="14"/>  فضل بن جعفر بن إبرهيم بن أحمد <supplied reason="omitted" cert="high">شهد</supplied> على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="15"/>  شهد عبد اللّه بن يعقوب بن إبرهيم بن نافع على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="16"/>  شهد الحسن بن عبد اللّه بن زيد على إقرار الزّوج والولي بما في هذا الكتاب 
+<lb n="17"/>  شهد محمّد بن إسمعيل بن إبرهيم بن <app type="BL"><lem resp="APD">فهد </lem><rdg resp="APD">وهب</rdg></app> على إقرارهما بما فيه 
+<lb n="18"/>  شهد القسم بن محمّد بن القسم بن عبد اللّه على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="19"/>  شهد محمّد بن عبد اللّه بن موسى بن خالد على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="20"/>  شهد محمّد بن علي بن إسحق على إقرار الولي والزّوج بما في هذا الكتاب <app type="BL"><lem resp="APD"><expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> </lem><rdg resp="Khoury mentions Grohmann who considers this abbreviation to be a double stroke to mark the end of signatures. On the other hand, he translates the abbreviation in l. 26"><gap reason="illegible" extent="2" unit="character" /></rdg></app> 
+<lb n="21"/>  وعلي بن محمّد بن أحمد شهد على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="22"/>  شهد علي بن محمّد بن علي على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="23"/>  شهد جعفر بن محمّد بن عبد الأحد بن قاسم على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="24"/>  وأحمد بن إبرهيم بن أحمد شهد على إقرار الزّوج والولي بما فيه 
+<lb n="25"/>  ومحمّد بن عبد اللّه بن محمّد بن <app type="BL"><lem resp="APD">معبد </lem><rdg resp="APD">معيد</rdg></app> <app type="BL"><lem resp="APD">كتب </lem><rdg resp="Khoury. ligature with the following word.">وكتب</rdg></app> شهادته على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="26"/>  وعبد اللّه بن أحمد بن محمّد بن الحكم شهد على إقرار الولي والزّوج بما فيه وكتب بخطّه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="27"/>  عبد اللّه بن إسمعيل بن إبرهيم بن إسحق شهد على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="28"/>  شهد عمر بن محمّد بن مرون بن عبد اللّه شهد على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="29"/>  شهد إبرهيم بن محمّد بن أحمد بن حجّاج على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="30"/>  ومحمّد بن أحمد بن إبرهيم بن المدني وكتب شهادته على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="31"/>  والحسين بن محمّد بن علي بن هرون وكتب شهادته على إقرار الزّوج والولي بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="32"/>  وأحمد بن سهل بن هرون وكتب شهادته على إقرار الزّوج والولي بما في هذا الكتاب بتأريخه 
+<lb n="33"/>  شهد عبد اللّه بن محمّد بن أحمد بن عبد القادر بن عمر على إقرار الولي والزّوج بما في هذا الكتاب بتأريخه 
+<lb n="34"/>  وعبد اللّه بن أحمد بن محمّد بن يوسف وكتب شهادته على إقرار الزّوج والولي بما في هذا الكتاب 
+<lb n="35"/>  شهد عبد الملك بن يوسف بن عبد الملك بن عبد الرّحيم بن ابن شرح شهد على إقرار الزّوج والولي بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="36"/>  شهد محمّد بن أحمد بن فخر بن فهد بن علي <supplied reason="omitted" cert="high">على</supplied> إقرار الولي والزّوج بما في هذا الكتاب وكتب بخطّه 
+<lb n="37"/>  شهد أحمد بن محمّد بن أحمد بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> الورّاقي على إقرار الولي بما في هذا الكتاب 
+<lb n="38"/>  شهد محمّد بن عبد اللّه بن عبد الرّحمن بن <app type="BL"><lem resp="Dhahabi p. 112">حماد </lem><rdg resp="Dhahabi p. 112">حماد </rdg><rdg resp="Dhahabi p. 112">جماد</rdg></app> بن زيد على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="39"/>  شهد محمّد بن عبد الرّحمن بن يحيى على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="40"/>  شهد الرّبيع بن محمّد أبي رجا على إقرار الولي والزّوج بما في هذا الكتاب <supplied reason="lost" cert="high">و</supplied>كتب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="41"/>  شهد رزق اللّه بن محمّد بن معوية على إقرار الولي والزّوج بما فيه 
+<lb n="42"/>  شهد أحمد بن نعيم بن محمّد بن نعيم على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="43"/>  شهد الحسن بن علي بن عبد اللّه بن زيد على إقرار <app type="BL"><lem resp="APD">الوالي </lem><rdg resp="al-Mudarris">الوليّ</rdg></app> بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="44"/>  شهد يحيى بن محمّد بن يحيى الحقير على إقرار الولي والزّوج بما في هذا الكتاب وكتب بخطّه 
+<lb n="45"/>  شهد <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن محمّد أبي رجا على إقرار الزّوج والولي بما فيه 
+<lb n="46"/>  شهد <app type="BL"><lem resp="APD">حمّاد </lem><rdg resp="APD">حماد </rdg><rdg resp="APD">جماد</rdg></app> بن محمّد بن عبد العزيز بن <app type="BL"><lem resp="APD">حمّاد </lem><rdg resp="APD">حماد </rdg><rdg resp="APD">جماد</rdg></app> بن زيد على إقرار الزّوج والولي بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="47"/>  شهد عبد المومن بن عبد اللّه بن يعقوب بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن باكر بن <gap reason="illegible" precision="low" extent="3"/> على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="48"/>  شهد <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن عبد اللّه بن محمّد بن عبد الرّحمن بن أبي <app type="BL"><lem resp="APD">المتمّم </lem><rdg resp="LS, cf. aḏ-Ḏahabī, Muštabih asmāʾ ar-riǧāl p. 461">المتيّم</rdg></app> على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="49"/>  شهد جعفر بن محمّد بن أحمد الطّرّاز على إقرار الزّوج والولي بما فيه 
+<lb n="50"/>  شهد محمّد بن <app type="BL"><lem resp="APD">سهل </lem><rdg resp="APD">فهد</rdg></app> بن جوهر على إقرار الولي والزّوج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="51"/>  شهد يوسف بن محمّد بن المهاجر على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="52"/>  <app type="BL"><lem resp="APD">وإبرهيم </lem><rdg resp="al-Mudarris">وإبراهيم</rdg></app> بن محمّد بن <app type="BL"><lem resp="APD">فرح </lem><rdg resp="APD">فرح </rdg><rdg resp="APD">فرخ</rdg></app> <gap reason="illegible" extent="6" unit="character" /> بن عمر وكتب شهادته على إقرار الولي والزّوج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="53"/>  <app type="BL"><lem resp="APD">وإبرهيم </lem><rdg resp="al-Mudarris">وإبراهيم</rdg></app> بن محمّد بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> محمّد بن فرج <supplied reason="omitted" cert="high">شهد</supplied> على إقرار الولي والزّوج بجميع ما فيه 
+<lb n="54"/>  محمّد بن عبد اللّه بن محمّد بن <app type="BL"><lem resp="APD">معيد </lem><rdg resp="APD">معيد</rdg></app> <supplied reason="omitted" cert="high">شهد</supplied> على <supplied reason="omitted" cert="high">إ</supplied>قرار ا<supplied reason="omitted" cert="high">لـ</supplied>ـزّوج والولي بجميع ما في هذا الكتاب 
+<lb n="55"/>  شهد ناجح بن محمّد بن إسحق بن ناجح و<supplied reason="omitted" cert="high">كتب</supplied> شهادته على إقرار الولي والزّوج بجميع ما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="56"/>  وعبد اللّه بن محمّد بن عبد اللّه بن إسحق بن ناصح شهد على إقرار الزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="57"/>  شهد يوسف بن محمّد بن يوسف على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="58"/>  شهد <app type="BL"><lem resp="APD">طاهر </lem><rdg resp="APD">ظاهر </rdg><rdg resp="APD">طهير </rdg><rdg resp="APD">ظهير </rdg><rdg resp="APD">ظفر </rdg><rdg resp="APD">طقز</rdg></app> بن عمر بن محمّد بن عبد الرّحمن بن أبي <app type="BL"><lem resp="APD">المنى </lem><rdg resp="APD">المنّي</rdg></app> على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="59"/>  شهد أحمد بن محمّد بن الحسن بن الزّبير على إقرار الزّوج والولي بما في هذا الكتاب 
+<lb n="60"/>  وطاهر بن أحمد بن طاهر شهد على إقرار الزّوج والولي بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="61"/>  شهد محمّد بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن إسحق على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="62"/>  شهد <app type="BL"><lem resp="APD">دينر </lem><rdg resp="al-Mudarris">دينار</rdg></app> بن محمّد بن محمّد بن هرون على إقرار الزّوج والولي بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="63"/>  شهد زيد بن عبد الرّحمن القيسي على إقرار الولي 
+<lb n="64"/>  والزّوج بما في هذا الكتاب 
+<lb n="interlinear 13-13x"/>  عبد اللّه بن عبد اللّه بن سلمة بن يونس شهد على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 13x-15"/>  شهد محمّد بن جعفر بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن أحمد على إقرار الولي والزّوج وكتب شهادته بجميع ما في هذا الكتاب 
+<lb n="interlinear 16-16x"/>  عبد اللّه شهد على إقرار الزّوج والولي بما فيه 
+<lb n="interlinear 17-17x"/>  شهد عبد اللّه بن الزّبير بن علي على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 18-19"/>  شهد يوسف بن محمّد بن يوسف بن سمعان على إقرار الولي والزّوج بجميع ما في هذا الكتاب 
+<lb n="interlinear 21"/>  وجعفر بن أحمد بن عيسى بن عبد الرّحمن شهد على إقرار الولي والزّوج 
+<lb n="interlinear 21x"/>  شهد علي بن الحسن بن عمر بن يحيى على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بــ</abbr><ex>ـتأريخــ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 23-25"/>  شهد محمّد بن أحمد بن عبد الرّحمن بن موسى على إقرار الزّوج والولي بما في هذا الكتاب 
+<lb n="interlinear 25-26"/>  ومحمّد بن أحمد بن عبد اللّه شهد على إقرار الزّوج والولي بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 28"/>  شهد علي بن فهد بن <app type="BL"><lem resp="APD">عيّاش </lem><rdg resp="APD">عتّاس </rdg><rdg resp="APD">عيّاش </rdg><rdg resp="APD">عيسى</rdg></app> بن سهيل على إقرار الولي وا<supplied reason="lost" cert="high">لزّ</supplied>وج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 29-30"/>  <app type="BL"><lem resp="APD">والقسم </lem><rdg resp="al-Mudarris">والقاسم</rdg></app> بن عبد الرّحمن بن <app type="BL"><lem resp="APD">القسم </lem><rdg resp="al-Mudarris">القاسم</rdg></app> بن عبد اللّه شهد على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 31-32"/>  ومحمّد بن عبد الرّحيم بن قاسم شهد على إقرار الولي والزّوج بما في هذا الكتاب <supplied reason="lost" cert="high">و</supplied>كتب بخطّه 
+<lb n="interlinear 34-35"/>  ومحمّد بن علي بن محمّد شهد على إقرار الولي والزّوج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 32-32x"/>  شهد محمّد بن أحمد بن عبد القادر بن بشر على إقرار الولي والزّوج بما في هذا الكتاب <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 37-38"/>  وعبد اللّه بن عمر بن عبد اللّه بن محمّد بن عمر شهد على إقرار الزّوج والولي بما في هذا <supplied reason="lost" cert="high">الكتاب</supplied> <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 38-40"/>  شهد محمّد بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن محمّد بن أحمد بن حجّاج على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="interlinear 39-40"/>  وعلي بن محمّد بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن عيسى بن بكير شهد على إقرارهما بما في هذا الكتاب 
+<lb n="interlinear 41-42"/>  شهد عبد اللّه بن طلحة <supplied reason="omitted" cert="high">على</supplied> إقرار الولي والزّوج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 45-45x"/>  شهد أحمد بن محمّد بن عبد اللّه بن عبد الرّحمن على إقرار الزّوج والولي وكتب شهادته بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 45x-46"/>  شهد علي بن أحمد بن محمّد بن <app type="BL"><lem resp="APD">هرون </lem><rdg resp="al-Mudarris">هارون</rdg></app> بن <app type="BL"><lem resp="APD">إسحق </lem><rdg resp="al-Mudarris">إسحاق</rdg></app> على إقرار الولي والزّوج بما فيه 
+<lb n="interlinear 46x-48"/>  شهد الحسن بن علي بن سالم بن عبد اللّه على إقرارهما بما فيه وكتب بخطّه 
+<lb n="interlinear 48x-49"/>  شهد محمّد بن عبد اللّه بن جبريل بن <app type="BL"><lem resp="APD">إسحق </lem><rdg resp="al-Mudarris">إسحاق</rdg></app> على إقرار الولي والزّوج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="interlinear 50-51"/>  شهد <app type="BL"><lem resp="APD">إسمعيل </lem><rdg resp="al-Mudarris">إسماعيل</rdg></app> بن <app type="BL"><lem resp="APD">إبرهيم </lem><rdg resp="al-Mudarris">إبراهيم</rdg></app> بن وهب على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="interlinear 51x-52"/>  شهد عبد اللّه بن عبد الرّحمن بن <app type="BL"><lem resp="APD">سلم </lem><rdg resp="al-Mudarris">سالم</rdg></app> بن زيد على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="right margin 1"/>  شهد الحسن بن أحمد بن عبد الرّحمن بن عبد اللّه على إقرار الولي والزّوج بما في هذا الكتاب 
+<lb n="right margin 2"/>  شهد محمّد بن سهل بن محمّد على إقرار الولي والزّوج بما فيه <expan><abbr>بـ</abbr><ex>ـتأريخـ</ex><abbr>ـه</abbr></expan> 
+<lb n="verso"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa ṯiyuduru tīduru bnu samawīla bni sld banīlaẗi lārisi bni šanūdaẗa ăš šammāsu dibalī ʾadāy ĭbnata yuḥannisa bni buqṭura 
+ <lb n="3"/>bni yuḥannisa ăl qissīsi wa tazawwaǧa hā bi hi ʾaṣdaqa hā tisʿīna dīnār:an ḏahab:an ʿayn:an ǧiyād:an ṣiḥāḥ:an maṯāqīla ʿayn:an 
+ <lb n="4"/>maġsūlaẗ:an maʿsūlaẗ:an ʿaǧǧala la hā min ḏālika ḫamsaẗa ʿašara dīnār bi hāḏihi ăl ăṣ miṣaffaẗi ṣafiyyaẗi ṣifaẗi fa qabaḍa hā min hu ʾabū hā yuḥannisu bnu buqṭura 
+ <lb n="5"/>wa ʾabraʾat hu min hā wa baqiya ʿalà ṯiyudura tīdura bni samawīla li ĭmraʾati hi dibalī ʾadāy ĭbnati yuḥannisa bni buqṭura min hāḏā ăṣ ṣadāqi ḫamsaẗ:un 
+ <lb n="6"/>wa sabʿūna dīnār:an ḏahab:an ʿayn:an ǧiyād:an ṣiḥāḥ:an maṯāqīla ʿayn:an maʿsūlaẗ:an dayn:an ṯābit:an wa ḥaqq:an wāǧib:an la hā ʿalay hi 
+ <lb n="7"/>huwa yuqirru ʾanna hu talà malīʾ:un bi ḏālika wāṣil ʾilay hi kullu yaḥillu ḏālika ʿalay hi fī ǧumādà ăl ʾāḫiraẗi min sanaẗi sabʿ:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in wa tawallā yuḥannisu 
+ <lb n="8"/>bnu buqṭura bni yuḥannisa ʿaqda nikāḥi ĭbnati hi dibalī ʾadāy min ṯiyudura tīdura bni samawīla wa ʾiktāba ĭktitāba hāḏā ăl kitābi la hā ʿalay hi 
+ <lb n="9"/>wa hiya bikr:un fī ḥaǧri ḥuǧraẗi hi ø ø wa bayti wilāyati yalī hā hi baʿda ʾan ĭštāra ĭstaʾḏana ø hā bi ø hā ø fī ḏālika fa ḍamina ḍammana ṣamatat hu ø wa fa qabbala qabila hu bi hāḏā ăṣ ṣadāqi ăl musammā fī hāḏā ăl kitābi 
+ <lb n="10"/>wa taḥālafa yuḥālifu bi ø mā ø ʾamara ăl lāha lāhu bi hi min ḥusni ăṣ ṣuḥbaẗi wa ǧamīli ăl ʿišraẗi šahida ʿalà ʾiqrāri ṯiyudura tīdura bni samawīla bni sld banīlaẗi lārisi bni šanūdaẗa 
+ <lb n="11"/>wa yuḥannisa bni buqṭura bni yuḥannisa ăn naṣrāniyyi bi mā fī hāḏā ăl kitābi fī ṣiḥḥati himā wa ǧawāzi ʾamri himā ṭāʾiʿayni ġayra mukrahayni 
+ <lb n="12"/>yawma ăl ḫamīsi li ʾiḥdà wa ʿišrīna laylaẗ:an ḫalat min ǧumādà ăl ʾāḫiraẗi sanaẗa sitt:in wa ṯalāṯīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="13"/>ǧaʿfaru bnu ʾibrāhīma bni ʾaḥmada šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="14"/>faḍlu bnu ǧaʿfara bni ʾibrāhīma bni ʾaḥmada šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="15"/>šahida ʿabdu ăl lāhi bni yaʿqūba bni ʾibrāhīma bni nāfiʿ:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="16"/>šahida ăl ḥasanu bnu ʿabdi ăl lāhi bni zayd:in ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi 
+ <lb n="17"/>šahida muḥammadu bnu ʾismāʿīla bni ʾibrāhīma bni fahd:in wahb:in ʿalà ʾiqrāri himā bi mā fī hi 
+ <lb n="18"/>šahida ăl qāsimu bnu muḥammadi bni ăl qāsimi bni ʿabdi ăl lāhi ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="19"/>šahida muḥammadu bnu ʿabdi ăl lāhi bni mūsà bni ḫālid:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="20"/>šahida muḥammadu bnu ʿaliyyi bni ʾisḥāqa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi ** taʾrīḫi hi 
+ <lb n="21"/>wa ʿaliyyu bnu muḥammadi bni ʾaḥmada šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="22"/>šahida ʿaliyyu bnu muḥammadi bni ʿaliyy:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="23"/>šahida ǧaʿfaru bnu muḥammadi bni ʿabdi ăl ʾaḥadi bni qāsim:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="24"/>wa ʾaḥmadu bnu ʾibrāhīma bni ʾaḥmada šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hi 
+ <lb n="25"/>wa muḥammadu bnu ʿabdi ăl lāhi bni muḥammadi bni maʿbad:in muʿayd:in ø wa kataba šahādata hu ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="26"/>wa ʿabdu ăl lāhi bnu ʾaḥmada bni muḥammadi bni ăl ḥakami šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi wa kataba bi ḫaṭṭi hi bi taʾrīḫi hi 
+ <lb n="27"/>ʿabdu ăl lāhi bnu ʾismāʿīla bni ʾibrāhīma bni ʾisḥāqa šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="28"/>šahida ʿumaru bnu muḥammadi bni marwāna bni ʿabdi ăl lāhi šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="29"/>šahida ʾibrāhīmu bnu muḥammadi bni ʾaḥmada bni ḥaǧǧāǧ:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="30"/>wa muḥammadu bnu ʾaḥmada bni ʾibrāhīma bni ăl madaniyyi wa kataba šahādata hu ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="31"/>wa ăl ḥusaynu bnu muḥammadi bni ʿaliyyi bni hārūna wa kataba šahādata hu ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="32"/>wa ʾaḥmadu bnu sahli bni hārūna wa kataba šahādata hu ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="33"/>šahida ʿabdu ăl lāhi bnu muḥammadi bni ʾaḥmada bni ʿabdi ăl qādiri bni ʿumar:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="34"/>wa ʿabdu ăl lāhi bnu ʾaḥmada bni muḥammadi bni yūsufa wa kataba šahādata hu ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi 
+ <lb n="35"/>šahida ʿabdu ăl maliki bni yūsufa bni ʿabdi ăl maliki bni ʿabdi ăr raḥīmi bni ĭbni šarḥ:in šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="36"/>šahida muḥammadu bnu ʾaḥmada bni faḫri bni fahdi bni ʿaliyy:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="37"/>šahida ʾaḥmadu bnu muḥammadi bni ʾaḥmada bni ʾibrāhīma ăl warrāqiyyu ʿalà ʾiqrāri ăl waliyyi bi mā fī hāḏā ăl kitābi 
+ <lb n="38"/>šahida muḥammadu bnu ʿabdi ăl lāhi bni ʿabdi ăr raḥmāni bni ḥammādi ǧimādi ḥimādi bni zayd:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="39"/>šahida muḥammadu bnu ʿabdi ăr raḥmāni bni yaḥyà ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="40"/>šahida ăr rabīʿu bnu muḥammad:in ʾabī raǧāʾ:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi wa kataba bi taʾrīḫi hi 
+ <lb n="41"/>šahida rizqu ăl lāhi bni muḥammadi bni muʿāwiyaẗa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi 
+ <lb n="42"/>šahida ʾaḥmadu bnu naʿīmi bni muḥammadi bni naʿīm:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="43"/>šahida ăl ḥasanu bnu ʿaliyyi bni ʿabdi ăl lāhi bni zayd:in ʿalà ʾiqrāri ăl wālī waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="44"/>šahida yaḥyà bnu muḥammadi bni yaḥyà ăl ḥaqīru ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="45"/>šahida ʾibrāhīmu bnu muḥammad:in ʾabī raǧāʾ:in ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hi 
+ <lb n="46"/>šahida ḥammādu ǧimādu ḥimādu bnu muḥammadi bni ʿabdi ăl ʿazīzi bni ḥammādi ǧimādi ḥimādi bni zayd:in ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="47"/>šahida ʿabdu ăl muʾmini bni ʿabdi ăl lāhi bni yaʿqūba bni ʾibrāhīma bni bākiri bni *** ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="48"/>šahida ʾibrāhīmu bnu ʿabdi ăl lāhi bni muḥammadi bni ʿabdi ăr raḥmāni bni ʾabī ăl mutammimi mutayyami ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="49"/>šahida ǧaʿfaru bnu muḥammadi bni ʾaḥmada ăṭ ṭarrāzu ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hi 
+ <lb n="50"/>šahida muḥammadu bnu sahli fahdi bni ǧawhara ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="51"/>šahida yūsufu bnu muḥammadi bni ăl muhāǧiri ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="52"/>wa ʾibrāhīmu bnu muḥammadi bni faraǧi faraḥi farḫi ****** bni ʿumar:in wa kataba šahādata hu ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="53"/>wa ʾibrāhīmu bnu muḥammadi bni ʾibrāhīma muḥammadu bnu faraǧ:in šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi ǧamīʿi mā fī hi 
+ <lb n="54"/>muḥammadu bnu ʿabdi ăl lāhi bni muḥammadi bni maʿbad:in muʿayd:in šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="55"/>šahida nāǧiḥu bnu muḥammadi bni ʾisḥāqa bni nāǧiḥ:in wa kataba šahādata hu ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi ǧamīʿi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="56"/>wa ʿabdu ăl lāhi bnu muḥammadi bni ʿabdi ăl lāhi bni ʾisḥāqa bni nāṣiḥ:in šahida ʿalà ʾiqrāri ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="57"/>šahida yūsufu bnu muḥammadi bni yūsufa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="58"/>šahida ṭāhiru ẓāhiru ẓahīru ṭuhayru ẓuhayru ẓafiru ṭuquzu bnu ʿumar:in bni muḥammadi bni ʿabdi ăr raḥmāni bni ʾabī ăl manniyyi munà ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="59"/>šahida ʾaḥmadu bnu muḥammadi bni ăl ḥasani bni ăz zubayri ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi 
+ <lb n="60"/>wa ṭāhiru bnu ʾaḥmada bni ṭāhir:in šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="61"/>šahida muḥammadu bnu ʾibrāhīma bni ʾisḥāqa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="62"/>šahida dīnāru bnu muḥammadi bni muḥammadi bni hārūna ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="63"/>šahida zaydu bnu ʿabdi ăr raḥmāni ăl qaysiyyu ʿalà ʾiqrāri ăl waliyyi 
+ <lb n="64"/>wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="66"/>ʿabdu ăl lāhi bnu ʿabdi ăl lāhi bni salmaẗa bni yūnusa šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="67"/>šahida muḥammadu bnu ǧaʿfara bni ʾibrāhīma bni ʾaḥmada ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi wa kataba šahādata hu bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="68"/>ʿabdu ăl lāhi šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hi 
+ <lb n="69"/>šahida ʿabdu ăl lāhi bnu ăz zubayri bni ʿaliyy:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="70"/>šahida yūsufu bnu muḥammadi bni yūsufa bni samʿāna ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="71"/>wa ǧaʿfaru bnu ʾaḥmada bni ʿīsà bni ʿabdi ăr raḥmāni šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi 
+ <lb n="72"/>šahida ʿaliyyu bnu ăl ḥasani bni ʿumar:in bni yaḥyà ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="73"/>šahida muḥammadu bnu ʾaḥmada bni ʿabdi ăr raḥmāni bni mūsà ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi 
+ <lb n="74"/>wa muḥammadu bnu ʾaḥmada bni ʿabdi ăl lāhi šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="75"/>šahida ʿaliyyu bnu fahdi bni ʿabbāsi ʿattāsi ʿayyāši ʿīsà bni suhayl:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="76"/>wa ăl qāsimu bnu ʿabdi ăr raḥmāni bni ăl qāsimi bni ʿabdi ăl lāhi šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="77"/>wa muḥammadu bnu ʿabdi ăr raḥīmi bni qāsim:in šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi 
+ <lb n="78"/>wa muḥammadu bnu ʿaliyyi bni muḥammad:in šahida ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="79"/>šahida muḥammadu bnu ʾaḥmada bni ʿabdi ăl qādiri bni bišr:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="80"/>wa ʿabdu ăl lāhi bni ʿumari bni ʿabdi ăl lāhi bni muḥammadi bni ʿumar:in šahida ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="81"/>šahida muḥammadu bnu ʾibrāhīma bni muḥammadi bni ʾaḥmada bni ḥaǧǧāǧ:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="83"/>wa ʿaliyyu bnu muḥammadi bni ʾibrāhīma bni ʿīsà bni bukayr:in šahida ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="84"/>šahida ʿabdu ăl lāhi bnu ṭalḥaẗa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="85"/>šahida ʾaḥmadu bnu muḥammadi bni ʿabdi ăl lāhi bni ʿabdi ăr raḥmāni ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi wa kataba šahādata hu bi mā fī hi bi taʾrīḫi hi 
+ <lb n="86"/>šahida ʿaliyyu bnu ʾaḥmada bni muḥammadi bni hārūna bni ʾisḥāqa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi 
+ <lb n="87"/>šahida ăl ḥasanu bnu ʿaliyyi bni sālimi bni ʿabdi ăl lāhi ʿalà ʾiqrāri himā bi mā fī hi wa kataba bi ḫaṭṭi hi 
+ <lb n="88"/>šahida muḥammadu bnu ʿabdi ăl lāhi bni ǧibrīla bni ʾisḥāqa ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="89"/>šahida ʾismāʿīlu bnu ʾibrāhīma bni wahb:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="90"/>šahida ʿabdu ăl lāhi bnu ʿabdi ăr raḥmāni bni silmi sālimi bni zayd:in ʿalà ʾiqrāri ăl waliyyi wa ăl zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="91"/>šahida ăl ḥasanu bnu ʾaḥmada bni ʿabdi ăr raḥmāni bni ʿabdi ăl lāhi ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hāḏā ăl kitābi 
+ <lb n="92"/>šahida muḥammadu bnu sahli bni muḥammad:in ʿalà ʾiqrāri ăl waliyyi wa ăz zawǧi bi mā fī hi bi taʾrīḫi hi 
+ <lb n="93"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+		Im Namen Gottes, des Barmherzigen, Gütigen.
+		In the name of God the Merciful, the Compassionate!
+			<lb n="2"/>
+		Ceci est la dot donnée par Théodore Ibn Samawīl Ibn Panīle Lāris Ibn Šanūda, le diacre, à Dbēlī Adāy, fille de Joḥannes Boqṭor
+		Dies ist das, was Thiodor b. Samawīl b. s-l-s [sic, but see edition] Lāris b. Šanūda, des Diakons, festgelegt hat als Brautgabe für Dbelī Adāy ibnat Yoḥannes b. Buqṭur
+		This is what Theodor son of Samuel son of Panīle Lāris(?) son of Šanūda the deacon gave as a nuptial gift to Dbly(n) Adāy daughter of Yuḥannis son of Buqṭur
+		This is what Tīdur son of Samawīl son of S-l-d Lāris son of Shinūdah the deacon has assigned as a dowry to Dbely (?) Adāy daughter of Yuḥannis son of Boktor
+			<lb n="3"/>
+		b. Yoḥannes, des Priesters, und er hat sie hierdurch geheiratet. Er hat ihr als Brautgabe neunzig Dīnār neue Goldmünzen zugesprochen, neue Münzen, gute, sauber geschlagene maṯāqīl,
+		Ibn Yoḥannes, le prêtre, moyennant quoi il s&#039;est marié à elle; il lui donna comme dot quatre-vingt-dix dīnārs en or, en pièces d&#039;or excellentes, intactes et pesées en miṯqāl-s, des pièces d&#039;or
+		son of Yuḥannis the priest, and by means of which he married her. He gave her as a nuptial gift ninety gold dinars in cash, fine coins, intact, full weight, cash,
+		son of Yuḥannis the priest; and he has taken her in marriage thereby. He has assigned as her dowry ninenty dinars, gold, current coins, good, correctly-minted Mathāḳīl, current (gold-)coins,
+			<lb n="4"/>
+		authentiques. Il lui a payé immédiatement au comptant quinze dīnārs par ces bijoux pour les cheveux, et son père Yoḥannes Ibn Boqṭor les a reçus de lui,
+		echte. Davon zahlt er ihr sofort fünfzehn Dīnār in diesem Münzfuß und ihr Vater Yoḥannes b. Buqṭur erhielt sie von ihm,
+		true. Of that he made an immediate down payment to her of fifteen dinars by this coin frontlet and her father Yuḥannis son of Boktor received it from him,
+		washed. Thereof he has made her an immediate payment of fifteen dinars of this description. Her father Yuḥannis son of Buqṭur received them from him
+			<lb n="5"/>
+		and she receipted it for him. And there remained against Tīdur son of Samawīl to his wife Dbely Adāy daughter of Yuḥannis son of Boktor of this dowry five
+		and she released him therefrom. There remains (incumbent) upon Theodor son of Samuel in favor of his wife Dbly(n) Adāy daughter of Yuḥannis son of Buqṭur of this nuptial gift seventy-
+		et elle l&#039;en a acquitté; (de telle manière) que Théodore Ibn Samawīl doit encore à sa femme Dbēlī Adāy, fille de Yoḥannes Ibn Boqṭor, de cette dot
+		und sie sprach ihn frei davon (durch Quittung). Und es blieben als Schuld des Thiodor b. Samawīl zugunsten seiner Frau Dbelī Adāy ibnat Yoḥannes b. Buqṭur von dieser Brautgabe fünf-
+			<lb n="6"/>
+		and seventy dinars, gold, current-coins, good, correctly-minted mathāḳīl, current (gold-)coins, true - a valid debt and a binding claim due her from him,
+		five gold dinars in cash, fine coins, intact, full weight, cash, washed, as a valid debt and binding obligation in her favor to his debit.
+		soixante-quinze dīnārs en or, en pièces d&#039;or excellentes, intactes et pesées en miṯqāl-s, comme reste, comme dette valide et comme obligation l&#039;engageant vis-à-vis d&#039;elle.
+		undsiebzig Dīnār, Gold, neue Münzen, gut und sauber geschlagene maṯāqīl, neue Goldmünzen, echte - eine bestehende Schuld und ein bindender Schuldschein für sie bei ihm,
+			<lb n="7"/>
+		he acknowledges that it results from that (agreement) and is due from him. It will become payable by him in Jumādā II of the year three hundred and thirty-seven. And Yuḥannis
+		he acknowledging that it is the balance outstanding (of that dowry and) connected with it; all that (debt) is due to be paid by hin in Jumādā II of the year three hundred and thirty seven. And Yuḥannis
+		Il reconnaît qu&#039;il se porte garant, et que tout cela va à sa charge, en ǧumādā II de l&#039;année trois cent trente-sept. Et Yoḥannes
+		wobei er anerkennt, dass es sich dabei um den ausstehenden Rest (der Brautgabe) handelt und dass dies damit verbunden ist, diese ganze (Schuld) von ihm muss im Ǧumādā al-āḫira des Jahres dreihundertsiebenunddreissig gezahlt werden. Und Yoḥannes
+			<lb n="8"/>
+		b. Buqṭur b. Yoḥannes übernahm den Abschluss des Ehevertrages seiner Tochter Dbelī Adāy mit Thiodor b. Samawīl, und die Schreibung dieses Schriftstückers zu ihren Gunsten (und) seinen Lasten,
+		Ibn Boqṭor Ibn Yoḥannes prit soin de conclure le contrat de mariage de sa fille Dbēlī Adāy avec Théodore Ibn Samawīl, et de laisser mettre par écrit ce document, au profit d&#039;elle et à son (Théodore) débit,
+		son of Boktor son of Yuḥannis has undertaken (to secure) the marriage contract of his daughter Dbely Adāy from Tīdur son of Samawīl, the writing of this deed being due her from him,
+		son of Buqṭur son of Yuḥannis undertook the contracting of the marriage of his daughter Dbly(n) Adāy to Theodor son of Samuel and the drafting of this document in her favor to his debit,
+			<lb n="9"/>
+		alors qu&#039;elle était jeune fille dans la chambre de sa maison, et après avoir délibéré avec elle à propos de cela. Ainsi (Théodore) a garanti (le contrat) et l&#039;a accepté avec la dot mentionnée dans ce document,
+		she being a virgin under his protection for whom he acts as a guardian after having asked her permission to do so. He received his guarantee and his pledge for this nuptial gift specified in this document
+		she being (then) a virgin in the chamber of her home, after he had consulted her in regard to that. And he (Tīdur) made it secure and accepted it with this dowry that is named in this document.
+		wobei sie zu dieser Zeit ein Jungfrau in der Kammer ihres Hauses war, nachdem er sie diesbezüglich zu Rate zog. Er versicherte es und akzeptierte es mit dieser in diesem Dokument genannten Brautgabe.
+			<lb n="10"/>
+		and for what God has ordained concerning good companionship and friendy relations. There witnessed to the acknowledgement by Theodor son of Samuel son of Panīle Lāris son of Šanūda
+		And he swears to God for good companionship and pleasant association. The following witnesses have testified to the acknowledgement of Tīdur son of Samawīl son of S-l-d Lāris son of Shinūdah
+		et s&#039;engagea par serment à de bonnes relations et rapports agréables. Témoins de la reconnaissance de Théodore Ibn Samawīl Ibn Panīle Lāris Ibn Šanūda
+		Und er schwört bei Gott, dass er gute Kameradschaft halten will und eine angenehme Beziehung (zu ihr). Die folgenden Zeugen haben die Anerkennung durch Thiodor b. Samawīl b. S-l-d Lāris b. Šanūda bezeugt
+			<lb n="11"/>
+		and by Yuḥannis son of Buqṭur son of Yuḥannis, the Christian, of what is in this document, both being possessed of good health and legal competence, willing and not coerced,
+		and (to that) of Yuḥannis son of Boktor son of Yuḥannis the Christian, in regard to that which is in this document, both (being) in sound health and in the control of their affairs, willing not compelled,
+		et de Yoḥannes Ibn Boqṭor, le chrétien, du contenu de ce document, tous les deux étant en (pleine) santé et dans leur capacité juridique, de leur gré, non forcés,
+		und die Anerkennung durch Yoḥannes b. Buqṭur b. Yoḥannes, des Christen, in Bezug auf alles, was in diesem Dokument steht, wobei sie beide guter Gesundheit und fähig waren, ihre Angelegenheiten auszuführen, willens, nicht gedrängt,
+			<lb n="12"/>
+		am Donnerstag, wobei einzundzwanzig Nächte des Ǧumādā al-āīra des Jahres dreihundertsechsunddreissig vergangen waren. (Es folgen die Zeugenunterschriften)
+		le jeudi à vingt et une nuits écoulées de ǧumādā II de l&#039;an trois cent trente-trois: [sic]
+		(on) Thursday twenty-one nights having elapsed of Jumādā II of the year three hundred and thirty six.
+		on Thursday twenty-one nights having passed Jumādā II in the year three hundred and thirty-six:
+			<lb n="13"/>
+		Ǧaʿfar Ibn Ibrāhīm Ibn Aḥmad a témoigné de la reconnaissance du mandataire et du mari du contenu de ce document.
+		Jaʿfar ibn Ibrahim ibn Aḥmad has testified to the acknowledgement of the trustee and the husband in regard to that which is in this deed.
+		Jaʿfar son of Ibrāhīm son of Aḥmad...
+			<lb n="17"/>
+		Muḥammad Ibn Ismāʿīl Ibn Ibrāhīm Ibn Fahd a témoigné de leur reconnaissance de son contenu.
+			<lb n="25"/>
+		Et Muḥammad Ibn ʿAbd Allāh Ibn Muḥammad Ibn Maʿbad, et il écrivit son témoignage de la reconnaissance du contenu de ce document par le mandataire et le mari,
+			<lb n="26"/>
+		ainsi que ʿAbd Allāh Ibn Aḥmad Ibn Muḥammad Ibn al-Ḥakam qui témoigna de la reconnaissance du mandataire et du mari de son contenu, et il écrivit de sa main à sa date.
+			<lb n="93"/>
+		line in Coptic, up to now unpublished
+</ab></div>
+</body>
+</text>
+</TEI>

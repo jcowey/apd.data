@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="517" xml:id="Grohmann_TWAe_17" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 17 (= P.World p. 154 b)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_17</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106687</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  حپاق للنّفقة κη 
+ <lb n="2"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم 
+ <lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">خـ</supplied>ـياق κη 
+ <lb n="4"/>  <app type="BL"><lem resp="APD">مر<supplied reason="lost" cert="high">عـ</supplied>ـپ </lem><rdg resp="APD">مراغب</rdg></app> للمائدة ιβ 
+ <lb n="5"/>  ولسڤى الإبل β 
+ <lb n="6"/>  ولعشا أهل <app type="BL"><lem resp="APD">فريشه </lem><rdg resp="“Grohmann, World”">فريشه </rdg><rdg resp="Diem">قرينته</rdg></app> ϛ 
+ <lb n="7"/>  <app type="BL"><lem resp="APD">حپرماپ </lem><rdg resp="“Grohmann, World p. 155”">حترمات</rdg></app> 
+ <lb n="8"/>  ولاپى عمرو الرّائض β 
+ <lb n="9"/>  ولاصحاپ الرّب ς 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>‫ḫuyāq:un li n nafaqaẗi 28 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>*** ḫuyāq:un 28 
+ <lb n="4"/>‫marāġibu li l māʾidaẗi 12 
+ <lb n="5"/>wa li saqyi ăl ʾibili 2 
+ <lb n="6"/>wa li ʿašāʾi ʾahli farīšaẗ farīši qarīnaẗi hi 6 
+ <lb n="7"/>ḥBrmʾB ǧitrimāẗa 
+ <lb n="8"/>wa li ʾabī ʿamr:ini ăr rāʾiḍi 2 
+ <lb n="9"/>wa li ʾaṣḥābi ăr rabbi 6 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Choiak. For maintenance | 28
+ 	  Choiak: für den Unterhalt | 28
+		 <lb n="2"/>
+ 	  [Im Namen Gottes des Barm]herzigen, Gütigen.
+ 	  [In the name of God, the Comp]assionate, the Merciful!
+		 <lb n="3"/>
+ 	  [*** Cho]iak | 28
+		 <lb n="4"/>
+ 	  Erfordernisse für den Tisch | 12
+ 	  Needs for the table | 12
+		 <lb n="5"/>
+ 	  and for the watering of the camel | 2
+ 	  für das Tränken der Kamele | 2
+		 <lb n="6"/>
+ 	  for the supper of the family of his concubine
+ 	  für das Abendessen der Angehörigen der Konkubine | 6
+		 <lb n="7"/>
+ 	  Tshetrimât | 6
+		 <lb n="8"/>
+ 	  and for Abû ʿAmr, the horse-trainer, | 2
+ 	  und für Abū ʿAmr, den Pferdetrainer | 2
+		 <lb n="9"/>
+ 	  and for the mates of the lord. | 6
+ 	  und für die Gefährten des Herrn | 6
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

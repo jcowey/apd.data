@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1648" xml:id="Prag_290" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_290</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169402</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">دينرين</supplied> أدّى محمّد بن صا<supplied reason="lost" cert="high">لح</supplied> 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> المديـ<supplied reason="lost" cert="high">ـنة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه أدّى يزيد بن خلد عن نفـ<supplied reason="lost" cert="high">ـسه</supplied> 
+<lb n="recto 4"/>  رفاعة 
+<lb n="recto 5"/>  دينر أدّى إسحق الصّيّاد عن <supplied reason="lost" cert="high">نـ</supplied>ـفسه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" extent="2" unit="character" /> أدّى زكري بن بحر العليم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 7"/>  <unclear reason="undefined" cert="high">الدّينر</unclear> أدّى إسحق بن إبرهيم على يـ<supplied reason="lost" cert="high">ـد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied><unclear reason="undefined" cert="high">ـن</unclear> <unclear reason="undefined" cert="high">رنيع</unclear> أدّى شيشة بن <app type="BL"><lem resp="APD">ڤڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="LS">قفرى</rdg></app> 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">ثمن</unclear> 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> أدّى بطرس بجوية عن نفسـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> أدّى <supplied reason="lost" cert="high">ا</supplied>پرپپى بن جريج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> قرى شتّى أدّى <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـسه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 6"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‪χγʹηʹ‬ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 7"/>  ‮<gap reason="illegible" precision="low" extent="3"/> ‪χ‪<gap reason="illegible" extent="1" unit="character" />‬‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** dīnārayni ʾaddà muḥammadu bnu ṣāliḥ:in 
+ <lb n="2"/>*** ăl madīnaẗ *** 
+ <lb n="3"/>***h ʾaddà yazīdu bnu ḫālid:in ʿan nafsi hi 
+ <lb n="4"/>rifāʿaẗu 
+ <lb n="5"/>dīnār ʾaddà ʾisḥāqu ăṣ ṣayyādu ʿan nafsi hi *** 
+ <lb n="6"/>** ʾaddà zikrī bnu baḥar:in baḥr:in buḥur:in ăl ʿalīmu *** 
+ <lb n="7"/>ăd dīnār ʾaddà ʾisḥāqu bnu ʾibrāhīma ʿalà yadi *** 
+ <lb n="8"/>*** bn rnyʿ ʾaddà šīšaẗu bnu FF*** qufrà 
+ <lb n="9"/>*** ṯaman 
+ <lb n="10"/>*** ** ** ʾaddà buṭrusu baǧūyaẗa ʿan nafsi hi 
+ <lb n="11"/>*** ** ʾaddà ʾBrBBy bnu ǧurayǧ:in *** 
+ <lb n="12"/>*** qurà šattà ʾaddà *** 
+ <lb n="13"/>* 
+ <lb n="14"/>*** **sh * 
+ <lb n="15"/>*** * 
+ <lb n="16"/>*** * 
+ <lb n="17"/>*** * 
+ <lb n="18"/>*** 1/2+1/3+1/8 * 
+ <lb n="19"/>*** 1/2+* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		zwei Dīnār]e Es bezahlte Muḥammad b. Ṣāliḥ
+			<lb n="2"/>
+		] die Stad[t
+			<lb n="3"/>
+		]h Es bezahlte Yazīd b. Ḫālid persön[lich
+			<lb n="4"/>
+		Rifāʿa
+			<lb n="5"/>
+		Dīnār Es bezahlte Isḥāq, der Fischer, per[sön]lich [
+			<lb n="6"/>
+		// Es bezahlte Zikrī b. Baḥr, der Gelehrte,
+			<lb n="7"/>
+		der Dīnar Es bezahlte Isḥāq b. Ibrāhīm duch [N.N.
+			<lb n="8"/>
+		Es bezahlte Šīše b. ....[
+			<lb n="10"/>
+		// // Es bezahlte Buṭrus Beǧūye persön[lich
+			<lb n="11"/>
+		// Es bezahlte A........ b. Ǧuraiǧ[
+			<lb n="12"/>
+		Verschiedene Dörfer: Es bezahlte [
+			<lb n="13"/>
+			<lb n="14"/>
+		]se
+			<lb n="15"/>
+			<lb n="16"/>
+			<lb n="17"/>
+			<lb n="18"/>
+		] 1/2+1/3+1/8
+			<lb n="19"/>
+		]1/2[+.]
+</ab></div>
+</body>
+</text>
+</TEI>

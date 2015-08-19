@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="897" xml:id="Grohmann_World_p_159_b" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 159 b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_159_b</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113659</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  تفسير ما أخرجت من القمح على بركة اللّه وعونه يوم السّبت سبع أرادب ونصف 
+<lb n="3"/>  يوم الاثنين عشرة أرادب وويبة 
+<lb n="4"/>  يوم الثّلثا ثمان أرادب وثلث 
+<lb n="5"/>  يوم الأربعا تسع أرادب 
+<lb n="6"/>  يوم الخميس عشرة أرادب وثلث 
+<lb n="7"/>  يوم السّبت أربع أرادب وثلث 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>tafsīru mā ʾaḫraǧtu mina ăl qamḥi ʿalà barakaẗi ăl lāhi wa ʿawni hi yawma ăs sabti sabʿu ʾarādiba wa niṣf:un 
+ <lb n="3"/>yawma ăli ĭṯnayni ʿašaraẗu ʾarādiba wa waybaẗ:un 
+ <lb n="4"/>yawma ăṯ ṯulāṯāʾi ṯamāni ʾarādiba wa ṯulṯ:un 
+ <lb n="5"/>yawma ăl ʾarbaʿāʾi tisʿu ʾarādiba 
+ <lb n="6"/>yawma ăl ḫamīsi ʿašaraẗu ʾarādiba wa ṯulṯ:un 
+ <lb n="7"/>yawma ăs sabti ʾarbaʿu ʾarādiba wa ṯulṯ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Specification of that what I have taken off of wheat with the blessing and help of God: On Saturday seven artabas and a half.
+			<lb n="3"/>
+		On Monday ten artabas and one waiba.
+			<lb n="4"/>
+		On Tuesday eight artabas and a third.
+			<lb n="5"/>
+		On Wednesday nine artabas.
+			<lb n="6"/>
+		On Thursday ten artabas and a third.
+			<lb n="7"/>
+		On Saturday four artabas and a third.
+</ab></div>
+</body>
+</text>
+</TEI>

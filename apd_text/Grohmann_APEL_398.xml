@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1956" xml:id="Grohmann_APEL_398" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 398</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_398</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169688</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="address 1"/>  ‮<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="address 2"/>  العبّاس بن محمّد أعزّه اللّه 
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم حساب حطب أبو الحسن النّخّال <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  محمّد ومنتصر حمل حطب ستّة وستّين ‮÷÷ وشعب ثمنين ‮÷ بديـ<supplied reason="lost" cert="high">ـنر</supplied> 
+<lb n="3"/>  محمّد وسليمن حمل حطب ستّة وستّين ‮÷÷ وشعب تسعين ‮÷ بديـ<supplied reason="lost" cert="high">ـنر</supplied> 
+<lb n="4"/>  كامل وتميمة حمل حطب خمسين ‮÷ وشعب مائة وعشرة ‮÷÷ بديـ<supplied reason="lost" cert="high">ـنر</supplied> 
+<lb n="5"/>  بلقول وإسطوروس حمل حطب أحد وأربعين ‮÷÷ وشعب مائة وعشرة ‮÷÷ بد<supplied reason="lost" cert="high">ينر</supplied> 
+<lb n="6"/>  حسن بن إبرهيم حمل حطب اثني وعشرين ‮÷÷ وشعب ستّين ‮÷ 
+<lb n="7"/>  المسبّح حمل حطب سبعة ‮÷ وشعب تسعة وأربعين ‮÷÷ 
+<lb n="8"/>  حسن بن <unclear reason="undefined" cert="high">درپپا</unclear> حمل حطب أربعة وعشرين ‮÷÷ 
+<lb n="9"/>  الحمّالين حساب عشر قراريط <app type="BL"><lem resp="APD">المئة </lem><rdg resp="LS cf. transl.">لمئة</rdg></app> شعبة 
+<lb n="10"/>  أبو بكر الحمّال حمل حطب أربعين ‮÷ وشعب مائة وأربعين ‮÷÷ 
+<lb n="11"/>  أبيهيه الحمّال حمل حطب ثلثة وأربعين ‮÷÷ شعب ستّين ‮÷ 
+<lb n="12"/>  ميمون الحمّال حمل حطب ثلثة وأربعين ‮÷÷ شعب سبعين ‮÷ 
+<lb n="13"/>  عبد الحميد الحمّال حمل حطب ثلثة وأربعين ‮÷÷ شعب سبعين ‮÷ 
+<lb n="14"/>  ميمون بن زفر الحمّال حمل حطب أحد وخمسين ‮÷÷ شعب خمسة وتسعين ‮÷÷ 
+<lb n="15"/>  عمر الحمّال حمل حطب ثلثة وأربعين ‮÷÷ شعب سبعين ‮÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>** * ** ******** 
+ <lb n="2"/>ăl ʿabbāsu bnu muḥammad:in ʾaʿazza hu ăl lāhu 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥisābu ḥaṭabi ʾabū ăl ḥasani ăn naḫḫāli *** 
+ <lb n="4"/>muḥammad:un wa muntaṣir:un ḥimlu ḥaṭab:in sittaẗ:un wa sittīna 66 wa šuʿab:un ṯamānīna 80 bi dīnār:in 
+ <lb n="5"/>muḥammad:un wa sulaymānu ḥimlu ḥaṭab:in sittaẗ:un wa sittīna 66 wa šuʿab:un tisʿīna 90 bi dīnār:in 
+ <lb n="6"/>kāmil:un wa tamīmaẗu ḥimlu ḥaṭab:in ḫamsīna 50 wa šuʿab:un miʾaẗ:un wa ʿašaraẗ:un 110 bi dīnār:in 
+ <lb n="7"/>buluqūlu wa ʾisiṭūrūsu ḥimlu ḥaṭab:in ʾaḥad:un wa ʾarbaʿīna 41 wa šuʿab:un miʾaẗ:un wa ʿašaraẗ:un 110 bi dīnār:in 
+ <lb n="8"/>ḥasanu bnu ʾibrāhīma ḥimlu ḥaṭab:in ĭṯnay wa ʿišrīna 22 wa šuʿab:un sittīna 60 
+ <lb n="9"/>ăl musabbiḥu ḥimlu ḥaṭab:in sabʿaẗ:un 7 wa šuʿab:un tisʿaẗ:un wa ʾarbaʿīna 49 
+ <lb n="10"/>ḥasanu bnu darBBʾ ḥimlu ḥaṭab:in ʾarbaʿaẗ:un wa ʿišrīna 24 
+ <lb n="11"/>ăl ḥammālīna ḥisāba ʿašri qarārīṭa ăl li miʾaẗ miʾaẗi šuʿbaẗ:an šuʿbaẗ:in 
+ <lb n="12"/>ʾabū bakr:ini ăl ḥammālu ḥimlu ḥaṭab:in ʾarbaʿīna 40 wa šuʿab:un miʾaẗ:un wa ʾarbaʿīna 140 
+ <lb n="13"/>ʾabīhiyuhu ăl ḥammālu ḥimlu ḥaṭab:in ṯalāṯaẗ:un wa ʾarbaʿīna 43 šuʿab:un sittīna 60 
+ <lb n="14"/>maymūnu ăl ḥammālu ḥimlu ḥaṭab:in ṯalāṯaẗ:un wa ʾarbaʿīna 43 šuʿab:un sabʿīna 70 
+ <lb n="15"/>ʿabdu ăl ḥamīdi ăl ḥammālu ḥimlu ḥaṭab:in ṯalāṯaẗ:un wa ʾarbaʿīna 43 šuʿab:un sabʿīna 70 
+ <lb n="16"/>maymūnu bnu zufara ăl ḥammālu ḥimlu ḥaṭab:in ʾaḥad:un wa ḫamsīna 51 šuʿab:un ḫamsaẗ:un wa tisʿīna 95 
+ <lb n="17"/>ʿumaru ăl ḥammālu ḥimlu ḥaṭab:in ṯalāṯaẗ:un wa ʾarbaʿīna 43 šuʿab:un sabʿīna 70 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		 al-ʿAbbās b. Muḥammad - may God give him strength
+			<lb n="3"/>
+		In the name of God, the Compassionate, the Merciful. Account of the fire wood of Abuʾl-Ḥasan, the rag-gatherer.
+			<lb n="4"/>
+		Muḥammad and Muntaṣir a load of fire wood sixty-six 66 and branches (at the price of) eighty 80 per dî[nâr].
+			<lb n="5"/>
+		Muḥammad and Sulaimân a load of fire wood sixty-six 66 and branches (at the price of) ninety 90 per dî[nâr].
+			<lb n="6"/>
+		Kâmil and Tamîma a load of fire wood fifty 50 and branches (at the price of) hundred and ten 110 per dî[nâr).
+			<lb n="7"/>
+		Pluqûl (?) and Isidoros a load of fire wood forty-one 41 and branches (at the price of) hundred and ten 110 per d[înâr].
+			<lb n="8"/>
+		Ḥasan b. Ibrahîm a load of fire wood twenty-two 22 and branches (at the price of) sixty 60.
+			<lb n="9"/>
+		al-Musabbiḥ a load of fire wood seven 7 and branches (at the price of) forty-nine 49.
+			<lb n="10"/>
+		Ḥasan b. Dar....... a load of fire wood twenty-four 24
+			<lb n="11"/>
+		The porters reckoning at ten carats per each hundred branches
+			<lb n="12"/>
+		Abû Bakr, the porter, a load of fire wood forty 40 and branches hundred and forty 140
+			<lb n="13"/>
+		Apiheu, the porter, a load of fire wood forty-three 43, branches sixty 60.
+			<lb n="14"/>
+		Maimûn, the porter, a load of fire wood forty-three 43, branches seventy 70
+			<lb n="15"/>
+		ʿAbd al-Hamîd, the porter, a load of fire wood forty-three 43, branches seventy 70.
+			<lb n="16"/>
+		Maimûn b. Zufar, the porter, a load of fire wood fifty-one 51 branches ninety-five 95
+			<lb n="17"/>
+		ʿUmar, the porter, a load of fire wood forty-three 43, branches seventy 70.
+</ab></div>
+</body>
+</text>
+</TEI>

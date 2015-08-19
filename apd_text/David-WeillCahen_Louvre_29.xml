@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1277" xml:id="David-WeillCahen_Louvre_29" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 29</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-WeillCahen_Louvre_29</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169101</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وله</supplied> <supplied reason="lost" cert="high">وأقرّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> في سلخ <supplied reason="lost" cert="high">شعبان</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  شهد <supplied reason="lost" cert="high">إسمعيل</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> على إقرار الزّوج والولي بجميع ما في هذا الكتاب من أوّله إلى آخره 
+ <lb n="4"/>  في رجب سنة ثلث وستّين ومائتين شهد <supplied reason="lost" cert="high">الحسين</supplied> بن هرون على إقرار الزّوج والولي بجميع ما في هذا الكتاب 
+ <lb n="5"/>  وذلك في سلخ رجب <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">شهور</supplied> <supplied reason="lost" cert="high">سنة</supplied> ثلاث وستّين ومائتين <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="6"/>  و<supplied reason="lost" cert="high">شهد</supplied> عبد الرّحمن على إقرار نصر بن <supplied reason="lost" cert="high">إسمعيل</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">إسحاق</supplied> بجميع ما في هذا الكتاب 
+ <lb n="7"/>  وذلك في رجب <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> لاه 
+ <lb n="8"/>  وشهد محمّد بن <supplied reason="lost" cert="high">إسمعيل</supplied> بن <supplied reason="lost" cert="high">قيس</supplied> <supplied reason="lost" cert="high">[الطّبّان</supplied> على إقرار نصر بن إسمعيل <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أبي</supplied> <supplied reason="lost" cert="high">أحمد</supplied> ملحمبع ما في هذا الكتاب <gap reason="illegible" extent="1" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** wa la hu wa ʾaqarra *** 
+ <lb n="2"/>*** fī salḫi šaʿbāna *** 
+ <lb n="3"/>šahida ʾismāʿīlu bnu ʿabdi ăl lāhi ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi ǧamīʿi mā fī hāḏā ăl kitābi min ʾawwali hi ʾilà ʾāḫiri hi 
+ <lb n="4"/>fī raǧabi sanaẗi ṯalāṯ:in wa sittīna wa miʾatayni šahida ăl ḥusaynu bnu hārūna ʿalà ʾiqrāri ăz zawǧi wa ăl waliyyi bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="5"/>wa ḏālika fī salḫi raǧab:in min šuhūri sanaẗi ṯalāṯ:in wa sittīna wa miʾatayni * 
+ <lb n="6"/>wa šahida ʿabdu ăr raḥmāni ʿalà ʾiqrāri naṣri bni ʾismāʿīla **** ʾisḥāq bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="7"/>wa ḏālika fī raǧab ****** * lʾh 
+ <lb n="8"/>wa šahida muḥammadu bnu ʾismāʿīla bni qays:ini ṭabbānu ʿalà ʾiqrāri naṣri bni ʾismāʿīla bni ʾabī ʾaḥmada bi ǧamīʿi mā fī hāḏā ăl kitābi * 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  .... (a confirmé) .......
+ 	  ... (hat bestätigt) ...
+		 <lb n="2"/>
+ 	  ... (Ende Šaʿbān) ...
+ 	  ...... (fin shaʿbān) ........
+		 <lb n="3"/>
+ 	  A témoigné (Ismāʿīl b. ʿAbdallāh) de la reconnaissance par le mari et le walī de tout ce que contient cet acte,
+ 	  Hat die Anerkennung des Ehemannes und des Brautanwaltes von allem, was diese Urkunde beinhaltet, bezeugt (Ismāʿīl b. ʿAbdallāh),
+		 <lb n="4"/>
+ 	  en radjab de l&#039;an 263. A témoigné (al-Ḥusayn) b. Hārūn de la reconnaissance par le mari et le walī de tout ce que contient cet acte,
+ 	  im Raǧab des Jahres 263. Hat die Anerkennung des Ehemannes und des Brautanwaltes von allem, was diese Urkunde beinhaltet, bezeugt (al-Ḥuṣayn),
+		 <lb n="5"/>
+ 	  am Ende des Raǧab 263.
+ 	  ce à la fin de radjab 263.
+		 <lb n="6"/>
+ 	  A témoigné ʿAbdarraḥmān de la reconnaissance par (Naṣr b. Ismāʿīl [- - - -] Isḥāq de tout ce que contient cet acte.
+ 	  Hat ʿAbdal-raḥmān die Anerkennung des (Naṣr b. Ismāʿīl [----] Isḥāq) von allem, was diese Urkunde beinhaltet, bezeugt.
+		 <lb n="7"/>
+ 	  ce à radjab ...
+		 <lb n="8"/>
+ 	  A temoigné (Muḥammad b. Ismāʿīl b. Qays le modeleur) de la reconnaissance par (Naṣr b. Ismāʿīl b. abī Aḥmad) de tout ce que contient cet acte.
+ 	  Hat die Anerkennung des (Naṣr b. Ismāʿīl b. Abī Aḥmad) von allem, was diese Urkunde beinhaltet, bezeugt (Muḥammad b. Ismāʿīl b. Qays, der Polsterer).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

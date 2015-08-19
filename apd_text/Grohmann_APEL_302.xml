@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1759" xml:id="Grohmann_APEL_302" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 302</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_302</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169500</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أخي وسيّدي أطال اللّه بقاك وأدام عزّك وكرامتك وتأييدك 
+<lb n="3"/>  وجمع لك خير الدّنيا والآخرة برحمته قد <app type="BL"><lem resp="APD">كتبت </lem><rdg resp="Diem">كنت</rdg></app> يا سيّدي 
+<lb n="4"/>  <app type="BL"><lem resp="APD">وأعرفتك </lem><rdg resp="Diem">وافقتك</rdg></app> في أمر الخل على ما قد علمته من <app type="BL"><lem resp="APD">أين </lem><rdg resp="Diem “with a superfluous tooth”">أن</rdg></app> يدفعه 
+<lb n="5"/>  الشّيخ أيّده اللّه إلي وانتظرت جوابك فلم <app type="BL"><lem resp="APD"><sic n="superfluous">يأتني</sic><supplied reason="omitted" cert="high">پاپپى</supplied> </lem><rdg resp="Diem">يأتني</rdg></app> خبرا 
+<lb n="6"/>  والآن أيّدك اللّه فقد قيل لي أنّه تجدّد خل <sic n="superfluous">باصر</sic><supplied reason="omitted" cert="high">ماضر</supplied> فبعثه 
+<lb n="7"/>  إلى قيرا فتنظر أيّدك اللّه كم جملته فتحسب 
+<lb n="8"/>  ما كان لي وما يبقا منه واحتسب له به 
+<lb n="9"/>  كما يبيع للخلق وأزن له دنانيره ولا 
+<lb n="10"/>  تخلطه بغيره فأنت تعلم قديمي من الخل وتتفضّل 
+<lb n="11"/>  بالجواب فقلبي معلّق به وإن <app type="BL"><lem resp="APD">احدر </lem><rdg resp="Diem">أحدر</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Diem">مـ<gap reason="illegible" precision="low" extent="3"/> ـ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem">فتفضّل</rdg></app> 
+<lb n="12"/>  وتعلمه <app type="BL"><lem resp="APD">كن </lem><rdg resp="APD">كم</rdg></app> لا <app type="BL"><lem resp="APD">تحظر </lem><rdg resp="APD">تحظره</rdg></app> والسّلم عليك ورحمة اللّه وبركاته 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaḫ ī wa sayyid ī ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka 
+ <lb n="3"/>wa ǧamaʿa la ka ḫayra ăd dunyā wa ăl ʾāḫiraẗi bi raḥmati hi qad katabtu kuntu yā sayyid ī 
+ <lb n="4"/>wa ø ʾaʿraftu wāfaqtu ka fī ʾamri ăl ḫalli ʿalà mā qad ʿalimtu hu min ʾayna ʾan yadfaʿa yadfaʿu hu 
+ <lb n="5"/>ăš šayḫu ʾayyada hu ăl lāhu ʾilay ya wa ĭntaẓartu ǧawāba ka fa lam taʾti yaʾti nī ḫabar:an ḫubr:an 
+ <lb n="6"/>wa ăl ʾāna ʾayyada ka ăl lāhu fa qad qīla l ī ʾanna hu taǧaddada ḫall:un māḍir:un fa baʿaṯa hu 
+ <lb n="7"/>ʾilà qīrā fa tanẓuru ʾayyada ka ăl lāhu kam ǧumlatu hu fa taḥsubu 
+ <lb n="8"/>mā kāna l ī wa mā yabqā min hu wa ĭḥtasib la hu bi hi 
+ <lb n="9"/>kamā yabīʿu li l ḫalqi wa ʾazinu la hu danānīra hu wa lā 
+ <lb n="10"/>taḫliṭ hu bi ġayri hi fa ʾanta taʿlamu qadīm ī mina ăl ḫalli wa tatafaḍḍalu 
+ <lb n="11"/>bi ăl ǧawābi fa qalb ī muʿallaq:un bi hi wa ʾin ʾaḥdara ʾḥdr **** m*** ø fa *** tafaḍḍal 
+ <lb n="12"/>wa taʿlamu tuʿlima hu kun kam lā taḥẓur tuḥẓir ø hu wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		My brother and lord - may God prolong your life and may He cause your might, honour and strength to continue,
+			<lb n="3"/>
+		and may He unite for you the best of the present world and of the world to come in His mercy -  I have already written, O my lord,
+		Ich hatte mich, o mein Herr,
+			<lb n="4"/>
+		and informed you concerning the matter of vinegar according to that which I had already learned, whence the master handed it over to me
+		mit Dir in der Angelegenheit des Essigs auf das Dir Bekannte geeinigt, nämlich daß
+			<lb n="5"/>
+		der Scheich - Gott stütze ihn - ihn mir aushändigen solle. Ich habe auf Deine Antwort gewartet, aber ich habe (von Dir) keine Nachricht erhalten.
+		- may God strengthen him -, and I expected your reply, but you did not let me have any information.
+			<lb n="6"/>
+		Now - may God strengthen you - I have already been told that sour vinegar was newly made, and so he sent it
+			<lb n="7"/>
+		to Qîrâ. Now look and see - may God strengthen you - how much the total thereof is, then calculate
+			<lb n="8"/>
+		what belongs to me and what remains thereof, and put it  to his account
+			<lb n="9"/>
+		as he sells (it) to the people, and I will weigh him his dînârs; and do not
+			<lb n="10"/>
+		mix it with anything else. You well  know my old (stock) of vinegar, so favour me
+			<lb n="11"/>
+		... Wenn M....... das Niltal herabkommt, dann sei so gut
+		with the reply, for my heart is attached to it, and in case ... ... ...
+			<lb n="12"/>
+		and you know it, do not take it for yourself. And hail to you and mercy and blessings of God.
+		und teile ihm mit, wieviel (mein Essig ausmacht), (und) laß ihn nicht (eigens bei Dir) erscheinen! ...
+</ab></div>
+</body>
+</text>
+</TEI>

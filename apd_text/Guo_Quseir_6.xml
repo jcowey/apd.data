@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="822" xml:id="Guo_Quseir_6" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 06</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_6</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113603</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  الّذي أعلم به الشّيخ <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـفرّج وفّقه اللّه توفيق العارفين 
+<lb n="recto 2"/>  <unclear reason="undefined" cert="high">و</unclear>جعله من <app type="BL"><lem resp="APD">أوليا </lem><rdg resp="AK">أوليائه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="AK">الصّالحين</rdg></app> <app type="BL"><lem resp="APD">اللّه </lem><rdg resp="AK">الّذين</rdg></app> لا خوف عليهم ولا 
+<lb n="recto 3"/>  هم يحزنون وسوى ذلك أنّي <supplied reason="lost" cert="high">سيّرت</supplied> إلى <gap reason="illegible" precision="low" extent="3"/> منكم 
+<lb n="recto 4"/>  أربعة أرادب ونصف وربع شعير و<supplied reason="lost" cert="high">أ</supplied>ربعة أرادب قمح 
+<lb n="recto 5"/>  فيتفطّل المولا <app type="BL"><lem resp="APD">يقف </lem><rdg resp="“Friedman, Qusayr p. 404”">يقف</rdg></app> مع موصل هذه الأحرف 
+<lb n="recto 6"/>  <app type="BL"><lem resp="APD">وتبيعها </lem><rdg resp="“Friedman, Qusayr p. 404”">ويبيعها</rdg></app> بما طعّم اللّه ورزق <app type="BL"><lem resp="APD">وتسلّم </lem><rdg resp="“AK”">ويسلّم</rdg></app> له المبلغ 
+<lb n="recto 7"/>  <app type="BL"><lem resp="APD">ويسيّر </lem><rdg resp="“AK”">ويسيّر</rdg></app> لنا رقعة لأصرف والسّلام عليك ورحمة اللّه وبركاته 
+<lb n="verso 1"/>  <expan><ex>بسم</ex> <ex>اللّه</ex> <ex>الرّحمن</ex> <ex>الرّحيم</ex></expan> 
+<lb n="verso 2"/>  مملوكه مبارك 
+<lb n="verso 3"/>  وَهي أوّل حو<supplied reason="lost" cert="high">الة</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> بتفطّلك 
+<lb n="verso 4"/>  وإحسانك <gap reason="illegible" precision="low" extent="3"/> للّه خير والحمد للّه وحده 
+<lb n="verso 5"/>  ولا تَعوقه عن حمّاله ولا <app type="BL"><lem resp="“AK”"><sic n="superfluous">نأخذ</sic><supplied reason="omitted" cert="high">تاحد</supplied> </lem><rdg resp="APD">تأخذ</rdg></app> منه نقص إن بقي شي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăllaḏī ʾuʿlimu bi hi ăš šayḫa ʾabū mufarriǧ:in waffaqa hu ăl lāhu tawfīqa ăl ʿārifīna 
+ <lb n="2"/>wa ǧaʿala hu min ʾawliyāʾi ø hi *** ăs ø ṣāliḥīna ø ăl ăllaḏīna lāhi ø lā ḫawf:un ʿalay him wa lā 
+ <lb n="3"/>hum yaḥzanūna wa siwà ḏālika ʾan nī sayyartu ʾilà *** min kum 
+ <lb n="4"/>ʾarbaʿaẗa ʾarādiba wa niṣf wa rubʿ šaʿīr wa ʾarbaʿaẗa ʾarādiba qamḥ 
+ <lb n="5"/>fa yatafaṭṭali ăl mawlā taqifu yaqifu maʿa mūṣili hāḏihi ăl ʾaḥrufi 
+ <lb n="6"/>wa tabīʿu yabīʿu hā bi mā ṭaʿʿama ăl lāhu wa razaqa wa tusallimu yusallimu la hu ăl mablaġa 
+ <lb n="7"/>wa tusayyiru yusayyiru la nā ruqʿaẗ:an li ʾaṣrifa wa ăs salāmu ʿalay ka wa raḥmaẗu ăl lāhi wa barakātu hu 
+ <lb n="8"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="9"/>mamlūku hu mubārak:un 
+ <lb n="10"/>wa hiya ʾawwalu ḥawālaẗ:in *** **** bi tafaṭṭuli ka 
+ <lb n="11"/>wa ʾiḥsāni ka *** li l lāhi ḫayr:un wa ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="12"/>wa lā taʿūq hu ʿan ḥammāli hi wa lā naʾḫuḏu taʾḫuḏ min hu naqṣ ʾin baqiya šayʾ:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		I write to inform the Shaykh [Abū Mu]farrij - may God make him successful in the same manner as those who have acquired Divine Knowledge!
+			<lb n="2"/>
+		May God make him among God&#039;s Friends, no fear shall be on them,
+			<lb n="3"/>
+		I have [sent] to you
+		neither shall they sorrow! - and so forth. [And now to the main topic:] I have [sent] to [one of the associates?] of you
+			<lb n="4"/>
+		four and a half and a quarter irdabbs of barley, and four irdabbs of wheat.
+			<lb n="5"/>
+		Du, der Patron, mögest so freundlich sein, dem Überbringer dieses Schreibens beizustehen.
+		Would the Master please assist the carrier of this letter
+		Would the Master please endorse this letter with its carrier,
+			<lb n="6"/>
+		and sell ...
+		sell them (i.e. the crops) ... and hand him the proceeds (al-mablagh).
+		sell them (i.e. the crops) - as God has fed and provided - and hand him the proceeds.
+			<lb n="7"/>
+		Please send us a memo (ruqʿa) so I can cash (or change, li-aṣrifa) the money. ...
+		Please send us a memo so I can cash the money. Peace be upon you and God&#039;s mercy and blessings. 
+			<lb n="8"/>
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="9"/>
+		His servant Mubārak.
+			<lb n="10"/>
+		Hereby is the first certificate of transfer of debt (awwal ḥawāla). [Please pay it in full] by your grace
+		Hereinabove is the first certificate of transfer of debt. [Please pay it in full] by your grace
+		this is the first order of payment; please deliver it as requested.....
+			<lb n="11"/>
+		and benevolence. ...
+		and benevolence. [...] Blessings are from God. Praise be to God alone.
+			<lb n="12"/>
+		Do not hold it back from the carrier! Do not accept, if any, shortages [in the delivery]!
+		we will not withhold...; nor will we accept....
+</ab></div>
+</body>
+</text>
+</TEI>

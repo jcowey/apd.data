@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1691" xml:id="Grohmann_APEL_209" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 209</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_209</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169441</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">أ</supplied>دّى <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن <supplied reason="lost" cert="high">جـ</supplied>ـرجه <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">نفسـ</supplied>ـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="2"/>  ‮أدّى ثيدر بن قزمان لپڤـ<supplied reason="lost" cert="high">ــ</supplied>ـد<unclear reason="undefined" cert="high">پـ</unclear>ـن ‪χ <supplied reason="lost" cert="high">ηʹ</supplied>‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  أدّى كيل بن بقيره الرّاهب <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮ـ<supplied reason="lost" cert="high">أ</supplied>دّى يحنّس بن قلته الحارس عن نفسه ‪χ<unclear reason="undefined" cert="high">γ</unclear>ʹιʹβʹ‬ <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮أ<supplied reason="lost" cert="high">دّ</supplied>ى كيل بن بطرس بن أخي منا الطّويل <supplied reason="lost" cert="high">عـ</supplied>ـن نـ<supplied reason="lost" cert="high">ـفـ</supplied>ـسـ<supplied reason="lost" cert="high">ـه</supplied> ‪ηʹ͵γʹ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮أدّى داويد بن <app type="BL"><lem resp="APD">نست </lem><rdg resp="APD">بست</rdg></app> ڤدپپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> ‪χγʹηʹχ‬ <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="7"/>  ‮أدّى بهيوه بن مرقوره بالصّيّاد عن نفـ<supplied reason="lost" cert="high">ـسـه</supplied> ‪ηʹ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  فـ<supplied reason="lost" cert="high">ــذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaddà *** bnu ǧirǧaha ʿan nafsi hi ***** 
+ <lb n="2"/>ʾaddà ṯiyuduru bnu quzmāna li BfdBn 1/8 1/2 *** 
+ <lb n="3"/>ʾaddà kaylu bnu baqīraha ăr rāhibu ** * *** 
+ <lb n="4"/>ʾaddà yuḥannisu bnu qultaha ăl ḥārisu ʿan nafsi hi ‪1/2+1/3+1/12 * *** 
+ <lb n="5"/>ʾaddà kaylu bnu buṭrusa bni ʾaḫī minā ăṭ ṭawīli ʿan nafsi hi ‪1/8+1/3 *** 
+ <lb n="6"/>ʾaddà dāwīdu bnu bast:in nast:in fdBB* *** ‪1/2+1/3+1/8+1/48 **** 
+ <lb n="7"/>ʾaddà bihyūhu bnu marqūraha bi ăṣ ṣayyādi ʿan nafsi hi ‪1/8 *** 
+ <lb n="8"/>fa ḏālika *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[.... be]n [Ǧi]rǧe has [p]aid [for him]se[lf] ...[
+			<lb n="2"/>
+		Theodor b. Quzmân has paid for ...... [..] 1/8 [.] 1/2 [
+			<lb n="3"/>
+		Chael b. Paqîre, the monk, has paid ... [
+			<lb n="4"/>
+		Yoḥannes b. Qolte, the guardian, has [p]aid for himself 1/2+1/3+1/12 .[
+			<lb n="5"/>
+		Chael b. Buṭrus, the son of the brother of Minâ, the tall, has p[ai]d [fo]r [him]self .. 1/8 dînâr+1/3 carat [
+			<lb n="6"/>
+		Dâwîd b. Nest(os) .... [...] has paid 1/2+1/3+1/8+1/48 ...[
+			<lb n="7"/>
+		Paheu b. Marqûre, (known as) the fisherman, has paid for [him]self [...+]1/8+[..
+			<lb n="8"/>
+		T[his makes up:
+</ab></div>
+</body>
+</text>
+</TEI>

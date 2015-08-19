@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1826" xml:id="Grohmann_APEL_332-333" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 332</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_332-333</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169563</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وجعلني</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـداك 
+ <lb n="2"/>  <supplied reason="lost" cert="high">أحبّ</supplied> <supplied reason="lost" cert="high">جعلني</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">فـ</supplied>ـداك أن تدفع 
+ <lb n="3"/>  إلى الجارية درهمين وثلثا 
+ <lb n="4"/>  لتصرف ذلك في حوائج 
+ <lb n="5"/>  وتعرّفني خبرك بمشيئتك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** wa ǧaʿala nī ăl lāhu fidāʾa ka 
+ <lb n="2"/>ʾuḥibbu ǧaʿala nī ăl lāhu fidāʾa ka ʾan tadfaʿa 
+ <lb n="3"/>ʾilà ăl ǧāriyaẗi dirhamayni wa ṯulṯā 
+ <lb n="4"/>li taṣrifa ḏālika fī ḥawāʾiǧa 
+ <lb n="5"/>wa tuʿarrif nī ḫabara ka bi mašīʾati ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [... and may God make me your ra]nsom.
+		 <lb n="2"/>
+ 	  I should like you - may God make me your ransom - to
+		 <lb n="3"/>
+ 	  pay to the slave-girl two dirhams and two thirds
+		 <lb n="4"/>
+ 	  so that she may spend it for necessities
+		 <lb n="5"/>
+ 	  and inform me of your news as far as you wish (to do so).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

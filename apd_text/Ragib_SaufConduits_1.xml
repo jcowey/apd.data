@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1294" xml:id="Ragib_SaufConduits_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibSauf-conduits 1</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_SaufConduits_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169117</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">كتاب</supplied> <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> ا عامل حبان پن سرپح على كو<supplied reason="lost" cert="high">ره</supplied> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> و <gap reason="illegible" precision="low" extent="3"/> وهو <supplied reason="lost" cert="high">أ</supplied>بيض جسيم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/><supplied reason="lost" cert="high">  من أ</supplied>هل دير أبـ<supplied reason="lost" cert="high">ـي</supplied> هـ<supplied reason="lost" cert="high">ـرميـ</supplied>ـس من كورة منف <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أن</rdg></app> 
+<lb n="4"/><supplied reason="lost" cert="high">  يـ</supplied>ـعمل بأسفـ<supplied reason="lost" cert="high">ـل</supplied> <supplied reason="lost" cert="high">الأر</supplied>ض لوفا جزيته و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> شهر ربيع <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>hāḏā kitāb:un min ***ā ʿāmili ḥayyāna bni šurayḥ:in ʿalà kūraẗi manfa 
+ <lb n="2"/>*** wa *** wa huwa ʾabyaḍu ǧasīm:un *** 
+ <lb n="3"/>min ʾahli dayri ʾabī harmīsa min kūraẗi manfa *** ʾan 
+ <lb n="4"/>yaʿmala yaʿmalu bi ʾasfali ăl ʾarḍi li wafāʾi ǧizyati hi wa *** 
+ <lb n="5"/>*** šahri rabīʿa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Ceci est une lettre de...], l&#039;agent de Ḥayyān b. Šurayḥ sur le dis[trict de Manf
+			<lb n="2"/>
+		]... Il est blanc et corpulent [
+			<lb n="3"/>
+		] des gens du monastère d&#039;Abū Ha[rmī]s du district de Manf [
+			<lb n="4"/>
+		] de travailler en Bas[se-Égyp]te pour s&#039;acquitter de sa capitation et [
+			<lb n="5"/>
+		] du mois de rabīʿ [
+</ab></div>
+</body>
+</text>
+</TEI>

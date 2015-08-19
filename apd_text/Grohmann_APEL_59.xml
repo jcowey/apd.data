@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1084" xml:id="Grohmann_APEL_59" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 059</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_59</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168950</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى يحنّس بن شنوده <supplied reason="omitted" cert="high">بن</supplied> بطاقس من عبد العزيز بن مقبل وهما جميعا من سكّان ططون من كورة الفيّوم اشترى منـ<supplied reason="lost" cert="high">ـه</supplied> الـ<supplied reason="lost" cert="high">ـمنزل</supplied> <supplied reason="lost" cert="high">المشاع</supplied> 
+<lb n="3"/>  بينه وبين سرماده بن يحنّس الّتي اشتراها منه وهو النّصف من المنزل مشاع غير مقسوم اثنا عشر سهما من أربعة وعشرين سـ<supplied reason="lost" cert="high">ـهما</supplied> <supplied reason="lost" cert="high">بحدّه</supplied> <supplied reason="lost" cert="high">وحدوده</supplied> 
+<lb n="4"/>  ومدخله ومخرجه وكل حق هو لهذا المنزل داخل فيه وخارج منه حدّه الأوّل وهو القبلي ينتهي إلى خزانة لقوريل بن كيل وعلوها عزبة لورثة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  الأفطس وحدّه البحري الطّريق المارّة وحدّه الشّرقي منزل حرمدة ابنت <sic n="superfluous">پمسا</sic> مرقورة وحدّه الغربي الطّريق المارّة ومنه المدخل إلى هذا <supplied reason="lost" cert="high">المنـ</supplied>ـز<supplied reason="lost" cert="high">ل</supplied> 
+<lb n="6"/>  اشترى ذلك منه بأربع الدّنانير مثاقيل <sic n="superfluous">مسعوله</sic> معسولة وازن بالجديد قد قبض عبد العزيز بن مقبل هذا الثّمن تامّا وافيا وتبرّى من هذا المنزل الموصوف في هـ<supplied reason="lost" cert="high">ـذا</supplied> 
+<lb n="7"/>  الكتاب وسلّم ذلك إلى يحنّس بن شنوده <supplied reason="omitted" cert="high">بن</supplied> بطاقس وحازه وملّكه وصار ذلك مال من ماله وملك من ملكه إن شا باع وإن شا عمّر وإن شا عطّل ليـ<supplied reason="lost" cert="high">ـس</supplied> 
+<lb n="8"/>  لعبد العزيز بن مقبل في هذا المنزل بعد هذا الكتاب دعوى ولا طلبة بوجه من الوجوه ولا سبب من الأسباب باع ذلك على شرط بيع الإسلام 
+<lb n="9"/>  وما كان من علقة أو تباعة أو طارئ بدين أو مستحق بميراث <app type="BL"><lem resp="APD">فانفا<supplied reason="omitted" cert="high">ذ</supplied> </lem><rdg resp="“Frantz-Murphy”">فإنفاذ </rdg><rdg resp="“Diem”">فانفاذ</rdg></app> ذلك وخلاصه لازم لعبد العزيز بن مقبل بالغ ما بلغ من خالص ماله شهد عـ<supplied reason="lost" cert="high">ـلى</supplied> 
+<lb n="10"/>  إقرار عبد العزيز بن مقبل بعد أن قرئ عليه هذا الكتاب وعرفه وفهمه في صحّة من عقله وبدنه وجواز من أمره طائع غير مكره ولا مجبر 
+<lb n="11 right"/>  <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">مضطهد</supplied> <supplied reason="lost" cert="high">وذلك</supplied> في شهر شعبان من شهور العرب من سنة إحدى وأربعين وثلثمائة 
+<lb n="12 right"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" extent="11" unit="character" /> بن يوسف على إقرار عبد العزيز بن مقبل بجميع ما في 
+<lb n="13 right"/>  <supplied reason="lost" cert="high">هدا</supplied> <supplied reason="lost" cert="high">الكتا</supplied>ب وكتب شهادته بخطّه 
+<lb n="14 right"/>  شهد إبرهيم بن أحمد على جميع ما في هذا الكتاب وكتب شهادته بخطّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="11 left"/>  شهد محمّد بن أ<supplied reason="lost" cert="high">حمد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عليّ</supplied> <supplied reason="lost" cert="high">بن</supplied> رحمة على إقـ<supplied reason="lost" cert="high">ـرار</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـبائع والمشـ<supplied reason="lost" cert="high">ـتري</supplied> 
+<lb n="12 left"/>  بما فيه وكتب بخطّه 
+<lb n="13 left"/>  شهد عبد الرّحمن <supplied reason="omitted" cert="high">بن</supplied> هدي البقّار 
+<lb n="14 left"/>  وكتب بخـ<supplied reason="lost" cert="high">ـطّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà yuḥannisu bnu šanūdaha bni baṭāqusa min ʿabdi ăl ʿazīzi bni muqbil:in wa humā ǧamīʿ:an min sukkāni ṭuṭūna min kūraẗi ăl fayyūmi ĭštarà min hu ăl manzila ăl mušāʿa 
+ <lb n="3"/>bayna hu wa bayna sarmādaha bni yuḥannisa ăllatī ĭštarā hā min hu wa huwa ăn niṣfu mina ăl manzili mušāʿ:un ġayru maqsūm:in ĭṯnā ʿašara sahm:an min ʾarbaʿaẗ:in wa ʿišrīna sahm:an bi ḥaddi hi wa ḥudūdi hi 
+ <lb n="4"/>wa madḫali hi wa maḫraǧi hi wa kulli ḥaqq:in huwa li hāḏā ăl manzili dāḫil fī hi wa ḫāriǧ min hu ḥaddu hu ăl ʾawwalu wa huwa ăl qibliyyu yantahī ʾilà ḫizānaẗ:in li qūrīla bni kayl:in wa ʿulwu hā ʿizbaẗ:un li waraṯaẗi *** 
+ <lb n="5"/>ăl ʾafṭasi wa ḥaddu hu ăl baḥriyyu ăṭ ṭarīqu ăl mārraẗi wa ḥaddu hu ăš šarqiyyu manzilu ḥurmidaẗa ĭbnati marqūraẗa wa ḥaddu hu ăl ġarbiyyu ăṭ ṭarīqu ăl mārraẗi wa min hu ăl madḫalu ʾilà hāḏā ăl manzili 
+ <lb n="6"/>ĭštarà ḏālika min hu bi ʾarbaʿi ăd danānīri maṯāqīla maʿsūlaẗ:in wāzin:in bi ăl ǧadīdi qad qabaḍa ʿabdu ăl ʿazīzi bnu muqbil:in hāḏā ăṯ ṯamana tāmm:an wāfiy:an wa tabarrà min hāḏā ăl manzili ăl mawṣūfi fī hāḏā 
+ <lb n="7"/>ăl kitābi wa sallama ḏālika ʾilà yuḥannisa bni šanūdaha bni baṭāqusa wa ḥāza hu wa malaka hu wa ṣāra ḏālika māl min māli hi wa milk min milki hi ʾin šāʾa bāʿa wa ʾin šāʾa ʿamara wa ʾin šāʾa ʿaṭṭala laysa 
+ <lb n="8"/>li ʿabdi ăl ʿazīzi bni muqbil:in fī hāḏā ăl manzili baʿda hāḏā ăl kitābi daʿw:an wa lā ṭalibaẗ:un bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi bāʿa ḏālika ʿalà šarṭi bayʿi ăl ʾislāmi 
+ <lb n="9"/>wa mā kāna min ʿulqaẗ:in ʾaw tabāʿaẗ:in ʾaw ṭāriʾ:in bi dayn:in ʾaw mustaḥiqq:in bi mīrāṯ:in fa fā ʾinfāḏu ʾinqāḏu nafāḏu ḏālika wa ḫalāṣu hu lāzim:un li ʿabdi ăl ʿazīzi bni muqbil:in bāliġ mā balaġa min ḫāliṣi māli hi šahida ʿalà 
+ <lb n="10"/>ʾiqrāri ʿabdi ăl ʿazīzi bni muqbil:in baʿda ʾan quriʾa ʿalay hi hāḏā ăl kitābu wa ʿarafa hu wa fahima hu fī ṣiḥḥaẗ:in min ʿaqli hi wa badani hi wa ǧawāz:in min ʾamri hi ṭāʾiʿ ġayra mukrah:in wa lā muǧbar:in 
+ <lb n="11"/>wa lā muḍṭahad:in wa ḏālika fī šahri šaʿbāna min šuhūri ăl ʿarabi min sanaẗi ʾiḥdà wa ʾarbaʿīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="12"/>šahida *********** bnu yūsufa ʿalà ʾiqrāri ʿabdi ăl ʿazīzi bni muqbil:in bi ǧamīʿi mā fī 
+ <lb n="13"/>hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="14"/>šahida ʾibrāhīmu bnu ʾaḥmada ʿalà ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="15"/>šahida muḥammadu bnu ʾaḥmada bni ʿaliyyi bni raḥmaẗa ʿalà ʾiqrāri ăl bāʾiʿi wa ăl muštarī 
+ <lb n="16"/>bi mā fī hi wa kataba bi ḫaṭṭi hi 
+ <lb n="17"/>šahida ʿabdu ăr raḥmāni bnu hudayy:ini ăl baqqāru 
+ <lb n="18"/>wa kataba bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is what Yoḥannes b. Šanûda Paṭâqos has bought from ʿAbd al-ʿAzīz b. Muqbil, who both (jointly) are numbered among the inhabitants of Ṭuṭûn of the district of al-Fayyûm: he has bought from hi[m] the [dwelling house, shared in common]
+			<lb n="3"/>
+		between him and Sarmâda b. Yoḥannes, which he has bought from him, this being the half of the dwelling house, shared in common undivided, twelve shares of twenty four shar[es, to its limit and its boundaries]
+			<lb n="4"/>
+		and its entrance and its exit and any right connected with this dwelling house within and without; its first boundary, viz. the southern, extends to the magazine belonging to Cyril b. Chael, and the upper part thereof is (formed by) the farm belonging to the heirs of [So and So]
+			<lb n="5"/>
+		the flat-nosed; and its northern boundary is (formed by) the main thoroughfare, and its eastern boundary is (formed by) the dwelling house of Ḥormide daughter of Merqûre, and its western boundary is (formed by) the main thoroughfare from which the entrance to this [dwell]ing [house] opens.
+			<lb n="6"/>
+		He has bought this from him for four dînârs miṯqâlî, correctly counted out, full weight according to the new (standard). ʿAbd al-ʿAzîz b. Muqbil has already received this price entirely and fully and has released himself of this dwelling house described in thi[s]
+			<lb n="7"/>
+		contract, and has handed it over to Yoḥannes b. Šanûda Paṭâqos, who has acquired and taken possession of it, and it has become his own property and possession, (so that) if he will, he may sell it, and if he will, he may dwell in (it), and if he will, he may leave (it) empty.
+			<lb n="8"/>
+		ʿAbd al-ʿAzîz b. Muqbil has no claim and no pretensions respecting this dwelling house after (the completion of) this contract, from any cause or reason whatever. He has sold this according to Islamic law of sale,
+			<lb n="9"/>
+		and if there should be any contention or vindication, or if someone should suddenly appear with a debt, or should make a claim on the basis of any inheritance, then the recuperation and indemnification therefor is obligatory upon ʿAbd al-ʿAzîz b. Muqbil, whatever it might amount to, out of his own means. (The following witnesses) have testified [to]
+			<lb n="10"/>
+		the acknowledgment by ʿAbd al-ʿAzîz b. Muqbil, after that this contract had been read to him and he had taken cognizance of it and understood it, he being in a state of sound mind and body and capable of transacting his business, voluntarily, without compulsion and not against his will,
+			<lb n="11"/>
+		[and not under constraint, and this] in the month of Šaʿbân of the months of the Arabs of the year three hundred and forty one.
+			<lb n="12"/>
+		[...]............ b. Yûsuf [is witness] to the acknowldedgment by ʿAbd al-ʿAzîz b. Muqbil respecting all that (is contained) in
+			<lb n="13"/>
+		[this contract], and he has written his testimony in his (own) handwriting.
+			<lb n="14"/>
+		Ibrahîm b. Aḥmad is witness to all that (is contained) in this contract, and he has written his testimony in [his own] handwriting.
+			<lb n="15"/>
+		Muḥammad b. A[ḥmad b. ʿAlî b.] Raḥma is witness to the acknow[ledgment by the bu]yer and the sel[ler]
+			<lb n="16"/>
+		respecting that which (is contained) herein, and he has written (it) in his (own) handwriting.
+			<lb n="17"/>
+		ʿAbd ar-Raḥmân &lt;b.&gt; Hudayy, the cow-drover, is witness .........[...],
+			<lb n="18"/>
+		and he has written (it) in his (own) handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

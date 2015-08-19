@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="713" xml:id="Raghib_March_3_35" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands III 35</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_3_35</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106794</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  فإن <gap reason="illegible" extent="1" unit="character" />ا<gap reason="illegible" extent="4" unit="character" /> وكـ<supplied reason="lost" cert="high">ـتا</supplied>بي إليك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ذلك مع متا<supplied reason="lost" cert="high">عـ</supplied>ـك فيه من الـ<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="4"/>  هذه <unclear reason="undefined" cert="high">فـ</unclear><supplied reason="lost" cert="high">ـسـ</supplied><unclear reason="undefined" cert="high">ـد</unclear> له وإن تأخّر <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">ورأيك</supplied> 
+<lb n="5"/>  في ذلك موفّقا قد وجّهت إ<supplied reason="lost" cert="high">ليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <supplied reason="lost" cert="high">ا</supplied>پوا<supplied reason="lost" cert="high">پ</supplied> <supplied reason="lost" cert="high">سـ</supplied>ـپع الدراهم <supplied reason="lost" cert="high">و</supplied>پلپ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> الدراهم وهى پپاع تربع ربع متاع اپى حرأد <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">علـ</supplied>ـى ما پحپ واحتپپ اسعى ألى مپإ<supplied reason="omitted" cert="high">عك</supplied> هدا ڤاكپـ<supplied reason="lost" cert="high">ـپ</supplied> 
+<lb n="9"/>  إلي بـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">فإنّه</supplied> أجود من متاع حسن وأرفع وبعثت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  لحسن ستّة غلائل وقد كتبت إليك بثمنها 
+<lb n="11"/>  والبطـ<supplied reason="lost" cert="high">ـيـ</supplied>ـط أخذته لك بقيراط القيراط الّذي حمله فتى أبي عفّان قلب القيساريّة 
+<lb n="12"/>  فأثبت هاتين الغلالتين والمقنعتين قبلك وهم من حساب 
+<lb n="13"/>  <supplied reason="lost" cert="high">احر</supplied> لآن پـ<supplied reason="lost" cert="high">ـاڤى</supplied> <supplied reason="lost" cert="high">ا</supplied>لابواپ الدى وصلپ <app type="BL"><lem resp="APD">الپاڤـ<supplied reason="lost" cert="high">ـى</supplied> </lem><rdg resp="APD">فضلت</rdg></app> من پمنها سثع الدراهـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="14"/>  وهي مـ<gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپة على أناس منّا الباقي لك خمسة أثواب وخمسة 
+<lb n="15"/>  الدّراهم وهذه السّبعة الّذي وصلت في <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="16"/>  <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> او <gap reason="illegible" extent="4" unit="character" /> الدراهم وڤد <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ** *** 
+ <lb n="2"/>fa ʾin *ا**** wa kitābi y ʾilay ka *** 
+ <lb n="3"/>ḏālika maʿa matāʿi ka fī hi mina ăl ***** 
+ <lb n="4"/>hāḏihi fasād la hu wa ʾin taʾaḫḫara **** wa raʾyu ka 
+ <lb n="5"/>fī ḏālika muwaffaq:an qad waǧǧahtu ʾilay ka *** 
+ <lb n="6"/>ʾaṯwāb:in sabʿu ăd darāhimi wa ṯulṯ:un *** **** *** 
+ <lb n="7"/>*** ăd darāhim wa hiya tubāʿu bi rubʿi rubʿi matāʿi ʾabī ǧarāda ** 
+ <lb n="8"/>*** ʿalà mā tuḥibbu wa ʾaḥbabtu ʾasʿà ʾilà matāʿi ka hāḏā fa ŭktub 
+ <lb n="9"/>ʾilay ya bi hi fa ʾinna hu ʾaǧwadu min matāʿi ḥasan:in wa ʾarfaʿu wa baʿaṯtu *** 
+ <lb n="10"/>li ḥasan:in sittaẗa ġalāʾila wa qad katabtu ʾilay ka bi ṯamani hā 
+ <lb n="11"/>wa ăl baṭīṭu ʾaḫaḏtu hu la ka bi qīrāṭ:ini ăl qīrāṭi ăllaḏī ḥamala hu fatà ʾabī ʿaffāna qalba ăl qaysāriyyaẗi 
+ <lb n="12"/>fa ʾaṯbit hātayni ăl ġilālatayni wa ăl miqnaʿatayni qibala ka wa hum min ḥisāb:in 
+ <lb n="13"/>ʾāḫara liʾanna bāqiya ăl ʾaṯwābi ăllaḏī waṣalati faḍalati ăl bāqī min ṯamani hā sabʿu ăd darāhimi 
+ <lb n="14"/>wa hiya m****Bẗ:un ʿalà ʾunās:in min nā ăl bāqī la ka ḫamsaẗu ʾaṯwāb:in wa ḫamsaẗu 
+ <lb n="15"/>ăd darāhimi wa hāḏihi ăs sabʿaẗu ăllaḏī waṣalat fī ***** 
+ <lb n="16"/>****** ******** ʾaw **** ăd darāhim wa qad **** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Si .. [..].. Je t&#039;écris [....]
+			<lb n="3"/>
+		ceci avec ta marchandise qui renferme .... [....]
+			<lb n="4"/>
+		ceci est une perte (?) pour lui. S&#039;il tarde [.... (exprime) ton opinion]
+			<lb n="5"/>
+		sur ceci et que ce soit avec succès! Je [t]&#039;ai adressé [....]
+			<lb n="6"/>
+		pièces d&#039;étoffe : sept dirhams un tiers [....] .... [....]
+			<lb n="7"/>
+		[....] dirhams. Elle se vendent au quart du quart de la marchandise d&#039;Abū Ǧarād [..]
+			<lb n="8"/>
+		[.. comme] tu le souhaites. J&#039;ai aimé m&#039;occuper de &lt;ta&gt; marchandise que voici. Écris-
+			<lb n="9"/>
+		moi à ce sujet, car elle est meilleure et plus fine que la marchandise de Ḥasan. J&#039;ai envoyé [...]
+			<lb n="10"/>
+		à Ḥasan six robes. Je t&#039;ai écrit leur prix.
+			<lb n="11"/>
+		La (paire de) mules, je l&#039;ai prise pour toi pour un qīrāṭ, `le qīrāṭ qui a été porté´ par l&#039;esclave d&#039;Abū ʿAffān à l&#039;intérieur de la qaysāriyya.
+			<lb n="12"/>
+		Enregistre ces deux robes et ces deux voiles chez toi. Ils sont d&#039;un compte
+			<lb n="13"/>
+		[différent (?)], car le [reste] des pièces d&#039;étoffe qui sont parvenues, il (ne) reste de leur prix (que) sept dirha[m]s.
+			<lb n="14"/>
+		Elles sont .. [..] pour des gens d&#039;entre nous. Il te reste cinq pièces d&#039;étoffe cinq
+			<lb n="15"/>
+		dirhams et ces sept (pièces d&#039;étoffe) qui sont parvenues dans .. [....]
+			<lb n="16"/>
+		[..] ... [..] .... les dirhams ....[....]
+</ab></div>
+</body>
+</text>
+</TEI>

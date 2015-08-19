@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="32" xml:id="Heid_Arab_I_02" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 02</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_02</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106481</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1*"/>  من قرّة بن شريك إلى بسيل صحب <app type="BL"><lem resp="APD">إشقو<supplied reason="lost" cert="high">ه</supplied> </lem><rdg resp="AK">إشقوه</rdg></app> 
+ <lb n="2*"/>  في الطعام 
+ <lb n="3*"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="1"/>  بسم الّله الرّحمن الرّحيم 
+ <lb n="2"/>  من قرّة بن شريك إلى 
+ <lb n="3"/>  بسيل صحب <app type="BL"><lem resp="APD">أشفوه </lem><rdg resp="AK">إشقوه</rdg></app> فإنّي 
+ <lb n="4"/>  حمد اللّه الّذى لا إله إلّا هو 
+ <lb n="5"/>  <supplied reason="lost" cert="high">أمّا</supplied> <supplied reason="lost" cert="high">بعد</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فانطر</supplied> </lem><rdg resp="“Dietrich, Topkapi p. 40”">فانظر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الذى</supplied> </lem><rdg resp="“Dietrich, Topkapi p. 40”">الّذي</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">كان</supplied> </lem><rdg resp="“Dietrich, Topkapi p. 40”">كان</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پڤى</supplied> </lem><rdg resp="“Dietrich, Topkapi p. 40”">بقي</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">على</supplied> </lem><rdg resp="“Dietrich, Topkapi p. 40”">على</rdg></app> <supplied reason="lost" cert="high">أهـ</supplied>ـ<unclear reason="undefined" cert="high">ـل</unclear> <unclear reason="undefined" cert="high">أر</unclear>ضك 
+ <lb n="5a"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5b"/>  <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/>ا بأيديهم فلا يبيعون 
+ <lb n="7"/>  منه شيا <unclear reason="undefined" cert="high">تر</unclear>بّصا بالنّاس 
+ <lb n="8"/>  وانتظار غلا السّعر 
+ <lb n="9"/>  <app type="BL"><lem resp="APD">وإيم </lem><rdg resp="APD">وإيم</rdg></app> اللّٰه لا <unclear reason="undefined" cert="high">أنبأ</unclear><supplied reason="lost" cert="high">نّ</supplied> 
+ <lb n="10"/>  برجل حبس طعامه 
+ <lb n="11"/>  أن يبيعه إلّا <app type="BL"><lem resp="APD">أ<unclear reason="undefined" cert="high">نهـ</unclear>ـبتـ<unclear reason="undefined" cert="high">ـه</unclear> </lem><rdg resp="APD">أنهيته</rdg></app> 
+ <lb n="12"/>  فانظر فمن كان بأرضك 
+ <lb n="13"/>  من النحار الّذين يشترون 
+ <lb n="14"/>  الأطعمة ويجمعونـ<supplied reason="lost" cert="high">ـهـ</supplied>ـ<unclear reason="undefined" cert="high">ـا</unclear> 
+ <lb n="15"/>  فمرهم فلـ<unclear reason="undefined" cert="high">ـيبيـ</unclear>ـعوا <unclear reason="undefined" cert="high">طعامهم</unclear> 
+ <lb n="16"/>  ومر كل تاجر فليحمل 
+ <lb n="17"/>  <unclear reason="undefined" cert="high">نصـ</unclear>ـف ما عنده 
+ <lb n="18"/>  <supplied reason="lost" cert="high">مـ</supplied>ـ<unclear reason="undefined" cert="high">ـن</unclear> الـ<unclear reason="undefined" cert="high">ـطعـ</unclear>ـام إ<unclear reason="undefined" cert="high">لى</unclear> 
+ <lb n="19"/>  الفسطاط واكتب إ<unclear reason="undefined" cert="high">ليّ</unclear> 
+ <lb n="20"/>  مع كل تاجـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">يقدم</supplied> 
+ <lb n="21"/>  من قبلك ما حمل 
+ <lb n="22"/>  حين يقبل ثم مرهم فليبيعوه 
+ <lb n="23"/>  بالفسطاط <unclear reason="undefined" cert="high">فـ</unclear>ـإنّي قد 
+ <lb n="24"/>  مرت صاحب الـمكس 
+ <lb n="25"/>  أن <app type="BL"><lem resp="APD">پعلّم </lem><rdg resp="APD">پعلّم</rdg></app> ما يقدمون به 
+ <lb n="26"/>  من ذلك فـإن 
+ <lb n="27"/>  الطّعام نافق بالفسطاط 
+ <lb n="28"/>  ليس يقدم أحد بطعام 
+ <lb n="29"/>  إلّا أنفقه وانظـ<unclear reason="undefined" cert="high">ـر</unclear> 
+ <lb n="30"/>  النصف الباقي 
+ <lb n="31"/>  فليبيعوه في أهل الأرض 
+ <lb n="32"/>  فإن لم ينفق في الأرض 
+ <lb n="33"/>  فليحمله إلى الفسطاط 
+ <lb n="34"/>  ولا نوحرن ذلك 
+ <lb n="35"/>  ومر به حين يأتيك 
+ <lb n="36"/>  كتبي هذا وابعث 
+ <lb n="37"/>  على ذلك من ينفذه فإنّي 
+ <lb n="38"/>  قد أمرت العمّال 
+ <lb n="39"/>  كلّهم بذلك فاكفني 
+ <lb n="40"/>  ذلك ولا ألومنّك فيه والسّلم 
+ <lb n="41"/>  على من اتبع الهدى وكتب 
+ <lb n="42"/>  عبد اللّه بن نعمن في 
+ <lb n="43"/>  <supplied reason="lost" cert="high">شهر</supplied> <unclear reason="undefined" cert="high">ر</unclear>بيع الأول <supplied reason="lost" cert="high">سنة</supplied> 
+ <lb n="44"/>  <supplied reason="lost" cert="high">حدى</supplied> <supplied reason="lost" cert="high">و</supplied>تسعين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>min qurraẗa bni šarīka ʾilà basīla ṣāḥibi ʾašfūha ʾišqawha 
+ <lb n="2"/>fī ăṭ ṭaʿāmi 
+ <lb n="4"/>*** 
+ <lb n="5"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="6"/>min qurraẗa bni šarīka ʾilà 
+ <lb n="7"/>basīla ṣāḥibi ʾašfūha ʾišqawha fa ʾinn ī 
+ <lb n="8"/>ʾaḥmadu ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="9"/>ʾammā baʿdu fa ø ŭnẓuri ø ăllaḏī ø kāna ø baqiya ø ʿalà ʾahl ʾahli ʾarḍi ka 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>***ʾ bi ʾaydī him fa lā yabīʿūna 
+ <lb n="13"/>min hu šayʾ:an tarabbuṣ:an bi ăn nāsi 
+ <lb n="14"/>wa ĭntiẓāra ġalāʾi ăs siʿri 
+ <lb n="15"/>wa ʾaymu ăl lāhi lā ʾunbaʾanna 
+ <lb n="16"/>bi raǧul:in ḥabasa ṭaʿāma hu 
+ <lb n="17"/>ʾan yabīʿa hu ʾillā ʾanhabtu ʾanhaytu hu 
+ <lb n="18"/>fa ŭnẓur fa man kāna bi ʾarḍi ka 
+ <lb n="19"/>mina ăt tuǧǧāri ăllaḏīna yaštarūna 
+ <lb n="20"/>ăl ʾaṭʿimaẗa wa yaǧmaʿūna hā 
+ <lb n="21"/>fa mur hum fa l yabīʿū ṭaʿāma hum 
+ <lb n="22"/>wa mur kulla tāǧir:in fa l yaḥmil 
+ <lb n="23"/>niṣfa mā ʿinda hu 
+ <lb n="24"/>mina ăṭ ṭaʿāmi ʾilà 
+ <lb n="25"/>ăl fusṭāṭi wa ŭktub ʾilay ya 
+ <lb n="26"/>maʿa kulli tāǧir:in yaqdamu 
+ <lb n="27"/>min qibali ka mā ḥamala 
+ <lb n="28"/>ḥīna yuqbilu ṯumma mur hum fa l yabīʿū hu 
+ <lb n="29"/>bi ăl fusṭāṭi fa ʾin nī qad 
+ <lb n="30"/>ʾamartu ṣāḥiba ăl maksi 
+ <lb n="31"/>ʾan yaʿlama yuʿallima yuʿlima mā yaqdamūna bi hi 
+ <lb n="32"/>min ḏālika fa ʾinna 
+ <lb n="33"/>ăṭ ṭaʿāma nāfiq:un bi ăl fusṭāṭi 
+ <lb n="34"/>laysa yaqdamu ʾaḥad:un bi ṭaʿām:in 
+ <lb n="35"/>ʾillā ʾanfaqa hu wa ŭnẓuri 
+ <lb n="36"/>ăn niṣfa ăl bāqiya 
+ <lb n="37"/>fa l yabīʿū hu fī ʾahli ăl ʾarḍi 
+ <lb n="38"/>fa ʾin lam yanfuq yunfiq fī ăl ʾarḍi 
+ <lb n="39"/>fa l yaḥmil hu ʾilà ăl fusṭāṭi 
+ <lb n="40"/>wa lā tuʾaḫḫiranna ḏālika 
+ <lb n="41"/>wa mur bi hi ḥīna yaʾtī ka 
+ <lb n="42"/>kitāb ī hāḏā wa ĭbʿaṯ 
+ <lb n="43"/>ʿalà ḏālika man yunfiḏu hu fa ʾin nī 
+ <lb n="44"/>qad ʾamartu ăl ʿummāla 
+ <lb n="45"/>kulla hum bi ḏālika fa ĭkfi nī 
+ <lb n="46"/>ḏālika wa lā ʾalūmanna ka fī hi wa ăs salāmu 
+ <lb n="47"/>ʿalà mani ĭttabaʿa ăl hudà wa kataba 
+ <lb n="48"/>ʿabdu ăl lāhi bnu nuʿmāna fī 
+ <lb n="49"/>šahri rabīʿa ăl ʾawwali sanaẗa 
+ <lb n="50"/>ʾiḥdà wa tisʿīna 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Von Qorra, dem Sohne des Šarīk, an Basilius, den Vorsteher von Ašfū(h)
+		 <lb n="2"/>
+ 	  Über das Getreide
+		 <lb n="5"/>
+ 	  Im Namen Gottes des Barmherzigen, des Erbarmers
+		 <lb n="6"/>
+ 	  Von Qorra, dem Sohne des Šarīk, an
+		 <lb n="7"/>
+ 	  Basilius, den Vorsteher von Ašfūh. Ich preise
+		 <lb n="8"/>
+ 	  Gott, außer dem es keinen Gott gibt
+		 <lb n="9"/>
+ 	  [Des weiteren: - die Leu]te Deines Landes
+		 <lb n="10"/>
+		 <lb n="11"/>
+ 	  -- Kaufleute, welche (oder indem sie) ihre Einkäufe an Getreide zurückhalten
+		 <lb n="12"/>
+ 	  In ihren Händen und nichts verkaufen wollen
+		 <lb n="13"/>
+ 	  Von ihm, weil sie auf die (Notlage der) Leute spekulieren
+		 <lb n="14"/>
+ 	  Und eine Preissteigerung erwarten.
+		 <lb n="15"/>
+ 	  Bei Gott nicht will ich etwas hören
+		 <lb n="16"/>
+ 	  Von einem Manne, der sein Getreide zurückhält
+		 <lb n="17"/>
+ 	  Vom Verkauf, ohne daß ich es ihm wegnehme (?).
+		 <lb n="18"/>
+ 	  So halte nun Ausschau und, wenn es in Deinem Lande
+		 <lb n="19"/>
+ 	  Kaufleute gibt, welche die Getreidesorten
+		 <lb n="20"/>
+ 	  Aufkaufen und ansammeln
+		 <lb n="21"/>
+ 	  So gib ihnen den Befehl, ihr Getreide zu verkaufen,
+		 <lb n="22"/>
+ 	  Und befiehl jedem Kaufmann, er solle bringen
+		 <lb n="23"/>
+ 	  Die Hälfte seines Vorrates
+		 <lb n="24"/>
+ 	  An Getreide nach
+		 <lb n="25"/>
+ 	  el-Fusṭāṭ und teile mir schriftlich
+		 <lb n="26"/>
+ 	  Durch jeden Kaufmann, der
+		 <lb n="27"/>
+ 	  Von Dir kommt, mit, wieviel er mitbringt,
+		 <lb n="28"/>
+ 	  Wenn er kommt. Dann befiehl ihnen, es zu verkaufen
+		 <lb n="29"/>
+ 	  In el-Fusṭāṭ. Ich habe
+		 <lb n="30"/>
+ 	  Den Vorsteher des Maks angewiesen,
+		 <lb n="31"/>
+ 	  Daß er Kenntnis nehmen soll von dem, was sie mitbringen
+		 <lb n="32"/>
+ 	  Von diesem; denn
+		 <lb n="33"/>
+ 	  Getreide ist leicht verkäuflich in el-Fusṭāṭ.
+		 <lb n="34"/>
+ 	  Niemand bringt Getreide,
+		 <lb n="35"/>
+ 	  Ohne es an den Mann zu bringen. Dann wende Deine Aufmerksamkeit
+		 <lb n="36"/>
+ 	  Der restierenden Hälfte zu,
+		 <lb n="37"/>
+ 	  Und sie sollen sie unter den Leuten des Landes verkaufen.
+		 <lb n="38"/>
+ 	  Bringt er sie nicht im Lande an den Mann,
+		 <lb n="39"/>
+ 	  So soll er sie nach el-Fusṭāṭ bringen.
+		 <lb n="40"/>
+ 	  Verschiebe diese Sache nicht,
+		 <lb n="41"/>
+ 	  Sondern befiehl sie, wenn dieser mein
+		 <lb n="42"/>
+ 	  Brief zu Dir kommt, und betraue
+		 <lb n="43"/>
+ 	  Damit einen, der es gut durchführt. Ich
+		 <lb n="44"/>
+ 	  Habe allen Finanzbeamten
+		 <lb n="45"/>
+ 	  Den gleichen Befehl gegeben. Stelle mich zufrieden
+		 <lb n="46"/>
+ 	  In dieser Sache und dann werde ich Dich dabei nicht tadeln. Heil
+ 	  ... und ich möchte Dich dabei nicht tadeln müssen ...
+		 <lb n="47"/>
+ 	  Über den, welcher der Rechtleitung folgt; es hat (dies) geschrieben
+		 <lb n="48"/>
+ 	  ʿAbdallāh, der Sohn des Nuʿmān im
+		 <lb n="49"/>
+ 	  Monat Rabīʿ I des Jahres
+		 <lb n="50"/>
+ 	  [Einund] neunzig
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

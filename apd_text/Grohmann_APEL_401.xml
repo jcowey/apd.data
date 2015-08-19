@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1961" xml:id="Grohmann_APEL_401" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 401</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_401</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169693</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">وبعثة</supplied> <gap reason="illegible" precision="low" extent="3"/> عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـط من القمح الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <supplied reason="lost" cert="high">وبعـ</supplied>ـثة أ<supplied reason="lost" cert="high">يضـ</supplied>ـا <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">شـ</supplied>ـعير الصّر<supplied reason="lost" cert="high">يح</supplied> <supplied reason="lost" cert="high">إ[لى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  <supplied reason="lost" cert="high">وبعثـ</supplied>ـ<supplied reason="lost" cert="high">ـة</supplied> أيضـ<supplied reason="lost" cert="high">ـا</supplied> من يحـ<supplied reason="lost" cert="high">ـ</supplied>ـنّس إلى <app type="BL"><lem resp="APD">حريرة </lem><rdg resp="APD">جريرة </rdg><rdg resp="APD">حريرة </rdg><rdg resp="APD">خزيرة</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وبعثة <supplied reason="lost" cert="high">أيـ</supplied>ـضا من جبّات الصّوف <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  وبعثة <supplied reason="lost" cert="high">أيـ</supplied>ـضـ<supplied reason="lost" cert="high">ـا</supplied> من الأكسية <supplied reason="lost" cert="high">ا</supplied>لـكـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـا<supplied reason="lost" cert="high">نيّة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  وبعثة <supplied reason="lost" cert="high">أ</supplied>يضا من السّنط إلى <app type="BL"><lem resp="APD">حريرة </lem><rdg resp="APD">جريرة </rdg><rdg resp="APD">حريرة </rdg><rdg resp="APD">خزيرة</rdg></app> الصّـ<supplied reason="lost" cert="high">ـپـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  وبعـ<supplied reason="lost" cert="high">ـثة</supplied> مـ<supplied reason="lost" cert="high">ـن</supplied> النّبيخة إلى <app type="BL"><lem resp="APD">جزيرة </lem><rdg resp="APD">جريرة </rdg><rdg resp="APD">حريرة </rdg><rdg resp="APD">خزيرة</rdg></app> الصّـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <del rend="erasure" status="unremarkable">وپعپه</del> <del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">اپصـ</del></supplied><del rend="erasure" status="unremarkable">ـا</del> <del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">مـ</del></supplied><del rend="erasure" status="unremarkable">ـن</del> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <del rend="erasure" status="unremarkable">وپعپه</del> <del rend="erasure" status="unremarkable">من</del> <del rend="erasure" status="unremarkable">حسپ</del> <del rend="erasure" status="unremarkable"></del><supplied reason="lost" cert="high"><del rend="erasure" status="unremarkable">ا</del></supplied><del rend="erasure" status="unremarkable">لى</del> <del rend="erasure" status="unremarkable">پپرموپه</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" extent="4" unit="character" /> وبعثة من خشب <del rend="erasure" status="unremarkable">الاسحـ</del><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  و<supplied reason="lost" cert="high">بعثة</supplied> <supplied reason="lost" cert="high">من</supplied> خشب <del rend="erasure" status="unremarkable">الصڤصاف</del> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <supplied reason="lost" cert="high">وبعـ</supplied>ـثة <supplied reason="lost" cert="high">مـ</supplied>ـن الكتّا<supplied reason="lost" cert="high">ن</supplied> إلى <app type="BL"><lem resp="APD">حريرة </lem><rdg resp="APD">جريرة </rdg><rdg resp="APD">حريرة </rdg><rdg resp="APD">خزيرة</rdg></app> الصّپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـد <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> عليهم في پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa baʿṯaẗ:un *** ʿ***ṭ mina ăl qamḥi ăl *** *** 
+ <lb n="2"/>wa baʿṯaẗ:un ʾayḍ:an min šaʿīri ăṣ ṣarīḥi ʾilà *** 
+ <lb n="3"/>wa baʿṯaẗ:un ʾayḍ:an min yuḥannisa ʾilà ḥarīraẗa ḫazīraẗa ǧazīraẗa ǧurayraẗa ǧuzayraẗa *** 
+ <lb n="4"/>wa baʿṯaẗ:un ʾayḍ:an min ǧubbāti ăṣ ṣūfi *** 
+ <lb n="5"/>wa baʿṯaẗ:un ʾayḍ:an mina ăl ʾaksiyaẗi ăl kattāniyyaẗi *** 
+ <lb n="6"/>wa baʿṯaẗ:un ʾayḍ:an mina ăs sanṭi ʾilà ḥarīraẗa ḫazīraẗa ǧazīraẗa ǧurayraẗa ǧuzayraẗa ăṣ ṣB*** *** 
+ <lb n="7"/>wa baʿṯaẗ:un mina ăn nabīḫaẗi ʾilà ḥarīraẗa ḫazīraẗa ǧazīraẗa ǧurayraẗa ǧuzayraẗa ăṣ ṣ**ā* *** 
+ <lb n="8"/>wa baʿṯaẗ:un ʾayḍ:an min *** *** *** 
+ <lb n="9"/>wa baʿṯaẗ:un min ḫašab:in ʾilà batirmūtaẗa *** 
+ <lb n="10"/>**** wa baʿṯaẗ:un min ḫašabi ăl ʾsḥ*** *** 
+ <lb n="11"/>wa baʿṯaẗ:un min ḫašabi ăṣ ṣafṣāfi *** 
+ <lb n="12"/>wa baʿṯaẗ:un mina ăl kattāni ʾilà ḥarīraẗa ḫazīraẗa ǧazīraẗa ǧurayraẗa ǧuzayraẗa ăṣ ṣB*** *** 
+ <lb n="13"/>*** ***d ** *** 
+ <lb n="14"/>*** *** ʿalay him fī B*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[and a dispatch of ... ]... ...[ ... ]... ... ... of [clean] wheat [
+			<lb n="2"/>
+		[and a] f[urth]er [disp]atch of unmin[gled] [b]arley [
+			<lb n="3"/>
+		[and a] furth[er] [dispatch] from Yoḥannes to Ǧuzaira [
+			<lb n="4"/>
+		and a [fur]ther dispatch of woolen upper-gowns [
+			<lb n="5"/>
+		and a [fu]rth[er] dispatch of lin[en]-cloaks [
+			<lb n="6"/>
+		and a [fu]rther dispatch of acacia(-wood) to Ǧuzaira, the ...[
+			<lb n="7"/>
+		and a disp[atch] o[f] touch wood to Ǧuzaira, the ...[
+			<lb n="8"/>
+		〚and a [furthe]r dispatch [o]f ... ... [...] ... 〛[
+			<lb n="9"/>
+		〚and a dispatch of wood [t]o Patermûte〛[
+			<lb n="10"/>
+		and a dispatch of wood 〚...〛[
+			<lb n="11"/>
+		and [a dispatch of] 〚willow〛-wood [
+			<lb n="12"/>
+		[and a dispa]tch [o]f line[n] to Ǧuzaira, the [
+			<lb n="13"/>
+			<lb n="14"/>
+		[...] on their debit in ... [
+</ab></div>
+</body>
+</text>
+</TEI>

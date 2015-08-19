@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1357" xml:id="Chrest_Khoury_I_33" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>Chrest.Khoury I 33 (= P.RagibQalamun 1)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Chrest_Khoury_I_33</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169158</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أقر جرّاح بن زياد وأشهد على نفسه في صحّة عقله وبدنه وجواز أمره طائعا 
+<lb n="3"/>  غير مكره ولا مجبر ولا مضظهد أن عليه وعنده وقبله <app type="BL"><lem resp="APD">وفي </lem><rdg resp="Rāġib">في</rdg></app> ذمّته وخالص ماله لأبو الدّين 
+<lb n="4"/>  بن رمضان الرّبعي من القمح الجيّد النقي السّالم من التّبن <app type="BL"><lem resp="APD">والعقلة </lem><rdg resp="Hopkins, Rāġib">والقصالة</rdg></app> إردب واحد وثلث وثمن 
+<lb n="5"/>  إردب ومن الفول الجيّد النّقي السّالم من الطّين والتّراب <app type="BL"><lem resp="APD">إ<supplied reason="lost" cert="high">ردبّين</supplied> </lem><rdg resp="Rāġib">إردبّ</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وپـ</supplied>ـصف </lem><rdg resp="Rāġib, omitted by Khoury">واحد</rdg></app> پڤوم له پدلك 
+<lb n="6"/>  أو إلى من يقوم مقامه في شهر بونه من شهور القبط من سنة ثلثة وأربعين وأربع مائة الخراجيّة 
+<lb n="7"/>  لا يدافع بذلك ولا يحتج فيه بحجّة بوجه من الوجوه ولا سبب من الأسباب كلّها دون <app type="BL"><lem resp="APD">بالخروج </lem><rdg resp="Rāġib">الخروج</rdg></app> من ذلك 
+<lb n="8"/>  في الأجل المذكور على تمامه وكماله وبذلك أشهد على نفسه في شوّال سنة خمس وأربعين وأربع ماية 
+<lb n="9 left = Rāġib 1st witness"/>  <app type="BL"><lem resp="APD">صح </lem><rdg resp="Rāġib">ø</rdg></app> شهد سليم بن يحيى بن قطيط 
+<lb n="10 left = Rāġib 1st witness"/>  على إقرار المقر بما فيه وكتب بخطّه في تأريخه 
+<lb n="10 right = Rāġib 2nd witness"/>  شهد <app type="BL"><lem resp="APD">حلون </lem><rdg resp="Rāġib">جلود</rdg></app> بن <app type="BL"><lem resp="APD">حلس </lem><rdg resp="Rāġib">خميس</rdg></app> على إقرار المقر 
+<lb n="11 right = Rāġib 2nd witness"/>  بجميع ما سمّي <supplied reason="omitted" cert="high">و</supplied>وصف وكتب عنه بأمره ومحضره 
+<lb n="12 right = Rāġib 3rd witness"/>  شهد عوس بن عمّار على إقرار المقر 
+<lb n="13 right = Rāġib 3rd witness"/>  بما فيه وكتب عنه سليم بن يحيى بأمره ومحضره 
+<lb n="11 left = Rāġib 4th witness"/>  شهد <app type="BL"><lem resp="APD">مطرّف </lem><rdg resp="Rāġib">معروف</rdg></app> بن خلف على إقرار المقر 
+<lb n="12 left = Rāġib 4th witness"/>  صح بما فيه وكتب عنه سليم بن يحيى بأمره <app type="BL"><lem resp="APD">محضره </lem><rdg resp="Rāġib">ومحضره</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ǧarrāḥu bnu ziyād:in wa ʾašhada ʿalà nafsi hi fī ṣiḥḥaẗi ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ:an 
+ <lb n="3"/>ġayra mukrah:in wa lā muǧbar:in wa lā muḍṭahad:in ʾanna ʿalay hi wa ʿinda hu wa qibala hu wa ø fī ḏimmati hi wa ḫāliṣi māli hi li ʾabū ăd dīni 
+ <lb n="4"/>bni ramaḍāna ăr rabaʿiyyi rabʿiyyi mina ăl qamḥi ăl ǧayyidi ăl naqiyyi ăs sālimi mina ăt tibni wa ăl ʿuqlaẗi qaṣālaẗi ʾirdabb wāḥid wa ṯulṯa wa ṯumna 
+ <lb n="5"/>ʾirdabb:in wa mina ăl fūli ăl ǧayyidi ăn naqiyyi ăs sālimi mina ăṭ ṭīni wa ăt turābi ʾirdabbayni ʾirdabb ø wāḥid wa niṣf yaqūmu la hu bi ḏālika 
+ <lb n="6"/>ʾaw ʾilà man yaqūmu maqāma hu fī šahri bawniha min šuhūri ăl qibṭi min sanaẗi ṯalāṯaẗ:in wa ʾarbaʿīna wa ʾarbaʿi miʾaẗ:in ăl ḫarāǧiyyaẗi 
+ <lb n="7"/>lā yudāfiʿu bi ḏālika wa lā yaḥtaǧǧu fī hi bi ḥuǧǧaẗ:in bi waǧh:in mina ăl wuǧūhi wa lā sabab:in mina ăl ʾasbābi kulli hā dūna bi ø ăl ḫurūǧi min ḏālika 
+ <lb n="8"/>fī ăl ʾaǧali ăl maḏkūri ʿalà tamāmi hi wa kamāli hi wa bi ḏālika ʾašhada ʿalà nafsi hi fī šawwāl:in sanaẗa ḫams:in wa ʾarbaʿīna wa ʾarbaʿi miyaẗ:in 
+ <lb n="9"/>ṣaḥḥa ø šahida salīmu sulaymu bnu yaḥyà bni qaṭīṭ:in quṭīṭ:in 
+ <lb n="10"/>ʿalà ʾiqrāri ăl muqirri bi mā fī hi wa kataba bi ḫaṭṭi hi fī taʾrīḫi hi 
+ <lb n="11"/>šahida ḥalwānu ǧalūdu bnu ḥalas:in ḫamīs:in ʿalà ʾiqrāri ăl muqirri 
+ <lb n="12"/>bi ǧamīʿi mā summiya wa wuṣifa wa kutiba ʿan hu bi ʾamri hi wa maḥḍari hi ø ṣaḥḥa 
+ <lb n="13"/>šahida ʿawisu ʿawsu bnu ʿammār:in ʿalà ʾiqrāri ăl muqirri 
+ <lb n="14"/>bi mā fī hi wa kataba ʿan hu salīmu sulaymu bnu yaḥyà bi ʾamri hi wa maḥḍari hi ø ṣaḥḥa 
+ <lb n="15"/>šahida muṭarrifu maʿrūfu bnu ḫalaf:in ʿalà ʾiqrāri ăl muqirri 
+ <lb n="16"/>ṣaḥḥa bi mā fī hi wa kataba ʿan hu salīmu sulaymu bnu yaḥyà bi ʾamri hi ø wa maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément [et miséricordieux !]
+		Au nom de Dieu clément et miséricordieux !
+			<lb n="2"/>
+		Ǧarrāḥ Ibn Ziyād a reconnu devant témoins dans la plénitude de ses facultés mentales et physiques, sa capacité juridique et son assentiment
+		Ǧarrāḥ Ibn Ziyād a reconnu et pris à témoin, étant dans la plénitude de ses facultés mentale et physique et sa capacité juridique, de bon gré,
+			<lb n="3"/>
+		non contraint, forcé ou maltraité, qu&#039;il a à son débit comme dette, sous sa protection et de son bien intégral, envers Abū l-Dīn
+		sans violence, ni contrainte ou oppression qu&#039;il doit à Abū-l-dīn b. Ramaḍān al-Rabaʿī et détient chez lui dans son patrimoine de ses biens propres
+			<lb n="4"/>
+		Ibn Ramaḍān al-Rabʿī, comme blé excellent, pur et sans paille ni paille hachée, un ardeb, un tiers un huitième
+		un ardabb un tiers un huitième de blé bon et pur, sans paille ni rebut,
+			<lb n="5"/>
+		d&#039;ardeb, et comme fèves excellentes, pures et sans boue ni terre, un [sic] ardeb et demi; il lui livrera cela,
+		et un a[rdabb et demi] de fèves bonnes et pures, sans boue ni terre. Il lui livrera cela
+			<lb n="6"/>
+		ou à celui qui le représentera au mois de baʾūna des mois coptes de l&#039;année quatre cent quarante-trois de l&#039;impôt foncier.
+		ou à celui qui le supplée, au mois de payni (baʾune), (l&#039;un) des mois des coptes, de l&#039;année fiscale quatre cent quarante-trois,
+			<lb n="7"/>
+		il ne cherchera pas à ajourner cela ou à invoquer aucun argument d&#039;aucun genre, ni une raison quelconque, mais il s&#039;acquittera de cela
+		il ne remettra pas cela et n&#039;invoquera aucun argument pour quelque cause ou quelque motif que ce soit, mais s&#039;acquittera de cela
+			<lb n="8"/>
+		au terme mentionné, intégralement et complètement. De cela il a pris témoins en šawwāl l&#039;année quatre cent quarante-cinq.
+		dans le délai fixé, entièrement et complètement. Il prit à témoin de cela en šawwāl de l&#039;an quatre cent quarante-cinq:
+			<lb n="9"/>
+		A témoigné Sulaym b. Yaḥyā b. Qaṭīṭ
+		Juste. A témoigné Salīm Ibn Yaḥyā Ibn Quṭīṭ
+			<lb n="10"/>
+		de la reconnaissance de celui qui a reconnu tout ce qu&#039;il contient, et il écrivit de sa main en sa date
+		de la reconnaissance du débiteur de contenu de (l&#039;écrit). Il a écrit de son écriture à la date (de l&#039;écrit).
+			<lb n="11"/>
+		A témoigné Ǧalūd b. Ḫamīs de la reconnaissance du débiteur
+		A témoigné Ḥalwān Ibn Ḥalas de la reconnaissance de celui qui a reconnu
+			<lb n="12"/>
+		de la totalité de ce qui a été mentionné &lt;et&gt; décrit. On a écrit pour lui en sa présence et sur son ordre. Authentique.
+		tout ce qui (y) a été nommé &lt;et&gt; décrit, et on écrivit en sa place sur son ordre et en sa présence.
+			<lb n="13"/>
+		A témoigné ʿAwis Ibn ʿAmmār de la reconnaissance de celui qui a reconnu
+		A témoigné ʿAws b. ʿAmmār de la reconnaissance du débiteur
+			<lb n="14"/>
+		du contenu de (l&#039;écrit). Sulaym b. Yaḥyā a écrit pour lui sur son ordre et en sa présence. Authentique.
+		son contenu, et Salīm Ibn Yaḥyā écrivit à sa place, sur son ordre et en sa présence.
+			<lb n="15"/>
+		A témoigné Maʿrūf b. Ḫalaf de la reconnaissance du débiteur
+		A témoigné Muṭarrif Ibn Ḫalaf de la reconnaissance de celui qui a reconnu
+			<lb n="16"/>
+		du contenu de (l&#039;écrit). Sulaym b. Yaḥyā a écrit pour lui sur son ordre et en sa présence
+		- juste - ce qu&#039;il contient, et Salīm Ibn Yaḥyā écrivit à sa place sur son ordre et en sa présence.
+</ab></div>
+</body>
+</text>
+</TEI>

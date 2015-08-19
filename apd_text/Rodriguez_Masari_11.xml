@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1815" xml:id="Rodriguez_Masari_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RodriguezMasari 1b</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Rodriguez_Masari_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169554</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الحمد للّه صيّرت المباركة قمر ابنة حسين المالقي المذكور بمحوّله زوجها المعلّم سعيد 
+<lb n="2"/>  بن أحمد بن عزّوز النّصف الواحد من جميع المصريّة المذكورة بمحوّله على الإشاعة 
+<lb n="3"/>  معها بنصفها الآخر في شهر إبرا قبضته <unclear reason="undefined" cert="high">على</unclear> مبلغه ما أدّاه من مال نفسه عنها لمن كانت 
+<lb n="4"/>  المصريّة المذكورة المقايدة في <unclear reason="undefined" cert="high">أمر</unclear> كان على المصريّة بعلم المصيّرة وبتحقيقها 
+<lb n="5"/>  تصييرا تامّا وخلص للمصيّر له فيه تملّك النّصف المذكور على السّنّة ومرجع الدّرك 
+<lb n="6"/>  وسقط عن المصيّرة الحق بالمصريّة ولم يبق لها في جميع المصريّة <supplied reason="omitted" cert="high">حقّ</supplied> غير نصفها وبعد 
+<lb n="7"/>  الـ<supplied reason="lost" cert="high">ـنّـ</supplied>ـظر والرّضا بالعيوب بمحوّله والقبض وبيد على <unclear reason="undefined" cert="high">معاقد</unclear> فيها المصيّر لـ<supplied reason="lost" cert="high">ـه</supplied> لرضا 
+<lb n="8"/>  المذكور و<supplied reason="lost" cert="high">أشهدا</supplied> به من عرفهما بحال صحّة وجواز في التّاسع عشر لربيع الأوّل عام اثنين 
+<lb n="9"/>  وخمسين وثمانيمائة <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl ḥamdu li l lāhi ṣayyarati ăl mubārakaẗu qamaru ĭbnaẗu ḥusayn:ini ăl mālaqiyyi ăl maḏkūri bi muḥawwali hi zawǧa hā ăl muʿallima saʿīda 
+ <lb n="2"/>bna ʾaḥmada bni ʿazzūza ăn niṣfa ăl wāḥida min ǧamīʿi ăl maṣriyyaẗi ăl maḏkūraẗi bi muḥawwali hi ʿalà ăl ʾišāʿaẗi 
+ <lb n="3"/>maʿa hā bi niṣfi hā ăl ʾāḫari fī šahri ʾibrāʾ:in qabaḍat hu ʿalà mablaġi hi mā ʾaddā hu min māli nafsi hi ʿan hā li man kānat 
+ <lb n="4"/>ăl maṣriyyaẗu ăl maḏkūraẗu ăl muqāyadaẗu fī ʾamr:in kāna ʿalà ăl maṣriyyaẗi bi ʿilmi ăl muṣayyiraẗi wa bi taḥqīqi hā 
+ <lb n="5"/>taṣyīr:an tāmm:an wa ḫalaṣa li l muṣayyari la hu fī hi tamalluku ăn niṣfi ăl maḏkūri ʿalà ăs sunnaẗi wa marǧiʿi ăd daraki 
+ <lb n="6"/>wa saqaṭa ʿani ăl muṣayyiraẗi ăl ḥaqqu bi ăl maṣriyyaẗi wa lam yabqa la hā fī ǧamīʿi ăl maṣriyyaẗi ḥaqq:un ġayra niṣfi hā wa baʿda 
+ <lb n="7"/>ăn naẓari wa ăr riḍā bi ăl ʿuyūbi bi muḥawwali hi wa ăl qabḍi wa bi yad:in ʿalà maʿāqida fī hā ăl muṣayyari la hu li riḍā 
+ <lb n="8"/>ăl maḏkūri wa ʾašhadā bi hi man ʿarafa humā bi ḥāli ṣiḥḥaẗ:in wa ǧawāz:in fī ăt tāsiʿa ʿašara li rabīʿa ăl ʾawwali ʿāma ĭṯnayni 
+ <lb n="9"/>wa ḫamsīna wa ṯamānī miʾaẗ:in *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Louange à Dieu. La bénie Qamar ibnat Ḥusayn al-Mālaqī mentionnée au verso, cède à son mari, le maître Saʿīd
+			<lb n="2"/>
+		ibn Aḥmad ibn ʿAzzūz, la moitié de la totalité de la maṣriyya mentionnée au verso, dont il exerce avec elle la possession juridique par indivis
+			<lb n="3"/>
+		en ce qui concerne l&#039;autre moitié. (Le cessionnaire) donne quittance (de ce qui est reçu), [correspondant?] au montant de ce qu&#039;il a payé de ses propres biens en faveur (de sa femme), à la personne qui avait
+			<lb n="4"/>
+		enregistré à son nom la maṣriyya mentionnée, [par un ordre?] chargé sur la maṣriyya, en connaissance de cause de la cédante et avec son approbation.
+			<lb n="5"/>
+		Il s&#039;agit d&#039;une cession accomplie en vertu de laquelle le cessionnaire reçoit le dominion de la moitié cédée en accord avec la loi, et avec indemnisation pour dommage.
+			<lb n="6"/>
+		(C&#039;est pourquoi) prescrivent les droits de la cédante sur la maṣriyya, sans réserve d&#039;aucun [droit] sur la totalité pour sa part, sauf (en ce qui concerne) la moitié qu&#039;elle possède, après avoir
+			<lb n="7"/>
+		inspecté et accepté les défauts (décrits) au verso. (De même), le cessionnaire prend possession physique et juridique, comme il est [conclu?] (en vertu de) l&#039;acceptation
+			<lb n="8"/>
+		mentionnée. [Les deux parties demandent le témoignage] (des témoins instrumentaires), qui les connaissent et (savent qu&#039;elles jouissent) de capacité physique et légale (suffisante). Le 19 rabīʿ I de l&#039;année
+			<lb n="9"/>
+		852 (= 23 mai 1448).
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="706" xml:id="Grohmann_EBU_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannUrkunden 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_EBU_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106787</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮يوم ‪‪ε΄‬ فوفه <app type="BL"><lem resp="APD">‪ιδ΄‬ </lem><rdg resp="Diem">ιβ΄</rdg></app> الدّفعة ‪ε΄‬ 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  أدّى أثناس الخيّاط عمّا يلزمـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">جزية</supplied> 
+<lb n="4"/>  رأسه عن المدينة ربع دينر مثقال <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Diem after Karabacek">δ΄</rdg></app> 
+<lb n="5"/>  إلى عيسى بن علي القسطال بحضرة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <app type="BL"><lem resp="APD">وكير </lem><rdg resp="Diem">زكير</rdg></app> بن يحيى عامل أبي العبّاس 
+<lb n="7"/>  بن خلد أعزّه اللّه لخراج سنة إحدى وأربعين 
+<lb n="8"/>  ‮ومائتن ‪σμα‬ 
+<lb n="9"/>  ‮سنة ‪σμα‬ 
+<lb n="10"/>  دينر 
+<lb n="11"/>  ‭δ΄‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yawma 5 fūfiha 14 12 ăd dafʿaẗu 5 ø dīnār:un 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà ʾaṯnāsu ăl ḫayyāṭu ʿammā yalzamu hu min ǧizyaẗi 
+ <lb n="4"/>raʾsi hi ʿani ăl madīnaẗi rubʿa dīnār:in miṯqāl:in *** 1/4 
+ <lb n="5"/>ʾilà ʿīsà bni ʿaliyy:ini ăl qusṭāli bi ḥaḍraẗi *** 
+ <lb n="6"/>wakīra zakīra bni yaḥyà ʿāmili ʾabī ăl ʿabbāsi 
+ <lb n="7"/>bni ḫālid:in ʾaʿazza hu ăl lāhu li ḫarāǧi sanaẗi ʾiḥdà wa ʾarbaʿīna 
+ <lb n="8"/>wa miʾatayni 241 
+ <lb n="9"/>sanaẗu 241 
+ <lb n="10"/>dīnār:un 
+ <lb n="11"/>1/4 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Donnerstag, 12. Paophi (Fūfe), 5. Zahlung. Dīnā[r]
+		Donnerstag, 14. Paophi (Fūfe), 5. Zahlung.
+			<lb n="2"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="3"/>
+		Gezahlt hat der Schneider Athanasios (Aṯnās) von dem, was [ihm] an Kopf[steuer]
+			<lb n="4"/>
+		aus der Kreismetropole (Ašmūn) oblag, einen Viertel-Dīnār des Miṯ[qālfußes]
+			<lb n="5"/>
+		an den Zahlmeister ʿĪsā b. ʿAlī in Gegenwart des
+			<lb n="6"/>
+		Wakīr b. Yaḥyā, Kreisfinanzdirektors des Abu ʾl-ʿAbbās
+		Zakīr b. Yaḥyā, ...
+			<lb n="7"/>
+		b. Ḫālid - Gott stärke ihn - für die Steuer des Jahres zwei-
+			<lb n="8"/>
+		hunderteinundvierzig. 241.
+			<lb n="9"/>
+		Jahr 241
+			<lb n="10"/>
+		Dīnār
+			<lb n="11"/>
+		1/4
+</ab></div>
+</body>
+</text>
+</TEI>

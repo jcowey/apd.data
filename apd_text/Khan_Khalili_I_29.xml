@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1533" xml:id="Khan_Khalili_I_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 29 (= P.Khalili II 72)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169304</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  صبّحك اللّه يأخي بعافية وكرامة قد فهمت 
+<lb n="3"/>  كتابك وما ذكرت من <app type="BL"><lem resp="APD">أم </lem><rdg resp="Diem">أمر</rdg></app> <app type="BL"><lem resp="APD">الخمار </lem><rdg resp="Khan÷ variant reading of the personal name, Diem÷ donkey">الحمار </rdg><rdg resp="APD">الخمّار </rdg><rdg resp="APD">الخمار</rdg></app> وأنت من أعذر النّاس 
+<lb n="4"/>  عندي وأنا أعلم أن لو قام لك سبيل تسبق رسولي 
+<lb n="5"/>  وأمّا قولك في أن أم <app type="BL"><lem resp="APD">شعيث </lem><rdg resp="APD">شعيث</rdg></app> ذهبت إلى الفاسقة 
+<lb n="6"/>  ولا ذكرته لي ولا علمت حتّا أتاني كتابك 
+<lb n="7"/>  فزعمت لي أنّها ذهبت إلى منزل بنت أختي فلمّا 
+<lb n="8"/>  <app type="BL"><lem resp="APD">وصّت </lem><rdg resp="Diem">رجعت</rdg></app> رأت بنتها على قارعة الطّريق فقالت 
+<lb n="9"/>  <supplied reason="lost" cert="high">هـ</supplied>ـا هو <unclear reason="undefined" cert="high">ذا</unclear> منزلكم قالت <app type="BL"><lem resp="APD">فقد </lem><rdg resp="Diem ≤tooth, loop visible above a hole±">نعم</rdg></app> <app type="BL"><lem resp="APD">حلّت </lem><rdg resp="Diem">فدخلت</rdg></app> بقلب 
+<lb n="10"/>  الّبيت حتّا <app type="BL"><lem resp="APD">تقلّب </lem><rdg resp="Diem">تقلّب</rdg></app> ابنتها ولم <app type="BL"><lem resp="APD">تذكر </lem><rdg resp="Diem">تذكر</rdg></app> لي <unclear reason="undefined" cert="high">شي</unclear> <supplied reason="lost" cert="high">حتّـ</supplied>ـا أتاـني 
+<lb n="11"/>  <supplied reason="lost" cert="high">كتـ</supplied>ـابك وذكرت <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ولا من خبر 
+<lb n="12"/>  وأنا إذا رجـ<supplied reason="lost" cert="high">ـعـ</supplied>ـت لبيتك مـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/>ك 
+<lb n="13"/>  وذكرت لي وشرحت أن <unclear reason="undefined" cert="high">أكري</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> وكتابك 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> و<gap reason="illegible" precision="low" extent="3"/> فأنا أرجو أن يصنع اللّه نعمته بك منه 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> قدوم أخي فأنا أرجع من السّاحل وأنزل 
+<lb n="17"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ṣabbaḥa ka ăl lāhu yā ʾaḫ ī bi ʿāfiyaẗ:in wa karāmaẗ:in qad fahimtu 
+ <lb n="3"/>kitāba ka wa mā ḏakarta min ʾummi ʾamri ăl ḥammāri ḫammāri ḥimāri ḫimāri wa ʾanta min ʾaʿḏari ăn nāsi 
+ <lb n="4"/>ʿind ī wa ʾanā ʾaʿlamu ʾan law qāma la ka sabīl:un tasbiqu rasūl ī 
+ <lb n="5"/>wa ʾammā qawlu ka fī ʾanna ʾumma šuʿayb:in šuʿayṯ:in ḏahabat ʾilà ăl fāsiqaẗi 
+ <lb n="6"/>wa lā ḏakarat ḏakarta hu l ī wa lā ʿalimtu ḥattā ʾatā nī kitābu ka 
+ <lb n="7"/>fa zaʿamat zaʿamta l ī ʾanna hā ḏahabat ʾilà manzili binti ʾuḫt ī fa lammā 
+ <lb n="8"/>waṣṣat raǧaʿat raʾat binta hā ʿalà qāriʿaẗi ăṭ ṭarīqi fa qālat 
+ <lb n="9"/>hā huwa ḏā manzilu kum qālat fa naʿam qad ø ø fa ḥallat daḫalat bi qalbi 
+ <lb n="10"/>ăl bayti ḥattā naqalati tuqalliba ĭbnata ĭbnatu hā wa lam taḏkur yuḏkar l ī sāyʾ šayʾ:un ḥattā ʾatā nī 
+ <lb n="11"/>kitābu ka wa ḏakarta *** *** wa lā min ḫabar:in 
+ <lb n="12"/>wa ʾanā ʾiḏā raǧaʿtu li bayti ka m***k 
+ <lb n="13"/>wa ḏakarta l ī wa šaraḥta ʾan ʾukriya *** 
+ <lb n="14"/>*** *** wa kitāb ka 
+ <lb n="15"/>*** *** wa *** fa ʾanā ʾarǧū ʾan yaṣnaʿa ăl lāhu niʿmata hu bi ka min hu 
+ <lb n="16"/>*** *** qudūm ʾaḫ ī fa ʾanā ʾarǧiʿu min ăs sāḥili wa ʾanzilu 
+ <lb n="17"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the merciful and compassionate.
+			<lb n="2"/>
+		... Ich habe
+		May God grant you good health and show you kindness this morning! I have taken note of
+		May God grant you good health and show you kindness this morning. I have taken note of
+			<lb n="3"/>
+		Deinen Brief und die Sache mit dem Esel, die du erwähnst, gelesen. Du bist jemand, den ich am allerehesten entschuldige.
+		your letter and what you said concerning ʾUmm al-Ḥammār. You are one of my most supportive companions.
+		your letter and what you said concerning Umm al-Hammar. You are one of my most supportive companions.
+			<lb n="4"/>
+		... Denn ich weiß ja, daß Du, wenn es Dir möglich wäre, meinem Boten noch zuvorkämst.
+		I know that if you had the opportunity you would outstrip my messenger.
+		I know that if you had the opportunity, you would outstrip my messenger.
+			<lb n="5"/>
+		As for your telling me that Umm Shuʿayb has gone to the sinful woman
+		As for your telling me that ʾUmm Šuʿayb has gone to the sinful woman
+		Was Deinen Hinweis betrifft, daß ʾUmm Šuʿayb zu dem sündhaften Weib gegangen sei
+			<lb n="6"/>
+		- sie hatte es mir nicht mitgeteilt und ich wusste es nicht, bis mich Dein Brief erreichte - ,
+		- you did not mention it (previously) and I did not know about it until I received your letter
+		- you had not mentioned it (previously)، and I did not know about it until I received your letter،
+			<lb n="7"/>
+		and you told me that she had gone to the house of the daughter of my sister. When
+		so hat sie mir gegenüber (auf meine Frage hin) erklärt, sie sei...
+			<lb n="8"/>
+		she looked she saw her daughter in the middle of the road. She said
+		she looked, she saw her daughter in the middle of the road. She said,
+		she returned, she (accidentally) saw her daughter in the middle of the road, and she (the mother?) said 
+			<lb n="9"/>
+		&#034;Here is your home.&#034; She said (this), and she lived in
+		Here is your home. She said (this) and she lived in
+		So, this is your home (now)? She (the daughter?) said yes, and then (the mother) entered into
+			<lb n="10"/>
+		the house in order to examine (the state of) her daughter. And she did not tell me anything until your letter reached me.
+		the house until her daughter moved. None of this was mentioned to me until your letter came
+			<lb n="11"/>
+		and you mentioned [...] nor any news.
+		and you mentioned ... nor any (other) news.
+			<lb n="12"/>
+		When I return to your house. [...].
+			<lb n="13"/>
+		you related and explained to me that... [...]
+			<lb n="14"/>
+		[...] and your letter
+			<lb n="15"/>
+		[...] ... and I hope that God will bestow his bounty upon you
+			<lb n="16"/>
+		[...] ... the arrival of my brother and I shall return from the coast and alight
+			<lb n="17"/>
+</ab></div>
+</body>
+</text>
+</TEI>

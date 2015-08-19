@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="765" xml:id="Raghib_March_5_1_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands V/1 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_1_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106835</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">علپك</supplied> وعپدك كپپپ الپك وإپا ڤى عافيه ومن ڤپلى قى 
+<lb n="recto 2"/>  <gap reason="illegible" precision="low" extent="3"/> اپاپى كپأتك پدكر ڤته ما صرپ الپه من عاڤپه پعد علم 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> عاڤپه الى عإڤپپك واما عله <app type="BL"><lem resp="APD">ڤاپها </lem><rdg resp="APD">علة</rdg></app> پپكلم التوم پعپر ما 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">والڤپل</unclear> واپما ڤپها موصع الحدپد من <unclear reason="undefined" cert="high">الحرح</unclear> ڤصع علپه 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> اپما پرپد حنى پپڤطع <unclear reason="undefined" cert="high">الرهاق</unclear> ڤپعرف ما پصپر الته 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> حارپه پوپپه ماسطه <unclear reason="undefined" cert="high">ڤا</unclear><supplied reason="lost" cert="high">سپرپـ</supplied><unclear reason="undefined" cert="high">ـپها</unclear> ومسطپ وهى الپوم 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> هى على الصڤه صعپر<supplied reason="lost" cert="high">ه</supplied> ڤد ررقپا الله الحپره علپهم 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ا</supplied><unclear reason="undefined" cert="high">لحرح</unclear> <gap reason="illegible" extent="4" unit="character" /> حپد ڤـاپطـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> ڤد سالپ الرحل 
+<lb n="recto 9"/>  <gap reason="illegible" extent="4" unit="character" />ـا لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> حپد پالع ادا ڤإس 
+<lb n="recto 10"/>  <gap reason="illegible" extent="4" unit="character" /> الدم ڤان كان <unclear reason="undefined" cert="high">ڤمرپپن</unclear> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ڤـ</supplied>ـدرپه ادا مسپ 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الحـ</supplied>ـارپه الجمد لله الدى 
+<lb n="recto 13"/>  <gap reason="illegible" precision="low" extent="3"/> اپطر ما پڤول 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> لو ڤدرپ لقد 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> الـ<gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="recto 16 left margin 1"/>  <gap reason="illegible" precision="low" extent="3"/> ادا پعپپهإ وحاربه پڤوم مڤام رحل اپو أسحق پڤرپك السلم وپڤول اپاك پڤرط ڤى <unclear reason="undefined" cert="high">الفور</unclear> 
+<lb n="recto 17 left margin 2"/>  فأنا لو طلب مثله لي <gap reason="illegible" extent="4" unit="character" /> بدينر لم أقدر 
+<lb n="recto 18 top 1"/>  لو قدر الطّبيب أن يخرج معها لخرج ولقد قال و<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="recto 19 top 2"/>  من <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1 right"/>  لأبي علي أكرمه اللّه بالتّقوى 
+<lb n="verso 2 right"/>  الحسن بن عبد السّلم السّمسار 
+<lb n="verso 3 right"/>  <gap reason="illegible" precision="low" extent="3"/> الماسطه اكپپ علپه اسمى 
+<lb n="verso 1 left"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʿalay ka wa ʿinda ka katabtu ʾilay ka wa ʾanā fī ʿāfiyaẗ:in wa man qibal ī fī 
+ <lb n="2"/>*** ʾatā nī kitābu ka taḏkuru fī hi mā ṣirta ʾilay hi min ʿāfiyaẗ:in baʿda ʿilmi 
+ <lb n="3"/>*** ʿāfiyaẗ ʾilà ʿāfiyati ka wa ʾammā ʿillaẗu ʿulaẗu fa ʾinna hā tatakallamu ăl yawma bi ġayri mā 
+ <lb n="4"/>*** wa ăl fital wa ʾinnamā fī hā mawḍiʿu ăl ǧadīdi mina ăl ḥarāǧi fa ḍaʿ ʿalay hi 
+ <lb n="5"/>*** ʾinnamā nazīdu ḥattà tanqaṭiʿu ăr rhqu fa naʿrifu mā taṣīru ʾilay hi 
+ <lb n="6"/>*** ǧāriyaẗ nūbiyyaẗ māšiṭaẗ fa ĭštaraytu hā wa mašaṭat wa hiya ăl yawma 
+ <lb n="7"/>*** hiya ʿalà ăṣ ṣifaẗi ṣaġīraẗ:un qad razaqa nā ăl lāhu ăl ḫibraẗa ʿalay him 
+ <lb n="8"/>*** ăl ḫarāǧ **** ǧayyid fa ŭnẓur **** ** qad saʾaltu ăr raǧula 
+ <lb n="9"/>****ʾ l**** *** ǧayyid bāliġ ʾiḏā qāsa 
+ <lb n="10"/>**** ăḏ ḏamm fa ʾin kāna qmrtyn 
+ <lb n="11"/>*** qudrat hu ʾiḏā mašat 
+ <lb n="12"/>*** ăl ǧāriyaẗ ăl ḥamdu li l lāhi ăllaḏī 
+ <lb n="13"/>*** ŭnẓur mā yaqūlu 
+ <lb n="14"/>*** law qadartu la qad 
+ <lb n="15"/>*** ăl ***** ****** 
+ <lb n="16"/>*** ʾiḏā baʿaṯta hā wa ǧāriyaẗ:un taqūmu maqāma raǧul:in ʾabū ʾisḥāqa yuqriʾu ka ăs salāma wa yaqūlu ʾiyyā ka tafruṭ fī ăl qawri ʿūdi 
+ <lb n="17"/>fa ʾanā law ṭuliba miṯlu hu l ī **** bi dīnār:in lam ʾaqdir 
+ <lb n="18"/>law qadara ăṭ ṭabību ʾan yaḫruǧa maʿa hā la ḫaraǧa wa la qad qāla wa ***** 
+ <lb n="19"/>min *** 
+ <lb n="20"/>li ʾabī ʿaliyy:in ʾakrama hu ăl lāhu bi ăt taqwà 
+ <lb n="21"/>ăl ḥasani bni ʿabdi ăs salāmi ăs simsāri 
+ <lb n="22"/>*** ăl māšiṭaẗ ŭktub ʿalay hi ĭsm ī 
+ <lb n="23"/>min *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		envers toi] et les tiens. Je t&#039;écris, alors que je suis en (état de) paix et les miens sont en
+			<lb n="2"/>
+		] Ta lettre m&#039;est venue dans laquelle tu mentionnes (l&#039;état) de paix dans laquelle tu est devenu après avoir appris
+			<lb n="3"/>
+		] paix que la tienne. Quant à ʿIlla, elle parle aujourd&#039;hui sans que
+			<lb n="4"/>
+		] et les fils (?), car s&#039;y trouve le lieu où le neuf est mis à l&#039;encan (?). Mets dessus
+			<lb n="5"/>
+		] Nous augmentons, jusqu&#039;à ce que cesse .... Nous saurons alors ce qu&#039;elle deviendra
+			<lb n="6"/>
+		] une esclave nubienne coiffeuse. Je l&#039;ai achetée (?) et elle a coiffé. Elle est aujourd&#039;hui
+			<lb n="7"/>
+		] Elle est comme aspect petite. Dieu nous a attribué l&#039;expérience sur eux
+			<lb n="8"/>
+		l&#039;]encan (?) [....]. bon. Tâche [....].. J&#039;ai demandé à l&#039;homme
+			<lb n="9"/>
+		] al-[..]..[....] bon et parfait s&#039;il mesure
+			<lb n="10"/>
+		]. le blâme, s&#039;il était ...
+			<lb n="11"/>
+		] son pouvoir, si elle marche
+			<lb n="12"/>
+		] l&#039;esclave, Dieu soit loué! ce
+			<lb n="13"/>
+		] Examine ce qu&#039;il dit
+			<lb n="14"/>
+		] si je peux,
+			<lb n="15"/>
+		] al-..[.]..[....]...
+			<lb n="16"/>
+		] si tu l&#039;envoies. Une esclave tient la place d&#039;un homme. Abū Isḥāq t&#039;envoie le salut et te dit : «Gare à toi, si tu gaspilles le coton nouveau (?)
+			<lb n="17"/>
+		car moi, si on demande pour moi le même .... pour un dinar, on ne pourra 
+			<lb n="18"/>
+		Si le médecin pouvait partir avec elle, il l&#039;aurait fait. Il a dit [
+			<lb n="19"/>
+		de ...
+			<lb n="20"/>
+		À Abū ʿAlī - que Dieu l&#039;honore par la piété!
+			<lb n="21"/>
+		al-Ḥasan b. ʿAbd al-Salām le commissionnaire.
+			<lb n="22"/>
+		] la coiffeuse. Inscris-y mon nom.
+			<lb n="23"/>
+		[De la part de
+</ab></div>
+</body>
+</text>
+</TEI>

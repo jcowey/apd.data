@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1459" xml:id="Diem_Heid_II_61" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 61</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_61</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169243</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه الرّحمن الرّحيم 
+<lb n="recto 2"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أطال</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">اللّه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بقاءكم</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وأدام</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">عزّكم</rdg></app> <supplied reason="lost" cert="high">وأتمّ</supplied> <supplied reason="lost" cert="high">نـ</supplied>ـعمته عليكم وزاد في فضله <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">وإحسانه </rdg><rdg resp="APD">عندكم</rdg></app> 
+<lb n="recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وجعلني</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـل سو ومكروه فداكم وقدّمني 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">قبلكم</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="16" unit="character" /> </lem><rdg resp="APD">وصلّى</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">و</supplied>صحپه </lem><rdg resp="APD">اللّه</rdg></app> <app type="BL"><lem resp="APD">كپاپى </lem><rdg resp="APD">على</rdg></app> <app type="BL"><lem resp="APD">الپكم </lem><rdg resp="APD">محمّد</rdg></app> <app type="BL"><lem resp="APD">عن </lem><rdg resp="APD">النّبيّ</rdg></app> <app type="BL"><lem resp="APD">حال </lem><rdg resp="APD">وآله</rdg></app> 
+<lb n="recto 5"/>  <supplied reason="lost" cert="high">سلا</supplied>مة وعافية وللّه الحمد كثيرا وأعلمكم أنّي لمّا وصلت 
+<lb n="recto 6"/>  إلى مصر لقيت أبو القسـ<supplied reason="lost" cert="high">ـم</supplied> المريوطي فكتبت معه كتاب 
+<lb n="recto 7"/>  إليكم وأصعدت السّاحل بعد أيّام ولقيت أبو القسم 
+<lb n="recto 8"/>  فسألته عن الكتاب فذكر وصوله إليكم وأن أبو النّجم 
+<lb n="recto 9"/>  لقد بكر بالحضرة وكان غائب وذكر سلامةكم و<supplied reason="lost" cert="high">عافيتكم</supplied> 
+<lb n="recto 10"/>  فحمدت اللّه على ذلك وسألته المزيد لكم وكـ<unclear reason="undefined" cert="high">ـلّ</unclear> <unclear reason="undefined" cert="high">خيـ</unclear>ـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 11"/>  كتا<unclear reason="undefined" cert="high">ب</unclear> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> أنّكم ما كا<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">لكم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  فيها أبو الفتح النقيب فـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso 2"/>  تقدّمت إليه حتّى يكون عنه فإ<unclear reason="undefined" cert="high">ذ</unclear><supplied reason="lost" cert="high">ا</supplied> <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="verso 3"/>  يوم من رمضان أخلـ<unclear reason="undefined" cert="high">ـيـ</unclear>ـتها حتّى إذا جا لا 
+<lb n="verso 4"/>  يكون فيها أحد ولا يحتاج ينـ<supplied reason="lost" cert="high">ـز</supplied>ل على أحد قرأت 
+<lb n="verso 5"/>  أفضل السّلام مثل الصّدر وأ<unclear reason="undefined" cert="high">جـ</unclear>ـل وبنت قاسم 
+<lb n="verso 6"/>  وموسى وأ<unclear reason="undefined" cert="high">حـ</unclear>ـمد ا<unclear reason="undefined" cert="high">بـ</unclear>ـني و<gap reason="illegible" extent="4" unit="character" /> <unclear reason="undefined" cert="high">موڤر</unclear> وبكر نقرأ عليكم 
+<lb n="verso 7"/>  <supplied reason="lost" cert="high">السّلام</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> أ<unclear reason="undefined" cert="high">بو</unclear> الخير فوالّذي رفع السّما لا جهدت 
+<lb n="verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپرا ما <app type="BL"><lem resp="APD">حپپت </lem><rdg resp="APD">جبنت </rdg><rdg resp="APD">جنيت </rdg><rdg resp="APD">حببت</rdg></app> ولا شهدت 
+<lb n="verso 9"/>  <gap reason="illegible" precision="low" extent="3"/> بهم منّي ولا أنا منهم فرأ<supplied reason="lost" cert="high">يك</supplied> 
+<lb n="verso 10"/>  <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه لا رضي اللّه عنهم <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">حمع</rdg></app> 
+<lb n="recto upper margin 1"/>  وأعلمكم أنّي كتبي ما كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto upper margin 2"/>  <app type="BL"><lem resp="APD">ادفعها </lem><rdg resp="APD">أدفعها</rdg></app> إلى بنت قاسم فتـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso lower margin right 1"/>  لأبي النّجم أطال اللّه بقاه 
+<lb n="verso lower margin right 2"/>  وأدام عزّه 
+<lb n="verso lower margin left 1"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>*** ʾaṭāla *** ăl ø lāhu *** baqāʾa ø kum *** wa ø ʾadāma *** ʿizza ø kum wa ʾatamma niʿmata hu ʿalay kum wa zāda fī faḍli hi **** wa ʿinda ø ʾiḥsāni kum ø hi 
+ <lb n="3"/>*** wa ǧaʿala nī min kulli sūʾ:in wa makrūh:in fidāʾa kum wa qaddama nī 
+ <lb n="4"/>qibala kum **************** wa ø ṣallà ø ăl ø lāhu ø ʿalà ø muḥammad:ini ø ø ăn nabiyyi ø wa ø ʾāli ø hi wa ṣaḥbi hi kitāb ī ʾilay kum ʿan ḥāli 
+ <lb n="5"/>salāmaẗ:in wa ʿāfiyaẗ:in wa li l lāhi ăl ḥamdu kaṯīr:an wa ʾuʿlimu kum ʾan nī lammā waṣaltu 
+ <lb n="6"/>ʾilà miṣra laqītu ʾabū ăl qāsimi ăl maryūṭiyya fa katabtu maʿa hu kitāb 
+ <lb n="7"/>ʾilay kum wa ʾaṣʿadtu ăs sāḥila baʿda ʾayyām:in wa laqītu ʾabū ăl qāsimi 
+ <lb n="8"/>fa saʾaltu hu ʿani ăl kitābi fa ḏakara wuṣūla hu ʾilay kum wa ʾanna ʾabū ăn naǧmi 
+ <lb n="9"/>la qad bakara bi ăl ḥaḍraẗi wa kāna ġāʾib wa ḏakara salāmata kum wa ʿāfiyata kum 
+ <lb n="10"/>fa ḥamidtu ăl lāha ʿalà ḏālika wa saʾaltu hu ăl mazīda la kum wa kulla ḫayr:in *** 
+ <lb n="11"/>kitāb ** ** ***** ʾanna kum mā kāna la kum *** 
+ <lb n="12"/>fī hā ʾabū ăl fatḥi ăl naqību fa *** ***** 
+ <lb n="13"/>taqaddamtu ʾilay hi ḥattà yakūna ʿan hu fa ʾiḏā ****** 
+ <lb n="14"/>yawm min ramaḍāna ʾaḫlaytu hā ḥattà ʾiḏā ǧāʾa lā 
+ <lb n="15"/>yakūnu fī hā ʾaḥad:un wa lā yaḥtāǧu yanzilu ʿalà ʾaḥad:in qaraʾtu 
+ <lb n="16"/>ʾafḍala ăs salāmi miṯla ăṣ ṣadri wa ʾaǧalla wa bintu qāsim:in 
+ <lb n="17"/>wa mūsà wa ʾaḥmadu ĭbn ī wa **** mwFr wa bakr:un naqraʾu ʿalay kumu 
+ <lb n="18"/>ăs salāma *** **** ʾabū ăl ḫayri fa wa ăllaḏī rafaʿa ăs samāʾa lā ǧahadtu 
+ <lb n="19"/>*** ***Brʾ mā ḥababtu ḥaBaBtu ǧabuntu ǧanaytu wa lā šahidtu 
+ <lb n="20"/>*** bi him min nī wa lā ʾanā min hum fa raʾyu ka 
+ <lb n="21"/>fī *** ***h lā raḍiya ăl lāhu ʿan hum *** ḥmʿ 
+ <lb n="22"/>wa ʾuʿlimu kum ʾan nī kutub ī mā k*** *** 
+ <lb n="23"/>ʾadfaʿu ĭdfaʿ hā ʾilà binti qāsim:in fa t*** *** 
+ <lb n="24"/>li ʾabī ăn naǧmi ʾaṭāla ăl lāhu baqāʾa hu 
+ <lb n="25"/>wa ʾadāma ʿizza hu 
+ <lb n="26"/>min *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Got]tes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		[Gott ..., er vollende] seine Gnade an Euch, erweise Euch noch mehr seine Gunst - - -
+			<lb n="3"/>
+		[... mache mich] zu Eurem Lösegeld, das Euch von allem Bösen und Unangenehmen errettet, und gebe mir den Vorrang
+			<lb n="4"/>
+		[bei Euch! Gott segne den Propheten Muḥammad, seine Familie und] seine Gefährten! Ich schreibe an Euch im Zustand
+			<lb n="5"/>
+		[der Wohl]behaltenheit und der Gesundheit; Gott sei vielmals Lob! Ich teile Euch mit, daß ich, als ich
+			<lb n="6"/>
+		in Kairo ankam, Abū l-Qāsim al-Maryūṭī traf, so daß ich durch ihn einen Brief
+			<lb n="7"/>
+		an Euch schreiben konnte. Nach einigen Tagen ging ich das Ufer hinauf und traf (wieder) Abū l-Qāsim.
+			<lb n="8"/>
+		Als ich ihn nach dem Brief fragte, gab er an, dieser sei bei Euch angekommen, ferner, daß Abū n-Naǧm
+			<lb n="9"/>
+		am Morgen (bei Euch) eingetroffen war, nachdem er abwesend gewesen war. Außerdem gab er an, daß Ihr wohlbehalten und bei Gesundheit seiet.
+			<lb n="10"/>
+		Da lobte ich Gott hierfür und bat ihn um noch mehr (Gnade) für Euch und um (?) alles (?) Gu[te (?)
+			<lb n="11"/>
+		Brief - - -, daß Ihr nicht [hattet
+			<lb n="12"/>
+		in ihr (oder: sie betreffend) Abū l-Fatḥ, den Vorsteher, da [
+			<lb n="13"/>
+		ich trat an ihn heran, so daß es (oder: sie) in seinem Namen (?) sei [
+			<lb n="14"/>
+		an einem Tag (des Monats) Ramaḍān machte ich sie frei, damit, wenn er käme, nie-
+			<lb n="15"/>
+		mand darin sei und er bei niemandem Wohnung zu nehmen brauche. Ich sende
+			<lb n="16"/>
+		die besten Grüße wie am Briefanfang und noch prächtigere. Bint Qāsim,
+			<lb n="17"/>
+		Mūsā, Aḥmad (?), meine Söhne (oder: mein Sohn), - - - und Bakr - ich sende Euch
+			<lb n="18"/>
+		[Grüße] - - - Abū l-Ḫayr (?),denn bei dem, welcher den Himmel errichtet hat, ich habe mich ernsthaft bemüht
+			<lb n="19"/>
+		[...] - - - weder habe ich  - - - noch habe ich bezeugt
+			<lb n="20"/>
+		[...] sie (Mask. Plur.) von mir, und ich gehöre nicht zu ihnen. Bilde Dir also Deine Mein[ung (?)
+			<lb n="21"/>
+		[über ...] - Gott habe an ihnen nicht Wohlgefallen - - -
+			<lb n="22"/>
+		Und ich teile Euch mit, daß meine Briefe nicht [
+			<lb n="23"/>
+		Übergib sie (oder: ich übergebe sie) Bint Qāsim, so daß sie [
+			<lb n="24"/>
+		An Abū n-Naǧm - Gott lasse ihn lange leben
+			<lb n="25"/>
+		und lasse sein Ansehen andauern -
+			<lb n="26"/>
+		[von
+</ab></div>
+</body>
+</text>
+</TEI>

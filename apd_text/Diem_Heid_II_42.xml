@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1427" xml:id="Diem_Heid_II_42" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 42</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_42</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169215</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أطال اللّه بقاك وأحسن جزا<supplied reason="lost" cert="high">ك</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  إن صاحب كتابي إليك أبـ<unclear reason="undefined" cert="high">ـقـ</unclear><supplied reason="lost" cert="high">ـاك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وإنّه مر بنا البارحة ومعه <app type="BL"><lem resp="APD">حر<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">جزية </rdg><rdg resp="APD">خراجه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">رأسه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وإنّه</rdg></app> 
+<lb n="5"/>  صانع ضعيف فزعم أبو الور<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  عنه وزعم أنّه يعرفه وأن سوانـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  <gap reason="illegible" extent="1" unit="character" />ا <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـراح </lem><rdg resp="APD">الخراج </rdg><rdg resp="APD">استراح </rdg><rdg resp="APD">فراح</rdg></app> حتّا تسل عن أمره و<gap reason="illegible" extent="2" unit="character" />ل <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="8"/>  <supplied reason="lost" cert="high">إ</supplied>ليك فرأيك أبقاك اللّه فيه وفـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <unclear reason="undefined" cert="high">و</unclear>هوّنت ما كتب به إليك فلا بحپـ<unclear reason="undefined" cert="high">ـه</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  أبقاك اللّه ومد في عمرك و<gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaḥsana ǧazāʾa ka wa *** 
+ <lb n="3"/>ʾinna ṣāḥiba kitāb ī ʾilay ka ʾabqā ka ăl lāhu *** 
+ <lb n="4"/>wa ʾinna hu marra bi nā ăl bāriḥaẗa wa maʿa hu ḥr*** ǧizyaẗu ḫarāǧu ø hu *** raʾsi ø hi *** wa ø ʾinna ø hu 
+ <lb n="5"/>ṣāniʿ ṣāniʿ:un ḍaʿīf ḍaʿīf:un fa zaʿama ʾabū ăl wr*** *** 
+ <lb n="6"/>ʿan hu wa zaʿama ʾanna hu yaʿrifu hu wa ʾanna siwā nā *** 
+ <lb n="7"/>*ʾ **rʾḥ ăl fa ø ḫarāǧ ĭstarāḥa rāḥa ḥattā tasala ʿan ʾamri hi wa **l **** 
+ <lb n="8"/>ʾilay ka fa raʾyu ka ʾabqā ka ăl lāhu fī hi wa f*** *** 
+ <lb n="9"/>wa hawwanta mā kataba bi hi ʾilay ka fa lā bḥBh *** 
+ <lb n="10"/>ʾabqā ka ăl lāhu wa madda fī ʿumri ka wa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben, gebe Dir eine gute Belohnung [und
+			<lb n="3"/>
+		Der Überbringer meines an Dich gerichteten Briefes - Gott erhalte Dich - [ist/hat
+			<lb n="4"/>
+		und er kam gestern bei uns vorbei; bei sich hatte er [
+			<lb n="5"/>
+		ein elender Handwerker. Da gab Abū l-Wr[...] an [
+			<lb n="6"/>
+		von ihm, und er gab an, daß er ihn kenne und daß andere Leute als wi[r
+			<lb n="7"/>
+		- - - damit Du Dich über seine Angelegenheit erkundigst und - - - [
+			<lb n="8"/>
+		an Dich. Bilde Dir also - Gott erhalte Dich - Deine Meinung über ihn und [
+			<lb n="9"/>
+		und Du das, was er an Dich geschrieben hat, geringschätzt, dann - - - nicht [
+			<lb n="10"/>
+		Gott erhalte Dich und verlängere Deine Lebenszeit und [
+</ab></div>
+</body>
+</text>
+</TEI>

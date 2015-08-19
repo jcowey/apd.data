@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1600" xml:id="Diem_Berl_II_78" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 78</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_78</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169356</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم أدام اللّه عزّك وأكرمك وأتم نعمته لك ولي فيك 
+ <lb n="2"/>  كنت وأبو يعقوب أعزّكما اللّه سألتماني أن نجتمع غدا وقد تأخّر ركوبي 
+ <lb n="3"/>  اليوم إلى القبط لتأخّر النّدى وخفت أن أحتاج إلى الرّكوب في غد 
+ <lb n="4"/>  فإن أحببت أن تجعل ما كنتما سألتما في هذا اليوم وتتغنّما 
+ <lb n="5"/>  فراغنا فعلت فإنّي مقيم لك في المنزل وقدّمت ذلك لأوّل 
+ <lb n="6"/>  النّهار إن شا اللّه <unclear reason="undefined" cert="high">حسب</unclear> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">شئـ</supplied><unclear reason="undefined" cert="high">ـتمـ</unclear><supplied reason="lost" cert="high">ـا</supplied> قدّر اللّه الخيار إن شا اللّه 
+ <lb n="7"/>  أعزّك اللّه ومد في عمـ<supplied reason="lost" cert="high">ـر</supplied>ك وأ<supplied reason="lost" cert="high">تمّ</supplied> نعـ<supplied reason="lost" cert="high">ـمتـ</supplied>ـه لك 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾadāma ăl lāhu ʿizza ka wa ʾakrama ka wa ʾatamma niʿmata hu la ka wa l ī fī ka 
+ <lb n="2"/>kunta wa ʾabū yaʿqūba ʾaʿazza kumā ăl lāhu saʾaltumā nī ʾan naǧtamiʿa ġad:an wa qad taʾaḫḫara rukūb ī 
+ <lb n="3"/>ăl yawma ʾilà ăl qibṭi li taʾaḫḫuri ăn nidà wa ḫiftu ʾan ʾaḥtāǧa ʾilà ăr rukūbi fī ġad:in 
+ <lb n="4"/>fa ʾin ʾaḥbabta ʾan taǧʿala mā kuntumā saʾaltumā fī hāḏā ăl yawmi wa tataġannamā 
+ <lb n="5"/>firāġa nā faʿalta fa ʾin nī muqīm:un la ka fī ăl manzili wa qaddamtu ḏālika li ʾawwali 
+ <lb n="6"/>ăn nahāri ʾin šāʾa ăl lāhu ḥasaba mā šiʾtumā qaddara ăl lāhu ăl ḫiyāra ʾin šāʾa ăl lāhu 
+ <lb n="7"/>ʾaʿazza ka ăl lāhu wa madda fī ʿumri ka wa ʾatamma niʿmata hu la ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Gnädigen! Gott lasse Dein Ansehen andauern, ehre Dich und gewähre seine Gnade Dir und mir in Deiner Person in vollem Maße!
+		 <lb n="2"/>
+ 	  Du und Abū Yaʿqūb - Gott stärke Euch - hattet mich um ein Treffen am morgigen Tag gebeten. Nun hat sich aber mein
+		 <lb n="3"/>
+ 	  für heute geplanter Ritt zu den Kopten verschoben, weil sich die Ausrufung verschoben hat, und ich fürchte, daß ich morgen (zu ihnen hin)reiten muß.
+		 <lb n="4"/>
+ 	  Vielleicht beliebst Du deshalb, daß Du das (Treffen), um das Ihr (mich) gebeten hattet, auf den heutigen Tage  verlegst und ihr die Gelegenheit,
+		 <lb n="5"/>
+ 	  daß ich (heute) Zeit habe, nutzt, denn ich stehe Dir (jetzt) zu Hause zur Verfügung und habe dies(es Treffen) ganz an den Anfang
+		 <lb n="6"/>
+ 	  des Tages gestellt, so Gott will - ganz so (?), wie Ihr wollt (?) - möge Gott das Beste bestimmen, so Gott will!
+		 <lb n="7"/>
+ 	  Gott stärke Dich, schenke Dir langes Leben und ge[währe] Dir [seine Gnade in vollem Maße]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

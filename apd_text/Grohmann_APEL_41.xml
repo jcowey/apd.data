@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1012" xml:id="Grohmann_APEL_41" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 041</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_41</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168906</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ا[لرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">هذا</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">أصد</supplied>ق يعقوب بن <supplied reason="lost" cert="high">إسـ</supplied>ـحق بن <supplied reason="lost" cert="high">يـ</supplied>ـحيى النّسّاج السّاكن مدينة أشمون هنيدة ابنت <supplied reason="lost" cert="high">إسحـ</supplied>ـق بن سري 
+<lb n="3"/>  <supplied reason="lost" cert="high">عندـمـ</supplied>ـا خطبها إلى نفسها وهي يومئذ امرأة أيّم بكـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">با</supplied>لغ بعد أن فوّضت أمرها إلى <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  <supplied reason="lost" cert="high">وتوكيـ</supplied>ـلها إيّاه في إنكاحها مـ<supplied reason="lost" cert="high">ـن</supplied> يعقوب بن إسحق بن يحيى <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پالـ</supplied>ـصداق </lem><rdg resp="“Dietrich”">النّسّاج</rdg></app> العاحل والاحل <sic n="superfluous">پها</sic><supplied reason="omitted" cert="high">لها</supplied> <supplied reason="lost" cert="high">علپه</supplied> 
+<lb n="5"/>  <supplied reason="lost" cert="high">عجّل</supplied> <supplied reason="lost" cert="high">لـ</supplied>ـها من ذلك قبل <sic n="superfluous">صإيه</sic><supplied reason="omitted" cert="high">اصابته</supplied> بها ودخوله عليها دينرين نقدا حالّا معجّلا <gap reason="illegible" extent="5" unit="character" /> هنيدة ابنت إسحـ<supplied reason="lost" cert="high">ـق</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سريّ</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">أ</supplied>ن خلين خمسة سنين متواليات أوّلهن جمادى الآخرة من سنة تسع وسبعين وما<supplied reason="lost" cert="high">ئتين</supplied> 
+<lb n="7"/>  <supplied reason="lost" cert="high">وشرط</supplied> <supplied reason="lost" cert="high">إسحـ</supplied>ـق بن سري شروطا أوجبها على نفسه بعد أن عقد عقدة نكاحها <unclear reason="undefined" cert="high">وهـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <supplied reason="lost" cert="high">أو</supplied> <unclear reason="undefined" cert="high">ذمّيّة</unclear> فأمرها <unclear reason="undefined" cert="high">بيد</unclear> امرأته هنيدة ابنت إسحق تطلّقها عليه ما شات من <supplied reason="lost" cert="high">الطّلاق</supplied> 
+<lb n="9"/>  <supplied reason="lost" cert="high">جائز</supplied> عليه ولازم له وكل جارية يتّخذها عليها <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">يـ</supplied><unclear reason="undefined" cert="high">ـكون</unclear> <unclear reason="undefined" cert="high">بيعها</unclear> بيد امرأته هـ<supplied reason="lost" cert="high">ـنيدة</supplied> <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شاپ</supplied> <supplied reason="lost" cert="high">عتقت</supplied> 
+<lb n="10"/>  <supplied reason="lost" cert="high">وإن</supplied> <supplied reason="lost" cert="high">شاپ</supplied> <supplied reason="lost" cert="high">بيـ</supplied>ـعت فعتقها وبيعها جائز عليه ولازم له ولا يمنعها من أهلها ولا يمنع أهلها <supplied reason="lost" cert="high">منها</supplied> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إسحـ</supplied>ـق بن سري بأمرها ورضائها بعد أن أشهدت له شهودا بتوكيلها إيّاه <supplied reason="lost" cert="high">وعليه</supplied> 
+<lb n="12"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">يـ</supplied>ـتّق اللّه وحده لا شريك له ويحسن صحبتها وعشرتها ولا يضار بها ويفعل ما أمره الـ<supplied reason="lost" cert="high">ـلّه</supplied> 
+<lb n="13"/>  <supplied reason="lost" cert="high">وسنّة</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـحمّد صلّى اللّه عليه وسلّم على ما أمر اللّه به من الإمساك بالمعروف أو التّسريح بإحسـ<supplied reason="lost" cert="high">ـان</supplied> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> إسحق بن سري بإنفاذه هذا النّكاح على ما ذكر و</supplied>فسّر <gap reason="illegible" extent="10" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بعد</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">قرئ</supplied> 
+<lb n="15"/>  <supplied reason="lost" cert="high">عليهم</supplied> حرفا حرفا <app type="BL"><lem resp="APD">عرفوا </lem><rdg resp="“Dietrich”">وعرفوا</rdg></app> ما فيه فأقرّوا بفهمه <supplied reason="lost" cert="high">ومعر</supplied>فة ما فيه من تعرّفهم بأ<supplied reason="lost" cert="high">سمائهم</supplied> <supplied reason="lost" cert="high">وأنسابهم</supplied> 
+<lb n="16"/>  <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في</supplied> العشر الأواخر من جمادى الآخرة من سنة تسع وسبعين ومائتن شهـ<supplied reason="lost" cert="high">ـد</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> 
+<lb n="17"/>  ‮ـ<supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">إسـ</supplied>ـحق بن سري وعلى إقرار يعقوب بن إسحق بن يحيى بجميع ما في هذا الكتاب النّكاح <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">جمادى</supplied> <supplied reason="lost" cert="high">الآخر</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">‪σοθ‬</supplied>ـ‬ 
+<lb n="18"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> على إقرار هنيدة ابنت إسحق بن سري وعلى إقرا<supplied reason="lost" cert="high">ر</supplied> ا<gap reason="illegible" extent="5" unit="character" /> 
+<lb n="19"/>  <gap reason="illegible" precision="low" extent="3"/> بجميع ما في هذا الكتاب وذلك في جمادى الآخر من سنة تسع وسبعين ومائتن شهد <gap reason="illegible" precision="low" extent="3"/> بن <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high"> على إقرار يعقوب</supplied> 
+<lb n="20"/>  <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">إسحق</supplied> <supplied reason="lost" cert="high">النّسّا</supplied>ج وعلى إقرار إسحق بن سري الطّرّاف الأب <supplied reason="lost" cert="high">وذلك</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">جمادى</supplied> <supplied reason="lost" cert="high">الآخر</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">تسع</supplied> <supplied reason="lost" cert="high">وسبعين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> 
+<lb n="21"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" extent="11" unit="character" /> بن العبّاس على إقرار إ<supplied reason="lost" cert="high">سحق</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سريّ</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">إقرار</supplied> <supplied reason="lost" cert="high">يعقوب</supplied> <supplied reason="lost" cert="high">بن</supplied> 
+<lb n="22"/>  <supplied reason="lost" cert="high">إسحق</supplied> <supplied reason="lost" cert="high">و</supplied><unclear reason="undefined" cert="high">كتب</unclear> <unclear reason="undefined" cert="high">شهادته</unclear> <unclear reason="undefined" cert="high">في</unclear> جمادى الآخر من سنة <supplied reason="lost" cert="high">تسع</supplied> <supplied reason="lost" cert="high">وسبعين</supplied> <supplied reason="lost" cert="high">ومائتن</supplied> 
+<lb n="23"/>  <gap reason="illegible" extent="10" unit="character" /> على إقرار إسحق <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سريّ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa yaʿqūbu bnu ʾisḥāqa bni yaḥyà ăn nassāǧu ăs sākinu madīnaẗa ʾušmūna hunaydaẗa ĭbnata ʾisḥāqa bni sariyya 
+ <lb n="3"/>ʿinda mā ḫaṭaba hā ʾilà nafsi hā wa hiya yawma ʾiḏ:ini ĭmraʾaẗ:un ʾayyim:un bikr:un bāliġ:un baʿda ʾan fawwaḍat ʾamra hā ʾilà *** *** 
+ <lb n="4"/>tawkīla wa hā ʾiyyā hu fī ʾinkāḥi hā min yaʿqūba bni ʾisḥāqa bni yaḥyà ø ăn ø nassāǧi bi ăṣ ṣadāqi ăl ʿāǧili wa ăl ʾāǧili la hā ʿalay hi 
+ <lb n="5"/>ʿaǧǧala la hā min ḏālika qabla ʾiṣābati hi bi hā wa duḫūli hi ʿalay hā dīnārayni naqd:an ḥāll:an muʿaǧǧal:an ***** hunaydaẗ ĭbnat ʾisḥāqa bni sariyya 
+ <lb n="6"/>baʿda ʾan ḫalayna ḫamsaẗu sinīna mutawāliyāt:un ʾawwalu hunna ǧumādà ăl ʾāḫiraẗu min sanaẗi tisʿ:in wa sabʿīna miʾatayni wa 
+ <lb n="7"/>wa šaraṭa ʾisḥāqu bnu sariyya šurūṭ:an ʾawǧaba hā ʿalà nafsi hi baʿda ʾan ʿaqada ʿuqdaẗa nikāḥi hā wa *** 
+ <lb n="8"/>ʾaw ḏimmiyyaẗ fa ʾamru hā bi yadi ĭmraʾati hi hunaydaẗa ĭbnati ʾisḥāqa tuṭalliqu hā ʿalay hi mā šāʾat mina ăṭ ṭalāqi 
+ <lb n="9"/>ǧāʾiz:un ʿalay hi wa lāzim:un la hu wa kullu ǧāriyaẗ:in yattaḫiḏu hā ʿalay hā *** yakūnu bayʿu hā bi yadi ĭmraʾati hi hunaydaẗa ʾin šāʾat ʿataqat 
+ <lb n="10"/>wa ʾin šāʾat bīʿat fa ʿitqu hā wa bayʿu hā ǧāʾiz:un ʿalay hi wa lāzim:un la hu wa lā yamnaʿa hā min ʾahli hā wa lā yamnaʿa ʾahla hā min hā 
+ <lb n="11"/>*** ʾisḥāqu bnu sariyya bi ʾamri hā wa riḍāʾi hā baʿda ʾan ʾašhadat la hu šuhūd:an bi tawkīli hā ʾiyyā hu wa ʿalay hi 
+ <lb n="12"/>ʾan yattaqi ăl lāha waḥda hu lā šarīka la hu wa yuḥsina ṣuḥbata hā wa ʿišrata hā wa lā yuḍārra bi hā wa yafʿala mā ʾamara hu ăl lāhu 
+ <lb n="13"/>wa sunnaẗu muḥammad:in ṣallà ăl lāhu ʿalay hi wa sallama ʿalà mā ʾamara ăl lāhu bi hi mina ăl ʾimsāki bi ăl maʿrūfi ʾawi ăt tasrīḥi bi ʾiḥsān:in 
+ <lb n="14"/>*** ʾisḥāq bn sariyya bi ʾinfāḏi hi hāḏā ăn nikāḥa ʿalà mā ḏukira wa fussira ********** *** baʿda ʾan quriʾa 
+ <lb n="15"/>ʿalay him ḥarf:an ḥarf:an ø wa ʿarafū mā fī hi fa ʾaqarrū bi fahmi hi wa maʿrifaẗi mā fī hi min taʿarrufi him bi ʾasmāʾi him wa ʾansābi him 
+ <lb n="16"/>wa ḏālika fī ăl ʿašri ăl ʾawāḫiri min ǧumādà ăl ʾāḫiraẗi min sanaẗi tisʿ:in wa sabʿīna wa miʾatayni šahida *** bnu *** ʿalà 
+ <lb n="17"/>ʾiqrāri ʾisḥāqa bni sariyya wa ʿalà ʾiqrāri yaʿqūba bni ʾisḥāqa bni yaḥyà bi ǧamīʿi mā fī hāḏā ăl kitābi ăn nikāḥi wa ḏālika fī ǧumādà ăl ʾāḫiri sanaẗa 279 
+ <lb n="18"/>*** *** ʿalà ʾiqrāri hunaydaẗa ĭbnati ʾisḥāqa bni sariyya wa ʿalà ʾiqrāri ʾ***** 
+ <lb n="19"/>*** bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī ǧumādà ăl ʾāḫiri min sanaẗi tisʿ:in wa sabʿīna wa miʾatayni šahida *** bnu *** ʿalà ʾiqrāri yaʿqūba 
+ <lb n="20"/>bni ʾisḥāqa ăn nassāǧi wa ʿalà ʾiqrāri ʾisḥāqa bni sariyya ăṭ ṭarrāfi ăl ʾabi wa ḏālika fī ǧumādà ăl ʾāḫiri min sanaẗi tisʿ:in wa sabʿīna wa miʾatayni 
+ <lb n="21"/>šahida *********** bni ăl ʿabbāsi ʿalà ʾiqrāri ʾisḥāqa bni sariyya *** wa ʿalà ʾiqrāri yaʿqūba bni 
+ <lb n="22"/>ʾisḥāqa wa kataba šahādata hu fī ǧumādà ăl ʾāḫiri min sanaẗi tisʿ:in wa sabʿīna miʾatayni wa 
+ <lb n="23"/>********** ʿalà ʾiqrāri ʾisḥāqa bni sariyya *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen, des Gütigen!]
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[Dies ist, was] Yaʿqūb b. Is[ḥāq] b. [Ya]ḥyā, der Weber, wohnhaft in der Stadt Ašmūn, [bestimmt h]at als Brautgabe für Hunaida, Tochter des [Isḥ]āq b. [Sarī],
+		[This is what] Yaʿqûb b. Is[ḥâq] b. [Ya]ḥyâ, the weaver, residing in the town of Ašmûn, [has stipula]ted as a nuptial gift to Hunaida, daughter of [Isḥ]âq b. [Sarî],
+			<lb n="3"/>
+		[after that] he had asked her personally for her hand in marriage, she being at that time an unmarried woman, an [adult] virgin, (and) after that she had transferred her affair to ...[...]
+		[nachdem] er sie persönlich um ihre Hand zur Heirat gebeten hatte, sie war zu dieser Zeit eine unverheiratete Frau eine [erwachsene] Jungfrau, (und) nachdem sie ihre Angelegenheit an ... [ ] übertragen hatte
+			<lb n="4"/>
+		[and had entrust]ed him to act for her in respect to her being married by Yaʿqûb b. Isḥâq b. Yaḥyâ [for the nupti]al gift, (part) paid cash down and (part) held over to her credit [(and) his debit].
+		[und ihn beauftragt hat]te, für sie zu handeln in der Anerkennung, dass sie von Yaʿqūb b. Isḥāq b. Yaḥyā geheiratet wird [für die Brau]tgabe, (teils) in Sofortzahlung gezahlt und (teils) zurückgehalten zu ihren Gunsten [(und) seinen Lasten].
+			<lb n="5"/>
+		[Er bezahlte ihr die Sofortzahlung] von diesem, bevor er die Ehe mit ihr vollzog und ihr beiwohnte, zwei Dīnār als unverzügliche Zahlung, Sofortzahlung ....... Hunaida, Tochter des [Isḥ[āq b. Sarī],
+		[He has paid to her cash down] of this, before obtaining his enjoyment of her and going into her, two dînârs immediate payment, cash down ...... Hunaida, daughter of Isḥ[âq b. Sarî]
+			<lb n="6"/>
+		[after the] expiration of five successive years, reckoning from the Ǧumâdâ II of the year [two]hundred and seventy nine.
+		[nach dem] Ablauf der fünf folgenden Jahre, beginnend mit dem Ǧumādā II des Jahres [zwei]hundertneunundsiebzig.
+			<lb n="7"/>
+		[And Isḥâ]q b. Sarî [laid down] conditions by which he bound himself, after having concluded the contract of marriage with her [...]
+		[Und Isḥā]q b. Sarī [legte fest] Bedingungen, durch die er selbst gebunden war, nachdem er abgeschlossen hatte den Ehevertrag mit ihr [ ]
+			<lb n="8"/>
+		[oder eine] ḏimmiya dann (mögen sein] ihre  Angelegenheiten in den Händen seiner Ehegattin Hunaida, Tochter des Isḥāq, die sie entlassen möge auf seine Kosten wie auch immer sie mag (welches)
+		[or a] ḏimmîya then her affair(s) (shall be) in the hand(s) of his wife Hunaida, daughter of Isḥâq, who may dismiss her at his expense in whatever way she will (which is)
+			<lb n="9"/>
+		[legal for] and binding upon him, and every slave-girl whom he may take besides her ... the selling of her shall be in the hand(s) of his wife Hu[naida, if she will, she may free her,]
+		[rechtmässig] und für ihn bindend ist, und jedes Sklavenmädchen, dass er neben ihr nimmt ... der Verkauf dieser möge sein in den Händen seiner Ehegattin Hu[naida, wenn sie will, möge sie sie entlassen,]
+			<lb n="10"/>
+		[and if she will, she may s]ell her, but her enfranchiment is legal for and binding upon him, and that he will not withhold her from her relatives, nor her relatives [from her].
+		[und wenn sie will, möge sie sie ver]kaufen, aber ihre Freilassung ist rechtmässig und für ihn bindend, und dass er sie nicht von ihren Verwandten fernhalte und ihre Verwandten [von ihr].
+			<lb n="11"/>
+		[... Isḥ]âq b. Sarî by her demand and with her consent, after having called witnesses for him with respect to her having entrusted him. And [he is obliged]
+		[ Isḥ]āq b. Sarī durch ihren Auftrag und mit ihrer Zustimmung, nachdem sie Zeugnis für ihn eingeholt hatte zur Anerkennung, dass sie ihn an ihrer Statt beauftragt hatte. Und [es obliegt ihm]
+			<lb n="12"/>
+		[to] fear God alone - He has no associate - and to make his relationship to and life with her pleasing, and to do her no harm, and to do what [Go]d
+		[ zu] fürchten alleine Gott – Er hat keinen Beigesellten – und seine Beziehung und sein Leben mit seiner Gattin schön zu gestalten, und ihr nichts anzutun und zu tun, was [Got]t
+			<lb n="13"/>
+		[and the rule of Mu]ḥammad - may the blessing of God be upon him and may He give him peace - has ordained, according to the ordinance of God as to keeping her in amenity or dismissing her in [kindness]
+		[und die Regeln Mu]ḥammads – Gott segne ihn und schenke ihm Heil – anordnete, entsprechend der Anordnung Gottes, sie in Liebenswürdigkeit zu behalten oder sie zu entlassen in [Freundlichkeit]
+			<lb n="14"/>
+		[...] Isḥâq b. Sarî by declaring this marriage valid according to that which is m[entioned and] explained ......[...... after it has been read]
+		[ ] Isḥāq b. Sarī indem er diese Ehe als gültig erklärte bezogen auf das, was er[wähnt und] und erläuter ist ...... [.... nachdem es vorgelesen wurde]
+			<lb n="15"/>
+		[ihnen] Wort für Wort (und) sie haben es verstanden, was darin (ist). So haben sie bestätigt, dass sie es begriffen haben und verstanden haben, was darin (ist), sie sind bekannt [durch Namen und Verwandtschaft,]
+		[to them] word by word (and) they have understood what (is contained) therein. So they have acknowledged that they have comprehended it and understood what (is contained) therein, they being acquainted with [their names and their relationship,]
+			<lb n="16"/>
+		[and this in] the last decade of Ǧumâdâ II of the year two hundred and seventy nine. [So and So, son of So and So, is ]witn[ess to]
+		[und dies in] der letzten Dekade des Ǧumādā II des Jahres zweihundertneununsiebzig. [Soundso, Sohn des Soundso, ist] Zeu[ge] für
+			<lb n="17"/>
+		[die Anerkennung durch Is]ḥāq b. Sarī und für die Anerkennung durch Yaʿqūb b. Isḥāq b. Yaḥyā betreffend all das, was in diesem Ehevertrag (ist), [und die im Ġumādā II des Jahres 279].
+		[the acknowledgment by Is]ḥâq b. Sarî and to the acknowledgment by Yaʿqûb b. Isḥâq b. Yaḥyâ, respecting all that (is contained) in this marriage contract, [and this in Ǧumâdâ II of the year 279].
+			<lb n="18"/>
+		[ ]... für die Anerkennung durch Hunaida, Tochter des Isḥāq b. Sarī, und für die Anerke[nnung] durch
+		[...] ... to the acknowledgment by Hunaida, daughter of Isḥâq b. Sarî, and to the acknowledg[ment] by
+			<lb n="19"/>
+		[ ] betreffend all das, was in diesem Dokument (ist), und dies im Ǧumādā II [des Jahres zweihundertneunundsiebzig. Soundso, Sohn des Soundso, ist Zeuge für die Anerkennung durch [Yaʿqūb]
+		[...] respecting all that (is contained) in this document, and this in Ǧumâdâ II [of the year two hundred and seventy nine. So and So, son of So and So, is witness to the acknowledgment by Yaʿqûb]
+			<lb n="20"/>
+		[b. Isḥāq, der Web]er, und für die Anerkennung durch Isḥāq b. Sarī, der Zeltmacher, der (Braut)Vater, [und dies im Ǧumādā II des Jahres zweihundertneunundsiebzig].
+		[b. Isḥâq, the wea]ver, and to the acknowledgment by Isḥâq b. Sarî, the tentmaker, the (bride&#039;s) father, [and this in Ǧumâdâ II of the year two hundred and seventy nine].
+			<lb n="21"/>
+		[ ]......... b. al-ʿAbbās [ist Zeuge] für die Anerkennung durch I[sḥāq b. ..... und für die Anerkennung durch Yaʿqūb b.]
+		[...] ............... b. al-ʿAbbâs [is witness] to the acknowledgment by I[sḥâq b. Sarî ... and to the acknowledgment by Yaʿqûb b.]
+			<lb n="22"/>
+		[Isḥâq and] he has written his testimony in Ǧumâdâ II of the year [two hundred and seventy nine .............................................].
+		[Isḥāq und] er schrieb sein Zeugnis im Ǧumādā II des Jahres [zweihundertneunundsiebzig ............
+			<lb n="23"/>
+		[   ]....... für die Anerkennung durch Isḥāq [b. Sarī .........................]
+		[...] ......... to the acknowledgment by Isḥâq [b. Sarî ....................................................................].
+</ab></div>
+</body>
+</text>
+</TEI>

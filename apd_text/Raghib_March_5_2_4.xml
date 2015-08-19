@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="745" xml:id="Raghib_March_5_2_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands V/1 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_5_2_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106824</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">حـ</supplied>ـڤطك اللـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">و</supplied>اپڤاك ڤد كپـ<supplied reason="lost" cert="high">ـپـ</supplied>ـپ الپك كپپ كتبره ان پپعپ الى پپڤپه 
+<lb n="3"/>  <supplied reason="lost" cert="high">المپاع</supplied> <gap reason="illegible" precision="low" extent="3"/> لـ<supplied reason="lost" cert="high">ـم</supplied> پاپپى ميك <gap reason="illegible" extent="5" unit="character" /> ولا حواپ الا كپإپ واحد ڤاعمل 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـا علپه حا<gap reason="illegible" extent="4" unit="character" /> وما پعمل من سى پشيحدم 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">اسـ</supplied>ـپرپپ په لى ورحع الى إلڤسطاط وكل ما 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پـ</supplied>ـپڤپه المباع پحعل دلك علپك ولم پپلف 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> پپعپ تسى بعپپ ڤلا حللك الله من 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مپا</supplied>دپل لا اڤدر على پپعها سالبك ان 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> اپى لإرحوا ان لأ اپرك أحدا لأ 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ورڤع</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ا</supplied>ن </lem><rdg resp="APD">وأعلا</rdg></app> سإ الله دكرك ڤى المواطن ان ڤصى 
+<lb n="11"/>  <gap reason="illegible" extent="5" unit="character" /> وارحوا ان پصپع الله وپڤرح 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">حول</supplied> ولا ڤوه الا پإلّله العطبم 
+<lb n="top 1"/>  لأبي يعقوب إسحاق بن إبرهيم من أبي <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إبرهيم</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن <supplied reason="lost" cert="high">ا</supplied>لحكم يدفع بمدينة 
+<lb n="top 2"/>  الفيّوم في البزّازين عند <supplied reason="lost" cert="high">مسجد</supplied> <supplied reason="lost" cert="high">الجا</supplied>مع لأبي يعقوب السّمسار 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka qad katabtu ʾilay ka kutub kaṯīraẗ:an ʾan tabʿaṯa ʾilay ya bi baqiyyaẗi 
+ <lb n="3"/>ăl matāʿi *** lam yaʾti nī min ka ***** wa lā ǧawāb:un ʾillā kitāb:un wāḥid:un fa ĭʿmal 
+ <lb n="4"/>*** ***ʾ ʿalay hi ḥʾ**** wa mā yuʿmalu min šayʾ:in yustaḫdamu 
+ <lb n="5"/>*** ĭštarayta bi hi l ī wa raǧaʿa ʾilà ăl fusṭāṭi wa kullu mā 
+ <lb n="6"/>*** bi baqiyyaẗi ăl matāʿi yuǧʿalu ḏālika ʿalay ka wa lam yatlaf 
+ <lb n="7"/>*** tabʿaṯ bi šayʾ:in bi ʿayb:in fa lā ḥallala ka ăl lāhu min 
+ <lb n="8"/>*** manādīl lā ʾaqdiru ʿalà bayʿi hā saʾaltu ka ʾan 
+ <lb n="9"/>*** ʾin nī la ʾarǧū ʾan lā ʾatruka ʾaḥad:an lā 
+ <lb n="10"/>*** wa rafaʿa ʾaʿlā ʾin šāʾa ăl lāhu ḏikra ka fī ăl mawāṭini ʾin qaḍà 
+ <lb n="11"/>***** wa ʾarǧū ʾan yaṣnaʿa ăl lāhu wa yafriǧa 
+ <lb n="12"/>*** lā ḥawla wa lā quwwaẗa ʾillā bi ăl lāhi ăl ʿaẓīmi 
+ <lb n="13"/>li ʾabī yaʿqūba ʾisḥāqa bni ʾibrāhīma min ʾabī *** ʾibrāhīma bni ăl ḥakami yudfaʿ bi madīnaẗi 
+ <lb n="14"/>ăl fayyūmi fī ăl bazzāzīna ʿinda masǧidi ăl ǧāmiʿi li ʾabī yaʿqūba ăs simsāri 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		[Que] Dieu te [garde] et te conserve! Je t&#039;ai écrit plusieurs lettres pour que tu m&#039;envoies le restant 
+			<lb n="3"/>
+		[de la marchandise..] Mais il ne m&#039;est venu de toi ni [..].., ni réponse, sauf une seule lettre. Fais donc
+			<lb n="4"/>
+		[.....].... et ce qu&#039;on fait comme chose qu&#039;on puisse employer.
+			<lb n="5"/>
+		[.... Tu as] acheté `avec (cela)´ pour moi. Il est revenu à Fusṭāṭ et tout ce que
+			<lb n="6"/>
+		[.....] le restant de la marchandise. Que cela te soit imposé. Aucune dégradation
+			<lb n="7"/>
+		[.....] tu envoies quelque chose qui présente un défaut. Que Dieu ne te pardonne pas
+			<lb n="8"/>
+		[....mou]choirs que je ne peux vendre. Je t&#039;ai demandé de
+			<lb n="9"/>
+		[.....] certes, j&#039;espère n&#039;abandonner personne sans
+			<lb n="10"/>
+		[...que] Dieu, s&#039;Il le veut, [exalte] ta réputation dans les lieux, s&#039;Il décide
+			<lb n="11"/>
+		[....].. J&#039;espère que Dieu favorise et délivre
+			<lb n="12"/>
+		[....Nulle puissance] ni force, sinon en Dieu l&#039;Immense!
+			<lb n="13"/>
+		À Abū Yaʿqūb Isḥāq b. Ibrāhīm. De la part d&#039;Abū [....Ibrāhīm b. al-] Ḥakam. À délivrer dans la ville 
+			<lb n="14"/>
+		du Fayyoum, au quartier des marchands d&#039;étoffes, près [de la grande mosquée], à Abū Yaʿqūb le commissionnaire.
+</ab></div>
+</body>
+</text>
+</TEI>

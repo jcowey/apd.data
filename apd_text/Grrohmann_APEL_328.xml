@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1819" xml:id="Grrohmann_APEL_328" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 328</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grrohmann_APEL_328</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169556</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  كتابي إليك أطال اللّه بقاك وأدام عزّك 
+<lb n="recto 3"/>  عن سلامة وعافية والحمد للّه رب العالمين 
+<lb n="recto 4"/>  وقرأت كتابك وفهمت ما ذكرت 
+<lb n="recto 5"/>  فيه فأمّا دفعك الدّنانير لرجل 
+<lb n="recto 6"/>  فقد أخطيت وخالفت 
+<lb n="recto 7"/>  وأنا لم آمرك أن تد<supplied reason="lost" cert="high">فع</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  وإنّما قلت لك أنت والصّبي <unclear reason="undefined" cert="high">بن</unclear> 
+<lb n="recto 9"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">ڤپپقا</rdg></app> أحمد اللّه على أنّكم <app type="BL"><lem resp="APD">تشترون </lem><rdg resp="APD">تشترون</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">لم</unclear> </lem><rdg resp="Diem">لي</rdg></app> 
+<lb n="recto 10"/>  <gap reason="illegible" extent="5" unit="character" /> ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لم <app type="BL"><lem resp="APD">تشترون </lem><rdg resp="Diem">تشترون</rdg></app> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">لـ</unclear><supplied reason="lost" cert="high">ـم</supplied> </lem><rdg resp="Diem">لي</rdg></app> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> صلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> يز<supplied reason="lost" cert="high">يـ</supplied>ـد بن أبي بكر 
+<lb n="verso 2"/>  السّلم كـ<supplied reason="lost" cert="high">ـثيرا</supplied> <supplied reason="lost" cert="high">وعلى</supplied> <supplied reason="lost" cert="high">منصـ</supplied>ـور السّلم كثيرا 
+<lb n="verso 3"/>  وحسبنا اللّه ونعم الوكيل 
+<lb n="verso address 1 right"/>  يوصل إلى أبو القسم عيسى 
+<lb n="verso address 2 right"/>  الخبّاز أعزّه اللّه 
+<lb n="verso address 1 left"/>  من نجاح التجريدي 
+<lb n="verso address 2 left"/>  عند منزل محمّد 
+<lb n="verso address 3"/>  الرّحّال 
+<lb n="verso address 4"/>  بالأشمونين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>kitāb ī ʾilay ka ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka 
+ <lb n="3"/>ʿan salāmaẗ:in wa ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="4"/>wa qaraʾtu kitāba ka wa fahimtu mā ḏakarta 
+ <lb n="5"/>fī hi fa ʾammā dafʿu ka ăd danānīra li raǧul:in 
+ <lb n="6"/>fa qad ʾaḫṭayta ʾaḫṭaytu ḫālafta wa ḫālaftu 
+ <lb n="7"/>wa ʾanā lam ʾāmur ka ʾan tadfaʿa *** 
+ <lb n="8"/>wa ʾinnamā qultu la ka ʾanta wa ăṣ ṣabiyyu bnu 
+ <lb n="9"/>***** fBBqʾ ʾaḥmadu ăl lāha ʿalà ʾanna kum tasīrūna taštarūna lam l ø ī 
+ <lb n="10"/>***** ʾ*** *** lam tasīrūna taštarūna lam l lkjsldfj ī 
+ <lb n="11"/>*** ***** ṣl*** 
+ <lb n="12"/>*** ʿalà yazīda bni ʾabī bakr:in 
+ <lb n="13"/>ăs salāmu kaṯīr:an wa ʿalà manṣūr:ini ăs salāmu kaṯīr:an 
+ <lb n="14"/>wa ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="15"/>yūṣalu ʾilà ʾabū ăl qāsimi ʿīsà 
+ <lb n="16"/>ăl ḫabbāzi ʾaʿazza hu ăl lāhu 
+ <lb n="17"/>min naǧāḥ:ini ăt taǧrīdiyyi 
+ <lb n="18"/>ʿinda manzili muḥammad:in 
+ <lb n="19"/>ăr raḥḥāli 
+ <lb n="20"/>bi ăl ʾušmūnayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		I am writing to you - may God prolong your life and cause your might to continue -
+			<lb n="3"/>
+		in a state of safety and health, and praise be to God, the Lord of all created beings.
+			<lb n="4"/>
+		And I have read your letter and understood what you mentioned
+			<lb n="5"/>
+		therein. But as to your paying the two dînârs to the man,
+		... Was nun aber den Umstand angeht, daß Du die Dinare einem Mann gezahlt hast,
+			<lb n="6"/>
+		so hast Du (damit) einen Fehler gemacht und Dich (meiner Anweisung) widersetzt.
+		so I have already made a mistake and contradicted (myself),
+			<lb n="7"/>
+		and I have never ordered you to pa[y ...........]
+		Ich hatte Dir (nämlich) nicht befohlen, daß Du [jenem die Dinare] zah[len sollst],
+			<lb n="8"/>
+		and I have only told you, you and the lad, son of (?)
+		sondern ich habe Dir und dem Jungen ... gesagt,
+			<lb n="9"/>
+		[daß Ihr etc. ...] ... ich preise Gott dafür, daß Ihr für mich (?) kaufen werdet
+		..................... I praise God that you have gone (bought ?) ...
+			<lb n="10"/>
+		...................[...] ...... gone (?) .........
+		... ihr habt für mich nicht gekauft
+			<lb n="11"/>
+			<lb n="12"/>
+		[... to] Yez[î]d b. Abû Bakr
+			<lb n="13"/>
+		ma[ny] greetings [and to Manṣ]ûr many greetings.
+			<lb n="14"/>
+		And our sufficiency is God, and He is the best trustee.
+			<lb n="15"/>
+		It may be delivered to Abuʾl-Qâsim ʿÎsâ, 
+			<lb n="16"/>
+		the baker, may God exalt him
+			<lb n="17"/>
+		from Naǧāḥ, originating from Taǧrîd (?),
+			<lb n="18"/>
+		close by the dwelling of ʿÎsâ,
+		close by the dwelling of Muḥammad,
+			<lb n="19"/>
+		the saddler,
+			<lb n="20"/>
+		in al-Ušmûnain.
+</ab></div>
+</body>
+</text>
+</TEI>

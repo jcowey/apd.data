@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="346" xml:id="Grohmann_APEL_135" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 135</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_135</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106577</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">ر</supplied>جب سنة سبع وثمنين وثلثمائـ<supplied reason="lost" cert="high">ـة </supplied>
+<lb n="2"/>  شهد إسمعيل <app type="BL"><lem resp="APD">الحجازي </lem><rdg resp="APD">الحجاريّ</rdg></app> بجميع ما في هـ<supplied reason="lost" cert="high">ـذا</supplied> <supplied reason="lost" cert="high">الكتاب </supplied>
+<lb n="3"/>  شهد عبد الوهّاب بن مختار بجميع ما في هذا الكـ<supplied reason="lost" cert="high">ـتاب </supplied>
+<lb n="4"/>  شهد نمر بن علي بجميع ما في هذا الكتاب وكتب <supplied reason="lost" cert="high">عنه </supplied>
+<lb n="5"/>  بحضرة بن الخولي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>raǧab sanaẗa sabʿ:in wa ṯamānīna wa ṯalāṯi miʾaẗ:in 
+ <lb n="2"/>šahida ʾismāʿīlu ăl ḥiǧāriyyu ḥiǧāziyyu bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="3"/>šahida ʿabdu ăl wahhābi bnu muḫtār:in bi ǧamīʿi mā fī hāḏā ăl kitābi 
+ <lb n="4"/>šahida nimru bnu ʿaliyy:in bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba ʿan hu 
+ <lb n="5"/>bi ḥaḍraẗi bni ăl ḫawliyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Raǧab three hundred and eighty seven.
+			<lb n="2"/>
+		Ismâʿîl, originating from the Ḩiǧāz, is witness to all that (is contained) in th[is deed
+			<lb n="3"/>
+		ʿAbd al-Wahhāb b. Muḫtār is witness to all that (is contained) in this de[ed
+			<lb n="4"/>
+		Nimr b. ʿAlî is witness to all that (is contained) in this deed, and [So and So] has written [for him]
+			<lb n="5"/>
+		in the presence of the son of the gardener.
+</ab></div>
+</body>
+</text>
+</TEI>

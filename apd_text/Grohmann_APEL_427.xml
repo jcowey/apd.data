@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1926" xml:id="Grohmann_APEL_427" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 427</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_427</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169663</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="15" unit="character" /> 
+<lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="3"/>  ‮يوم الخميس ‪ιʹ‬ 
+<lb n="4"/>  لحم درهـ<supplied reason="lost" cert="high">ـميـ</supplied>ـن حوائج ثلث درهم 
+<lb n="5"/>  حطب نصف درهم جبن درهم ونصف 
+<lb n="6"/>  غال درهمين زيت البطّيخ نصف درهم 
+<lb n="7"/>  تفّاح ومشمش درهمين بـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> للران <sic n="superfluous">درهمپن</sic> درهم 
+<lb n="8"/>  وخوخ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  نصـ<supplied reason="lost" cert="high">ـف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  د<supplied reason="lost" cert="high">ر</supplied>هـ<supplied reason="lost" cert="high">ـمين</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*************** 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>yawmu ăl ḫamīsi ‪10 
+ <lb n="4"/>laḥm:un dirhamayni ḥawāʾiǧu ṯulṯu dirham:in 
+ <lb n="5"/>ḥaṭab:un niṣfu dirham:in ǧubn:un dirham:un wa niṣf:un 
+ <lb n="6"/>ġāl:un dirhamayni zaytu ăl biṭṭīḫi niṣfu dirham:in 
+ <lb n="7"/>tuffāḥ:un wa mišmiš:un dirhamayni b** li l rāni dirham:un 
+ <lb n="8"/>wa ḫawḫ:un *** 
+ <lb n="9"/>niṣf *** 
+ <lb n="10"/>dirhamayni *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="3"/>
+		Thursday, the tenth.
+			<lb n="4"/>
+		Meat [two] dirhams, commodities a third of a dirham,
+			<lb n="5"/>
+		fire wood a half dirham, cheese one and a half dirham,
+			<lb n="6"/>
+		a door-lock two dirhams, oil of melon (seeds) a half dirham,
+			<lb n="7"/>
+		apples and apricots two dirhams ...[...]... for the gaiters one dirham
+			<lb n="8"/>
+		and peaches [
+			<lb n="9"/>
+		a hal[f
+			<lb n="10"/>
+		[two] di[r]h[ams
+</ab></div>
+</body>
+</text>
+</TEI>

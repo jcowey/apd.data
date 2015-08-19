@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1802" xml:id="Prag_840" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 84</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_840</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169542</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮بسم اللّه الرّحمن الرّحيم ‪δʹ 
+<lb n="2"/>  يدفع مينا بن بسطل البقّار عمّا عليه من أجرة <app type="BL"><lem resp="APD">رجائ </lem><rdg resp="Diem. The scribe wrote the article by mistake, then crossed it out.">رظيّ</rdg></app> الملك لسنة تسع وتسعين 
+<lb n="3"/>  وثلثمائة إلى سرور السّقّا عن أجره لنجم برموده من هذه السّنة رباعي 
+<lb n="4"/>  واحد ويحتسب به إن شا اللّه حسبي ثقتي باللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 1/4 
+ <lb n="2"/>yadfaʿu mīnā bnu busṭula ăl baqqāru ʿammā ʿalay hi min ʾuǧraẗi raǧāʾi raẓiyyi ăl mulki li sanaẗi tisʿ:in wa tisʿīna 
+ <lb n="3"/>wa ṯalāṯi miʾaẗ:in ʾilà surūr:ini ăs saqqāʾi ʿan ʾaǧri hi li naǧmi barmūdiha min hāḏihi ăs sanaẗi rubāʿiyy 
+ <lb n="4"/>wāḥid wa yaḥtasibu bi hi ʾin šāʾa ăl lāhu ḥasb ī ṯiqat ī bi ăl lāhi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen, Gütigen! 1/4
+			<lb n="2"/>
+		Es zahlt Menas b. Postol(os), der Rinderhirt, von dem, was er an Pacht für Raǧāʾ el-Mulk schuldet für das Jahr dreihundert
+		Mīnā b. Postol(os), der Rinderhirt, möge zahlen von dem, was er an Pacht für Raḍīy al-Mulk schuldet für das Jahr dreihundert
+			<lb n="3"/>
+		neunundneunzig an Surūr den Wasserträger aus seiner Entlohnung für die Rate Barmūde von diesem Jahren einen Viertel-
+			<lb n="4"/>
+		dīnār und dies verbuchen, so Gott will! Mein Genüge ist mein Vertrauen auf Gott!
+		dīnār und er stellt damit die Rechnung glatt, so Gott will! Mein Genüge ist mein Vertrauen auf Gott!
+</ab></div>
+</body>
+</text>
+</TEI>

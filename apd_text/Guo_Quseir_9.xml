@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="825" xml:id="Guo_Quseir_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GuoDocuments I 3 (= P.QuseirArab. I 09)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113606</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  المماليك <sic n="superfluous">حسـن</sic><supplied reason="omitted" cert="high">حسپن</supplied> ومحمّد وعمر الحمد للّه وحده 
+<lb n="2"/>  يقبّلون الأرض وينهون ألف ألف لا أوحش اللّه منك ولا 
+<lb n="3"/>  أخلا ونحن في برد ما يعلمه إلّا اللّه واللّه اللّه يا والدي 
+<lb n="4"/>  ادفع لنا الشّملة على كل وجه <app type="BL"><lem resp="APD">فمناخ </lem><rdg resp="“AK”">فمتاح</rdg></app> ميّت بالبرد غاية 
+<lb n="5"/>  ما يكون وجيب <del rend="erasure" status="unremarkable">ثمپا</del> ثمنها عليه كم ما أرب اللّه اللّه 
+<lb n="6"/>  ويا سيّدي ألحقنا بقربتين ما من كل بد اللّه اللّه 
+<lb n="7"/>  فنحن لنا في القصر <app type="BL"><lem resp="APD">اليماني </lem><rdg resp="“AK”">البماپى</rdg></app> ثلت أيّام وما دام ذا 
+<lb n="8"/>  الرّيح فنحن ما نقدر نسافر اللّه اللّه في الما وفي الشّما<supplied reason="lost" cert="high">ل</supplied> 
+<lb n="9 right margin 1"/>  وإن قدرت لنا على قليل كعك فاشتريه 
+<lb n="10 right margin 2"/>  لنا وسيّره اللّه اللّه يا سيّدي 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl mamālīku ḥusayn:un wa muḥammad:un wa ʿumaru ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="2"/>yuqabbilūna ăl ʾarḍa wa yunhūna ʾalf ʾalf lā ʾawḥaša ăl lāhu min ka wa lā 
+ <lb n="3"/>ʾaḫlā wa naḥnu fī bard:in mā yaʿlamu hu ʾillā ăl lāhu wa ăl lāhu ăl lāhu yā wālid ī 
+ <lb n="4"/>ĭdfaʿ la nā ăš šamlaẗa ʿalà kulli waǧh:in fa munāḫ:un mutāḥ:un mayyit:un bi ăl bardi ġāyaẗa 
+ <lb n="5"/>mā yakūnu wa ǧīb ṯamana hā ʿalay hi kam mā ʾuriba ăl lāhu ăl lāhu 
+ <lb n="6"/>wa yā sayyid ī ʾalḥiq nā bi qirbatayni mā min kulli budd:in ăl lāhu ăl lāhu 
+ <lb n="7"/>fa naḥnu la nā fī ăl qaṣri ăl yamāniyyi bmʾBy ṯalātu ʾayyām:in wa mā dāma dā 
+ <lb n="8"/>ăr rīḥu fa naḥnu mā naqdiru nusāfiru ăl lāhu ăl lāhu fī ăl māʾi wa fī ăš šamāli 
+ <lb n="9"/>wa ʾin qadarta la nā ʿalà qalīli kaʿk:in fa ĭštarī hi 
+ <lb n="10"/>la nā wa sayyir hu ăl lāhu ăl lāhu yā sayyid ī 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The slaves Ḥusayn, Muḥammad, and ʿUmar - praise be to God alone! -
+			<lb n="2"/>
+		kiss the ground and report: [We pray] a thousand and a thousand [times] that God may not deprive [us] from you[r help] and nor would He
+			<lb n="3"/>
+		let [us] down now that we are in a cold spell whose severity none knows save God. O God! O God! O my father!
+			<lb n="4"/>
+		Pay for us the [cost of the] cloak by all means, for the weather has been deadly and extremely
+			<lb n="5"/>
+		cold. Forward its cost in the amount requested. O God! O God!
+			<lb n="6"/>
+		O my lord! Supply us with two water bags at any rate. O God! O God!
+			<lb n="7"/>
+		We have been in al-Qaṣr al-Yamānī for three days. And as long as this
+			<lb n="8"/>
+		wind continues [to blow], we are unable to travel - O God! O God! - in the water, and [heading towards?] north (...)
+		wind continues [to blow], we are unable to travel - O God! O God! - in the water, and in this northerly wind [......].
+			<lb n="9"/>
+		If you could [find] us some baked food, please purchase it
+			<lb n="10"/>
+		for us and send it along [to us]. O God! O God! O my lord!
+</ab></div>
+</body>
+</text>
+</TEI>

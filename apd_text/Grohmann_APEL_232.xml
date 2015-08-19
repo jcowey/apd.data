@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1986" xml:id="Grohmann_APEL_232" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 232</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_232</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169718</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="5" unit="character" /> ÷ <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن مازن ولـ]ـه قمح ÷÷ ÷÷ ÷÷ ÷÷ ÷÷÷ ÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">ولـ</supplied>ـه شعير ÷ ÷÷ ÷ ÷ ÷÷÷ ÷÷÷ ÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> وله شعير ÷ <supplied reason="lost" cert="high">÷</supplied> ÷÷ ÷÷ ÷÷÷ ÷÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷<gap reason="illegible" extent="1" unit="character" />÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="5"/>  <supplied reason="lost" cert="high">ولـ</supplied>ـه قمح وقرط ÷÷ <supplied reason="lost" cert="high">÷</supplied>÷ ÷÷ ÷÷ ÷÷÷ ÷÷÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷÷÷÷÷÷ 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> منه خشخاش ÷ ومن الحز<supplied reason="lost" cert="high">ر</supplied> ÷ 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">وله</supplied> خلى ÷ ÷ ÷÷ ÷÷ <gap reason="illegible" extent="2" unit="character" /> ÷÷÷ ÷÷ ÷÷÷ <gap reason="illegible" extent="1" unit="character" /> ÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> وـ<supplied reason="lost" cert="high">ــلــ</supplied>ــه ترمس ÷ ÷ ÷ ÷ ÷ ÷ ÷÷<gap reason="illegible" extent="1" unit="character" /> ÷÷ <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="9"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***** 1/2 ****** **** 
+ <lb n="2"/>*** bn māzin:in wa la hu qamḥ:un 13 14 37 37 6 1/2+1/4 18 1/2 123 * 1 1/4 * 
+ <lb n="3"/>* wa la hu šaʿīr:un 9 9 1/2 6 5 4 1/2+1/8 2 1/2+1/4 13 * 1/8 * 
+ <lb n="4"/>*** wa la hu šaʿīr:un 7 3 26 29 3 1/2+1/4 13 1/2+1/4 51 1/4 * 1/2+*+1/8 * 
+ <lb n="5"/>wa la hu qamḥ:un wa qurṭ:un 51 51 73 78 20 1/2+1/4 37 1/2+1/4 572 * 9 1/2+1/24+1/48 
+ <lb n="6"/>*** min hu ḫišḫāš:un 1 wa min ăl ḥazri 1/4 
+ <lb n="7"/>*** * wa la hu ḫly 7 7 6 1/2 6 1/2 ** 23 1/2 3 1/4 109 1/2 * 1/8 * 
+ <lb n="8"/>*** * wa la hu turmus:un 2 2 4 4 1 2 2 1/2 * 1/48 * 
+ <lb n="9"/>**** **** *** **** *** 2 *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		].. 1/2 .[...].. [...].
+			<lb n="2"/>
+		... so]n of Mâzin [and] he [has] wheat: 13  14  37  37  6 1/2+1/4  18 1/2  123 . 1 1/4
+			<lb n="3"/>
+		[and he] has barley: 9  9 1/2  6  5  4 1/2+1/8  2 1/2+1/4  13  .  1/8
+			<lb n="4"/>
+		] and he has barley: 7 [3]  26  29 3 1/2+1/4  13 1/2+1/4  51 1/4  .  1/2[.]1/8
+			<lb n="5"/>
+		and] he [has] wheat and trefoil: 51 5[1] 73  78  20 1/2+1/4  37 1/2+1/4 572  .  9 1/2+1/24+1/48
+			<lb n="6"/>
+		] thereof (is sown with) poppy 1 and with chick-pe[as]: 1/4
+			<lb n="7"/>
+		] [...] [and he has] green herbs: 7  7  6 1/2[.]  6 1/2  23 1/2  3 1/4  109 1/2  . 1/8
+			<lb n="8"/>
+		] and he [has] lupines: 2  2  4  4  1  2  2 1/2 . 1/48
+			<lb n="9"/>
+		] .[...] .[...] .. [.] .. [.] 2 [
+</ab></div>
+</body>
+</text>
+</TEI>

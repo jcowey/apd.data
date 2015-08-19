@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2230" xml:id="Diem_Heid_III_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1 "/>  <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="recto 2"/>  يقبّـ<supplied reason="omitted" cert="high">ـل</supplied> الأرض وينهي أن المملوك كان توجّه إلی القاهر<supplied reason="omitted" cert="high">ة</supplied> المحروسة 
+<lb n="recto 3"/>  و<unclear reason="undefined" cert="high">استصحبت</unclear> صحبته الكتاب الّذي شرّفه سيّدي به إلي 
+<lb n="recto 4"/>  سيّدنا الشّيخ كمال الدّين وقد أخذ المملوك الجواب ووصّلـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="recto 5"/>  المملوك صحبة حاملها وسيّدي فيعذر المملوك <supplied reason="lost" cert="high">مـ</supplied>ـن كونه 
+<lb n="recto 6"/>  ما حضر إلی بين يديكم بالجواب فإن المملوك كما 
+<lb n="recto 7"/>  <supplied reason="lost" cert="high">يـ</supplied>ـعلم سيّدي له ضرورة الشّغل وسيّدي لا 
+<lb n="recto 8"/>  يخلي المملوك من دعائه وبركته وكتبها المملوك 
+<lb n="recto 9"/>  وهـ<supplied reason="lost" cert="high">ـو</supplied> كثـ<supplied reason="lost" cert="high">ـير</supplied> <supplied reason="lost" cert="high">ا</supplied>لشّوق <supplied reason="lost" cert="high">إلـ</supplied>ـيه فـسيّدي يدعوا للمملوك أنهی ذلك والسّلم 
+<lb n="recto 7 right margin"/>  المملوك كاتبه بالأ<supplied reason="lost" cert="high">شـ</supplied>ـواق 
+<lb n="recto 8 right margin"/>  <gap reason="illegible" precision="low" extent="3"/> خضر 
+<lb n="verso 1"/>  الباب الو<gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="1" unit="character" />ـحا<gap reason="illegible" extent="1" unit="character" />ـح </lem><rdg resp="APD"><gap reason="illegible" extent="1" unit="character" />ـحا</rdg></app> <app type="BL"><lem resp="APD">السكر </lem><rdg resp="APD"><gap reason="illegible" extent="1" unit="character" />ـح </rdg><rdg resp="AKL, qāf with two dots above"><gap reason="illegible" extent="1" unit="character" />ـق </rdg><rdg resp="Diem">بحقّ</rdg></app> ڤی 
+<lb n="verso 2"/>  <gap reason="illegible" extent="2" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>* 
+ <lb n="2"/>yuqabbilu ăl ʾarḍa wa yunhī ʾanna ăl mamlūka kāna tawaǧǧaha ʾilà ăl qāhiraẗi ăl maḥrūsaẗi 
+ <lb n="4"/>wa ĭstaṣḥabtu ṣuḥbaẗa hu ăl kitāba ăllaḏī šarrafa hu sayyid ī bi hi ʾilà 
+ <lb n="5"/>sayyidi nā ăš šayḫi kamāli ăd dīni wa qad ʾaḫaḏa ăl mamlūku ăl ǧawāba wa waṣṣala hu 
+ <lb n="6"/>ăl mamlūku ṣuḥbaẗa ḥāmili hā wa sayyid ī fa yaʿḏiru ăl mamlūka min kawni hi 
+ <lb n="7"/>mā ḥaḍara ʾilà bayni yaday kum bi ăl ǧawābi fa ʾinna ăl mamlūka kamā 
+ <lb n="8"/>yaʿlamu sayyid ī la hu ḍarūraẗu ăš šuġli wa sayyid ī lā 
+ <lb n="9"/>yuḫlī ăl mamlūka min duʿāʾi hi wa barakati hi wa kataba hā ăl mamlūku 
+ <lb n="10"/>wa huwa kaṯīru ăš šawqi ʾilay hi fa sayyid ī yadʿū li l mamlūki ʾanhà ḏālika wa ăs salāmu 
+ <lb n="12"/>ăl mamlūku kātibu hu bi ăl ʾašwāqi 
+ <lb n="13"/>*** ḫiḍr 
+ <lb n="14"/>ăl bābu ăl w** *ḥʾ*ḥ *ḥʾ ø **ḥ **q ḥaqqi bi ăš šukr fī 
+ <lb n="15"/>** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Zeichen (Verkürzung der Basmalah)
+			<lb n="2"/>
+		küßt die Erde und tut kund, daß sich der Sklave zu dem behüteten Kairo begeben
+			<lb n="4"/>
+		und den Brief, mit dem ihn unser Herr beehrt hat, zu
+			<lb n="5"/>
+		unserem Herrn, dem Scheich Kamāl ad-Dīn, mitgenommen hat. Der Sklave hat die Antwort entgegengenommen, und
+			<lb n="6"/>
+		der Sklave läßt sie durch den Überbringer dieses (Schreibens) abliefern. Mein Herr möge den Sklaven wegen des Umstands entschuldigen, daß er
+			<lb n="7"/>
+		sich nicht (persönlich) vor Euch mit der Antwort eingefunden hat, denn der Sklave hat, wie
+			<lb n="8"/>
+		mein Herr weiß, eine dringende Angelegenheit. Mein Herr
+			<lb n="9"/>
+		möge den Sklaven nicht seiner Fürbitte und seiner segensreichen Wirkung entbehren lassen! Der Sklave schreibt dieses (Schreiben),
+			<lb n="10"/>
+		wobei er \starke/ Sehnsucht [nach] ihm empfindet. So möge mein Herr denn für den Sklaven Fürbitte leisten! Er tat dies kund. Gruß!
+			<lb n="12"/>
+		Der dies mit Sehnsucht schreibende Sklave
+			<lb n="13"/>
+		...... Ḫiḍr
+			<lb n="14"/>
+		Das Tor ....[...]........ Dank bezüglich
+			<lb n="15"/>
+</ab></div>
+</body>
+</text>
+</TEI>

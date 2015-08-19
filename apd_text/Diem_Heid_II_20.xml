@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1371" xml:id="Diem_Heid_II_20" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 20</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_20</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169169</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  السّاعة يا سيّدي ومولاي أطال اللّه بقاك سمعت صوت البوق فتعلّق قلبي 
+<lb n="3"/>  ولم أدر السّبب في ذلك وأرجوا أن يكون خيرا إن شا اللّه وحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـاري مع غلامي غائبا 
+<lb n="4"/>  وأنا أسلك يا سيّدي أن تتقدّم إلى الغلام بإعارتي حمار أركبه وأخرج 
+<lb n="5"/>  أتعرّف الأخبار وأردّه عند عودي بإذن اللّه وقانا اللّه وإيّاك 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> لا <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">كل </lem><rdg resp="APD">كلّ </rdg><rdg resp="APD">كلّه</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">و</unclear><gap reason="illegible" precision="low" extent="3"/> حـ<gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ăs sāʿaẗa yā sayyid ī wa mawlā ya ʾaṭāla ăl lāhu baqāʾa ka samiʿtu ṣawta ăl būqi fa taʿallaqa qalb ī 
+ <lb n="3"/>wa lam ʾadri ăs sababa fī ḏālika wa ʾarǧū ʾan yakūna ḫayr:an ʾin šāʾa ăl lāhu wa ḥimār ī maʿa ġulām ī ġāʾib:an 
+ <lb n="4"/>wa ʾanā ʾasalu ka yā sayyid ī ʾan tataqaddama ʾilà ăl ġulāmi bi ʾiʿārat ī ḥimār:in ʾarkabu hu wa ʾaḫruǧu 
+ <lb n="5"/>ʾataʿarrafu ăl ʾaḫbāra wa ʾaruddu hu ʿinda ʿawd ī bi ʾiḏni ăl lāhi waqā nā ăl lāhu wa ʾiyyā ka 
+ <lb n="6"/>*** lʾ *** kl kull kulli ø hi *** *** w*** wa ḥ*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Ich habe jetzt gerade, oh mein Herr und Gebieter - Gott lasse Dich lange leben -, Trompetenklang gehört, so daß mein Interesse geweckt wurde.
+			<lb n="3"/>
+		Ich weiß den Grund dafür (sc. den Trompetenklang) nicht, aber ich hoffe, daß es etwas Gutes bedeutet, so Gott will. Mit meinem Esel ist mein Bursche weggeritten,
+			<lb n="4"/>
+		und ich bitte Dich (deshalb), mein Herr, Du mögest Deinem Burschen Anweisung erteilen, mir einen Esel zu leihen, mit dem ich ausreiten kann,
+			<lb n="5"/>
+		um die Neuigkeiten zu erfahren. Ich werde ihn zurückgeben, wenn ich mit Gottes Erlaubnis zurückkehre - Gott schütze uns und Dich
+			<lb n="6"/>
+		vor - - - [
+</ab></div>
+</body>
+</text>
+</TEI>

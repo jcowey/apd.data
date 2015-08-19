@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1629" xml:id="Grohmann_APEL_170" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 170</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_170</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169384</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  قبلهم ثلثة أيّام فإن حملوا هذا المال وإلّا ضرب 
+<lb n="2"/>  كل واحد منهم في كل يوم عشرة 
+<lb n="3"/>  أسياط وأغرمه في صلب ماله دينارا 
+<lb n="4"/>  و<supplied reason="lost" cert="high">ا</supplied>حدا وإن يأخذ أحمد بن عبد اللّه <app type="BL"><lem resp="APD">وذكر </lem><rdg resp="Diem">وزكير</rdg></app> بن يحيى 
+<lb n="5"/>  و<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن عبد اللّه بإنفاذ ذكور المساحة 
+<lb n="6"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>qabla hum ṯalāṯaẗu ʾayyām:in fa ʾin ḥamalū hāḏā ăl māla wa ʾillā ḍaraba ḍuriba 
+ <lb n="2"/>kullu wāḥid:in min hum fī kulli yawm:in ʿašaraẗa 
+ <lb n="3"/>ʾasyāṭ:in wa ʾaġrama hu fī ṣulbi māli hi dīnār:an 
+ <lb n="4"/>wāḥid:an wa ʾin yaʾḫuḏ ʾaḥmadu bnu ʿabdi ăl lāhi wa zakīru ḏakaru bnu yaḥyà 
+ <lb n="5"/>wa *** bnu ʿabdi ăl lāhi bi ʾinfāḏi ḏukūri ăl misāḥaẗi 
+ <lb n="6"/>**** *** **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		They have yet three days. So if they bring the money of this tribute (well) but if not then he will beat
+			<lb n="2"/>
+		each of them every day ten
+			<lb n="3"/>
+		strokes of the whip and he will inflict on him (a fine of) one dînâr (payable) out of his own means.
+			<lb n="4"/>
+		And if Aḥmad b. ʿAbdallâh, Ḏakar b. Yaḥyâ
+		..., Zakīr b. Yaḥyâ
+			<lb n="5"/>
+		and [So and So] b. ʿAbdallâh commence to carry through the reports of (land-)measurement ......
+</ab></div>
+</body>
+</text>
+</TEI>

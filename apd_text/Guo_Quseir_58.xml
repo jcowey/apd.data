@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="945" xml:id="Guo_Quseir_58" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 58</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_58</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113697</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  يعلم الأخ 
+<lb n="recto 2"/>  الصّادر ليد الأخ إبرهيم بن أبي مفرّج صحبة كاتب حسين حمل الغل <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 3"/>  وبيد فايز بن موسى الكناني <app type="BL"><lem resp="APD">زكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; AK”">زكيبة</rdg></app> الغل <app type="BL"><lem resp="APD">وزكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; AK”">وزكيبة</rdg></app> سمان <app type="BL"><lem resp="APD">وزكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; AK”">وزكيبة</rdg></app> حمّص 
+<lb n="recto 4"/>  <app type="BL"><lem resp="APD">وبرنيّة </lem><rdg resp="“AK”">ومرينة</rdg></app> زيت حار وبيد طرفال <gap reason="illegible" extent="2" unit="character" />رى <gap reason="illegible" extent="2" unit="character" /> <unclear reason="undefined" cert="high">صابون</unclear> ومواهـ<supplied reason="lost" cert="high">ـب</supplied> 
+<lb n="recto 5"/>  فيها <app type="BL"><lem resp="APD">زكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; AK”">زكيبة</rdg></app> لوز <app type="BL"><lem resp="APD">وزكيّة </lem><rdg resp="“Diem, P.QuseirArab. p. 169; AK”">وزكيبة</rdg></app> بياض ومنه ثلث حمل وهو الغل علاوة <gap reason="illegible" precision="low" extent="3"/> الرّهائن عليه <gap reason="illegible" extent="2" unit="character" /> بحق <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="verso 1"/>  لوكيل أبو إسحاق وهو <supplied reason="lost" cert="high">إبرا</supplied>هيم 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">پـ</supplied>ـن ابى مڤرح دامـ<supplied reason="lost" cert="high">ـپ</supplied> سلامپه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>yuʿlami ăl ʾaḫu 
+ <lb n="2"/>ăṣ ṣādiru li yadi ăl ʾaḫi ʾibrāhīma bni ʾabī mufarriǧ:in ṣuḥbaẗa kātibi ḥusayn:in ḥimlu ăl ġalli ** 
+ <lb n="3"/>wa bi yadi fāyizi bni mūsà ăl kināniyyi zakiyyaẗu zakībaẗu ăl ġalli wa zakiyyaẗu zakībaẗu samān:in simān:in wa zakiyyaẗu zakībaẗu ḥimmiṣ:in 
+ <lb n="4"/>wa barniyyaẗu marīnaẗu zayt:in ḥārr:in wa bi yadi ṭarfāla **ry ** ṣābūn wa mawāhib 
+ <lb n="6"/>fī hā zakiyyaẗu zakībaẗu lawz:in wa zakiyyaẗu zakībaẗu bayāḍ:in wa min hu ṯulṯu ḥiml:in wa huwa ăl ġallu ʿilāwaẗ:an *** ăr rahāʾin ʿalay hi ** bi ḥaqqi ** 
+ <lb n="7"/>li wakīli ʾabū ʾisḥāqa wa huwa ʾibrāhīmu 
+ <lb n="8"/>bnu ʾabī mufarriǧ:in dāmat salāmatu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Let it be known to the Brother:
+			<lb n="2"/>
+		To be delivered to Brother Ibrāhīm, the son of Abū Mufarrij, in the company of Ḥusayn&#039;s clerk, is a cargo of ghalla dues and [...].
+			<lb n="3"/>
+		To be handed over from Fāʾiz ibn Mūsā al-Kinānī are fine grain, butter, chickpeas,
+			<lb n="4"/>
+		and a bottle of lighting oil. To be handed over from Ṭarfāl al-[...]rī are [jars?] of soap and some presents
+			<lb n="6"/>
+		that include fine almonds and eggs, which make up one third of the [entire] cargo. This is the ghalla dues, in addition to the [...] as the rahn-security deposits for [the debt of.....].
+			<lb n="7"/>
+		To the care of the agent of Abū Isḥāq Ibrāhīm
+			<lb n="8"/>
+		the son of Abū Mufarrij - may God make his prosperity everlasting!
+</ab></div>
+</body>
+</text>
+</TEI>

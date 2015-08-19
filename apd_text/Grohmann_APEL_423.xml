@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1902" xml:id="Grohmann_APEL_423" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 423</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_423</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169639</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  قارورة ما ورد جيّد جوري زوج طومار 
+<lb n="3"/>  قرطاس جيّد دقيق 
+<lb n="4"/>  بدرهم ونصف مدي رپت الما معدني 
+<lb n="5"/>  شعير طيّب الرّاعيّة بدرهمين 
+<lb n="6"/>  وشيرج طري بدرهم شلطان حميريّتان وقراب 
+<lb n="7"/>  سعد وإذخر بدرهم أشنان أبيض حلو 
+<lb n="8"/>  بنصف درهم 
+<lb n="9"/>  كزبرة يابسة جيّدة بقيراط 
+<lb n="10"/>  كمّون بقيراط فلفل بدرهـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  كرويا بقـ<supplied reason="lost" cert="high">ـيراط</supplied> أرز بدرهمين 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> اا <gap reason="illegible" precision="low" extent="3"/> أبيض <sic n="superfluous">بڤى</sic><supplied reason="omitted" cert="high">نقيّ</supplied> ما <unclear reason="undefined" cert="high">مر</unclear><del rend="erasure" status="unremarkable">پ</del> 
+<lb n="13 right margin"/>  نصف ويبة <sic n="superfluous">سوبق</sic><supplied reason="omitted" cert="high">سويق</supplied> جيّد <supplied reason="lost" cert="high">لشر</supplied><unclear reason="undefined" cert="high">يقة</unclear> نصف مثقال كافور <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="14 upside down over basmala"/>  فذلك أحد وثلثين درهما 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qārūraẗu māʾi ward:in ǧayyid:in ǧūriyy:in zawǧu ṭūmāri 
+ <lb n="3"/>qirṭās:un ǧayyid:un daqīq:un 
+ <lb n="4"/>bi dirham:in wa niṣf:in mudyu rBt ăl mʾ maʿdanī 
+ <lb n="5"/>šaʿīr:un ṭayyib:un ăr rāʿīyaẗ bi dirhamayni 
+ <lb n="6"/>wa šīraǧ:un ṭariyy:un bi dirham:in šalṭāni ḥimyariyyatāni wa qirāb:un 
+ <lb n="7"/>suʿd:un wa ʾiḏḫir:un bi dirham:in ʾušnān:un ʾabyaḍu ḥulw:un 
+ <lb n="8"/>bi niṣfi dirham:in 
+ <lb n="9"/>kuzbaraẗ:un yābisaẗ:un ǧayyidaẗ:un bi qīrāṭ:in 
+ <lb n="10"/>kammūn:un bi qīrāṭ:in filfil:un bi dirham:in *** 
+ <lb n="11"/>karawyā bi qīrāṭ:in ʾaruzz:un bi dirhamayni 
+ <lb n="12"/>*** ʾʾ *** ʾabyaḍu naqiyy:un mʾ mr 
+ <lb n="13"/>niṣfu waybaẗi sawīq:in ǧayyid:in li šarīqaẗa niṣfu miṯqāli kāfūr:in **** 
+ <lb n="14"/>fa ḏālika ʾaḥad:un wa ṯalāṯīna dirham:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		A phial of excellent rose-water originating from Ǧûr | two ṭûmârs of
+			<lb n="3"/>
+		excellent, fine papyrus
+			<lb n="4"/>
+		for one and a half dirham; modius of ............ (?)
+			<lb n="5"/>
+		barley, good for the herd (?), for two dirhams
+			<lb n="6"/>
+		fresh sesam-oil for one dirham | two Ḥimyaritic knives with a sheath
+			<lb n="7"/>
+		Cyperus-root and Schoenanthus for one dirham | white sweet potash
+			<lb n="8"/>
+		for a half-dirham
+			<lb n="9"/>
+		dry, excellent coriander | for one carat
+			<lb n="10"/>
+		cumin for one carat | pepper for one dirha[m
+			<lb n="11"/>
+		caraway-seeds for one cara[t] | rice for two dirhams
+			<lb n="12"/>
+		[.........]...[...] white, clean .............
+			<lb n="13"/>
+		a half waiba of excellent barley-meal [for Ša]rîqa a half miṯqâl, camphor
+			<lb n="14"/>
+		That makes thirty-one dirhams.
+</ab></div>
+</body>
+</text>
+</TEI>

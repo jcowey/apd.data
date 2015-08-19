@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="297" xml:id="Grohmann_APEL_97" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 097</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_97</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106539</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">المسـ</supplied>ـجد <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" extent="9" unit="character" /> <supplied reason="lost" cert="high">وأوّل</supplied> <supplied reason="lost" cert="high">سنته</supplied> 
+<lb n="2"/>  أوّل يوم من شهر برموده من شـ<supplied reason="lost" cert="high">ـهور</supplied> <supplied reason="lost" cert="high">العجم</supplied> 
+<lb n="3"/>  أجرته في السّنة ثلثة دنانير <supplied reason="lost" cert="high">ونصف</supplied> 
+<lb n="4"/>  معسولة يقبض في كل شهر سبع قرار<supplied reason="omitted" cert="high">يـ</supplied>ـط 
+<lb n="5"/>  معسول على أن عليه القيام في المسجد 
+<lb n="6"/>  <sic n="superfluous">المكنپپه</sic> <supplied reason="omitted" cert="high">بالمكنسة</supplied> ووقود قناديله و<supplied reason="omitted" cert="high">ا</supplied>ستقا الما 
+<lb n="7"/>  والقيام بجميع ما <app type="BL"><lem resp="APD">تحتاج </lem><rdg resp="AK">يحتاج</rdg></app> إليه قبض من ذلك 
+<lb n="8"/>  أجرة شهر على هذا <sic n="superfluous">لسبقال</sic> <supplied reason="omitted" cert="high">الاشتغال</supplied> 
+<lb n="9"/>  ورسمنا لـه <sic n="superfluous">مسكپن</sic> <supplied reason="omitted" cert="high">مسكنا</supplied> من بيوت المسجد 
+<lb n="10"/>  بغير أجرة 
+<lb n="11"/>  وكتب علي الدّكاوي بخطّه 
+<lb n="12"/>  في ربيع الآخر سنة ست وخمسين وثلثماية 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fī ăl masǧidi **** ********* wa ʾawwalu sanaẗi hi 
+ <lb n="2"/>ʾawwalu yawm:in min šahri barmūdiha min šuhūri ăl ʿaǧami 
+ <lb n="3"/>ʾuǧraẗu hu fī ăs sanaẗi ṯalāṯaẗu danānīra wa niṣf:un 
+ <lb n="4"/>maʿsūlaẗ:in yaqbiḍu fī kulli šahr:in sabʿa qarārīṭa 
+ <lb n="5"/>maʿsūl:in ʿalà ʾanna ʿalay hi ăl qiyāma fī ăl masǧidi 
+ <lb n="6"/>bi ăl miknasaẗi wa wuqūda qanādīli hi wa ĭstiqāʾa ăl māʾi 
+ <lb n="7"/>wa ăl qiyāma bi ǧamīʿi mā tuḥtāǧu yuḥtāǧu ʾilay hi qabaḍa min ḏālika 
+ <lb n="8"/>ʾuǧraẗa šahr:in ʿalà hāḏā ăl ĭštiġāli 
+ <lb n="9"/>wa rasamnā la hu maskan:an min buyūti ăl masǧidi 
+ <lb n="10"/>bi ġayri ʾuǧraẗ:in 
+ <lb n="11"/>wa kataba ʿaliyy:uni ăd dakāwiyyu bi ḫaṭṭi hi 
+ <lb n="12"/>fī rabīʿa ăl ʾāḫari sanaẗa sitt:in wa ḫamsīna wa ṯalāṯi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[in the m]osque two entire years (?) ... [and the beginning of his year is]
+			<lb n="2"/>
+		the first day of the month of Barmûde of the mon[ths of the Copts].
+			<lb n="3"/>
+		His yearly wages are three dînârs [and a half of a dînâr]
+			<lb n="4"/>
+		correctly counted out. He receives seven carats monthly
+			<lb n="5"/>
+		correctly counted out, in return for which he is obliged to clean the mosque
+			<lb n="6"/>
+		by sweeping, to light its lamps, to draw water
+			<lb n="7"/>
+		and to attend to all he is required for. Wherefore he receives
+			<lb n="8"/>
+		monthly wages for this employment,
+			<lb n="9"/>
+		and we have allotted to him lodging(s) (in a house) belonging to the houses of the mosque
+			<lb n="10"/>
+		without rent.
+			<lb n="11"/>
+		ʿAlî ad-Dakâwî has written (it) in his (own) handwriting
+			<lb n="12"/>
+		on Rabîʿ II of the year three hundred and fity six.
+</ab></div>
+</body>
+</text>
+</TEI>

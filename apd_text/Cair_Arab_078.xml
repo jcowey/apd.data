@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="73" xml:id="Cair_Arab_078" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 078</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Cair_Arab_078</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">الـ[ـلّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  هذا كتاب من محمّد بن يحيى عامل <supplied reason="lost" cert="high">الأمير</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أصلحه</supplied> <supplied reason="lost" cert="high">اـله</supplied> <supplied reason="lost" cert="high">وخليفتيه</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  وغانية بن زيد بكورالاسموپپن وطحا و<supplied reason="lost" cert="high">حپر</supplied> <supplied reason="lost" cert="high">سپوده</supplied> <supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سكان</supplied> <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="4"/>  إنّك سألتني وطلبت إلي أن <app type="BL"><lem resp="APD">أكر </lem><rdg resp="“AK”">أكريك</rdg></app> <app type="BL"><lem resp="APD">لك </lem><rdg resp="“AK”">ø</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="omitted" cert="high">الـ</supplied>ـأراضي الخراجية بثمنية عشر <supplied reason="lost" cert="high">دينرا</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تودى</supplied> <supplied reason="lost" cert="high">خراجك</supplied> 
+<lb n="6"/>  مع نجوم السّلطان أعزّه اللّـ<supplied reason="lost" cert="high">ـه </supplied>
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min muḥammadi bni yaḥyà ʿāmili ăl ʾamīri *** bni *** ʾaṣlaḥa hu ăl lāhu wa ḫalīfaẗay hi *** bni *** 
+ <lb n="3"/>wa ġāniyaẗa bni zayd:in bi kuwari ăl ʾušmūnayni wa ṭaḥā wa ḥayzi šanūdaẗa li *** bni *** min sukkāni ***** 
+ <lb n="4"/>ʾinna ka saʾalta nī wa ṭalabta ʾilay ya ʾan ʾukri ʾukriya ø ka la ø ka ø *** 
+ <lb n="5"/>mina ăl ʾarāḍī ăl ḫarāǧiyyaẗi bi ṯamāniyaẗa ʿašara dīnār:an **** ʿalà ʾan tuʾaddiya ḫarāǧa ka 
+ <lb n="6"/>maʿa nuǧūmi ăs sulṭāni ʾaʿazza hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of G[od, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		This is a document from Muḥammad b. Yaḥyâ, finance-Director [of the Amîr So and So, son of So and So, - may God prosper him - and his two deputies, So and So, son of So and So,]
+			<lb n="3"/>
+		and Ġâniya b. Zaid, in the districts of al-Ušmûnain, Ṭaḥâ and [Ḥaiz Šanûda (?) for So and So, son of So and So, belonging to the inhabitants of ...............]
+			<lb n="4"/>
+		Verily thou hast asked and petitioned that I lease unto thee [x faddâns ............]
+			<lb n="5"/>
+		[o] the ḫarāǧî-lands for eighteen [dînârs .........] that thou payest thy land-tax.
+			<lb n="6"/>
+		together with the instalments due to the Governor - may God exalt him - [
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1589" xml:id="Loth_ZweiPapyrus_2" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Loth 2 (= P.Berl.Arab. II 75)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Loth_ZweiPapyrus_2</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">170066</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم 
+ <lb n="recto 2"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بنت</supplied> <gap reason="illegible" precision="low" extent="3"/>ن ومن خناس بنت مسلم إلى أم العرب بنت عمّار 
+ <lb n="recto 3"/>  <supplied reason="lost" cert="high">وإلى</supplied> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">بنـ</supplied>ـت <app type="BL"><lem resp="APD">حيّان </lem><rdg resp="APD">حبّان</rdg></app> وإلى أم عبد الرّحيم سلم عليكم فإنّي 
+ <lb n="recto 4"/>  <supplied reason="lost" cert="high">أحـ</supplied>ـمد إليكم <supplied reason="lost" cert="high">ا</supplied>للّه الّذي لا إلـ<sic n="superfluous">ـپـ</sic>ـه إلّا هو 
+ <lb n="recto 5"/>  <supplied reason="lost" cert="high">أمّا</supplied> بعد عافنا اللّه وإيّاكم بإحسان عافيته في الدّنيا 
+ <lb n="recto 6"/>  <supplied reason="lost" cert="high">الا</supplied>حره وجعل ثوابنا وإيّاكم الجنّة برحمته كتبت إليكم 
+ <lb n="recto 7"/>  ونحن سالمون صالحون كالّذي يسرّكم واللّه محمود مشكور نسل 
+ <lb n="recto 8"/>  اللّه لنا ولكم <app type="BL"><lem resp="APD">ثمار </lem><rdg resp="Diem">تمام</rdg></app> نعمته علينا وعليكم والزّيادة من فظله فإنّما 
+ <lb n="recto 9"/>  نحن به وله اكتبو إلينا بخبركم وسلامتكم وما كانت لكم 
+ <lb n="recto 10"/>  من حاجة تأتيكم إن شـ<sic n="superfluous">ـپـ</sic>ـا اللّه فإذا كتبتم فاكتبو ثم ادفعوا 
+ <lb n="recto 11"/>  كتابكم إلى من يأتيكم بهذا الكتاب فإنّه يعرفنا وهو يرسله 
+ <lb n="recto 12"/>  إلينا مع من يعرف وإذا فرغ من حاجته مر عليكم ثم تكتبوا 
+ <lb n="recto 13"/>  معه وإن أ<supplied reason="lost" cert="high">ر</supplied>دتم يكتب لكم أو يقرأ لكم سلوه فإنّي قد أمرته 
+ <lb n="recto 14"/>  هو نعم العبد للّه وسمه يزيد بن سالم كما إذا جا إلى الفسطاط 
+ <lb n="recto 15"/>  كتبتم مع من يأتي الفسطاط تكتبو معه ثم تأمره <app type="BL"><lem resp="APD">بدفعه </lem><rdg resp="APD">يدفعه</rdg></app> إلى يزيد بن سالم 
+ <lb n="recto 16"/>  فإنّه يبلّغنا كتابكم إن شا اللّه وقرون منّا السّلم على سلامة وأمّها 
+ <lb n="recto 17"/>  كثير وجميع أهل القرية من حببتم وما كپپ لكم من حاجة والسّلم 
+ <lb n="recto 18"/>  عليكم ورحمت اللّه وبركاته ومريم وابنتها يقرون 
+ <lb n="recto 19"/>  عليكم السّلم 
+ <lb n="verso 1"/>  من خنا<supplied reason="omitted" cert="high">س</supplied> بنت مسلم إلى أم العرب بنت <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="Diem">عمّار</rdg></app> 
+ <lb n="verso 2 left"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پـ</supplied>ـدڤـ<supplied reason="lost" cert="high">ـع</supplied> </lem><rdg resp="Diem">يدفع</rdg></app> <app type="BL"><lem resp="APD">پلاهـ<supplied reason="lost" cert="high">ـون</supplied> </lem><rdg resp="Diem">بلاهون</rdg></app> <app type="BL"><lem resp="APD">عپد </lem><rdg resp="Diem">عند</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">المسحد</supplied> </lem><rdg resp="Diem">المسجد</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min *** binti ***n wa min ḫunāsa binti muslim:in ʾilà ʾummi ăl ʿarabi binti ʿammār:in 
+ <lb n="3"/>wa ʾilà **** binti ḥayyāna ḥibbāna wa ʾilà ʾummi ʿabdi ăr raḥīmi salām:un ʿalay kum fa ʾin nī 
+ <lb n="4"/>ʾaḥmadu ʾilay kumu ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu ʿāfā nā ăl lāhu wa ʾiyyā kum bi ʾiḥsāni ʿāfiyati hi fī ăd dunyā 
+ <lb n="6"/>wa ăl ʾāḫiraẗi wa ǧaʿala ṯawāba nā wa ʾiyyā kumu ăl ǧannaẗa bi raḥmati hi katabtu ʾilay kum 
+ <lb n="7"/>wa naḥnu sālimūna ṣāliḥūna ka ăllaḏī yasurru kum wa ăl lāhu maḥmūd:un maškūr:un nasalu 
+ <lb n="8"/>ăl lāha la nā wa la kum ṯimāra tamāma niʿmati hi ʿalay nā wa ʿalay kum wa ăz ziyādaẗa min faẓli hi fa ʾinnamā 
+ <lb n="9"/>naḥnu bi hi wa la hu ŭktubū ʾilay nā bi ḫabari kum wa salāmati kum wa mā kānat la kum 
+ <lb n="10"/>min ḥāǧaẗ:in taʾtī kum ʾin šāʾa ăl lāhu fa ʾiḏā katabtum fa ŭktubū ṯumma ĭdfaʿū 
+ <lb n="11"/>kitāba kum ʾilà man yaʾtī kum bi hāḏā ăl kitābi fa ʾinna hu yaʿrifu nā wa huwa yursilu hu 
+ <lb n="12"/>ʾilay nā maʿa man yaʿrifu wa ʾiḏā fariġa min ḥāǧati hi marra ʿalay kum ṯumma taktubū 
+ <lb n="13"/>maʿa hu wa ʾin ʾaradtum yaktubu la kum ʾaw yaqraʾu la kum salū hu fa ʾin nī qad ʾamartu hu 
+ <lb n="14"/>wa huwa niʿma ăl ʿabdu li l lāhi wa smu hu yazīdu bnu sālim:in kamā ʾiḏā ǧāʾa ʾilà ăl fusṭāṭi 
+ <lb n="15"/>katabtum maʿa man yaʾtī ăl fusṭāṭa taktubū maʿa hu ṯumma taʾmuru hu bi yadfaʿu dafʿi hu hi ø ʾilà yazīda bni sālim:in 
+ <lb n="16"/>fa ʾinna hu yuballiġu nā kitāba kum ʾin šā ăl lāhu wa qrūna min nā ăs salāma ʿalà salāmaẗa wa ʾummi hā 
+ <lb n="17"/>kaṯīr wa ǧamīʿi ʾahli ăl qaryaẗi man ḥababtum wa mā kānat la kum min ḥāǧaẗ:in wa ăs salāmu 
+ <lb n="18"/>ʿalay kum wa raḥmatu ăl lāhi wa barakātu hu wa maryamu wa ĭbnatu hā yaqrūna 
+ <lb n="19"/>ʿalay kumu ăs salāma 
+ <lb n="20"/>min ḫunāsa binti muslim:in ʾilà ʾummi ăl ʿarabi binti **** ʿammāra 
+ <lb n="21"/>dmʾnlʾlh yudfaʿu ø bi lāhūna ʿBd ʿinda *** ăl ø masǧidi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Allbarmherzigen.
+ 	  [Im Namen Gottes, des Barmherzigen und Gnä]digen!
+		 <lb n="2"/>
+ 	  [Von - - - bint - - -]n und von Ḫunās bint Muslim an Umm al-ʿArab bint ʿAmmār
+ 	  Von ...... und von Khunâs, der Tochter Muslims an Umm-al-ʿArab, die Tochter ʿAmmârs
+		 <lb n="3"/>
+ 	  [und an - - - bin]t Ḥayyān und an Umm ʿAbdarraḥīm. Friede sei auf Euch, denn
+ 	  und an ...., die Tochter Ḥaiyâns und an Umm-ʿAbd-al-raḥîm. Friede über euch! Ich
+		 <lb n="4"/>
+ 	  ich lobe Euch gegenüber Gott, außer dem es keinen Gott gibt.
+ 	  preise gegen euch Gott, ausser dem es keinen Gott giebt.
+		 <lb n="5"/>
+ 	  [Aber] danach - Gott schenke uns und Euch beste Gesundheit im Diesseits
+ 	  Und weiter: - Gott möge uns und euch in seinen besten Schutz nehmen in dieser und
+		 <lb n="6"/>
+ 	  jener Welt und uns und euch das Paradies zum Lohn geben nach seiner Barmherzigkeit! Ich schreibe euch,
+ 	  und Jenseits und mache das Paradies zu unserer Belohnung und zu Euch in seiner Gnade: Ich schreibe Euch,
+		 <lb n="7"/>
+ 	  indem wir gesund und wohl sind, so wie es euch freuen wird (zu hören), Gott sei gepriesen und gedankt! Wir bitten
+ 	  wobei wir (so) gesund und wohl sind, wie es Euch nur freuen kann; Gott sei Lob und Dank! Wir bitten
+		 <lb n="8"/>
+ 	  Gott für uns und euch, (dass er) den Reichthum seiner Güte über uns und euch (ausschütte) und immer mehr von seiner Gnade (zu Theil werden lasse), denn
+ 	  Gott für uns und Euch, (daß er) uns und Euch seine volle Gnade und noch mehr seine Gunst (gewähre). Denn
+		 <lb n="9"/>
+ 	  wir existieren nur durch ihn und für ihn. Teilt uns mit, wie es Euch geht und daß ihr Euch wohl befindet, und was Ihr
+ 	  wir sind nur durch ihn und für ihn. - Schreibt uns Nachricht von euch, und ob ihr euch wohl befindet, und wenn ihr
+		 <lb n="10"/>
+ 	  braucht, wird Euch (von uns) zugehen, so Gott will. Wenn Ihr (uns) schreiben wollt, dann schreibt (den Brief) nieder und übergebt
+ 	  etwas braucht: es wird euch zukommen, so Gott will. Und wenn ihr schreiben wollt, so - schreibt und gebt dann
+		 <lb n="11"/>
+ 	  den Brief hierauf demjenigen, der Euch diesen (meinen) Brief überbringt, denn er kennt uns, und er wird ihn
+ 	  euren Brief dem, welcher euch diesen Brief bringt; denn er kennt uns und wird ihn
+		 <lb n="12"/>
+ 	  uns durch jemanden überbringen lassen, der (uns) kennt. Wenn er seine Angelegenheit erledigt hat, wird er bei Euch (wieder) vorbeikommen; hierauf könnt Ihr ihm (für uns) einen Brief mitgeben.
+ 	  uns zuschicken durch jemanden, den er kennt. Wenn er mit seinem Geschäft fertig sein wird, wird er bei euch vorüberkommen, dann werdet ihr ihm (also) einen Brief
+		 <lb n="13"/>
+ 	  Falls ihr wünscht, daß er für Euch (den Brief) schreibt oder Euch (diesen Brief) vorliest, (dann) bittet ihn (nur), denn ich habe ihm (dies) befohlen, und
+ 	  mitgeben. Wenn ihr wollt, wird er für euch schreiben oder euch vortragen; bittet ihn (nur), denn ich habe ihm Auftrag gegeben, und
+		 <lb n="14"/>
+ 	  er ist ein guter Diener Gottes! Sein Name ist Yazīd ibn Sālim. Desgleichen könnt Ihr (künftig) immer dann, wenn er nach al-Fusṭāṭ kommt,
+ 	  er ist ein treuer Gottesdiener; er heisst Yazîd Sohn Sâlims. - Ebenso werdet ihr (künftig), wenn er nach al-Fusṭâṭ gekommen sein wird,
+		 <lb n="15"/>
+ 	  eure Briefe jemandem, der nach al-Fusṭâṭ geht, mitgeben: ihr werdet ihm (also) den Brief mitgeben, und du wirst ihm dann auftragen, dass  er ihn dem Yazîd Sohn Sâlims übergiebt;
+ 	  jemandem, der nach al-Fusṭāṭ geht, einen Brief mitgeben: Ihr gebt ihm einen Brief mit, und hierauf befiehlst Du ihm, er möge ihn Yazīd ibn Sālim übergeben,
+		 <lb n="16"/>
+ 	  denn er wird uns (dann) Euren Brief zuleiten, so Gott will. Grüßt von uns Salāmah und ihre Mutter
+ 	  dieser wird dann euren Brief an uns gelangen lassen, so Gott will. - Grüsst Salâmah und ihre Mutter
+		 <lb n="17"/>
+ 	  vielmals und alle Leute des Dorfes, wen auch immer Ihr (grüßen) wollt. Und wenn Ihr etwas braucht ... Der Friede
+ 	  vielmals von uns und alle Leute des Dorfs, wen ihr wollt, und wenn ihr etwas braucht - Und Friede
+		 <lb n="18"/>
+ 	  sei auf Euch und Gottes Gnade und Segnungen. Maryam und ihre Tochter grüßen
+ 	  sei über euch und die Barmherzigkeit und die Segnungen Gottes. - Maryam und ihre Tochter grüssen euch.
+		 <lb n="19"/>
+ 	  Euch.
+		 <lb n="20"/>
+ 	  Von Khunâs, der Tochter Muslims an Umm-al-ʿArab, die Tochter des .......
+ 	  Von Ḫunā&lt;s&gt; bint Muslim an Umm al-ʿArab bint [ʿAmmār - - -]
+		 <lb n="21"/>
+ 	  Ab[zuge]ben in Lāh[ūn] bei [der Moschee (?)
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1945" xml:id="Grohmann_APEL_440" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 440</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_440</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169677</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮ـ<supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـرّحمن الرّحيم أبو المكرّم ومرسله ‪δ‬ 
+<lb n="2"/>  ‮ـ<gap reason="illegible" extent="4" unit="character" />ل ‪β‬ بلوته الزّيّات ‪α‬ 
+<lb n="3"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـراسه ‪α‬ ثيدر ‪α‬ 
+<lb n="4"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/>ده ‪ε‬ <app type="BL"><lem resp="APD">جمل </lem><rdg resp="APD">جمل</rdg></app> ‪γ 
+<lb n="5"/>  ‮ـ<gap reason="illegible" precision="low" extent="3"/> وعلى حسن ‪ε‬ هلـ<supplied reason="lost" cert="high">ـس</supplied> ‪χ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾabū ăl mukarrami wa mursalu hu ‪4 
+ <lb n="2"/>****l ‪2 bilūtahu ăz zayyātu ‪1 
+ <lb n="3"/>***rāsahu ‪1 ṯiyuduru ‪1 
+ <lb n="4"/>***dahu ‪5 ḥamal:un ǧumal:un ǧuml:un ‪3 
+ <lb n="5"/>*** wa ʿalà ḥasan:in ‪5 halisu ‪1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the] Compassionate, the Merciful. Abu&#039;l-Mukarram, while his (money) sent in is 4
+			<lb n="2"/>
+		[...].l 2 Pilote, the oil-merchant, 1
+			<lb n="3"/>
+		[...]râse 1 Theodor 1
+			<lb n="4"/>
+		[...]de 5 Ḥamal 3
+			<lb n="5"/>
+		[...] and to the debit of Ḥasan 5 Heli[s] 1/2
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="905" xml:id="Grohmann_World_p_161" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 161</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_161</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113666</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  عافانا اللّه <app type="BL"><lem resp="APD">وأبقاكم </lem><rdg resp="Diem">وإيّاكم</rdg></app> فإنّي قد 
+<lb n="recto 3"/>  كنت كتبت إليكم <app type="BL"><lem resp="APD">آمركم </lem><rdg resp="Diem">آمركم</rdg></app> <gap reason="illegible" precision="low" extent="3"/>    
+<lb n="recto 4"/>  ستّة مائة كبش <app type="BL"><lem resp="APD">فليكن </lem><rdg resp="Dietrich; Diem">بستّة </rdg></app>  كبش فليكن 
+<lb n="recto 5"/>  إلى يومين <app type="BL"><lem resp="APD">ولا </lem><rdg resp="Dietrich; Diem">شىء</rdg></app> تدع أن تشتري حوائج رمضان 
+<lb n="recto 6"/>  على سلامتك الّتي في عافية فلا يكون 
+<lb n="recto 7"/>  وبعد غم وأبو كريم يقريكم سلام كثيرا وأنا 
+<lb n="recto 8"/>  ولا توحروه ساعة إن شا اللّه  
+<lb n="verso 1"/>  على الاجران فتنقلوا البر إلى المنزل وتصيروه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʿāfā nā ăl lāhu wa ʾabqā ʾiyyā kum fa ʾin nī qad 
+ <lb n="3"/>kuntu katabtu ʾilay kum ʾamra ʾāmuru kum ʾan taqdamū tuqaddimū min ḍaʾni 
+ <lb n="4"/>ʾibrāhīma bni maymūn:in ø bi sittaẗa sittaẗi miʾaẗi kabš:in fa l yakun 
+ <lb n="5"/>ḥaqqu hu ʾakbaru min šayʾ:in nī ø fī hā li tanfuqa tunfaqa min nā wa l yakun qudūmu kum 
+ <lb n="6"/>bi hā ăl yawma laʿalla nā nabīʿu hā ġad:an yawma ăs sabti 
+ <lb n="7"/>wa baʿda ġad:an yawma ăl ʾaḥadi ʾin šāʾa ăl lāhu fa ʿaǧǧilū 
+ <lb n="8"/>ʾilay hi wa lā tuʾaḫḫirū hu sāʿaẗ:an ʾin šāʾa ăl lāhu 
+ <lb n="9"/>min ǧunādaẗa bni ʿīsà ʾilà zabāna wa ʾaṣḥābi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Allbarmherzigen! 
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Gott erhalte und und Euch gesund und wohl! Und dann, ich  
+		May God keep us in health and may He preserve you. Verily I
+			<lb n="3"/>
+		habe Euch ja doch schon den schriftlichen Auftrag geschickt, daß Ihr von den Hammel 
+		had already written to you ordering you that you let come of the sheep
+			<lb n="4"/>
+		des Ibrahîm ibn Maimûn 600 Widder sollt kommen lassen; denn wahrhaftig, 
+		of Ibrahîm ibn Maimûn sixhundred rams; for
+			<lb n="5"/>
+		his obligation respecting them is greater than mine so that they be cleared off hastily by us. And your arrival
+		seine Verpflichtung (gegen uns) in Betreff derselben wird ja um so größer sein, da seine Waare durch uns rasch abgesetzt wird. Eure Ankunft 
+		seine Verpflichtung ist, was sie betrifft, die Hauptsache, damit sie von uns aus rasch abgesetzt werden
+			<lb n="6"/>
+		mit den Widdern möge also noch heute erfolgen; vielleicht, daß wir sie morgen, Samstag, 
+		with them should be to-day. Perhaps we may sell them to-morrow Saturday
+			<lb n="7"/>
+		and the day after to-morrow, Sunday, if God wills. So hurry
+		und übermorgen, Sonntag, verkaufen können, so Gott will! Also eilet! 
+			<lb n="8"/>
+		to him and do not be behind therewith one hour, please God.
+		Zögert keine Stunde! So Gott will! 
+			<lb n="9"/>
+		From Gunâda ibn ʿÎsâ to Zabân and his mates.
+</ab></div>
+</body>
+</text>
+</TEI>

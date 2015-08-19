@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2343" xml:id="MoutonSourdel_Damas_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MariageSeparation 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdel_Damas_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم صلّی اللّه علی <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  شهد الشّهود المسمّون في أسفل هذا الكتاب أنّهم يعرفون <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  بن عبيد الرّدمی معرفة ثابتة بأعيانهما وأسمائهما وأقرّا جميعا أن المذكورين <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">سيّدة</supplied> 
+<lb n="4"/>  الكل اللبيث بنت أبي الزّكر المذكور بن مخلوف المذكور بأمرها <gap reason="illegible" extent="17" unit="character" /> 
+<lb n="5"/>  صداق جملته خمسون دينار رباعيّا النّصف من ذلك عشرون رباعيّا <supplied reason="lost" cert="high">وخمس</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  الزّوج المذكور وألزم نفسه كلّيّته بمخاطبة جرّت بينهما في ذلك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ملك من أملاك أخته سيّدة الكل المذكورة جميع الدّار الّتي لها بحارة <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  هناك ملك سيّدة الكل المذكورة ومن الكسا رذائل <gap reason="illegible" extent="10" unit="character" /> ورذائل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" extent="10" unit="character" /> وأقرّا منه في <gap reason="illegible" extent="9" unit="character" /> غلالة صفرا وزوج غلائل بيضى و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" extent="25" unit="character" /> أبيض كتّان ومندل و<gap reason="illegible" extent="44" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ṣallà ăl lāhu ʿalà *** *** 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī ʾasfali hāḏā ăl kitābi ʾanna hum yaʿrifūna *** 
+ <lb n="3"/>bn ʿubayd:in ăr radamī maʿrifaẗ:an ṯābitaẗ:an bi ʾaʿyāni himā wa ʾasmāʾi himā wa ʾaqarrā ǧamīʿ:an ʾanna ăl maḏkūrayni *** sayyidaẗ 
+ <lb n="4"/>ăl kulli ăl labīṯ bint ʾabī ăl zakari ăl maḏkūri bni maḫlūf:ini ăl maḏkūri bi ʾamri hā *** 
+ <lb n="5"/>ṣadāq:un ǧumlatu hu ḫamsūna dīnār rubāʿiyy:an ăn niṣfu min ḏālika ʿišrūna rubāʿiyy:an wa ḫams:un *** 
+ <lb n="6"/>ăz zawǧ ăl maḏkūr wa ʾalzama nafsa hu kulliyyaẗa hu bi muḫāṭabaẗ:in ǧarat bayna humā fī ḏālika *** 
+ <lb n="7"/>milk min ʾamlāki ʾuḫti hi sayyidaẗi ăl kulli ăl maḏkūraẗi ǧamīʿ ăd dāri ăllatī la hā bi ḥāraẗi *** *** 
+ <lb n="8"/>hunāka milku sayyidaẗi ăl kulli ăl maḏkūraẗi wa mina ăl kisāʾi raḏāʾilu *** wa raḏāʾil *** 
+ <lb n="9"/>*** wa ʾaqarrā min hu fī *** ġilālaẗ ṣafrāʾ wa zawǧ ġalāʾila bayḍà wa *** 
+ <lb n="10"/>*** ʾabyaḍ kattān wa mandil wa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, le Clément, le Miséricordieux. Que Dieu répande Ses bénédictions sur [...]
+			<lb n="2"/>
+		Les témoins nommés au bas de ce document (kitāb) témoignent qu&#039;ils connaissent [...]
+			<lb n="3"/>
+		b. ʿUbayd al-Radamī, tous deux, dʾune connaissance effective, en personne et de nom. Tous deux attestent ensemble que les deux susdits [... Sayyidat]
+			<lb n="4"/>
+		al-Kull al-Labīṯ, fille d&#039;Abū l-Zakar susdit fils de Maḫlūf susdit, avec son autorisation [...]
+			<lb n="5"/>
+		(a reçu) une dot (ṣadāq) dont la totalité se monte à cinquante dinars rubāʿī, la moitié étant de vingt-cinq dinars rubāʿī [...]
+			<lb n="6"/>
+		l&#039;époux susdit et il se conforma à tout ce qui lui fut demandé dans un entretien (muḫāṭaba) qui eut lieu entre eux deux à ce sujet [...]
+			<lb n="7"/>
+		un bien parmi les biens de sa sœur, la susdite Sayyidat al-Kull, l&#039;ensemble de la propriété qui lui appartient dans le quartier de [...]
+			<lb n="8"/>
+		là le bien de la susdite Sayyidat al-Kull et parmi les vêtements [...]
+			<lb n="9"/>
+		...tous deux attestent que fait partie de ... un vêtement de femme jaune et une paire de vêtements de femme blancs [...]
+			<lb n="10"/>
+		...blanc, une toile de lin et une pièce de linge [...]
+</ab></div>
+</body>
+</text>
+</TEI>

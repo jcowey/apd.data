@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1070" xml:id="Diem_Dienstschreiben_d" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 27 A (= P.DiemDienstschreiben d)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Dienstschreiben_d</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168938</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن 
+<lb n="2"/>  الرّحيم 
+<lb n="3"/>  إلى <app type="BL"><lem resp="“David-Weill et al.; Diem”">عمّار </lem><rdg resp="“David-Weill et al.”">عثمان</rdg></app> 
+<lb n="4"/>  أمّا بعد فسرّح 
+<lb n="5"/>  لإبرهيم سفينة 
+<lb n="6"/>  تبن <app type="BL"><lem resp="APD">يحمل </lem><rdg resp="“Diem”">تحمل</rdg></app> <app type="BL"><lem resp="“David-Weill et al.”"><sic n="superfluous">هدس</sic><supplied reason="omitted" cert="high">عدس</supplied> </lem><rdg resp="“David-Weill et al.”">مدّتين </rdg><rdg resp="“Diem”">مديين </rdg><rdg resp="“David-Weill et al.”">مرّتين</rdg></app> 
+<lb n="7"/>  وكتب يحيى يوم 
+<lb n="8"/>  الخميس للنصف <supplied reason="omitted" cert="high">من</supplied> 
+<lb n="9"/>  جمادى الأولى 
+<lb n="10"/>  سنة ثنتين ومئة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni 
+ <lb n="2"/>ăr raḥīmi 
+ <lb n="3"/>ʾilà ʿammār:in ʿuṯmāna 
+ <lb n="4"/>ʾammā baʿdu fa sarriḥ 
+ <lb n="5"/>li ʾibrāhīma safīnaẗa 
+ <lb n="6"/>tibn:in taḥmilu yaḥmilu ʿadas maddatayni mudyayni marratayni 
+ <lb n="7"/>wa kataba yaḥyà yawma 
+ <lb n="8"/>ăl ḫamīsi li ăn niṣfi min 
+ <lb n="9"/>ǧumādà ăl ʾūlà 
+ <lb n="10"/>sanaẗa ṯnatayni wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément
+		Im Namen Gottes des barmherzigen
+			<lb n="2"/>
+		miséricordieux
+		und erbarmenden.
+			<lb n="3"/>
+		A ʿAmmār
+		An ʿAmmār.
+			<lb n="4"/>
+		Ensuite: libre à Ibrāhim
+		Gib frei
+			<lb n="5"/>
+		dem Ibrāhīm ein Schiff
+		(dʾutiliser) un bateau
+			<lb n="6"/>
+		de paille pour porter du myrte (?)
+		mit Stroh, welches zwei mudy befördert.
+			<lb n="7"/>
+		Ecrit par Yaḥyā le jour
+		Geschrieben von Yaḥyā am Donners-
+			<lb n="8"/>
+		du jeudi au milieu
+		tag zur Hälfte &lt;vom&gt;
+			<lb n="9"/>
+		de djumādā 1er
+		ersten Ǧumādā
+			<lb n="10"/>
+		de lʾan 102.
+		im Jahre einhundertundzwei.
+</ab></div>
+</body>
+</text>
+</TEI>

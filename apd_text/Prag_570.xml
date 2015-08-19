@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1721" xml:id="Prag_570" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 57</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_570</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169468</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بـ</supplied>ـسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أطال اللّه بقاك وأعزّك وأكرمك وأتم نعمته عليك و<supplied reason="lost" cert="high">زاد</supplied> <supplied reason="lost" cert="high">في</supplied> 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">إ</supplied>حسانه إليك <app type="BL"><lem resp="APD">وعندك </lem><rdg resp="Diem">وعندك</rdg></app> كتبت إليك جعلني اللّه فـ<supplied reason="lost" cert="high">ـداك</supplied> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">و</supplied>أنا بحال عافية والحمد للّه كثيرا وقدمت أعزّك اللّه الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">وقد</supplied> 
+<lb n="recto 5"/>  وفا <app type="BL"><lem resp="APD">عند </lem><rdg resp="Diem">بعد</rdg></app> قدومي العمل بأربعة أيّام أو خمسة فأكـ<supplied reason="lost" cert="high">ـون</supplied> 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ إلى نفسي فعلت لعلّه حـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> إلّا خمسة الدّنانير وأخوه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">اپ</unclear> والحمد للّه على <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">حال</supplied> 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">إلى</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>طال اللّه بقاه من أبيه الجنيد بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أبقـ</supplied>ـاه اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī 
+ <lb n="3"/>ʾiḥsāni hi ʾilay ka wa ʿattada ʿinda ka katabtu ʾilay ka ǧaʿala nī ăl lāhu fidāʾa ka 
+ <lb n="4"/>wa ʾanā bi ḥāli ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an wa qadimtu ʾaʿazza ka ăl lāhu ăl **** wa qad 
+ <lb n="5"/>wafā ʿinda baʿda qudūm ī ăl ʿamalu bi ʾarbaʿaẗi ʾayyām:in ʾaw ḫamsaẗ:in fa ʾakūnu 
+ <lb n="6"/>*** ***** ***B ʾilà nafs ī faʿalta laʿalla hu ḥ**** 
+ <lb n="7"/>*** ʾillā ḫamsaẗa ăd danānīri wa ʾaḫū hu *** 
+ <lb n="8"/>*** ***ʾt wa ăl ḥamdu li l lāhi ʿalà kulli ḥāl:in 
+ <lb n="9"/>ʾilà *** bni *** ʾaṭāla ăl lāhu baqāʾa hu min ʾabī hi ăl ǧunaydi bni *** 
+ <lb n="10"/>*** ʾabqā hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im] Namen Gottes, des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben und stärke Dich und erweise sich Dir wohltätig und vollende seine Gnade an Dir und vermehre
+			<lb n="3"/>
+		sein Wohltun gegen Dich und mache Dich bereit. Ich schrieb an Dich, - Gott mache mich zu [Deinem Löse]gelde -
+			<lb n="4"/>
+		[während] ich (mich) im Stande der Gesundheit (befinde) und Lob sei Gott vielmals, und - Gott stärke Dich - in al-[...] ankam. Und die
+			<lb n="5"/>
+		Arbeit hatte bei meiner Ankunft bereits vier oder fünf Tage gedauert. So b[in] ich [...]
+		Und die Arbeit ist vier oder fünf Tage nach meiner Ankunft vollständig erledigt worden.
+			<lb n="6"/>
+		[...].......[...].. zu mir, so mögest Du es tun, vielleicht .... [...] er
+			<lb n="7"/>
+		[...] außer den fünf Dīnāren, und sein Bruder [...]
+			<lb n="8"/>
+		[...]...... und Lob sei Gott auf [jeden Fall].
+			<lb n="9"/>
+		[An N.N. Sohn des N.N.] Gott lasse ihn lange leben _ von seinem Vater al-Ǧunaid b. [...]
+			<lb n="10"/>
+		[...] Gott erhalte ihn [am Leben].
+</ab></div>
+</body>
+</text>
+</TEI>

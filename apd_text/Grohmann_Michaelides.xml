@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1288" xml:id="Grohmann_Michaelides" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannMichaelides</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Michaelides</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169111</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="recto1"/>  ربـ<supplied reason="lost" cert="high">ـع</supplied> بزر فقّوس دركن الثّمن ربع دينار 
+ <lb n="recto2"/>  ربع <supplied reason="lost" cert="high">بز</supplied>ر قثّا الثّمن ربع دينار 
+ <lb n="recto3"/>  وفي إصلاح الميزان وا<supplied reason="lost" cert="high">لـ</supplied>ـسّـ<supplied reason="omitted" cert="high">ـنـ</supplied>ـجات ربع درهم 
+ <lb n="recto4"/>  وأيضا ثلاث يعاليل الثّمن دانق 
+ <lb n="recto5"/>  ووزن الدّينار الأوّل عشرين قيراط ودانق 
+ <lb n="recto6"/>  وهي خمس اعشر درهما ودانق 
+ <lb n="recto7"/>  والدّينار الثّاني اثنين وعشرين قيراط وهي ست اعشـ<supplied reason="lost" cert="high">ـر</supplied> 
+ <lb n="recto8"/>  درهما ونصف فذلك اثنين وثلا<supplied reason="lost" cert="high">ثـ</supplied>ـين درهما غير ثلث 
+ <lb n="recto9"/>  وفي الجذيذ أربع دراهم غير ثلث <sic n="superfluous">دهن</sic> و<supplied reason="lost" cert="high">تـ</supplied>ـسرّفت ثلاث أرابع 
+ <lb n="recto10"/>  <sic n="superfluous">دپپر</sic> <app type="BL"><lem resp="APD"><supplied reason="omitted" cert="high">درهم</supplied> </lem><rdg resp="APD">درهم</rdg></app> درهـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="recto11"/>  خرج من ذلك في النّفقات λ 
+ <lb n="recto12"/>  وبقي عندي γʹ‎ 
+ <lb n="recto13"/>  <sic n="superfluous">ڤ</sic> <expan><ex>فذلك</ex></expan> λαγ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>rubʿu bizri faqqūs:in drkn ăṯ ṯamanu rubʿu dīnār:in 
+ <lb n="2"/>rubʿu bizri qiṯṯāʾa ăṯ ṯamanu rubʿu dīnār:in 
+ <lb n="3"/>wa fī ʾiṣlāḥi ăl mīzāni wa ăs sanaǧāti rubʿu dirham:in 
+ <lb n="4"/>wa ʾayḍ:an ṯalāṯu yaʿālīla ăṯ ṯamanu dāniq:un 
+ <lb n="5"/>wa waznu ăd dīnāri ăl ʾawwali ʿišrīna qīrāṭ wa dāniq:un 
+ <lb n="6"/>wa hiya ḫamsa ĭʿšara dirham:an wa dāniq:un 
+ <lb n="7"/>wa ăd dīnāru ăṯ ṯānī ĭṯnayni wa ʿišrīna qīrāṭ wa hiya sitta ĭʿšara 
+ <lb n="8"/>dirham:an wa niṣf:un fa ḏālika ĭṯnayni wa ṯalāṯīna dirham:an ġayru ṯulṯ:in 
+ <lb n="9"/>wa fī ăl ǧaḏīḏi ʾarbaʿu darāhima ġayru ṯulṯ:in wa tasarrafat ṯalāṯu ʾarābiʿi 
+ <lb n="10"/>dīnār:in dirham:in dirham:in 
+ <lb n="11"/>ḫaraǧa min ḏālika fī ăn nafaqāti 31 1/3 
+ <lb n="12"/>wa baqiya ʿind ī 1/3 
+ <lb n="13"/>fa ḏālika 31 2/3 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Ein Viert[el] Gurkensamen ..... der Preis ein Viertel Dīnār.
+		 <lb n="2"/>
+ 	  Ein Viertel Melonen[sam]en der Preis ein Viertel Dīnār,
+		 <lb n="3"/>
+ 	  und für die Wiederinstandsetzung der Waage und der Gewichte ein Viertel Dirham
+		 <lb n="4"/>
+ 	  und weiters drei ......... der Preis ein Dāniq.
+		 <lb n="5"/>
+ 	  Und das Gewicht des ersten Dīnārs (beträgt) zwanzig Karat und einen Dāniq
+		 <lb n="6"/>
+ 	  und (entspricht) fünfzehn Dirham und einem Dāniq,
+		 <lb n="7"/>
+ 	  und der zweite Dīnār (wiegt) zweiundzwanzig Karat und entspricht sechze[hn]
+		 <lb n="8"/>
+ 	  Dirham und einhalb. Das macht also zweiund[dr]eißig Dirham weniger ein Drittel.
+		 <lb n="9"/>
+ 	  Und für grobes Mehl vier Dirham weniger ein Drittel, und es wurde drei Viertel Dirham völlig verbraucht (?)
+		 <lb n="10"/>
+ 	  Dīnār
+		 <lb n="11"/>
+ 	  Hievon wurden für die Unterhaltskosten ausgegeben 31 1/3 
+		 <lb n="12"/>
+ 	  Und es verblieben mir 1/3
+		 <lb n="13"/>
+ 	  Das macht: 31 2/3
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

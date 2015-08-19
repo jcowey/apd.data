@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2023" xml:id="Grohmann_APEL_250" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 250</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_250</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <del rend="erasure" status="unremarkable">پن</del> <del rend="erasure" status="unremarkable">مپدپه</del> <del rend="erasure" status="unremarkable">بسا</del>جر <gap reason="illegible" extent="1" unit="character" /> تڤام سلوڤـ<supplied reason="lost" cert="high">ـه</supplied> ÷÷ <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن د<gap reason="illegible" precision="low" extent="3"/> ÷ <gap reason="illegible" extent="1" unit="character" /> دموپه پن اپو هلس ÷÷ 
+<lb n="2"/>  أبو غرم أبو غرم ساح ÷ 
+<lb n="3"/>  إسمعـ<supplied reason="lost" cert="high">ـيل</supplied> الجروي ÷ ابن إمرت سرجه الرّقّام ÷ عبد العزيز التّاجر ÷ <gap reason="illegible" extent="1" unit="character" /> جرجه فبلّو ساح 
+<lb n="4"/>  التّاجـ<supplied reason="lost" cert="high">ـر</supplied> وابنه ÷ 
+<lb n="5"/>  بن بهيو <gap reason="illegible" extent="1" unit="character" /> الخبّاز ÷ الرّقّام بو حديد بن هللـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /> نجد وسپپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـاهه ÷ أبو زيد الـ<supplied reason="lost" cert="high">ـتّـ</supplied>ـاجر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  أ<supplied reason="lost" cert="high">بو</supplied> غرم أبو غرم <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـن ڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  املحـ<supplied reason="lost" cert="high">ـل</supplied> الشّمّاس ساح ÷ أخو إصطفن الشّمّا<supplied reason="lost" cert="high">س</supplied> ÷ لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـپ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  مرقوره ساح <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  <gap reason="illegible" extent="1" unit="character" /> قزمان بن هللـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> ÷ بن الحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bnu mandayaẗi tisāǧura * baqāmu salūqaha 1 1/2 ***n d*** 1/2 * damūnahu bnu ʾabū halisa 2 1/2 
+ <lb n="2"/>ʾabū ġurm:in ʾabū ġurm:in sāḥa 1 
+ <lb n="3"/>ʾismāʿīlu ăl ǧarawiyyu ǧirwiyyu 2/3 ĭbnu ĭmrati sarǧaha ăr raqqāmu 1/2 ʿabdu ăl ʿazīzi ăt tāǧiru 1 * ǧirǧahu fabullū sāḥa 
+ <lb n="4"/>ăt tāǧiru wa ĭbnu hu 2 
+ <lb n="5"/>bnu bihyū * ăl ḫabbāzu 1 ăr raqqāmu bū ḥadīdi bni hall* naǧid:un wa sBB**ʾhh 1/2 ʾabū zayd:in ăt tāǧiru *** 
+ <lb n="6"/>ʾabū ġurm:in ʾabū ġurm:in ***n f***h *** 
+ <lb n="7"/>ʾmlḥl ăš šammāsu sāḥa 2 ʾaḫū ʾiṣṭafana ăš šammāsu 2 l***B *** 
+ <lb n="8"/>marqūrahu sāḥa *** 
+ <lb n="9"/>* quzmānu bnu hll*** 1 bn ăl ḥ*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		〚The son of Mendeye Tisâ〛gor(as) ... Bqâm Seleuke 1 1/2 [...]n D[...] 1/2 Damûne, son of Abû Helis 2 1/2
+			<lb n="2"/>
+		finable / finable / gadsabout 1
+			<lb n="3"/>
+		Ismaʿ[îl] al-Ǧarawî 2/3 the son of Serge&#039;s wife, the embroiderer 1/2 ʿAbd al-ʿAzîz, the merchant 1 Ǧirǧe Fabollô, gadsabout
+			<lb n="4"/>
+		the merch[ant] and his son 2
+			<lb n="5"/>
+		The son of Piheu, the baker 1 the embroiderer Bû Ḥadîd Helil [...] [..] Naǧid and ..[...]âhe 1/2 Abû Zaid, the merchant [
+			<lb n="6"/>
+		[fin]able finable [...]............[
+			<lb n="7"/>
+		A...l......, the deacon, gadsabout 2 the brother of Iṣṭafan, the deacon, 2  ............[
+			<lb n="8"/>
+		Merqûre, gadsabout
+			<lb n="9"/>
+		Quzmân, son of Helîl [...] 1 the son of al-Ḥ[
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2648" xml:id="Grohmann_CPR_III_1_186" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusprotokolle p. 49 (= CPR III 1 186 = Chrest.Khoury I 06)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_CPR_III_1_186</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> اللّه الرّحمـ<supplied reason="lost" cert="high">ـن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+ <lb n="2"/>  <supplied reason="lost" cert="high">قل</supplied> <supplied reason="lost" cert="high">هو</supplied> <supplied reason="lost" cert="high">اللّه</supplied> الصّمد لم يلد <supplied reason="omitted" cert="high">و</supplied>لـ<supplied reason="omitted" cert="high">ـم</supplied> يولد وـلـ<supplied reason="lost" cert="high">ـم</supplied> 
+ <lb n="3"/>  <supplied reason="lost" cert="high">يكن</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">كفوا</supplied> <supplied reason="lost" cert="high">أحد</supplied> <supplied reason="lost" cert="high">لا</supplied> إله إلّا اللّه و<supplied reason="lost" cert="high">حده</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">شريك</supplied> <supplied reason="lost" cert="high">له</supplied> 
+ <lb n="4"/>  <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">رسول</supplied> <supplied reason="lost" cert="high">اللّه</supplied> صلّى اللّه عليه بركـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+ <lb n="5"/>  <supplied reason="lost" cert="high">لـعبد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <app type="BL"><lem resp="APD">احمد </lem><rdg resp="Grohmann; Khoury">أبي</rdg></app> <app type="BL"><lem resp="APD">ألامام </lem><rdg resp="Grohmann; Khoury">محمّد</rdg></app> المعپمد <app type="BL"><lem resp="APD">عـ<supplied reason="lost" cert="high">ـلى</supplied> </lem><rdg resp="Grohmann; Khoury">المقتدر</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الله</supplied> </lem><rdg resp="Grohmann; Khoury">ø</rdg></app> 
+ <lb n="6"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أمير</supplied> </lem><rdg resp="Grohmann; Khoury">في</rdg></app> <app type="BL"><lem resp="APD">المومپپن </lem><rdg resp="Grohmann; Khoury">سنة</rdg></app> <app type="BL"><lem resp="APD">اطـ<supplied reason="lost" cert="high">ـال</supplied> </lem><rdg resp="Grohmann; Khoury"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ألله</supplied> </lem><rdg resp="Grohmann; Khoury">وتسعين</rdg></app> 
+ <lb n="7"/>  <app type="BL"><lem resp="APD">بقاه </lem><rdg resp="Grohmann; Khoury">ø</rdg></app> <app type="BL"><lem resp="APD">حسبـي </lem><rdg resp="Grohmann; Khoury">بسم</rdg></app> اللّه <app type="BL"><lem resp="APD">وپعم </lem><rdg resp="Grohmann; Khoury">الرّحمن</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الو</supplied>كـ<supplied reason="lost" cert="high">ـنل</supplied> </lem><rdg resp="Grohmann; Khoury">الرّحيم</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مما</supplied> </lem><rdg resp="Grohmann; Khoury">صلّى</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">امر</supplied> </lem><rdg resp="Grohmann; Khoury">اللّه</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">په</supplied> </lem><rdg resp="Grohmann; Khoury">على</rdg></app> 
+ <lb n="8"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Grohmann; Khoury">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بن</supplied> </lem><rdg resp="Grohmann; Khoury">ø</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Grohmann; Khoury">تكين</rdg></app> <supplied reason="lost" cert="high">مولـ</supplied>ـى أمير المومپپن <app type="BL"><lem resp="APD">أن </lem><rdg resp="Grohmann; Khoury">أمير</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يصنع</supplied> </lem><rdg resp="Grohmann; Khoury">الجيش</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">في</supplied> </lem><rdg resp="Grohmann; Khoury">ø</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">مدينة</supplied> </lem><rdg resp="Grohmann; Khoury">ø</rdg></app> 
+ <lb n="9"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الافركون</supplied> </lem><rdg resp="Grohmann; Khoury">صنعة</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">سنة</supplied> </lem><rdg resp="Grohmann; Khoury">محمّد</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Grohmann; Khoury">بن</rdg></app> <app type="BL"><lem resp="APD">مائتين </lem><rdg resp="Grohmann; Khoury">حمّاد</rdg></app> 
+ <lb n="10"/>  <supplied reason="lost" cert="high">الوزير</supplied> <supplied reason="lost" cert="high">أبو</supplied> <supplied reason="lost" cert="high">الحسن</supplied> <supplied reason="lost" cert="high">علـ[ـيّ</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">محمّد</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">الفرات</supplied> 
+ <lb n="11"/>  الحسين الحسن 
+ <lb n="12"/>  <supplied reason="lost" cert="high">بـ</supplied>ـن أحمد الـ<gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qul huwa ăl lāhu ăṣ ṣamadu lam yalid wa lam yūlad wa lam 
+ <lb n="3"/>yakun la hu kufuʾ:an ʾaḥad:un lā ʾilāha ʾillā ăl lāhu waḥda hu lā šarīka la hu 
+ <lb n="4"/>muḥammad:un rasūlu ăl lāhi ṣallà ăl lāhu ʿalay hi barakaẗ:un mina ăl lāhi ø wa ø niʿmaẗ:un ø wa ø saʿādaẗ:un 
+ <lb n="5"/>li ʿabdi ăl lāhi ø ʾabī ʾaḥmada muḥammad:ini ăl ʾimāmi ăl muqtadiri muʿtamidi ʿalà ø ø bi ăl lāhi ʾamīri ø ăl ø muʾminīna ø ʾaṭāla ø ăl ø lāhu ø baqāʾa ø hu 
+ <lb n="6"/>ʾamīri fī ø sanaẗi ăl *** muʾminīna ʾaṭāla wa ø tisʿīna ăl wa lāhu miʾatayni 
+ <lb n="7"/>baqāʾa ø hu ø ḥasb bi ī smi ăl lāhi lāhu ø ăr ø raḥmāni wa ăr niʿma raḥīmi ăl ṣallà wakīlu ø ăl ø lāhu mimmā ʿalà ʾamara bi ăn hi nabiyyi 
+ <lb n="8"/>*** ø bnu ø *** takīnu mawlà ʾamīri ăl muʾminīna ʾan ʾamīru ø ăl yaṣnaʿa ǧayši fī ø madīnaẗi ø 
+ <lb n="9"/>ʾafrakūni ăl ø ṣanʿaẗu sanaẗa muḥammad:in *** bni miʾatayni ḥammāda 
+ <lb n="10"/>ăl wazīru ʾabū ăl ḥasani ʿaliyy:un bnu muḥammadi bni ăl furāti 
+ <lb n="11"/>ăl ḥusayn ăl ḥasan 
+ <lb n="12"/>bn ʾaḥmada ăl *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Au nom] de Dieu clé[ment et miséricordieux!]
+ 	  [Im Namen] Gottes des Barmherzig[en, der Erbarmenden!]
+		 <lb n="2"/>
+ 	  [Dis: i lest Dieu l’un, Dieu] l’éternel. Il n’a pas engendré, n’a pas été engendré et [personne] n[e lui est égal.]
+ 	  [Sprich: Er ist Gott] der Eine, Gott der Ewige. Er zeugte nicht und war nicht gezeugt, und nie[mand]
+		 <lb n="3"/>
+ 	  [Il n’y a de] Dieu qu’Allah seul, [il n’a pas de compagnon.]
+ 	  [ist ihm gleich. Es ist kein] Gott außer Gott dem Ei[nem, er hat keinen Genossen.]
+		 <lb n="4"/>
+ 	  [Muḥammad est le Messager de Dieu], que Dieu le bénisse. Bé[nédiction de Dieu, grâce et bonheur]
+ 	  [Muhammed ist der Gesandte Gottes,] den Gott segnen möge! Sege[n von Gott]
+		 <lb n="5"/>
+ 	  [au serviteur de Dieu Abū] Muḥammad l’Imām al-Muqtadir bi[-llāhh, prince des croyants, que Dieu lui prolonge sa vie.]
+ 	  [dem Diener Gottes] Ahmed, dem Imâm el-Muʾtamid ʿa[la Allâh,]
+		 <lb n="6"/>
+ 	  [En l’an] deux cent quatre-vingt-dix-[...]
+ 	  [Fürsten] der Gläubigen, [Gott lasse ihn] lange
+		 <lb n="7"/>
+ 	  [Au nom de Dieu clé]ment et miséricordieux! Que [Dieu] bénisse le Prophète Muḥammad.]
+ 	  [leben!] Gott ist mein Genüge und der beste Sachwalter! [Etwas von, was angeordnet at]
+		 <lb n="8"/>
+ 	  [NN. Sohn des NN., Klie]nt des Fürsten der Gläubigen, daß [es verfertigt werde in der Stadt]
+ 	  [Takīn, affranchi] du prince des croyants, commandant en chef de [l’armée.]
+		 <lb n="9"/>
+ 	  [el-Afragûn im Jahre] zweihundert ......
+ 	  [Exécution de] Muḥammad Ibn Ḥammād [...]
+		 <lb n="10"/>
+ 	  [Le vizir Abū] l-Ḥasan ʿA[li Ibn Muḥammad Ibn al-Furāt].
+		 <lb n="11"/>
+ 	  Al-Ḥusayn al-Ḥasan
+		 <lb n="12"/>
+ 	  [Ib]n Aḥmad al-[....]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

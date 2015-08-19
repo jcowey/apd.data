@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="904" xml:id="Guo_Quseir_36" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 36</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_36</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113665</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  المشتري المذكور و<gap reason="illegible" extent="10" unit="character" /> يعرف 
+<lb n="recto 2"/>  له عبد الواحد من هذا محمّد بن سليمان بن أحمد جميع الرّبح والتّمن و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  الفارسيّة ومثل ذلك من غلامنا المعونة بادله بها من أحجار وأحباب وإصطبل و 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> الڤارسپه المدكوره وله صپپان سعلنا وعلومنا ومراڤڤپا ڤى <gap reason="illegible" extent="6" unit="character" /> 
+<lb n="recto 5"/>  ونحن نرجوا وصول المراكب تصل فهي <gap reason="illegible" extent="16" unit="character" /> 
+<lb n="recto 6"/>  مسرعه لدا النّاس إلى عشيرات الحجّاج <gap reason="illegible" extent="16" unit="character" /> 
+<lb n="verso 1"/>  <gap reason="illegible" extent="5" unit="character" /> القصير وكانوا مركبين يحلّوا <gap reason="illegible" extent="10" unit="character" /> 
+<lb n="verso 2"/>  وعن هم في وادي تبيع ما حسن أخذ لعشر فيهم لأن <unclear reason="undefined" cert="high">السّلطان</unclear> قال 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl muštarī ăl maḏkūr wa ********** yuʿrafu 
+ <lb n="2"/>la hu ʿabd ăl wāḥidi min hāḏā muḥammadi bni sulaymāna bni ʾaḥmada ǧamīʿ ăr ribḥi wa ăṯ taman wa *** 
+ <lb n="3"/>ăl fārisiyyaẗ wa miṯl ḏālika min ġulāmi nā ăl maʿūnaẗu bādilu hu bi hā min ʾaḥǧār:in wa ʾaḥbāb:in wa ʾiṣṭabl:in wa 
+ <lb n="4"/>*** ăl fārisiyyaẗ ăl maḏkūraẗ wa la hu ṣibyān:un šaġġalnā wa ġulūmu nā wa murāfiqu nā fī ****** 
+ <lb n="5"/>wa naḥnu narǧū wuṣūla ăl marākibi taṣilu fa hiya **************** 
+ <lb n="6"/>musriʿaẗ ladā ăn nāsi ʾilà ʿašīrāti ăl ḥuǧǧāǧi **************** 
+ <lb n="7"/>***** ăl quṣayr wa kānū markabayni yaḥillū ********** 
+ <lb n="8"/>wa ʿan hum fī wādī tabīʿ mā ḥasan:un ʾaḫḏi li ʿušr:in fī him liʾanna ăs sulṭāna qāla 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		The aforesaid buyer [......] who is by the name of 
+			<lb n="2"/>
+		ʿAbd al-Wāḥid [who received?] from this Muḥammad ibn Sulaymān ibn Aḥmad all the profits and the payments, and [.....]
+			<lb n="3"/>
+		from Persia, and the like from our slave boy. The provisions [are provided] in exchange for semi-precious stones, pearls and beads, stable [supplies], and [...]
+			<lb n="4"/>
+		from Persia, which is mentioned above. At his disposal are youths whom we employed, together with our own slave boys and company in [.....].
+			<lb n="5"/>
+		We hope that the boats will arrive soon [so the shipments could be delivered]
+			<lb n="6"/>
+		quickly, from the people [who held them,] to the pilgrims [......].
+			<lb n="7"/>
+		[To be dispatched to] Quseir; they were in two boats, arriving at [......].
+			<lb n="8"/>
+		And from them (i.e., the two boats), [anchored] at the valley, you may sell whatever is good. Do collect the tithe taxes on account of them, because the sultan demands that [......].
+</ab></div>
+</body>
+</text>
+</TEI>

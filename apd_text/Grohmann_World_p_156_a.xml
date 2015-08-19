@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="875" xml:id="Grohmann_World_p_156_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 156 a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_156_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113640</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم حوائج العرس 
+<lb n="2"/>  عود نصف قيراط ما ورد قيراطين 
+<lb n="3"/>  أفواه خارّة قيراط خرّوب قيراط 
+<lb n="4"/>  حنّا قيراط شمع قيراطين <app type="BL"><lem resp="APD">أبزار </lem><rdg resp="“Karabacek, PERF”">أنوار</rdg></app> 
+<lb n="5"/>  قيراط وهو فلفل ودار صيني حوائج 
+<lb n="6"/>  الحمّام قيراط در قيراط شيرج 
+<lb n="7"/>  قيراط زعفران شعر قيراط 
+<lb n="8"/>  <app type="BL"><lem resp="APD">نعل </lem><rdg resp="Diem">ونعل</rdg></app> سندي بزمام تنّيسي بربع دينار 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥawāʾiǧu ăl ʿursi 
+ <lb n="2"/>ʿūd:un niṣfu qīrāṭ:in māʾu ward:in qīrāṭayni 
+ <lb n="3"/>ʾafwāh:un ḫārraẗ:un qīrāṭ:un ḫarrūb:un qīrāṭ:un 
+ <lb n="4"/>ḥinnāʾu qīrāṭ:un šamʿ:un qīrāṭayni ʾabzār:un ʾanwār:un 
+ <lb n="5"/>qīrāṭ:un wa huwa filfil:un wa dār:un ṣīniyy:un ḥawāʾiǧu 
+ <lb n="6"/>ăl ḥammāmi qīrāṭ:un durr:un qīrāṭ:un šīraǧ:un 
+ <lb n="7"/>qīrāṭ:un zaʿfarānu šaʿr:in qīrāṭ:un 
+ <lb n="8"/>ø wa naʿl:un sindiyy:un bi zimām:in tinnīsiyy:in bi rubʿi dīnār:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful!
+		In the name of God, the Compassionate, the Merciful! | Wedding-articles
+			<lb n="2"/>
+		Aloëholz (zum Beräuchern des Gesichtes) 2 Karate; Rosenwasser 2 Karate;
+		Aloe-wood a half carat; rose-water two carats;
+			<lb n="3"/>
+		good perfumes one carat; carob beans one carat;
+		Wohlgerüche 1 Karat; Johannisbrodkörner 1 Karat;
+			<lb n="4"/>
+		Henna (Lawsonia inermis) zum Rothfärben der Fingernägel etc. 1 Karat; Wachs 2 Karate; Anwâr,
+		henna one carat; wax two carats; grains
+			<lb n="5"/>
+		d.i. Pfeffer und Zimmt zum Kauen, um den Mund wohlriechend zu machen, 1 Karat; Utensilien
+		one carat viz. pepper and cinnamon; implements
+			<lb n="6"/>
+		for the bath one carat; pearls one carat; sesame-oil
+		für das Bad, 1 Karat; Perlen (von Glas?) 1 Karat; Sesamöl,
+			<lb n="7"/>
+		ein Karat; Safran zum Beräuchern des Haares, 1 Karat;
+		one carat; saffron (for the) hair one carat;
+			<lb n="8"/>
+		and Indian boots with laces (made in) Tinnîs for a quarter of a dînâr.
+		endlich Stiefletten von Sind mit Schnürbändern von Tinnis um 1/4 Dînâr (= circa 3.10 Goldkronen).
+</ab></div>
+</body>
+</text>
+</TEI>

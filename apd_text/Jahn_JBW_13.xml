@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="624" xml:id="Jahn_JBW_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Jahn 13 (= P.World p. 183 a)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Jahn_JBW_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106740</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّجبم 
+<lb n="2"/>  مسّاك اللّه <app type="BL"><lem resp="Jahn; Grohmann">إنّي </lem><rdg resp="Levi della Vida; Diem, P.Berl.Arab.">ابن </rdg><rdg resp="Diem, Review Wien">ø</rdg></app> أخي بعافية 
+<lb n="3"/>  ورحمة اعلمني حفظك اللّه كيف 
+<lb n="4"/>  كنت <app type="BL"><lem resp="“Jahn; Dietrich”">في </lem><rdg resp="“Grohmann”">ø</rdg></app> <app type="BL"><lem resp="“Jahn; Dietrich”">ليلتك </lem><rdg resp="“Grohmann”">وليلتك</rdg></app> الماضية وكيف 
+<lb n="5"/>  <app type="BL"><lem resp="APD">أنت </lem><rdg resp="“Dietrich”">كنت</rdg></app> في يومك وكيف أم محمّد عافاه 
+<lb n="6"/>  اللّه ومحمّد وجماعة العيال 
+<lb n="7"/>  <supplied reason="lost" cert="high">أطال</supplied> اللّه فيهم العافية وكتب 
+<lb n="8"/>  بسم اللّه الرّحمن الرّحـ<supplied reason="lost" cert="high">ـيم</supplied> 
+<lb n="9"/>  حفظكم اللّـ<supplied reason="lost" cert="high">ـه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>massā ka ăl lāhu ʾin ĭbna ø nī ø ʾaḫ ī bi ʿāfiyaẗ:in 
+ <lb n="3"/>wa raḥmaẗ:ini ʾaʿlim nī ḥafiẓa ka ăl lāhu kayfa 
+ <lb n="4"/>kunta fī ø ø wa laylati laylatu ka ăl māḍiyaẗi māḍiyaẗu wa kayfa 
+ <lb n="5"/>ʾanta kunta fī yawmi ka wa kayfa ʾummu muḥammad:in ʿāfā hu 
+ <lb n="6"/>ăl lāhu wa muḥammad:un wa ǧamāʿaẗu ăl ʿiyāli 
+ <lb n="7"/>ʾaṭāla ăl lāhu fī himu ăl ʿāfiyaẗa wa kataba kutiba 
+ <lb n="8"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="9"/>ḥafiẓa kumu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Allbarmherzigen!
+		Im Namen Gottes, des Barmherzigen, Gütigen!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Ich wish thee a good evening. Indeed, my brother, I am in good health
+		Ich wünsche Dir einen guten Abend! Fürwahr, mein Bruder, ich befinde mich wohl
+		Ich wünsche Dir guten Abend! Fürwahr, mein Bruder, ich befinde mich wohl 
+		May God grant you, my nephew, a healthy and 
+			<lb n="3"/>
+		and (under the protection of God&#039;s) mercy. Please inform me - may God protect thee - how
+		blessed evening. ...
+		und unter dem Schutz der göttlichen Barmherzigkeit. Laß mich wissen - Gott beschütze Dich! - wie 
+		und unter dem Schutze der Göttlichen Barmherzigkeit. Lasse mich wissen, - Gott beschütze Dich - wie
+			<lb n="4"/>
+		Du die vergangene Nacht verbracht hast und wie
+		Du die vergangene Nacht zugebracht und wie 
+		thou hast passed the last night and how
+			<lb n="5"/>
+		Du Dich am heutigen Tag befunden hast, ferner wie es der Mutter des Muhammed geht - Gott 
+		Du Dich am heutigen Tage befindest und wie es der Mutter des Muḥammad geht, Gott erhalte ihn und
+		thou art to-day, and how is the mother of Muḥammad, - may God give him health -
+			<lb n="6"/>
+		and Muḥammad and all the family -
+		den Muḥammad sowie die gesammte Familie.
+		erhalte ihn! - und ihm selber, sowie der ganzen Familie!
+		wie es Muḥammad geht und der gesamten Familie. 
+			<lb n="7"/>
+		may God prolong their health - and he has written (it).
+		Möge es ihnen Gott lange wohl ergehen lassen! er schrieb&#039;s.
+		Möge es ihnen Gott lange wohl ergehen lassen! Man schrieb es.
+		Möge Gott ihnen allen es lange wohlergehen lassen! Er schrieb&#039;s.
+			<lb n="8"/>
+		Im Namen Gottes, des Barmherzigen, Güti[gen]!
+			<lb n="9"/>
+		Gott beschütze Euch [
+</ab></div>
+</body>
+</text>
+</TEI>

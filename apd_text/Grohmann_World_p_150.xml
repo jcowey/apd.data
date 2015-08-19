@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="852" xml:id="Grohmann_World_p_150" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.World p. 150</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_World_p_150</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113629</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  من بكير حفظه اللّه من 
+<lb n="2"/>  أبي جميل 
+<lb n="upside down 7"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="upside down 6"/>  ادفع إلى نصير الخادم في 
+<lb n="upside down 5"/>  ‮صلاح حقّه دينر ‪͵ϛ‬ سدس 
+<lb n="upside down 4"/>  إن شا اللّه وكتب في أبيفه 
+<lb n="upside down 3"/>  حفظه اللّه  
+<lb n="8"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="9"/>  حفظه اللّه 
+<lb n="10"/>  لأ<supplied reason="lost" cert="high">بي</supplied> بكير 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>li ʾabī bukayr:in ḥafiẓa hu ăl lāhu min 
+ <lb n="2"/>ʾabī ǧamīla 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ĭdfaʿ ʾilà nuṣayr:ini ăl ḫādimi fī 
+ <lb n="5"/>ṣalāḥi ḥaqqi hi dīnār 1/6 suds 
+ <lb n="6"/>ʾin šāʾa ăl lāhu wa kutiba fī ʾabīfiha 
+ <lb n="7"/>3 sanaẗa 200 
+ <lb n="12"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="13"/>ḥafiẓa hu ăl lāhu 
+ <lb n="14"/>li ʾabī bukayr:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		To Abû Bukair - may God protect him - from
+			<lb n="2"/>
+		Abû Gamîl.
+			<lb n="3"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="4"/>
+		Hand over to Nuṣair, the servant, for 
+			<lb n="5"/>
+		balancing his (legal) claim dînâr 1/6, a sixth, 
+			<lb n="6"/>
+		please God. And it has been written on the 3rd of Epiphi
+			<lb n="7"/>
+		of the year 200.
+			<lb n="12"/>
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="13"/>
+		May God protect him.
+			<lb n="14"/>
+		To A[bû] Bukair.
+</ab></div>
+</body>
+</text>
+</TEI>

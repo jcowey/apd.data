@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="314" xml:id="Grohmann_APEL_112" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 112</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_112</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106554</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقرّوا <unclear reason="undefined" cert="high">ناجد</unclear> بن أبيمه بن بجوش وإبرهيم 
+<lb n="3"/>  بن <app type="BL"><lem resp="APD">شكر </lem><rdg resp="APD">سكر </rdg><rdg resp="APD">شكّر</rdg></app> السّاكنين بلجسوق وأشهدوا 
+<lb n="4"/>  على أنفسهم طوعا في صحّة من عقولهم وأبدانهم 
+<lb n="5"/>  وجواز أمورهم غير مكرهين ولا مجبرين 
+<lb n="6"/>  ولا مطّهدين <sic n="superfluous">له</sic> أن عليهم وعندهم لزمزم 
+<lb n="7"/>  بن <app type="BL"><lem resp="APD">نضر </lem><rdg resp="APD">نضر</rdg></app> من القمح الطّيّب النّقي السّالم 
+<lb n="8"/>  من العلت أربعة أرادب ونصف 
+<lb n="9"/>  يقوموا له بذلك في <app type="BL"><lem resp="APD">صفر </lem><rdg resp="Diem">صيفة</rdg></app> سنة ستّة 
+<lb n="10"/>  وعشرين <app type="BL"><lem resp="APD">وخمسماية </lem><rdg resp="Diem">وخمس</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="Diem">ماية</rdg></app> <app type="BL"><lem resp="APD">من </lem><rdg resp="Diem">الـ<gap reason="illegible" extent="4" unit="character" />لة</rdg></app> سهور شپه 
+<lb n="11"/>  سبع وعشرين <app type="BL"><lem resp="APD">وخمسماية </lem><rdg resp="Diem">وخمس</rdg></app> <app type="BL"><lem resp="APD">ڤى </lem><rdg resp="Diem">ماية</rdg></app> سهر شعپان 
+<lb n="12"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="13" unit="character" /> </lem><rdg resp="Diem">بغير</rdg></app> <app type="BL"><lem resp="APD">وپدلك </lem><rdg resp="Diem">مطل</rdg></app> <app type="BL"><lem resp="APD">اڤروا </lem><rdg resp="Diem">ولا</rdg></app> <app type="BL"><lem resp="APD">واسهدوا </lem><rdg resp="Diem">مدافعة</rdg></app> 
+<lb n="13"/>  على أنفسهم في العشر <app type="BL"><lem resp="APD">الأوّل </lem><rdg resp="APD">الأولى </rdg><rdg resp="Diem">الأوسط</rdg></app> من ربيع 
+<lb n="14"/>  الأوّل سنة سبع وعشرين <app type="BL"><lem resp="APD">وخمسمائة </lem><rdg resp="Diem">وخمس</rdg></app> 
+<lb n="15"/>  <supplied reason="lost" cert="high">شهد</supplied> <gap reason="illegible" precision="low" extent="3"/> بن عليقة 
+<lb n="16"/>  بما يعهد بهذه الحجّة <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="17"/>  وكتب شوّال بن صالح في تأريخه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="18"/>  شهد دينار بن سليمن على إقرار الـ<supplied reason="lost" cert="high">ـمقّرّين</supplied> 
+<lb n="19"/>  بجميع ما فيه وكتب عنه بأمـ<supplied reason="lost" cert="high">ـره</supplied> <supplied reason="lost" cert="high">وبمحضره</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">تأريخه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarrū nāǧidu bnu ʾabīmaha bni biǧūša wa ʾibrāhīmu 
+ <lb n="3"/>bnu šakar:ini šakkara sakr:ini šukr:ini ăs sākinīna bulǧusūqa wa ʾašhadū 
+ <lb n="4"/>ʿalà ʾanfusi him ṭawʿ:an fī ṣiḥḥaẗ:in min ʿuqūli him wa ʾabdāni him 
+ <lb n="5"/>wa ǧawāzi ʾumūri him ġayra mukrahīna wa lā muǧbarīna 
+ <lb n="6"/>wa lā muṭṭahadīna ʾanna ʿalay him wa ʿinda hum li zamzama 
+ <lb n="7"/>bni naṣar:in naḍr:in naṣr:in mina ăl qamḥi ăṭ ṭayyibi ăn naqiyyi ăs sālimi 
+ <lb n="8"/>mina ăl ʿalati ʾarbaʿaẗa ʾarādiba wa niṣf:un 
+ <lb n="9"/>yaqūmū la hu bi ḏālika fī ṣafar:in ṣayfaẗi sanaẗa sittaẗ:in 
+ <lb n="10"/>wa ʿišrīna wa ḫamsi miyaẗ:in ø ø miyaẗ:in ****** ăl ø ***laẗi min šuhūri sanaẗi 
+ <lb n="11"/>sabʿ:in wa ʿišrīna wa ḫamsi miyaẗ:in ø ø miyaẗ:in fī šahri šaʿbāna 
+ <lb n="12"/>ø bi ø ġayri ø maṭl:in ø wa ø lā ************* mudāfaʿaẗin wa bi ḏālika ʾaqarrū wa ʾašhadū 
+ <lb n="13"/>ʿalà ʾanfusi him fī ăl ʿašri ăl ʾūlà ʾawwali ʾawsaṭi min rabīʿa 
+ <lb n="14"/>ăl ʾawwali sanaẗa sabʿ:in wa ʿišrīna wa ḫamsi miʾaẗ:in ø miʾaẗ:in 
+ <lb n="15"/>šahida *** bnu ʿulayqaẗa 
+ <lb n="16"/>bi mā yuʿhadu bi hāḏihi ăl ḥuǧǧaẗi **** 
+ <lb n="17"/>wa kataba šawwālu bnu ṣāliḥ:in fī taʾrīḫi hi * 
+ <lb n="18"/>šahida dīnāru bnu sulaymāna ʿalà ʾiqrāri ăl muqirrīna 
+ <lb n="19"/>bi ǧamīʿi mā fī hi wa kataba ʿan hu bi ʾamri hi wa bi maḥḍari hi fī taʾrīḫi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Nâǧid b. Abîme b. Beǧôš and Ibrahîm
+			<lb n="3"/>
+		b. Šukr, residing in Bulǧusûq, have acknowledged and have called witnesses to testify
+			<lb n="4"/>
+		to their obligation voluntarily, in a state of sound mind and body
+			<lb n="5"/>
+		and transacting their business, without compulsion and not against their will
+			<lb n="6"/>
+		and not under constraint, that they owe and have in their possession, to Zamzam
+			<lb n="7"/>
+		b. Naṣr of good, pure, cleansed
+			<lb n="8"/>
+		wheat four artabas and a half (artaba)
+			<lb n="9"/>
+		Sie werden ihm dies im Sommer (oder: Erntemonat) des Jahres
+		which they will deliver to him in Ṣafar of the year five hundred
+			<lb n="10"/>
+		and twenty six ............... the months of the year
+		fünfhundertsechsundzwanzig ... (d. h.) von den Monaten des Jahres
+			<lb n="11"/>
+		five hundred and twenty seven in the month of Šaʿbân (?),
+		fünfhundertsiebenundzwanzig im Monat Šaʿbān
+			<lb n="12"/>
+		.............................. and they have acknowledged thereto and have called witnesses to testify
+		- ohne Aufschub und Hinhaltung leisten. Dies anerkannten sie ...
+			<lb n="13"/>
+		to their obligation in the first decade of Rabîʿ
+			<lb n="14"/>
+		I of the year five hundred and twenty seven.
+			<lb n="15"/>
+		[Witness is] ..... b. ʿUlaiqa
+			<lb n="16"/>
+		to that which has been covenanted in this instrument ....,
+			<lb n="17"/>
+		and Šawwâl b. Ṣâliḥ has written (it) on its date.
+			<lb n="18"/>
+		Dînâr b. Sulaimân is witness to the acknowledgment by the [acknowledgers]
+			<lb n="19"/>
+		respecting all that (is contained) herein and it has been written for him at [his] order [and in his presence on its date].
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1976" xml:id="Grohmann_APEL_258" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 258</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_258</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169708</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/>ر بن <supplied reason="lost" cert="high">الــ</supplied><unclear reason="undefined" cert="high">ـسّريّ</unclear> أحمد بن <supplied reason="lost" cert="high">حـ</supplied>ـرث <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <app type="BL"><lem resp="APD">بسنه </lem><rdg resp="APD">بستة</rdg></app> فيسة عبد اللّه بن بكـ<supplied reason="lost" cert="high">ـر</supplied> 
+<lb n="3"/>  الحكم بن محمّد شنودة دويد 
+<lb n="4"/>  مينا بلتوس شنودة <app type="BL"><lem resp="APD">بستـ<supplied reason="lost" cert="high">ـة</supplied> </lem><rdg resp="APD">بستة</rdg></app> 
+<lb n="5"/>  بولة ثيدر وهو هرمنة بتوك ظلمى 
+<lb n="6"/>  سيّار بن سهل وهو مينا سمرة بن عبد الغني 
+<lb n="7"/>  السّري <app type="BL"><lem resp="APD">الجزّار </lem><rdg resp="APD">الجرّار </rdg><rdg resp="APD">الخرّاز </rdg><rdg resp="APD">الخزّاز</rdg></app> وهو سلمون عبد الأحد بن إسحق 
+<lb n="8"/>  يوسف بن يعقوب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***r bnu ăs sariyyi ʾaḥmadu bnu ḥāriṯ:in *** 
+ <lb n="2"/>basinnaẗu bisataẗu fīsaẗa ʿabdu ăl lāhi bnu bakr:in 
+ <lb n="3"/>ăl ḥakamu bnu muḥammad:in šanūdaẗu dawīda 
+ <lb n="4"/>mīnā bilatūsa šanūdaẗu basinnaẗa bisataẗa 
+ <lb n="5"/>būlaẗu ṯiyudura wa huwa hirminaẗu batūku ẓalmà 
+ <lb n="6"/>sayyāru bnu sahl:in wa huwa mīnā sumaraẗu bnu ʿabdi ăl ġaniyyi 
+ <lb n="7"/>ăs sariyyu ăl ǧarrāru ḫarrāzu ǧazzāru ḫazzāzu wa huwa salmūnu ʿabdu ăl ʾaḥadi bnu ʾisḥāqa 
+ <lb n="8"/>yūsufu bnu yaʿqūba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...]r b. [as-]Sarî Aḥmad b. [Ḥâ]riṯ[
+			<lb n="2"/>
+		Basinne Fîse ʿAbdallâh b. Bak[r(?)]
+			<lb n="3"/>
+		al-Ḥakam b. Muḥammad Šanûda Dawîd
+			<lb n="4"/>
+		Mînâ Bilatûs Šanûda Basinn[e]
+			<lb n="5"/>
+		Bûle Theodor, who (is called) Hermine Betûk Ẓalmâ
+			<lb n="6"/>
+		Sayyâr b. Sahl, who (is called) Mînâ Sumara b. ʿAbd al-Ġanî
+			<lb n="7"/>
+		as-Sarî, the butcher, who (is called) Salmôn ʿAbd al-Aḥad b. Isḥâq
+			<lb n="8"/>
+		Yûsuf b. Yaʿqūb
+</ab></div>
+</body>
+</text>
+</TEI>

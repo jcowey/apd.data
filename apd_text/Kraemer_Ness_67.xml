@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1051" xml:id="Kraemer_Ness_67" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 67</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Ness_67</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21497</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">من</supplied> </lem><rdg resp="“AK”">من</rdg></app> <supplied reason="lost" cert="high">إقـ</supplied>ـليم <supplied reason="lost" cert="high">الخلو</supplied> 
+<lb n="3"/>  ص <supplied reason="lost" cert="high">ڤـاعطوا</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عسـ</supplied>ـر لبـ<supplied reason="lost" cert="high">ـوفل</supplied> 
+<lb n="4"/>  سكن <supplied reason="lost" cert="high">مـ</supplied>ـن <supplied reason="lost" cert="high">بذ</supplied>ـى <supplied reason="lost" cert="high">عـ</supplied>ـوف بن <supplied reason="lost" cert="high">عـ</supplied>ـا<supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> سـ<supplied reason="lost" cert="high">ـبعين</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">ومئتي</supplied> مدي قمح وزيت 
+<lb n="7"/>  في <supplied reason="lost" cert="high">شهر</supplied> <supplied reason="lost" cert="high">ربيـ</supplied>ـع الأوّل من <supplied reason="lost" cert="high">سنـ</supplied>ـة 
+<lb n="8"/>  سبعين 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  سعبن ومئتي 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>*** ø min ʾiqlīmi ăl ḫalūṣi 
+ <lb n="3"/>fa ʾaʿṭū *** ʿusr li nawfala bni 
+ <lb n="4"/>sakan:in min banī ʿawf:in bni ʿāmin:in *** 
+ <lb n="5"/>*** sabʿīna 
+ <lb n="6"/>wa miʾaẗay mudyi qamḥ:in wa zayt:in 
+ <lb n="7"/>fī šahri rabīʿa ăl ʾawwali min sanaẗi 
+ <lb n="8"/>sabʿīna 
+ <lb n="9"/>*** 
+ <lb n="10"/>*** 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>sabʿīna wa miʾatay 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="2"/>
+		... iqlīm of al-Khalūṣ.
+			<lb n="3"/>
+		And give quickly to Nawfal ibn
+			<lb n="4"/>
+		Sakan of the bani ʿAwf ibn ʿĀmin (?)
+			<lb n="5"/>
+		... two hundred
+			<lb n="6"/>
+		and seventy mudd of wheat and oil.
+			<lb n="7"/>
+		In the month of RabīʿI of the year
+			<lb n="8"/>
+		70.
+			<lb n="14"/>
+		Two hundred and seventy
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2216" xml:id="Diem_Heid_III_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 07</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الـرّحيم 
+<lb n="2"/>  قد علمت يا أخي أطال اللّه بقاك وأدام عزّك ما أدرته 
+<lb n="3"/>  <supplied reason="lost" cert="high">وبذلته</supplied> في إيصال الكتاب إلی أولاد عمّي أيّدهم اللّه 
+<lb n="4"/>  فتتفضّل وتبعـ<supplied reason="lost" cert="high">ـثـ</supplied>ـها ذلك ما أشكره من فعلك وأجازيك عليه 
+<lb n="5"/>  وتبادر بالجواب مع موصّلها وأنا أسألك أن تخبرنی 
+<lb n="6"/>  <supplied reason="lost" cert="high">بخبر</supplied> كـ<supplied reason="lost" cert="high">ـتـ</supplied>ـاب سلامة وهو عريف ركّابة الأمير مرهف الدّولة 
+<lb n="recto 1 right margin"/>  تقول له كان كا<supplied reason="lost" cert="high">تب</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">هذا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">غيري</rdg></app> 
+<lb n="recto 2 right margin"/>  <gap reason="illegible" extent="5" unit="character" /> الّذي أخذه ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3 right margin"/>  احر <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 1 upper margin upside down"/>  وأخذه عندكم عرفتم له خبره 
+<lb n="recto 2 upper margin upside down"/>  ولا تعلمه إنّي كا<supplied reason="lost" cert="high">تب</supplied> ذلك وتعرّفني جملة 
+<lb n="recto 3 upper margin upside down"/>  ما تعرف <supplied reason="lost" cert="high">مـ</supplied>ـن ذ<supplied reason="lost" cert="high">لـ</supplied>ـك لأ<supplied reason="lost" cert="high">عـ</supplied>ـرفه 
+<lb n="recto 4 upper margin upside down"/>  فتعرفني فأجازيك علی ما تتحمّله 
+<lb n="recto 5 upper margin upside down"/>  إن شـ<supplied reason="lost" cert="high">ـا</supplied> ا<supplied reason="lost" cert="high">للّه</supplied> 
+<lb n="recto 6 upper left margin"/>  أبو إسحق ابن سليمن الرّكّاب أعزّه <supplied reason="lost" cert="high">اللّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qad ʿalimta yā ʾaḫ ī ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka mā ʾadartu hu 
+ <lb n="3"/>wa baḏaltu hu fī ʾīṣāli ăl kitābi ʾilà ʾawlādi ʿammi ī ʾayyada humu ăl lāhu 
+ <lb n="4"/>fa tatafaḍḍalu wa tabʿaṯu hā ḏālika mā ʾaškuru hu min fiʿli ka wa ʾuǧāzī ka ʿalay hi 
+ <lb n="5"/>wa tubādiru bi ăl ǧawābi maʿa muwaṣṣili hā wa ʾanā ʾasʾalu ka ʾan tuḫbira nī 
+ <lb n="6"/>bi ḫabari kitābi salāmaẗa wa huwa ʿarīfu rakkābaẗi ăl ʾamīri murhafi ăd dawlaẗi 
+ <lb n="7"/>taqūlu la hu kāna kātibu kātib:un *** hāḏā *** ġayr ī 
+ <lb n="8"/>***** ăllaḏī ʾaḫaḏa hu ʾ*** 
+ <lb n="9"/>ʾḥr *** fa ʾin *** 
+ <lb n="10"/>wa ʾaḫaḏa hu ʿinda kum ʿaraftum la hu ḫabara hu 
+ <lb n="11"/>wa lā tuʿlim hu ʾin nī kātibu ḏālika wa tuʿarrifu nī ǧumlaẗa 
+ <lb n="12"/>mā taʿrifu min ḏālika li ʾaʿrifa hu 
+ <lb n="13"/>fa tuʿarrifu nī fa ʾuǧāzī ka ʿalà mā tataḥammalu hu 
+ <lb n="14"/>ʾin šāʾa ăl lāhu 
+ <lb n="15"/>ʾabū ʾisḥāqa bnu sulaymāna ăr rakkābu ʾaʿazza hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		Du weißt ja wohl, mein Bruder - Gott lasse Dich lange leben und gewähre Dir weiterhin Ansehen -, was ich
+			<lb n="3"/>
+		wegen der Ablieferung des (eingefügten) Briefes bei den Kindern meines Onkels väterlicherseits - Gott stütze sie - unternommen und [aufgewandt] habe.
+			<lb n="4"/>
+		Sei also so gut und übersende es (ihnen)! Dies wäre eine Handlung von Dir, für die ich (Dir) Dank wissen und die ich Dir lohnen würde.
+			<lb n="5"/>
+		Gib auch möglichst umgehend dem Überbringer dieses (Schreibens) die Antwort (auf den Brief) mit! Vacat Ich bitte Dich (außerdem), mir Nachricht
+			<lb n="6"/>
+		[über] den für Salāmah bestimmten Brief zu geben; er ist der Oberst der Reiter des Emirs Murhaf ad-Dawlah.
+			<lb n="7"/>
+		Sage ihm: Es war der Schrei[ber]
+			<lb n="8"/>
+		[...]..., den er in Empfang genommen hat...[...]
+			<lb n="9"/>
+		........[... Wenn er ihn ...]
+			<lb n="10"/>
+		und ihn bei Euch in Empfang genommen hat, habt ihr ja Nachricht über ihn.
+			<lb n="11"/>
+		Aber laß ihn nicht wissen, daß ich das geschrieben habe. Teile mir alles mit,
+			<lb n="12"/>
+		was Du hiervon weißt, damit ich es erfahre.
+			<lb n="13"/>
+		Teile (es) mir mit, und ich werde Dir die Mühe, die Du auf Dich nimmst, lohnen,
+			<lb n="14"/>
+		so Gott will.
+			<lb n="15"/>
+		(An) Abū Isḥāq ibn Sulaymān, den Reiter - [Gott] stärke ihn!
+</ab></div>
+</body>
+</text>
+</TEI>

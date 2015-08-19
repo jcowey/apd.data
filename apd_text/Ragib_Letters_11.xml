@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1083" xml:id="Ragib_Letters_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RagibLettres 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Ragib_Letters_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168949</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  إلى أبو شجرة من عصام بن عبيدة ومن سهلة ابنت أبي <app type="BL"><lem resp="APD">نابت </lem><rdg resp="APD">نابت </rdg><rdg resp="APD">تائب</rdg></app> 
+<lb n="recto 3"/>  سلم عليك فإنّي أحمد إليك اللّه الّذي لا إله إلّا هو أمّا 
+<lb n="recto 4"/>  بعد فإنّي أخبرك من خبرنا أنّا سالمين صالحين كالّذي يسر 
+<lb n="recto 5"/>  ك ورپپا محمود اسل الله نمام پعمپه علپپا 
+<lb n="recto 6"/>  والزّيادة من فضله إن شا اللّه أن يجعلنا وإيّاك 
+<lb n="recto 7"/>  ممّن يعمل بطاعته ويجتنب <supplied reason="lost" cert="high">غضبه</supplied> و<sic n="superfluous">يبتغ</sic> پپپع 
+<lb n="recto 8"/>  أسل اللّه أن يحفظنا وإيّاك واكتب إلي بسلامتك 
+<lb n="recto 9"/>  وصلاحك وكيف كنت بعدي واكتب إلي كيف فعلت 
+<lb n="recto 10"/>  أم عبّاس من وجعـها وإنّي قد كنت <app type="BL"><lem resp="APD">منتظر </lem><rdg resp="APD">أنتظر</rdg></app> أرا منك 
+<lb n="recto 11"/>  كتاب فلا أدري ما منعك أن تكتب إلي بسلامتك 
+<lb n="recto 12"/>  وصلاحك والسّلام عليك ورحمت اللّه 
+<lb n="verso 1"/>  إلى أبو شجرة من عصام بن عبيدة <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾilà ʾabū šaǧaraẗa min ʿiṣāmi bni ʿubaydaẗa wa min sahlaẗa ĭbnati ʾabī ṯābit:in nābit:in tāʾib:in 
+ <lb n="3"/>salām:un ʿalay ka fa ʾin nī ʾaḥmadu ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa ʾammā 
+ <lb n="4"/>baʿdu fa ʾin nī ʾuḫbiru ka min ḫabari nā ʾan nā sālimīna ṣāliḥīna ka ăllaḏī yasurru ka 
+ <lb n="5"/>wa rabbu nā maḥmūd:un ʾasalu ăl lāha tamāma niʿmati hi ʿalay nā wa ʿalay ka 
+ <lb n="6"/>wa ăz ziyādaẗa min faḍli hi ʾin šāʾa ăl lāhu ʾan yaǧʿala nā wa ʾiyyā ka 
+ <lb n="7"/>mimman yaʿmalu bi ṭāʿati hi wa yaǧtanibu ġaḍaba hu wa yabtaġi marḍāẗa hu 
+ <lb n="8"/>ʾasalu ăl lāha ʾan yaḥfaẓa nā wa ʾiyyā ka wa ŭktub ʾilay ya bi salāmaẗi ka 
+ <lb n="9"/>wa ṣalāḥi ka wa kayfa kunta baʿd ī wa ŭktub ʾilay ya kayfa faʿalat 
+ <lb n="10"/>ʾummu ʿabbās:in min waǧaʿi hā wa ʾin nī qad kuntu muntaẓir ʾantaẓiru ʾarā min ka 
+ <lb n="11"/>kitāb fa lā ʾadrī mā manaʿa ka ʾan taktuba ʾilay ya bi salāmaẗi ka 
+ <lb n="12"/>wa ṣalāḥi ka wa ăs salāmu ʿalay ka wa raḥmatu ăl lāhi 
+ <lb n="13"/>ʾilà ʾabū šaǧaraẗa min ʿiṣāmi bni ʿubaydaẗa *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		A Abū Šaǧara de la part de ʿIṣām b. ʿUbayda et Sahla ibnat Abī Ṯābit.
+			<lb n="3"/>
+		Salut sur toi! Je loue pour toi Dieu qui est la seule divinité!
+			<lb n="4"/>
+		Puis je t&#039;informe de nos nouvelles: nous sommes sains et saufs comme cela te réjouira.
+			<lb n="5"/>
+		Dieu soit loué! Je demande à Dieu la plénitude de Sa faveur à notre égard et au tien,
+			<lb n="6"/>
+		Ainsi que l&#039;accroissement de Sa grâce, si Dieu le veut! et qu&#039;il nous compte, ainsi que toi,
+			<lb n="7"/>
+		au nombre de ceux qui font selon Son obéissance, s&#039;écartent de Sa colère et recherchent Son agrément.
+			<lb n="8"/>
+		Je demande à Dieu qu&#039;Il nous garde, ainsi que toi. Ecris-moi que tu es sain
+			<lb n="9"/>
+		et sauf, et comment tu as été en mon absence. Ecris-moi comment a fait
+			<lb n="10"/>
+		Umm ʿAbbās de son mal. J&#039;attendais de voir de toi
+			<lb n="11"/>
+		une lettre: je ne sais ce qui t&#039;a empêché de m&#039;écrire que tu es sain
+			<lb n="12"/>
+		et sauf. Que le salut soit sur toi et la miséricorde de Dieu!
+			<lb n="13"/>
+		A Abū Šaǧara, de la part de ʿIṣām b. ʿUbayda ...
+</ab></div>
+</body>
+</text>
+</TEI>

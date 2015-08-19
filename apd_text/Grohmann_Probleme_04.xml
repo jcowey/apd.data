@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="738" xml:id="Grohmann_Probleme_04" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 04</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_04</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106819</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  ڤهڤاوه دينر 
+ <lb n="2"/>  مريح الأسود <sic n="superfluous">دا</sic> <expan><ex>دفع</ex></expan> عن نفسه αχ 
+ <lb n="3"/>  إصطفى <app type="BL"><lem resp="APD">هلستوس </lem><rdg resp="APD">هلسيوس‬</rdg></app> ε 
+ <lb n="4"/>  سويرس من هور <sic n="superfluous">دا</sic> <expan><ex>دفع</ex></expan> عن نفسه βδ΄ 
+ <lb n="5"/>  بقطر اركليدس γχγ΄ 
+ <lb n="6"/>  سخاره الأرماني ςκ΄δ΄χ 
+ <lb n="7"/>  مينا <sic n="superfluous">دا</sic> <expan><ex>دفع</ex></expan> عن نفسه ακ΄δ΄ 
+ <lb n="8"/>  <supplied reason="lost" cert="high">سو</supplied>يرس من بهيوه χδ΄ 
+ <lb n="9"/>  ثيدر بمون <sic n="superfluous">دا</sic> <expan><ex>دفع</ex></expan> عن نفسه ςχγ΄ 
+ <lb n="10"/>  <gap reason="illegible" precision="low" extent="3"/> <sic n="superfluous">دا</sic> <expan><ex>دفع</ex></expan> <supplied reason="lost" cert="high">عن</supplied> <supplied reason="lost" cert="high">نفـ</supplied>ـسه βχ 
+ <lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـن هلقون εχγ΄ιβ΄ 
+ <lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>qahqāwhu dīnār:un 
+ <lb n="2"/>murayḥ:uni ăl ʾaswadu dafaʿa ʿan nafsi hi 1+2/3 
+ <lb n="3"/>ʾiṣṭifà hilistūsa hilisiyūsa 5 
+ <lb n="4"/>sawīrusu min hūra dafaʿa ʿan nafsi hi 2+1/4 
+ <lb n="5"/>buqṭuru ʾiraklīdisa 3+1/2+1/3 
+ <lb n="6"/>saḫārahu ăl ʾarmāniyyu 6+1/24+1/48 
+ <lb n="7"/>mīnā dafaʿa ʿan nafsi hi 1+1/24 
+ <lb n="8"/>sawīrusu min bihyūha 1/2+1/4 
+ <lb n="9"/>ṯiyuduru bamūna dafaʿa ʿan nafsi hi 6+1/2+1/3 
+ <lb n="10"/>*** dafaʿa ʿan nafsi hi 2+1/2 
+ <lb n="11"/>*** min haliqūna 5+1/2+1/3+1/12 
+ <lb n="12"/>*** ** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Qahqāwh          Dīnāre
+		 <lb n="2"/>
+ 	  Muraiḥ der Schwarze hat für sich bezahlt 1 2/3
+		 <lb n="3"/>
+ 	  Stephan Helistos 5
+		 <lb n="4"/>
+ 	  Severos aus Hūr hat für sich bezahlt 2 1/4
+		 <lb n="5"/>
+ 	  Viktor Heraklides 3 1/2+1/3
+		 <lb n="6"/>
+ 	  Saḫāre al-Armānī 6 1/24+1/48
+		 <lb n="7"/>
+ 	  Menas hat für sich bezahlt 1 1/24
+		 <lb n="8"/>
+ 	  [Sev]eros aus Biheu 1/2+1/4
+		 <lb n="9"/>
+ 	  Theodor Pamun hat für sich bezahlt 6 1/2+1/3
+		 <lb n="10"/>
+ 	  [N. N. hat für sich beza]hlt 2 1/2
+		 <lb n="11"/>
+ 	  [N. N. au]s Heliqōn 5 1/2+1/3+1/12
+		 <lb n="12"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

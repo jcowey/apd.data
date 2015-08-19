@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1557" xml:id="Prag_030" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_030</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169325</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> وثلثا البـ<supplied reason="lost" cert="high">ـيت</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  وهو أربعة أسـ<supplied reason="lost" cert="high">ـهم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  الثّلث الأوّل الّذي لـ<supplied reason="lost" cert="high">ـأ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  وثمن من أخيـه أسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  وبئر وثلث نصف السّهـ<supplied reason="lost" cert="high">ـم</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  الّذي كان له خالصا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  مفتوح إلى القبلي كپا پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  والبيت البحري المخبز الـ<supplied reason="lost" cert="high">ـا</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  بحدّهما وحدودهما وأرضـ<supplied reason="lost" cert="high">ـهما</supplied> <supplied reason="lost" cert="high">وسمائهما</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  حدود هاذين البيتين الأصغـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">منهما</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="11"/>  المدخل إلى هذه الــ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" />ا<gap reason="illegible" extent="1" unit="character" />پپه ا<supplied reason="lost" cert="high">لـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  دار أصبغ بن عبد العزيز بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăl *** *** wa ṯulṯā ăl bayti *** 
+ <lb n="2"/>wa huwa ʾarbaʿaẗu ʾashum:in *** 
+ <lb n="3"/>ăṯ ṯulṯ ăl ʾawwal ăllaḏī li ʾa** *** 
+ <lb n="4"/>wa ṯumn min ʾaḫī hi ʾas*** *** 
+ <lb n="5"/>wa biʾr wa ṯulṯ niṣfi ăs sahmi *** 
+ <lb n="6"/>ăllaḏī kāna la hu ḫāliṣ:an *** 
+ <lb n="7"/>maftūḥ ʾilà ăl qibliyyi kBʾ B*** *** 
+ <lb n="8"/>wa ăl bayt ăl baḥriyy ăl maḫbaz ăl ʾ** *** 
+ <lb n="9"/>bi ḥaddi himā wa ḥudūdi himā wa ʾarḍi himā wa samāʾi himā *** 
+ <lb n="10"/>ḥudūd hāḏayni ăl baytayni ăl ʾaṣġaru min humā *** 
+ <lb n="11"/>ăl madḫalu ʾilà hāḏihi ăl *ʾ***h ăl *** *** 
+ <lb n="12"/>dār ʾaṣbaġa bni ʿabdi ăl ʿazīzi bni *** 
+ <lb n="13"/>*** *** ***** *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		das [........]... und zwei Drittel des Ha[uses.....
+			<lb n="2"/>
+		und dies sind vier Antei[le....
+			<lb n="3"/>
+		Das erste Drittel, das dem A[..... gehört .....
+			<lb n="4"/>
+		und ein Achtel von seinem Bruder As[.....
+			<lb n="5"/>
+		und ein Brunnen, und ein Drittel des halben Ant[eils.....
+			<lb n="6"/>
+		das ihm zur Gänze gehört hat, [
+			<lb n="7"/>
+		öffnet sich gegen die Südseite .....[
+			<lb n="8"/>
+		und das nördliche Haus, das Backhaus, das .....[
+			<lb n="9"/>
+		mit ihrer Begrenzung und ihren Grenzen und [ihrem] Grund(areal) [und ihrem Himmel
+			<lb n="10"/>
+		Grenzen dieser beiden Häuser, [deren] kleiner[es.....
+			<lb n="11"/>
+		der Zugang zu dieser ..... [...
+			<lb n="12"/>
+		das Haus des Aṣbaġ b. ʿAbd al-ʿAzīz b. [
+			<lb n="13"/>
+</ab></div>
+</body>
+</text>
+</TEI>

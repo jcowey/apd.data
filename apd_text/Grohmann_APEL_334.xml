@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1827" xml:id="Grohmann_APEL_334" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 334</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_334</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169564</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  البارحة وقد كنت دفعت اللـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="2"/>  ڤپها ϰδχγʹ‎ دڤعپها <supplied reason="lost" cert="high">الى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  من الخراج لبورتها عن الورثة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  في الباقي تتمّة العشرين دينرا <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  أوردها في الخراج فودّيت ذا<supplied reason="lost" cert="high">ك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  وخمسين دينرا وسدس وثمن <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  وكنت <app type="BL"><lem resp="APD">بعت </lem><rdg resp="Diem">بعت</rdg></app> <sic n="superfluous">السعپر</sic> <app type="BL"><lem resp="APD">الثّلثة </lem><rdg resp="ms. correction / erasure?">الشّعير</rdg></app> <app type="BL"><lem resp="APD">دنانير </lem><rdg resp="ms. correction / erasure?">ø</rdg></app> فودّيتهـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  ڤرارپط γςʹ‎ηʹ‎ ڤصار حمله د<supplied reason="lost" cert="high">لك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  وپڤى الصرپپن ڤپهما αςʹ‎ηʹ‎ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  أطال اللّه بقاك وأدام عزّك وكـ<supplied reason="lost" cert="high">ـرامتك</supplied> <supplied reason="lost" cert="high">وسعادتك</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">وأتمّ</supplied> </lem><rdg resp="Diem">وزاد</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">پعمپه</supplied> </lem><rdg resp="Diem">في</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">علنك</supplied> </lem><rdg resp="Diem">إحسانه</rdg></app> 
+ <lb n="11"/>  وجميل <app type="BL"><lem resp="APD">الأمّة </lem><rdg resp="Diem “both emendations”">آلائه</rdg></app> لديك وجعلت <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">كلّ</supplied> <supplied reason="lost" cert="high">سو</supplied> <supplied reason="lost" cert="high">ومكروه</supplied> <supplied reason="lost" cert="high">فداك</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl bāriḥaẗa wa qad kuntu dafaʿtu ăl l*** *** 
+ <lb n="2"/>fī hā ‪24 1/2+1/3 dafaʿtu hā ʾilà *** 
+ <lb n="3"/>mina ăl ḫarāǧi li būrati hā ʿani ăl waraṯaẗi *** 
+ <lb n="4"/>fī ăl bāqī tatimmaẗa ăl ʿišrīna dīnār:an *** 
+ <lb n="5"/>ʾawrada hā fī ăl ḫarāǧi fa waddaytu ḏāka *** 
+ <lb n="6"/>wa ḫamsīna dīnār:an wa suds wa ṯumn **** *** 
+ <lb n="8"/>wa kuntu baʿattu biʿtu ăṯ ăš ṯalāṯaẗa šaʿīra danānīra ø fa waddaytu hā *** 
+ <lb n="9"/>qarārīṭ ‪3 1/6+1/8 fa ṣāra ǧumlaẗu ḏālika *** 
+ <lb n="10"/>wa baqiya ăṣ ṣurratayni fī himā ‪1 1/6+1/8 *** 
+ <lb n="11"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa saʿādata ka wa ʾatamma zāda ø fī niʿmata ʾiḥsāni hu hi ʿalay ʾilay ka 
+ <lb n="12"/>wa ǧamīla ǧamīli ăl ʾālāʾi ʾummaẗi hi laday ka wa ǧuʿiltu min kulli sūʾ:in wa makrūh:in fidāʾa ka 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Yesterday. And I have already handed over the ... [
+		 <lb n="2"/>
+ 	  therein were 24 1/2+1/3 dînâr, which I handed over [to
+		 <lb n="3"/>
+ 	  of the land-tax for its fallow-land on behalf of the heirs [
+		 <lb n="4"/>
+ 	  on account of the rest as the completion of the twenty dînârs [
+		 <lb n="5"/>
+ 	  which he has brought on account of the land-tax. Now I have thi[s] paid [
+		 <lb n="6"/>
+ 	  and fifty dînârs and a sixth and an eighth [
+		 <lb n="8"/>
+ 	  and I have sent the barley. So I paid it [
+ 	  and I have sent the three dinars. So I paid it [
+ 	  und ich habe die Gerste verkauft
+ 	  und ich hatte die Gerste verkauft
+		 <lb n="9"/>
+ 	  carats 3 1/6+1/8; the total thereof makes up [
+		 <lb n="10"/>
+ 	  And there remain the two purses, wherein are 1 1/6+1/8 [
+		 <lb n="11"/>
+ 	  May God prolong your life and may He cause your might, hono[ur and happiness to continue, and may He fulfil His loving kindness unto you]
+		 <lb n="12"/>
+ 	  and pleasing welfare towards you, and may I be made your ransom for [all (things) evil and abominable].
+ 	  und seine schönen Gnadenerweise
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

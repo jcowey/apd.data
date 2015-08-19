@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1232" xml:id="David-Weill_Louvre_4" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 04</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_4</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169070</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  دينر قائم دفعه إلى نڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـطس </lem><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>ـضس</rdg></app> وهو من الاثنين 
+ <lb n="2"/>  عشر الدّينر الّتي لپڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> قبل فلوطس بن بقطر 
+ <lb n="3"/>  قد وصل الدينر إلى ڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـس <app type="BL"><lem resp="APD">وپرى </lem><rdg resp="APD">ـ<gap reason="illegible" precision="low" extent="3"/>ـش</rdg></app> پـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  ڤلوطس بن بقطر منه إليه دفع ذلك إليه في جمادى 
+ <lb n="5"/>  الأخرى من سنة اثنين ومائتين شهد على ذلك 
+ <lb n="6"/>  يعقوب بن <app type="BL"><lem resp="APD">عفير </lem><rdg resp="APD">غفير </rdg><rdg resp="APD">عبيد </rdg><rdg resp="APD">عفيف </rdg><rdg resp="APD">عتيق</rdg></app> وكتب في جمادى الأخرا من سنة ثنين ومائتين 
+ <lb n="7"/>  وأحمد بن سعيد الخثعمي وكتب شهادته بخطّه 
+ <lb n="8"/>  وسعيد بن سر السّمّاني وكتب شهادته بتأ<supplied reason="lost" cert="high">ريخه</supplied> 
+ <lb n="9"/>  الوليد بن يحي الأسدي وكتب 
+ <lb n="10"/>  في جمادى الآخر من سنة اثنين ومائتين 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>dīnār:un qāʾim:un dafaʿa hu ʾilà nF*** ***ṭusa ***ḍusa wa huwa mina ăli ĭṯnayni 
+ <lb n="2"/>ʿašara ăd dīnāri ăllatī li bf*** *** qibala filūṭusa bni buqṭura 
+ <lb n="3"/>qad waṣala ăd dīnāru ʾilà f*** *** ***s ***š wa bariʾa b*** 
+ <lb n="4"/>bi filūṭusa bni buqṭura min hu ʾilay hi dafaʿa ḏālika ʾilay hi fī ǧumādà 
+ <lb n="5"/>ăl ʾuḫrà min sanaẗi ĭṯnayni wa miʾatayni šahida ʿalà ḏālika 
+ <lb n="6"/>yaʿqūbu bnu ġafīr:in ʿufayr:in ʿubayd:in ʿafīf:in ʿatīq:in wa kataba fī ǧumādà ăl ʾuḫrā min sanaẗi ṯnayni wa miʾatayni 
+ <lb n="7"/>wa ʾaḥmadu bnu saʿīd:ini ăl ḫaṯʿamiyyu wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="8"/>wa saʿīdu bnu sirr:ini ăs summāniyyu wa kataba šahādatu hu bi taʾrīḫi hi 
+ <lb n="9"/>ăl walīdu bnu yaḥya ăl ʾasadiyyu wa kataba 
+ <lb n="10"/>fī ǧumādà ăl ʾāḫiri min sanaẗi ĭṯnayni wa miʾatayni 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  un dinar légal qu&#039;il a payé à X .......... et il fait partie des
+		 <lb n="2"/>
+ 	  douze dinars que détient X .......... de la part de Filotheus ibn Boqtor
+		 <lb n="3"/>
+ 	  Ce dinar est parvenu à X ............. et en est quitte
+		 <lb n="4"/>
+ 	  Filotheus ibn Boqtor vis à vis de lui; il le lui a payé en djumâdâ 
+		 <lb n="5"/>
+ 	  second de lʾannée deux cent deux. A témoigné cela
+ 	  second de lʾannée deux cent vingt. A témoigné cela
+		 <lb n="6"/>
+ 	  Yaʿqub ibn ʿUfair et il l&#039;a écrit en djumâdâ second de l&#039;an deux cent deux
+ 	  Yaʿqub ibn ʿUfair et il l&#039;a écrit en djumâdâ second de l&#039;an deux cent vingt
+		 <lb n="7"/>
+ 	  ainsi que Aḥmad ibn Saʿîd  al Khathʿamî et il a écrit son témoignage de sa main
+		 <lb n="8"/>
+ 	  ainsi que Saʿîd ibn Sirr(?) al Summânî(?) et il a écrit son témoignage à sa date(?)
+		 <lb n="9"/>
+ 	  Al Walîd ibn Yahya al Asadî et il a écrit
+		 <lb n="10"/>
+ 	  en djumâdâ second de l&#039;an deux cent deux décembre-janvier 817-818
+ 	  en djumâdâ second de l&#039;an deux cent vingt juin 835
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

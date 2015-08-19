@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1241" xml:id="David-Weill_Louvre_15" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 15</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_15</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169077</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  لموسى وهرون دينر 
+ <lb n="2"/>  وفي <unclear reason="undefined" cert="high">قوت</unclear> كروم <unclear reason="undefined" cert="high">دينر</unclear> 
+ <lb n="3"/>  ومن ثمن إردبّـه لها <unclear reason="undefined" cert="high">دينر</unclear> 
+ <lb n="4"/>  ودفعت <app type="BL"><lem resp="APD">لباقي </lem><rdg resp="APD">لها</rdg></app> بنا دينر 
+ <lb n="5"/>  الباقي لها عندي ثلثة الدّنانير 
+ <lb n="6"/>  ودفعت إلي ثلثة الدّنانير <gap reason="illegible" precision="low" extent="3"/> دفعت إليها دينار قبل <app type="BL"><lem resp="APD">خروجي </lem><rdg resp="APD">خروجها</rdg></app> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>li mūsà wa hārūna dīnār:un 
+ <lb n="2"/>wa fī qawti kurūm:in dīnār:un 
+ <lb n="3"/>wa min ṯamani ʾirdabbi hi la hā dīnār:un 
+ <lb n="4"/>wa dafaʿtu li la bāqī hā bi nā dīnār 
+ <lb n="5"/>ăl bāqī la hā ʿind ī ṯalāṯaẗu ăd danānīri 
+ <lb n="6"/>wa dafaʿat ʾilay ya ṯalāṯaẗa ăd danānīri *** dafaʿtu ʾilay hā dīnār qabla ḫurūǧ ī hā 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  A (Pour?) Mūsā et Hārūn un dinar
+ 	  A (Pour?) Mūsā ibn Hārūn un dinar
+		 <lb n="2"/>
+ 	  et sur le revenu(?) des vignes un dinar
+		 <lb n="3"/>
+ 	  Du prix de son ardab pour elle un dinar
+		 <lb n="4"/>
+ 	  Et j&#039;ai payé pour ce qui reste chez nous un dinar
+		 <lb n="5"/>
+ 	  Le reste qui lui appartient (à elle) chez moi trois dinars
+		 <lb n="6"/>
+ 	  et elle m&#039;a payé trois dinars ..... et je lui ai payé (à elle) un dinar avant (mon) départ
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

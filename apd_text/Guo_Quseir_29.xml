@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="892" xml:id="Guo_Quseir_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113654</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  فلأنّه ما نفع أحد سواه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  ويا مولا<supplied reason="omitted" cert="high">ي</supplied> تكون تعلم هي <app type="BL"><lem resp="Guo erroneously ‫حبرت‬, but see scan of original “AK”">خبّرت </lem><rdg resp="Guo erroneously ‫حبرت‬, but see scan of original “AK”">حيّرت</rdg></app> لصاحب 
+<lb n="recto 3"/>  الزّكاة <app type="BL"><lem resp="APD">وورّيت </lem><rdg resp="APD">وورّيت</rdg></app> له الكتاب قوله 
+<lb n="recto 4"/>  وقال خذ منّي العشرة أرادب 
+<lb n="recto 5"/>  قلت هاتها قال لي تعال يوم الثّلثا 
+<lb n="recto 6"/>  خذها وأنا يا مولا<supplied reason="omitted" cert="high">ي</supplied> سررت <supplied reason="omitted" cert="high">بـ</supplied>ـهذه فإن 
+<lb n="recto 7"/>  لم يدفع لمحاسن شي غير الّتي دفعت 
+<lb n="recto 8"/>  له وهو أبو الحج علي ثلاثين درهم 
+<lb n="recto right margin"/>  رزقها عشر درهم <sic n="superfluous">ررر</sic><supplied reason="omitted" cert="high">ورزّ</supplied> محاسن <sic n="superfluous">تمانه</sic><supplied reason="omitted" cert="high">يماپپة</supplied> ونصف وسلّمهم للعجوز وقل قراهـ<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  أمّك 
+<lb n="verso 2"/>  حبّها وقالت يا ولدي ما عندي أعز منك 
+<lb n="verso 3"/>  تبيع الحاجة الّتي معك <app type="BL"><lem resp="APD">اخرج </lem><rdg resp="“AK”">واخرج</rdg></app> <app type="BL"><lem resp="APD">سرور </lem><rdg resp="“Friedman, Quṣayr p. 407; AK”">سريع</rdg></app> 
+<lb n="verso 4"/>  كل بد واقضي ما عليك فما عند<supplied reason="omitted" cert="high">ي</supplied> أعز منك 
+<lb n="verso 5"/>  ويا مولا<supplied reason="omitted" cert="high">ي</supplied> <gap reason="illegible" precision="low" extent="3"/> تدخل العطّاري 
+<lb n="verso 6"/>  واستقصي لي على شراب مفرح لأن 
+<lb n="verso 7"/>  كريمتي متمرّضة بالرّجفة ووقت قامـ<supplied reason="lost" cert="high">ـپ</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right margin"/>  وقال هم <sic n="superfluous">ذكرر</sic><supplied reason="omitted" cert="high">دكرو</supplied> للعجوز لدي مع الصّبي أربعين درهم <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>fa li ʾanna hu mā nafaʿa ʾaḥad siwā hu *** 
+ <lb n="2"/>wa yā mawlā ya takūn taʿlamu hiya ḫabbarat ḥayyarat li ṣāḥibi 
+ <lb n="3"/>ăz zakāẗi wa warrayti la hu ăl kitāba qawlu hu 
+ <lb n="4"/>wa qāla ḫuḏ minn ī ăl ʿašaraẗa ʾarādiba 
+ <lb n="5"/>qultu hāti hā qāla l ī taʿāla yawma ăṯ ṯulāṯāʾi 
+ <lb n="6"/>ḫuḏ hā wa ʾanā yā mawlā ya surirtu bi hāḏihi fa ʾin 
+ <lb n="7"/>lam yadfaʿ li maḥāsina šayʾ ġayra ăllatī dafaʿta dafaʿtu 
+ <lb n="8"/>la hu wa huwa ʾabū ăl ḥaǧǧi ʿaliyy:un ṯalāṯīna dirham 
+ <lb n="9"/>rizqu hā ʿašru dirham:in wa ruzzu maḥāsina tamāniyaẗ:un wa niṣf:un wa sallim hum li l ʿaǧūzi wa qul qrʾh*** 
+ <lb n="10"/>ʾumm ka 
+ <lb n="11"/>ḥubb hā wa qālat yā walad ī mā ʿind ī ʾaʿazzu min ka 
+ <lb n="12"/>tabīʿi ăl ḥāǧaẗa ăllatī maʿa ka ø wa ŭḫruǧ surūr sarīʿ ø min 
+ <lb n="13"/>kulla kulli budd:in wa ĭqḍī mā ʿalay ka fa mā ʿind ī ʾaʿazzu min ka 
+ <lb n="14"/>wa yā mawlā ya *** tadḫuli ăl ʿaṭṭāriyya 
+ <lb n="15"/>wa ĭstaqṣī l ī ʿalà šarāb:in mufriḥ:in liʾanna 
+ <lb n="16"/>karīmat ī mutamarriḍaẗ:un bi ăr raǧfaẗi wa waqta qāmat *** 
+ <lb n="17"/>wa qāla hum ḏakarū li l ʿaǧūzi laday ya maʿa ăṣ ṣabiyyi ʾarbaʿīna dirham *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[B]ecause it will do no good to anyone exept for himself [......].
+			<lb n="2"/>
+		O my master, you should know that she informed
+		... that she attempted to confuse
+			<lb n="3"/>
+		the tax collector and concealed the letter from him that says,
+		the tax collector and showed him the letter that says,
+			<lb n="4"/>
+		&#034;He told me, &#039;Take from me the ten irdabbs [of grain].&#039;
+			<lb n="5"/>
+		And I said, &#039;Bring them over.&#039; And he said, &#039;Come this Tuesday
+			<lb n="6"/>
+		and take them.&#039;&#034; O my Master, I was very pleased about that. If
+			<lb n="7"/>
+		he has not paid Maḥāsin anything, exept that which I have paid
+			<lb n="8"/>
+		him, Abū al-Ḥajj ʿAlī, [in the amount of] thirty dirhams[, then......].
+			<lb n="9"/>
+		She was granted ten dirhams. And the rice for Maḥāsin is eight and a half [irdabbs]. Please deliver it to the old man and tell [him] that [......].
+			<lb n="10"/>
+		Your mother
+			<lb n="11"/>
+		[expresses] her love. She said, &#034;O my son, nothing is more precious and dear to me than you.
+			<lb n="12"/>
+		Sell the stuff that you have and go out and have fun
+		Sell the stuff that you have and return home quickly 
+			<lb n="13"/>
+		by all means! Finish up your business. ...
+		by all means! Spend all the money you have. Nothing is more precious and dear to me than you!&#034;
+		 ... und erledige alles, was Dir obliegt ...
+			<lb n="14"/>
+		O my Master, [......] Would you go to see the druggist
+			<lb n="15"/>
+		and ask [him] for me about the &#034;happy drink.&#034;
+			<lb n="16"/>
+		My daughter is severely ill, suffering from tremors and shudders. When she gets up [she would......].
+		My sister is severely ill ...
+			<lb n="17"/>
+		He said that they told the old man that I have deposited (?) with the young man some forty dirhams [.....]. 
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2233" xml:id="Richards_Qasama_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RichardsQasama 01</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Richards_Qasama_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  حضر إلى شهوده يوم تاريخه شمس بن خالد بن روّاع وعمر بن أبي بكر بن طرخان وسنجر بن عيّاش بن مظفّر ونشوان بن غالي بن محمّد الجميع روسا 
+<lb n="recto 3"/>  نوبا الوقف ومشايخها وأشهدوا على أنفسهم أنّهم أقسموا باللّه جل ذكره وعلا وبالقسامة الشّريفة المولويّة السّلطانيّة الملكيّة النّاصريّة 
+<lb n="recto 4"/>  شرّفها اللّه تعالى أنّهم يسلكون الطّريق الحميدة والمناهج السّديدة ولا يخالف أحد منهم على الآخرين ولا يقيم أحد منهم 
+<lb n="recto 5"/>  فتنة ولا فساد <gap reason="illegible" precision="low" extent="3"/> ولا خلف ولا هوى ولا يودى أحد منهم الآخرين ويعمرون الوقف أثمر <app type="BL"><lem resp="APD">العمارة </lem><rdg resp="UB from plate, which clearly has double kasra below tāʾ marbūṭa 	">عمارةٍ</rdg></app> تكون ولا يشهر أحد منهم سلاحا 
+<lb n="recto 6"/>  على آخرين ومتى فعلوا شيّا ممّا نهوا عنه كان على من يفعل ذلك منهم حنث اليمين ودرك القسامة وجملته خمسمائة درهم فضّة لمستحقّي 
+<lb n="recto 7"/>  بيت المال المعمور وأنّهم متى طلبهم الجناب الكريم العالي الأميري الكبيري الغازي العضدي الموپدى الإسبهسلاري السّيفي سيف الدّين بلغاق النّاصري 
+<lb n="recto 8"/>  أعزّه اللّه تعالى في ليل أو في نهار حضروا وكذلك إذا طلبهم الجناب الكريم العالي الشّرفي <unclear reason="undefined" cert="high">العمريّ</unclear> متولّي الحرم <unclear reason="undefined" cert="high">المعمور</unclear> بخليل اللّه عليه السّلام 
+<lb n="recto 9"/>  حضروا أو طلبهم أحد من نوّاب المذكورين حضروا ومتى تعدّوا كانوا تحت الدّرك <gap reason="illegible" precision="low" extent="3"/> وحضر وكفلهم كفالة وجه وبدن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 10"/>  إبراهيم بن <gap reason="illegible" extent="4" unit="character" /> بن شهاب الغازي من بيت عينون وناصر بن نصّار بن <gap reason="illegible" extent="10" unit="character" /> و<gap reason="illegible" precision="low" extent="3"/> بن إبراهيم بن خضر بن <gap reason="illegible" extent="5" unit="character" /> الغازي من بيت عينون و<gap reason="illegible" extent="4" unit="character" />ـ بن 
+<lb n="recto 11"/>  يوسف بن <gap reason="illegible" extent="6" unit="character" /> وعبيد بن علي بن سيف من بيت عينون وبشير بن <unclear reason="undefined" cert="high">عليّ</unclear> بن خليل الغازي من ترقوميّه وحمد بن مصعب بن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  الغازي من حلحول و<gap reason="illegible" extent="4" unit="character" /> بن <gap reason="illegible" extent="4" unit="character" /> بن مبارك من بيت عينون أيضا وعمر بن <gap reason="illegible" extent="4" unit="character" /> بن عوض من بيت عينون وَعثمان بن سبع بن حمّاد من بيت <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">أحلا</unclear> </lem><rdg resp="APD">جالا</rdg></app> 
+<lb n="recto 13"/>  و<gap reason="illegible" extent="6" unit="character" /> بن حسين بن صابر وعمر بن عطيّة بن حصيب من بيت فاسين وحمد بن حمد بن طي من ترقوميّة 
+<lb n="recto 14"/>  متى طلبهم الجناب الكريم العالي السّيفي النّاصري ناظر الأوقاف الشّريفة والجناب الكريم الشّرفي الشّافعي أحضروهم ومتى عجزوا 
+<lb n="recto 15"/>  عن إحضارهم كانوا قائمين بما يلزمهم وبذلك بالحرم الشّريف شهد عليهم بتاريخ ثامن عشر ذي الحجّة سنة خمس وسبعمائة 
+<lb n="recto 16-17 right"/>  أشهد عليهم بذلك وكتبه محمّد بن أحمد 
+<lb n="recto 18-21 right"/>  أشهد على <gap reason="illegible" extent="5" unit="character" /> بما فيه <gap reason="illegible" extent="10" unit="character" /> وكتبه إسحاق بن علي الأنصاري 
+<lb n="recto 16-17 left"/>  أشهد على <gap reason="illegible" extent="5" unit="character" /> وإقرارهم بما فيه <gap reason="illegible" extent="4" unit="character" /> وكتبه <gap reason="illegible" extent="6" unit="character" /> <unclear reason="undefined" cert="high">المعموريّ</unclear> 
+<lb n="recto 18-19 left"/>  أشهد على <gap reason="illegible" extent="9" unit="character" /> وكتبه إبرهيم بن مسعود بن إبرهيم 
+<lb n="recto right margin 1-2"/>  اعترفوا بذلك عندي كتبه <gap reason="illegible" precision="low" extent="3"/> طي <gap reason="illegible" extent="4" unit="character" /> الشّافعي عفا اللّه عنه 
+<lb n="verso 1"/>  حجّة على روسا قرية نوبا الوقف للقدس الشّريف 
+<lb n="verso 2"/>  بأن لا يقيموا فتنة ولا يخالفوا على بعضهم بعض وضمانهم 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥaḍara ʾilà šuhūdi hi yawma tārīḫi hi šamsu bnu ḫālidi bni rawwāʿ:in wa ʿumaru bnu ʾabī bakri bni ṭarḫāna wa sanǧaru bnu ʿayyāši bni muẓaffar:in wa nišwānu bnu ġālī bni muḥammad:ini ăl ǧamīʿu ruʾasāʾu 
+ <lb n="3"/>nūbā ăl waqfi wa mašāyiḫu hā wa ʾašhadū ʿalà ʾanfusi him ʾanna hum ʾaqsamū bi ăl lāhi ǧalla ḏikru hu wa ʿalā wa bi ăl qasāmaẗi ăš šarīfaẗi ăl mawlawiyyaẗi ăs sulṭāniyyaẗi ăl malikiyyaẗi ăn nāṣiriyyaẗi 
+ <lb n="4"/>šarrafa hā ăl lāhu taʿālà ʾanna hum yaslukūna ăṭ ṭarīqa ăl ḥamīdaẗa wa ăl manāhiǧa ăs sadīdaẗa wa lā yuḫālifu ʾaḥad:un min hum ʿalà ăl ʾāḫarīna wa lā yuqīmu ʾaḥad:un min hum 
+ <lb n="5"/>fitnaẗ:an wa lā fasād *** wa lā ḫulf wa lā haw:an wa lā yuʾḏī ʾaḥad:un min humu ăl ʾāḫarīna wa yuʿammirūna ăl waqfa ʾaṯmara ăl ʿimāraẗi ʿimāraẗ:in takūnu wa lā yašharu ʾaḥad:un min hum silāḥ:an 
+ <lb n="6"/>ʿalà ʾāḫarīna wa matà faʿalū šayy:an mimmā nuhū ʿan hu kāna ʿalà man yafʿalu ḏālika min hum ḥinṯu ăl yamīni wa daraku ăl qasāmaẗi wa ǧumlatu hu ḫamsu miʾaẗi dirhami fiḍḍaẗ:in li mustaḥiqqī 
+ <lb n="7"/>bayti ăl māli ăl maʿmūri wa ʾanna hum matà ṭalaba humu ăl ǧanābu ăl karīmu ăl ʿālī ăl ʾamīriyyu ăl kabīriyyu ăl ġāzī ăl ʿaḍudiyyu ăl muʾayyadiyyu ăl ʾisbahsalāriyyu ăs sayfiyyu sayfu ăd dīni bulġāqu ăn nāṣiriyyu 
+ <lb n="8"/>ʾaʿazza hu ăl lāhu taʿālà fī layl:in ʾaw fī nahār:in ḥaḍarū wa ka ḏālika ʾiḏā ṭalaba humu ăl ǧanābu ăl karīmu ăl ʿālī ăš šarafiyyu ăl ʿumariyyu mutawallī ăl ḥarami ăl maʿmūri bi ḫalīli ăl lāhi ʿalay hi ăs salāmu 
+ <lb n="9"/>ḥaḍarū ʾaw ṭalaba hum ʾaḥad:un min nuwwābi ăl maḏkūrīna ḥaḍarū wa matà taʿaddaw kānū taḥta ăd daraki *** wa ḥaḍara wa kafala hum kafālaẗa waǧh:in wa badan:in *** 
+ <lb n="10"/>ʾibrāhīmu bnu **** bni šihāb:ini ăl ġāzī min bayti ʿaynūna wa nāṣiru bnu naṣṣāri bni ********** wa *** bnu ʾibrāhīma bni ḫiḍri bni ***** ăl ġāzī min bayti ʿaynūna wa **** bnu 
+ <lb n="11"/>yūsufa bni ****** wa ʿubaydu bnu ʿaliyyi bni sayf:in min bayti ʿaynūna wa bašīru bnu ʿaliyyi bni ḫalīl:ini ăl ġāzī min tarqūmiyyaha wa ḥamdu bnu muṣʿabi bni *** 
+ <lb n="12"/>ăl ġāzī min ḥalḥūla wa **** bnu **** bni mubārak:in min bayti ʿaynūna ʾayḍ:an wa ʿumaru bnu **** bni ʿawaḍ:in min bayti ʿaynūna wa ʿuṯmānu bnu sabʿi bni ḥammād:in min bayti ʾaḥlā ǧālā 
+ <lb n="13"/>wa ****** bnu ḥusayni bni ṣābir:in wa ʿumaru bnu ʿaṭiyyaẗa bni ḥaṣīb:in min bayti fāsīna wa ḥamdu bnu ḥamdi bni ṭayyiʾ:in min tarqūmiyyaẗa 
+ <lb n="14"/>matà ṭalaba humu ăl ǧanābu ăl karīmu ăl ʿālī ăs sayfiyyu ăn nāṣiriyyu nāẓiru ăl ʾawqāfi ăš šarīfaẗi wa ăl ǧanābu ăl karīmu ăš šarafiyyu ăš šāfiʿiyyu ʾaḥḍarū hum wa matà ʿaǧazū 
+ <lb n="15"/>ʿan ʾiḥḍāri him kānū qāʾimīna bi mā yalzamu hum wa bi ḏālika bi ăl ḥarami ăš šarīfi šuhida ʿalay him bi tārīḫi ṯāmina ʿašara ḏī ăl ḥiǧǧaẗi sanaẗa ḫams:in wa sabʿi miʾaẗ:in 
+ <lb n="16"/>ʾašhadu ʿalay him bi ḏālika wa kataba hu muḥammadu bnu ʾaḥmada 
+ <lb n="17"/>ʾašhadu ʿalà ***** bi mā fī hi ********** wa kataba hu ʾisḥāqu bnu ʿaliyy:ini ăl ʾanṣāriyyu 
+ <lb n="18"/>ʾašhadu ʿalà ***** wa ʾiqrāri him bi mā fī hi **** wa kataba hu ****** ăl maʿmūriyyu 
+ <lb n="19"/>ʾašhadu ʿalà ********* wa kataba hu ʾibrāhīmu bnu masʿūdi bni ʾibrāhīma 
+ <lb n="20"/>ĭʿtarafū bi ḏālika ʿind ī kataba hu *** ṭayyiʾ **** ăš šāfiʿiyyu ʿafā ăl lāhu ʿan hu 
+ <lb n="21"/>ḥuǧǧaẗ:un ʿalà ruʾasāʾi qaryaẗi nūbā ăl waqfi li l qudsi ăš šarīfi 
+ <lb n="22"/>bi ʾan lā yuqīmū fitnaẗ:an wa lā yuḫālifū ʿalà baʿḍi him baʿḍ wa ḍamānu hum 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God the Merciful, the Compassionate.
+			<lb n="2"/>
+		On the date given below there appeared before their witnesses: Šams b. Ḫālid b. Rawwāʿ and ʿUmar b. Abī Bakr b.Ṭarḫān and Sanǧar b. ʿAyyāš b. Muẓaffar and Nišwān b. Ġālī b. Muḥammad, all headmen (ruʾasāʾ)
+			<lb n="3"/>
+		and šayḫs of Nūbā, the waqf, and they attested that they swore by God (glorious and mighty is His name) and by the noble qasāma of the Lord Sulṭān al-Malik al-Nāṣir
+			<lb n="4"/>
+		(may God Almighty ennoble it) that they would follow the praiseworthy path and righteous ways and that no one of them would dispute with the others, that none of them would cause
+			<lb n="5"/>
+		any disturbance or wickedness, disagreement or dissent, and none of them would injure the others, that they would cultivate the waqf in the most productive manner possible, and that none of them would draw arms
+			<lb n="6"/>
+		against another. If they do any of these forbidden things, the perpetrators are perjurers and liable for the penalty of the qasāma, the sum of which is five hundred silver dirhams to the lawful receivers
+			<lb n="7"/>
+		of the Treasury. If his noble exalted Honour the great Emir [epithets follow] Sayf al-Dīn Bulġāq al-Nāṣirī
+			<lb n="8"/>
+		(may God Almighty exalt him) requires them by night or by day, they will attend, and likewise, if his noble exalted Honour Šaraf al-Dīn al-ʿUmarī (?), comptroller of the blessed Ḥaram in the city of Ḫalīl, the Friend of God (peace be upon him) requires them,
+			<lb n="9"/>
+		they will attend, or if any of the deputies of the aforementioned requires them, they will attend. If they transgress, they will be subject  to the penalty .... Also present, undertaking to act as guarantors of their appearance in person ....., were
+			<lb n="10"/>
+		Ibrāhīm b. ..... b. Šihāb al-Ġāzī from Bayt ʿAynūn, and Nāṣir b. Naṣṣār b. .... and .... b. Ibrāhīm b. Ḫiḍr b. .... al-Ġāzī from Bayt ʿAynūn, and .... b.
+			<lb n="11"/>
+		Yūsuf b. .... and ʿUbayd b. ʿAlī b. Sayf from Bayt ʿAynūn, and Bašīr b. ʿAlī (?) b. Ḫalīl al-Ġāzī from Tarqūmīya, and Ḥamd b. Muṣʿab b. ....
+			<lb n="12"/>
+		al-Ġāzī from Ḥalḥūl, and .... b. .... b. Mubārak from Bayt ʿAynūn also, and ʿUmar b. .... b. ʿAwaḍ from Bayt ʿAynūn, and ʿUṯmān b. Sabʿ b. Ḥammād from Bayt Aḥlā (?),
+			<lb n="13"/>
+		and .... b. Ḥusayn b. Ṣābir and ʿUmar b. ʿAṭiyya b. Ḥaṣīb from Bayt Fāsīn, and Ḥamd b. Ḥamd b. Ṭayy from Tarqumiya.
+			<lb n="14"/>
+		Whenever his noble exalted Honour, Sayf al-Dīn al-Nāṣirī, the Inspector of the noble Waqfs, or his noble Honour Šaraf al-Dīn al-Šāfiʿī require them, they will produce them. If they are unable
+			<lb n="15"/>
+		to produce them, they will be responsible for fulfilling their obligation. They were sworn to this in the Noble Ḥaram on the 18th Ḏūʾ l-Ḥiǧǧa in the year 705.
+			<lb n="16"/>
+		I bear witness to that for them; written by Muḥammad b. Aḥmad.
+			<lb n="17"/>
+		I bear witness to the contents for .... .....; written by Isḥāq b. ʿAlī  al-Anṣārī.
+			<lb n="18"/>
+		I bear witness for .... and to their declaration of the contents ....; written by ................. al-Maʿmūrī (?).
+			<lb n="19"/>
+		I bear witness to ......; written by Ibrāhīm b. Masʿūd b. Ibrāhīm.
+			<lb n="20"/>
+		They acknowledged that in my presence; written by .. Tayy (?) .. al-Šāfiʿī (may God forgive him).
+			<lb n="21"/>
+		A document binding on the headmen of the village of Nūbā, waqf of Jerusalem the Noble,
+			<lb n="22"/>
+		that they will not cause any disturbance nor dispute one with another, and their guarantee.
+</ab></div>
+</body>
+</text>
+</TEI>

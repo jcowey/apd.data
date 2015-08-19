@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2473" xml:id="Grohmann_Mird_31" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Mird 31</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Mird_31</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">الـلّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="recto 2"/>   <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">داسى</supplied> <supplied reason="lost" cert="high">حـ</supplied><gap reason="illegible" extent="5" unit="character" /> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">الى</supplied> </lem><rdg resp="APD">الصّبّاح </rdg><rdg resp="APD">الصّياح </rdg><rdg resp="APD">الصّيّاح </rdg><rdg resp="APD">الضّباح </rdg><rdg resp="APD">الضّبّاح </rdg><rdg resp="APD">الضّيّاح </rdg><rdg resp="APD">الصّناح </rdg><rdg resp="APD">الجناح </rdg><rdg resp="APD">المسباح </rdg><rdg resp="APD">المصباح</rdg></app> <supplied reason="lost" cert="high">الـ</supplied>ـصبا<supplied reason="lost" cert="high">ح</supplied> پن حلد ڤأپى 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الّذي</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="recto 4"/>  <supplied reason="lost" cert="high">أمّا</supplied> <supplied reason="lost" cert="high">بعد</supplied> <gap reason="illegible" precision="low" extent="3"/>ـدپى جعلا له على 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> پمن فاستخرج لـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="recto 6"/>  <supplied reason="lost" cert="high">حقّه</supplied> <gap reason="illegible" precision="low" extent="3"/>ـا يعرف <supplied reason="lost" cert="high">ا</supplied>د<gap reason="illegible" extent="1" unit="character" />ـاه 
+<lb n="recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> پدل والا پرد <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> احـ<gap reason="illegible" precision="low" extent="3"/>ـد <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="verso 1"/>  مـ<supplied reason="lost" cert="high">ـن</supplied> داسي حـ<gap reason="illegible" precision="low" extent="3"/> ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  <unclear reason="undefined" cert="high">پحال</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min dāsī ḥ***** ʾilà ăḍ ăṣ ăl ṣabāḥi ḍabbāḥi ṣabbāḥi ṣanāḥi ṣayāḥi ḍayyāḥi ṣayyāḥi ḍubāḥi ǧanāḥi misbāḥi miṣbāḥi bni ḫālid:in fa ʾin nī ʾaḥmadu 
+ <lb n="3"/>ʾilay ka ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="4"/>ʾammā baʿdu ***d nī ǧuʿl:an la hu ʿalà 
+ <lb n="5"/>*** Bmn fa ĭstaḫriǧ la hu 
+ <lb n="6"/>ḥaqqa hu ***ʾ yaʿrifu ʾd*ʾh 
+ <lb n="7"/>*** Bdl wʾlʾ Brd ** 
+ <lb n="8"/>*** ʾḥ***d ***** 
+ <lb n="9"/>min dāsī ḥ*** ʾ*** 
+ <lb n="10"/>Bḥʾl 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		[From Dāsī (?) Ḥ........... to aṣ-]Ṣabā[ḥ] ibn Ḫālid. Verily, I praise
+			<lb n="3"/>
+		[unto you God, besides whom there is no god.]
+			<lb n="4"/>
+		[Thereafter, ...]... me wages for him to the debit of
+			<lb n="5"/>
+		[...] ...... Thus procure hi[m]
+			<lb n="6"/>
+		[his right(s) ............] ...... he knows ....
+			<lb n="7"/>
+			<lb n="8"/>
+			<lb n="9"/>
+		Fro[m] Dāsī (?) Ḥ [   ] ...
+</ab></div>
+</body>
+</text>
+</TEI>

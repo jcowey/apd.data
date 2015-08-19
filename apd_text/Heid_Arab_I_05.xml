@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="36" xml:id="Heid_Arab_I_05" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. I 05 (= Chrest.Khoury I 93)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Heid_Arab_I_05</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">23234</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّـ</supplied>ـه <unclear reason="undefined" cert="high">الر</unclear>حمن <unclear reason="undefined" cert="high">الر</unclear>حيم 
+<lb n="2"/>  هذا كتب من قرّة بن شريك 
+<lb n="3"/>  لأهل بديدس من كورة <app type="BL"><lem resp="APD">أشفوه </lem><rdg resp="qāf with one dot above “Maġribī” “AK”">إشقوه</rdg></app> إنّه أصابكم من 
+<lb n="4"/>  جزية سنة ثمان وثمنين أربع <app type="BL"><lem resp="APD">مئة </lem><rdg resp="Khoury">مائة</rdg></app> دينر وأحد وستين 
+<lb n="5"/>  ونصف دينر عددا ومن ضريبة الطعام مئتن إردب 
+<lb n="6"/>  قمح وسبعين إردبّا وثلث إردب ونصف ويبة 
+<lb n="7"/>  وكتب راشد في صفر من سنة إحدى وتسعين 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min qurraẗa bni šarīka 
+ <lb n="3"/>li ʾahli badiyadusa min kūraẗi ʾašfūha ʾišqawha ʾinna hu ʾaṣāba kum min 
+ <lb n="4"/>ǧizyaẗi sanaẗi ṯamān:in wa ṯamānīna ʾarbaʿu miʾaẗi dīnār:in wa ʾaḥad:un wa sittīna 
+ <lb n="5"/>wa niṣfu dīnār:in ʿadad:an wa min ḍarībaẗi ăṭ ṭaʿāmi miʾatayni ʾirdabbi 
+ <lb n="6"/>qamḥ:in wa sabʿīna ʾirdabb:an wa ṯulṯu ʾirdabb:in wa niṣfu waybaẗ:in 
+ <lb n="7"/>wa kataba rāšid:un fī ṣafar:in min sanaẗi ʾiḥdà wa tisʿīna 
+ <lb n="8"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Die]u clément et miséricordieux!
+		Im Namen Gottes, des Barmherzigen, des Erbarmers!
+			<lb n="2"/>
+		Ceci es tune lettre de Qurra Ibn Šarīk
+		Dies ist ein Brief von Qorra, dem Sohne des Šarīk,
+			<lb n="3"/>
+		An die Bewohner von Pedias im Bezirk Ašfūh. Es hat Euch getroffen
+		aux habitants de Pedias du district d’Ašqawh. Il vous revient
+			<lb n="4"/>
+		de la capitation de l’année quatre-vingt-huit quatre cent soixante et un
+		Von der Geldsteuer (ǵizja) des Jahres achtundachtzig vierhunderteinundsechzig
+			<lb n="5"/>
+		dīnārs de demi (en pièces de monnaie) comptées, et de l’impôt des produits du sol deux cents ardebs
+		Und ein halber Dīnār gezählter Münze und von der Naturalauflage zweihundert
+			<lb n="6"/>
+		de blé, soixante-dix ardebs et un tiers, et une demi-wayba.
+		Und siebzig Artaben Weizen und ein Drittel Artabe und ein halbes Waiba (1 waiba = 1/6 irdabb)
+			<lb n="7"/>
+		(L’)a écrit Rašīd au mois de ṣafar de l’année quatre-vingt-onze.
+		Und es hat (dies) geschrieben Rāšid im Ṣafar des Jahres einundneunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

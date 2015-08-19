@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2222" xml:id="Diem_Heid_III_9" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_9</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يابا الحسين أطال اللّه بقاك وجعلني فداك 
+<lb n="3"/>  ما رأيت أعجب منك إذ كنّا ما قرأنا لك كتابا 
+<lb n="4"/>  منذ رجب و لا سمعپ لك خبرا وكان 
+<lb n="5"/>  تكون كتبك متّصّلة بأخبارك فرأيتها <unclear reason="undefined" cert="high">منّة</unclear> وأخبارك 
+<lb n="6"/>  في ما تعلم تعلّق قلـ<sic n="superfluous">ـپـ</sic>ـوبنا بأخباركم واللّه مستعان 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā ʾabā ăl ḥusayni ʾaṭāla ăl lāhu baqāʾa ka wa ǧaʿala nī fidāʾa ka 
+ <lb n="3"/>mā raʾaytu ʾaʿǧaba min ka ʾiḏ kunnā mā qaraʾnā la ka kitāb:an 
+ <lb n="4"/>munḏu raǧab:in lā samiʿtu la ka ḫabar:an wa kāna bi ǧumāda 
+ <lb n="5"/>takūnu kutubu ka muttaṣilaẗ:an bi ʾaḫbāri ka fa raʾaytu hā minnaẗ:an wa ʾaḫbāru ka 
+ <lb n="6"/>fī mā taʿlamu taʿallaqa qulūbu nā bi ʾaḫbāri kum wa ăl lāhu mustaʿān:un 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="2"/>
+		O Abū l-Ḥusayn - Gott lasse Dich lange leben / und möge mich als Dein Lösegeld geben -,
+			<lb n="3"/>
+		ich habe (wirklich) niemand erlebt, der erstaunlicher als Du gewesen wäre, da wir von Dir keinen Brief
+			<lb n="4"/>
+		seit dem Raǧab zu lesen bekommen haben und ich von Dir (seitdem) auch keine Nachricht vernommen habe, (dies), nachdem (noch) im Ǧumādā
+			<lb n="5"/>
+		Deine Briefe ununterbrochen mit Nachrichten über Dich eingetroffen waren; ich hatte sie als große Gunst betrachtet (?). Was Nachrichten über Dich,
+			<lb n="6"/>
+		wie Du doch weißt, angeht, so ist uns sehr an Nachrichten über Euch gelegen. Man muß (in dieser Hinsicht wohl) Gott zu Hilfe nehmen.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="417" xml:id="Diem_CPR_16_3" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_3</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106616</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ويـ<unclear reason="undefined" cert="high">ـعـ</unclear>ـلم الـ<unclear reason="undefined" cert="high">ـقاضـ</unclear>ـي أعزّه اللّه أن أمّنا توفّيـ<supplied reason="lost" cert="high">ـت</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  لها لأخـ<supplied reason="lost" cert="high">ـو</supplied>اتي وأنكرتنا إحدى الأخـ<supplied reason="lost" cert="high">ـوات</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  أن لأمّنا من المنزل السّدس فأشهدنا في <supplied reason="lost" cert="high">ذلك</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و </supplied>
+<lb n="5"/>  عثمن بن أبي عبّاس وغيرهما وكـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  فيما بقي ثم أنكرت أيضا وقبضت كـ<supplied reason="lost" cert="high">ـلّ</supplied> <supplied reason="lost" cert="high">الكرى</supplied> <supplied reason="lost" cert="high">ولم</supplied> <supplied reason="lost" cert="high">تعطينا</supplied> 
+<lb n="7"/>  شيئا من الكرى فرأي القاضي أطال اللّه بقا<supplied reason="lost" cert="high">ه</supplied> <supplied reason="lost" cert="high">في</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  كل ذي حق حقّه فعل موفّقا <app type="BL"><lem resp="APD">ثبّاتا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Khan">مثابا</rdg></app> 
+<lb n="9"/>  وأطال بقاه وأعزّه وأكرمه <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** 
+ <lb n="2"/>wa yaʿlami ăl qāḍī ʾaʿazza hu ăl lāhu ʾanna ʾumma nā tuwuffiyat *** 
+ <lb n="3"/>la hā li ʾaḫawāt ī wa ʾankarat nā ʾiḥdà ăl ʾaḫawāti *** 
+ <lb n="4"/>ʾanna li ʾummi nā mina ăl manzili ăs sudsa fa ʾašhadnā fī ḏālika *** bna *** wa 
+ <lb n="5"/>ʿuṯmāna bna ʾabī ʿabbāsa wa ġayra humā wa k*** 
+ <lb n="6"/>fī mā baqiya ṯumma ʾankarat ʾayḍ:an wa qabaḍat kulla ăl kirà wa lam tuʿṭī nā 
+ <lb n="7"/>šayʾ:an mina ăl kirà fa raʾyu ăl qāḍī ʾaṭāla ăl lāhu baqāʾa hu fī *** 
+ <lb n="8"/>kulli ḏī ḥaqq:in ḥaqqa hu faʿala muwaffaq:an ṯabbāt:an muṯāb:an *** 
+ <lb n="9"/>wa ʾaṭāla baqāʾa hu wa ʾaʿazza hu wa ʾakrama hu *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		und der Richter - Gott stärke ihn - möge wissen: Unsere Mutter ist gestorben [und hat einen] ihr gehörigen [Sechstel-Anteil an dem und dem Haus]
+			<lb n="3"/>
+		meinen Schwestern hinterlassen, aber eine der Schwestern wies uns ab [und stritt ab,]
+			<lb n="4"/>
+		daß unsere Mutter den Sechstel-Anteil am Haus gehabt hatte. Deshalb riefen wir diesbezüglich [den Soundso und den Abū Fulān]
+			<lb n="5"/>
+		ʿUṯmān b. Abī ʿAbbās sowie weitere Personen als Zeugen auf, und [
+			<lb n="6"/>
+		bezüglich des Restes (sc. des Hauses). Hierauf stritt sie (unseren Anspruch) erneut ab und kassierte die ge[samte Miete, gab uns jedoch]
+			<lb n="7"/>
+		nicht von der Miete. Der Richter - Gott lasse ihn lange leben - möge also freundlicherweise [
+			<lb n="8"/>
+		jedem Menschen mit einem Rechtsanspruch zu seinem Recht [verhelfen]; dies möge er erfolgreich und genau tun! [Gott --- ihn,]
+			<lb n="9"/>
+		lasse ihn lang leben, stärke ihn, ehre ihn [
+</ab></div>
+</body>
+</text>
+</TEI>

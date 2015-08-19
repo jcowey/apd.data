@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2300" xml:id="Diem_Heid_III_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> وينهي أن المملوك له فلّاح يسمّی 
+<lb n="2"/>  علی بن أبو الفضل وكان له أخ يسمّی أحمد توفّي إلی رحمة <supplied reason="omitted" cert="high">الله</supplied> 
+<lb n="3"/>  وخلف ثلاثة بنيّات وقسم الميراث بينهم ثم أن بيت 
+<lb n="4"/>  أخي فلّاح المملوك تزوّج شخصا يسمّی ناصر الدّين ابن إبرهيم وتقصّد 
+<lb n="5"/>  يقاسم فلاحنا في دار الفلّاحة ودار الفلّاح بالقسر وقد <app type="BL"><lem resp="APD">جهّز </lem><rdg resp="Diem">حرّر</rdg></app> 
+<lb n="6"/>  المملوك مرسوم شيخ الإسلام القاضي أبو <supplied reason="omitted" cert="high"><gap reason="illegible" precision="low" extent="3"/> بمنع</supplied> من يتعرّض لفلّاح المملوك بسبب <supplied reason="lost" cert="high">ا</supplied>لدّار 
+<lb n="7"/>  وسوال المملوك من الصّدقات العميمة شمول فلّاح المملوك بالنّضر السّعيد 
+<lb n="8"/>  ومنع من يعارضه بسبب الدّار وهو بحسب الإدلال والله تعالی يديم 
+<lb n="9"/>  لنا أيّامه مدّة طويل <unclear reason="undefined" cert="high">يقرّر</unclear> النّضر <unclear reason="undefined" cert="high">بإنهايه</unclear> 
+<lb n="10"/>  كتب في تاسع عشر شهر المحرّم سنة عشر وثمن ماية 
+<lb n="11"/>  وصلّی اللّه علی سيّدنا محمـ<supplied reason="lost" cert="high">ـد</supplied> <supplied reason="lost" cert="high">و</supplied>آله وصحبه <supplied reason="omitted" cert="high">و</supplied>سلّم 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> حر <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** wa yunhī ʾanna ăl mamlūka la hu fallāḥ:un yusammà 
+ <lb n="2"/>ʿaliyya bna ʾabū ăl faḍli wa kāna la hu ʾaḫ:un yusammà ʾaḥmada tuwuffiya ʾilà raḥmaẗi ăl lāhi 
+ <lb n="3"/>wa ḫalafa ṯalāṯaẗa bunayyāt:in wa qusima ăl mīrāṯu bayna hum ṯumma ʾanna bayta 
+ <lb n="4"/>ʾaḫī fallāḥi ăl mamlūki tazawwaǧa šaḫṣ:an yusammà nāṣira ăd dīni ĭbna ʾibrāhīma wa taqaṣṣada 
+ <lb n="5"/>yuqāsimu fallāḥa nā fī dāri ăl fallāḥaẗi wa dāri ăl fallāḥi bi ăl qasri wa qad ǧahhaza ḥurrira 
+ <lb n="6"/>ăl mamlūku marsūma šayḫi ăl ʾislāmi ăl qāḍī ʾabū *** bi manʿi man yataʿarraḍu li fallāḥi ăl mamlūki bi sababi ăd dāri 
+ <lb n="7"/>wa suʾālu ăl mamlūki mina ăṣ ṣadaqāti ăl ʿamīmaẗi šumūlu fallāḥi ăl mamlūki bi ăn naḍari ăs saʿīdi 
+ <lb n="8"/>wa manʿu man yuʿāriḍu hu bi sababi ăd dāri wa huwa bi ḥasabi ăl ʾidlāli wa ăl lāhu taʿālà yudīmu 
+ <lb n="9"/>la nā ʾayyāma hu muddaẗ:an ṭawīl yuqarriru ăn naḍara bi ʾinhāʾi hi 
+ <lb n="10"/>kutiba fī tāsiʿi ʿašara šahri ăl muḥarrami sanaẗa ʿašara wa ṯamāni miyaẗ:in 
+ <lb n="11"/>wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa ṣaḥbi hi wa sallama 
+ <lb n="12"/>*** ḥr *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		und (er) tut kund, daß der Sklave einen Bauern hat namens
+			<lb n="2"/>
+		ʿAlī ibn Abī l-Faḍl. Dieser hat einen Bruder namens Aḥmad, der in die Barmherzigkeit &lt;Gottes&gt; einging
+			<lb n="3"/>
+		und drei kleine Töchter hinterließ, und es wurde das Erbe zwischen ihnen aufgeteilt. Hierauf
+			<lb n="4"/>
+		ehelichte die Ehefrau des Bruders des Bauern des Sklaven eine Person namens Nāṣir ad-Dīn Ibn Ibrāhīm, und dieser faßte die Absicht,
+			<lb n="5"/>
+		zusammen mit meinem Bauern an dem Haus der Bäuerin bzw. dem Haus des Bauern mit Gewalt teilzuhaben.
+			<lb n="6"/>
+		Der Sklave hat den Erlaß des Šayḫ al-Islām, des Richters Abū &lt;Fulān, abzuhalten&gt; diejenigen, die den Bauern des Sklaven in Sachen des Hauses behelligen, beschafft.
+			<lb n="7"/>
+		Die Bitte des Sklaven gegenüber den umfassenden Gnaden ist es nun, den Bauern des Sklaven mit der glücklichen Fürsorge zu umfangen
+			<lb n="8"/>
+		und diejenigen abzuhalten, die ihn in Sachen des Hauses behelligen, dies gemäß der Vertraulichkeit (ihm gegenüber). Gott, der Erhabene, erhalte
+			<lb n="9"/>
+		uns seine Tage noch (vacat) lange Zeit. (Vacat) Möge er den Blick auf seiner Kundgabe (?) ruhen lassen (?)!
+			<lb n="10"/>
+		Geschrieben am neunzehnten des Monats al-Muḥarram im Jahre achthundertzehn
+			<lb n="11"/>
+		Gott segne unseren Herrn Muḥamma[d und] seine Sippe und seine Gefährten &lt;und&gt; spende (ihnen) Heil!
+			<lb n="12"/>
+		Schlußzeichen.
+</ab></div>
+</body>
+</text>
+</TEI>

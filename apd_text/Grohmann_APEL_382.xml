@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1900" xml:id="Grohmann_APEL_382" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 382</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_382</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169637</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ‮<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـوپق β 
+<lb n="2"/>  ‮فذلك ‪ρκχ 
+<lb n="3"/>  ‮وتقدّم لي صرف بلح ‪λϛ 
+<lb n="4"/>  ‮وشعير في المدينة ‪κδχγʹ 
+<lb n="5"/>  ‮والمزج λ 
+<lb n="6"/>  ‮فذلك شعير ι 
+<lb n="7"/>  صرفها عشرة الدّنانير 
+<lb n="8"/>  فهذا حسابـ<supplied reason="lost" cert="high">ـهم</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **wyq 2 
+ <lb n="2"/>fa ḏālika 120+1/2 
+ <lb n="3"/>wa taqaddama l ī ṣarfu balaḥ:in 36 
+ <lb n="4"/>wa šaʿīr:un fī ăl madīnaẗi 24+1/2+1/3 
+ <lb n="5"/>wa ăl mizǧu 30 
+ <lb n="6"/>fa ḏālika šaʿīr:un 10 
+ <lb n="7"/>ṣarfu hā ʿašaraẗu ăd danānīri 
+ <lb n="8"/>fa hāḏā ḥisābu hum 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		That makes: 122 1/2
+			<lb n="3"/>
+		And there has been brought to me the equivalent of the dates 36
+			<lb n="4"/>
+		and barley in the (district-)capital 24 1/2+1/3
+			<lb n="5"/>
+		and honey 30
+			<lb n="6"/>
+		That makes: barley 10
+			<lb n="7"/>
+		Its equivalent (are) ten dînârs
+			<lb n="8"/>
+		This is, therefore, [their] account.
+</ab></div>
+</body>
+</text>
+</TEI>

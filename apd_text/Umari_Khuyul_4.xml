@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2107" xml:id="Umari_Khuyul_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.UmariHuyul 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Umari_Khuyul_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرَّحمَن الرَّحيم وهو حسبي 
+<lb n="recto 2"/>  اشتري محمّد بن عبد العزيز بن يحيي الدّلّال بسوق الخيل عرف بابن زين <gap reason="illegible" extent="8" unit="character" /> من 
+<lb n="recto 3"/>  المجلس العالي مسرباي بن عبد اللّه العلائي من طبقة القصر الملكي الأشرفي أعزّه اللّه تعالي جميع 
+<lb n="recto 4"/>  فرس فحل شامة بوز كحلي مدوّر القد به داغ المقام الشّريف محجّل الرّامحة اليمنى معلوم 
+<lb n="recto 5"/>  عندهما العلم الشّرعي النّافي الجهالة اشترا صحيحا شرعيّا بثمن مبلغه من الفضّة العدد المستجدّة 
+<lb n="recto 6"/>  العين السّالمة من عيب مثلها مايتا نصف وخمسة وعشرون نصفا الجميع على حكم الحلول 
+<lb n="recto 7"/>  واعترف المشتري المذكور بتسلّم ما ابتاعه من العين التّسلّم الشّرعي <supplied reason="omitted" cert="high">بعد</supplied> النّظر والمعرفة والتّقلّب 
+<lb n="recto 8"/>  الشّرعي والإحاطة بذلك علما وخبرة نافية للجهالة والبيع صدر بينهما في الفرس المذكور 
+<lb n="recto 9"/>  بشَرط البرا من كل عيب لا ضمان سوي الحال وأكل العليق المعتاد بتصادقهما على 
+<lb n="recto 10"/>  ذلكَ التّصديق الشّرعي وكلا من بيعت بيد بطلب الحكم به توكيلا شرعيّا وبه شهد 
+<lb n="recto 11"/>  عاشر شَهر ذي القعدة الحرام سنَة ست وتسعمائة حسبي اللّه ونعم الوكيل 
+<lb n="recto 12"/>  شهد عليهما بذلك شهد عليهما بذلك 
+<lb n="recto 13"/>  عبد الرّحمن بن علي الميموني أحمد بن عبد العزيز 
+<lb n="verso 1"/>  الحمد للّه 
+<lb n="verso 2"/>  أقر المجلس العلي مسرباي للبائع المذكور باطنه 
+<lb n="verso 3"/>  الإقرار الشّرعي أنه وصل لَه من مال محمّد المشتري المذكور باطنه 
+<lb n="verso 4"/>  علي يد والده عبد العزيز المذكور باطنه جميع مبلغ 
+<lb n="verso 5"/>  الثّمن المقر باطنَه وجملته من الفضّة المرصودة باطنه مائتا نصف 
+<lb n="verso 6"/>  وخمسة وعشرون نصفا الوصول الشّرعي بالقبض الشّرعي ولم 
+<lb n="verso 7"/>  يتأخر لدين شرعي قل ولا جل بتصادقهما على ذلك التّصديق 
+<lb n="verso 8"/>  الشّرعي وكلا من بيعت بيد وطلب الحكم به توكيلا شرعيّا به 
+<lb n="verso 9"/>  وبه شهد حادي عشر ذي القعدة الحرام سنة ست وتسعماية 
+<lb n="verso 10"/>  عبد الرّحمن بن علي أحمد بن عبد العزيز 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi wa huwa ḥasb ī 
+ <lb n="2"/>ĭštarà muḥammadu bnu ʿabdi ăl ʿazīzi bni yaḥyà ăd dallālu bi sūqi ăl ḫayli ʿurifa bi ĭbni zayn:in ******** mina 
+ <lb n="3"/>ăl maǧlisi ăl ʿālī misrabāya bni ʿabdi ăl lāhi ăl ʿalāʾiyyi min ṭabaqaẗi ăl qaṣri ăl malikiyyi ăl ʾašrafiyyi ʾaʿazza hu ăl lāhu taʿālà ǧamīʿa 
+ <lb n="4"/>faras:in faḥl:in šāmaẗ:in būz:in kuḥliyy:in mudawwari ăl qaddi bi hi dāġu ăl maqāmi ăš šarīfi muḥaǧǧali ăr rāmiḥaẗi ăl yumnà maʿlūm:un 
+ <lb n="5"/>ʿinda humā ăl ʿilmu ăš šarʿiyyu ăn nāfī ăl ǧahālaẗa ĭštarā ṣaḥīḥ:an šarʿiyy:an bi ṯaman:in mablaġu hu mina ăl fiḍḍaẗi ăl ʿadadi ăl mustaǧaddaẗi 
+ <lb n="6"/>ăl ʿayni ăs sālimaẗi min ʿaybi miṯli hā miyatā niṣf:in wa ḫamsaẗ:un wa ʿišrūna niṣf:an ăl ǧamīʿu ʿalà ḥukmi ăl ḥulūli 
+ <lb n="7"/>wa ĭʿtarafa ăl muštarī ăl maḏkūru bi tasallumi mā ĭbtāʿa hu mina ăl ʿayni ăt tasalluma ăš šarʿiyya baʿda ăn naẓari wa ăl maʿrifaẗi wa ăt taqallubi 
+ <lb n="8"/>ăš šarʿiyyi wa ăl ʾiḥāṭaẗi bi ḏālika ʿilm:an wa ḫibraẗ:an nāfiyaẗ:an li l ǧahālaẗi wa ăl bayʿu ṣadara bayna humā fī ăl farasi ăl maḏkūri 
+ <lb n="9"/>bi šarṭi ăl barāʾi min kulli ʿayb:in lā ḍamāna siwà ăl ḥāli wa ʾakli ăl ʿalīqi ăl muʿtādi bi taṣāduqi himā ʿalà 
+ <lb n="10"/>ḏālika ăt taṣdīqa ăš šarʿiyya wukalāʾa man bīʿat bi yad:in bi ṭalabi ăl ḥukmi bi hi tawkīl:an šarʿiyy:an wa bi hi šahida 
+ <lb n="11"/>ʿāšira šahri ḏī ăl qaʿdaẗi ăl ḥarāmi sanaẗa sitt:in wa tisʿi miʾaẗ:in ḥasb iya ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="12"/>šahida ʿalay himā bi ḏālika šahida ʿalay himā bi ḏālika 
+ <lb n="13"/>ʿabdu ăr raḥmāni bnu ʿaliyy:ini ăl maymūniyyu ʾaḥmadu bnu ʿabdi ăl ʿazīzi 
+ <lb n="14"/>ăl ḥamdu li l lāhi 
+ <lb n="15"/>ʾaqarra ăl maǧlisu ăl ʿaliyyu misrabāyu li l bāʾiʿi ăl maḏkūri bāṭina hu 
+ <lb n="16"/>ăl ʾiqrāra ăš šarʿiyya ʾanna hu waṣala la hu min māli muḥammad:ini ăl muštarī ăl maḏkūri bāṭina hu 
+ <lb n="17"/>ʿalà yadi wālidi hi ʿabdi ăl ʿazīzi ăl maḏkūri bāṭina hu ǧamīʿu mablaġi 
+ <lb n="18"/>ăṯ ṯamani ăl muqarri bāṭina hu wa ǧumlatu hu mina ăl fiḍḍaẗi ăl marṣūdaẗi bāṭina hu miʾatā niṣf:in 
+ <lb n="19"/>wa ḫamsaẗ:un wa ʿišrūna niṣf:an ăl wuṣūla ăš šarʿiyya bi ăl qabḍi ăš šarʿiyyi wa lam 
+ <lb n="20"/>yataʾaḫḫar li dayn:in šarʿiyy:in qalla wa lā ǧalla bi taṣāduqi himā ʿalà ḏālika ăt taṣdīqa 
+ <lb n="21"/>ăš šarʿiyya wukalāʾa man bīʿat bi yad:in wa ṭalabi ăl ḥukmi bi hi tawkīl:an šarʿiyy:an bi hi 
+ <lb n="22"/>wa bi hi šahida ḥādiya ʿašara ḏī ăl qaʿdaẗi ăl ḥarāmi sanaẗa sitt:in wa tisʿi miyaẗ:in 
+ <lb n="23"/>ʿabdu ăr raḥmāni bnu ʿaliyy:in ʾaḥmadu bnu ʿabdi ăl ʿazīzi 
+  </ab></div>
+<div type="translation"><ab>
+</ab></div>
+</body>
+</text>
+</TEI>

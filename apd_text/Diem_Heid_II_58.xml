@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1455" xml:id="Diem_Heid_II_58" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 58</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_58</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169239</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="a1"/>  بسم اللّه الرّحمن الرّحيم أعزّك اللّه <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="a2"/>  أطال اللّه بقاك وأدام عزّك وكرامتك وتأييـ<supplied reason="lost" cert="high">ـدك</supplied> 
+<lb n="a3"/>  وسعادتك وسلامتك وأتم نعمته عليك وزاد في إ<supplied reason="lost" cert="high">حسانه</supplied> 
+<lb n="a4"/>  إليك وجـ<unclear reason="undefined" cert="high">ـميل</unclear> <app type="BL"><lem resp="APD">الـ<gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">المنايح</rdg></app> لديك وجعلني من كل سو <supplied reason="lost" cert="high">فداك</supplied> 
+<lb n="a5"/>  يا سيّدي جعلني اللّه فداك أشكوا <supplied reason="lost" cert="high">إليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a6"/>  فإنّه نزل إلى دار جمـ<unclear reason="undefined" cert="high">ـالـ</unclear>ـي فأخـ<supplied reason="lost" cert="high">ـر</supplied><unclear reason="undefined" cert="high">جته</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a7"/>  وعرس فكلّمته صاحبة الـ<gap reason="illegible" extent="4" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">أسألك </rdg><rdg resp="APD">تسألك</rdg></app> 
+<lb n="a8"/>  يأخي سيّدي أنت أ<unclear reason="undefined" cert="high">ن</unclear> تأخـ<unclear reason="undefined" cert="high">ـذه</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a9"/>  المقص وعرس وقد عجز ذلك <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فأسألك</rdg></app> 
+<lb n="a10"/>  أن <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">تنظر</rdg></app> <app type="BL"><lem resp="APD">امره </lem><rdg resp="APD">في</rdg></app> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="a11"/>  <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="b1 upside down"/>  <gap reason="illegible" precision="low" extent="3"/> أطال اللّه بقاك 
+<lb n="b2"/>  أطال اللّه بقاك و<unclear reason="undefined" cert="high">أدام</unclear> <unclear reason="undefined" cert="high">عزّك</unclear> و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="b3 upside down"/>  <gap reason="illegible" precision="low" extent="3"/> بسم اللّه الرّحمن الرّحيم 
+<lb n="b4"/>  ا<gap reason="illegible" extent="9" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾaʿazza ka ăl lāhu ******** 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa taʾyīda ka 
+ <lb n="3"/>wa saʿādata ka wa salāmata ka wa ʾatamma niʿmata hu ʿalay ka wa zāda fī ʾiḥsāni hi 
+ <lb n="4"/>ʾilay ka wa ǧamīli ăl **** manāyiḥ laday ka wa ǧaʿala nī min kulli sūʾ:in fidāʾa ka 
+ <lb n="5"/>yā sayyid ī ǧaʿala nī ăl lāhu fidāʾa ka ʾaškū ʾilay ka *** 
+ <lb n="6"/>fa ʾinna hu nazala ʾilà dāri ǧimāl ī fa ʾaḫraǧtu hu *** 
+ <lb n="7"/>wa ʿarasa fa kallamat hu ṣāḥibaẗu ăl **** *** ʾasʾalu tasʾalu ø ka ka 
+ <lb n="8"/>yā ʾaḫ ī sayyid ī ʾanta ʾan taʾḫuḏa hu *** *** 
+ <lb n="9"/>ăl miqaṣṣ wa ʿarasa wa qad ʿaǧaza ḏālika *** fa ʾasʾalu ka 
+ <lb n="10"/>ʾan ***** tanẓura ø fī ʾamr ʾamri hi hu ***** *** 
+ <lb n="11"/>****** **** 
+ <lb n="12"/>*** ʾaṭāla ăl lāhu baqāʾa ka 
+ <lb n="13"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa *** 
+ <lb n="14"/>*** bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="15"/>ʾ********* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen! Gott stärke Dich - - -
+			<lb n="2"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen, Deine ehrenvolle Stellung, Deine Unter[stützung],
+			<lb n="3"/>
+		Dein Glück und Deine Wohlbehaltenheit andauern, vollende seine Gnade an Dir, erweise Dir noch mehr sein W[ohlwollen]
+			<lb n="4"/>
+		und die schönen - - - und mache mich zu [Deinem Lösegeld], das Dich von allem Bösen errettet!
+			<lb n="5"/>
+		Mein Herr - Gott mache  mich zu Deinem Lösegeld -, ich beklage mich [(bei Dir) über den Soundso,]
+			<lb n="6"/>
+		denn er ist in meinen Kamelstall eingedrungen. Da warf ich ihn hinaus (?) [
+			<lb n="7"/>
+		und er zeigte sich unbekümmert. Da sprach mit ihm die Besitzerin der/des [
+			<lb n="8"/>
+		mein Bruder - Du bist mein Herr -, daß Du ihn zur Rechenschaft ziehst (?) [
+			<lb n="9"/>
+		die Schere und zeigte sich unbekümmert. Aber diese fehlte (?) [Deshalb bitte ich Dich,]
+			<lb n="10"/>
+		daß [Du] seine Angelegenheit [untersuchst (?)]  - - -
+			<lb n="11"/>
+			<lb n="12"/>
+		] Gott lasse Dich lange leben!
+			<lb n="13"/>
+		Gott lasse Dich lange leben und lasse Dein Ansehen (?) andauern(?) [
+			<lb n="14"/>
+</ab></div>
+</body>
+</text>
+</TEI>

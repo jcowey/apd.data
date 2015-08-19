@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1420" xml:id="Grohmann_Berlin_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169208</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/>ر<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="5" unit="character" /> ابنته فأمرها ر<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">رأ</supplied><unclear reason="undefined" cert="high">س</unclear> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـلح</unclear> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الپكاپپ</unclear> </lem><rdg resp="APD">المكاتب</rdg></app> سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـسى <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">والعبش</unclear> </lem><rdg resp="APD">والعبش </rdg><rdg resp="APD">والفتش</rdg></app> وهي إذ ذاك امرأة بكر بالغ 
+<lb n="4"/>  تلي نفسها ومالها وشرط عبد ا<supplied reason="lost" cert="high">للّـ</supplied>ـه <supplied reason="lost" cert="high">بـ</supplied>ـن مـ<supplied reason="lost" cert="high">ـحمّـ</supplied>ـد زوجته رحـ<supplied reason="lost" cert="high">ـمـ</supplied>ـة ابنت القسم بن عبـ<supplied reason="lost" cert="high">ـيد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> عند ما 
+<lb n="5"/>  عقد عقدة نكاحه بها <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">على</supplied> أن يتّقي اللّه فيها ويحسّن صحبتها 
+<lb n="6"/>  ولا يضار بها ويعاشرها بالمعروف <supplied reason="lost" cert="high">كمـ</supplied>ـا أوجب اللّه عليه من الإمساك بالمعروف والتّسريح 
+<lb n="7"/>  بإحسان وعليه بذلك عهد اللّه وميثاقه وذمّة نبيّه محمّدا صلّى اللّه عليه وسلّم يبقى لها ما ترك 
+<lb n="8"/>  لـ<supplied reason="lost" cert="high">ـهـ</supplied>ـا من الصّـ<supplied reason="lost" cert="high">د</supplied>اق العاجل والآجل <supplied reason="lost" cert="high">المـ</supplied>ـنسوب لها في هذا الكتاب ورضي عبد اللّه بن محمّد الزّوج 
+<lb n="9"/>  لهذا الصّداق المسمّا في هذا الكتاب وألزم ذلك نفسه شهد على إقرار عبد اللّه بن محمّد 
+<lb n="10"/>  الزّوج وعلى إقرار القسم بن عبيد اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">ا</supplied>لـولي بعد أن قرئ عليهم فعرفوه وأقرّوا بمعرفته وفهمه 
+<lb n="11"/>  وأشهدوا بجميع ما فيه على أنفسهم في صحّة من عقولهم وأبدانهم وجواز أمورهم 
+<lb n="12"/>  وهم يـ<supplied reason="lost" cert="high">ـلـ</supplied>ـون أنفسهم وأموالهم وذلك في ذ<supplied reason="lost" cert="high">ي</supplied> الحجّة من سنة خمس وتسعين ومائتين شهد على ذلك 
+<lb n="13"/>  سعدون بن ميمون على إقرار رحمة ابـ<supplied reason="lost" cert="high">ـنت</supplied> <supplied reason="lost" cert="high">قـ</supplied>ـاسم ورضاها بوكالة قاسم بن عبيد اللّه يزوّجها 
+<lb n="14"/>  من عبد اللّه بن محمّد الزّوج ورضاه بالو<supplied reason="lost" cert="high">كـ</supplied>ـالة لها وكتب بخطّه في ذي الحجّة من سنة خمس وتسعين ومائتين 
+<lb n="15"/>  شهد محمّد بن عمر بن مسكين على إقـ<supplied reason="lost" cert="high">ـر</supplied>ار رحمة ابنت قاسم ورضاها بوكالتها قاسم 
+<lb n="16"/>  بن عبيد اللّه يزوّجها من عبد اللّـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">بـ</supplied>ـن محمّد بما ترك من الصّداق المسمّا في هذا الكتاب 
+<lb n="17"/>  وهو دينرين معجّلة وثلث الدّنانيـ<supplied reason="lost" cert="high">ـر</supplied> <supplied reason="lost" cert="high">المـ</supplied>ـوحره وكتب بخطّه شهادته في ذي الحجّة من سنة 
+<lb n="18"/>  خمس وتسعين ومائتين والحمد للّه <supplied reason="lost" cert="high">أبد</supplied>ا دايما شهد سعيد بن عبد اللّه على إقرار عبد اللّه 
+<lb n="19"/>  بن محمّد بن عبد اللّه ورضاه بجميع ما بـ<supplied reason="lost" cert="high">ـهـ</supplied>ـذا الكتاب الصّداق وكتب بخطّه في ذي الحجّة من سنة خمس وتسعين ومائتن 
+<lb n="20"/>  شهد طاهر بن الحسين على ما في هذا الكتاب وكتب شهادته بخطّـ<supplied reason="lost" cert="high">ـه</supplied> 
+<lb n="21"/>  شهد خطّاب بن عتيق على إقرار الـ<supplied reason="lost" cert="high">ـزّو</supplied>ج ورضا الولي بجميع ما في هذا الكتاب وكتب شهادته بخطّه 
+<lb n="22"/>  شهد إبرهيم بن حامد بن <app type="BL"><lem resp="APD">سـ<supplied reason="lost" cert="high">ـ</supplied>ـرّة </lem><rdg resp="APD">سبرة </rdg><rdg resp="APD">شبّرة</rdg></app> وكتب شهادته بخطّه على إقرار عبد اللّه بن محمّد الزّوج 
+<lb n="23"/>  وقاسم بن عبيد اللّه الولي وذلك في ذي الحجّة من سنة خمس وتسعين ومائتين 
+<lb n="24"/>  شهد يعقوب بن إبرهيم وكتب شهادته بخطّه على إقرار عبد اللّه بن محمّد الزّوج وقاسم بن عبيد اللّه 
+<lb n="25"/>  الولي وذلك في ذي الحجّة من سنة خمس وتسعين ومائتن <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="26"/>  شهد علي بن عبد الواحد على إقرار عبد اللّه بن محمّد الزّوج وقاسم بن عبيد اللّه الولي رضاها بجميع ما في هذا الكتاب وذلك في 
+<lb n="27"/>  ذي الحجّة من سنة خمس وتسعين وماپپپن <gap reason="illegible" extent="1" unit="character" /> شهد أحمد ابن محمّد المغربي بجميع 
+<lb n="28"/>  ما في هذا الكتاب وكتب شهادته بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***r*** 
+ <lb n="2"/>***** ĭbnat hu fa ʾamru hā r*** raʾs 
+ <lb n="3"/>*** *lḥ ăl BBkʾBB mukātab mukātib s*** ***sy wa ăl ʿabš ʿayš ftš wa hiya ʾiḏ ḏāka ĭmraʾaẗ:un bikr:un bāliġ:un 
+ <lb n="4"/>talī nafsa hā wa māla hā wa šāraṭa ʿabdu ăl lāhi bnu muḥammad:in zawǧata hu raḥmaẗa ĭbnata ăl qāsimi bni ʿubaydi ăl lāhi ʿinda mā 
+ <lb n="5"/>ʿaqada ʿuqdaẗa nikāḥi hi bi hā *** ʿalà ʾan yattaqiya ăl lāha fī hā wa yuḥassina ṣuḥbata hā 
+ <lb n="6"/>wa lā yuḍārra bi hā wa yuʿāšira hā bi ăl maʿrūfi ka mā ʾawǧaba ăl lāhu ʿalay hi mina ăl ʾimsāki bi ăl maʿrūfi wa ăt tasrīḥi 
+ <lb n="7"/>bi ʾiḥsān:in wa ʿalay hi bi ḏālika ʿahdu ăl lāhi wa mīṯāqu hu wa ḏimmaẗu nabiyyi hi muḥammad:an ṣallà ăl lāhu ʿalay hu wa sallama yabqà la hā mā taraka 
+ <lb n="8"/>la hā mina ăṣ ṣadāqi ăl ʿāǧili wa ăl ʾāǧili ăl mansūbi la hā fī hāḏā ăl kitābi wa raḍiya ʿabdu ăl lāhi bnu muḥammad:ini ăz zawǧu 
+ <lb n="9"/>li hāḏā ăṣ ṣadāqi ăl musammā fī hāḏā ăl kitābi wa ʾalzama ḏālika nafsa hu šahida ʿalà ʾiqrāri ʿabdi ăl lāhi bni muḥammad:ini 
+ <lb n="10"/>ăz zawǧi wa ʿalà ʾiqrāri ăl qāsimi bni ʿubaydi ăl lāhi ăl waliyyi baʿda ʾan quriʾa ʿalay him fa ʿarafū hu wa ʾaqarrū bi maʿrifati hi wa fahmi hi 
+ <lb n="11"/>wa ʾašhadū bi ǧamīʿi mā fī hi ʿalà ʾanfusi him fī ṣiḥḥaẗ:in min ʿuqūli him wa ʾabdāni him wa ǧawāzi ʾumūri him 
+ <lb n="12"/>wa hum yalawna ʾanfusa hum wa ʾamwāla hum wa ḏālika fī ḏī ăl ḥiǧǧaẗi min sanaẗi ḫams:in wa tisʿīna wa miʾatayni šahida ʿalà ḏālika 
+ <lb n="13"/>saʿdūnu bnu maymūn:in ʿalà ʾiqrāri raḥmaẗa ĭbnati qāsim:in wa riḍā hā bi wakālaẗi qāsimi bni ʿubaydi ăl lāhi yuzawwiǧa hā 
+ <lb n="14"/>min ʿabdi ăl lāhi bni muḥammad:ini ăz zawǧi wa riḍā hu bi ăl wakālaẗi la hā wa kataba bi ḫaṭṭi hi fī ḏī ăl ḥiǧǧaẗi min sanaẗi ḫams:in wa tisʿīna wa miʾatayni 
+ <lb n="15"/>šahida muḥammadu bnu ʿumara bni miskīna ʿalà ʾiqrāri raḥmaẗa ĭbnati qāsim:in wa riḍā hā bi wakālati hā qāsima 
+ <lb n="16"/>bna ʿubaydi ăl lāhi yuzawwiǧa hā min ʿabdi ăl lāhi bni muḥammad:in bi mā taraka mina ăṣ ṣadāqi ăl musammā fī hāḏā ăl kitābi 
+ <lb n="17"/>wa huwa dīnārayni muʿaǧǧalaẗ:un wa ṯalāṯu ăd danānīri ăl muʾaḫḫaraẗu wa kataba bi ḫaṭṭi hi šahādata hu fī ḏī ăl ḥiǧǧaẗi min sanaẗi 
+ <lb n="18"/>ḫams:in wa tisʿīna wa miʾatayni wa ăl ḥamdu li l lāhi ʾabad:an dāyim:an šahida saʿīdu bnu ʿabdi ăl lāhi ʿalà ʾiqrāri ʿabdi ăl lāhi 
+ <lb n="19"/>bni muḥammadi bni ʿabdi ăl lāhi wa riḍā hu bi ǧamīʿi mā bi hāḏā ăl kitābi ăṣ ṣadāqi wa kataba bi ḫaṭṭi hi fī ḏī ăl ḥiǧǧaẗi min sanaẗi ḫams:in wa tisʿīna wa miʾatayni 
+ <lb n="20"/>šahida ṭāhiru bnu ăl ḥusayni ʿalà mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="21"/>šahida ḫaṭṭābu bnu ʿatīq:in ʿutayq:in ʿalà ʾiqrāri ăz zawǧi wa riḍā ăl waliyyi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+ <lb n="22"/>šahida ʾibrāhīmu bnu ḥāmidi bni sarraẗa šabbaraẗa sabraẗa wa kataba šahādata hu bi ḫaṭṭi hi ʿalà ʾiqrāri ʿabdi ăl lāhi bni muḥammad:ini ăz zawǧi 
+ <lb n="23"/>wa qāsimi bni ʿubaydi ăl lāhi ăl waliyyi wa ḏālika fī ḏī ăl ḥiǧǧaẗi min sanaẗi ḫams:in wa tisʿīna wa miʾatayni 
+ <lb n="24"/>šahida yaʿqūbu bnu ʾibrāhīma wa kataba šahādata hu bi ḫaṭṭi hi ʿalà ʾiqrāri ʿabdi ăl lāhi bni muḥammad:ini ăz zawǧi wa qāsimi bni ʿubaydi ăl lāhi 
+ <lb n="25"/>ăl waliyyi wa ḏālika fī ḏī ăl ḥiǧǧaẗi min sanaẗi ḫams:in wa tisʿīna wa miʾatayni * 
+ <lb n="26"/>šahida ʿaliyyu bnu ʿabdi ăl wāḥidi ʿalà ʾiqrāri ʿabdi ăl lāhi bni muḥammad:ini ăz zawǧi wa qāsimi bni ʿubaydi ăl lāhi ăl waliyyi riḍā hā bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī 
+ <lb n="27"/>ḏī ăl ḥiǧǧaẗi min sanaẗi ḫams:in wa tisʿīna * wa miʾatayni šahida ʾaḥmadu ĭbnu muḥammad:ini ăl maġrabiyyu maġribiyyu muġribiyyu bi ǧamīʿi 
+ <lb n="28"/>mā fī hāḏā ăl kitābi wa kataba šahādata hu bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		[..................] seine Tochter; doch ihre Angelegenheit ....................
+			<lb n="3"/>
+		[......] ....... [              ] ............. und sie ist zur Zeit eine jungfräuliche, volljährige Frau,
+			<lb n="4"/>
+		die über sich und ihr Vermögen (frei) verfügt. ʿAbda[llā]h, [So]hn des Mu[ḥamma]d hat mir seiner Frau Raḥma, Tochter des al-Qāsim b. ʿUba[idallāh] ausgemacht, während er
+			<lb n="5"/>
+		seinen Ehevertrag mit ihr abschloß, [........ mit der Maßgabe], daß er Gott ihr gegenüber fürchten und schön gestalten werde den Umgang mit ihr
+			<lb n="6"/>
+		und ihr nicht Unrecht tun und billig mit ihr umgehen werde, sowie Gott es als seine Pflicht erklärt hat, sie in schicklicher Weise zu behalten oder in gefälliger
+			<lb n="7"/>
+		zu entlassen, und ihn bindet diesbezüglich der Bund und Vertrag Gottes sowie die Verantwortlichkeit gegenüber seinem Propheten Muḥammad, Gott segne ihn und spende ihm Heil. Ihr kommt zu die ihr überlassene
+			<lb n="8"/>
+		bar bezahlte und gestundete Brautgabe, [die ihr] in dieser Urkunde zugesprochen worden ist, und ʿAbdallāh b. Muḥammad, der Gatte, hat sich
+			<lb n="9"/>
+		mit dieser in dieser Urkunde genannten Brautgabe einverstanden erklärt und hat sich dazu verpflichtet. Es haben bezeugt das Anerkenntnis des Gatten ʿAbdallāh b. Muḥammad
+			<lb n="10"/>
+		und des Brautanwaltes al-Qāsim b. ʿUbaidallā[h], nachdem man es ihnen (den Kontrahenten) vorgelesen hatte, sie es verstanden hatten und anerkannt hatten, es zu verstehen und zu begreifen
+			<lb n="11"/>
+		und alles, was darin enthalten ist, zu ihren Lasten hatten bezeugen lassen im Zustande (voller) Gesundheit ihres Geistes und Körpers und ihrer Geschäftsfähigkeit, während sie
+			<lb n="12"/>
+		über sich selbst und ihr Vermögen frei verfügten und zwar im Ḏūʾl-Ḥiǧǧa des Jahres zweihundertfünfundneunzig: es hat dies bezeugt
+			<lb n="13"/>
+		Saʿdūn b. Maimūn, nämlich das Anerkenntnis der Raḥma, Toch[ter des Q]āsim und ihr Einverständnis mit der Vertretung durch Qāsim b. ʿUbaidallāh, um sie
+			<lb n="14"/>
+		an den Gatten ʿAbdallāh b. Muḥammad zu verheiraten, und sein Einverständnis mit der Ver[tre]tung für sie, und er hat es geschrieben mit seinem Schriftzuge im Ḏūʾl-Ḥiǧǧa des Jahres zweinḫundertfünfundneunzig.
+			<lb n="15"/>
+		Zeuge ist Muḥammad b. ʿUmar b. Miskīn über das Anerkenntnis der Raḥma, Tochter des Qāsim, und ihr Einverständnis mit ihrer Vollmachterteilung an Qāsim
+			<lb n="16"/>
+		b. ʿUbaidallāh, um sie an ʿAbdallā[h ib]n Muḥammad zu verheiraten gegen die ihr überlassene, in dieser Urkunde genannte Brautgabe,
+			<lb n="17"/>
+		und das sind zwei Dīnāre sofort erlegt und die drei ausständigen Dīnāre, und er hat mit seinem Schriftzuge sein Zeugnis geschrieben im Ḏūʾl-Ḥiǧǧa des Jahres
+			<lb n="18"/>
+		zweihundertfünfundneunzig, und Preis sei Gott [immerdar] ewiglich. Zeuge ist Saʿīd b. ʿAbdallāh für das Anerkenntnis des ʿAbdallāh
+			<lb n="19"/>
+		b. Muḥammad b. ʿAbdallāh und sein Einverständnis mit allem, was in [die]ser Brautgabeurkunde (steht), und er hat (es) mit seinem Schriftzuge geschrieben im Ḏūʾl-Ḥiǧǧa des Jahres zweihundertfünfundneunzig.
+			<lb n="20"/>
+		Zeuge ist Ṭāhir b. al-Ḥusain für das, was in dieser Urkunde (steht) und er hat sein Zeugnis mit seinem Schriftzuge geschrieben.
+			<lb n="21"/>
+		Zeuge ist Ḫaṭṭāb b. ʿAtīq für das Anerkenntnis des G[atte]n und das Einverständnis des Brautanwalts (Walī) mit allem, was in dieser Urkunde (steht), und er hat sein Zeugnis mit seinem Schriftzuge geschrieben.
+			<lb n="22"/>
+		Zeuge ist Ibrāhīm b. Ḥāmid b. Sarra und er hatt mit seinem Schriftzuge sein Zeugnis über das Anerkenntnis des Gatten ʿAbdallāh b. Muḥammad
+			<lb n="23"/>
+		und des Brautanwaltes Qāsim b. ʿUbaidallāh geschrieben und zwar im Ḏūʾl-Ḥiǧǧa des Jahres zweihundertfünfundneunzig.
+			<lb n="24"/>
+		Zeuge ist Yaʿqūb b. Ibrāhīm und er hat mit seinem Schriftzuge sein Zeugnis über das Anerkenntnis des Gatten ʿAbdallāh b. Muḥammad und des
+			<lb n="25"/>
+		Brautanwaltes Qāsim b. ʿUbaidallāh geschrieben und dies im Ḏūʾl-Ḥiǧǧa des Jahres zweihundertfünfundneunzig.
+			<lb n="26"/>
+		Zeuge ist ʿAlī b. ʿAbd al-Wāḥid für die Anerkenntnis des Gatten ʿAbdallāh b. Muḥammad und des Brautanwaltes Qāsim b. ʿUbaidallāh (und) ihr Einverständnis mit allem, was in dieser Urkunde (steht), und dies im
+			<lb n="27"/>
+		Ḏūʾl-Ḥiǧǧa des Jahres zweihundertfünfundneunzig. Zeuge ist Aḥmad ibn Muḥammad al-Maġribī für alles,
+			<lb n="28"/>
+		was in dieser Urkunde (steht), und er hat sein Zeugnis mit seinem Schriftzuge geschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

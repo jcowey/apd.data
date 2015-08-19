@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1678" xml:id="Grohmann_APEL_204" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 204</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_204</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169428</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  پهپوه و<supplied reason="lost" cert="high">بلتـ</supplied>ـوس β 
+ <lb n="2"/>  پهپوه ا<gap reason="illegible" precision="low" extent="3"/>و<gap reason="illegible" extent="2" unit="character" />اه الاحپر αχ 
+ <lb n="3"/>  <gap reason="illegible" extent="10" unit="character" /> 
+ <lb n="4"/>  سپوده الأجير χ 
+ <lb n="5"/>  پساوه الأجير ومتوس الحمّال α 
+ <lb n="6"/>  <gap reason="illegible" extent="6" unit="character" /> 
+ <lb n="7"/>  قزمان الأجير وـ<gap reason="illegible" extent="12" unit="character" /> 
+ <lb n="8"/>  سرپام الحارس <unclear reason="undefined" cert="high">ς</unclear> متوس الـ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <app type="BL"><lem resp="APD">بنيت </lem><rdg resp="APD">بنيت</rdg></app> الحارس γ α 
+ <lb n="10"/>  ڤسپ وكيل الحارس α 
+ <lb n="11"/>  موپه الثّوّار وا<gap reason="illegible" precision="low" extent="3"/>ـ الأجير α 
+ <lb n="12"/>  للوا الثّوّار <supplied reason="lost" cert="high">وثيـ</supplied>ـدر الثّوّار α 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bihyūhu wa bilatūsu ‪2 
+ <lb n="2"/>bihyūhu ʾ*** **ʾhu wa ăl ʾaǧīru ‪1 1/2 
+ <lb n="3"/>********** 
+ <lb n="4"/>šanūdahu ăl ʾaǧīru 
+ <lb n="5"/>bisāwahu ăl ʾaǧīru wa matawusu ăl ḥammālu ‪1 
+ <lb n="6"/>****** 
+ <lb n="7"/>quzmānu ăl ʾaǧīru wa ************ 
+ <lb n="8"/>sarabāmu ăl ḥārisu ‪6 matawusu ăl ***u 
+ <lb n="9"/>banību banītu ăl ḥārisu 1 3 
+ <lb n="10"/>qustu wakīlu ăl ḥārisi ‪α‬ 
+ <lb n="11"/>mūnaẗu ăṯ ṯawwāru wa ʾ***u ăl ʾaǧīru ‪1 
+ <lb n="12"/>lilū ăṯ ṯawwāru wa ṯiyuduru ăṯ ṯawwāru ‪1 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Piheu and [Pilat]ûs 2
+		 <lb n="2"/>
+ 	  Piheu the [...]âh, the journeyman, 1 1/2
+		 <lb n="3"/>
+		 <lb n="4"/>
+ 	  Šanûda, the journeyman,
+		 <lb n="5"/>
+ 	  Psâwe, the journeyman, and Matawus, the porter 1
+		 <lb n="6"/>
+		 <lb n="7"/>
+ 	  Quzmân, the journeyman, and ........................
+		 <lb n="8"/>
+ 	  Sarabâm, the guardian 6, Matawus, the ......
+		 <lb n="9"/>
+ 	  Panîb, the guardian 1
+ 	  Panîb, the guardian 1 3
+		 <lb n="10"/>
+ 	  Qost(antinos), the vice-guardian 1
+		 <lb n="11"/>
+ 	  Mône, the cow-keeper, and ......, the journeyman 1
+		 <lb n="12"/>
+ 	  Lilû, the cow-keeper, [and Theo]dor, the cow-keeper 1
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="518" xml:id="Grohmann_TWAe_18" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 18 (= P.World p. 155)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_18</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106688</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  الحمله καχγʹ‎ιʹ‎βʹ‎ 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  <app type="BL"><lem resp="APD">سپدى </lem><rdg resp="“Grohmann, World”">ø </rdg><rdg resp="Diem">شرى</rdg></app> لحم <app type="BL"><lem resp="APD">κδʹ‎ </lem><rdg resp="“Grohmann, World”">‪κʹδʹ‬</rdg></app> فاكهة <app type="BL"><lem resp="APD">κδʹ‎ </lem><rdg resp="“Grohmann, World”">‪κʹδʹ‬</rdg></app> الطحّان <app type="BL"><lem resp="APD">κδʹ‎ </lem><rdg resp="“Grohmann, World”">‪κʹδʹ‬</rdg></app> الغسّال <app type="BL"><lem resp="APD">κδʹ‎ </lem><rdg resp="“Grohmann, World”">‪κʹδʹ‬</rdg></app> 
+ <lb n="4"/>  پپص δʹ‎ حطب ςʹ‎ كرنب ιʹ‎βʹ‎ قرع ιʹ‎βʹ‎ <app type="BL"><lem resp="APD">ـ </lem><rdg resp="“Grohmann, World”">ø </rdg><rdg resp="Diem">وخبز</rdg></app> 
+ <lb n="5"/>  پصل <del rend="erasure" status="unremarkable">ڤلسپن</del> حپر κʹ‎βʹ‎ لحم κγʹ‎ <app type="BL"><lem resp="APD">پپص </lem><rdg resp="“Grohmann, World”">‮‭‮‭κγʹ‬‬</rdg></app> κʹ‎δʹ‎ 
+ <lb n="6"/>  حطپ χιʹ‎βʹ‎ نبيذ δχ نبيذ ς 
+ <lb n="7"/>  لحم درهم <app type="BL"><lem resp="APD">κδʹ‎ </lem><rdg resp="“Grohmann, World”">‪κʹδʹ‬</rdg></app> حوائج ιʹ‎βʹ‎ لحم <app type="BL"><lem resp="APD">ηγʹ‎ </lem><rdg resp="“Grohmann, World”">‪κʹδʹ‬</rdg></app> 
+ <lb n="8"/>  <gap reason="illegible" extent="10" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăl ǧumlaẗu 21 1/2+1/3+1/12 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>sayyid ø širà ī laḥm:in laḥm:un 1/24 fākihaẗ:un 1/24 ăl ṭaḥḥānu 1/24 ăl ġassālu 1/24 
+ <lb n="4"/>‫bayḍ:un 1/4 ḥaṭab:un 1/6 kurunb:un 1/12 qarʿ:un 1/12 2 1/48 ø wa ‪  ḫubz:un 
+ <lb n="5"/>baṣal:un filsayni ḫubz:un 1/12 laḥm:un‬ 8 1/3 20 1/3 bayḍ:un 1/24 
+ <lb n="6"/>ḥaṭab:un 1/2+1/12 nabīḏ:un 4 1/2 nabīḏ:un 6 
+ <lb n="7"/>laḥm:un dirham:un 1/24 ḥawāʾiǧu 1/12 laḥm:un 8 1/3 1/24 
+ <lb n="8"/>********** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Gesammtbetrag 21 1/2+1/3+1/12.
+ 	  The total 21 1/2+1/3+1/12
+		 <lb n="2"/>
+ 	  Im Namen Gottes des Barmherzigen, Gütigen.
+ 	  In the name of God, the Compassionate, the Merciful!
+		 <lb n="3"/>
+ 	  Meat 1/24 fruits 1/24 the miller 1/24 the washer 1/24
+ 	  Mein Herr: Fleisch 1/24, Obst 1/24, für den Müller 1/24, der Wäscher 1/24,
+		 <lb n="4"/>
+ 	  eggs 1/4 fire-wood 1/6 cabbage 1/12 pumpkin 1/12
+ 	  Eier 1/4, Brennholz 1/6, Blumenkohl 1/12, Kürbis 1/12, 2 1/48,
+		 <lb n="5"/>
+ 	  onions two fals bread 1/12 meat 20 1/3 eggs 1/24
+ 	  Zwiebel 〚zwei Fils〛, Brot 1/12, Fleisch 8 1/3, Eier 1/24,
+		 <lb n="6"/>
+ 	  Brennholz 1/2+1/12, Wein 4 1/2, Wein 6,
+ 	  fire-wood 1/2+1/12 wine 4 1/2 wine 6
+		 <lb n="7"/>
+ 	  Fleisch 1 Dirham 1/24, Bedarfsartikel 1/12, Fleisch 8 1/3,
+ 	  meat one dirham 1/24 (various) articles 1/12 meat 1/24
+		 <lb n="8"/>
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

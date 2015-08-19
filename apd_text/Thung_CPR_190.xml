@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2251" xml:id="Thung_CPR_190" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 19</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_190</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  ذكر حق عثمن بن عيسى والخلـ<supplied reason="lost" cert="high">ـيل</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عيسى</supplied> <supplied reason="lost" cert="high">وربيعة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">سليمن</supplied> 
+ <lb n="3"/>  وحنّون بن إسحق على شنودة بن جرجة <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سكّان</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">ترموده</supplied> </lem><rdg resp="APD">ترموده</rdg></app> <supplied reason="lost" cert="high">عليه</supplied> 
+ <lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـيـ</supplied>ـن إردبّا إلّا ويبة <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">قمح</supplied> 
+ <lb n="5"/>  يوسفي جيّد نقي من التّبن والتّراب <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  بن السّري أبقاه اللّه وعليه أ<supplied reason="lost" cert="high">يضا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  شعير وعليه أيضا تسعة أرادب <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  جيّد نقي من المدر والتّبن والقصل <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  <app type="BL"><lem resp="APD">بنرموده </lem><rdg resp="APD">بترموده</rdg></app> من كورة الفيّوم و<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="10"/>  في بشانس من أشهر العجم من سـ<supplied reason="lost" cert="high">ـنة</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ومائتين</supplied> <supplied reason="lost" cert="high">ومن</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">قام</supplied> </lem><rdg resp="Grohmann, P.Cair.Arab. II p. 118">أقام</rdg></app> 
+ <lb n="11"/>  بذكر الحق اقتضا بما فيه ومن أحال عـ<supplied reason="lost" cert="high">ـليه</supplied> <supplied reason="lost" cert="high">أقرّ</supplied> <supplied reason="lost" cert="high">له</supplied> <supplied reason="lost" cert="high">بحقّه</supplied> <supplied reason="lost" cert="high">ولا</supplied> <supplied reason="lost" cert="high">حول</supplied> 
+ <lb n="12"/>  ولا قوّة إلّا باللّه <app type="BL"><lem resp="APD">وكفا </lem><rdg resp="Grohmann, Einführung p. 118">وكفانا</rdg></app> باللّه شـ<supplied reason="lost" cert="high">ـهيدا</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="13"/>  ضامن لشنودة بن جرجة حتّا يسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14"/>  كفيل ضامن غارم حتّا يستوفـ<supplied reason="lost" cert="high">ـي</supplied> <supplied reason="lost" cert="high">عثمن</supplied> <supplied reason="lost" cert="high">والخليل</supplied> <supplied reason="lost" cert="high">وربيعة</supplied> 
+ <lb n="15"/>  و<supplied reason="lost" cert="high">حنّـ</supplied>ـون في بشانس من أشهر العجم شـ<supplied reason="lost" cert="high">ـهد</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="16"/>  وحسن بن الصّباح المعافري وشهادته بخطّه <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="17"/>  وزكير بن يحيي الأزدي وكتب شهادته بيده <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="18"/>  ونصر بـ<supplied reason="lost" cert="high">ـن</supplied> عبد اللّه المعافري <expan><abbr>وكـ</abbr><ex>ـتب</ex> <ex>شـ</ex><abbr>ـا</abbr></expan><supplied reason="lost" cert="high">دته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="19"/>  والوليد بن العبّاس الهمداني وكتب <supplied reason="lost" cert="high">شهادته</supplied> <supplied reason="lost" cert="high">بخطّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="20"/>  الوليد بن القاسم التّجيبي وكتب بخطّه <supplied reason="lost" cert="high">فـ</supplied>ـي <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="21"/>  <supplied reason="lost" cert="high">و</supplied>عبد الرّحمن بن مسافر المعافري وكتـ<supplied reason="lost" cert="high">ـب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="22"/>  وجلبة بن <app type="BL"><lem resp="APD">نـ<supplied reason="lost" cert="high">ـمـ</supplied>ـير </lem><rdg resp="APD">ثمير</rdg></app> الحپصى وكتب شهادته بخـ<supplied reason="lost" cert="high">ـطّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="23"/>  وميمون بن فريد القرشي وكتب في شوّا<supplied reason="lost" cert="high">ل</supplied> <supplied reason="lost" cert="high">سنة</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ومائتين</supplied> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ʿuṯmāna bni ʿīsà wa ăl ḫalīli bni ʿīsà wa rabīʿaẗa bni sulaymāna 
+ <lb n="3"/>wa ḥannūna bni ʾisḥāqa ʿalà šinūdaẗa bni ǧirǧaẗa min sukkāni narmūdaha tarmūdaha ʿalay hi 
+ <lb n="4"/>*** wa **īna ʾirdabb:an ʾillā waybaẗ:an *** qamḥ:in 
+ <lb n="5"/>yūsufiyy:in ǧayyid:in naqiyy:in mina ăt tibni wa ăt turābi *** 
+ <lb n="6"/>bni ăs sariyyi ʾabqā hu ăl lāhu wa ʿalay hi ʾayḍ:an *** 
+ <lb n="7"/>šaʿīr:in wa ʿalay hi ʾayḍ:an tisʿaẗu ʾarādibi *** 
+ <lb n="8"/>ǧayyid:in naqiyy:in mina ăl madari wa ăt tibni wa ăl qaṣli *** 
+ <lb n="9"/>bi narmūdaha tarmūdaha min kūraẗi ăl fayyūmi wa *** 
+ <lb n="10"/>fī bašānsa min ʾašhuri ăl ʿaǧami min sanaẗi *** wa miʾatayni wa man qāma ʾaqāma 
+ <lb n="11"/>bi ḏikri ăl ḥaqqi ĭqtaḍā bi mā fī hi wa man ʾaḥāla ʿalay hi ʾaqarra la hu bi ḥaqqi hi wa lā ḥawla 
+ <lb n="12"/>wa lā quwwaẗa ʾillā bi ăl lāhi wa kafā ø nā bi ăl lāhi šahīd:an *** 
+ <lb n="13"/>ḍāmin:un li šinūdaẗa bni ǧirǧaẗa ḥattā yusa** *** 
+ <lb n="14"/>kafīl:un ḍāmin:un ġārim:un ḥattā yastawfiya ʿuṯmānu wa ăl ḫalīlu wa rabīʿaẗu 
+ <lb n="15"/>wa ḥannūnu fī bašānsa min ʾašhuri ăl ʿaǧami šahida *** 
+ <lb n="16"/>wa ḥasanu bnu ăṣ ṣabāḥi ăl maʿāfiriyyu wa šahādatu hu bi ḫaṭṭi hi *** 
+ <lb n="17"/>wa zakīru bnu yaḥyà ăl ʾazdiyyu wa kataba šahādata hu bi yadi hi *** 
+ <lb n="18"/>wa naṣru bnu ʿabdi ăl lāhi ăl maʿāfiriyyu wa kataba šahādata hu bi ḫaṭṭi hi *** 
+ <lb n="19"/>wa ăl walīdu bnu ăl ʿabbāsi ăl hamdāniyyu wa kataba šahādata hu bi ḫaṭṭi hi *** 
+ <lb n="20"/>ăl walīdu bnu ăl qāsimi ăt tuǧībiyyu wa kataba bi ḫaṭṭi hi fī *** 
+ <lb n="21"/>wa ʿabdu ăr raḥmāni bni musāfir:ini ăl maʿāfiriyyu wa kataba *** 
+ <lb n="22"/>wa ǧalabaẗu bnu numayr:ini ṯumayr:ini ăl ḥBṣiyyu wa kataba šahādata hu bi ḫaṭṭi hi *** 
+ <lb n="23"/>wa maymūnu bnu farīd:ini ăl qurašiyyu wa kataba fī šawwāli sanaẗi *** wa miʾatayni 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes, des Barmherzigen und Gnädigen!
+		 <lb n="2"/>
+ 	  Verpflichtungsschein von ʿUṯmān b. ʿĪsā, al-H̱alīl [b. ʿĪsā, Rabīʿah b. Sulaymān]
+		 <lb n="3"/>
+ 	  und Ḥannūn b. Isḥāq zu Lasten von Šinūdah b. Ǧirǧah, [wohnhaft in Narmūdah. Zu dessen Lasten sind]
+		 <lb n="4"/>
+ 	  [.....] Artaben minus eine Waybah
+		 <lb n="5"/>
+ 	  hervorragenden Josephs[weizens], rein von Stroh und Erde [
+		 <lb n="6"/>
+ 	  b. as-Sarīy, Gott erhalte ihn, und zu dessen Lasten sind auch [
+		 <lb n="7"/>
+ 	  Gerste, und zu dessen Lasten sind auch neun Artaben
+		 <lb n="8"/>
+ 	  excellent [wheat], clean from clods, straw and chaff
+ 	  hervorragenden [Weizens (?)] rein von Lehm, Stroh, und Spreu [... Er hat ihnen dies auszuhändigen]
+		 <lb n="9"/>
+ 	  in Narmūdah in der Provinz al-Fayyūm und [der Lieferungstermin
+		 <lb n="10"/>
+ 	  ... and whosoever establishes the evidence
+ 	  im (Monat) Bašans der koptischen Monate des Jahres [zweihundert... und wer]
+		 <lb n="11"/>
+ 	  by means of (this) written instrument shall receive what (is mentioned) therein, and he (the debtor) will recognize the rights of any person to whom he (the creditor) may transfer (them). [...]
+ 	  diesen Verpflichtungsschein [vorweist,] der kann einfordern, was darin steht, und wenn er (sc. einer der Gläubiger) jemandem (den Schein) übertragen wird, [so wird er (sc. Šinūdah) ihm sein Recht anerkennen. Es gibt keine Macht]
+ 	  ... [Es gibt keine Macht]
+		 <lb n="12"/>
+ 	  und keine Kraft außer in Gott, und Gott ist uns als Ze[uge] genug.
+ 	  und keine Stärke außer bei Gott, und Gott ist uns als Zeuge genug [... und N. N. ist]
+		 <lb n="13"/>
+ 	  Bürge für Šinūdah b. Ǧirǧah bis [
+		 <lb n="14"/>
+ 	  gewährleistender Bürge, der zahlungspflichtig ist, bis [ʿUṯmān, al-Ḫalīl, Rabīʿah]
+		 <lb n="15"/>
+ 	  und Ḥannūn (dies) vollständig erhalten haben im (Monat) Bašans der koptischen Monate. [Es bezeugen
+		 <lb n="16"/>
+ 	  und Ḥasan b. aṣ-Ṣabāḥ al-Maʿāfirī und er schrieb sein Zeugnis mit seinem Schriftzug [
+		 <lb n="17"/>
+ 	  und Zakīr b. Yaḥyā al-Azdī und er schrieb sein Zeugnis mit seiner Hand [
+		 <lb n="18"/>
+ 	  und Naṣr b. ʿAbdallāh al-Maʿāfirī und er schrieb sein Zeugnis [mit seinem Schriftzug
+		 <lb n="19"/>
+ 	  und al-Walīd b. al-ʿAbbās al-Hamdānī und er schrieb [sein Zeugnis mit seinem Schriftzug
+		 <lb n="20"/>
+ 	  und al-Walīd b. al-Qāsim at-Tuǧībī und er schrieb mit seinem Schriftzug im [
+		 <lb n="21"/>
+ 	  und ʿAbdarraḥmān b. al-Musāfir al-Maʿāfirī und er schrieb [
+		 <lb n="22"/>
+ 	  und Ǧalabah b. Nu[m]ayr al-... und er schrieb sein Zeugnis mit seinem Schriftzug [
+		 <lb n="23"/>
+ 	  und Maymūn b. Farīd al-Qurašī. Geschrieben im Šawwāl [des Jahres zweihundert...]
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

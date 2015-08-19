@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1628" xml:id="Prag_260" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 26</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_260</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169383</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="I 25 recto 1"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـدّ<supplied reason="lost" cert="high">ان</supplied> <supplied reason="lost" cert="high">بدينـ</supplied>ـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 recto 2"/>   <supplied reason="lost" cert="high">مـ</supplied>ـپه كامل پن حلپل βχ وڤدان من ا<gap reason="illegible" extent="2" unit="character" /> والحرا<supplied reason="lost" cert="high">سـ</supplied>ـه<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 recto 3"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">ر</supplied>وح فـ<supplied reason="lost" cert="high">ـدّان</supplied> <supplied reason="lost" cert="high">بد</supplied>ينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 recto 4"/>  فضيل <supplied reason="lost" cert="high">بـ</supplied>ـن رجا من ا<gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/>ل <supplied reason="lost" cert="high">وا</supplied>لحـ<supplied reason="lost" cert="high">ـر</supplied>ا<supplied reason="lost" cert="high">سه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 recto 5"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">αχ</supplied> <gap reason="illegible" precision="low" extent="3"/>رپ بن الحجّاج وبجوش بـ<supplied reason="lost" cert="high">ـن</supplied> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپپري فدّان γ بدينر δχ 
+ <lb n="I 25 recto 6"/>  الأ<supplied reason="lost" cert="high">ر</supplied>ض من الشّركـ<supplied reason="lost" cert="high">ـة</supplied> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">لـ</supplied>ـح الفضيل والحراسة 
+ <lb n="I 25 recto 7"/>  من αχ سليمن <unclear reason="undefined" cert="high">زرع</unclear> فدّان β بدينر γ 
+ <lb n="I 25 recto 8"/>  فقبل الــ<supplied reason="lost" cert="high">ـحـ</supplied>ـر <supplied reason="lost" cert="high">مـ</supplied>ـن أسعد بن ر<supplied reason="lost" cert="high">بيع</supplied> والحراسة 
+ <lb n="I 25 recto 9"/>  من χ يوسف الفسطاطي فـ<supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـدّان</supplied> γ بدينر β 
+ <lb n="I 25 recto 10"/>  اپرهپة بن حاڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> والحراسة 
+ <lb n="I 25 recto 11"/>  من αγʹ‎ مبارك بن عبد الرّحمن بن نوف فدّان <supplied reason="lost" cert="high">γ</supplied> بدينر δ 
+ <lb n="I 25 recto 12"/>  سليمن <app type="BL"><lem resp="APD">الحـ<supplied reason="lost" cert="high">ـنّـ</supplied>ـي </lem><rdg resp="APD">الجبّي </rdg><rdg resp="APD">الحنّيّ </rdg><rdg resp="APD">الجدّيّ</rdg></app> فقبل في العام الماضي والحراسة 
+ <lb n="I 25 recto 13"/>  من εδʹ‎ أبو العطّاف فـ<supplied reason="lost" cert="high">ـ</supplied>ـدّان ε <supplied reason="lost" cert="high">بدينـ</supplied>ـر ϛδʹ‎ 
+ <lb n="I 25 recto 14+15"/>  منه β من أرض <gap reason="illegible" precision="low" extent="3"/> فدّان سدس اد<gap reason="illegible" extent="1" unit="character" /> منه ثلاثة أرض أظمى <supplied reason="lost" cert="high">والحراسـ</supplied>ـة 
+ <lb n="I 25 recto 16"/>  من χγʹ‎ <unclear reason="undefined" cert="high">يو</unclear><supplied reason="lost" cert="high">سـ</supplied><unclear reason="undefined" cert="high">ـف</unclear> الحار<gap reason="illegible" extent="2" unit="character" /> فـ<supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـدّا</supplied>ن β بـ<supplied reason="lost" cert="high">ـدينـ</supplied>ـ<supplied reason="lost" cert="high">ـر</supplied> εϛʹ‎ 
+ <lb n="I 25 recto 17"/>  اترونّية الخولي <gap reason="illegible" precision="low" extent="3"/>ر في ا<supplied reason="lost" cert="high">لـعـ</supplied>ـام الماض <supplied reason="lost" cert="high">والحراسة</supplied> 
+ <lb n="I 25 recto 18"/>  من χγʹ‎κʹ‎δʹ‎ كامل بن خليل فـ<supplied reason="lost" cert="high">ـ</supplied>ـدّ<supplied reason="lost" cert="high">ان</supplied> ι بديـ<supplied reason="lost" cert="high">ـنر</supplied> <supplied reason="lost" cert="high">ηχιʹ‎βʹ‎</supplied> 
+ <lb n="I 25 recto 19"/>  العدس والجلبّان <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> و<supplied reason="lost" cert="high">الحراسة</supplied> 
+ <lb n="I 25 recto 20"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> الحر بن إسمعيل فدّان <gap reason="illegible" precision="low" extent="3"/> ι پدپـ<supplied reason="lost" cert="high">ـپر</supplied> 
+ <lb n="I 25 recto 21"/>  <gap reason="illegible" precision="low" extent="3"/> أرض تعرف بـ<supplied reason="lost" cert="high">ـأ</supplied>بي قاسم زرع قرط والحرا<supplied reason="lost" cert="high">سة</supplied> 
+ <lb n="I 25 recto 22"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" extent="2" unit="character" /> ا<gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بـ</supplied>ـن <supplied reason="lost" cert="high">إ</supplied>سحق الطّحّا<supplied reason="lost" cert="high">ن</supplied> فـ<supplied reason="lost" cert="high">ـ</supplied>ـدّان δ <supplied reason="lost" cert="high">بدينر</supplied> <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="I 25 recto 23"/>  <app type="BL"><lem resp="APD">أنيو </lem><rdg resp="APD">أتبو</rdg></app> وهلـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> محمّد <unclear reason="undefined" cert="high">وفدّان</unclear> <gap reason="illegible" precision="low" extent="3"/>ه الحر بن إسمعيل والحر<supplied reason="lost" cert="high">اسة</supplied> 
+ <lb n="I 25 recto 24"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> موسى بن أيّوب القـ<supplied reason="lost" cert="high">ـسـ</supplied>ـطال فـ<supplied reason="lost" cert="high">ـدّ</supplied>ا<supplied reason="lost" cert="high">ن</supplied> αχ <supplied reason="lost" cert="high">بدينر</supplied> <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="I 25 verso 1"/>  <gap reason="illegible" precision="low" extent="3"/><unclear reason="undefined" cert="high">ر</unclear><gap reason="illegible" precision="low" extent="3"/> والحرا<supplied reason="lost" cert="high">سة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> ر <gap reason="illegible" precision="low" extent="3"/> بدينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="I 25 verso 3"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـد بن <app type="BL"><lem resp="APD">مونة </lem><rdg resp="APD">مويه</rdg></app> فدّان δ والحراسـ<supplied reason="lost" cert="high">ـ</supplied>ـة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أ</supplied>رض <gap reason="illegible" precision="low" extent="3"/> <unclear reason="undefined" cert="high">الفدّان</unclear> المذكور في العام الماضي بدينر <supplied reason="lost" cert="high">ζ</supplied> 
+ <lb n="I 25 verso 5"/>  من α <supplied reason="lost" cert="high">أيّـ</supplied>ـوب <app type="BL"><lem resp="APD">وعثم </lem><rdg resp="APD">وعثم</rdg></app> وميمون فدّان γ <supplied reason="lost" cert="high">بديـ</supplied>ـنر γ 
+ <lb n="I 25 verso 6"/>  أرض محمّد السّد ما له <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">العـ</supplied>ـام الماضي عن قنطرة <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">والحراسـ</supplied>ـة 
+ <lb n="I 25 verso 7"/>  من α إسحق رعپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـدپن فـ<supplied reason="lost" cert="high">ـدّ</supplied>ان θ بدينر θ 
+ <lb n="I 25 verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> أرض <supplied reason="lost" cert="high">إبر</supplied>هيم بن إسحق بأجر δ <gap reason="illegible" extent="8" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> والحراسـ<supplied reason="lost" cert="high">ـ</supplied>ـة 
+ <lb n="I 25 verso 9"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">α</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـ<supplied reason="lost" cert="high">ـيـ</supplied>ـسـ<supplied reason="lost" cert="high">ـ</supplied>ـى <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> فدّان ϛ بدينـ<supplied reason="lost" cert="high">ـر</supplied> ϛ 
+ <lb n="I 25 verso 10"/>   ارص محـ<supplied reason="lost" cert="high">ـمد</supplied> ιδ <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD">عپل </lem><rdg resp="APD">الفطريّ</rdg></app> الڤطرى 
+ <lb n="I 25 verso 11"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">α</supplied> <gap reason="illegible" extent="2" unit="character" />پعـ<supplied reason="lost" cert="high">ـ</supplied>ـپ بن حفـ<supplied reason="lost" cert="high">ـص</supplied> فدّان β <supplied reason="lost" cert="high">بد</supplied>ينر β 
+ <lb n="I 25 verso 12"/>   ارص محمد <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـد <unclear reason="undefined" cert="high">ما</unclear><gap reason="illegible" extent="1" unit="character" /> ڤد<supplied reason="lost" cert="high">ان</supplied> 
+ <lb n="I 25 verso 13"/>  من <supplied reason="lost" cert="high">α</supplied> <supplied reason="lost" cert="high">إ</supplied>سـ<supplied reason="lost" cert="high">ـمـ</supplied>ـ<supplied reason="lost" cert="high">ـعـ</supplied>ـيل <gap reason="illegible" precision="low" extent="3"/>ن يوم β χγʹ‎χ β 
+ <lb n="I 25 verso 14"/>   بسم اللّه الرّحيم الرّحيم 
+ <lb n="I 25 verso 15"/>  من αγʹ‎ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" />ن <supplied reason="lost" cert="high">بـ</supplied>ـن مجد فدّان <supplied reason="lost" cert="high">θ</supplied> بد<supplied reason="lost" cert="high">ينـ</supplied>ـر <supplied reason="lost" cert="high">ι</supplied>β 
+ <lb n="I 25 verso 16"/>   <gap reason="illegible" precision="low" extent="3"/> ا<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> پن <supplied reason="lost" cert="high">ا</supplied>لحطاپ 
+ <lb n="I 25 verso 17"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">α</supplied> <gap reason="illegible" precision="low" extent="3"/> بن سليمن فدّان δ بدينر <supplied reason="lost" cert="high">δ</supplied> 
+ <lb n="I 25 verso 18"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـن عبد الأحد وفدّان من اللّه وعـ<supplied reason="lost" cert="high">ـمـ</supplied>ـر   
+ <lb n="I 25 verso 19"/>   <gap reason="illegible" precision="low" extent="3"/> عپد الاحد من الپور العپـ<supplied reason="lost" cert="high">ـژ</supplied><gap reason="illegible" extent="1" unit="character" /> والحراسه 
+ <lb n="I 25 verso 20"/>  نقيش يثق بالله يثق   
+ <lb n="I 25 verso 21"/>   <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مـ</supplied>ـطلب پن مپمون والحرا<supplied reason="lost" cert="high">سـ</supplied>ـه 
+ <lb n="I 25 verso 22"/>  χ 
+ <lb n="I 25 verso 23"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> ــــــــــــــــ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 25 verso 24"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> الجملة ϙη <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 1"/>  <gap reason="illegible" precision="low" extent="3"/> والحراسـ<supplied reason="lost" cert="high">ـة</supplied> 
+ <lb n="I 24 recto 2"/>  <supplied reason="lost" cert="high">فدّ</supplied>ا<supplied reason="lost" cert="high">ن</supplied> <gap reason="illegible" extent="1" unit="character" /> بدينر <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="I 24 recto 3"/>  والحراسة <gap reason="illegible" extent="2" unit="character" /> 
+ <lb n="I 24 recto 4"/>  فدّان δ بدينر <gap reason="illegible" extent="2" unit="character" />χγʹ‎κʹ‎δʹ‎ 
+ <lb n="I 24 recto 5"/>  <supplied reason="lost" cert="high">فـ</supplied>ـدّان αχ بدينر χδʹ‎ <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> بروحيّة في العام ا<supplied reason="lost" cert="high">لــ</supplied>ـماضي يزرع قرط والحراسة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 7"/>  <supplied reason="lost" cert="high">فـ</supplied>ـدّان δ بدينر δχ : 
+ <lb n="I 24 recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">العام</supplied> <supplied reason="lost" cert="high">ا</supplied>لـماضي <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 9"/>  <supplied reason="lost" cert="high">فـ</supplied>ـدّان α بدينر α : 
+ <lb n="I 24 recto 10"/>  <supplied reason="lost" cert="high">فـ</supplied>ـدّان α بدينر α : 
+ <lb n="I 24 recto 11"/>   <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 12"/>  <supplied reason="lost" cert="high">فـ</supplied>ـدّان α بدينر χδʹ‎ϛʹ‎ 
+ <lb n="I 24 recto 13"/>  <supplied reason="lost" cert="high">ڤـ</supplied>ـدان α بدينر α 
+ <lb n="I 24 recto 14"/>   <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 15"/>  <supplied reason="lost" cert="high">د</supplied>ينر    
+ <lb n="I 24 recto 16"/>  والحراسه <gap reason="illegible" precision="low" extent="3"/> والحراسه 
+ <lb n="I 24 recto 17"/>  <supplied reason="lost" cert="high">ڤدا</supplied>ن β بدينر χ<gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 18"/>  <gap reason="illegible" precision="low" extent="3"/> والحراسة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 19"/>   // پدپپر 
+ <lb n="I 24 recto 20"/>   <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 recto 21"/>  الأمير ضياع أيّده اللّه 
+ <lb n="I 24 recto 22"/>  نصف وثلث 
+ <lb n="I 24 verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـ<supplied reason="lost" cert="high">ـدّان</supplied> <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـا<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـل 
+ <lb n="I 24 verso 2"/>  يد كيل إلى يد كيل الحارس <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 verso 3"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> الخفّاف <supplied reason="lost" cert="high">فـ</supplied>ـ<supplied reason="lost" cert="high">ـدّان</supplied> 
+ <lb n="I 24 verso 4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أبلاوتيّة اعره σμ<unclear reason="undefined" cert="high">ϑ</unclear>  اللّه 
+ <lb n="I 24 verso 5"/>  <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـپوم بن الشّمّاس وذكر بن عمر بيد أنة قبالة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> قبالة الجزيرة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 verso 7"/>  <supplied reason="lost" cert="high">مـ</supplied>ـن α الرّبيع بن جعفر فدّان <gap reason="illegible" extent="2" unit="character" /> <del rend="erasure" status="unremarkable">γ</del> 
+ <lb n="I 24 verso 8"/>  <gap reason="illegible" precision="low" extent="3"/> أرض ترهيلودة <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 verso 9"/>  <supplied reason="lost" cert="high">من</supplied> χ مثقال     
+ <lb n="I 24 verso 10"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پو</supplied>پ ιγ الرڤعه 
+ <lb n="I 24 verso 11"/>  الرّحيم اللّه الرّحمن الرّحيم   
+ <lb n="I 24 verso 12"/>  يأخذها  ببيج  البحر إلى الخليج <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 verso 13"/>  ε ε العطّاف العمّي   فـ<supplied reason="lost" cert="high">ـدّان</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="I 24 verso 14"/>  • 
+ <lb n="I 24 verso 15"/>  • 
+ <lb n="III 129 recto 1"/>  • <supplied reason="lost" cert="high">پسـ</supplied>ـم الله الرّحمن الرحـ<supplied reason="lost" cert="high">ـپم</supplied> 
+ <lb n="III 129 recto 2"/>  من αχ فدّان <supplied reason="lost" cert="high">بـ</supplied>ـن فيمون فدّان ε 
+ <lb n="III 129 recto 3"/>  <gap reason="illegible" precision="low" extent="3"/> أرض فضيل الــ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/>سه في شـ<supplied reason="lost" cert="high">ـهد</supplied> مينا 
+ <lb n="III 129 recto 4"/>  <supplied reason="lost" cert="high">من</supplied> δ <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـ<supplied reason="lost" cert="high">ـدّ</supplied>ان γ 
+ <lb n="III 129 recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أرض</supplied> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـى المريسي في ا<supplied reason="lost" cert="high">لعام</supplied> <supplied reason="lost" cert="high">الماضي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="III 129 recto 6"/>  <supplied reason="lost" cert="high">من</supplied> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـ<supplied reason="lost" cert="high">ـدّان</supplied> αϛʹ‎ 
+ <lb n="III 129 recto 7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> في <supplied reason="lost" cert="high">العام</supplied> <supplied reason="lost" cert="high">الماضي</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="III 129 verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـدّان <supplied reason="lost" cert="high">ε</supplied> بدينر  
+ <lb n="III 129 verso 2"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـلوه ببيج يزرع قرط والحراسة 
+ <lb n="III 129 verso 3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـدّان <supplied reason="lost" cert="high">ιβ</supplied> بدينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" extent="2" unit="character" />ιβ 
+ <lb n="III 129 verso 4"/>  <supplied reason="lost" cert="high">أرض</supplied> <gap reason="illegible" extent="4" unit="character" /> هاشم <gap reason="illegible" precision="low" extent="3"/> والحراسـ<supplied reason="lost" cert="high">ـة</supplied> 
+ <lb n="III 129 verso 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـ<supplied reason="lost" cert="high">ـدّ</supplied>ا<supplied reason="lost" cert="high">ن</supplied> γχγʹ‎ιʹ‎βʹ‎   
+ <lb n="III 129 verso 6"/>  <gap reason="illegible" precision="low" extent="3"/> والحراسـ<supplied reason="lost" cert="high">ـة</supplied> 
+ <lb n="III 129 verso 7"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فـ</supplied>ـ<supplied reason="lost" cert="high">ـدّان</supplied> <gap reason="illegible" extent="1" unit="character" /> <supplied reason="lost" cert="high">بد</supplied>ينـ<supplied reason="lost" cert="high">ـر</supplied> <gap reason="illegible" extent="2" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>min *** faddān bi dīnār:in *** 
+ <lb n="2"/>min hu kāmilu bnu ḫalīl:in 2+1/2 wa faddān:un min ʾ** wa ăl ḥirāsaẗu *** 
+ <lb n="3"/>min *** *** bni rawḥ:in faddān bi dīnār:in *** 
+ <lb n="4"/>faḍīlu fuḍaylu bnu raǧāʾa min ʾ*** **** ***l wa ăl ḥirāsaẗu *** 
+ <lb n="5"/>min 1+1/2 ***rB bnu ăl ḥaǧǧāǧi wa baǧūšu bnu *BBrī faddān 3 bi dīnār:in 4+1/2 
+ <lb n="6"/>ăl ʾarḍ mina ăš šarikaẗi **lḥ ăl faḍīli fuḍayli wa ăl ḥirāsaẗu 
+ <lb n="7"/>min 1+1/2 sulaymānu zaraʿa faddān 2 bi dīnār:in 3 
+ <lb n="8"/>fa qabila ăl ḥurru min ʾasʿada bni rabīʿ:in wa ăl ḥirāsaẗu 
+ <lb n="9"/>min 2/3 yūsufu ăl fusṭāṭiyyu faddān 3 bi dīnār:in 2 
+ <lb n="10"/>ʾBrhBaẗu bnu ḥāF*** wa ăl ḥirāsaẗu 
+ <lb n="11"/>min 1+1/3 mubāraku bnu ʿabdi ăr raḥmāni bni nawf:in faddān 3 bi dīnār:in 4 
+ <lb n="12"/>sulaymānu ăl ǧinniyyu ǧubbiyyu ḥunniyyu ǧaddiyyu ǧuddiyyu fa qabila fī ăl ʿāmi ăl māḍī wa ăl ḥirāsaẗu 
+ <lb n="13"/>min 5+1/4 ʾabū ăl ʿaṭṭāfi faddān 5 bi dīnār:in 6+1/4 
+ <lb n="14"/>min hu 2 min ʾarḍi *** faddān suds ʾd* min hu ṯalāṯaẗ:un ʾarḍ ʾuẓmà wa ăl ḥirāsaẗu 
+ <lb n="15"/>min 1/2+1/3 yūsufu ăl ḥār** faddān 2 bi dīnār:in 5+1/6 
+ <lb n="16"/>ĭtrūnniyaẗu ăl ḫawliyyu ***r fī ăl ʿāmi ăl māḍ wa ăl ḥirāsaẗu 
+ <lb n="17"/>min 1/2+1/3+1/24 kāmilu bnu ḫalīl:in faddān 10 bi dīnār:in 8+2/3+1/12 
+ <lb n="18"/>ăl ʿadas wa ăl ǧulubbān *** *** wa ăl ḥirāsaẗu 
+ <lb n="19"/>min *** ăl ḥurru bnu ʾismāʿīla faddān 10+*** bi dīnār:in ** 
+ <lb n="20"/>*** ʾarḍ:un tuʿrafu bi ʾabī qāsim:in zaraʿa qurṭ wa ăl ḥirāsaẗu 
+ <lb n="21"/>min ** ʾ*** bnu ʾisḥāqa ăṭ ṭaḥḥānu faddān 4 bi dīnār:in ** 
+ <lb n="22"/>ʾanyū ʾatbū wa hil*** muḥammad wa faddān ***h ăl ḥurr bn ʾismāʿīla wa ăl ḥirāsaẗu 
+ <lb n="23"/>min *** mūsà bnu ʾayyūba ăl qusṭālu faddān 1+1/2 bi dīnār:in ** 
+ <lb n="24"/>***r*** wa ăl ḥirāsaẗu *** 
+ <lb n="25"/>*** *** **** *** r *** bi dīnār:in ** 
+ <lb n="26"/>min *** ***du bnu mūnaẗa muwīha faddān 4 wa ăl ḥirāsaẗu *** 
+ <lb n="27"/>*** ʾarḍu *** ăl faddān ăl maḏkūr fī ăl ʿāmi ăl māḍī bi dīnār:in 7 
+ <lb n="28"/>min 1 ʾayyūbu wa ʿaṯm:un ġanm:un wa maymūnu faddān 3 bi dīnār:in 3 
+ <lb n="29"/>ʾarḍu muḥammad:in ăs sd mā la hu fī ăl ʿāmi ăl māḍī ʿan qanṭaraẗa *** wa ăl ḥirāsaẗu 
+ <lb n="30"/>min 1 ʾisḥāqu rʿB**dBn faddān 9 bi dīnār:in 9 
+ <lb n="31"/>*** ʾarḍu ʾibrāhīma bni ʾisḥāqa bi ʾaǧri 4 ******** *** wa ăl ḥirāsaẗu 
+ <lb n="32"/>min 1 ʿīsà *** *** faddān 6 bi dīnār:in 6 
+ <lb n="33"/>ʾarḍu muḥammad:in 14 *** ġayl ăl fiṭriyy qaṭriyy qiṭriyy wa ăl ḥirāsaẗu 
+ <lb n="34"/>min 1 **BʿB bnu ḥafṣ:in faddān 2 bi dīnār:in 2 
+ <lb n="35"/>ʾarḍu muḥammad:in ***** **d mʾ* faddān wa ăl ḥirāsaẗu 
+ <lb n="36"/>min 1 ʾismāʿīla ***n faddān 11 bi dīnār:in 11 
+ <lb n="37"/>ʾarḍ *** bn ʾismāʿīla wa ăl ḥirāsaẗu 
+ <lb n="38"/>min 1+1/3 *** **n bnu maǧd:in faddān 9 bi dīnār:in 12 
+ <lb n="39"/>*** ʾ*** *** bn ăl ḫaṭṭābi wa ăl ḥirāsaẗu 
+ <lb n="40"/>min 1 *** bnu sulaymāna faddān 4 bi dīnār:in 4 
+ <lb n="41"/>*** *** min ʿabdi ăl ʾaḥadi wa faddān:un min wayṣaẗa wa faḍīl:ini fuḍayl:ini bni halūsa 
+ <lb n="42"/>*** ʿabd ăl ʾaḥadi mina ăl būri ăl ʿB** wa ăl ḥirāsaẗu ** 
+ <lb n="43"/>*** qabālaẗ faddān 8 bi dīnār:in 8 
+ <lb n="44"/>*** muṭṭalib:unu bnu maymūn:in wa ăl ḥirāsaẗu ** 
+ <lb n="45"/>1/2 
+ <lb n="46"/>*** *** *** *** 
+ <lb n="47"/>*** *** ăl ǧumlaẗu 98 *** 
+ <lb n="48"/>*** wa ăl ḥirāsaẗu 
+ <lb n="49"/>faddān * bi dīnār:in ** 
+ <lb n="50"/>wa ăl ḥirāsaẗu ** 
+ <lb n="51"/>faddān 4 bi dīnār:in‬ **+1/2+1/3+1/24 
+ <lb n="52"/>faddān 1+1/2 bi dīnār:in 1/2+1/4 *** 
+ <lb n="53"/>*** barūḥiyyaẗ fī ăl ʿāmi ăl māḍī yazraʿu qurṭ wa ăl ḥirāsaẗu *** 
+ <lb n="54"/>faddān 4 bi dīnār:in 4+2/3 *** 
+ <lb n="55"/>*** fī ăl ʿāmi ăl māḍī *** 
+ <lb n="56"/>faddān 1 bi dīnār:in 1 *** 
+ <lb n="57"/>faddān 1 bi dīnār:in 1 *** 
+ <lb n="58"/>*** wa *** ḥirāsaẗu 
+ <lb n="59"/>faddān 1 bi dīnār:in 1/2+1/4+1/6 
+ <lb n="60"/>faddān 1 bi dīnār:in 1 
+ <lb n="61"/>*** wa ăl ḥirāsaẗu 
+ <lb n="62"/>faddān 6 bi dīnār:in 6 
+ <lb n="63"/>*** wa ăl ḥirāsaẗu *** 
+ <lb n="64"/>faddān 2 bi dīnār:in 1/2+*** 
+ <lb n="65"/>*** ăl wa ḥirāsaẗu *** 
+ <lb n="66"/>faddān bi dīnār:in *** 
+ <lb n="67"/>*** wa ăl ḥirāsaẗu 
+ <lb n="68"/>faddān 2 bi dīnār:in ** 
+ <lb n="69"/>*** wa ăl ḥirāsaẗu 
+ <lb n="70"/>*** *** faddān *** 
+ <lb n="71"/>*** ăl ḥaras ʾilà yadi kayl:in ăl ḥārisi *** 
+ <lb n="72"/>min ** *** bnu ăl ḫaffāfi faddān 
+ <lb n="73"/>*** *** ʾablāwtiyyaẗ bn ăl qalfāṭi BB*rʾ** *** 
+ <lb n="74"/>**Būmu bnu ăš šammāsi wa ḏakaru bnu ʿumar:in bi yadi ʾanaẗa qabālaẗ *** 
+ <lb n="75"/>*** qabālaẗ ăl ǧazīraẗi *** 
+ <lb n="76"/>min 1 ăr rabīʿu bnu ǧaʿfara faddān ** 3 
+ <lb n="77"/>*** ʾarḍu tirhīlūdaẗa *** 
+ <lb n="78"/>min 2/3 ʾaḥmadu bnu ʾibrāhīma faddān ***+2 
+ <lb n="79"/>*** m*haẗu ăl qalfāṭu * 
+ <lb n="80"/>min *+1/3 sīmūnu ăṣ ṣabbāġu faddān *** 
+ <lb n="81"/>yaʾḫuḏu hā bi ḥaddi babīǧa mina ăl baḥri ʾilà ăl ḫalīǧi *** 
+ <lb n="82"/>min 5 *** bnu ăl ʿaṭṭāfi ăl ʿāmmiyyu faddān *** 
+ <lb n="83"/>*** 
+ <lb n="84"/>*** 
+ <lb n="85"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi **** 
+ <lb n="86"/>min 1+1/2 muwiyu bnu fīmūna faddān 5 
+ <lb n="87"/>*** ʾarḍu faḍīl:ini fuḍayl:ini ăl r**sh fī ăl ʿāmi ăl māḍī 
+ <lb n="88"/>min 4 *** *** faddān 3 
+ <lb n="89"/>*** ʾarḍ ***ī ăl marīsiyyi fī ăl ʿāmi ăl māḍī *** 
+ <lb n="90"/>min * *** *** faddān 1+1/6 
+ <lb n="91"/>*** *** fī ăl ʿāmi ăl māḍī *** 
+ <lb n="92"/>*** faddān 5 bi dīnār:in 8+1/2+1/4 
+ <lb n="93"/>*** **lūh babīǧa yazraʿu qurṭ wa ăl ḥirāsaẗu 
+ <lb n="94"/>*** faddān 12 bi dīnār:in 12+** 
+ <lb n="95"/>ʾarḍ **** hāšim:in *** wa ăl ḥirāsaẗu 
+ <lb n="96"/>*** faddān * bi dīnār:in ** 
+ <lb n="97"/>*** wa ăl ḥirāsaẗu 
+ <lb n="98"/>*** faddān * bi dīnār:in ** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  [Zu .. Fa]dd[ān um Dīnār]
+		 <lb n="2"/>
+ 	  [hie]von Kāmil b. Ḫalīl 2 1/2 und ein Faddān von A...[...] und die Bewa[chu]ng [..]
+		 <lb n="3"/>
+ 	  [Zu .. N.N., ibn Ra]uḥ  Fa[ddān um D]īnā[r ]
+		 <lb n="4"/>
+ 	  Fuḍail [ib]n Raǧā von A..........]l [... und d]ie Bew[achung] [..]
+		 <lb n="5"/>
+ 	  [Zu 1 1/2 ....]riṯ(?) b. al-Ḥaǧǧāǧ und Pegoš ib[n ....]..rī Faddān 3 um Dīnār 4 1/2
+		 <lb n="6"/>
+ 	  das Grun[ds]tück von der Genossen[schaft ......l]ḥ des al-Fuḍail und die Bewachung
+		 <lb n="7"/>
+ 	  Zu 1 1/2 Sulaimān, er säte ... Faddān 2 um Dīnār 3
+		 <lb n="8"/>
+ 	  gepachtet hat al[Ḥu]rr [v]on Asʿad b. Ra[bīʿ] und die Bewachung
+		 <lb n="9"/>
+ 	  Zu 2/3 Yūsuf aus al-Fusṭāṭ Fa[ddān] 3 um Dīnār 2
+		 <lb n="10"/>
+ 	  Abrahiye b. Ḥāf[(?) ...] und die Bewachung
+		 <lb n="11"/>
+ 	  Zu 1 1/3 Mubārak b. ʿAbd ar-Raḥmān b. Nauf Faddān [3] umd Dīnār 4
+		 <lb n="12"/>
+ 	  Sulaimān al-Ǧi[nn]ī. Er hat im vergangenen Jahr gepachtet [...] und die Bewachung
+		 <lb n="13"/>
+ 	  Zu 5 1/4 Abu&#039;l-ʿAṭṭāf Faddān 5 [um Dīnā]r  6 1/4
+		 <lb n="14"/>
+ 	  Hievon sind 2 vom Grundstück [des.... ] Faddān ein Sechstel... [...] hievon drei trocken[es] Land [und die Bewachu]ng
+		 <lb n="15"/>
+ 	  Zu 1/2+1/3 Yū[su]f al-Ḥār[...] Faddān 2 um [Dīnār] 5 1/6
+		 <lb n="16"/>
+ 	  Atrūnniye, der Gärtner, [...] im vergangenen [Ja]hre [und die Bewachung]
+		 <lb n="17"/>
+ 	  Zu 1/2 + 1/3 +1/24 Kāmil b. Ḫalīl Fadd[ān] 10 umd Dī[nār 8 2/3+1/12]
+		 <lb n="18"/>
+ 	  Linsen und Kichererbsen [...]........ und [die Bewachung]
+		 <lb n="19"/>
+ 	  [Zu ]... al-Ḥurr b. Ismaʿīl Faddān 10[....] um Dīn[ār]
+		 <lb n="20"/>
+ 	  [...] ein Grundstück bekannt unter (dem Namen) [A]bū Qāsim, er säte Klee | und die Bewachu[ng]
+		 <lb n="21"/>
+ 	  [Zu..] A[...] b. [I]sḥāq, der Müller, Faddān 4 um Dīnā[r ...]
+		 <lb n="22"/>
+ 	  Anio und Hel[...] Muḥammad und ein Faddān ...... al-Ḥurr b. Ismaʿīl | und die Bewa[chung]
+		 <lb n="23"/>
+ 	  [Zu..] Mūsā b. Ayyūb, der Quae[s]tor, Fa[dd]a[n] 1 1/2 [um Dīnār .. ]
+		 <lb n="24"/>
+ 	  [...]r[...] und die Bewach[ung]
+		 <lb n="25"/>
+ 	  [...]..[...]......[...]r[...] um Dīnā[r ...]
+		 <lb n="26"/>
+ 	  [Zu .. ...]d, Sohn des Mōne Faddān 4 und die Bewach[un]g
+		 <lb n="27"/>
+ 	  Grundstück .... das erwähnte Faddān, im vergangenen Jahre umd Dīnār [7]
+		 <lb n="28"/>
+ 	  Zu 1 [Ayy]ūb und Ġanm Maimūn Faddān 3 [um Dī]nār 3
+		 <lb n="29"/>
+ 	  Grundstück des Muḥammad .... was ihm gehörte [im] vergangenen [Ja]hre von Qanṭara
+		 <lb n="30"/>
+ 	  Zu 1 Isḥāq .... [.]... Fa[dd]ān 9 [um Dī]nār 9
+		 <lb n="31"/>
+ 	  [..] Grundsütck de [Ibra]hīm b. Isḥāq um das Entgelt von 4 ........ [...] und die Bewachung
+		 <lb n="32"/>
+ 	  [Zu 1] [ʿĪ]sā ........ [...] Faddān 6 um Dīnā[r] 6
+		 <lb n="33"/>
+ 	  [...] Grundstück des Muḥa[mma] 14 [...] Ġail al-Qiṭrī und die Bewachung
+		 <lb n="34"/>
+ 	  [Zu 1 [...... b. Ḥafṣ Faddān 2 [um D]īnār 2
+		 <lb n="35"/>
+ 	  [...] Gundstück des Muḥammad ..[...]....... Fadd[ān] [und] die Bewa[chun]g
+		 <lb n="36"/>
+ 	  Zu [1 I]s[maʿ]īl [...] Fadān 11 umd Dīnār 11
+		 <lb n="37"/>
+ 	  [...] Grundstück [.....] b. Ismaʿīl und die Bew[ach]ung
+		 <lb n="38"/>
+ 	  Zu 1 1/3 [.....]n [ib]n Maǧd Faddān [9] um D[īnā]r [1]2
+		 <lb n="39"/>
+ 	  [.......]..[..]..[...] b. [a]l-Ḫaṭṭāb [und die Bewachu]ng
+		 <lb n="40"/>
+ 	  [Zu 1 ...] b. Sulaimān Fadān 4 um Dīnār [4]
+		 <lb n="41"/>
+ 	  [vo]n ʿAbd al-Aḥad und ein Faddān von Waiṣa und Fuḍail b. Halōs
+		 <lb n="42"/>
+ 	  [...] ʿAbd al-Aḥad an Brachland(?) ....[...] und die Bewachung [..]
+		 <lb n="43"/>
+ 	  [Zu 1 Pa]chtung Faddān 8 um Dīnār [8]
+		 <lb n="44"/>
+ 	  [... Mu]ṭṭalib b. Maimūn und die Bewa[chu]ng[ ..]
+		 <lb n="45"/>
+ 	  [...] 1/2
+		 <lb n="46"/>
+		 <lb n="47"/>
+ 	  [...] die Summe: 98 [...]
+		 <lb n="48"/>
+ 	  ] und die Bewach[ung
+		 <lb n="49"/>
+ 	  Fadd]ā[n] . um Dīnār [
+		 <lb n="50"/>
+ 	  und die Bewachung [
+		 <lb n="51"/>
+ 	  Fa]ddān 4 umd Dīnār [.]1/2 + 1/3+1/24[
+		 <lb n="52"/>
+ 	  Fa]ddān 1 1/2 um Dīnār 1/2 +1/4 • [
+		 <lb n="53"/>
+ 	  ] Barūḥīye im ver[gan]genen Jahre, er sät Klee und die Bewachung
+		 <lb n="54"/>
+ 	  Fa]ddān 4 um Dīnār 4 2/3
+		 <lb n="55"/>
+ 	  im] vergangenen [Jahre]
+		 <lb n="56"/>
+ 	  Fa]ddān 1 um Dīnār 1
+		 <lb n="57"/>
+ 	  Fa]ddān 1 um Dīnār 1
+		 <lb n="58"/>
+ 	  ] und die Bewachung
+		 <lb n="59"/>
+ 	  Fa]ddān 1 um Dīnār 1/2+1/4+1/6
+		 <lb n="60"/>
+ 	  Fadd]ā[n] 1 um Dīnār 1
+		 <lb n="61"/>
+ 	  ] und die Bewachung
+		 <lb n="62"/>
+ 	  Faddān] 6 um Dīnār 6
+		 <lb n="63"/>
+ 	  ] und die Bewachung [
+		 <lb n="64"/>
+ 	  Faddān 2 um Dīnār [1/2
+		 <lb n="65"/>
+ 	  und die Bewachung [
+		 <lb n="66"/>
+ 	  Faddān] // umd Dīnār [
+		 <lb n="67"/>
+ 	  ] und die Bewachun[g
+		 <lb n="68"/>
+ 	  Faddān] 2 um Dīnā[r
+		 <lb n="69"/>
+ 	  ] und die Bewa[chung
+		 <lb n="70"/>
+ 	  [ Faddān
+		 <lb n="71"/>
+ 	  [...]..... an Chael, den Wächter [
+		 <lb n="72"/>
+ 	  [zu .. N.N. ibn] al-Ḫaffāf [Faddān
+		 <lb n="73"/>
+ 	  [...]... Ablāutīye, Sohn des Kalfaters ....[
+		 <lb n="74"/>
+ 	  [...].ūm, Sohn des Diakons und Ḏakar b. ʿUmar durch Ana, Pachtung [
+		 <lb n="75"/>
+ 	  [...] Pachtung von al-Ǧazīra [
+		 <lb n="76"/>
+ 	  [ Z]u 1 ar-Rabīʿ b. Ǧaʿfar Fadān 〚3〛
+		 <lb n="77"/>
+ 	  [...] Grundstück des Terhelūde (?) [
+		 <lb n="78"/>
+ 	  [Zu] 2/3 Aḥmad b. Ibrahīm Faddān [2
+		 <lb n="79"/>
+ 	  [...] M[.]he, der Kalfater [
+		 <lb n="80"/>
+ 	  [Zu]..[4] Simon, der Färber Faddān [
+		 <lb n="81"/>
+ 	  das er an der Grenze vom Babīǧ im Besitz hat vom Strome bis zum Kanal [
+		 <lb n="82"/>
+ 	  [Zu] 5 [... i]b[n] al-ʿAṭṭāf, der gemeine Mann Fa[ddān
+		 <lb n="83"/>
+		 <lb n="84"/>
+		 <lb n="85"/>
+ 	  • [Im Nam]en Gottes, des Barmherzigen, Gütig[en] ...... •
+		 <lb n="86"/>
+ 	  Zu 1 1/2 Mui, [So]hn der Phimon, Faddān 5
+		 <lb n="87"/>
+ 	  [...] Grundstück des Fuḍail, ...[.]... im ver[gangenen] Jahre
+		 <lb n="88"/>
+ 	  [Zu] 4 [... Fadd]ān 3
+		 <lb n="89"/>
+ 	  [... Grundsütck des ....]ī aus Marīs im [vergangenen Jahre]
+		 <lb n="90"/>
+ 	  [Zu x ........ Faddān] 1 1/6
+		 <lb n="91"/>
+ 	  [...]..... im [vergangenen Jahre]
+		 <lb n="92"/>
+ 	  Fa]ddān [5] um Dīnār 8 1/2+[1/4]
+		 <lb n="93"/>
+ 	  ]lūh Babīǧ, er sät Klee und die Bewachung
+		 <lb n="94"/>
+ 	  Fa]ddān [12] um Dīnā[r] 12
+		 <lb n="95"/>
+ 	  Feld des ....] Hāšim [...] und die Bewachu[ng
+		 <lb n="96"/>
+ 	  Fadd]ā[n .] um Dīnā[r
+		 <lb n="97"/>
+ 	  ] [...] und die Bewachu[ng
+		 <lb n="98"/>
+ 	  Faddān . um D]īnā[r
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

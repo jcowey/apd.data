@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="785" xml:id="Grohmann_Apercu_p_27" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannAperçu p. 27 (= P.World p. 119)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Apercu_p_27</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106848</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  من محمّد المنتصر 
+ <lb n="3"/>  باللّه ولي عهد المسلمين 
+ <lb n="4"/>  بن أمير المومپپن <app type="BL"><lem resp="bullets “Grohmann, World p. 119”"><gap reason="illegible" extent="2" unit="character" /> </lem><rdg resp="Diem">ø</rdg></app> 
+ <lb n="5"/>  إلى العبّاس لك الولية 
+ <lb n="6"/>  بمصر وبرقة والإ 
+ <lb n="7"/>  سكپدرپه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min muḥammad:ini ăl muntaṣiri 
+ <lb n="3"/>bi ăl lāhi waliyyi ʿahdi ăl muslimīna 
+ <lb n="4"/>bni ʾamīri ăl muʾminīna ** ø 
+ <lb n="5"/>ʾilà ăl ʿabbāsi la ka ăl wilāyaẗu 
+ <lb n="6"/>bi miṣra wa barqaẗa wa ăl ʾiskandariyyaẗi 
+ <lb n="7"/>ø 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom du Dieu le Miséricordieux, le Compatissant!
+ 	  Im Namen Gottes des Allbarmherzigen!
+ 	  Im Namen Gottes, des Allbarmherzigen, des Allmilden!
+ 	  In the name of God, the Compassionate, the Merciful!
+		 <lb n="2"/>
+ 	  De Mouḥammad al-Mountaṣir
+ 	  From Muḥammad al-Muntaṣir
+ 	  Von Muhammed el-Muntaṣir
+		 <lb n="3"/>
+ 	  billâh, dem designierten Thronfolger, 
+ 	  billâh, designated successor to the throne,
+ 	  billâh, héritier présumptif du trône,
+		 <lb n="4"/>
+ 	  fils du commandeur des croyants,
+ 	  Sohne des Fürsten der Gläubigen.
+ 	  son of the Commander of the Faithful,
+		 <lb n="5"/>
+ 	  à al-ʿAbbâs : Le gouvernement vous est confié
+ 	  An el-Abbâs: es ist dir die Regierungsgewalt
+ 	  an el-Abbâs Sohn des el-Walîd: Administrire 
+ 	  to al-ʿAbbâs: to thee is the government of
+		 <lb n="6"/>
+ 	  die Post in Alexandrien!
+ 	  Egypt and Barqa and al-
+ 	  en Égypte, à Barqa et à Alexandrie.
+ 	  in Ägypten, Barka und Alexandria
+		 <lb n="7"/>
+ 	  Iskandarîya!
+ 	  verliehen.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

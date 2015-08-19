@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="295" xml:id="Grohmann_APEL_96" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 096 (= P.World p. 208 = Chrest.Khoury I 61)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_96</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106538</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  <supplied reason="lost" cert="high">هـ</supplied>ـذا ما استأجر سعيد بن عيسى استأجر هارون بن <app type="BL"><lem resp="APD">بفام </lem><rdg resp="APD">بفام</rdg></app> استأجره 
+ <lb n="3"/>  <supplied reason="lost" cert="high">سـ</supplied>ـعيد بن عيسى شهرين كاملين على أن يعمل له عمل الفول وعلى أن 
+ <lb n="4"/>  يعطيه في هذين الشّهرين سدس دينر لكل شهر درهمين 
+ <lb n="5"/>  وأوّل يوم من الشّهر أوّل يوم من <sic n="superfluous">كهيك</sic> <supplied reason="omitted" cert="high">كيهك</supplied> من شهور العجم 
+ <lb n="6"/>  من سنة مپپن وسبعة وعشرين شهد على ذلك 
+ <lb n="7"/>  وأيّوب بن موسى وكتب شهادته σκζ <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">ἀρχῆς</rdg></app> <app type="BL"><lem resp="APD">: </lem><rdg resp="APD">ε</rdg></app> 
+ <lb n="8"/>  ومحمّد بن أتوث <app type="BL"><lem resp="APD">وكتببخطّـ<supplied reason="lost" cert="high">ـه</supplied> </lem><rdg resp="Grohmann, World">وكتب</rdg></app> 
+ <lb n="9"/>  وليد بن مسلم القرشي وكتب شهادته بخطّه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭstaʾǧara saʿīdu bnu ʿīsà ĭstaʾǧara hārūna bna bifāma buqāma ĭstaʾǧara hu 
+ <lb n="3"/>saʿīdu bnu ʿīsà šahrayni kāmilayni ʿalà ʾan yaʿmila la hu ʿamala ăl fūli wa ʿalà ʾan 
+ <lb n="4"/>yuʿṭiya hu fī hāḏayni ăš šahrayni sudsa dīnār:in li kulli šahr:in dirhamayni 
+ <lb n="5"/>wa ʾawwalu yawm:in mina ăš šahri ʾawwalu yawm:in min kiyahk:in min šuhūri ăl ʿaǧami 
+ <lb n="6"/>min sanaẗi miʾatayni wa sabʿaẗ:in wa ʿišrīna šahida ʿalà ḏālika 
+ <lb n="7"/>wa ʾayyūbu bnu mūsà wa kataba šahādaẗa hu 227 ** archēs * 5 * indikt : 
+ <lb n="8"/>wa muḥammadu bnu ʾaṯwaba wa kataba bi ḫaṭṭi hi 
+ <lb n="9"/>walīdu bnu muslim:ini ăl qurašiyyi wa kataba šahādaẗa hu bi ḫaṭṭi hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu clément et miséricordieux!
+ 	  In the name of God, the Compassionate, the Merciful.
+		 <lb n="2"/>
+ 	  [Ce]ci est ce qu’a pris en louage Saʿīd Ibn ʿĪsā: Il a pris en louage Hārūn ibn Bqām,
+ 	  [Th]is is what Saʿîd b. ʿÎsâ has hired for wages: he has hired Hârûn b. Bqâm;
+		 <lb n="3"/>
+ 	  [Sa]ʿîd b. ʿÎsâ has hired him for two full months that he might do the work connected with the (broad) beans on condition that he would
+ 	  [Sa]ʿīd Ibn ʿĪsā l’a pris en louage pour deux mois entiers, afin qu’il acconplisse pour lui le travail des fèves et à condition que (Saʿīd)
+		 <lb n="4"/>
+ 	  give him (as his hire) for these two months the sixth of a dînâr, for each month two dirhams,
+ 	  give him (as his wages) for these two months the sixth of a dînâr, for each month two dirhams,
+ 	  lui donne pour ces deux mois un sixième de dīnār, chaque mois deux drachmes.
+		 <lb n="5"/>
+ 	  and the first day of the month is (reckoned from) the first day of Choiak of the months of the Copts
+ 	  Et le premier jour du mois est le premier jour de khoiak, (l’un) des mois des non arabes
+		 <lb n="6"/>
+ 	  de l’année deux cent vingt-sept. Ont témoigné de cela
+ 	  of the year two hundred and twenty six. (The following witnesses) have testified to it:
+		 <lb n="7"/>
+ 	  And Ayyûb b. Mûsâ,  who has written his testimony in the beginning of the 5th indiction of the year 227.
+ 	  And Ayyûb b. Mûsâ, who has written his testimony in the year 227.
+ 	  {et} Ayyūb Ibn Mūsā, et il écrivit son témoignage en l’an 227,
+		 <lb n="8"/>
+ 	  And Muḥammad b. Aṯwab, who has written (it) in[his]own handwriting.
+ 	  et Muḥammad Ibn Aṯwab, et il écrivit de [sa] main
+		 <lb n="9"/>
+ 	  et Walīd Ibn Muslim alQuraši, et il écrivit son témoignage de sa main.
+ 	  Walîd b. Muslim, the Qorašite, who has written his testimony in his (own) handwriting.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

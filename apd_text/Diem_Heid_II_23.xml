@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1380" xml:id="Diem_Heid_II_23" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 23</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_23</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169174</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  يا مولاي الأجل وصلني في هذه السّاعة رسول من ولدي إسمعيل 
+<lb n="3"/>  من دمنهور وهو يذكر لي بأن قرطاسي قد خرج إلى الشّام 
+<lb n="4"/>  وأنت تعلم أن ما لي قدرة إلى المقام بنفسي في مصر بلا مال الشّام فإن قدرت 
+<lb n="5"/>  تأخذ كتاب إلى عند الأمير المقدّم المظفّر عبّاس فهو إلـ<unclear reason="undefined" cert="high">ـيـ</unclear>ـه <unclear reason="undefined" cert="high">منّي</unclear> وكتاب 
+<lb n="6"/>  إلى عند الشّيخ المهذّب بن عامر الصّيرف من عند الشّيخ الثّقة أبو 
+<lb n="7"/>  الفضائل فلهـ<supplied reason="omitted" cert="high">ـمـ</supplied>ـا الّذي أرسلته الحمد للّه وحده 
+<lb n="upper margin"/>  عبدها علي بن عدلان 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>yā mawlā ya ăl ʾaǧalla waṣala nī fī hāḏihi ăs sāʿaẗi rasūl:un min walad ī ʾismāʿīla 
+ <lb n="3"/>min damanhūra wa huwa yaḏkuru l ī bi ʾanna qirṭās ī qad ḫaraǧa ʾilà ăš šāmi 
+ <lb n="4"/>wa ʾanta taʿlamu ʾanna mā l ī qudraẗ:un ʾilà ăl muqāmi bi nafs ī fī miṣra bi lā māli ăš šāmi fa ʾin qadarta 
+ <lb n="5"/>taʾḫuḏu kitāb ʾilà ʿindi ăl ʾamīri ăl muqaddami ăl muẓaffari ʿabbās:in fa huwa ʾilay hi min nī wa kitāb 
+ <lb n="6"/>ʾilà ʿindi ăš šayḫi ăl muhaḏḏabi bni ʿāmir:ini ăṣ ṣayrafi min ʿindi ăš šayḫi ăṯ ṯiqaẗi ʾabū 
+ <lb n="7"/>ăl faḍāʾili fa la humā ăllaḏī ʾarsaltu hu ăl ḥamdu li l lāhi waḥda hu 
+ <lb n="8"/>ʿabdu hā ʿaliyyu bnu ʿadlāna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Mein hochgeehrter Gebieter! Gerade eben ist von meinem Sohn Ismāʿīl ein Bote
+			<lb n="3"/>
+		aus Damanhūr gekommen, und zwar gibt er mir Bescheid, daß mein Papier nach Damaskus (oder: Syrien) abgegangen ist.
+			<lb n="4"/>
+		Du weißt doch, daß ich keine Möglichkeit habe, persönlich in Kairo ohne das Geld von Damaskus (oder: Syrien) zu verweilen. Deshalb bringe Du, wenn Du kannst,
+			<lb n="5"/>
+		einen Brief zum Amīr, dem siegreichen Anführer, ʿAbbās, denn er (sc. der Brief) ist von mir an ihn gerichtet (?), und einen Brief
+			<lb n="6"/>
+		zum makellosen Scheich Ibn ʿĀmir, dem Geldwechsler, von dem zuverlässigen Scheich Abū
+			<lb n="7"/>
+		l-Faḍāʾil, denn für sie beide ist das bestimmt, was ich hier übersende. Lob gebührt Gott allein!
+			<lb n="8"/>
+		Ihr Sklave ʿAlī b. ʿAdlān.
+</ab></div>
+</body>
+</text>
+</TEI>

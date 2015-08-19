@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1621" xml:id="Prag_240" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 24</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_240</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169377</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  زرع <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ‮زرع <gap reason="illegible" extent="2" unit="character" /> ξ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  ‮زرع ‪λχ‬ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="4"/>  ‮زرع ‪κγ‬ ‪κβ‬ <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  ‮زرع ‪ιαχ‬ <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  ‮زرع ‪κβ‬ <gap reason="illegible" extent="2" unit="character" /> <supplied reason="lost" cert="high">ε</supplied><gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>zarʿ *** 
+ <lb n="2"/>zarʿ ** 60 *** 
+ <lb n="3"/>zarʿ 30+1/2 ** *** 
+ <lb n="4"/>zarʿ 23 22 *** 
+ <lb n="5"/>zarʿ 11+1/2 ** *** 
+ <lb n="6"/>zarʿ 22 ** *+5 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Saatland [
+			<lb n="2"/>
+		Saatland [...] 60 [
+			<lb n="3"/>
+		Saatland 30 1/2 ,, [
+			<lb n="4"/>
+		Saatland 23 22 [
+			<lb n="5"/>
+		Saatland 11 1/2 ,, [
+			<lb n="6"/>
+		Saatland 22 ,, [.5
+</ab></div>
+</body>
+</text>
+</TEI>

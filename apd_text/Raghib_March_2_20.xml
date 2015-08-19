@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="476" xml:id="Raghib_March_2_20" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 20</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_20</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106662</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> وعلى <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> وأتا بغيره برحمته احتسب 
+<lb n="4"/>  في الدّنيا و]الآخرة بعد عمر طويل 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> مسكين ضعفا واللّه يطلع على 
+<lb n="6"/>  <gap reason="illegible" precision="low" extent="3"/> تحيّرت في كل وجه 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> وباللّه نستعين وعجّل 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> عنّا إنّما نحن باللّه ثم بك 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">و</supplied>عدت به أختك سرّها به 
+<lb n="left margin 1"/>  يسرّك اللّه بالجنّة يأخي وعجّل <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أخصّ</supplied> <supplied reason="lost" cert="high">نفسك</supplied> 
+<lb n="left margin 2"/>  بالسّلم والسّلم عليك ورحمته وبـ<supplied reason="lost" cert="high">ـركاته</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** **** *** 
+ <lb n="2"/>*** wa ʿalà ***** 
+ <lb n="3"/>*** wa ʾatā bi ġayri hi bi raḥmati hi ĭḥtasib 
+ <lb n="4"/>fī ăd dunyā wa ăl ʾāḫiraẗi baʿda ʿumr:in ṭawīl:in 
+ <lb n="5"/>*** masākīn ḍuʿafāʾ wa ăl lāhu yuṭliʿ ʿalà 
+ <lb n="6"/>*** taḥayyartu fī kulli waǧh:in 
+ <lb n="7"/>*** wa bi ăl lāhi nastaʿīnu wa ʿaǧǧil 
+ <lb n="8"/>*** ʿan nā ʾinnamā naḥnu bi ăl lāhi ṯumma bi ka 
+ <lb n="9"/>*** waʿadta bi hi ʾuḫta ka surri hā bi hi 
+ <lb n="10"/>yasurru ka ăl lāhu bi ăl ǧannaẗi yā ʾaḫ ī wa ʿaǧǧil *** ʾaḫiṣṣi nafsa ka 
+ <lb n="11"/>bi ăs salāmi wa ăs salāmu ʿalay ka wa raḥmatu hu wa barakātu hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		] et sur .... [..]
+			<lb n="3"/>
+		] et en apporte d&#039;autre par Sa miséricorde. Agis avec dévouement (pour l&#039;amour de Dieu)!
+		] et il en apportait d&#039;autre par Sa miséricorde. Agis avec dévouement (pour l&#039;amour de Dieu)!
+			<lb n="4"/>
+		dans ce monde et] dans l&#039;autre après une longue vie.
+			<lb n="5"/>
+		] pauvres et faibles. Dieu éclaire sur
+			<lb n="6"/>
+		] Je suis troublé de toute manière
+			<lb n="7"/>
+		] A Dieu nous demandons l&#039;aide. Envoie rapidement
+			<lb n="8"/>
+		] de nous, seulement nous (demandons l&#039;aide) à Dieu puis à toi.
+			<lb n="9"/>
+		] ce que tu as promis à ta sœur. Réjouis-la par cela.
+			<lb n="10"/>
+		Que Dieu te réjouisse par le Paradis, mon frère! Envoie rapiedement [.... Je t&#039;adresse]
+			<lb n="11"/>
+		le salut. Que le salut soit sur toi, ainsi que Sa miséricorde et Ses bé[nédictions!]
+</ab></div>
+</body>
+</text>
+</TEI>

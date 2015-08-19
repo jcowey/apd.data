@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="54" xml:id="Karabacek_Papyrusfund_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekPapyrusfund 2</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Karabacek_Papyrusfund_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106493</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمـن الرّحيم 
+ <lb n="2"/>  براه لميمون الصّراف من أربعة دنپپر مثاقيل بالجديد دفعها 
+ <lb n="3"/>  إلي يعقوب كاتب عبد اللّه بن نوفل وهي من خراج أرضه الّتي زرعه 
+ <lb n="4"/>  من أرض المدينة في غيط عبد الّله بن نوفل لسنة ثلث ومائتن 
+ <lb n="5"/>  فقد قبض يعقوب الكاتب الأربعة دنپپر مثاقيل في شهر رمضان 
+ <lb n="6"/>  لسنة ثلپ ومائتن 
+ <lb n="7"/>  شهد على ذلك 
+ <lb n="8"/>  <app type="BL"><lem resp="APD">حميل </lem><rdg resp="APD">جميل</rdg></app> بن موسى الخولاني و<supplied reason="lost" cert="high">كتب</supplied> شهادته في شهر رمضان سنة ثلث ومائن دينر <gap reason="illegible" extent="1" unit="character" /> δ 
+ <lb n="9"/>  ومحمد بن شعيب القدوري وكتب <app type="BL"><lem resp="APD">مسادته </lem><rdg resp="Conjecture Karabacek, Papyrusfund no. 2">شهادته</rdg></app> في شهر رمضان سنة ثلث ومائتن 
+ <lb n="10"/>  وياسين بن زيد القربي وكتب شهادته على إقرار يعقوب الكاتب بما في هذا الكتاب 
+ <lb n="11"/>  وحمدون بن زبير وكتب شهادته ياسين بن زيد <supplied reason="lost" cert="high">بأمره</supplied> في دكانه 
+ <lb n="12"/>  في شهر رمضان 
+ <lb n="13"/>  قبضت من ميمون δ <gap reason="illegible" extent="1" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi ĭsmi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li maymūn:ini ăṣ ṣarrāfi min ʾarbaʿaẗi danānīra maṯāqīla bi ăl ǧadīdi dafaʿa hā 
+ <lb n="3"/>ʾilà yaʿqūba kātibi ʿabdi ăl lāhi bni nawfala wa hiya min ḫarāǧi ʾarḍi hi ăllatī zaraʿa hu 
+ <lb n="4"/>min ʾarḍi ăl madīnaẗi fī ġayṭi ʿabdi ăl lāhi bni nawfala li sanaẗi ṯalāṯ:in wa miʾatayni 
+ <lb n="6"/>fa qad qabaḍa yaʿqūbu ăl kātibu ăl ʾarbaʿaẗa danānīra maṯāqīla fī šahri ramaḍāna 
+ <lb n="7"/>li sanaẗ̈i ṯalāṯ:in wa miʾatayni 
+ <lb n="8"/>šahida ʿalà ḏālika 
+ <lb n="9"/>ǧamīlu ḥamīlu bnu mūsà ăl ḫawlāniyyu wa kataba šahādata hu fī šahri ramaḍāna sanaẗa ṯalāṯ:in wa miʾatayni dīnārun 4 * 
+ <lb n="11"/>wa muḥammadu bnu šuʿayb:ini ăl qudūriyyu wa kataba musādata šahādata hu hu fī šahri ramaḍāna sanaẗa ṯalāṯ:in wa miʾatayni 
+ <lb n="12"/>wa yāsīnu bnu zayd:ini ăl qirabiyyu wa kataba šahādata hu ʿalà ʾiqrāri yaʿqūba ăl kātibi bi mā fī hāḏā ăl kitābi 
+ <lb n="13"/>wa ḥamdūnu bnu zubayr:in wa kataba šahādata hu yāsīnu bnu zayd:in bi ʾamri hi fī dukkāni hi 
+ <lb n="14"/>fī šahri ramaḍāna 
+ <lb n="15"/>qabaḍtu min maymūn:in 4 * 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Im Namen Gottes des Allbarmherzigen!
+		 <lb n="2"/>
+ 	  Quittung für Maimûn, den Geldwechsler, über vier Dînâr des Mitsḳâlfusses neuer Prägung. Er bezahlte sie
+		 <lb n="3"/>
+ 	  an Jaʽḳûb, den Secretär des ʽAbd-allâh ibn Naufal. Sie sind die Steuer von dessen Grundstück, welches er (Maimûn) ihm bebaut hat
+		 <lb n="4"/>
+ 	  innerhalb des Territoriums der Stadt (el-Faijûm) auf dem Acker des ʽAbd-allâh ibn Naufal für das Jahr zweihundert und drei.
+		 <lb n="6"/>
+ 	  Es hat demnach Jaʽḳub der Secretär die vier Dînâr des Mitsḳâlfusses wirklich empfangen im Monat Ramadhân
+		 <lb n="7"/>
+ 	  für das Jahr zweihundert und drei.
+		 <lb n="8"/>
+ 	  Es geben Urkund dessen Zeugniss:
+		 <lb n="9"/>
+ 	  Hamîl ibn Mûsa el-Chaulânijj; er schrieb (hierher) sein Zeugniss im Monat Ramadhân des Jahres zweihundert und drei. Dînâr: 4.
+		 <lb n="11"/>
+ 	  Und Muhammed ibn Schuʽaib el-Kudûrijj; er schrieb (hierher) sein Zeugniss im Monat Ramadhân des Jahres zweihundert und drei.
+		 <lb n="12"/>
+ 	  Und Jâsîn ibn Zeid el-Ḳirabijj; er schrieb sein Zeugniss auf Grund der Einbekennung dessen, was in dieser Urkunde geschrieben steht von Seiten des Sekretärs Jaʽḳûb.
+		 <lb n="13"/>
+ 	  Und Hamdûn ibn Zubeir; es schrieb in seinem Auftrag, in seinem Laden sein Zeugniss: Jâsîn ibn Zeid.
+		 <lb n="14"/>
+ 	  Im Monat Ramadhân.
+		 <lb n="15"/>
+ 	  Ich (Jaʽḳûb) empfing von Maimûn 4 (Dînâr).
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

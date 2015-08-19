@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2388" xml:id="Diem_Steuerquittungen_040" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 04</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_040</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1-2 center"/>  مثقال ÷÷÷÷÷÷ 
+<lb n="2"/>  يوم ÷ فوفه ÷ الدّفعة ÷ 
+<lb n="3"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="4"/>  أدّى أحمد بن وقّاد على يديه عمّا يلزمه من خراج أبي يزيد 
+<lb n="5"/>  في المدينة ثلثة وعشرين دينار ونصف ونصف ثمن مثقال إلى 
+<lb n="6"/>  <gap reason="illegible" extent="1" unit="character" />ـپم القسطال <supplied reason="lost" cert="high">بـ</supplied>ـحضرة خليفتي إبراهيم بن عيسى ومحمّد بن الهيثم 
+<lb n="7"/>  <supplied reason="lost" cert="high">عاملي</supplied> <supplied reason="lost" cert="high">أ</supplied>بي العبّاس سعيد بن عبد الرّحمن <supplied reason="lost" cert="high">مـ</supplied>ـولى أمير الـ<supplied reason="lost" cert="high">ـمـ</supplied>ـومپپن أطال اللّه 
+<lb n="8"/>  <supplied reason="lost" cert="high">بقاه</supplied> <supplied reason="lost" cert="high">لخراج</supplied> <supplied reason="lost" cert="high">سنة</supplied> سبع وعـ<supplied reason="lost" cert="high">ـشرين</supplied> <supplied reason="lost" cert="high">ومـ</supplied>ـا<supplied reason="lost" cert="high">ئتين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>miṯqāl:un 23+1/2+1/24+1/48 
+ <lb n="2"/>yawma 7 fawfiha 10 ăd dafʿaẗu 9 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ʾaddà ʾaḥmadu bnu waqqād:in ʿalà yaday hi ʿammā yalzamu hu min ḫarāǧi ʾabī yazīda 
+ <lb n="5"/>fī ăl madīnaẗi ṯalāṯaẗa wa ʿišrīna dīnār wa niṣf wa niṣfa ṯumni miṯqāl:in ʾilà 
+ <lb n="6"/>*Bm ăl qusṭāli bi ḥaḍraẗi ḫalīfaẗay ʾibrāhīma bni ʿīsà wa muḥammadi bni ăl hayṯami 
+ <lb n="7"/>ʿāmilay ʾabī ăl ʿabbāsi saʿīdi bni ʿabdi ăr raḥmāni mawlà ʾamīri ăl muʾminīna ʾaṭāla ăl lāhu 
+ <lb n="8"/>baqāʾa hu li ḫarāǧi sanaẗi sabʿ:in wa ʿišrīna wa miʾatayni 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Miṯqāl 23 1/2 1/24 1/48
+			<lb n="2"/>
+		Tag 7 Paophi 10 Zahlung(stermin) 9
+			<lb n="3"/>
+		Im Namen Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="4"/>
+		Es zahlte Aḥmad ibn Waqqād eigenhändig für die ihm für (das Land von) Abū Yazīd obliegende Grundsteuer
+			<lb n="5"/>
+		in der Stadt dreiundzwanzig Dinar und einen halben (Dinar) und ein Sechzehntel (eines Dinars) Miṯqāl an
+			<lb n="6"/>
+		[....].m den Schatzmeister [in] Gegenwart der beiden Stellvertreter von Ibrāhīm ibn ʿĪsā und Muḥammad ibn al-Hayṯam,
+			<lb n="7"/>
+		[den Beamten des A]bū l-ʿAbbās Saʿīd ibn ʿAbd ar-Raḥmān, des [Klie]nten des Beherrschers der [Gl]äubigen - Gott lass ihn lange
+			<lb n="8"/>
+		[leben - für die Steuer des Jahres zwei]hund[ert]siebenundzwa[nzig].
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="304" xml:id="Grohmann_APEL_104" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 104</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_104</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106546</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="12" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">أربع</supplied> دينر على مهران وكتـ<supplied reason="lost" cert="high">ـب</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">ربيع</supplied> <supplied reason="lost" cert="high">الآخر</supplied> 
+<lb n="2"/>  سنة أحد وأربعين ومائـ<supplied reason="lost" cert="high">ـتـ</supplied>ـن 
+<lb n="3"/>  شهد شبيب بن حجّاج أن مكنس مولا عبد اللّه بن عمرو أشهدني على تقييده 
+<lb n="4"/>  قبله أربع دينر على مهران وكتب في ربيع الآ<supplied reason="lost" cert="high">خـ</supplied>ـر <supplied reason="lost" cert="high">مـ</supplied>ـن سنة أحد وأربعين ومائتن 
+<lb n="5"/>  وكتب عنه عبد الرّزّاق بن شبيب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>************ **** ʾarbaʿ dīnār:in ʿalà mihrāna wa kataba fī rabīʿa ăl ʾāḫari 
+ <lb n="2"/>sanaẗa ʾaḥad:in wa ʾarbaʿīna wa miʾatayni 
+ <lb n="3"/>šahida šabību šubaybu bnu ḥaǧǧāǧa ʾanna makinasa mawlā ʿabdi ăl lāhi bni ʿamr:in ʾašhada nī ʿalà taqyīdi hi 
+ <lb n="4"/>qibala hu ʾarbaʿa dīnār:in ʿalà mihrāna wa kataba fī rabīʿa ăl ʾāḫari min sanaẗi ʾaḥad:in wa ʾarbaʿīna wa miʾatayni 
+ <lb n="5"/>wa kataba ʿan hu ʿabdu ăr razzāqi bnu šabība šubayb:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[....................... four dînâ]rs to the debit of Mihrân, and he has written [(it) in Rabîʿ II]
+			<lb n="2"/>
+		of the year t[wo] hundred and forty one.
+			<lb n="3"/>
+		Šabîb b. Ḥaǧǧâǧ has testified, that Makenas, freedman of ʿAbdallâh b. ʿAmr, has called me to witness concerning his declaration in writing
+			<lb n="4"/>
+		(that) Mihrân owes him four dînârs and he has written (it) in Rabîʿ II of the year two hundred and fotry one,
+			<lb n="5"/>
+		and ʿAbd ar-Razzâq b. Šabîb has written for him.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2207" xml:id="Thung_CPR_10_3a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XXVI 03</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Thung_CPR_10_3a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">هـ</supplied>ـذا ما شهد عليه الشّهود المسمّون في هذا الكتاب شهدوا جميعا 
+<lb n="3"/>  <supplied reason="lost" cert="high">أ</supplied>ن عبد اللّه بن محمّد المغربي أشهدهم وأقر عندهم في صحّة من عقله وبدنه 
+<lb n="4"/>  وجواز من أمر طائع غير مكره ولا مجبور على ذلك أنّه طلّق إمرأته سمرا 
+<lb n="5"/>  ابنت عمر الشّامي طلاق ثلاث بتّة<del rend="erasure" status="unremarkable">لا</del> <del rend="erasure" status="unremarkable">رحعه</del> لا سبيل له عليها ولا رجعة له 
+<lb n="6"/>  اليها حتّى تنكح زوج غيره وذلك في شهر رجب من سنة ست عشرة وثلثمائة 
+<lb n="7"/>  شهد عبد اللّه بن جعفـ<supplied reason="lost" cert="high">ـر</supplied> بن عبد اللّه بن <app type="BL"><lem resp="APD">عقيل </lem><rdg resp="APD">غفيل</rdg></app> على جميع ما في هذا الكتاب وكتب عنه 
+<lb n="8 right"/>  شهد محمّد بن عثمن القائفي وكتب عنه 
+<lb n="8 left"/>  شهد <app type="BL"><lem resp="APD">عيّاش </lem><rdg resp="APD">عيّاش </rdg><rdg resp="APD">عنّاس</rdg></app> بن الحسن القائفي وكتب عنه 
+<lb n="9 right"/>  شهد سليم بن عيسى الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> وكـ<supplied reason="lost" cert="high">ـتب</supplied> عـ<supplied reason="lost" cert="high">ـ</supplied>ـنه 
+<lb n="9 left"/>  شهد أحمد بن الحسن وكتبه عنه 
+<lb n="10 left"/>  بن أبي اللـ<unclear reason="undefined" cert="high">ـوم</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā šahida ʿalay hi ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi šahidū ǧamīʿ:an 
+ <lb n="3"/>ʾanna ʿabda ăl lāhi bna muḥammad:ini ăl maġribiyya ʾašhada hum wa ʾaqarra ʿinda hum fī ṣiḥḥaẗ:in min ʿaqli hi wa badani hi 
+ <lb n="4"/>wa ǧawāz:in min ʾamr:in ṭāʾiʿ ġayra mukrah:in wa lā maǧbūr:in ʿalà ḏālika ʾanna hu ṭallaqa ĭmraʾaẗa hu samrāʾa 
+ <lb n="5"/>ĭbnata ʿumara ăš šāmiyyi ṭalāq ṯalāṯ battaẗ:an lā sabīla la hu ʿalay hā wa lā raǧʿaẗa la hu 
+ <lb n="6"/>ʾilay hā ḥattà tankiḥa zawǧ ġayra hu wa ḏālika fī šahri raǧaba min sanaẗi sitta ʿašraẗa wa ṯalāṯi miʾaẗ:in 
+ <lb n="7"/>šahida ʿabdu ăl lāhi bnu ǧaʿfara bni ʿabdi ăl lāhi bni ʿaqīl:in ġufayl:in ʿuqayl:in ʿalà ǧamīʿi mā fī hāḏā ăl kitābi wa kutiba ʿan hu 
+ <lb n="8"/>šahida muḥammadu bnu ʿuṯmāna ăl qāʾifiyyu wa kutiba ʿan hu 
+ <lb n="9"/>šahida ʿabbāsu ʿannāsu ʿayyāšu bnu ăl ḥasani ăl qāʾifiyyu wa kutiba ʿan hu 
+ <lb n="10"/>šahida salīmu bnu ʿīsà ăl *** wa kutiba ʿan hu 
+ <lb n="11"/>šahida ʾaḥmadu bnu ăl ḥasani wa kutiba hu ʿan hu 
+ <lb n="12"/>bnu ʾabī ăl lawmi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Dies ist, was die in dieser Urkunde erwähnten Zeugen bezeugt haben. Sie haben gemeinsam bezeugt,
+			<lb n="3"/>
+		daß ʿAbdallāh b. Muḥammad al-Maġribī sie hat bezeugen lassen und daß er in ihrer Anwesenheit, im Zustand seiner geistigen und körperlichen Gesundheit
+			<lb n="4"/>
+		und seiner Geschäftsfähigkeit, freiwillig, dazu nicht gezwungen und nicht genötigt, anerkannt hat, daß er seine Frau, Samrāʾ,
+			<lb n="5"/>
+		Tochter von ʿUmar aš-Šāmī, dreifach endgültig verstoßen hat. Es gibt für ihn kein Recht mehr auf sie und keine (Möglichkeit zur) Wiederholung
+			<lb n="6"/>
+		bis sie einen anderen Mann heiratet. Und dies (wurde geschrieben) im Monat Raǧab des Jahres dreihundertsechzehn.
+			<lb n="7"/>
+		Es bezeugt ʿAbdallāh b. Ǧaʿfar b. ʿAbdallāh b. ʿAqīl alles, was in dieser Urkunde steht, und es ist für ihn unterschrieben worden.
+			<lb n="8"/>
+		Es bezeugt Muḥammad b. ʿUṯmān al-Qāʾifī, und es ist für ihn unterschrieben worden.
+			<lb n="9"/>
+		Es bezeugt ʿAbbās b. al-Ḥasan al-Qāʾifī, und es ist für ihn unterschrieben worden.
+			<lb n="10"/>
+		Es bezeugt Salīm b. ʿĪsā al-[...], und es ist für ihn unterschrieben worden.
+			<lb n="11"/>
+		Es bezeugt Aḥmad b. al-Ḥasan, und es hat für ihn unterschrieben
+			<lb n="12"/>
+		Ibn Abī l-Lawm(?)
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1554" xml:id="Diem_Berl_II_56" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 56</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_56</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169322</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">مـ</supplied>ـا <unclear reason="undefined" cert="high">تلقـ</unclear><supplied reason="lost" cert="high">ـا</supplied><unclear reason="undefined" cert="high">ه</unclear> وقد أردت أن أكتب إلى محمّد 
+<lb n="2"/>  بن قزمان أعزّه اللّه يتعطّـ<supplied reason="lost" cert="high">ـى</supplied> هذ<supplied reason="lost" cert="high">ه</supplied> الدّواب 
+<lb n="3"/>  فخفت أن تلومني في ذلك 
+<lb n="4"/>  وقد بلغني أنّك أكر<supplied reason="lost" cert="high">يـ</supplied>ـت الدّواب 
+<lb n="5"/>  إلى <unclear reason="undefined" cert="high">هرّيّة</unclear> بثلثي دينرا وإلى مدينة 
+<lb n="6"/>  الفيّوم بلف تراب بثلث 
+<lb n="7"/>  أربع دينرا وإلى <unclear reason="undefined" cert="high">مڤڤپپط</unclear> الفيّوم 
+<lb n="8"/>  بدينر تحمل عليها جير فقد أحسبت 
+<lb n="9"/>  وأجملت الّتي تقع لقلّتي إلّا<sic n="superfluous">په</sic> 
+<lb n="10"/>  أنّه ما قبلي بغالنا إلّا أنت 
+<lb n="11"/>  فاللّه حسبتك أحب أن يتعيّن 
+<lb n="12"/>  الحال بيني وبينك وإلّا 
+<lb n="13"/>  واللّه خفت أن أغمّك غاية الغم 
+<lb n="14"/>  خذ من قرلّوس الزّاني بن الزّانية أربعين 
+<lb n="15"/>  رطلا <app type="BL"><lem resp="APD">كتّان </lem><rdg resp="APD">كتّانا</rdg></app> وادفع إلي تبديل 
+<lb n="16"/>  رقعتي خذ منه 
+<lb n="17"/>  الأربعين رطلا 
+<lb n="18"/>  أجرا برقعتي إليه 
+<lb n="19"/>  ادفعه إليه 
+<lb n="20"/>  خذ الكتّان كلّه 
+<lb n="21"/>  <unclear reason="undefined" cert="high">والحذر</unclear> <unclear reason="undefined" cert="high">من</unclear> <unclear reason="undefined" cert="high">حيث</unclear> <unclear reason="undefined" cert="high">إثما</unclear> 
+<lb n="22"/>  إن شا اللّه 
+<lb n="23"/>  لا يدع 
+<lb n="24"/>  قرلّوس لا <unclear reason="undefined" cert="high">قليل</unclear> 
+<lb n="25"/>  <unclear reason="undefined" cert="high">ولا</unclear> <unclear reason="undefined" cert="high">كثير</unclear> حتّى يدفع إليك الكتّان 
+<lb n="26"/>  وإلّا واللّه فتطلب منه قنطاري كتّان 
+<lb n="27"/>  <supplied reason="lost" cert="high">أ</supplied>و <supplied reason="lost" cert="high">قنـ</supplied>ـطـ<supplied reason="lost" cert="high">ـا</supplied>ر إن استحللـ<supplied reason="lost" cert="high">ـت</supplied> ذلك <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>mā talqā hu wa qad ʾaradtu ʾan ʾaktuba ʾilà muḥammadi 
+ <lb n="2"/>bni quzmāna ʾaʿazza hu ăl lāhu yataʿaṭṭà hāḏihi ăd dawābba 
+ <lb n="3"/>fa ḫiftu ʾan talūma nī fī ḏālika 
+ <lb n="4"/>wa qad balaġa nī ʾanna ka ʾakrayta ăd dawābba 
+ <lb n="5"/>ʾilà hirriyyaẗa bi ṯulṯay dīnār:an wa ʾilà madīnaẗi 
+ <lb n="6"/>ăl fayyūmi bi laffi turāb:in bi ṯalāṯi 
+ <lb n="7"/>ʾarbāʿi dīnār:an wa ʾilà mffBBṭa ăl fayyūmi 
+ <lb n="8"/>bi dīnār:in taḥmilu ʿalay hā ǧīr fa qad ʾaḥsabtu 
+ <lb n="9"/>wa ʾaǧmaltu ăllatī taqaʿu li qillat ī ʾillā 
+ <lb n="10"/>ʾanna hu mā qibal ī biġālu nā ʾillā ʾanta 
+ <lb n="11"/>fa ăl lāha ḥisbata ka ʾuḥibbu ʾan yataʿayyana 
+ <lb n="12"/>ăl ḥālu bayn ī wa bayna ka wa ʾillā 
+ <lb n="13"/>wa ăl lāhi ḫiftu ʾan ʾaġumma ka ġāyaẗa ăl ġammi 
+ <lb n="14"/>ḫuḏ min qurillūsa ăz zānī bni ăz zāniyaẗi ʾarbaʿīna 
+ <lb n="15"/>raṭl:an kattān:in kattān:an wa ĭdfaʿ ʾilay ya tabdīla 
+ <lb n="16"/>ruqʿat ī ḫuḏ min hu 
+ <lb n="17"/>ăl ʾarbaʿīna raṭl:an 
+ <lb n="18"/>ʾaǧr:an bi ruqʿat ī ʾilay hi 
+ <lb n="19"/>ĭdfaʿ hu ʾilay hi 
+ <lb n="20"/>ḫuḏi ăl kattāna kulla hu 
+ <lb n="21"/>wa ăl ḥaḏaru min ḥayṯu ʾiṯm:an 
+ <lb n="22"/>ʾin šāʾa ăl lāhu 
+ <lb n="23"/>lā yadaʿ 
+ <lb n="24"/>qurillūsu lā qalīl 
+ <lb n="25"/>wa lā kaṯīr ḥattà yadfaʿa ʾilay ka ăl kattāna 
+ <lb n="26"/>wa ʾillā wa ăl lāhi fa taṭlub min hu qinṭāray kattān:in 
+ <lb n="27"/>ʾaw qinṭār ʾini ĭstaḥlalta ḏālika *** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		was Du empfängst (?). Ich wollte schon Muḥammad {ibn}
+			<lb n="2"/>
+		ibn Quzmān - Gott stärke ihn - schreiben, er möge sich dieser Lasttiere annehmen,
+			<lb n="3"/>
+		aber ich befürchtete, Du würdest mich deswegen tadeln.
+			<lb n="4"/>
+		Ich habe (von Dritten) erfahren, daß Du die Lasttiere vermietet hast:
+			<lb n="5"/>
+		nach Hirrīyah (?) für zwei Drittel Dinar, nach der Stadt
+			<lb n="6"/>
+		al-Fayyūm mit Ballen voll Erde für drei-
+			<lb n="7"/>
+		viertel Dinar und nach M- - -ṭ al-Fayyūm
+			<lb n="8"/>
+		für einen Dinar, um mit ihnen Kalk zu transportieren. Ich habe (nach)gerechnet
+			<lb n="9"/>
+		und addiert, wieviele (Dinar Gewinn) auf meine Wenigkeit entfallen, aber
+			<lb n="10"/>
+		es ist ja so, daß nicht ich, sondern Du für unsere Maultiere verantwortlich bist;
+			<lb n="11"/>
+		lege deshalb ja die Abrechnung vor! Ich wünsche, daß
+			<lb n="12"/>
+		zwischen uns ganz eindeutige (finanzielle) Verhältnisse herrschen, sonst
+			<lb n="13"/>
+		fürchte ich, bei Gott, daß ich Dir äußersten Kummer bereiten muß! -
+			<lb n="14"/>
+		Nimm von Kyrillos, dem Hurenbock (und) Sohn einer Hure, vierzig
+			<lb n="15"/>
+		Raṭl Flachs entgegen und händige (sie) mir aus, dies im Austausch gegen
+			<lb n="16"/>
+		mein (beiliegendes) Schreiben (an ihn)! Nimm von ihm
+			<lb n="17"/>
+		die vierzig Raṭl
+			<lb n="18"/>
+		als Lohn auf Grund meines an ihn gerichteten Schreibens entgegen
+			<lb n="19"/>
+		(und) händige ihm dieses (sodann) aus!
+			<lb n="20"/>
+		Nimm den gesamten Flachs entgegen,
+			<lb n="21"/>
+		und hüte Dich vor irgendeinem Vergehen,
+			<lb n="22"/>
+		so Gott will!
+			<lb n="23"/>
+		Kyrillos soll
+			<lb n="24"/>
+		nicht das Geringste (?) weglassen,
+			<lb n="25"/>
+		sondern Dir den (ganzen) Flachs aushändigen,
+			<lb n="26"/>
+		sonst verlangst Du bei Gott von ihm (zur Strafe statt der 40 Raṭl Flachs) zwei Zentner
+			<lb n="27"/>
+		[od]er einen [Zent]ner, falls Du dies für erlaubt hältst [- - -.]
+</ab></div>
+</body>
+</text>
+</TEI>

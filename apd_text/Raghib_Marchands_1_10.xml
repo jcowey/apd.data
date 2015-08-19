@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="397" xml:id="Raghib_Marchands_1_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands I 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_Marchands_1_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106604</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  شهد الشّهود المسمّون في هذا الكتاب على إقرار محمّد بن يوسف أن لجعفر 
+<lb n="3"/>  أخوه عليه أربعة خيشات قوصيّة ذكر محمّد بن يوسف أنّه أوصلها 
+<lb n="4"/>  إلى جعفر وادّعا شهادة شهود عنده فرضى جعفر 
+<lb n="5"/>  على أن أخوه محمّد بن <supplied reason="omitted" cert="high">يو</supplied>ـسف إن أقام البيّنة بدفع الخيش إليه كما ذكر 
+<lb n="6"/>  <app type="BL"><lem resp="APD">ومن </lem><rdg resp="Diem">وهي</rdg></app> أربعة خيشات <app type="BL"><lem resp="APD">فتجيه </lem><rdg resp="APD">فتجيه </rdg><rdg resp="Diem">قوصيّة</rdg></app> برئ من هذا الخيش وإن لم يقيم البيّنة على ما 
+<lb n="7"/>  ادّعى <app type="BL"><lem resp="APD">هذه </lem><rdg resp="Diem">فهذه</rdg></app> الأربعة خيشات لازمة لمحمّد حتّى يوصلها إلى جعفر 
+<lb n="8"/>  وعلى جعفر اليمين باللّه أنّه ما وصلت إليه هذه الأربعة خيشات 
+<lb n="9"/>  من محمّد وذلك في شهر ربيع الآخر من سنة ثمان وخمسين ومائتين 
+<lb n="10"/>  شهد جعفر بن أحمد بن عبد المومن وكتب بخطّه في ربيع الآخر سنة ثمان وخمسين ومائتين 
+<lb n="11"/>  <supplied reason="lost" cert="high">شهد</supplied> جعفر بن محمّد وكتب شهادته بخطّه على ما في 
+<lb n="12"/>  هذا الكتاب 
+<lb n="13"/>  و<unclear reason="undefined" cert="high">محمّد</unclear> بن عبد الوارث بجميع ما في هذا الكتاب وكتب بخطّه أبو هريرة عنه بأمره ومحضره 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>šahida ăš šuhūdu ăl musammawna fī hāḏā ăl kitābi ʿalà ʾiqrāri muḥammadi bni yūsufa ʾanna li ǧaʿfara 
+ <lb n="3"/>ʾaḫū hu ʿalay hi ʾarbaʿaẗu ḫayšāt:in qūṣiyyaẗ:in ḏakara muḥammadu bnu yūsufa ʾanna hu ʾawṣala hā 
+ <lb n="4"/>ʾilà ǧaʿfara wa ĭddaʿā šahādaẗa šuhūd:in ʿinda hu fa raḍiya ǧaʿfaru 
+ <lb n="5"/>ʿalà ʾanna ʾaḫū hu muḥammada bna yūsufa ʾin ʾaqāma ăl bayyinaẗa bi dafʿi ăl ḫayši ʾilay hi kamā ḏakara 
+ <lb n="6"/>wa min hiya ʾarbaʿaẗi ʾarbaʿaẗu ḫayšāt:in fa qūṣiyyaẗ:in taǧī yaǧī ø hi ø bariʾa min hāḏā ăl ḫayši wa ʾin lam yuqīm ăl bayyinaẗa ʿalà mā 
+ <lb n="7"/>ĭddaʿà ø fa hāḏihi ăl ʾarbaʿaẗu ḫayšāt:in lāzimaẗ:un li muḥammad:in ḥattà yūṣilu hā ʾilà ǧaʿfara 
+ <lb n="8"/>wa ʿalà ǧaʿfara ăl yamīnu bi ăl lāhi ʾanna hu mā waṣalat ʾilay hi hāḏihi ăl ʾarbaʿaẗu ḫayšāt:in 
+ <lb n="9"/>min muḥammad:in wa ḏālika fī šahri rabīʿa ăl ʾāḫari min sanaẗi ṯamān:in wa ḫamsīna wa miʾatayni 
+ <lb n="10"/>šahida ǧaʿfaru bnu ʾaḥmada bni ʿabdi ăl muʾmini wa kataba bi ḫaṭṭi hi fī rabīʿa ăl ʾāḫari sanaẗa ṯamān:in wa ḫamsīna wa miʾatayni 
+ <lb n="11"/>šahida ǧaʿfaru bnu muḥammad:in wa kataba šahādata hu bi ḫaṭṭi hi ʿalà mā fī 
+ <lb n="12"/>hāḏā ăl kitābi 
+ <lb n="13"/>wa muḥammadu bnu ʿabdi ăl wāriṯi bi ǧamīʿi mā fī hāḏā ăl kitābi wa kataba bi ḫaṭṭi hi ʾabū hurayraẗa ʿan hu bi ʾamri hi wa maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Les témoins nommés en cet écrit ont témoigné de la reconnaissance par Muḥammad b. Yūsuf qu&#039;à Ǧaʿfar
+			<lb n="3"/>
+		son frère il doit quatre pièces de toile de Qūṣ. Muḥammad b. Yūsuf a déclaré qu&#039;il les a faites parvenir
+			<lb n="4"/>
+		à Ǧaʿfar et allégué le témoignage de témoins à son appui. Ǧaʿfar a consenti
+		(...) und er erhob den Anspruch auf die Zeugenaussage von bei ihm (sc. Ǧaʿfar) befindlichen Zeugen. (...)
+			<lb n="5"/>
+		que son frère, Muḥammad b. Yūsuf, s&#039;il fournit une preuve manifeste qu&#039;il lui a fait livrer les pièces de toile, comme il a déclaré
+			<lb n="6"/>
+		et que les quatre pièces de toile lui arriveront, s&#039;est libéré de ces pièces de toile. Mail s&#039;il ne fournit pas une preuve manifeste, selon ce
+		- und zwar sind es vier Stück [qūṣ]isches Tuch - (...)
+			<lb n="7"/>
+		qu&#039;il a allégué, ces quatre pièces de toile demeurent une obligation à Muḥammad jusqu&#039;à ce qu&#039;il les fasse parvenir à Ǧaʿfar.
+			<lb n="8"/>
+		A Ǧaʿfar incombe de prêter serment par Dieu que ces quatre pièce de toile ne lui sont pas parvenues
+			<lb n="9"/>
+		de la part de Muḥammad, et ceci au mois de rabīʿ II de l&#039;année 258.
+			<lb n="10"/>
+		A témoigné Ǧaʿfar b. Aḥmad b. ʿAbd al-Muʾmin et écrit de sa main en rabīʿ II de l&#039;année 258.
+			<lb n="11"/>
+		A témoigné Ǧaʿfar b. Muḥammad et écrit son témoignage de sa main du contenu de
+			<lb n="12"/>
+		cet écrit.
+			<lb n="13"/>
+		Et Muḥammad b. ʿAbd al-Wāriṯ de tout le contenu de cet écrit. Abū Hurayra a écrit de sa main pour lui, sur son ordre et en sa présence.
+</ab></div>
+</body>
+</text>
+</TEI>

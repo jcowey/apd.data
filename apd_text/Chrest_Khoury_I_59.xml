@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1382" xml:id="Chrest_Khoury_I_59" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>Chrest.Khoury I 59 (= P.RagibQalamun 7)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Chrest_Khoury_I_59</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169176</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى أبو الدّين بن رمضان 
+<lb n="3"/>  من رضوان بن منيع اشترى من جملة ما كان له في 
+<lb n="4"/>  دير القلمون من الخفارة اشترى منه ربع 
+<lb n="5"/>  دينار خفارة ملك إلى أبدا الأبدين 
+<lb n="6"/>  ودهر الدّاهرين اشترى أبو الدّين بن رمضان 
+<lb n="7"/>  هذا الرّبع دينار <app type="BL"><lem resp="APD">ورصوان </lem><rdg resp="Rāġib">من</rdg></app> <app type="BL"><lem resp="APD">پن </lem><rdg resp="Rāġib">رضوان</rdg></app> مبنع ملك پمال 
+<lb n="8"/>  مبلغه من العين المستنصري الوازن 
+<lb n="9"/>  دينار واحد قبض رضوان بن منيع هذا 
+<lb n="10"/>  الدّينار وأبرأ أبو الدّين بن رمضان من وزنه 
+<lb n="11"/>  ونقده وصار هذا الرّبع دينار لأبو الدّين 
+<lb n="12"/>  يحكم فيه حكم الملّاك في أملا<supplied reason="omitted" cert="high">كـ</supplied>ـهم إن شا باع 
+<lb n="13"/>  وإن شا وهب فلا يد على يده وبذلك أشهد على 
+<lb n="14"/>  نفسه وكتب في المحرّم سنة إحدا وستّين وأربع مائة 
+<lb n="15"/>  <app type="BL"><lem resp="APD">تمامة </lem><rdg resp="Rāġib">مائة</rdg></app> الهلاليّة شهد على ذلك 
+<lb n="16 right (1st witness 1)"/>  شهد <app type="BL"><lem resp="APD">جران </lem><rdg resp="Rāġib">حرّاز </rdg><rdg resp="Rāġib">جرار </rdg><rdg resp="Rāġib">حزّاز </rdg><rdg resp="Rāġib">حزاز</rdg></app> بن جرّاح 
+<lb n="17 right (1st witness 2)"/>  على إقرار المقر بجميع 
+<lb n="18 right (1st witness 3)"/>  ما فيه وكتب عنه بأمره 
+<lb n="19 right (1st witness 4)"/>  ومحضره 
+<lb n="16 left (2nd witness 1)"/>  شهد أبو <app type="BL"><lem resp="APD">الكرج </lem><rdg resp="Rāġib">الكوم</rdg></app> 
+<lb n="17 left (2nd witness 2)"/>  بن <app type="BL"><lem resp="APD">شادن </lem><rdg resp="Rāġib">شادي</rdg></app> على إقرار 
+<lb n="18 left (2nd witness 3)"/>  المقر وكتب عنه بأمره 
+<lb n="19 left (2nd witness 4)"/>  ومحضره 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà ʾabū ăd dīni bnu ramaḍāna 
+ <lb n="3"/>min riḍwāna bni manīʿ:ini ĭštarà min ǧumlaẗi mā kāna la hu fī 
+ <lb n="4"/>dayri ăl qalamūni mina ăl ḫifāraẗi ĭštarà min hu rubʿa 
+ <lb n="5"/>dīnāri ḫifāraẗ:in milk ʾilà ʾabad:ani ăl ʾabadīna 
+ <lb n="6"/>wa dahra ăd dāhirīna ĭštarà ʾabū ăd dīni bnu ramaḍāna 
+ <lb n="7"/>hāḏā ăr rubʿa dīnār:in ø min wa ø riḍwānu riḍwāna bni bnu manīʿ:in malaka milk bi māl:in 
+ <lb n="8"/>mablaġu hu mina ăl ʿayni ăl mustanṣiriyyi ăl wāzini 
+ <lb n="9"/>dīnār:un wāḥid:un qabaḍa riḍwānu bnu manīʿ:in hāḏā 
+ <lb n="10"/>ăd dīnāra wa ʾabraʾa ʾabū ăd dīni bna ramaḍāna min wazni hi 
+ <lb n="11"/>wa naqdi hi wa ṣāra hāḏā ăr rubʿu dīnār:in li ʾabū ăd dīni 
+ <lb n="12"/>yaḥkumu fī hi ḥukma ăl mullāki fī ʾamlāki him ʾin šāʾa bāʿa 
+ <lb n="13"/>wa ʾin šāʾa wahaba fa lā yada ʿalà yadi hi wa bi ḏālika ʾašhada ʿalà 
+ <lb n="14"/>nafsi hi wa kataba kutiba fī ăl muḥarrami sanaẗa ʾiḥdā wa sittīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="15"/>tamāmaẗi miʾaẗ:in ăl hilāliyyaẗa hilāliyyaẗi šuhida ʿalà ḏālika 
+ <lb n="16"/>šahida ǧirānu ḥarrāzu ḥazāzu ḥazzāzu ǧirāru bnu ǧarrāḥ:in 
+ <lb n="17"/>ʿalà ʾiqrāri ăl muqirri bi ǧamīʿi 
+ <lb n="18"/>mā fī hi wa kutiba ʿan hu bi ʾamri hi 
+ <lb n="19"/>wa maḥḍari hi 
+ <lb n="20"/>šahida ʾabū ăl kurǧi kawmi 
+ <lb n="21"/>bni šādana šād:in ʿalà ʾiqrāri 
+ <lb n="22"/>ăl muqirri wa kutiba ʿan hu bi ʾumri hi 
+ <lb n="23"/>wa maḥḍari hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+			<lb n="2"/>
+		Ceci est ce qu&#039;a acheté Abū l-Dīn b. Ramaḍān
+		Voici ce qu&#039;a acheté Abū-l-Dīn b. Ramaḍān
+			<lb n="3"/>
+		de Riḍwān b. Manīʿ: il a acheté de tout ce qu&#039;il possédait à
+		de Riḍwān b. Manīʿ. Il lui a acheté de ce qu&#039;il possédait au
+			<lb n="4"/>
+		Dayr al-Qalamūn comme garde, il a acheté de lui un quart
+		monastère d&#039;al-Qalamūn comme (droit) de gardiennage un quart
+			<lb n="5"/>
+		de dīnār comme protection de bien privé jusqu&#039;à l&#039;éternité
+		de dinar (de droit) de gardiennage, propriété à jamais
+			<lb n="6"/>
+		et la fin des temps; Abū l-Dīn b. Ramaḍān a acheté
+		et pour toujours. Abū-l-dīn b. Ramaḍān a acheté
+			<lb n="7"/>
+		ce quart de dinar de Riḍwān b. Manīʿ qui en était le propriétaire pour une somme
+		ce quart de dīnār, et Riḍwān b. Manīʿ possédait de l&#039;argent
+		this quarter dīnār from Riḍwān b. Manīʿ as a property for a sum
+			<lb n="8"/>
+		dont la somme, en or bien pesé d&#039;al-Mustanṣir, se montait à
+		dont le montant en espèces d&#039;al-Mustanṣir de plein poids
+			<lb n="9"/>
+		est d&#039;un seul dinar. Riḍwān b. Manīʿ a pris possession de ce
+		un seul dīnār. Ridwān b. Manīʿ toucha ce
+			<lb n="10"/>
+		dīnār et acquitta Abū l-Dīn b. Riḍwān de son poids
+		dinar et il a donné quittance à Abū-l-dīn b. Ramaḍān de son poids
+			<lb n="11"/>
+		et de ses pièces. Ce quart de dinar est devenu la propriété d&#039;Abū-l-dīn.
+		et la somme au comptant, et ce quart de dīnār entra en possession d&#039;Abū l-Dīn;
+			<lb n="12"/>
+		il en dispose comme disposent les propriétaires de leurs biens, s&#039;il veut, il vend,
+		Il en usera comme les propriétaires usent de leurs biens  : s&#039;il le veut, il vendra ;
+			<lb n="13"/>
+		et s&#039;il veut, il donne en cadeau; et il n&#039;y a aucune possibilité d&#039;intervention contre lui. De cela il prit à
+		s&#039;il le veut, il en fera don. Nul ne pourra s&#039;emparer de ce qui se trouve en sa possession. De cela il a pris témoins.
+			<lb n="14"/>
+		Écrit en muḥarram l&#039;année quatre cent soixante et un
+		témoin, et il (l&#039;)écrivit en muḥarram
+			<lb n="15"/>
+		à l&#039;achèvement de l&#039;année lunaire quatre cent-soixante-et-un. A témoigné de cela
+		lunaire. On a témoigné de cela.
+			<lb n="16"/>
+		A témoigné Ḥarrāz b. Ǧarrāḥ
+		Ǧirān b. Ǧarrāḥ
+			<lb n="17"/>
+		de la reconnaissance de celui qui a reconnu tout
+		de la reconnaissance du vendeur de la totalité
+			<lb n="18"/>
+		ce qu&#039;il contient, et on écrivit pour lui, sur son ordre
+		du contenu de (l&#039;écrit). On a écrit pour lui sur son ordre
+			<lb n="19"/>
+		et en sa présence.
+			<lb n="20"/>
+		A témoigné Abū-l-Kawm
+		A témoigné Abū l-Kurǧ
+			<lb n="21"/>
+		b. Šādan de la reconnaissance
+		b. Šādī de la reconnaissance
+			<lb n="22"/>
+		de celui qui a reconnu, et on écrivit pour lui, sur son ordre
+		du vendeur. On a écrit pour lui sur son ordre
+			<lb n="23"/>
+		et en sa présence.
+</ab></div>
+</body>
+</text>
+</TEI>

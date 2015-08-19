@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1392" xml:id="Diem_Heid_II_28" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 28</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_28</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169184</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  وانطلاق ورأس ماله على صاحبه <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وهو</rdg></app> <gap reason="illegible" precision="low" extent="3"/> وعـ<supplied reason="lost" cert="high">ـشرين</supplied> 
+<lb n="4"/>  دينرا وقد حملنا عليه وطلبنا إلـ<supplied reason="lost" cert="high">ـيـه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">أن</supplied> </lem><rdg resp="APD">ø</rdg></app> 
+<lb n="5"/>  <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يضع</supplied> </lem><rdg resp="APD">الوضع</rdg></app> <supplied reason="lost" cert="high">فـ</supplied>ـأعطاه <supplied reason="lost" cert="high">خمسة</supplied> عـ<supplied reason="lost" cert="high">ـشر</supplied> <supplied reason="lost" cert="high">د</supplied>ينر<supplied reason="lost" cert="high">ا</supplied> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="6"/>  وإ<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">و</supplied>افقك ورضيته حملنا عليه أيضا 
+<lb n="7"/>  حتّا يضع دينر آخر ويجعله ستّة عشر 
+<lb n="8"/>  فرأيك في<del rend="erasure" status="unremarkable">حپد</del>امره حأر الله فيه وفي 
+<lb n="9"/>  غيره وعزم لك ولنا على الرّشد بقدرته 
+<lb n="10"/>  وكتبت 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>** ** *** 
+ <lb n="2"/>** * *** 
+ <lb n="3"/>wa ĭnṭilāq wa raʾsu māli hi ʿalà ṣāḥibi hi *** wa huwa *** wa ʿišrīna 
+ <lb n="4"/>dīnār:an wa qad ḥamalnā ʿalay hi wa ṭalabnā ʾilay hi ʾan ø 
+ <lb n="5"/>yaḍaʿa ăl ø waḍʿa fa ʾaʿṭā hu ḫamsaẗa ʿašara dīnār:an **** 
+ <lb n="6"/>wa ʾin wāfaqa ka wa raḍayta hu ḥamalnā ʿalay hi ʾayḍ:an 
+ <lb n="7"/>ḥattā yaḍaʿa dīnār ʾāḫara wa yaǧʿala hu sittaẗa ʿašara 
+ <lb n="8"/>fa raʾyu ka fī ʾamri hi ḫāra ăl lāhu fī hi wa fī 
+ <lb n="9"/>ġayri hi wa ʿazama la ka wa la nā ʿalà ăr rušdi bi qudrati hi 
+ <lb n="10"/>wa katabtu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+			<lb n="3"/>
+		und - - -, während sich sein Kapital zu Lasten seines Partners auf (Zahl zwischen eins und neun) undzwan[zig]
+			<lb n="4"/>
+		Dinare beläuft. Wir haben ihn (sc. den Gläubiger) uns bereits vorgenommen und ihn um einen
+			<lb n="5"/>
+		[Nachlaß] ersucht, worauf er ihm [fünf (?)] zehn Dinare [...] (Nachlaß) gewährt hat [
+			<lb n="6"/>
+		Wenn es Dir zusagt und Du damit einverstanden bist, nehmen wir ihn uns noch einmal vor,
+			<lb n="7"/>
+		damit er einen weiteren Dinar nachläßt und daraus (sc. aus dem nachgelassenen Betrag [?]) sechzehn Dinar macht.
+			<lb n="8"/>
+		Bilde Dir Deine Meinung über seine Angelegenheit - Gott sei bei ihr
+			<lb n="9"/>
+		und bei anderen Angelegenheiten gnädig und bestimme Dir und uns in seiner Macht den rechten Lebenswandel!
+			<lb n="10"/>
+		Ich habe (es) geschrieben.
+</ab></div>
+</body>
+</text>
+</TEI>

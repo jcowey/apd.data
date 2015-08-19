@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="516" xml:id="Raghib_March_2_33" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 33</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_33</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106686</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  أكرمك اللّه بما أكرم أوليا الدّين وفّقهم لطاعته ومن عليهم برحمته وأبقاك وأعانك وكفاك وحفظك 
+ <lb n="3"/>  كتابي إليك أكرمـ<supplied reason="lost" cert="high">ـك</supplied> اللّه والشّيخ أكرمه اللّه وأنا ومن قبلي بحال جميل وستر حسن واللّه محمود مشكور 
+ <lb n="4"/>  لا إله إلّا هو وصلّى اللّه على محمّد المحبّة لك منّي قائمة على ما تستحقّه <app type="BL"><lem resp="APD">ولمعرفتي </lem><rdg resp="Diem, P.Berl.Arab. II p. 289">لمعرفتي</rdg></app> بمحبّتك وكثرة مسلك 
+ <lb n="5"/>  عنّي ولن يضيع ما كان للّه من حسن فعلك فاغتنم رحمك اللّه حسن <gap reason="illegible" extent="4" unit="character" /> الفعل شكر <gap reason="illegible" extent="7" unit="character" /> 
+ <lb n="6"/>  للّه والتعطّف <del rend="erasure" status="unremarkable">على</del> <del rend="erasure" status="unremarkable">من</del> <del rend="erasure" status="unremarkable">ڤصلك</del> <del rend="erasure" status="unremarkable">الله</del> <del rend="erasure" status="unremarkable">علپه</del> پڤصلك الدى فضّلك اللّه په ڤابپ لپس كعپرك <del rend="erasure" status="unremarkable">كعپرك</del> <del rend="erasure" status="unremarkable">لڤد</del> <del rend="erasure" status="unremarkable">پپپعى</del> <del rend="erasure" status="unremarkable">ان</del> <del rend="erasure" status="unremarkable">پكون</del> 
+ <lb n="7"/>  <del rend="erasure" status="unremarkable">رصى</del> <del rend="erasure" status="unremarkable">الله</del> <del rend="erasure" status="unremarkable">عپك</del> <del rend="erasure" status="unremarkable">المپڤصل</del> <del rend="erasure" status="unremarkable">الـ</del><gap reason="illegible" precision="low" extent="3"/> <del rend="erasure" status="unremarkable">المطلوپ</del> <gap reason="illegible" extent="4" unit="character" /> <del rend="erasure" status="unremarkable">مالا</del> <del rend="erasure" status="unremarkable">ما</del> <del rend="erasure" status="unremarkable">كان</del> <del rend="erasure" status="unremarkable">لك</del> <del rend="erasure" status="unremarkable">لعلك</del> <del rend="erasure" status="unremarkable">ممپر</del> <del rend="erasure" status="unremarkable">مپهم</del> <del rend="erasure" status="unremarkable">عپرك</del> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /><del rend="erasure" status="unremarkable">ـك</del> </lem><rdg resp="APD">عليك</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  ومن عندك مذهبه وجميل أمره فأجبه وإن بعدت مشاهده وقلّت مواصلته فالنّاس <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">يقربوا</unclear> </lem><rdg resp="APD">يتدنّوا</rdg></app> منك على 
+ <lb n="9"/>  وجوه وأحبّها إليك ما صح منها والفاضل يميّز الأشيا بفضله <app type="BL"><lem resp="APD">ويدبّر </lem><rdg resp="APD">ويؤثّر </rdg><rdg resp="APD">ويأثر</rdg></app> الفا<supplied reason="lost" cert="high">ضل</supplied> و<unclear reason="undefined" cert="high">يصبر</unclear> قـ<supplied reason="lost" cert="high">ـر</supplied>ب أو بعد 
+ <lb n="10"/>  ولا يحمّله أسخاط من أسخطه على ترك <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">إفاقه</unclear> </lem><rdg resp="APD">إفاقه</rdg></app> وبيان الحق للّه فيه بالرّضا في السّخط و<gap reason="illegible" extent="6" unit="character" /> عنك <gap reason="illegible" precision="low" extent="3"/> ما قد عرفت 
+ <lb n="11"/>  وبلوت وإن أبا عبد اللّه أكرمك اللّه وأكرمه محمّد بن حمديّة ممّن قد عرفت مذهبه وجميل أ<supplied reason="lost" cert="high">مره</supplied> وقد كنت 
+ <lb n="12"/>  دعوته عـ<supplied reason="lost" cert="high">ـند</supplied>ي <gap reason="illegible" extent="6" unit="character" />ـپ عليه فيها وقد <app type="BL"><lem resp="APD">أغتنم </lem><rdg resp="“EG”">اغتنم</rdg></app> رضى اللّه فأديم له ما <gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـو<gap reason="illegible" extent="2" unit="character" />ـك ر<supplied reason="lost" cert="high">ضـ</supplied>ـي ا<supplied reason="lost" cert="high">للّـ</supplied>ـه عـ<supplied reason="lost" cert="high">ـنـ</supplied>ـك <gap reason="illegible" extent="6" unit="character" /> 
+ <lb n="13"/>  ومن ولد<supplied reason="lost" cert="high">ت</supplied> من المومپپن برحمته وقد أخبرني أنّك دفعت إليه دينر ولي دينر ممّا كنت تجود به فقد أحببت رضى اللّه 
+ <lb n="14"/>  <supplied reason="lost" cert="high">بـ</supplied>ـا<gap reason="illegible" precision="low" extent="3"/>ـام عادتك الّتي فضلك بالقيام له بها وسرّني بذلك لعل اللّه سيسرّك في ولـ<supplied reason="lost" cert="high">ـد</supplied>ك ومن ولدت من المومپپن 
+ <lb n="15"/>  <gap reason="illegible" extent="6" unit="character" /> رضى المومپپن برحمته <gap reason="illegible" extent="4" unit="character" /> والمومپاپ برحمته 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi mā ʾakrama ʾawliyāʾa ăd dīni waffaqa hum li ṭāʿati hi wa manna ʿalay him bi raḥmati hi wa ʾabqā ka wa ʾaʿāna ka wa kafā ka wa ḥafiẓa ka 
+ <lb n="3"/>kitāb ī ʾilay ka ʾakrama ka ăl lāhu wa ăš šayḫu ʾakrama hu ăl lāhu wa ʾanā wa man qibal ī bi ḥāl:in ǧamīl:in wa sitr:in ḥasan:in wa ăl lāhu maḥmūd:un maškūr:un 
+ <lb n="4"/>lā ʾilāha ʾillā huwa wa ṣallà ăl lāhu ʿalà muḥammad:ini ăl maḥabbaẗu la ka minn ī qāʾimaẗ:un ʿalà mā tastaḥiqqu hu wa ø li maʿrifat ī bi maḥabbati ka wa kaṯraẗi masali ka 
+ <lb n="5"/>ʿann ī wa lan yaḍīʿa mā kāna li l lāhi min ḥusni fiʿli ka fa ĭġtanim raḥima ka ăl lāhu ḥusna **** ăl fiʿli šukr ******* 
+ <lb n="6"/>li l lāhi wa ăl taʿaṭṭufi ʿalà man faḍḍala ka ăl lāhu ʿalay hi bi faḍli ka ăllaḏī faḍḍala ka ăl lāhu bi hi fa ʾanta laysa ka ġayri ka ka ġayri ka la qad yanbaġī ʾan takūna 
+ <lb n="7"/>raḍiya ăl lāhu ʿan ʿalay ka ăl mutafaḍḍili ăl *** ăl maṭlūbi **** mʾlʾ mā kāna la ka laʿalla ka mumayyaz:un min hum ġayru ka **** ka *** 
+ <lb n="8"/>wa min ʿindi ka maḏhab hu wa ǧamīl ʾamri hi fa ʾaǧib hu wa ʾin baʿudat mašāhidu hu wa qallat muwāṣalatu hu fa ăn nāsu yaqrubū yatadannaw min ka ʿalà 
+ <lb n="9"/>wuǧūh:in wa ʾaḥabbu hā ʾilay ka mā ṣaḥḥa min hā wa ăl fāḍilu yumayyizu ăl ʾašyāʾa bi faḍli hi wa yuʾaṯṯiru yaʾṯuru yudabbiru ăl fāḍila wa yuṣabbiru qurb ʾaw buʿd 
+ <lb n="10"/>wa lā yuḥammilu hu ʾasḫāṭa man ʾasḫaṭa hu ʿalà tarki ʾāfāqi ʾifāqi hi wa bayāni ăl ḥaqqi li l lāhi fī hi bi ăr riḍāʾi fī ăs suḫuṭi wa ****** ʿan ka *** mā qad ʿarafta 
+ <lb n="11"/>wa balawta wa ʾinna ʾabā ʿabdi ăl lāhi ʾakrama ka ăl lāhu wa ʾakrama hu muḥammada bna ḥamadiyyaẗa mimman qad ʿarafta maḏhaba hu wa ǧamīla ʾamri hi wa qad kuntu 
+ <lb n="12"/>daʿawtu hu ʿind ī ******t ʿalay hi fī hā wa qad ʾaġtanimu ĭġtanama riḍà ăl lāhi fa ʾadīm la hu mā *w**k raḍiya ăl lāhu ʿan ka ****** 
+ <lb n="13"/>wa man waladta mina ăl muʾminīna bi raḥmati hi wa qad ʾaḫbara nī ʾanna ka dafaʿta ʾilay hi dīnār wa l ī dīnār:un mimmā kunta taǧūdu bi hi fa qad ʾaḥbabtu riḍà ăl lāhi 
+ <lb n="14"/>bi ʾ***ʾm ʿādat ka ăllatī faḍlu ka bi ăl qiyāmi la hu bi hā wa surri nī bi ḏālika laʿalla ăl lāha sa yasurru ka fī waladi ka wa man waladta mina ăl muʾminīna 
+ <lb n="15"/>****** riḍà ăl muʾminīna bi raḥmati hi **** wa ăl muʾmināti bi raḥmati hi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément et miséricordieux!
+		 <lb n="2"/>
+ 	  Que Dieu t&#039;honore comme Il honore les amis de la religion: Il les seconde pour qu&#039;ils Lui obéissent et les comblent par Sa miséricorde. Qu&#039;Il te conserve et t&#039;aide, te soulage et te garde!
+		 <lb n="3"/>
+ 	  Je t&#039;écris - que Dieu [t&#039;]honore! alors que le šayḫ - que Dieu l&#039;honore! moi et les miens sont en bel état et bonne protection. Dieu soit loué et remercié, 
+		 <lb n="4"/>
+ 	  il n&#039;est divinité que Lui et qu&#039;Il bénisse Muḥammad! Mon amitié pour toi est constante comme tu le mérites parce que je connais ton amitié et la fréquence avec laquelle tu demandes
+		 <lb n="5"/>
+ 	  de mes nouvelles. Les bonnes oeuvres que tu fais pour Dieu ne seront pas perdues. Saisis donc l&#039;occasion - que Dieu te prenne en miséricorde! de faire de bonnes oeuvres par gratitude `.......´
+		 <lb n="6"/>
+ 	  `envers Dieu´ et d&#039;être bienveillant 〚pour ceux auxquels Dieu t&#039;a préféré〛 par ton mérite dont Dieu t&#039;a favorisé, car tu n&#039;est pas comme les autres 〚comme les autres. Il convient que tu sois - 〛
+		 <lb n="7"/>
+ 	  〚que Dieu `t´&#039;agrée! l&#039;éminent, le .... et le recherché .... 〚....〛 ce qui te revient. Peut-être est-tu distingué d&#039;eux. Les autres ....〛
+		 <lb n="8"/>
+ 	  et chez toi sa conduite et sa belle autorité. Réponds-lui, même si ses assemblées s&#039;espacent et ses attachements diminuent. Les gens s&#039;approchent de toi de
+		 <lb n="9"/>
+ 	  différentes manières, dont tu préfères les authentiques. L&#039;homme de mérite distingue `les choses´ par son mérite, suit l&#039;homme de mérite et patiente (?), qu&#039;il soit proche ou lointain.
+		 <lb n="10"/>
+ 	  Il ne lui fait pas porter le poids du courroux de ceux qui le courroucent pour avoir négligé ses horizons et `manifester´ la vérité pour Dieu par l&#039;agrément dans le courroux. .... ce que tu sais
+		 <lb n="11"/>
+ 	  et éprouves. Abū ʿAbd Allāh - que Dieu t&#039;honore et l&#039;honore! Muḥammad b. Ḥamadiyya est de ceux dont tu connais la conduite et la belle [autorité]. Je l&#039;ai
+		 <lb n="12"/>
+ 	  invité [chez] moi [....] .... J&#039;ai donc saisi l&#039;occasion d&#039;agréer à Dieu. Conserve-lui .... - que Dieu t&#039;agrée! [......]
+		 <lb n="13"/>
+ 	  `et ceux que tu as enfantés´ comme croyants par Sa miséricorde! Il m&#039;a informé que tu lui as payé un dinar. Et il m&#039;est dû un dinar de ce que tu donnais de grand coeur. J&#039;ai souhaité agréer à Dieu
+		 <lb n="14"/>
+ 	  .... ta coutume dont tu as été favorisé en prenant soin de lui. Réjouis-moi par cela. Peut-être Dieu te réjouira en(?) ton enfant et ceux que tu as enfantés comme croyants
+		 <lb n="15"/>
+ 	  .... l&#039;agrément des croyants par Sa miséricorde .... et des croyantes par Sa miséricorde!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

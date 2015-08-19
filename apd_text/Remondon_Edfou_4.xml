@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1345" xml:id="Remondon_Edfou_4" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.RémondonEdfou 4</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Remondon_Edfou_4</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169146</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  ادفع إلى سعد بن يوسف الخرّاس 
+<lb n="2"/>  إردب شعير له سلّف عليه وكتب محمّد 
+<lb n="3"/>  بن العبّاس بخطّه في المحرّم سنة 
+<lb n="4"/>   ‮عشرين وثلثمائة يوم الأحد أمشير ‪ Γ ‬ 
+<lb n="5"/>  ‮سپه ‪ΤΚ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ĭdfaʿ ʾilà saʿdi bni yūsufa ăl ḫarrāsi 
+ <lb n="2"/>ʾirdabba šaʿīr:in la hu sullifa ʿalay hi wa kataba muḥammadu 
+ <lb n="3"/>bnu ăl ʿabbāsi bi ḫaṭṭi hi fī ăl muḥarrami sanaẗa 
+ <lb n="4"/>ʿišrīna wa ṯalāṯi miʾaẗ:in yawma ăl ʾaḥadi ʾamšīra 3  
+ <lb n="5"/>sanaẗa 320 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Délivre à Saʿd b. Yūsuf, le fabricant de cruches,
+			<lb n="2"/>
+		un ardab d&#039;orge qui lui est dû, qu&#039;on lui a fait payer d&#039;avance. Muḥammad b. alʿAbbās (3) a écrit (cela)
+			<lb n="3"/>
+		de sa propre main, en muḥarram de l&#039;année
+			<lb n="4"/>
+		trois cent vingt, le dimanche trois amšīr
+			<lb n="5"/>
+		de l&#039;année 320.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="563" xml:id="Raghib_March_2_37" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 37</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_37</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106704</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم حفظك اللّه وأبقاك وأتم نعمته عـ<supplied reason="lost" cert="high">ـليك</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  إليك بالمحبس <unclear reason="undefined" cert="high">والأحوار</unclear> والنّعل والحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـل <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="3"/>  أبعث إلى الصّبيان أسئل اللّه <app type="BL"><lem resp="APD">يبقاهم </lem><rdg resp="Diem">ببقاءهم</rdg></app> بحاجتهم قبل <supplied reason="lost" cert="high">خـ</supplied>ـروجي وأنا <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high">أبقا</supplied>ك اللّه إنّي لأشفق عليك وعلى ولدك وأنا أرجوا ألّا <gap reason="illegible" extent="5" unit="character" /> 
+<lb n="5"/>  اللّه <gap reason="illegible" extent="4" unit="character" /> فاكتبي إلي إن كان بن عبد الكريم اشترا لك الخروف وصر<supplied reason="lost" cert="high">ف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  أبقاك اللّه واكتبي إلي إن كنتي <app type="BL"><lem resp="APD">وصّلتي </lem><rdg resp="APD">وصّلتي</rdg></app> كتاب أبي الـ<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  علي بالثّوب فإنّي لا أقدر أخرج حتّى يأتيني فلا تحبسيني فإنّي ا<gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  في الأنفاق عليه <gap reason="illegible" extent="6" unit="character" /> فاكتبي إلي بجميع <supplied reason="lost" cert="high">مـ</supplied>ـا أنتي فيه و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  الّذي حبس المحبس سرّك اللّه في ولدك وفي نفسك وأراك <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="top"/>  يدفع إلى ثابت بن أحمد بن <supplied reason="lost" cert="high">عبد</supplied> <supplied reason="lost" cert="high">المومن</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ḥafiẓa ki ăl lāhu wa ʾabqā ki wa ʾatamma niʿmata hu ʿalay ki *** 
+ <lb n="2"/>ʾilay ki bi ăl miḥbasi wa ăl ʾaḥwāri wa ăn naʿli wa ăl ḥ*l **** 
+ <lb n="3"/>ʾabʿaṯu ʾilà ăṣ ṣibyāni ʾasʾalu ăl lāha bi ø baqāʾi yabqā him hum bi ḥāǧati him qabla ḫurūǧ ī wa ʾanā **** 
+ <lb n="4"/>**** ʾabqā ki ăl lāhu ʾin nī la ʾušfiqu ʿalay ki wa ʿalà waladi ki wa ʾanā ʾarǧū ʾallā ***** 
+ <lb n="5"/>ăl lāh **** fa ŭktubī ʾilay ya ʾin kāna bnu ʿabdi ăl karīmi ĭštarā la ki ăl ḫarūfa wa ṣarafa *** 
+ <lb n="6"/>ʾabqā ki ăl lāhu wa ŭktubī ʾilay ya ʾin kuntī waṣaltī waṣṣaltī kitāba ʾabī ăl **** *** 
+ <lb n="7"/>ʿalay ya bi ăṯ ṯawbi fa ʾin nī lā ʾaqdiru ʾaḫruǧu ḥattà yaʾtī nī fa lā taḥbisī nī fa ʾinn ī ʾ**** *** 
+ <lb n="8"/>fī ăl ʾanfāqi ʿalay hi ****** fa ŭktubī ʾilay ya bi ǧamīʿi mā ʾantī fī hi wa *** 
+ <lb n="9"/>ăllaḏī ḥabasa ăl miḥbasa sarra ki ăl lāhu fī waladi ki wa fī nafsi ki wa ʾarā ki *** 
+ <lb n="10"/>yudfaʿ ʾilà ṯābiti bni ʾaḥmada bni ʿabdi ăl muʾmini 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux! Que Dieu te garde, te conserve et parachève Ses bienfaits envers [toi 
+			<lb n="2"/>
+		à toi la courverture, les chaussures ressemelées (?), la (paire de) sandales et .... [
+			<lb n="3"/>
+		J&#039;enverrai aux gamins - je demande à Dieu qu&#039;Il les conserve! ce qu&#039;ils désirent avant mon départ. Je .[
+			<lb n="4"/>
+		[....] - que Dieut te [conserve]! car je ressens de la tendresse pour toi et pour ton enfant. J&#039;espère que ..[
+			<lb n="5"/>
+		Dieu [....] Ecris-moi si Ibn ʿAbd al-Karīm t&#039;a acheté le mouton et changé [
+			<lb n="6"/>
+		- que Dieu te conserve! Ecris-moi si tu as fait parvenir la lettre d&#039;Abū ..[
+			<lb n="7"/>
+		à moi la pièce d&#039;étoffe, car je ne peux partir tant qu&#039;elle ne m&#039;est arrivée. Ne me retiens donc pas, car je .... [
+			<lb n="8"/>
+		de subvenir à ses frais .... Ecris-moi au sujet de tout l&#039;état où tu es et [
+			<lb n="9"/>
+		qui a retenu la couverture. Que Dieu te réjouisse en ton enfant et en toi-même, te fasse voir [
+			<lb n="10"/>
+		A délivrer à Ṯābit b. Aḥmad b. [ʿAbd al-Muʾmin].
+</ab></div>
+</body>
+</text>
+</TEI>

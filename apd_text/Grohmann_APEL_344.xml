@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1853" xml:id="Grohmann_APEL_344" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 344</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_344</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169590</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  <supplied reason="lost" cert="high">ادفع</supplied> إلى أشيم بن المحب في نفقته 
+<lb n="3"/>  <app type="BL"><lem resp="APD">‮الـ<supplied reason="lost" cert="high">ـشّـ</supplied>ـهرين </lem><rdg resp="Diem">‮للشّهرين</rdg></app> من اللّحم رطل ‪σμ‬ 
+<lb n="4"/>  ‮إن شا اللّه وكتب في فمنوت ‪ϑ‬ 
+<lb n="5"/>  سنة سبع ومائتي 
+<lb n="6"/>  ‮رطل ‪σμ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ĭdfaʿ ʾilà ʾašyama bni ăl muḥabbi muḥibbi fī nafaqati hi 
+ <lb n="3"/>ø li ăš š šahrayni mina ăl laḥmi raṭla ‪240 
+ <lb n="4"/>ʾin šāʾa ăl lāhu wa kutiba fī faminūta ‪9 
+ <lb n="5"/>sanaẗa sabʿ:in wa miʾatay 
+ <lb n="6"/>raṭlu ‪240 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful].
+			<lb n="2"/>
+		[Deliver] to ʾAšyam b. al-Muḥabb for his maintenance
+			<lb n="3"/>
+		during two [mon]ths 240 pounds of meat,
+			<lb n="4"/>
+		if God wills. Written in Phamenot 9th
+			<lb n="5"/>
+		of the year two hundred and seven.
+			<lb n="6"/>
+		Pounds 240.
+</ab></div>
+</body>
+</text>
+</TEI>

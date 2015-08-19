@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1327" xml:id="Margoliouth_SelectPapyri_01" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MargoliouthSelectPapyri 1 (= P.Ryl.Arab. I IV 3 = P.RagibLettresdeService 1 = P.Ryl.Arab. II 06)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Margoliouth_SelectPapyri_01</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169137</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسـ<supplied reason="lost" cert="high">م</supplied> <supplied reason="lost" cert="high">ا</supplied>للّه الرّحمن الرّحيم 
+<lb n="2"/>  من عيسى بن أبي عطـ<supplied reason="lost" cert="high">ـا</supplied> إلى صحب بريد أشمون 
+<lb n="3"/>  فاحمل <app type="BL"><lem resp="APD">مسلم </lem><rdg resp="Margoliouth in P.Ryl.Arab.">هشام</rdg></app> رسولي 
+<lb n="4"/>  على دابّتين من البريد <app type="BL"><lem resp="APD">إحديهما </lem><rdg resp="Margoliouth in P.Ryl.Arab.">أحدهما</rdg></app> 
+<lb n="5"/>  دابّة الفرانق وكتب محمّد في شهر 
+<lb n="6"/>  ربيع الآخر سنة سبع وعشرين و 
+<lb n="7"/>  مائة <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="verso 1"/>  من عيسى بن أبي عطا إلى <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="Rāġib">صحب</rdg></app> بريد أشمون 
+<lb n="verso 2 (handmark)"/>  <gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min ʿīsà bni ʾabī ʿaṭāʾa ʾilà ṣāḥibi barīdi ʾušmūna 
+ <lb n="3"/>fa ĭḥmal muslim hišāma rasūl ī 
+ <lb n="4"/>ʿalà dābbatayni min ăl barīdi ʾiḥdā ʾaḥadu humā 
+ <lb n="5"/>dābbaẗu ăl furāniqi wa kataba muḥammad:un fī šahri 
+ <lb n="6"/>rabīʿa ăl ʾāḫari sanaẗa sabʿ:in wa ʿišrīna wa 
+ <lb n="7"/>miʾaẗ:in * 
+ <lb n="8"/>min ʿīsà bni ʾabī ʿaṭāʾa ʾilà *** ṣāḥibi barīdi ʾušmūna 
+ <lb n="9"/>* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu, clément et miséricordieux !
+		In the name fo [G]od, the Compassionate, the Merciful.
+		In the name of God, etc.
+			<lb n="2"/>
+		De la part de ʿĪsā b. Abī ʿAṭāʾ. Au maître de poste d&#039;Ašmūn.
+		From ʿIsā b. Abī ʿAṭā to the postmaster of Ushmūn.
+		From ʿĪsā bn Abī ʿAṭ[ā t]o the postmaster of Ashmūn.
+			<lb n="3"/>
+		Donne à Muslim, mon messager,
+		Give my messenger Muslim
+		Mount my messenger Muslim
+			<lb n="4"/>
+		deux montures de la poste, dont l&#039;une
+		on two posthorses, one of them
+		two post mounts, one of them
+			<lb n="5"/>
+		a furāniḳ&#039;s horse. And it was written by Mohamed in the month
+		est celle du courier. Muḥammad a écrit au mois
+		the post guide’s mount. Written by Muḥammad in the month
+			<lb n="6"/>
+		de rabīʿ II l&#039;année
+		of Rabīʿ II, in the year one hundred and twenty-seven.
+		Rabīʿ ii, year twenty-seven and
+			<lb n="7"/>
+		a hundred.
+		cent vingt-sept.
+			<lb n="8"/>
+		De la part de ʿĪsā b. Abī ʿAṭāʾ. Au        [maītre] de poste d&#039;Ašmūn.
+		From ʿIsā b. Abī ʿAṭā to the post[master] oft Ushmūn.
+		From ʿĪsā bn Abī ʿAṭā [to the post]master of Ashmūn.
+</ab></div>
+</body>
+</text>
+</TEI>

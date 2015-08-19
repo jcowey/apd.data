@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="665" xml:id="Dietrich_Topkapi_2" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.DietrichTopkapi 2</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Dietrich_Topkapi_2</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">106750</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  الدّفعة γʹ‎ 
+ <lb n="2"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="3"/>  أدّى محمّد بن <app type="BL"><lem resp="APD">الحسن </lem><rdg resp="APD">الحسين</rdg></app> عمّا يلزمه من الخراج بهور 
+ <lb n="4"/>  قبالة أبو الحسين ا<gap reason="illegible" precision="low" extent="3"/> خـ<supplied reason="lost" cert="high">ـمـ</supplied>ـسـ<supplied reason="lost" cert="high">ـة</supplied> <supplied reason="lost" cert="high">عـ</supplied>ـشر 
+ <lb n="5"/>  دينار مثاقيل بلا صرف ولا بخسر إلى منا 
+ <lb n="6"/>  بن شنوده الجهبذ لخراج سنة أربع 
+ <lb n="7"/>  وتسعين ومأتين σχδ 
+ <lb n="8"/>  دينر 
+ <lb n="9"/>  ιε 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ăd dafʿaẗu 3 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="3"/>ʾaddà muḥammadu bnu ăl ḥasani ḥusayni ʿammā yalzamu hu mina ăl ḫarāǧi bi hūra 
+ <lb n="4"/>qabālaẗa ʾabū ăl ḥusayni ʾ*** ḫamsaẗa ʿašara 
+ <lb n="5"/>dīnār maṯāqīla bi lā ṣarf:in wa lā bi ḫusr:in ʾilà minā 
+ <lb n="6"/>bni šanūdaha ăl ǧahbaḏi li ḫarāǧi sanaẗi ʾarbaʿ:in 
+ <lb n="7"/>wa tisʿīna wa miʾatayni 294 
+ <lb n="8"/>dīnār 
+ <lb n="9"/>15 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  3. Zahlung. 
+		 <lb n="2"/>
+ 	  Im Namen Gottes, des Barmherzigen, Gütigen! 
+		 <lb n="3"/>
+ 	  Gezahlt hat Muḥammad b. al-Ḥasan zur Begleichung der ihm in Hōr, 
+		 <lb n="4"/>
+ 	  dem Pachtgut des Abū l-Ḥusain ..[............], obliegenden Grundsteuer f[ü]n[fze]hn 
+		 <lb n="5"/>
+ 	  Dīnāre vom Miṯqāl(fuße), ohne Abzüge oder Minderung, an Menas 
+		 <lb n="6"/>
+ 	  b. Šanūde, den Schatzmeister, für die Steuer des Jahres 
+		 <lb n="7"/>
+ 	  zweihundertvierundneunzig 294. 
+		 <lb n="8"/>
+ 	  Dīnāre: 
+		 <lb n="9"/>
+ 	  15
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

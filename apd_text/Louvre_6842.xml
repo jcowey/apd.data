@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1208" xml:id="Louvre_6842" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Louvre6842</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Louvre_6842</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169046</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  حاجة له عسى أن 
+ <lb n="3"/>  يحسن اللّه لك الصّحابة 
+ <lb n="4"/>  ويقضي لك حاجتك 
+ <lb n="5"/>  وقد بعثت معك 
+ <lb n="6"/>  بدراهم فاشتري لنا 
+ <lb n="7"/>  بخمسة <sic n="superfluous">الدارهم</sic> <supplied reason="omitted" cert="high">الدّراهم</supplied> 
+ <lb n="8"/>  أبزاز العذرى قليل 
+ <lb n="9"/>  وقرنباد وقرملة 
+ <lb n="10"/>  وسنبل ومصل 
+ <lb n="11"/>  وأنجدان ودرهم 
+ <lb n="12"/>  دلّينس وسل 
+ <lb n="13"/>  أصحابه ما يصنع 
+ <lb n="14"/>  به حتّى لا يجف 
+ <lb n="15"/>  أو يفسد سريعا 
+ <lb n="16"/>  صحبك اللّه 
+ <lb n="17"/>  لعاڤبه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥāǧaẗ:un la hu ʿasà ʾan 
+ <lb n="3"/>yuḥsina ăl lāhu la ka ăṣ ṣaḥābaẗa 
+ <lb n="4"/>wa yaqḍiya la ka ḥāǧata ka 
+ <lb n="5"/>wa qad baʿaṯtu maʿa ka 
+ <lb n="6"/>bi darāhima fa ĭštarī la nā 
+ <lb n="7"/>bi ḫamsaẗi ăd darāhima 
+ <lb n="8"/>ʾabzāza ăl ʿaḏrà qalīl 
+ <lb n="9"/>wa qurunbād wa qarmalaẗ:an 
+ <lb n="10"/>wa sunbul wa maṣl 
+ <lb n="11"/>wa ʾunǧudān wa dirhama 
+ <lb n="12"/>dallīnas:in wa sal 
+ <lb n="13"/>ʾaṣḥāba hu mā yuṣnaʿu 
+ <lb n="14"/>bi hi ḥattà lā yaǧiffa 
+ <lb n="15"/>ʾaw yafsida sarīʿ:an 
+ <lb n="16"/>ṣaḥiba ka ăl lāhu 
+ <lb n="17"/>bi ăl ʿāfiyaẗi 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément et miséricordieux!
+		 <lb n="2"/>
+ 	  Voici ce dont il a besoin; peut-être que
+		 <lb n="3"/>
+ 	  Dieu améliorera pour toi les rapports sociaux
+		 <lb n="4"/>
+ 	  et satisfera tes besoins
+		 <lb n="5"/>
+ 	  et jʾai déjà expédié en même temps que toi
+		 <lb n="6"/>
+ 	  quelque argent et achète pour nous
+		 <lb n="7"/>
+ 	  pour cinq dirhams
+		 <lb n="8"/>
+ 	  un peu de gnaphale
+		 <lb n="9"/>
+ 	  et du cumin bâtard et du carmal
+		 <lb n="10"/>
+ 	  et du nard indien et du lait caillé
+		 <lb n="11"/>
+ 	  et de lʾassa foetida et un dirham
+		 <lb n="12"/>
+ 	  de coquillage telline et demande
+		 <lb n="13"/>
+ 	  à ceux qui en ont ce quʾil faut en faire
+		 <lb n="14"/>
+ 	  pour quʾil ne dessèche pas
+		 <lb n="15"/>
+ 	  ou quʾil ne se gâte pas rapidement.
+		 <lb n="16"/>
+ 	  Que Dieu tʾaccompagne de
+		 <lb n="17"/>
+ 	  la santé!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

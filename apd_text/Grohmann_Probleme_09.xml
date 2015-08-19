@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="732" xml:id="Grohmann_Probleme_09" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannProbleme 09</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Probleme_09</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106813</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <app type="BL"><lem resp="APD">‮رباح </lem><rdg resp="APD">‮رباح</rdg></app> بن سليم له قصب سكر ‪χ‬ 
+<lb n="3"/>  ‮وله مبقلة ‪γ΄‬ 
+<lb n="4"/>  ‮وله مبقلة ‪χμ΄η΄‬ 
+<lb n="5"/>  ‮وله جزر ‪χη΄μ΄η΄‬ 
+<lb n="6"/>  ‮وله جزر ‪χ‬‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>rabāḥu riyāḥu bnu salīm:in la hu qaṣab:un sukkar:un 2/3 
+ <lb n="3"/>wa la hu mabqalaẗ:un 1/3 
+ <lb n="4"/>wa la hu mabqalaẗ:un 90+1/48 
+ <lb n="5"/>wa la hu ǧazar:un 1/2+1/8+1/48 
+ <lb n="6"/>wa la hu ǧazar:un 1/2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Nam]en Gottes des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Riyāḥ b. Salīm hat Zuckerrohr 2/3
+			<lb n="3"/>
+		und er hat Boden mit Gemüseanbau 1/3
+			<lb n="4"/>
+		und er hat Boden mit Gemüseanbau 90 1/48
+			<lb n="5"/>
+		und er hat Mohrrüben(land) 1/2+1/8+1/48
+			<lb n="6"/>
+		und er hat Mohrrüben(land) 1/2
+</ab></div>
+</body>
+</text>
+</TEI>

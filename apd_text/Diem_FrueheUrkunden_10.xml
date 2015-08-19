@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1062" xml:id="Diem_FrueheUrkunden_10" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.DiemFrüheUrkunden 10</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_FrueheUrkunden_10</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168930</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">فإذا</supplied> <supplied reason="lost" cert="high">جاك</supplied> 
+<lb n="2"/>  كتابي هـ<supplied reason="lost" cert="high">ـذا</supplied> <supplied reason="lost" cert="high">فاكتب</supplied> أسماهم وأسما آبائهم 
+<lb n="3"/>  وقراهم وصفاتهـ<supplied reason="lost" cert="high">ـم</supplied> فألزمهم قراهم وعمل 
+<lb n="4"/>  أرضهم وعمارة مساكنهم واستوثـ<supplied reason="lost" cert="high">ـق</supplied> 
+<lb n="5"/>  منهم بالإقامة فيها وأدا الّذي عليـ<supplied reason="lost" cert="high">ـهم</supplied> 
+<lb n="6"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">الخراج</supplied> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـهـ</supplied>ـم واستصلحهـ<supplied reason="lost" cert="high">ـم</supplied> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** fa ʾiḏā ǧāʾa ka 
+ <lb n="2"/>kitāb ī hāḏā fa ŭktub ʾasmāʾa hum wa ʾasmāʾa ʾābāʾi him 
+ <lb n="3"/>wa qurā hum wa ṣifāta hum fa ʾalzim hum qurā hum wa ʿamala 
+ <lb n="4"/>ʾarḍi him wa ʿimāraẗa masākini him wa ĭstawṯiq 
+ <lb n="5"/>min hum bi ăl ʾiqāmaẗi fī hā wa ʾadāʾa ăllaḏī ʿalay him 
+ <lb n="6"/>mina ăl ḫarāǧi wa *** hum wa ĭstaṣliḥ hum 
+ <lb n="7"/>*** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[... Wenn Dich also erreicht]
+			<lb n="2"/>
+		die[ser] mein Brief, [so schreibe] ihre Namen und die Namen ihrer Väter
+			<lb n="3"/>
+		und ihre Dörfer und ihre Eigenschaften auf. Mache ihnen sodann ihre Dörfer zur Pflicht und die Bearbeitung
+			<lb n="4"/>
+		ihres Landes und die Pflege ihrer Wohnhäuser und vergewissere Dich
+			<lb n="5"/>
+		ihnen gegenüber, daß sie in ihnen (sc. den Häusern oder den Dörfern) wohnen (bleiben) und daß sie entrichten, was ihnen obliegt
+			<lb n="6"/>
+		[an Grundsteuer, und ... si]e und behandle sie mit Güte
+			<lb n="7"/>
+</ab></div>
+</body>
+</text>
+</TEI>

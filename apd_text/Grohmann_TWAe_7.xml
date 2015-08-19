@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="446" xml:id="Grohmann_TWAe_7" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannWirtsch. 07 (= P.World p. 140)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_TWAe_7</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106636</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم 
+<lb n="2"/>  اللّه الرّحمن 
+<lb n="3"/>  الرّحيم 
+<lb n="4"/>  عافاك 
+<lb n="5"/>  اللّه ورحمك 
+<lb n="6"/>  <sic n="superfluous">دٍڤعپ</sic> ادفع 
+<lb n="7"/>  إلى أبرام 
+<lb n="8"/>  سكباج 
+<lb n="9"/>  بنصف 
+<lb n="10"/>  دانق إن 
+<lb n="11"/>  شا اللّه 
+<lb n="12"/>  وكتب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi 
+ <lb n="2"/>ăl lāhi ăr raḥmāni 
+ <lb n="3"/>ăr raḥīmi 
+ <lb n="4"/>ʿāfā ka 
+ <lb n="5"/>ăl lāhu wa raḥima ka 
+ <lb n="6"/>ĭdfaʿ 
+ <lb n="7"/>ʾilà ʾabrāma 
+ <lb n="8"/>sakbāǧ 
+ <lb n="9"/>bi niṣfi 
+ <lb n="10"/>dānaq:in ʾin 
+ <lb n="11"/>šāʾa ăl lāhu 
+ <lb n="12"/>wa kataba kutiba 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen
+		In the name
+			<lb n="2"/>
+		Gottes des Barmherzigen,
+		of God, the Compassionate,
+			<lb n="3"/>
+		Gütigen.
+		the Merciful!
+			<lb n="4"/>
+		Gott erhalte Dich gesund
+		May God give health
+			<lb n="5"/>
+		and mercy to thee.
+		und erbarme sich Deiner.
+			<lb n="6"/>
+		Hand over
+		Übergib
+			<lb n="7"/>
+		an Abrām
+		to Abrâm
+			<lb n="8"/>
+		in Essig gekochtes Hackfleisch
+		minced meat
+			<lb n="9"/>
+		for half
+		um einen halben
+			<lb n="10"/>
+		a dâniq, if
+		Dāniq, so
+			<lb n="11"/>
+		God wills,
+		Gott will.
+			<lb n="12"/>
+		and he has written (it).
+		Und man schrieb (es).
+</ab></div>
+</body>
+</text>
+</TEI>

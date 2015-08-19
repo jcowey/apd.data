@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1359" xml:id="Diem_Heid_II_13" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_13</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169160</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أ</supplied>طال اللّه بقاك وأدام عزّك وتأييدك <supplied reason="lost" cert="high">كتابي</supplied> <supplied reason="lost" cert="high">إليك</supplied> <supplied reason="lost" cert="high">وأنا</supplied> <supplied reason="lost" cert="high">في</supplied> <supplied reason="lost" cert="high">عافية</supplied> 
+<lb n="3"/>  والحمد للّه رب العالمين وجماعة من عندي في عا<supplied reason="lost" cert="high">فية</supplied> <supplied reason="lost" cert="high">ولو</supplied> <supplied reason="lost" cert="high">ذهبت</supplied> <supplied reason="lost" cert="high">أصف</supplied> 
+<lb n="4"/>  لك ما نحن فيه من الصوص والتّعب كل اللّيلة <unclear reason="undefined" cert="high">طا</unclear><supplied reason="lost" cert="high">ل</supplied> <supplied reason="lost" cert="high">شرحه</supplied> <supplied reason="lost" cert="high">دخلوا</supplied> 
+<lb n="5"/>  منزل أبي يرحمه اللّه والمعلّم فيه لم يدري حتّا أصبح وأخـ<supplied reason="lost" cert="high">ـرجوا</supplied> <supplied reason="lost" cert="high">الحمير</supplied> 
+<lb n="6"/>  وإنّما <app type="BL"><lem resp="APD">تواهـ<unclear reason="undefined" cert="high">ـسـ</unclear>ـوا </lem><rdg resp="APD">تواهوا</rdg></app> أن البقر في المنزل مع الحمير قد جبئ 
+<lb n="7"/>  من يومي في أثر الحمير حتّا جمعها اللّه <sic n="superfluous">ا</sic>عز وجل تخبّرت من يومي 
+<lb n="8"/>  في منزل مظلم في خرابة في خرابة في خرابة أنا وجماعة معي 
+<lb n="9"/>  حتّا جمع اللّه علينا الحمير بلا دينار ولا درهم لأنّني <app type="BL"><lem resp="APD">تصدّقت </lem><rdg resp="APD">تصدّقت</rdg></app> به 
+<lb n="10"/>  عنهم لمّا جمع اللّه علي وكان الّصوص في الضّيعة فسبحان <supplied reason="omitted" cert="high">اللّه</supplied> 
+<lb n="11"/>  أن سلمنا منهم وأنا ومن كان في الضّيعة لا ننام اللّيل 
+<lb n="12"/>  من التّعب والهجم لو لا أنّك <sic n="superfluous">ما</sic> تخلّفت عنهم إلى هذه الغاية 
+<lb n="13"/>  وأنا أرفع ما في منزلي وأوديع البقر وأكون على أمر كتابي 
+<lb n="14"/>  هذا وقد أنفذت إليك مع عبده نعجة وثلثين كعك 
+<lb n="15"/>  تدفعها إلى أبي محمّد أيده اللّه وكبش ذكر تدفعه إلى أبي <app type="BL"><lem resp="APD">الـ<unclear reason="undefined" cert="high">ـعـ</unclear>ـريكة </lem><rdg resp="APD">الفريكة</rdg></app> 
+<lb n="16"/>  أيّده اللّه وثلثين قفس كعك <gap reason="illegible" extent="15" unit="character" /> <unclear reason="undefined" cert="high">ولـ</unclear>ـك 
+<lb n="17"/>  دينار معه <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="18"/>  <gap reason="illegible" extent="5" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka kitāb ī ʾilay ka wa ʾanā fī ʿāfiyaẗ:in 
+ <lb n="3"/>wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna wa ǧamāʿaẗu man ʿind ī fī ʿāfiyaẗ:in wa law ḏahabtu ʾaṣifu 
+ <lb n="4"/>la ka mā naḥnu fī hi mina ă luṣūṣi wa ăt taʿabi kulla ăl laylaẗi ṭāla šarḥu hu daḫalū 
+ <lb n="5"/>manzila ʾab ī yarḥamu hu ăl lāhu wa ăl muʿallimu fī hi lam yadrī ḥattā ʾaṣbaḥa wa ʾaḫraǧū ăl ḥamīra 
+ <lb n="6"/>wa ʾinnamā tawāhasū tawāhaw ʾanna ăl baqara fī ăl manzili maʿa ăl ḥamīri qad ǧiʾtu 
+ <lb n="7"/>min yawm ī fī ʾaṯari ăl ḥamīri ḥattā ǧamaʿa hā ăl lāhu ʿazza wa ǧalla taḫabbartu min yawm ī 
+ <lb n="8"/>fī manzil:in muẓlim:in fī ḫarābaẗ:in fī ḫarābaẗ:in fī ḫarābaẗ:in ʾanā wa ǧamāʿaẗ:un maʿ ī 
+ <lb n="9"/>ḥattā ǧamaʿa ăl lāhu ʿalay nā ăl ḥamīra bi lā dīnār:in wa lā dirham:in liʾanna nī taṣaddaftu taṣaddaqtu bi hi 
+ <lb n="10"/>ʿan hum lammā ǧamaʿa ăl lāhu ʿalay ya wa kāna ăl luṣūṣu fī ăḍ ḍayʿaẗi fa subḥāna ăl lāhi 
+ <lb n="11"/>ʾan salimnā min hum wa ʾanā wa man kāna fī ăḍ ḍayʿaẗi lā nanāmu ăl layla 
+ <lb n="12"/>mina ăt taʿabi wa ăl haǧmi law lā ʾanna ka taḫallafta ʿan hum ʾilà hāḏihi ăl ġāyaẗi 
+ <lb n="13"/>wa ʾanā ʾarfaʿu mā fī manzil ī wa ʾūdīʿu ăl baqara wa ʾakūnu ʿalà ʾamri kitāb ī 
+ <lb n="14"/>hāḏā wa qad ʾanfaḏtu ʾilay ka maʿa ʿabdi ʿabduha hi ø naʿǧaẗ:an wa ṯalāṯīna kaʿk 
+ <lb n="15"/>tadfaʿu hā ʾilà ʾabī muḥammad:in ʾayyada hu ăl lāhu wa kabš ḏakar tadfaʿu hu ʾilà ʾabī ăl farīkaẗi ʿarīkaẗi 
+ <lb n="16"/>ʾayyada hu ăl lāhu wa ṯalāṯīna qafasa kaʿk:in *************** wa la ka 
+ <lb n="17"/>dīnār:un maʿa hu **** 
+ <lb n="18"/>***** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen und Gnä]digen!
+			<lb n="2"/>
+		Gott lasse Dich lange leben und lasse DeinAnsehen und Deinen Beistand andauern! [Ich schreibe an Dich in Gesundheit],
+			<lb n="3"/>
+		Lob sei Gott, dem Herrn der Welten, und auch alle Meinigen sind bei Ge[sundheit. Wenn ich daranginge,] Dir [zu beschreiben],
+			<lb n="4"/>
+		was wir die ganze Nacht von den Dieben erduldet haben und wie wir uns abgemüht haben, würde der [Bericht] zu lange werden. [Sie drangen nämlich]
+			<lb n="5"/>
+		in das Haus meines Vaters - Gott erbarme sich seiner - ein, während der Meister darin war, ohne daß er es bis zum Morgen bemerkt hätte, und ho[lten die Esel heraus;]
+			<lb n="6"/>
+		indes übersahen (?) sie, daß die Rinder zusammen mit den Eseln im Haus waren. Ich machte mich
+			<lb n="7"/>
+		sofort hinter den Eseln her, bis Gott, der Mächtige und Erhabene, sie zusammenbrachte. Ich sah nämlich sofort
+			<lb n="8"/>
+		in einem verdächtigen Haus und in einer Ruine nach der anderen nach, ich und zusammen mit mir ein Trupp von Männern,
+			<lb n="9"/>
+		bis Gott uns die Esel zusammenbrachte, ohne daß dies auch nur einen einzigen Dinar oder Dirham gekostet hätte, denn ich konnte dies (sc. Kosten?) von ihnen (sc. den Leuten) abwenden (?),
+			<lb n="10"/>
+		als Gott sie (mir) zusammenbrachte. Die Diebe waren im Landgut, deshlab sei Gott gepriesen,
+			<lb n="11"/>
+		daß wir von ihnen verschont geblieben sind. Ich und alle, die auf dem Landgut sind, können nachts
+			<lb n="12"/>
+		vor Mühe und wegen der Überfälle (sc. der Diebe) nicht schlafen. Wenn Du doch nicht bis jetzt von ihnen (sc. den Leuten) ferngeblieben wärst!
+			<lb n="13"/>
+		Ich werde mein Haus ausräumen und die Rinder (darin) unterbringen, und ich werde gemäß diesem meinem Schreiben verfahren.
+			<lb n="14"/>
+		Ich gebe ʿAbduh für Dich ein Lamm und dreißig Kuchen mit,
+			<lb n="15"/>
+		die Du Abū Muḥammad - Gott stütze ihn - übergeben sollst, ein Widdermännchen, das Du Abū l-ʿArīkah
+			<lb n="16"/>
+		- Gott stütze ihn - übergeben sollst, und dreißig Tragkörbe mit Kuchen [...] - - - und für Dich (?)
+			<lb n="17"/>
+		hat er (?) (sc. ʿAbduh) einen Dinar dabei (?)
+			<lb n="18"/>
+</ab></div>
+</body>
+</text>
+</TEI>

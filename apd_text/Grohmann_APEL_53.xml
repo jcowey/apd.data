@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="997" xml:id="Grohmann_APEL_53" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 053 (= P.World p. 202)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_53</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168901</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ورثة</supplied> <supplied reason="lost" cert="high">أحـ</supplied>ـمد بن سلم 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أبـ</supplied>ـي الرّحبة 
+<lb n="3"/>  وبنات الحسن بن يـ<supplied reason="lost" cert="high">ـحيـ</supplied>ـى <supplied reason="lost" cert="high">والـ</supplied>ـشّر<supplied reason="lost" cert="high">قـ</supplied>ـي <supplied reason="lost" cert="high">يلـ</supplied>ـي نخل 
+<lb n="4"/>  أبي الرّحبة وجميع حقّهما من ذلك الثّلثين 
+<lb n="5"/>  كاملين ولهما أيضا الثّلثين من جميع 
+<lb n="6"/>  النّخل والعراص الّتي تحته في الجانب 
+<lb n="7"/>  القبلي ممّا يلي الغرب من هذا الكفر 
+<lb n="8"/>  أحد حدود ذلك الأوّل القبلـ<supplied reason="lost" cert="high">ـيّ</supplied> يلي الـ<supplied reason="lost" cert="high">ـزّر</supplied>عـ<supplied reason="lost" cert="high">ـة</supplied> 
+<lb n="9"/>  <unclear reason="undefined" cert="high">الجعدية</unclear> والبحري يلي نخـ<supplied reason="lost" cert="high">ـل</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  والشّرقي يلي منازل عبد الظّفير والغربي 
+<lb n="11"/>  يلي نخل ود بن ميمون ونخل سري بن نافع 
+<lb n="12"/>  ولهما الثّلثين من أرض الزّرع وهي 
+<lb n="13"/>  بقعة تعرف بالبير <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">پحپى</unclear> </lem><rdg resp="APD">پحپى</rdg></app> من هذا الكفر 
+<lb n="14"/>  حدّها القبلي يلي أرض <unclear reason="undefined" cert="high">الأجا</unclear> بن إبرهيم 
+<lb n="15"/>  فيها الثّلث والحد البحري يلي الحد 
+<lb n="16"/>  الفاصل بين أرض سفرا وبين 
+<lb n="17"/>  هذا <unclear reason="undefined" cert="high">السّاف</unclear> والحد الشّرقي أرض 
+<lb n="18"/>  <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">وپسپه</unclear> </lem><rdg resp="“Grohmann, World”"><gap reason="illegible" extent="5" unit="character" /> </rdg><rdg resp="“Littmann, P.Cair.Arab. I p. 404”">ورثة</rdg></app> أبي النّجم وورثة أحمد بن سلم 
+<lb n="19"/>  والحد الغربي أرض أبي الرّحبة 
+<lb n="20"/>  ولهما من العراص والمخبزة 
+<lb n="21"/>  على قدر انضيافهم وهو يلي 
+<lb n="22"/>  الخمس من ورثة محمّد بن أبي السّري 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** waraṯaẗi ʾaḥmada bni salam:in salm:in silm:in 
+ <lb n="2"/>*** ʾabī ăr raḥbaẗi 
+ <lb n="3"/>wa banāti ăl ḥasani bni yaḥyà wa ăš šarqiyyu yalī naḫla 
+ <lb n="4"/>ʾabī ăr raḥbaẗi wa ǧamīʿu ḥaqqi himā min ḏālika ăṯ ṯulṯayni 
+ <lb n="5"/>kāmilayni wa la humā ʾayḍ:ani ăṯ ṯulṯayni min ǧamīʿi 
+ <lb n="6"/>ăn naḫli wa ăl ʿirāṣi ăllatī taḥta hu fī ăl ǧānibi 
+ <lb n="7"/>ăl qibliyyi mimmā yalī ăl ġarba min hāḏā ăl kafri 
+ <lb n="8"/>ʾaḥadu ḥudūdi ḏālika ăl ʾawwalu ăl qibliyyu yalī ăz zarʿaẗa 
+ <lb n="9"/>ăl ǧaʿdiyyaẗa wa ăl baḥriyyu yalī naḫla *** bni *** 
+ <lb n="10"/>wa ăš šarqiyyu yalī manāzila ʿabdi ăẓ ẓafīri wa ăl ġarbiyyu 
+ <lb n="11"/>yalī naḫla wuddi bni maymūn:in wa naḫla sariyyi bni nāfiʿ:in 
+ <lb n="12"/>wa la humā ăṯ ṯulṯayni min ʾarḍi ăz zarʿi wa hiya 
+ <lb n="13"/>buqʿaẗ:un tuʿrafu bi ăl bīri **** BḥBy min hāḏā ăl kafri 
+ <lb n="14"/>ḥaddu hā ăl qibliyyu yalī ʾarḍa ăl ʾiǧāʾi bni ʾibrāhīma 
+ <lb n="15"/>fī hā ăṯ ṯulṯu wa ăl ḥaddu ăl baḥriyyu yalī ăl ḥadda 
+ <lb n="16"/>ăl fāṣila bayna ʾarḍi safrā wa bayna 
+ <lb n="17"/>hāḏā ăs sāfi wa ăl ḥaddu ăš šarqiyyu ʾarḍu 
+ <lb n="18"/>wBsBh ***** waraṯaẗi ʾabī ăn naǧmi wa waraṯaẗi ʾaḥmada bni salam:in salm:in silm:in 
+ <lb n="19"/>wa ăl ḥaddu ăl ġarbiyyu ʾarḍu ʾabī ăr raḥbaẗi 
+ <lb n="20"/>wa la humā mina ăl ʿirāṣi wa ăl maḫbazaẗi 
+ <lb n="21"/>ʿalà qadri ĭnḍiyāfi him wa huwa yalī 
+ <lb n="22"/>ăl ḫumsa min warṯaẗi muḥammadi bni ʾabī ăs sariyyi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[............ the heirs of Aḥ]mad b. Salm
+			<lb n="2"/>
+		[... of Ab]u ʾr-Raḥba
+			<lb n="3"/>
+		and the daughters of al-Ḥasan b. Ya[ḥy]â, [and the ea]stern (limit) borders on the date-palm trees
+			<lb n="4"/>
+		of Abu ʾr-Raḥba, and all their rights therein are two full
+			<lb n="5"/>
+		thirds. And they own further the two thirds of all the
+			<lb n="6"/>
+		date-palm trees and the open areas which lie below them on the south-
+			<lb n="7"/>
+		side of (the land), forming the west border of the hamlet.
+			<lb n="8"/>
+		One of the boundaries thereof viz. the first, the south[ern], borders on the cultivable crop-
+			<lb n="9"/>
+		[land], the northern borders on the date-palm tre[es of So and So, son of So and So],
+			<lb n="10"/>
+		and the eastern borders on the habitation of ʿAbd aẓ-Ẓafīr, and the western
+			<lb n="11"/>
+		borders on the date-palm trees of Wudd b. Maimûn and the date-palm trees of Sarî b. Nâfiʿ,
+			<lb n="12"/>
+		and they own the two thirds of the seed-field, which
+			<lb n="13"/>
+		is a low-land known as al-Bîr ............ belonging to this hamlet,
+			<lb n="14"/>
+		whose southern boundary borders on the land of al-Iǧâ&#039; b. Ibrahîm,
+			<lb n="15"/>
+		which contains the third part, the northern boundary borders on the boundary
+			<lb n="16"/>
+		separating the land of Safrâ&#039; from
+			<lb n="17"/>
+		this row(?), the east boundary is (formed by) the land
+			<lb n="18"/>
+		............... of Abû Naǧm and the heirs of Aḥmad b. Salm,
+			<lb n="19"/>
+		and the western boundary is (formed by) the land of Abu &#039;r-Raḥba,
+			<lb n="20"/>
+		and they both own the open areas and the bakery,
+			<lb n="21"/>
+		according to their partnership, and it borders on
+			<lb n="22"/>
+		the fifth of the inheritance of Muḥammad b. Abi &#039;s-Sarī
+</ab></div>
+</body>
+</text>
+</TEI>

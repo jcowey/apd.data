@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1007" xml:id="Grohmann_APEL_40" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 040</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_40</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168904</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">ا[لرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  هذا ما أصدق يـ<supplied reason="lost" cert="high">ـحنّس</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شنوده</supplied> <supplied reason="lost" cert="high">السّاكن</supplied> <supplied reason="lost" cert="high">مـ</supplied>ـدينة أشمون دروا ابنت 
+<lb n="3"/>  شنوده <supplied reason="lost" cert="high">السّاكنة</supplied> <supplied reason="lost" cert="high">مدينة</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">عند</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">خطبها</supplied> <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">نفسهـ</supplied>ـا وهي امرأة أيّم بالغ تلي 
+<lb n="4"/>  نفسها <unclear reason="undefined" cert="high">الپه</unclear> <unclear reason="undefined" cert="high">وعـ</unclear><supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" extent="7" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پن</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الپڤـ</supplied>ـال واسهدپ له سهودا 
+<lb n="5"/>  بتوكيلها إيّاه في إنـ<supplied reason="lost" cert="high">ـكاحها</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">پحپس</supplied> <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">سپوده</supplied> 
+<lb n="6"/>  عينا ذهبا لمرأته قبـ<supplied reason="lost" cert="high">ـل</supplied> <supplied reason="lost" cert="high">إصابته</supplied> <supplied reason="lost" cert="high">بها</supplied> ودخوله عليها دينرين نقدا <app type="BL"><lem resp="APD">جياد </lem><rdg resp="“Dietrich”">حالّا</rdg></app> 
+<lb n="7"/>  معجّلا وأخّرت <gap reason="illegible" extent="5" unit="character" /> صداقها على زوجها يحنّس بن شنوده 
+<lb n="8"/>  خمسة سنين متواليات أ<supplied reason="lost" cert="high">وّلهنّ</supplied> <supplied reason="lost" cert="high">شعبان</supplied> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">إحـ</supplied>ـدى وسبعين ومائتين وعليه تقوا 
+<lb n="9"/>  اللّه وحده لا شريك له و<supplied reason="lost" cert="high">إحسان</supplied> <supplied reason="lost" cert="high">صحبتهـ</supplied>ـا وقد أوصل يحنّس بن شنودة الدّينرين 
+<lb n="10"/>  المعجّلين إلى امرأته دروا <supplied reason="lost" cert="high">ابنت</supplied> <supplied reason="lost" cert="high">شنودة</supplied> <gap reason="illegible" precision="low" extent="3"/>ـ<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" />ـلـ<gap reason="illegible" extent="1" unit="character" />ـه وأقرّت بوصولهما إليها وذلك 
+<lb n="11"/>  في العشر الأواخر من شعبا<supplied reason="lost" cert="high">ن</supplied> <supplied reason="lost" cert="high">سنة</supplied> <supplied reason="lost" cert="high">إحد</supplied>ى <supplied reason="lost" cert="high">و</supplied>سبعين ومائتن شهد على ذلك 
+<lb n="12"/>  إ<supplied reason="lost" cert="high">بر</supplied>هـ<supplied reason="lost" cert="high">ـيم</supplied> <gap reason="illegible" extent="8" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ʾaṣdaqa yuḥannisu bnu šanūdaha ăs sākinu madīnaẗa ʾušmūna darwā ĭbnata 
+ <lb n="3"/>šanūdaha ăs sākinaẗa madīnaẗa *** ʿinda mā ḫaṭaba hā ʾilà nafsi hā wa hiya ĭmraʾaẗun ʾayyim:un bāliġ:un talī 
+ <lb n="4"/>nafsa hā ø ø ********* *** bna *** ăl baqqāla wa ʾašhadat la hu šuhūd:an 
+ <lb n="5"/>bi tawkīli hā ʾiyyā hu fī ʾinkāḥi hā ***s fa ʾaṣdaqa hā ʾarbaʿaẗa danānīra 
+ <lb n="6"/>ʿayn:an ḏahab:an li marʾati hi qabla ʾiṣābati hi bi hā wa duḫūli hi ʿalay hā dīnārayni naqd:an ǧiyād ḥāll:an 
+ <lb n="7"/>muʿaǧǧal:an wa ʾaḫḫarat ***** ṣadāqi hā ʿalà zawǧi hā yuḥannisa bni šanūdaha 
+ <lb n="8"/>ḫamsaẗa sinīna mutawāliyāt:in ʾawwalu hunna šaʿbānu min sanaẗi ʾiḥdà wa sabʿīna wa miʾatayni wa ʿalay hi taqwā 
+ <lb n="9"/>ăl lāhi waḥda hu lā šarīka la hu wa ʾiḥsānu ṣuḥbati hā wa qad ʾawṣala yuḥannisu bnu šanūdaẗa ăd dīnārayni 
+ <lb n="10"/>ăl muʿaǧǧalayni ʾilà ĭmraʾati hi darwā ĭbnati šanūdaẗa ***ٹ ٹlٹH wa ʾaqarrat bi wuṣūli himā ʾilay hā wa ḏālika 
+ <lb n="11"/>fī ăl ʿašri ăl ʾawāḫiri min šaʿbāna sanaẗi ʾiḥdà wa sabʿīna wa miʾatayni šahida ʿalà ḏālika 
+ <lb n="12"/>ʾibrāhīmu ******** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[In the name of God, the Compassionate, the Merciful.]
+			<lb n="2"/>
+		This is what Yo[ḥannes, son of Šanûda, residing in the t]own of Ašmûn, has stipulated as a nuptial gift to Darwâ, daughter of
+			<lb n="3"/>
+		Šanûda, [residing in the town of So and So, after that he had asked her personally for her hand in marriage], she being an unmarried, adult woman, acting
+			<lb n="4"/>
+		for herself ...[..................... So and So, son of So and So, the green-gro]cer and she has called witnesses for him
+			<lb n="5"/>
+		with respect to her having entrusted him to act for her in con[tracting her marriage ..................]. Thus he has stipulated as her nuptial gift fo[u]r dînârs,
+			<lb n="6"/>
+		ready money, gold (coins) for his wife be[fore obtaining his enjoyment of her] and going into her, two dînârs, good money,
+			<lb n="7"/>
+		cash down, and there remains ...[.............................. of] her nuptial gift to be paid by her husband Yoḥannes b. Šanûda
+			<lb n="8"/>
+		(at the expiration of) five successive years, re[ckoning from the Šaʿbân of the year] two hundred and seventy one. And it is his obligation to fear
+			<lb n="9"/>
+		God alone - He has no associate - and [to render relations with her pleasant]. Yoḥannes b. Šanûda has already delivered the two dînârs
+			<lb n="10"/>
+		cash down to his wife Darwâ, [daughter of Šanûda, ..]... and she has acknowledged their delivery to her and this
+			<lb n="11"/>
+		in the last decade of Šaʿbâ[n of the year] two hundred [and] seventy [on]e. (The following witnesses have) testified to it:
+			<lb n="12"/>
+		I[bra]h[îm .....................
+</ab></div>
+</body>
+</text>
+</TEI>

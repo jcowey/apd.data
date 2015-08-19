@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="984" xml:id="Guo_Quseir_81" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 81</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_81</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113727</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  من أصلح <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الأيـ</supplied>ـمن <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  ومن أصلح <unclear reason="undefined" cert="high">محدله</unclear> الأيسر أدلى على غائب يذكره 
+<lb n="recto 3"/>  باب إصلاح ذقن 
+<lb n="recto 4"/>  من أصلح ذقنه <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6 (translation 5)"/>  <gap reason="illegible" precision="low" extent="3"/> الايسر يسپڤيد كلامه 
+<lb n="7 (translation 6)"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> طلت پظپل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/>رپه صحپح <gap reason="illegible" precision="low" extent="3"/> وسپم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  باب إصلاح الصّدغين 
+<lb n="verso 3"/>  من أصلح صدغه الأيمن سعا البدر أقرب الناس إليـه 
+<lb n="verso 4"/>  ومن أصلح صدغه الأيسر صح جسـه وقرّت عينه 
+<lb n="verso 5"/>  باب إصلاح الأذنين 
+<lb n="verso 6"/>  من أصلح أذنه الأيمن فرّج رشده وألف ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 7"/>  الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> أمّلاك سو<gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>man ʾaṣlaḥa *** ăl ʾaymana *** 
+ <lb n="2"/>wa man ʾaṣlaḥa mḥdla hu ăl ʾaysara ʾadlà ʿalà ġāʾib:in yaḏkuru hu 
+ <lb n="3"/>bābu ʾiṣlāḥi ḏaqn:in 
+ <lb n="4"/>man ʾaṣlaḥa ḏaqna hu *** 
+ <lb n="5"/>*** 
+ <lb n="6"/>*** ăl ʾaysara yastafīdu kalāmu hu 
+ <lb n="7"/>*** *** ẓallat tuṭīlu *** 
+ <lb n="8"/>***rba hu ṣaḥīḥ *** wasīm *** 
+ <lb n="9"/>bābu ʾiṣlāḥi ăṣ ṣudġayni 
+ <lb n="10"/>man ʾaṣlaḥa ṣudġa hu ăl ʾaymana saʿā ăl badru ʾaqraba ăn nāsa ʾilay hi 
+ <lb n="11"/>wa man ʾaṣlaḥa ṣudġa hu ăl ʾaysara ṣaḥḥa ǧismu hu wa qarrat ʿaynu hu 
+ <lb n="12"/>bābu ʾiṣlāḥi ăl ʾuḏunayni 
+ <lb n="13"/>man ʾaṣlaḥa ʾuḏuna hu ăl ʾaymana farraǧa rušdu hu wa ʾalifa ʾ*** 
+ <lb n="14"/>ăl *** *** ʾamlāk sw*** hu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		He who maintains the soundness of [his] right [..........].
+			<lb n="2"/>
+		He who maintains the soundness of his left [....], he will be able to foresee the invisible.
+			<lb n="3"/>
+		Chapter: On the Maintenance of the Beard.
+			<lb n="4"/>
+		He who trims his beard [on the right side, he will ..........].
+			<lb n="6"/>
+		[He who trims his beard] on the left side, his speech will be improved [...].
+			<lb n="7"/>
+		[.......] will last long [...................].
+			<lb n="8"/>
+		[......] his [....] will be healthy [...] and handsome [.......].
+			<lb n="9"/>
+		Chapter: On the Fitness of the Two Temples.
+			<lb n="10"/>
+		He who maintains the soundness of his right temple, the full moon will draw people closer to him.
+			<lb n="11"/>
+		He who maintains the soundndess of his left temple, his body will be healthy, and his eyes will stay firm.
+			<lb n="12"/>
+		Chapter: On the Fitness of the Two Ears.
+			<lb n="13"/>
+		He who maintains the soundness of his right ear, his senses will be at ease and [his ...] will be smooth [...].
+			<lb n="14"/>
+		[......] the possession of his [...........].
+</ab></div>
+</body>
+</text>
+</TEI>

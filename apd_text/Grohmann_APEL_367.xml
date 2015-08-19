@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1849" xml:id="Grohmann_APEL_367" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 367</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_367</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169586</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  ذكر أحمد بن ذيّال أن الّذي وصل إليه من القصب أوّل صـ<supplied reason="lost" cert="high">ـربة</supplied> 
+<lb n="3"/>  مائتي حزمة إلّا اثنا عشر حزمة الثّانية مائـ<supplied reason="lost" cert="high">ـتا</supplied> <supplied reason="lost" cert="high">حزمة</supplied> 
+<lb n="4"/>  من حساب مائة حزمة إلّا أربع حزم بدينا<supplied reason="lost" cert="high">ر</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  الصّربة الرّابعة مائتن حزمة الخامسة <app type="BL"><lem resp="‭ed. ‫ما‬ but see transl.">مـ<supplied reason="lost" cert="high">ـائة</supplied> </lem><rdg resp="APD">مائتان</rdg></app> <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  <supplied reason="lost" cert="high">حزمة</supplied> <supplied reason="lost" cert="high">السّادسة</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ر السّابعة مائة وخـ<supplied reason="lost" cert="high">ـمسون</supplied> 
+<lb n="7"/>  <supplied reason="lost" cert="high">حزمة</supplied> <supplied reason="lost" cert="high">الثّامنة</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" /><supplied reason="lost" cert="high">پـ</supplied>ـه </lem><rdg resp="LS">مائة</rdg></app> وأربعة حزم <supplied reason="lost" cert="high">التّاسعة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏakara ʾaḥmadu bnu ḏayyāl:in ʾanna ăllaḏī waṣala ʾilay hi mina ăl qaṣabi ʾawwalu ṣarbaẗ:in 
+ <lb n="3"/>miʾatay ḥuzmaẗ:in ʾillā ĭṯnā ʿašara ḥuzmaẗ:an ăṯ ṯāniyaẗu miʾatā ḥuzmaẗ:in 
+ <lb n="4"/>min ḥisābi miʾaẗi ḥuzmaẗ:in ʾillā ʾarbaʿi ḥuzam:in bi dīnār:in *** 
+ <lb n="5"/>ăṣ ṣarbaẗu ăr rābiʿaẗu miʾatayni ḥuzmaẗ:in ăl ḫāmisaẗu miʾaẗu miʾatāni wa *** 
+ <lb n="6"/>ḥuzmaẗ:an ăs sādisaẗu *** ***r ăs sābiʿaẗu miʾaẗ:un wa ḫamsūna 
+ <lb n="7"/>ḥuzmaẗ:an ăṯ ṯāminaẗu ***h miʾaẗ:un wa ʾarbaʿaẗu ḥuzam:in ăt tāsiʿaẗu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		Aḥmad b. Ḏayyâl has related that (the amount of) that which has been delivered to him of sugar-cane was: (from) the first c[rop]
+			<lb n="3"/>
+		two hundred bundles less twelve bundles, (from) the second (crop) two hundre[d bundles]
+			<lb n="4"/>
+		reckoning at hundred bundles less four bundles per dînâ[r,]
+			<lb n="5"/>
+		the fourth crop two hundred bundles, the fifth......[ hundred ...
+			<lb n="6"/>
+		[bundles, the sixth.........,], the seventh hundred and f[ifty]
+			<lb n="7"/>
+		[bundles, the eighth......... ]and four bundles [the ninth]
+</ab></div>
+</body>
+</text>
+</TEI>

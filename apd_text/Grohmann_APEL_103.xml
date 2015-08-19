@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="303" xml:id="Grohmann_APEL_103" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 103</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_103</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106545</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">ذ</supplied>كر حق عطا بن محمّد بن بكر على أحمد بن فرج بن حاتم <gap reason="illegible" extent="4" unit="character" /> <supplied reason="lost" cert="high"> </supplied>
+<lb n="3"/>  و<supplied reason="lost" cert="high">ثلـ</supplied>ـث <supplied reason="lost" cert="high">د</supplied>ينر مثاقيل طري يدفع ذلك إليه في آ<sic n="superfluous">ر</sic>خر <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="4"/>  العـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="7" unit="character" /> لا يدافعه <supplied reason="lost" cert="high">بـ</supplied>ـذلك ولا يحتـ<supplied reason="lost" cert="high">ـجّ</supplied> <supplied reason="lost" cert="high">بحجّة</supplied> <supplied reason="lost" cert="high">على</supplied> <supplied reason="lost" cert="high">الوجوه</supplied> 
+<lb n="5"/>  والأسـ<supplied reason="lost" cert="high">ـبـ</supplied>ـا<supplied reason="lost" cert="high">ب</supplied> <supplied reason="lost" cert="high">كـ</supplied>ـلّـ<supplied reason="lost" cert="high">ـها</supplied> <gap reason="illegible" precision="low" extent="3"/> الأرـ<gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="7" unit="character" /> سهدا <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḏikru ḥaqqi ʿaṭāʾa bni muḥammadi bni bakr:in ʿalà ʾaḥmada bni faraǧi bni ḥātim:in **** 
+ <lb n="3"/>wa ṯulṯ dīnār:in maṯāqīla ṭarīʾ:in yadfaʿu ḏālika ʾilay hi fī ʾāḫiri **** 
+ <lb n="4"/>ăl ʿ*** ******* lā yudāfiʿu hu bi ḏālika wa lā yaḥtaǧǧu bi ḥuǧǧaẗ:in ʿalà ăl wuǧūhi 
+ <lb n="5"/>wa ăl ʾasbābi kulli hā *** ăl ʾr* ******* shdʾ **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		[Re]cord of what is due to ʿAṭâ b. Muḥammad b. Bakr from Aḥmad b. Faraǧ b. Ḥâtim ............ [
+			<lb n="3"/>
+		and one third of a dînâr miṯqâlî, newly minted. He will pay this to him on the last [day of the month of ..................
+			<lb n="4"/>
+		......... he will not delay the paying there[of] to him nor will he bring for[ward any pretext for whatever cause]
+			<lb n="5"/>
+		or re[ason] there may be ..................
+</ab></div>
+</body>
+</text>
+</TEI>

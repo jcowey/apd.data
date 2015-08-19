@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1546" xml:id="Diem_Berl_II_54" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Berl.Arab. II 54</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Berl_II_54</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169317</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  أطال اللّه بقاك وأدام عزّك وتأييدك وسعادتك وسلامتك <supplied reason="lost" cert="high">وأتـ</supplied>ـم نعمته عليك 
+<lb n="2"/>  وزاد في إحسانه إليك وجميل مواهبه لديك وفضله <sic n="superfluous">عنكك</sic><supplied reason="omitted" cert="high">عپدك</supplied> 
+<lb n="3"/>  وجعلني من كل سو <sic n="superfluous">و</sic>فداك وصل كتابك أسـ<supplied reason="omitted" cert="high">ـعـ</supplied>ـدك اللّه وسرّني 
+<lb n="4"/>  علم خبرك أد<supplied reason="omitted" cert="high">ا</supplied>مها اللّه لك ولي فيك بـ<supplied reason="lost" cert="high">ـمنّه</supplied> <supplied reason="lost" cert="high">و</supplied>قد<supplied reason="lost" cert="high">ر</supplied>تـ<supplied reason="lost" cert="high">ـه</supplied> وو<supplied reason="lost" cert="high">قـ</supplied>ـفت على ما كتبت به 
+<lb n="5"/>  من <supplied reason="omitted" cert="high">ا</supplied>ستيفاك الدّنانير عن ثمن الخل وقد أوصلت إلى أبي سعيد أكرمه اللّه 
+<lb n="6"/>  منها أحد وعشرين دينارا و<sic n="superfluous">پصف</sic>ربع ونصف قيراط وأنا إن شا اللّه إذا 
+<lb n="7"/>  سهّل اللّه وقدمت من الفسطـ<supplied reason="lost" cert="high">ـا</supplied>ط جمعت ما تبقى على الباعة 
+<lb n="8"/>  وغيرها ولزقت بها وباللّه أقبض ثـ<supplied reason="lost" cert="high">ـمـ</supplied>ـن الخل القديم <del rend="erasure" status="unremarkable">وكدلك</del> قبل خروجي 
+<lb n="9"/>  إلى الفسطاط وأقدم وأحمل ثمنه وأكتب إليك أيّدك اللّه حتّـ<supplied reason="lost" cert="high">ـا</supplied> <app type="BL"><lem resp="APD">تنفذ </lem><rdg resp="APD">تنفّذ</rdg></app> إلى 
+<lb n="10"/>  أبي سعيد أكرمه اللّه وتقبض ثمنه إن شا اللّه وأنا عزّك اللّه حريص 
+<lb n="11"/>  في جميع <unclear reason="undefined" cert="high">حوائجك</unclear> <unclear reason="undefined" cert="high">فالخلّ</unclear> <gap reason="illegible" precision="low" extent="3"/>ـا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> فلا تـ<supplied reason="lost" cert="high">ـلـ</supplied>ـوم علي تقصير في ذلك 
+<lb n="12"/>  وذكرت <unclear reason="undefined" cert="high">البندة</unclear> فنرغب في ذلك فذكر حرّاسك أيّدك اللّه أنّهم لا يتهيّأ 
+<lb n="13"/>  لهم حملها وطلبت حـ<supplied reason="lost" cert="high">ـمـ</supplied>ـل الـ<supplied reason="lost" cert="high">ـحمّـ</supplied>ـار <supplied reason="lost" cert="high">فطلـ</supplied>ـب الحمّار <supplied reason="lost" cert="high">مـ</supplied>ـنّي ربع دينار وقد 
+<lb n="14"/>  وجّهت إليك منه <supplied reason="lost" cert="high">بـ</supplied>ـمل <unclear reason="undefined" cert="high">قفّة</unclear> خمسة أرطال بالكبيرة فإذا وفّا أبي سعيد إلينا 
+<lb n="15"/>  في قارب حمّلت إليك أيّدك اللّه حاجـ<supplied reason="lost" cert="high">ـتـ</supplied>ـك من <unclear reason="undefined" cert="high">البندة</unclear> وذكرت القمح 
+<lb n="16"/>  فإن سعره عندنا ثلاثين دينار المائة يخرج <sic n="superfluous">حـ</sic>ـسريع جد فإن أعزمت على 
+<lb n="17"/>  <supplied reason="lost" cert="high">شرى</supplied> <supplied reason="lost" cert="high">قمح</supplied> <gap reason="illegible" extent="22" unit="character" /> اد<gap reason="illegible" extent="1" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa taʾyīda ka wa saʿādata ka wa salāmata ka wa ʾatamma niʿmata hu ʿalay ka 
+ <lb n="2"/>wa zāda fī ʾiḥsāni hi ʾilay ka wa ǧamīli mawāhibi hi laday ka wa faḍli hi ʿinda ka 
+ <lb n="3"/>wa ǧaʿala nī min kulli sūʾ:in fidāʾa ka waṣala kitābu ka ʾasʿada ka ăl lāhu wa sarra nī 
+ <lb n="4"/>ʿilmu ḫabari ka ʾadāma hā ăl lāhu la ka wa l ī fī ka bi manni hi wa qudrati hi wa waqaftu ʿalà mā katabta bi hi 
+ <lb n="5"/>mini ĭstīfā ka ăd danānīra ʿan ṯamani ăl ḫalli wa qad ʾawṣaltu ʾilà ʾabī saʿīd:in ʾakrama hu ăl lāhu 
+ <lb n="6"/>min hā ʾaḥad wa ʿišrīna dīnār:an wa rubʿ wa niṣfa qīrāṭ:in wa ʾanā ʾin šāʾa ăl lāhu ʾiḏā 
+ <lb n="7"/>sahhala ăl lāhu wa qadimtu mina ăl fusṭāṭi ǧamaʿtu mā tabqà ʿalà ăl bāʿaẗi 
+ <lb n="8"/>wa ġayri hā wa laziqtu bi hā wa bi ăl lāhi ʾaqbiḍu ṯamana ăl ḫalli ăl qadīmi qabla ḫurūǧ ī 
+ <lb n="9"/>ʾilà ăl fusṭāṭi wa ʾaqdamu wa ʾaḥmilu ṯamana hu wa ʾaktubu ʾilay ka ʾayyada ka ăl lāhu ḥattā tunaffiḏa tunfiḏa ʾilà 
+ <lb n="10"/>ʾabī saʿīd:in ʾakrama hu ăl lāhu wa taqbiḍa ṯamana hu ʾin šāʾa ăl lāhu wa ʾanā ʿazza ka ăl lāhu ḥarīṣ:un 
+ <lb n="11"/>fī ǧamīʿi ḥawāʾiǧi ka fa ăl ḫallu ***ʾ *** *** fa lā talūm ʿalay ya taqṣīr fī ḏālika 
+ <lb n="12"/>wa ḏakarta ăl bundaẗa fa narġabu fī ḏālika fa ḏakara ḥurrāsu ka ʾayyada ka ăl lāhu ʾanna hum lā yatahayyaʾu 
+ <lb n="13"/>la hum ḥamlu hā wa ṭalabtu ḥamla ăl ḥammāri fa ṭalaba ăl ḥammāru min nī rubʿa dīnār:in wa qad 
+ <lb n="14"/>waǧǧahtu ʾilay ka min hu bi milʾi quffaẗi ḫamsaẗa ʾarṭāl:in bi ăl kabīraẗi fa ʾiḏā waffā ʾabī saʿīd:in ʾilay nā 
+ <lb n="15"/>fī qārib:in ḥammaltu ʾilay ka ʾayyada ka ăl lāhu ḥāǧata ka mina ăl bundaẗi wa ḏakarta ăl qamḥa 
+ <lb n="16"/>fa ʾinna siʿra hu ʿinda nā ṯalāṯīna dīnār ăl miʾaẗu yaḫruǧu sarīʿ ǧidd fa ʾin ʾaʿzamta ʿalà 
+ <lb n="17"/>širà qamḥ:in ********************** ʾd* 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Gott lasse Dich lange leben, lasse Dein Ansehen, Deine Unterstützung, Dein Glück und Deine Wohlbehaltenheit andauern, [vollen]de seine Gnade an Dir,
+			<lb n="2"/>
+		erweise Dir noch mehr sein Wohlwollen, seine schönen Gaben und seine Huld
+			<lb n="3"/>
+		und möge mich als Dein Lösegeld, das Dich vor allem Übel {und} bewahrt, geben! Dein Brief - Gott mache Dich glücklich - ist angekommen, und es hat mich gefreut,
+			<lb n="4"/>
+		zu erfahren, wie es Dir geht - Gott gewähre sie in seiner Gnade und Macht Dir sowie mir in Deiner Person weiterhin! Ich habe davon Kenntnis genommen, daß Du, wie Du schreibst,
+			<lb n="5"/>
+		das Geld aus dem Erlös des Essigs in Empfang nehmen möchtest. Ich habe Abū Saʿīd - Gott ehre ihn -
+			<lb n="6"/>
+		hiervon bereits einundzwanzigeinviertel Dinar und einen halben Qīrāṭ überbracht, und so Gott will werde ich, sobald ich
+			<lb n="7"/>
+		mit Gottes Hilfe aus al-Fusṭāṭ zurückgekommen sein werde, das restliche Geld, das die Einzelhändler
+			<lb n="8"/>
+		und die anderen noch schulden, einsammeln und mich (wie eine Klette) \an sie/ hängen. Den Erlös aus dem alten Essig 〚und desgleichen〛 werde ich allerdings, bei Gott, (schon) vor meiner Abreise
+			<lb n="9"/>
+		nach al-Fusṭāṭ kassieren, und ich werde diesen Erlös (nach al-Fusṭāṭ) mitbringen und Dir - Gott stütze Dich - (dann) schreiben, so daß Du nach
+			<lb n="10"/>
+		Abū Saʿīd  - Gott ehre ihn - senden und den Erlös (von ihm) kassieren kannst, so Gott will. Ich gebe mir - Gott stärke Dich -
+			<lb n="11"/>
+		bei allen Deinen Angelegenheiten (?) viel Mühe. Der Essig (?) [- - -.] Wirf (mir) also nicht vor, daß ich hierbei irgendwie nachlässig gewesen sei!
+			<lb n="12"/>
+		Du erwähnst ferner die (Übersendung der) Haselnüsse (?): nun, wir würden dies nur zu gern tun, aber Deine Wächter - Gott stütze Dich - sagten, es sei ihnen nicht möglich,
+			<lb n="13"/>
+		sie (zu Dir) zu transportieren. Ich wollte (sie) durch einen Eseltreiber transportieren lassen, da verlangte der Eseltreiber von mir einen Vierteldinar. Ich
+			<lb n="14"/>
+		übersende Dir (jetzt zunächst) einen Korb (?) voll, fünf Raṭl nach dem großen Maß. Sobald dann Abū Saʿīd
+			<lb n="15"/>
+		mit einer Barke zu uns kommt, lasse ich Dir - Gott stütze Dich - Deinen (ganzen) Bedarf an Haselnüssen (?) überbringen. Du erwähnst ferner den Weizen:
+			<lb n="16"/>
+		nun, er kostet bei uns dreißig Dinar pro hundert (Irdabb), wobei er sehr schnell weggeht. Solltest Du die Absicht haben,
+			<lb n="17"/>
+		[Weizen zu kaufen, dann gibt mir möglichst bald Nachricht - - -]
+</ab></div>
+</body>
+</text>
+</TEI>

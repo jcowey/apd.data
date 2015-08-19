@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="458" xml:id="Raghib_March_2_11" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 11</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_11</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106646</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  أكرمك اللّه بطاعته وتولّاك بحفظ الإيمان كتابي إليك <supplied reason="lost" cert="high">رضي</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">عنك</supplied> 
+<lb n="recto 3"/>  رضا لا يسخط عليك فيه وجزاك خيرا عندما فرجت عنّي بحـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/>ى خفافا لأبي عدي فإنّي عـ<gap reason="illegible" extent="2" unit="character" />ـا به وقد اشتريت شي من سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـصر ولعلّى أتوجّه يوم الخميس أو بعد الجمعة إن <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 6"/>  <gap reason="illegible" precision="low" extent="3"/> سليمة لو قبضت فاكتب إلي بأمرها وقد كنت كتبت 
+<lb n="recto 7"/>  <supplied reason="lost" cert="high">إ</supplied>ليك كتاب أذكر لك فيه الّذي أنا فيه فا<supplied reason="lost" cert="high">عـ</supplied>ـلم ا<gap reason="illegible" precision="low" extent="3"/> والسّلم عليك 
+<lb n="recto 8"/>  ورحمت اللّه وبركاته 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">لأبي</supplied> <supplied reason="lost" cert="high">هريرة</supplied> <supplied reason="lost" cert="high">أ</supplied>كرمه اللّه بطاعته 
+<lb n="verso 2"/>  <supplied reason="lost" cert="high">جعفر</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">بن</supplied> عبد المومن أبقاه اللّه من أبيه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu bi ṭāʿati hi wa tawallā ka bi ḥifẓi ăl ʾīmāni kitāb ī ʾilay ka raḍiya ăl lāhu ʿan ka 
+ <lb n="3"/>riḍāʾ:an lā yasḫaṭu ʿalay ka fī hi wa ǧazā ka ḫayr:an ʿindamā faraǧta ʿann ī bi ḥ*** 
+ <lb n="4"/>***à ḫifāf:an li ʾabī ʿadiyy:in fa ʾin nī ʿ**ʾ bi hi wa qadi ĭštaraytu šayʾ min s*** 
+ <lb n="5"/>***ṣr wa laʿall ī ʾatawaǧǧahu yawma ăl ḫamīsi ʾaw baʿda ăl ǧumʿaẗi ʾin šāʾa ăl lāhu *** 
+ <lb n="6"/>*** salīmaẗ law qubiḍat fa ŭktub ʾilay ya bi ʾamri hā wa qad kuntu katabtu 
+ <lb n="7"/>ʾilay ka kitāb ʾaḏkuru la ka fī hi ăllaḏī ʾanā fī hi fa ĭʿlam ʾ*** wa ăs salāmu ʿalay ka 
+ <lb n="8"/>wa raḥmatu ăl lāhi wa barakātu hu 
+ <lb n="9"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi 
+ <lb n="10"/>ǧaʿfara bni ʾaḥmada bni ʿabdi ăl muʾmini ʾabqā hu ăl lāhu min ʾabī hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au no]m [de] Dieu, clément et miséricordieux!
+			<lb n="2"/>
+		Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due) et te secoure en te gardant la foi! Je t&#039;écris - [que Dieu t&#039;agrée]
+			<lb n="3"/>
+		d&#039;un agrément sans courroux contre toi et t&#039;accorde un bonheur (mérité)! lorsque tu m&#039;as délivré par [....]
+			<lb n="4"/>
+		[....] des bottines pour Abū ʿAdī, car je suis .... J&#039;ai acheté quelque chose de [....]
+			<lb n="5"/>
+		[..] .. Peut-être irai-je le jour du jeudi ou après le vendredi, si [Dieu le veut! ....]
+			<lb n="6"/>
+		[..] intacte si elle est touchée. Ecris-moi à son sujet. Je t&#039;ai écrit
+			<lb n="7"/>
+		une lettre dans laquelle je te mentionnais l&#039;état où je suis. Sache Que .... Que le salut soit sur toi,
+			<lb n="8"/>
+		ainsi que la miséricorde de Dieu et Ses bénédictions!
+			<lb n="9"/>
+		[A Abū Hurayra - que] Dieu l&#039;honore par l&#039;obéissance (qui Lui est due)!
+			<lb n="10"/>
+		[Ǧaʿfar b. Aḥmad b.] ʿAbd al-Muʾmin - Que Dieu le conserve! De la part de son père.
+</ab></div>
+</body>
+</text>
+</TEI>

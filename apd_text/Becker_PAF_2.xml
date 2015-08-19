@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="520" xml:id="Becker_PAF_2" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerPAF 02</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_PAF_2</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106690</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/><supplied reason="lost" cert="high">  بسم اللّه</supplied> الرّحمن الرّ<supplied reason="lost" cert="high">حيم </supplied>
+<lb n="2"/>  من قرّة بن] شريك إلى بسيل صحب 
+<lb n="3"/>  إشقوه فـ]ـإنّي أحمد <unclear reason="undefined" cert="high">اللّه</unclear> <unclear reason="undefined" cert="high">الّذي</unclear> 
+<lb n="4"/>  لا إله إ]لّا هو 
+<lb n="5"/>  أمّا بعد] فإن داود بن <app type="BL"><lem resp="APD">پدا<gap reason="illegible" extent="1" unit="character" /> </lem><rdg resp="APD">بدّاء</rdg></app> أخبرني 
+<lb n="6"/>  أن مزو]ت قر<unclear reason="undefined" cert="high">يتـ</unclear>ـه <unclear reason="undefined" cert="high">د</unclear>خـ<unclear reason="undefined" cert="high">ل</unclear> بيته 
+<lb n="7"/>  بـأسـ]ـباب له ومتا<unclear reason="undefined" cert="high">ع</unclear> ظلما 
+<lb n="8"/>  بغير حـ]ـق فإذا جاك كتبي 
+<lb n="9"/>  هذا فا]<unclear reason="undefined" cert="high">جـ</unclear>ـمع بينهما فإ<unclear reason="undefined" cert="high">ن</unclear> <unclear reason="undefined" cert="high">كا</unclear>ن 
+<lb n="10"/>  ما أخـ]<unclear reason="undefined" cert="high">ـبر</unclear>ني حقّا فاستـ<unclear reason="undefined" cert="high">ـخر</unclear>ج 
+<lb n="11"/>  له حقّـ]ـه ولا تظلمن عبدك 
+<lb n="12"/>  وادحـ]ـر المزوت عن 
+<lb n="13"/>  بيوت ا]لأنباط دحرا <unclear reason="undefined" cert="high">شـ</unclear>ـديدا 
+<lb n="14"/>  والسّلـ]ـم على من اتّبع الهد<unclear reason="undefined" cert="high">ى</unclear> 
+<lb n="15"/>  وكتب ]الصّلت بن مسعود 
+<lb n="16"/>  في ر]مضان <unclear reason="undefined" cert="high">سنة</unclear> <unclear reason="undefined" cert="high">تسعين</unclear> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà basīla ṣāḥibi 
+ <lb n="3"/>ʾišqawha fa ʾin nī ʾaḥmadu ăl lāha ăllaḏī 
+ <lb n="4"/>lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu fa ʾinna dāwūda bna Bdʾ* baddāʾ:in ʾaḫbara nī 
+ <lb n="6"/>ʾanna māzūta qaryati hi daḫala bayta hu 
+ <lb n="7"/>bi ʾasbāb:in la hu wa matāʿ:in ẓulm:an 
+ <lb n="8"/>bi ġayri ḥaqq:in fa ʾiḏā ǧāʾa ka kitāb ī 
+ <lb n="9"/>hāḏā fa ĭǧmaʿ bayna humā fa ʾin kāna 
+ <lb n="10"/>mā ʾaḫbara nī ḥaqq:an fa ĭstaḫriǧ 
+ <lb n="11"/>la hu ḥaqqa hu wa lā taẓlimanna ʿabda ka 
+ <lb n="12"/>wa ĭdḥari ăl māzūta ʿan 
+ <lb n="13"/>buyūti ăl ʾanbāṭi daḥr:an šadīd:an 
+ <lb n="14"/>wa ăs salāmu ʿalà mani ĭttabaʿa ăl hudà 
+ <lb n="15"/>wa kataba ăṣ ṣaltu bnu masʿūd:in 
+ <lb n="16"/>fī ramaḍāna sanaẗa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes] des Allerbarmers! 
+			<lb n="2"/>
+		[Von Qorra b.] Šarīk an Basilius, den Vorsteher 
+			<lb n="3"/>
+		von Ešqawh. Ich preise 
+			<lb n="4"/>
+		[Gott, ausser dem es keinen Gott] gibt. 
+			<lb n="5"/>
+		[Des weiteren:] David, der Sohn des N.N., hat mir erzählt, 
+			<lb n="6"/>
+		[dass der Beam]te seines Ortes gewaltsam und 
+			<lb n="7"/>
+		[ohne Recht Hab] und Gut von sich in sein Haus 
+			<lb n="8"/>
+		gelegt habe. Drum konfrontiere beide, wenn 
+			<lb n="9"/>
+		[dieser] mein Brief zu dir kommt, und wenn 
+			<lb n="10"/>
+		[seine Behaup]tung zu Recht besteht, so verschaffe 
+			<lb n="11"/>
+		[ihm sein Recht], und nicht sollst du deinen Knecht vergewaltigen, 
+			<lb n="12"/>
+		[und halte ab] die (den) Beamten von 
+			<lb n="13"/>
+		[den Häusern] der Eingebornen aufs strengste. 
+			<lb n="14"/>
+		[Heil] über den, welcher der Rechtsleitung folgt. 
+			<lb n="15"/>
+		[Und es hat dies geschrieben] el-Ṣalt b. Masʿūd 
+			<lb n="16"/>
+		[im Ra]maḍān des Jahres neunzig. 
+</ab></div>
+</body>
+</text>
+</TEI>

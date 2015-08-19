@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1281" xml:id="Khan_Khalili_I_11" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 11 (= P.Khalili II 102 verso)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_11</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169104</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  قبضت من أبو الهذيل التبّان ست 
+ <lb n="3"/>  دنانير غير سدس من العين الّذي 
+ <lb n="4"/>  <supplied reason="lost" cert="high">جـ</supplied>ـرا على يدين ابن <app type="BL"><lem resp="APD">الرّافعي </lem><rdg resp="APD">الرّافقيّ </rdg><rdg resp="APD">الرّابعىّ</rdg></app> وإبرهيم 
+ <lb n="5"/>  بن محمّد العلالي في جمادى <app type="BL"><lem resp="APD">الأخرى </lem><rdg resp="Diem">الآخر</rdg></app> 
+ <lb n="6"/>  سنة خمس وثمانين ومائتن وكتبه 
+ <lb n="7"/>  محمّد <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">عبـ</supplied>ـد الجبّار بن عيسى بخطّه 
+ <lb n="handmark"/>  <gap reason="illegible" extent="1" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>qabaḍtu min ʾabū ăl huḏayli ăl tabbāni sitta 
+ <lb n="3"/>danānīra ġayra suds:in mina ăl ʿayni ăllaḏī 
+ <lb n="4"/>ǧarā ʿalà yadayni ĭbni ăl rāfiʿiyyi rāfiqiyyi rābiʿiyyi wa ʾibrāhīma 
+ <lb n="5"/>bni muḥammad:ini ăl ʿalāliyyi ʿulāliyyi fī ǧumādà ăl ʾuḫrà ʾāḫiri 
+ <lb n="6"/>sanaẗa ḫams:in wa ṯamānīna wa miʾatayni wa kataba hu 
+ <lb n="7"/>muḥammadu bnu ʿabdi ăl ǧabbāri bni ʿīsà bi ḫaṭṭi hi 
+ <lb n="8"/>* 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the merciful and compassionate.
+		 <lb n="2"/>
+ 	  I have received from ʾAbā l-Huḏayl the straw dealer six
+		 <lb n="3"/>
+ 	  dīnārs less a sixth in cash, which
+		 <lb n="4"/>
+ 	  was delivered by ʾAbū al-Rāfiʿī and ʾIbrāhīm
+		 <lb n="5"/>
+ 	  ibn Muḥammad al-ʿAlālī in the Last Jumādā
+		 <lb n="6"/>
+ 	  in the year two hundred and eighty five. It was written by
+		 <lb n="7"/>
+ 	  Muḥammad [ibn ʿAb]d al-Jabbār ibn ʿĪsā with his own hand.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

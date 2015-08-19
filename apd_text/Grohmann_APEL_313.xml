@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1789" xml:id="Grohmann_APEL_313" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 313</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_313</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169530</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/>ل وجّهه ظروف فاعلم أنّك <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه ألف وخمسة مائة ظرف ولم يدفع إلي ألف 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> من آلاف كما باعوا وذكر أن مرقوره أخذ المال فلمّا 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="20" unit="character" /> علـ<supplied reason="lost" cert="high">ـى</supplied> مرقوره 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>***l waǧǧaha hu ẓurūf fa ĭʿlam ʾanna ka ********* 
+ <lb n="2"/>***h ʾalf wa ḫamsaẗ miʾaẗi ẓarf:in wa lam yadfaʿ ʾilay ya ʾalfa 
+ <lb n="3"/>*** mina ʾālāf:in ka mā bāʿū wa ḏakara ʾanna marqūraha ʾaḫaḏa ăl māla fa lammā 
+ <lb n="4"/>*** ******************** ʿalà marqūraha 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		] to (?) dispatch to him (?) receptacles. Now know this
+			<lb n="2"/>
+		] ...... thousand and five hundred receptacles, but he did not hand over to me (more) than a thousand
+			<lb n="3"/>
+		] of the little, as they have sold. And he reports that Merqûre has taken the money. But when
+			<lb n="4"/>
+		.......................................... du[e] to Merqûre.
+</ab></div>
+</body>
+</text>
+</TEI>

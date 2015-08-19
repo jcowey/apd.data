@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2373" xml:id="MoutonSourdel_Damas_7a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.MariageSeparation 07a</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">MoutonSourdel_Damas_7a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="27" unit="character" /> منه براه بأخذ علی <gap reason="illegible" extent="16" unit="character" /> 
+<lb n="2"/>  <gap reason="illegible" extent="27" unit="character" /> منه عليه أن يتّقي اللّه تعالی فيـ<supplied reason="lost" cert="high">ـها</supplied> <gap reason="illegible" extent="8" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" extent="27" unit="character" /> <supplied reason="lost" cert="high">يجب</supplied> <supplied reason="lost" cert="high">لمثلها</supplied> <supplied reason="lost" cert="high">علـ</supplied>ـی مثله أبدا ما صاحبها ودايما ما عا<supplied reason="lost" cert="high">شرها</supplied> <gap reason="illegible" extent="12" unit="character" /> 
+<lb n="4"/>  <gap reason="illegible" extent="27" unit="character" /> في شريعة سيّدنا محمّد نبيّه صلّی اللّه وملايكته عليه وعلی آ<supplied reason="lost" cert="high">له</supplied> <gap reason="illegible" extent="16" unit="character" /> 
+<lb n="5"/>  <gap reason="illegible" extent="27" unit="character" /> حسن الصّحبة بين الزّوجين وكرم العشرة بين الفريقين وله <gap reason="illegible" extent="18" unit="character" /> 
+<lb n="6"/>  <gap reason="illegible" extent="25" unit="character" /> <supplied reason="lost" cert="high">وولی</supplied> <supplied reason="lost" cert="high">تزو</supplied>يجها منه علی هذا الصّداق المذكور فيه وكيلها 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** min hu barāʾaẗ bi ʾaḫḏ:in ʿalà *** 
+ <lb n="2"/>*** min hu ʿalay hi ʾan yattaqiya ăl lāha taʿālà fī hā *** 
+ <lb n="3"/>*** yaǧibu li miṯli hā ʿalà miṯli hi ʾabad:an mā ṣāḥaba hā wa dāyim:an mā ʿāšara hā *** 
+ <lb n="4"/>*** fī šarīʿaẗi sayyidi nā muḥammad:in nabiyyi hi ṣallà ăl lāhu wa malāyikatu hu ʿalay hi wa ʿalà ʾāli hi *** 
+ <lb n="5"/>*** ḥusn ăṣ ṣuḥbaẗi bayna ăz zawǧayni wa karam ăl ʿišraẗi bayna ăl farīqayni wa la hu *** 
+ <lb n="6"/>*** wa waliyyu tazwīǧi hā min hu ʿalà hāḏā ăṣ ṣadāqi ăl maḏkūri fī hi wakīlu hā 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[...] a donné quittance de la prise de possession de [...]
+			<lb n="2"/>
+		[...] (de sa dot) a ses dépens à lui. Il lui incombe de craindre Dieu le Très-Haut en ce qui [la] concerne [...]
+			<lb n="3"/>
+		[... Il lui faut agir avec elle] comme elle avec lui, de vivre à jamais avec elle en bonne compagnie et de toujours la bien [traiter ...]
+			<lb n="4"/>
+		[...] selon la Loi (šarīʿa) de notre seigneur Muḥammad Son prophète - que les bénédictions de Dieu et de Ses anges se répandent sur lui et sur sa fa[mille...]
+			<lb n="5"/>
+		[...] la beauté de l&#039;amitié entre les deux époux et la noblesse du bon traitement entre les deux conjoints et il lui incombe...
+			<lb n="6"/>
+		[... le tuteur de son ma]riage avec lui selon cette dot mentionnée est son fondé de pouvoir (à elle) (wakīl).
+</ab></div>
+</body>
+</text>
+</TEI>

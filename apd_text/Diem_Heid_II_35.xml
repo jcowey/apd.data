@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1412" xml:id="Diem_Heid_II_35" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 35</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_35</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169202</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="2"/>  أطال اللّه بقاك وأدام عزّك وكرامتك <supplied reason="lost" cert="high">و</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  كتابي إليك أعزّك اللّه يوم الجمعة لـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="UB">ليال</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="UB">خلون</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="UB">من</rdg></app> <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">وأنا</rdg></app> 
+<lb n="4"/>  لم أسمع لك أعزّك اللّه خبر <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  وإذا سلّم اللّه حامل كتابي هـ<supplied reason="lost" cert="high">ـذا</supplied> <supplied reason="lost" cert="high">إليك</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فـ<gap reason="illegible" precision="low" extent="3"/>ـ</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  الفسطاطي <app type="BL"><lem resp="APD">واشتري </lem><rdg resp="Rāġib">فاقبض</rdg></app> منه <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  زهر قمح نقي طيّب بري من <app type="BL"><lem resp="APD">الـ<supplied reason="lost" cert="high">ــعلث</supplied> </lem><rdg resp="APD">التّراب</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">والطّين</supplied> </lem><rdg resp="APD"><gap reason="illegible" precision="low" extent="3"/></rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  لا يـ<unclear reason="undefined" cert="high">ـقـ</unclear>ـبّـ<unclear reason="undefined" cert="high">ـن</unclear> الكف زهر أعزّك اللّـ<supplied reason="lost" cert="high">ـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="9"/>  إن لم يحرص في بيعه <app type="BL"><lem resp="APD">فا<gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فاشتريه</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">من</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">غيره</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="10"/>  يكون ثمنه في صرّة على <app type="BL"><lem resp="APD">حد<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">خدّامي </rdg><rdg resp="APD">خدّام</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">لي</rdg></app> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾadāma ʿizza ka wa karāmata ka wa *** *** 
+ <lb n="3"/>kitāb ī ʾilay ka ʾaʿazza ka ăl lāhu yawma ăl ǧumʿaẗi *** li *** layāl:in *** ḫalawna *** min *** *** wa ø ʾanā 
+ <lb n="4"/>lam ʾasmaʿ la ka ʾaʿazza ka ăl lāhu ḫabar *** *** 
+ <lb n="5"/>wa ʾiḏā sallama ăl lāhu ḥāmila kitāb ī hāḏā ʾilay ka *** fa ø *** *** 
+ <lb n="6"/>ăl fusṭāṭiyy wa fa ĭštirī ĭqbaḍ min hu *** *** 
+ <lb n="7"/>zahr qamḥ:in naqiyy:in ṭayyib:in barīʾ:in mina ăl ăt ʿalaṯi turābi wa ø ăṭ *** ø ṭīni *** 
+ <lb n="8"/>lā yuqabbini ăl kaffu zahr ʾaʿazza ka ăl lāhu *** 
+ <lb n="9"/>ʾin lam yaḥriṣ fī bayʿi hi fa ʾ*** ĭštarī ø hi *** min *** ġayri hi ø *** 
+ <lb n="10"/>yakūnu ṯamanu hu fī ṣurraẗ:in ʿalà ḥd*** ḫaddām ø ī ḫaddām:in *** l ø ī *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, [des Barmherzigen und Gnädigen!]
+			<lb n="2"/>
+		Gott lasse Dich lange leben und lasse Dein Ansehen, Deine ehrenvolle Stellung, [Dein(e) ...] andauern!
+			<lb n="3"/>
+		Mein Brief ergeht an Dich - Gott stärke Dich -  am Freitag, den [..., ohne daß]
+			<lb n="4"/>
+		ich von Dir - Gott stärke Dich - Nachricht erhalten habe [
+			<lb n="5"/>
+		Wenn Gott den Überbringer dieses meines an Dich gerichteten Schreibens wohlbehalten (ankommen) läßt, [dann ... und begib Dich zu]
+			<lb n="6"/>
+		al-Fusṭāṭī und kaufe von ihm [
+			<lb n="7"/>
+		reinen, guten und von [Beimengungen und Erde (?)] freien Weizen bester Qualität [... und denke daran:]
+			<lb n="8"/>
+		die Hand soll nicht Weizen bester Qualität abwiegen (?) - Gott stärke Dich - [
+			<lb n="9"/>
+		wenn er (sc. al-Fusṭāṭī) keinen Wert darauf legt, ihn zu verkaufen, dann [
+			<lb n="10"/>
+		die Kaufsumme wird in einer Börse sein auf [
+</ab></div>
+</body>
+</text>
+</TEI>

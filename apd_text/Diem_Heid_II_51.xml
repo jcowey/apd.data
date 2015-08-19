@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1443" xml:id="Diem_Heid_II_51" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 51</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_51</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169228</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="recto 2"/>  حفظك اللّه يا ستّي وأبقاك <supplied reason="lost" cert="high">و</supplied>أمتعني <supplied reason="lost" cert="high">بك</supplied> 
+<lb n="recto 3"/>  وجعلني فداك كتبت إليك وأنا بحال <supplied reason="lost" cert="high">عافية</supplied> 
+<lb n="recto 4"/>  واللّه محمود أعلمك يا ستّي أنّي واللّه حـ<supplied reason="lost" cert="high">ـببت</supplied> 
+<lb n="recto 5"/>  القدوم شوق منّي إليك ولاكن <unclear reason="undefined" cert="high">شيا</unclear> وهذا <supplied reason="lost" cert="high">الشّي</supplied> 
+<lb n="recto 6"/>  الّذي يمنعني فأسل اللّه أ<supplied reason="lost" cert="high">ن</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="6" unit="character" /> </lem><rdg resp="APD">يبقيك</rdg></app> <supplied reason="lost" cert="high">ويجعل</supplied> <supplied reason="lost" cert="high">يومي</supplied> 
+<lb n="recto 7"/>  قبل يومك ولا يميتني يا ستّي حمى <supplied reason="lost" cert="high">منـ</supplied>ـك علي <supplied reason="lost" cert="high">قبل</supplied> <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">يريني</supplied> 
+<lb n="recto 8"/>  وجهك اللّه بعلمه <supplied reason="lost" cert="high">فـ</supplied>ـأسل <unclear reason="undefined" cert="high">اللّه</unclear> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أن</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">يطيل</supplied> </lem><rdg resp="APD">يطوّل</rdg></app> 
+<lb n="recto 9"/>  <unclear reason="undefined" cert="high">بـ</unclear>ـقاك وأن يبقي <unclear reason="undefined" cert="high">لك</unclear> سيّدي <gap reason="illegible" extent="2" unit="character" /> عمـ<gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 10"/>  عافية وأعلمك يا ستّي أبقاك <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">أنّي</supplied> 
+<lb n="recto 11"/>  بعثت إليك بالجبّا مع طـ<gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 12"/>  بكتاب يعلمني <unclear reason="undefined" cert="high">فـ</unclear>ـ<supplied reason="lost" cert="high">ـيـه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 13"/>  پعسى ممّا اصـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto right margin"/>  وخـ<unclear reason="undefined" cert="high">ـذي</unclear> الجبّا فإنّه ليس يسوا وا<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso 1"/>  <supplied reason="lost" cert="high">لأمّ</supplied> يزيد أبقاها اللّه من <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="8" unit="character" /> <gap reason="illegible" extent="4" unit="character" /> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ki ăl lāhu yā sitt ī wa ʾabqā ki wa ʾamtaʿa nī bi ki 
+ <lb n="3"/>wa ǧaʿala nī fidāʾa ki katabtu ʾilay ki wa ʾanā bi ḥāli ʿāfiyaẗ:in 
+ <lb n="4"/>wa ăl lāhu maḥmūd:un ʾuʿlimu ki yā sitt ī ʾan nī wa ăl lāhi ḥababtu 
+ <lb n="5"/>ăl qudūma šawq min nī ʾilay ki wa lākinna šayʾ:an wa hāḏā ăš šayʾu 
+ <lb n="6"/>ăllaḏī yamnaʿu nī fa ʾasalu ăl lāha ʾan ****** yubqiya ø ki wa yaǧʿalu yawm ī 
+ <lb n="7"/>qabla yawmi ki wa lā yumīta nī yā sitt ī ḥamy min ki ʿalay ya qabla ʾan yuriya nī 
+ <lb n="8"/>waǧha ki ăl lāhu bi ʿilmi hi fa ʾasalu ăl lāha *** *** ʾan yuṭīla yuṭawwila 
+ <lb n="9"/>baqāʾa ki wa ʾan yubqiya la ki sayyid ī ** ʿm***** **** 
+ <lb n="10"/>ʿāfiyaẗ wa ʾuʿlimu ki yā sitt ī ʾabqā ki ăl lāhu ʾan nī 
+ <lb n="11"/>baʿaṯtu ʾilay ki bi ăl ǧibbā maʿa ṭ***** *** 
+ <lb n="12"/>bi kitāb:in yuʿlimu nī fī hi *** 
+ <lb n="13"/>Bʿsy mimmā ʾṣ*** 
+ <lb n="14"/>*** ****** *** 
+ <lb n="15"/>wa ḫuḏī ăl ǧibbā fa ʾinna hu laysa yaswā wa ʾ**** 
+ <lb n="16"/>li ʾummi yazīda ʾabqā hā ăl lāhu min *** ******** **** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott beschütze Dich, meine Herrin, erhalte Dich, gebe mir [an Dir] Freude
+			<lb n="3"/>
+		und mache mich zu Deinem Lösegeld! Ich schreibe an Dich, während ich im Zustand [der Gesundheit] bin,
+			<lb n="4"/>
+		Gott sei gelobt, um Dir mitzuteilen, meine Herrin, daß ich, bei Gott, ge[rn]
+			<lb n="5"/>
+		aus Sehnsucht nach Dir (persönlich) gekommen wäre; aber &lt;es hat sich&gt; eine Sache &lt;ergeben&gt;, und diese [Sache]
+			<lb n="6"/>
+		ist das, was mich (am Kommen) hindert. So bitte ich denn Gott, er möge - - -, [er möge meinen (Todes)tag]
+			<lb n="7"/>
+		vor Deinem (Todes)tag [festsetzen] und er möge mich nicht, meine Herrin, wegen einer Verstimmung, die Du gegen mich fühlst, sterben lassen, [bevor]
+			<lb n="8"/>
+		Gott [mich] in seinem Wissen Dein Gesicht [sehen läßt]. So bitte ich denn Gott - - -, [er möge]
+			<lb n="9"/>
+		Dich [lange] leben lassen und er möge Dir meinen Herrn - - - (Kunyah?) erhalten - - - [... in]
+			<lb n="10"/>
+		Gesundheit. Ferner teile ich Dir, meine Herrin - [Gott] erhalte Dich -, mit, daß ich
+			<lb n="11"/>
+		Dir diese Pilze durch - - - (Personenname) übersende - - - [
+			<lb n="12"/>
+		einen Brief, in dem er/sie mitteilt [
+			<lb n="13"/>
+		- - - von dem, was - - - [
+			<lb n="14"/>
+			<lb n="15"/>
+		und nimm die Pilze an, denn sie sind ja nichts wert, und [
+			<lb n="16"/>
+		[An Umm] Yazīd - Gott erhalte sie - von - - -.
+</ab></div>
+</body>
+</text>
+</TEI>

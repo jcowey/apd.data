@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2219" xml:id="Stern_FatimidPetitions_1" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SternFatimidPetitions 1 (= P.GenizahCambr. 074)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Stern_FatimidPetitions_1</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  صلوات اللّه وبركاته ونوامي زكواته وأفضل تحيّاته على مولانا وسيّدنا الإمام المستنصر باللّه 
+<lb n="3"/>  أمير المومپپن صلوات اللّه عليه وعلى آبائه الطّاهرين وعلى أبنائه الأكرمين عبد مولانا صلوات الله عليه <app type="BL"><lem resp="APD">يستجير </lem><rdg resp="Khan">مستجير</rdg></app> بالله 
+<lb n="4"/>  تعالى ذكره وبعدل الدّولة النّبويّة وذلك أن كان له ولد رجل عمره <app type="BL"><lem resp="APD">ست </lem><rdg resp="Khan">ثلث</rdg></app> وعشرين سنة سافر 
+<lb n="5"/>  من سرسنا في سميريّة هو ورجل تاجر معه شاب أيضا عمره <app type="BL"><lem resp="APD">ست </lem><rdg resp="Khan">ثلث</rdg></app> وعشرين سنة أيضا 
+<lb n="6"/>  وفي وسطهما مال عين قدره خمس مائة دينارا وبضاعة معهم قدرها <app type="BL"><lem resp="APD">مائة </lem><rdg resp="APD">مائتان</rdg></app> دينار 
+<lb n="7"/>  يطلبوا بلد فوّة ليدخلا إلى <app type="BL"><lem resp="sīn with dash above">إسكندريّة </lem><rdg resp="Khan">سكندريّة</rdg></app> فغدر بهما <app type="BL"><lem resp="sīn with dash above">رئيس </lem><rdg resp="Khan">ريّس</rdg></app> السّميريّة والنّواتية 
+<lb n="8"/>  <app type="BL"><lem resp="APD">الّذين </lem><rdg resp="LS cf. plate. yāʾ bent backwards">اللّتي </rdg><rdg resp="Khan">الّذي</rdg></app> فيها وقتلا الشّابين الرّجلين المذكورين وأخذوا ما كان معهم 
+<lb n="9"/>  من المال والبضاعة وعبد مولانا صلّى اللّه عليه مستجير باللّه تعالى ذكره 
+<lb n="10"/>  وبعدل الدّولة النّبويّة ثبّت اللّه أركانها <app type="BL"><lem resp="APD">يسئل </lem><rdg resp="Khan">يسل</rdg></app> التّوقيع إلي 
+<lb n="11"/>  خلفا الأمير الموفّق سنان الدّولة بالقبض على هولا النّواتية <app type="BL"><lem resp="APD">ورئيس </lem><rdg resp="Khan">وريّس</rdg></app> السّميريّة وكشف 
+<lb n="12"/>  هذا الحال كشف يعلم منه صحّة ما ذكره العبد ولمولانا 
+<lb n="13"/>  صلّى اللّه عليه عالي الرّأي في ذلك إن شا اللّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ṣalawātu ăl lāhi wa barakātu hu wa nawāmī zakawāti hi wa ʾafḍalu taḥiyyāti hi ʿalà mawlā nā wa sayyidi nā ăl ʾimāmi ăl mustanṣiri bi ăl lāhi 
+ <lb n="3"/>ʾamīri ăl muʾminīna ṣalawātu ăl lāhi ʿalay hi wa ʿalà ʾābāʾi hi ăṭ ṭāhirīna wa ʿalà ʾabnāʾi hi ăl ʾakramīna ʿabdu mawlā nā ṣalawātu ăl lāhi ʿalay hi yastaǧīru mustaǧīr:un bi ăl lāhi 
+ <lb n="5"/>taʿālà ḏikru hu wa bi ʿadli ăd dawlaẗi ăn nabawiyyaẗi wa ḏālika ʾan kāna la hu walad:un raǧul:un ʿumru hu sitt:un ṯalāṯ:un wa ʿišrīna sanaẗ:an 
+ <lb n="7"/>min sirsinā fī sumayriyyaẗ:in huwa wa raǧul:un tāǧir:un maʿa hu šābb:un ʾayḍ:an ʿumru hu sitt:un ṯalāṯ:un wa ʿišrīna sanaẗ:an ʾayḍ:an 
+ <lb n="8"/>wa fī wasaṭi himā māl:un ʿayn:un qadru hu ḫamsu miʾaẗi dīnār:an wa biḍāʿaẗ:un maʿa hum qadru hā miʾaẗu miʾatāni dīnār:in 
+ <lb n="9"/>yaṭlubū balada fuwwaẗa li yadḫulā ʾilà ʾiskandariyyaẗa skandariyyaẗa fa ġadara bi himā raʾīsu rayyisu ăs sumayriyyaẗi wa ăn nawātiyaẗu 
+ <lb n="10"/>ăllaḏīna ăllatay ăllatī ăllaḏī fī hā wa qatalā ăš šābbayni ăr raǧulayni ăl maḏkūrayni wa ʾaḫaḏū mā kāna maʿa hum 
+ <lb n="11"/>mina ăl māli wa ăl biḍāʿaẗi wa ʿabdu mawlā nā ṣallà ăl lāhu ʿalay hi mustaǧīr:un bi ăl lāhi taʿālà ḏikru hu 
+ <lb n="12"/>wa bi ʿadli ăd dawlaẗi ăn nabawiyyaẗi ṯabbata ăl lāhu ʾarkāna hā yasʾalu yasalu ăt tawqīʿa ʾilà 
+ <lb n="13"/>ḫulafāʾi ăl ʾamīri ăl muwaffaqi sināni ăd dawlaẗi bi ăl qabḍi ʿalà hāʾulāʾi ăn nawātiyaẗi wa raʾīsi rayyisi ăs sumayriyyaẗi wa kašfi 
+ <lb n="14"/>hāḏā ăl ḥāli kašf yaʿlamu min hu ṣiḥḥaẗa mā ḏakara hu ăl ʿabdu wa li mawlā nā 
+ <lb n="15"/>ṣallà ăl lāhu ʿalay hi ʿālī ăr raʾyi fī ḏālika ʾin šāʾa ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the merciful and compassionate.
+		In the name of God, the Merciful, the Compassionate.
+			<lb n="2"/>
+		The benedictions of God and his blessings, his increasing benefactions and most excellent greetings be upon our master and lord the &#039;imām al-Mustanṣir bi-Allāh,
+		The blessings and benedictions of God, and His increasing benefactions and most excellent greetings be upon our Lord and Master the Imām al-Mustanṣir billāh,
+			<lb n="3"/>
+		Commander of the Faithful, God&#039;s blessings upon him, his pure ancestors and noble sons. The slave of our Lord, God&#039;s blessings be upon him, seeks refuge with God
+		commander of the faithful, the blessings of God be upon him and upon his pure ancestors and most noble sons. The slave of my master, the blessings of God be upon him, takes refuge in God,
+			<lb n="5"/>
+		(may His name be blessed) and the justice of the prophetic dynasty, in the following matter. He had a son, a young man twenty-six years old, who was travelling
+		of exalted name, and in the justice of the prophetic dynasty, on account of the following: He had a son, a man of twenty-three years of age, who travelled
+			<lb n="7"/>
+		from Sirsinā in a boat, together with a merchant, a young man who was also twenty-three years old.
+		from Sirsinā in a boat, together with another merchant, also a young man twenty-six years old.
+			<lb n="8"/>
+		They carried in partnership five-hundred dīnārs in cash and goods worth two-hundred dīnārs.
+		They carried in their belt 500 dinars in cash and had with them merchandise to the value of 100 dinars.
+			<lb n="9"/>
+		Their destination was the town of Fuwwa, from which they proposed to continue their journey to Alexandria. The captain of the boat, however, and the sailors on board treacherously
+		They were making for the town of Fuwwa and, from there, to Alexandria. The captain of the boat and the sailors
+			<lb n="10"/>
+		in it betrayed the two aforementioned young men, killed them and took
+		murdered the said young men and took their
+			<lb n="11"/>
+		money and merchandise. The slave of our Lord, God&#039;s blessing upon him, seeks refuge with God (may His name be exalted)
+		the money and the goods that they were carrying. The slave of our master, God bless him, taking refuge in God, of exalted name, 
+			<lb n="12"/>
+		and in the justice of the prophetic dynasty, may God establish its supports, asks for a rescript to be issued to
+		and with the justice of the prophetic dynasty (may God firmly establish its pillars) and petitions for an order to be issued to the
+			<lb n="13"/>
+		lieutenants of the Prosperous Amīr Sinān al-Dawla to arrest those sailors and the captain of the boat and investigate
+		the lieutenants of the prosperous &#039;amīr, Sinān al-Dawla, to arrest those sailors and the captain of the boat and to investigate
+			<lb n="14"/>
+		the matter, so that the truth of the slave&#039;s account be confirmed. To our Lord,
+		this case, so that the truthfulness of what the slave has said to be known. To our master
+			<lb n="15"/>
+		God bless him, belongs the exalted resolution in this matter, if God wills.
+		God&#039;s blessing upon him, belongs the exalted opinion in this matter, if God wills.
+</ab></div>
+</body>
+</text>
+</TEI>

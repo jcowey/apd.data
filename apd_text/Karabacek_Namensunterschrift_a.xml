@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="833" xml:id="Karabacek_Namensunterschrift_a" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.KarabacekUnterschrift 1 (= P.World p. 144 a)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Karabacek_Namensunterschrift_a</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113613</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أكرمك اللّه وأبقاك 
+<lb n="3"/>  ادفع إلى هاشم الحارس 
+<lb n="4"/>  ‮ثلاثين رطلا عنب ‪λ‬ 
+<lb n="5"/>  إن شا اللّه وكتب محسن بن 
+<lb n="6"/>  الحسين بخطّه <gap reason="illegible" extent="1" unit="character" /> يوم الأربعا 
+<lb n="7"/>  ‮مسرى ‪ις‬ من سنة ‪σοδ‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾakrama ka ăl lāhu wa ʾabqā ka 
+ <lb n="3"/>ĭdfaʿ ʾilà hāšim:ini ăl ḥārisi 
+ <lb n="4"/>ṯalāṯīna raṭl:an ʿinab 30 
+ <lb n="5"/>ʾin šāʾa ăl lāhu wa kataba muḥsinu bnu 
+ <lb n="6"/>ăl ḥusayni bi ḫaṭṭi hi * yawma ăl ʾarbaʿāʾi 
+ <lb n="7"/>misrà 16 min sanaẗi 274 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Allbarmherzigen!
+		In the name of God, the Compassionate, the Merciful!
+			<lb n="2"/>
+		Gott erweise sich dir wohltätig und erhalte dich am Leben!
+		May God benefit thee and preserve thee.
+			<lb n="3"/>
+		Deliver to Hâshim, the guard,
+		Uebergib dem Boten Hâschim
+			<lb n="4"/>
+		dreißig Pfunde Weintrauben, 30,
+		thirty pounds of grapes, 30
+			<lb n="5"/>
+		please God; and Muḥsin ibn
+		so Gott will! Und es schrieb&#039;s Muhsin der Sohn
+			<lb n="6"/>
+		al-Ḥusain has written it in his (own) handwriting on Wednesday, 
+		des el-Husein mit seinem Schriftzuge. - Mittwoch
+			<lb n="7"/>
+		16th Mesori of the year 274.
+		den 16. Mesori vom Jahre 274.
+</ab></div>
+</body>
+</text>
+</TEI>

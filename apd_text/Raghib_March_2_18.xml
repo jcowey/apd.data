@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="473" xml:id="Raghib_March_2_18" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Marchands II 18</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Raghib_March_2_18</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106660</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> أكرمك اللّه بطاعته وأتم عليك نعمته <app type="BL"><lem resp="APD">وهباك </lem><rdg resp="Diem">وهنّأك</rdg></app> كرامته في الدّنيا 
+<lb n="recto 2"/>  <supplied reason="lost" cert="high">والآخرة</supplied> <supplied reason="lost" cert="high">برحمته</supplied> <gap reason="illegible" precision="low" extent="3"/> يأخي كتابي وأنا من أشد النّاس غم يأخي إلى اللّه 
+<lb n="recto 3"/>  <gap reason="illegible" extent="4" unit="character" /> فيه واللّه لو تعلم ما عندي رحمتنا وباللّه أستعين في أمري 
+<lb n="recto 4"/>  <gap reason="illegible" precision="low" extent="3"/> يأخي أبقاك اللّه أبي وغلظه علينا وقلت 
+<lb n="recto 5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">يأ</supplied>خي ما لنا منه إلّا الطّعام واللّه لقد قاسينا في هذا <supplied reason="omitted" cert="high">ا</supplied>لشّتا من البرد 
+<lb n="recto 6"/>  <gap reason="illegible" extent="4" unit="character" /> ما علينا إلّا حلو حلو لو رأيتنا رحمتنا لما أحرق 
+<lb n="recto 7"/>  <gap reason="illegible" extent="4" unit="character" /> أختك خلخالها اشترينا ثوبين قطعناه علينا عند 
+<lb n="recto 8"/>  <gap reason="illegible" precision="low" extent="3"/> منّي واستحييت من النّاس يأخي وأنا في بيتي معه ما غمّه إلّا اللّه 
+<lb n="recto 9"/>  <gap reason="illegible" precision="low" extent="3"/> كانت علينا <del rend="erasure" status="unremarkable">وللـ</del><gap reason="illegible" precision="low" extent="3"/><del rend="erasure" status="unremarkable">ا</del> وان احپاح احد مپهأ 
+<lb n="recto 10"/>  <gap reason="illegible" precision="low" extent="3"/> ولا يشتفي منّا والـ<gap reason="illegible" precision="low" extent="3"/>مة والحمد للّه رآها أمير كبير النّاس <unclear reason="undefined" cert="high">بأحسپوا</unclear> 
+<lb n="recto 11"/>  <gap reason="illegible" precision="low" extent="3"/> سنة منذ <gap reason="illegible" extent="2" unit="character" /> سبع سنين ما أهب 
+<lb n="recto 12"/>  <gap reason="illegible" precision="low" extent="3"/> إيّاه إلّا أخذ شي أعطاها اللّه طرحة في دار 
+<lb n="recto 13"/>  <gap reason="illegible" extent="4" unit="character" />ـا وبه علينا من الجرد العجب يأخي عندنا من 
+<lb n="recto 14"/>  <gap reason="illegible" extent="5" unit="character" /> صار لنا مثل أفضل عدو نرا 
+<lb n="recto 15"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أبقا</supplied>ك اللّه العود الّذي وعد به أخثك إن تحسّنت 
+<lb n="recto 16"/>  <gap reason="illegible" precision="low" extent="3"/> به وأرجو <supplied reason="omitted" cert="high"><gap reason="illegible" extent="1" unit="character" /></supplied> يخلف اللّه لك أكثر منه في الدّنيا والآخرة 
+<lb n="recto top"/>  أخص نفسك بالسّلم والسّلم عليك ورحمته وبركاته 
+<lb n="verso 1"/>  لأبي هريرة أكرمه اللّه بطاعته جعفر بن <supplied reason="lost" cert="high">أحمد</supplied> 
+<lb n="verso 2"/>  بن عبد المومن حـ<supplied reason="lost" cert="high">ـفظه</supplied> <supplied reason="lost" cert="high">اللّه</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ʾakrama ka ăl lāhu bi ṭāʿati hi wa ʾatamma ʿalay ka niʿmata hu wa habā hannaʾa ka karāmata hu fī ăd dunyā 
+ <lb n="2"/>wa ăl ʾāḫiraẗi bi raḥmati hi *** yā ʾaḫ ī kitāb ī wa ʾanā min ʾašaddi ăn nāsi ġamm yā ʾaḫ ī ʾilà ăl lāhi 
+ <lb n="3"/>**** fī hi wa ăl lāhi law taʿlamu mā ʿind ī raḥimta nā wa bi ăl lāhi ʾastaʿīnu fī ʾamr ī 
+ <lb n="4"/>*** yā ʾaḫ ī ʾabqā ka ăl lāhu ʾab ī wa ġilaẓu hu ʿalay nā wa qultu 
+ <lb n="5"/>*** yā ʾaḫ ī mā la nā min hu ʾillā ăṭ ṭaʿāmu wa ăl lāhi la qad qāsaynā fī hāḏā ăš šitāʾi mina ăl bardi 
+ <lb n="6"/>**** mā ʿalay nā ʾillā ḥulw ḥulw law raʾayta nā raḥimta nā li mā ʾaḥriqu 
+ <lb n="7"/>**** ʾuḫt ka ḫalḫāl hā ĭštaraynā ṯawbayni qaṭaʿnā hu ʿalay nā ʿinda 
+ <lb n="8"/>*** minn ī wa ĭstaḥyayat mina ăn nāsi yā ʾaḫ ī wa ʾanā fī bayt ī maʿa hu mā ġamma hu ʾillā ăl lāhu 
+ <lb n="9"/>*** kānat ʿalay nā wa li l **ʾ wa ʾini ĭḥtāǧa ʾaḫaḏa min hā 
+ <lb n="10"/>*** wa lā yaštafī min nā wa ăl ***mẗ wa ăl ḥamdu li l lāhi raʾā hā ʾamīr:un kabīru ăn nāsi bi ʾḥsBwʾ 
+ <lb n="11"/>*** sanaẗ munḏu ** sabʿ sinīna mā ʾahabu 
+ <lb n="12"/>*** ʾiyyā hu ʾillā ʾaḫaḏa šayʾ ʾaʿṭā hā ăl lāhu ṭarḥaẗ:an fī dār:in 
+ <lb n="13"/>****ʾ wa bi hi ʿalay nā mina ăl ǧardi ăl ʿaǧabi yā ʾaḫ ī ʿinda nā min 
+ <lb n="14"/>***** ṣāra la nā miṯla ʾafḍali ʿadūw:in narā 
+ <lb n="15"/>*** ʾabqā ka ăl lāhu ăl ʿūd ăllaḏī waʿada bi hi ʾuḫta ka ʾin taḥassanat 
+ <lb n="16"/>*** bi hi wa ʾarǧū * yuḫlifu ăl lāhu la ka ʾakṯara min hu fī ăd dunyā wa ăl ʾāḫiraẗi 
+ <lb n="17"/>ʾaḫiṣṣi ʾaḫuṣṣu nafsa ka bi ăs salāmi wa ăs salāmu ʿalay ka wa raḥmatu hu wa barakātu hu 
+ <lb n="18"/>li ʾabī hurayraẗa ʾakrama hu ăl lāhu bi ṭāʿati hi ǧaʿfara bni ʾaḥmada 
+ <lb n="19"/>bni ʿabdi ăl muʾmini ḥafiẓa hu ăl lāhu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Au nom de Dieu, clément et miséricordieux!] Que Dieu t&#039;honore par l&#039;obéissance (qui Lui est due), qu&#039;Il parachève Son bienfait envers toi et t&#039;accorde Sa magnanimité dans ce monde
+			<lb n="2"/>
+		[et dans l&#039;autre par Sa miséricorde! ....] Mon frère, j&#039;écris alors que je suis parmi les plus peinés des hommes, mon frère. Vers Dieu
+			<lb n="3"/>
+		] .. Par Dieu! si tu savais ce que j&#039;ai, tu nous prendrais en pitié. A Dieu je demande l&#039;aide dans mon affaire.
+			<lb n="4"/>
+		] Mon frère - que Dieu te conserve! Mon père et sa dureté pour nous. J&#039;ai dit
+			<lb n="5"/>
+		] Mon frère, nous n&#039;avons de lui que la nourriture. Par Dieu! nous avons souffert cet hiver du froid.
+			<lb n="6"/>
+		] . sur nous que doux, doux. Si tu nous voyais, tu nous prendrais en pitié pour ce qui me consume
+			<lb n="7"/>
+		] . ta sœur, sa chaînette de chevilles. Nous avons acheté deux pièces d&#039;étoffe que nous avons fait couper pour nous chez
+			<lb n="8"/>
+		] de moi et elle s&#039;est montrée pleine de pudeur devant les hommes, mon frère, alors que j&#039;étais dans ma maison avec lui. Que Dieu seul le peine!
+			<lb n="9"/>
+		] elle était sur nous 〚....〛 s&#039;il en a besoin, il en prendra.
+			<lb n="10"/>
+		] Et qu&#039;il ne soit pas satisfait du mal qu&#039;il nous cause! `....´ Dieu soit loué! Un émir, le plus grand des hommes, l&#039;a vue ....
+			<lb n="11"/>
+		] un an depuis 〚..〛 sept ans. Je ne donne
+			<lb n="12"/>
+		] lui sans prendre quelque chose. Que Dieu lui donne un voile dans une maison!
+			<lb n="13"/>
+		] .. sur nous d&#039;un dépouillement étonnant, mon frère, chez nous de
+			<lb n="14"/>
+		] .. Il est devenu pour nous comme le meilleur ennemi que nous puissions voir.
+			<lb n="15"/>
+		] - que Dieu te conserve! le bois d&#039;aloès qu&#039;il a promis à ta sœur si s&#039;améliore
+			<lb n="16"/>
+		] J&#039;espère que Dieu te remplacera cela par davantage dans ce monde et dans l&#039;autre!
+			<lb n="17"/>
+		Je t&#039;adresse le salut. Que le salut soit sur toi, ainsi que Sa miséricorde et Ses bénédictions!
+			<lb n="18"/>
+		A Abū Hurayra - que `Dieu´ l&#039;honore par l&#039;obéissance (qui Lui est due)! Ǧaʿfar b. [Aḥmad]
+			<lb n="19"/>
+		b. ʿAbd al-Muʾmin [- que Dieu le garde!]
+</ab></div>
+</body>
+</text>
+</TEI>

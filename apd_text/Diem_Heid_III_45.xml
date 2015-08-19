@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2384" xml:id="Diem_Heid_III_45" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 45</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_45</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1 left margin"/>  شاكر تفضّلها <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">الخادم</unclear> </lem><rdg resp="APD">الخالص</rdg></app> 
+<lb n="recto 2 left margin"/>  علی ولد الأمير المظفّر <supplied reason="lost" cert="high">المبا</supplied>رك 
+<lb n="recto 3"/>  <supplied reason="lost" cert="high">بسـ</supplied>ـم اللّه الرّحمن الرّحيم 
+<lb n="recto 4"/>  صبّح الـ<supplied reason="lost" cert="high">ـلّـ</supplied>ـه <supplied reason="lost" cert="high">حـ</supplied>ـضرة مولاي الأخ عبد الرّحمن بـ<supplied reason="lost" cert="high">ـا</supplied>لسّعادة والكرامة 
+<lb n="recto 5"/>  يا مولاي وصل لأخوك أربعة أمطار صير وقليل سمن 
+<lb n="recto 6"/>  وأريد منها كما جرت العادة خلاصهم ولاعڤلهم مثل 
+<lb n="recto 7"/>  الأمطار الّذي وصلت لأخي وحضر الجمعة وهذا 
+<lb n="recto 8"/>  الأمير الأستاذ جمال الدّولة هو صديقي وقد عرف منّی 
+<lb n="recto 9"/>  أمس بهم وتفضّل <sic n="superfluous">و</sic>بقي تفضّلك أنت لا تجعل 
+<lb n="recto 10"/>  لي علی كل مطر أكثر من درهمين أو إذا غلّيت ثلثة 
+<lb n="recto 11"/>  دراهم لا غير والقليل السّمن قيراطين فإذا غلّيت كان 
+<lb n="recto 12"/>  ثمن دينار علی أن الجميع بحكمك وكيف ما أردت 
+<lb n="recto 13"/>  درتهم في أيدك فلا تحتج علی بحجّة جملة كافية 
+<lb n="recto 14 right margin"/>  فأنت تعلم ما بيني وبينك وقد أنفذت لك أستاذی 
+<lb n="recto 15 upper margin"/>  والڤر<gap reason="illegible" extent="4" unit="character" />ا <gap reason="illegible" extent="2" unit="character" />ا <gap reason="illegible" extent="4" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>پم اا <gap reason="illegible" extent="4" unit="character" /> لط<gap reason="illegible" extent="2" unit="character" />په 
+<lb n="recto 16 upper margin"/>  ونزنوا والسّـ<gap reason="illegible" extent="2" unit="character" /> للـ<gap reason="illegible" extent="4" unit="character" /> 
+<lb n="recto 17 upper margin"/>  الحمد اللّه <supplied reason="lost" cert="high">والـ</supplied>ـسّلام 
+<lb n="verso 1"/>  والإمارة بيني وبينك اجتماعی بك في دهليز 
+<lb n="verso 2"/>  الدّهشة أنا وأنت ومن تعلم والسّلام 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>šākiru tafaḍḍuli hā ăl ḫādimu ḫāliṣu 
+ <lb n="2"/>ʿaliyy:un waladu ăl ʾamīri ăl muẓaffari ăl mubāraki 
+ <lb n="3"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="4"/>ṣabbaḥa ăl lāhu ḥaḍraẗa mawlā ya ăl ʾaḫi ʿabdi ăr raḥmāni bi ăs saʿādaẗi wa ăl karāmaẗi 
+ <lb n="5"/>yā mawlā ya waṣala li ʾaḫū ka ʾarbaʿaẗu ʾamṭāri ṣīr:in wa qalīlu samn:in 
+ <lb n="6"/>wa ʾurīdu min hā kamā ǧarati ăl ʿādaẗu ḫalāṣa hum wa lā ʿaqla hum miṯla 
+ <lb n="7"/>ăl ʾamṭāri ăllaḏī waṣalat li ʾaḫ ī wa ḥaḍara ăl ǧumʿaẗa wa hāḏā 
+ <lb n="8"/>ăl ʾamīru ăl ʾustāḏu ǧamālu ăd dawlaẗi huwa ṣadīq ī wa qad ʿarafa min nī 
+ <lb n="9"/>ʾamsi bi him wa tafaḍḍal wa baqiya tafaḍḍulu ka ʾanta lā taǧʿal 
+ <lb n="10"/>l ī ʿalà kulli maṭar:in ʾakṯara min dirhamayni ʾaw ʾiḏā ġallayta ṯalāṯaẗa 
+ <lb n="11"/>darāhima lā ġayru wa ăl qalīli ăs samni qīrāṭayni fa ʾiḏā ġallayta kāna 
+ <lb n="12"/>ṯumna dīnār:in ʿalà ʾanna ăl ǧamīʿa bi ḥukmi ka wa kayfa mā ʾaradta 
+ <lb n="13"/>durtu hum fī ʾaydi ka fa lā taḥtaǧǧi ʿalay ya bi ḥuǧǧaẗ:in ǧumlaẗ:an kāfiyaẗ:an 
+ <lb n="14"/>fa ʾanta taʿlamu mā bayn ī wa bayna ka wa qad ʾanfaḏtu la ka ʾustāḏ ī 
+ <lb n="15"/>wa ăl fr*ʾ qr*ʾ **ʾ ****Bm ʾʾ **** lṭ*Bh li ṭ*B ø h ø 
+ <lb n="16"/>wa nazinū wa ăs s** li l **** 
+ <lb n="17"/>ăl ḥamdu li ăl lāhi wa ăs salāmu 
+ <lb n="18"/>wa ăl ʾimāraẗu bayn ī wa bayna ka ĭǧtimāʿ ī bi ka fī dihlīzi 
+ <lb n="19"/>ăd dahšaẗi ʾanā wa ʾanta wa man taʿlamu wa ăs salāmu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Der ihr für ihr Wohlwollen Dankbare, der Diener (?)
+			<lb n="2"/>
+		ʿAlī, der Junge des [geseg]neten, siegreichen Emirs.
+			<lb n="3"/>
+		[Im Na]men Gottes, des Barmherzigen und Erbarmungsvollen!
+			<lb n="4"/>
+		Gott schenke der Exzellenz meines Patrons, des Bruders ʿAbd ar-Raḥmān, einen Morgen in Glück und Ehrung!
+			<lb n="5"/>
+		O mein Patron, bei Deinem Bruder sind vier Schläuche mit eingesalzenen kleinen Fischen und eine geringe Menge Butterschmalz eingetroffen,
+			<lb n="6"/>
+		und ich wünsche mir von ihr, wie üblich, ihre Freigabe und nicht Sistierung, (also) so, wie
+			<lb n="7"/>
+		(bei) den Schläuchen, die bei meinem Bruder angekommen sind; er war am Freitag (bei mir) da. Dieser
+			<lb n="8"/>
+		Emir hier, der Patron Ǧamāl ad-Dawlah, ist mein Freund, und er hat von mir
+			<lb n="9"/>
+		gestern von ihnen erfahren. Sei so freundlich {und} - möge Deine Freundlichkeit erhalten bleiben -,
+			<lb n="10"/>
+		mir für jeden Schlauch nicht mehr als zwei Dirham festzusetzen oder, wenn Du einen hohen Preis verlangst, drei
+			<lb n="11"/>
+		Dirham, nicht mehr, und (für) die geringe Menge Butterschmalz zwei Karat, so daß es, wenn Du einen hohen Preis festsetzt,
+			<lb n="12"/>
+		ein achtel Dinar wäre, wobei es allerdings so sein soll, daß alles nach Deinem Urteil geschieht. Auf welche Weise auch immer Du es wünschst,
+			<lb n="13"/>
+		werde ich sie in Deine Hand zirkulieren (?) lassen. Führe gegen mich also auf gar keinen Fall ein Argument an,
+			<lb n="14"/>
+		denn Du weißt ja, welche Verabredung wir haben. Ich sende (hiermit) zu Dir meinen Patron
+			<lb n="15"/>
+		und ...
+			<lb n="16"/>
+		und wir werden zahlen, und ...
+			<lb n="17"/>
+		Preis sei Gott. Gruß!
+			<lb n="18"/>
+		Die Absprache zwischen mir und Dir ist (wie erinnerlich), daß ich mich mit Dir in Dihlīz
+			<lb n="19"/>
+		ad-Dahšah treffe, (also) ich, Du und der, von dem Du weißt. Gruß!
+</ab></div>
+</body>
+</text>
+</TEI>

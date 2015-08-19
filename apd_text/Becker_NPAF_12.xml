@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="503" xml:id="Becker_NPAF_12" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.BeckerNPAF 12 (= P.DietrichTopkapi 1)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Becker_NPAF_12</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">106677</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="- (Dietrich 1)"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّحمن</supplied> <supplied reason="lost" cert="high">الرّحيم</supplied> 
+<lb n="- (Dietrich 2)"/>  <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">قرّة</supplied> <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">شريك</supplied> <supplied reason="lost" cert="high">إلى</supplied> 
+<lb n="- (Dietrich 3)"/>  <supplied reason="lost" cert="high">بسيل</supplied> <supplied reason="lost" cert="high">صاحب</supplied> <supplied reason="lost" cert="high">إشقوه</supplied> <supplied reason="lost" cert="high">فإنّي</supplied> 
+<lb n="- (Dietrich 4)"/>  <supplied reason="lost" cert="high">أحمد</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الذي</supplied> <supplied reason="lost" cert="high">لا</supplied> <supplied reason="lost" cert="high">إله</supplied> <supplied reason="lost" cert="high">إلّا</supplied> <supplied reason="lost" cert="high">هو</supplied> 
+<lb n="1 (Dietrich 5)"/>  أمّا <supplied reason="lost" cert="high">بـ</supplied><unclear reason="undefined" cert="high">ـعد</unclear> فانظر <unclear reason="undefined" cert="high">الّذي</unclear> <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">لا</unclear> </lem><rdg resp="“Diem, Aphrodito p. 264”">ø</rdg></app> <unclear reason="undefined" cert="high">بقي</unclear> 
+<lb n="2 (Dietrich 6)"/>  على <supplied reason="lost" cert="high">أهـ</supplied>ـل أ<supplied reason="lost" cert="high">ر</supplied><unclear reason="undefined" cert="high">ضـ</unclear>ـك ممّا كان 
+<lb n="3 (Dietrich 7)"/>  عبد اللّه بن عبد الملك 
+<lb n="4 (Dietrich 8)"/>  قسّم عليهم من رزقه ومن <app type="BL"><lem resp="“Becker; Diem, Aphrodito p. 264f.”">رزق </lem><rdg resp="“Dietrich”">رزقي</rdg></app> 
+<lb n="5 (Dietrich 9)"/>  سپپه وعمّاله فنفّذه 
+<lb n="6 (Dietrich 10)"/>  سپحرحه ثم عجّـ<unclear reason="undefined" cert="high">ـل</unclear> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">بمـ</supplied><unclear reason="undefined" cert="high">ـا</unclear> </lem><rdg resp="“Dietrich”">إليّ</rdg></app> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">عليك</supplied> </lem><rdg resp="APD">قبلك
+ </rdg><rdg resp="APD">جمعت </rdg><rdg resp="“Dietrich”">به</rdg></app> 
+<lb n="7 (Dietrich 11)"/>  مع رسولي حين يأتيك 
+<lb n="8 (Dietrich 12)"/>  رسول من عندك ولا 
+<lb n="9 (Dietrich 13)"/>  ترسلن إلّا بما<supplied reason="lost" cert="high">ل</supplied> طـ<supplied reason="lost" cert="high">ـيّب</supplied> 
+<lb n="10 (Dietrich 14)"/>  ولاپوحرن مته دپپرا و 
+<lb n="11 (Dietrich 15)"/>  احدا والسّلم على <supplied reason="lost" cert="high">من</supplied> 
+<lb n="12 (Dietrich 16)"/>  اتّبع الهدى وكتب <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“Dietrich”">يزيد</rdg></app> 
+<lb n="13 (Dietrich 17)"/>  في شهر ربيع الأوّ<unclear reason="undefined" cert="high">ل</unclear> من 
+<lb n="14 (Dietrich 18)"/>  سنة تسعين 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>min qurraẗa bni šarīka ʾilà 
+ <lb n="3"/>basīla ṣāḥibi ʾišqawha fa ʾinn ī 
+ <lb n="4"/>ʾaḥmadu ăl lāha ăllaḏī lā ʾilāha ʾillā huwa 
+ <lb n="5"/>ʾammā baʿdu fa ŭnẓuri ăllaḏī lā ø baqiya 
+ <lb n="6"/>ʿalà ʾahli ʾarḍi ka mimmā kāna 
+ <lb n="7"/>ʿabdu ăl lāhi bnu ʿabdi ăl maliki 
+ <lb n="8"/>qassama ʿalay him min rizqi hi wa min rizqi rizqay 
+ <lb n="9"/>hāšiyati hi wa ʿummāli hi fa naffiḏ hu 
+ <lb n="10"/>wa ĭstaḫriǧ hu ṯumma ʿaǧǧil bi ʾilay mā ya ʿalay qibala ǧamaʿta bi ka ø hi 
+ <lb n="11"/>maʿa rasūl ī ḥīna yaʾtī ka 
+ <lb n="12"/>rasūl:in min ʿindi ka wa lā 
+ <lb n="13"/>tursilanna ʾillā bi māl:in ṭayyib:in 
+ <lb n="14"/>wa lā tuʾaḫḫiranna min hu dīnār:an 
+ <lb n="15"/>wāḥid:an wa ăs salāmu ʿalà mani 
+ <lb n="16"/>ĭttabaʿa ăl hudà wa kataba *** yazīdu 
+ <lb n="17"/>fī šahri rabīʿa ăl ʾawwali min 
+ <lb n="18"/>sanaẗi tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barmherzigen, Gütigen!]
+			<lb n="2"/>
+		[Von Qurra b. Šarīk an]
+			<lb n="3"/>
+		[Basileios, den Pagarchen von Išqauh. Ich] 
+			<lb n="4"/>
+		[preise Gott, außer dem es keinen Gott gibt.]
+			<lb n="5"/>
+		Alsdann: achte auf das, was
+		Des Weiteren: Kümmere Dich um die Rückstände, die 
+			<lb n="6"/>
+		den Leuten deines Landes noch obliegen von dem was 
+		die Be[woh]ner Deines Be[zirk]s nicht (länger) schuldig bleiben mögen von dem Anteil, den
+			<lb n="7"/>
+		ʿAbdallāh b. ʿAbdalmalik 
+		ʿAbdallāh b. ʿAbdelmalik 
+			<lb n="8"/>
+		auf sie verteilt hatte von (den Kosten) seiner Verpflegung und der 
+		ihnen auferlegt hatte an Verpflegung für ihn und Verpflegung je für sein Ge-
+		... von seinem und seines Ge
+			<lb n="9"/>
+		folges und seiner Beamten Unterhalt ...
+		folge und seine Beamten. Erledige es und 
+		seines Haushaltes und seiner Beamten. Erledige es und 
+			<lb n="10"/>
+		hole es heraus. Dann sende es mir eilends 
+		schaffe es heraus. Dann sende eilends was dir obliegt 
+			<lb n="11"/>
+		mit meinem Boten, wenn er zu dir kommt, und einem 
+			<lb n="12"/>
+		Boten von Dir. Und Du sollst 
+			<lb n="13"/>
+		nur gutes Geld schicken, 
+			<lb n="14"/>
+		ohne auch nur einen einzigen Dīnār im Verzug 
+		ohne auch nur einen einzigen Dīnār zu verspäten. 
+			<lb n="15"/>
+		Heil sei über den, welcher 
+		zu bleiben. Heil sei über dem, der 
+			<lb n="16"/>
+		der Rechtleitung folgt. Es hat dies geschrieben [N.N.] 
+		der Rechtleitung folgt! Geschrieben hat (es) Yazīd 
+			<lb n="17"/>
+		im Monat Rabīʿ I des 
+			<lb n="18"/>
+		Jahres neunzig.
+</ab></div>
+</body>
+</text>
+</TEI>

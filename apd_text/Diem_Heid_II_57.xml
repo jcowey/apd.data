@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1451" xml:id="Diem_Heid_II_57" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. II 57</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_II_57</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169236</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>   <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پـ</supplied>ــسم الله الرّحمن 
+<lb n="2"/>   <supplied reason="lost" cert="high">اطال</supplied> <supplied reason="lost" cert="high">الـ</supplied>ـله پڤاكما وادام عركما وأكرمكما وانم پعمه علپكما وراد <supplied reason="lost" cert="high">ڤى</supplied> <supplied reason="lost" cert="high">إحساپه</supplied> 
+<lb n="3"/>   <supplied reason="lost" cert="high">كپإپى</supplied> <supplied reason="lost" cert="high">ألپـ</supplied>ـكما اعركما الله عن سلامه وعاڤپه والحمد لله كپپرا وحا<unclear reason="undefined" cert="high">ل</unclear> 
+<lb n="4"/>  <gap reason="illegible" extent="4" unit="character" /> <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـه لكما والشّوق إليكما شي لا أحسن أصفه لكما و<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="5"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">من</supplied> <supplied reason="lost" cert="high">ا</supplied>لوحشة ما لم يعلمه إلّا اللّه فأسل اللّه أن لا يخلي مكانكـ<supplied reason="lost" cert="high">ـما</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>   <supplied reason="lost" cert="high">وان</supplied> <supplied reason="lost" cert="high">بطـ</supplied>ـول پڤاكما وپپسى لپا ڤى احل السپح وأحلكما وان لا <app type="BL"><lem resp="APD">پرپپا </lem><rdg resp="APD">فيكما</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">مكروها </rdg><rdg resp="APD">سوؤا</rdg></app> 
+<lb n="7"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="6" unit="character" />ـل منكما هذا الشهر الّذي سلف وسار إ<supplied reason="lost" cert="high">لى</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  <gap reason="illegible" precision="low" extent="3"/> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="“UB”">اللّه</rdg></app> لطيف لما يشا وان پحعلكما <app type="BL"><lem resp="APD">من </lem><rdg resp="APD">سبقت</rdg></app> <app type="BL"><lem resp="APD">الدپن </lem><rdg resp="APD">لهم</rdg></app> <app type="BL"><lem resp="APD">سپڤپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">منّا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">الحسنى</rdg></app> 
+<lb n="9"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">مع</supplied> <supplied reason="lost" cert="high">كتابـ</supplied>ـكم انا بخبركما وحالكما وجميع ما يعرض من حو<supplied reason="lost" cert="high">ائجكما</supplied> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">فإنّنا</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">نسرّ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">بذلك</rdg></app> 
+<lb n="10"/>  <supplied reason="lost" cert="high">وعلى</supplied> <gap reason="illegible" precision="low" extent="3"/> السّلام كثيرا <supplied reason="omitted" cert="high">وعلى</supplied> أبي محمّد وأبي الحسن وأبي <app type="BL"><lem resp="APD">الحسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="“UB”">الحسين</rdg></app> 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">الـ</supplied>ــسّلم وعلى أبي حفص السّلم وباللّه يأبا بكر ا<gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">پڤـ</supplied>ـرا عليكما السلم ومپمون پڤرا عليكما السلم وا<supplied reason="lost" cert="high">پو</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">يقرأ</supplied> <supplied reason="lost" cert="high">عليـ</supplied>ـكما السّلم أطال اللّه بقاكما وأدام عزّكما <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="2" unit="character" /> باللّه يأ<supplied reason="lost" cert="high">بـ</supplied>ـا علي حپر <gap reason="illegible" extent="4" unit="character" /> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="4" unit="character" /> </lem><rdg resp="APD">كتب</rdg></app> هي لـ<unclear reason="undefined" cert="high">ـنا</unclear> <supplied reason="omitted" cert="high">فأ</supplied>سل اللّه أن <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaṭāla ăl lāhu baqāʾa kumā wa ʾadāma ʿizza kumā wa ʾakrama kumā wa ʾatamma niʿama hu ʿalay kumā wa zāda fī ʾiḥsāni hi ʾilay kumā 
+ <lb n="3"/>kitāb ī ʾilay kumā ʾaʿazza kumā ăl lāhu ʿan salāmaẗ:in wa ʿāfiyaẗ:in wa ăl ḥamdu li l lāhi kaṯīr:an wa ḥāli *** 
+ <lb n="4"/>**** ***ẗ la kumā wa ăš šawqu ʾilay kumā šayʾ:un lā ʾuḥsinu ʾaṣifu hu la kumā wa *** 
+ <lb n="5"/>*** mina ăl waḥšaẗi mā lam yaʿlam hu ʾillā ăl lāhu fa ʾasalu ăl lāha ʾan lā yuḫliya makāna kumā *** 
+ <lb n="6"/>wa ʾan yuṭawwila baqāʾa kumā wa yunsiʾa la nā fī ʾaǧali ăš šayḫi wa ʾaǧali kumā wa ʾan lā yuriya nā *** fī ø kumā *** makrūh:an sūʾ:an 
+ <lb n="7"/>*** *** *** *****l min kumā hāḏā ăš šahra ăllaḏī salafa wa sāra ʾilà *** 
+ <lb n="8"/>*** **** ăl lāh laṭīf:un li mā yašāʾu mina ăllaḏīna sBfB*** sabaqat *** la ø hum *** min ø nā *** ăl ø ḥusnà 
+ <lb n="9"/>*** maʿa kitābi kum la nā bi ḫabari kumā wa ḥāli kumā wa ǧamīʿi mā yaʿriḍu min ḥawāʾiǧi kumā *** fa ø ʾinna ø nā *** nusarru *** bi ø ḏālika 
+ <lb n="10"/>wa ʿalà *** ăs salāmu kaṯīr:an wa ʿalà ʾabī muḥammad:in wa ʾabī ăl ḥasani wa ʾabī ăl ḥs*** ḥusayni 
+ <lb n="11"/>*** ăs salāmu wa ʿalà ʾabī ḥafṣ:in ăs salāmu wa bi ăl lāhi yā ʾabā bakr:in ʾ*** 
+ <lb n="12"/>*** yaqraʾu ʿalay kumā ăs salāma wa maymūn:un yaqraʾu ʿalay kumā ăs salāma wa ʾabū *** 
+ <lb n="13"/>*** yaqraʾu ʿalay kumā ăs salāma ʾaṭāla ăl lāhu baqāʾa kumā wa ʾadāma ʿizza kumā *** 
+ <lb n="14"/>*** ** bi ăl lāhi yā ʾabā ʿaliyy:in ḥBr **** **** kutub hiya la nā fa ʾasalu ăl lāha ʾan *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Gott lasse Euch beide lange leben, lasse Euer Ansehen andauern, ehre Euch, vollende seine Gnadenerweise an Euch und [zeige Euch] noch mehr [sein Wohlwollen!]
+			<lb n="3"/>
+		[Mein Brief ergeht an] Euch - Gott stärke Euch -, während ich gesund und wohlbehalten bin - Lob sei Gott vielmals - und während ich mich in einem Zustand [der Sehnsucht]
+			<lb n="4"/>
+		[...] nach Euch befinde. Die Sehnsucht nach Euch ist etwas, was ich Euch gar nicht beschreiben kann, und [ich verspüre (?)]
+			<lb n="5"/>
+		[...] ein Gefühl der Verlassenheit, das Gott allein kennt. Deshalb bitte ich Gott, daß er Euren Platz nicht leer mache [...]
+			<lb n="6"/>
+		[daß] er Euch lange leben lasse und um unsretwillen Euren und des Scheichs (Todes)tag hinausschiebe und daß er uns nicht sehen lasse
+			<lb n="7"/>
+		[...] von Euch diesen gerade abgelaufenen Monat, und er ging (?) nach (?) [...]
+			<lb n="8"/>
+		[...] freundlich für das, was er will, und daß er Euch zu denen gehören lasse, welche - - - [...]
+			<lb n="9"/>
+		[... infor]miert uns brieflich über die Euch betreffenden Neuigkeiten, Euren Zustand und alle sich ergebenden Anlie[gen ...]
+			<lb n="10"/>
+		[An ...] viele Grüße, &lt;und an&gt; Abū Muḥammad und Abū l-Ḥasan und Abū l-Ḥs[...]
+			<lb n="11"/>
+		[...] Grüße, und an Abū Ḥafṣ Grüße. Bei Gott, Abū Bakr, [...]
+			<lb n="12"/>
+		[...] grüßt Euch, Maymūn grüßt Euch und A[bū ...]
+			<lb n="13"/>
+		[...] grüßt Euch. Gott lasse Euch lange leben, lasse Euer Ansehen andauern [und ...]
+			<lb n="14"/>
+		[...] bei Gott, Abū ʿAlī, - - -  sind (sc. Dinge) für uns; so bitte ich denn Gott, daß [...]
+</ab></div>
+</body>
+</text>
+</TEI>

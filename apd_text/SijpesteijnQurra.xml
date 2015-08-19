@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2110" xml:id="SijpesteijnQurra" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.SijpesteijnQurra</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">SijpesteijnQurra</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> العامل المطمئن 
+<lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/> أمر تعجز عنه 
+<lb n="3"/>  فإن كنت <gap reason="illegible" extent="1" unit="character" /> تبعث 
+<lb n="4"/>  فعجّل إلي بما عـ<supplied reason="lost" cert="high">ـليك</supplied> <supplied reason="lost" cert="high">من</supplied> 
+<lb n="5"/>  الجزية ثم انظر <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="6"/>  بجمع من الأبوا<supplied reason="lost" cert="high">ب</supplied> 
+<lb n="7"/>  ووفره فإنّك قد ترى ما 
+<lb n="8"/>  قد ذهب من الزّمن فلا تخلّين 
+<lb n="9"/>  إلي أن أبعث إليك من يودپك 
+<lb n="10"/>  وإنّي واللّه لقد كرهت ما تصنع 
+<lb n="11"/>  وخفت عليك <supplied reason="lost" cert="high">الـعـ</supplied>ـجز والضّعف 
+<lb n="12"/>  فإن كان فيك خير فلا تفسدن 
+<lb n="13"/>  نفسك ولا تشينن أمرك 
+<lb n="14"/>  وعملك وتفك ما تومر 
+<lb n="15"/>  به فإن الأرض ليست لك بمير 
+<lb n="16"/>  اپ ولسث پاپپ ڤپهإ 
+<lb n="17"/>  قليلا فاخرج ما عليها 
+<lb n="18"/>  من الحق فإن ما توحره 
+<lb n="19"/>  هو أشر للأرض وأجهد 
+<lb n="20"/>  لها وأشد عليك إن كنت 
+<lb n="21"/>  تغفل فعجّل علي بما قبلك من 
+<lb n="22"/>  المال وما جمعت من الفضول 
+<lb n="23"/>  ولا تحقرن شيّا جمعت 
+<lb n="24"/>  واعلم واللّه إنّي آخذك 
+<lb n="25"/>  بالمال أخذا شديدا فلا تكونن 
+<lb n="26"/>  لك غرّة ولا علّة والسّلم 
+<lb n="27"/>  على من اتّبع الهدى وكتب 
+<lb n="28"/>  المستور في رمضان من سنة 
+<lb n="29"/>  إحدى <supplied reason="lost" cert="high">وتسعين</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>*** ăl ʿāmil ăl muṭmaʾinn 
+ <lb n="2"/>*** ʾamr taʿǧizu ʿan hu 
+ <lb n="3"/>fa ʾin kunta * tabʿaṯu 
+ <lb n="4"/>fa ʿaǧǧil ʾilay ya bi mā ʿalay ka mina 
+ <lb n="5"/>ăl ǧizyaẗi ṯumma ŭnẓur *** 
+ <lb n="6"/>bi ǧamʿ:in mina ăl ʾabwābi 
+ <lb n="7"/>wa wafri hi fa ʾinna ka qad tarà mā 
+ <lb n="8"/>qad ḏahaba mina ăz zamani fa lā tuḫalliyanna 
+ <lb n="9"/>ʾilay ya ʾan ʾabʿaṯa ʾilay ka man yuʾḏī ka 
+ <lb n="10"/>wa ʾin nī wa ăl lāhi la qad karihtu mā taṣnaʿu 
+ <lb n="11"/>wa ḫiftu ʿalay ka ăl ʿaǧza wa ăḍ ḍuʿfa 
+ <lb n="12"/>fa ʾin kāna fī ka ḫayr:un fa lā tufsidanna 
+ <lb n="13"/>nafsa ka wa lā tašīnanna ʾamra ka 
+ <lb n="14"/>wa ʿamala ka wa tafukku mā tuʾmaru 
+ <lb n="15"/>bi hi fa ʾinna ăl ʾarḍa laysat la ka bi mīrāṯ:in 
+ <lb n="16"/>wa lasta ṯābit fī hā ʾillā 
+ <lb n="17"/>qalīl:an fa ŭḫruǧ mā ʿalay hā 
+ <lb n="18"/>mina ăl ḥaqqi fa ʾinna mā tuʾaḫḫiru hu 
+ <lb n="19"/>huwa ʾašarru li l ʾarḍi wa ʾaǧhadu 
+ <lb n="20"/>la hā wa ʾašaddu ʿalay ka ʾin kunta 
+ <lb n="21"/>taġfulu fa ʿaǧǧil ʿalay ya bi mā qabla ka mina 
+ <lb n="22"/>ăl māli wa mā ǧamaʿta mina ăl fuḍūli 
+ <lb n="23"/>wa lā taḥqiranna šayy:an ǧamaʿta 
+ <lb n="24"/>wa ĭʿlam wa ăl lāhi ʾin nī ʾāḫuḏu ka 
+ <lb n="25"/>bi ăl māli ʾaḫḏ:an šadīd:an fa lā takūnanna 
+ <lb n="26"/>la ka ġirraẗ:un wa lā ʿillaẗ:un wa ăs salāmu 
+ <lb n="27"/>ʿalà mani ĭttabaʿa ăl hudà wa kataba 
+ <lb n="28"/>ăl mastūru fī ramaḍāna min sanaẗi 
+ <lb n="29"/>ʾiḥdà wa tisʿīna 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		l&#039;administrateur serein [
+			<lb n="2"/>
+		ordre auquel tu as manqué [
+			<lb n="3"/>
+		tu étais [...] que tu envoies
+			<lb n="4"/>
+		Hâte-toi (d&#039;envoyer) ce que [tu me dois des]
+			<lb n="5"/>
+		impôts en argent. Après regarde [
+			<lb n="6"/>
+		avec la collecte des impôt[s
+			<lb n="7"/>
+		et le surplus. Car tu as bien vu
+			<lb n="8"/>
+		le temps qui est déjà passé alors ne me laisse pas
+			<lb n="9"/>
+		t&#039;envoyer quelqu&#039;un pour te blesser.
+			<lb n="10"/>
+		Car moi, par Dieu, j&#039;ai détesté ce que tu fais
+			<lb n="11"/>
+		et j&#039;ai craint chez toi [l&#039;in]compétence et la faiblesse.
+			<lb n="12"/>
+		Donc, si tu as encore un peu de vertu, ne te corromps pas
+			<lb n="13"/>
+		toi-même et ne fais pas honte à tes affaires
+			<lb n="14"/>
+		et à ton travail, et reste fidèle à ce qui t&#039;a été commandé pour cela.
+			<lb n="15"/>
+		Car la terre ne t&#039;a pas été donnée en héri-
+			<lb n="16"/>
+		tage et tu n&#039;y resteras qu&#039;un temps
+			<lb n="17"/>
+		court. Donc extrais ce qui y correspond
+			<lb n="18"/>
+		au droit, car si tu le retardes
+			<lb n="19"/>
+		cela est pire pour la terre et plus éprouvant
+			<lb n="20"/>
+		pour elle, et ce serait pire pour toi si tu
+			<lb n="21"/>
+		le négligeais. Donc hâte-toi de m&#039;(expedier) ce que tu as de
+			<lb n="22"/>
+		l&#039;argent et de ce que tu as rassemblé en taxes extraordinaires
+			<lb n="23"/>
+		et ne méprise rien de ce que tu as rassemblé.
+			<lb n="24"/>
+		Sache, par Dieu, que je m&#039;en prendrai à toi
+			<lb n="25"/>
+		à propos de l&#039;argent, violemment, car il n&#039;y aura pas
+			<lb n="26"/>
+		pour toi d&#039;ignorance ou d&#039;excuses. Que le salut soit
+			<lb n="27"/>
+		sur celui qui suit la Direction ! Écrit
+			<lb n="28"/>
+		par al-Mastūr en Ramaḍan de l&#039;année
+			<lb n="29"/>
+		[9]1.
+</ab></div>
+</body>
+</text>
+</TEI>

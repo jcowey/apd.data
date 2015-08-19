@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1044" xml:id="Kraemer_Nessana_62" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Ness. 62</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Kraemer_Nessana_62</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">21492</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  من الحرث بن عبد إلى أهل 
+<lb n="3"/>  نصـ<supplied reason="lost" cert="high">ـتـ</supplied>ـان من كورة غزّة من 
+<lb n="4"/>  <supplied reason="lost" cert="high">إ</supplied>قليم الخلوص فأعطوا 
+<lb n="5"/>  <supplied reason="lost" cert="high">عمرو</supplied> <supplied reason="lost" cert="high">بن</supplied> قيس من بني 
+<lb n="6"/>  <supplied reason="lost" cert="high">سعد</supplied> <supplied reason="lost" cert="high">پن</supplied> <supplied reason="lost" cert="high">ملك</supplied> ررق <supplied reason="lost" cert="high">سـ</supplied>ـوال 
+<lb n="7"/>  <supplied reason="lost" cert="high">و</supplied>ذي القعدة عشرة وثلث 
+<lb n="8"/>  مئة مدي ‮‮‮‬‮‬‮‮‫‬‫‬‬‬‬‫‬‫‬قمح ومثله زيتا 
+<lb n="9"/>  وكتب خلد في شوّال من 
+<lb n="10"/>  سنة خمس وخمسين 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="12"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="13"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="14"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="15"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="16"/>  <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="17"/>  فجمعته عشرة وثلث مئة 
+<lb n="18"/>  مدي قمح ومثله زيتا 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>mina ăl ḥāriṯi bni ʿabd:in ʾilà ʾahli 
+ <lb n="3"/>naṣtāna min kūraẗi ġazzaẗa min 
+ <lb n="4"/>ʾiqlīmi ăl ḫalūṣi fa ʾaʿṭū 
+ <lb n="5"/>ʿamra bna qays:in min banī 
+ <lb n="6"/>saʿdi bni mālik:in rizqa šawwāl:in 
+ <lb n="7"/>wa ḏī ăl qaʿdaẗi ʿašaraẗ:an wa ṯalāṯa 
+ <lb n="8"/>miʾaẗi mudyi qamḥ:in wa miṯla hu zayt:an 
+ <lb n="9"/>wa kataba ḫālid:un fī šawwāl:in min 
+ <lb n="10"/>sanaẗi ḫams:in wa ḫamsīna 
+ <lb n="11"/>*** 
+ <lb n="12"/>*** 
+ <lb n="13"/>*** 
+ <lb n="14"/>*** 
+ <lb n="15"/>*** 
+ <lb n="16"/>*** 
+ <lb n="17"/>fa ǧumʿatu hu ʿašaraẗ:un wa ṯalāṯu miʾaẗi 
+ <lb n="18"/>mudyi qamḥ:in wa miṯlu hu zayt:an 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful, the Compassionate!
+			<lb n="2"/>
+		From al-Ḥārith ibn ʿAbd to the people of
+			<lb n="3"/>
+		Neṣtān, of the kūra of Gaza, of the
+			<lb n="4"/>
+		iqlīm of al-Khalūṣ And give quickly 
+			<lb n="5"/>
+		to ʿAmr ibn Qais of the bani
+			<lb n="6"/>
+		Saʿd ibn Mālik the rizq of Shawwāl
+			<lb n="7"/>
+		and Dhuʾl-Qaʿda three
+			<lb n="8"/>
+		hundred and ten mudd of wheat and the same of oil
+			<lb n="9"/>
+		Written by Khālid in Shawwāl of
+			<lb n="10"/>
+		the year 55
+			<lb n="17"/>
+		And its total is three hundred and ten
+			<lb n="18"/>
+		mudd of wheat and the same of oil
+</ab></div>
+</body>
+</text>
+</TEI>

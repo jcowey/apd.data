@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1231" xml:id="David-Weill_Louvre_1" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.David-WeillLouvre 01</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">David-Weill_Louvre_1</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169069</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  حفظك اللّه وأبقاك 
+ <lb n="3"/>  كتبت إليك وأنا بحال عافية واللّه 
+ <lb n="4"/>  محمود لا شريك له 
+ <lb n="5"/>  أعلمك ما في مـ<supplied reason="lost" cert="high">ـس</supplied><gap reason="illegible" extent="1" unit="character" />ـڤـ<gap reason="illegible" extent="1" unit="character" /><supplied reason="lost" cert="high">ـ</supplied>ـلك 
+ <lb n="6"/>  أنّي وجّهت إلى أبي العبّاس المائة 
+ <lb n="7"/>  الدينر الّذي أتاني بها سفتجة 
+ <lb n="8"/>  دفعت إليك معـ<supplied reason="lost" cert="high">ـا</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">ستّـ</supplied>ـة 
+ <lb n="9"/>  آلاف دينر عدد و<supplied reason="lost" cert="high">وزنـ</supplied>ـهم ثلثة 
+ <lb n="10"/>  آلاف دينر داخلة وفيها 
+ <lb n="11"/>  من القطع بنصف ثلث وثلثين 
+ <lb n="12"/>  <supplied reason="lost" cert="high">نقدا</supplied> وخمس مائة دينر مثاقيل 
+ <lb n="13"/>  بالجديدة وزنـ<supplied reason="lost" cert="high">ـه</supplied> <supplied reason="lost" cert="high">فيها</supplied> خمسين 
+ <lb n="14"/>  نقدا فاقبضـهم من رسولك 
+ <lb n="15"/>  الّذي أتاني بكتابك 
+ <lb n="16"/>  واكتب إلي بوصولهم إليك 
+ <lb n="17"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="11" unit="character" /> </lem><rdg resp="not in edition, but see translation">لأكون</rdg></app> <app type="BL"><lem resp="APD">علم </lem><rdg resp="not in edition, but see translationʿ">في </rdg><rdg resp="not in edition, but see translationʿ">من</rdg></app> 
+ <lb n="18"/>  <app type="BL"><lem resp="APD"><gap reason="illegible" extent="2" unit="character" />ـع </lem><rdg resp="APD">مع</rdg></app> خبرك وحالك وكل حاجة 
+ <lb n="19"/>  يكون لك <app type="BL"><lem resp="APD">ا<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="APD">إنّي</rdg></app> فيها شارك 
+ <lb n="20"/>  أبلغ <app type="BL"><lem resp="APD">أبي </lem><rdg resp="APD">ابن</rdg></app> عبد اللّه السّلم وجميع 
+ <lb n="21"/>  أصحابك السّلم كثيرا 
+ <lb n="22"/>  حفظك اللّه وأبقاك 
+ <lb n="23"/>  وكتب 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+ <lb n="3"/>katabtu ʾilay ka wa ʾanā bi ḥāli ʿāfiyaẗ:in wa ăl lāhu 
+ <lb n="4"/>maḥmūd:un lā šarīka la hu 
+ <lb n="5"/>ʾuʿlimu ka mā fī msBFBli ka 
+ <lb n="6"/>ʾan nī waǧǧahtu ʾilà ʾabī ăl ʿabbāsi ăl miʾaẗa 
+ <lb n="7"/>ăd dīnāra ăllaḏī ʾatā nī bi hā suftaǧaẗ:un 
+ <lb n="8"/>dafaʿtu ʾilay ka maʿa *** sittaẗa 
+ <lb n="9"/>ʾālāfi dīnār:in ʿadad:in wa waznu hum ṯalāṯaẗu 
+ <lb n="10"/>ʾālāfi dīnār:in dāḫilaẗ:in wa fī hā 
+ <lb n="11"/>mina ăl qaṭʿi bi niṣfi ṯulṯ:in wa ṯalāṯīna ṯulṯayni 
+ <lb n="12"/>naqd:an wa ḫamsa miʾaẗi dīnār:in maṯāqīla 
+ <lb n="13"/>bi ăl ǧadīdaẗi waznu hu fī hā ḫamsīna 
+ <lb n="14"/>naqd:an fa ĭqbiḍ hum min rasūli ka 
+ <lb n="15"/>ăllaḏī ʾatā nī bi kitābi ka 
+ <lb n="16"/>wa ŭktub ʾilay ya bi wuṣūli him ʾilay ka 
+ <lb n="17"/>*********** li ʾakūna ø fī min ø ḏālika ø ʿalà ʿilm:in 
+ <lb n="18"/>**ʿ maʿa ḫabari ka wa ḥāli ka wa kulli ḥāǧaẗ:in 
+ <lb n="19"/>yakūnu la ka ʾ*** ʾin nī fī hā šārik:un 
+ <lb n="20"/>ʾabliġ ʾabliġi ʾabī ĭbna ʿabdi ăl lāhi ăs salāma wa ǧamīʿa 
+ <lb n="21"/>ʾaṣḥābi ka ăs salāma kaṯīr:an 
+ <lb n="22"/>ḥafiẓa ka ăl lāhu wa ʾabqā ka 
+ <lb n="23"/>wa kutiba 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  Au nom de Dieu, clément, miséricordieux!
+		 <lb n="2"/>
+ 	  Dieu te préserve et te conserve,
+		 <lb n="3"/>
+ 	  je tʾai écrit, alors que je suis en état de santé et Dieu
+		 <lb n="4"/>
+ 	  soit béni, qui nʾa pas dʾassocié!
+		 <lb n="5"/>
+ 	  je tʾinforme [de ce qui te préoccupe (?)]
+		 <lb n="6"/>
+ 	  jʾai adressé à Abu lʾAbbâs les cent
+		 <lb n="7"/>
+ 	  dinars don mʾétait parvenu une lettre de change
+		 <lb n="8"/>
+ 	  je tʾai payé par (?) ....... [six (?)]
+		 <lb n="9"/>
+ 	  mille dinars comptés (adad) pesant trois
+		 <lb n="10"/>
+ 	  mille dinars dâkhila, avec
+		 <lb n="11"/>
+ 	  de la monnaie brisée équivalant à 30 1/6e
+		 <lb n="12"/>
+ 	  de bonne monnaie, et cinq cents dinars en mithqâls
+		 <lb n="13"/>
+ 	  nouvelle manière pesant [.50]
+		 <lb n="14"/>
+ 	  de bonne monnaie; et prends-les de ton messager
+		 <lb n="15"/>
+ 	  qui est venu avec ta lettre chez moi
+		 <lb n="16"/>
+ 	  et écris-moi (pour mʾinformer) de leur arrivée
+		 <lb n="17"/>
+ 	  afin que je sois au courant de cela (?)
+		 <lb n="18"/>
+ 	  en même temps que tu me donneras de tes nouvelles (et que tu mʾinformeras) de ta situation et de tout besoin
+		 <lb n="19"/>
+ 	  que tu as, car jʾy suis associé (?)
+		 <lb n="20"/>
+ 	  Fais parvenir à Abu (ibn) ʾAbd Allah le salut et à tous
+		 <lb n="21"/>
+ 	  tes compagnons, le salut grandement.
+		 <lb n="22"/>
+ 	  Dieu te préserve et te conserve!
+		 <lb n="23"/>
+ 	  et ceci a été écrit
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

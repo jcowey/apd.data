@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1222" xml:id="Khan_Khurasan_19" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Khurasan 19</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khurasan_19</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169060</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذه براه من هشام بن محمّد عامل الأمير محمّد 
+<lb n="3"/>  بن حبيب حفظه اللّه على <unclear reason="undefined" cert="high">وسبا</unclear> ورزم ومدر 
+<lb n="4"/>  للقاروال بن مير إنّك أدّيت إلي ممّا صار 
+<lb n="5"/>  عليك في قصر يسكن من خراج سنة سبع 
+<lb n="6"/>  حمسپن ومائة وقسم شهر سنة سبع 
+<lb n="7"/>  وخمسين ومائة ثلثة دراهم ودانق منها من 
+<lb n="8"/>  الخراج درهمين ودانق ومن القسم درهم 
+<lb n="9"/>  قبضت ذلك منك وبرئت إلي منها 
+<lb n="10"/>  وكتب في جمادى الأولى سنة سبع 
+<lb n="11"/>  وخمسين ومائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏihi barāʾaẗ:un min hišāma bni muḥammad:in ʿāmili ăl ʾamīri muḥammadi 
+ <lb n="3"/>bni ḥabīb:in ḥafiẓa hu ăl lāhu ʿalà wasbā wa rizma wa madra 
+ <lb n="4"/>li ăl qārwāla bni mīr:in ʾinna ka ʾaddayta ʾilay ya mimmā ṣāra 
+ <lb n="5"/>ʿalay ka fī qaṣri yaskina min ḫarāǧi sanaẗi sabʿ:in 
+ <lb n="6"/>wa ḫamsīna wa miʾaẗ:in wa qisami šahri sanaẗi sabʿ:in 
+ <lb n="7"/>wa ḫamsīna wa miʾaẗ:in ṯalāṯaẗa darāhima wa dānaq min hā mina 
+ <lb n="8"/>ăl ḫarāǧi dirhamayni wa dānaq wa mina ăl qisami dirham 
+ <lb n="9"/>qabaḍtu ḏālika min ka wa bariʾta ʾilay ya min hā 
+ <lb n="10"/>wa kutiba fī ǧumādà ăl ʾūlà sanaẗa sabʿ:in 
+ <lb n="11"/>wa ḫamsīna wa miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Merciful and Compassionate.
+			<lb n="2"/>
+		This is a quittance from Hishām ibn Muḥammad, the financial administrator of the governor Muḥammad
+			<lb n="3"/>
+		ibn Ḥabīb, may God preserve him, (whose jurisdiction is) over Wasbā(?), Rizm and Madr,
+			<lb n="4"/>
+		for al-Qārwāl ibn Mīr. You have delivered to me what you owe
+			<lb n="5"/>
+		in the citadel of Yaskin with regard to the kharāj for the year
+			<lb n="6"/>
+		one hundred and fifty-seven, and the monthly portions of the year
+			<lb n="7"/>
+		one hundred and fifty-seven, three dirhams and one dānaq. Of these,
+			<lb n="8"/>
+		two dirhams and one dānaq are for the kharāj and one dirham is for the portions.
+			<lb n="9"/>
+		I have received that from you and you have been released from (the obligation to pay) them to me.
+			<lb n="10"/>
+		It has been written in Jumādā I of the year
+			<lb n="11"/>
+		one hundred and fifty-seven.
+</ab></div>
+</body>
+</text>
+</TEI>

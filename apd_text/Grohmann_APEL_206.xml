@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1686" xml:id="Grohmann_APEL_206" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 206</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_206</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169436</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  اپهپا أيضا 
+ <lb n="2"/>  <gap reason="illegible" extent="1" unit="character" /> χδʹ‎ أبهيوه بن إفياده الدّفّـ<supplied reason="lost" cert="high">ـاف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="3"/>  ماپ χιʹ‎βʹ‎ <sic n="superfluous">اپو</sic> <sic n="superfluous">ڤير</sic> أيّوب بن إبرهيم بن أندو<supplied reason="lost" cert="high">نه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="4"/>  <gap reason="illegible" extent="1" unit="character" /> χ أبهيوه بن ولپه الرّقّـ<supplied reason="lost" cert="high">ـاص</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="5"/>  ماپ χγʹ‎ηʹ‎ أتناس بن بقام السّـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="6"/>  <gap reason="illegible" extent="1" unit="character" /> α بقطر بن بهيو الغـ<supplied reason="lost" cert="high">ـسّال</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="7"/>  <gap reason="illegible" extent="1" unit="character" /> β بقطر بن شيشويه جبر<unclear reason="undefined" cert="high">يـ</unclear>ـ<supplied reason="lost" cert="high">ـل</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="8"/>  <gap reason="illegible" extent="1" unit="character" /> χ بقطر بن أبو قير سائس <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="9"/>  بهيوه 
+ <lb n="10"/>  <gap reason="illegible" extent="1" unit="character" /> αχ بمين بن قسطنهـ<supplied reason="lost" cert="high">ـوه</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="11"/>  ماپ χηʹ‎ بهموا بن أتناس <app type="BL"><lem resp="APD">العسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> </lem><rdg resp="UB">العسّال </rdg><rdg resp="UB">الغّسّال</rdg></app> 
+ <lb n="12"/>  <gap reason="illegible" extent="1" unit="character" /> χ ثيدر غلام رسـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="13"/>  <gap reason="illegible" extent="1" unit="character" /> χγʹ‎ بطرس بن اڤـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="14"/>  <gap reason="illegible" extent="1" unit="character" /> بقطر بن بقام الدّفّـ<supplied reason="lost" cert="high">ـاف</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="15"/>  ماپ αςʹ‎ أبسطلس بطرس صـ<supplied reason="lost" cert="high">ـاحب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="16"/>  <gap reason="illegible" extent="1" unit="character" /> α يحنّس بطرس صاحـ<supplied reason="lost" cert="high">ـب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="17"/>  χιʹ‎βʹ‎ بلوته جرجه صحـ<supplied reason="lost" cert="high">ـب</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+ <lb n="18"/>  ماپ αχ بطرس بن ثيدر صاحب ا<gap reason="illegible" extent="4" unit="character" /> 
+ <lb n="19"/>  فذلك <gap reason="illegible" precision="low" extent="3"/> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʾBhBʾ ʾayḍ:an 
+ <lb n="2"/>* ‪1/2+1/4 ʾabahyūhu bnu ʾifyādaha ăd daffāfu *** 
+ <lb n="3"/>māta ‪1/2+1/12 ʾayyūbu bnu ʾibrāhīma bni ʾandūnaha *** 
+ <lb n="4"/>* ‪1/2 ʾabahyūhu bnu wlBha ăr raqqāṣu *** 
+ <lb n="5"/>māta ‪1/2+1/3+1/8 ʾatanāsu bnu baqāma ăs s***u 
+ <lb n="6"/>* ‪1 buqṭuru bnu bihyū ăl ġassālu *** 
+ <lb n="7"/>* ‪2 buqṭuru bnu šīšūyaha ǧibrīla *** 
+ <lb n="8"/>* ‪1/2 buqṭuru bnu ʾabū qīra sāʾis *** 
+ <lb n="9"/>bihyūha 
+ <lb n="10"/>* ‪1 1/2 bamīnu bnu qusṭanhūha *** 
+ <lb n="11"/>māta ‪2/3+1/3 bihamū bnu ʾatanāsa ăl ʿs***u ʿassālu ġassālu 
+ <lb n="12"/>* ‪1/2 ṯiyuduru ġulāmu rs*** 
+ <lb n="13"/>* 1/2+1/3 buṭrusu bnu ʾaf*** 
+ <lb n="14"/>* buqṭuru bnu baqāma ăd daffāfu *** 
+ <lb n="15"/>māta ‪1 1/6 ʾabusṭulusu buṭrusa ṣāḥibu *** 
+ <lb n="16"/>* ‪1 yuḥannisu buṭrusa ṣāḥibu *** 
+ <lb n="17"/>‮‪1/2+1/12 bilūtahu ǧirǧaha ṣāḥibu *** 
+ <lb n="18"/>māta ‪1 1/2 buṭrusu bnu ṯiyudura ṣāḥibu ʾ**** 
+ <lb n="19"/>fa ḏālika *** 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  .................. again.
+		 <lb n="2"/>
+ 	  1/2+1/4 Apaheu b. Ifyâde, the drum-ma[ker
+		 <lb n="3"/>
+ 	  deceased 1/2+1/12 Ayûb b. Ibrahîm b. Andû[ne
+		 <lb n="4"/>
+ 	  1/2 Apaheu b. ........., the dan[cer
+		 <lb n="5"/>
+ 	  deceased 1/2+1/3+1/8 Atanâs b. Bqâm, the ......[
+		 <lb n="6"/>
+ 	  1 Boqṭor b. Paheu, washer[man
+		 <lb n="7"/>
+ 	  2 Boqṭor b. Šîšûye Ǧibrî[l
+		 <lb n="8"/>
+ 	  1/2 Boqṭor b. Abûqîr, the groom [
+		 <lb n="9"/>
+ 	  of Piheu
+		 <lb n="10"/>
+ 	  1 1/2 Pamîn b. Qosṭanh[eu
+		 <lb n="11"/>
+ 	  deceased Pihamû b. Atanâs, the ......[
+		 <lb n="12"/>
+ 	  1/2 Theodor, servant of ......[
+		 <lb n="13"/>
+ 	  1/2+1/3 Buṭrus b. Af[
+		 <lb n="14"/>
+ 	  2 Boqṭor b. Bqâm, the drum-ma[ker
+		 <lb n="15"/>
+ 	  deceased 1 1/6 Abosṭolos Buṭrus, v[endor of
+		 <lb n="16"/>
+ 	  1 Yoḥannes Buṭrus, vend[or of
+		 <lb n="17"/>
+ 	  1/2+1/12 Bilôte Ǧirǧe, vend[or of
+		 <lb n="18"/>
+ 	  deceased 1 1/2 Buṭrus b. Theodor, vendor of ...[
+		 <lb n="19"/>
+ 	  This makes up:
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

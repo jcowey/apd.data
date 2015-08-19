@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1731" xml:id="Prag_610" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 61</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_610</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169476</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <supplied reason="lost" cert="high">بسم</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">الرّ</supplied>حمن الرّحيم 
+<lb n="2"/>  <supplied reason="lost" cert="high">أبقاك</supplied> <supplied reason="lost" cert="high">اللّه</supplied> وأعزّك وأكرمك ادفع إلى رسولي إليك نصف درهم 
+<lb n="3"/>  <supplied reason="lost" cert="high">إن</supplied> <supplied reason="lost" cert="high">شا</supplied> <supplied reason="lost" cert="high">اللّه</supplied> وكتب أ<supplied reason="lost" cert="high">نـ</supplied>ـدونة بخطّه 
+<lb n="4"/>  <supplied reason="lost" cert="high">أطال</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">بقاك</supplied> وأعزّك وأكرمك 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾabqā ka ăl lāhu wa ʾaʿazza ka wa ʾakrama ka ĭdfaʿ ʾilà rasūl ī ʾilay ka niṣfa dirham:in 
+ <lb n="3"/>ʾin šāʾa ăl lāhu wa kataba ʾandūnaẗu bi ḫaṭṭi hi 
+ <lb n="4"/>ʾaṭāla ăl lāhu baqāʾa ka wa ʾaʿazza ka wa ʾakrama ka 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		[Im Namen Gottes, des Barm]herzigen, Gütigen!
+			<lb n="2"/>
+		[Gott erhalte Dich] und stärke Dich und erweise sich Dir wohltätig. Übergib meinem an Dich (gesandten) Boten einen halben Dirham,
+			<lb n="3"/>
+		[so Gott will]. Und es schrieb (es) Andū[n]e mit seinem Schriftzuge.
+			<lb n="4"/>
+		[Gott lasse Dich lange leben] und stärke Dich und erweise sich Dir wohltätig.
+</ab></div>
+</body>
+</text>
+</TEI>

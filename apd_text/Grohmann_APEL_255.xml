@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1972" xml:id="Grohmann_APEL_255" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 255</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_255</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169704</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  <gap reason="illegible" extent="9" unit="character" /> 
+<lb n="2"/>  <app type="BL"><lem resp="dots of yāʾ within the bend"><unclear reason="undefined" cert="high">حسني</unclear> </lem><rdg resp="APD">حبشيّ</rdg></app> بن <app type="BL"><lem resp="final nūn dotted">جيرون </lem><rdg resp="final nūn dotted">جبرون </rdg><rdg resp="final nūn dotted">حبرون </rdg><rdg resp="final nūn dotted">جيرون</rdg></app> عاپـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="3"/>  لحي بن إسحق <app type="BL"><lem resp="APD">سقلا </lem><rdg resp="APD">سڤلان</rdg></app> <app type="BL"><lem resp="APD">بن </lem><rdg resp="APD">ø</rdg></app> محمّد 
+<lb n="4"/>  بن عبد اللّه حسين بن علي 
+<lb n="5"/>  أحمد بن إسمعيل 
+<lb n="6"/>  <supplied reason="lost" cert="high">بـ</supplied>ـن ناجية حمدان بن كـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  عمر 
+<lb n="8"/>  عيسى بن الماس موسى بن عيّينة 
+<lb n="9"/>  <supplied reason="lost" cert="high">بـ</supplied>ـن <app type="BL"><lem resp="APD">دحنة </lem><rdg resp="APD">دحنة</rdg></app> عيسى بن عبد الرّحمن فضل 
+<lb n="10"/>   پن عباس عپد الله پن اسحق 
+<lb n="11"/>  بن <app type="BL"><lem resp="APD">دحية </lem><rdg resp="APD">دحنة</rdg></app> محمّد بن سعيد 
+<lb n="12"/>  سعيد بن العديسة علي 
+<lb n="13"/>  <supplied reason="lost" cert="high">بـ</supplied>ـن جوهر أبو <unclear reason="undefined" cert="high">أدرهة</unclear> وأخته 
+<lb n="14"/>  <supplied reason="lost" cert="high">ا</supplied>لقيس بن سهل سهل بن إسحق 
+<lb n="15"/>  سليمن بن جعفر علي بن 
+<lb n="16"/>  محمّد بن القطّان مقارة 
+<lb n="17"/>  <app type="BL"><lem resp="APD">أتروس </lem><rdg resp="APD">أتروس</rdg></app> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>********* 
+ <lb n="2"/>ḥusnī ḥabašiyyu ḥabšiyyu ḥubšiyyu bnu ǧabrūna ḥabrūna ǧayrūna ḫayrūna ʿāB*** 
+ <lb n="3"/>luḥayyu bnu ʾisḥāqa saqlā sFlānu bnu ø muḥammadi muḥammadu 
+ <lb n="4"/>bni bnu ʿabdi ăl lāhi ḥusaynu bnu ʿaliyy:in 
+ <lb n="5"/>ʾaḥmadu bnu ʾismāʿīla 
+ <lb n="6"/>bni nāǧiyaẗa ḥamdānu bnu k*** 
+ <lb n="7"/>ʿumar 
+ <lb n="8"/>ʿīsà bnu ăl māsi mūsà bnu ʿuyyaynaẗa 
+ <lb n="9"/>bni daḥnaẗa daḥyaẗa diḥyaẗa ʿīsà bnu ʿabdi ăr raḥmāni faḍlu 
+ <lb n="10"/>bnu ʿabbās:in ʿabdu ăl lāhi bnu ʾisḥāqa ăs silmu 
+ <lb n="11"/>bnu daḥnaẗa daḥyaẗa diḥyaẗa muḥammadu bnu saʿīd:in 
+ <lb n="12"/>saʿīdu bnu ăl ʿudaysaẗi ʿaliyyu 
+ <lb n="13"/>bnu ǧawhara ʾabū ʾadrahaẗa wa ʾuḫtu hu 
+ <lb n="14"/>ăl qaysu bnu sahl:in sahlu bnu ʾisḥāqa 
+ <lb n="15"/>sulaymānu bnu ǧaʿfara ʿaliyyu bnu 
+ <lb n="16"/>muḥammadi bni ăl qaṭṭāni maqāraẗu 
+ <lb n="17"/>ʾabrūsa ʾatrūsa 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+			<lb n="2"/>
+		Ḥusnî (?) b. Ḫairûn, ʿÂ...[
+			<lb n="3"/>
+		Luḥayy b. Isḥâq, Saqlâ (?) b. Muḥammad
+		Luḥayy b. Isḥāq, SFlān, Muḥammad
+			<lb n="4"/>
+		b. ʿAbdallâh, Ḥusain b. ʿAlî,
+			<lb n="5"/>
+		Aḥmad b. Ismaʿîl,
+			<lb n="6"/>
+		[b. N]âǧiya, Ḥamdân b. K[
+			<lb n="7"/>
+		ʿUmar.
+			<lb n="8"/>
+		ʿIsâ b. al-Mâs, Mûsâ b. ʿUyyaina
+			<lb n="9"/>
+		[ib]n Daḥya, ʿîsâ b. ʿAbd ar-Raḥmân, Faḍl
+			<lb n="10"/>
+		]b. ʿAbbâs, ʿAbdallâh b. Isḥâq, as-Silm
+			<lb n="11"/>
+		b. Daḥya, Muḥammad b. Saʿîd,
+			<lb n="12"/>
+		Saʿîd b. al-ʿUdaisa, ʿAlî
+			<lb n="13"/>
+		[ib]n Ǧauhar, Abû Adraha (?) and his sister,
+			<lb n="14"/>
+		[a]l-Qais b. Sahl, Sahl b. Isḥâq,
+			<lb n="15"/>
+		Sulaimân b. Ǧaʿfar, ʿAlî b.
+			<lb n="16"/>
+		Muḥammad b. al-Qaṭṭân, Maqâre (Macarius)
+			<lb n="17"/>
+		Abrûs.
+</ab></div>
+</body>
+</text>
+</TEI>

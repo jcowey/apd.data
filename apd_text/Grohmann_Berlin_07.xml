@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1407" xml:id="Grohmann_Berlin_07" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 07 (= Chrest.Khoury I 22)</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_07</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">141571</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا كتاب من يحيى بن <app type="BL"><lem resp="APD">بصر </lem><rdg resp="Grohmann">بصر</rdg></app> الصّائغ مولى هرون بن موسى بن محمّد لمملوكه الأسَود 
+<lb n="3"/>  العاوي الأجرد الأعين الّذي يسمّا مبارك كتبه له وأقر بما فيه وأشهد على نفسه 
+<lb n="4"/>  في <app type="BL"><lem resp="APD">صحّته </lem><rdg resp="Khoury">صحّة</rdg></app> وجواز أمره طائعا غير مكره إنّي أعتقتك عن درستي بخدمتي ما عشت 
+<lb n="5"/>  فإذا مت ما<supplied reason="lost" cert="high">حپـ</supplied>ـا مپارك <supplied reason="omitted" cert="high">ڤـ</supplied>ـحر <app type="BL"><lem resp="APD">لوحه </lem><rdg resp="Khoury">حرّ</rdg></app> الله والدار الاحره لا سپپل علپك الا سپپل 
+<lb n="6"/>  الولا فإن ولاك لي ولمن يرثه عنّي وكتبت لك يا مبارك هذا الكتاب بتدبيري إيّاك 
+<lb n="7"/>  في صحّتي <app type="BL"><lem resp="APD">ليكون </lem><rdg resp="Khoury">أشهدني</rdg></app> حجّة ووتيقة في يديك اليوم واليوم شهد على إقرار يحيى بن <app type="BL"><lem resp="APD">نصر </lem><rdg resp="Grohmann">بصر</rdg></app> 
+<lb n="8"/>  الصّائغ ومملوكه مبارك المدبّر بما في هذا الكتاب في صحّتهما وجواز أمرهما 
+<lb n="9"/>  طائعين غير مكرهين يوم الثّلثا لتسع عشرة ليل خلت من المحرّم سنة أربع وثلثمائة 
+<lb n="10"/>  إبرهيم بن أحمد بن إبرهيم بن معوية شهد على إقرارهما بما في هذا الكتاب بتأريخه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="11"/>  شهد محمّد بن يحيى بن عبد الواسع على إقرارهما بما في هذا الكتاب بتأريخه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="12"/>  شهد ثمامة بن محمّد بن ثمامة على إقرارهما بما في هذا الكتاب بتأريخه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="13"/>  شهد عبد اللّه بن محمّد بن إسحق على إقرارهما بجميع ما في هذا الكتاب <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="14"/>  وذلك في اليوم المورح <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="15"/>  شهد عبد اللّه بن عبيد اللّه بن عبد اللّه وشهادته على إقرارهما بجميع ما في هذا 
+<lb n="16"/>  الكتاب في اليوم المورح شهد أحمد بن عمر بن يعقوب وكتب شهادته على إقرارهما 
+<lb n="17"/>  بجميع ما في هذا الكتاب وأحمد بن إبرهيم بن <app type="BL"><lem resp="connected to the following ‫على‬."><unclear reason="undefined" cert="high">وپلود</unclear> </lem><rdg resp="APD">وهود</rdg></app> على إقرارهما بما في هذا الكتاب بتأريخه <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="18"/>  وشهد عبد الرّحيم بن إبرهيم مولى أميّة بن ميمون على إقرارهما بما في هذا الكتاب يوم تأريخه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="19"/>  وإبرهيم بن إسحق بن إبرهيم بن عبد اللّه <expan><abbr><sic n="superfluous">وكتهدبه</sic></abbr><ex>وكپپ</ex> <ex>شهدته</ex></expan> على إقرارهما بما في هذا الكتاب بتأريخه وشهد علي بن الحسن بن عبدوس على إقرارهما 
+<lb n="21a"/>  بما في هذا الكتاب وذلك 
+<lb n="22a"/>  في اليوم المورح فيه 
+<lb n="20"/>  وعبد الرّحمن بن محمّد بن إسحق <expan><abbr><sic n="superfluous">وكتهادبه</sic></abbr><ex>وكپپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح فيه 
+<lb n="21"/>  وعمرو بن إسحق بن عثمن <expan><abbr><sic n="superfluous">وكتبهادپه</sic></abbr><ex>وكپپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="22"/>  وعبد اللّه بن إسمعيل بن إبرهيم بن إسحق على إقرارهما بما في هذا الكتاب <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="23"/>  وأحمد بن إسحق بن إبرهيم <expan><abbr><sic n="superfluous">وكتهادبه</sic></abbr><ex>وكپپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="24"/>  شهد عبد اللّه بن حكم بن إسحق على إقرارهما بما في هذا الكتاب <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="25"/>  وإبرهيم بن ميمون وشهادته على إقرارهما بما في هذا الكتاب بتأريخه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="26"/>  وعبد الرّحمن بن <app type="BL"><lem resp="APD">نصر </lem><rdg resp="APD">بصر</rdg></app> بن أحمد بن عبد الرّحمن بن أبي المحب <expan><abbr><sic n="superfluous">وكهدته</sic></abbr><ex>وكبپ</ex> <ex>شاهدپه</ex></expan> على إقرارهما بما في هذا الكتاب <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="27"/>  وعلي بن يحيى بن يونس <expan><abbr><sic n="superfluous">وكسهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب وذلك في اليوم المورح فيه 
+<lb n="28"/>  ومحمّد بن عبد الرّحمن بن عبد اللّه بن علوان <expan><abbr><sic n="superfluous">وكسهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في <supplied reason="omitted" cert="high">الـ</supplied>ـيوم المورح فيه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="29"/>  شهد سهل بن الحسن بن سهيل على إقرار<supplied reason="lost" cert="high">هما</supplied> <supplied reason="lost" cert="high">بما</supplied> في هذا الكتاب 
+<lb n="30"/>  شهد العامر بن عيسى بن موسى <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقر<supplied reason="lost" cert="high">ا</supplied>رهما بما في هذا الكتاب 
+<lb n="31"/>  ومحمّد بن عبد اللّه بن بكير <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح فيه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="32"/>  ومحمّد بن المهاجر <sic n="superfluous">حر</sic> بن بكر <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب 
+<lb n="33"/>  محمد بن أحمد بن عبد الرّحمن بن مـ<supplied reason="lost" cert="high">ـوسى</supplied> <expan><abbr><sic n="superfluous">وكتهادبه</sic></abbr><ex>وكپپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="34"/>  <unclear reason="undefined" cert="high">پحمه</unclear> بن أحمد بن عبد الرّحمن بن موسى <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="35"/>  وأحمد بن إسحق بن يحيى <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح 
+<lb n="36"/>  شهد إبرهيم بن إسمعيل بن عبد الرّحمن بن <app type="BL"><lem resp="APD">بيّان </lem><rdg resp="APD">بثّان </rdg><rdg resp="APD">بيان </rdg><rdg resp="APD">بيّان </rdg><rdg resp="APD">بنّان </rdg><rdg resp="APD">تبّان </rdg><rdg resp="APD">تبان</rdg></app> على إقرارهما بما في هذا الكتاب بتأريخه 
+<lb n="37"/>  وعبد اللّه بن عمرو بن إسحق بن عثمن <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب 
+<lb n="38"/>  <app type="BL"><lem resp="APD">وحمّاد </lem><rdg resp="APD">وجماد</rdg></app> بن زكريّا بن عبد العزيز وكتب شهادته على إقرارهما بما في هذا الكتاب 
+<lb n="39"/>  وأحمد بن وهب بن شبيب <unclear reason="undefined" cert="high">مولا</unclear> <unclear reason="undefined" cert="high">هرون</unclear> <expan><abbr><sic n="superfluous">وكتهادبه</sic></abbr><ex>وكپپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب <app type="BL"><lem resp="APD">بتّأريخ </lem><rdg resp="APD">بتّأريخ</rdg></app> المذكور <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="40"/>  إبرهيم بن إسمعيل بن إبرهيم بن <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">وهب</unclear> </lem><rdg resp="APD">وهبة</rdg></app> <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في تأريخه 
+<lb n="41"/>  وعبادة بن عبد اللّه بن محّمد بن الوليد على إقرارهما بما في هذا الكتاب في تأريخه 
+<lb n="42"/>  ومحمّد بن أحمد بن طاهر وكتب شهادته على إقرارهما بما في هذا الكتاب 
+<lb n="43"/>  وعلي بن إبرهيم بن <app type="BL"><lem resp="APD">الصّباح </lem><rdg resp="APD">الصّنّاج </rdg><rdg resp="APD">الصّيّاح</rdg></app> <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب 
+<lb n="44"/>  شهد <app type="BL"><lem resp="APD">عميّر </lem><rdg resp="APD">عميّر</rdg></app> بن محمّد بن هرون على إقرار يحيى بن <app type="BL"><lem resp="APD">نصر </lem><rdg resp="APD">بصر</rdg></app> الصّائغ بما في هذا الكتاب بتأريخه 
+<lb n="45"/>  <app type="BL"><lem resp="APD">وحاتم </lem><rdg resp="APD">وجاثم</rdg></app> بن عبد الرّحمن بن الحسن بن يونس بن فضيل <expan><abbr><sic n="superfluous">وكتهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرار يحيى بن <app type="BL"><lem resp="APD">نصر </lem><rdg resp="APD">بصر</rdg></app> الصّائغ 
+<lb n="46"/>  بجميع ما في هذا الكتاب بتأريخه 
+<lb n="47"/>  ومحمّد بن أحمد بن عبد العزيز بن عمر <expan><abbr><sic n="superfluous">وكتهادبه</sic></abbr><ex>وكپپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح 
+<lb n="48"/>  فيه <gap reason="illegible" extent="1" unit="character" /> وعبد اللّه بن محمّد بن بهلول بن يحيى <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب في اليوم المورح فيه 
+<lb n="49"/>  وأحمد بن محمّد بن <expan><abbr>السّري<sic n="superfluous">وكه</sic></abbr><ex>وكپپ</ex> <ex>سهادپه</ex></expan> على اڤرارهما پمإ ڤى هدا الكپاپ ڤى پارپحه 
+<lb n="50"/>  شهد الحسن بن الـژ<gap reason="illegible" extent="2" unit="character" /> على إقرارهما بجميع ما في هذا الكتاب وذلك في اليوم المورح فيه <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="51"/>  ومحمّد بن عبد الرّحمن بن <app type="BL"><lem resp="APD">بثّان </lem><rdg resp="APD">بثّان </rdg><rdg resp="APD">بيان </rdg><rdg resp="APD">بيّان </rdg><rdg resp="APD">بنّان </rdg><rdg resp="APD">تبّان </rdg><rdg resp="APD">تبان</rdg></app> <expan><abbr><sic n="superfluous">وكـهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب وذلك في اليوم المورح فيه 
+<lb n="52"/>  والقسم بن محمّد بن عمّار بن يزيد <expan><abbr><sic n="superfluous">وكهادته</sic></abbr><ex>وكبپ</ex> <ex>شهادته</ex></expan> على إقرارهما بما في هذا الكتاب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā kitāb:un min yaḥyà bni baṣar:ini naṣar:ini naṣr:ini ăṣ ṣāʾiġi mawlà hārūna bni mūsà bni muḥammad:in li mamlūki hi ăl ʾaswadi 
+ <lb n="3"/>ăl ʿāwī ăl ʾaǧradi ăl ʾaʿyani ăllaḏī yusammā mubārak kataba hu la hu wa ʾaqarra bi mā fī hi wa ʾašhada ʿalà nafsi hi 
+ <lb n="4"/>fī ṣiḥḥati ṣiḥḥaẗ:in hi wa ǧawāzi ʾamri hi ṭāʾiʿ:an ġayra mukrah:in ʾin nī ʾaʿtaqtu ka ʿan dursat ī bi ḫidmat ī mā ʿištu 
+ <lb n="5"/>fa ʾiḏā muttu mā ḥayyā mubārak:un fa ø ḥurr:un li waǧhi ăl lāhi wa ăd dāri ăl ʾāḫiraẗi lā sabīla ʿalay ka ʾillā sabīla 
+ <lb n="6"/>ăl walāʾi fa ʾinna walāʾa ka l ī wa li man yariṯu hu ʿann ī wa katabtu la ka yā mubāraku hāḏā ăl kitāba bi tadbīr ī ʾiyyā ka 
+ <lb n="7"/>fī ṣiḥḥat ī li ʾašhada nī yakūna ḥuǧǧaẗ:an wa watīqaẗ:an fī yaday ka ăl yawma wa ăl yawma šahida ʿalà ʾiqrāri yaḥyà bni baṣar:ini naṣar:ini naṣr:ini 
+ <lb n="8"/>ăṣ ṣāʾiġi wa mamlūki hi mubārak:ini ăl mudabbari bi mā fī hāḏā ăl kitābi fī ṣiḥḥati himā wa ǧawāzi ʾamri himā 
+ <lb n="9"/>ṭāʾiʿayni ġayra mukrahayni yawma ăṯ ṯulāṯāʾi li tisʿa ʿašraẗa layl ḫalat min ăl muḥarrami sanaẗa ʾarbaʿ:in wa ṯalāṯi miʾaẗ:in 
+ <lb n="10"/>ʾibrāhīmu bnu ʾaḥmada bni ʾibrāhīma bni muʿāwiyaẗa šahida ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi * 
+ <lb n="11"/>šahida muḥammadu bnu yaḥyà bni ʿabdi ăl wāsiʿi ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi ** 
+ <lb n="12"/>šahida ṯumāmaẗu bnu muḥammadi bni ṯumāmaẗa ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi ** 
+ <lb n="13"/>šahida ʿabdu ăl lāhi bnu muḥammadi bni ʾisḥāqa ʿalà ʾiqrāri himā bi ǧamīʿi mā fī hāḏā ăl kitābi ** 
+ <lb n="14"/>wa ḏālika fī ăl yawmi ăl muʾarraḫi ** 
+ <lb n="15"/>šahida ʿabdu ăl lāhi bnu ʿubaydi ăl lāhi bni ʿabdi ăl lāhi wa šahādatu hu ʿalà ʾiqrāri himā bi ǧamīʿi mā fī hāḏā 
+ <lb n="16"/>ăl kitābi fī ăl yawmi ăl muʾarraḫi šahida ʾaḥmadu bnu ʿumara bni yaʿqūba wa kataba šahādata hu ʿalà ʾiqrāri himā 
+ <lb n="17"/>bi ǧamīʿi mā fī hāḏā ăl kitābi wa ʾaḥmadu bnu ʾibrāhīma bni wBlwd whwd ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi * 
+ <lb n="18"/>wa šahida ʿabdu ăr raḥīmi bnu ʾibrāhīma mawlà ʾumayyaẗa bni maymūn:in ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi yawma taʾrīḫi hi ** 
+ <lb n="19"/>wa ʾibrāhīmu bnu ʾisḥāqa bni ʾibrāhīma bni ʿabdi ăl lāhi wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi wa šahida ʿaliyyu bnu ăl ḥasani bni ʿabdūsa ʿalà ʾiqrāri himā 
+ <lb n="20"/>bi mā fī hāḏā ăl kitābi wa ḏālika 
+ <lb n="21"/>fī ăl yawmi ăl muʾarraḫi fī hi 
+ <lb n="22"/>wa ʿabdu ăr raḥmāni bnu muḥammadi bni ʾisḥāqa wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi fī hi 
+ <lb n="23"/>wa ʿamru bnu ʾisḥāqa bni ʿuṯmāna wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi * 
+ <lb n="24"/>wa ʿabdu ăl lāhi bnu ʾismāʿīla bni ʾibrāhīma bni ʾisḥāqa ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi ** 
+ <lb n="25"/>wa ʾaḥmadu bnu ʾisḥāqa bni ʾibrāhīma wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi ** 
+ <lb n="26"/>šahida ʿabdu ăl lāhi bnu ḥakami bni ʾisḥāqa ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi ** 
+ <lb n="27"/>wa ʾibrāhīmu bnu maymūn:in wa šahādatu hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi ** 
+ <lb n="28"/>wa ʿabdu ăr raḥmāni bnu baṣari naṣari naṣri bni ʾaḥmada bni ʿabdi ăr raḥmāni bni ʾabī ăl muḥabbi muḥibbi wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi ** 
+ <lb n="29"/>wa ʿaliyyu bnu yaḥyà bni yūnusa wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi wa ḏālika fī ăl yawmi ăl muʾarraḫi fī hi 
+ <lb n="30"/>wa muḥammadu bnu ʿabdi ăr raḥmāni bni ʿabdi ăl lāhi bni ʿlwʾn wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi fī hi ** 
+ <lb n="31"/>šahida sahlu bnu ăl ḥasani bni suhayl:in ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="32"/>šahida ăl ʿāmiru bnu ʿīsà bni mūsà wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="33"/>wa muḥammadu bnu ʿabdi ăl lāhi bni bukayr:in wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi fī hi ** 
+ <lb n="34"/>wa muḥammadu bnu ăl muhāǧiri bni bakr:in wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="35"/>wa muḥammadu bnu ʾaḥmada bni ʿabdi ăr raḥmāni bni mūsà wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi * 
+ <lb n="36"/>Bḥmh bnu ʾaḥmada bni ʿabdi ăr raḥmāni bni mūsà wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi ** 
+ <lb n="37"/>wa ʾaḥmadu bnu ʾisḥāqa bni yaḥyà wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi 
+ <lb n="38"/>šahida ʾibrāhīmu bnu ʾismāʿīla bnu ʿabdi ăr raḥmāni bni bannān:in bayāna bayyān:in buṯṯāna bunāna tubāna tubbāna ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="39"/>wa ʿabdu ăl lāhi bnu ʿamri bni ʾisḥāqa bni ʿuṯmāna wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="40"/>wa ḥammādu bnu zakariyyāʾa bni ʿabdi ăl ʿazīzi wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="41"/>wa ʾaḥmadu bnu wahbi bni šabīb:in šubayb:in mawlā hārūna wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi bi ăt taʾrīḫi ø taʾrīḫi ăl maḏkūri *** 
+ <lb n="42"/>ʾibrāhīmu bnu ʾismāʿīla bni ʾibrāhīma bni wahb:in wahbaẗa wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī taʾrīḫi hi 
+ <lb n="43"/>ʿabādaẗu wa ʿubādaẗu bnu ʿabdi ăl lāhi bni muḥammadi bni ăl walīdi ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī hi taʾrīḫi 
+ <lb n="44"/>wa muḥammadu bnu ʾaḥmada bni ṭāhir:in wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="45"/>wa ʿaliyyu bnu ʾibrāhīma bni ăṣ ṣabāḥi ṣannāǧi ṣayyāḥi wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+ <lb n="46"/>šahida ʿumayru ʿumayyiru bnu muḥammadi bni hārūna ʿalà ʾiqrāri yaḥyà bni baṣar:ini naṣar:ini naṣr:ini ăṣ ṣāʾiġi bi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="47"/>wa ǧāṯimu ḥātimu bnu ʿabdi ăr raḥmāni bni ăl ḥasani bni yūnusa bni faḍīl:in fuḍayl:in wa kataba šahādata hu ʿalà ʾiqrāri yaḥyà bni baṣar:ini naṣar:ini naṣr:ini ăṣ ṣāʾiġi 
+ <lb n="48"/>bi ǧamīʿi mā fī hāḏā ăl kitābi bi taʾrīḫi hi 
+ <lb n="49"/>wa muḥammadu bnu ʾaḥmada bni ʿabdi ăl ʿazīzi bni ʿumara wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi 
+ <lb n="50"/>fī hi * wa ʿabdu ăl lāhi bnu muḥammadi bni buhlūla bni yaḥyà wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī ăl yawmi ăl muʾarraḫi fī hi 
+ <lb n="51"/>wa ʾaḥmadu bnu muḥammadi bni ăs sariyyi wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi fī taʾrīḫi hi 
+ <lb n="52"/>šahida ăl ḥasanu bnu ăl *** ʿalà ʾiqrāri himā bi ǧamīʿi mā fī hāḏā ăl kitābi wa ḏālika fī ăl yawmi ăl muʾarraḫi fī hi ** 
+ <lb n="53"/>wa muḥammadu bnu ʿabdi ăr raḥmāni bni bannān:in bayāna bayyān:in buṯṯāna bunāna tubāna tubbāna wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi wa ḏālika fī ăl yawmi ăl muʾarraḫi fī hi 
+ <lb n="54"/>wa ăl qāsimu bnu muḥammadi bni ʿammāri bni yazīda wa kataba šahādata hu ʿalà ʾiqrāri himā bi mā fī hāḏā ăl kitābi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Au nom de Dieu clément et miséricordieux !
+		Im Namen Gottes, des Barmherzigen, Gütigen.
+			<lb n="2"/>
+		C&#039;est un document de Yaḥyā Ibn Naṣr l&#039;orfèvre, affranchi de Hārūn Ibn Mūsā Ibn Muḥammad, pour son esclave noir,
+		Dies ist die Urkunde von Seiten des Goldschmieds Yaḥyā b. Naṣr, des Freigelassenen des Harūn b. Mūsā b. Muḥammad, für seinen schwarzen,
+			<lb n="3"/>
+		dreißigjährigen, bartlosen, großäugigen Sklaven, der Mubārak heißt. Er hat sie für ihn geschrieben und anerkannt, was darin steht, und zu seinen Lasten bezeugen lassen
+		qui est trentenaire, imberbe, a des grands yeux et est nommé Mubārak. Il l&#039;a écrit pour lui, reconnut ce qu&#039;il contient et prit des témoins,
+			<lb n="4"/>
+		étant dans la plénitude de sa santé et sa capacité juridique, de bon gré et non contraint: &#034;je t&#039;ai affranchi de mon élevage dans mon service, aussi longtemps que je vivrai.
+		im Stande seiner (vollen) Gesundheit und Geschäftsfähigkeit, freiwillig, nicht gezwungen: Fürwahr ich habe Dich aus meiner Zucht in meinem Dienste bei meinen Lebzeiten entlassen.
+			<lb n="5"/>
+		Doch wenn ich gestorben bin, während Mubārak [am Leben ist], so ist er frei um Gottes und des Paradieses Willen, auf Dich besteht keinerlei Anspruch außer dem Anspruch
+		Et si je meurs, alors que Mubārak [est] encore [en vi]e, il sera libre pour l&#039;amour de Dieu et le paradis, aucune exigence d&#039;autre ne t&#039;incombe que celle
+			<lb n="6"/>
+		des ius patronatus (walāʾ) und das Patronat über Dich mir und dem zu, der es von mir erbst. Ich habe Dir, o Mubārak, diese Urkunde über die von mir Dir gegenüber erfolgende Freilassung nach dem Tode ausgestellt
+		du ius patronatus, et le patronat sur toi appartient à moi et à celui qui l&#039;hérite de moi. Je t&#039;ai écrit ce document, ô Mubārak, sur mon affranchissement pour toi après ma mort,
+			<lb n="7"/>
+		étant dans la plénitude de ma santé, afin qu&#039;il soit toujours un acte probant et un document entre tes mains&#034;. Témoins de la reconnaissance de Yaḥyā Ibn Naṣr.
+		im Stande meiner (vollen) Gesundheit, auf daß sie allzeit als Beweisurkunde und Dokument in deinen Händen diene. Es bezeugten das Anerkenntnis des Yaḥyā b. Naṣr,
+			<lb n="8"/>
+		des Goldschmieds, und seines nach dem Tode freigelassenen (mudabbar, orcinus) Sklaven Mubārak, bezüglich dessen, was in dieser Urkunde (steht), im Stande ihrer beider vollen Gesundheit und Geschäftsfähigkeit,
+		l&#039;orfèvre, et de son esclave affranchi après sa mort Mubārak, de tout le contenu de ce document, tous les deux étant dans la plénitude de leurs santés et leur capacité juridique,
+			<lb n="9"/>
+		de leur gré et non contraints, et ceci mardi la dix-neuvième nuit écoulée de muḥarram, trois cent quatre.
+		freiwillig, nicht gezwungen, am Dienstage, als 19 Nächte vom Muḥarram des Jahres  dreihundertvier vergangen waren, (folgende Zeugen:)
+			<lb n="10"/>
+		A témoigné Ibrāhīm Ibn Aḥmad Ibn Ibrāhīm Ibn Muʿāwiya de leur reconnaissance du contenu de ce document, à sa date. (suivent de ligne 11-52 des témoignages, là-dessus).
+		Ibrahīm b. Aḥmad b. Ibrahīm b. Muʿāwiya ist Zeuge für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem Datum (Handzeichen).
+			<lb n="11"/>
+		Muḥammad b. Yaḥyā b. ʿAbd al-Wāsiʿ ist Zeuge für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem Datum.
+			<lb n="12"/>
+		Zeuge ist Ṯumāma b. Muḥammad b. Ṯumāma für ihr beider Anerkenntnis bezüglich dessen, was in dieser   Urkunde (steht), an ihrem Datum.
+			<lb n="13"/>
+		ʿAbdallāh b. Muḥammad b. Isḥāq ist Zeuge für ihr beider Anerkenntnis bezüglich allem, was in dieser Urkunde (steht),
+			<lb n="14"/>
+		und dies an dem im Datum festgelegten Tage.
+			<lb n="15"/>
+		Zeuge ist ʿAbdallāh b. ʿUbaidallāh b. ʿAbdallāh und sein Zeugnis bezieht sich auf ihr beider Anerkenntnis bezüglich allem, was in dieser
+			<lb n="16"/>
+		Urkunde (steht), an dem im Datum bestimmten Tage. Zeuge ist Aḥmad b. ʿUmar b. Yaʿqūb und er schrieb sein Zeugnis für ihr beider Anerkenntnis
+			<lb n="17"/>
+		bezüglich allem, was in dieser Urkunde (steht). Und Aḥmad b. Ibrahīm b. ...  für ihr beider Anerkenntnis bezüglich dessen, was in dieser   Urkunde (steht), an ihrem Datum.
+			<lb n="18"/>
+		Und Zeuge ist ʿAbd ar-Raḥīm b. Ibrahīm der Freigelassene des Umayya b. Maimūn für ihr beider Anerkenntnis bezüglich dessen, was in dieser   Urkunde (steht), am Tage ihres Datums.
+			<lb n="19"/>
+		Und Ibrāhīm b. Isḥāq b. Ibrāhīm b. ʿAbdallāh und er schreib sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser   Urkunde (steht), an ihrem Datum. Und Zeuge ist ʿAlī b. al-Ḥasan b. ʿAbdūs für ihr beider Anerkenntnis
+			<lb n="20"/>
+		bezüglich dessen, was in dieser Urkunde (steht), und dies
+			<lb n="21"/>
+		an dem darin als Datum festgesetzten Tage.
+			<lb n="22"/>
+		Und ʿAbd ar-Raḥmān b. Muḥammad b. Isḥāq und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem darin als Datum festgesetzten Tage.
+			<lb n="23"/>
+		Und ʿAmr b. Isḥāq b. ʿUṯmān und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht). (Handzeichen).
+			<lb n="24"/>
+		Und ʿAbdallāh b. Ismaʿīl b. Ibrāhīm b. Isḥāq für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="25"/>
+		Und Aḥmad b. Isḥāq b. Ibrāhīm und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="26"/>
+		Zeuge ist ʿAbdallāh b. Ḥakam b. Isḥāq für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="27"/>
+		Und Ibrāhīm b. Maimūn und sein Zeugnis bezieht sich auf  ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem Datum.
+			<lb n="28"/>
+		Und ʿAbd ar-Raḥmān b. Naṣr b. Aḥmad b. ʿAbd ar-Raḥmān b. Abi l-Muḥibb und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="29"/>
+		Und ʿAlī b. Yaḥyā b. Yūnus und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), und dies an dem darin als Datum festgesetzten Tage.
+			<lb n="30"/>
+		Und Muḥammad b. ʿAbd ar-Raḥmān b. ʿAbdallāh b. ... und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem darin als Datum festgesetzten Tage.
+			<lb n="31"/>
+		Es ist Zeuge Sahl b. al-Ḥasan b. Suhail für [ihr beider] Anerkenntnis [bezüglich dessen, was] in dieser Urkunde (steht).
+			<lb n="32"/>
+		Es ist Zeuge al-ʿĀmir b. ʿĪsā b. Mūsā und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="33"/>
+		Und Muḥammad b. ʿAbdallāh b. Bukair und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem darin als Datum festgesetzten Tage.
+			<lb n="34"/>
+		Und Muḥammad b. al-Muhāǧir b. Bakr und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="35"/>
+		Muḥammad b. Aḥmad b. ʿAbd ar-Raḥmān b. Mūsā und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem als Datum festgesetzten Tage.
+			<lb n="36"/>
+		... b. Aḥmad b. ʿAbd ar-Raḥmān b. Mūsā und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem als Datum festgesetzten Tage.
+			<lb n="37"/>
+		Und Aḥmad b. Isḥāq b. Yaḥyā und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht),   an dem als Datum festgesetzten Tage.
+			<lb n="38"/>
+		Zeuge ist Ibrāhīm b. Ismāʿīl b. ʿAbd ar-Raḥmān b. Bunān für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem   Datum.
+			<lb n="39"/>
+		Und ʿAbdallāh b. ʿAmr b. Isḥāq b. ʿUṯmān und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="40"/>
+		Und Ḥammād b. Zakariyā b. ʿAbd al-ʿAzīz und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht),
+			<lb n="41"/>
+		Und Aḥmad b. Wahb b. Šabīb ........... und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), am erwähnten Datum .....
+			<lb n="42"/>
+		Ibrāhīm b. Ismāʿīl b. Ibrāhīm b. Wahb und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem Datum.
+			<lb n="43"/>
+		Und ʿUbāda b. ʿAbdallāh b. Muḥammad b. al-Walīd für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem   Datum.
+			<lb n="44"/>
+		Und Muḥammad b. Aḥmad b. Ṭāhir und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="45"/>
+		Und ʿAlī b. Ibrāhīm b. aṣ-Ṣabāḥ und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+			<lb n="46"/>
+		Zeuge ist ʿUmair b. Muḥammad b.Hārūn für das Anerkenntnis des Yaḥyā b. Naṣr, des Goldschmieds, bezüglich dessen, was in dieser Urkunde (steht), an ihrem Datum.
+			<lb n="47"/>
+		Und Ḥātim b. ʿAbd ar-Raḥmān b. al-Ḥasan b. Yūnus b. Fuḍail und er schrieb sein Zeugnis für das Anerkenntnis des Yaḥyā b. Naṣr, des Goldschmieds,
+			<lb n="48"/>
+		bezüglich allem, was in dieser Urkunde (steht), an ihrem Datum.
+			<lb n="49"/>
+		Und Muḥammad b. Aḥmad b. ʿAbd al-ʿAzīz b. ʿUmar und er schrieb ein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem darin als Datum festgesetzten
+			<lb n="50"/>
+		Tage (Handzeichen). Und ʿAbdallāh b. Muḥammad b. Buhlūl b. Yaḥyā und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an dem darin als Datum festgesetzten Tage.
+			<lb n="51"/>
+		Und Aḥmad b. Muḥammad b. as-Sarī und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), an ihrem Datum.
+			<lb n="52"/>
+		Es ist Zeuge al-Ḥasan b. al-.......... für ihr beider Anerkenntnis bezüglich allem, was in dieser Urkunde (steht), und dies an dem darin als Datum festgesetzten Tage.
+			<lb n="53"/>
+		Und Muḥammad b. ʿAbd ar-Raḥmān b. Bunān und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht), und dies an dem darin als Datum festgesetzten Tage.
+			<lb n="54"/>
+		Und al-Qāsim b. Muḥammad b. ʿAmmār b. Yazīd und er schrieb sein Zeugnis für ihr beider Anerkenntnis bezüglich dessen, was in dieser Urkunde (steht).
+</ab></div>
+</body>
+</text>
+</TEI>

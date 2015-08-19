@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2437" xml:id="Diem_Steuerquittungen_130" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Steuerquittungen 13</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Steuerquittungen_130</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  براه لبكر بن أحمد عن دينار ونصف وثلث 
+<lb n="3"/>  مثقال بلا صرف أدّي عمّا يجب عليه من خراج 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> لسنـ<supplied reason="lost" cert="high">ـة</supplied> خـ<supplied reason="lost" cert="high">ـمس</supplied> وعـ<supplied reason="lost" cert="high">ـشر</supplied>ين وثلثمـ<supplied reason="lost" cert="high">ـائة</supplied> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li bakri bni ʾaḥmada ʿan dīnār:in wa niṣf:in wa ṯulṯ:in 
+ <lb n="3"/>miṯqāl:in bi lā ṣarf:in ʾaddà ʿammā yaǧibu ʿalay hi min ḫarāǧi 
+ <lb n="4"/>*** *** li sanaẗi ḫams:in wa ʿišrīna wa ṯalāṯi miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und sich Erbarmenden!
+			<lb n="2"/>
+		(Dies ist eine) Quittung für Bakr ibn Aḥmad über einen Dinar und einen halben (Dinar) und ein Drittel (eines Dinars)
+			<lb n="3"/>
+		Miṯqāl ohne Wechselgebühr, &lt;die&gt; er zahlte für die ihm obliegende Steuer
+			<lb n="4"/>
+		[für .... in .... ]... für das Jah[r] dreihu[ndert]fü[nf]undzwa[n]zi[g].
+</ab></div>
+</body>
+</text>
+</TEI>

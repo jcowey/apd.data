@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1924" xml:id="Grohmann_APEL_425" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 425</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_425</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169661</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> <gap reason="illegible" extent="5" unit="character" /> 
+ <lb n="2"/>  <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied><unclear reason="undefined" cert="high">ـاپ</unclear><gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="8" unit="character" /> 
+ <lb n="3"/>  ‮غذي ‪͵ςʹ‬ زعفـ<unclear reason="undefined" cert="high">ـر</unclear>ان ‪͵ςʹ‬ زيت ‪͵χʹ‬ 
+ <lb n="4"/>  ‮السّقّا ‪χ‬ فراخ 
+ <lb n="5"/>  ڤحمپع ذلك ‪<unclear reason="undefined" cert="high">μγ</unclear>ιʹβʹ‬ 
+ <lb n="6"/>  <expan><abbr><sic n="superfluous">فـپ</sic></abbr><ex>ڤذلك</ex></expan> ثلثة وأربعين درهم ونصف دانق 
+ <lb n="7"/>  ‮فقبض جسر وورق ‪βχ‬ 
+ <lb n="8"/>  ‮النّفقة ‪βιʹβʹ‬‪‬ ‪ι<unclear reason="undefined" cert="high">γ</unclear>‬ 
+ <lb n="9"/>  ‮فبقي عليه ‪ιε‬ 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>***** ***** ***** 
+ <lb n="2"/>***ʾb* ******** 
+ <lb n="3"/>ġaḏy:un ‪1/6 zaʿfarān:un ‪1/6 zayt:un ‪2/3 
+ <lb n="4"/>ăs saqqāʾu ‪1/2 firāḫ:un 
+ <lb n="5"/>fa ǧamīʿu ḏālika ‪43 1/12 
+ <lb n="6"/>fa ḏālika ṯalāṯaẗ:un wa ʾarbaʿīna dirham wa niṣfu dāniq:in 
+ <lb n="7"/>fa qabaḍa ǧasr:un wa warq:un ‪2 2/3 
+ <lb n="8"/>ăn nafaqaẗu ‪2 1/12 ‪13 
+ <lb n="9"/>fa baqiya ʿalay hi ‪14 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+		 <lb n="3"/>
+ 	  lamb 1/6 carat, saffron 1/6 carat, olive oil 2/3 carat.
+		 <lb n="4"/>
+ 	  the waterer 1/2, chicken (no entry)
+		 <lb n="5"/>
+ 	  the total amount thereof (is) 43 1/12,
+		 <lb n="6"/>
+ 	  that makes forty-three dirhams and half a dâniq.
+		 <lb n="7"/>
+ 	  Ǧasr and Warq have received 2 2/3,
+		 <lb n="8"/>
+ 	  the maintenance (makes) 2 1/2 13 (?),
+		 <lb n="9"/>
+ 	  therefore there remains to his debit 14.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

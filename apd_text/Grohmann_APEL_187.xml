@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1656" xml:id="Grohmann_APEL_187" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 187</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_187</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169407</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  ‮الرّقعة ‪βʹ‬ دينر 
+<lb n="recto 2"/>  ‮ پسم الله الرّحمن الرحپم 
+<lb n="recto 3"/>  أدّى جعفر بن <app type="BL"><lem resp="APD">شراج </lem><rdg resp="APD">سراح </rdg><rdg resp="APD">شراج</rdg></app> عمّا يلزمه من الخراج 
+<lb n="recto 4"/>  عن 
+<lb n="seal 1"/>  محمد بن يحيى يـ<supplied reason="lost" cert="high">ـثق</supplied> 
+<lb n="seal 2"/>  <supplied reason="lost" cert="high">باللّه</supplied> 
+<lb n="verso 1"/>  دينر 
+<lb n="verso 2"/>  ‮‪γχιʹβʹχ‬ سنة ‪σοε‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ăr ruqʿaẗu 2 dīnār 
+ <lb n="2"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 3 1/2+1/12+1/48 
+ <lb n="3"/>ʾaddà ǧaʿfaru bnu sarāḥ:in sirāǧ:in širāǧ:in ʿammā yalzamu hu mina ăl ḫarāǧi 
+ <lb n="4"/>ʿan 
+ <lb n="5"/>muḥammadu bnu yaḥyà yaṯiqu 
+ <lb n="6"/>bi ăl lāhi 
+ <lb n="7"/>dīnār 
+ <lb n="8"/>3 1/2+1/12+1/48 sanaẗa 275 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Folio 2. Dînâr
+			<lb n="2"/>
+		In the name of God, the Compassionate, the Merciful. 3 1/2+1/12+1/48
+			<lb n="3"/>
+		Ǧaʿfar b. Sirâǧ has paid on account of that which was due from him of the land-tax
+			<lb n="4"/>
+		of
+			<lb n="5"/>
+		Muḥammad b. Yaḥyâ trus[ts]
+			<lb n="6"/>
+		[in God]
+			<lb n="7"/>
+		Dînâr
+			<lb n="8"/>
+		3 1/2+1/12+1/48 year 275.
+</ab></div>
+</body>
+</text>
+</TEI>

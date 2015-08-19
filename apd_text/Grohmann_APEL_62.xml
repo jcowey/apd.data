@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1092" xml:id="Grohmann_APEL_62" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 062</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_62</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">168958</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  هذا ما اشترى أبو السّري بن هليه من إسحق بن أبنيله وهما جميعا من أهل الضّيعة المعروفة ببلجسوق ترس 
+<lb n="3"/>  اشترى منه سفقة واحدة وعقدة واحدة جميع حصته وإرثه من أبيه أبنيله بن إسحق بساحة هذه الناحية 
+<lb n="4"/>  في قبيلة الغسّال وهو الرّبع من جميع المنزل الّذي ورثه من أبيه أبنيله بن إسحق ستّة أسهم من أربعة <gap reason="illegible" extent="1" unit="character" /> 
+<lb n="5"/>  وعشرين سهما من هذا المنزل ويحيط به ويشتمل عليه حدود أربع حد حدود هذا المنزل الأوّل منه وهو القبلي ينتهي 
+<lb n="6"/>  إلي دار بني ينوق والحد الثّاني وهو البحري ينتهي إلي دار الغسّال ومنه يشرع بابه والحد الثّالث وهو الشّرقي ينتهي إلى منزل قنجوش بن شنوده 
+<lb n="7"/>  والحد الرّابع وهو الغربي ينتهي إلى منزل ثيدر بن إسحق جميع <sic n="superfluous">حصّنه</sic><supplied reason="omitted" cert="high">حصته</supplied> وإرثه بحدّه وحدوده ومدخله ومخرجه وعلوه وسفله وأرضه 
+<lb n="8"/>  وسمائه وطوبه وخشبه وحجارته وأبوابه وجميع ما يعرف له وينسب إليه شرى ثابت صحيح لا شرط فيه ولا وعد ولا رهن ولا وديعة ولا أتوى 
+<lb n="9"/>  على بيع الإسلام وعهدتهم بثمن مبلغه من العين المعزّي الوازن دينرين ونصف وربع عينا ذهبا جيادا وازنة بالجديد قبض إسحق بن أبنيله المسمّى 
+<lb n="10"/>  هذا الثّمن المذكور تامّا وافيًّا وأبرى أبو السّري بن هليه منه ومن عيونه ووزنه ونقده براه قبض واستيفا وسلّم إليه جميع هذه الحصّة المذكورة 
+<lb n="11"/>  <sic n="superfluous">فى</sic> من هذا المنزل المحدود الموصوف وحازها وملكها وصارت مالا من ماله وملك من ملكه يتحكّم فيه حكم الأرباب في أملاكهم إن شا باع 
+<lb n="12"/>  وإن شا وهب وإن شا صدّق وإن شا عمّر فمتى أدرك أبو السّري بن هليه في شرائه هذا أو في شي منه درك علقة أو خصومة طارئ بدين أو مستحق بميراث 
+<lb n="13"/>  من بعيد أو قريب حاضر أو غائب من سائر النّاس كلّهم فخلاص ذلك <app type="BL"><lem resp="APD">و<supplied reason="omitted" cert="high">إ</supplied>نقاذه </lem><rdg resp="“Frantz-Murph; Diem”">ونفاذه</rdg></app> وفكاكه على إسحق بن أبنيله من خالص ماله كائنا بما كان وبالغا ما بلغ وبذلك 
+<lb n="14"/>  أشهد على نفسه في صحّة عقله وبدنه وجواز أمره طائعا غير مكره ولا مجبر ولا مضطّهد طيّبة بذلك <supplied reason="omitted" cert="high">نفسه</supplied> في شهر ربيع الأوّل سنة تسع وعشرين وأربع مائة 
+<lb n="15"/>  <sic n="superfluous"><unclear reason="undefined" cert="high">وهو</unclear></sic> <sic n="superfluous"><unclear reason="undefined" cert="high">من</unclear></sic> <gap reason="illegible" precision="low" extent="3"/> وحصپه من الدار الّمعول الدى سرڤى هدا المپرل داحل ڤى هدا السرا وكتپ پارپحه <gap reason="illegible" extent="7" unit="character" /> من حمبعها پمال منلعه من العپن المعرى الوارن پصف رپع دپپارا عپپا دهپا وارپه 
+<lb n="16 centre"/>  قبض جميع ذلك وكتب سليمان بن إدريس بخطّه بعد ما <app type="BL"><lem resp="APD">وقّع </lem><rdg resp="“AK”">وقع</rdg></app> الشّهادة بحلّهما 
+<lb n="16 right"/>  شهد نهار بن أبي السّري بن عمر 
+<lb n="17 right"/>  بجميع ما فيه وكتب عنه بأمره ومحضره 
+<lb n="16 left"/>  شهد سليمان بن إدريس بن جعفر على إقرار البيّاع والمشتري 
+<lb n="17 left"/>  بجميع ما نسب إليهما وكتب بخطّه تأريخه صح 
+<lb n="17 centre"/>  شهد محمّد بن جعفر على إقرار النّفر المسمّون 
+<lb n="18 centre"/>  بجميع ما فيه وكتب عنه بأمره وبخطّهما في تأريخه 
+<lb n="18 right"/>  شهد علي بن إبرهيم وكتب بخطّه 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>hāḏā mā ĭštarà ʾabū ăs sariyyi bnu hiliyaha min ʾisḥāqa bni ʾabnīlaha wa humā ǧamīʿ:an min ʾahli ăḍ ḍayʿaẗi ăl maʿrūfaẗi bi bulǧusūqi tirisa 
+ <lb n="4"/>ĭštarà min hu safqaẗ:an wāḥidaẗ:an wa ʿuqdaẗ:an wāḥidaẗ:an ǧamīʿa ḥiṣṣati hi wa ʾirṯi hi min ʾabī hi ʾabnīlaha bni ʾisḥāqa bi sāḥaẗi hāḏihi ăn nāḥiyaẗi 
+ <lb n="5"/>fī qabīlaẗi ăl ġassāli wa huwa ăr rubʿu min ǧamīʿi ăl manzili ăllaḏī waraṯa hu min ʾabī hi ʾabnīlaha bni ʾisḥāqa sittaẗa ʾashum:in min ʾarbaʿaẗ:in * 
+ <lb n="6"/>wa ʿišrīna sahm:an min hāḏā ăl manzili wa yuḥīṭu bi hi wa yaštamilu ʿalay hi ḥudūd:un ʾarbaʿ:un ḥaddu ḥudūdi hāḏā ăl manzili ăl ʾawwalu min hu wa huwa ăl qibliyyu yantahī 
+ <lb n="7"/>ʾilà dāri banī yanūqa wa ăl ḥaddu ăṯ ṯānī wa huwa ăl baḥriyyu yantahī ʾilà dāri ăl ġassāli wa min hu yašraʿu bābu hu wa ăl ḥaddu ăṯ ṯāliṯu wa huwa ăš šarqiyyu yantahī ʾilà manzili qanǧūša bni šanūdaha 
+ <lb n="8"/>wa ăl ḥaddu ăr rābiʿu wa huwa ăl ġarbiyyu yantahī ʾilà manzili ṯiyudura bni ʾisḥāqa ǧamīʿa ḥiṣṣati hi wa ʾirṯi hi bi ḥaddi hi wa ḥudūdi hi wa madḫali hi wa maḫraǧi hi wa ʿulwi hi wa sufli hi wa ʾarḍi hi 
+ <lb n="9"/>wa samāʾi hi wa ṭūbi hi wa ḫašabi hi wa ḥiǧārati hi wa ʾabwābi hi wa ǧamīʿa mā yuʿrafu la hu wa yunsabu ʾilay hi širà šir:an ṯābit ṣaḥīḥ lā šarṭa fī hi wa lā waʿd:un wa lā rahn:un wa lā wadīʿaẗ:un wa lā ʾatāwà 
+ <lb n="10"/>ʿalà bayʿi ăl ʾislāmi wa ʿuhdati him bi ṯaman:in mablaġu hu mina ăl ʿayni ăl muʿizziyyi ăl wāzini dīnārayni wa niṣf wa rubʿ ʿayn:an ḏahab:an ǧiyād:an wāzinaẗ:an bi ăl ǧadīdi qabaḍa ʾisḥāqu bnu ʾabnīlaha ăl musammà 
+ <lb n="11"/>hāḏā ăṯ ṯamana ăl maḏkūra tāmm:an wāfiyy:an wa ʾabrà ʾabū ăs sariyyi bnu hiliyaha min hu wa min ʿuyūni hi wa wazni hi wa naqdi hi barāʾaẗa qabḍ:in wa ĭstīfāʾ:in wa sallama ʾilay hi ǧamīʿa hāḏihi ăl ḥiṣṣaẗi ăl maḏkūraẗi 
+ <lb n="12"/>min hāḏā ăl manzili ăl maḥdūdi ăl mawṣūfi wa ḥāza hā wa malaka hā wa ṣārat māl:an min māli hi wa milk min milki hi yataḥakkamu fī hi ḥukma ăl ʾarbābi fī ʾamlāki him ʾin šāʾa bāʿa 
+ <lb n="13"/>wa ʾin šāʾa wahaba wa ʾin šāʾa ṣaddaqa wa ʾin šāʾa ʿamara fa matà ʾadraka ʾabū ăs sariyyi bna hiliyaha fī širāʾi hi hāḏā ʾaw fī šayʾ:in min hu daraku ʿulqaẗ:in ʾaw ḫuṣūmaẗu ṭāriʾ:in bi dayn:in ʾaw mustaḥiqq:in bi mīrāṯ:in 
+ <lb n="14"/>min baʿīd:in ʾaw qarīb:in ḥāḍir:in ʾaw ġāʾib:in min sāʾiri ăn nāsi kulli him fa ḫalāṣu ḏālika wa ʾinqāḏu nafāḏu hu wa fikāku hu ʿalà ʾisḥāqa bni ʾabnīlaha min ḫāliṣi māli hi kāʾin:an bi mā kāna wa bāliġ:an mā balaġa wa bi ḏālika 
+ <lb n="15"/>ʾašhada ʿalà nafsi hi fī ṣiḥḥaẗi ʿaqli hi wa badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ:an ġayra mukrah:in wa lā muǧbar:in wa lā muḍṭahad:in ṭayyibaẗ:an bi ḏālika nafsu hu fī šahri rabīʿa ăl ʾawwali sanaẗa tisʿ:in wa ʿišrīna wa ʾarbaʿi miʾaẗ:in 
+ <lb n="16"/>wa ḥiṣṣatu hu mina ăd dāri ăl muʿawwali ăllaḏī šarqiyya hāḏā ăl manzili dāḫil:un fī hāḏā ăš širāʾi wa kataba taʾrīḫa hu ******* min ǧamīʿi hā bi māl:in mablaġu hu mina ăl ʿayni ăl muʿizziyyi ăl wāzini niṣfu rubʿi dīnār:an ʿayn:an ḏahab:an wāzinaẗ:an ǧiyād:an 
+ <lb n="17"/>qabaḍa ǧamīʿa ḏālika wa kataba sulaymānu bnu ʾidrīsa bi ḫaṭṭi hi baʿda mā waqaʿa waqqaʿa ăš šahādaẗa šahādaẗu bi ḥalli himā 
+ <lb n="18"/>šahida nahāru bnu ʾabī ăs sariyyi bni ʿumara 
+ <lb n="19"/>bi ǧamīʿi mā fī hi wa kataba ʿan hu bi ʾamri hi wa maḥḍari hi 
+ <lb n="20"/>šahida sulaymānu bnu ʾidrīsa bni ǧaʿfara ʿalà ʾiqrāri ăl bayyāʿi wa ăl muštarī 
+ <lb n="21"/>bi ǧamīʿi mā nusiba ʾilay himā wa kataba bi ḫaṭṭi hi taʾrīḫa hu ṣaḥḥa 
+ <lb n="22"/>šahida muḥammadu bnu ǧaʿfara ʿalà ʾiqrāri ăn nafari ăl musammawna 
+ <lb n="23"/>bi ǧamīʿi mā fī hi wa kataba ʿan hu bi ʾamri hi wa bi ḫaṭṭi himā fī taʾrīḫi hi 
+ <lb n="24"/>šahida ʿaliyyu bnu ʾibrāhīma wa kataba bi ḫaṭṭi hi 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		In the name of God, the Compassionate, the Merciful.
+			<lb n="2"/>
+		This is what Abuʾs-Sarî b. Helia has bought from Isḥâq b. Abnîle, who both jointly are numbered among the people of the domain known as Bulǧusûq Teres:
+			<lb n="4"/>
+		he has bought from him in one striking (of hands) and one contract the whole of his share and his inheritance from his father Abnîle b. Isḥâq in the region of this village
+			<lb n="5"/>
+		in the tribe of al-Ġassâl, this being the quarter of the whole dwelling house that he has obtained by inheritance from his father Abnîle b. Isḥâq, six shares of twenty-
+			<lb n="6"/>
+		four shares of this dwelling house, and it is enclosed and surrounded by four boundaries. The first boundary of the boundaries of this dwelling house, viz. the southern, extends
+			<lb n="7"/>
+		to the house of the sons of Yanûq, and the second boundary, viz. the northern, extends to the house of al-Ġassâl, with which its door communicates, and the third boundary, viz. the eastern, extends to the dwelling house of Qanǧûš b. Šanûda,
+			<lb n="8"/>
+		and the fourth boundary, viz. the western, extends to the dwelling house of Theodor b. Isḥâq. (He has bought) the whole of his portion and his inheritance to its limit and its boundaries and its entrance and its exit, and (including) what is above and below the surface, and its land
+			<lb n="9"/>
+		and its sky, and its baked bricks and its timbers and its stones and its wooden doors, and all that is known as appertaining and relating to it, (in form of) a right, valid purchase, in which is no condition and no promise and no pledge and no deposit and nothing that can bring about a loss,
+			<lb n="10"/>
+		according to Islamic law of sale and to their (the Muslims) covenant, for a price, which in full weight gold-coins of al-Muʿizz amounts to 2 dînârs and a half and a quarter, gold-coins, good pieces, full weight, according to the new (standard). The aforesaid Isḥâq b. Abnîle has received
+			<lb n="11"/>
+		this (above) mentioned price fully and entirely, and he has given Abuʾs-Sarî b. Helia a quittance for it and for its gold-coins and its weight and ready money by means of a receipt (acknowledging that he has) received and taken (it) over fully, and he has handed over to him all this (above) mentioned share
+			<lb n="12"/>
+		of this dwelling house, defined and described, and he has acquired and taken possession of it and it has become his own property and possession, he having free disposition of it according to the free disposition of (the) proprietors over their property, (so that) if he will, he may sell it,
+			<lb n="13"/>
+		and if he will, he may give it away, and if he will, he may give it as an alms, and if he will, he may dwell in it. But if any evil consequence (vindicatio) with regard to this his purchase or any portion thereof should ensue to Abuʾs-Sarî b. Helia, on the basis of any contention or litigation, (be it) one who suddenly appears with a debt or one who makes a claim on the basis of any inheritance,
+			<lb n="14"/>
+		(be he) far or near, present or absent, of any persons whatever, then the indemnification, execution and redemption therefor are incumbent upon Isḥâq b. Abnîle out of his own means, whatever it might be or amount to, and he has called
+		(be he) far or near, present or absent, of any persons whatever, then the indemnification, recuperation and redemption therefor are incumbent upon Isḥâq b. Abnîle out of his own means, whatever it might be or amount to, and he has called
+			<lb n="15"/>
+		evidence as to his responsibility, he being in a state of sound mind and body and capable of transacting his business, voluntarily, without compulsion and not against his will and not under constraint, of his own good &lt;pleasure&gt;, in the month of Rabîʿ I of the year four hundred and twenty nine.
+			<lb n="16"/>
+		And his share of the shelter which lies easterly of this dwelling house comes within this purchase, and he has written (on) its date ........................ entirely for (a sum of) money, which amounts in full weight gold-coins of al-Muʿizz to a half of a quarter of a dînâr, gold-coins, full weight, good pieces.
+			<lb n="17"/>
+		He has received this entirely, and Sulaimân b. Idrîs has written (it) in his (own) handwriting, after the testimony respecting their being quit of obligation having been given.
+			<lb n="18"/>
+		Nahâr b. Abiʾs-Sarî b. ʿUmar is witness
+			<lb n="19"/>
+		to all that (is contained) herein, and (it) has been written for him at his order and in his presence.
+			<lb n="20"/>
+		Sulaimân b. Idrîs b. Ǧaʿfar is witness to the acknowledgment by the seller and the buyer
+			<lb n="21"/>
+		respecting all that refers to them both, and he has written (it) in his (own) handwriting on its date. Valid.
+			<lb n="22"/>
+		Muḥammad b. Ǧaʿfar is witness to the acknowledgment by the above named persons
+			<lb n="23"/>
+		respecting all that (is contained) herein, and it has been written for him at his order and in his presence on its date. ʿAlî b. Ibrahîm is witness, and he has written (it) in his (own) handwriting.
+</ab></div>
+</body>
+</text>
+</TEI>

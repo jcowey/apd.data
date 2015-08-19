@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="877" xml:id="Guo_Quseir_21_ve" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.QuseirArab. I 21 verso</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Guo_Quseir_21_ve</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">113642</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>   اللّه ونعم الوكيل 
+<lb n="2"/>  الّذي <app type="BL"><lem resp="APD">أعلمه </lem><rdg resp="“AK”">أعلم</rdg></app> <app type="BL"><lem resp="APD">الاح </lem><rdg resp="“AK”">به</rdg></app> العرپر عساكر ادام ألله پڤا<supplied reason="lost" cert="high">ه</supplied> 
+<lb n="3"/>  يا مولاي حامل الكتاب حسين له بيان قد 
+<lb n="4"/>  أوصيته ووكلته على بيع الّذي تم لا <unclear reason="undefined" cert="high">تعوق</unclear> 
+<lb n="5"/>  عنه لا أنت ولا له ومحمّد عطا اللّه يبتا<supplied reason="lost" cert="high">ع</supplied> 
+<lb n="6"/>  بما طعّم اللّه ورزق وإن <app type="BL"><lem resp="APD">انباع </lem><rdg resp="APD">انباع</rdg></app> من المذكو<supplied reason="lost" cert="high">ر</supplied> 
+<lb n="7"/>  شي <app type="BL"><lem resp="APD">تبيعه </lem><rdg resp="APD">نبيعه</rdg></app> وإلّا <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8"/>  في المـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>ḥasb iya ăl lāhu wa niʿma ăl wakīlu 
+ <lb n="2"/>ăllaḏī ʾuʿlimu hu ø ø bi ø hi ăl ʾaḫa ăl ʿazīza ʿasākira ʾadāma ăl lāhu baqāʾa hu 
+ <lb n="3"/>yā mawlā ya ḥāmilu ăl kitābi ḥusayn:un la hu bayān:un qad 
+ <lb n="4"/>ʾawṣaytu hu wa wakaltu hu ʿalà bayʿi ăllaḏī tamma lā taʿūq 
+ <lb n="5"/>ʿan hu lā ʾanta wa lā la hu wa muḥammad:un ʿaṭāʾu ăl lāhi yabtāʿu 
+ <lb n="6"/>bi mā ṭaʿʿama ăl lāhu wa razaqa wa ʾini ĭbtāʿa ĭnbāʿa mina ăl maḏkūri 
+ <lb n="7"/>šayʾ šayʾ:un nabīʿu tabīʿu hu wa ʾillā *** 
+ <lb n="8"/>fī ăl m*** *** 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		My sufficiency is in God; how wonderful a guardian He is!
+			<lb n="2"/>
+		I am writing to inform my dear brother ʿAsākir - may God prolong his life! -
+			<lb n="3"/>
+		Dear Sir: the carrier of this letter, Ḥusayn, has brought with him a bayān-certificate, by which
+			<lb n="4"/>
+		I have advised him and entrusted him to sell what has been [brought over? delivered?] in full measurement. Do not [hold it back from?]
+			<lb n="5"/>
+		him. Don&#039;t do that to him. Muḥammad ʿAṭāʾ Allāh will buy [them],
+			<lb n="6"/>
+		as God so provides and feeds. If he could sell the above-mentioned [goods?],
+			<lb n="7"/>
+		then we will put them on sale; otherwise, [.........],
+			<lb n="8"/>
+		in [..............................].
+</ab></div>
+</body>
+</text>
+</TEI>

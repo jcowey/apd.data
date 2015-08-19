@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1832" xml:id="Prag_910" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 91</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_910</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169569</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  ومن ذلك ما يجب من المووپه عمّا أقامه عبد اللّه الخبّاز في 
+<lb n="recto 2"/>  زقاق السّقّائين عن ستّة وسبعين إردبّا ونصف وثلث ومن <unclear reason="undefined" cert="high">ادى</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  بهذا الحساب 
+<lb n="recto 5 and 4"/>  ومن ذلك ما يجب من المووپه عمّا أ<supplied reason="lost" cert="high">قامه</supplied> نجاح الخبّاز عن أربعة وأربعين إر<supplied reason="lost" cert="high">دبّا</supplied> 
+<lb n="recto 6"/>  <gap reason="illegible" extent="4" unit="character" /> ديوان الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> 
+<lb n="verso 1"/>  <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> علي وأخته إردب 
+<lb n="verso 2"/>  وثلثي إ<supplied reason="lost" cert="high">رد</supplied>ب 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>wa min ḏālika mā yaǧibu mina ăl maʾūnaẗi ʿammā ʾaqāma hu ʿabdu ăl lāhi ăl ḫabbāzu fī 
+ <lb n="2"/>zuqāqi ăs saqqāʾīna ʿan sittaẗ:in wa sabʿīna ʾirdabb:an wa niṣf:in wa ṯulṯ:in wa min ʾdy *** 
+ <lb n="3"/>bi hāḏā ăl ḥisābi 
+ <lb n="5"/>wa min ḏālika mā yaǧibu mina ăl maʾūnaẗi ʿammā ʾaqāma hu naǧāḥu ăl ḫabbāzu ʿan ʾarbaʿaẗ:in wa ʾarbaʿīna ʾirdabb:an 
+ <lb n="6"/>**** dīwān ăl *** **** 
+ <lb n="7"/>*** *** ʿaliyy:un wa ʾuḫtu hu ʾirdabb 
+ <lb n="8"/>wa ṯulṯay ʾirdabb:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Und hierzu gehört, was an Proviant von dem obliegt, was ʿAbdallāh, der Bäcker, geliefert hat in
+			<lb n="2"/>
+		der Wasserträgergasse von sechsundsiebzig einhalb und ein Drittel Artaben und von ..... [
+			<lb n="3"/>
+		in dieser Rechnung
+			<lb n="5"/>
+		Und hierzu gehört, was (4) an Proviant (5) von dem obliegt, was Naǧāḥ, der Bäcker, von vierunddreißig Ar[taben] ge[liefert hat]
+			<lb n="6"/>
+		[...] Dīwān des [...]
+			<lb n="7"/>
+		]... ʿAlī und seine Schwester eine Artabe
+			<lb n="8"/>
+		und zwei Drittel A[rta]ben
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2226" xml:id="Bejarano020" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.BejaranoSevilla II</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Bejarano020</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  عـ<unclear reason="undefined" cert="high">ـد</unclear>و <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>ـين 
+ <lb n="2"/>  و<gap reason="illegible" precision="low" extent="3"/> ومَن حمل معه ومَشَى على الماء لمْ ينمل قدمه كمَا قال صاحبه سيّد أحْمَد الخاضر على 
+ <lb n="3"/>  نبيّنا وعليه الصّلوة والسّلام وهُوَ هذا الدّعَاء المُبَارك 
+ <lb n="4"/>  بسْم اللّٰه الرَّحمن الرَّحيم الحَمْدُ للّٰه الّذي دفع الْبَلاءَ عنَّا الحَمْد للّه الّذي لَمْ يتّخذْ ولدًا ولمْ يَكُن لَهُ شَريكٌ 
+ <lb n="5"/>  في المُلْك ولَمْ <app type="BL"><lem resp="thus on tablet, cf. footnote">يَكي </lem><rdg resp="LS">يكن</rdg></app> لَهُ وَلِيّ من الذّلّ وكَبِّرْه تكبيرًا لا إله <supplied reason="omitted" cert="high">إ</supplied>لّا اللّٰه اللّٰه أكْبَرُ والْحَمْدُ للهِ حَمْدًا كثيرًا حَسْبنا اللّٰهُ 
+ <lb n="6"/>  ونِعْمَ الوَكِيل غُفْرَانكَ رَبّنَا وَإليْكَ الْمَصِيرُ وَلا حَوْلَ وَلَا قُوّة إلّا باللّٰه العَلِيّ العَظيم وصلّى اللّٰه علَى سَيّدِنَا مُحمّد 
+ <lb n="7"/>  وَآله اللّهُمَ يا عَالِم السِّّرّ والنّجوَاى وَيَا كَاشِف الضّرِّ وَالبَلْوَى اِجْعَل لِي منْ أمْر فَرْجًا ومخرَجًا برَحْمَتِكَ يَا أرحَم 
+ <lb n="8"/>  الرّاحمِين إيَّاكَ نَعْبُدُ وَإيَّاك نَسْتَعِينُ اللّهُمّ لَكَ الحَمْدُ وَلَكَ الْمُشْتَكَى وَإليْك تَصِيرُ الْأُمُور فَسَيكْفيكَهُمُ 
+ <lb n="9"/>  اللّه وَهُوَ السَّّمِيعُ الْعَلِيمُ وَصَلّى اللّٰهُ عَلى سَيِّّدِنَا مُحَمَّّدِ وآلِهِ الطَّيِّبينَ الطَّاهِرينَ والحَمْدُ للّٰهِ رَبّ العَالمينَ 
+ <lb n="10"/>  يا اللّٰه يا اللّٰه يا اللّٰه يا رَبّ يا رَبّ يا رَبّ اللّٰه أكبر أَسْئَلك باسْمِك العظِيم أن تَرزقني حلالًا طيّبا وَوَلدًا صٰلحا 
+ <lb n="11"/>  <sic n="superfluous">بحَرْمتك</sic> <supplied reason="omitted" cert="high">برحمتك</supplied> يأرْحَمَ الرّاحِمِينَ اللّهُمَّّ <app type="BL"><lem resp="APD">أشْهَدُ </lem><rdg resp="UB">أنْت</rdg></app> <app type="BL"><lem resp="APD">أن </lem><rdg resp="UB">رَبّي</rdg></app> لا إله إلّا أنْت خَلقْتَني وأنا عَبْدُكَ وَأنا <app type="BL"><lem resp="APD">غَلْو </lem><rdg resp="UB">على</rdg></app> عهدك ووَعْدُك 
+ <lb n="12"/>  ما استطعْتُ أعُوذُ بكَ من شرّ مَا <app type="BL"><lem resp="APD">صنَعْته </lem><rdg resp="UB">صنَعْت</rdg></app> <app type="BL"><lem resp="APD">آيوا </lem><rdg resp="UB">أبُوأ</rdg></app> لك بنعمَتِك علي <app type="BL"><lem resp="APD">وآيو </lem><rdg resp="UB">وأبُوأ</rdg></app> بذنبي فاغْفر لِي <app type="BL"><lem resp="APD">فإنّ </lem><rdg resp="UB">فَإنَّه</rdg></app> لا يَغفرُ 
+ <lb n="13"/>  <unclear reason="undefined" cert="high">الذّنوب</unclear> إلّا أنت برَحْمَتِكَ يأرْحَم الرّاحِمينَ يا ربّ العلمين صَلّى اللّٰهُ عَلى سَيّدِنَا مُحَمّد وَعلى آله سُبْحَانَ 
+ <lb n="14"/>  الوَاحِد القَهّار سُبْحَانَ خالِقِ اللّيْل والنَّهَار سُبحان مَنْ لَيْسَ مِثْلَه شَيْء وهُوَ السّمِيعُ البصيرُ وَصلّى اللّٰه 
+ <lb n="15"/>  على سَيّدنَا مُحَمّدِ وآلهِ وصَحْبهِ وسَلّم تَسْلِيما والحَمد للّٰه ربّ العلمين يا اللّٰه يا اللّٰه يا اللّٰه يا ربّ يا ربّ يا ربّ 
+ <lb n="16"/>  يا حنّان يا منّان بحُرْمَة عُمَر بْن الخَطاب وَعُثمان بن <unclear reason="undefined" cert="high">عفان</unclear> يا علي الأعلى <sic n="superfluous">بحُرمتك</sic> برحمتك على المُرْتضى ارتضني 
+ <lb n="17"/>  هذا الدّنيا والآخرة وتنجيني منَ النّار وَالعظمة يأرحم الرّاحمين اللهُمّ يا مَنْ أقرّ له بالوجودِ كلّ 
+ <lb n="18"/>  مخلُوق وموجود يا مَنْ يفزع إليْه كلّ مَحْدُود يا منْ يطْلُبُه كُلّ مفقود يا من هو دعاؤه لَيْسَ بِبَعِيد يا من 
+ <lb n="19"/>  بابه عن سواه غيْر مَسْدُود يا مَنْ هُوَ غَيْر موْصُوف ولا محدود ويا من هو رجاؤنا وحملنا وعهدنا غير 
+ <lb n="20"/>  مسدود ويا مَن مثلهُ وشبهه غيْر مَوْجُود يا من فضله وكرمُه ليس بمفقُود يا من لا يصاف قيامة 
+ <lb n="21"/>  ولا بمفقُود ولا بحركة ولا بِسُكُون يا اللّٰه يا اللّٰه يا اللّٰه يأرحَمَ الرّاحمِين يا ربّ العلمين يا وَدُود ارْحمنا 
+ <lb n="22"/>  برَحْمَتِك يأرحم الرّاحمِين يا ربّ العالمين وَصلّى اللّٰه على سَيّدنا محمّد خاتم النبيين وإمام 
+ <lb n="23"/>  المرسلِين وصلّى اللّٰه على نبِينا محمّد وعلى آله وصَحْبِه وسَلّم تَسْليما والحَمْدُ للّٰه رَبّ العلمين 
+ <lb n="24"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> انتهت الدعاء المبركة بحمد اللّٰه <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="25"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> وحسْن عوْنه ولا حول ولا قوة إلا باللّٰه العلي <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="26"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> العظِيم <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ <lb n="27"/>  <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> بحمد اللّٰه العـ<gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" extent="1" unit="character" /> 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>ʿaduww *** ***īna 
+ <lb n="2"/>wa *** wa man ḥamala maʿa hu wa mašà ʿalà ăl māʾi lam yanmal qadamu hu kamā qāla ṣāḥibu hu sayyid:un ʾaḥmadu ăl ḫāḍiru ʿalà 
+ <lb n="3"/>nabiyyi nā wa ʿalay hi ăṣ ṣalāẗu wa ăs salāmu wa huwa hāḏā ăd duʿāʾu ăl mubāraku 
+ <lb n="4"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi ăl ḥamdu li l lāhi ăllaḏī dafaʿa ăl balāʾa ʿan nā ăl ḥamdu li l lāhi ăllaḏī lam yattaḫiḏ walad:an wa lam yakun la hu šarīk:un 
+ <lb n="5"/>fī ăl mulki wa lam yakī yakun la hu waliyy:un mina ăḏ ḏulli wa kabbir hu takbīr:an lā ʾilāha ʾillā ăl lāhu ăl lāhu ʾakbaru wa ăl ḥamdu li l lāhi ḥamd:an kaṯīr:an ḥasbu nā ăl lāhu 
+ <lb n="6"/>wa niʿma ăl wakīlu ġufrāna ka rabba nā wa ʾilay ka ăl maṣīru wa lā ḥawla wa lā quwwaẗa ʾillā bi ăl lāhi ăl ʿaliyyi ăl ʿaẓīmi wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in 
+ <lb n="7"/>wa ʾāli hi ăllāhumma yā ʿālima ăs sirri wa ăn naǧwāà wa yā kāšifa ăḍ ḍurri wa ăl balwà ĭǧʿal l ī min ʾamr:in farǧ:an wa maḫraǧ:an bi raḥmati ka yā ʾarḥama 
+ <lb n="8"/>ăr rāḥimīna ʾiyyā ka naʿbudu wa ʾiyyā ka nastaʿīnu ăllāhumma la ka ăl ḥamdu wa la ka ăl muštakà wa ʾilay ka taṣīru ăl ʾumūru fa sa yakfī ka humu 
+ <lb n="9"/>ăl lāhu wa huwa ăs samīʿu ăl ʿalīmu wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʾāli hi ăṭ ṭayyibīna ăṭ ṭāhirīna wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="10"/>yā ăl lāhu yā ăl lāhu yā ăl lāhu yā rabbu yā rabbu yā rabbu ăl lāhu ʾakbaru ʾasʾalu ka bi ĭsmi ka ăl ʿaẓīmi ʾan tarzuqa nī ḥalāl:an ṭayyib:an wa walad:an ṣāliḥ:an 
+ <lb n="11"/>bi raḥmati ka yā ʾarḥama ăr rāḥimīna ăllāhumma ʾašhadu ʾanta ʾan rabb ø ī lā ʾilāha ʾillā ʾanta ḫalaqta nī wa ʾanā ʿabdu ka wa ʾanā ġalwu ʿalà ʿahdi ka wa waʿdu ka 
+ <lb n="12"/>mā ĭstaṭaʿtu ʾaʿūḏu bi ka min šarri mā ṣanaʿtu ṣanaʿtu hu ø ʾāyūŭ ʾabūʾu la ka bi niʿmati ka ʿalay ya wa ʾāyū ʾabūʾu bi ḏanb ī fa ĭġfir l ī fa ʾinna ø hu lā yaġfiru 
+ <lb n="13"/>ăḏ ḏunūba ʾillā ʾanta bi raḥmati ka yā ʾarḥama ăr rāḥimīna yā rabba ăl ʿālamīna ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in wa ʿalà ʾāli hi subḥāna 
+ <lb n="14"/>ăl wāḥidi ăl qahhāri subḥāna ḫāliqi ăl layli wa ăn nahāri subḥāna man laysa miṯla hu šayʾ:un wa huwa ăs samīʿu ăl baṣīru wa ṣallà ăl lāhu 
+ <lb n="15"/>ʿalà sayyidi nā muḥammad:in wa ʾāli hi wa ṣaḥbi hi wa sallama taslīm:an wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna yā ăl lāhu yā ăl lāhu yā ăl lāhu yā rabbu yā rabbu yā rabbu 
+ <lb n="16"/>yā ḥannānu yā mannānu bi ḥurmaẗi ʿumari bni ăl ḫaṭṭābi wa ʿuṯmāna bni ʿaffān:in yā ʿaliyya ăl ʾaʿlà bi raḥmati ka ʿalà ăl murtaḍà ĭrtaḍi nī 
+ <lb n="17"/>hāḏā ăd dunyā wa ăl ʾāḫiraẗa wa tunǧī nī mina ăn nāri wa ăl ʿaẓimaẗi yā ʾarḥama ăr rāḥimīna ăllāhumma yā man ʾaqarra la hu bi ăl wuǧūdi kullu 
+ <lb n="18"/>maḫlūq:in wa mawǧūd:in yā man yafzaʿu ʾilay hi kullu maḥdūd:in yā man yaṭlubu hu kullu mafqūd:in yā man huwa duʿāʾu hu laysa bi baʿīd:in yā man 
+ <lb n="19"/>bābu hu ʿan siwā hu ġayru masdūd:in yā man huwa ġayru mawṣūf:in wa lā maḥdūd:in wa yā man huwa raǧāʾu nā wa ḥamlu nā wa ʿahdu nā ġayru 
+ <lb n="20"/>masdūd:in wa yā man miṯlu hu wa šibhu hu ġayru mawǧūd:in yā man faḍlu hu wa karamu hu laysa bi mafqūd:in yā man lā yuṣāfu qiyāmaẗ:an 
+ <lb n="21"/>wa lā bi mafqūd:in wa lā bi ḥarakaẗ:in wa lā bi sukūn:in yā ăl lāhu yā ăl lāhu yā ăl lāhu yā ʾarḥama ăr rāḥimīna yā rabba ăl ʿālamīna yā wadūdu ĭrḥam nā 
+ <lb n="22"/>bi raḥmati ka yā ʾarḥama ăr rāḥimīna yā rabba ăl ʿālamīna wa ṣallà ăl lāhu ʿalà sayyidi nā muḥammad:in ḫātimi ăn nabiyyīna wa ʾimāmi 
+ <lb n="23"/>ăl mursalīna wa ṣallà ăl lāhu ʿalà nabiyyi nā muḥammad:in wa ʿalà ʾāli hi wa ṣaḥbi hi wa sallama taslīm:an wa ăl ḥamdu li l lāhi rabbi ăl ʿālamīna 
+ <lb n="24"/>* * * ĭntahati ăd duʿāʾu ăl mubārakaẗu bi ḥamdi ăl lāhi * * * 
+ <lb n="25"/>* * * wa ḥusni ʿawni hi wa lā ḥawla wa lā quwwaẗa ʾillā bi ăl lāhi ăl ʿaliyyi * * * 
+ <lb n="26"/>* * * ăl ʿaẓīmi * * * 
+ <lb n="27"/>* * * bi ḥamdi ăl lāhi ăl ʿ*** * * * 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+		 <lb n="2"/>
+ 	  ... y aquel que fue con él y caminó sobre las agues sin torcer los pies como dijo su compañero el señor Aḥmad al-Jāḍir sobre
+		 <lb n="3"/>
+ 	  el Profeta, sobre él sea la oración y la paz, y he aquí esta bendita plegaria.
+		 <lb n="4"/>
+ 	  En el nombre de Dios, Clemente y Misericordiose. Loado sea Dios, que nos protege de la desgracia. Loado sea Dios que no tiene hijo alguno ni tiene ningún asociado
+		 <lb n="5"/>
+ 	  en el poder. No tiene semejante a la hora de protegernos de la ignominia. Proclama la magnificencia de Dios. No hay más dios que Dios, Dios es el más grande. Loado sea Dios con muchas alabanzas. Dios nos recompense y nos conceda beneficios.
+		 <lb n="6"/>
+ 	  Él es digno de confianza, el que te perdona, nuestro Señor, y guía de tu destino. Y no hay más poder ni fuerza que las de Dios, Excelso y Poderoso. Dios bendiga a nuestro señor Muḥammad
+		 <lb n="7"/>
+ 	  y a su familia. ¡Dios mío, oh conocedor de los secretos y las confidencias, el que descubre los males y las desgracias!. Concédeme consuelo y soluciona mis problemas con tu misericordia. ¡Oh el más
+		 <lb n="8"/>
+ 	  misericordioso! A ti adoramos y a ti pedimos ayuda. Dios mío, a ti glorificamos, a ti presentamos nuestras súplicas y en ti ponemos nuestra confianza. Dios
+		 <lb n="9"/>
+ 	  os recompense. Él es el que todo lo oye, el que todo lo sabe, Dios bendiga a nuestro señor Muḥammad, a su familia, a los de buena conducta y a los puros. Loado sea Dios, Señor de los mundos.
+		 <lb n="10"/>
+ 	  ¡Oh Dios, oh Dios, oh Dios! ¡Oh Señor, oh Señor, oh Señor!. Dios es Grande. Te pido, en tu excelso nombre, que me concedas en gracia bienes lícitos y un hijo bueno.
+		 <lb n="11"/>
+ 	  Invoco tu protección, ¡Oh el más misericordioso!. Dios mío, testifico que no hay más Dios salvo tú. Tú me has creado y yo soy tu siervo, [como hombre] soy lo más preciado de tu promesa y pacto.
+		 <lb n="12"/>
+ 	  No pude refugiarme en ti cuando hice el mal. [Ahora] me refugio en ti, [ten] benevolencia conmigo; compadécete de mis pecados, y perdóname pues nadie
+		 <lb n="13"/>
+ 	  salvo tú perdona los pecados. Por tu misericordia, ¡Oh el más misericordioso! ¡Oh, Señor de los mundos! Dios bendiga y salve a nuestro señor Muḥammad y a su familia. Loado sea
+		 <lb n="14"/>
+ 	  el Único, el Todopoderoso. Loado sea el Creador de la noche y el día. Loado sea aquel que no tiene igual, Él es el que todo lo oye, el que todo lo ve. Dios bendiga
+		 <lb n="15"/>
+ 	  a nuestro señor Muḥammad, a su familia y a sus compañeros, y los salve. Loado sea Dios, Señor de los mundos. ¡Oh Dios, oh Dios, oh Dios!, ¡Oh Señor, oh Señor, oh Señor!
+		 <lb n="16"/>
+ 	  ¡Oh misericordioso, oh el más generoso!. Por la integridad de ʿUmar b. al-Jaṭṭāb y de ʿUṯman b. ʿAffān. ¡Oh el más excelso!, por tu misericordia hacia aquel a quien favoreces, favoréceme
+		 <lb n="17"/>
+ 	  en esta vida y an la otra. Y sálvame del fuego del infierno y de terribles desgracias ¡Oh Señor de los Mundos!, ¡Dios mío!, ¡Aquel en quien busca consuelo lo existente, todo
+		 <lb n="18"/>
+ 	  lo creado y lo que tiene vida. ¡Oh aquel en quien se refugia todo lo finito!, ¡Oh aquel a quien busca el que se extravia!, ¡Oh aquel que no está lejos cuando se le implora!, ¡Oh aquel
+		 <lb n="19"/>
+ 	  cuya puerta siempre está abierta!, ¡Oh el único digno de alabanza! ¡Oh aquel que no puede ser descrito ni definido! ¡Oh esperanza, guía y promesa nuestra, el que nunca
+		 <lb n="20"/>
+ 	  se oculta!, ¡Oh aquel que no tiene igual ni semejante!, ¡Oh aquel cuyo favor y generosidad nunca se pierden!, ¡Oh quien no puede ser descrito!, [...] quien no tiene que resuscitar porque no muere,
+		 <lb n="21"/>
+ 	  ¡Oh quien no desaparece, [...] quien no tiene movimiento ni reposo!, ¡Oh Dios mío, Dios mío, Dios mío!, ¡El más misericordioso! ¡Oh Señor de los mundos, el más amado!, concédenos
+		 <lb n="22"/>
+ 	  tu misericordia, ¡Oh el más misericordioso, Señor de los mundos!. Dios bendiga a nuestro señor Muḥammad, sello de los profetas, Imam
+		 <lb n="23"/>
+ 	  los Enviados. Dios bendiga a nuestro profeta Muḥammad, a su familia, a sus compañeros y los salve. Loado sea Dios, Señor de los mundos.
+		 <lb n="24"/>
+ 	  [Aquí] se acaba la plegaria bendita con la alabanza a Dios
+		 <lb n="25"/>
+ 	  y la benevolencia de su ayuda. No hay más poder ni fuerza que la de Dios, el Excelso
+		 <lb n="26"/>
+ 	  el Todopoderoso.
+		 <lb n="27"/>
+ 	  Loado sea Dios, el....
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

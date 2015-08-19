@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1436" xml:id="Grohmann_Berlin_14" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.GrohmannBerlin 14</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_Berlin_14</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169224</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  أقر الشّيخ الخطيب سو المعروف صدقه من القاضي العطقيق أبو العبّاس أحمد 
+<lb n="3"/>  بن عثمان العدل كان الزّوج المسمّى باطنه وأشهدني على نفسه في صحّة بدنه وجواز أمره طائعا 
+<lb n="4"/>  غير مكره ولا مجبر أنّه طلّق زوجته نصيرة ابنة عتيق الزّوج المسمّى باطنه طلقة ثالثة 
+<lb n="5"/>  لصعها لسا سـ<gap reason="illegible" precision="low" extent="3"/> پپطعب پحـ<gap reason="illegible" precision="low" extent="3"/> احرا رحد فلا سبيل له إليها ولا رجعة له 
+<lb n="6"/>  عليها حتّى تنكح زوجا غيره شهد على إقرار المطّلق في صحّة بدنه وجواز أمره 
+<lb n="7"/>  طوعا بمدينة أخميم بتأريخ مستهل ربيع الأوّل سنة تسع وتسعين وخمسمائة شهد على ذلك 
+<lb n="8 center"/>  شهدت على المطّلق بحضرته وكتب 
+<lb n="9 center"/>  عبد الملك بن علي بن الحسين عنه بخطّه 
+<lb n="8 left"/>  شهدت على الزّوج المطّلق 
+<lb n="9 left"/>  بحضرته وكتب عبد الصّمد بن حالم 
+<lb n="10 left"/>  بن <unclear reason="undefined" cert="high">عساكر</unclear> في تأريخه 
+<lb n="9 right"/>  قبض ممّا في باطنه أيضا 
+<lb n="10 right"/>  عشرين درهما 
+<lb n="11 right"/>  قبضت <app type="BL"><lem resp="APD">حلبس </lem><rdg resp="APD">حلڤس</rdg></app> ووكالة 
+<lb n="12 right"/>  عشرة دراهم 
+<lb n="13 right"/>  بحضرت أبو الرّجا بتأريخ 
+<lb n="14 right"/>  محرّم سنة ست وستّماية 
+<lb n="11 right center"/>  قبض ممّا في باطنه بتأريخ 
+<lb n="12 right center"/>  ربيع الأوّل سنة ست وستّمائة 
+<lb n="13 right center"/>  اثنين وعشرين درهما 
+<lb n="11 left"/>  قبض أيضا ممّا في باطنه 
+<lb n="12 left"/>  أربعة دراهم 
+<lb n="13 left"/>  وأيضا ثلثة دراهم 
+<lb n="14 left"/>  ونـ<supplied reason="omitted" cert="high">ـصـ</supplied>ـف 
+<lb n="12 left center"/>  قبضت أخت الحصور ابنت الدّولة 
+<lb n="13 left center"/>  على دفعتين 
+<lb n="14 left center"/>  اثنا عشر درهما 
+<lb n="15 left center"/>  بقبول 
+<lb n="15 left"/>  قبض أيضا ممّا فـ<supplied reason="lost" cert="high">ـي</supplied> باطنه 
+<lb n="7 on fragment b"/>  قبض ممّا في باطنه 
+<lb n="8 on fragment b"/>  من الورق عشرة دراهم 
+<lb n="17 right"/>  وقبض علي بن فضايل البيّاع 
+<lb n="18 right"/>  عشرين درهم 
+<lb n="19 right"/>  بتأريخ المحرّم سنة ست وستّمائة 
+<lb n="16 left center"/>  وقبض بتأريخ عشرين ربيع 
+<lb n="17 left center"/>  الأوّل من سنة خمس وستّمائة 
+<lb n="18 left center"/>  اثنين وعشرين درهما 
+<lb n="20 right center"/>  قبض ممّا في باطن هذا الصّداق 
+<lb n="21 right center"/>  على يدي أبو <app type="BL"><lem resp="The names read here are attested only without article “ed”.">البعير </lem><rdg resp="The names read here are attested only without article “ed”.">النعير </rdg><rdg resp="The names read here are attested only without article “ed”.">النغير </rdg><rdg resp="The names read here are attested only without article “ed”.">البغثر </rdg><rdg resp="The names read here are attested only without article “ed”.">البعثر </rdg><rdg resp="The names read here are attested only without article “ed”.">البعبر</rdg></app> درهما 
+<lb n="22 right center"/>  في دفعتين بتأريخ السّابع 
+<lb n="23 right center"/>  من ربيع الأوّل سنة ثمان وستّمائة 
+<lb n="24 right center"/>  أشهدني <app type="BL"><lem resp="APD">صديق </lem><rdg resp="APD">صديق</rdg></app> بن مكي الوكيل بقبض ذلك 
+<lb n="25 right center"/>  وكتب عنه محمّد بن سليم بن محمّد <unclear reason="undefined" cert="high">بخطّه</unclear> <unclear reason="undefined" cert="high">بتأريخه</unclear> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="23 left center"/>  وقبض ممّا في باطنه إلى 
+<lb n="24 left center"/>  تمام شهور سنة ست وخمسمائة 
+<lb n="25 left center"/>  من الورق سـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="26"/>  قبض بقيّة ممّا بقي في باطن 
+<lb n="27"/>  هذا الكتاب ولم يبقى فيه 
+<lb n="28"/>  حق لطالبه وكتب بتأريخ العاشر 
+<lb n="29"/>  من صفر من شهور سنة ست 
+<lb n="30"/>  عشر وستّمائة 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>ʾaqarra ăš šayḫu ăl ḫaṭību sw ăl maʿrūfu ṣidqu hu mina ăl qāḍī ăl ʿaqīqi ʾabū ăl ʿabbāsi ʾaḥmada 
+ <lb n="3"/>bni ʿuṯmāna ăl ʿadli kāna ăz zawǧa ăl musammà bāṭina hi wa ʾašhada nī ʿalà nafsi hi fī ṣiḥḥaẗi badani hi wa ǧawāzi ʾamri hi ṭāʾiʿ:an 
+ <lb n="4"/>ġayra mukrah:in wa lā muǧbar ʾanna hu ṭallaqa zawǧata hu naṣiraẗa nuṣayraẗa ĭbnaẗa ʿatīq:ini ʿutayq:ini ăz zawǧu ăl musammà bāṭina hu ṭalqaẗ:an ṯāliṯaẗ:an 
+ <lb n="5"/>lʿṣhʾ lsʾ s*** BBṭʿb Bḥ*** ʾḥrʾ rḥd fa lā sabīla la hu ʾilay hā wa lā raǧʿaẗa la hu 
+ <lb n="6"/>ʿalay hā ḥattà tankiḥa zawǧ:an ġayra hu šahida ʿalà ʾiqrāri ăl muṭṭaliqi fī ṣiḥḥaẗi badani hi wa ǧawāzi ʾamri hi 
+ <lb n="7"/>ṭawʿ:an bi madīnaẗi ʾaḫmīma bi taʾrīḫi mustahalli rabīʿa ăl ʾawwali sanaẗa tisʿ:in wa tisʿīna wa ḫamsi miʾaẗ:in šahida ʿalà ḏālika 
+ <lb n="8"/>šahidtu ʿalà ăl muṭṭaliqi bi ḥaḍrati hi wa kataba 
+ <lb n="9"/>ʿabdu ăl maliki bnu ʿaliyyi bni ăl ḥusayni ʿan hu bi ḫaṭṭi hi 
+ <lb n="10"/>šahidtu ʿalà ăz zawǧi ăl muṭṭaliqi 
+ <lb n="11"/>bi ḥaḍrati hi wa kataba ʿabdu ăṣ ṣamadi bnu ḥālimi 
+ <lb n="12"/>bni ʿasākira fī taʾrīḫi hi 
+ <lb n="13"/>qabaḍa mimmā fī bāṭini hi ʾayḍ:an 
+ <lb n="14"/>ʿišrīna dirham:an 
+ <lb n="15"/>qabaḍat ḥlbs ḥlFs wa wakālaẗ:an 
+ <lb n="16"/>ʿašaraẗa darāhima 
+ <lb n="17"/>bi ḥaḍrati ʾabū ăr riǧā bi taʾrīḫi 
+ <lb n="18"/>muḥarram:in sanaẗa sitt:in wa sitti miyaẗ:in 
+ <lb n="19"/>qabaḍa mimmā fī bāṭini hi bi taʾrīḫi 
+ <lb n="20"/>rabīʿa ăl ʾawwali sanaẗa sitt:in wa sitti miʾaẗ:in 
+ <lb n="21"/>ĭṯnayni wa ʿišrīna dirham:an 
+ <lb n="22"/>qabaḍa ʾayḍ:an mimmā fī bāṭini hi 
+ <lb n="23"/>ʾarbaʿaẗa darāhima 
+ <lb n="24"/>wa ʾayḍ:an ṯalāṯaẗa darāhima 
+ <lb n="25"/>wa niṣf 
+ <lb n="26"/>qabaḍat ʾuḫtu ăl ḥaṣūri ĭbnatu ăd dawlaẗi 
+ <lb n="27"/>ʿalà dafʿatayni 
+ <lb n="28"/>ĭṯnā ʿašara dirham:an 
+ <lb n="29"/>bi qubūl:in 
+ <lb n="30"/>qabaḍa ʾayḍ:an mimmā fī bāṭini hi 
+ <lb n="31"/>qabaḍa mimmā fī bāṭini hi 
+ <lb n="32"/>mina ăl waraqi ʿašaraẗa darāhima 
+ <lb n="33"/>wa qabaḍa ʿaliyyu bnu faḍāyila ăl bayyāʿu 
+ <lb n="34"/>ʿišrīna dirham 
+ <lb n="35"/>bi taʾrīḫi ăl muḥarrami sanaẗa sitt:in wa sitti miʾaẗ:in 
+ <lb n="36"/>wa qabaḍa bi taʾrīḫi ʿišrīna rabīʿa 
+ <lb n="37"/>ăl ʾawwali min sanaẗi ḫams:in wa sitti miʾaẗ:in 
+ <lb n="38"/>ĭṯnayni wa ʿišrīna dirham:an 
+ <lb n="39"/>qabaḍa mimmā fī bāṭini hāḏā ăṣ ṣadāqi 
+ <lb n="40"/>ʿalà yaday ʾabū ăl ăn baʿṯari baġṯari baʿīri bʿbr buġṯuri nuʿayri nuġayri dirham:an 
+ <lb n="41"/>fī dafʿatayni bi taʾrīḫi ăs sābiʿi 
+ <lb n="42"/>min rabīʿa ăl ʾawwali sanaẗa ṯamān:in wa sitti miʾaẗ:in 
+ <lb n="43"/>ʾašhada nī ṣiddīqu ṣudayqu bnu makiyy:ini ăl wakīlu bi qabḍi ḏālika 
+ <lb n="44"/>wa kataba ʿan hu muḥammadu bnu salīmi sulaymi bni muḥammad:in bi ḫaṭṭi hi bi taʾrīḫi hi *** 
+ <lb n="45"/>wa qabaḍa mimmā fī bāṭini hi ʾilà 
+ <lb n="46"/>tamāmi šuhūri sanaẗi sitt:in wa ḫamsi miʾaẗ:in 
+ <lb n="47"/>mina ăl waraqi s*** 
+ <lb n="48"/>qabaḍa baqiyyaẗa mimmā baqiya fī bāṭini 
+ <lb n="49"/>hāḏā ăl kitābi wa lam yabqà fī hi 
+ <lb n="50"/>ḥaqq:un li ṭālibi hi wa kutiba bi taʾrīḫi ăl ʿāširi 
+ <lb n="51"/>min ṣafar:in min šuhūri sanaẗi sitta 
+ <lb n="52"/>ʿašara wa sitti miʾaẗ:in 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes des Barmherzigen, Gütigen!
+			<lb n="2"/>
+		Anerkannt hat der Šēḫ, der Brautwerber, dessen Aufrichtigkeit bekannt ist, von Seiten des Richters al-ʿAqīq Abuʾl-ʿAbbās Aḥmad
+			<lb n="3"/>
+		b. ʿOṯmān des ehemaligen Notars, (der) der im Inneren (der Urkunde) genannte Gatte ist, und hat mich zu seinen Lasten bezeugen lassen im Stande (voller) Gesundheit seines Körpers und (im Zustande) der Geschäftsfähigkeit, freiwillig
+			<lb n="4"/>
+		nicht gezwungen und nicht genötigt, daß der im Inneren (der Urkunde) genannte Gatte verstoßen hat seine Frau Nuṣaira, Tochter des ʿAtīq zum dritten Male
+			<lb n="5"/>
+		..... so steht ihm kein Weg zu ihr frei noch ist ihm eine Zurücknahme (des Ṭalāq)
+			<lb n="6"/>
+		ihr gegenüber möglich, bis sie einen anderen Gatten geehelicht hat. Bezeugt hat das Anerkenntnis des die Scheidung im Stande (voller) Gesundheit seines Körpers und (im Zustande) der Geschäftsfähigkeit (freiwillig aussprechenden) in der Stadt Aḫmīm
+			<lb n="7"/>
+		am ersten Rabīʿ I des Jahres fünfhundertundneunundneunzig: Zeuge ist:
+			<lb n="8"/>
+		Ich bin Zeuge für den die Scheidung Aussprechenden in seiner Gegenwart und geschrieben hat (es)
+			<lb n="9"/>
+		ʿAbd al-Malik b. ʿAlī b. al-Ḥusain an seiner Statt mit seinem Schriftzuge
+			<lb n="10"/>
+		Ich bin Zeuge für den die Scheidung aussprechenden Gatten
+			<lb n="11"/>
+		in seiner Gegenwart und geschrieben hat (es) ʿAbd aṣ-Ṣamad b. Ḥālim
+			<lb n="12"/>
+		b. ʿAsākir (?) am gegenwärtigen Datum
+			<lb n="13"/>
+		Er hat erhalten von dem, was in seinem (des Vertrags) Innern (steht) noch
+			<lb n="14"/>
+		zwanzig Dirham.
+			<lb n="15"/>
+		Erhalten hat Ḥ....... und Vollmacht
+			<lb n="16"/>
+		zehn Dirham
+			<lb n="17"/>
+		in Gegenwart des Abu ʾr-Riǧā im
+			<lb n="18"/>
+		Muḥarram des Jahres sechshundertsechs.
+			<lb n="19"/>
+		Erhalten hat von dem, was in seinem (des Vertrags) Innern (steht) im
+			<lb n="20"/>
+		Rabīʿ I des Jahres sechshundertsechs
+			<lb n="21"/>
+		zweiundzwanzig Dirham.
+			<lb n="22"/>
+		Erhalten hat er ferner von dem, was in seinem (des Vertrags) Innern (steht)
+			<lb n="23"/>
+		vier Dirham
+			<lb n="24"/>
+		und weiters drei Dirham
+			<lb n="25"/>
+		und einen halben.
+			<lb n="26"/>
+		Erhalten hat die Schwester des al-Ḥaṣūr, Tochter des ad-Daula
+			<lb n="27"/>
+		in zwei Teilzahlungen
+			<lb n="28"/>
+		zwölf Dirham,
+			<lb n="29"/>
+		in Annahme (des Angebots).
+			<lb n="30"/>
+		Erhalten hat er ferner von dem was i[n] seinem (des Vertrags) Innern (steht) (Betrag und Datum fehlt)
+			<lb n="31"/>
+		Er hat erhalten von dem, was in seinem (des Vertrags) Innern (steht)
+			<lb n="32"/>
+		an Silbergeld zehn Dirham.
+			<lb n="33"/>
+		Und es hat erhalten ʿAlī b. Faḍaʾil, der Kaufmann,
+			<lb n="34"/>
+		zwanzig Dirham
+			<lb n="35"/>
+		im Muḥarram des Jahres sechshundertsechs.
+			<lb n="36"/>
+		Und es hat erhalten am zwanzigsten Rabīʿ
+			<lb n="37"/>
+		I des Jahres sechshundertfünf
+			<lb n="38"/>
+		zweiundzwanzig Dirham.
+			<lb n="39"/>
+		Er hat erhalten von dem, was im Inneren dieses Brautgabe-(vertrages steht)
+			<lb n="40"/>
+		duch Abuʾl-Baʿīr einen Dirham
+			<lb n="41"/>
+		in zwei Teilzahlungen am siebenten
+			<lb n="42"/>
+		des Rabīʿ I des Jahres sechshundertacht.
+			<lb n="43"/>
+		Es hat mich bezeugen lassen Ṣiddīq b. Makī, der Bevollmächtigte, den Empfang
+			<lb n="44"/>
+		dieses und es schrieb an seiner statt Muḥammad b. Sulaim b. Muḥammad am ........... mit seinem Schriftzuge.
+			<lb n="45"/>
+		Und er hat erhalten von dem, was in seinem (des Vertrages) Innern (steht) bis
+			<lb n="46"/>
+		Ende der Monate des Jahres sechshundertsechs
+			<lb n="47"/>
+		an Silbergeld s[......... Dirham].
+			<lb n="48"/>
+		Er hat erhalten den Rest dessen, was ausstand im Inneren
+			<lb n="49"/>
+		dieser Urkunde und nicht ist darin verblieben
+			<lb n="50"/>
+		irgend ein Anspruch zu Gunsten eines, (der) ihn geltend machen könnte, und man schrieb (es) am zehnten
+			<lb n="51"/>
+		vom Ṣafar von den Monaten des Jahres sechshundert
+			<lb n="52"/>
+		und sechzehn.
+</ab></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2313" xml:id="Diem_Heid_III_37" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Heid.Arab. III 37</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_Heid_III_37</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  <gap reason="illegible" precision="low" extent="3"/> اللّه الكافی 
+ <lb n="2"/>  المملوك عبد الحق يقبّل الأرض وينهی 
+ <lb n="3"/>  أن أهل كتامة حضروا إلی عند المملوك 
+ <lb n="4"/>  في دميرة بسبب طلب محضر الحدود والحجّة 
+ <lb n="5"/>  الشّرعيّة علی أهل منية سنقر والمولا أبقاه اللّه 
+ <lb n="6"/>  يسير مملوكه نصر اللّه يحضر التّعليق <supplied reason="omitted" cert="high">و</supplied>يأخذ 
+ <lb n="7"/>  لهم المحضر والحجّة ولا يسلّمها المولا إلّا 
+ <lb n="8"/>  لعبد الكريم بن طرّاح ويشهد عليه بإحضارها 
+ <lb n="9"/>  ولا يسلّمهم المولا لأحد غيره والسّلام 
+ <lb n="10"/>  وتوصّي نصر اللّه علی الطّاحون والفرس 
+ <lb n="11"/>  الشّقرا وأتم السّلام 
+ <lb n="verso 1"/>  مجلس القاضي الأجل الأخص المحترم المخدوم جـ<supplied reason="lost" cert="high">ـمال</supplied> الدّيـ<supplied reason="lost" cert="high">ـن</supplied> 
+ <lb n="verso 2"/>  أعلا اللّه <unclear reason="undefined" cert="high">شأ</unclear><supplied reason="lost" cert="high">نـ</supplied><unclear reason="undefined" cert="high">ـه</unclear> <supplied reason="lost" cert="high">و</supplied>أجرا <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="1" unit="character" />ه 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>*** ăl lāhu ăl kāfī 
+ <lb n="2"/>ăl mamlūku ʿabdu ăl ḥaqqi yuqabbilu ăl ʾarḍa wa yunhī 
+ <lb n="3"/>ʾanna ʾahla kutāmaẗa ḥaḍarū ʾilà ʿinda ăl mamlūki 
+ <lb n="4"/>fī damīraẗa bi sababi ṭalabi maḥḍari ăl ḥudūdi wa ăl ḥuǧǧaẗi 
+ <lb n="5"/>ăš šarʿiyyaẗi ʿalà ʾahli minyaẗi sunqura wa ăl mawlā ʾabqā hu ăl lāhu 
+ <lb n="6"/>yusayyiru mamlūka hu naṣra ăl lāhi yuḥḍiru ăt taʿlīqa wa yaʾḫuḏu 
+ <lb n="7"/>la humu ăl maḥḍara wa ăl ḥuǧǧaẗa wa lā yusallimu hā ăl mawlā ʾillā 
+ <lb n="8"/>li ʿabdi ăl karīmi bni ṭarrāḥ:in wa yušhadu ʿalay hi bi ʾiḥḍāri hā 
+ <lb n="9"/>wa lā yusallimu humu ăl mawlā li ʾaḥad:in ġayri hi wa ăs salāmu 
+ <lb n="10"/>wa tuwaṣṣī naṣra ăl lāhi ʿalà ăṭ ṭāḥūni wa ăl farasi 
+ <lb n="11"/>ăš šaqrāʾi wa ʾatammu ăs salāmi 
+ <lb n="12"/>maǧlisu ăl qāḍī ăl ʾaǧalli ăl ʾaḫaṣṣi ăl muḥtarami ăl maḫdūmi ǧamāli ăd dīni 
+ <lb n="13"/>ʾaʿlā ăl lāhu šaʾna hu wa ʾaǧrā *** *** * *h h ø 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  ... Gott ist derjenige, der genügt!
+		 <lb n="2"/>
+ 	  Der Sklave ʿAbd al-Ḥaqq küßt den Boden und tut kund,
+		 <lb n="3"/>
+ 	  daß die Bewohner von Kutāmah sich beim Sklaven
+		 <lb n="4"/>
+ 	  in Damīrah wegen der Bitte um das Grenzprotokoll und die
+		 <lb n="5"/>
+ 	  rechtskonforme Beweisurkunde zu Lasten der Bewohner von Minyat Sunqur eingefunden haben. Der Patron - Gott lasse ihn lange leben -
+		 <lb n="6"/>
+ 	  möge seinen Sklaven Naṣr Allāh senden, damit jener die Erläuterung überbringe (und)
+		 <lb n="7"/>
+ 	  ihnen das Protokoll und die Beweisurkunde verschaffe. Der Patron möge sie nur
+		 <lb n="8"/>
+ 	  ʿAbd al-Karīm ibn Ṭarrāḥ aushändigen und gegen ihn eine Bezeugung über deren Ablieferung durchführen lassen,
+		 <lb n="9"/>
+ 	  und der Patron möge sie keinem anderen als ihm aushändigen. Gruß!
+		 <lb n="10"/>
+ 	  Und beauftrage Naṣr Allāh damit, sich um die Mühle und
+		 <lb n="11"/>
+ 	  die fuchsrote Stute zu kümmern. Vollkommensten Gruß!
+		 <lb n="12"/>
+ 	  Die Exzellenz des gebietenden, verehrten, ganz besonderen, hochangesehenen Richters Ǧa[māl] ad-Dī[n]
+		 <lb n="13"/>
+ 	  - Gott erhöhe seine Sache (?) und lasse verlaufen ...!
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

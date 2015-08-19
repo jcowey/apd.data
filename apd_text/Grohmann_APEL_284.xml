@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2038" xml:id="Grohmann_APEL_284" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Cair.Arab. 284</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Grohmann_APEL_284</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM"></idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بقي تلا عـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> 
+<lb n="2"/>  ÷ <gap reason="illegible" extent="1" unit="character" /> بوح پن عپد العرپر 
+<lb n="3"/>  ÷ 
+<lb n="4"/>  ÷ <gap reason="illegible" extent="1" unit="character" /> مهبد پمعرقه مڤپان 
+<lb n="5"/>  ÷÷ <gap reason="illegible" extent="1" unit="character" /> مسلمه بن پهلول الراعى مپحما 
+<lb n="6"/>  ÷÷ حمدون بن ربيعة والداكل <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="7"/>  ÷ الحسين بن إبرهيم الرّاعي شنود<supplied reason="lost" cert="high">ة</supplied> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="8 right margin"/>  هرون البلّان ÷ 
+<lb n="9 right margin"/>  عبد العزيز بن فرج ÷ 
+<lb n="10 right margin"/>  الدّهّان ÷÷ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>baqiya talā ʿ*** 
+ <lb n="2"/>30 nūḥu bnu ʿabdi ăl ʿazīzi *** 
+ <lb n="3"/>8 
+ <lb n="4"/>30 muhannad:un bi maʿrifaẗi miqyān:in B*** 
+ <lb n="5"/>23 maslamaẗu bnu bahlūla ăr rāʿī munaǧǧam:an *** 
+ <lb n="6"/>22 ḥamdūnu bnu rabīʿaẗa wa ăd dākilu *** 
+ <lb n="7"/>30 ăl ḥusaynu bnu ʾibrāhīma ăr rāʿī šanūdaẗu *** 
+ <lb n="8"/>hārūnu ăl ballānu 1/6 
+ <lb n="9"/>ʿabdu ăl ʿazīzi bnu faraǧ:in 1/4 
+ <lb n="10"/>ăd dahhānu 1/2+1/8 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Arrear  Talâ  ......[
+			<lb n="2"/>
+		30 Nûḥ b. ʿAbd al-ʿAzîz [
+			<lb n="3"/>
+		8 [
+			<lb n="4"/>
+		30 Muhannad with the knowledge of Miqyân ...[
+			<lb n="5"/>
+		Maslama b. Bahlûl, the shepherd, in instalments[
+			<lb n="6"/>
+		22 Ḥamdûn b. Rabîʿa and ad-Dâkil [
+			<lb n="7"/>
+		al-Ḥusain b. Ibrâhîm, the shepherd, Šanûd[a
+			<lb n="8"/>
+		Harûn, the bath-attendant, 1/6
+			<lb n="9"/>
+		ʿAbd al-ʿAzîz b. Faraǧ, 1/4
+			<lb n="10"/>
+		oil-merchant, 1/2+1/8
+</ab></div>
+</body>
+</text>
+</TEI>

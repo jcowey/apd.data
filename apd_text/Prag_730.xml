@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1767" xml:id="Prag_730" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>P.Prag.Arab. 73</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Prag_730</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169508</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="recto 1"/>  بسم اللّه الـ<supplied reason="lost" cert="high">ـرّحـ</supplied>ـمن <supplied reason="lost" cert="high">الـ</supplied>ـرّحيم <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 2"/>  ثبت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 3"/>  الأ<supplied reason="lost" cert="high">سـ</supplied>ـما الا<supplied reason="lost" cert="high">ثـ</supplied>ـنين الثّلثا الأربعا <supplied reason="lost" cert="high">الخميس</supplied> 
+<lb n="recto 4"/>  صالح <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 5"/>  يحنّس بن مقارة <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 6"/>  يحنّس <app type="BL"><lem resp="APD"><unclear reason="undefined" cert="high">البدرمونيّ</unclear> </lem><rdg resp="APD">الپدپپوپي </rdg><rdg resp="APD">الپدپپوس</rdg></app> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 7"/>  ثبت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 8"/>  الأسما الاثنين الثّلثا الأربعا <supplied reason="lost" cert="high">الخميس</supplied> 
+<lb n="recto 9"/>  ‮صالح ‮α ‮β ‮<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 10"/>  ‮يحنّس بن مقارة ‮<gap reason="illegible" extent="2" unit="character" /> ‮‪‪<supplied reason="lost" cert="high">‬κ‪</supplied>‬<unclear reason="undefined" cert="high">β</unclear>‬ ‮<gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" extent="2" unit="character" /> 
+<lb n="recto 11"/>  ثبت 
+<lb n="recto 12"/>  ‮يحنّس عن ‮α ثبت <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="recto 13"/>  ثبت <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="recto 14"/>  الأسما الاثنين الثّلثا الأربعا الخـ<supplied reason="lost" cert="high">ـميس</supplied> 
+<lb n="recto 15"/>  ‮يحنّس ‮<gap reason="illegible" extent="2" unit="character" /> ‮<unclear reason="undefined" cert="high">β</unclear> <gap reason="illegible" precision="low" extent="3"/>‬‬‬ 
+<lb n="recto 16"/>  ‮صالح ‮<gap reason="illegible" extent="2" unit="character" /> ‮‮<unclear reason="undefined" cert="high">β</unclear> <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/>‬‬‬‬ 
+<lb n="recto 17"/>  ‮<supplied reason="lost" cert="high">غـ</supplied>ـالب ‮<gap reason="illegible" extent="2" unit="character" /> ‮α <gap reason="illegible" precision="low" extent="3"/>‬‬‬ 
+<lb n="verso 1"/>  الكتّان المقبوض <gap reason="illegible" extent="2" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 2"/>  ‮يحنّس بن الحلّاق ‮‪κε‬ <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="verso 3"/>  ε 
+<lb n="verso 4"/>  ‮يحنّس بن مقارة <app type="BL"><lem resp="APD">‮μ </lem><rdg resp="‫Diem‬">‮‪γʹ‬</rdg></app> <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="verso 5"/>  ‮عن ζ‬ 
+<lb n="verso 6"/>  ‮صالح ‮‪ιδ‬ <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="verso 7"/>  <app type="BL"><lem resp="APD">δ </lem><rdg resp="Diem"><gap reason="illegible" precision="low" extent="3"/></rdg></app> 
+<lb n="verso 8"/>  ‮بيب جرجة ‮الـ<supplied reason="lost" cert="high">ـ</supplied><gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/>‬‬ 
+<lb n="verso 9"/>  ‮<unclear reason="undefined" cert="high">مجيد</unclear> <unclear reason="undefined" cert="high">‮α</unclear> <unclear reason="undefined" cert="high">ما</unclear> للشّعير <app type="BL"><lem resp="APD">‮‪ηʹ‬ </lem><rdg resp="‫Diem‬">‮ε</rdg></app> <gap reason="illegible" precision="low" extent="3"/>‬‬‬ 
+<lb n="verso 10"/>  البـ<supplied reason="lost" cert="high">ـزر</supplied> 
+<lb n="verso 11"/>  الّذي قبضه البنّا مـ<supplied reason="lost" cert="high">ـن</supplied> 
+<lb n="verso 12"/>  يحنّس بن الحلّاق <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 13"/>  غالـ<supplied reason="lost" cert="high">ـب</supplied> <gap reason="illegible" extent="1" unit="character" /> <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso 14"/>  علـ<supplied reason="lost" cert="high">ـى</supplied> يد أنينة الأجير يحنّس <supplied reason="lost" cert="high">بن</supplied> <supplied reason="lost" cert="high">مقارة</supplied> 
+<lb n="verso 15"/>  ‮عن ‮‪αΧ‬ عن ‮‪δʹ‬ <gap reason="illegible" precision="low" extent="3"/>‬‬‬ 
+<lb n="verso 16"/>  ببيج <gap reason="illegible" precision="low" extent="3"/> 
+<lb n="verso right margin"/>  ‮البزر الّذي عند البنّا β‬ 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi *** 
+ <lb n="2"/>ṯabat:un *** 
+ <lb n="3"/>ăl ʾasmāʾu ăli ĭṯnayni ăṯ ṯulāṯāʾa ăl ʾarbaʿāʾa ăl ḫamīsa 
+ <lb n="4"/>ṣāliḥ:un ** ** ** ** 
+ <lb n="5"/>yuḥannisu bnu maqāraẗa ** ** ** ** 
+ <lb n="6"/>yuḥannisu ăl badramūniyyu BdBBwBy BdBBws ** ** ** ** 
+ <lb n="7"/>ṯabat:un *** 
+ <lb n="8"/>ăl ʾasmāʾu ăli ĭṯnayni ăṯ ṯulāṯāʾa ăl ʾarbaʿāʾa ăl ḫamīsa 
+ <lb n="9"/>ṣāliḥ:un 1 2 ** ** 
+ <lb n="10"/>yuḥannisu bnu maqāraẗa ** 22 ** ** 
+ <lb n="11"/>ṯabat:un 
+ <lb n="12"/>yuḥannisu ʿan 1 ṯabata *** 
+ <lb n="13"/>ṯabat:un *** 
+ <lb n="14"/>ăl ʾasmāʾu ăli ĭṯnayni ăṯ ṯulāṯāʾa ăl ʾarbaʿāʾa ăl ḫamīsa 
+ <lb n="15"/>yuḥannisu ** 2 *** 
+ <lb n="16"/>ṣāliḥ:un ** 2 ** *** 
+ <lb n="17"/>ġālib:un ** 1 *** 
+ <lb n="18"/>ăl kattānu ăl maqbūḍu ** *** 
+ <lb n="19"/>yuḥannisu bnu ăl ḥallāqi 25 *** 
+ <lb n="20"/>5 
+ <lb n="21"/>yuḥannisu bnu maqāraẗa 40 1/3 *** 
+ <lb n="22"/>ʿan 7 
+ <lb n="23"/>ṣāliḥ:un 14 *** 
+ <lb n="24"/>4 *** 
+ <lb n="25"/>bību ǧirǧaẗa ăl *** *** 
+ <lb n="26"/>muǧayd:un 1 mā li š šaʿīri 1/8 5 *** 
+ <lb n="27"/>ăl bizru 
+ <lb n="28"/>ăllaḏī qabaḍa hu ăl bannāʾu min 
+ <lb n="29"/>yuḥannisa bni ăl ḥallāqi *** 
+ <lb n="30"/>ġālib:un * *** 
+ <lb n="31"/>ʿalà yadi ʾanīnaẗa ăl ʾaǧīri yuḥannisu bnu maqāraẗa 
+ <lb n="32"/>ʿan 1+1/2 ʿan 1/4 *** 
+ <lb n="33"/>babīǧu *** 
+ <lb n="34"/>ăl bizru ăllaḏī ʿinda ăl bannāʾi 2 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des [Barm]herzigen, Gütigen!
+			<lb n="2"/>
+		Liste.
+			<lb n="3"/>
+		Die Na[m]en Mo[n]tag Dienstag Mittwoch [Donnerstag]
+			<lb n="4"/>
+		Ṣāliḥ // // // [//]
+			<lb n="5"/>
+		Yoḥannes b. Maqāre // // [// //]
+			<lb n="6"/>
+		Yoḥannes aus al-Badramūn (?) // // [// //]
+			<lb n="7"/>
+		Liste [...]
+			<lb n="8"/>
+		Die Namen Montag Dienstag Mittwoch [Donnerstag]
+			<lb n="9"/>
+		Ṣāliḥ 1 2 // [...]
+			<lb n="10"/>
+		Yoḥannes b. Maqāre // [2]2(?) // [...]
+			<lb n="11"/>
+		Liste
+			<lb n="12"/>
+		Yoḥannes zu 1 festgestell[t (?) ]
+			<lb n="13"/>
+		Liste
+			<lb n="14"/>
+		Die Namen Montag Dienstag Mittwoch Do[nnerstag]
+			<lb n="15"/>
+		Yoḥannes  [//] [...]
+			<lb n="16"/>
+		Ṣāliḥ // 2[...] // [...]
+			<lb n="17"/>
+		[Ġ]ālib [..] // 1 [...]
+			<lb n="18"/>
+		Der übernommene Flachs.. [...]
+			<lb n="19"/>
+		Yoḥannes, Sohn des Barbiers, [2]5 [...]
+			<lb n="20"/>
+		5 [...]
+			<lb n="21"/>
+		Yoḥannes b. Maqāre 40 [...]
+			<lb n="22"/>
+		zu 7 [...]
+			<lb n="23"/>
+		Bīb Ǧirǧe, der [...]
+			<lb n="24"/>
+		4
+			<lb n="25"/>
+		Bīb Ǧirǧe, der [...]
+			<lb n="26"/>
+		Muǧaid 1, was für Gerste (ist) 1/8 [...]
+			<lb n="27"/>
+		das Saat[gut, ]
+			<lb n="28"/>
+		das der Baumeister vo[n ]
+			<lb n="29"/>
+		Yoḥannes, Sohn des Barbiers, übernommen hat [...]
+			<lb n="30"/>
+		Ġāli[b] [...]
+			<lb n="31"/>
+		Durch Anīne, den Taglöhner, Yoḥannes [Maqāre ]
+			<lb n="32"/>
+		zu 1 1/2 zu 1/4 [...]
+			<lb n="33"/>
+		Babī[ǧ ]
+			<lb n="34"/>
+		Das Saatgut, das beim Baumeister (ist) 2
+</ab></div>
+</body>
+</text>
+</TEI>

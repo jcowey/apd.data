@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1271" xml:id="Khan_Khalili_I_9_a" xml:lang="en">
+   <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title>P.Khalili I 09.1-5 (= P.Khalili II 97)</title>
+</titleStmt>
+         <publicationStmt>
+              <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Khan_Khalili_I_9_a</idno>
+              <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+              <idno type="HGV"></idno>
+             <idno type="TM">169096</idno>
+              <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+           <sourceDesc>
+             <p/>
+          </sourceDesc>
+ </fileDesc>
+    </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+ <lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+ <lb n="2"/>  براه لعبد <supplied reason="lost" cert="high">اللّه</supplied> بن <app type="BL"><lem resp="APD">حنان </lem><rdg resp="APD">جيّان </rdg><rdg resp="APD">جنان </rdg><rdg resp="APD">حيّان </rdg><rdg resp="APD">حبّان </rdg><rdg resp="APD">حيار </rdg><rdg resp="APD">حبّار</rdg></app> من ثلثة عشر <app type="BL"><lem resp="APD">لبان </lem><rdg resp="Diem">لؤلؤ</rdg></app> سليمن بن <app type="BL"><lem resp="APD">كلب </lem><rdg resp="Diem">عطيّة</rdg></app> 
+ <lb n="3"/>  العلوي وهي الـ<supplied reason="lost" cert="high">ـلّبان</supplied> الّتي حمل بها جرير بن نمير لسليمن بن عطيّة 
+ <lb n="4"/>  شهد <app type="BL"><lem resp="APD">شبّر </lem><rdg resp="APD">شبّر</rdg></app> بن <gap reason="illegible" precision="low" extent="3"/><supplied reason="lost" cert="high">ـ</supplied>ـم ومسلم بن أبي إيلة وعبد الرحمن بن أبي 
+ <lb n="5"/>  إيلة وكيليه وكتب يوم السّبت سنة أربع ومائة 
+ </ab></div>
+          <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>barāʾaẗ:un li ʿabdi ăl lāhi bni ḥabbān:in ḥanāna ḥayyān:in ǧayyān:in ḥibbāna ǧinān:in ḥubbāna ḥabbār:in ḥiyār:in min ṯalāṯaẗa ʿašara libāna luʾluʾa sulaymāna bni kalb:ini ʿaṭiyyaẗa 
+ <lb n="3"/>ăl ʿalawiyyi wa hiya ăl libānu ăllatī ḥamala bi hā ǧarīru bnu numayr:in li sulaymāna bni ʿaṭiyyaẗa 
+ <lb n="4"/>šahida šabbaru šabru šibru bnu ***m wa muslimu bnu ʾabī ʾīlaẗa wa ʿabdu ăl raḥmāni bnu ʾabī 
+ <lb n="5"/>ʾīlaẗa wakīlay hi wa kutiba yawma ăs sabti sanaẗa ʾarbaʿ:in wa miʾaẗ:in 
+   </ab></div>
+ <div type="translation"><ab>
+		 <lb n="1"/>
+ 	  In the name of God the merciful and compassionate.
+		 <lb n="2"/>
+ 	  ... for the thirteen pearls of ...
+ 	  (This is) a quittance for ʿAbdallāh ibn Ḥanān for the thirteen milch-ewes of Sulaimān ibn Kalb
+ 	  (This is) a quittance for ʿAbdallah ibn Hanan for the 13 milch-ewes that were brought by Jarir ibn Numayr ibn Kalb
+		 <lb n="3"/>
+ 	  al-ʿAlawi - they are the milch-ewes that were brought by Jarir ibn Numayr for Sulayman ibn ʿAtiyyah.
+ 	  al-ʿAlawī, they being the [milch-ewes] which were brought by Jarīr ibn Numayr for Sulaymān ibn ʿAṭiyya.
+ 	  uns zwar sind sie die [...], für welche Ǧarīr b. Numayr bei Sulaimān b. ʿAṭīya gebürgt hatte
+		 <lb n="4"/>
+ 	  It was witnessed by Šabr ibn [   ] ... and Muslim ibn Abī ʾĪla and ʿAbd al-Raḥmān ibn Abī
+ 	  Shabr ibn ..., Muslim ibn Abu Ila and ʿAbd al-Rahman ibn Abu
+		 <lb n="5"/>
+ 	  ʾĪla, hist two agents. It was written on Saturday in the year one hundred and four.
+ 	  Ila, his two agents, were witnesses, and it was writen on Saturday in the year 104.
+ </ab></div>
+ </body>
+ </text>
+ </TEI>

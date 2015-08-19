@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1193" xml:id="Diem_CPR_16_29" xml:lang="en">
+   <teiHeader>
+       <fileDesc>
+          <titleStmt>
+            <title>CPR XVI 29</title>
+</titleStmt>
+         <publicationStmt>
+             <authority>The Arabic Papyrology Database</authority>
+             <idno type="filename">Diem_CPR_16_29</idno>
+             <idno type="ddb-perseus-style"></idno>
+             <idno type="ddb-hybrid"></idno>
+             <idno type="HGV"></idno>
+             <idno type="TM">169031</idno>
+             <availability>
+                <p>© The Arabic Papyrology Database. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+            <p/>
+         </sourceDesc>
+ </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="edition"><ab>
+<lb n="1"/>  بسم اللّه الرّحمن الرّحيم 
+<lb n="2"/>  كتبت جعلني اللّه فداك عن حال <supplied reason="lost" cert="high">سلامة</supplied> <gap reason="illegible" extent="7" unit="character" /> 
+<lb n="3"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">أخـ</supplied>ـبرك من شغلي قدّر اللّه لنا الخيرة <app type="BL"><lem resp="APD">أوّلا </lem><rdg resp="APD">أولا</rdg></app> ولك الأجر والدّين 
+<lb n="4"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">إنّي</supplied> <supplied reason="lost" cert="high">ببـ</supplied>ـيتك مغتم وخروجك إلى النّاحية ممّا يعمّرها ونتفرّح <supplied reason="omitted" cert="high">به</supplied> وأرجوا 
+<lb n="5"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">يجعل</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">لـ</supplied>ـك غيره لأنّه ضرب بالنّار وحمل أبوابه كلّها وليس يتهيّأ لك 
+<lb n="6"/>  <supplied reason="lost" cert="high">أن</supplied> <supplied reason="lost" cert="high">تقيم</supplied> <supplied reason="lost" cert="high">فيه</supplied> <app type="BL"><lem resp="APD"><supplied reason="lost" cert="high">فأ</supplied>خدمك </lem><rdg resp="APD">فاضيّفك</rdg></app> وتقيم عندي إذ كنت أسر بذلك إن شا اللّه 
+<lb n="7"/>  <supplied reason="lost" cert="high">وأمّا</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" extent="4" unit="character" /> فأسل <supplied reason="omitted" cert="high">اللّه</supplied> أن يخير له وأن يصلح به وعلى يديه وقد كتبت إليه 
+<lb n="8"/>  <supplied reason="lost" cert="high">كتاب</supplied> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">تـ</supplied>ـأخّر فأحب أن تأمر بإيصاله إليه وتأخذ جوابه وتنفذه 
+<lb n="9"/>  <supplied reason="lost" cert="high">إلى</supplied> <supplied reason="lost" cert="high">ما</supplied> <supplied reason="lost" cert="high">قبلي</supplied> <supplied reason="lost" cert="high">فإني</supplied> أسر بذلك فعلت إن شا اللّه قرأت على أبي محمّد عبد اللّه 
+<lb n="10"/>  <supplied reason="lost" cert="high">بن</supplied> <gap reason="illegible" precision="low" extent="3"/> <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">السّـ</supplied>ـلم كثيرا وإن كان أبو القاسم عبد الرّحمن بن إدريس وأبو زكريا 
+<lb n="11"/>  <gap reason="illegible" precision="low" extent="3"/> <supplied reason="lost" cert="high">لهمـ</supplied>ـا قبلي حاجة كتبا <app type="BL"><lem resp="APD">إلى </lem><rdg resp="APD">إليّ</rdg></app> <app type="BL"><lem resp="APD"><gap reason="illegible" extent="5" unit="character" /> </lem><rdg resp="APD">في </rdg><rdg resp="APD">لا</rdg></app> <app type="BL"><lem resp="APD">محـبّونهما </lem><rdg resp="APD">محبوبهما</rdg></app> <supplied reason="lost" cert="high">إ</supplied>ن <supplied reason="lost" cert="high">شـ</supplied>ـا اللّه 
+<lb n="12"/>  <supplied reason="lost" cert="high">جعلني</supplied> <supplied reason="lost" cert="high">اللّه</supplied> <supplied reason="lost" cert="high">من</supplied> كل سو فداك وأ<supplied reason="lost" cert="high">طا</supplied>ل بقاك 
+<lb n="13"/>  حسبنا اللّه ونعم الوكيل 
+</ab></div>
+         <div type="edition"><ab>
+ <lb n="1"/>bi smi ăl lāhi ăr raḥmāni ăr raḥīmi 
+ <lb n="2"/>katabtu ǧaʿala nī ăl lāhu fidāʾa ka ʿan ḥāli salāmaẗ:in ******* 
+ <lb n="3"/>*** ʾuḫbiru ka min šuġl ī qaddara ăl lāhu la nā ăl ḫayraẗa ʾawlā ʾawwal:an wa la ka ăl ʾaǧra wa ăd dīna 
+ <lb n="4"/>*** ʾin nī bi bayti ka muġtamm:un wa ḫurūǧu ka ʾilà ăn nāḥiyaẗi mimmā yuʿammiru hā wa natafarraḥu bi hi wa ʾarǧū 
+ <lb n="5"/>ʾan yaǧʿala ăl lāhu la ka ġayra hu liʾanna hu ḍuriba bi ăn nāri wa ḥumila ʾabwābu hu kullu hā wa laysa yatahayyaʾu la ka 
+ <lb n="6"/>ʾan tuqīma fī hi fa ʾaḫdumu ʾuḍayyifu ka wa tuqīmu ʿind ī ʾiḏ kuntu ʾusarru bi ḏālika ʾin šāʾa ăl lāhu 
+ <lb n="7"/>wa ʾammā *** *** **** fa ʾasalu ăl lāha ʾan yaḫīra la hu wa ʾan yuṣliḥa bi hi wa ʿalà yaday hi wa qad katabtu ʾilay hi 
+ <lb n="8"/>kitāb *** taʾaḫḫara fa ʾuḥibbu ʾan taʾmura bi ʾīṣāli hi ʾilay hi wa taʾḫuḏa ǧawāba hu wa tunfiḏa hu 
+ <lb n="9"/>ʾilà mā qibal ī fa ʾin nī ʾusarru bi ḏālika faʿalta ʾin šāʾa ăl lāhu qaraʾtu ʿalà ʾabī muḥammad:in ʿabdi ăl lāhi 
+ <lb n="10"/>bni *** *** ăs salāma kaṯīr:an wa ʾin kāna ʾabū ăl qāsimi ʿabdu ăr raḥmāni bnu ʾidrīsa wa ʾabū zakariyyāʾa 
+ <lb n="11"/>*** la humā qibal ī ḥāǧaẗ:un katabā ʾilà ʾilay ø ya ***** fī lā maḥbūbu muḥibbūna humā ʾin šāʾa ăl lāhu 
+ <lb n="12"/>ǧaʿala nī ăl lāhu min kulli sūʾ:in fidāʾa ka wa ʾaṭāla baqāʾa ka 
+ <lb n="13"/>ḥasbu nā ăl lāhu wa niʿma ăl wakīlu 
+  </ab></div>
+<div type="translation"><ab>
+			<lb n="1"/>
+		Im Namen Gottes, des Barmherzigen und Gnädigen!
+			<lb n="2"/>
+		Ich schreibe an Dich - möge Gott mich zu Deinem Lösegeld machen -, während ich bei [Gesundheit bin - Lob sei]
+			<lb n="3"/>
+		[Gott -, um] Dir als eine Angelegenheit, die mich bekümmert, mitzuteilen - Gott bestimme für uns zuerst Gnade und für Dich Lohn und Entgelt
+			<lb n="4"/>
+		[... daß ich wegen] Deines Hauses (?) betrübt bin; aber daß Du in unsere Gegend kommen wirst, wird sie gedeihen lassen, und wir freuen uns darüber. Ich hoffe,
+			<lb n="5"/>
+		[daß Gott] Dir ein anderes (sc. Haus) [geben wird], denn es hat Feuer gefangen, alle Türen sind weggeschleppt worden, und es ist Dir nicht möglich,
+			<lb n="6"/>
+		[darin zu wohnen. Deshalb] werde ich zu Deinen Diensten stehen (?) und wirst Du bei mir wohnen, denn ich würde mich darüber freuen, so Gott will.
+			<lb n="7"/>
+		[Was N.N. ... betrifft], so bitte ich Gott, er möge ihm gnädig sein und durch ihn und durch seine Hand Gutes tun. Ich hatte ihm
+			<lb n="8"/>
+		[einen Brief] geschrieben [...], der liegengeblieben ist. Deshalb möchte ich, gern, daß Du ihn ihm feundlicherweise zustellst, die Antwort entgegennimmst und sie
+			<lb n="9"/>
+		[mir] übersendest, [denn ich] würde mich darüber freuen - sei so gut, so Gott will. Ich grüße Abū Muḥammad ʿAbd Allāh
+			<lb n="10"/>
+		[ibn ...] vielmals. Wenn Abū l-Qāsim ʿAbdarraḥmān b. Idrīs und Abū Zakarīyā&#039;
+			<lb n="11"/>
+		[...] mir gegenüber ein Anliegen haben (?), schreiben sie an - - -, so Gott will.
+			<lb n="12"/>
+		[Gott mache mich zu Deinem Lösegeld], das Dich von allem Bösen errettet und lasse Dich lange leben!
+			<lb n="13"/>
+		Gott ist unser Genüge, er ist der beste Sachwalter.
+</ab></div>
+</body>
+</text>
+</TEI>
